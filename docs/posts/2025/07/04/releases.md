@@ -22,6 +22,8 @@ Genre: Modern Classic, Trip-Hop, Ambient
 
 Genre: Jungle, Breakbeat, Dark Drum & Bass
 
+<!-- more -->
+
 ## Haruka Nakamura - Catching the Stars of the Summer
 
 Genre: Soundtrack, Cinematic Soundscapes
