@@ -2,6 +2,8 @@
 date: 2026-02-13
 pin: false
 draft: false
+categories:
+  - Releases
 authors:
   - vuellosoph
 ---

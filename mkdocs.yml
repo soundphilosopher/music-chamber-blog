@@ -47,6 +47,13 @@ plugins:
       scripts:
         - scripts/generators/current_recap_list.py
   - optimize
+  - rss:
+      use_git: false
+      match_path: posts/.*
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
   - search
   - tags
   - mkdocstrings:
@@ -83,5 +90,6 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 hooks:
-  - scripts/hooks/mark_top_picks.py
   - scripts/hooks/image_src_with_site_url.py
+  - scripts/hooks/mark_top_picks.py
+  - scripts/hooks/generate_bandcamp_player.py

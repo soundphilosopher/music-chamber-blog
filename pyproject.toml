@@ -15,6 +15,7 @@ dependencies = [
     "mkdocs-literate-nav",
     "mkdocs-section-index",
     "mkdocs-material[imaging]",
+    "mkdocs-rss-plugin",
     "beautifulsoup4"
 ]
 

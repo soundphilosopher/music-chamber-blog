@@ -2,6 +2,8 @@
 date: 2025-05-16
 pin: false
 draft: false
+categories:
+  - Releases
 authors:
   - vuellosoph
 ---
