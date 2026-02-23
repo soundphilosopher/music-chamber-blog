@@ -1,6 +1,7 @@
 site_name: 🎵🎵🎵 Music Chamber 🎵🎵🎵
 site_description: Blog, release lists, top lists and and and.. Everything we discuss in our music chamber sessions,
 site_author: Carsten Vuellings
+site_url: https://soundphilosopher.github.io/music-chamber-blog/
 
 repo_name: music-chamber-blog
 repo_url: https://github.com/soundphilosopher/music-chamber-blog
@@ -83,3 +84,4 @@ markdown_extensions:
 
 hooks:
   - scripts/hooks/mark_top_picks.py
+  - scripts/hooks/image_src_with_site_url.py

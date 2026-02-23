@@ -10,105 +10,105 @@ authors:
 
 <div class="grid cards" align="center" markdown>
 
--   ![Turnstile - Never Enough](../../../assets/images/TurnstileNeverEnough.png){ .top-list-image }
+-   ![Turnstile - Never Enough](site:assets/images/TurnstileNeverEnough.png){ .top-list-image }
 
     ## 1. Turnstile - Never Enough
 
--   ![Benjamin Booker - Lover](../../../assets/images/BenjaminBookerLover.jpeg){ .top-list-image }
+-   ![Benjamin Booker - Lover](site:assets/images/BenjaminBookerLover.jpeg){ .top-list-image }
 
     ## 2. Benjamin Booker - Lover
 
 <!-- more -->
 
--   ![Miley Cyrus - Something Beautiful](../../../assets/images/MileyCyrusSomethingBeautiful.jpeg){ .top-list-image }
+-   ![Miley Cyrus - Something Beautiful](site:assets/images/MileyCyrusSomethingBeautiful.jpeg){ .top-list-image }
 
     ## 3. Miley Cyrus - Something Beautiful
 
--   ![Pothamus - Abur](../../../assets/images/PothamusAbur.jpeg){ .top-list-image }
+-   ![Pothamus - Abur](site:assets/images/PothamusAbur.jpeg){ .top-list-image }
 
     ## 4. Pothamus - Abur
 
--   ![Messa - The Spin](../../../assets/images/MessaTheSpin.jpeg){ .top-list-image }
+-   ![Messa - The Spin](site:assets/images/MessaTheSpin.jpeg){ .top-list-image }
 
     ## 5. Messa - The Spin
 
--   ![Anna von Hausswolff - Iconoclasts](../../../assets/images/AnnavonHausswolffIconoclasts.jpeg){ .top-list-image }
+-   ![Anna von Hausswolff - Iconoclasts](site:assets/images/AnnavonHausswolffIconoclasts.jpeg){ .top-list-image }
 
     ## 6. Anna von Hausswolff - Iconoclasts
 
--   ![The Callous Daoboys - I don't want to see you in Heaven](../../../assets/images/TheCallousDaoboysIdontwanttoseeyouinHeaven.jpeg){ .top-list-image }
+-   ![The Callous Daoboys - I don't want to see you in Heaven](site:assets/images/TheCallousDaoboysIdontwanttoseeyouinHeaven.jpeg){ .top-list-image }
 
     ## 7. The Callous Daoboys - I don't want to see you in Heaven
 
--   ![Between The Buried And Me - The Blue Nowhere](../../../assets/images/BetweenTheBuriedAndMeTheBlueNowhere.jpeg){ .top-list-image }
+-   ![Between The Buried And Me - The Blue Nowhere](site:assets/images/BetweenTheBuriedAndMeTheBlueNowhere.jpeg){ .top-list-image }
 
     ## 8. Between The Buried And Me - The Blue Nowhere
 
--   ![Deadguy - Near Death Travel Service](../../../assets/images/DeadguyNearDeathTravelService.jpeg){ .top-list-image }
+-   ![Deadguy - Near Death Travel Service](site:assets/images/DeadguyNearDeathTravelService.jpeg){ .top-list-image }
 
     ## 9. Deadguy - Near Death Travel Service
 
--   ![Tallah - Primeval Obsession // Detachment](../../../assets/images/TallahPrimevalObsessionDetachment.jpeg){ .top-list-image }
+-   ![Tallah - Primeval Obsession // Detachment](site:assets/images/TallahPrimevalObsessionDetachment.jpeg){ .top-list-image }
 
     ## 10. Tallah - Primeval Obsession // Detachment
 
--   ![Spiritbox - Tsunami Sea](../../../assets/images/SpiritboxTsunamiSea.jpeg){ .top-list-image }
+-   ![Spiritbox - Tsunami Sea](site:assets/images/SpiritboxTsunamiSea.jpeg){ .top-list-image }
 
     ## 11. Spiritbox - Tsunami Sea
 
--   ![Arcade Fire - Pink Elephant](../../../assets/images/ArcadeFirePinkElephant.jpeg){ .top-list-image }
+-   ![Arcade Fire - Pink Elephant](site:assets/images/ArcadeFirePinkElephant.jpeg){ .top-list-image }
 
     ## 12. Arcade Fire - Pink Elephant
 
--   ![Abigail Williams - A Void within Existence](../../../assets/images/AbigailWilliamsAVoidwithinExistence.jpeg){ .top-list-image }
+-   ![Abigail Williams - A Void within Existence](site:assets/images/AbigailWilliamsAVoidwithinExistence.jpeg){ .top-list-image }
 
     ## 13. Abigail Williams - A Void within Existence
 
--   ![Ill Considered - Balm](../../../assets/images/IllConsideredBalm.jpeg){ .top-list-image }
+-   ![Ill Considered - Balm](site:assets/images/IllConsideredBalm.jpeg){ .top-list-image }
 
     ## 14. Ill Considered - Balm
 
--   ![Ethel Cain - Willoughby Tucker, I'll always Love you](../../../assets/images/EthelCainWilloughbyTuckerIllalwaysLoveyou.png){ .top-list-image }
+-   ![Ethel Cain - Willoughby Tucker, I'll always Love you](site:assets/images/EthelCainWilloughbyTuckerIllalwaysLoveyou.png){ .top-list-image }
 
     ## 15. Ethel Cain - Willoughby Tucker, I'll always Love you
 
--   ![Imperial Triumphant - Goldstar](../../../assets/images/ImperialTriumphantGoldstar.jpeg){ .top-list-image }
+-   ![Imperial Triumphant - Goldstar](site:assets/images/ImperialTriumphantGoldstar.jpeg){ .top-list-image }
 
     ## 16. Imperial Triumphant - Goldstar
 
--   ![Rivers of Nihil - Rivers of Nihil](../../../assets/images/RiversofNihilRiversofNihil.jpeg){ .top-list-image }
+-   ![Rivers of Nihil - Rivers of Nihil](site:assets/images/RiversofNihilRiversofNihil.jpeg){ .top-list-image }
 
     ## 17. Rivers of Nihil - Rivers of Nihil
 
--   ![Astronoid - Stargod](../../../assets/images/AstronoidStargod.jpeg){ .top-list-image }
+-   ![Astronoid - Stargod](site:assets/images/AstronoidStargod.jpeg){ .top-list-image }
 
     ## 18. Astronoid - Stargod
 
--   ![Glöbia - X-ÆON](../../../assets/images/GlbiaXON.jpeg){ .top-list-image }
+-   ![Glöbia - X-ÆON](site:assets/images/GlbiaXON.jpeg){ .top-list-image }
 
     ## 19. Glöbia - X-ÆON
 
--   ![God Alone - The Beep Test](../../../assets/images/GodAloneTheBeepTest.jpeg){ .top-list-image }
+-   ![God Alone - The Beep Test](site:assets/images/GodAloneTheBeepTest.jpeg){ .top-list-image }
 
     ## 20. God Alone - The Beep Test
 
--   ![Coroner - Dissonance Theory](../../../assets/images/CoronerDissonanceTheory.jpeg){ .top-list-image }
+-   ![Coroner - Dissonance Theory](site:assets/images/CoronerDissonanceTheory.jpeg){ .top-list-image }
 
     ## 21. Coroner - Dissonance Theory
 
--   ![Marta - Out the Way](../../../assets/images/MartaOuttheWay.jpeg){ .top-list-image }
+-   ![Marta - Out the Way](site:assets/images/MartaOuttheWay.jpeg){ .top-list-image }
 
     ## 22. Marta - Out the Way
 
--   ![Pateka - Pateka](../../../assets/images/PatekaPateka.jpeg){ .top-list-image }
+-   ![Pateka - Pateka](site:assets/images/PatekaPateka.jpeg){ .top-list-image }
 
     ## 23. Pateka - Pateka
 
--   ![After Nations - Surface|Essence](../../../assets/images/AfterNationsSurfaceEssence.jpeg){ .top-list-image }
+-   ![After Nations - Surface|Essence](site:assets/images/AfterNationsSurfaceEssence.jpeg){ .top-list-image }
 
     ## 24. After Nations - Surface|Essence
 
--   ![Benthos - From Nothing](../../../assets/images/BenthosFromNothing.jpeg){ .top-list-image }
+-   ![Benthos - From Nothing](site:assets/images/BenthosFromNothing.jpeg){ .top-list-image }
 
     ## 25. Benthos - From Nothing
 
