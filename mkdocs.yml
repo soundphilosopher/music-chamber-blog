@@ -92,3 +92,4 @@ markdown_extensions:
 hooks:
   - scripts/hooks/image_src_with_site_url.py
   - scripts/hooks/mark_top_picks.py
+  - scripts/hooks/generate_bandcamp_player.py

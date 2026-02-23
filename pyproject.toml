@@ -16,7 +16,8 @@ dependencies = [
     "mkdocs-section-index",
     "mkdocs-material[imaging]",
     "mkdocs-rss-plugin",
-    "beautifulsoup4"
+    "beautifulsoup4",
+    "curl-cffi"
 ]
 
 [tool.pyright]
