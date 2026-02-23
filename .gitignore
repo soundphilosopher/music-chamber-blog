@@ -1,0 +1,7 @@
+# python artifacts
+**/__pycache__
+**/*.egg-info
+
+# mkdocs
+/site
+/.cache

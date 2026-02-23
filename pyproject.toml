@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "music-chamber"
+version = "0.1.0"
+description = "Static content generator for music chamber sessions"
+requires-python = ">=3.14"
+dependencies = [
+    "mkdocs",
+    "mkdocs-material",
+    "mkdocstrings[python]",
+    "mkdocs-gen-files",
+    "mkdocs-literate-nav",
+    "mkdocs-section-index",
+    "mkdocs-material[imaging]",
+    "beautifulsoup4"
+]
+
+[tool.pyright]
+exclude = ["**/node_modules", "**/__pycache__", "**/dist", "**/build"]

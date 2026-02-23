@@ -1,0 +1,82 @@
+site_name: 🎵🎵🎵 Music Chamber 🎵🎵🎵
+site_description: Blog, release lists, top lists and and and.. Everything we discuss in our music chamber sessions,
+site_author: Carsten Vuellings
+
+extra_css:
+  - assets/append.css
+  - assets/override.css
+
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - scheme: default
+      primary: deep orange
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep orange
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.indexes
+    - search.highlight
+    - search.share
+    - content.action.edit
+    - content.action.view
+    - content.code.copy
+
+plugins:
+  - blog:
+      blog_dir: .
+      post_date_format: full
+      post_url_date_format: yyyy/MM/dd
+      draft: false
+      draft_on_serve: true
+      draft_if_future_date: true
+  - gen-files:
+      scripts:
+        - scripts/generators/current_recap_list.py
+  - optimize
+  - search
+  - tags
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            docstring_style: google
+            show_root_heading: true
+            show_source: true
+            show_root_full_path: false
+            show_object_full_path: false
+            show_category_heading: true
+            heading_level: 2
+            ignore_init_summary: true
+            separate_signature: true
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.mark
+  - pymdownx.keys
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+hooks:
+  - scripts/hooks/mark_top_picks.py
