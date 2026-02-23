@@ -7,7 +7,7 @@ from markdown.extensions.toc import slugify
 BANDCAMP_SEARCH_URL = "https://bandcamp.com/api/fuzzysearch/2/app_autocomplete"
 
 
-def bandcamp_search(query: str) -> list[dict]:
+def _bandcamp_search(query: str) -> list[dict]:
     """Search Bandcamp's fuzzy-search API and return a list of result dicts."""
     response = requests.get(
         BANDCAMP_SEARCH_URL,
@@ -37,7 +37,7 @@ def on_page_content(html, page, config, files):
                 search_query = slugify(child, " ")
 
                 try:
-                    results = bandcamp_search(search_query)
+                    results = _bandcamp_search(search_query)
 
                     if results == []:
                         continue
@@ -46,14 +46,15 @@ def on_page_content(html, page, config, files):
                     album_url = results[0]["url"]
 
                     if description:
+                        div = soup.new_tag("div")
                         iframe = soup.new_tag("iframe", attrs={"style": "border: 0; width: 100%; height: 42px;", "src": f"https://bandcamp.com/EmbeddedPlayer/album={album_id}/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/", "seamless": ""})
                         a_tag = soup.new_tag("a", attrs={"href": album_url}, text=child)
                         iframe.append(a_tag)
+                        div.append(iframe)
 
-                        description.append(soup.new_tag("br"))
-                        description.append(soup.new_tag("br"))
-                        description.append(iframe)
+                        description.insert_after(div)
                 except requests.RequestsError as e:
                     print(f"DEBUG: Error occurred while searching: {e}")
+                    continue
 
     return str(soup)
