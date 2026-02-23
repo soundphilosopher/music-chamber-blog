@@ -2,6 +2,9 @@ site_name: 🎵🎵🎵 Music Chamber 🎵🎵🎵
 site_description: Blog, release lists, top lists and and and.. Everything we discuss in our music chamber sessions,
 site_author: Carsten Vuellings
 
+repo_name: music-chamber-blog
+repo_url: https://github.com/soundphilosopher/music-chamber-blog
+
 extra_css:
   - assets/append.css
   - assets/override.css

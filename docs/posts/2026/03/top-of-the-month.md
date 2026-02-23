@@ -1,5 +1,6 @@
 ---
 date: 2026-04-04
+pin: false
 draft: true
 authors:
   - vuellosoph
