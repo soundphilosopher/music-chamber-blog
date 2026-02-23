@@ -14,7 +14,7 @@ processiog_data = {}
 current_date = datetime.datetime.now()
 current_month = current_date.strftime("%B")
 
-for release_list_path in glob("docs/**/*releases.md", recursive=True):
+for release_list_path in glob("docs/**/releases.md", recursive=True):
     mkdocs_release_list_path = os.path.relpath(release_list_path, "docs")
 
     with mkdocs_gen_files.open(mkdocs_release_list_path, "r") as f:
