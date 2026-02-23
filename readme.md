@@ -17,6 +17,7 @@ Built with [MkDocs Material](https://squidfund.github.io/mkdocs-material/) and p
 | 📊 **Monthly Top Lists** | The best of each month, complete with album artwork in a beautiful grid layout |
 | 🏆 **Yearly Top 25** | The cream of the crop — a ranked year-end list with cover art |
 | 💎 **Top 25 Lifetime** | The all-time hall of fame. Beatles to Portishead. Wire to N.W.A. No genre left behind. |
+| 📡 **RSS Feed** | Subscribe to the blog via RSS and never miss a release |
 
 ---
 
@@ -36,6 +37,18 @@ A custom [MkDocs hook](scripts/hooks/mark_top_picks.py) powered by BeautifulSoup
 ### Auto-Generated Recaps 🤖
 
 A [generator script](scripts/generators/current_recap_list.py) crawls all the weekly release lists, collects every starred entry, and automatically produces monthly recap pages — grouped by month, linked back to the original review. Write your reviews, sprinkle some stars, and the recaps build themselves.
+
+### Image Source Rewriting 🖼️
+
+A [hook](scripts/hooks/image_src_with_site_url.py) rewrites image sources that use the `site:` prefix, replacing them with the absolute site URL at build time. This keeps image paths portable in Markdown while ensuring they resolve correctly in blog excerpts and the full rendered site.
+
+### Bandcamp Player Embedding 🎶 (inactive)
+
+A [hook](scripts/hooks/generate_bandcamp_player.py) searches Bandcamp's API for album matches and automatically embeds inline Bandcamp players beneath release descriptions. Powered by `curl-cffi` for browser-grade requests.
+
+### RSS Feed 📡
+
+The [mkdocs-rss-plugin](https://guts.github.io/mkdocs-rss-plugin/) generates an RSS feed from all posts, so readers can subscribe and get updates whenever new release lists or top picks are published. Post creation dates are pulled from front-matter metadata, and categories are included in the feed.
 
 ---
 
@@ -87,6 +100,7 @@ Custom CSS handles the special card styling for top picks and tweaks admonition 
 ```
 music-chamber/
 ├── docs/
+│   ├── .authors.yml                    # Blog author metadata
 │   ├── index.md                        # Blog landing page
 │   ├── assets/
 │   │   ├── images/                     # Album artwork for top lists
@@ -94,20 +108,29 @@ music-chamber/
 │   │   └── override.css                # Admonition tweaks
 │   └── posts/
 │       ├── 2025/
-│       │   ├── 04/25releases.md        # Weekly release lists
-│       │   ├── 05/02releases.md
+│       │   ├── 04/25/releases.md       # Weekly release lists
+│       │   ├── 05/02/releases.md
 │       │   ├── ...
-│       │   └── 12/top-25-lifetime.md   # All-time Top 25
+│       │   └── 12/                     # top-25-lifetime, etc.
 │       └── 2026/
 │           ├── 01/
-│           │   ├── 09releases.md
+│           │   ├── 09/releases.md
+│           │   ├── 16/releases.md
+│           │   ├── ...
 │           │   ├── top-25-recap-2025.md
 │           │   └── top-of-the-month.md
-│           └── ...
+│           ├── 02/
+│           │   ├── 06/releases.md
+│           │   ├── ...
+│           │   └── top-of-the-month.md
+│           └── 03/
+│               └── top-of-the-month.md
 ├── scripts/
 │   ├── generators/
 │   │   └── current_recap_list.py       # Auto-generates monthly recaps
 │   ├── hooks/
+│   │   ├── generate_bandcamp_player.py # Embeds Bandcamp players for releases
+│   │   ├── image_src_with_site_url.py  # Rewrites site:-prefixed image sources
 │   │   └── mark_top_picks.py           # Transforms starred entries into cards
 │   └── setup_docs.sh                   # One-command setup
 ├── mkdocs.yml                          # Site configuration
