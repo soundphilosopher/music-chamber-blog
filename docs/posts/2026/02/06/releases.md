@@ -210,7 +210,7 @@ Die griechische Formation mit ihrem neuesten Longplayer. Eine Komposition des Gr
 
 Die Amerikaner mit ihrem Debüt Longplayer. Modern Metalcore, welcher mit einer Portion Nu-Metal und Post-Hardcore zu einer Art melodischen aber nicht progressiven Bogen zu Nu-Metalcore interpretiert werden kann. Abwechslungsreiches Songwriting, welches mehr eine straighte Form annimmt am Ende. Alles wurde in eine elegante Produktion verpackt.
 
-::genre::Modern Metalcore, Nu Metal, Post Harcore, Nu Metalcore
+::genre::Modern Metalcore, Nu Metal, Post Hardcore, Nu Metalcore
 
 ## Giuliano Poles - Apatheia
 
