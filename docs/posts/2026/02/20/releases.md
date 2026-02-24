@@ -46,7 +46,7 @@ Das Projekt um den deutschen Producer und Multi-Instrumentalisten Sascha Ring mi
 
 ## Atlas – Sunder
 
-Die Finnen sind wieder da mit neuem Material. Modern Metal, welcher mit Elementen des Nu-Gaze gekreuzt wird. Ihnen selber wurde der Begriff “Northcore” mal zugewiesen, um die kalte Impression von Modern Metalcore abzubilden. “Core” kann man hier allerdings ausschließen. 
+Die Finnen sind wieder da mit neuem Material. Modern Metal, welcher mit Elementen des Nu-Gaze gekreuzt wird. Ihnen selber wurde der Begriff “Northcore” mal zugewiesen, um die kalte Impression von Modern Metalcore abzubilden. “Core” kann man hier allerdings ausschließen.
 
 ## Bella Lista – Drasticism
 
