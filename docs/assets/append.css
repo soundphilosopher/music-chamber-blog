@@ -16,3 +16,11 @@
     font-size: 0.8em;
     font-style: italic;
 }
+
+.active {
+    display: inline-flex;
+}
+
+.inactive {
+    display: none;
+}

@@ -1,11 +1,7 @@
 ---
 date: 2026-02-06
-pin: false
-draft: false
 categories:
   - Releases
-authors:
-  - vuellosoph
 ---
 
 # Releases! Releases! Releases!

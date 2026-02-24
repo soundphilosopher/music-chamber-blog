@@ -4,6 +4,9 @@ pin: false
 draft: false
 authors:
   - vuellosoph
+categories:
+  - Top Lists
+  - Recap
 ---
 
 # Top 15 - January 2026

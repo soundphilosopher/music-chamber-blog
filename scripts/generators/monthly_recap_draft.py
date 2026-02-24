@@ -28,7 +28,7 @@ from bs4.element import NavigableString
 RELEASES_GLOB = "docs/**/releases.md"
 DOCS_ROOT = Path("docs")
 EXCERPT_SEPARATOR_AFTER = 2  # Insert <!-- more --> after this many entries (0-based)
-DEFAULT_AUTHOR = "vuellosoph"
+DEFAULT_AUTHOR = "chamberbot"
 
 
 @dataclass
@@ -104,7 +104,6 @@ def _build_recap_markdown(
     lines: list[str] = [
         "---",
         f"date: {year}-{month_number}-01",
-        "pin: false",
         "draft: true",
         "authors:",
         f"    - {DEFAULT_AUTHOR}",

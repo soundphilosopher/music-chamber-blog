@@ -42,10 +42,6 @@ A [generator script](scripts/generators/current_recap_list.py) crawls all the we
 
 A [hook](scripts/hooks/image_src_with_site_url.py) rewrites image sources that use the `site:` prefix, replacing them with the absolute site URL at build time. This keeps image paths portable in Markdown while ensuring they resolve correctly in blog excerpts and the full rendered site.
 
-### Bandcamp Player Embedding 🎶 (inactive)
-
-A [hook](scripts/hooks/generate_bandcamp_player.py) searches Bandcamp's API for album matches and automatically embeds inline Bandcamp players beneath release descriptions. Powered by `curl-cffi` for browser-grade requests.
-
 ### RSS Feed 📡
 
 The [mkdocs-rss-plugin](https://guts.github.io/mkdocs-rss-plugin/) generates an RSS feed from all posts, so readers can subscribe and get updates whenever new release lists or top picks are published. Post creation dates are pulled from front-matter metadata, and categories are included in the feed.

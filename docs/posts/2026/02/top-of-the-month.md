@@ -1,9 +1,9 @@
 ---
 date: 2026-03-01
-pin: false
 draft: true
-authors:
-  - vuellosoph
+categories:
+  - Top Lists
+  - Recap
 ---
 
 # Top 15 - February 2026

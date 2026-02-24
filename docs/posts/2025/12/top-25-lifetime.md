@@ -4,6 +4,8 @@ pin: false
 draft: false
 authors:
   - vuellosoph
+categories:
+  - Top Lists
 ---
 
 # Top 25 - Lifetime
