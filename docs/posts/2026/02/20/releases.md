@@ -85,7 +85,7 @@ Das Projekt um den russischen Multi-Instrumentalisten “Roman V.” mit seinem 
 
 Die schweizer Formation mit ihrem neuesten Longplayer. Die nachdenklichen und melancholischen Kompositionen bewegen sich nahtlos zwischen Melo-Folk, Psych-Folk, Art-Pop und Chamber-Pop. Trotz der melancholischen Ausrichtung, weiß das Songwriting die entsprechenden Spannungsbögen aufzubauen.
 
-::genre::Melo Folk, Psychedelic Folk, Art Pop, Chamber Pop
+::genre::Melancholic Folk, Psychedelic Folk, Art Pop, Chamber Pop
 
 ## Brandon Seabrook - Hellbent Daydream
 
