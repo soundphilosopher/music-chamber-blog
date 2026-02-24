@@ -73,7 +73,7 @@ def _wrap_in_card(
     li_tag = soup.new_tag("li")
     hr_tag = soup.new_tag("hr")
 
-    genre = description.find_next_sibling("p")
+    genre = description.find_next_sibling("p", attrs={"class": "genre-tags"})
 
     heading.insert_before(card_div)
 
