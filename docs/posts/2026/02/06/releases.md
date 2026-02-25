@@ -22,7 +22,7 @@ Das italienische Outfit mit seiner Debüt EP. Die Alternative Metaller vereinen 
 
 Das Debüt des amerikanischen Trios, welches sich Ulysses von James Joyce im Songwriting und Lyrics vornimmt. Entstanden ist ein existentiell-avantgardes Werk des Sludge? So einfach ist es leider nicht. Hier wird eine Fusion von Noise, Experimental Black Metal, NOLA Sludge, Post-Punk und DIssonant Death Metal geliefert. Elementar werden auch Elemente des Ambient, Post-Rock und Mathcore mit einbezogen, so dass die Gesamt-Komposition von Abwechslung nur so strotzt.
 
-::genre::Avant-Garde Sludge Metal, Avant-Garde Black Metal, Post Punk, Dissonant Death Metal
+::genre::Avant-Garde Sludge, Avant-Garde Black Metal, Post Punk, Dissonant Death Metal
 
 <!-- more -->
 
@@ -72,7 +72,7 @@ Die belgische Jazz-Vokalistin mit ihrem neuesten Output. Ein Werk des Vocal-Jazz
 
 Das Sophomore Release des dänischen Singer & Songwriters und Visual-Artist Barbro Kuypers. Der Art-Popper kreuzt auf seinem neuesten Longplayer Alt-Pop, Left-Field Pop, Alt-Folk, Minimal Electronica und Indie-Folk zu einem avantgardistischen Werk, welches Vibes des Bedroom Pop nicht verstecken kann und auch nicht vermag.
 
-::genre::Alternative Pop, Left Field Pop, Alternative Folk, Minimal Electronica, Indie Folk
+::genre::Alternative Pop, Leftfield Pop, Alternative Folk, Minimal Electronica, Indie Folk
 
 ## Before I Turn – Immoral And Malevolent Happenings
 
@@ -126,7 +126,7 @@ Das belgische Urgestein ist wieder zurück mit einer neuen EP. Ihr letztes Relea
 
 Die Kollaboration zwischen der griechischen Producerin Maria Papadomanolaki (Dalot) und der vietnamesischen Sound Designerin Nhung Nguyen (Awakener) birgt eine kollektive Improvisation, welche sich in den Bereichen der Minimal Neo Classic, Ambient und Field Recordings zu Hause fühlt.
 
-::genre::Minimal Neo Classic, Ambient, FIeld Recordings
+::genre::Minimal Neo Classic, Ambient, Field Recordings
 
 ## Daniele Brusaschetto – Dichotomous *
 
@@ -192,7 +192,7 @@ Die Debüt EP der britischen Formation kann sich sehen lassen. Eine Melange aus 
 
 Die Sophomore EP der norwegischen Formation. Irgendwo zwischen Post-Sludge, Atmospheric Sludge und Sludge-Crust treffen sich die Welten hier. Ein Werk, welches die Energie von Hardcore in die Tiefen des Sludge zieht wie Sagittarius A* Sterne in sich zieht.
 
-::genre::Post Sludge Metal, Atmospheric Sludge Metal, Crust
+::genre::Post Sludge Metal, Atmospheric Sludge, Crust
 
 ## Forced To Bleed – Forced To Bleed
 

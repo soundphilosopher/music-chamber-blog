@@ -67,7 +67,7 @@ Die Finnen sind wieder da mit neuem Material. Modern Metal, welcher mit Elemente
 
 Die amerikanische Singer & Songwriterin Isabella Komodromos mit ihrem Debüt Longplayer. Die mystische Klangfarbe Isabella’s wird von Kompositionen des Barock-Pop, Alt-Pop, Prog-Pop und Avant-Pop begleitet. Meisterlich theatralisches Songwriting, welches gern progressive Elemente auffasst.
 
-::genre::Barock Pop, Alternative Pop, Progessive Pop, Avant-Garde Pop
+::genre::Barock Pop, Alternative Pop, Progressive Pop, Avant-Garde Pop
 
 ## Belzebong – The End Is High
 
@@ -229,7 +229,7 @@ Das amerikanische Trio weiß immer wieder zu überraschen. So haben sie bereits 
 
 Das Projekt um den schwedischen Multi-Instrumentalisten Mircea Nestor mit seinem Sophomore Release. Der Grundbau des Alternative Metal wird immer wieder in seinen Strukturen durchrüttelt, um ein gewolltes Gegenspiel zu erzeugen. So hört man Noise-Rock, Alt-Folk, Prog-Rock, Black Metal, Groove Metal, Post-Grunge und Desert-Rock oft im Duell mit dem Grundbau, was ein recht breites Experiment auf die Ohren lässt.
 
-::genre::Alternative Metal, Neise Rock, Alternative Folk, Progressive Rock, Black Metal, Groove Metal, Post Grunge, Desert Rock
+::genre::Alternative Metal, Noise Rock, Alternative Folk, Progressive Rock, Black Metal, Groove Metal, Post Grunge, Desert Rock
 
 ## Hen Ogledd - DISCOMBOBULATED **
 
@@ -253,7 +253,7 @@ Das kanadisch Duo mit seinem neuesten Longplayer. Sie haben eine Bekanntheit in 
 
 Der spanische Komponist, Gitarrist und Producer mit einem neuen Output, welches lokal bereits Ende 2025 erschien. Die treibende Ader hier ist Spoken Words. Um diese wurden Kompositionen zwischen Guitar-Jazz, Mediterranean Folk/Pop, Ambient, Jazz Fusion und Pop-Rock aufgebaut. Diese bilden eine imaginäre Geschichte, welche einer spirituellen Vorlesung ähnelt.
 
-::genre::Spoken Words, Guitar Jazz, Mediterrean Folk, Mediterrean Pop, Ambient, Jazz Fusion, Pop Rock
+::genre::Spoken Words, Guitar Jazz, Mediterranean Folk, Mediterranean Pop, Ambient, Jazz Fusion, Pop Rock
 
 ## Jon Hood - Pieces of Reality *
 
@@ -385,7 +385,7 @@ Der neueste Longplayer der Florida-Based Formation. Die “Erfinder” des Easyc
 
 Die Schweizer mit ihrem neuesten Release. Ein Werk der experimentellen Freude wird geboten. Im Songwriting werden 70s Prog-Rock, Thrash Metal, Avantgard Black Metal, Alternative Metal und Melodic Metal vereint, was genug Raum für Kreativität gibt, welcher voll ausgefüllt wird von den Protagonisten. Alles wird mit einer recht reinen Produktion versehen, welche in den legendären Abbey Road Studios abgehalten wurde.
 
-::genre::Neo Progressive Rock, Thrash Metal, Avant-Garde Black Metal, Alternative Metal, Meodic Metal
+::genre::Neo Progressive Rock, Thrash Metal, Avant-Garde Black Metal, Alternative Metal, Melodic Metal
 
 ## Northern Krig – Worship Files For Anthropophagolagnia Predators
 
@@ -403,7 +403,7 @@ Das sibirische Duo mit seinem neuesten Werk, welches das 10te in ihrer Discograp
 
 Die kanadische Singer & Songwriterin und Performerin mit ihrem neuesten Album. Ein Werk welches stilistisch Electropop, Electropunk, Industrial, Hyperpop, IDM und Electroclash in die Kompositionen aufnimmt. Lyrisch setzt sich Merrill mit Body Autonomy, trans rights und dem Altern auseinander.
 
-::genre::Electropop, Electropunk, Instustrial, Hyperpop, IDM, Electroclash
+::genre::Electropop, Electropunk, Industrial, Hyperpop, IDM, Electroclash
 
 ## Phasma – Purgatory
 
@@ -523,7 +523,7 @@ Die amerikanische Formation mit ihrer neuesten EP. Die Band selbst beschreibt si
 
 Das Sophomore Release des britischen Trios. Thematisch können sie den RABM zugewiesen werden, durch ihre klare Ablehnung von Faschismus, Nationalismus, Sexismus und Rassismus, welche in den Lyrics zum Ausdruck gebracht wird. Das Songwriting bietet aggressiven, rauen Black Metal, welcher kleine experimentelle und avantgardistische Auflockerungen erfährt.
 
-::genre::RADM, Avant-Garde Black Metal
+::genre::RABM, Avant-Garde Black Metal
 
 ## Worm Shepherd – Dawn Of The Iconoclast
 

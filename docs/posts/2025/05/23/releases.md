@@ -86,7 +86,7 @@ Die amerikanische Kapelle mit ihrem neuesten Werk. Stadion- und radiotauglicher 
 
 ## House Of Protection - Outrun You All **
 
-Das amerikanische Kreativ-Duo mit ihrem neuen Output. Eine nahtlose Genre-Verschmelzung, welche durch ihre metallischen Kompositionen dem Nu-Metal zugeschrieben werden kann. In der Grundkomposition werden Trip, Drum & Bass, Electronica und Post-Hardcore zu einem Werk verschmolzen.
+Das amerikanische Kreativ-Duo mit ihrem neuen Output. Eine nahtlose Genre-Verschmelzung, welche durch ihre metallischen Kompositionen dem Nu-Metal zugeschrieben werden kann. In der Grundkomposition werden Trap, Drum & Bass, Electronica und Post-Hardcore zu einem Werk verschmolzen.
 
 ## Isaak Peyer, Charley Rose, Jonathan Collin-Bouhon, Juan Ibarra - Songs of Water
 

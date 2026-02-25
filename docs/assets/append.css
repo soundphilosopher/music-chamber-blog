@@ -11,16 +11,3 @@
 .top-list-recap ul li {
     border: 0.1rem solid hsl(19.8, 100%, 50%) !important;
 }
-
-.genre-tags {
-    font-size: 0.8em;
-    font-style: italic;
-}
-
-.active {
-    display: inline-flex;
-}
-
-.inactive {
-    display: none;
-}

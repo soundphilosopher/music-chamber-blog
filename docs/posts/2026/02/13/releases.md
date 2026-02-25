@@ -144,7 +144,7 @@ Das britische Trio mit seinem neuesten Release. Ein recht experimentelles Werk, 
 
 Das Debüt der italienischen Formation. Mit der passenden Attitüde und dem Können wird ein Werk des klassischen Progressive Rock präsentiert, welches mediterrane Folklore und Pop mit in seine avantgardistischen Strukturen einbindet.
 
-::genre::Progressive Rock, Mediterrane Folk, Mediterrane Pop, Avent-Garde Pop
+::genre::Progressive Rock, Mediterranean Folk, Mediterranean Pop, Avant-Garde Pop
 
 ## Diskust – Skin Cage
 
@@ -222,7 +222,7 @@ Die Sophomore EP des französischen Outfits. Brutal Death Metal, welcher seine H
 
 Das internationale Projekt um den amerikanischen Singer & Songwriter, Producer und Actor Eugene Hütz. Die Gypsy-Punker vereinen in ihren neuesten Komposition Gypsy-Punk mit Post-Punk, New-Wave, Dance-Punk und Power Pop. Experimentelles und eingängiges Songwriting und eine passend träumerische Produktion vervollständigen dieses geniale Werk.
 
-::genre::Gypsy Punk, Post Punk, New Wave, Dance Punk, Power Pop
+::genre::Gypsy Punk, Post Punk, New Wave, Dancepunk, Power Pop
 
 ## Golden Brown - In the Grove
 
