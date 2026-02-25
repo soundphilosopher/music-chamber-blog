@@ -88,7 +88,7 @@ def _normalize_genre_names(genre_names: list[str]) -> list[str]:
     return result
 
 
-def parse_genre_tags(file_path: str) -> list[tuple[str, ReleaseAnchor]]:
+def _parse_genre_tags(file_path: str) -> list[tuple[str, ReleaseAnchor]]:
     """Parse a Markdown file and extract genre-tagged releases.
 
     Looks for paragraphs matching the ``::genre::`` prefix, walks
@@ -138,7 +138,7 @@ def parse_genre_tags(file_path: str) -> list[tuple[str, ReleaseAnchor]]:
     return results
 
 
-def collect_genres(glob_pattern: str) -> list[Genre]:
+def _collect_genres(glob_pattern: str) -> list[Genre]:
     """Scan all Markdown files and group releases by genre.
 
     Args:
@@ -152,7 +152,7 @@ def collect_genres(glob_pattern: str) -> list[Genre]:
     genres_by_name: dict[str, Genre] = {}
 
     for path in sorted(glob(glob_pattern, recursive=True)):
-        for genre_name, anchor in parse_genre_tags(path):
+        for genre_name, anchor in _parse_genre_tags(path):
             if genre_name not in genres_by_name:
                 genres_by_name[genre_name] = Genre(name=genre_name)
             genres_by_name[genre_name].releases.append(anchor)
@@ -160,7 +160,7 @@ def collect_genres(glob_pattern: str) -> list[Genre]:
     return sorted(genres_by_name.values(), key=lambda g: g.name)
 
 
-def build_genres_markdown(genres: list[Genre]) -> str:
+def _build_genres_markdown(genres: list[Genre]) -> str:
     """Build the Markdown content for the genre overview page.
 
     Args:
@@ -174,6 +174,9 @@ def build_genres_markdown(genres: list[Genre]) -> str:
     for genre in genres:
         lines.append(f"## {genre.name} ({len(genre.releases)})")
         lines.append("")
+
+        genre.releases.sort(key=lambda r: r.title.lower())
+
         for release in genre.releases:
             lines.append(
                 f"- [{release.title}]({release.file_path}#{release.anchor_id})"
@@ -191,8 +194,8 @@ def generate_genre_overview() -> None:
     Scans all Markdown files matching ``DOCS_GLOB``, groups tagged
     releases by genre, and writes the result to ``genres.md``.
     """
-    genres = collect_genres(DOCS_GLOB)
-    content = build_genres_markdown(genres)
+    genres = _collect_genres(DOCS_GLOB)
+    content = _build_genres_markdown(genres)
 
     with mkdocs_gen_files.open("genres.md", "w") as f:
         f.write(content)
