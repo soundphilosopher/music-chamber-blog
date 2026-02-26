@@ -272,6 +272,8 @@ Die UK-Based Band mit ihrem neuesten Werk. Geboten wird eine etwas progressive A
 
 Das Duo aus LA mit seinen neuesten Kompositionen. Als oberstes Element kann man sicherlich Noise nennen. Ein kunstvoller Mix aus Noise, Breakbeat, Industrial und Post-Rock-Fragmenten.
 
+---
+
 # Earlier the week …
 
 ## Øneheart, Dean Korso, leadwave - Samsara Passengers

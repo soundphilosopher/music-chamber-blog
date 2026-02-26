@@ -212,6 +212,8 @@ Die Psych-Prog-Rocker aus Dresden mit ihrem neuen Release. Durch den Einsatz der
 
 Die Schweizer mit ihrem neuesten Werk. Atmospheric-Sludge-Doom-Metal, mit einer Briese Post-Metal, experimentellen Elementen und Phasen von Doom-Death. Starkes Songwriting.
 
+---
+
 # Earlier the week …
 
 ## lowheaven - Ritual Decay

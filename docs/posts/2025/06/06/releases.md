@@ -353,6 +353,8 @@ Die dänische Heavy-Formation mit ihrem neuesten Release. Hard-Rock wechselt sic
 
 ::genre::hard rock, thrash metal, country rock
 
+---
+
 # Earlier the week …
 
 ## Tesa - Interval

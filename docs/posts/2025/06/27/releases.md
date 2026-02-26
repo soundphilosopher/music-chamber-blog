@@ -342,6 +342,8 @@ Genre: Jazz, Corner Jazz
 
 ::genre::chamber jazz, coffee jazz, contemporary jazz
 
+---
+
 # Earlier the week …
 
 ## Iamamiwhoami - Still Blue

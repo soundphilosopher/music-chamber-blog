@@ -480,6 +480,8 @@ Die Formation aus Neuseeland mit ihrem neuesten Release. Mit der persönlichen A
 
 ::genre::Indie Pop, Post Punk, Post Grunge
 
+---
+
 # Earlier the week …
 
 ## cohen_noise – Some Things Aren’t Forever, But For A Reason

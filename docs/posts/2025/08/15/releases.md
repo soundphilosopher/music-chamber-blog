@@ -220,6 +220,8 @@ Die finnische Melodic-Death-Metal-Formation mit ihrem neuesten Release. Ihre Zun
 
 Der schweizerische Ambient-Künstler mit einem neuen Werk. Synth-Ambient, welcher minimale Ausflüge in Drone erlaubt.
 
+---
+
 # Earlier the week …
 
 ## Nom De Plume - Circle the Dream

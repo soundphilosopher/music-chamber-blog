@@ -549,6 +549,8 @@ Die österreichische Formation mit ihrem Debüt Longplayer. Eine Melange aus Pro
 
 ::genre::Proto Metal, NWOBHM, Speed Metal, Heavy Metal
 
+---
+
 # Earlier the week …
 
 ## Beyond Melancholy - No Time for Living …

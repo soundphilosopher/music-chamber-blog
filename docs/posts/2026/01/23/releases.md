@@ -354,6 +354,8 @@ Die neue EP der amerikanischen Band. Man kann sie sicherlich dem Post-Hardcore z
 
 ::genre::post hardcore, nu metal
 
+---
+
 # Earlier the week …
 
 ## Alien Fucker - Birth Sex Death

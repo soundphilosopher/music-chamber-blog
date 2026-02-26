@@ -164,6 +164,8 @@ Die Australier mit einem neuen Output. Stoner-Metal trifft auf Doom Metal und Sl
 
 Das kanadische Doom-Metal-Trio kollaboriert mit dem Sound-Engineer James Beardmore. Was für eine Combo. Irgendwo zwischen Spiritual-Oriental, Oriental-Jazz, Ambient, Experimental-Rock und ich würde gar Prog-Rock mit ins Spiel bringen.
 
+---
+
 # Earlier the week …
 
 ## Astronauts, etc. - Professional Void

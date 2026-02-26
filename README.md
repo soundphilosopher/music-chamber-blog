@@ -123,12 +123,14 @@ music-chamber/
 │               └── top-of-the-month.md
 ├── scripts/
 │   ├── generators/
-│   │   └── current_recap_list.py       # Auto-generates monthly recaps
+│   │   └── monthly_recap_draft.py      # Auto-generates monthly recaps
+│   │   └── genre_overview.py           # Auto-generates genre overview
 │   ├── hooks/
-│   │   ├── generate_bandcamp_player.py # Embeds Bandcamp players for releases
+│   │   ├── cleanup_tags.py             # Removes HTML tags
 │   │   ├── image_src_with_site_url.py  # Rewrites site:-prefixed image sources
 │   │   └── mark_top_picks.py           # Transforms starred entries into cards
-│   └── setup_docs.sh                   # One-command setup
+│   ├── setup_docs.sh                   # One-command setup
+│   └── import_images.py                # Import images (helper script)
 ├── mkdocs.yml                          # Site configuration
 └── pyproject.toml                      # Python project config
 ```

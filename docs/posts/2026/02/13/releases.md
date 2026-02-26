@@ -482,6 +482,8 @@ Der britische Singer & Songwriter George van den Broek aka Yellow Days mit seine
 
 ::genre::Neo Soul, R&B, Nu Jazz, Progressive Pop, Acid Funk
 
+---
+
 # Earlier the week …
 
 ## Arlie P - Dimension Ions.
