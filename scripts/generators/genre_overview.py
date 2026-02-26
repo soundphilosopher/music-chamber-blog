@@ -169,7 +169,12 @@ def _build_genres_markdown(genres: list[Genre]) -> str:
     Returns:
         The complete Markdown string for the genres page.
     """
-    lines: list[str] = ["# Genres", ""]
+    lines: list[str] = [
+        "# Genres",
+        "",
+        '<div id="genre-filter"></div>',
+        "",
+    ]
 
     for genre in genres:
         lines.append(f"## {genre.name} ({len(genre.releases)})")
