@@ -37,7 +37,7 @@ GENRE_TAG_PATTERN = re.compile(rf"^{re.escape(GENRE_TAG_PREFIX)}")
 SPELLING_MAP = {
     "lofi": "LoFi", "rock'n'roll": "Rock'n'Roll", "uk": "UK", "edm": "EDM", "idm": "IDM",
     "ebm": "EBM", "ibm": "IBM", "dsbm": "DSBM", "rabm": "RABM", "nwobhm": "NWOBHM", "nwoahm": "NWOAHM",
-    "j-pop": "J-Pop", "j-rock": "J-Rock", "d-beat": "D-Beat", "r&b": "R&B", "avant-garde": "Avant-Garde",
+    "j-pop": "J-Pop", "j-rock": "J-Rock", "j-folk": "J-Folk", "d-beat": "D-Beat", "r&b": "R&B", "avant-garde": "Avant-Garde",
     "avantgarde": "Avant-Garde", "scifi": "SciFi", "sci-fi": "SciFi"
 }
 
