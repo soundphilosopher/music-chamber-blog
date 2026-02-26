@@ -82,7 +82,7 @@ Der russische Komponist und Producer mit einem Solo-Beitrag, welcher kein Soundt
 
 Das kalifornische Outfit mit ihrer Fortsetzung zum 2019 Release Valley of Death. Metallic Hardcore, welcher durch die zahlreichen Breakdowns, die Nähe zum Beatdown nicht verschweigen kann. Zu den werden zahlreiche Elemente des New York Hardcore und Crossover verarbeitet.
 
-::genre::metalic hardcore
+::genre::metallic hardcore
 
 ## Obelisk Grove - Unknown Unknowns
 

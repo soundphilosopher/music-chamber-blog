@@ -16,7 +16,7 @@ Die Debüt EP der portugiesischen Formation. Eine geniale Inszenierung von Mathc
 
 Das italienische Outfit mit seiner Debüt EP. Die Alternative Metaller vereinen in ihren Kompositionen Metallic Hardcore, Groove Metal, Mathcore, Metalcore und Post-Hardcore, wobei der Hardcore-Anteil überwiegt am Ende. Recht spannendes Songwriting, welches alle Genre überspannt, aber nie wirklich wie ein Debüt erscheinen mag.
 
-::genre::Metalic Hardcore, Groove Metal, Mathcore, Metalcore, Post Hardcore
+::genre::Metallic Hardcore, Groove Metal, Mathcore, Metalcore, Post Hardcore
 
 ## Agenbite Misery – Remorse Of Conscience *
 
@@ -114,7 +114,7 @@ Oh boy. My ears are bleeding. Der Debüt Longplayer der australischen Band. Bere
 
 Das französische Trio mit seinem Sophomore Longplayer. Man kann es recht einfach dem Crossover zuordnen, da es im Grunde alle Boxen ankreuzt. Thrash Metal, welcher mit einer Portion Hardcore, Alt-Metal und Hip Hop versehen ist. Die Kompositionen selber werden recht oft von Old School Death Metal durchquert. Die Vocals selber bewegen sich zwischen Hip Hop, Hardcore, Death Metal und gar Deathcore. All dies und die passende Produktion lassen nicht wirklich Langeweile aufkommen.
 
-::genre::Thrash Metal, Metalic Hardcore, Alternative Metal, Hip Hop, Crossover, Deathcore, Old School Death Metal
+::genre::Thrash Metal, Metallic Hardcore, Alternative Metal, Hip Hop, Crossover, Deathcore, Old School Death Metal
 
 ## Cyclone - Known Unto God
 
@@ -204,7 +204,7 @@ Das kalifornische Duo mit seiner neuesten EP. Technical Brutal Death Metal, welc
 
 Die griechische Formation mit ihrem neuesten Longplayer. Eine Komposition des Groove Metal wird hier in der Grundstruktur geliefert. Diese wird mit Elementen des Metalcore, Alt-Metal und Metallic Hardcore versehen, ohne jedoch den Ethos von Hardcore anzunehmen. Alles wirkt und fühlt sich eher an wie ein Werk für die “Fäuste-In-Die-Luft-Heben” Metalheads an.
 
-::genre::Groove Metal, Metalcore, Alternative Metal, Metalic Hardcore
+::genre::Groove Metal, Metalcore, Alternative Metal, Metallic Hardcore
 
 ## grāvelōrd – ANESTHETIC
 
@@ -318,7 +318,7 @@ Das finnische Projekt um den Multi-Instrumentalisten “The Count” mit seinem 
 
 Die amerikanische Formation mit ihrer Debüt EP. Ein Art “Supergroup” mit Musikern von Shai Hulud und With Honor. Geboten wird rauer, ehrlicher und brutaler Metallic Hardcore, welcher ein paar Background-Elemente des Metalcore mit in seine Kompositionen einbindet. Ansonsten ist das Werk Abriss, Abriss, Abriss.
 
-::genre::Metalic Hardcore
+::genre::Metallic Hardcore
 
 ## parapariah – Whispers In The Dark *
 

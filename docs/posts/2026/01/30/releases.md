@@ -244,7 +244,7 @@ Ein neues semi-improvised Werk von der britischen Komponistin und Multi-Instrume
 
 Das deutsche Outfit mit seinem Sophomore Longplayer. Metallic Hardcore, welcher mit seiner Aggressivität und Progressivität eine durchaus aktive Pit-Stimmung anregen kann. Das Harcore-Herz wird mit Songwriting und Produktion gefüttert, ohne den DIY-Mythos zu zerstören.
 
-::genre::Metalic Hardcore
+::genre::Metallic Hardcore
 
 ## MØL – Dreamcrush **
 

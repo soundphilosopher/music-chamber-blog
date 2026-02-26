@@ -126,7 +126,7 @@ Die Kollaboration zwischen dem Saxophonisten Colin Stetson, den Bassisten Trevor
 
 Die amerikanische Kapelle mit ihrem neuesten Studio-Output. Die auf Mathcore und Metalcore einflussreiche Band besinnt sich ihren Wurzeln ein wenig mehr und veröffentlicht ihren bis dato kürzesten Longplayer. Voller Energie wird Metalcore, Mathcore, Thrash Metal und Hardcore zu einer Masterclass der Musik vereint.
 
-::genre::Mathcore, Metalcore, Thrash Metal, Metalic Hardcore
+::genre::Mathcore, Metalcore, Thrash Metal, Metallic Hardcore
 
 ## Deathraw – Reduces To Ashes
 
@@ -150,7 +150,7 @@ Das Debüt der italienischen Formation. Mit der passenden Attitüde und dem Kön
 
 Die Sophomore EP der australischen Band. Modern Metalcore, welcher mit ein paar Sprenkeln Deathcore versehen ist. Die Kompositionen werden alle mit einer Portion Nu-Metal und Metallic Hardcore versehen. Obwohl das Songwriting ein paar Überraschungen bereit hält, fällt es am Ende doch recht einfältig aus.
 
-::genre::Nu Metal, Metalic Hardcore
+::genre::Nu Metal, Metallic Hardcore
 
 ## Dominic J Marshall - The White Prince *
 

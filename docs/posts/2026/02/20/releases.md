@@ -107,9 +107,9 @@ Das norwegisch-schwedische Outfit mit seinem neuesten Longplayer. Die Pioniere d
 
 ## CONVEY – A Place In Hell For Us Both
 
-Die britische Band mit ihrer Debüt EP. Ein energiereiches Werk des Nu-Metalcore, welche djent-y Elemente und klassische Hardcore Elemente in sich bindet. Im Songwriting wird die Attitüde der 2000er Hardcore Szene wiedergespiegelt, was mit der Überhand von Metalic Hardcore und dem Lyrics unter beweis gestellt wird.
+Die britische Band mit ihrer Debüt EP. Ein energiereiches Werk des Nu-Metalcore, welche djent-y Elemente und klassische Hardcore Elemente in sich bindet. Im Songwriting wird die Attitüde der 2000er Hardcore Szene wiedergespiegelt, was mit der Überhand von Metallic Hardcore und dem Lyrics unter beweis gestellt wird.
 
-::genre::Nu Metalcore, Djent, Hardcore, Metalic Hardcore
+::genre::Nu Metalcore, Djent, Hardcore, Metallic Hardcore
 
 ## Coscradh - Carving The Causeway To The Otherworld
 
@@ -409,7 +409,7 @@ Die kanadische Singer & Songwriterin und Performerin mit ihrem neuesten Album. E
 
 Die internationale (Griechenland, Amerika) Kapelle mit ihrem neuesten Release. Erschaffen wurde ein mitreißendes und aggressives Werk, welches Technical Death Metal, Black Metal, Deathcore und Metallic Hardcore in sich vereint. Die Mixtur wird ohne Zusatz von modernen Elementen in Songwriting und Produktion auf die Menschen losgelassen, was eine Faszination auslösen könnte.
 
-::genre::Technical Death Metal, Black Metal, Deathcore, Metalic Hardcore
+::genre::Technical Death Metal, Black Metal, Deathcore, Metallic Hardcore
 
 ## Phew, Danielle de Picciotto – Paper Masks
 
@@ -439,7 +439,7 @@ Die Kollaboration zwischen den britischen Producer Ben Felton (Sonant) und dem a
 
 Das neueste Release aus dem Hause Soul of Anubis. In Portugal genießt das Duo eine gewisse Szenen-Bekanntheit. Gespielt wird eine aggressive Auslegung des Sludge Metal, welche mit Elementen des Doom Metal, Groove Metal, Metallic Hardcore, Crust und Post-Metal verfeinert wird. Trotz der aggressiven Auslegung wird genügend Raum gelassen für expressionistische Versuche.
 
-::genre::Sludge Metal, Doom Metal, Groove Metal, Metalic Hardcore, Crust, Post Metal
+::genre::Sludge Metal, Doom Metal, Groove Metal, Metallic Hardcore, Crust, Post Metal
 
 ## Sports - Sports
 
