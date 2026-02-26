@@ -106,7 +106,7 @@ Das Matthew Shipp Trio nimmt den brasilianischen Jazz-Saxophonisten mit in seine
 
 Nach den “Bagatelles”, kehrt der New Yorker Komponist, Producer und Saxophonist mit einem Jazz-Fusion Werk wieder. Klassische Jazz-Kompositionen werden mit Strukturen des Rock vereint.
 
-::genre::avntgarde jazz, jazz rock, avantgarde rock
+::genre::avantgarde jazz, jazz rock, avantgarde rock
 
 ## Kilometre Club, Center Of Attention - Distant Shores
 
