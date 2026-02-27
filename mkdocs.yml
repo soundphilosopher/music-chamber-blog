@@ -96,3 +96,4 @@ hooks:
   - scripts/hooks/image_src_with_site_url.py
   - scripts/hooks/mark_top_picks.py
   - scripts/hooks/filter_genres.py
+  - scripts/hooks/add_release_count.py
