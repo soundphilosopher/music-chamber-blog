@@ -111,6 +111,11 @@ def _parse_genre_tags(file_path: str) -> list[tuple[str, ReleaseAnchor]]:
     relative_path = str(Path(file_path).relative_to(DOCS_ROOT))
     results: list[tuple[str, ReleaseAnchor]] = []
 
+    # exclude drafts from genre overview
+    draft = md.Meta.get("draft", [])
+    if "true" in draft:
+        return results
+
     for genre_tag in soup.find_all("p", string=GENRE_TAG_PATTERN):
         description = genre_tag.find_previous_sibling("p")
         if not description:
