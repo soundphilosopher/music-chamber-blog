@@ -21,7 +21,7 @@ from pathlib import Path
 from bs4 import BeautifulSoup, Tag
 
 # Resolve the SVG icon once at import time so it is not re-read on every page.
-_SVG_PATH = Path(__file__).resolve().parents[2] / "docs" / "assets" / "music-box.svg"
+_SVG_PATH = Path(__file__).resolve().parents[2] / "docs" / "assets" / "icons" / "music-box.svg"
 _SVG_TAG: Tag = BeautifulSoup(_SVG_PATH.read_text(encoding="utf-8"), "html.parser")
 
 

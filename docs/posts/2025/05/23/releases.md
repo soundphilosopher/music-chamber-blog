@@ -58,7 +58,7 @@ Die New Yorker Grindcore Truppe mit ihrem ersten Release über Relapse Records. 
 
 Die noise-y Post-Punker aus UK mit einem neuen Werk. Eine experimentelle Camouflage aus Post-Punk und Noise Rock.
 
-::genre::post-punk, noise rock
+::genre::post punk, noise rock
 
 ## Clapper - Under the Radar
 
