@@ -338,7 +338,7 @@ Die Australier gründeten sich bereits 1996 und haben drei EPs und eine kleine P
 
 Der amerikanische Singer & Songwriter mit seinem neuesten Release. Eine Komposition aus Indie-Folk, Alt-Folk und Indie-Rock mit einem typischen Nashville-Sound.
 
-::genre::americana, indie folk, alternative folk country folk
+::genre::americana, indie folk, alternative folk, country folk
 
 ## Offthesky - Nocturnas
 
