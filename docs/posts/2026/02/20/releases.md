@@ -12,7 +12,7 @@ Das neueste Release vom britischen Producer Dennis Huddleston aka 36. Ein theatr
 
 ::genre::Ambient, Cinematic Synth
 
-## Above, Below – I Guess It Was Nowhere
+## Above, Below - I Guess It Was Nowhere
 
 Die australische Formation mit ihrem Sophomore Release. Modern Progressive Metalcore, welcher trotz seinem sehr modern ausgelegten Anstrich, ein paar wundervolle Wandlungen im Songwriting vorweisen kann. So wechseln sich im Songwriting Progressive Metal Kompositionen mit djent-y Modern Metalcore Kompositionen ab und bieten eine gute Waage zwischen dem Genre.
 
@@ -32,13 +32,13 @@ Das Sophomore Full-Length der brasilianischen Band birgt eine intelligent gestri
 
 ::genre::Progressive Metal, Progressive Death Metal
 
-## All Get Out – Side A *
+## All Get Out - Side A *
 
 Das amerikanische Quartett mit seinem neuesten Longplayer. Eine der wenigen Bands, welche auf Alternative-Rock-, Indie-Rock-, Pop-Punk- und Emocore-Listen gleichermaßen auftauchen. Dies geschieht aber auch aus gutem Grund, da die Band genau diese Genre mit ihrem Songwriting bedient und das auf bester Art und Weise. Dieses Release erinnerte mich stark an Get Up Kids und Cold War Kids gleichermaßen, was eine Auszeichnung ist.
 
 ::genre::Alternative Rock, Indie Rock, Pop Punk, Emocore
 
-## AmongRuins – Advent of Chaos
+## AmongRuins - Advent of Chaos
 
 Das neueste Release der Griechen. Melodic Death Metal, welcher sich im Songwriting stark an Amon Amarth richtet, aber auch Einflüsse von Dark Tranquillity und Arch Enemy verarbeitet. Leider leidet das Songwriting enorm unter den starken Einfluss der genannten Bands, was es am Ende sehr repetitve Erscheinen lässt.
 
@@ -56,19 +56,19 @@ Das Projekt um den deutschen Producer und Multi-Instrumentalisten Sascha Ring mi
 
 ::genre::Avant-Garde Pop, Alternative Pop, Synth Pop, Avant-Garde Jazz, Nu Jazz, Electronica, Modern Classic, Art Rock
 
-## Atlas – Sunder
+## Atlas - Sunder
 
 Die Finnen sind wieder da mit neuem Material. Modern Metal, welcher mit Elementen des Nu-Gaze gekreuzt wird. Ihnen selber wurde der Begriff “Northcore” mal zugewiesen, um die kalte Impression von Modern Metalcore abzubilden. “Core” kann man hier allerdings ausschließen.
 
 ::genre::Modern Metal, Nu Gaze
 
-## Bella Lista – Drasticism
+## Bella Lista - Drasticism
 
 Die amerikanische Singer & Songwriterin Isabella Komodromos mit ihrem Debüt Longplayer. Die mystische Klangfarbe Isabella’s wird von Kompositionen des Barock-Pop, Alt-Pop, Prog-Pop und Avant-Pop begleitet. Meisterlich theatralisches Songwriting, welches gern progressive Elemente auffasst.
 
 ::genre::Barock Pop, Alternative Pop, Progressive Pop, Avant-Garde Pop
 
-## Belzebong – The End Is High
+## Belzebong - The End Is High
 
 Die polnische Formation mit ihrem neuesten Streich. Eine Melange aus Sludge, Post-Metal, Stoner Doom Metal und Psychedelia wird in instrumentaler Art und Weise unter die Menschheit gebracht, welche den typischen Geruch der Straßen Kaliforniens mit sich trägt.
 
@@ -92,7 +92,7 @@ Der amerikanische Jazz-Gitarrist und Banjoist mit seinem neuesten Experiment. Im
 
 ::genre::Avant-Garde Jazz
 
-## Chained To The Bottom Of The Ocean – Let Us Not Speak Of Them But Look And Pass On
+## Chained To The Bottom Of The Ocean - Let Us Not Speak Of Them But Look And Pass On
 
 Die amerikanische Formation mit ihrer neuesten EP. Gespielt wird ein Hybrid aus Sludge Metal, Doom Metal und Death Metal. Dieser Hybrid entfaltet sich in seinen Kompositionen als eine reine Lawine der tiefen und schleppenden Töne und Stimmungen.
 
@@ -104,7 +104,7 @@ Das norwegisch-schwedische Outfit mit seinem neuesten Longplayer. Die Pioniere d
 
 ::genre::Rap Metal, Crossover, Groove Metal, Alternative Metal
 
-## CONVEY – A Place In Hell For Us Both
+## CONVEY - A Place In Hell For Us Both
 
 Die britische Band mit ihrer Debüt EP. Ein energiereiches Werk des Nu-Metalcore, welche djent-y Elemente und klassische Hardcore Elemente in sich bindet. Im Songwriting wird die Attitüde der 2000er Hardcore Szene wiedergespiegelt, was mit der Überhand von Metallic Hardcore und dem Lyrics unter beweis gestellt wird.
 
@@ -116,49 +116,49 @@ Der Sophomore Longplayer der irischen Formation. Old School Blackened Death Meta
 
 ::genre::Old School Death Metal, Blackened Death Metal
 
-## Crowen – Through The Dying Mist
+## Crowen - Through The Dying Mist
 
 Das Projekt um den finnischen Multi-Instrumentalisten Esa Uusimaa mit seiner neuesten EP. Melodic Death Metal, welcher im Songwriting eine gute Form darstellt, in der Produktion allerdings ein wenig wackelig wirkt.
 
 ::genre::Melodic Death Metal
 
-## CrowsAlive – Bri=dge
+## CrowsAlive - Bri=dge
 
 Das japanische Quartett mit seinem Sophomore Longplayer. In der Retrospektive wird eine Melange aus Modern Emocore, Sad Pop Punk und Alternative Rock geboten. Freunde des Sad Pop Punk der Myspace Ära kommen hier voll auf ihre Kosten.
 
 ::genre::Modern Emocore, Sad Pop Punk, Alternative Rock
 
-## Daidalos – Dante
+## Daidalos - Dante
 
 Das Sophomore Release vom Projekt um den deutschen Multi-Instrumentalisten Tobias Püschner. Eine lyrische Symphonie, welche eine göttliche Komödie des Symphonic Black Metal durch die Ohren erklingen lässt.
 
 ::genre::Symphonic Black Metal
 
-## Darklore – The Great Elven War
+## Darklore - The Great Elven War
 
 Die australische Formation mit ihrem Sophomore Full-Length. Mit elfischer Kraft wird eine Melange aus Symphonic Black Metal, Blackened Death Metal und Blackened Folk Metal aufgebaut, welche mit einem ausgesprochen kämpferischen Songwriting in die Schlacht zieht.
 
 ::genre::Symphonic Black Metal, Blackened Death Metal, Blackened Folk Metal
 
-## Death By Dissonance – Exile Within
+## Death By Dissonance - Exile Within
 
 Sechs Jahre nach ihrem Debüt präsentiert die deutsche Formation nun ihren Sophomore Output. Im Klang wird sich dabei am Metalcore alá Caliban orientiert, welcher mit Melodic Death Metal und ein paar progressiven Sprenkeln versehen wird und ohne Clear Vocal am Ende auskommt. In Produktion, wie auch Songwriting werden einem die 2010er vor die Augen geführt.
 
 ::genre::Metalcore, Melodic Death Metal, Progressive Metalcore
 
-## DIESECT – Hide From The Light
+## DIESECT - Hide From The Light
 
 Die australische Formation mit ihrer neuesten EP. Nu-Metalcore wirkt als das musikalische Skelett, welches mit Drum & Bass, Trap und Modern Metalcore durchflossen wird, um einen Körper der musikalischen Entfaltung abzubilden. Das Songwriting bietet wenig progressive Elemente und ist eher aggressiv gestaltet in der Grundtonalität.
 
 ::genre::Nu Metalcore, Drum & Bass, Trap, Modern Metalcore
 
-## Dissentience – Kaiju
+## Dissentience - Kaiju
 
 Die amerikanische Formation mit einer neuen Konzept-EP. Das Konzept erforscht dabei die psychologischen Auswirkungen der Zerstörung und die menschliche Reaktion auf eine unvorhersehbare Bedrohung. Eingebunden wird das Konzept in eine Mixtur aus Progressive Death Metal und Thrash Metal.
 
 ::genre::Progressive Death Metal, Thrash Metal
 
-## Domhain – In Perfect Stillness
+## Domhain - In Perfect Stillness
 
 Der Debüt Longplayer der nordirischen Kapelle. In emotionaler, wie auch melancholischer Art und Weise wird ein Werk des Blackgaze erzeugt, welches die Verzweiflung des Black Metal einfängt in seinen dystopischen Formen. Das Songwriting weiß dabei genau, an welchen Stellen es Verzweiflung und an welchen Melancholie säen soll.
 
@@ -170,7 +170,7 @@ Die Formation aus Costa Rica mit ihrem neuesten Longplayer. Erzeugt wird ein mec
 
 ::genre::Industrial Black Metal, Electronica, EDM
 
-## Evig Natt – Vaketimen
+## Evig Natt - Vaketimen
 
 Das neueste Release der norwegischen Kapelle. Mit viel Hang zur Melancholie wird eine Symphonie aus Symphonic Metal, Death Metal, Symphonic Black Metal und Doom Metal erzeugt. Die weibliche Klarstimme passt in die ganze Produktion nicht so wirklich. Die Klangfarbe von Kirsten verfällt oft in den Alternative Bereich, mit Nuancen zum Orchestralen. Diese Klangfarbe sticht enorm heraus, was man sicherlich mit einer genialeren Produktion besser hätte integrieren können.
 
@@ -182,13 +182,13 @@ Die amerikanischen Pioniere des Deathgrind sind wieder zurück mit ihrem zehnten
 
 ::genre::Old School Deathgrind, Thrash Metal, D-Beat
 
-## Fjørt – belle époque *
+## Fjørt - belle époque *
 
 Die deutsche Kapelle mit ihrem neuesten Werk. Das Grundgerüst wird von Post-Hardcore gehalten. Dieses Grundgerüst wird zum ersten Mal mit Elementen der Electronica ausgestattet, was hin und wieder den Sound in den Modern Metalcore abgleiten lässt. Neben den Electronica Elementen wird auch zum ersten Mal lyrisch ein anderer Bogen gespannt. Diese sind in dieser Zeit sehr politisch geladen, was der Song ‘43 mit der Line “Wir leben in Hakenkreuz-Zeiten” laut heraus schreit. Trotz der etwas neuen Richtung hält das Songwriting bis zum Ende der Scheibe stand.
 
 ::genre::Post Hardcore, Modern Metalcore, Electronica
 
-## Foreword – Exposition
+## Foreword - Exposition
 
 Die neueste EP der texanischen Formation. In der Grundtonalität dominiert der Modern Metalcore, welcher mit modernen Elementen der Electronica und des Deathcore ausgerüstet ist. Das Songwriting selber wird den modernen Metalcore-Kid gefallen. Harsh-Vocals im Wechselspiel mit Clean-Vocals, Deathcore-Riffing, Electronica-Breaks, hard hitting Breakdowns und djent-y Riffing. Hören tut man dies die Tage allerdings sehr viel und wirklich herausstechen tun sie nicht. Für das Century Media Roster könnte es aber ausreichen.
 
@@ -200,7 +200,7 @@ Der Debüt Longplayer des walisischen Quartetts. Eine theatralische Melange aus 
 
 ::genre::Post Rock, Post Metal, Progressive Rock
 
-## Good Tiger – The Most Negative Day Of The Year
+## Good Tiger - The Most Negative Day Of The Year
 
 Die britische “Supergroup” mit ihrem neuesten Release. Die Band vereint Mitglieder von The Safety Fire, TesseracT, Sky Eats Airplane und Architects. Erschaffen wird ein Sound, welcher Progressive Rock, Post-Hardcore, Alternative Rock und Post-Grunge vereint und damit eine faszinierende Evolution begeht. Progressive Post-Hardcore? Melodic Technical Progressive? Beides beschreibt das Songwriting eigentlich ganz gut.
 
@@ -224,7 +224,7 @@ Das amerikanische Trio weiß immer wieder zu überraschen. So haben sie bereits 
 
 ::genre::Psychedelic Rock, Space Rock, Krautrock, Desert Rock, Acid Funk, Progressive Rock, Noise Rock, Jam Band
 
-## Hellstedt – As Right As Rain *
+## Hellstedt - As Right As Rain *
 
 Das Projekt um den schwedischen Multi-Instrumentalisten Mircea Nestor mit seinem Sophomore Release. Der Grundbau des Alternative Metal wird immer wieder in seinen Strukturen durchrüttelt, um ein gewolltes Gegenspiel zu erzeugen. So hört man Noise-Rock, Alt-Folk, Prog-Rock, Black Metal, Groove Metal, Post-Grunge und Desert-Rock oft im Duell mit dem Grundbau, was ein recht breites Experiment auf die Ohren lässt.
 
@@ -242,7 +242,7 @@ Die amerikanische Singer & Songwriterin und Schauspielerin mit ihrem neuesten Al
 
 ::genre::Alternative Pop, Introspective Pop, Synth Pop, Pop
 
-## Incandescence – Hors Temps
+## Incandescence - Hors Temps
 
 Das kanadisch Duo mit seinem neuesten Longplayer. Sie haben eine Bekanntheit in der Métal Noir Québécois Szene erlangt mit ihrem Melodic Black Metal, welcher oft so atmosphärisch ausgelegt ist, dass man Ähnlichkeiten zum DSBM und Atmospheric Black Metal nicht verstecken kann. Die Produktion ist klar auf den Part Atmospheric ausgelegt und besitzt doch den DIY Charme des Black Metal.
 
@@ -278,7 +278,7 @@ Das Debüt der jungen britischen Singer & Songwriterin. Entstanden ist ein Werk,
 
 ::genre::Dancehall, Raggae, R&B, Afrobeat, Pop
 
-## Liz Cooper – New Day
+## Liz Cooper - New Day
 
 Die amerikanische Singer & Songwriterin mit ihrem neuesten Release. Eine experimentelle Melange aus Prog-Pop, Indie-Psych, Indie-Pop und Alt-Pop. Ein Band der Abwechslung umgibt das Songwriting, so dass eine charmante und melancholische Individualität an den Tag gelegt wird.
 
@@ -320,7 +320,7 @@ Der neueste Longplayer der amerikanischen Singer & Songwriterin. Die Komposition
 
 ::genre::Avant-Garde Folk, Indie Folk, Post Rock, Dreampop, Art Rock, Chamber Rock
 
-## Mirrorcell – Long Nights In Lovescape
+## Mirrorcell - Long Nights In Lovescape
 
 Die amerikanische Kapelle mit ihrem Debüt Longplayer. Irgendwo zwischen Pop und Aggression angesiedelt werden Kompositionen des Nu-Metalcore erzeugt, welche mit djent-y Riffing und AOR Refrains versehen sind. Octane-Core? Yes. Century-Media-Core? No.
 
@@ -368,7 +368,7 @@ Der britische Producer und DJ mit seinem neuesten Longplayer. Mit der Fusion von
 
 ::genre::Leftfield Techno, Synth Wave, Ambient Trance, Deep Electronica
 
-## Necronomicon Ex Mortis – Zombie Blood Nightmare
+## Necronomicon Ex Mortis - Zombie Blood Nightmare
 
 Die neue EP der amerikanischen Kapelle. Death Thrash Metal der Old School Schiene. Kompromisslos werden die Gitarren geshredded, wie die Thrasher der 80er. Alles verpackt in ein Riffing von 90er Death Metal. Hinzu kommen ein paar technische Exkurse im Songwriting.
 
@@ -380,13 +380,13 @@ Der neueste Longplayer der Florida-Based Formation. Die “Erfinder” des Easyc
 
 ::genre::Easycore, Pop Punk, Skate Punk
 
-## Nightshade – In Essence Divided *
+## Nightshade - In Essence Divided *
 
 Die Schweizer mit ihrem neuesten Release. Ein Werk der experimentellen Freude wird geboten. Im Songwriting werden 70s Prog-Rock, Thrash Metal, Avantgard Black Metal, Alternative Metal und Melodic Metal vereint, was genug Raum für Kreativität gibt, welcher voll ausgefüllt wird von den Protagonisten. Alles wird mit einer recht reinen Produktion versehen, welche in den legendären Abbey Road Studios abgehalten wurde.
 
 ::genre::Neo Progressive Rock, Thrash Metal, Avant-Garde Black Metal, Alternative Metal, Melodic Metal
 
-## Northern Krig – Worship Files For Anthropophagolagnia Predators
+## Northern Krig - Worship Files For Anthropophagolagnia Predators
 
 Das Sophomore Release der norwegischen Krieger. Rauer, primitiver und melancholischer Black Metal, welcher mit ein paar symphonischen und industrial Elementen versehen wurde. Das Raue und Primitive wurde mit auf die Produktion übertragen, die wie in einer Höhle mit einem zentralen Mikrofone aufgenommen klingt. Das Ganze schadet dem Werk nicht wirklich, sondern gibt ihm einen gewissen nihilistischen Anstrich.
 
@@ -404,25 +404,25 @@ Die kanadische Singer & Songwriterin und Performerin mit ihrem neuesten Album. E
 
 ::genre::Electropop, Electropunk, Industrial, Hyperpop, IDM, Electroclash
 
-## Phasma – Purgatory
+## Phasma - Purgatory
 
 Die internationale (Griechenland, Amerika) Kapelle mit ihrem neuesten Release. Erschaffen wurde ein mitreißendes und aggressives Werk, welches Technical Death Metal, Black Metal, Deathcore und Metallic Hardcore in sich vereint. Die Mixtur wird ohne Zusatz von modernen Elementen in Songwriting und Produktion auf die Menschen losgelassen, was eine Faszination auslösen könnte.
 
 ::genre::Technical Death Metal, Black Metal, Deathcore, Metallic Hardcore
 
-## Phew, Danielle de Picciotto – Paper Masks
+## Phew, Danielle de Picciotto - Paper Masks
 
 Die Kollaboration zwischen der japanischen Künstlerin Hiromi Moritani (Phew) und der deutschen Künstlerin Danielle de Picciotto birgt ein langlebiges musikalisches Experiment, welches fünf Jahre in Anspruch genommen hat. Entstanden ist ein Werk zwischen Poesie, Ambient und Avantgard Electronica. Alles mit einer gewissen Extravaganz und Eleganz der kreativen Schafferinnen.
 
 ::genre::Ambient, Avant-Garde Electronica
 
-## Serpent Gates – The Veil Of Darkness
+## Serpent Gates - The Veil Of Darkness
 
 Der Debüt Longplayer der Finnen. Enthalten ist ein Werk des NWOBHM in einer modernen Produktion. Das Songwriting ist klassisch gehalten, mit Duell-Instrumentalisierung, welche ab und an mit progressiven Ausflügen belohnt wird. Die lytische Untermalung ist klassischen gehalten und besitzt die catchiness, welche NWOBHM auszeichnet.
 
 ::genre::NWOBHM
 
-## Shadowspawn – Cadaver Dogs
+## Shadowspawn - Cadaver Dogs
 
 Die dänische Kapelle mit ihrem neuesten Output. Der Spannungsbogen wird zwischen Schwedish Old School Death Metal, Melodic Death Metal und Groove Death Metal gespannt. Das Songwriting weist wenig Überraschungen in der stilistischen Auslegung auf, was nicht verwundert.
 
@@ -434,7 +434,7 @@ Die Kollaboration zwischen den britischen Producer Ben Felton (Sonant) und dem a
 
 ::genre::Cinematic Ambient, Ambient, Modern Classic, Minimal Drone
 
-## Soul of Anubis – Ritual
+## Soul of Anubis - Ritual
 
 Das neueste Release aus dem Hause Soul of Anubis. In Portugal genießt das Duo eine gewisse Szenen-Bekanntheit. Gespielt wird eine aggressive Auslegung des Sludge Metal, welche mit Elementen des Doom Metal, Groove Metal, Metallic Hardcore, Crust und Post-Metal verfeinert wird. Trotz der aggressiven Auslegung wird genügend Raum gelassen für expressionistische Versuche.
 
@@ -446,13 +446,13 @@ Das neueste Release des amerikanischen Duos. Ihre melancholische Mixtur aus Indi
 
 ::genre::Indie Pop, Dreampop, Acid Funk, Indie Disco
 
-## Story Untold – Generation 404
+## Story Untold - Generation 404
 
 Das kanadische Duo mit seinem neuesten Release, welches ihr erstes Release nach der Entlassung von Hopeless Records ist. Im Songwriting werden neben Sad Pop Punk auch diesmal Kompositionen des Alternative Metal mit eingespannt. Allerdings werden diese nicht mit den Sad Pop Punk in Klang gebracht, sondern haben ihren eigenen Platz, was ein wenig seltsam erscheint.
 
 ::genre::Sad Pop Punk, Alternative Metal
 
-## Stuck/Down – Queue For The Cure
+## Stuck/Down - Queue For The Cure
 
 Die britische Formation mit ihrem Debüt Longplayer. Straighter Groove Metal, welcher die Gefilde des Alternative Metal und Post-Grunge erkundet. Als Vorbild kann man Pantera gut ausmachen, allerdings fehlt den Protagonisten ein wenig das Können um ernst genommen werden zu können. Die Stimme des Frontman variiert zwischen Pantera, Volbeat und Pearl Jam. Die instrumentale Begleitung versucht sein Bestes, klingt am Ende aber ziemlich abgehängt.
 
@@ -464,7 +464,7 @@ Die Veteranen sind nach einem 15 jährigen Hiatus wieder am Start. Die amerikani
 
 ::genre::Stoner Rock, Psychedelic Rock, Psychedelic Pop, Hardcore Punk
 
-## Sydney Quiseng – That’s My Baby!
+## Sydney Quiseng - That’s My Baby!
 
 Die amerikanische Singer & Songwriterin und Lead-Vocalistin von Echosmith mit ihrer Sophomore Solo-EP. Eine Melange aus Indie-Pop und Americana wird erzeugt und eingängig durch die Gehörgänge gejagt.
 
@@ -488,7 +488,7 @@ Das deutsche Duo mit seinem neuesten Output. Eine Melange aus Americana, Country
 
 ::genre::Americana, Country Rock, Indie Folk
 
-## The Magus – Daemonosophia
+## The Magus - Daemonosophia
 
 Das Solo-Projekt um “The Magus” (George Zacharopoulos) mit seinem Sophomore Longplayer. Ein Werk des Hellenic Black Metal, welcher sich durch seine Aggressivität auszeichnet. Diese Aggressivität wird durch theatralische und atmosphärische Elemente erweitert, um ein größeres und ausgereiftes Klangerlebnis des Nihilismus zu erzeugen.
 
@@ -500,31 +500,31 @@ Die zweite Kollaboration zwischen dem amerikanischen Trio und dem amerikanischen
 
 ::genre::Jazz Fusion, Jazz Punk, Free Jazz, Avant-Garde Jazz, Art Rock, Math Rock
 
-## The Veer Union – Reinvention
+## The Veer Union - Reinvention
 
 Die kanadische Formation mit ihrem neuesten Werk, welches ich in die Riege der “Sameness” eingliedern würde. Nur geeignet für das Ohr des Massensounds oder wie ich es gern betitel “Century-Media-Core”. Djent-y Modern Alternative Metal, mit aggressiven Modern Metalcore Sprenkel und Breakdowns. Am Ende ist es ein reines Produkt und weniger ein Werk, was die Natur des “neuen Metalsounds” vermutlich am besten zum Ausdruck bringt.
 
 ::genre::Modern Metalcore, Djent, Deathcore
 
-## Tim Easton – fIREHORSE
+## Tim Easton - fIREHORSE
 
 Das neueste Studioalbum des amerikanischen Singer & Songwriters. Eine Melange aus Roots-Rock, Americana, Country-Blues und Folk. Das Album markiert eine Rückkehr zu einem „Full-Band-Sound“, ähnlich wie bei seinen Werken aus den frühen 2000er Jahren, und schafft eine Balance zwischen „kraftvollen“, auf Tournee erprobten Rhythmen und intimen akustischen Geschichten.
 
 ::genre::Roots Rock, Americana, Country Blues
 
-## trauma ray – Carnival
+## trauma ray - Carnival
 
 Die amerikanische Formation mit ihrer neuesten EP. Die Band selbst beschreibt sich als “Grungegaze”, was die Kompositionen im Grunde gut umschreibt. Hier wird eine Melange aus Post-Grunge, Alternative Rock und Shoegaze erzeugt, welche ab und an auch einen Hauch Sludge abbekommt, ohne aber wirklich in diesen abzurutschen, sondern eher die Kraft in der Produktion nutzt.
 
 ::genre::Grungegaze, Post Grunge, Alternative Rock, Shoegaze
 
-## Unmother – State Dependent Memory
+## Unmother - State Dependent Memory
 
 Das Sophomore Release des britischen Trios. Thematisch können sie den RABM zugewiesen werden, durch ihre klare Ablehnung von Faschismus, Nationalismus, Sexismus und Rassismus, welche in den Lyrics zum Ausdruck gebracht wird. Das Songwriting bietet aggressiven, rauen Black Metal, welcher kleine experimentelle und avantgardistische Auflockerungen erfährt.
 
 ::genre::RABM, Avant-Garde Black Metal
 
-## Worm Shepherd – Dawn Of The Iconoclast
+## Worm Shepherd - Dawn Of The Iconoclast
 
 Die amerikanische Formation mit ihrer neuesten EP. Modern Technical Death Metal, welcher mit Elementen des Symphonic Death Metal und Deathcore versehen ist. Symphonisch-technische Parts treffen auf Deathcore “gegurgel”, Symphonic Black Metal Riffing und Deathcore Breakdowns. Wie man es von den neuen Größen der Symphonic Deathcore Szene gewohnt ist.
 
@@ -558,7 +558,7 @@ Das neueste Output vom Soloprojekt des italienischen Multi-Instrumentalisten Gae
 
 ::genre::DSBM
 
-## Death Of Youth – Nothing Is The Same Anymore *
+## Death Of Youth - Nothing Is The Same Anymore *
 
 Das Debüt des britischen Outfits. Gespielt wird eine klassische und straighte Form des Melodic Hardcore, welcher mit MIdwest Emo Einflüssen hier und da versehen wird. Wie die Form, so auch das Songwriting. Straight. Klassisch. Bei Melodic Hardcore kann ich nicht Objektiv werden, da es zu einer subjektiven Lebens-Leidenschaft gehört. Wer Touché Amoré, Broom, Have Heart und Defeater etwas anfangen kann, wird hier mit Freude seine Ohren verlieren.
 
@@ -570,7 +570,7 @@ Das physische Release vom schwedischen Producer Ludvig Cimbrelius. Eine imaginä
 
 ::genre::Deep Ambient, Ethereal, Modern Classic
 
-## neverbloom – neverbloom
+## neverbloom - neverbloom
 
 Die Sophomore EP der kalifornischen Formation. Modern Metalcore mit Elementen der Modern Classic. Das Songwriting erinnert an Architects und und und … keine eigenen Merkmale. Songwriting und Produktion verschwinden im Meer der Sameness, wie so vieles.
 

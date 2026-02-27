@@ -6,7 +6,7 @@ categories:
 
 # Releases! Releases! Releases!
 
-## Aeveris – Imminence (Act I: Roots)
+## Aeveris - Imminence (Act I: Roots)
 
 Die Belgier mit ihrer Sophomore EP. Irgendwo zwischen Melodic Death Metal und Alternative Metal treffen sich die Welten hier. Alles mit nicht zu viel Schrittmaß zum Modern Metal aber mit recht wiederholenden Songwriting, was das Gesamtwerk doch recht langweilig gestaltet, trotz der nur fünf Songs.
 
@@ -18,7 +18,7 @@ Der venezolanische Jazz-Gitarrist mit seinem neuesten Werk. Entstanden ist ein k
 
 ::genre::Guitar Jazz, Latin Jazz, Boogaloo
 
-## American Theory – Where Did All The Flowers Go?
+## American Theory - Where Did All The Flowers Go?
 
 Die amerikanische Formation mit ihrem neuesten und dritten Longplayer in ihrer Discography. Eine moderne Ausschreibung des Post-Hardcore, welcher mit Elementen der Electronica, Synth-Wave und EDM ausgestattet wurde. Die modernen Kompositionen werden in eine passende Post-Hardcore-Produktion verpackt.
 
@@ -44,7 +44,7 @@ Das neueste Werk des isländischen Singer & Songwriters. Sein erster Longplayer,
 
 ::genre::Folk Pop, Indie Pop, Neo Soul
 
-## Ashbringer – Subglacial
+## Ashbringer - Subglacial
 
 Die amerikanische Band mit ihrem neuesten Release. Eine Melange aus Post Black Metal, Melodic Black Metal und Post-Hardcore, welcher leider unter seiner merkwürdigen und hoffentlich nicht gewollten Produktion sehr leidet. Das Songwriting selber birgt sehr viele intensive wie melancholische Momente.
 
@@ -68,13 +68,13 @@ Das Debüt der amerikanischen Singer & Songwriterin. Irgendwie klingt das Ganze 
 
 ::genre::Hard Rock, Alternative Rock, Emocore
 
-## Black Orchid Empire – Scissormouth
+## Black Orchid Empire - Scissormouth
 
 Das britische Trio mit seinem neuesten EP. Eine Melange aus Modern Progressive Metal und Modern Rock. Das Songwriting bietet eine gute Abwechslung und einen gewissen Hauch von Post-Hardcore alà Coheed and Cambria.
 
 ::genre::Modern Progressive Metal, Modern Rock, Post Hardcore
 
-## Borrower – Killerdemons
+## Borrower - Killerdemons
 
 Der Debüt Longplayer der italienischen Formation. Eine Melange aus Thrash Metal und Heavy Metal, welcher eine progressive Note zugeschrieben wird, was aber nur aus der Ferne erkenntlich ist.
 
@@ -128,7 +128,7 @@ Die amerikanische Kapelle mit ihrem neuesten Studio-Output. Die auf Mathcore und
 
 ::genre::Mathcore, Metalcore, Thrash Metal, Metallic Hardcore
 
-## Deathraw – Reduces To Ashes
+## Deathraw - Reduces To Ashes
 
 Das französische Kollektiv mit seiner Debüt EP. Entstanden ist ein klassisches Werk des Bay-Area-Thrash, welches mit einer modernen aber dennoch rauen Produktion versehen wurde. Das Songwriting erfüllt auch alle Wünsche des Thrash-Jünger.
 
@@ -146,7 +146,7 @@ Das Debüt der italienischen Formation. Mit der passenden Attitüde und dem Kön
 
 ::genre::Progressive Rock, Mediterranean Folk, Mediterranean Pop, Avant-Garde Pop
 
-## Diskust – Skin Cage
+## Diskust - Skin Cage
 
 Die Sophomore EP der australischen Band. Modern Metalcore, welcher mit ein paar Sprenkeln Deathcore versehen ist. Die Kompositionen werden alle mit einer Portion Nu-Metal und Metallic Hardcore versehen. Obwohl das Songwriting ein paar Überraschungen bereit hält, fällt es am Ende doch recht einfältig aus.
 
@@ -164,13 +164,13 @@ Die Sophomore EP der amerikanischen Formation. Eine Melange aus Alt-Rock, Modern
 
 ::genre::Alternative Rock, Modern Progressive Rock, Dreampop, Noise Rock
 
-## Eye Of Purgatory – Darkborne
+## Eye Of Purgatory - Darkborne
 
 Das schwedisch/amerikanische Kollektiv mit seinem neuesten Werk. Im Grundbau wird Old School Death Metal geboten, welcher mit Thematiken des Sci-Fi umgeht und entsprechend Elemente des Sci-Fi-Synth mit in seine Kompositionen einbindet.
 
 ::genre::Old School Death Metal, Cosmic Death Metal
 
-## First And Forever – Faith, Love, Doubt And Everything In Between
+## First And Forever - Faith, Love, Doubt And Everything In Between
 
 Das amerikanische Trio mit seiner neuesten EP. Vier Kompositionen des Sad Pop Punk der Tik Tok Generation werden geboten. In Produktion und Songwriting bilden eine gute Metamorphose und unterstreichen jeden Aspekt in sich.
 
@@ -182,25 +182,25 @@ Die Kollaboration zwischen dem amerikanischen Duo Flutronix und dem Chicago Sinf
 
 ::genre::Chamber Orchestra, Electronica, Neo Soul
 
-## Forcefed Horsehead, Shaving The Werewolf – From Horrid To Worse
+## Forcefed Horsehead, Shaving The Werewolf - From Horrid To Worse
 
 Die Split der beiden norwegischen Powerhouses. Forcefed Horsehead bezeichnen sich selbst als “Grindpunk”, was sich am Ende als eine Mixtur aus Death Metal, Hardcore und Crust Punk herausstellt. Shaving The Werewolf spielen einen avantgardistischen und experimentellen Mix aus Powerviolence, Noise Rock und Mathcore.
 
 ::genre::Grindpunk, Deathgrind, Hardcore, Crust, Powerviolence, Noise Rock, Mathcore, Avant-Garde Rock
 
-## Fossilization – Advent Of Wounds
+## Fossilization - Advent Of Wounds
 
 Der Sophomore Longplayer der brasilianischen Formation. Im Grunde folgen die Brasilianer dem schwedischen Ausleger vom Old School Death Metal, welcher durch seine doomigen Stellen einen Sprung in den Bay Area Death wagt und mit seiner Atmosphäre dem Blackened Death recht nah steht.
 
 ::genre::Old School Death Metal
 
-## Frostmorner – Orbital Kaos
+## Frostmorner - Orbital Kaos
 
 Das Projekt um den italienischen Multi-Instrumentalisten und Producer “Mario Crow” mit seinem Debüt Longplayer. Geboten wird Blackened Cosmic Death Metal, welcher in seiner Thematik Lovecraft einen Tribut zeugt und im Songwriting dem Death Metal einen theatralisch-kosmischen Anstrich verleiht.
 
 ::genre::Cosmic Death Metal, Black Metal
 
-## Frozen Ocean – Askdrömmar
+## Frozen Ocean - Askdrömmar
 
 Nach gut 10 Jahren Release Hiatus ist das russische Projekt um den Multi-Instrumentalisten “Vaarwel” zurück mit einem neuen Werk. Komplett in schwedisch eingesungen wird ein kalter aber avantgarder Mix aus Atmospheric Black Metal, Post-Punk, Dark-Wave und Dark-Ambient.
 
@@ -212,7 +212,7 @@ Der kanadische Singer & Songwriter mit seinem neuesten Werk. Ein sehr persönlic
 
 ::genre::Indie Folk, Melancholic Folk
 
-## Glassbone – Ruthless Savagery
+## Glassbone - Ruthless Savagery
 
 Die Sophomore EP des französischen Outfits. Brutal Death Metal, welcher seine Hardcore-Wurzeln nicht verbergen kann. Durch sein aggressives Auftreten wird auch an und an am Slam vorbei geschrammt, ohne jedoch jemals den Death Metal aus dem Zentrum zu verlieren.
 
@@ -230,7 +230,7 @@ Der amerikanische Singer & Songwriter, Gitarrist und Producer Stefan Beck mit se
 
 ::genre::Ambient Folk, Instrumental
 
-## Heartbent – Bloodlust: Heartbreak Or Death
+## Heartbent - Bloodlust: Heartbreak Or Death
 
 Das Sophomore Release der amerikanischen Band, welche dem Style der zweiten Emo-Welle aufgreifen. Die Kompositionen bewegen sich zwischen Sad Pop Punk, Post-Hardcore und Metalcore. Die Produktion unterstützt das Songwriting exzellent mit ihrer early 2000er Technik. Das gesamte Werk holte Erinnerungen hervor, wenn ich allein mit meinem Skateboard durch die Nacht der trostlosen Plattenbauten gerollt bin.
 
@@ -260,7 +260,7 @@ Das neueste Output vom australischen Trio. Eine Melange aus Indie-Rock, Post-Gru
 
 ::genre::Indie Rock, Post Grunge, Art Rock
 
-## Human Error – sour chalk water
+## Human Error - sour chalk water
 
 Die neueste EP der amerikanischen Formation. Erinnerungen an White Pony werden in die Moderne verfrachtet. Die Beschreibung Nu-Gaze passt hier vermutlich am besten, da es das Spektrum Alt-Metal meets Shoegaze meets Dream Pop am besten einfängt. Das Songwriting ist träumerisch und gut abgestimmt, so dass keine wirklichen Lücken im Gesamtbild erscheinen. Die Formation lässt auf einen Longplayer hoffen.
 
@@ -272,7 +272,7 @@ Die “Queen of Neo-Soul” is back! Nach einem 11 jährigen Release-Hiatus brin
 
 ::genre::Neo Soul, Trip Hop, R&B, Acid Funk, Cocktail Jazz, Hip Hop, Acid House
 
-## Kröwnn – Santa Somnia
+## Kröwnn - Santa Somnia
 
 Die italienische Formation mit ihrem neuesten Longplayer. Im Fundament wird dem Doom Metal gehuldigt. Dieser wird mit Elementen des Thrash Metal, Stoner Metal und Psych-Rock ausgestattet. Der Sänger könnte auch eine Karriere an der Country-Front machen, was jetzt aber auch nicht untypisch ist im Doom Metal.
 
@@ -320,7 +320,7 @@ Die amerikanische Singer & Songwriterin mit einer Track-to-Track-Reinterpretatio
 
 ::genre::Bedroom Pop
 
-## Malefic – Impermanence
+## Malefic - Impermanence
 
 Der Debüt Longplayer der amerikanischen Band. Die Kompositionen sind eine Melange aus Blackened Thrash Metal und Blackened Death Metal. Mit entsprechend viel Antrieb wurde das Songwriting ausgestattet. Freunde der End 90er Schweden-Schule kommen hier auch auf ihre Kosten in meinen Augen. Einflüsse von Dark Tranquillity und Children of Bodom lassen sich im Songwriting sehen.
 
@@ -338,7 +338,7 @@ Das Debüt der britischen Multi-Instrumentalistin, Komponistin und Producerin. D
 
 ::genre::UK Jazz, Trip Hop, Neo Soul, Spiritual Jazz, Post Bop
 
-## No Worth Of Man – The Killing Streets
+## No Worth Of Man - The Killing Streets
 
 Der Debüt Longplayer des britischen Trios. Eine geradlinige Melange aus Groove Metal, Metalcore und Modern Melodic Death Metal. Das Songwriting scheint sich im early 2000 Metalcore recht sicher zu fühlen, nutzt aber Elemente des Groove Metal, um ein wenig Auflockerung zu erzeugen.
 
@@ -374,7 +374,7 @@ Die amerikanische Formation mit ihrem neuesten Release. Eine Melange aus Indie-R
 
 ::genre::Indie Rock, Power Pop, Alternative Rock, Post Grunge
 
-## Rise In Vein – Bitter Gravity
+## Rise In Vein - Bitter Gravity
 
 Das Debüt der kanadischen Band. Ein Exkurs in den Modern Alternative Metal wird als Grundtenor genutzt, welcher Ausflüge in den Modern Metalcore und Post-Industrial als Option anbietet. Alles wird mit der passenden AOR Produktion versehen, welche den modernen Charakter unterstützt.
 
@@ -386,13 +386,13 @@ Die schwedische Formation mit ihrem neuesten Output. Eine Melange aus Power Pop,
 
 ::genre::Power Pop, Alternative Rock, Post Grunge, Pop Rock
 
-## Saille – Forebode
+## Saille - Forebode
 
 Das niederländische Outfit mit seinem neuesten Output. Eine melancholische wie theatralische Melange aus Melodic Black Metal und Atmospheric Black Metal. Das raue Songwriting wird mit dem Einsatz von orientalischer, wie folklore Instrumentalisierung verfeinert, so dass genug Abwechslung in der Kälte zu finden ist.
 
 ::genre::Melodic Black Metal, Atmospheric Black Metal
 
-## Sever – Another Nightmare
+## Sever - Another Nightmare
 
 Das Sophomore Release der litauischen Kapelle. Eine moderne Komposition zwischen Modern Post-Hardcore, Alternative Metal, Mathcore, Post Black Metal, Modern Progressive Metal und Metalcore. Das Songwriting ist abwechslungsreich und stimmig trotz der hohen Energie.
 
@@ -416,7 +416,7 @@ Die ukrainische Formation mit ihrem neuesten Output. Ein übersichtlich aufregen
 
 ::genre::Metalcore, Post Metal, Post Hardcore, Nu Metal, IDM
 
-## Story Of The Year – A.R.S.O.N.
+## Story Of The Year - A.R.S.O.N.
 
 Die amerikanische Formation mit ihrem neuesten Werk. Mit ihren neuen Material bewegen sie sich wieder mehr in die Post-Hardcore-Richtung ihres Debüts und weg von dem mehr Alternative Rock Kompositionen der letzten Releases. Entstanden ist ein nostalgisches Werk des Post-Hardcire, welches Elemente des Easycore mit in sich vereint.
 
@@ -458,13 +458,13 @@ Das neueste Werk der amerikanischen Kapelle. Mit dem neuen Indie-Label-Vertrag i
 
 ::genre::Indie Folk, Cosmic Rock'n'Roll, Art Rock, Progressive Pop
 
-## Unseen Faith – Fractured Will
+## Unseen Faith - Fractured Will
 
 Die dänische Formation mit ihrer neuesten EP. Im Songwriting haben sie nicht wirklich eine Weiterentwicklung erfahren. Weiterhin wird Nu-Metalcore gekreuzt mit Deathcore. Dabei wird der heavy Anteil und die Energie immer hoch gehalten. Dennoch klingt es nicht weiter erfrischend.
 
 ::genre::Nu Metalcore, Deathcore
 
-## Witches Coven – Soul Reaper
+## Witches Coven - Soul Reaper
 
 Die Singapore-Based Formation mit ihrem Sophomore Release. Eine Melange aus Stoner Rock und Doom Metal wird geboten, welche von Zeit zu Zeit mit Psych-Rock-Elementen versehen wird. Der Mix des Releases ist ein wenig seltsam ausgefallen, da dieser sich sehr auf die Vocals konzentriert und dadurch einen Hard-Rock-Anstrich bekommt, was dem Werk nicht wirklich in die Arme spielt, besonders wenn der Gesang nicht wirklich stark ist.
 
@@ -498,13 +498,13 @@ Die letzen beiden Teile der “Void Series” vom japanischen Producer und Küns
 
 ::genre::Minimal Ambient, Post Rock, Drone
 
-## Echoes And Signals – Solar *
+## Echoes And Signals - Solar *
 
 Das Projekt um den russischen Gitarrist, Sänger und Producer mit seinem neuesten Output. Mit Können wird hier eine fiktionale Sci-Fi-Oper des Modern Progressive Rock erzeugt. Hin und wieder werden Fragmente des Progressive Metal mitverarbeitet. Sehr theatralisches und aufregendes Songwriting, versehen mit einer modernen Produktion, welche dem Werk mehr hilft am Ende.
 
 ::genre::Modern Progressive Rock, Progressive Metal
 
-## Greyhawk – Warriors Of Greyhawk
+## Greyhawk - Warriors Of Greyhawk
 
 Die amerikanische Formation mit ihrem dritten Longplayer in ihrer Discography. Ein recht klassisches Werk des Modern Heavy Metal, welches auch Elemente des Power Metal nicht von sich weisen kann. Durch die sehr ausgeglichene Produktion könnte Mensch dieses Album dem AOR zuordnen, allerdings werden doch recht schnelle klassische Heavy Metal Riffs gespielt, was die “Radiotauglichkeit” in Frage stellen könnte.
 
@@ -522,13 +522,13 @@ Die schwedische Formation mit ihrem neuesten Release. Eine dunkle wie melancholi
 
 ::genre::Post Punk, Indie Rock, Krautrock
 
-## Sun Guts – Kilonova *
+## Sun Guts - Kilonova *
 
 Das Debüt des Projekts um den amerikanischen Multi-Instrumentalisten Greg Kubacki, welcher die Gitarre bei der Mathcore Band Car Bomb bemüht. Entstanden ist ein instrumentales Monument des Mathcore, welches mit Electronica, Shoegaze und Technical Brutal Death Metal durchzogen wird und die entsprechenden Dissonanzen nur so tanzen lässt.
 
 ::genre::Mathcore, Electronica, Shoegaze, Technical Brutal Death Metal
 
-## THEIVEN – Three Trips Around The Sun
+## THEIVEN - Three Trips Around The Sun
 
 Das Projekt um den amerikanischen Multi-Instrumentalisten, welcher unter dem Namen Addison bekannt ist. Entstande ist ein modernes Werk des Metalcore, welches Elemente des Modern Deathcore und Djent in sich bindet. Im Gesamtdurchlauf bleibt am Ende nicht viel im Ohr hängen, außer möglicherweise Verwechslungen mit anderen Bands.
 

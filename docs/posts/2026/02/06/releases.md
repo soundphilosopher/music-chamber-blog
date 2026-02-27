@@ -6,19 +6,19 @@ categories:
 
 # Releases! Releases! Releases!
 
-## Ablaze – Slow Death
+## Ablaze - Slow Death
 
 Die Debüt EP der portugiesischen Formation. Eine geniale Inszenierung von Mathcore und Post-Hardcore im Gewand der 90er Produktion. Recht geniales und raues Songwriting, welches in der Präsentation der Songs ständig zwischen Hardcore und Mathcore wechselt, ohne stockend zu wirken. Fans von Converge, Botch und Poison The Well können beruhigt ein Ohr lassen.
 
 ::genre::Mathcore, Post Hardcore
 
-## Adeline Gray – Portrait Of Our Descent
+## Adeline Gray - Portrait Of Our Descent
 
 Das italienische Outfit mit seiner Debüt EP. Die Alternative Metaller vereinen in ihren Kompositionen Metallic Hardcore, Groove Metal, Mathcore, Metalcore und Post-Hardcore, wobei der Hardcore-Anteil überwiegt am Ende. Recht spannendes Songwriting, welches alle Genre überspannt, aber nie wirklich wie ein Debüt erscheinen mag.
 
 ::genre::Metallic Hardcore, Groove Metal, Mathcore, Metalcore, Post Hardcore
 
-## Agenbite Misery – Remorse Of Conscience *
+## Agenbite Misery - Remorse Of Conscience *
 
 Das Debüt des amerikanischen Trios, welches sich Ulysses von James Joyce im Songwriting und Lyrics vornimmt. Entstanden ist ein existentiell-avantgardes Werk des Sludge? So einfach ist es leider nicht. Hier wird eine Fusion von Noise, Experimental Black Metal, NOLA Sludge, Post-Punk und DIssonant Death Metal geliefert. Elementar werden auch Elemente des Ambient, Post-Rock und Mathcore mit einbezogen, so dass die Gesamt-Komposition von Abwechslung nur so strotzt.
 
@@ -38,19 +38,19 @@ Die britische Singer & Songwriterin mit ihrem Solo-Debüt. Man kennt sie aus dem
 
 ::genre::Art Pop, Indie Pop, Shoegaze, Progressive Pop
 
-## All The Damn Vampires – Vicecore
+## All The Damn Vampires - Vicecore
 
 Das Projekt, welches unter dem amerikanischen Multi-Instrumentalisten und Producer Davey Oberlin geboren wurde, mit seinem Debüt Longplayer. Eine Melange aus New-Retro-Wave und Alternative Metal. Keine wirkliche Neuheit und auch im Songwriting wird nicht so viel geboten am Ende. Die Produktion birgt auch nicht wirklich viel, was bei dem Repertoire Davey’s merkwürdig erscheint.
 
 ::genre::New Retro Wave, Alternative Metal
 
-## Among Wolves – Reflections Of The End *
+## Among Wolves - Reflections Of The End *
 
 Mit ihrem dritten Longplayer vervollständigen die Dänen ihr 2022 Werk The Void Above. Beim Riffing erkenne ich viel Death, aber auch moderne Melodic Death Einflüsse. So ist die Gesamt-Komposition irgendwo zwischen klassischem Florida Death Metal, Melodic Death Metal und Progressive Metal. Ein recht spannendes Werk in Songwriting und Produktion.
 
 ::genre::Florida Death Metal, Melodic Death Metal, Progressive Death Metal
 
-## Artifact – Umbra
+## Artifact - Umbra
 
 Die australische Formation mit ihrer neuesten EP, welche die physische Zusammenfassung ihrer Streaming-Singles darstellt. Modern Metalcore, welcher nicht wirklich viel Bewegung in sich trägt, trotzdem dem Genre ein gewisse Progressivität zugeschrieben wird. Die Produktion selber ist dem Genre typisch recht bombastisch, am Songwriting selber muss gearbeitet werden, um sich in “der Welt” behaupten zu können.
 
@@ -74,13 +74,13 @@ Das Sophomore Release des dänischen Singer & Songwriters und Visual-Artist Barb
 
 ::genre::Alternative Pop, Leftfield Pop, Alternative Folk, Minimal Electronica, Indie Folk
 
-## Before I Turn – Immoral And Malevolent Happenings
+## Before I Turn - Immoral And Malevolent Happenings
 
 Die amerikanische Combo mit ihrem neuesten Release. Modern Metalcore mit einem gewaltigen Kick Progressive Metal. Die Kompositionen werden von djent-y, symphonic, theatralischen, math-y und deathcore-y Elementen begleitet. Die ganze Rezeptur eröffnet weit die Türen im Songwriting, welches am Ende recht bleak ausfällt. Ideen sind vorhanden, um sich von “der Masse” abzuheben.
 
 ::genre::Modern Metalcore, Progressive Metal, Djent, Mathcore, Deathcore
 
-## Belonging, Inny – The Dog
+## Belonging, Inny - The Dog
 
 Die Split EP der beiden Portland-Based Bands. Belonging spielen ihren Mix aus Post-Grunge, Sludge und Alt-Rock in ihrem eher schleppenden Tempo. Inny versucht die Zügel dann ein wenig anzuziehen mit ihrem Mix aus Garage-Rock und Garage-Punk, mit einer kleinen Hardcore-Note. Allerdings werden auch hier die Zügel eher locker angefasst, so dass die Split durchweg eher eine Melancholie abbildet.
 
@@ -98,13 +98,13 @@ Das international aktive Kollektiv (UK, Italien, USA, Schweden)  bietet zu seine
 
 ::genre::Neo Progressive Rock, Folk Fusion, Chamber Pop, Symphonic Rock
 
-## Blossoms Fall – La Alma
+## Blossoms Fall - La Alma
 
 Die amerikanische Formation mit ihrer Debüt EP. Vom Label als “Sound like Spiritbox and Jinjer” gelabelt, wird den Hörer/der Hörerin eine enorme Falle gestellt, denn man kann nicht weiter vom Songwriting und Produktion weg sein. Wenn man dem Scam vom Label missachtet, wird Mensch ein recht straightes Werk des Modern Metalcore geboten, welches Einflüsse von Post-Hardcore und Alt-Metal nicht verschweigen kann.
 
 ::genre::Modern Metalcore, Alternative Metal, Post Hardcore
 
-## Cattle Hammer – Dark Thoughts With Lights Out
+## Cattle Hammer - Dark Thoughts With Lights Out
 
 Oh boy. My ears are bleeding. Der Debüt Longplayer der australischen Band. Bereitgestellt wird Blackened Funeral Sludge? Nihilistisch wird das Tempo auf das Minimum heruntergeschraubt und mit sludge-y Riffs versehen.
 
@@ -128,7 +128,7 @@ Die Kollaboration zwischen der griechischen Producerin Maria Papadomanolaki (Dal
 
 ::genre::Minimal Neo Classic, Ambient, Field Recordings
 
-## Daniele Brusaschetto – Dichotomous *
+## Daniele Brusaschetto - Dichotomous *
 
 Das neueste Werk von der italienischen “Noise Ikone”. Wieder im “Power Trio” formiert wird dem Ohr sehr viel geboten. In den Kompositionen wird meist ein Skelett geboten zwischen Thrash Metal und Sludge, welches sich im Verlauf der Songs mit Progressive Rock, Space Rock, Post Punk, Alt-Rock, Gothic Rock, Math Rock, Noise Rock und Psychedelic füttert und zu einer meisterlichen Demonstration des Avantgarde Metal heran wächst.
 
@@ -140,7 +140,7 @@ Die legendäre East-LA Hip Hop Crew mit ihrem neuesten Release zu ihrem 30 jähr
 
 ::genre::Hip Hop
 
-## Dethrüt – PANACEA
+## Dethrüt - PANACEA
 
 Das Newcomer Release des britischen Duos. Eine Melange aus Nu-Metalcore, Deathcore und Industrial wird am Ende geliefert. Abheben tut sich das Duo ein wenig wegen der Industrial-Einflüsse, welche es allerdings nicht alle Kompositionen der EP geschafft haben.
 
@@ -170,31 +170,31 @@ Das Sophomore Release des slowakischen Outfits. Eine Melancholie des Blackened D
 
 ::genre::Old School Death Metal, Thrash Metal, Melodic Black Metal
 
-## Epinikion – The Force Of Nature
+## Epinikion - The Force Of Nature
 
 Die belgische Formation mit ihrem neuesten Werk. Ihr theatralischer Symphonic Power Metal und der Dual-Gesang bilden Kompositionen, welche sich wie eine Oper anfühlen und dabei nie die heavy Instrumentalisierung aus dem Auge verlieren.
 
 ::genre::Symphonic Power Metal
 
-## Evoked Eclipse – The Cries Of Evil *
+## Evoked Eclipse - The Cries Of Evil *
 
 Der Debüt Longplayer der italienischen Combo. Ein melancholisches und melodisches Werk des Black Metal wird geboten, welches mit langen, kalten und träumerischen Passagen die Kompositionen fast in einen Nebel aus Misanthropie, Nihilismus und Dystopie verwandelt. Die Melancholien entwickeln sich gut im avantgardistischen Songwriting.
 
 ::genre::Melodic Black Metal
 
-## Falling Empires – This Is The End
+## Falling Empires - This Is The End
 
 Die Debüt EP der britischen Formation kann sich sehen lassen. Eine Melange aus Post-Hardcore, Metalcore und Emocore wird im Grundbau geboten. Dieser Grundbau wird vor allem beim letzten Track mit recht progressiven Strukturen versehen, was Hoffnungen im Songwriting beschert. Der EP wurde dank Joe Marsh eine hervorragende Produktion verliehen.
 
 ::genre::Post Hardcore, Metalcore, Emocore
 
-## Feral Nature – Cradle Of Twigs & Bone
+## Feral Nature - Cradle Of Twigs & Bone
 
 Die Sophomore EP der norwegischen Formation. Irgendwo zwischen Post-Sludge, Atmospheric Sludge und Sludge-Crust treffen sich die Welten hier. Ein Werk, welches die Energie von Hardcore in die Tiefen des Sludge zieht wie Sagittarius A* Sterne in sich zieht.
 
 ::genre::Post Sludge Metal, Atmospheric Sludge, Crust
 
-## Forced To Bleed – Forced To Bleed
+## Forced To Bleed - Forced To Bleed
 
 Das kalifornische Duo mit seiner neuesten EP. Technical Brutal Death Metal, welcher einige slam-y und deathcore-y Passagen versucht zu verbergen, im technischen Gitarrenspiel. Trotz der Ambition ist das Songwriting doch eher ohne Atem ausgerüstet.
 
@@ -206,7 +206,7 @@ Die griechische Formation mit ihrem neuesten Longplayer. Eine Komposition des Gr
 
 ::genre::Groove Metal, Metalcore, Alternative Metal, Metallic Hardcore
 
-## grāvelōrd – ANESTHETIC
+## grāvelōrd - ANESTHETIC
 
 Die Amerikaner mit ihrem Debüt Longplayer. Modern Metalcore, welcher mit einer Portion Nu-Metal und Post-Hardcore zu einer Art melodischen aber nicht progressiven Bogen zu Nu-Metalcore interpretiert werden kann. Abwechslungsreiches Songwriting, welches mehr eine straighte Form annimmt am Ende. Alles wurde in eine elegante Produktion verpackt.
 
@@ -218,7 +218,7 @@ Das neueste Werk des italienischen Komponisten. Das Projekt beschreibt eine „i
 
 ::genre::Neo Classic, Ambient
 
-## Heir Corpse One – Destination: Domination
+## Heir Corpse One - Destination: Domination
 
 Der Sophomore Longplayer der schwedischen “Supergroup”. Klassischer Schweden Death Metal wird dem Ohr geboten im Sound der “Sunlight Studio” Ära. D-Beat Drumming trifft auf Gitarren, welche sich wie Kettensägen durch die Kompositionen bewegen.
 
@@ -230,13 +230,13 @@ Das deutsche Trio mit seinem neuesten Werk. Das Album bildet eine Morphose von a
 
 ::genre::Atmospheric Pop, EDM
 
-## I Am Mook – Hollow Allegory
+## I Am Mook - Hollow Allegory
 
 Die amerikanische Band mit ihrer Sophomore EP. Myspace Deathcore hat man früher dazu gesagt. Deathcore, welcher mit vielen Movie-Samples, Electronica, Frequency-Masking und lästigem E-Drumming die Nerven verbiegen kann.
 
 ::genre::Deathcore, Electronica
 
-## In Aeternum – …Of Death And Fire
+## In Aeternum - …Of Death And Fire
 
 Nach einer kleinen 20-jährigen Auszeit sind die Schweden mit demselben Line-Up wieder am Start. Es dröhnt ein Werk des Blackened Melodic Black/Death Metal aus den Boxen oder den Kopfhörern. Im Songwriting, wie auch der Produktion, wird eher eine Gerade gelaufen, welche nicht viele Kurven oder Kreuzungen anzubieten weiß.
 
@@ -254,7 +254,7 @@ Die Australier haben ihre 13 jährige Auszeit anscheinend gut genutzt, um mit vo
 
 ::genre::Alternative Rock, Progressive Metal, Neo Progressive Rock, Psychedelic Rock, Desert Rock
 
-## KMFDM – ENEMY
+## KMFDM - ENEMY
 
 Das Projekt um den “Vater des Industrial Rock” mit seinem neuesten Werk, welches das 24ste in ihrer langen Karriere darstellt. Auch nach über 40 Jahren im Geschäft sind die Kompositionen nicht weniger intensiv. Industrial Rock, welcher auch Elemente des Dark Wave, Post-Punk und Industrial Metal in sich verbaut und mit der entsprechenden Produktion wie auch treibenden Songwriting ausgestattet ist.
 
@@ -296,43 +296,43 @@ Das Projekt um den argentinischen Multi-Instrumentalisten Lucas Wyssbrod mit sei
 
 ::genre::Post Metal, Doom Metal, Black Metal, Cinematic Ambient, Noisecore, Crust, Instrumental
 
-## Mors Verum – Canvas
+## Mors Verum - Canvas
 
 Das Debüt der kanadischen Formation bildet ein Experiment in sich selbst. In der Morphose des Songwritings werden Death Metal, Sludge, Post-Prog, Math-Rock und Crust zu einer evolutionären Figur vereint. Das Songwriting bietet viele verschiedene Experimente, welche exzellent in Form gebracht werden. Die Vocals wirken im Gegensatz zu der Instrumentalisierung eher monoton. Dieser Gegensatz könnte ein künstlerisch gewolltes Element sein.
 
 ::genre::Death Metal, Sludge Metal, Post Progressive Rock, Math Rock, Crust
 
-## Mount Palatine – Wormholy World *
+## Mount Palatine - Wormholy World *
 
 Das finnische Trio mit seinem Sophomore Output. Das Gesamtwerk bildet eine Melange aus Post-Sludge, Psychedelia, Funeral Folk, Desert Rock und Drone. Die Instrumentalisierung wirkt dabei sehr erfrischend-experimentell. Der Gesang hingegen kann nur an bestimmten Stellen diese Freude am Experiment erfüllen.
 
 ::genre::Post Sludge Metal, Psychedelic Metal, Funeral Folk, Desert Rock, Drone
 
-## Night Of The Vampire – The Enchanting Winds Of The Dreamweaving Masquerade
+## Night Of The Vampire - The Enchanting Winds Of The Dreamweaving Masquerade
 
 Das finnische Projekt um den Multi-Instrumentalisten “The Count” mit seinem Sophomore Release. Ich wurde es als misslungenes Blackgaze-Experiment beurteilen. Laute Synthesizer versuchen sich mit Post-Punk und New Wave zu vereinen, was nicht gelingt. Der Gesang ist im Stil des klassischen Black Metal gehalten. Da gibt es Bands in dem Genre, welche den rauen DIY Charakter der Black Metal Produktion genialer verpacken können.
 
 ::genre::Blackgaze
 
-## Outer Gloom – Outer Gloom
+## Outer Gloom - Outer Gloom
 
 Die amerikanische Formation mit ihrer Debüt EP. Ein Art “Supergroup” mit Musikern von Shai Hulud und With Honor. Geboten wird rauer, ehrlicher und brutaler Metallic Hardcore, welcher ein paar Background-Elemente des Metalcore mit in seine Kompositionen einbindet. Ansonsten ist das Werk Abriss, Abriss, Abriss.
 
 ::genre::Metallic Hardcore
 
-## parapariah – Whispers In The Dark *
+## parapariah - Whispers In The Dark *
 
 Die kanadische Formation mit ihrem Debüt Longplayer. Im Grundbau wird auf Post-Hardcore gesetzt, welcher allerdings mit einer enormen Alternative Rock Note versehen ist und auch nicht die Finger von Mathcore, Shoegaze und Metalcore lassen kann. Das Songwriting ist sehr abwechslungsreich, was eine gewisse Neugier erzeugt.
 
 ::genre::Post Hardcore, Alternative Rock, Mathcore, Shoegaze, Metalcore
 
-## Phendrana – Cathexis *
+## Phendrana - Cathexis *
 
 Das Projekt um den mexikanischen Multi-Instrumentalisten und klassischen Komponisten Anuar Salum mit seinem Sophomore Release. Eine existentielle Tour durch Progressive Metal, Progressive Rock, Progressive Folk, Post-Metal, Black Metal, Modern Classic, Free Jazz und Avantgard Metal. Thematisch wird der Existentialismus alá Camus im Songwriting verarbeitet. Geradliniges aber durchdachtes Songwriting, was eine Art Oper des Existentialismus erzeugt.
 
 ::genre::Progressive Metal, Progressive Rock, Progressive Folk, Post Black Metal, Modern Classic, Free Jazz, Avant-Garde Metal
 
-## Predatory Void – Atoned In Metamorphosis *
+## Predatory Void - Atoned In Metamorphosis *
 
 Die Debüt EP des belgischen Kollektives. Die Verbundenheit mit der Church of Ra ist erkenntlich. Das Kollektive erzeugt ein künstlerisch wertvolles Werk zwischen Post Black Metal, Progressive Sludge, Post-Metal, Crust, Post-Doom, Spoken Words und Hardcore.
 
@@ -362,7 +362,7 @@ Das neueste Studioalbum der amerikanischen Formation. In selbstreflektierender A
 
 ::genre::Indie Rock, Indie Folk, Post Country, Post Grunge
 
-## Shatterheart – Infernal Symphony
+## Shatterheart - Infernal Symphony
 
 Das internationale Musik-Projekt mit seinem neuesten Longplayer. Symphonic Power Metal, welcher musikalisch viel Hard Rock in seine Kompositionen einbindet. Kevin Talley (Suffocation, Chimaira) an den Drums hat sicherlich einen recht entspannten Gig abbekommen.
 
@@ -380,13 +380,13 @@ Die amerikanische Formation bildet eine Art künstlerische Fortsetzung zu ihrem 
 
 ::genre::Alternative Rock, Shoegaze, Electronica, New Wave, Psychedelic Rock, Avant-Garde Pop
 
-## Sleeping Giant – The Beauty Of Obliteration
+## Sleeping Giant - The Beauty Of Obliteration
 
 Der Debüt Longplayer der isländischen Formation. In kalter Tradition wird eine Komposition aus Sludge Metal, Doom Metal und Stoner Metal mit growl-y Vocals in die Ohren geblasen. Manchmal wird die Geschwindigkeit hochgeschraubt, so dass die Kompositionen an den Thrash heranreichen, was mit dem Vocals dann ein Gefühl des Old School Death erzeugt.
 
 ::genre::Sludge Metal, Stoner Metal, Doom Metal
 
-## Supralunar – Dead Come To Dance?
+## Supralunar - Dead Come To Dance?
 
 Das schwedische Outfit mit seinem neuesten Release. Ein “Fun Right” von Hard-Rock und Classic-Rock. Alles wird mit catchy und straighten Songwriting hergestellt. Wenn man mal Lust auch straight-forward und catchy Hard-Rock hat, dann sollte man hier ein Ohr lassen.
 
@@ -404,7 +404,7 @@ Der Sophomore Longplayer des britischen Quartetts. Ein Werk des klassischen NWOB
 
 ::genre::NWOBHM
 
-## Tested – Venomous
+## Tested - Venomous
 
 Das amerikanische Outfit mit seiner Debüt EP. Modern Metalcore, welcher mit ein paar djent-y Parts ausgestattet ist, es aber nicht übertreibt, sondern mehr in den Gefilden von Metalcore und Deathcore bleibt. Das Songwriting wird von Duell-Gesang unterstützt, welcher Hardcore Screams auf der einene Seite abbildet und Deathcore Growls auf der anderen Seite.
 
@@ -428,7 +428,7 @@ Der neueste Longplayer der britischen Formation. In surrealistischer Art wird Ps
 
 ::genre::Psychedelic Rock, Post Progressive Rock, Avant-Garde Rock, Krautrock
 
-## Uncultivates – This Will Become Clear Later, Like The French Revolution *
+## Uncultivates - This Will Become Clear Later, Like The French Revolution *
 
 Das Debüt der irischen Formation kann sich sehen lassen. Das Cover führt einen gewollt in eine Falle. Das musikalische Skelett bildet Mathcore, welcher mit Post-Hardcore und Noise-Core verfeinert wird. Abwechslungsreiches und verrücktes Songwriting, so wie man es von Mathcore erwartet. Alles wird ohne moderne Einflüsse in Ton und Qualität zu einer meisterlichen Oper des Mathcore verpackt.
 
@@ -446,7 +446,7 @@ Das britische Trio mit seinem neuesten Werk. Eine Band, die ihre Evolution noch 
 
 ::genre::Avant-Garde Rock, Avant-Garde Pop, Indie Rock, Industrial Rock
 
-## What Will Be – Primordial
+## What Will Be - Primordial
 
 Die britische Band mit ihrer Debüt EP. Nicht langweilig aber eingängig komponierter Alternative Rock, welcher mit symphonischen und theatralischen Elementen versehen wurde. Leider ist der Gesang und die Produktion ziemlich gesichtslos, was dem Gesamtprodukt sehr schadet. Das Songwriting hat Potential in der Alternative Welt.
 

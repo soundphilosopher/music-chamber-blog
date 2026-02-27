@@ -8,31 +8,31 @@ categories:
 
 # Releases! Releases! Releases!
 
-## 6deep – Become What You Hate
+## 6deep - Become What You Hate
 
 Die amerikanische Formation mit ihrer neuesten EP. Ein Werk welches Metallic Hardcore als sein Rückenmark verwendet und dabei Metalcore, Deathcore und Nu Metal mit in sein Songwriting einbezieht. Trotz der modernen Funktion, klingen die Kompositionen doch recht frisch, was vermutlich am hohen Anteil von Metallic Hardcore liegt.
 
 ::genre::metallic hardcore, deathcore, metalcore, nu metal
 
-## A Wilhelm Scream – Cheap Heat
+## A Wilhelm Scream - Cheap Heat
 
 Der neueste Longplayer der amerikanischen Kapelle. Ihre Kompositionen verstehen es eingängig modernen Heavy Metal, Progressive Thrash Metal und Skate Punk zu fusionieren. Dabei wird viel Wert auf die catchiness der Songs gelegt, welche mit viel progressiven Strukturen durchsetzt sind, was das Gesamtwerk sehr spannend erscheinen lässt.
 
 ::genre::progressive thrash metal, skate punk, modern heavy metal
 
-## Above the Broken – Redemption
+## Above the Broken - Redemption
 
 Die neueste EP des amerikanischen Outfits. Nicht wirklich ein Katzensprung im Songwriting. Modern Metalcore, welcher mit theatralischen Momenten ausgestattet wurde und auch nicht die Finger von Alt-Metal und Post Hardcore lassen kann. Leider klingt jeder Song wie eine Wiederholung vom Vorgänger, so dass nicht wirklich viel am Ende stehen bleibt.
 
 ::genre::modern metalcore, post hardcore, alternative metal, nu metal
 
-## American Giant – Fiction
+## American Giant - Fiction
 
 Die amerikanische Formation mit ihrer Debüt EP. In eingänginger aber auch einschienigen Art und Weise werden Alt-Metal, Post Hardcore und Modern Metal zu einer Komposition vereint. Manchmal werden im Songwriting Töne des Gothic Metal und Pop angespielt, welche das Werk in eine interssante Richtung lenken könnten aber doch eher wie ein Versuch wirken.
 
 ::genre::modern metal, alternative metal, metalcore, introspective pop, progressive metal
 
-## anvilchandelier, A Year Ago Today – A Love Less Lethal
+## anvilchandelier, A Year Ago Today - A Love Less Lethal
 
 Die Split zwischen den beiden kalifornischen Powerhouses. _anvilchandelier_ bringen dabei ihren energiegeladenen Mix aus Mathcore, Post Hardcore und Metalcore ein und _A Year Ago Today_ kommen mit ihren nostaligischen Mix aus Post Hardcore, Emocore und Metalcore um die Ecke. Am Ende ist ein gut ausgewogene und nostaligusche Split entstanden, welche den 2000er Metalcore-Menschen mit Gewissheit in den Bann ziehen wird.
 
@@ -44,13 +44,13 @@ Der südafrikanische Drummer und Komponist mit seinem neuesten Studiowerk. Entst
 
 ::genre::jazz fusion, afrobeat, spiritual jazz, world music, nu jazz, jazztronica
 
-## Attention Monsters – Bemusement Park
+## Attention Monsters - Bemusement Park
 
 Der Debüt Longplayer der australischen Formation. An ihrem Sound haben sie nicht gearbeitet, was am Ende im Songwriting eine theatralischen Mixtur aus Modern Metal, Modern Metalcore und Alternative Metal entstehen lässt. Die ruhigeren Stellen und Kompositionen bieten eine gewisse progressive Catchniness, was durch die recht simple gestricken Metalcore-Einlagen immer wieder versucht wird "aufzusprengen". Am Ende stören diese Versuche mehr, als sie Gutes tun.
 
 ::genre::Modern Metal, Modern Metalcore, Synth Wave, Synth Pop, Indie Pop
 
-## Black Reuss – Death
+## Black Reuss - Death
 
 Das Projekt um den schweizerischen Multi-Instrumentalisten Maurizio Dottore mit dem Abschluss seiner konzeptionellen Tetralogie. Eine Melange aus Gothic Rock, Melodic Metal, Dark Rock, Desert Rock und Doom Metal. Das Songwriting ist sehr treibend, mit einer gewissen Catchiness, welche durch die melancholische aber melodische Stimme Maurizios nur unterstrichen wird.
 
@@ -62,7 +62,7 @@ Die heavy Supergroup mit ihrem dritten Longplayer in ihrer Discography. Ein klas
 
 ::genre::heavy metal, hard rock, arena rock, blues
 
-## Blessings of Mara – After Despair
+## Blessings of Mara - After Despair
 
 Die neueste EP der britischen Formation. Vorsichtig geschrieben, hätte dies wirklich nicht sein müssen am Ende. Es fühlt sich am Ende wie ein Qual an, welche eine gewisse Comedy in sich trägt. Krausames Songwriting. Krausamer Sänger. Sie selber scheinen Spaß an diesem Missbrauch zu haben und es scheint auch A&R's zu geben, welche Potential hier sehen. Ob ich das "Potential" noch entdecken werde, bezweifel ich. Ich musste durch die Gesamtheit so laut Lachen, dass ich von den Songs nicht viel mitbekommen habe.
 
@@ -80,19 +80,19 @@ Das Projekt um den französischen Producer und Multi-Instrumentalisten Franck Hu
 
 ::genre::synth wave, industrial metal, instrumental
 
-## Cemetery Reign – Confined To Time
+## Cemetery Reign - Confined To Time
 
 Das Projekt um den amerikanischen Multi-Instrumentalisten David McMaster mit seinem Debüt Full-Length. Geboten wird stampfender, walzender Old School Death Metal, welcher von Zeit zu Zeit eine Beschleunigung durch Crust-Einflüsse bekommt.
 
 ::genre::old school death metal, crust
 
-## Clouds Above Us – Ruin
+## Clouds Above Us - Ruin
 
 Die Debüt EP der italienischen Formation. Enthalten ist ein schonungsloses Werk des Deathcore, welches mit entsprechender Vocal-Varianz versehen wurde und die Finger von den symphonischen Auslegern lässt. Das Songwriting ist straight, brutal und nur mit wenigen zählbaren theatralischen Elementen versehen.
 
 ::genre::deathcore
 
-## CrusHuman – Imperial
+## CrusHuman - Imperial
 
 Das Sophomore Release der amerikanischen Kapelle. Eine raue und direkte Melange aus Old School Death Metal und Hardcore, was eine Art Proto-Deathcore-Vibe erzeugt. Direktes, brutales Songwriting, welches ohne Breakdowns auskommt aber dennoch ständig im Half-Time landet und dadurch ein Extrem zum Metalcore bildet.
 
@@ -104,7 +104,7 @@ Die britische Formation mit ihrem Sophomore Longplayer. Ein experimenteller Flus
 
 ::genre::technical thrash metal, progressive metal, old school death metal, progressive rock, jazz fusion
 
-## Dark Surface – What Was Taken From Us
+## Dark Surface - What Was Taken From Us
 
 Die Debüt EP des amerikanischen Outfits. Deathcore, welcher aggressiv und rau über die Menschheit rollt. Dabei wird wenig Wert auf moderne Elemente gelegt, trotzdem diese von Zeit zu Zeit einen Platz in der Produktion finden.
 
@@ -116,7 +116,7 @@ Das Sophomore Release der britischen Band. Eine tanzbare Melange aus Post-Punk, 
 
 ::genre::art rock, experimental rock, avantgard rock, indie rock, alternative rock
 
-## deathcrash – Somersaults
+## deathcrash - Somersaults
 
 Die britische Band mit ihrem neuesten Longplayer. Ihr emotionales Songwriting wird eingefangen von Kompositionen des Alternative Rock, Shoegaze, Slowcore und Emocore. Dabei wird viel Wert auf die lyrische Untermalung gelegt, was von der instrumentalen Begleitung dann im entsprechenden Rahmen gehlten wird.
 
@@ -134,37 +134,37 @@ Das neueste Werk der amerikanischen Formation. Ein experimenteller Ausflug, welc
 
 ::genre::experimental black metal, avantgarde black metal, noise, powerviolence
 
-## Divine Threat – Pillar Of Agony
+## Divine Threat - Pillar Of Agony
 
 Das Debüt der amerikanischen Kapelle widmet sich den melodischen Thrash Metal, welcher mit Elementen des Groove Metal durchzogen ist. Das Songwriting verpasst keinen Beat und wird durchdacht mit den Spielzeugen des Thrash Metal durchsetzt. Die Produktion ist recht modern gehalten, was dem Gesamtbild eine Anstrich des Metalcore mit auf dem Weg gibt.
 
 ::genre::thrash metal, groove metal
 
-## Ennui – Qroba
+## Ennui - Qroba
 
 Die Georgia mit ihrem neuesten Release. Mit diesem setzen sie ihren Weg durch Funeral Doom und Death Metal fort. Den Weg kreuzen diesmal Formationen des Post Sludge Metal und DSBM, was eine gewisse Unruhe und Misanthropie in das Songwriting bringt. Für den Fan des Funeral Doom ist dies sicherlich ein Muss.
 
 ::genre::funeral doom, death metal, post metal, post sludge metal
 
-## Farson – Ein Stumpfes Instrument
+## Farson - Ein Stumpfes Instrument
 
 Die deutsche Formation mit ihrem Sophomore Release. Ein avantgardes Feuerwerk aus Mathcore, Post Black Metal, Avantgarde Black Metal und Powerviolence. Alles wird mit aggressiven aber abwechslungsreichen Songwriting unterstrichen und mit einer DIY Produktion ins korrekte Bild gesetzt.
 
 ::genre::powerviolence, post black metal, mathcore, avantgarde black metal
 
-## Fayenne – The Calling From The Depth
+## Fayenne - The Calling From The Depth
 
 Nach zehn Jahren Bandgeschichte bringt das schwedische Trio sein Debüt Full-Length ans Tageslicht oder besser in den Mondschein. Rauer, kompromissloser Black Metal, welcher von melancholisch, verletzlichen "Geschrei" nur so durchdrungen ist.
 
 ::genre::raw black metal, melodic black metal
 
-## Final Gasp – New Day Symptoms
+## Final Gasp - New Day Symptoms
 
 Die amerikanische Formation mit ihrem neuesten Release, welches gleichzeitig ihr Sophomore Release darstellt. In den Kompositionen entsteht eine natürliche Fusion von Alt-Rock, Shoegaze, Post Metal und Hard Rock. Die alten Hardcore Punk Einflüsse spührt man noch in den Kompositionen, was eine gewisse Energie in die melancholische Grundhaltung bringt. Aufregend und Abwechslungsreich, mit einer rauen DIY Produktion.
 
 ::genre::alternative rock, post metal, shoegaze, hard rock, hardcore punk, post punk
 
-## From Sheep To Wolves – Ephemeris
+## From Sheep To Wolves - Ephemeris
 
 Der Debüt Longplayer des italienischen Kollektives. Eine theatralische Inszenierung des Modern Metal, welcher mit Elementen des Alt-Metal und Post Hardcore durchsetzt ist. Durch die mehr melancholische Ausrichtung erhält das Werk einen gewissen eigenständigen Charme. Das Songwriting ist recht straight und birgt doch eine Eigenständigkeit, welche das Gesamtwerk nicht verblassen lässt im Meer der Sameness.
 
@@ -176,7 +176,7 @@ Das renommierte Duo mit einem neuen Longplayer, welcher der Neunte in ihrer Disc
 
 ::genre::acid funk, world music, art pop, art rock, indie pop, hip hop, synth pop, krautrock
 
-## Grave Heist – Fate Of The World
+## Grave Heist - Fate Of The World
 
 Das amerikanische Outfit mit seiner neuesten EP, welche wie ein klassisches 90er DIY in Erscheinung tritt. Ein aggressives und kompromissloses Werk des Hardcore Punk, welches Elemente des Crossover und Metallic Hardcore in sich bindet. Dabie wird Two-Step-Hymne and Twp-Step-Hymne erschaffen, welche mit kurzen aber schlagkräftigen Breakdowns versehen ist, was gar Erinnerungen an die Anfänge des Beatdown konstruiert.
 
@@ -188,7 +188,7 @@ Der kanadische Singer & Songwriter und ehemalige Snowboard-Profi mit seinem neue
 
 ::genre::dancepunk, progressive pop, garage rock, proto punk rock, noise rock, art rock, bedroom pop, indie pop, psychedelic folk
 
-## Haiduk – Archdevil
+## Haiduk - Archdevil
 
 tbd
 
@@ -200,43 +200,43 @@ tbd
 
 ::genre::
 
-## Hela – A Reign To Conquer
+## Hela - A Reign To Conquer
 
 tbd
 
 ::genre::
 
-## Heartstomper – Heal Reloaded
+## Heartstomper - Heal Reloaded
 
 tbd
 
 ::genre::
 
-## HRFTR – What If That’s All There Is
+## HRFTR - What If That’s All There Is
 
 tbd
 
 ::genre::
 
-## IMMERSE – Self-Titled
+## IMMERSE - Self-Titled
 
 tbd
 
 ::genre::
 
-## Indigo Ice – No Closure
+## Indigo Ice - No Closure
 
 tbd
 
 ::genre::
 
-## Internal Decay – Fires Of The Forgotten
+## Internal Decay - Fires Of The Forgotten
 
 tbd
 
 ::genre::
 
-## IT’sALIE – Wild Games
+## IT’sALIE - Wild Games
 
 tbd
 
@@ -254,13 +254,13 @@ tbd
 
 ::genre::
 
-## Kikker – Kikker
+## Kikker - Kikker
 
 tbd
 
 ::genre::
 
-## KILL KARL – Suck On My Album
+## KILL KARL - Suck On My Album
 
 tbd
 
@@ -278,7 +278,7 @@ tbd
 
 ::genre::
 
-## Manuel – Parasite
+## Manuel - Parasite
 
 tbd
 
@@ -296,19 +296,19 @@ tbd
 
 ::genre::
 
-## Mek Na Ver – Noctivaga
+## Mek Na Ver - Noctivaga
 
 tbd
 
 ::genre::
 
-## Mývalyir – The Past Tales
+## Mývalyir - The Past Tales
 
 tbd
 
 ::genre::
 
-## Napoleon – Napoleon Vol. 1
+## Napoleon - Napoleon Vol. 1
 
 tbd
 
@@ -326,13 +326,13 @@ tbd
 
 ::genre::
 
-## Never Star – White Hot
+## Never Star - White Hot
 
 tbd
 
 ::genre::
 
-## Nibiru – H Y P Ó S T A S I S
+## Nibiru - H Y P Ó S T A S I S
 
 tbd
 
@@ -350,19 +350,19 @@ tbd
 
 ::genre::
 
-## Nowhere Left – Our Secrets Keep Us Sick
+## Nowhere Left - Our Secrets Keep Us Sick
 
 tbd
 
 ::genre::
 
-## ØVI – Hedera Helix
+## ØVI - Hedera Helix
 
 tbd
 
 ::genre::
 
-## Owls Over Oaks – O.O.O.
+## Owls Over Oaks - O.O.O.
 
 tbd
 
@@ -374,19 +374,19 @@ tbd
 
 ::genre::
 
-## Phoenix Lake – Seraphina: The Fall From Eden
+## Phoenix Lake - Seraphina: The Fall From Eden
 
 tbd
 
 ::genre::
 
-## Pil & Bue – You Have Chosen Darkness‘
+## Pil & Bue - You Have Chosen Darkness‘
 
 tbd
 
 ::genre::
 
-## Prison Of Mirrors – De Sepulchris Occultis et Igne Profanationis
+## Prison Of Mirrors - De Sepulchris Occultis et Igne Profanationis
 
 tbd
 
@@ -398,19 +398,19 @@ tbd
 
 ::genre::
 
-## Ruoska – Kade
+## Ruoska - Kade
 
 tbd
 
 ::genre::
 
-## Severals – Chapter C
+## Severals - Chapter C
 
 tbd
 
 ::genre::
 
-## Slagmaur – Hulders Ritual
+## Slagmaur - Hulders Ritual
 
 tbd
 
@@ -422,7 +422,7 @@ tbd
 
 ::genre::
 
-## Subversion Trigger – Subversion Trigger
+## Subversion Trigger - Subversion Trigger
 
 tbd
 
@@ -446,13 +446,13 @@ tbd
 
 ::genre::
 
-## Ulver – Neverland
+## Ulver - Neverland
 
 tbd
 
 ::genre::
 
-## Unburier – As Time Awaits
+## Unburier - As Time Awaits
 
 tbd
 
@@ -470,7 +470,7 @@ tbd
 
 ::genre::
 
-## VINNYONFIRE – ANHEDONIA
+## VINNYONFIRE - ANHEDONIA
 
 tbd
 
@@ -482,7 +482,7 @@ tbd
 
 ::genre::
 
-## Windshaped – Conversion
+## Windshaped - Conversion
 
 tbd
 

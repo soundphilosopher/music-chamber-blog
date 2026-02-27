@@ -138,7 +138,7 @@ Die Debüt EP der deutschen Kapelle. Modern Metalcore, welcher mit einem guten S
 
 ::genre::modern metalcore, pop, trap, drill
 
-## Gluecifer – Same Drug New High
+## Gluecifer - Same Drug New High
 
 Die Norweger sind wieder da. Nach mehr als 20 Jahren Release-Pause haben sie sich wieder für neue Songs ins Studio begeben. Mit Schuld an der skandinavischen Hard-Rock-Welle der 90er haben sie nicht wirklich an Energie im Songwriting verloren.
 
@@ -150,13 +150,13 @@ Das Projekt um das irische Geschwister-Duo Stephanie und Paul O'Sullivan mit sei
 
 ::genre::sad pop punk, emocore
 
-## Hagetisse – To Wither Beneath Thy Radiance
+## Hagetisse - To Wither Beneath Thy Radiance
 
 Das Solo-Projekt aus den Niederlande mit seinen neuesten Kompositionen. Rauer, melodischer, teils symphonischer Black Metal, welcher auch Crust-Anteile in seinem Songwriting zulässt.
 
 ::genre::symphonic black metal, crust, punk rock
 
-## I Promised The World – I Promised The World
+## I Promised The World - I Promised The World
 
 Eine neue EP von der amerikanischen Formation. Ich würde sie dem Emocore zuordnen. Durch die sehr Retro gehaltende Produktion wurde ich sofort in die Anfang 2000er versetzt. Wenn man der alten Art des Emocore, welcher vom Metalcore kam, etwas abgewinnen kann, dann sollten man hier ein Ohr lassen und die “alten Tage” Revue passieren lassen.
 
@@ -174,7 +174,7 @@ Was für eine Kollaboration. Die amerikanische Komponistin und Producerin Julian
 
 ::genre::ambient, cinematic ambient
 
-## Kalyptra – Enigma
+## Kalyptra - Enigma
 
 Das amerikanische Duo mit seinem neuesten Output der Wahrscheinlichkeiten. Modern Alt-Metal, welcher mit allerlei elektronischen Elementen versehen ist und klingt, als wenn KI doch mehr übernommen hat, als vielleicht nötig war.
 
@@ -186,7 +186,7 @@ Das griechische Duo mit seinem neuesten Release. Dem Ohr erwartet eine Mixtur au
 
 ::genre::chillwave, indie pop, post punk, dreampop
 
-## Kreator – Krushers Of The World
+## Kreator - Krushers Of The World
 
 Die deutschen Thrasher mit ihrem 16ten? Longplayer in ihrer Karriere. Ich weiß nicht wirklich ob ich das Thrash-Metal nennen würde am Ende, ich würde es eher dem Melo-Death zuweisen, trotzdem Mille natürlich seine Stimmlage im Clean-Bereich belässt. Ziemlich schleppendes und langweiliges Songwriting wird dem Ohr am Ende geboten. Also was Kreator schon seit einiger Zeit ans Tageslicht entlässt.
 
@@ -198,7 +198,7 @@ Der amerikanische Singer & Songwriter Sean Scolnick (Langhorne Slim) mit seinem 
 
 ::genre::indie folk, blues, alternative rock, indie rock, alternative country, bluegrass
 
-## Last Hounds – Strngeworld
+## Last Hounds - Strngeworld
 
 Die neueste EP der UK-Based Kapelle. Eine Melange aus Hardcore und Alt-Metal wird dem Mensch geboten. Ein irgendwie stranges Werk, welches jedoch eine gewisse Anziehungskraft besitzt.
 
@@ -222,25 +222,25 @@ Die amerikanische Singer & Songwriterin mit ihrem neuesten Output. Recht flach a
 
 ::genre::pop, edm, r&b
 
-## Memory Of A Melody – Welcome To The Collective
+## Memory Of A Melody - Welcome To The Collective
 
 Die texanische Kapelle mit ihren neuesten Kompositionen. Recht klassischer Alt-Metal, welcher mit ein paar rauen Stellen versehen ist und so den Charakter von Modern Metalcore versprühen kann. An und für sich wird allerdings nichts wirklich Bewegendes angeboten, da das Songwriting doch sehr eintönig und einfallslos daherkommt.
 
 ::genre::alternative metal, modern metalcore
 
-## Moon Wisdom – Let Water Flow
+## Moon Wisdom - Let Water Flow
 
 Das Debüt des italienischen Trios. Ich nenne es mal einen Versuch des Melodic Black Metal. Selbst für Black Metal ist die Produktion alles andere als gelungen. Das Songwriting vermag Potential haben, aber die Produktion vermasselt ein Zuhören. Hier wird gezeigt, wie Produktion am Ende nicht aussehen sollte.
 
 ::genre::melodic black metal
 
-## My Ruin – Declaration Of Resistance
+## My Ruin - Declaration Of Resistance
 
 Das LA-Based Duo mit seinem neunten und neuesten Release, nach gut 13 Jahren Release-Ruhestand. Angetrieben durch das Trump-Regime, hat sich das politische Rap-Metal-Projekt wieder zusammengetan und hat seine Revolution in Songs verpackt.
 
 ::genre::Rap Metal
 
-## Negative Love – Negative Love *
+## Negative Love - Negative Love *
 
 Die amerikanische Band mit ihrer Debüt EP. Ein sehr spannender Mix aus Hardcore, Alt-Metal und Post-Hardcore. Das Songwriting ist für eine EP in dem Genre exzellent und mit recht vielen Besonderheiten versehen.
 
@@ -252,13 +252,13 @@ Der amerikanische Singer & Songwriter mit seinem neuesten Release. Es wird ein m
 
 ::genre::melancholic folk, melancholic pop, ambient
 
-## Ov Sulfur – Endless
+## Ov Sulfur - Endless
 
 Die amerikanische Kapelle mit ihrem neuesten Release, welches Nummer 3 in ihrer Discography darstellt. Symphonic Deathcore, welchen ich aktuell nur noch Century-Media-Core nenne. Für Fans des Genres wird hier einiges geboten, neben der exzellenten Produktion. Das Songwriting selbst ist auch nicht so langweilig.
 
 ::genre::deathcore, symphonic black metal
 
-## Pacifist – Five *
+## Pacifist - Five *
 
 Die indische Combo mit ihrem neuesten Release. Als großer Verehrer von Melodic Hardcore hat auch dieses Output sehr schnell mein Ohr gewonnen. Melodic Hardcore, welcher in der Tradition der 90er schonungslos und ungeschönt präsentiert wird. Selbst Elemente von At The Drive-In werden hier mit verbastelt. Klasse.
 
@@ -270,13 +270,13 @@ Was für ein Experiment. Das Kollektiv aus Ohio ist wieder zurück und verwirbel
 
 ::genre::avantgarde rock, fusion, jazz rock, space rock, math rock, progressive rock
 
-## Petroglyphs – Where I Make Peace With Death
+## Petroglyphs - Where I Make Peace With Death
 
 Die Kalifornier mit ihrem neuesten Output. Djent, welcher mit einer gewissen symphonischen Ader und Metalcore-Nostalgie interpretiert und präsentiert wird. Wirklich “abgefahren” ist das ganze nicht, aber für den Djent-Fan bringt es genug zum Kopf wackeln mit.
 
 ::genre::modern metalcore, djent
 
-## Philippe Drouin Obvurt – Le Chemin Du Gaucher
+## Philippe Drouin Obvurt - Le Chemin Du Gaucher
 
 Studio Live Session von Philippe Drouin und John Longstreth. Entstanden ist eine Art der Improvisation des Technical Death Metal.
 
@@ -300,7 +300,7 @@ Das britische Duo mit seinem neuesten Release. Die Mods erzeugen eine Melange au
 
 ::genre::electropunk, punk rap, post punk, spoken words
 
-## Soen – Reliance
+## Soen - Reliance
 
 Die Schweden mit ihrem neuesten Release, welches eine “eigene Ära” kennzeichnet. Von dem Prog-Metal ála Tool und Opeth ist nichts mehr übrig. Stattdessen wird auf klare Strukturen gesetzt, welche sich stark am Alt-Metal orientieren und damit die Songstrukturen recht radio-konform halten.
 
@@ -312,19 +312,19 @@ Die deutschen Industrial Metaller mit ihrem neuesten Werk. Irgendwo im Spektrum 
 
 ::genre::industrial metal, gothic rock
 
-## Stoneside. – Death of a Storyteller
+## Stoneside. - Death of a Storyteller
 
 Das texanische Duo mit seinem neuesten Output. Prog-Metal, welcher mit Strukturen und Fragmenten des Alt-Metal ausgestattet wurde. Das Songwriting ist sehr abwechslungsreich und übernimmt viele Elemente des Rock und Metal in sich auf und lässt diese erblühen.
 
 ::genre::progressive metal, alternative metal
 
-## Takatak – Influx
+## Takatak - Influx
 
 Das dritte Werk der pakistanischen Combo. Prog-Metal, welcher mit Elementen des Djent und Metalcore eine gewisse moderne Note und Aggressivität erhält.
 
 ::genre::progressive metal, modern metalcore, djent
 
-## The Eternal – Celestial
+## The Eternal - Celestial
 
 Die australisch/finnische Formation mit ihrer neuesten EP. Eine recht eintönige und langatmige Melange aus Gothic Rock, Gothic Metal und Prog-Metal.
 
@@ -342,25 +342,25 @@ Die kalifornische Kapelle mit ihrem neuesten Release. Durch die Ohren wird eine 
 
 ::genre::garage rock, surf rock, surf punk, indie rock
 
-## Unethical Dogma – The Dark Curtain
+## Unethical Dogma - The Dark Curtain
 
 Die italienische Formation mit ihrer neuesten EP. Gestartet wird das Release mit einer Art Melange aus Melo-Pop und Melo-Jazz. Die weiteren Kompositionen sind dann dem Djent zuzuordnen, was dem Start irgendwie die Experimentalität wieder entzieht, da in den Djent-Kompositionen kein Bezug mehr auf die Melo-Thematiken, wie auch Jazz genommen wird.
 
 ::genre::melancholic pop, melancholic jazz, djent
 
-## Vesseles – Home
+## Vesseles - Home
 
 Das Debüt der kalifornischen Band. Geboten wird misanthropischer Symphonic Black Metal ála Cradle Of Filth, vermutlich aber ohne dem Ego-Drama. Gutes Songwriting und eine passende Produktion setzen dem Ganzen die Krone auf.
 
 ::genre::symphonic black metal
 
-## Vexatious – Empty Threat
+## Vexatious - Empty Threat
 
 Die Band aus Michigan mit ihrem neuesten Output. Eine recht abwechslungsreiche Tour durch den Deathcore, welche leider durch die miese Produktion ein wenig gestört wird und zu eine Art Brei gemixt wurde.
 
 ::genre::deathcore
 
-## Viserion – Fire And Blood
+## Viserion - Fire And Blood
 
 Die Kali-Yuga Black Metal Combo aus New York mit ihrer neuesten EP. Geboten wird rauer Black Metal, welcher mit der passenden Produktion den Fan begeistern könnte.
 
@@ -376,7 +376,7 @@ Der amerikanische Drummer, Producer und Komponist mit ein paar neuen Klangfragme
 
 ::genre::ambient
 
-## Hyperion – Cybergenesis
+## Hyperion - Cybergenesis
 
 Die italienische Combo mit seinen neuesten Ergüssen. Klassischer Heavy Metal, welcher mit SciFi-Thematiken ausgestattet ist und damit ein recht progressives Bild haben kann, was sich aber nicht in den Kompositionen ausspielt.
 
