@@ -126,7 +126,9 @@ music-chamber/
 │   │   └── monthly_recap_draft.py      # Auto-generates monthly recaps
 │   │   └── genre_overview.py           # Auto-generates genre overview
 │   ├── hooks/
+│   │   ├── add_release_count.py        # Add release count to metadate view on release lists
 │   │   ├── cleanup_tags.py             # Removes HTML tags
+│   │   ├── filter_genres.py            # Add fuzzy filter input to auto-generated genres page
 │   │   ├── image_src_with_site_url.py  # Rewrites site:-prefixed image sources
 │   │   └── mark_top_picks.py           # Transforms starred entries into cards
 │   ├── setup_docs.sh                   # One-command setup
