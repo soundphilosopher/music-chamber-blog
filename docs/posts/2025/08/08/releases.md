@@ -194,7 +194,7 @@ Das amerikanische Duo mit ihrem neuesten Output. Space-y Alt-Rock, welcher sein 
 
 ## Sinsaenum - In Devastation
 
-Die multinationale Band mit einem neuen Werk nach sieben Jahren, was verständlich ist, durch den Tod von Joey Jordison. Das Blackend-Melo-Death-Metal-Supergroup bestehend aus Mitglieder von DragonForce, Loudblast, Mayhem und Dååth und jetzt auch Kreator kommt zurück mit einem stabilen Werk, was ich mehr dem Melo-Death zuschreiben würde, als alles andere.
+Die multinationale Band mit einem neuen Werk nach sieben Jahren, was verständlich ist, durch den Tod von Joey Jordison. Das Blackend-Melo-Death-Metal-Supagroup bestehend aus Mitglieder von DragonForce, Loudblast, Mayhem und Dååth und jetzt auch Kreator kommt zurück mit einem stabilen Werk, was ich mehr dem Melo-Death zuschreiben würde, als alles andere.
 
 ::genre::blackened death metal, melodic death metal
 

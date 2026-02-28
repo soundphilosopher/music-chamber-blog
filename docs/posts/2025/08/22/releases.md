@@ -18,7 +18,7 @@ Die Yorkshire Indie-Rocker mit ihrem neuesten Release. Indie-Rock, welcher mit e
 
 ## Arcadea - The Exodus of Gravity
 
-Die “Supergroup” um den Mastodon Drummer Brann Dailor mit ihrem Sophomore Release. Synth-Rock trifft spielerisch auf Progressive-Rock.
+Die “Supagroup” um den Mastodon Drummer Brann Dailor mit ihrem Sophomore Release. Synth-Rock trifft spielerisch auf Progressive-Rock.
 
 ::genre::synth rock, progressive rock
 
@@ -92,7 +92,7 @@ Die Australier mit ihrem neuen Release. Klassisch dargebotener NWOBHM, der Mensc
 
 ## Edena Gardens - Dispossessed *
 
-Die dänische “Supergroup” der progressiven Töne hat sich wieder im Studio zusammengefunden zu einer ihrer Improv-Sessions. Was entstanden ist, sind instrumentale Kompositionen des Prog-Rock, Psychedelic, Space-Rock, mit einem spielerischen Hauch des Sludge und Ambient.
+Die dänische “Supagroup” der progressiven Töne hat sich wieder im Studio zusammengefunden zu einer ihrer Improv-Sessions. Was entstanden ist, sind instrumentale Kompositionen des Prog-Rock, Psychedelic, Space-Rock, mit einem spielerischen Hauch des Sludge und Ambient.
 
 ::genre::progressive rock, space rock, psychedelic rock, sludge, ambient, instrumental
 

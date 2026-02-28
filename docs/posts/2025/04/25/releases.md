@@ -284,7 +284,7 @@ Die walisischen Alt-Popper/Arena-Rocker mit ihrem neuesten Output. Zu der Band m
 
 ## Sumac, Moor Mother - The Film *
 
-Kollaboration um Sumac, die “Supergroup” um Aaron Turner (Isis), Nick Yacyshyn (Baptists) und Brian Cook (Russian Circles) und den Poeten/Sound-Artist Moor Mother. Spoken Words Post/Experimental-Metal. Experimentell, interessantes Output.
+Kollaboration um Sumac, die “Supagroup” um Aaron Turner (Isis), Nick Yacyshyn (Baptists) und Brian Cook (Russian Circles) und den Poeten/Sound-Artist Moor Mother. Spoken Words Post/Experimental-Metal. Experimentell, interessantes Output.
 
 ::genre::post metal, experimental metal
 

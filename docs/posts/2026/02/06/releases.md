@@ -220,7 +220,7 @@ Das neueste Werk des italienischen Komponisten. Das Projekt beschreibt eine „i
 
 ## Heir Corpse One - Destination: Domination
 
-Der Sophomore Longplayer der schwedischen “Supergroup”. Klassischer Schweden Death Metal wird dem Ohr geboten im Sound der “Sunlight Studio” Ära. D-Beat Drumming trifft auf Gitarren, welche sich wie Kettensägen durch die Kompositionen bewegen.
+Der Sophomore Longplayer der schwedischen “Supagroup”. Klassischer Schweden Death Metal wird dem Ohr geboten im Sound der “Sunlight Studio” Ära. D-Beat Drumming trifft auf Gitarren, welche sich wie Kettensägen durch die Kompositionen bewegen.
 
 ::genre::Old School Death Metal
 
@@ -316,7 +316,7 @@ Das finnische Projekt um den Multi-Instrumentalisten “The Count” mit seinem 
 
 ## Outer Gloom - Outer Gloom
 
-Die amerikanische Formation mit ihrer Debüt EP. Ein Art “Supergroup” mit Musikern von Shai Hulud und With Honor. Geboten wird rauer, ehrlicher und brutaler Metallic Hardcore, welcher ein paar Background-Elemente des Metalcore mit in seine Kompositionen einbindet. Ansonsten ist das Werk Abriss, Abriss, Abriss.
+Die amerikanische Formation mit ihrer Debüt EP. Ein Art “Supagroup” mit Musikern von Shai Hulud und With Honor. Geboten wird rauer, ehrlicher und brutaler Metallic Hardcore, welcher ein paar Background-Elemente des Metalcore mit in seine Kompositionen einbindet. Ansonsten ist das Werk Abriss, Abriss, Abriss.
 
 ::genre::Metallic Hardcore
 

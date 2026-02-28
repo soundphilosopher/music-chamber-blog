@@ -1,5 +1,5 @@
 ---
-date: 2026-02-01
+date: 2026-01-31
 pin: false
 draft: false
 authors:

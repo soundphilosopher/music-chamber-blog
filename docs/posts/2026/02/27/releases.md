@@ -26,11 +26,25 @@ Die neueste EP des amerikanischen Outfits. Nicht wirklich ein Katzensprung im So
 
 ::genre::modern metalcore, post hardcore, alternative metal, nu metal
 
+<!-- more -->
+
+## Admiral Freebee - Raw Fun
+
+Der belgische Singer & Songwriter mit seinem neuesten Release. Eine catchy Melange aus Proto Punk Rock, Heavy Rock, Hard Rock und Alternative Rock. Dabei weiß der Belgier, die Melodien und Momente an die passenden Stellen zu platzieren, was dem Gesamtwerk einen besonderen Charakter verleiht.
+
+::genre::proto punk rock, alternative rock, heavy rock, hard rock
+
 ## American Giant - Fiction
 
 Die amerikanische Formation mit ihrer Debüt EP. In eingänginger aber auch einschienigen Art und Weise werden Alt-Metal, Post Hardcore und Modern Metal zu einer Komposition vereint. Manchmal werden im Songwriting Töne des Gothic Metal und Pop angespielt, welche das Werk in eine interssante Richtung lenken könnten aber doch eher wie ein Versuch wirken.
 
 ::genre::modern metal, alternative metal, metalcore, introspective pop, progressive metal
+
+## Announce the Apocalypse - VOID
+
+Das neueste Full-Length der amerikanischen Formation _Announce the Apocalypse_. Die Ohren werden verwöhnt mit einer Mischung aus Florida Death Metal, Melodic Death Metal und Progressive Thrash Metal. Alles wird mit einer gewissen Brutalität in Harmonie gebracht, so dass die Haare ohne Kompromisse einen Krais bilden.
+
+::genre::death metal, melodic death metal, progressive thrash metal
 
 ## anvilchandelier, A Year Ago Today - A Love Less Lethal
 
@@ -58,7 +72,7 @@ Das Projekt um den schweizerischen Multi-Instrumentalisten Maurizio Dottore mit 
 
 ## Black Swan - Paralyzed
 
-Die heavy Supergroup mit ihrem dritten Longplayer in ihrer Discography. Ein klassisches und mystisches Werk des Heavy Metal, welches mit arenatauglichen Hard Rock und Blues ausgestattet wurde und von der klassisch ausgebildeten Stimme Robin McAuley's begleitet wird.
+Die heavy Supagroup mit ihrem dritten Longplayer in ihrer Discography. Ein klassisches und mystisches Werk des Heavy Metal, welches mit arenatauglichen Hard Rock und Blues ausgestattet wurde und von der klassisch ausgebildeten Stimme Robin McAuley's begleitet wird.
 
 ::genre::heavy metal, hard rock, arena rock, blues
 
@@ -91,6 +105,12 @@ Das Projekt um den amerikanischen Multi-Instrumentalisten David McMaster mit sei
 Die Debüt EP der italienischen Formation. Enthalten ist ein schonungsloses Werk des Deathcore, welches mit entsprechender Vocal-Varianz versehen wurde und die Finger von den symphonischen Auslegern lässt. Das Songwriting ist straight, brutal und nur mit wenigen zählbaren theatralischen Elementen versehen.
 
 ::genre::deathcore
+
+## Crooked Fingers - Swet Deth *
+
+Der amerikanische Singer & Songwriter und Multi-Instrumentalist mit seinem neuesten Longplayer. Eric konnte bereits in den 90er Erfolge mit _Archers of Loaf_ verbuchen und macht mit seinen Solo-Projekt einen mehr folk-y Exkurs. Im Songwriting werden Indie Rock, Indie Folk, Psychedelic Pop, Americana, Art Rock und Roots Rock zu einem stimmigen Cocktail vermischt.
+
+::genre::indie rock, indie folk, alternative folk, psychedelic pop, americana, art rock, roots rock
 
 ## CrusHuman - Imperial
 
@@ -146,6 +166,12 @@ Die Georgia mit ihrem neuesten Release. Mit diesem setzen sie ihren Weg durch Fu
 
 ::genre::funeral doom, death metal, post metal, post sludge metal
 
+## EXEK - Prove The Mountains Move *
+
+Das australische Kollektiv um den Chief Architect Albert Wolski mit seinem neuesten Album. Ein intelligentes Projekt, welches trotz der angestrebten Komplexität seine Catchiness und Retroness nie aus dem Auge verliert. Entstanden ist ein inspirierendes Werk, welches Krautrock, Post Punk, New Wave, Dub, Psychedelic Pop und Progressive Pop in sich vereint.
+
+::genre::krautrock, post punk, new wave, dub, psychedelic pop, progressive pop
+
 ## Farson - Ein Stumpfes Instrument
 
 Die deutsche Formation mit ihrem Sophomore Release. Ein avantgardes Feuerwerk aus Mathcore, Post Black Metal, Avantgarde Black Metal und Powerviolence. Alles wird mit aggressiven aber abwechslungsreichen Songwriting unterstrichen und mit einer DIY Produktion ins korrekte Bild gesetzt.
@@ -190,340 +216,292 @@ Der kanadische Singer & Songwriter und ehemalige Snowboard-Profi mit seinem neue
 
 ## Haiduk - Archdevil
 
-tbd
+Der neueste Longplayer vom Solo-Projekt um den kanadischen Gitarrist und Komponist Luka Milojica. Trotz dem Versuch der Komplexität fällt das Werk recht langweilig aus, was vermutlich am eher nervigen Dosen-Drum liegt, welches keine Natürlichkeit zulässt. Die Kompositionen selber bewegen sich zwischen Progressive Thrash Metal, Melodic Death Metal und Progressive Metal und versuchen viel Fokus auf die Instrumentalisierung zu legen, was am unsichtabr wirkenden Gesang gut zu erkennen ist.
 
-::genre::
+::genre::progressive metal, melodic death metal, progressive thrash metal
 
 ## HAMARR - NECROTIC RITUALS
 
-tbd
+Das amerikanische Duo mit seinem Debüt Longplayer. Eine Dampfwalze aus Death Metal, Brutal Death Metal und Metallic Hardcore. Freunde des Death Metal und Freunde des Moshpit werden hier gleichermaßen bedient, was im brutalen, schleppenden Songwriting sehr gut zum Ausdruck gebracht wird. Hier hat man wirklich alles, Death Metal Growls, D-Beat, Chainsaw Riffing und Breakdowns.
 
-::genre::
+::genre::death metal, brutal death metal, metallic hardcore
 
-## Hela - A Reign To Conquer
+## Hela - A Reign To Conquer **
 
-tbd
+Das neueste Werk des spanischen Quartetts. Ein fast schon magisch anziehendes Werk, welches Alternative Metal, Post Doom Metal, Progressive Metal, World Music und Melodic Metal zu einer sehr einprägsamen Gesamt-Konstruktion vereint. Das Songwriting ist magisch, komplex, avantgard, catchy und mit der entsprechenden Intensität versehen.
 
-::genre::
+::genre::alternative metal, post doom metal, progressive metal, world music, melodic metal
 
-## Heartstomper - Heal Reloaded
+## Indigo Ice - No Closure *
 
-tbd
+Das Sophomore Release der kanadischen Formation. Eine dem Chaos unterlegende Melange aus Mathcore, Metalcore und Metallic Hardcore. Alles wird mit ein paar Samples und elektronischen Elementen kombiniert, um eine einzigartige und unvergessliche Erfahrung zu bieten.
 
-::genre::
-
-## HRFTR - What If That’s All There Is
-
-tbd
-
-::genre::
-
-## IMMERSE - Self-Titled
-
-tbd
-
-::genre::
-
-## Indigo Ice - No Closure
-
-tbd
-
-::genre::
-
-## Internal Decay - Fires Of The Forgotten
-
-tbd
-
-::genre::
+::genre::mathcore, metalcore, metallic hardcore
 
 ## IT’sALIE - Wild Games
 
-tbd
+Das dritte Release in der Discography der Italiener und Italienerinnen. Heavy Rock, Blues wird mit Heavy Metal zu einer melodischen Oper des Rock vereint. Hier wird eine Hommage an die heavy Musik der 70er gerichtet, mit vielen "neu verwerteten" Riffing.
 
-::genre::
+::genre::heavy rock, heavy metal, proto metal, blues, southern rock
 
 ## Jeremy Pelt - Our Community Will Not Be Erased
 
-tbd
+Das neueste Studioalbum des renommierten amerikanischen Jazz-Trompeters. Ein sehr intimes Werk des Post Bop, welches Strukturen von Neo Bop, Nu Jazz und Contemporary Jazz zu einer sehr einprägsamen Gesamt-Komposition vereint.
 
-::genre::
+::genre::post bop, neo bop, nu jazz, contemporary jazz, jazz fusion
 
 ## Joel Hoekstra's 13 - From The Fade
 
-tbd
+Der amerikanische Gitarrist um gibt sich wieder mit 13 weiteren Veteranen des Rock. Entstanden ist eine Melange aus Modern Metal, Heavy Rock, Hard Rock, Melodic Metal und Heavy Metal. Alles wird mit einer klaren und modernen Produktion versehen, was den Heavy-Fan sehr erfreuen wird.
 
-::genre::
+::genre::heavy metal, heavy rock, melodic metal, hard rock, modern metal
 
-## Kikker - Kikker
+## Kaidi Akinnibi, Rudi Creswick - Choose to Hold
 
-tbd
+Die Kollaboration zwischen dem britischen Multi-Instrumentalisten und Sänger Kaidi Akinnibi und dem britischen Bassisten und Producer Rudi Creswick birgt eine gelassene und melancholische Komposition des UK Jazz, welcher mit Trip Hop, Indie Pop, R&B, Neo Soul, EDM, Minimal Electronica und Synth Pop. Dieser Komposition wird viel Raum geboten sich zu entfalten, so dass alle Elemente sich zur passenden Zeit entfalten können.
 
-::genre::
-
-## KILL KARL - Suck On My Album
-
-tbd
-
-::genre::
+::genre::trip hop, indie pop, r&b, uk jazz, hip hop, edm, minimal electronica, synth pop, neo soul
 
 ## King Slender - There Is Your Image in Light
 
-tbd
+Die amerikanische Formation mit ihrem neuesten Longplayer. In nostalgischer Art und Weise werden Emocore, Post Hardcore, Alternative Indie und Mathcore zu einer durchgängigen Struktur gebracht. Emotinalles, zerbrechliches und melancholisches Chaos machen es sich im Songwriting gemütlich, welches mit einer nostalgischen Produktion ausgezeichnet wird.
 
-::genre::
+::genre::post hardcore, emocore, alternative indie, mathcore
 
-## Laughing Stock - Life In Seven Dreams
+## Laughing Stock - Life In Seven Dreams *
 
-tbd
+Die Norweger belohnen uns mit einem neuen Release, welches Nummer 7 in ihrer Discography darstellt. Der Bandname ist eine Hommage an _Talk Talk_, wobei wir auch gleich beim genialen Soundwriting sind. Hier werden Art Pop, Neo Progressive Rock, Progressive Folk, Heavy Rock und Psychedelic Rock zu einer faszinierenden Konstruktion vereint, welche ein Monument des Prog abbilden könnte.
 
-::genre::
+::genre::neo progressive rock, progressive folk, art pop, heavy rock, psychedelic rock
 
 ## Manuel - Parasite
 
-tbd
+Die neueste EP des amerikanischen Kollektives um den Gitarristen und Komponisten Manuel Urgiles. Eine instrumentelle Komposition des Progressive Metal, welche um Elemente des Heavy Metal, Thrash Metal, Speed Metal und Death Metal erweitert wird.
 
-::genre::
+::genre::progressive metal, instrumental
 
-## Marius Neset, Bergen Big Band - Time to Live
+## Marius Neset, Bergen Big Band, Anton Eger - Time to Live
 
-tbd
+Die Kollaboration zwischen den norwegischen Jazz-Saxophonisten Marius Neset, der Bergen Big Band und dem schwedischen Jazz-Drummer Anton Eger birgt ein progressives Werk der Jazz Fusion. So werden hier Elemente des Progressive Rock, Avantgarde Rock, Art Rock, zeitgrnößischen Jazz, Nordic Jazz, Free Jazz und Jazz Fusion offen gelegt und elegant vertont.
 
-::genre::
+::genre::nordic jazz, free jazz, progressive rock, avantgarde rock, art rock, contemporary jazz, jazz fusion
 
-## Matador - Above, Below and So
+## Matador - Above, Below and So *
 
-tbd
+Das britische Trio mit seinem neuesten Longplayer. Ein sludg-y, wie melodisches Gewitter des Post Metal, welches mit Elementen des Prog-Rock, Prog-Metal, Doom Metal und Psych-Metal versehen wurde. Das Songwriting hat eine enorme Spanne und weiß immer die korrekten Akzente hervorzuheben um einen eleganten Hörgenuss zu erhalten.
 
-::genre::
+::genre::post metal, atmospheric sludge, sludge metal, progressive metal, progressive rock, psychedelic metal, doom metal
 
 ## Mek Na Ver - Noctivaga
 
-tbd
+Das italienische Projekt mit seinem Sophomore Full-Length. Ein avantgardistisch ehrliches, raues und melancholisches Werk des Atmospheric Black Metal. Die Atmosphäre um die Kompositionen ist von Esoterik, Melancholie und Folkloren durchsetzt, was die korrekten Stimmungen im Songgefüge anregt.
 
-::genre::
+::genre::atmospheric black metal, post black metal
+
+## Motorpsycho - The Gaia II Space Corps
+
+Die Könige des Nordens mit ihrem neuesten Release. Trotz der hohen Release-Frequenz bringen sie es fertig Innuvation zu verbreiten. Eine Meisterklasse in dynamischen Wechseln. In einem Moment schwebt man in einer Nebelwolke aus Akustikgitarren, im nächsten wird man von einer Wand aus Fuzz erdrückt. Eine heavy Melange aus Psychedelic Rock, Stoner Rock und Progressive Rock.
+
+::genre::psychedelic rock, progressive rock, stoner rock
 
 ## Mývalyir - The Past Tales
 
-tbd
+Das Debüt der britischen Formation. Alle Mitglieder haben bereits jahrlange Erfahrung im UK Metalunderground gesammelt, was hier gut zu vernehmen ist. Im Songwriting wird einer progressiven Form des Melo-Death gefolgt, welche Elemente von Modern Post Hardcore und Post Metal mit in sich vereint. Alles wird mit einer bombastisch-modernen Produktion versehen, die das Songwriting eher unterstützt als vernichtet.
 
-::genre::
-
-## Napoleon - Napoleon Vol. 1
-
-tbd
-
-::genre::
+::genre::melodic death metal, post metal, post hardcore, progressive metal
 
 ## Necrofier - Transcending Into Oblivion
 
-tbd
+Die amerikanische "Supagroup" mit ihrem neuesten Release. Ein ausgewogenes, melancholisches und raues Werk des Atmosperic Black Metal ist entstanden, wie man es eher aus dem kalten nordischen Erdkreisen gewohnt ist.
 
-::genre::
+::genre::atmospheric black metal
 
 ## Necrosexual - Road To Rubble
 
-tbd
+Das neueste Werk des amerikanischen Singer & Songwriter. Das Songwriting bewegt sich zwischen Horror Punk, Proto Black Metal, Black Metal, Heavy Rock, Thrash Metal und Speed Metal hin und her, was eine gelungene Hommage and die ersten Protagonisten des Black Metal ausspricht.
 
-::genre::
+::genre::proto black metal, blackened thrash metal, speed metal, horror punk, heavy rock, hard rock
 
-## Never Star - White Hot
+## Nerve Star - White Hot
 
-tbd
+Das Debüt eines weiteren Lockdown-Projekts. Die britisch/schwedische Formation bringt ein klassisches Werk des Heavy Metal ans Tageslicht, welches von Elementen des Hard Rock, Heavy Rock und NWOBHM durchlöchtert ist wie Gouda.
 
-::genre::
+::genre::nwobhm, heavy metal, heavy rock, hard rock
 
-## Nibiru - H Y P Ó S T A S I S
+## Nibiru - HYPÓSTASIS
 
-tbd
+Das neueste Full-Length von den italienischen Okkultisten. Ein avantgardes Werk des Black Metal, welches Elemente des Dark Wave, Industrial, Doom, Post Punk und Drone in sich bindet. Die Lyrics werden in italienisch und henochisch (okkulte Sprache) vorgetragen und bilden mit den okkulten Soundfragmenten eine Art Ritual der spirituellen Reise. Um das geistige Gedankengut der Protagonisten könnte man sich Sorgen machen, wenn Menschen wie _Aleister Crowley_ verehrt werden.
 
-::genre::
-
-## NMB - L.I.F.T.
-
-tbd
-
-::genre::
+::genre::spiritual black metal, avantgarde black metal, ritual music, doom metal, post punk, industrial, dark wave, drone
 
 ## Nothing - A Short History Of Decay
 
-tbd
+Die amerikanische Kapelle mit ihrem neuesten Longplayer. Ein Werk welches die Möglichkeiten von Shoegaze austestet. So werden Elemente des Breakbeat, Slowcore, Alt-Rock, Post-Rock, Indie Folk und Indie Pop an die Grundsubstanz gehangen, was ein melancholisch-freudiges Gesamtergebnis ergibt.
 
-::genre::
+::genre::shoegaze, alternative rock, post rock, indie folk, indie rock, indie pop, breakbeat, jungle
 
 ## Nowhere Left - Our Secrets Keep Us Sick
 
-tbd
+Das Sophomore Release der polierten Amerikaner. Einreihen tut sich die junge Formation nahtlos in den ewigen Fluss der Gateway-Sameness. Irgendwo zwischen Synth Pop, Modern Metal, Nu Metal und Alternative Metal.
 
-::genre::
-
-## ØVI - Hedera Helix
-
-tbd
-
-::genre::
+::genre::synth pop, modern metal, nu metal, alternative metal
 
 ## Owls Over Oaks - O.O.O.
 
-tbd
+Die italienische Formation mit ihrem Debüt Longplayer. In Abwesenheit von Gitarren wurde ein avantgardistisches Werk des Drone, Doom Metal und Blackened Doom alleinig mit Drums, Gesang und der Dualität von clean und fuzzy Bass eingespielt. Menschen, welche ein Herz für experimentellen Doom habe, kommen hier voll auf ihre Kosten.
 
-::genre::
+::genre::doom metal, blackened doom metal, drone, avantgarde doom
 
 ## Paul Gilbert - WROC
 
-tbd
+Der renommierte amerikanische Gitarrist mit seinem neuesten Solo-Album. Hier werden Geschichten des Heavy Rock, Hard Rock und Progressive Rock in klassischer Art und Weise erzählt, mit einen klaren Fokus auf die progressiven Strukturen.
 
-::genre::
+::genre::progressive rock, heavy rock, hard rock
 
 ## Phoenix Lake - Seraphina: The Fall From Eden
 
-tbd
+Das Debüt der britischen Formation. Ein poliertes und modernes Exemplar des Melodic Metal ist entstanden. Diese Grundkomposition wird von Elementen des Alternative Metal und Symphonic Metal unterwandert und bildet am Ende eine massentauglische Fusion, welche den melodischen Metal-Fan mit sicherheit eine Weile in den Ohren hängen bleiben.
 
-::genre::
+::genre::modern metal, melodic metal, alternative metal, symphonic metal
 
-## Pil & Bue - You Have Chosen Darkness‘
+## Pil & Bue - You Have Chosen Darkness
 
-tbd
+Das norwegischen Duo mit seinem neuesten Release. Gitarre, Gesang und Drums bilden hier eine Melange aus Alt-Metal, Prog-Metal, Thrash Metal und Post Metal. Dabei wird viel Fokus auf "straight forward" gelegt, was die Progressivität ein wenig einschränkt in ihrer Experimentierfreude.
 
-::genre::
+::genre::alternative metal, thrash metal, progressive metal, post metal
 
 ## Prison Of Mirrors - De Sepulchris Occultis et Igne Profanationis
 
-tbd
+Das Sophomore Release der italienischen Orthodox Black Metaller. In zwei Akten werden die Fähigkeiten des Atmospheric Black Metal ausgereizt und mit mystisch-orthodoxen Thematiken zu einer "Besinnungs-Ritual" vereint.
 
-::genre::
+::genre::atmospheric black metal
 
 ## Rob Zombie - The Great Satan
 
-tbd
+Der Co-Founder von _White Zombie_ mit seinem neuesten Solo-Output, welches wieder mehr in seine Wurzeln greift. Eine moderne Melange aus Industrial Metal, Groove Metal und Alternative Metal. Im Alter dreht er nochmal auf, was das Werk recht aggressive am Ende klingen lässt und gar Räume für die Experimente des Industrial schafft.
 
-::genre::
+::genre::industrial metal, alternative metal, groove metal
 
 ## Ruoska - Kade
 
-tbd
+Das neueste Studio-Release der finnischen Formation. Im Songwriting wird Industrial Metal mit Elementen der nordischen Folklore vereint. Die Kompositionen bekommen ab und an gar einen Anstrich des Prog-Metal verpasst, was das Gesamtbild am Ende allerdings nicht wirklich spannender erscheinen lässt.
 
-::genre::
-
-## Severals - Chapter C
-
-tbd
-
-::genre::
+::genre::industrial metal, progressive metal
 
 ## Slagmaur - Hulders Ritual
 
-tbd
+Das norwegische Outfit mit seinem neuesten Full-Length. Eine mystische Reise durch die kalten Atmosphären des Black Metal. Die erzeugte Atmosphäre bildet einen klaustrophobischen Alptraum, welcher durch die dichte Produktion exzellent in das richtige Licht gesetzt wird. Nämlich kein Licht.
 
-::genre::
+::genre::atmospheric black metal, avantgarde black metal
 
 ## space travelers union - The Breakup of Columbia
 
-tbd
+Das amerikanische Kollektive, hier vertreten von Ryan Wheless, Bailey Zick und Alex Oliverio, mit der Fortsetzung ihrer fragmentellen Kollektiv-Arbeit. Entstanden sind fragmentelle Improvisation des Space Rock, Art Rock, Post Rock, Nu Jazz, Math Rock und Avant-Pop. Jedes Fragment wird im instrumentellen Rahmen gahalten und höchstens von "Kommentaren" aus der Improvisaton "ergänzt".
 
-::genre::
+::genre::space rock, art rock, avantgarde rock, nu jazz, avantgarde pop, math rock, free jazz, improvisational jazz, post rock
 
 ## Subversion Trigger - Subversion Trigger
 
-tbd
+Die Debüt EP der amerikanischen Kapelle. Ein raues, schnelles und kompromisloses Werk des Thrash Metal, welches durch die Nähe zum Hardcore Punk gar eine Crossover Funktionalität mit sich trägt. Für Fans des Crossover und schnellen Thrash Metal ist diese Band ein Ohr wert. Man wird es am Ende nicht bereuen.
 
-::genre::
+::genre::thrash metal, crossover
 
 ## Templar - Conquering Swords
 
-tbd
+Der Debüt Longplayer der Schweden. Die _Templar_ rotzen ein raues und schonungsloses Werk des NWOBHM heraus, welches durch das hohe Tempo gar in den Sound des Proto-Thrash eindringt. Die lyrischen Melodien wechseln von klassischen Heavy, zu Doom, zu Punk, zu Thrash, was die Gesamtkomposition abwechlungsreich unterstützt.
 
-::genre::
+::genre::nwobhm, heavy rock, proto thrash metal, heavy rock, hard rock
 
 ## The Gloom In The Corner - Royal Discordance
 
-tbd
+Das australische Outfit mit seinem neuesten Longplayer. Eine Melange aus Modern Metalcore, Symphnic Deathcore und Cinematic Modern Classic. So werden die harten Breakdowns von theatralischen Instrumentalisierungen umrandet. 
 
-::genre::
+::genre::modern metalcore, symphonic deathcore, cinematic modern classic, modern post hardcore
 
 ## The Neal Morse Band - L.I.F.T.
 
-tbd
+Das Kollektiv um den Prog-Rock-Veteranen Neal Morse (Spock's Beard) mit einen neuen Output. Entstanden in einer Haus-Session wurde ein klassisches Werk des Neo-Prog eingespielt. Das hier neben Mike Portnoy noch Eric Gillette, Randy George und Bill Hubauer am Werk sind verleiht dem Session-Werk den entsprechend profressionellen Charakter, ohne dabei "eingespielt" zu wirken, sondern offen für das Experiment.
 
-::genre::
+::genre::neo progressive rock, progressive metal
 
-## Ulver - Neverland
+## Unverkalt - Héréditaire **
 
-tbd
+Das internationale Kollektiv mit seinem neuesten Full-Length. Theatralische Symphonien des Post Metal, werden von avntgarden Doom- und Metal-Strukturen durchdrungen. Die lyrischen Integrationen wirken Sirenenhaft und geben dem Werk die geeignete Tiefe. Die instrumentellen Experimente beruhen auf den atmosphärischen Austausch alleinig, was ein Gesamtbild eines dystopischen Soundtracks erreicht.
 
-::genre::
-
-## Unburier - As Time Awaits
-
-tbd
-
-::genre::
-
-## Unverkalt - Héréditaire
-
-tbd
-
-::genre::
+::genre::post metal, avantgarde metal, doom metal, post black metal, blackened death metal, blackgaze
 
 ## Varials - Where The Light Leaves
 
-tbd
+Das neueste Release der Kapelle aus Philly. Eine aggressive und walzende Kombination aus Modern Metalcore und Beatdown. Die Kompositionen werden ohne wirklich Extreme zu erzeugen recht straight abgespielt, was dem Gesamtwerk einen Hauch des Nu Metal zukommen lässt, was durch die harten Breakdowns wieder zerstört wird.
 
-::genre::
+::genre::modern metalcore, beatdown
 
 ## VINNYONFIRE - ANHEDONIA
 
-tbd
+Die Debüt EP des amerikanischen Singer & Songwriter. Alá _Team Goldie_ wird ein Solo-Projekt des Pop Punk erschaffen, allerdings mit mehr Fokus auf modernen Post Hardcore, welcher mit der gewollten Catchiness geschrieben wurde. Das Gesamtbild bekommt dadurch einen Anstrich des Alternative Rock verpasst, statt mehr die Pop Punk Strukturen zu verfolgen.
 
-::genre::
+::genre::modern post hardcore, alternative rock, sad pop punk
 
 ## Weedpecker - V
 
-tbd
+Das polnische Brüder-Duo scharrt für seinen neuesten Output Musiker von _Dopelord_, _Belzebong_ und _Major Kong_ um sich. Entstanden ist ein heavy Werk des Psychedelic Rock, welches mit progressiven und theatralischen Elementen versetzt wurde. Neben Psych-Rock werden auch Strukturen des Stoner, Prog-Rock und Dreampop eingesetzt, um den Werk die entsprechenden expressionistische Räume zu geben.
 
-::genre::
+::genre::psychedelic rock, heavy rock, stoner rock, progressive rock, dreampop
 
 ## Windshaped - Conversion
 
-tbd
+Die Debüt EP der deutsch-amerikanischen Freundschaft. Das Kollektiv fabriziert eine Melange aus Post Hardcore und Metalcore. Dabei wird auf synthetische Elemente verzichtet und alle Emotionen und Melodien werden mit der Kraft der Instrumente und dem Duell-Gesang erschaffen. Ein nostalgisches Werk des Post Hardcore, welches mit einer modernen Produktion versehen wurde, was aber nicht störend wirkt.
 
-::genre::
-
-## A Wilhelm Scream - Cheap Heat
-
-tbd
-
-::genre::
+::genre::post hardcore, metalcore
 
 ---
 
 # Earlier the week ...
 
-## Daniel Selke, Sebastian Selke, Brueder Selke - Notation 1
+## Brueder Selke - Notation 1
 
-tbd
+Die Gebrüder Selke (Daniel und Sebastian) mit ihrer Musik-Installation zu ihrem bald erscheinenden Musik-Buch. Ein spirituelles Werk der Ambient Accoustic, welches Cello, Piano und Keyboard in verschiedene Klangwellen extrahiert und looped um ein experimentelles, wie minimalistisches Klangerlebnis zu erzeugen.
 
-::genre::
+::genre::ambient accoustic, modern classic, krautrock
 
 ## Dark Mile - Freight Train
 
-tbd
+Das Sophomore Release der amerikanischen Kapelle. Straight wird eine Melange aus Hard Rock, Southern Rock, Heavy Rock und Soutern Rock eingespielt. Keine Überraschungen, keine Experimente, keine Tempowechsel.
 
-::genre::
+::genre::hard rock, southern rock, heavy rock
 
-## T Is For Thomas Band - Freight Train
+## HRFTR - What If That’s All There Is
 
-tbd
+Das Sophomore Release der französischen Formation. Eine dunkle und melancholisch Melange aus Modern Metalcore, Djent, Drum & Bass und Trap. Dabei wirkt das Songwriting nicht Überladen mit Electronica, sondern bietet einen Konstrast zwischen den Unterschiedlichkeiten. Dieser Schritt lässt mehr Raum, um ein individuelles Muster zu bilden, was bei der existierenden Sameness recht schwer ist.
 
-::genre::
+::genre::modern metalcore, djent, drum & bass, trap
+
+## IMMERSE - Self-Titled
+
+Die britische Formation mit ihrer neuesten EP. Geboten wird eine Mixtur aus Modern Post Hardcore, Pop Punk, Djent und Modern Metalcore. Durch den Einsatz von Pop Punk, könnte man meinen, dass Easycore vermutlich eine gute Beschreibung wäre, allerdings fehlen die chuggy Breakdowns und die extreme Gelassenheit von Pop Punk. Die Gesamtkomposition gleicht eher einen modernen Ausleger des Post Hardcore.
+
+::genre::modern post hardcore, pop punk, djent, modern metalcore
+
+## ØVI - Hedera Helix
+
+Das Projekt um den französischen Multi-Instrumentalisten "H." mit seiner Debüt EP. Entwickelt wurde eine Klangfrequenz des Atmospheric Black Metal, mit Fokus auf die melodischen und atmospherischen Frequenz-Phasen. Die Frequenzen werden hier und da von Blackened Death Metal Strukturen durchfahren, was eine gewisse Brutalität mit ins Spiel bringt. Lyrisch wird dem Naturalismus und botanischen Mystizismus eine Lanze gebrochen.
+
+::genre::atmospheric black metal, blackened death metal
+
+## T Is For Thomas Band - Shepherds Delight
+
+Das Debüt des britischen Quintetts. Ein klassisches Werk des britischen Rock'n'Roll, welches die Idole der 60er wieder aufleben lässt. Dabei wird elegant zwischen heavy und melancholischen Kompositionen hin und her gewechselt, ohne dabei den nostalgischen Flair zu verlieren.
+
+::genre::rock'n'roll revival
 
 ## Telegraph - Topography of Mind
 
-tbd
+Das Sophomore Release des israelischen Quartetts. In experimentierfreudiger Art und Weise wird eine Oper des Progressive Rock geboren, welche mit Elementen des Space Rock, Psychedelic Rock und Symphonic Rock versehen wird. Das Songwriting weiß an den passenden Stellen mal das Progressive, mal das Symphonische zu huldigen, ohne dabei die Architektur aus dem Auge zu verlieren.
 
-::genre::
+::genre::neo progressive rock, progressive rock, space rock, psychedelic rock, symphonic rock
 
 ## Temair - The Carnival of War
 
-tbd
+Das Solo-Projekt des irischen Multi-Instrumentalisten Shane Mac Con Uladh mit seinem neuesten Longplayer. In einer sehr monoton produzierten Art und Weise wird eine Melange aus Atmospheric Black Metal und Blackened Death Metal erzeugt. Leider wird die klaustrophobische Dichte der Atmosphäre durch die monotone Produktion enorm unterdrückt, so dass am Ende nichts als ein Rauschen in den Ohren entsteht. Schade, da das Songwriting nicht wirklich monoton erscheint.
 
-::genre::
+::genre::atmospheric black metal, blackened death metal, post black metal

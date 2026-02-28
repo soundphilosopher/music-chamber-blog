@@ -56,7 +56,7 @@ Der amerikanische Künstler mit seinem neuesten Output. Eine Tour durch ambiente
 
 ## Blood Monolith - The Calling of Fire
 
-Die “Supergroup” aus Amerika mit ihrem Erstling. Klassischer Death Metal, mit D-Beats und kurzen, thrashigen Solos.
+Die “Supagroup” aus Amerika mit ihrem Erstling. Klassischer Death Metal, mit D-Beats und kurzen, thrashigen Solos.
 
 ::genre::old school death metal, d-beat, thrash metal
 

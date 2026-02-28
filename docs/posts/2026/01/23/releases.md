@@ -116,7 +116,7 @@ Die zweite Kollaboration der beiden britischen Multi-Instrumentalisten. In den z
 
 ## Death Dealer - Reign Of Steel
 
-Neues von der amerikanischen “Supergroup”. NWOBHM wird in die Moderne versetzt und besitzt recht viele Parallelen zu Judas Priest, meine ich. Die klassisch duellierenden Gitarren von Friedman und Marshall werden mit der klassischen Stimme von Sean Peck und seinen unglaublichen “Screams” zu einer Oper des Heavy Metal vereint.
+Neues von der amerikanischen “Supagroup”. NWOBHM wird in die Moderne versetzt und besitzt recht viele Parallelen zu Judas Priest, meine ich. Die klassisch duellierenden Gitarren von Friedman und Marshall werden mit der klassischen Stimme von Sean Peck und seinen unglaublichen “Screams” zu einer Oper des Heavy Metal vereint.
 
 ::genre::NWOBHM
 
@@ -254,7 +254,7 @@ Das Sophomore Release der schwedischen Kapelle. Der Name verrät im Grunde ich R
 
 ## New Miserable Experience - Gild The Lily
 
-Die amerikanische “Supergroup” mit ihrem Sophomore Release. Mitglieder von River Of Nihil, Revocation, Rosetta und Model Prisoner fügen sich zusammen und erstellen ein Werk, welches sich zwischen Dark-Synth-Wave, Dream Pop und Synth-Rock hin und her bewegt. Eine schöne Abwechslung zu ihren “Hauptacts”, welche sich Bereich Tech-Death-Metal, Post-Metal und Hardcore zu Hause finden.
+Die amerikanische “Supagroup” mit ihrem Sophomore Release. Mitglieder von River Of Nihil, Revocation, Rosetta und Model Prisoner fügen sich zusammen und erstellen ein Werk, welches sich zwischen Dark-Synth-Wave, Dream Pop und Synth-Rock hin und her bewegt. Eine schöne Abwechslung zu ihren “Hauptacts”, welche sich Bereich Tech-Death-Metal, Post-Metal und Hardcore zu Hause finden.
 
 ::genre::dark synth wave, dreampop, synth rock
 
@@ -372,7 +372,7 @@ Die australische Combo mit ihrem neuesten Release. Das Duo fusioniert Ambient mi
 
 ## Artifer - The End Is Only The Beginning
 
-Die neue EP der estnischen Formation. In Estonia zählen sie als eine “Supergroup”, außerhalb sind sie kaum bekannt. Auch auf ihrer neuen EP verstehen sie es moderne Rhythmen mit Metalcore und Post-Hardcore zu mixen. Für die TikTok-Generation des Metalcore ist dies sicherlich ein Fest.
+Die neue EP der estnischen Formation. In Estonia zählen sie als eine “Supagroup”, außerhalb sind sie kaum bekannt. Auch auf ihrer neuen EP verstehen sie es moderne Rhythmen mit Metalcore und Post-Hardcore zu mixen. Für die TikTok-Generation des Metalcore ist dies sicherlich ein Fest.
 
 ::genre::modern metalcore, post hardcore
 

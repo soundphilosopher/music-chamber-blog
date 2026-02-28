@@ -194,7 +194,7 @@ Die griechischen Blackened Death Metaller mit ihrem neuesten Werk. Haben bei mir
 
 ## Paradise Slave - With Hell in his Eyes
 
-Das Debüt der amerikanischen Metalcore “Supergroup” um Ex-Members von 36 Crazyfists, Diecast, Pentagram und Killswitch Engage. Alte Killswitch können nicht verborgen werden. Gutes Songwriting, gute Arrangements und eine passende, gute Produktion. Überrascht hat mich dieser Output allerdings nicht mit dem Background, den die Mitglieder mitbringen. Die Stimme von Brock Lindow hat mich allerdings überrascht.
+Das Debüt der amerikanischen Metalcore “Supagroup” um Ex-Members von 36 Crazyfists, Diecast, Pentagram und Killswitch Engage. Alte Killswitch können nicht verborgen werden. Gutes Songwriting, gute Arrangements und eine passende, gute Produktion. Überrascht hat mich dieser Output allerdings nicht mit dem Background, den die Mitglieder mitbringen. Die Stimme von Brock Lindow hat mich allerdings überrascht.
 
 ::genre::metalcore
 

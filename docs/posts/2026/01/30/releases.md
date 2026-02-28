@@ -182,7 +182,7 @@ Das belgische Trio mit seinem fünften Studio-Longplayer in ihrer Discography. N
 
 ## Jagged City - There Are More Of Us, Always
 
-Die amerikanische “Supergroup” mit ihrer Debüt EP. Mitglieder und Ex-Mitglieder von Defeater, Explosions in the Sky, The Armed und Rough Francis haben sich zusammengetan, um ein instrumentales Werk des Post-Rock zu fabrizieren. Die instrumentalen Kompositionen besitzen eine gewisse Progressivität und werden durch die Session-Like-Produktion eine fast schon Avantgard-Stimmung. Irgendwie genial finde ich den Protest auf Spotify. Dort wurde eine Version veröffentlicht welche meist ein paar Sekunden von den Songs enthalten und dann mit einem “Public Service Announcement by Jagged City”  ausgespeilt werden.
+Die amerikanische “Supagroup” mit ihrer Debüt EP. Mitglieder und Ex-Mitglieder von Defeater, Explosions in the Sky, The Armed und Rough Francis haben sich zusammengetan, um ein instrumentales Werk des Post-Rock zu fabrizieren. Die instrumentalen Kompositionen besitzen eine gewisse Progressivität und werden durch die Session-Like-Produktion eine fast schon Avantgard-Stimmung. Irgendwie genial finde ich den Protest auf Spotify. Dort wurde eine Version veröffentlicht welche meist ein paar Sekunden von den Songs enthalten und dann mit einem “Public Service Announcement by Jagged City”  ausgespeilt werden.
 
 ::genre::Post Rock, Progressive Rock, Instrumental
 

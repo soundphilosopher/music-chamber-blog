@@ -202,7 +202,7 @@ Der Debüt Longplayer des walisischen Quartetts. Eine theatralische Melange aus 
 
 ## Good Tiger - The Most Negative Day Of The Year
 
-Die britische “Supergroup” mit ihrem neuesten Release. Die Band vereint Mitglieder von The Safety Fire, TesseracT, Sky Eats Airplane und Architects. Erschaffen wird ein Sound, welcher Progressive Rock, Post-Hardcore, Alternative Rock und Post-Grunge vereint und damit eine faszinierende Evolution begeht. Progressive Post-Hardcore? Melodic Technical Progressive? Beides beschreibt das Songwriting eigentlich ganz gut.
+Die britische “Supagroup” mit ihrem neuesten Release. Die Band vereint Mitglieder von The Safety Fire, TesseracT, Sky Eats Airplane und Architects. Erschaffen wird ein Sound, welcher Progressive Rock, Post-Hardcore, Alternative Rock und Post-Grunge vereint und damit eine faszinierende Evolution begeht. Progressive Post-Hardcore? Melodic Technical Progressive? Beides beschreibt das Songwriting eigentlich ganz gut.
 
 ::genre::Progressive Rock, Post Hardcore, Alternative Rock, Post Grunge
 
@@ -538,7 +538,7 @@ Das Debüt Full-Length des schweizerischen Outfits. Straight 70s inspired wird K
 
 ## Zahn - Purpur **
 
-Der neueste Longplayer der deutschen “Supergroup”. Mit viel Geschick und Können werden Progressive Rock, Krautrock, Post-Metal, Industrial, Prog-Sludge und Noise Rock zu einem Hörerlebnis der oberen Klasse fusioniert. Alles wird in einem instrumentalen Rahmen gehalten, so dass mehr Fokus auf die ausgewogenen experimentellen Räume geschaffen wird.
+Der neueste Longplayer der deutschen “Supagroup”. Mit viel Geschick und Können werden Progressive Rock, Krautrock, Post-Metal, Industrial, Prog-Sludge und Noise Rock zu einem Hörerlebnis der oberen Klasse fusioniert. Alles wird in einem instrumentalen Rahmen gehalten, so dass mehr Fokus auf die ausgewogenen experimentellen Räume geschaffen wird.
 
 ::genre::Progressive Rock, Krautrock, Post Metal, Industrial, Progressive Sludge, Noise Rock
 
