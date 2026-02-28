@@ -56,14 +56,14 @@ The [mkdocs-rss-plugin](https://guts.github.io/mkdocs-rss-plugin/) generates an 
 
 ### Setup
 
-```
+```bash
 git clone https://github.com/soundphilosopher/music-chamber-blog.git
 cd music-chamber-blog
 ```
 
 Then run the setup script:
 
-```
+```bash
 ./scripts/setup_docs.sh
 ```
 
@@ -74,12 +74,53 @@ This will:
 
 ### Or do it manually:
 
-```
+```bash
 pip install -e .
 mkdocs serve -w .
 ```
 
 > 💡 **Tip:** Draft posts and future-dated posts are only visible when using `mkdocs serve` — they won't appear in production builds.
+
+### Using Anaconda / Miniconda 🐍
+
+If you prefer [Anaconda](https://www.anaconda.com/) or [Miniconda](https://docs.anaconda.com/miniconda/) for environment management:
+
+1. **Create a dedicated conda environment with Python 3.14:**
+
+   ```bash
+   conda create -n music-chamber python=3.14 -y
+   conda activate music-chamber
+   ```
+
+2. **Install the project and all its dependencies:**
+
+   ```bash
+   pip install -e .
+   ```
+
+   > ℹ️ All dependencies are pure-Python wheels (MkDocs, BeautifulSoup, curl-cffi, etc.) and install cleanly via `pip` inside a conda environment. There is no need for `conda install` for any of them.
+
+3. **Build & serve the site:**
+
+   ```bash
+   mkdocs serve -w .
+   ```
+
+   The site will be available at **http://127.0.0.1:8000**.
+
+Alternatively, you can run the setup script after activating the environment:
+
+```bash
+conda activate music-chamber
+./scripts/setup_docs.sh
+```
+
+To deactivate or remove the environment later:
+
+```bash
+conda deactivate
+conda env remove -n music-chamber
+```
 
 ---
 
