@@ -46,9 +46,6 @@ EMBED_PLAYER_BASE_URL = "https://bandcamp.com/EmbeddedPlayer"
 REQUEST_DELAY_SECONDS: float = 0.5
 """Polite delay between consecutive API requests to avoid rate-limiting."""
 
-PLAYER_IFRAME_STYLE = "border: 0; width: 90%; height: 42px;"
-"""Inline CSS applied to every embedded player ``<iframe>``."""
-
 PLAYER_BG_COLOR_LIGHT = "ffffff"
 """Hex background color passed to the Bandcamp embed player for light mode."""
 
@@ -228,7 +225,6 @@ def _build_player_embed(info: BandcampInfo, soup: BeautifulSoup) -> Tag:
             attrs={
                 "class": player_class,
                 "src": embed_src,
-                "style": PLAYER_IFRAME_STYLE,
                 "loading": "lazy",
                 "seamless": "",
             }

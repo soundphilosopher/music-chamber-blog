@@ -12,9 +12,15 @@
     border: 0.1rem solid hsl(19.8, 100%, 50%) !important;
 }
 
-/* bandcamp player */
 .bandcamp-player {
-    text-align: center;
+    margin: 1em 0 !important;
+}
+
+.bandcamp-player--dark,
+.bandcamp-player--light {
+    border: 0;
+    width: 90%;
+    height: 42px;
 }
 
 /* Light theme: show light player, hide dark */
