@@ -273,10 +273,7 @@ def on_page_content(html: str, page: pages.Page, config: Config, files: files.Fi
     if not (src.endswith("releases.md") and src.startswith("posts")):
         return html
 
-    if not page.meta.get("pin", False):
-        return html
-
-    if page.meta.get("draft", True):
+    if not page.meta.get("bandcamp", False):
         return html
 
     log.info("Embedding Bandcamp players for pinned page: %s", src)
