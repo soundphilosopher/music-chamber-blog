@@ -21,7 +21,11 @@ categories:
 
     ## 2. Hér - Monochrome
 
+</div>
+
 <!-- more -->
+
+<div class="grid cards" align="center" markdown>
 
 -   ![MØL - Dreamcrush](site:assets/images/MLDreamcrush.jpeg){ .top-list-image }
 

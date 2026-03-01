@@ -11,3 +11,18 @@
 .top-list-recap ul li {
     border: 0.1rem solid hsl(19.8, 100%, 50%) !important;
 }
+
+/* bandcamp player */
+.bandcamp-player {
+    text-align: center;
+}
+
+/* Light theme: show light player, hide dark */
+[data-md-color-scheme="default"] .bandcamp-player--dark {
+    display: none;
+}
+
+/* Dark theme: show dark player, hide light */
+[data-md-color-scheme="slate"] .bandcamp-player--light {
+    display: none;
+}

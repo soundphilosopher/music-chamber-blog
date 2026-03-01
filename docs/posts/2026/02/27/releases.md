@@ -52,6 +52,12 @@ Die Split zwischen den beiden kalifornischen Powerhouses. _anvilchandelier_ brin
 
 ::genre::metalcore, emocore, screamo, post hardcore, mathcore
 
+## Archive - Glass Minds **
+
+Das britische Kollektive mit seinem neuesten Longplayer. In hypnotischen Frequenzen wird eine Geschichte aus Avant-Rock, Art-Rock, Prog-Pop, Trip Hop, Post Rock, Krautrock und Prog-Rock fabriziert, welche in ihrer Extravaganz aus der Masse heraussticht. Das avantgardistische Songwriting eröffnet viele Räume, welche mit routine und Können befüllt werden und mit abwechslungsreichen Gesangspassagen gefüttert werden.
+
+::genre::art rock, avantgarde rock, krautrock, trip hop, post rock, progressive rock, art pop, avantgarde pop
+
 ## Asher Gamedze - A Semblance: Of Return
 
 Der südafrikanische Drummer und Komponist mit seinem neuesten Studiowerk. Entstanden in einer konstruktiven Studio-Improvisation wurden Strukturen von Spiritual Jazz, World Music, Afrobeat, Nu Jazz und Jazztronica entwickelt und zu einer musikalischen Architektur verwoben. Dabei wurden zahlreiche kleine Elementare mit in die Kompositionen eingebracht, was der Session einen Fusion-Anstrich verleiht.
@@ -63,6 +69,12 @@ Der südafrikanische Drummer und Komponist mit seinem neuesten Studiowerk. Entst
 Der Debüt Longplayer der australischen Formation. An ihrem Sound haben sie nicht gearbeitet, was am Ende im Songwriting eine theatralischen Mixtur aus Modern Metal, Modern Metalcore und Alternative Metal entstehen lässt. Die ruhigeren Stellen und Kompositionen bieten eine gewisse progressive Catchniness, was durch die recht simple gestricken Metalcore-Einlagen immer wieder versucht wird "aufzusprengen". Am Ende stören diese Versuche mehr, als sie Gutes tun.
 
 ::genre::Modern Metal, Modern Metalcore, Synth Wave, Synth Pop, Indie Pop
+
+## Bill Callahan - My Days of 58
+
+Der amerikanische Singer & Songwriter mit seinem neuesten Full-Length. Ein intime und melancholische Rekonstrunstruktion von Vergangenheit und Zukunft. Eingespielt wurden die Kompositionen in eine Melange aus Alt-Folk, Roots-Rock, Art-Rock, Country-Folk und Country-Rock. Das Songwriting weiß an manchen Stellen zu Überraschen, mit Einsatz von Saxophon und elektronischen Elementen.
+
+::genre::alternative folk, art rock, roots rock, country folk, country rock, avantgarde folk
 
 ## Black Reuss - Death
 
@@ -82,17 +94,23 @@ Die neueste EP der britischen Formation. Vorsichtig geschrieben, hätte dies wir
 
 ::genre::modern metalcore
 
+## Boy Deco, Quantum Keys - SAP
+
+Die beiden amerikanischen Producer und Muli-Instrumentalisten begeben sich in Kollaboration miteinander. Das Projekt verspricht eine Melange aus Alt-Soul, Bedroom Pop, Dreampop, Indie Folk, Alt-Rock und Indie Pop und hält dieses Versprechen in jeder Komposition ein.
+
+::genre::alternative soul, bedroom pop, dream pop, indie folk, alternative rock, indie pop
+
 ## Bruecken - Years That Answer *
 
 Die deutsche Formation mit ihrem neuesten Full-Length Output. Das erste Release, welches komplett mit englischen Titeln ausgestattet wurde. Im Repertoire hat das Quintett ein melancholisches, abwechlungsreiches und instrumentales Werk des Post Metal. Dieses wurde mit allerlein kleinen spielerischen Ideen und Momenten ausgestattet, so dass eine gewisse Anziehungskraft nicht abzustreiten ist.
 
 ::genre::post metal, progressive metal, instrumental
 
-## Carpenter Brut - Leather Temple
+## Buck Meek - The Mirror
 
-Das Projekt um den französischen Producer und Multi-Instrumentalisten Franck Hueso mit seinem Abschluss der _Leather Trilogy_. Der Abschluss ist komplett instrumental gehalten, was die Aufmerksamkeit natürlich mehr auf das Songwriting lenkt. Dieses ist eine straighte Melange aus Synth Wave und Industrial Metal, ohne wirklich Besonderheiten zu erzeugen. Alles klingt wie eine heavy Auslegung von 80s Synth Wave, nicht mehr und auch nicht weniger.
+Der _Big Thief_ Gitarrist mit seinem vierten Solo-Output in seiner Karriere. Entstanden ist ein Werk, welches sich Elemente aus Country-Rock, Americana, Alt-Folk und Indie Folk zu Gute kommen lässt. Das Songwriting ist intim gestaltet worden, was die "mostly-live" klingende Produktion hervorragend unterstützt.
 
-::genre::synth wave, industrial metal, instrumental
+::genre::country rock, americana, alternative folk, indie folk, bedroom pop
 
 ## Cemetery Reign - Confined To Time
 
@@ -129,6 +147,12 @@ Die britische Formation mit ihrem Sophomore Longplayer. Ein experimenteller Flus
 Die Debüt EP des amerikanischen Outfits. Deathcore, welcher aggressiv und rau über die Menschheit rollt. Dabei wird wenig Wert auf moderne Elemente gelegt, trotzdem diese von Zeit zu Zeit einen Platz in der Produktion finden.
 
 ::genre::deathcore
+
+## David August - HYMNS
+
+Der deutsche Producer, Komponist und Pianist mit seinem neuesten Werk. Mit seinem Prepared Piano und ambienter Unterstützung dekonstruiert und konstruiert er die Räume zwischen den Noten. _HYMNS_ ist eine piano-fronted Arbeit, welche auf seine sonstigen Dancefloor-Beats komplett verzichtet und den Fokus auf die erschaffenen Frequenzen legt.
+
+::genre::modern classic, ambient, neo classic
 
 ## DEADLETTER - Existence is Bliss *
 
@@ -232,11 +256,23 @@ Das neueste Werk des spanischen Quartetts. Ein fast schon magisch anziehendes We
 
 ::genre::alternative metal, post doom metal, progressive metal, world music, melodic metal
 
+## Hey Colossus - Heaven Was Wild
+
+Das britische Outfit mit seinem neuesten Longplayer. Das Ohr wird befüllt mit Klangwelten aus Alt-Rock, Post-Punk, Noise-Rock und Psych-Rock. Das Songwriting weißt eine gewisse Professionalität auf, was eine Art der Routine durchschimmern lässt. Langweilig wirken tut hier dennoch kein Ton, da viele Räume für Experimente und Abenteuer bereit stehen.
+
+::genre::alternative rock, post punk, noise rock, psychedelic rock
+
 ## Indigo Ice - No Closure *
 
 Das Sophomore Release der kanadischen Formation. Eine dem Chaos unterlegende Melange aus Mathcore, Metalcore und Metallic Hardcore. Alles wird mit ein paar Samples und elektronischen Elementen kombiniert, um eine einzigartige und unvergessliche Erfahrung zu bieten.
 
 ::genre::mathcore, metalcore, metallic hardcore
+
+## Iron & Wine - Hen's Teeth
+
+Das neueste Album von amerikanischen Singer & Songwriter Sam Beam. Der ehemalige Film-Professor hat eine musikalische Karriere um sein Monika aufgebaut. Seine Experimentierfreude ist weiter erkennbar in seinem Songwriting. So werden einige avantgardistische und künstlerische Elemente in seine Kompositionen aus Americana, Indie Folk und Chamber Pop integriert.
+
+::genre::indie folk, chamber pop, americana, art rock, experimental folk
 
 ## IT’sALIE - Wild Games
 
@@ -268,11 +304,23 @@ Die amerikanische Formation mit ihrem neuesten Longplayer. In nostalgischer Art 
 
 ::genre::post hardcore, emocore, alternative indie, mathcore
 
+## Lala Lala - Heaven 2
+
+Das Projekt um die amerikanische Singer & Songwriterin Lillie West mit seinem neuesten Kompositionen. Eine Melange aus Art Pop, Dreampop, Indie Pop, Electronica, Trip Hop und Synth Pop wird zu einem faszinierenden Kunstgemälde vereint.
+
+::genre::art pop, dreampop, indie pop, electronica, trip hop, synth pop
+
 ## Laughing Stock - Life In Seven Dreams *
 
 Die Norweger belohnen uns mit einem neuen Release, welches Nummer 7 in ihrer Discography darstellt. Der Bandname ist eine Hommage an _Talk Talk_, wobei wir auch gleich beim genialen Soundwriting sind. Hier werden Art Pop, Neo Progressive Rock, Progressive Folk, Heavy Rock und Psychedelic Rock zu einer faszinierenden Konstruktion vereint, welche ein Monument des Prog abbilden könnte.
 
 ::genre::neo progressive rock, progressive folk, art pop, heavy rock, psychedelic rock
+
+## Mammal Hands - Circadia *
+
+Das neue Release des britischen Trios bringt ein paar Neuigkeiten mit sich. 1) Jesse Barrett wurde an den Drums von Rob Turner (Founding Member von GoGo Penguin) ersetzt. 2) Es ist das erste Full-Length Release über ACT. Rob bringt sein Style mit den Kompositionen gleich gut zum Ausdruck. Mit viel Können werden die Nu Jazz Kompositionen eingespielt und mit einer einmaligen Produktion versehen.
+
+::genre::nu jazz, contemporary jazz, modern jazz, oriental jazz
 
 ## Manuel - Parasite
 
@@ -297,6 +345,18 @@ Das britische Trio mit seinem neuesten Longplayer. Ein sludg-y, wie melodisches 
 Das italienische Projekt mit seinem Sophomore Full-Length. Ein avantgardistisch ehrliches, raues und melancholisches Werk des Atmospheric Black Metal. Die Atmosphäre um die Kompositionen ist von Esoterik, Melancholie und Folkloren durchsetzt, was die korrekten Stimmungen im Songgefüge anregt.
 
 ::genre::atmospheric black metal, post black metal
+
+## Moderator - First Blood *
+
+Der griechische Producer und DJ mit seinem "Center Work" zu seiner inoffiziellen Trilogie. Eine instrumentelle Melange aus Trip Hop, Psych-Rock, Acid Jazz, Cinematic Rock und Hip Hop.
+
+::genre::trip hop, psychedelic rock, hip hop, acid jazz, cinematic rock
+
+## morgan willis - Heat
+
+Der französische Producer mit seinem neuesten Release. Geboten wird ein nicht wirklich einprägsames Werk des Synth Pop, New Retro Wave und Synth Wave. Das Songwriting erezugt keine wirklichen Spannungsbögen oder "Smoothness", was dieses Werk nicht auszeichnet für Autofahrten oder Ausflüge auf dem Longboard.
+
+::genre::synth pop, new retro wave, synth wave
 
 ## Motorpsycho - The Gaia II Space Corps
 
@@ -358,6 +418,12 @@ Der renommierte amerikanische Gitarrist mit seinem neuesten Solo-Album. Hier wer
 
 ::genre::progressive rock, heavy rock, hard rock
 
+## Perry Frank - Scenario
+
+Der italienische Producer und Gitarrist mit seiner neuesten Instellation. _Scenario_ bildet um einen theatralischen Grundbau des Ambient eine Vielfalt von elektronischen und analogen Elementen. Alles wird in eine klaustophobische, melancholische Atmosphäre versetzt. So schweben alle Elemente von einer Phase zur nächsten.
+
+::genre::ambient, post rock, drone
+
 ## Phoenix Lake - Seraphina: The Fall From Eden
 
 Das Debüt der britischen Formation. Ein poliertes und modernes Exemplar des Melodic Metal ist entstanden. Diese Grundkomposition wird von Elementen des Alternative Metal und Symphonic Metal unterwandert und bildet am Ende eine massentauglische Fusion, welche den melodischen Metal-Fan mit sicherheit eine Weile in den Ohren hängen bleiben.
@@ -381,6 +447,18 @@ Das Sophomore Release der italienischen Orthodox Black Metaller. In zwei Akten w
 Der Co-Founder von _White Zombie_ mit seinem neuesten Solo-Output, welches wieder mehr in seine Wurzeln greift. Eine moderne Melange aus Industrial Metal, Groove Metal und Alternative Metal. Im Alter dreht er nochmal auf, was das Werk recht aggressive am Ende klingen lässt und gar Räume für die Experimente des Industrial schafft.
 
 ::genre::industrial metal, alternative metal, groove metal
+
+## Rosie Carney - Doomsday...Don't Leave Me Here *
+
+Das neueste Full-Length der irischen Singer & Songwriterin. Ein avantgardistisches Werk des Indie Pop, welches seine treibenden und emotionellen Momente aus Shoegaze, Post Punk und Alt-Rock bezieht. Einige Kompositionen überwinden den Indie Pop gar kunstvoll mit einer analogen Variante des Synth Pop und des Synth Wave. Hier entsteht eine Fabrik für eingängige und emotionale Pop-Hymnen.
+
+::genre::indie pop, shoegaze, post punk, alternative pop, alternative rock, synth pop, synth wave, avantgarde pop
+
+## Rubio - Espero podamos ver un ovni juntxs
+
+Die chilenische Singer & Songwriterin, Producerin und Drummerin mit ihrem neuesten Release. Ein emotionalgetriebenes Werk, welches eine Fusion mit Elementen des Indie Pop, Dreampop, Psych-Pop, Psych-Folk, Alt-Pop und Bedroom Pop eingeht. Das Songwriting weiß zu überzeugen und besitzt die Fähigkeit, die Elemente zu den richtigen Zeiten in den Zyklus zu bringen.
+
+::genre::alternative pop, dreampop, indie pop, psychedelic pop, psychedelic folk, bedroom pop
 
 ## Ruoska - Kade
 
@@ -463,6 +541,12 @@ Die Debüt EP der deutsch-amerikanischen Freundschaft. Das Kollektiv fabriziert 
 Die Gebrüder Selke (Daniel und Sebastian) mit ihrer Musik-Installation zu ihrem bald erscheinenden Musik-Buch. Ein spirituelles Werk der Ambient Accoustic, welches Cello, Piano und Keyboard in verschiedene Klangwellen extrahiert und looped um ein experimentelles, wie minimalistisches Klangerlebnis zu erzeugen.
 
 ::genre::ambient accoustic, modern classic, krautrock
+
+## Carpenter Brut - Leather Temple
+
+Das Projekt um den französischen Producer und Multi-Instrumentalisten Franck Hueso mit seinem Abschluss der _Leather Trilogy_. Der Abschluss ist komplett instrumental gehalten, was die Aufmerksamkeit natürlich mehr auf das Songwriting lenkt. Dieses ist eine straighte Melange aus Synth Wave und Industrial Metal, ohne wirklich Besonderheiten zu erzeugen. Alles klingt wie eine heavy Auslegung von 80s Synth Wave, nicht mehr und auch nicht weniger.
+
+::genre::synth wave, industrial metal, instrumental
 
 ## Dark Mile - Freight Train
 

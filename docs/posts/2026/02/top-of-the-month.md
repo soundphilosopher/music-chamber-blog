@@ -18,19 +18,23 @@ categories:
 
     ## 2. Apparat - A Hum of Maybe
 
+</div>
+
 <!-- more -->
+
+<div class="grid cards" align="center" markdown>
+
+-   ![Archive - Glass Minds](site:assets/images/Archive_Glass_Minds_Artwork.jpg){ .top-list-image }
+
+    ## 3. Archive - Glass Minds
 
 -   ![Converge - Love is not enough](site:assets/images/converge_-_love_is_not_enough-1772299064.jpeg){ .top-list-image }
 
-    ## 3. Converge - Love is not enough
+    ## 4. Converge - Love is not enough
 
 -   ![Calvin Love - Throw my Shadow to the Sun](site:assets/images/calvin_love_-_throw_my_shadow_to_the_sun-1772299063.webp){ .top-list-image }
 
-    ## 4. Calvin Love - Throw my Shadow to the Sun
-
--   ![Thistle Sifter - Forever The Optimist](site:assets/images/thistle_sifter_-_forever_the_optimist-1772299063.jpeg){ .top-list-image }
-
-    ## 5. Thistle Sifter - Forever The Optimist
+    ## 5. Calvin Love - Throw my Shadow to the Sun
 
 -   ![Helicon, Al Lover - Arise](site:assets/images/helicon_al_lover_-_arise-1772299064.jpeg){ .top-list-image }
 
@@ -48,9 +52,9 @@ categories:
 
     ## 9. Death Of Youth - Nothing Is The Same Anymore
 
--   ![Puscifer - Normal Isn’t](site:assets/images/puscifer_-_normal_isnt-1772299060.webp){ .top-list-image }
+-   ![Thistle Sifter - Forever The Optimist](site:assets/images/thistle_sifter_-_forever_the_optimist-1772299063.jpeg){ .top-list-image }
 
-    ## 10. Puscifer - Normal Isn’t
+    ## 10. Thistle Sifter - Forever The Optimist
 
 -   ![Zahn - Purpur](site:assets/images/zahn_-_purpur-1772299065.jpeg){ .top-list-image }
 

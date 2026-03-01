@@ -105,6 +105,8 @@ def _build_recap_markdown(
         "---",
         f"date: {year}-{month_number}-01",
         "draft: true",
+        "categories:",
+        "    - Recap",
         "authors:",
         f"    - {DEFAULT_AUTHOR}",
         "---",
@@ -158,7 +160,7 @@ def generate_recaps() -> None:
             month_number = f"{datetime.datetime.strptime(month_name, '%B').month:02d}"
             output_path = f"posts/{year}/{month_number}/recap.md"
 
-            releases.sort(key=lambda r: r.date)
+            releases.sort(key=lambda r: r.name)
             content = _build_recap_markdown(year, month_name, releases)
 
             with mkdocs_gen_files.open(output_path, "w") as f:

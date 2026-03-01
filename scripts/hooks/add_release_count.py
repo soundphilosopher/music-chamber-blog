@@ -19,9 +19,11 @@ import copy
 from pathlib import Path
 
 from bs4 import BeautifulSoup, Tag
+from mkdocs.config import Config
+from mkdocs.structure.pages import Page
 
 # Resolve the SVG icon once at import time so it is not re-read on every page.
-_SVG_PATH = Path(__file__).resolve().parents[2] / "docs" / "assets" / "icons" / "music-box.svg"
+_SVG_PATH = Path(__file__).resolve().parents[2] / "docs" / "assets" / "icons" / "music-box-outline.svg"
 _SVG_TAG: Tag = BeautifulSoup(_SVG_PATH.read_text(encoding="utf-8"), "html.parser")
 
 
@@ -54,7 +56,7 @@ def _build_release_count_item(count: int, soup: BeautifulSoup) -> Tag:
     return li
 
 
-def on_post_page(output: str, page, config: dict) -> str:
+def on_post_page(output: str, page: Page, config: Config) -> str:
     """MkDocs hook: append a release count to the sidebar navigation.
 
     Only processes pages whose source path ends with ``releases.md``.

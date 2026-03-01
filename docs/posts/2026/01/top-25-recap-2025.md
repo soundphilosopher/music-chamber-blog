@@ -21,7 +21,11 @@ categories:
 
     ## 2. Benjamin Booker - Lover
 
+</div>
+
 <!-- more -->
+
+<div class="grid cards" align="center" markdown>
 
 -   ![Miley Cyrus - Something Beautiful](site:assets/images/MileyCyrusSomethingBeautiful.jpeg){ .top-list-image }
 

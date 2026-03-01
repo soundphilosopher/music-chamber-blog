@@ -167,6 +167,7 @@ music-chamber/
 │   │   └── monthly_recap_draft.py      # Auto-generates monthly recaps
 │   │   └── genre_overview.py           # Auto-generates genre overview
 │   ├── hooks/
+│   │   ├── add_bandcamp_player.py      # Add the Bandcamp player iframe to pinned releases
 │   │   ├── add_release_count.py        # Add release count to metadate view on release lists
 │   │   ├── cleanup_tags.py             # Removes HTML tags
 │   │   ├── filter_genres.py            # Add fuzzy filter input to auto-generated genres page

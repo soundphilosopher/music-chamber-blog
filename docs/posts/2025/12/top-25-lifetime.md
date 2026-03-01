@@ -20,7 +20,11 @@ categories:
 
     ## Wire - Chairs Missing
 
+</div>
+
 <!-- more -->
+
+<div class="grid cards" align="center" markdown>
 
 -   ![Fleetwood Mac - Rumours](site:assets/images/FleetwoodMacRumours.png){ .top-list-image }
 

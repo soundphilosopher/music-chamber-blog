@@ -1,11 +1,12 @@
 """
 Genre Filter Hook for Music Chamber.
 
-An MkDocs ``on_page_content`` hook that injects a text input and
+An MkDocs ``on_post_page`` hook that injects a text input and
 client-side JavaScript into the auto-generated genre overview page.
 
 The input filters genre sections (``<h2>`` headings together with
-their release lists and separators) as the user types.
+their release lists and separators) as the user types.  Matching
+TOC entries in the right sidebar are hidden/shown in sync.
 
 Filtering behaviour:
     - **≤ 1 character** — all genre sections are shown.
@@ -16,6 +17,8 @@ Filtering behaviour:
 from __future__ import annotations
 
 from bs4 import BeautifulSoup
+from mkdocs.structure.pages import Page
+from mkdocs.config import Config
 
 FILTER_INPUT = (
     '<input'
@@ -85,13 +88,27 @@ FILTER_SCRIPT = """\
         sections[i].elements[j].style.display = display;
       }
     }
+
+    /* ── Sync TOC sidebar ──────────────────────────────────────── */
+    var tocLinks = document.querySelectorAll(
+      ".md-sidebar--secondary .md-nav__link"
+    );
+    for (var k = 0; k < tocLinks.length; k++) {
+      var link = tocLinks[k];
+      var href = link.getAttribute("href") || "";
+      if (href.indexOf("#") !== 0) continue;
+      var targetId = href.substring(1);
+      var targetEl = document.getElementById(targetId);
+      if (!targetEl) continue;
+      link.parentElement.style.display = targetEl.style.display;
+    }
   });
 })();
 </script>
 """
 
 
-def on_page_content(html: str, page, config, files) -> str:
+def on_post_page(output: str, page: Page, config: Config) -> str:
     """MkDocs hook: inject a client-side genre filter into the genres page.
 
     Only processes the auto-generated ``genres.md`` page.  Populates the
@@ -99,22 +116,22 @@ def on_page_content(html: str, page, config, files) -> str:
     with a search input, and appends the filtering script.
 
     Args:
-        html:   The rendered HTML content of the page.
+        output: The full rendered HTML output of the page.
         page:   The MkDocs Page object.
         config: The global MkDocs config dict.
-        files:  The MkDocs Files collection.
 
     Returns:
-        The modified HTML with the filter input and script injected.
+        The modified HTML with the filter input and script injected,
+        including TOC synchronisation.
     """
     if page.file.src_path != "genres.md":
-        return html
+        return output
 
-    soup = BeautifulSoup(html, "html.parser")
+    soup = BeautifulSoup(output, "html.parser")
 
     placeholder = soup.find("div", id="genre-filter")
     if not placeholder:
-        return html
+        return output
 
     placeholder.append(BeautifulSoup(FILTER_INPUT, "html.parser"))
     soup.append(BeautifulSoup(FILTER_SCRIPT, "html.parser"))
