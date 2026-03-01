@@ -21,55 +21,16 @@ Filtering behaviour:
 
 from __future__ import annotations
 
+import copy
+
 from pathlib import Path
 
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Tag
 from mkdocs.structure.pages import Page
 from mkdocs.config import Config
 
-CLEAR_ICON_PATH = Path("assets", "icons", "close-circle-outline.svg")
-
-FILTER_INPUT_TEMPLATE = """\
-<div id="genre-filter-wrapper" style="\
-position:relative;\
-width:100%;\
-">\
-<input\
-  type="text"\
-  id="genre-filter-input"\
-  placeholder="🔍 Filter genres …"\
-  style="\
-    width:100%;\
-    padding:.6rem 2.4rem .6rem 1rem;\
-    font-size:.85rem;\
-    border:1px solid var(--md-default-fg-color--lighter);\
-    border-radius:.3rem;\
-    background:var(--md-default-bg-color);\
-    color:var(--md-default-fg-color);\
-    outline:none;\
-    transition:border-color .2s;\
-    box-sizing:border-box;\
-  "\
-  onfocus="this.style.borderColor='var(--md-primary-fg-color)'"\
-  onblur="this.style.borderColor='var(--md-default-fg-color--lighter)'"\
-/>\
-<button id="genre-filter-clear" type="button" aria-label="Clear filter"\
-  style="\
-    display:none;\
-    position:absolute;\
-    right:.45rem;\
-    top:50%;\
-    transform:translateY(-50%);\
-    background:none;\
-    border:none;\
-    cursor:pointer;\
-    padding:0;\
-    line-height:0;\
-  ">\
-  {clear_icon}\
-</button>\
-</div>\
-"""
+CLEAR_ICON_PATH = Path(__file__).resolve().parents[2] / "docs" / "assets" / "icons" / "close-circle-outline.svg"
+CLEAR_ICON_TAG: Tag = BeautifulSoup(CLEAR_ICON_PATH.read_text(encoding="utf-8"), "html.parser")
 
 FILTER_SCRIPT = """\
 <script>
@@ -166,30 +127,6 @@ FILTER_SCRIPT = """\
 """
 
 
-def _load_clear_icon(docs_dir: str) -> str:
-    """Read the close-circle SVG from disk and apply inline styles.
-
-    Parses the SVG with BeautifulSoup so we can inject size, fill and
-    transition styles directly onto the ``<svg>`` element.
-
-    Args:
-        docs_dir: Absolute path to the MkDocs ``docs/`` directory.
-
-    Returns:
-        The SVG markup as a string with inline styles applied.
-    """
-    svg_path = Path(docs_dir) / CLEAR_ICON_PATH
-    svg_soup = BeautifulSoup(svg_path.read_text(encoding="utf-8"), "html.parser")
-    svg_tag = svg_soup.find("svg")
-    svg_tag["style"] = (
-        "width:1.15rem;"
-        "height:1.15rem;"
-        "fill:var(--md-default-fg-color--light);"
-        "transition:fill .15s"
-    )
-    return str(svg_tag)
-
-
 def on_post_page(output: str, page: Page, config: Config) -> str:
     """MkDocs hook: inject a client-side genre filter into the genres page.
 
@@ -221,10 +158,26 @@ def on_post_page(output: str, page: Page, config: Config) -> str:
     if not placeholder:
         return output
 
-    clear_icon = _load_clear_icon(config["docs_dir"])
-    filter_html = FILTER_INPUT_TEMPLATE.format(clear_icon=clear_icon)
+    wrapper_tag: Tag = soup.new_tag("div", attrs={"id": "genre-filter-wrapper"})
+    filter_input_tag: Tag = soup.new_tag("input", attrs={
+        "id": "genre-filter-input",
+        "type": "text",
+        "placeholder": "🔍 Filter genres …",
+        "onfocus": "this.style.borderColor='var(--md-primary-fg-color)'",
+        "onblur": "this.style.borderColor='var(--md-default-fg-color--lighter)'"
+    })
+    clear_button_tag: Tag = soup.new_tag("button", attrs={
+        "id": "genre-filter-clear",
+        "type": "button",
+        "aria-label": "Clear filter",
+        "style": "display: none;"
+    })
+    clear_button_tag.append(copy.copy(CLEAR_ICON_TAG))
 
-    placeholder.append(BeautifulSoup(filter_html, "html.parser"))
+    wrapper_tag.append(filter_input_tag)
+    wrapper_tag.append(clear_button_tag)
+
+    placeholder.append(wrapper_tag)
     soup.append(BeautifulSoup(FILTER_SCRIPT, "html.parser"))
 
     return str(soup)

@@ -26,3 +26,40 @@
 [data-md-color-scheme="slate"] .bandcamp-player--light {
     display: none;
 }
+
+#genre-filter-wrapper {
+    position: relative;
+    width: 100%;
+}
+
+#genre-filter-input {
+    width: 100%;
+    padding: 0.6rem 2.4rem 0.6rem 1rem;
+    font-size: 0.85rem;
+    border: 1px solid var(--md-default-fg-color--lighter);
+    border-radius: 0.3rem;
+    background: var(--md-default-bg-color);
+    color: var(--md-default-fg-color);
+    outline: none;
+    transition: border-color 0.2s;
+    box-sizing: border-box;
+}
+
+#genre-filter-clear {
+    position: absolute;
+    right: 0.45rem;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    line-height: 0;
+}
+
+#genre-filter-clear svg {
+    width: 1.15rem;
+    height: 1.15rem;
+    fill: var(--md-default-fg-color--light);
+    transition: fill 0.15s;
+}
