@@ -148,7 +148,7 @@ Die Sad Pop Punker aus Ohio mit ihrem neuesten Output. Wenn man mit Pop Punk etw
 
 Neuester Solo-Output vom schwedischen Kashmir Keyboardists. Cinematic-Neo-Classic Kompositionen.
 
-::genre::cinematic orchestra, neo classic
+::genre::cinematic modern classic, neo classic
 
 ## Sotvorishi, Heavenchord, Infinity Dots - Moments Are Forever
 

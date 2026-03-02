@@ -190,13 +190,13 @@ Nach dem M’era Luna ist vor dem M’era Luna. Die deutschen Gothic-Rocker mit 
 
 Die irische Formation mit einem neuen Release. Ein spannender Mix aus Noise-Punk, Avant-Punk und Industrial.
 
-::genre::noise punk, avantgard punk, industrial
+::genre::noise punk, avantgarde punk, industrial
 
 ## Netherlands - Vapors
 
 Das Duo, aus … nah? … natürlich New York, mit seinem neuesten Werk. Sludge trifft auf Prog-Rock, trifft auf Noise-Rock, trifft auf Psychedelic-Rock.
 
-::genre::sludge, progressive rock, noise rock, psychedelic rock
+::genre::sludge rock, progressive rock, noise rock, psychedelic rock
 
 ## Nuns Of The Tundra - Nuns Of The Tundra
 

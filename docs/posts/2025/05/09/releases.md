@@ -62,7 +62,7 @@ Die New Yorker Multi-Instrumentalistin mit ihrem neuesten Klangwerk. Eine experi
 
 Der britische Komponist mit der dritten Runde seiner Solo-Arbeiten. Cinematische Piano Kompositionen, für den gemütlichen Abend am Kamin.
 
-::genre::cinematic orchestral, modern classic
+::genre::cinematic modern classic, modern classic
 
 ## Duval Timothy - Wishful Thinking
 

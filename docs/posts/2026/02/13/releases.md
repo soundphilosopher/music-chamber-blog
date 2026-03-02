@@ -102,7 +102,7 @@ Das irische Kollektiv mit seinem neuesten Werk. Dem Ohr werden melancholische, w
 
 Der australische Singer & Songwriter Nick Murphy aka Chet Faker mit seinem neuesten Werk. Eine moderne Retrospektive auf dem Alt-Pop. Der Fokus des Werkes liegt im Barock-Pop, welcher mit Indie-Pop und Breakbeats zu einer meisterlichen Pop-Komposition kombiniert wird. Alles wird umrandet von der melancholisch-lieblichen Stimme Nick’s.
 
-::genre::Alternative Pop, Barock Pop, Indie Pop, Breakbeat
+::genre::Alternative Pop, baroque pop, Indie Pop, Breakbeat
 
 ## Chuuwee - Te Odio
 
@@ -246,7 +246,7 @@ Die Kollaboration zwischen der schottischen Formation Helicon und dem amerikanis
 
 Die amerikanische Singer & Songwriterin und Producerin Isimeme Udu aka Hemlocke Springs mit ihrem Debüt Longplayer. Ein recht intelligent angelegtes Werk, welches eine Melange aus Soul-Pop, Glitch-Pop, Alt-Pop, Synth-Pop und Pop-Rock abbildet. Die Komposition haben einen gewissen avantgardistischen Anstrich, welcher das Werk mit mehr experimenteller Kraft als Geradlinigkeit ausstattet.
 
-::genre::Soul Pop, Glitch Pop, Alternative Pop, Synth Pop, Pop Rock
+::genre::Soul Pop, glitch, Alternative Pop, Synth Pop, Pop Rock
 
 ## Hoaxed - Death Knocks
 
@@ -270,7 +270,7 @@ Die neueste EP der amerikanischen Formation. Erinnerungen an White Pony werden i
 
 Die “Queen of Neo-Soul” is back! Nach einem 11 jährigen Release-Hiatus bringt die Queen wieder eine Meisterleistung des Neo-Soul ans Tageslicht. Die Kompositionen vervollständigen ihr Neo-Soul-Grundgerüst mit  Strukturen des Trip-Hop, R&B, Funk, Cocktail Jazz, Hip-Hop und Acid-House.
 
-::genre::Neo Soul, Trip Hop, R&B, Acid Funk, Cocktail Jazz, Hip Hop, Acid House
+::genre::Neo Soul, Trip Hop, R&B, Acid Funk, chamber jazz, Hip Hop, Acid House
 
 ## Kröwnn - Santa Somnia
 
@@ -300,7 +300,7 @@ Der amerikanische Singer & Songwriter mit seinem neuesten Release. Geboten wird 
 
 Das neueste Werk der britischen Formation. Gothic Rock, welcher Elemente des Hard Rock und Horror-Punk. Die Einflüsse von Alice Cooper und Misfits lassen sich nicht verstecken. Das Songwriting selber wird von einer AOR Produktion eingefangen, was dem Gesamtergebnis nicht wirklich unter die Arme am Ende greift.
 
-::genre::Horro Punk, Hard Rock, Gothic Rock
+::genre::horror punk, Hard Rock, Gothic Rock
 
 ## Lotus - Rise of the Anglerfish *
 

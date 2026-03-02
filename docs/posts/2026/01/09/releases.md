@@ -88,7 +88,7 @@ Das kalifornische Outfit mit ihrer Fortsetzung zum 2019 Release Valley of Death.
 
 Das Projekt um den britischen Producer, Label-Boss und Multi-Instrumentalisten James Smith mit einem neuen Release. LoFi Indie trifft auf Ambient trifft auf Tape Looping. So lassen sich die Kompositionen am besten beschreiben.
 
-::genre::lofi indie, ambient
+::genre::lofi, ambient
 
 ## Push! - Plowing Ahead
 

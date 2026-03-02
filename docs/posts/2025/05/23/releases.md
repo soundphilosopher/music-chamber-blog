@@ -130,7 +130,7 @@ Das amerikanische Kreativ-Duo mit ihrem neuen Output. Eine nahtlose Genre-Versch
 
 Das Kollektiv um den Jazz Gitarristen Isaak Peyer, den Jazz Saxophonist Charley Rose, den Jazz Bassisten Jonathan Collin-Bouhon und den Jazz Drummer Juan Ibarra improvisieren hier eine fließende Klang-Homage.
 
-::genre::contemporary jazz, fusion jazz, latin jazz, world music, improvisational jazz
+::genre::contemporary jazz, jazz fusion, latin jazz, world music, improvisational jazz
 
 ## Julien Clerc - Une vie
 
@@ -142,7 +142,7 @@ Der französische Künstler mit einem neuen Werk. Chanson, Chanson, Chanson. Ich
 
 Der kanadische Producer mit einem neuen Album, welches Amerikaner, die fliegen möchten, gerade gut gebrauchen können. Ein beruhigter Mix aus Ambient und Field Recording, nicht nur um Verspätungen zu überbrücken.
 
-::genre::ambient, field recording
+::genre::ambient, field recordings
 
 ## Laura Anglade - Get out of Town
 

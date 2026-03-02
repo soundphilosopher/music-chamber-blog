@@ -58,7 +58,7 @@ Genre: (Spanish) Guitar Ambient
 
 Genre: Pop, Alt-Pop, Indie-Pop, Trap
 
-::genre::bubble pop, alternative pop, indie pop, trap
+::genre::bubblegum pop, alternative pop, indie pop, trap
 
 ## Matthew Herbert - Hot Milk
 

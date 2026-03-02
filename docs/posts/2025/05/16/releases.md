@@ -238,7 +238,7 @@ Das Berliner Kollektiv mit ihrem neuesten Output. Die selbsternannten “Dystopi
 
 Die brasilianischen Hardcore-Punk Kombo mit einem neuen Release. Punk im Style des New York Hardcore. Freunde von Sick Of It All und Gorilla Biscuits werden ihre Freude daran haben.
 
-::genre::harcore punk
+::genre::hardcore punk
 
 ## Novelists - Coda
 

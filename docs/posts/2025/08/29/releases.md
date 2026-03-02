@@ -124,7 +124,7 @@ Die Kollaboration zwischen Singer & Songwriter Jon Secada und dem Jazz-Pianisten
 
 Die Kollaboration zwischen dem kanadischen Duo Shabason & Krgovich und dem japanischen Avent-Pop-Duo Tenniscoats umschmeichelt das Ohr mit seinen New-Age-Kompositionen. Entstanden aus zwei Tagen Studio-Improvisation und der Beobachtung des Pazific aus dem Studio-Fenster.
 
-::genre::avntgarde pop, j-pop, new age
+::genre::avantgarde pop, j-pop, new age
 
 ## Margo Price - Hard Headed Woman
 
@@ -226,7 +226,7 @@ Das Sophomore Release des Projekts um den Singer & Songwriter Noah Weinman. Post
 
 Der “Girl Meets World” Star mit ihrem siebten Studioalbum. Die Einflüsse der beiden Producer Jack Antonoff und John Ryan lassen sich nicht verbergen. Beim Hören des ersten Tracks dachte ich mir: “Das könnte auch ein Bleachers Song sein.”
 
-::genre::alternative pop, introspective pop, bubble pop
+::genre::alternative pop, introspective pop, bubblegum pop
 
 ## Slow Crush - Thirst
 

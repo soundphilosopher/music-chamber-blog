@@ -94,7 +94,7 @@ Die Australier mit ihrem neuen Release. Klassisch dargebotener NWOBHM, der Mensc
 
 Die dänische “Supagroup” der progressiven Töne hat sich wieder im Studio zusammengefunden zu einer ihrer Improv-Sessions. Was entstanden ist, sind instrumentale Kompositionen des Prog-Rock, Psychedelic, Space-Rock, mit einem spielerischen Hauch des Sludge und Ambient.
 
-::genre::progressive rock, space rock, psychedelic rock, sludge, ambient, instrumental
+::genre::progressive rock, space rock, psychedelic rock, sludge rock, ambient, instrumental
 
 ## Emma Louise, Flume - Dumb
 
@@ -244,7 +244,7 @@ Die dänische Blackened-Death-Metal-Formation mit der Fortsetzung des gedachten 
 
 Nach sechs Jahren sind sie wieder da. Das norwegische RIO-Quintett mit neuen Kompositionen des klassischen Avant-Prog-Rock der instrumentalen Art und Weise.
 
-::genre::avntgard rock, progressive rock
+::genre::avantgarde rock, progressive rock
 
 ## Pendulum - Inertia
 
@@ -340,7 +340,7 @@ Die kalifornische Band mit ihrem neuesten Release. Amerikanischer Indie-Rock mit
 
 Die Formation aus Florida mit ihrem neuesten Streich. Eine Expedition durch fuzz-y Psychedelic-Rock mit shoegaze-y Gesang. Starke Produktion und starkes Songwriting.
 
-::genre::psychedelic rock, sludge, shoegaze
+::genre::psychedelic rock, sludge rock, shoegaze
 
 ## The World Is A Beautiful Place & I Am No Longer Afraid To Die - Dreams of being Durst
 

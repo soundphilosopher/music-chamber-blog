@@ -112,7 +112,7 @@ Genre: Ambient, Acoustic-Electronica
 
 Genre: Electro-Pop, Pop
 
-::genre::electropop, bubble pop
+::genre::electropop, bubblegum pop
 
 ## Jordfäst - Blodsdåd och Hor
 

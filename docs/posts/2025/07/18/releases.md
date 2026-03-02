@@ -170,7 +170,7 @@ Genre: Alt-Pop, Alt-Rock, Indie-Pop
 
 ## Margarita Witch Cult - Strung Out In Hell *
 
-Genre: Sludge, Psychedelic Stoner
+Genre: sludge rock, Psychedelic Stoner
 
 ::genre::sludge metal, psychedelic rock, stoner rock
 
@@ -190,7 +190,7 @@ Genre: Modern Classic, Indie-Pop, Indie-Folk
 
 Genre: Singer & Songwriter, Hispanic Guitar Folk, Indie-Folk
 
-::genre::lofi folk, indie folk
+::genre::lofi, indie folk
 
 ## Osi And The Jupiter - Larvatus
 

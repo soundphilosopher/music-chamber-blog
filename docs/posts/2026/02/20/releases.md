@@ -66,7 +66,7 @@ Die Finnen sind wieder da mit neuem Material. Modern Metal, welcher mit Elemente
 
 Die amerikanische Singer & Songwriterin Isabella Komodromos mit ihrem Debüt Longplayer. Die mystische Klangfarbe Isabella’s wird von Kompositionen des Barock-Pop, Alt-Pop, Prog-Pop und Avant-Pop begleitet. Meisterlich theatralisches Songwriting, welches gern progressive Elemente auffasst.
 
-::genre::Barock Pop, Alternative Pop, Progressive Pop, Avant-Garde Pop
+::genre::baroque pop, Alternative Pop, Progressive Pop, Avant-Garde Pop
 
 ## Belzebong - The End Is High
 
@@ -216,7 +216,7 @@ Das polnische Trio mit seinem neuesten Full-Length. In instrumenteller Art und W
 
 Die Kollaboration zwischen den britischen Pianisten und Komponisten Greg Foat, den griechischen Saxophonisten Sokratis Votskos und den griechischen Trio The Giorgos Trio wurde in einer Session während Greg im Urlaub auf der griechischen Insel Samos war. Entstanden ist eine Improvisation aus World Fusion, Traditional Greek Folk, Modal-Jazz, Krautrock und Psych-Jazz.
 
-::genre::Greek Folk, Modal Jazz, Krautrock, Psychedelic Jazz
+::genre::Greek Folk, jazz fusion, Krautrock, Psychedelic Jazz
 
 ## Hammerhedd - Hat in the Clouds *
 

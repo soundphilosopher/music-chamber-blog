@@ -48,7 +48,7 @@ Das Projekt, welches unter dem amerikanischen Multi-Instrumentalisten und Produc
 
 Mit ihrem dritten Longplayer vervollständigen die Dänen ihr 2022 Werk The Void Above. Beim Riffing erkenne ich viel Death, aber auch moderne Melodic Death Einflüsse. So ist die Gesamt-Komposition irgendwo zwischen klassischem Florida Death Metal, Melodic Death Metal und Progressive Metal. Ein recht spannendes Werk in Songwriting und Produktion.
 
-::genre::Florida Death Metal, Melodic Death Metal, Progressive Death Metal
+::genre::old school death metal, Melodic Death Metal, Progressive Death Metal
 
 ## Artifact - Umbra
 
@@ -84,7 +84,7 @@ Die amerikanische Combo mit ihrem neuesten Release. Modern Metalcore mit einem g
 
 Die Split EP der beiden Portland-Based Bands. Belonging spielen ihren Mix aus Post-Grunge, Sludge und Alt-Rock in ihrem eher schleppenden Tempo. Inny versucht die Zügel dann ein wenig anzuziehen mit ihrem Mix aus Garage-Rock und Garage-Punk, mit einer kleinen Hardcore-Note. Allerdings werden auch hier die Zügel eher locker angefasst, so dass die Split durchweg eher eine Melancholie abbildet.
 
-::genre::Post Grunge, Sludge, Alternative Rock
+::genre::Post Grunge, sludge rock, Alternative Rock
 
 ## Benjamin Gustafsson - For you, Noam
 
@@ -336,7 +336,7 @@ Das Projekt um den mexikanischen Multi-Instrumentalisten und klassischen Komponi
 
 Die Debüt EP des belgischen Kollektives. Die Verbundenheit mit der Church of Ra ist erkenntlich. Das Kollektive erzeugt ein künstlerisch wertvolles Werk zwischen Post Black Metal, Progressive Sludge, Post-Metal, Crust, Post-Doom, Spoken Words und Hardcore.
 
-::genre::Post Black Metal, Progressive Sludge Metal, Post Metal, Crust, Post Doom Metal, Spoken Words, Hardcore
+::genre::Post Black Metal, progressive sludge, Post Metal, Crust, Post Doom Metal, Spoken Words, Hardcore
 
 ## Puma Blue - Croak Dream *
 

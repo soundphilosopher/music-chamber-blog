@@ -106,7 +106,7 @@ Genre: Indie-Pop
 
 Genre: Coffee Jazz, Corner Jazz, Soul
 
-::genre::chamber jaz, coffee jazz, neo soul
+::genre::chamber jazz, coffee jazz, neo soul
 
 ## Deadguy - Near-Death Travel Services
 

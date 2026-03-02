@@ -256,7 +256,7 @@ Das Sophomore Release der schwedischen Kapelle. Der Name verrät im Grunde ich R
 
 Die amerikanische “Supagroup” mit ihrem Sophomore Release. Mitglieder von River Of Nihil, Revocation, Rosetta und Model Prisoner fügen sich zusammen und erstellen ein Werk, welches sich zwischen Dark-Synth-Wave, Dream Pop und Synth-Rock hin und her bewegt. Eine schöne Abwechslung zu ihren “Hauptacts”, welche sich Bereich Tech-Death-Metal, Post-Metal und Hardcore zu Hause finden.
 
-::genre::dark synth wave, dreampop, synth rock
+::genre::dark synth, dreampop, synth rock
 
 ## Pelican - Ascending
 
@@ -280,7 +280,7 @@ Die neueste EP der amerikanischen Combo. Pop Punk der fünften Generation, welch
 
 Die amerikanische Singer & Songwriterin Moriah Pereira (Poppy) mit ihrem neuesten Werk. Entstanden unter der Feder von der Kollaboration zwischen Poppy und Jordan Fish (Bring Me The Horizon). In chart-verdächtiger Art und Weise werden die Grenzen zwischen (Bubble-)Pop, Metalcore, Industrial und Alt-Metal aufgeweicht. Bringt es Abwechslung? Sicher. Ist es ein Schritt weiter zu Negative Spaces? Würde ich bezweifeln.
 
-::genre::bubble pop, metalcore, industrial metal, alternative metal
+::genre::bubblegum pop, metalcore, industrial metal, alternative metal
 
 ## Ratgod - Common Forms Of Torture
 
@@ -362,7 +362,7 @@ Die neue EP der amerikanischen Band. Man kann sie sicherlich dem Post-Hardcore z
 
 Das israelische Outfit mit seinem neuesten Release. Porngrind wird mit Elementen des Doom-Death, Hardcore und Digicore vereint und mit einer entsprechenden “schwammigen” Produktion versehen.
 
-::genre::porngrind, doom death metal, hardcore, digicore
+::genre::porngrind, doom metal, death metal, hardcore, digicore
 
 ## All India Radio - Liminal Space
 

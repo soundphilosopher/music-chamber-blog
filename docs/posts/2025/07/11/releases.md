@@ -374,7 +374,7 @@ Genre: Hip Hop
 
 Genre: Soundtrack
 
-::genre::cinemative modern classic
+::genre::cinematic modern classic
 
 ## Deap Vally - Femejism
 

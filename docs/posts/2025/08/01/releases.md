@@ -122,7 +122,7 @@ Genre: Death Metal
 
 ## Red Mess - Hi-Tech Starvation
 
-Genre: Stoner Rock, Sludge, Post-Grunge
+Genre: Stoner Rock, sludge rock, Post-Grunge
 
 ::genre::stoner rock, sludge metal, post grunge
 

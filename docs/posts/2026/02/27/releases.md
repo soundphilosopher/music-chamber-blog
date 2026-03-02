@@ -104,7 +104,7 @@ Die neueste EP der britischen Formation. Vorsichtig geschrieben, hätte dies wir
 
 Die beiden amerikanischen Producer und Muli-Instrumentalisten begeben sich in Kollaboration miteinander. Das Projekt verspricht eine Melange aus Alt-Soul, Bedroom Pop, Dreampop, Indie Folk, Alt-Rock und Indie Pop und hält dieses Versprechen in jeder Komposition ein.
 
-::genre::alternative soul, bedroom pop, dream pop, indie folk, alternative rock, indie pop
+::genre::alternative soul, bedroom pop, dreampop, indie folk, alternative rock, indie pop
 
 ## Bruecken - Years That Answer *
 
@@ -170,7 +170,7 @@ Der deutsche Producer, Komponist und Pianist mit seinem neuesten Werk. Mit seine
 
 Das Sophomore Release der britischen Band. Eine tanzbare Melange aus Post-Punk, Alt-Rock und Art-Rock. Alles ist eingefangen in eine Retroskop des Garage-Rock-Revival und experimentellen Indie-Elementen. Vereint ist alles in ein extravaganzes und innovatives Songwriting, welches Platz für das Experiment lässt, um weite Räume zu erkunden.
 
-::genre::art rock, experimental rock, avantgard rock, indie rock, alternative rock
+::genre::art rock, experimental rock, avantgarde rock, indie rock, alternative rock
 
 ## deathcrash - Somersaults
 
@@ -546,7 +546,7 @@ Das Kollektiv um den Prog-Rock-Veteranen Neal Morse (Spock's Beard) mit einen ne
 
 ## Unverkalt - Héréditaire **
 
-Das internationale Kollektiv mit seinem neuesten Full-Length. Theatralische Symphonien des Post Metal, werden von avntgarden Doom- und Metal-Strukturen durchdrungen. Die lyrischen Integrationen wirken Sirenenhaft und geben dem Werk die geeignete Tiefe. Die instrumentellen Experimente beruhen auf den atmosphärischen Austausch alleinig, was ein Gesamtbild eines dystopischen Soundtracks erreicht.
+Das internationale Kollektiv mit seinem neuesten Full-Length. Theatralische Symphonien des Post Metal, werden von avantgarden Doom- und Metal-Strukturen durchdrungen. Die lyrischen Integrationen wirken Sirenenhaft und geben dem Werk die geeignete Tiefe. Die instrumentellen Experimente beruhen auf den atmosphärischen Austausch alleinig, was ein Gesamtbild eines dystopischen Soundtracks erreicht.
 
 ::genre::post metal, avantgarde metal, doom metal, post black metal, blackened death metal, blackgaze
 
