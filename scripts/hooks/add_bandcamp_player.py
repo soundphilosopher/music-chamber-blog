@@ -128,7 +128,13 @@ def _lookup_bandcamp_album(album_id: str, band_id: str, session: Session) -> boo
         ``True`` if the album exists and has tracks, ``False`` otherwise.
     """
     params = {"band_id": band_id, "tralbum_id": album_id, "tralbum_type": "a"}
-    response = session.get(BANDCAMP_ALBUM_LOOKUP_URL, params=params)
+
+    try:
+        response = session.get(BANDCAMP_ALBUM_LOOKUP_URL, params=params)
+    except Exception as e:
+        log.exception("Failed to lookup Bandcamp album %r: %r", album_id, e)
+        return False
+
     if response.status_code != 200:
         return False
 
