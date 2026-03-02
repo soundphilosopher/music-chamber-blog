@@ -70,6 +70,12 @@ Der Debüt Longplayer der australischen Formation. An ihrem Sound haben sie nich
 
 ::genre::Modern Metal, Modern Metalcore, Synth Wave, Synth Pop, Indie Pop
 
+## Ave Grave, Unlearn - Ave Grave x Unlearn
+
+Die beiden amerikanische Producer Sean Christopher Galloway (Ave Grave) und James Key (Unlearn) mit ihrer Kollaboration. Ein kollaboratives experimentelles Ambient-Werk, das Drone, Melodie und Noise zu einer „strukturierten Klangcollage“ verschmelzen lässt.
+
+::genre::experimental ambient, drone, noise, post rock
+
 ## Bill Callahan - My Days of 58
 
 Der amerikanische Singer & Songwriter mit seinem neuesten Full-Length. Ein intime und melancholische Rekonstrunstruktion von Vergangenheit und Zukunft. Eingespielt wurden die Kompositionen in eine Melange aus Alt-Folk, Roots-Rock, Art-Rock, Country-Folk und Country-Rock. Das Songwriting weiß an manchen Stellen zu Überraschen, mit Einsatz von Saxophon und elektronischen Elementen.
@@ -105,6 +111,12 @@ Die beiden amerikanischen Producer und Muli-Instrumentalisten begeben sich in Ko
 Die deutsche Formation mit ihrem neuesten Full-Length Output. Das erste Release, welches komplett mit englischen Titeln ausgestattet wurde. Im Repertoire hat das Quintett ein melancholisches, abwechlungsreiches und instrumentales Werk des Post Metal. Dieses wurde mit allerlein kleinen spielerischen Ideen und Momenten ausgestattet, so dass eine gewisse Anziehungskraft nicht abzustreiten ist.
 
 ::genre::post metal, progressive metal, instrumental
+
+## Bruno Mars - The Romantic
+
+Das neueste Werk des amerikanischen Singer & Songwriters. Nach gut 10 Jahren Release-Hiatus ist der renommierte Künstler wieder zurück mit neuen Material. Eine Melange aus Retro Soul, Chamber Jazz, Disco und R6B. Dabei legt der Künstler wieder viel auf den Retro Sound und Songwriting.
+
+::genre::soul, r&b, latin soul, chamber jazz, disco
 
 ## Buck Meek - The Mirror
 
@@ -268,6 +280,12 @@ Das Sophomore Release der kanadischen Formation. Eine dem Chaos unterlegende Mel
 
 ::genre::mathcore, metalcore, metallic hardcore
 
+## Inner Wave - See you when I get back
+
+Der neueste Longplayer der amerikanischen Kapelle. Eine treibende Welle aus Indie Pop, Psych-Pop, Synth-Pop und Prog-Pop entfaltet sich über den weiten musikalischen Ozean und bricht auf einen zum korrekten Moment ein, so dass man beruhigt und gelassen ans Ufer surfen kann.
+
+::genre::indie pop, psychedelic pop, progressive pop, synth pop
+
 ## Iron & Wine - Hen's Teeth
 
 Das neueste Album von amerikanischen Singer & Songwriter Sam Beam. Der ehemalige Film-Professor hat eine musikalische Karriere um sein Monika aufgebaut. Seine Experimentierfreude ist weiter erkennbar in seinem Songwriting. So werden einige avantgardistische und künstlerische Elemente in seine Kompositionen aus Americana, Indie Folk und Chamber Pop integriert.
@@ -316,6 +334,18 @@ Die Norweger belohnen uns mit einem neuen Release, welches Nummer 7 in ihrer Dis
 
 ::genre::neo progressive rock, progressive folk, art pop, heavy rock, psychedelic rock
 
+## Laura Connell - The Medieval Drone Society II
+
+Die britische Multi-Instrumentalistin mit ihrer Fortsetzung der _The Medieval Drone Society_ Installation. Klassische Instrumentalisierung wird im Tempo gedrosselt und im Klang erweitert, so dass meisterliche Atmosphären der mittelalterlichen Landschaften entstehen.
+
+::genre::neo classic, drone, ambient, medieval folk
+
+## Le Matos - No damn Good
+
+Das Sophomore Release des kanadischen Duos. Entstanden ist eine Reise des Klanges durch die Welten von Synth-Pop, Dark Wave und Synth-Wave, welche mit einer klaren Produktion versehen worden sind. Dabei hat sich das Duo auch einiges von mid-2000er "French Touch" Szene geliehen und in die neue Zeit transferiert,
+
+::genre::synth pop, synth wave, dark wave, dance
+
 ## Mammal Hands - Circadia *
 
 Das neue Release des britischen Trios bringt ein paar Neuigkeiten mit sich. 1) Jesse Barrett wurde an den Drums von Rob Turner (Founding Member von GoGo Penguin) ersetzt. 2) Es ist das erste Full-Length Release über ACT. Rob bringt sein Style mit den Kompositionen gleich gut zum Ausdruck. Mit viel Können werden die Nu Jazz Kompositionen eingespielt und mit einer einmaligen Produktion versehen.
@@ -334,6 +364,12 @@ Die Kollaboration zwischen den norwegischen Jazz-Saxophonisten Marius Neset, der
 
 ::genre::nordic jazz, free jazz, progressive rock, avantgarde rock, art rock, contemporary jazz, jazz fusion
 
+## Mark de Clive-Lows, Andrea Lombardini, Tommaso Cappellato - Dreamwavers II
+
+Die Kollaboration zwischen den neuseeländischen Jazz-Pianisten Mark de Clive-Lows, den italienischen Jazz-Bassisten Andrea Lombardini und den italienischen Jazz-Drummer Tommaso Cappellato verbirgt im Grundaufbau ein Werk des Jazz Fusion. Dabei werden Elemente des zeitgenössischen Jazz, mit Elementen des Prog-Rock und der World Music vereint um einen möglichst vollen und breiten Sound zu erzeugen.
+
+::genre::jazz fusion, contemporary jazz, progressive rock
+
 ## Matador - Above, Below and So *
 
 Das britische Trio mit seinem neuesten Longplayer. Ein sludg-y, wie melodisches Gewitter des Post Metal, welches mit Elementen des Prog-Rock, Prog-Metal, Doom Metal und Psych-Metal versehen wurde. Das Songwriting hat eine enorme Spanne und weiß immer die korrekten Akzente hervorzuheben um einen eleganten Hörgenuss zu erhalten.
@@ -345,6 +381,12 @@ Das britische Trio mit seinem neuesten Longplayer. Ein sludg-y, wie melodisches 
 Das italienische Projekt mit seinem Sophomore Full-Length. Ein avantgardistisch ehrliches, raues und melancholisches Werk des Atmospheric Black Metal. Die Atmosphäre um die Kompositionen ist von Esoterik, Melancholie und Folkloren durchsetzt, was die korrekten Stimmungen im Songgefüge anregt.
 
 ::genre::atmospheric black metal, post black metal
+
+## Mitski - Nothing's about to happen to me
+
+Die japanische Singer & Songwriterin Mitski Miyawaki mit ihrem neuesten Release. Eine melancholische, wie avantgardistische Expression aus Indie Folk, Alt-Rock, Alt-Folk, Post-Grunge und Chamber Pop. Das Songwriting ist persönlich und lässt viel Raum um imaginäre Explosionen zu erzeugen, welche sich angenehm mit der sanften Stimme Mitski's vereinen.
+
+::genre::indie folk, alternative folk, alternative rock, post grunge, chamber pop
 
 ## Moderator - First Blood *
 
@@ -519,6 +561,12 @@ Das neueste Release der Kapelle aus Philly. Eine aggressive und walzende Kombina
 Die Debüt EP des amerikanischen Singer & Songwriter. Alá _Team Goldie_ wird ein Solo-Projekt des Pop Punk erschaffen, allerdings mit mehr Fokus auf modernen Post Hardcore, welcher mit der gewollten Catchiness geschrieben wurde. Das Gesamtbild bekommt dadurch einen Anstrich des Alternative Rock verpasst, statt mehr die Pop Punk Strukturen zu verfolgen.
 
 ::genre::modern post hardcore, alternative rock, sad pop punk
+
+## Voxtrot - Dreamers in Exile **
+
+Die amerikanische Formation mit ihrem Sophomore Full-Length. Mit mehr Mut und Experimentierfreude wird ein klangreiches und dynamisches Werk erzeugt. Im Songwriting werden catchy Indie Pop, Psych-Pop, Synth-Pop, Baroque Pop, Krautrock und Post Punk zu einer tanzbaren Odyssee zusammengefügt.
+
+::genre::indie pop, psychedelic pop, synth pop, baroque pop, krautrock, post punk, progressive pop
 
 ## Weedpecker - V
 

@@ -71,8 +71,8 @@ categories:
 
     ## 14. Bruecken - Years That Answer
 
--   ![Hen Ogledd - DISCOMBOBULATED](site:assets/images/hen_ogledd_-_discombobulated-1772299064.jpeg){ .top-list-image }
+-   ![Voxtrot - Dreamers in Exile](site:assets/images/voxtrot_-_dreamers_in_exile-1772441792.jpeg){ .top-list-image }
 
-    ## 15. Hen Ogledd - DISCOMBOBULATED
+    ## 15. Voxtrot - Dreamers in Exile
 
 </div>

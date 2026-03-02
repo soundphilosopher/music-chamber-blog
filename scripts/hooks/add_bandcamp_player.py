@@ -20,6 +20,7 @@ weekly posts are left untouched.
 from __future__ import annotations
 
 import logging
+from threading import Lock
 import time
 
 from dataclasses import dataclass
@@ -39,6 +40,9 @@ log = logging.getLogger(f"mkdocs.hooks.{__name__}")
 
 BANDCAMP_FUZZY_SEARCH_URL = "https://bandcamp.com/api/fuzzysearch/2/app_autocomplete"
 """Bandcamp autocomplete endpoint used to look up albums by name."""
+
+BANDCAMP_ALBUM_LOOKUP_URL = "https://bandcamp.com/api/mobile/25/tralbum_details"
+"""Bandcamp endpoint used to look up album details by ID."""
 
 EMBED_PLAYER_BASE_URL = "https://bandcamp.com/EmbeddedPlayer"
 """Base URL for constructing Bandcamp ``<iframe>`` embed sources."""
@@ -112,6 +116,25 @@ def _normalize_release_name(original_name: str) -> str | None:
     return slugify(f"{artist} {title}", " ")
 
 
+def _lookup_bandcamp_album(album_id: str, band_id: str, session: Session) -> bool:
+    """Query Bandcamp for album details by ID.
+
+    Args:
+        album_id: The Bandcamp-internal numeric album identifier.
+        session: A reusable :class:`curl_cffi.requests.Session` (keeps
+            the underlying connection alive across calls).
+
+    Returns:
+        ``True`` if the album exists and has tracks, ``False`` otherwise.
+    """
+    params = {"band_id": band_id, "tralbum_id": album_id, "tralbum_type": "a"}
+    response = session.get(BANDCAMP_ALBUM_LOOKUP_URL, params=params)
+    if response.status_code != 200:
+        return False
+
+    return len(response.json().get("tracks", [])) > 0
+
+
 def _collect_bandcamp_information(
     h2: Tag, session: Session
 ) -> BandcampInfo | None:
@@ -161,6 +184,10 @@ def _collect_bandcamp_information(
 
     for result in response.json().get("results", []):
         if result.get("type") == "a":
+            if not _lookup_bandcamp_album(result.get("id"), result.get("band_id"), session):
+                log.debug("Bandcamp album %r has no tracks, skipping", result.get("id"))
+                continue
+
             info = BandcampInfo(
                 album_id=result.get("id"),
                 album_name=result.get("name"),
