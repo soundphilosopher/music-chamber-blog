@@ -26,7 +26,7 @@ Das Kollektiv um den California Kane Acosta mit einem neuen Output. Irgendwo zwi
 
 Das Trio um die Jazz-Saxophonistin Sgne Emmeluth, dem Jazz-Bassisten Ingebrigt Håker Flaten und dem Jazz-Drummer Axel Filip mit ihrer neuesten Improvisation des klassischen Jazz, welche auch free-jazz-y Vibes enthalten. Mit dem Namen des Trios habe ich so meine Probleme, rein von der Historie her.
 
-::genre::contemporary jazz, free jazz, improvisational jazz
+::genre::contemporary jazz, free jazz, improvisation
 
 <!-- more -->
 

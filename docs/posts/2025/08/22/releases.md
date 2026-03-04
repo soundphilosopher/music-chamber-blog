@@ -364,7 +364,7 @@ Die Band aus Seattle mit ihrem neuesten Werk. Entstanden in den early 90s zauber
 
 Die Kollaboration von der UK-Based Drummerin Valentina Magaletti und dem japanischen Producer Koshiro Hino aka YPY. Eine künstlerische Expression von Drums und japanischer Electronica. Man kann es dem Free-Jazz zuordnen, ich finde allerdings die Terminologie aus Bandcamp “weirdpercussion” auch ganz nett.
 
-::genre::free jazz, nu jazz, jazztronica, improvisational jazz
+::genre::free jazz, nu jazz, jazztronica, improvisation
 
 ## Water From Your Eyes - It’s a beautiful Place
 

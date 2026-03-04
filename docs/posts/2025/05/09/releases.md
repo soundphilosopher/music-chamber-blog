@@ -26,7 +26,7 @@ Die kanadischen Alt-Indie Rocker mit einem neuen Klangwerk. Ich kann meine Ohren
 
 Das europäische Quartet um den luxemburgischen Jazz-Pianisten Arthur Possing, hier in musikalischer Improvisation mit dem Jazz-Gitarristen Joel Rabesolo aus Madagaskar. Ein kreativer Austausch.
 
-::genre::contemporary jazz, improvisational jazz
+::genre::contemporary jazz, improvisation
 
 ## Behemoth - The Shit Ov God
 

@@ -294,7 +294,7 @@ Das Sophomore Release der amerikanischen Formation. In eigenwilliger Art und Wei
 
 Die Kollaboration zwischen den renommierten österreichischen Multi-Instrumentalisten und Komponisten Manu Delago und dem renommierten amerikanischen Multi-Instrumentalisten Max Zbiral-Teller birgt eine improvisierte Session zwischen Handpan und Hackbrett. Ein spirituelles Klangerlebnis, welches beide Instrumente immer wieder in verschiedene Konstruktionen abgleiten lässt. So werden Bilder von Piano, Gitarre und Bass konstruiert, welche jedoch nicht vorhanden sind.
 
-::genre::Spiritual Jazz, Improvisational Jazz, Instrumental
+::genre::Spiritual Jazz, improvisation, Instrumental
 
 ## Marielle V Jakobsons - The Pattern lost to Air
 

@@ -66,7 +66,7 @@ Die deutsche Formation kann auf 30 Jahre Bandgeschichte schauen und hat es sich 
 
 Die belgische Jazz-Vokalistin mit ihrem neuesten Output. Ein Werk des Vocal-Jazz, welches Elemente des klassischen Jazz und dem Chamber-Jazz mit in sich integriert. Es werden Räume geschaffen durch die Improvisation verschiedener Vokals, welche wie eine Konversation erstrahlen durch die Kompositionen.
 
-::genre::Contemporary Jazz, Chamber Jazz, Improvisational Jazz
+::genre::Contemporary Jazz, Chamber Jazz, improvisation
 
 ## Barbro - Crossfade
 
@@ -438,7 +438,7 @@ Das Debüt der irischen Formation kann sich sehen lassen. Das Cover führt einen
 
 Die armenische Sängerin und Komponisten mit ihrem Debüt als Quintett. Unterstützt wird die Sängerin von Armin Al Aiedy (Oud/Nay), Vincent Forestier (Piano), Yann Phayphet (Bass) und Matheo Ciesla (Drums). Entstanden ist eine Improvisation des Jazz, welche unterstützt wird von Armenian Folk und Chanson. Dabei bildet die Stimme ein weiteres Instrument in den Kompositionen.
 
-::genre::Contemporary Jazz, Improvisational Jazz, Armenian Folk, Chanson
+::genre::Contemporary Jazz, improvisation, Armenian Folk, Chanson
 
 ## Voka Gentle - Domestic Bliss *
 

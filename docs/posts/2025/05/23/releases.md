@@ -130,7 +130,7 @@ Das amerikanische Kreativ-Duo mit ihrem neuen Output. Eine nahtlose Genre-Versch
 
 Das Kollektiv um den Jazz Gitarristen Isaak Peyer, den Jazz Saxophonist Charley Rose, den Jazz Bassisten Jonathan Collin-Bouhon und den Jazz Drummer Juan Ibarra improvisieren hier eine fließende Klang-Homage.
 
-::genre::contemporary jazz, jazz fusion, latin jazz, world music, improvisational jazz
+::genre::contemporary jazz, jazz fusion, latin jazz, world music, improvisation
 
 ## Julien Clerc - Une vie
 

@@ -40,7 +40,7 @@ Das deutsche Kollektiv bestehend aus den Producern Christoph Bauss (Shuko), Robe
 
 Die Kollaboration zwischen den amerikanischen Jazz-Drummer Billy Martin (Illy B), dem amerikanischen Multi-Instrumentalisten Matt Glassmeyer und dem amerikanischen Jazz-Gitarristen Jonathan Goldberger bietet eine Live-Improvisation, welche mit ausgefallen Ideen und Experimenten dem Avant-Jazz, wie auch dem Fusion zugeordnet werden kann.
 
-::genre::avantgarde jazz, jazz fusion, improvisational jazz
+::genre::avantgarde jazz, jazz fusion, improvisation
 
 ## Bimurta - All Skies lead to the Sun *
 

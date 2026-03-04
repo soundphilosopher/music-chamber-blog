@@ -88,7 +88,7 @@ Erstling der Taxaner. Vom Songwriting und der Produktion klar den early 2000 Nu-
 
 Die Kollaboration zwischen Mouratoglou (Acoustic Guitars), Chevillon (Bass) und Lopes (Drumes) ist eine wunderbare Tour de Jazz. Zu akustischen Gitarren Kompositionen wird ein Jazz-Kleid improvisiert, welches keinen Takt allein lässt.
 
-::genre::contemporary jazz, improvisational jazz
+::genre::contemporary jazz, improvisation
 
 ## Conflict - This Much Remains
 
@@ -166,7 +166,7 @@ Die Kalifornierin beeindruckt mit einem neuen “Longplayer”. Sie selbst hat i
 
 Kollaboration zwischen dem Jazz-Drummer Leif Berger, dem Gitarristen Jannis Sicker, dem Jazz-Pianisten Felix Hauptmann und dem Jazz-Bassisten David Helm. Modern-Jazz, improvisiert mit verschiedenen musikalischen Einflüssen, so dass Fusion-Jazz auch gern zu Gast in den Reihen ist. Mir gefällt die progressive Ausrichtung dieser Kollaboration.
 
-::genre::modern jazz, improvisational jazz, jazz fusion
+::genre::modern jazz, improvisation, jazz fusion
 
 ## Loscil - Lake Fire
 

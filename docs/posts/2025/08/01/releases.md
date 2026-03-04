@@ -100,7 +100,7 @@ Genre: Ambient, Drone, Ambient Electronica
 
 Genre: Improvised Jazz, Post-Jazz, Noir-Jazz
 
-::genre::improvisational jazz, post jazz, noir jazz
+::genre::improvisation, post jazz, noir jazz
 
 ## Kidburn - Fooled by the rush of Growing up
 

@@ -112,7 +112,7 @@ Der nicaraguanische Pianist mit seinem neuesten Release. Moderne Piano-Kompositi
 
 Die Jazz-Gitarristin aus New York lädt ein zu einem neuen Klangwerk mit ihrem Sextett “Amaryllis”. Klassischer Improv-Jazz der amerikanischen Klangschule.
 
-::genre::contemporary jazz, improvisational jazz
+::genre::contemporary jazz, improvisation
 
 ## Memories Of A Lost Soul - Songs from the restless Oblivion
 

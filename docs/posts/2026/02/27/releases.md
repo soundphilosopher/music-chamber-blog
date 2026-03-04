@@ -518,7 +518,7 @@ Das norwegische Outfit mit seinem neuesten Full-Length. Eine mystische Reise dur
 
 Das amerikanische Kollektive, hier vertreten von Ryan Wheless, Bailey Zick und Alex Oliverio, mit der Fortsetzung ihrer fragmentellen Kollektiv-Arbeit. Entstanden sind fragmentelle Improvisation des Space Rock, Art Rock, Post Rock, Nu Jazz, Math Rock und Avant-Pop. Jedes Fragment wird im instrumentellen Rahmen gahalten und höchstens von "Kommentaren" aus der Improvisaton "ergänzt".
 
-::genre::space rock, art rock, avantgarde rock, nu jazz, avantgarde pop, math rock, free jazz, improvisational jazz, post rock
+::genre::space rock, art rock, avantgarde rock, nu jazz, avantgarde pop, math rock, free jazz, improvisation, post rock
 
 ## Subversion Trigger - Subversion Trigger
 

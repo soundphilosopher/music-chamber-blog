@@ -282,7 +282,7 @@ Die italienische Formation mit ihrem neuesten Longplayer. Im Fundament wird dem 
 
 Das Sophomore Release des belgischen Trios, welches aus ⅖ der Band STUFF. besteht. Ein experimentelles Werk des Jazztronica, welches einen stilistischen Exkurs durch Jazz-Fusion, Electronica und Acid-Funk bietet. Die Improvisationen werden oft im analogen Rahmen eingefangen und mit Techniken der Beschleunigung im Klang gebracht.
 
-::genre::Jazztronica, Jazz Fusion, Electronica, Acid Funk, Improvisational Jazz
+::genre::Jazztronica, Jazz Fusion, Electronica, Acid Funk, improvisation
 
 ## Lawson Rollins - Next Steps
 
