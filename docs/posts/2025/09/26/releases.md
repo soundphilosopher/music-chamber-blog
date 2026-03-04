@@ -36,13 +36,13 @@ Neue Improvisationen vom New Yorker Jazz-Saxophonisten. Modern Jazz, welcher sei
 
 Die finnischen Prog-Metaller mit ihrem neuesten Release. Gute Kompositionen. Ich habe ein Problem. Irgendwie klingt das Songwriting sehr wiederholend im selben Werk.
 
-::genre::progressive metal
+::genre::prog metal
 
 ## Animal, Surrender! - A Boot for every Bane **
 
 Die New Yorker Combo mit ihrem neuesten Output. Das Instrumental-Trio zaubert hier eine wunderbare Fusion von Jazz, Psych und Prog mit Elementen der Electronica.
 
-::genre::jazz fusion, psychedelic rock, progressive rock, electronica
+::genre::jazz fusion, psych rock, prog rock, electronica
 
 ## Bill Laurance - Lumen
 
@@ -60,7 +60,7 @@ Das Solo-Projekt um den amerikanischen Multi-Instrumentalisten, welcher als EM h
 
 Das Alt-Country-Outfit aus Washington State mit seinem neuesten Album. Eigentlich ist damit auch schon alles gesagt. Alt-Country welcher sehr Rock’n’Roll-y gespielt wird.
 
-::genre::alternative folk, country folk, rock'n'roll revival
+::genre::alt folk, country folk, rock'n'roll revival
 
 ## Carl Craig - Landcruising
 
@@ -90,7 +90,7 @@ Der etablierte amerikanische Musiker Cochemea Gastelum mit seinem neuesten Werk.
 
 Die renommierte amerikanische Singer & Songwriterin mit ihrem neuesten Werk. Ich nenne es immer “Myspace Country”, da sie darüber Bekanntheit erlangt hat. Im Grunde ist es Alt-Pop, mit einem Hang zum Pop-Country.
 
-::genre::alternative pop, country folk
+::genre::alt pop, country folk
 
 ## Das Paradies - Überall, wo Menschen sind
 
@@ -102,25 +102,25 @@ Der Leipziger Singer & Songwriter Florian Sievers aka Das Paradies mit seinem ne
 
 Der amerikanische Singer & Songwriter Brookln Dekker mit seinem neuesten Release. Kompositionen des Indie-Pop prallen auf Kompositionen des Alt-Pop.
 
-::genre::indie pop, alternative pop
+::genre::indie pop, alt pop
 
 ## Disasterpeace - Viktor (OST)
 
 Der amerikanische Composer Richard Vreeland mit dem Soundtrack zu Olivier Sarbil’s Viktor. Der Soundtrack umfasst elegant die Tiefe des Films, in dem die Invasion Russlands auf die Ukraine von dem Tauben Viktor erlebt wird.
 
-::genre::cinematic ambient, cinematic modern classic
+::genre::cine ambient, cine modern classic
 
 ## Donny McCaslin - Lullaby for the Lost **
 
 Der amerikanische Saxophonist, welcher auf David Bowies letztem Werk Blackstar das Saxophon eingespielt hat, mit seinem neuesten Werk. Kompositionen des Art-Rock, Fusion-Jazz und Prog-Rock treffen aufeinander und bilden ein Gesamtwerk.
 
-::genre::art rock, jazz fusion, progressive rock
+::genre::art rock, jazz fusion, prog rock
 
 ## Dustin O’Halloran - Eleanor The Great (OST)
 
 Das Winged Victory For The Sullen Member mit Kompositionen zu Scarlett Johansson’s dramatischen Debüt als Director. O’Halloran fasst die Dramatik des Films gut in seinen Cinematic-Classic-Kompositionen auf.
 
-::genre::cinematic modern classic
+::genre::cine modern classic
 
 ## Dying Wish - Flesh stays together
 
@@ -132,7 +132,7 @@ Das Metalcore-Outfit aus Oregon mit seinem neuesten Release. Stabiler Metalcore,
 
 Die tschechischen Post-Metaller mit ihrem neuesten Werk. Progressive Strukturen ziehen sich durch dunkle Wälder des Post-Metals. Mit einem neuen Sänger wird dem Ganzen eine neue Stärke verliehen.
 
-::genre::post metal, progressive metal
+::genre::post metal, prog metal
 
 ## Garreth Broke - Life through Loss
 
@@ -144,7 +144,7 @@ Der ruhelose britische Pianist und Trauerbewältiger mit einem weiteren Output, 
 
 Die Indie-Folk/Alt-Folk Supergroup um Matt Ward (M. Ward, She And Him), Howe Gelb (Giant Sand) und Mark McCausland (McKowski) mit ihrem Debüt.
 
-::genre::indie folk, alternative folk
+::genre::indie folk, alt folk
 
 ## Geese - Getting Killed *
 
@@ -168,19 +168,19 @@ Das aktuelle Solo-Projekt um den Kalifornier Jason Yarger mit seinem neuesten We
 
 Die norwegische Singer & Songwriterin mit ihrem neuesten Werk nach 9 Jahren. Eine Mischung aus Alt-Rock, Psych-Rock und Desert-Rock wird dem Ohr geboten.
 
-::genre::alternative rock, psychedelic rock, desert rock
+::genre::alt rock, psych rock, desert rock
 
 ## Jeff Tweedy - Twilight Override
 
 Der Frontman von Wilco mit seinem neuesten Solo-Veröffentlichung. Eine Collection von 30 Songs, welche als “Outtakes” fabriziert wurden und mehr aus dem Prozess des Schreibens entstanden sind. Im Groben kann man diese dem Alt-Folk und Indie-Folk zuweisen.
 
-::genre::alternative folk, indie folk
+::genre::alt folk, indie folk
 
 ## Elenowen - Lightweight
 
 Das Duo Josh Johnson (JK Johns) und Nicole Johnson aus Nashville mit ihrem neuesten Release. Eine stellenweise psychedelische Reise durch Alt-Folk, Folk-Rock und Indie-Pop.
 
-::genre::alternative folk, folk rock, indie pop, psychedelic rock
+::genre::alt folk, folk rock, indie pop, psych rock
 
 ## John Maus - Later than you think
 
@@ -192,7 +192,7 @@ Der “kontroverse” Künstler aus LA mit seinem neuesten Output. Mit seinen ex
 
 Ein weiterer Soundtrack des Radiohead Gitarristen Jonny Greenwood. Diesmal wird das neueste Werk von Paul Thomas Anderson “One Battle After Another” in Musik in Szene gesetzt.
 
-::genre::cinematic rock, cinematic modern classic
+::genre::cine rock, cine modern classic
 
 ## Jung An Tagen - Revenge of the Speaker People
 
@@ -252,7 +252,7 @@ Die Singer & Songwriterin aus Nashville mit ihrem neuesten Album. Mit ihren funk
 
 Der schwedische Singer & Songwriter Anders Wendin aka Moneybrother mit seinem neuesten Output. Klassischer Folk-Rock wird mit Elementen des Alt-Indie in Komposition gebracht.
 
-::genre::alternative indie, folk rock
+::genre::alt indie, folk rock
 
 ## Monolink - The Beauty of it all
 
@@ -264,7 +264,7 @@ Der deutsche Producer und DJ Steffen Linck aka Monolink mit seinem neuesten Werk
 
 Die finnischen Melo-Deather mit ihrem neuesten Release. Symphonic-Melo-Death, welcher mit stabilen Songwriting das Melo-Death-Herz aufblühen lassen kann.
 
-::genre::melodic death metal
+::genre::melo death metal
 
 ## Muito Kaballa - Tomorrow a Flower
 
@@ -276,13 +276,13 @@ Das deutsche Jazz-Kollektiv mit seinem neuesten Klangwerk. Eine Fusion von World
 
 Die amerikanische Singer & Songwriterin, bekannt als Gründungsmitglied von “The New Pornographers”, mit ihren neuesten Solo-Arbeiten. Gut ausgearbeitete Kompositionen des Indie-Pop, Art-Pop und Alt-Pop.
 
-::genre::indie pop, art pop, alternative pop
+::genre::indie pop, art pop, alt pop
 
 ## Nero Kane - For the Love, the Death and the Poetry *
 
 Der italienische Singer & Songwriter mit seinen neuesten Poesien des Dark-Psych-Folk. Eine gewisse Faszination schwingt in seinem Songwriting mit.
 
-::genre::dark folk, psychedelic folk
+::genre::dark folk, psych folk
 
 ## Nobuhiro Okahashi - 12
 
@@ -306,7 +306,7 @@ Das Thrash-Metal-Outfit aus Texas mit seinem neuesten Album. Thrash der Slayer-S
 
 Der kanadische Singer & Songwriter hat viele Gäste zu Gast bei seinen neuesten Kompositionen, welche ihre eigenen Einflüsse in den Mellow-Folk alá Patrick Watson einbringen. Watson selbst scheut sich nicht, neue Welten der Electronica und Pop zu erkunden. Was entstanden ist, ist für was Watson auch Live lebt. Einen Raum aus Gästen in einen Raum aus Musiker zu verwandeln.
 
-::genre::alternative folk, psychedelic folk, melodramatic folk, electronica, folk pop
+::genre::alt folk, psych folk, mellow folk, electronica, folk pop
 
 ## Purity Ring - Purity Ring
 
@@ -318,7 +318,7 @@ Das kanadische Electro-Pop-Duo mit ihrem neuesten Release. Electro-Pop, welcher 
 
 Das schweizer Quartett mit Neuen. Was für ein genialer Album-Titel. Mich fasziniert ihr dunkler Mix aus Alt-Rock, Art-Rock und Krautrock.
 
-::genre::alternative rock, art rock, avantgarde rock, krautrock
+::genre::alt rock, art rock, avant rock, krautrock
 
 ## Rage - A new World rising
 
@@ -342,25 +342,25 @@ Die amerikanische Punk-Formation mit ihrem neuesten Output. American Punk Rock, 
 
 Die Death-Thrasher aus Boston wird gerade sehr viel Aufmerksamkeit geschenkt im Metal-Circle. Death/Thrash der technischen Art und Weise, welcher intelligent Elemente von modernen Metal-Arten, wie Deathcore, mit Leichtigkeit verarbeitet.
 
-::genre::deathcore, thrash metal, technical thrash metal
+::genre::deathcore, thrash metal, tech thrash metal
 
 ## Royal Sorrow - Innerdeeps
 
 Das Debüt der Finnen, welches über InsideOut gepusht wird. Progressive Metal, welcher Elemente des Alt-Metal und Symphonic-Metal, sowie der Electronica, in seine Kompositionen einbindet.
 
-::genre::symphonic metal, alternative metal, electronica
+::genre::symphonic metal, alt metal, electronica
 
 ## Sebastian Plano - High Tide (OST)
 
 Der argentinische Cellist und Composer Sebastian Plano mit dem Soundtrack zu Marco Calvani’s Drama “High Tide”.
 
-::genre::cinematic modern classic
+::genre::cine modern classic
 
 ## Shiner - BelieveYouMe **
 
 Die Kapelle aus Kansas City mit ihrem neuesten Werk. Nachdem sie 2020 ihr Reunion-Album abgeliefert haben, bringen sie auch in diesem Werk wieder ihren markanten Mix aus Post-Rock, Alt-Rock und Prog-Rock ans Tageslicht.
 
-::genre::post rock, alternative rock, progressive rock
+::genre::post rock, alt rock, prog rock
 
 ## Sprints - All that is over *
 
@@ -372,7 +372,7 @@ Die Garager-Noiser aus Irland wagen mit ihren neuesten Kompositionen einen weite
 
 Der britische Composer mit dem Soundtrack zum SciFi-Drama-Com Long Distance von Josh Gordon und Will Speck.
 
-::genre::cinematic modern classic
+::genre::cine modern classic
 
 ## Sven Wunder - Daybreak
 
@@ -402,7 +402,7 @@ Die Sad-Pop-Punker aus Philadelphia mit einem neuen Werk nach 18 Jahren. Die Ban
 
 Das isländische Stoner-Rock-Trio mit seinem neuesten Release. Stoner-Rock, welcher neben Prog auch Psychedelic bedient.
 
-::genre::stoner rock, progressive rock, psychedelic rock
+::genre::stoner rock, prog rock, psych rock
 
 ## Tim Neumark - Evolution
 
@@ -414,19 +414,19 @@ Der amerikanische Pianist mit neuen Kompositionen für Solo-Piano.
 
 Ein neues Release vom britischen Singer & Songwriter. Kompositionen aus Alt-Folk, Indie-Folk und Indie-Pop werden ins Ohr gepresst, wenn man es zulässt.
 
-::genre::alternative folk, indie folk, indie pop
+::genre::alt folk, indie folk, indie pop
 
 ## Villain Of The Story - Convergence: Two Minds in one
 
 Die amerikanische Modern-Metal-Formation mit ihrem neuesten Werk. Ein üblicher Mix aus Alt-Metal, Nu-Metalcore und Pop. Octane-Core? Ich würde zustimmen.
 
-::genre::alternative metal, nu metalcore, modern metalcore
+::genre::alt metal, nu metalcore, modern metalcore
 
 ## White Reaper - Only slightly Empty
 
 Ein neues Release aus dem Hause White Reaper. Die amerikanische Alt-Rock-Formation kann es auch diesmal nicht lassen, Elemente des Stoner und Pop-Punk mit in ihre Kompositionen aufzunehmen.
 
-::genre::alternative rock, stoner metal, pop punk
+::genre::alt rock, stoner metal, pop punk
 
 ## Wolfgang Muthspiel, Scott Colley, Brian Blade - Tokyo
 
@@ -472,13 +472,13 @@ Der britische Künstler mit seinem neuesten Fragment-Werk. Dem Space-Echo ausges
 
 Der britische Composer und Pianist mit neuen Kompositionen der Cinematic-Neo-Classic. Kompositionen, welche leicht in Bilder verwandelt werden könnten.
 
-::genre::cinematic modern classic
+::genre::cine modern classic
 
 ## IQ - Almost but not Quite *
 
 Die Neo-Progger aus UK werden auch nach über 40 Jahren nicht ruhiger und bringen weiter ihr starkes Songwriting unter die Massen.
 
-::genre::neo progressive rock
+::genre::neo prog rock
 
 ## The Memory Band - Trackways Ancient & Modern
 

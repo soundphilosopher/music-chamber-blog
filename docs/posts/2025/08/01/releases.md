@@ -20,7 +20,7 @@ Genre: Death Metal
 
 Genre: Soundtrack, Cinematic Ambient, Cinematic Electronica
 
-::genre::cinematic ambient, cinematic electronica
+::genre::cine ambient, cine electronica
 
 ## Blessings - Blodsträngen
 
@@ -46,7 +46,7 @@ Genre: Metallic Hardcore
 
 Genre: Instrumental Progressive Rock, Instrumental Post-Rock
 
-::genre::progressive rock, post rock, instrumental
+::genre::prog rock, post rock, instrumental
 
 ## Chuuwee, Trizz - Quarter: AMB4
 
@@ -64,7 +64,7 @@ Genre: Brutal Death Metal
 
 Genre: Progressive Rock
 
-::genre::progressive rock
+::genre::prog rock
 
 ## Fit For A King - Lonely God
 
@@ -88,7 +88,7 @@ Genre: Ambient Post-Rock, Ambient Classic, Soundscapes
 
 Genre: Alternative Rock, Emocore, Nu-Gaze
 
-::genre::alternative rock, emocore, nu gaze
+::genre::alt rock, emocore, nu gaze
 
 ## Human Is Alive, faintface - Drift until Disappear
 
@@ -130,7 +130,7 @@ Genre: Stoner Rock, sludge rock, Post-Grunge
 
 Genre: Technical-Brutal-Death-Metal
 
-::genre::technical death metal, brutal death metal
+::genre::tech death metal, brutal death metal
 
 ## Sandor Gavin - Echoes
 
@@ -154,13 +154,13 @@ Genre: Instrumental Post-Metal
 
 Genre: Art-Rock, Krautrock, Avant-Rock, Progressive Rock
 
-::genre::art rock, krautrock, avantgarde rock, progressive rock
+::genre::art rock, krautrock, avant rock, prog rock
 
 ## The Warlocks - The manic excessive Sound of
 
 Genre: Psychedelic Rock, Psychedelic Indie-Rock
 
-::genre::psychedelic rock, indie rock
+::genre::psych rock, indie rock
 
 ## To The Grave - Still
 

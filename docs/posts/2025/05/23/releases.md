@@ -70,13 +70,13 @@ Die dänischen Modern-Jazzer mit ihrem neuesten Werk. Das aus einer Live-Recordi
 
 Die amerikanischen Psychedelic Rocker mit ihrem neuesten Release. Die Komposition aus NWOBHM und Stoner überrascht an keiner Stelle. Fans des Stoner-Genre kommen sicherlich auf ihre Kosten.
 
-::genre::psychedelic rock, nwobhm, stoner rock
+::genre::psych rock, nwobhm, stoner rock
 
 ## Death and Vanilla - Whistle and I’ll come to You *
 
 Das schwedische Trio interpretiert mit ihrem neuesten Werk die TV Show “Whistle and I’ll come to you”: Wie mit ihren anderen Soundtrack-Interpretationen ist das Gesamtwerk sehr cinematisch und instrumental gehalten. Dennoch kommt der Lo-Fi 60s Sci-Fi Pop nicht zu kurz.
 
-::genre::lofi, scifi pop, psychedelic pop, progressive pop
+::genre::lofi, scifi pop, psych pop, prog pop
 
 ## Ella Vos - Rosebuds
 
@@ -94,7 +94,7 @@ Das britische Producer Duo mit ihrem neuesten Klangexperiment. Eine magnetische 
 
 Das Projekt um den Belgier “Sal-Ocin” mit einem neuen Output. Eine magische Verschmelzung von Dark Ambient, Cinematic Ambient und Drone Industrial.
 
-::genre::dark ambient, cinematic ambient, drone, industrial
+::genre::dark ambient, cine ambient, drone, industrial
 
 ## Family and Friends - Kid Spirit
 
@@ -112,13 +112,13 @@ Das norwegische Indietronic Kollektiv mit seinem neuesten und letzten Schaffensw
 
 Die deutschen Melo-Death-Metaller mit ihrem neuesten Release. Gut arrangierte Melodic Death Kompositionen mit klassischen Gothenburg Sound Songwriting.
 
-::genre::melodic death metal
+::genre::melo death metal
 
 ## Hinder - Back to Life
 
 Die amerikanische Kapelle mit ihrem neuesten Werk. Stadion- und radiotauglicher Alternative Hard Rock, welcher seine Fans und Konsumenten besitzt.
 
-::genre::alternative rock, hard rock, arena rock
+::genre::alt rock, hard rock, arena rock
 
 ## House Of Protection - Outrun You All **
 
@@ -208,7 +208,7 @@ Die Kollaboration zwischen der New Yorker Jazz-Sängerin und dem New Yorker Jazz
 
 Das norwegische Prog-Grind-Projekt mit seinem neuesten Werk. Instrumentelle Song-Dekonstruktion im Style des Tech-Grind allerdings mit mehr Fokus auf Instrument-Dekonstruktion und daher eher Prog-y.
 
-::genre::technical grindcore, progressive metal
+::genre::technical grindcore, prog metal
 
 ## Pye Corner Audio - Lake Deep Memory
 
@@ -220,31 +220,31 @@ Der britische Producer Martin Jenkins, hier unter seinem Pseudonym tätig, mit e
 
 Die irischen Alt-/Garage-Rocker mit ihrem neuesten Output. Mit einer ordentlichen Portion an Indie-Rock-Gefühl und Angepisstheit zelebrieren die Iren ihre Garage-Rock-Kompositionen.
 
-::genre::indie rock, garage rock, alternative rock
+::genre::indie rock, garage rock, alt rock
 
 ## Sedona - Getting into Heaven
 
 Die Singer & Songwriterin aus LA mit ihrem neuesten Werk. Ihre Vorbilder lassen sich schwer verstecken, allerdings bringt die Amerikanerin ihre eigene Klangfarbe mit, welche mit Alt-Pop in eine Form gebracht wird.
 
-::genre::alternative pop, indie pop
+::genre::alt pop, indie pop
 
 ## Senna - Strange to Love
 
 Die deutsche Formation mit ihrem Debüt. Modern Metal Kompositionen, die ihrer Art gerecht werden. Von Sing-Along-Metalcore, einer Portion Progressive und Alt-Metal ist die Mischung komplett. Ein gelungenes Release für das Genre.
 
-::genre::modern metalcore, progressive metal, alternative metal
+::genre::modern metalcore, prog metal, alt metal
 
 ## Skunk Anansie - The Painful Truth
 
 Warum? Die Briten mit einem neuen Release. Warum? “The painful truth” ist für mich, dass dies alles andere als gelungen klingt. Es klingt mehr, als ob die Band komponiert hat und die Sängerin in ihren Wohnzimmer lustlos darüber “gesungen” hat. Die Kompositionen sind nicht schlecht, aber der Gesang … phew … WARUM?
 
-::genre::alternative rock
+::genre::alt rock
 
 ## Snowpoet - Heartstrings
 
 Das britische Projekt um das Duo Lauren Kinsella und Chris Hyson mit einem neuen Werk. Ich würde es Modern-Alt-Jazz nennen, durch die Instrumentalisierung. Sehr schöne Komposition.
 
-::genre::modern jazz, alternative jazz
+::genre::modern jazz, alt jazz
 
 ## Sophia Kennedy - Squeeze Me
 
@@ -256,19 +256,19 @@ Die deutsche Pop-Künstlerin mit ihrem neuesten Release. Eine nicht so imposante
 
 Das 26ste Release des Duo aus LA und wie ich es liebe. Mit ihrer routinierten Art vereinen sie Alt-Pop, Art-Rock und Synth-Pop. Macht mir gute Laune.
 
-::genre::alternative pop, art rock, synth pop
+::genre::alt pop, art rock, synth pop
 
 ## Sports Team - Boys these Days
 
 Die britische College-Band mit ihrem neuen Output. Alt-Rock im Mix mit Indie-Rock und der privilegierten Collage-Attitude in den Texten.
 
-::genre::alternative rock, indie rock, college rock
+::genre::alt rock, indie rock, college rock
 
 ## Stereolab - Instant Holograms on Metal Film *
 
 Nach 15 Jahren ein wirklich neues Werk der London-Based Kapelle. Krautrock in der Form von Stereolab sollte man eine Chance geben. Ich mag es.
 
-::genre::krautrock, psychedelic rock, experimental rock
+::genre::krautrock, psych rock, experimental rock
 
 ## Sugar For The Pill - LUV
 
@@ -310,13 +310,13 @@ Die amerikanische Deathcore-Kapelle mit ihrem neuesten Output. Der Band Name ist
 
 Die englische Band mit ihrem neuesten Release. Alt-Folk und Alt-Folk werden mit einer Portion an Indie-Rock-Rhythmen radiotauglich dem Zuhörer geboten.
 
-::genre::alternative folk, indie rock, indie folk
+::genre::alt folk, indie rock, indie folk
 
 ## Weeping Willows - Goodwill
 
 Die schwedische Alt-Country Kapelle mit ihrem neuesten Output. Freunden des Nashville Sounds würde es nicht auffallen, dass diese Kapelle aus Europa stammt.
 
-::genre::alternative country
+::genre::alt country
 
 ## Year Of No Light - Les Maîtres Fous
 
@@ -366,10 +366,10 @@ Das New Yorker Solo-Projekt mit einem neuen Release. Instrumental Post-Metal, ni
 
 Der neuseeländische Singer & Songwriter mit seinem neuesten Release. Indie-Rock-Kompositionen treffen auf Ausbrüche des Alt-Rock.
 
-::genre::indie rock, alternative rock
+::genre::indie rock, alt rock
 
 ## Mogwai - The Bombing of Pan-Am 103
 
 Die Vertonung der gleichnamigen britischen TV-Serie hat Mogwai in die Hand genommen und haben geliefert.
 
-::genre::cinematic post rock, instrumental
+::genre::cine post rock, instrumental

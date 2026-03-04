@@ -46,13 +46,13 @@ Das Projekt um den kalifornischen Multi-Instrumentalisten Josh Hwang mit seinem 
 
 Die kanadische Technical Death Metal Kapelle mit ihrem neuesten Output. Mein Ohr scheint Probleme mit der Produktion zu haben. Das Songwriting ist routiniert.
 
-::genre::technical death metal
+::genre::tech death metal
 
 ## Domenique Dumont - Deux Paradis
 
 Das Kollektiv um den litauischen Producer Arturs Leipins und der litauischen Sängerin Anete Stuce mit ihrem neuesten Release. Psychedelic-Synth-Pop, welcher sich gern an Rhythmen des Bossa Nova und Salsa bedient.
 
-::genre::psychedelic pop, synth pop, bossa nova, salsa
+::genre::psych pop, synth pop, bossa nova, salsa
 
 ## Elskavon - Panoramas
 
@@ -106,7 +106,7 @@ Das Matthew Shipp Trio nimmt den brasilianischen Jazz-Saxophonisten mit in seine
 
 Nach den “Bagatelles”, kehrt der New Yorker Komponist, Producer und Saxophonist mit einem Jazz-Fusion Werk wieder. Klassische Jazz-Kompositionen werden mit Strukturen des Rock vereint.
 
-::genre::avantgarde jazz, jazz rock, avantgarde rock
+::genre::avant jazz, jazz rock, avant rock
 
 ## Kilometre Club, Center Of Attention - Distant Shores
 
@@ -124,7 +124,7 @@ Das schweizer Quintett mit seinem neuesten Streich. Kompositionen des Acid-Jazz,
 
 Die amerikanische Modern Metal Band mit ihrem neuesten Output. Riffige Metal-Kompositionen werden mit Alternative-Metal-Artigen Hymnen-Rhythmen geboten.
 
-::genre::modern metal, alternative metal
+::genre::modern metal, alt metal
 
 ## Malevolence - Where only the truth is Spoken
 
@@ -154,19 +154,19 @@ Das amerikanische Duo mit seinem neuesten Output. Experimentell wird an den Feld
 
 Die Kapelle aus Belarus mit ihrem neuesten Release. Alternative Rock, welcher Ab und An Progressive Formen annehmen kann.
 
-::genre::alternative rock, progressive rock
+::genre::alt rock, prog rock
 
 ## Mo Lowda & The Humble - Tailing the Ghost
 
 Die Indie-Rock-Kapelle aus Philadelphia mit ihrem neuesten Werk. Folk-y swingender Alt-Indie, welcher die Indie-Menschen zum Wippen bringen kann.
 
-::genre::alternative indie, indie folk, indie rock
+::genre::alt indie, indie folk, indie rock
 
 ## Mooch - Kin
 
 Das kanadische Trio mit seinem neuesten Streich. Sludge-y Stoner-Rock, welcher psychedelische Elemente nicht verbergen kann.
 
-::genre::sludge rock, stoner rock, psychedelic rock
+::genre::sludge rock, stoner rock, psych rock
 
 ## Neggy Gemmy - She comes from Nowhere
 
@@ -208,7 +208,7 @@ Die Post-Punk-Kapelle aus New Jersey, welche als Wegweiser für den amerikanisch
 
 Die Australier mit einem neuen Werk. Experimentell werden Elemente des Post-Punk, Alternative Rock, Psychedelic und Electronica in ein Werk verpackt.
 
-::genre::post punk, psychedelic rock, electronica
+::genre::post punk, psych rock, electronica
 
 ## Wolfclub - Lake Street *
 
@@ -220,7 +220,7 @@ Das beliebte Retro-Wave-Duo aus England mit ihrem neuesten Release. Ihre chart-t
 
 Die Band aus New York mit ihrem sophomore Release. Indie-Pop wird mit Alt-Folk für die Billboard-Platzierung in Einklang gebracht.
 
-::genre::alternative folk, indie pop
+::genre::alt folk, indie pop
 
 ---
 

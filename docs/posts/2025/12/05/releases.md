@@ -16,7 +16,7 @@ Das Sophomore Release des amerikanischen Singer & Songwriter und Multi-Instrumen
 
 Die britische Producerin mit ihrem Sophomore Output. Ein sehr entspannter Mix aus Modular-Electronica und Cinematic-Ambient. Alles wird von einem Rahmen des Experiments der Klangwelten gehalten.
 
-::genre::cinematic ambient
+::genre::cine ambient
 
 ## Lonely Club - Quantum Beats
 
@@ -30,7 +30,7 @@ Die Kollaboration zwischen dem amerikanischen DJ und Producer Steve Aoki und dem
 
 Der amerikanische Producer und Musiker mit seinem dritten Solo-Werk. Aufgenommen in einem verlassenen Kühlraum in London, erzeugt das Werk eine Art der Tiefe. Ambient, Field Recordings und Cinematic Modern Classic werden in eine kühle Komposition gepackt. Von Zeit zu Zeit kann man erkennen, dass Alex seit Jahren mit Sigur Rós und Jónsi zusammenarbeitet.
 
-::genre::ambient, cinematic modern classic, field recordings
+::genre::ambient, cine modern classic, field recordings
 
 ## Anna of the North - Girl in a Bottle
 
@@ -48,7 +48,7 @@ Die Kollaboration zwischen den belgischen Producer Tom Lievens (Atmøsphäre) un
 
 Der amerikanische Gitarrist, Journalist und Composer geht auf diesem Werk eine Kollaboration mit einem Urgestein des Ambient, Robert Rich, ein. Gitarren-Improvisationen wurden mit Piano, Flöte und Percussions in ein recht progressives Gewand des Ambient verwandelt.
 
-::genre::progressive folk, ambient
+::genre::prog folk, ambient
 
 ## Ben Marc - Who cares Wins **
 
@@ -60,31 +60,31 @@ Das Sophomore Release des britischen Producer und Bassisten. Eine meisterliche M
 
 Die Alt-Eingedienten Norweger mit ihrem 12ten Output. Death Metal, welcher im Wechselspiel mit Old School Death und Melodic Death ist und mit den Elementen leicht herumspielt. Der schleppende Rahmen mag für Menschen “Wucht” erzeugen, für mich begraben sich die Kompositionen ein wenig.
 
-::genre::old school death metal, melodic death metal
+::genre::osdm, melo death metal
 
 ## Cleopatrick - Scrap
 
 Das kanadische Duo mit einen weiteren Release in diesem Jahr. Irgendwo zwischen Alt-Rock und Post-Grunge aber sehr unkreativen Songwriting. Als Mixtape verkleidet und mit viel Versuch, Wuchten zu erzeugen, kommen auch Elemente des Doom bzw. Sludge zum Einsatz, was das Werk aber wenig aufpeppt.
 
-::genre::alternative rock, post grunge, doom rock, sludge rock
+::genre::alt rock, post grunge, doom rock, sludge rock
 
 ## Demo Rumudo - Second Nature **
 
 Die Sophomore EP des spanischen Quartetts. Ein exzellentes Exemplar von Prog-Rock, Prog-Fusion, Avant-Jazz und Jazz-Rock, welches all diese Elemente in einen Fluss instrumental verpackt.
 
-::genre::avantgarde jazz, progressive rock, jazz fusion, jazz rock
+::genre::avant jazz, prog rock, jazz fusion, jazz rock
 
 ## Dodie - Not for Lack of Trying
 
 Das Sophomore Release der britischen Singer & Songwriterin Dorothy Clark (Dodie). Ein Werk des Mello-Folk, welches mit Alt-Pop und Indie-Pop versehen wird, aber seine Melancholie nie vermissen lässt.
 
-::genre::melodramatic folk, alternative pop, indie pop
+::genre::mellow folk, alt pop, indie pop
 
 ## Dope Smoker - Doom Shop
 
 Das britische Trio mit seinem neuesten Release. In ihre fuzz-y Doom-Kompositionen werden in diesem Werk auch Elemente des Alt-Metal und Hip-Hop verarbeitet, was mich bei den ein oder anderen Track zunächst interessiert zuhören ließ. Allerdings war dieses Interesse auch schnell wieder verschwunden.
 
-::genre::alternative metal, hip hop, doom metal, stoner metal
+::genre::alt metal, hip hop, doom metal, stoner metal
 
 ## Echo Instinct - Electronic Soundscapes For Post-Industrial Urban Decay
 
@@ -132,7 +132,7 @@ Der junge russische Komponist und Pianist mit seinem neuesten Release. Ein Werk 
 
 Wenn ich nicht irre, so ist es das Sophomore Solo-Release der britischen Komponistin. Die ältere Schwester der Schauspielerin Phoebe Waller-Bridge bringt eine Art Soundtrack des Experimental-Ambient ans Tageslicht, welcher sich wie ein Film anfühlt, ohne dabei einen Bezug auf diesen Bereich zu beziehen.
 
-::genre::experimental ambient, cinematic ambient
+::genre::experimental ambient, cine ambient
 
 ## Jacuzzi Boys - Too Cold to Tango
 
@@ -150,7 +150,7 @@ Der schottische Künstler Tom Scholefield (Konx-Om-Pax), welcher sein Projekt na
 
 Neues vom amerikanischen String-Quartett. In die Komposition fließen durch orientalische, wie auch europäische Folk-Elemente und binden diese in ein sehr melancholisches Werk, welches ein Abbild darstellt.
 
-::genre::oriental jazz, modern jazz, progressive folk
+::genre::oriental jazz, modern jazz, prog folk
 
 ## L.O.E - Chiaroscuro **
 
@@ -180,7 +180,7 @@ Neues vom Trio um den dänischen Jazz-Bassisten Lennart Ginman, den dänischen J
 
 Auf ihrem neuesten Werk vereint sich die französische Singer & Songwriterin mit Künstlern aus der schwedischen Klassik-Community. So werden die psychedelischen Dreampop Kompositionen von Elementen der Modern-Classic, des Krautrock und des Jazz verfeinert und in eine exzellente Produktion arrangiert.
 
-::genre::dreampop, psychedelic pop, modern classic, krautrock, modern jazz
+::genre::dreampop, psych pop, modern classic, krautrock, modern jazz
 
 ## MicroMatscenes - Fast Forward
 
@@ -204,7 +204,7 @@ Die Schweden sind zurück. NWOBHM wird mit Rock’n’Roll Attitüde und Glam Ro
 
 Die polnische Band mit ihrem neuesten Longplayer nach einer fast 10 jährigen Release-Pause. Fuzz-y Stoner Rock trifft auf Desert-Rock, trifft auf Psychedelia.
 
-::genre::stoner rock, desert rock, psychedelic rock
+::genre::stoner rock, desert rock, psych rock
 
 ## Sergio Diaz De Rojas - Forgotten Fragments
 
@@ -228,7 +228,7 @@ Im Grunde nichts Neues von der schwedischen Black-Metal-Kapelle aber im Grunde R
 
 Das Duo und Ehepaar Jean-Philip Grobler und Patti Beranek mit ihrem neuesten Release. Synth-Pop, welcher mit Elementen des Indie-Pop und Alt-Pop verfeinert wird.
 
-::genre::indie pop, alternative pop, synth pop
+::genre::indie pop, alt pop, synth pop
 
 ## Steve Roach - Portals & Spirals
 
@@ -240,13 +240,13 @@ Der etablierte amerikanische Producer und Komponist mit seinem neuesten Klangwer
 
 Der schweizerische Sound-Architect und Sound-Artist Simon Hügli (Zimoun) verbrachte ein Jahr mit dem Wind Dynamic Organ (Prototype III) und brachte dieses Instrument zu zahlreichen Locations, um Musik zu abstrahieren. Im letzten Output seiner Klang-Serie, kollaborierte der schweizer Künstler mit dem amerikanischen Künstler Taylor Deupree, um die Klangwelten der Wind Dynamic Organ zu erweitern. Entstanden ist ein improvisiertes Experiment des Ambient, mit viel Klangvielfalt.
 
-::genre::avantgarde ambient, improvisation
+::genre::avant ambient, improvisation
 
 ## The Reytons - Roll the Dice
 
 Die britische Formation mit ihrem neuesten Output. Alternative Rock trifft auf eine gewaltige Garage-Rock-Attitüde und wird mit einprägsamen Refrains und Songstrukturen versehen.
 
-::genre::garage rock, alternative rock
+::genre::garage rock, alt rock
 
 ## Time Is A Blind Guide - Off Stillness
 
@@ -258,7 +258,7 @@ Die Band um den norwegischen Jazz-Drummer Thomas Strønen mit ihrem neuesten Rel
 
 Das neueste Release der amerikanischen Band. Eine Melange des Neo-Psych-Rock, Space-Rock und ich würde auch Neo-Prog mit hinzufügen.
 
-::genre::space rock, neo progressive rock, psychedelic rock
+::genre::space rock, neo prog rock, psych rock
 
 ## Tourist - Music is Invisible
 
@@ -276,19 +276,19 @@ Die Formation aus Texas mit ihrem neuesten Release. Ich würde sie dem Nu-Metalc
 
 Ein neues Solo-Werk des polnischen Jazz-Bassisten Wojtek Mazolewski (Band-Lead der polnischen Yass-Band Pink Freud). Solo-Bass wird zu minimal Cinematic-Ambient-Soundscapes und Folk-Elementen improvisiert.
 
-::genre::cinematic ambient, ambient folk, avantgarde jazz
+::genre::cine ambient, ambient folk, avant jazz
 
 ## WÖYH! - Wooppera
 
 Das finnische Duo mit seinem neuesten Klangwerk. Die Avant-Rocker wissen es immer wieder aufs Neue, keine Langeweile in dem Songwriting aufkommen zu lassen. Avant-Rock, Neo-Prog-Rock, Space-Rock und auch Elemente des Krautrock werden in eine Melange gebracht.
 
-::genre::avantgarde rock, neo progressive rock, space rock, krautrock
+::genre::avant rock, neo prog rock, space rock, krautrock
 
 ## Ólöf Arnalds - Spíra
 
 Die Cousine von Ólafur mit einem neuen Solo-Release nach sicherlich 11 Jahren Solo-Release-Pause. Die isländische Singer & Songwriterin mit Kompositionen des Indie Folk, mit einer mystisch-melancholischen Stimmung.
 
-::genre::indie folk, psychedelic folk
+::genre::indie folk, psych folk
 
 ---
 
@@ -298,19 +298,19 @@ Die Cousine von Ólafur mit einem neuen Solo-Release nach sicherlich 11 Jahren S
 
 Das amerikanische Duo mit seinem neuesten Werk. Irgendwo im Spektrum von Indie-Pop, Psych-Pop und Neo-Funk bewegend, werden meisterliche Kompositionen bereitgestellt.
 
-::genre::psychedelic pop, indie pop, acid funk
+::genre::psych pop, indie pop, acid funk
 
 ## Greywind - The Scarecrow
 
 Das irische Geschwister-Duo mit seinem neuesten Output. Startet mit einer Alt-Pop-Introduction in ein Werk des Sad-Pop-Punk.
 
-::genre::sad pop punk, alternative pop
+::genre::sad pop punk, alt pop
 
 ## Magnus - Golden Chains
 
 Das belgische Duo hält seinen Release-Fahrplan bisher recht gut ein, welcher ist: Alle 10 Jahre ein neues Album. Kompositionen, welche einen Soundtrack darstellen könnten und sich zwischen Cinematic-Modern-Classic, Cinematic-Synth und Cinematic-Rock.
 
-::genre::cinematic modern classic, cinematic synth, cinematic rock
+::genre::cine modern classic, cine synth, cine rock
 
 ## Say Anything - The Noise of say anything’s Room without… *
 
@@ -328,7 +328,7 @@ Die amerikanische Formation mit ihrem neuesten Streich. Neo-Funk, welcher mit mo
 
 Teil 4 der Duologues-Serie von dem brasilianischen Jazz-Saxophonisten Ivo Perelman. In Teil 4 wird frei improvisiert mit dem britischen Jazz-Saxophonisten John Butcher. Entstanden sind Improvisationen, welche ich den Avant-Jazz zuordnen wurde.
 
-::genre::avantgarde jazz, improvisation
+::genre::avant jazz, improvisation
 
 ## Raw Thrills - Sunpath
 
@@ -352,4 +352,4 @@ Eine Mini-Serie vom japanischen Producer, Pianisten und Gitarristen, fast eine z
 
 Die österreichische Formation mit ihrem neuesten Werk. ScFi-Black-Metal, welcher das ScFi-Thema auch im Songwriting voll aufgenommen hat, was den Kompositionen einen progressiven Touch verleiht. Das die progressiven Elemente durch die LoFi-Produktion nicht verloren gegangen sind, zeigt ein gewisses Gespür.
 
-::genre::symphonic black metal, lofi, progressive black metal
+::genre::symphonic black metal, lofi, prog black metal

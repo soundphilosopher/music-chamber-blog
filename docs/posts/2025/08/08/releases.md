@@ -14,7 +14,7 @@ authors:
 
 Die Schwedischen Prog-Rocker mit ihrem neuesten Werk zum mittlerweile 30 Jährigen Bandbestehen. Klassische Prog-Rock Kompositionen werden gekonnt in die Hörwege platziert.
 
-::genre::progressive rock
+::genre::prog rock
 
 ## Ada Lea - Moon Blossom
 
@@ -52,7 +52,7 @@ Die kalifornische Kapelle mit ihrem neuesten Release. Sonniger Indie-Rock bis In
 
 Das atmosphärische Black-Metal Solo-Projekt um den New Yorker Jon Krieger mit einem neuen Release. In Atmosphäre versetzter folkiger Black-Metal.
 
-::genre::atmospheric black metal, folk metal
+::genre::atmo black metal, folk metal
 
 ## Boy George - SE18
 
@@ -82,7 +82,7 @@ Die amerikanischen Rap-Metalcorer mit ihrem neuesten Output. Ohne Breakdowns hä
 
 Die zauberhafte Ethel mit ihrem neuesten Machwerk. Die amerikanische Singer & Songwriterin verpackt ihre zauberhafte Stimme in einen Mix aus Alt-Indie, Drone und Dark-Folk.
 
-::genre::alternative indie, drone, dark folk
+::genre::alt indie, drone, dark folk
 
 ## Field Medic - Surrender Instead
 
@@ -100,7 +100,7 @@ Der britische Composer mit seinem neuesten Werk der Trauerbewältigung. Moderne 
 
 Ja, die Amerikaner mit einem neuen Werk. Ich würde es weiter als Pop-Punk bezeichnen, auch wenn sie vermutlich dem Alt-Rock viel näher stehen. Keine Ahnung, ob man dieses Release wirklich benötigt.
 
-::genre::pop punk, alternative rock
+::genre::pop punk, alt rock
 
 ## Gungor - Magnificat
 
@@ -112,7 +112,7 @@ Das amerikanische Pärchen Michael Gungor und Lisa Gungor mit ihrer neuesten Kom
 
 Die Amerikaner mit ihrem neuesten Output. Das Ohr erwartet eine Mischung aus klassischen Heavy Metal und Alt-Metal, mit Songwriting, welches sich am Hard-Rock orientiert.
 
-::genre::heavy metal, alternative metal, hard rock
+::genre::heavy metal, alt metal, hard rock
 
 ## Hannah Grace - Why can’t I cry about it?
 
@@ -124,7 +124,7 @@ Die walisische Singer & Songwriterin mit ihrem neuesten Release. Es wird eine po
 
 Die Briten mit ihrem neuesten Streich. Mit ihrem Mix aus Post-Hardcore, Screamo und Alternative-Rock können sie Menschen begeistern, wenn Mensch es zulässt.
 
-::genre::post hardcore, screamo, alternative rock
+::genre::post hardcore, screamo, alt rock
 
 ## Infinite Scale - Vanishing
 
@@ -148,7 +148,7 @@ Die Kollaboration zwischen dem amerikanischen Folk-Duo und dem amerikanischen Si
 
 Die schwedische Formation mit ihrem neuesten Release. Groove-y Atl-Metal, welcher auch Muster des Melo-Death aufweist.
 
-::genre::groove metal, alternative metal, melodic death metal
+::genre::groove metal, alt metal, melo death metal
 
 ## Lord Of The Lost - Opvs Noir Vol. 1
 
@@ -166,13 +166,13 @@ Die australische Producerin und Komponistin mit einem neuen Klangwerk. Ambient, 
 
 Die irischen Death-Metaller mit ihrem neuesten Werk. Old-School-Death-Metal der schwedischen Art.
 
-::genre::old school death metal
+::genre::osdm
 
 ## Meg Washington - Gem
 
 Die australische Künstlerin mit ihrem neuesten Release. Eine schmeichelnde Komposition des Indie-Pop, mit kleinen Punkturen des Indie-Folk und Alt-Indie.
 
-::genre::indie pop, indie folk, alternative indie
+::genre::indie pop, indie folk, alt indie
 
 ## No Joy - Bugland
 
@@ -190,25 +190,25 @@ Die amerikanische Formation mit ihrem neuesten Release. Modern Metal, welcher si
 
 Das amerikanische Duo mit ihrem neuesten Output. Space-y Alt-Rock, welcher sein Klangbild aus der älteren Generation des Rock entstehen lässt und auch Ab und An den Groove mit sich bringt.
 
-::genre::space rock, alternative rock
+::genre::space rock, alt rock
 
 ## Sinsaenum - In Devastation
 
 Die multinationale Band mit einem neuen Werk nach sieben Jahren, was verständlich ist, durch den Tod von Joey Jordison. Das Blackend-Melo-Death-Metal-Supagroup bestehend aus Mitglieder von DragonForce, Loudblast, Mayhem und Dååth und jetzt auch Kreator kommt zurück mit einem stabilen Werk, was ich mehr dem Melo-Death zuschreiben würde, als alles andere.
 
-::genre::blackened death metal, melodic death metal
+::genre::blackened death metal, melo death metal
 
 ## T. Hardy Morris - Artificial Tears
 
 Das Projekt um den Amerikaner Thomas Hardy Morris mit einem neuen Release. Psychedelic-Indie-Folk trifft es vermutlich am Besten.
 
-::genre::psychedelic folk, indie folk
+::genre::psych folk, indie folk
 
 ## Teethe - Magic of the Sale
 
 Die LoFi-Indie-Band aus Texas mit ihrem neuesten Output. Ein space-y Mix aus Bedroom-Rock, Indie-Rock, Slowcore und Psychedelic-Indie.
 
-::genre::lofi, bedroom pop, indie rock, slowcore, psychedelic rock
+::genre::lofi, bedroom pop, indie rock, slowcore, psych rock
 
 ## The Black Keys - No Rain, No Flowers
 
@@ -220,7 +220,7 @@ Die Grammy-winning Band, um das Duo Auerbach und Carney, mit einem neuen Werk. I
 
 Die Psych-Punker aus LA mit einem neuen Werk. Psychedelic-Rock und 70s Punk werden in Klang gebracht.
 
-::genre::psychedelic rock
+::genre::psych rock
 
 ## Thousand Below - Buried in Jade
 
@@ -238,7 +238,7 @@ Die Australier mit einem neuen Output. Stoner-Metal trifft auf Doom Metal und Sl
 
 Das kanadische Doom-Metal-Trio kollaboriert mit dem Sound-Engineer James Beardmore. Was für eine Combo. Irgendwo zwischen Spiritual-Oriental, Oriental-Jazz, Ambient, Experimental-Rock und ich würde gar Prog-Rock mit ins Spiel bringen.
 
-::genre::doom metal, spiritual jazz, oriental jazz, ambient, experimental rock, progressive rock
+::genre::doom metal, spiritual jazz, oriental jazz, ambient, experimental rock, prog rock
 
 ---
 
@@ -248,13 +248,13 @@ Das kanadische Doom-Metal-Trio kollaboriert mit dem Sound-Engineer James Beardmo
 
 Der kalifornische Künstler Anthony Ferraro mit einem neuen Werk unter seinem Projekt-Pseudonym. Ich würde es dem Alt-Indie zurechnen.
 
-::genre::alternative indie
+::genre::alt indie
 
 ## Foot - The Hammer
 
 Die australische Desert-Rock-Kapelle mit einem neuen Release. Desert-/Stoner-Rock, mit Verwerfungen in den Psychedelic-Rock-Bereich.
 
-::genre::desert rock, stoner rock, psychedelic rock
+::genre::desert rock, stoner rock, psych rock
 
 ## Chris Staples - Don’t Worry
 

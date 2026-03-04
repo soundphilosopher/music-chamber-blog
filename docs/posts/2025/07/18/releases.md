@@ -10,13 +10,13 @@ categories:
 
 Genre: Melodic Black Metal
 
-::genre::melodic black metal
+::genre::melo black metal
 
 ## Alex G - Headlights
 
 Genre: Indie-Folk, Alt-Rock
 
-::genre::indie folk, alternative rock
+::genre::indie folk, alt rock
 
 ## Ba’al - The fine line between Heaven and Here *
 
@@ -30,7 +30,7 @@ Genre: Post Black Metal
 
 Genre: Singer & Songwriter, Alt-Folk, Indie-Folk
 
-::genre::alternative folk, indie folk
+::genre::alt folk, indie folk
 
 ## Cell - I will not be found here After
 
@@ -42,13 +42,13 @@ Genre: Deathcore
 
 Genre: Alt-Rock, Post-Rock
 
-::genre::alternative rock, post rock
+::genre::alt rock, post rock
 
 ## E Ruscha V - Music to watch Seeds grow by 004: E Rusch V (Cosmos)
 
 Genre: New Age, Psychedellica
 
-::genre::psychedelic rock, progressive rock, krautrock, psychedelic indie
+::genre::psych rock, prog rock, krautrock, psych indie
 
 ## Entrails - Grip of Ancient Evil
 
@@ -66,7 +66,7 @@ Genre: Drone, Ambient
 
 Genre: Alt-Pop, Indie-Pop
 
-::genre::alternative pop, indie pop
+::genre::alt pop, indie pop
 
 ## Guidance, Aether - Dear John
 
@@ -84,7 +84,7 @@ Genre: Drone Death Metal, D-Beat, Death Metal
 
 Genre: Soundtrack
 
-::genre::cinematic modern classic
+::genre::cine modern classic
 
 ## Human Is Alive, Silvia Blaser - Quiet Earth
 
@@ -108,7 +108,7 @@ Genre: Modern Jazz, Modern Classic
 
 Genre: Alt-Folk
 
-::genre::alternative folk
+::genre::alt folk
 
 ## Jess Ribeiro - Mixtape
 
@@ -156,19 +156,19 @@ Genre: Punk
 
 Genre: Alt-Folk, Indie-Folk
 
-::genre::alternative folk, indie folk
+::genre::alt folk, indie folk
 
 ## Madeline Kenney - Kiss from the Balcony
 
 Genre: Alt-Pop, Alt-Rock, Indie-Pop
 
-::genre::alternative pop, alternative rock, indie pop
+::genre::alt pop, alt rock, indie pop
 
 ## Margarita Witch Cult - Strung Out In Hell *
 
 Genre: sludge rock, Psychedelic Stoner
 
-::genre::sludge metal, psychedelic rock, stoner rock
+::genre::sludge metal, psych rock, stoner rock
 
 ## Max Cruise - Neon Vice
 
@@ -192,7 +192,7 @@ Genre: Singer & Songwriter, Hispanic Guitar Folk, Indie-Folk
 
 Genre: Singer & Songwriter, Neo-Folk
 
-::genre::progressive folk
+::genre::prog folk
 
 ## Purl - Himmel Under Hav
 
@@ -240,7 +240,7 @@ Genre: Modern Classic
 
 Genre: Hard Rock, Progressive Rock
 
-::genre::hard rock, progressive rock, arena rock
+::genre::hard rock, prog rock, arena rock
 
 ## Throatcut. - Resilience.
 
@@ -258,7 +258,7 @@ Genre: LoFi, Post-Rock
 
 Genre: Psychedelic Rock, Garage Rock
 
-::genre::psychedelic rock, garage rock
+::genre::psych rock, garage rock
 
 ## The Microgram - Dead Stars, Dying Planet
 
@@ -282,7 +282,7 @@ Genre: Electronica, Krautrock
 
 Genre: Space Rock, Alt-Rock
 
-::genre::space rock, alternative rock
+::genre::space rock, alt rock
 
 ---
 
@@ -298,13 +298,13 @@ Genre: Modern Classic, Ambient
 
 Genre: Alt-Pop, Indie-Pop
 
-::genre::alternative pop, indie pop
+::genre::alt pop, indie pop
 
 ## Pertegò - Midnight Stories
 
 Genre: Cinematic Ambient, Cinematic Pop
 
-::genre::cinematic ambient, cinematic pop
+::genre::cine ambient, cine pop
 
 ## Scape One - Calisto Rising
 

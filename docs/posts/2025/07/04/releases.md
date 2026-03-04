@@ -30,7 +30,7 @@ Genre: Jungle, Breakbeat, Dark Drum & Bass
 
 Genre: Soundtrack, Cinematic Soundscapes
 
-::genre::cinematic ambient, cinematic modern classic
+::genre::cine ambient, cine modern classic
 
 ## James Iwa - Unsent Letter
 
@@ -54,13 +54,13 @@ Genre: (Spanish) Guitar Ambient
 
 Genre: Pop, Alt-Pop, Indie-Pop, Trap
 
-::genre::bubblegum pop, alternative pop, indie pop, trap
+::genre::bubblegum pop, alt pop, indie pop, trap
 
 ## Matthew Herbert - Hot Milk
 
 Genre: Soundtrack, Cinematic Ambient, Cinematic Guitar
 
-::genre::cinematic ambient
+::genre::cine ambient
 
 ## Rimmar - Raises
 
@@ -78,7 +78,7 @@ Genre: Ambient Electronica
 
 Genre: Death Metal, Melodic Death Metal
 
-::genre::melodic death metal
+::genre::melo death metal
 
 ## Spaces Between - A Year In Change
 
@@ -102,19 +102,19 @@ Genre: Instrumental Post-Metal, Experimental
 
 Genre: Progressive Metal
 
-::genre::progressive metal
+::genre::prog metal
 
 ## Whispers Of Granite - Liquid Stone *
 
 Genre: Cinematic Progressive Rock, Progressive Folk
 
-::genre::cinematic progressive rock, progressive folk
+::genre::cine prog rock, prog folk
 
 ## Wytch Hazel - V: Lamentations
 
 Genre: NWOBHM, Progressive Rock
 
-::genre::nwobhm, progressive rock
+::genre::nwobhm, prog rock
 
 ---
 
@@ -130,13 +130,13 @@ Genre: Punk, Garage Punk
 
 Genre: Atmospheric Black Metal
 
-::genre::atmospheric black metal
+::genre::atmo black metal
 
 ## Ghost Of The Machine - Empires must Fall
 
 Genre: Progressive Rock
 
-::genre::progressive rock
+::genre::prog rock
 
 ## The Flashbulb - Papillon
 
@@ -154,7 +154,7 @@ Genre: Black Metal, Blackgaze
 
 Genre: Cinematic Soundscapes
 
-::genre::cinematic ambient
+::genre::cine ambient
 
 ## Tårfödd - Efterlämnade I Sorg
 

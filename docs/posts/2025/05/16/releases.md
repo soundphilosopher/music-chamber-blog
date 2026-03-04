@@ -20,7 +20,7 @@ Der kalifornische Producer, Singer & Songwriter und Komponist, auch bekannt unte
 
 Die amerikanische Singer & Songwriterin mit einem neuen Werk. Alt-Indie-Pop mit einem progressiven Hauch und 70s angelehnten Sad-Pop-Songwriting.
 
-::genre::alternative pop, indie pop, sad pop, progressive pop
+::genre::alt pop, indie pop, sad pop, prog pop
 
 ## Arm’s Length - There’s a whole World out There
 
@@ -76,13 +76,13 @@ Das Duo, bestehend aus dem brasilianischen Experimental Gitarristen und dem span
 
 Die Dänen mit ihrem neuesten Werk. Instrumental Psych-Prog-Rock, mit Ausflügen in den Crossover-Jazz und fuzz-y Stoner.
 
-::genre::psychedelic rock, progressive rock, crossover jazz, stoner rock
+::genre::psych rock, prog rock, crossover jazz, stoner rock
 
 ## Death Before Dishonor - Nowhere Bound
 
 Die Bostoner Beatdowner mit ihrem neuesten Output. Klassischer New York Hardcore, mit dem “Extra-Kick”  des Beatdowns.
 
-::genre::hardcore, beatdown
+::genre::metallic hardcore, beatdown
 
 ## Death Whore - Blood washes everything Away
 
@@ -94,7 +94,7 @@ Die französische Death Metal Truppe mit ihrem neuesten Release. Klassischer doo
 
 Das amerikanische Alt-Rock Trio mit einem neuen Release, nach 15 Jahren Band-Auszeit. Klassische Alt-Rock Kompositionen, welche sich nicht verstecken brauchen.
 
-::genre::alternative rock
+::genre::alt rock
 
 ## Ekkstacy - Forever
 
@@ -106,7 +106,7 @@ Das Projekt um den Kanadier mit einem neuen Output. Ein Mix aus Alt-Grunge und P
 
 Die französische Kapelle mit ihrem neuesten Werk. Dem Zuhörer werden die Ohren mit Kompositionen des Horror-Punk, Alternative Rock und Grunge umschmeichelt.
 
-::genre::horror punk, alternative rock, post grunge
+::genre::horror punk, alt rock, post grunge
 
 ## Full Of Hell - Broken Sword, Rotten Shield
 
@@ -124,7 +124,7 @@ Der britische Drum & Bass Pionier mit einem neuen Release. Im Mix stecken Dark D
 
 Die Experimental Rocker aus Portland mit einem neuen Output. Progressiv-Psychodelische Rock Kompositionen, welche auch gern am Industrial-, Ambient- und Post-Rock-Sound schnuppern. Interessanter Output.
 
-::genre::progressive rock, psychedelic rock, industrial, ambient, post rock
+::genre::prog rock, psych rock, industrial, ambient, post rock
 
 ## Harmonic Pathways - Presqu’ile Point
 
@@ -142,13 +142,13 @@ Die deutschen Melodic? Death Metaller mit ihrem neuesten Output. Sie vergleichen
 
 Die texanische Experimental Rock Kapelle mit ihrem neuesten Output. Instrumentale, experimentelle, progressive Rock Kompositionen. 
 
-::genre::progressive rock, experimental rock, instrumental
+::genre::prog rock, experimental rock, instrumental
 
 ## Hundredth - Faded Splendor
 
 Die amerikanischen Alt-Indie-Rocker mit ihrem neuesten Release. Britisch-Influenced Indie-Rock, welcher Spuren des amerikanischen Alt-Rock in sich trägt.
 
-::genre::indie rock, alternative rock
+::genre::indie rock, alt rock
 
 ## Baptiste Stanek - Basel Smash
 
@@ -160,19 +160,19 @@ Basel Smash (Ist das abgeleitet vom Basil Smash?), ist eine Kollaboration zwisch
 
 Der kanadische Multi-Instrumentalist mit seinem neuesten Output. Ein ambienter Mix aus Piano-Driven Neo-Klassik, Neo-Jazz und Post-Prog. Absolut zauberhaftes Werk.
 
-::genre::neo classic, ambient, neo jazz, post progressive rock
+::genre::neo classic, ambient, neo jazz, prog rock
 
 ## Kal-El - Astral Voyager, Vol. 1
 
 Die norwegischen Psychedelic-Fuzz-Doomer mit ihrem aktuellsten Werk. Klassische Doom-Kompositionen, welche, wie für Doom typisch, sehr an Black Sabbath erinnern. Für Fans des Genre sicherlich ein Ohrenschmaus.
 
-::genre::psychedelic rock, heavy rock, proto doom metal
+::genre::psych rock, heavy rock, proto doom metal
 
 ## Katzroar - Underworld
 
 Die Kalifornier mit einem neuen Release. Psychedelic Indie-Rock trifft auf Post-Soul, trifft auf Coffee-Jazz.
 
-::genre::psychedelic rock, indie rock, neo soul, coffee jazz
+::genre::psych rock, indie rock, neo soul, coffee jazz
 
 ## L’Avenue - Tokio Nights
 
@@ -196,7 +196,7 @@ Die weltweit renommierte brasilianische Gitarristin mit ihrem neuesten Werk. Kla
 
 Die norwegischen Prog-Rocker mit ihrem neuesten Output. Klassischer Prog-Rock mit folkigen Ausflügen in die Fjorde.
 
-::genre::progressive rock, progressive folk
+::genre::prog rock, prog folk
 
 ## Mares Of Thrace - The Loss
 
@@ -244,7 +244,7 @@ Die brasilianischen Hardcore-Punk Kombo mit einem neuen Release. Punk im Style d
 
 Die französische Progressive Metalcore Band mit ihrem neuesten Werk. Ich würde meinen, ein klassisches Werk für dieses “neue” Genre. Alt-Rock Songwriting trifft auf progressive Metalcore Kompositionen.
 
-::genre::progressive metalcore, alternative rock
+::genre::prog metalcore, alt rock
 
 ## Pelican - Flickering Resonance *
 
@@ -256,13 +256,13 @@ Das routinierte Instrumental-Post-Metal Kollektiv mit einem neuen Werk nach eine
 
 Der The Libertines und Babyshambles Frontman mit einem neuen Solo-Output. Indie-Folk-y Kompositionen, die den Kompositionen einer Liverpooler Band der 60er folgen, nur mit schlechterem Gesang.
 
-::genre::indie folk, progressive pop
+::genre::indie folk, prog pop
 
 ## Pridian - Venetian Dark
 
 Die Modern Metal Band aus Estland mit ihrem neuesten Release. Gewohnter moderner Mix aus Melo-Death, Industrial Metal und Symphonic-Death. Ich mag zu behaupten, dass sie dem Genre zwar gerecht werden, aber auch nichts Eigenes beitragen.
 
-::genre::melodic death metal, industrial metal, symphonic death metal
+::genre::melo death metal, industrial metal, symphonic death metal
 
 ## Rabies - High On Sugar
 
@@ -280,13 +280,13 @@ Der britische Künstler mit seinem neuesten Release. An Jamiroquai verehrender N
 
 Das amerikanische Modern Metal Konsortium mit ihrem neuesten Werk. Ein moderner Mix aus Modern Metalcore Kompositionen und Alt-Rock Songwriting. Ich meine, dass man es unbedarft Nu-Metal nennen kann.
 
-::genre::modern metalcore, alternative metal, nu metal
+::genre::modern metalcore, alt metal, nu metal
 
 ## Slow Joy - A Joy so slow at Times I don’t think it’s Coming
 
 Das amerikanische Solo-Projekt um Esteban Flores. Indie-Rock trifft auf Emo und vermischt sich mit Alt-Rock Kompositionen.
 
-::genre::indie rock, emocore, alternative rock
+::genre::indie rock, emocore, alt rock
 
 ## Surprise Chef - Superb
 
@@ -304,7 +304,7 @@ Eine improvisierte Jazz-Kollaboration zwischen dem Jazz Pianisten Chris McCarthy
 
 Die amerikanische Mathcore Band mit ihrem neuesten Release. Ein progressiver Mix von modernen Elementen, Mathcore und klassischen Metalcore Songwriting. Irgendwie Interessant.
 
-::genre::mathcore, metalcore, progressive metal
+::genre::mathcore, metalcore, prog metal
 
 ## The Franklin Electric - Victory Songs
 
@@ -328,7 +328,7 @@ Die Band aus Ohio mit ihrem neuesten Output. Melodischer Punk Rock der amerikani
 
 Neuester Output des New Yorker Trios. Es wird eine Komposition aus Dreampop, Shoegaze und Alt-Rock geliefert, welcher aus der Frage entstanden ist: “Was würde ich auf meiner Beerdigung spielen?”.
 
-::genre::dreampop, shoegaze, alternative rock
+::genre::dreampop, shoegaze, alt rock
 
 ## Törzs - Menedék
 
@@ -340,19 +340,19 @@ Ein neuer Ausflug in den instrumentalen Post-Rock organisiert von der Ungarische
 
 Die Finnen mit ihrem neuesten Werk. Es erwartet einen, was Waltari seit Eh und je bereitstellt. Ein progressiver Mix in den Alt-Metal.
 
-::genre::progressive metal, alternative metal
+::genre::prog metal, alt metal
 
 ## Water Damage - Instruments
 
 Das zehn Mann Gespann aus Texas mit ihrer neuesten Komposition. Eine experimentelle Tour zwischen Space Rock und Psychedelic mit einem individuellen Charakter.
 
-::genre::space rock, psychedelic rock
+::genre::space rock, psych rock
 
 ## Wounded Touch - A vivid Depiction of Collapse
 
 Das neue Release der amerikanischen Post-Hardcore Band. Hier wird Post-Hardcore, East-Coast-Hardcore und Metalcore in einen Mix gebracht und wenig individuell Verbreitet.
 
-::genre::post hardcore, metalcore, hardcore
+::genre::post hardcore, metalcore, metallic hardcore
 
 # Earlier this week …
 
@@ -372,10 +372,10 @@ Ja, der West-Coast Rapper mit einem neuen Release. Ich mag es, dass der West-Coa
 
 Erstling der kalifornischen Band. Progressive Rock mit Alt-Rock Anteilen.
 
-::genre::progressive rock, alternative rock
+::genre::prog rock, alt rock
 
 ## Chihei Hatakeyama - Void XXVII
 
 Der japanische Producer und Künstler mit seinem neuesten Output. Drone-y Guitar-Ambient Kompositionen werden einen hier in die Ohren gepflanzt.
 
-::genre::ambient drone
+::genre::ambient, drone

@@ -14,7 +14,7 @@ authors:
 
 Das kalifornische Prog-Metal-Outfit mit seinem sophomore Release. Die Band um Ray Alder (Fates Warning; Gesang) und Mark Zonder (Ex Fates Warning; Drum) vereinen die Melodien des Erstling mit mehr progressiven Tönen.
 
-::genre::progressive metal
+::genre::prog metal
 
 ## Activity - A thousand Years in another Way
 
@@ -40,7 +40,7 @@ Das Gespann aus Minnesota mit einem neuen Output. Midwest influenced Punk-Rock, 
 
 Die Kollaboration von Brian Eno und Beatie Wolfe bietet in dieser Kombination eine träumerische Reise in den Ambient mit Eno’s Klang Facetten, welche sich im Moment monoton entfalten.
 
-::genre::progressive pop, ambient, dreampop
+::genre::prog pop, ambient, dreampop
 
 ## Beatie Wolfe, Brian Eno - Luminal *
 
@@ -52,13 +52,13 @@ In der “Reverse Order” bietet die Kollaboration ein Klangbild, welches über
 
 Die britische Band mit ihrem neuesten Werk. Eine fast schon Vereinigung von Psychedelic Rock und Trip Hop.
 
-::genre::trip hop, psychedelic rock
+::genre::trip hop, psych rock
 
 ## Black Moth Super Rainbow - Soft New Magic Dream *
 
 Die amerikanischen Prog-Indie-Rocker mit ihrem neuesten Output. Eine space-y, progressive Reise durch den Indie-Rock, welche den Hörer und Liebhaber des Genres gut zukommt.
 
-::genre::space rock, progressive rock, indie rock
+::genre::space rock, prog rock, indie rock
 
 ## Born Ruffians - Beauty’s Pride
 
@@ -70,13 +70,13 @@ Das kanadische Indie-Rock-Outfit mit ihrem neuesten Release. Die Kanadier platzi
 
 Die Band aus Ohio mit ihrem neuesten Werk. Fans des Alt-Folk kommen bei diesem Release voll auf ihre Kosten.
 
-::genre::alternative folk
+::genre::alt folk
 
 ## Darkenhöld - Le Fléau du Rocher
 
 Die französischen Melodic-Medieval-Black-Metaller mit ihrem neuesten Release. Melodischer Black Metal, welcher sich thematisch mit dem Mittelalter auseinandersetzt.
 
-::genre::melodic black metal
+::genre::melo black metal
 
 ## Death In Vegas - Death Mask
 
@@ -88,13 +88,13 @@ Das jetzt Solo-Projekt um den britischen Künstler Richard Maguire mit einem neu
 
 Die amerikanische Band mit einem neuen Release. Die Indie-Roots-Kapelle kombiniert ihre Basis-Kompositionen gern mit Reggae und Alt-Folk.
 
-::genre::indie folk, alternative folk, raggae
+::genre::indie folk, alt folk, raggae
 
 ## Electric Youth - North of Normal (Original Motion Picture Soundtrack)
 
 Das kanadische Synth-Pop-Duo mit dem Soundtrack zu dem 2022 Coming-Age Film. Instrumentale Cinematic Ambient Kompositionen, welche auch den Synth-Pop der Band nicht außer Acht lassen.
 
-::genre::synth pop, cinematic ambient
+::genre::synth pop, cine ambient
 
 ## For Your Health - This Bitter Garden
 
@@ -106,7 +106,7 @@ Die Band aus Ohio mit ihrem neuesten Werk. In der Grundstruktur würde ich es de
 
 Der ehemalige Gorgoroth Frontman mit einem neuen Output. Ich würde die Grundkomposition als Avantgard-Black-Metal bezeichnen, mit dem Hang zum Heavy mit symphonischen Folk-Elementen. Für mich nicht so einprägend wie die Kompositionen von Ihsahn.
 
-::genre::avantgarde black metal, avantgarde folk
+::genre::avant black metal, avant folk
 
 ## Kollapse, Grava - Split
 
@@ -136,13 +136,13 @@ Die amerikanische Florida-Death-Kapelle mit ihrem neuesten Release. Old School F
 
 Die isländischen Girls mit ihrem neuesten Output. Meist kann man die Einflüsse von Sugarcubes auf die isländische Alternative-Szene erahnen und bekommt diesen dann auch in den Kompositionen.
 
-::genre::alternative rock, post punk, progressive pop
+::genre::alt rock, post punk, prog pop
 
 ## Gösta Berlings Saga - Forever Now *
 
 Die schwedischen Instrumental-Prog-Rocker mit ihrem neuesten Release. Eine experimentelle Reise in die Kompositionen, welche eine angenehme Atmosphäre erzeugt.
 
-::genre::progressive rock, instrumental
+::genre::prog rock, instrumental
 
 ## Warmth, Human Is Alive - Driftwood
 
@@ -172,19 +172,19 @@ Das Kollektive um den Avant-garde-Musiker Jozef van Wissem und den Filmemacher u
 
 Die UK Band mit ihrem neuesten Release. Eine Tour dé Indie-Rock mit Elementen des Blues-Rock, Psychedelic und Post-Punk.
 
-::genre::blues, psychedelic rock, post punk
+::genre::blues, psych rock, post punk
 
 ## Kaonashi - I want to go Home
 
 Die Progressive Metalcore Band aus Pennsylvania mit ihrem neuesten Werk. Progressives Songwriting trifft auf die markante Art des Gesangs von Peter Rono, welchen man expressiv findet oder einfach hasst.
 
-::genre::progressive metalcore
+::genre::prog metalcore
 
 ## Katatonia - Nightmares as Extensions of the Waking State
 
 Die Schweden mit ihrem neuesten Output. Die routinierte Progressive Metal Kapelle mit einem recht “glatten” Werk ihres Schaffens.
 
-::genre::progressive metal
+::genre::prog metal
 
 ## Lacabra - Lacabra
 
@@ -196,7 +196,7 @@ Die Band aus Seattle mit ihrem Debüt. Blackened Death Metal mit progressiven El
 
 Der finnische Bassist und Komponist mit einer Vertonung der beliebten finnischen Charaktere “Moomins”. Cinematische Exkurse in ambiente Piano-Kompositionen mit folk-y Elementen und einer kleinen Portion Field-Recordings.
 
-::genre::cinematic folk, ambient, field recordings
+::genre::cine folk, ambient, field recordings
 
 ## Lifeguard - Ripped and Torn
 
@@ -214,7 +214,7 @@ Die amerikanische Künstlerin mit ihrem Erstling. Eine Reise in klassische und d
 
 Das niederländische Kollektiv mit einer Neu-Interpretation von verschiedenen Songs aus ihrem Repertoir, meine ich. Avant-garde Electronica verschmilzt mit klassischen und orientalischen Instrumentalisierungen.
 
-::genre::avantgarde electronica, modern classic, world music
+::genre::avant electronica, modern classic, world music
 
 ## Marconi Union - The Fear of never Landing
 
@@ -232,7 +232,7 @@ Der amerikanische Künstler mit seinem neuesten Werk. Der Rapper setzt in seinen
 
 Die kanadischen Indie-Rocker mit ihrem neuesten Output. Indie-Rock welcher sich an Elementen des Alt-Rock und Alt-Folk reichlich bedient.
 
-::genre::indie rock, alternative rock, alternative folk
+::genre::indie rock, alt rock, alt folk
 
 ## Nastyville - Rebirth
 
@@ -244,19 +244,19 @@ Das italienische Heavy-/Glam-Outfit mit ihrem neuesten Release. Klassische Heavy
 
 Der britische Singer & Songwriter mit Teil #1 seiner Dark Harvest Serie. Thematisch der Trauerverarbeitung und Trauer Überwindung gewidmet, werden akustische Gitarren-Kompositionen mit Electronica in ein Klangwerk verpackt.
 
-::genre::ambient accoustic, electronica
+::genre::ambient acoustic, electronica
 
 ## North Mississippi Allstars - Still Shakin’
 
 Die Jam Band aus Mississippi mit einem neuen Kollektiv-Werk. Southern Blues-Rock trifft auf Folk-Roots der psychedelischen Art.
 
-::genre::southern rock, blues, americana, psychedelic folk
+::genre::southern rock, blues, americana, psych folk
 
 ## Orthodox - A Door left Open
 
 Die Straight Edger aus Nashville mit einem neuen Release. Grenzenbiegender Hardcore, welcher Elemente des Beatdown, Thrash, Metalcore und Electronica progressiv kombiniert.
 
-::genre::hardcore, thrash metal, metalcore, electronica
+::genre::hardcore punk, thrash metal, metalcore, electronica
 
 ## Phoebe Rings - Aseurai
 
@@ -292,13 +292,13 @@ Die Hälfte von Mapache mit seinem neuen Solo-Release. 70s influenced Soul-Disco
 
 Sankt Otten, Teil 1: Das deutsche Electronica-Duo mit einem analog Electronica Album, welches die deutsche Krautrock-Avantgarde der 70er gut erfasst und Cover ihrer “Helden” abbildet. Wer diesem Werk etwas abgewinnen kann und Kraftwerk nicht mag, sollte sicherlich nochmal Kraftwerk hören.
 
-::genre::krautrock, avantgarde electronica
+::genre::krautrock, avant electronica
 
 ## Sankt Otten - Tote Winkel *
 
 Sankt Otten, Teil 2: Das deutsche Electronica-Duo verarbeitet in diesem Werk die deutsche Electro-Avantgarde der 80er, welche Elemente des Rock wieder mit aufnahm in die Kompositionen.
 
-::genre::avantgarde electronica
+::genre::avant electronica
 
 ## Silius - Beneath the Flesh
 
@@ -339,7 +339,7 @@ Das britische Indie-Pop-Duo mit ihrem neuesten Longplayer. Klassische 70er Soft-
 
 Der britische und der ägyptische Künstler setzen mit diesem Werk ihre Kollaboration fort. Sound Fragmente werden in ein Klangbild des Ambient und Acoustic-Drone verarbeitet.
 
-::genre::ambient accoustic, drone
+::genre::ambient acoustic, drone
 
 ## Turnstile - Never Enough **
 
@@ -367,7 +367,7 @@ Die litauische Formation mit ihrem neuesten Output. Instrumental gehaltener Post
 
 Die Kombo aus Michigan mit einem neuen Release. Psychedelic-Rock mit Elementen des klassischen Prog-Rock.
 
-::genre::psychedelic rock, progressive rock
+::genre::psych rock, prog rock
 
 ## Annabelle - Ambient, Vol. III
 

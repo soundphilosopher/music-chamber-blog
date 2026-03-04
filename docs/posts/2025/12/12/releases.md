@@ -42,7 +42,7 @@ Der japanische Producer Yasuhiko Fukuzono (Aus) mit seinem neuesten Output. Ein 
 
 Das finnische Post-Rock-Outfit mit seinem neuesten Release. Überwiegend instrumental gehaltener Post-Rock, welcher auf vier Tracks mit Gastgesängen ausgestattet ist. Die Kompositionen beinhalten neben Post-Rock auch Elemente des Post-Metal, Cinematic Ambient und auch ein paar progressive Elemente sind zu erkennen.
 
-::genre::post rock, instrumental, cinematic ambient
+::genre::post rock, instrumental, cine ambient
 
 ## Boy & Bear - Tripping over Time
 
@@ -54,19 +54,19 @@ Die australische Formation mit ihrem neuesten Output. Kompositionen, die eine To
 
 Eine neue Veröffentlichung vom Electronica-Pionier Kerry Leimer, welcher seit den 70er Jahre aktiv ist. Seine “Forms”-Series birgt eine avantgardistische Reise in die Modern Classic, welche mit Fragmenten des Ambient versehen ist.
 
-::genre::avantgarde modern classic, ambient
+::genre::avant modern classic, ambient
 
 ## Lord Of The Lost - Opvs Noir Vol. 2
 
 Die deutsche Formation mit dem zweiten Teil zu ihrem Opvs Noir. Gothic Metal, welcher auch gern in die NDH abschweift und auch Elemente des Alt-Metal in sich birgt. Die Kollaboration mit Infected Rain könnte man gar als Modern Alt-Metal bezeichnen.
 
-::genre::gothic metal, alternative metal
+::genre::gothic metal, alt metal
 
 ## Martröð - Draumsýnir Eldsins
 
 Das isländisch/amerikanische Duo mit seinem Debüt, nach über 10 Jahren Band bestehen. Was wird auf den vier Tracks geboten? Atmospheric Black Metal ist die Aorta hier. Alles wird mit kalten Gesang und einer kult-artigen Atmosphäre versehen.
 
-::genre::atmospheric black metal
+::genre::atmo black metal
 
 ## NAS, DJ Premier - Light-Years
 
@@ -84,7 +84,7 @@ Die Electropunks aus London (Soho?) mit ihrem neuesten Release. Sie schweifen mi
 
 Zum 10 Jährigen Band-Jubiläum bringen die Kanadier ein neues Album unter die Massen. Geboten wird ein recht melancholischer Mix aus Psych-Rock, Space-Rock und Garage-Rock, welcher in Phasen das Gewand von Shoegaze der ersten Stunde annimmt.
 
-::genre::shoegaze, psychedelic rock, space rock, garage rock
+::genre::shoegaze, psych rock, space rock, garage rock
 
 ## Volumes - Mirror Touch
 
@@ -96,13 +96,13 @@ Die amerikanische Combo mit ihrem Jahresabschluss-Release. Nu-Metalcore, welcher
 
 Auch die deutschen Indie-Studenten haben Neues zum Jahresabschluss. Auf ihren vierten Output werden Elemente des Indie-Pop, Indie-Folk, Alt-Folk und Psych-Folk zu einem Gesamtwerk vereint und mit ihrem typischen Songwriting verfeinert.
 
-::genre::indie pop, indie folk, alternative folk, psychedelic folk
+::genre::indie pop, indie folk, alt folk, psych folk
 
 ## Woods Of Birnam - Solaris *
 
 Die Dresdner Formation, welche sich aus den Resten von Polarkreis 18 und dem Schauspieler und Singer & Songwriter Christian Friedel zusammensetzt, belohnen am Ende des Jahres ihre Fans. Ein recht progressives Werk aus Art-Pop und Art-Pop, mit theatralischen und avantgarden Songwriting.
 
-::genre::avantgarde pop, art pop, cinematic pop
+::genre::avant pop, art pop, cine pop
 
 ## Zero 9:36 - They were always here
 
@@ -130,7 +130,7 @@ Neues vom französischen Producer Cyril Capra (Kognitif). Diesmal scheint der Be
 
 Die russische Formation um den russischen Singer & Songwriter und Poet Oleg Yagodin und den Gitarristen Yuri Oblukhov mit ihrem neuesten Release. Eine Melange aus Art-Rock, Prog-Rock, Psych-Rock und Krautrock wird mit den surrealistisch-poetischen Lyrics Oleg’s ausgestattet.
 
-::genre::art rock, progressive rock, psychedelic rock, krautrock
+::genre::art rock, prog rock, psych rock, krautrock
 
 ## Undertheskin - Never | Return
 
@@ -142,7 +142,7 @@ Das polnische Duo mit seinem neuesten Werk. Eine starke Melange aus New-Wave und
 
 Eine Art Hommage an den 2024 verstorbenen Daron Beck. Die Fragmente sind aus der Trzecia Improv-Session aus 2023 und wurden nie fertig gemixt. Entstanden sind sie aus dem Projekt Trio Not Trio von Aidan Baker, welcher sich mit einem Musiker/einer Musikerin in Berlin traf um zu Improvisieren, um diese Improvisationen dann an einen weiteren Musiker/einer weiteren Musikerin zu senden, welche ihren Input dann “remote” hinzufügen. Der Remote-Part war hier Daron Beck und das eigentliche Release wurde 2023 veröffentlicht. Die fragmentalen Reste wurden nun mit viel Liebe gemixt und veröffentlicht.
 
-::genre::progressive folk, avantgarde folk, improvisation
+::genre::prog folk, avant folk, improvisation
 
 ## GRMLN - A beautiful Place to End
 
@@ -154,7 +154,7 @@ Das Projekt um den japanischen Multi-Instrumentalisten Yoodoo Park mit seinem ne
 
 Die Band um den amerikanischen Singer & Songwriter und Producer Brad Laner mit ihrem neuesten Werk. Gegründet wurde das Projekt von Laner in 1990 und auch mit dem neuesten Release lässt er nicht von seinen noise-y Kompositionen ab. Eine Melange aus Noise-Pop, Art-Pop, Alt-Pop und Dream-Pop.
 
-::genre::noise, art pop, alternative pop, dreampop
+::genre::noise, art pop, alt pop, dreampop
 
 ## Geomatic - Ambient Silence
 

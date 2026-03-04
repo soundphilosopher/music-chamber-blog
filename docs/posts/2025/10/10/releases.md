@@ -16,13 +16,13 @@ Die New Jersey Nu-Metaller mit neuem Material nach 10 Jahren. Mit ihrer recht ag
 
 Neues von der Band aus Cleveland. Recht modern produzierter Metalcore, welcher mit seinen Melo-Death- und Progressive-Elementen für Freunde von Killswitch Engage sicherlich eine Freude darstellen könnte.
 
-::genre::melodic death metal, metalcore
+::genre::melo death metal, metalcore
 
 ## Amber Mark - Pretty Idea
 
 Die amerikanische Singer & Songwriterin mit ihrem neuesten Werk. Ein sehr fluides Werk welches R&B, Soul und Alt-Pop in seine Kompositionen bindet.
 
-::genre::r&b, neo soul, alternative pop
+::genre::r&b, neo soul, alt pop
 
 <!-- more -->
 
@@ -42,31 +42,31 @@ Die russischen Instrumental-Post-Rocker mit ihrem neuesten Release. Wieder schaf
 
 Das Debüt Full-Length der amerikanischen Combo. Metalcore, welcher seine Wurzeln klar im Sound der 2000er Welle hat. Thrash-y Hooks, Melo-Death Riffing und Clear Singalong Passages. Alles verpackt in der passenden 2000er Production.
 
-::genre::metalcore, thrash metal, melodic death metal
+::genre::metalcore, thrash metal, melo death metal
 
 ## Beyries - Reprise
 
 Die kanadische Singer & Songwriterin mit ihren neuesten Kompositionen, welche das Spektrum des Melo-Indie-Folk gut abdecken.
 
-::genre::melodramatic folk, indie folk
+::genre::mellow folk, indie folk
 
 ## Blindfolded And Led To The Woods - The hardest Thing about being God is that no one Believes me
 
 Das neuseeländische Outfit mit seinem neuesten Release. Eine Symphonie des Progressive-Technical-Death-Metal mit Avantgarden und symphonischen Strukturen.
 
-::genre::technical death metal, progressive death metal
+::genre::tech death metal, prog death metal
 
 ## Brian Eno, Beatie Wolfe - Liminal *
 
 Nach “Luminal” und “Lateral” nun die dritte Kollaboration des britischen Alleskönners Brian Eno und der britischen Künstlerin und Composerin Beatie Wolfe. Ambient, Folk, Rock und Electronica werden magisch in ein Klangbild gebracht und hin und wieder mit der Stimme von Wolfe und Eno verfeinert.
 
-::genre::ambient, avantgarde folk, folk rock, electronica
+::genre::ambient, avant folk, folk rock, electronica
 
 ## Calum Scott - Avenoir
 
 Der britische Singer & Songwriter und Golden Buzzer von Simon Cowell in der 2015er Serie von BGT, mit seinem neuesten Release. Nummer drei in seinem Repertoir. Passend zum Stimmbild komponierter Alt-Pop, welcher auch Strukturen des Pop-Rocks annehmen kann.
 
-::genre::pop rock, alternative pop
+::genre::pop rock, alt pop
 
 ## Carved Into The Sun - Silent Tower *
 
@@ -78,7 +78,7 @@ Die Schweizer Combo mit ihrem neuesten Werk. Eine meisterliche Inszenierung des 
 
 Der Künstler, Producer und Gitarrist aus San Francisco mit seinen neuesten Kompositionen. Cinematic-Ambient-Acoustic beschreibt das Werk vermutlich am besten, wenn man in das Genre eintauchen möchte. Effektreiche Gitarren-Teppiche werden über ambienter Atmosphäre ausgerollt.
 
-::genre::ambient accoustic
+::genre::ambient acoustic
 
 ## Citizens - m us eum
 
@@ -102,7 +102,7 @@ Die Kalifornier mit ihrem neuesten Release. EIn gekonnter Crossover von Thrash M
 
 Die Düsseldorfer mit nicht Neuen, aber Neu-Interpretierten aus der eigenen Feder. Die Avantgard-Synth-Popper der Alten-Tage gehen einen recht mood-y folk-y Weg mit diesen alten Kompositionen, welcher auch gern jazz-y Töne annimmt.
 
-::genre::avantgarde pop, synth pop, art pop
+::genre::avant pop, synth pop, art pop
 
 ## Electric Guest - 10K
 
@@ -114,7 +114,7 @@ Das LA-Based Duo mit seinem neuesten Release. Mit ihrem Debüt konnten sie vor g
 
 Der schweizerische Singer & Songwriter mit neuem Material für "Die Massen”. Kompositionen des Alt-Indie. Alles eingebettet in ein melancholisches Songwriting mit Passagen, welche gar Elemente des Alt-Rock, wie auch Pop-Rock enthalten.
 
-::genre::alternative indie, alternative rock, pop rock
+::genre::alt indie, alt rock, pop rock
 
 ## Emily A. Sprague - Cloud Time
 
@@ -126,7 +126,7 @@ Die amerikanische Sound-Designerin mit einer Collection von Live-Interpretatione
 
 Der britische Producer Seb Uncles aka Eusebeia mit seinen neuesten Klang-Experimenten. Modulare Töne werden in avantgarde Ambient-Felder entlassen und erzeugen ein gewisses Gefühl des Gejagt-Seins der Vergangenheit.
 
-::genre::avantgarde ambient
+::genre::avant ambient
 
 ## Eydis Evensen - Oceanic Mirror
 
@@ -150,7 +150,7 @@ Der Abschluss der Tetralogie und der mögliche Abschluss von Geier Sturzflug. Di
 
 Das schwedische Psych-Rock-Outfit mit einem, technisch gesehen, Remix ihres letzten Werks. Sie gaben dem schwedischen Producer, der unter dem Pseudonym “Human Language” auftritt, freie Hand zur Neu-Interpretation ihres Werks. Entstanden ist ein psychedelischer Mix aus Dub, Loop-Electronica und Psych-Rock. Irgendwie gibt mir der Remix mehr als das grundlegende Werk.
 
-::genre::psychedelic pop, dub, electronica, psychedelic rock
+::genre::psych pop, dub, electronica, psych rock
 
 ## God Alone - The Beep Test **
 
@@ -162,7 +162,7 @@ Die Iren mit ihrem neuesten Streich. An Experimentierfreude scheitern sie niemal
 
 Das Solo-Projekt um den Amerikaner Garry Brents (Cara Neir) mit seinem neuesten Output. Chiptune und Black-Metal passt nicht? Eine Behauptung, welche das Projekt zu Negieren weiss. Die Kompositionen vereinen Melodic-Black-Metal und Chiptune mit ein wenig mehr Intelligenz als die Versuche der MySpace-Gen-Projekte der 2000er.
 
-::genre::chiptune, avantgarde black metal
+::genre::chiptune, avant black metal
 
 ## Great Lake Swimmers - Caught Light
 
@@ -174,7 +174,7 @@ Das kanadische Trio mit seinem neuesten Output. Kompositionen des Folk-Rock und 
 
 Der deutsche Composer mit seinem Beitrag zu Ron Howard’s Thriller Eden (2024). Zimmer und Howard scheint mittlerweile eine Einheit zu sein. Sieht man einen Howard Film, hört man Hans Zimmer.
 
-::genre::cinematic modern classic
+::genre::cine modern classic
 
 ## Hyphen Dash - Late **
 
@@ -186,13 +186,13 @@ Das ukrainische Jazz-Fusion-Trio mit Neuen.? Sie haben im März erst ihr Debüt 
 
 Das deutsche Outfit mit seinem neuesten Release. Atmospheric-Black-Metal, dargeboten in vier Tracks mit einer Spielzeit von 41 Minuten. Nicht dass sie mich an Endstille erinnern, aber ich bin der rauen Darbietung von Atmospheric-Black nicht abgeneigt.
 
-::genre::atmospheric black metal, melodic black metal
+::genre::atmo black metal, melo black metal
 
 ## Jack Ladder - Separation Rock
 
 Der australische Singer & Songwriter Timothy Rogers aka Jack Ladder mit seinem neuesten Solo-Werk. Moody (Folk-)Rock-Kompositionen, welche psychedelische Elemente in sich tragen. Das Duett mit Shanon Van Etten ist erstklassig.
 
-::genre::folk rock, psychedelic folk
+::genre::folk rock, psych folk
 
 ## Jarrod Morris - Day Money
 
@@ -210,7 +210,7 @@ Die amerikanische Singer & Songwriterin Melina Duterte aka Jay Som mit ihren neu
 
 Der Berlin-Born, Schottland-Based Composer und Producer mit seinem Beitrag zu Marie Lidén’s Documentation Electric Malady (2022). Die Klangbilder beschreiben die isolierten Welten, welche die Dokumentation versucht intelligent einzufangen.
 
-::genre::cinematic modern classic, cinematic ambient
+::genre::cine modern classic, cine ambient
 
 ## Jukebox The Ghost - Phantasmagorical Vol. 1 *
 
@@ -240,13 +240,13 @@ Die LA-Based Band mit ihrem neuesten Release. Pop-Rock, welcher mit jedem neuen 
 
 Das mexikanische Duo mit seinem neuesten Werk. Psychedelic-Rock meets Synth-Pop meets Dreampop meets Krautrock. So lässt es sich am Besten beschreiben.
 
-::genre::psychedelic rock, synth pop, dreampop, krautrock
+::genre::psych rock, synth pop, dreampop, krautrock
 
 ## Madi Diaz - Fatal Optimist
 
 Die amerikanische Singer & Songwriterin mit ihrem neuesten Output. Moody und persönlicher Mello-Folk, welcher mit einem gewissen Charme der Bedroom-Recordings dargeboten wird.
 
-::genre::melodramatic folk, bedroom pop
+::genre::mellow folk, bedroom pop
 
 ## Maria Kannegaard, Thomas Strønen - Time to Crystallize *
 
@@ -270,25 +270,25 @@ Das (im Grunde) aufgelöste Eastcoast-Rap-Duo, mit dem “offiziellen” Abschlu
 
 Das Projekt um den amerikanischen Multi-Instrumentalisten Eric Wing mit seinem neuesten Release. Melodic-Black-Metal, welcher auch gern in den Dark-Metal abschweift.
 
-::genre::melodic black metal, dark metal
+::genre::melo black metal, dark metal
 
 ## Niños Del Cerro - Alma Tadema
 
 Die chilenische Band mit ihrem neuesten Output. Ein Werk, welches Neo-Psychedelica mit Indie-Rock in einen Pot wirft, kräftig schüttelt und dann diese Kompositionen auf die Welt entlässt.
 
-::genre::indie rock, psychedelic indie, psychedelic rock
+::genre::indie rock, psych indie, psych rock
 
 ## NYOS - Growl **
 
 Das reine Gitarre-Drum-Duo aus Finnland mit seinem neuesten Streich. Ein wahrlich meisterhaft inszeniertes Werk aus Noise-, Math- und Prog-Strukturen, welche in Rock und Metal verpackt und dabei Instrumental vorgetragen werden.
 
-::genre::noise rock, math rock, progressive rock, progressive metal, mathcore, instrumental
+::genre::noise rock, math rock, prog rock, prog metal, mathcore, instrumental
 
 ## Other Lives - Volume V
 
 Die amerikanische Formation mit einem weiteren Kapitel in einer musikalischen Geschichte. Cinematic-Alt-Rock, welcher mit einer gewissen Melancholie eine Geschichte der Dramatik erzählen vermag.
 
-::genre::alternative rock
+::genre::alt rock
 
 ## Oxia - Aelle
 
@@ -354,25 +354,25 @@ Das UK-Based Jazz-Quartett mit seinem neuesten Release. Eine instrumentale Reise
 
 Die LA-Based Band mit ihrem neuesten Werk. Sie verstanden es schon immer Alt-Pop, Indie-Pop, Alt-Rock und Indie-Rock progressiv zu vereinen. Was mir immer fehlte, bis heute, ist die Eigenständigkeit. Selbst der Falsetto-Gesang hebt sich nicht wirklich von anderen “Größen” ab.
 
-::genre::alternative pop, indie pop, indie rock, progressive indie
+::genre::alt pop, indie pop, indie rock, prog indie
 
 ## Sanguisugabogg - Hideous Aftermath
 
 Die amerikanische Death-Metal-Combo mit ihrem neuesten Release. Old-School-Death mit dem Sound und der Thematik von Gore und ein paar modernen Technical-Death-Elementen in eine Komposition verpackt.
 
-::genre::old school death metal, technical death metal
+::genre::osdm, tech death metal
 
 ## Slow Joy - A Joy even Slower
 
 Ein neues Klangwerk aus dem Hause Slow Joy, was das Solo-Projekt des amerikanischen Singer & Songwriters Esteban Flores ist. Mit Eleganz werden Post-Grunge, Alt-Indie und Shoegaze zu radio-tauglichen Symphonien verbunden.
 
-::genre::post grunge, alternative rock, shoegaze, indie rock
+::genre::post grunge, alt rock, shoegaze, indie rock
 
 ## Slowgold - Lugna
 
 Das Projekt der schwedischen Singer & Songwriterin Amanda Werne mit neuen Klangbildern. Eine melancholische Interpretation von Alt-Folk mit mystischer Instrumentalisierung.
 
-::genre::alternative folk
+::genre::alt folk
 
 ## SOHN - Albadas (Dawn Songs)
 
@@ -384,13 +384,13 @@ Der britische Producer Christopher Taylor aka SOHN mit seinen neuesten Klangexpe
 
 Das New-Yorker Outfit mit seinem neuesten Werk. Dem Ohr wird eine recht End-90er Komposition aus Post-Grunge und Alt-Rock angeboten. Wenn man wieder Lust hat in diese Zeit zu reisen, dann sollte man zu dem Werk nicht Nein sagen.
 
-::genre::post grunge, alternative rock
+::genre::post grunge, alt rock
 
 ## Space Travelers Union - New Birth *
 
 Die Band aus Arizona mit ihrem Sophomore Release. Modern-Jazz, welcher seinen Hang zu Progressive, Jazz-Rock und Fusion nur schwer verbergen kann.
 
-::genre::progressive rock, jazz rock, jazz fusion
+::genre::prog rock, jazz rock, jazz fusion
 
 ## St. Paul & The Broken Bones - St. Paul & The Broken Bones
 
@@ -408,13 +408,13 @@ Die italienische Band mit ihrem neuesten Release. Modern Metalcore, welcher mit 
 
 Die amerikanische Formation mit ihrem neuesten Werk. Melodic-Black-Metal trifft auf Symphonic-Black-Metal und wird mit Elementen des Blackgaze verfeinert. Gutes Songwriting und eine passend elegante Produktion.
 
-::genre::melodic black metal, symphonic black metal, post black metal
+::genre::melo black metal, symphonic black metal, post black metal
 
 ## Testament - Para Bellum *
 
 Die Bay-Area-Thrasher mit ihrem neuesten Release. Bereits seit 42 Jahren aktiv und noch lange nicht müde, auch wenn nur noch Eric übrig ist vom original Lineup. In diesem Release werden neben dem Bay-Area-Thrash auch wieder Elemente des Florida-Death und Melo-Death eingebunden, was dem Songwriting wieder mehr “Härte” verleiht.
 
-::genre::thrash metal, melodic death metal
+::genre::thrash metal, melo death metal
 
 ## The Antlers - Blight
 
@@ -426,13 +426,13 @@ Das Duo Silberman & Lerner aka The Antlers mit ihren neuesten Klangfusionen. Ind
 
 Das kanadische Quintett mit einem neuen Album. Ich mag, dass sie ihren Bandnamen auch immer in die Titel ihrer Alben verpacken. Eine psychedelische Reise durch Indie-Rock, Alt-Rock und Art-Pop wird am Ende geboten, mit einer Art melancholischen Dynamik.
 
-::genre::indie rock, alternative rock, psychedelic rock
+::genre::indie rock, alt rock, psych rock
 
 ## The Necks - Disquiet *
 
 Das etablierte Trio aus Australien versteht Elementares in Komposition verarbeiten. Die Avant-Jazzer bringen auch mit ihrer neuesten >3h Symphonie alle Klang-Experimente an einen Tisch, ohne wirklich ein Momentum zu verlieren. Psychedelica, Oriental, Prog, Jazz, Fusion und Art-Rock werden in eine Art Trance verwandelt. Manche Werke verdienen ihre Länge (That’s what she said. Or he said).
 
-::genre::art rock, oriental jazz, jazz fusion, psyhedelic rock, progressive rock
+::genre::art rock, oriental jazz, jazz fusion, psych rock, prog rock
 
 ## The Orb - Buddhist Hipsters
 
@@ -444,19 +444,19 @@ Das UK-Based Producer-Duo Alex Paterson und Jimmy Cauty formen ihren musikalisch
 
 Die Band aus San Francisco, welche den Indie-Sound um San Francisco etablierte und weiterführt, mit einem neuen Release. Anspruchsvoller Power Pop wird dem Hörer oder der Hörerin geboten, welcher den Sound der Bay-Area wunderbar widerspiegelt.
 
-::genre::power pop, indie rock, alternative rock
+::genre::power pop, indie rock, alt rock
 
 ## The Wytches - Talking Machine
 
 Die UK-Based Band mit ihrem neuesten Output. Psychedelic-Rock wird mit Elementen des Surf-Rock, Power-Pop und Stoner-Rock in eine Form des melodischen Austausch gepackt.
 
-::genre::surf rock, power pop, psychedelic rock
+::genre::surf rock, power pop, psych rock
 
 ## Trella - Expired
 
 Die amerikanische Singer & Songwriterin Lindsey Sweat aka Trella mit ihrem neuesten Werk. Eine energiereiche Mixtur aus Synth-Pop, Alt-Pop und Indie-Pop mit einer sehr melancholischen Stimme.
 
-::genre::synth pop, alternative pop, indie pop
+::genre::synth pop, alt pop, indie pop
 
 ## Vincent Courtois, Colin Vallon - A Simple Fall
 
@@ -468,13 +468,13 @@ Die Kollaboration zwischen dem schweizer Jazz Pianisten Colin Vallon und dem fra
 
 Das amerikanische Trio mit seinem neuesten Release. Eine Menage des Post-Grunge und Alt-Rock wird geboten. Von Zeit zu Zeit erinnert mich das Songwriting an eine Art Collage-Rock und Emo mit der Zerbrechlichkeit von Sonia’s Stimme.
 
-::genre::college rock, emocore, alternative rock, post grunge
+::genre::college rock, emocore, alt rock, post grunge
 
 ## Yara Asmar - Everyone I love is Sleeping and I love them so so much
 
 Die libanesische Multi-Instrumentalistin mit ihren neuesten Klang-Experimenten. Eine dunkle Ambient-Atmosphäre mit eine Nebel von akustischen Instrumentalisierungen durchsetzt. “From Title to Body” ein recht nachdenkliches Werk.
 
-::genre::ambient accoustic
+::genre::ambient acoustic
 
 ## Yellowcard - Better Days
 
@@ -492,7 +492,7 @@ Die Kollaboration zwischen dem israelischen Multi-Instrumentalisten Yom, dem fra
 
 Die Punks aus Indianapolis mit ihrem neuesten Release. Kompositionen des klassischen Punkrock werden mit Garage und Glam partiell versetzt.
 
-::genre::garage rock, glam metal, punk rock
+::genre::garage rock, glam punk, punk rock
 
 ---
 
@@ -502,7 +502,7 @@ Die Punks aus Indianapolis mit ihrem neuesten Release. Kompositionen des klassis
 
 Neues aus der Feder des amerikanischen Producers Daniel Fisher, welcher alle seine Aliase und seinem Label Allergy Season bündelt, außer Car Culture. Fragmentale Kompositionen aus Electronica, Folk und Dream Pop  werden hier für die Ohren bereitgestellt.
 
-::genre::experimental electronica, avantgarde folk, dreampop
+::genre::experimental electronica, avant folk, dreampop
 
 ## Igor Dyachenko - Remnants of Noise
 
@@ -532,7 +532,7 @@ Das Debüt der Kollaboration zwischen den amerikanischen Producern Thys, Machine
 
 Der französische DJ und Producer Kevin Rodrigues bildet mit Orchester das Projekt Worakls. Cinematic-Techno-House beschreibt das Endergebnis am besten.
 
-::genre::cinematic electronica, techno, house
+::genre::cine electronica, techno, house
 
 ## Sock Drawer - Chop Shop
 
@@ -544,10 +544,10 @@ Das UK-Based Duo mit seinem neuesten Werk. Eine dream-like Menage aus Dream- und
 
 Das Solo-Projekt um den amerikanischen Multi-Instrumentalisten Dempsey Mills. Melodischer und folk-inspirierter Post-Black-Metal, welcher klassische Elemente des Heavy-Metal in sich vereinigt und mit konservativ christlicher Thematik besungen wird.
 
-::genre::melodic black metal, post black metal, heavy metal
+::genre::melo black metal, post black metal, heavy metal
 
 ## Huis - À Huis Clos *
 
 Die kanadischen Neo-Progger mit ihrem neuesten Release. Ambitionierter Neo-Prog, welche auch mit klassischen Elementen des Prog-Rock und Psychedelica spielt.
 
-::genre::neo progressive rock, psychedelic rock
+::genre::neo prog rock, psych rock

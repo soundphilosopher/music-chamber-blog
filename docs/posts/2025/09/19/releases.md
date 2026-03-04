@@ -54,7 +54,7 @@ Die Belgier mit ihrem neuesten Release. Instrumental-Post-Rock, wie man ihn kenn
 
 Die Band aus dem Land des Emmentaler mit ihrem neuesten Output. Sie mixen Elemente des Nu-Metal und Alt-Metal in ihre Modern-Metal-Kompositionen. Tut sicherlich Charme verteilen unter den Genre-Liebhabern/-Liebhaberinnen.
 
-::genre::alternative metal, modern metal, nu metal
+::genre::alt metal, modern metal, nu metal
 
 ## Charlie Burg - Back to Earth
 
@@ -78,7 +78,7 @@ Die Singer & Songwriterin und Producerin aus New York mit ihrem neuesten Output.
 
 Die Nu-Metaller aus Arizona mit ihrem neuesten Release. Klassische Nu-Metal-Kompositionen, welche mit moderner Produktion versehen sind und gern mal in den Industrial ausweichen.
 
-::genre::nu metal, alternative metal
+::genre::nu metal, alt metal
 
 ## Death By Horse - Liminal State
 
@@ -96,7 +96,7 @@ Der amerikanische Producer Benjamin Wynn aka Deru mit seinem neuesten Kompositio
 
 Die amerikanische Heavy-Doomer mit ihrem neuesten Release. Sludge-y Doom, welcher nur allzu gern in den Psychedelic- und Desert-Rock driftet.
 
-::genre::psychedelic rock, desert rock, sludge rock, doom rock
+::genre::psych rock, desert rock, sludge rock, doom rock
 
 ## Ebi Soda - Frank Dean and Andrew *
 
@@ -126,7 +126,7 @@ Frank und Nils mit ihrer mittlerweile fünften Kollaboration. Die beiden deutsch
 
 Der renommierte Singer & Songwriter aus Irland mit seinem neuesten Kompositionen. Ein Werk des Indie-Folk, Alt-Folk und Alt-Pop.
 
-::genre::indie folk, alternative folk, alternative pop
+::genre::indie folk, alt folk, alt pop
 
 ## Giuseppe Cucchiara, Simon Moullier, Chris McCarthy - First Book Done
 
@@ -150,7 +150,7 @@ Der amerikanische Modern-Romantic Solo-Pianist-Veteran mit seinen neuesten Kompo
 
 Das deutsche Post-Metal-Outfit mit seinem neuesten Release. Irgendwie schaffen sie es gekonnt Post-Metal mit Melodic Death, Blackened Death und Metalcore in eine Komposition zu bringen.
 
-::genre::post metal, melodic death metal, blackened death metal, metalcore
+::genre::post metal, melo death metal, blackened death metal, metalcore
 
 ## Hotel Pools, Brothertiger - Paradigms
 
@@ -168,7 +168,7 @@ Die Band aus Michigan mit ihrem neuesten Output. Modern-Metal wird mit allerlei 
 
 Der französische Multi-Instrumentalist mit seinen neuesten (für mich lang ersehnten) Kompositionen. In seinen experimentellen Metal-Kompositionen versteht er es hervorragend, klassische, folkige, orientalische und moderne Elemente in seinem Songwriting zu vereinen. Starkes Songwriting. Starke Produktion. Ein Must-Listen.
 
-::genre::experimental metal, avantgarde metal, avantgarde folk, progressive metal
+::genre::experimental metal, avant metal, avant folk, prog metal
 
 ## Iman Europe, Kaelin Ellis - Chrysalis
 
@@ -186,7 +186,7 @@ Das Sophomore Solo-Release des britischen Jazz-Gitarristen. Modern UK-Jazz, welc
 
 Der kanadische Singer & Songwriter mit seinem neuesten Output. Alt-Folk, welcher auch Folk-Rock-Strukturen in sich trägt.
 
-::genre::alternative folk, folk rock
+::genre::alt folk, folk rock
 
 ## Johnathan Blake - My Life Matters
 
@@ -228,13 +228,13 @@ Die Kollaboration zwischen dem amerikanischen Jazz-Trompeter Kirk Knuffke, dem j
 
 Die Texaner verstehen es perfekt, Melodic Death mit Blackened Death in Kombination zu bringen und machen mit ihrem neuesten Release keine Ausnahme.
 
-::genre::melodic death metal, blackened death metal
+::genre::melo death metal, blackened death metal
 
 ## Kristina Train - County Line
 
 Die in Nashville ansässige Singer & Songwriterin mit ihrem neuesten Werk des Nashville-Folk.
 
-::genre::americana, alternative folk, country folk
+::genre::americana, alt folk, country folk
 
 ## L’Antidote - L’Antidote *
 
@@ -258,13 +258,13 @@ Die kanadische Singer & Songwriterin mit ihrem Sophomore Output. Ein Werk, welch
 
 Neues von der Surf-Band aus Nashville. Das routinierte Quartett bringt Nostalgie in die Gehörgänge mit ihrem Instrumental-Surf-Rock.
 
-::genre::surf rock, progressive pop, instrumental
+::genre::surf rock, prog pop, instrumental
 
 ## Lucid Planet - Tanglewood
 
 Ich dachte, dass es neue Kompositionen der australischen Psych-Prog-Rocker gibt. Nein. Es werden die eigenen Kompositionen in Live-Set-Art mit Electronica Re-Interpretiert. Für mich enttäuschend.
 
-::genre::psychedelic rock, progressive rock, electronica
+::genre::psych rock, prog rock, electronica
 
 ## Lukid - Underloop
 
@@ -276,49 +276,49 @@ Der UK-Based Producer Luke Blair aka Lukid mit seinen neuesten Klängen. “Unde
 
 Das anonyme Duo aus Australien mit ihrem neuesten Streich. Atmospheric Black Metal wird mit Einflüssen des Trance in gekonnter Art und Weise auf die Welt losgelassen.
 
-::genre:: atmospheric black metal
+::genre:: atmo black metal
 
 ## Mind:Field - An Atonement for Existence *
 
 Das Berliner One-Man-Projekt mit seinem Debüt. In gekonnter Art und Weise werden Modern-Progressive-Metal und Groove-Metal kombiniert.
 
-::genre::progressive metal, modern metal, groove metal, alternative metal
+::genre::prog metal, modern metal, groove metal, alt metal
 
 ## Motion City Soundtrack - The same old wasted wonderful World
 
 Die amerikanischen Alt-Rocker, welche die Emo-Szene in den 2000er stark beeinflusst haben und noch immer diesen Sound besitzen. Das erste Release nach ihrer Auflösung und ihrem letzten Release in 2015.
 
-::genre::alternative rock
+::genre::alt rock
 
 ## NewDad - Altar
 
 Die Iren mit ihrem Sophomore Release. Mit ihrem Mix aus Indie-Rock, Alt-Rock, Post-Punk und Post-Grunge konnten sie bereits Punkte bei den Kritikern/Kritikerinnen sammeln.
 
-::genre::indie rock, alternative rock, post punk, post grunge
+::genre::indie rock, alt rock, post punk, post grunge
 
 ## Newton Faulkner - Octopus *
 
 Der britische Singer & Songwriter konnte in seinen Anfangsjahren gute Erfolge feiern, welche er mit seinen letzten drei Releases nicht mehr erreichen konnte. Sein neues Werk ist wie eine Klassenfahrt durch verschiedene Pop-Genre. An Kreativität hat es dem Singer & Songwriter nie gefehlt.
 
-::genre::art pop, alternative pop, introspective pop, avantgarde pop, indie pop
+::genre::art pop, alt pop, introspective pop, avant pop, indie pop
 
 ## Nine Inch Nails - TRON: Ares (“OST”)
 
 Die beiden Erfolgsgaranten Trent Reznor und Atticus Ross präsentieren den Soundtrack zu Tron: Ares. Ich empfinde irgendwie Ähnlichkeiten zu dem Tron: Legacy Soundtrack von Daft Punk, was vermutlich kein wirklich Wunder darstellt. Dennoch gibt es den ein oder anderen Ausreißer und die Industrial-Rock-Duo bringt seine Interpretationen hervor.
 
-::genre::industrial, cinematic rock
+::genre::industrial, cine rock
 
 ## Novembers Doom - Major Arcana *
 
 Die routinierten Chicagoianer mit ihrem neuesten Release. Mit ihrem intelligenten Mix aus Death- und Doom-Metal konnten sie bisher die Kritiker überzeugen. Zu dem Mix gesellen sich auch Ab und An Elemente des Psychedelic und Gothic, was keine wirkliche Langeweile aufkommen lässt.
 
-::genre::old school death metal, doom metal, gothic rock, psychedelic rock
+::genre::osdm, doom metal, gothic rock, osych rock
 
 ## Ocean Alley - Love Balloon
 
 Das australische Outfit mit seinem neuesten Werk. Die verschiedenen Schichten der Liebe werden in ihre Komposition aus Psychedelic-Rock und Reggae eingebettet, was zu einem Mix führt, welcher auch dem Alt-Indie zugewiesen werden könnte.
 
-::genre::psychedelic rock, raggae, alternative rock, indie rock
+::genre::psych rock, raggae, alt rock, indie rock
 
 ## Oddjob - Atlas *
 
@@ -336,7 +336,7 @@ Die Briten mit ihrem siebzehnten? Release. Ich habe mich lange nicht mehr mit ih
 
 Die Experimental Rocker aus Kalifornien mit ihrem neuesten Streich. Expressionistisch werden Rock und Jazz fusioniert, mit Elementen des Soul, Math und Prog.
 
-::genre::jazz fusion, neo soul, math rock, progressive rock, avantgarde rock
+::genre::jazz fusion, neo soul, math rock, prog rock, avant rock
 
 ## Pridebowl - Convergence
 
@@ -354,7 +354,7 @@ Der französische Producer mit seinem neuesten Output. Das Werk experimentiert d
 
 Die polnischen Avant-Jazzer haben sich für ihre neueste Improvisation Verstärkung an den Vocals durch Robert Więckiewicz geholt. Ein avantgardes Werk zwischen Poesie und Jazz. Die Thematik dreht sich, wie man am Titel und Tracks erkennt, um Solaris von Stanislaw Lem.
 
-::genre::avantgarde jazz, improvisation
+::genre::avant jazz, improvisation
 
 ## Sonic Gap - Course
 
@@ -372,13 +372,13 @@ Der Composer und Producer aus Japan mit seinem Sequel zu seinem Sophomore Releas
 
 Die Band um den irischen Singer & Songwriter Neil Hannon mit ihrem neuesten Werk. Eine Komposition aus Indie-Folk, Alt-Indie und Cinematic-Country-Folk.
 
-::genre::indie folk, alternative indie, country folk, cinematic folk
+::genre::indie folk, alt indie, country folk, cine folk
 
 ## Tithe - Communion in Anguish
 
 Die Formation aus Portland mit ihrem neuesten Output. Eine der Bands, welche es wirklich gut versteht, Old-School Death-Metal mit Black-Metal zu vereinen.
 
-::genre::old school death metal, black metal
+::genre::osdm, black metal
 
 ## Velvaire - Blame
 
@@ -402,13 +402,13 @@ Der britische Producer mit seiner neuesten EP. Erschienen über Metalheadz, was 
 
 Das Alt-Rock-Outfit aus North Carolina mit seinem neuesten Werk. “Collage-Alt-Rock” wird mit Southern Rock in eine Art Indie-Rock-Kleid verpackt.
 
-::genre::college rock, alternative rock, indie rock
+::genre::college rock, alt rock, indie rock
 
 ## Yasmine Hamdan - I remember I forget بنسى وبتذكر
 
 Die libanesische Künstlerin mit ihrem neuesten Solo-Output. Sie geht weiter den Weg, den sie mit der Band Soapkills eröffnet hat. Arabic-Electronica, welche gekonnt mit Elementen des Synth-Pop und Alt-Pop in Stimmung gebracht werden.
 
-::genre::synth pop, alternative pop, world music, electronica
+::genre::synth pop, alt pop, world music, electronica
 
 ## Yukon Blonde - Friendship & Rock’n’Roll
 
@@ -424,13 +424,13 @@ Die kanadischen Indie-Rocker mit ihrem neuesten Album. In gewohnter Tradition we
 
 Nach gut 12 Jahren gibt es neue Kompositionen von dem isländischen Sextett. Ihre Kompositionen bringen Elemente der Ambient-Electronica, Ambient-Folk, Avant-Pop und Post-Rock in intelligenter Art und Weise zusammen.
 
-::genre::ambient electronica, post rock, ambient folk, avantgarde pop
+::genre::ambient electronica, post rock, ambient folk, avant pop
 
 ## we.own.the.sky - In your Absence *
 
 Die Griechen mit ihrem neuesten Output. Ihr instrumentaler Mix aus Progressive- und Post-Metal birgt elementar-reiche Komposition.
 
-::genre::progressive metal, post metal, instrumental
+::genre::prog metal, post metal, instrumental
 
 ## Ø - Sysivalo
 
@@ -442,13 +442,13 @@ Eine Interpretation nach Vorlagen von dem verstorbenen französischen Producer M
 
 Das letzte Werk der britischen Prog-Rocker. Neben ihrem Mix aus Prog- und Psych-Rock werden auch Elemente des Punk- und Alt-Rock in die ein oder andere Komposition eingebracht.
 
-::genre::progressive rock, psychedelic rock, proto punk rock, alternative rock
+::genre::prog rock, psych rock, proto punk rock, alt rock
 
 ## Vokkr - Esencja
 
 Das polnische Projekt mit seinem neuesten Release. Melodischer Black Metal, welcher Elemente des Melodic-Metal und Post-Hardcore aufweist. Die Produktion kann ein wenig nerven, man sollte aber berücksichtigen, dass es eine Eigenproduktion ist.
 
-::genre::melodic black metal, progressive black metal
+::genre::melo black metal, prog black metal
 
 ## Mumrunner - Yearning Hearts
 
@@ -460,7 +460,7 @@ Die finnischen Shoegaze-Legenden mit ihrem neuesten Werk. Damit ist auch schon a
 
 Das Duo aus Italien mit Neuen. Ein gekonnter Mix aus Indie-Pop und Psych-Pop, welcher gleichzeitig zum Tanzen und Nachdenken anregen kann.
 
-::genre::indie pop, psychedelic pop
+::genre::indie pop, psych pop
 
 ## Waverly Drive - Decadence
 
@@ -490,4 +490,4 @@ Der LA-Based Producer mit seinen neuesten Kompositionen des … nah … korrekt 
 
 Das One-Man-Projekt aus Russland mit seinem ersten Full-Length. Atmospheric Black Metal, welcher eine depressive Spielart abbildet und die christliche Philosophie in seinen Texten verarbeitet. Ich habe die christliche Art des Black Metal immer Grey Metal bezeichnet.
 
-::genre::atmospheric black metal
+::genre::atmo black metal

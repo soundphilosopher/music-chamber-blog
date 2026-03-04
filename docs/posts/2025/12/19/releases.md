@@ -30,7 +30,7 @@ Und eine Überraschung für mich. Die Kollaboration zwischen der italienischen M
 
 Die britischen Avent-Metaller mit ihrem neuesten Streich. Ein avantgardistischer Mix aus Symphonic-Black-Metal, Progressive Metal und auch Death Metal findet seinen Weg hier.
 
-::genre::avantgarde black metal, symphonic blakc metal, progressive metal, blackened death metal
+::genre::avant black metal, symphonic blakc metal, prog metal, blackened death metal
 
 ## The Pesos - Night at the Races
 
@@ -46,7 +46,7 @@ Das Projekt um den amerikanischen Singer & Songwriter Bradford Walters mit einem
 
 Die Kollaboration zwischen dem italienischen Drummer und Percussionist und dem italienischen Multi-Instrumentalisten Stefano Guzzetti birgt eine recht spannende Reise an, welche sich von Modern Classic, über Electro-Pop bis hin zu Neo-Prog erstreckt. Recht spannendes Werk.
 
-::genre::modern classic, electropop, neo progressive rock
+::genre::modern classic, electropop, neo prog rock
 
 ## Streams Of Blood - Vermaledeit
 
@@ -58,7 +58,7 @@ Das deutsche Outfit mit seinem Jahresabschluss. Ich würde es dem Depressive Sui
 
 Die schottische Singer & Songwriterin Katherine Lynch mit ihrem neuesten Werk. Irgendwo zwischen Mello-Folk, Alt-Folk, Chamber-Folk und Indie-Folk bewegen sich die Kompositionen.
 
-::genre::melodramatic folk, alternative folk, chamber folk, indie folk
+::genre::mellow folk, alt folk, chamber folk, indie folk
 
 ## Alexia Avina - Old Pain
 
@@ -70,7 +70,7 @@ Die EP, welche 7 der 11 Songs für das neue Album, welches am 31.12. erscheint, 
 
 Die britische Combo mit ihrem neuesten Werk. Ein recht progressives Werk, welches die Rahmen des LoFi-Indie-Folk ständig überschreitet. Eine wahnwitzige Symbiose des LoFi-Indie-Folk und Prog-Rock.
 
-::genre::lofi, indie folk, progressive rock
+::genre::lofi, indie folk, prog rock
 
 ## Fox Capture Plan - Resonance *
 

@@ -22,7 +22,7 @@ Crowd Vocals, schnelle Punk-Riffs, smoothe Two-Step-Passagen und Thrash an Stell
 
 Die kanadische Singer & Songwriterin Alexandra Hughes (Allie X) mit ihrem neuesten Output. Avant-Pop, welcher mit Leichtigkeit mit Synth-Pop und der Harmonie-Kraft des Indie-Pop in Einklang gebracht wird.
 
-::genre::avantgarde pop, synth pop, indie pop
+::genre::avant pop, synth pop, indie pop
 
 <!-- more -->
 
@@ -36,25 +36,25 @@ Das New-Yorker Duo Billy Woods und Elucid sind zurück mit einer weiteren Produk
 
 Das New-Jersey-Outfit mit seinem neuesten Werk. Von ihrem dreamy Emocore-Sound ist nicht mehr viel übrig, außer die Texte selbst. Ansonsten wird ein recht stabiles Werk des Alt-Metal/Alt-Rock hier abgeliefert.
 
-::genre::emocore, alternative metal, alternative rock, post hardcore
+::genre::emocore, alt metal, alt rock, post hardcore
 
 ## Astralplane - Out of the Void *
 
 Der dritte Longplayer des norwegischen Trios. Psych-Rock, welcher intelligent und elegant mit Elementen des Space-Rock, Prog-Rock, Stoner-Rock und Blues vereint wird. Starker Sänger, starkes Songwriting und klassische Produktion.
 
-::genre::space rock, progressive rock, stoner rock, blues
+::genre::space rock, prog rock, stoner rock, blues
 
 ## Astronoid - Stargod *
 
 Neues von dem amerikanischen SciFi-Outfit. Space-y Alt-Rock-Kompositionen, werden mit Pop-Punk, Shoegaze, Dream Pop, Synth-Pop und Elementen des Black-Metal in der Struktur verarbeitet. Entstanden ist ein Werk, das mich stellenweise an die Kompositionen von Coheed And Cambria erinnert, nur mit mehr space-y Themes.
 
-::genre::pop punk, shoegaze, dreampop, synth pop, avantgarde black metal
+::genre::pop punk, shoegaze, dreampop, synth pop, avant black metal
 
 ## Be Still The Earth, Dear Gravity - Anodyne + Afterglow
 
 Die Kollaboration zwischen dem amerikanischen Producer Marshall Usinger (Be Still The Earth) und dem amerikanischen Producer Mike Graff (Dear Gravity) startete 2021 mit der EP "Anodyne". Dieses Release enthält die EP, zwei Remixe (Elskavon, Hammock) und Neues. Cinematic-Ambient, welcher Farben des Ambient-Post-Rock annehmen kann, wodurch der Remix von Hammock Sinn ergibt, denn genau an diese erinnern mich die Kompositionen immer.
 
-::genre::cinematic ambient, post rock
+::genre::cine ambient, post rock
 
 ## Betterov - Große Kunst
 
@@ -72,7 +72,7 @@ Das norwegische Kollektiv, mit dem kontroversen Namen, bringt neue Kompositionen
 
 Der texanische Producer und Singer & Songwriter Juwan Elcock aka Blk Odyssy mit seinem neuesten Werk. Wieder bringt eine Mixtur aus verschiedenen Hip-Hop-Corners, Soul, R&B, Rock und Funk zum Leben.
 
-::genre::hip hop, trip hop, r&b, neo soul, alternative pop, acid funk
+::genre::hip hop, trip hop, r&b, neo soul, alt pop, acid funk
 
 ## Caskets - The only Heaven you’ll know
 
@@ -84,13 +84,13 @@ Das UK-Based-Outfit mit seinem neuesten Release. Post-Hardcore wird Elementen de
 
 Die routinierten Schweden mit neuen Kompositionen. Man kann sie dem Old-School-Death zuweisen, allerdings würde ich sie klar dem Death-Thrash zuweisen, da die Kompositionen mehr Attitüde des Punk in Produktion und Songwriting widerspiegeln.
 
-::genre::old school death metal, thrash metal
+::genre::osdm, thrash metal
 
 ## Circles Around The Sun - Interludes for the Dead: Volume 2
 
 10 Jahre nach “Interludes for the Dead” bringt die amerikanische Jam-Band die Fortsetzung dieses Projekts ans Tageslicht. Ursprünglich entstanden aus einer Jam-Session, um Pausen-Musik für die “The Grateful Dead” Tour zu komponieren, wurde ein klassisches Werk des Instrumental-Psych-Rocks.
 
-::genre::jam band, psychedelic rock, instrumental
+::genre::jam band, psych rock, instrumental
 
 ## Clark - Steep Stims
 
@@ -102,7 +102,7 @@ Der britische Producer und DJ Christopher Clark mit einem neuen Output. In gewoh
 
 Neues vom UK-Based Quartett. Doom-y, space-y Goth-Rock, welcher mit Elementen des Prog-Rock, Post-Punk, Krautrock und Post-Sludge versehen wird. Avantgardisches und elegant-energiereiches Songwriting mit einer starken Produktion.
 
-::genre::progressive rock, post punk, krautrock, post sludge metal, avantgarde metal
+::genre::prog rock, post punk, krautrock, post sludge metal, avant metal
 
 ## Danny Brown - Stardust
 
@@ -168,7 +168,7 @@ Das dritte Werk der australischen Singer & Songwriterin Harriette Pilbeam (Hatch
 
 Die Fuzzer aus Berlin mit ihrem (überraschenden) neuen Werk, was das zweite Release in diesem Jahr darstellt. Bereits im Vorgänger haben sie mehr auf Psych-Rock und Space-Rock gesetzt und weichen auch in diesem Werk nicht davon ab. Ihre Stoner-Wurzeln sind noch zu vernehmen, aber nicht mehr in der strukturellen Front.
 
-::genre::psychedelic rock, space rock, stoner rock
+::genre::psych rock, space rock, stoner rock
 
 ## Kali Malone, Drew McDowall - Magnetism
 
@@ -180,13 +180,13 @@ Eine weitere Kollaboration zwischen der amerikanischen Komponistin Kali Malone u
 
 Das belgische Trio bringt in seinem dritten Release ein paar Gäste mit, welche die instrumentalen Kompositionen mit ihren Künsten erweitern. Entstanden ist ein europäisch-inspiriertes Werk des Prog-Rock, welches, nicht unerwartet, Elemente des Space Rock, Krautrock und Psych-Rock in eleganter Art und Weise in das Songwriting integriert.
 
-::genre::progressive rock, psychedelic rock, space rock, krautrock
+::genre::prog rock, psych rock, space rock, krautrock
 
 ## Kariti - Still Life **
 
 Die russische Poetin, Producerin und Musikerin mit ihrem neuesten Output. Ich würde es im Groben dem Ambient-Folk zuweisen, allerdings birgt dieses Werk durchaus mehr. Avant-Rock, Drone, Neo-Classic und gar Elemente des Shoegaze kann man in den Songstrukturen wieder finden.
 
-::genre::ambient folk, neo classic, drone, avantgarde rock, shoegaze
+::genre::ambient folk, neo classic, drone, avant rock, shoegaze
 
 ## Klangkarussell - Petrichor
 
@@ -198,7 +198,7 @@ Das österreichische Duo mit seinem neuesten Werk. Mit stimmlicher Unterstützun
 
 Der amerikanische Singer & Songwriter mit einen neuen Exkurs in seinem Schaffen. Track #1 ist eine eher klassische Komposition des Indie-Folk, wobei Track #2 mit seinen ~75 Minuten eine Meditation des Ambient und Field-Recordings abbildet.
 
-::genre::ambient, field recordings, indie folk, psychedelic folk
+::genre::ambient, field recordings, indie folk, psych folk
 
 ## Matteo Paggi, Maria Faust, Tilo Weber - Morgenbarn
 
@@ -216,13 +216,13 @@ Die amerikanische Singer & Songwriterin und Gospel-Sängerin mit ihrem neuesten 
 
 Die texanische Kapelle mit ihrem sechsten Output. Folk-Rock, welcher mit einer gewissen Emotion auch die Grenzen des Mello-Folk streift und mit den dreamy Kompositionen auch eine Art des Indie-Folk nicht von sich weisen kann.
 
-::genre::indie folk, folk rock, melodramatic folk, dreampop
+::genre::indie folk, folk rock, mellow folk, dreampop
 
 ## Møtrik - Earth *
 
 Das Konsortium aus Portland mit seinem neuesten Werk. Krautrock, welcher die Welten des Space Rock, Psych Rock und Post-Punk mit in sein Universum integriert.
 
-::genre::psychedelic rock, space rock, post punk, krautrock
+::genre::psych rock, space rock, post punk, krautrock
 
 ## MSDOS - Unnoticed: MSDOS
 
@@ -246,7 +246,7 @@ Das Projekt um den amerikanischen Singer & Songwriter Thomas Howard mit seinem z
 
 Das neueste Werk der amerikanischen Band. Geliebt werden sie durch ihre experimentelle Art und Weise, welche auch auf diesem Release seine Spuren hinterlässt. So wird ein Indie-Pop Song im Anschluß sofort von einen sludgy Hardcore-Punk-Track zerfetzt, um im Nachgang von einen Alt-Rock Song abgelöst.
 
-::genre::indie pop, noise rock, avantgarde rock, sludge rock, alternative rock, hardcore punk
+::genre::indie pop, noise rock, avant rock, sludge rock, alt rock, hardcore punk
 
 ## Pupil Slicer - Fleshwork
 
@@ -258,19 +258,19 @@ Das UK-Based Trio mit seinem neuesten Werk. Eine intelligente Melange aus Post-H
 
 Das Projekt um den amerikanischen Singer & Songwriter Ben Cooper mit der Fortsetzung seiner Mixtape Serie, welche mehr Experimente in Produktion und Songwriting zulässt. So werden Indie-Rock, Indie-Folk, Alt-Folk, Alt-Rock und Dream Pop in den Kompositionen erlaubt.
 
-::genre::indie rock, indie folk, alternative folk, alternative rock, dreampop
+::genre::indie rock, indie folk, alt folk, alt rock, dreampop
 
 ## Robert Rich, Markus Reuter - Incubation
 
 Die Kollaboration zwischen den amerikanischen Producer und Komponisten Robert Rich und den deutschen Multi-Instrumentalisten Markus Reuter verwöhnt das Ohr mit einer theatralischen Darbietung des Ambient und Drone, welche effektreich von analog Instrumentalisierungen der Gitarre, des Pianos und der Flöte begleitet wird.
 
-::genre::ambient accoustic, drone
+::genre::ambient acoustic, drone
 
 ## Sabine McCalla - Don’t call me Baby
 
 Das neueste Release der amerikanischen Singer & Songwriterin. Sie bindet in ihre Alt-Soul Kompositionen Rock’n’Roll, Surf-Rock, Folk, Gospel, Indie-Pop und allerhand Americana.
 
-::genre::alternative soul, surf rock, rock'n'roll revival, alternative folk, gospel, indie pop, americana
+::genre::alt soul, surf rock, rock'n'roll revival, alt folk, gospel, indie pop, americana
 
 ## Sarathy Korwar - There is Beauty, There already
 
@@ -282,13 +282,13 @@ Der UK-Based Drummer, Percussionist und Komponist mit neuem Klangmaterial. Percu
 
 Der renommierte britische Jazz-Drummer, welcher mit Polar Bear bereits Meilensteine gelegt hat im Jazz, hier mit dem Debüt seines neuesten Projekts “Finding Ways”. Ein instrumentales Werk, welches die Gitarre als Hauptakteur im Fokus hat. Mit dem bizarren Drumming von Sebastian Rochford, entsteht eine Melange aus Fusion-Rock, Math-Rock und Prog-Rock.
 
-::genre::jazz fusion, progressive rock, math rock
+::genre::jazz fusion, prog rock, math rock
 
 ## Smalltape - Tangram *
 
 Das Projekt um den deutschen Producer und Multi-Instrumentalisten Philipp Nespital mit seinem neuesten Experiment. Strukturen des Prog-Rock, treffen auf Art-Rock, Industrial und Elementen der Klassik.
 
-::genre::progressive rock, art rock, avantgarde rock, industrial
+::genre::prog rock, art rock, avant rock, industrial
 
 ## Snufmumriko - Sent i November
 
@@ -300,13 +300,13 @@ Neues aus dem Hause des schwedischen Producer Ingmar Wennerberg. Enthalten sind 
 
 Der amerikanische Singer & Songwriter mit einem neuen Release. Mit viel Tiefe wird eine dreamy Spielweise des Indie-Folk zelebriert, welcher durch seine melancholische Art und der träumerischen Stimme von Steve auch in dem Mello-Folk einsortiert werden könnte.
 
-::genre::indie folk, melodramatic folk
+::genre::indie folk, mellow folk
 
 ## Summer Salt - Reside
 
 Das Duo aus Texas mit seinem neuesten Werk. Eine Melange aus Indie-Rock und Surf-Rock mit einer psychedelischen Produktion.
 
-::genre::indie rock, surf rock, psychedelic rock
+::genre::indie rock, surf rock, psych rock
 
 ## Sung - Obsidian
 
@@ -324,25 +324,25 @@ Das Quintett aus Kanada mit seinem neuesten Output. Die Indie-Rock-Kapelle bring
 
 Die ungarische Band mit ihrem neuesten Release. Von ihrem Doom-Folk-Wurzeln ist nur noch der Doom übrig geblieben, was ich persönlich nicht allzu schmerzhaft empfinde. Ich wurde die Kompositionen dem Post-Doom grob zuschreiben. Gespielt wird eine Art des Doom-Metal, mit sludge-y Riffing und der Atmosphäre des Post-Metal. Eine leichte Note des Prog und Psych lassen sich nicht ganz verstecken.
 
-::genre::post doom metal, sludge metal, progressive metal, psychedelic metal
+::genre::post doom metal, sludge metal, prog metal, psych metal
 
 ## The Mon - Songs of Abandon
 
 Das Solo-Projekt des Ufomammut’s Urlo. Gespielt wird eine psychedelische Art des Dark-Folk. Man könnte fast meinen, dass es Ufomammut Unplugged ist.
 
-::genre::dark folk, progressive folk, psychedelic folk
+::genre::dark folk, prog folk, psych folk
 
 ## The Mountain Goats - Through this Fire across from Peter Balkan *
 
 Die amerikanische Kapelle mit ihrem neuesten Release. Ein “Full-On-Musical”, welches Protagonisten Captain Peter Balkan verfolgt. Die Indie-Folker werden auf ihre alte Tage immer Proggier, ohne dabei jedoch den Indie-Folk zu vernachlässigen.
 
-::genre::indie folk, progressive folk
+::genre::indie folk, prog folk
 
 ## The Rumour Said Fire - Lyset Mit Navn
 
 Das dänische Outfit mit seinen neuesten Kompositionen. Indie-Rock wird melancholisch in eine Melange aus Folk und Alt-Folk eingebettet.
 
-::genre::alternative folk, country folk, indie rock
+::genre::alt folk, country folk, indie rock
 
 ## Thisquietarmy, Otay:onii - Serpents and Shallows *
 
@@ -384,13 +384,13 @@ Der amerikanische Producer Clayton Bullard aka Trevor Something mit seinem neues
 
 Das deutsche Gestirn mit seinem Sophomore Release. Die Kapelle versteht exzellent Prog-Rock mit Post-Metal und Black-Metal zu vereinen. Entstanden ist ein dunkles Werk des Prog, mit erstklassigen Songwriting und einer entsprechenden Produktion.
 
-::genre::progressive rock, post metal, post black metal
+::genre::prog rock, post metal, post black metal
 
 ## Waldgeflüster - Knochengesänge *
 
 Neues Geflüster aus dem Walde. Die deutschen Black-Metaller machen es den Amerikanern um Panopticon nach und veröffentlichen ein Zweigespann. Das erste Werk hier bildet ihre übliche Kombination von Melodic-Black-Metal und Folk-Hintergründen, mit einer symphonischen Instrumentalisierung ab. Wie auch bei Panopticon in diesem Jahr, kann ich mit diesem Teil mehr anfangen.
 
-::genre::melodic black metal, post black metal
+::genre::melo black metal, post black metal
 
 ## Waldgeflüster - Knochengesänge II
 
@@ -402,7 +402,7 @@ Hier das zweite Werk der deutschen Melodic-Black-Metaller im puren Gewand des Ne
 
 Die kanadische Indie-Pop Band mit ihrem neuesten Release. So sehr ich ihren experimentellen Style in Live und Stream Formaten mag und ein heimlicher Fan von Sarah Blackwood bin, so kann ich meist mit ihren Studio-Releases wenig anfangen. Ihr Style des Loopings wird zwar auch da angewandt, allerdings in einer sehr klinischen Umgebung.
 
-::genre::experimental pop, experimental folk, alternative folk
+::genre::experimental pop, experimental folk, alt folk
 
 ## White Lies - Night Light
 
@@ -414,7 +414,7 @@ Die Briten sind mit neuem Material am Start. Mit ihrem Mix aus Indie-Rock, New W
 
 Das amerikanische Duo mit seinem neuesten Werk. Ein psychedelischer Wegweiser des Indie-Pop, mit Ausflügen in den Indie-Folk und Pop-Rock. Alles wird elegant verpackt in eine 70s influenced Pop-Rock-Produktion.
 
-::genre::psychedelic pop, indie pop, indie folk, pop rock
+::genre::psych pop, indie pop, indie folk, pop rock
 
 ## Xenia Reaper - Nept Polarisation
 
@@ -430,19 +430,19 @@ Die deutsche Producerin mit ihrem neuesten Output. Ein Werk der Glitch Electroni
 
 Die routinierten Niederländer mit ihrem neuesten Release. Neo-Prog, welcher mit einer Portion Psych-Rock und Space-Rock ausgerüstet wird.
 
-::genre::neo progressive rock, psychedelic rock, space rock
+::genre::neo prog rock, psych rock, space rock
 
 ## Lore. - Mug
 
 Das Debüt des LA-Based Producer und Multi-Instrumentalisten Jake Supple. Alt-Rock, welcher mit Indie-Rock und Post-Grunge zu einer Komposition vereint wird.
 
-::genre::alternative rock, indie rock, post grunge
+::genre::alt rock, indie rock, post grunge
 
 ## Strayline. - Lustre
 
 Das Projekt Pittsburgh mit seinem dritten Release. Alt-Rock, welcher mit einer Note des Post-Grunge und Shoegaze versehen wird. In manchen Kompositionen werden gar Elemente der Electronica und des Post-Rocks aufgegriffen.
 
-::genre::alternative rock, post grunge, shoegaze, grungegaze
+::genre::alt rock, post grunge, shoegaze, grungegaze
 
 ## Yndling - Time Time Time (I’m in the Palm of your Hand) *
 
@@ -460,13 +460,13 @@ Der deutsche Multi-Instrumentalist und Komponist mit seinem neuesten Album. Auch
 
 Das Projekt um den Portland-Based Multi-Instrumentalist Cliff Barnes mit seinem neuesten Output. Shoegaze wird mit Alt-Rock und Post-Grunge in eine Komposition verpackt. Ein sehr raues Werk durch die LoFi/Bedroom Produktion.
 
-::genre::shoegaze, alternative rock, post grunge, lofi, bedroom pop
+::genre::shoegaze, alt rock, post grunge, lofi, bedroom pop
 
 ## Young Oceans - Love like Raindrops made of Light
 
 Die Nashville Band mit ihrem neuesten Werk, welches eine Fortsetzung zu “Somehow” (2024) darstellen soll. Wie beim “Vorgänger” werden auch hier Fragmente von “Leftovers” in Komposition gebracht. Ein recht experimentelles Werk des Alt-Folk.
 
-::genre::alternative folk
+::genre::alt folk
 
 ## Ian Hawgood - We are but Dream
 

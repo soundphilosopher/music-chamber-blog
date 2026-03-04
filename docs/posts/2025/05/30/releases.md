@@ -20,7 +20,7 @@ Der italienische Komponist mit seinem neuesten Werk. Ambient gehaltene Neo-Class
 
 Das kanadische Fünf-Menschen-Gespann mit ihrem neuesten Release. Alt-Folk der experimentellen Art.
 
-::genre::alternative folk
+::genre::alt folk
 
 ## Anzv - Kur
 
@@ -34,7 +34,7 @@ Die portugiesische Combo mit einem neuen Output. Blackened Death Metal mit ein p
 
 Das britische Acht-Menschen-Gespann mit ihrem aktuellen Release. Man kann es vermutlich am besten als Indie-Folk bezeichnen, in seiner eigenen progressiven Art, welche minimalistische Electronica und Klassik zulässt.
 
-::genre::indie folk, progressive folk
+::genre::indie folk, prog folk
 
 ## Stefan Pasborg Trio - Dear Alex
 
@@ -70,7 +70,7 @@ Die schwedische Sound-Künstlerin mit einem neuen Experiment. Voll improvisierte
 
 Die amerikanische Technical Death Metal Kapelle mit ihrem neuesten Output. Wenn man Freude an der modernen, progressiven Art des Death Metal hat, dann wird man auch Freude an diesem Werk haben.
 
-::genre::technical death metal, progressive death metal
+::genre::tech death metal, prog death metal
 
 ## Fake Blood - Rooftops
 
@@ -106,7 +106,7 @@ Der französische Pianist mit seinem neuesten Werk. Minimalistische Neo-Klassik,
 
 Das amerikanische Quartett mit seinem neuesten Release. Shoegaze mit einer ordentlichen Portion des Psychedelic-Indie-Rock.
 
-::genre::shoegaze, psychedelic rock, indie rock
+::genre::shoegaze, psych rock, indie rock
 
 ## Kyle Dion - Soular
 
@@ -118,7 +118,7 @@ Der amerikanische Soul- und R&B Künstler mit seinem neuesten Release. Moderne S
 
 Das amerikanische Trio mit ihrem neuesten Output. Indie-Folk trifft auf Alt-Folk.
 
-::genre::indie folk, alternative folk
+::genre::indie folk, alt folk
 
 ## Laura Cannell - LyreLyreLyre
 
@@ -154,37 +154,37 @@ Die amerikanische Heavy-Formation mit ihrem Debüt. Ein gelungener Mix aus Screa
 
 Der Sänger von The National mit seinem Sophomore Solo-Release. The National lässt sich als Quelle der Inspiration sicherlich, im Songwriting, nicht verstecken. Moderne Indie-Rock-Kompositionen, mit einer Portion des Alt-Pop.
 
-::genre::indie rock, alternative pop
+::genre::indie rock, alt pop
 
 ## Mike Lazarev - Tarnished Tapes and Saturated Signals
 
 Der britische Komponist und Produzent mit seinem neuesten Output. Eine Symbiose des Ambient-Drone, Cinematic-Ambient und atmosphärischen Field-Recordings.
 
-::genre::cinematic ambient, field recordings, drone
+::genre::cine ambient, field recordings, drone
 
 ## Miley Cyrus - Something Beautiful **
 
 Die amerikanische Singer & Songwriterin mit ihrem neuesten Werk. Wenn eine Künstlerin an die Gesangs-Facetten von Stevie Nicks herankommt, dann ist es Miley.
 
-::genre::introspective pop, alternative pop, pop rock
+::genre::introspective pop, alt pop, pop rock
 
 ## Mt. Joy - Hope we have Fun
 
 Die amerikanischen Indie-Rocker mit ihrem neuesten Release. Ihr bekannter Mix aus Indie-Rock und Alt-Folk kann den Zuhörer verzaubern, wenn das Genre gemocht wird.
 
-::genre::indie rock, alternative folk
+::genre::indie rock, alt folk
 
 ## North Sea Radio Orchestra - Special Powers
 
 Die britische Kapelle mit ihrem neuesten Output. Das Kammerorchester mit ihrem bekannten Mix aus Kammermusik und Alt-Folk.
 
-::genre::chamber music, alternative folk
+::genre::chamber music, alt folk
 
 ## Obsidian Tongue - Eclipsing Worlds of Scorn *
 
 Die amerikanischen Black-Metaller mit ihrem neuesten Streich. Black Metal der progressiven Art mit atmosphärischen Einlagen, sowie Post-Metal und Psychedelic-Einflüssen.
 
-::genre::black metal, post metal, psychedelic metal
+::genre::black metal, post metal, psych metal
 
 ## Petite League - Dead Star City Tours
 
@@ -214,13 +214,13 @@ Das schwedische Melo-Death-Outfit mit einem neuen Release. Old-School Death Meta
 
 Die Amerikaner mit ihrem neuesten Streich. Progressive Technical Death Metal, welcher mit einer überragenden Produktion und genialem Songwriting den Zuhörer begeistern kann.
 
-::genre::progressive death metal, technical death metal
+::genre::prog death metal, tech death metal
 
 ## Romance - Love is colder than Death
 
 Das britische Projekt mit seinem neuesten Output. Dark-Cinematic-Ambient, welcher sich wie ein Soundtrack zu David Lynch anfühlt. Musik an, Augen zu und den Film genießen.
 
-::genre::dark ambient, cinematic ambient
+::genre::dark ambient, cine ambient
 
 ## Sally Shapiro - Ready to live a Lie
 
@@ -244,7 +244,7 @@ Die amerikanische Post-Hardcore-Kapelle mit ihrem neuesten Release. Starkes Song
 
 Die amerikanischen Experimental Rocker mit ihrem neuesten Werk. Elemente des Post-Rock, Alt-Folk, Alt-Rock, Noise-Rock und Psychedelic werden in den Kompositionen verarbeitet.
 
-::genre::post rock, alternative folk, alternative rock, art rock, noise rock, psychedelic rock
+::genre::post rock, alt folk, alt rock, art rock, noise rock, psych rock
 
 ## Sylvain Darrifourcq, Manuel Hermia, Valentin Ceccaldi - Unicorn and Flexibility
 
@@ -256,7 +256,7 @@ Das Kollektive aus dem Jazz-Drummer Sylvain Darrifourcq, dem Jazz-Saxophonist Ma
 
 Die amerikanische Big Band mit ihrem neuesten Release. Fusion Jazz, welcher Elemente des Psychedelic, Soul, Afro-Beat und Doom-Rock in Komposition bringt.
 
-::genre::jazz fusion, psychedelic rock, soul, r&b, afrobeat, doom rock
+::genre::jazz fusion, psych rock, soul, r&b, afrobeat, doom rock
 
 ## The Dead Daisies - Lookin’ for Trouble
 
@@ -268,31 +268,31 @@ Die australische Band mit ihrem neuesten Werk. Southern-Blues-Rock, welcher Band
 
 Das aus der Asche von At The Gates entstandene Melo-Death-Outfit mit ihrem neuesten Release. Das Release braucht sich nicht hinter ihrem Erfolg “Revolver” verstecken. Fans des Gothenburg-Sound kommen hier voll auf ihre Kosten.
 
-::genre::melodic death metal
+::genre::melo death metal
 
 ## Ty Segall - Possession *
 
 Der amerikanische Multi-Instrumentalist mit seinem neuesten Output. Den 60er angelehnter Mix aus Psychedelic, Beat, Prog-Folk und Garage Rock.
 
-::genre::psychedelic rock, indie rock, progressive folk, garage rock
+::genre::psych rock, indie rock, prog folk, garage rock
 
 ## Vildhjarta - + där skogen sjunger under evighetens granar + *
 
 Die schwedische Progressive Metal Kapelle mit ihrem neuesten Release. Fans des Djent-Styles werden an diesem Release nicht vorbeikommen. Starkes Songwriting und exemplarische Produktion.
 
-::genre::progressive metal, djent
+::genre::prog metal, djent
 
 ## Will Epstein, Dave Harrington - Wine Picture
 
 Die Kollaboration von Songwriter Will Epstein und dem Multi-Instrumentalist Dave Harrington (Darkside) verarbeitet auf diesem Release eine Mixtur aus “Coffee Jazz”, Electronica, Ambient, Post-Bop und Alt-Rock.
 
-::genre::coffee jazz, electronica, ambient, post bop, alternative rock
+::genre::coffee jazz, electronica, ambient, post bop, alt rock
 
 ## Wolves At The Gate - Wasteland
 
 Das amerikanische Metalcore-Outfit mit seinem neuesten Release. Moderner Metalcore mit progressiven Strukturen.
 
-::genre::modern metalcore, progressive metal
+::genre::modern metalcore, prog metal
 
 # Earlier this week …
 
@@ -318,7 +318,7 @@ Die niederländischen Modern Metaller mit ihrem neuesten Release. Modern Metalco
 
 Das kanadische Fusion-Jazz-Outfit mit seinem neuesten Release. Es werden Progressive-Metal und Modern-Jazz in Komposition gebracht.
 
-::genre::jazz fusion, progressive metal, modern jazz
+::genre::jazz fusion, prog metal, modern jazz
 
 ## Sleeping At Last - Atlas: Reach
 
@@ -342,4 +342,4 @@ Das Projekt um den spanischen Komponisten mit einem neuen Release. Neo-Klassisch
 
 Das niederländische Melodic Black Metal Duo mit seinem neuesten Release. Fans des Genre kommen hier voll auf ihre Kosten. Symphonische Elemente werden mit Black-/Death-Metal und Progressiven Elementen in Klang gebracht.
 
-::genre::melodic black metal, symphonic black metal, blackened death metal, progressive metal
+::genre::melo black metal, symphonic black metal, blackened death metal, prog metal

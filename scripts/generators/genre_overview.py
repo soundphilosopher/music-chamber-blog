@@ -38,7 +38,9 @@ SPELLING_MAP = {
     "lofi": "LoFi", "rock'n'roll": "Rock'n'Roll", "uk": "UK", "edm": "EDM", "idm": "IDM",
     "ebm": "EBM", "ibm": "IBM", "dsbm": "DSBM", "rabm": "RABM", "nwobhm": "NWOBHM", "nwoahm": "NWOAHM",
     "j-pop": "J-Pop", "j-rock": "J-Rock", "j-folk": "J-Folk", "d-beat": "D-Beat", "r&b": "R&B", "avant-garde": "Avant-Garde",
-    "avantgarde": "Avant-Garde", "scifi": "SciFi", "sci-fi": "SciFi", "ndw": "Neue Deutsche Welle"
+    "avantgarde": "Avant-Garde", "scifi": "SciFi", "sci-fi": "SciFi", "ndw": "Neue Deutsche Welle", "avant": "Avant-Garde",
+    "prog": "Progressive", "alt": "Alternative", "psych": "Psychedelic", "atmo": "Atmospheric", "melo": "Melodic",
+    "mellow": "Melodramatic", "cine": "Cinematic", "tech": "Technical", "osdm": "Old School Death Metal",
 }
 
 

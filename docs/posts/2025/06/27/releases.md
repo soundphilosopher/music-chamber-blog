@@ -26,7 +26,7 @@ Genre: Pop Punk
 
 Genre: Alt-Pop, Electronica, Neo-Classic
 
-::genre::alternative pop, electronica, neo classic
+::genre::alt pop, electronica, neo classic
 
 <!-- more -->
 
@@ -34,37 +34,37 @@ Genre: Alt-Pop, Electronica, Neo-Classic
 
 Genre: Psychedelic Funk, Soul-Funk, Indie-Funk
 
-::genre::psychedelic rock, acid funk, acid soul, neo soul
+::genre::psych rock, acid funk, acid soul, neo soul
 
 ## Awaken I Am - The Only Way Out Is Through
 
 Genre: Modern Progressive Metal, Post-Hardcore
 
-::genre::post hardcore, modern progressive metal
+::genre::post hardcore, prog metal, modern metal
 
 ## BC Camplight - A Sober Conversation
 
 Genre: Alternative Rock, Indie Rock
 
-::genre::alternative rock, indie rock
+::genre::alt rock, indie rock
 
 ## Blood Vulture - Die Close
 
 Genre: Alt-Metal
 
-::genre::alternative metal
+::genre::alt metal
 
 ## Blood Vulture - Die Close
 
 Genre: Alt-Metal
 
-::genre::alternative metal
+::genre::alt metal
 
 ## Cabin - Ripples
 
 Genre: Alt-Indie, Indie-Folk
 
-::genre::alternative indie, indie folk
+::genre::alt indie, indie folk
 
 ## Cheer-Accident - Admission
 
@@ -88,7 +88,7 @@ Genre: Thrash-Death-Metal
 
 Genre: Soundtrack, Electronica
 
-::genre::cinematic electronica
+::genre::cine electronica
 
 ## Melaine Dalibert, David Sylvain - Vermillion Hours
 
@@ -136,13 +136,13 @@ Genre: Post-Rock, Shoegaze
 
 Genre: Alt-Pop, Alt-Indie
 
-::genre::alternative pop, alternative rock, indie rock
+::genre::alt pop, alt rock, indie rock
 
 ## G. Love & Special Sauce - G. Love has gone Country
 
 Genre: Blues, Country
 
-::genre::blues, alternative country, americana
+::genre::blues, alt country, americana
 
 ## Greet Death - Die In Love
 
@@ -160,7 +160,7 @@ Genre: Modern Classic
 
 Genre: Melodic Death Metal, Metalcore
 
-::genre::melodic death metal, metalcore
+::genre::melo death metal, metalcore
 
 ## Helena Hauff, F#X, Black Sites - R4
 
@@ -184,7 +184,7 @@ Genre: Post-Hardcore, Easycore
 
 Genre: Alternative Metal, Nu-Metal
 
-::genre::alternative metal, nu metal
+::genre::alt metal, nu metal
 
 ## Inhuman Condition - Mind Trap
 
@@ -214,25 +214,25 @@ Genre: Contemporary Jazz
 
 Genre: Doom, Psychedelic Rock
 
-::genre::doom rock, psychedelic rock
+::genre::doom rock, psych rock
 
 ## Pan-American & Kramer - Interior of an Edifice under the Sea
 
 Genre: Ambient, Instrumental Cinematic Rock
 
-::genre::ambient, cinematic rock, instrumental
+::genre::ambient, cine rock, instrumental
 
 ## Laleh - Jag Är
 
 Genre: Alt-Pop
 
-::genre::alternative pop
+::genre::alt pop
 
 ## Laura Stevenson - Late Great
 
 Genre: Alternative Rock, Indie-Folk
 
-::genre::alternative rock, indie folk
+::genre::alt rock, indie folk
 
 ## Lord Belial - Unholy Trinity
 
@@ -244,7 +244,7 @@ Genre: Nordic Black Metal
 
 Genre: Pop
 
-::genre::introspective pop, alternative pop
+::genre::introspective pop, alt pop
 
 ## Herbert & Momoko - Clay
 
@@ -262,7 +262,7 @@ Genre: Drone, Post-Metal, Experimental
 
 Genre: Classic Progressive Rock
 
-::genre::progressive rock
+::genre::prog rock
 
 ## Putridity - Morbid Ataraxia
 
@@ -280,13 +280,13 @@ Genre: Post-Punk, Indie-Rock
 
 Genre: Pop, Indie-Pop
 
-::genre::alternative pop, indie pop
+::genre::alt pop, indie pop
 
 ## Shadow Of Intent - Imperium Delirium
 
 Genre: Technical Death Metal, Deathcore
 
-::genre::technical death metal, deathcore, brutal death metal
+::genre::tech death metal, deathcore, brutal death metal
 
 ## Silverlake Murder - Blackout
 
@@ -310,13 +310,13 @@ Genre: Thrash Metal
 
 Genre: Indie-Folk, Alt-Folk
 
-::genre::indie folk, alternative folk
+::genre::indie folk, alt folk
 
 ## Spider Kitten - The Truth is caustic to Love
 
 Genre: Psychedelic Rock, Space Rock, Sludge
 
-::genre::psychedelic rock, space rock, sludge metal
+::genre::psych rock, space rock, sludge metal
 
 ## Sun Glitters - Ascend.
 
@@ -368,7 +368,7 @@ Genre: R&B, Soul
 
 Genre: Alt-Pop
 
-::genre::alternative pop
+::genre::alt pop
 
 ## nu.un - Awake at 3 am
 
@@ -386,4 +386,4 @@ Genre: Experimental Electronica, Ambient Electronica
 
 Genre: Modern Progressive Metal
 
-::genre::modern progressive metal
+::genre::modern prog metal

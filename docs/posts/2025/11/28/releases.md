@@ -22,7 +22,7 @@ Die italienische Combo mit ihrem neuesten Release. Irgendwo zwischen Sad-Pop-Pun
 
 Die französische Band mit ihrer neuesten philosophischen Hypnose des Post-Black-Metal. Avantgard wie eh und je und doch immer mit der feinen Balance zum Rauen.
 
-::genre::post black metal, avantgarde black metal
+::genre::post black metal, avant black metal
 
 <!-- more -->
 
@@ -30,7 +30,7 @@ Die französische Band mit ihrer neuesten philosophischen Hypnose des Post-Black
 
 Das kanadische Projekt um den Alixisonfire Gitarristen Dallas Green mit nicht wirklich Neuen, aber Neu-Interpretationen zum 20sten Geburtstag seines Erstlings “Sometimes”. Rein instrumentelle Interpretationen, welche sich weit von dem Acoustic-Folk des Originals abheben. Ich würde die Neu-Interpretationen dem Cinematic-Ambient oder Mello-Ambient zuordnen. So wirken die Neu-Interpretationen wie neue Kompositionen, wenn man das Projekt nicht kennt.
 
-::genre::melodramatic folk, cinematic ambient
+::genre::mellow folk, cine ambient
 
 ## Dominique Charpentier - Portraits
 
@@ -48,19 +48,19 @@ Der britische Producer, Komponist und Multi-Instrumentalist Dominic Canning (Doo
 
 Der deutsche Producer mit seinem neuesten Werk. Cinematic-Ambient, welcher Ab und An auch Elemente des Field-Recordings aufnimmt und verarbeitet und am Ende einen KREISlauf des Nachdenkens anregen kann.
 
-::genre::cinematic ambient, field recordings
+::genre::cine ambient, field recordings
 
 ## Harifa - As the pale Sun fades
 
 Das Sophomore Release von dem Projekt der britischen Multi-Instrumentalistin Faye Davis. Atmospheric-Black-Metal, welcher sich mit der “Dunklen Jahreszeit” und dem Effekt von SAD (Seasonal Affective Disorder) auseinandersetzt.
 
-::genre::atmospheric black metal
+::genre::atmo black metal
 
 ## Horses, Not Waving - Every dumb Thing I ever did
 
 Horses scheint ein neues Projekt des umtriebigen italienischen Producer und Multi-Instrumentalisten Alessio Natalizia (Not Waving …)  zu sein. Akustische, wie auch elektrische Gitarren werden in einen Loop aus Ambient und Minimal-Electronica vereint.
 
-::genre::ambient accoustic, minimal electronica
+::genre::ambient acoustic, minimal electronica
 
 ## Janusz Strobel, Paweł Pańta - Janusz Strobel Paweł Pańta
 
@@ -78,13 +78,13 @@ Die britische Singer & Songwriterin mit ihrem neuesten Werk, nach einer siebenj�
 
 Der finnische Komponist und Multi-Instrumentalist mit seinem neuesten Werk. Big-Band-Oriented Afrobeat, welcher mit Elementen des Jazz, der Electronica, des Soul, Pop und Psychedelia verfeinert wird.
 
-::genre::afrobeat, acid jazz, neo soul, psychedelic pop
+::genre::afrobeat, acid jazz, neo soul, psych pop
 
 ## Julie’s Haircut - Radiance Opposition *
 
 Das zehnte Output der italienischen Formation. Neu ist, dass sie eine Sängerin in erster Reihe haben. Was wird dem Ohr geboten? Ein genialer Streich aus Neo-Psychedelia, Art-Rock und Alt-Rock.
 
-::genre::psychedelic rock, art rock, alternative rock
+::genre::psych rock, art rock, alt rock
 
 ## Kyle Dion - Soular (Behind the Sun)
 
@@ -96,13 +96,13 @@ Der amerikanische Singer & Songwriter mit seinem neuesten Werk. Ein Werk des Neo
 
 Das schwedische Duo (Nils Erikson, Anders Lundquist) mit seinem Sophomore Release. Neo-Prog, welcher mit Elementen des Pop ausgerüstet wird und damit Ohrwurm-Charakteristiken besitzt.
 
-::genre::neo progressive rock, progressive pop
+::genre::neo prog rock, prog pop
 
 ## Millie Turner - Looking for Alice
 
 Die britische Singer & Songwriterin mit ihrem neuesten Release. Die emotionale Stimme von Millie wird von Kompositionen des Alt-Pop, Indie-Pop und der Electronica umschmeichelt.
 
-::genre::alternative pop, indie pop, electronica
+::genre::alt pop, indie pop, electronica
 
 ## Mind Prisoner - Less Faith *
 
@@ -114,25 +114,25 @@ Das Sophomore Release des amerikanischen Trios. Kompositionen, welche sich im Sp
 
 Das fünfte Output der deutschen Band. Eine fuzzy Art des Garage-Rock wird geboten, welche verfeinert wird mit poppy Elementen, den Hooks von britischen Indie-Rock und der Aggressivität des Punk.
 
-::genre::garage rock, psychedelic rock, indie rock
+::genre::garage rock, psych rock, indie rock
 
 ## Petey USA - The Yips (A case of)
 
 Der Weg von TikTok zu Capitol Records ist manchmal nicht so weit. im dritten Werk des Comedian und Musiker Peter Martin (Petey USA) verbergen sich Kompositionen des Indie-Folk, Indie-Rock und Emo-Pop, welche mit einer Art des Sarkasmus dargestellt werden.
 
-::genre::indie folk, indie rock, alternative pop
+::genre::indie folk, indie rock, alt pop
 
 ## Phobocosm - Gateway
 
 Die Kanadier sind zurück mit ihrem vierten Release in ihrer Discography. Old School Death Metal, welcher brachial und pur präsentiert und mit ihrer Philosophie ausgestattet ist.
 
-::genre::old school death metal
+::genre::osdm
 
 ## Rie Nakajima, David Toop - Is Spring a Sculpture?
 
 Die Kollaboration zwischen dem japanischen Sound Artist Rie Nakajima und dem britischen Professor of Audio Culture und Improvisation birgt ein Experiment der improvisierten Klang-Spektren von Loops und Percussions.
 
-::genre::experimental accoustic, improvisation
+::genre::experimental acoustic, improvisation
 
 ## Sore Teeth - Sore Teeth
 
@@ -150,7 +150,7 @@ Die deutsche Jazz-Supergroup (KY!) um den XJAZZ Founder und Jazz-Trompeter Sebas
 
 Die Kollaboration zwischen den belgischen Jazz-Drummer Stéphane Galland, der belgischen Jazz-Flötistin Lúcia Pires und der dänischen Jazz-Bassistin Louise van den Heuvel birgt eine Art des Jazz Fusion, welcher mit progressiven Elementen versehen ist und fast schon ein Werk des Neo-Prog darstellen könnte.
 
-::genre::neo progressive rock, jazz fusion
+::genre::neo prog rock, jazz fusion
 
 ## The Town Council - The Damage *
 
@@ -168,13 +168,13 @@ Das kalifornische Producer-Duo “Lemon and Orion” (Thought Beings) mit ihrem 
 
 Der finnische Singer & Songwriter und Gitarrist mit seinem Jahresabschluss. Er hat immer eine Ader für den klassischen Prog-Rock und Fusion in seinen Kompositionen. Allerdings finden sich neben Jazz-Anleihen auch Elemente des Symphonic-Rock und Classic Rock und ein paar Sprenkel von Psych-Rock eingeschlichen und ein gewisses Gefühl zum Pop darf man auch nicht vergessen.
 
-::genre::progressive rock, fusion, symphonic rock, hard rock, heavy rock, psyhedelic rock
+::genre::prog rock, fusion, symphonic rock, hard rock, heavy rock, psych rock
 
 ## Uusi Aika - Luurankolauluja *
 
 Das finnische Viergestirn mit seinem neuesten Werk. In ihrer traditionellen Art und Weise werden Jazz, Folk und World Music fusioniert und ergeben ein fast schon melancholisches Werk, welches Geschichten erzählen könnte.
 
-::genre::contemporary jazz, alternative folk, world music
+::genre::contemporary jazz, alt folk, world music
 
 ---
 
@@ -184,19 +184,19 @@ Das finnische Viergestirn mit seinem neuesten Werk. In ihrer traditionellen Art 
 
 Die argentinische Formation mit dem Start ihres “Bodywork” Konzepts. Ein sehr fragmentelles Werk von Alt-Rock, Elecronica und Post-Grunge in einem sehr minimalistischen Outfit für die angesprochenen Genre.
 
-::genre::post grunge, alternative rock, electronica
+::genre::post grunge, alt rock, electronica
 
 ## группа ил - кража личности *
 
 Das russische Outfit mit seinem neuesten Werk. Die Art-/Avant-Rocker bieten wieder ein weites Bild des Alt-Rock, welches Elemente der Electronica, New-Wave, Trip-Hop, Breakbeat, Art-Pop und Chip-Tune in eine Art Gemälde von Rock und Fusion.
 
-::genre::chiptune, trip hop, breakbeat, art pop, new wave, alternative rock, fusion, electronica
+::genre::chiptune, trip hop, breakbeat, art pop, new wave, alt rock, fusion, electronica
 
 ## Curfew - Black Doll’s Eyes
 
 Das Debüt des irischen Trios. Geboten wird ein gewaltiger Mix aus Alt-Rock, Post-Grunge, Desert-Rock, Neo-Psych und Indie-Rock. Sehr gelungenes Songwriting und eine ausgezeichnete Sängerin, welchen den Kompositionen eine gewisse Stärke mit verleiht.
 
-::genre::alternative rock, post grunge, desert rock, neo psychedelic rock, indie rock
+::genre::alt rock, post grunge, desert rock, neo psych rock, indie rock
 
 ## In Tears - Let it be me *
 

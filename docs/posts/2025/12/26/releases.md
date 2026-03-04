@@ -22,7 +22,7 @@ Das Solo-Projekt der amerikanischen Multi-Instrumentalisten Nick Kays (Signal Co
 
 Die britische Formation mit ihren letzten Klangexperimenten für dieses Jahr. Geführt vom Multi-Instrumentalisten Miles Newbold wird ein Werk des Psych-Jazz, mit Wurzeln zu Fusion und UK-Jazz durch die Gehörgänge gejagt.
 
-::genre::psychedelic jazz, modern jazz, uk jazz, jazz fusion
+::genre::psych jazz, modern jazz, uk jazz, jazz fusion
 
 <!-- more -->
 
@@ -40,7 +40,7 @@ Zum Jahresende begnügt uns der britische Producer, Jazz-GItarrist  und Komponis
 
 Der britische Singer & Songwriter mit einer Veröffentlichung von “Official Unreleased Tracks” zu seinem 60ten Bühnenjubiläum. Irgendwo zwischen Grunge Pop, Power Pop, Metal-Folk und Garlic Romance.
 
-::genre::garage pop, progressive pop, baroque pop, power pop
+::genre::garage pop, prog pop, baroque pop, power pop
 
 ## Rena Jones - Love Letters *
 

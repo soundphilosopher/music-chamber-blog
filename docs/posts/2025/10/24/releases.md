@@ -11,13 +11,13 @@ categories:
 
 Der UK-Based Composer und Pianist mit seinem neuesten Kompositionen. Ein Klangwerk des Classical-Ambient und Drone, welches in “88 Keys” geschrieben wurde.
 
-::genre::ambient, cinematic ambient, drone
+::genre::ambient, cine ambient, drone
 
 ## Alice Phoebe Lou - Oblivion
 
 Die südafrikanische Singer & Songwriterin und Multi-Instrumentalistin mit einem neuen Output. Ein bewegender Mix aus Alt-Indie und Alt-Folk mit ein paar Elementen des Electronica.
 
-::genre::alternative indie, alternative folk, electronica
+::genre::alt indie, alt folk, electronica
 
 ## Antibalas - Hourglass *
 

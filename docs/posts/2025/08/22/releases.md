@@ -20,13 +20,13 @@ Die Yorkshire Indie-Rocker mit ihrem neuesten Release. Indie-Rock, welcher mit e
 
 Die “Supagroup” um den Mastodon Drummer Brann Dailor mit ihrem Sophomore Release. Synth-Rock trifft spielerisch auf Progressive-Rock.
 
-::genre::synth rock, progressive rock
+::genre::synth rock, prog rock
 
 ## Ashen - Leave the Flesh behind
 
 Die Australier mit ihrem neuesten Output. Old-School-Death-Metal mit ein paar modernen Ausflügen.
 
-::genre::old school death metal
+::genre::osdm
 
 <!-- more -->
 
@@ -34,7 +34,7 @@ Die Australier mit ihrem neuesten Output. Old-School-Death-Metal mit ein paar mo
 
 Die Band aus North Carolina mit einem neuen Album. Ein gekonnter Mix aus Progressive-Rock, Stoner-Metal und Psychedelica, mit spiritueller Instrumentalisierung.
 
-::genre::progressive rock, stoner metal, psychedelic rock
+::genre::prog rock, stoner metal, psych rock
 
 ## Begging For Incest - Going Postal
 
@@ -46,13 +46,13 @@ Die deutschen Slam-Corer mit einem neuen Werk. Besitzen einen Pionierstatus in d
 
 Der schwedische Singer & Songwriter mit einem neuen Output, das nicht wie aus dieser Zeit klingt. Ein instrumentales Werk, das wie ein Soundtrack zu Spaghetti-Western produziert wurde.
 
-::genre::desert noir, psychedelic folk
+::genre::desert noir, psych folk
 
 ## Blackbriar - A thousand little Deaths
 
 Die niederländische Formation wird von mir immer freundlich mit dem Begriff Kate-Bush-Symphonic-Metal bezeichnet. Nicht vielversprechender, aber solider Symphonic-Metal.
 
-::genre::symphonic metal, progressive pop
+::genre::symphonic metal, prog pop
 
 ## Burning Witches - Inquisition
 
@@ -70,7 +70,7 @@ Das Melo-Hard-Rock-Outfit aus Schweden mit ihrem neuesten Output. Schwedisch gep
 
 Die kalifornischen Horny-Alt-Metaller mit einem neuen Werk. Stabiles Songwriting, mit ihren gewohnten Mix aus Alt-Metal, Nu-Metal und shoegaze-y Gesang, welcher das Thema “I’m so horny” nicht vernachlässigt.
 
-::genre::alternative metal, shoegaze, nu metal
+::genre::alt metal, shoegaze, nu metal
 
 ## Desaster - Kill all Idols
 
@@ -82,7 +82,7 @@ Die deutschen Blackened Thrash-Metaller mit ihrem neuesten Album. Wahnsinnig lan
 
 Die Formation aus UK mit einem neuen Werk. Klingen mit ihren Alt-Rock-Kompositionen wie in den End-90er festgefahren. Ob dies jetzt gut oder schlecht ist, muss jeder Mensch für sich selbst entscheiden.
 
-::genre::alternative rock
+::genre::alt rock
 
 ## Dragonsclaw - Moving Target
 
@@ -94,13 +94,13 @@ Die Australier mit ihrem neuen Release. Klassisch dargebotener NWOBHM, der Mensc
 
 Die dänische “Supagroup” der progressiven Töne hat sich wieder im Studio zusammengefunden zu einer ihrer Improv-Sessions. Was entstanden ist, sind instrumentale Kompositionen des Prog-Rock, Psychedelic, Space-Rock, mit einem spielerischen Hauch des Sludge und Ambient.
 
-::genre::progressive rock, space rock, psychedelic rock, sludge rock, ambient, instrumental
+::genre::prog rock, space rock, psych rock, sludge rock, ambient, instrumental
 
 ## Emma Louise, Flume - Dumb
 
 Die Kollaboration der australischen Singer & Songwriterin Emma Louise und dem australischen Producer Harley Streten aka Flume bietet eine Kombination von Pop, Trap, Trip-Hop und Electronica.
 
-::genre::alternative pop, trap, trip hop, electronica
+::genre::alt pop, trap, trip hop, electronica
 
 ## Farseer - Portals to Cosmic Womb
 
@@ -130,13 +130,13 @@ Zum 25sten Geburtstag von seinem Mega-Erfolg Supreme Clientele bringt der Wu-Tan
 
 Das Projekt um den Singer & Songwriter Mag Duffy aus Kalifornien mit einem neuen Werk. Ich würde es dem Alt-Folk zuweisen, welcher Phasen des Indie-Folk zulässt.
 
-::genre::alternative folk, indie folk
+::genre::alt folk, indie folk
 
 ## Hannah Grace - Bigger Picture
 
 Die walisische Singer & Songwriterin mit ihrem neuesten Output. Ein Mix aus Pop und Nashville-Folk, welcher “zufällig” in Nashville produziert und gemixt wurde.
 
-::genre::country folk, alternative folk, alternative pop
+::genre::country folk, alt folk, alt pop
 
 ## Hot Mulligan - The Sound a body makes when it’s Still
 
@@ -148,7 +148,7 @@ Die Formation aus Michigan mit ihrem neuesten Release. Midwest Emo, welcher die 
 
 Die Kollaboration des isländischen Ehepaars dokumentiert (musikalisch) die Reise eines Paars zu einer Familie. Teils improvisierte, teils inszenierte Komposition von Gitarre und Bass, mit Ambient-Electronica-Sprinkles.
 
-::genre::ambient, electronica, ambient accoustic
+::genre::ambient, electronica, ambient acoustic
 
 ## Hundreds Of AU - Life in Parallel
 
@@ -166,13 +166,13 @@ Die Formation aus LA mit einem neuen Release nach einer “kreativen Pause” vo
 
 Die brasilianische Formation mit ihrem neuen Streich. Progressive-Metal mit starkem Songwriting und überzeugender Produktion.
 
-::genre::progressive metal
+::genre::prog metal
 
 ## James Yorkston - Songs for Nina and Johanna
 
 Der schottische Singer & Songwriter kollaboriert auf seinem neuen Release mit bekannten Namen aus Schweden. Nina Persson von The Cardigans und Johanna Söderberg von First Aid Kit.
 
-::genre::alternative pop, alternative folk, alternative rock
+::genre::alt pop, alt folk, alt rock
 
 ## Kaitlyn Aurelia Smith - Gush
 
@@ -196,7 +196,7 @@ Die isländische Singer & Songwriterin mit ihrer neuesten Komposition. Mit dem M
 
 Der Nashville-Based Gitarrist mit seinem neuesten Output. Ein traumhafter Mix aus Ambient, Drone und Pedal-Steel-Guitar.
 
-::genre::ambient accoustic
+::genre::ambient acoustic
 
 ## Mac DeMarco - Guitar
 
@@ -220,7 +220,7 @@ Die renommierte Produzentin aus Seattle mit nicht wirklich Neuen, sondern mit Re
 
 Die Formation aus Tunesien mit ihrem neuesten Werk. Im Grundtenor dem Hard-Rock ergeben, werden orientalische Instrumentalisierungen mit in die Kompositionen verpackt, was die Tür für des Progressive öffnet.
 
-::genre::hard rock, progressive rock
+::genre::hard rock, prog rock
 
 ## Nourished By Time - The Passionate Ones
 
@@ -244,13 +244,13 @@ Die dänische Blackened-Death-Metal-Formation mit der Fortsetzung des gedachten 
 
 Nach sechs Jahren sind sie wieder da. Das norwegische RIO-Quintett mit neuen Kompositionen des klassischen Avant-Prog-Rock der instrumentalen Art und Weise.
 
-::genre::avantgarde rock, progressive rock
+::genre::avant rock, prog rock
 
 ## Pendulum - Inertia
 
 Nach 15 Jahren ist die UK-based Drum & Bass Band wieder mit neuem Material am Start und ich frage mich wirklich: “War es das wirklich Wert?”; Stadion-Rock trifft auf “Drum & Bass”? Phew … ich behalte sie lieber mit ihrem Debüt in Gedanken.
 
-::genre::hard rock, arena rock, drum & bass, alternative rock
+::genre::hard rock, arena rock, drum & bass, alt rock
 
 ## Pino Palladino, Blake Mills - That wasn’t a Dream
 
@@ -274,7 +274,7 @@ Die Kollaboration zwischen dem LA-Based LoFi-Bedroom-Pop-Artist und der Doom-For
 
 Der kalifornische Künstler unter dem Synonym Sick Bird mit einem neuen Release. Audiotune-Alt-Indie-Rap? Ja, das beschreibt es ziemlich gut, meine ich.
 
-::genre::alternative pop, indie pop, hip hop
+::genre::alt pop, indie pop, hip hop
 
 ## Sign Of The Swarm - To rid myself of Truth
 
@@ -286,7 +286,7 @@ Die Deathcore-Kapelle aus Pennsylvania mit ihrem neuesten Release. Ich habe mich
 
 Nicht die erste Soundtrack-Kollaboration der beiden isländischen Musiker. Cinematic-Folk, mit Ambient, Drone und klassischen Einflüssen.
 
-::genre::cinematic ambient, drone, cinematic folk
+::genre::cine ambient, drone, cine folk
 
 ## Sir Chloe - Swallow the Knife
 
@@ -298,13 +298,13 @@ Die amerikanische Indie-Rock-Formation um die Künstlerin Dana Foote mit einem n
 
 Die LA-Based Band mit ihrem neuesten Output. Psychedelic-Indie-Pop mit genau den Elementen, die Mensch erwartet.
 
-::genre::psychedelic pop, indie pop
+::genre::psych pop, indie pop
 
 ## StrangerS - Boundless
 
 Die spanische Kapelle mit ihrem neuesten Release. Melodic-Hard-Rock mit einer guten Sängerin und “gut gemeinten” aber monotonen Songwriting.
 
-::genre::melodic hard rock
+::genre::melo metal, hard rock, heavy rock
 
 ## Stray Fossa - Blossomer
 
@@ -316,13 +316,13 @@ Die deutsche Indie-Rock-Kapelle mit ihrem neuesten Album und den gewohnten shoeg
 
 Das etablierte Alt-Rock-Outfit aus North Carolina mit einem neuen Werk. Sie konnten schon immer die Menschen begeistern mit ihrem catchy Mix aus Alt-Rock und Indie-Rock.
 
-::genre::alternative rock, indie rock
+::genre::alt rock, indie rock
 
 ## TOPS - Bury the Key
 
 Neues von der Psychedelic-Pop-Formation aus Québec. Psychedelic-Pop der klassischen Art und Weise mit Hang zum Dreampop.
 
-::genre::psychedelic pop, dreampop
+::genre::psych pop, dreampop
 
 ## Takahiro Kido - Insomnia
 
@@ -334,31 +334,31 @@ Der japanische Composer kollaboriert mit seiner eigenen Band, Anoice, auf seiner
 
 Die kalifornische Band mit ihrem neuesten Release. Amerikanischer Indie-Rock mit Interpretationen von Alt-Rock.
 
-::genre::indie rock, alternative rock
+::genre::indie rock, alt rock
 
 ## The Stargazer Lilies - Love Pedals
 
 Die Formation aus Florida mit ihrem neuesten Streich. Eine Expedition durch fuzz-y Psychedelic-Rock mit shoegaze-y Gesang. Starke Produktion und starkes Songwriting.
 
-::genre::psychedelic rock, sludge rock, shoegaze
+::genre::psych rock, sludge rock, shoegaze
 
 ## The World Is A Beautiful Place & I Am No Longer Afraid To Die - Dreams of being Durst
 
 Ein neues Release von der Formation, deren Name mir nie entfällt, aus Pennsylvania. Eine Komposition zwischen Alt-Metal, Nu-Metal und Post-Hardcore, welche eine erfrischend progressive Stimmung erzeugt.
 
-::genre::alternative metal, nu metal, post hardcore, nu metal
+::genre::alt metal, nu metal, post hardcore, nu metal
 
 ## Three Days Grace - Alienation
 
 Die Kanadier, die mit ihren ersten drei Alben immer Platinum-Status erreicht haben, mit ihrem neuesten Output. Die Alt-Metal-/Nu-Metal-Kompositionen werden sicherlich wieder hoch im Trend von Nordamerika sein.
 
-::genre::alternative metal, nu metal
+::genre::alt metal, nu metal
 
 ## Tullycraft - Shoot the Point
 
 Die Band aus Seattle mit ihrem neuesten Werk. Entstanden in den early 90s zaubert diese Band mir immer ein Lächeln ins Gesicht. Twee-Pop welcher auch Elemente des Garage-Rock nicht vermeidet. Jenny Mears hat in ihrer Stimme eine gewaltige Ähnlichkeit zu Zooey Deschanel.
 
-::genre::twee pop, garage rock, progressive pop
+::genre::twee pop, garage rock, prog pop
 
 ## Valentina Magaletti, YPY - Kansai Bruise
 
@@ -370,13 +370,13 @@ Die Kollaboration von der UK-Based Drummerin Valentina Magaletti und dem japanis
 
 Das experimentelle Alt-Rock-Duo aus New York mit neuen Kompositionen. Bedroom-Alt-Rock-Kompositionen werden mit dem ein und anderen Experiment in Klang gebracht.
 
-::genre::alternative rock, bedroom pop
+::genre::alt rock, bedroom pop
 
 ## We Came As Romans - All is Beautiful … because we’re Doomed
 
 Die (Ex?) Metalcore-Formation aus Michigan mit ihrem neuesten Release. Mehr dem Alt-Metal zugewandte Kompositionen, welche auch gern Octanecore genannt werden. Wird seine Fans nicht enttäuschen.
 
-::genre::alternative metal, modern metalcore
+::genre::alt metal, modern metalcore
 
 ## White Mantis - Arrows at the Sun
 
@@ -394,7 +394,7 @@ Nach 13 Jahren haben die Metalcorer aus Georgia ein neues Label gefunden und dam
 
 Die UK-Based Band mit ihrem neuesten Werk. Geboten wird eine etwas progressive Art des Indie-Rock, mit Einflüssen des Folk-Rock. Die Promoter gingen wieder wild mit ihren Advertising um. “Something close to if Fleetwood Mac wrote an album today in North London”.  Ich würde es nicht so beschreiben, aber ich bin auch kein guter Promoter.
 
-::genre::progressive rock, indie rock, folk rock
+::genre::prog rock, indie rock, folk rock
 
 ## Wreck And Reference - Stay Calm
 
@@ -410,7 +410,7 @@ Das Duo aus LA mit seinen neuesten Kompositionen. Als oberstes Element kann man 
 
 Die Kollaboration der drei russischen Producer Øneheart, Dean Korso und leadwave bringt cinematische Ambient-Electronica in den Hauptfokus und verfeinert diese mit akustischen Instrumentalisierungen.
 
-::genre::cinematic ambient, electronica
+::genre::cine ambient, electronica
 
 ## SunYears - The Song Forlorn
 
@@ -434,4 +434,4 @@ Die beiden Barcelona-Based Producer Nueen und Jason Kolàr mit ihrem Beitrag der
 
 Die polnische Band wird gern dem Crossover-Prog-Rock zugerechnet, wobei ich den Crossover-Part nicht ganz nachvollziehen kann. Prog-Rock mit viel Soul.
 
-::genre::crossover, progressive rock, neo soul
+::genre::crossover, prog rock, neo soul

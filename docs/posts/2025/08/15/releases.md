@@ -40,13 +40,13 @@ Das Ambient-Trip-Hop-Duo  aus Amerika mit keinen wirklich neuen Release, sondern
 
 Die Briten mit ihrem neuesten Album. Die Emo-Rocker haben sicherlich das ein oder andere Mal Paramore angehabt, bringen aber dennoch ihren eigenen Sound mit in die Kompositionen.
 
-::genre::emocore, alternative rock, sad pop punk
+::genre::emocore, alt rock, sad pop punk
 
 ## Auri - III - Candles & Beginnings
 
 Die finnischen Prog-Folk-Rocker mit einem neuen Werk. Keltische Song-Strukturen, trifft auf Folk-Rock, trifft auf progressive Gestaltung.
 
-::genre::progressive folk, progressive rock, folk rock
+::genre::prog folk, prog rock, folk rock
 
 ## Baest - Colossal
 
@@ -70,13 +70,13 @@ Der amerikanische DJ und Producer mit einer Art Compilation von Session-Tracks u
 
 Der Singer & Songwriter aus Amerika mit einem neuen Klangwerk. Folkige Sounds treffen auf Indie- und Psych-Rock.
 
-::genre::indie rock, psychedelic rock
+::genre::indie rock, psych rock
 
 ## Chevelle - Bright as Blasphemy *
 
 Das Trio aus Illinois mit einen neuen Output. Post-Grunge mit Hang zum Alt-Rock und ich würde gar Post-Hardcore mit in die Schale werfe. Das Werk wird von guten Songwriting und Produktion begleitet.
 
-::genre::alternative rock, post grunge, post hardcore
+::genre::alt rock, post grunge, post hardcore
 
 ## Conan Gray - Wishbone
 
@@ -106,13 +106,13 @@ Der amerikanische klassische Pianist mit neuen Kompositionen. Klassisches Solo-P
 
 Die Schweizer wissen ihre dunklen Seiten zu vereinen. Mit ihren neuen Album machen sie keine Ausnahme. Ein stimmiger Mix aus Post-Punk, Prog-Rock, Industrial, Art-Rock und Darkwave.
 
-::genre::post punk, progressive rock, industrial, art rock, dark wave
+::genre::post punk, prog rock, industrial, art rock, dark wave
 
 ## Holy Springs - Outside
 
 Das Shoegaze-Outfit aus London mit einem neuen Werk. Shoegazer, welcher Element des Psychedelic-Rock in seine Strukturen aufnimmt.
 
-::genre::shoegaze, psychedelic rock
+::genre::shoegaze, psych rock
 
 ## Hinoku, nu.un, Between The Stars - Nightwalk
 
@@ -130,7 +130,7 @@ Die Band aus Phoenix mit ihrem neuesten Output. Thrash-Metal, dargeboten in eine
 
 Der britische Singer & Songwriter mit einem neuen Werk. Alt-Pop, welcher Acid-Jazz und Alt-Folk zulässt.
 
-::genre::alternative pop, acid jazz, alternative folk
+::genre::alt pop, acid jazz, alt folk
 
 ## Joseph Akins - Songs my Father played
 
@@ -148,19 +148,19 @@ Die Band aus Sydney mit einem neuen Release. Metalic-Hardcore, welcher sicherlic
 
 Der kanadische Producer mit einem neuen Werk der Electronica. Trip-Hop, “Backyard-House” und Alt-Dance werden hier in einen Pott geworfen und auf “die Massen” gelassen.
 
-::genre::electronica, dance, alternative pop
+::genre::electronica, dance, alt pop
 
 ## Marissa Nadler - New Radiations *
 
 Die Singer & Songwriterin aus Nashville mit ihrem neuesten Release. Dark-Alt-Folk, welcher sich bequem mit psychedelischen Elementen begleitet fühlt.
 
-::genre::dark folk, alternative folk, psychedelic folk
+::genre::dark folk, alt folk, psych folk
 
 ## Maroon 5 - Love is Like
 
 Die Alt-Pop-Band aus LA mit einem neuen Album. Kein weiteres Wort.
 
-::genre::alternative pop
+::genre::alt pop
 
 ## Martyr - Dark Believer
 
@@ -178,7 +178,7 @@ Nicht wirklich aktuelles Material von den Schweizer aber “Never-Released” Ma
 
 Die Singer & Songwriterin aus Nashville mit ihrem neuesten Release. Nashville-Folk inspired Indie-Folk. Die Gitarristin verbaut ihre Finger-Picking-Künste gekonnt in ihr catchy Songwriting.
 
-::genre::indie folk, country folk, alternative folk
+::genre::indie folk, country folk, alt folk
 
 ## Mono Inc. - Darkness
 
@@ -190,19 +190,19 @@ Nach dem M’era Luna ist vor dem M’era Luna. Die deutschen Gothic-Rocker mit 
 
 Die irische Formation mit einem neuen Release. Ein spannender Mix aus Noise-Punk, Avant-Punk und Industrial.
 
-::genre::noise punk, avantgarde punk, industrial
+::genre::noise punk, avant punk, industrial
 
 ## Netherlands - Vapors
 
 Das Duo, aus … nah? … natürlich New York, mit seinem neuesten Werk. Sludge trifft auf Prog-Rock, trifft auf Noise-Rock, trifft auf Psychedelic-Rock.
 
-::genre::sludge rock, progressive rock, noise rock, psychedelic rock
+::genre::sludge rock, prog rock, noise rock, psych rock
 
 ## Nuns Of The Tundra - Nuns Of The Tundra
 
 Die UK Band mit ihrem neuesten Release. Groovy Alt-Metal, welcher sich nahtlos dem Nu-Metal zuschreiben lässt, meine ich.
 
-::genre::groove metal, alternative metal, nu metal
+::genre::groove metal, alt metal, nu metal
 
 ## Plaiins - Happy Faces
 
@@ -232,7 +232,7 @@ Das Projekt um Johnny Kelly und Dan Lorenzo mit einem neuen Output. Stoner-Rock 
 
 DIe Straight-Edge-Punker aus Chicago mit ihrem neuesten Release. Im Alter wechselt ihr Sound immer mehr in den Alt-Rock. Trotzdem ich ihr Engagement neben der Band sehr wertvoll finde, ihren “neuen” Style finde ich creepy.
 
-::genre::alternative rock
+::genre::alt rock
 
 ## Slime - 3! + 7¹
 
@@ -244,19 +244,19 @@ Ja, die Hamburger Polit-Punks gibt es immer noch. Das zweite Werk mit dem neuen 
 
 Der amerikanische Singer & Songwriter mit seinem Abschieds-Werk nach einer erfolgreichen, fast 50 Jahre andauernden Karriere. Eine Reflektion im Folk mit einer Menge an (kontroversen) Gästen.
 
-::genre::country folk, alternative folk
+::genre::country folk, alt folk
 
 ## Steve Gunn - Music for Writers
 
 Der amerikanische Singer & Songwriter mit seinem Erstling? als Solo-Künstler. Aufgenommen zwischen Brooklyn, Berlin und Litauen im Minimal-Set. Ambient-Acoustic beschreibt es sich vermutlich am besten.
 
-::genre::minimal ambient, ambient accoustic
+::genre::minimal ambient, ambient acoustic
 
 ## Steve Moore - Jimmy & Stiggs (Original Motion Picture Soundtrack)
 
 Der New-York-Based Producer und Film-Komponist mit dem Soundtrack zum chaotischen Horror-Spektakel Jimmy & Stiggs.
 
-::genre::cinematic modern classic
+::genre::cine modern classic
 
 ## Street Sects - Dry Drunk
 
@@ -268,13 +268,13 @@ Das Duo aus Texas mit seinem neuesten Output. Ich würde es dem Industrial-Metal
 
 Das Projekt um den australischen Producer und Multi-Instrumentalisten Nick Sowersby. Psychedelic-Indie-Pop, mit Einflüssen des Synthwave.
 
-::genre::psychedelic pop, indie pop, synth wave
+::genre::psych pop, indie pop, synth wave
 
 ## The Aces - Gold Star Baby
 
 Die Alt-Pop-Formation mit ihrem neuesten Release. Alt-Pop, welcher Ab und An mit Indie-Pop kollidiert.
 
-::genre::alternative pop, indie pop
+::genre::alt pop, indie pop
 
 ## The Crabs - Years at the Unknown
 
@@ -298,7 +298,7 @@ Die amerikanische Pop-Rock-Band mit ihrem neuesten Output. Pop-Rock meets Pop-Pu
 
 Der französische Producer mit dem Soundtrack zu Serge Lehman’s Werk. Electronica-Cinematic-Ambient beschreibt die Kompositionen zum Futuristic-Movie am Besten.
 
-::genre::cinematic ambient, cinematic electronica
+::genre::cine ambient, cine electronica
 
 ## Unleashed - Fire upon your Lands
 
@@ -310,13 +310,13 @@ Die schwedischen Wiking-Death-Thrasher mit ihrem neuesten Release. Man hört, da
 
 Die Progressive-Metal-Band aus UK mit ihrem neuesten Release. Ich meine, dass sie mal als “Disney Progressive Metal” angepriesen worden sind, was es vermutlich auch nicht ganz so schlecht trifft am Ende.
 
-::genre::progressive metal
+::genre::prog metal
 
 ## Warmen - Band of Brothers
 
 Die finnische Melodic-Death-Metal-Formation mit ihrem neuesten Release. Ihre Zuneigung zum Gothenburg-Sound lässt sich nicht verstecken, so wie es sich nicht verstecken lässt, dass Ex-Members von Children Of Bodom hier wirken.
 
-::genre::melodic death metal
+::genre::melo death metal
 
 ## twaklander - Buntai
 
@@ -332,7 +332,7 @@ Der schweizerische Ambient-Künstler mit einem neuen Werk. Synth-Ambient, welche
 
 Die amerikanischen Folk-Rocker mit ihrem neuesten Release. Folk-Rock, welcher sich ohne Anstrengung mit Alt-Country kombiniert.
 
-::genre::folk rock, alternative country
+::genre::folk rock, alt country
 
 ## Haunt - Ignite
 

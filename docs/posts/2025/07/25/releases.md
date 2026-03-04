@@ -42,7 +42,7 @@ Genre: Country
 
 Genre: Cinematic Ambient
 
-::genre::cinematic ambient
+::genre::cine ambient
 
 ## Emika - Frames
 
@@ -72,7 +72,7 @@ Genre: Dreampop, LoFi, Bedroom Pop
 
 Genre: Indie-Pop, Alt-Pop
 
-::genre::indie pop, alternative pop
+::genre::indie pop, alt pop
 
 ## Folk Bitch Trio - Now would be a good Time
 
@@ -90,7 +90,7 @@ Genre: Jazz, Funk
 
 Genre: Progressive Rock, Alt-Rock
 
-::genre::progressive rock, alternative rock
+::genre::prog rock, alt rock
 
 ## Hemelbestormer - The Radiant Veil
 
@@ -102,7 +102,7 @@ Genre: Post-Rock, Post-Metal, Doom Metal
 
 Genre: Ambient, Acoustic-Electronica
 
-::genre::ambient accoustic, electronica
+::genre::ambient acoustic, electronica
 
 ## Indigo De Souza - Precipice
 
@@ -120,13 +120,13 @@ Genre: Black-Thrash-Metal
 
 Genre: Psychedelic Rock, Spacerock, Krautrock
 
-::genre::psychedelic rock, space rock, krautrock
+::genre::psych rock, space rock, krautrock
 
 ## Kontusion - Insatiable Lust for Death
 
 Genre: Oldschool Death Metal, Grindcore
 
-::genre::old school death metal, grindcore
+::genre::osdm, grindcore
 
 ## New Arcades - Through Desolation
 
@@ -138,7 +138,7 @@ Genre: New Retro Wave
 
 Genre: Indie-Pop, Psychedelic Pop
 
-::genre::indie pop, psychedelic pop
+::genre::indie pop, psych pop
 
 ## Psycho-Frame - Salvation laughs in the Face of a grieving Mother
 
@@ -150,7 +150,7 @@ Genre: Modern Deathcore
 
 Genre: Krautrock, Spacerock, Avant-Metal
 
-::genre::krautrock, space rock, avantgarde metal
+::genre::krautrock, space rock, avant metal
 
 ## Silver Ships Plastic Oceans - Self Titled *
 
@@ -162,13 +162,13 @@ Genre: Instrumental Post-Rock, Post-Punk, Krautrock
 
 Genre: Cinematic Classic
 
-::genre::cinematic modern classic
+::genre::cine modern classic
 
 ## Steven Price - Oh, Hi!
 
 Genre: Soundtrack
 
-::genre::cinematic modern classic
+::genre::cine modern classic
 
 ## Iron Giant Free Association - Terry Riley’s In C
 
@@ -180,7 +180,7 @@ Genre: Ambient, Experimental Electronica
 
 Genre: Alt-Rock, Alt-Indie
 
-::genre::alternative rock, alternative indie
+::genre::alt rock, alt indie
 
 ## The Dreggs - The Art of uncommon Practice
 
@@ -192,7 +192,7 @@ Genre: Indie-Folk
 
 Genre: Alt-Rock, Post-Grunge
 
-::genre::alternative rock, post grunge
+::genre::alt rock, post grunge
 
 ## Vincent Meissner - Eigengrau
 
@@ -220,7 +220,7 @@ Genre: Shoegaze
 
 Genre: Soundtrack
 
-::genre::cinematic post rock
+::genre::cine post rock
 
 ## Giant Claw - Decadent Stress Chamber
 
@@ -232,7 +232,7 @@ Genre: Electronica, Retro-Wave, Art-Pop
 
 Genre: Alt-Rock, Post-Grunge, Alt-Pop
 
-::genre::alternative pop, post grunge, alternative pop
+::genre::alt pop, post grunge
 
 ## Bronze Homme - Erebus
 
@@ -262,4 +262,4 @@ Genre: Dance, Electronica
 
 Genre: Progressive Black Metal
 
-::genre::progressive black metal
+::genre::prog black metal

@@ -20,7 +20,7 @@ Der britische Producer und DJ mit einem neuen Werk. Eine obscur-experimentelle R
 
 Die norwegische Band mit ihrem sophomore Konzept-Release. Progressive Rock/Metal, welcher die Geschichte der trostlosen Seele in der Hütte erweitert.
 
-::genre::progressive rock, progressive metal
+::genre::prog rock, prog metal
 
 ## Bryan Eckermann - The Fall of Heaven
 
@@ -34,7 +34,7 @@ Ein weiteres Solo-Werk des Texaners und Lead von “Scars Of The Flesh” und �
 
 Die amerikanischen Prog-Metaller mit ihrem neuesten Werk. Sehr den Alt-Metal zugewandtes Werk, welches sich zwar noch Progressive Ausreißer erlaubt aber auch immer mehr verfallen lässt.
 
-::genre::alternative metal, progressive metal
+::genre::alt metal, prog metal
 
 ## Cloud Nothings - Final Summer
 
@@ -46,19 +46,19 @@ Die Indie-Rocker aus Ohio mit ihrem neuesten Output, welches auch Strukturen des
 
 Die Tech-Prog-Death-Metaller aus San Francisco mit einem neuen Release. Durch den Melo-Death-Gesang besitzt das Gesamtkonzept einen sehr modernen Anstrich, welcher dem Songwriting einen doch eher eine “gerade” Struktur verleiht.
 
-::genre::technical death metal, progressive death metal
+::genre::tech death metal, prog death metal
 
 ## Golden Brown - Whisker Fatigue
 
 Das Projekt um Stefan Beck mit seinem neuesten Streich. Eine instrumentell-psychedelische Geschichte, welche elektronische Strukturen und Strukturen des Rock in Klangwellen versetzt.
 
-::genre::psychedelic rock, electronica, instrumental
+::genre::psych rock, electronica, instrumental
 
 ## Goldmund - Layers of Afternoon *
 
 Der Pianist Keith Kenniff aka Goldmund aus Oregon kollaboriert auf diesem Klangwerk mit dem  Violinisten Scott Moore aus Kentucky. Cinematische Neo-Klassik, welche eine wunderbare Symbiose von Piano und Violine eingeht.
 
-::genre::cinematic neo classic
+::genre::cine modern classic
 
 ## Golem Dance Cult - Shamanic Faultines
 
@@ -76,7 +76,7 @@ Das Projekt um den Amerikaner Tom Honey. Das aus einem Tinnitus entstandene Proj
 
 Die finnische Black-Metal-Kapelle mit ihrem neuesten Streich. Raw Black-Metal Kompositionen, die in der Komposition epochale Räume eröffnen, die dem klassischen Prog-Rock ähneln. Dabei werden die Kompositionen von einem klaren klassischen Gesang begleitet, welcher nur selten in Black-Metal-Growls oder -Screams verfällt.
 
-::genre::raw black metal, progressive rock
+::genre::raw black metal, prog rock
 
 ## Illuvia - Mauna Kea
 
@@ -100,7 +100,7 @@ Die Kollaboration zwischen dem britischen Producer James Holden und dem polnisch
 
 Das Experimental-Rock-Outfit aus Australien mit seinem neuesten Werk. Jazz-Rock, trifft auf 60s Garage-Rock, trifft auf Krautrock, trifft auf Psychedelica.
 
-::genre::jazz rock, garage rock, krautrock, psychedelic rock
+::genre::jazz rock, garage rock, krautrock, psych rock
 
 ## Luis Berra - The Repetition of small Gestures
 
@@ -118,19 +118,19 @@ Die Jazz-Gitarristin aus New York lädt ein zu einem neuen Klangwerk mit ihrem S
 
 Die italienische Band mit ihrem neuesten Output. Dem Zuhörer werden melodische Blackened Death Metal Kompositionen der symphonischen Art geliefert, welche auch gern mal den Melo-Death besuchen. Die routinierte Band bleibt ihrem Kompositionen treu, was den Liebhaber sicherlich freut.
 
-::genre::melodic death metal, blackened death metal
+::genre::melo death metal, blackened death metal
 
 ## Moon Letters - This Dark Earth
 
 Das amerikanische Prog-Rock-Outfit mit seinem neuesten Werk. Klassischer Progressive-Rock wird mit Symphonien des Psychedelic-Rock in Harmonie gebracht.
 
-::genre::progressive rock, psychedelic rock
+::genre::prog rock, psych rock
 
 ## Neil Young and The Chrome Hearts - Talkin to the Trees
 
 Der Erstling von dem Projekt um Neil Young überrascht im Grunde nur durch neue Songs von Neil Young. Der Mellow-Country-Rocker vereint ein paar passende Musiker um sich, was den Fan sicherlich freuen wird.
 
-::genre::melancholic country, country rock, folk rock
+::genre::mellow country, country rock, folk rock
 
 ## Otto Kjaer - Album Album
 
@@ -160,25 +160,25 @@ Der renommierte amerikanische Composer und Pianist mit einem neuen Release. Man 
 
 Die britische Band mit ihrem neuesten Release. Post-Hardcore, welcher auch gern Formen des Sludge-Metal und Post-Metal annimmt.
 
-::genre::post hardcore,sludge metal, post metal
+::genre::post hardcore, sludge metal, post metal
 
 ## Sargassus - Vitruvian Rays *
 
 Das finnische Post-Metal-Outfit mit seinem neuesten Output. Post-Metal, welcher Strukturen des modernen Metalcore und progressive Instrumentalisierung zulässt.
 
-::genre::post metal, modern metalcore, progressive metal
+::genre::post metal, modern metalcore, prog metal
 
 ## The Bug Club - Very Human Features
 
 Das walisische Alt-Garage-Rock-Duo mit seinem neuesten Release. Alt-Garage-Rock geht eine Symbiose mit Indie-Rock und Indie-Folk ein.
 
-::genre::alternative rock, garage rock, indie rock, indie folk
+::genre::alt rock, garage rock, indie rock, indie folk
 
 ## The Steve Klatt Project - Dark Matter
 
 Das Projekt um den kanadischen Gitarristen mit einem neuen Output. Es wird ein Klangbild des Progressive Rock und Progressive Metal erzeugt, welches aus Expressionen des NWOAHM besteht.
 
-::genre::progressive metal, progressive rock, nwobhm
+::genre::prog metal, prog rock, nwobhm
 
 ## Tom Adams - After the Rain
 
@@ -190,19 +190,19 @@ Der britische Singer & Songwriter und Producer mit seinem neuesten Werk. Klassis
 
 Die Psychedelic-Rocker um den Multi-Instrumentalist Glenn Brigman aus LA mit ihrem neuesten Streich.
 
-::genre::psychedelic rock
+::genre::psych rock
 
 ## Vinyl Williams - Polyhaven
 
 Das Projekt um den Multi-Instrumentalist Lionel Williams aus LA mit einem neuen Werk. Psychedelic-Pop trifft auf Space-Rock und wird abgerundet mit einer Portion des Dream Pop.
 
-::genre::psychedelic pop, space rock, dreampop
+::genre::psych pop, space rock, dreampop
 
 ## Woodkid - Woodkid for Death Strandings 2: On the Beach
 
 Der französische Sound-Designer mit einem In-Game Soundtrack zu dem Spiel im Titel. Ich bin kein Gamer, daher kann ich nicht beurteilen, wie gut die Kompositionen zum Spielverlauf passen. Die Kompositionen selber werden einer Range an Electronica ausgesetzt. Cinematic Ambient, wird zersetzt von Breakbeat, Trap, Drill, Glitch und Phonk.
 
-::genre::cinematic ambient, breakbeat, trap, drill, glitch, phonk
+::genre::cine ambient, breakbeat, trap, drill, glitch, phonk
 
 ---
 
@@ -218,7 +218,7 @@ Das Solo-Projekt um den Multi-Instrumentalist Aero Idem aus LA bildet hier auf B
 
 Das Kollektiv um die amerikanischen Künstler Charles und Kaylie Caswell mit einem neuen Release. Modern-Tech-Deathcore, welcher eine hohe Verspieltheit an dem Acht-Seiter aufweist und durch die modernen Kompositionen auch Elemente des Drill und Trap enthält.
 
-::genre::technical deathcore, drill, trap
+::genre::tech deathcore, drill, trap
 
 ## Hior Chronik - Apofanie
 

@@ -10,19 +10,19 @@ categories:
 
 Die schwedische Formation mit ihrem neuesten Release. Irgendwo im Bereich von Alt-Pop und Alt-Rock angesiedelt wird ein recht ruhiges Werk diesmal dargeboten. Die Stimme von Christopher Sander hat eine gewisse Magik zwischen Brian Molko und Jónsi.
 
-::genre::alternative pop, alternative rock
+::genre::alt pop, alt rock
 
 ## AFI - Silver bleeds the black Sun … *
 
 Das amerikanische Emo-Outfit mit seinem neuesten Werk. Eine Überraschung für mich, da sie sich von ihrem üblichen Songwriting absolut entfernen. Was entstanden ist, ist ein Werk des New Wave, Alt-Rock, Post-Punk und Industrial.
 
-::genre::new wave, alternative rock, post punk, industrial
+::genre::new wave, alt rock, post punk, industrial
 
 ## Agriculture - The Spiritual Sound *
 
 Die LA Band mit ihrem Sophomore Release. Sie selbst beschreiben ihren Sound “Ecstatic Black Metal”. Eine Mischung aus Noise, Math, Black Metal, D-Beat, Heavy Metal, Post Black Metal und Blackgaze, welche am Ende irgendwie Sinn ergibt.
 
-::genre::noise rock, math rock, avantgarde black metal, d-beat, heavy metal, post black metal, blackgaze
+::genre::noise rock, math rock, avant black metal, d-beat, heavy metal, post black metal, blackgaze
 
 <!-- more -->
 
@@ -42,13 +42,13 @@ Der britische Singer & Songwriter, Producer, Pianist und MC mit seinem neuesten 
 
 Die Kollaboration zwischen Joseph Arthur (RNDM) und Peter Buck (R.E.M) mit ihrem Sophomore Release. In ihren Kompositionen werden Alt-Rock, Indie-Rock und Art-Rock vereint und dargeboten in routinierten Songwriting.
 
-::genre::alternative rock, indie rock, art rock
+::genre::alt rock, indie rock, art rock
 
 ## Ash - Ad Astra
 
 Die nordirischen SciFi-Rocker mit ihrem neuesten Streich. Mit ihrem letzten Werk haben sie wieder mehr Alt-Rock aufgenommen. Mit diesem Werk vernachlässigen sie diesen wieder ein wenig und lassen mehr Raum für Alt-Pop, Synth-Pop und Power-Pop.
 
-::genre::alternative pop, synth pop, power pop, alternative rock
+::genre::alt pop, synth pop, power pop, alt rock
 
 ## Author & Punisher - Nocturnal Birding *
 
@@ -102,13 +102,13 @@ Das Deathcore-Outfit aus Arizona mit seinem Sophomore Release. Für das Genre si
 
 Das Sophomore Werk der britischen Singer & Songwriterin, welche Bekanntheit über YouTube gewonnen hat, setzt sich mit ihrer eigenen psychologischen Reise und Entwicklung auseinander. Ich wurde es dem Alt-Indie oder Indie-Pop zuordnen.
 
-::genre::alternative indie, indie pop
+::genre::alt indie, indie pop
 
 ## Dustin Tebbutt - A Bend in the Light *
 
 Der australische Musiker mit seinem neuesten Album. Eine melancholische Reise durch Electronica und Folk mit ausgeprägtem Songwriting.
 
-::genre::electronica, alternative folk, dark folk
+::genre::electronica, alt folk, dark folk
 
 ## Fight From Within - Talk is Cheap
 
@@ -120,13 +120,13 @@ Der Debüt-Longplayer der Band aus Syracuse. Ein aggressiver Mix aus Metalcore u
 
 Die amerikanische Singer & Songwriterin mit ihrem Debüt. Ich würde behaupten, dass beim Schreiben des ersten Tracks The Verve im Hintergrund gelaufen ist. Ansonsten ist das alles dem Indie-Pop/Alt-Indie zuzuweisen, mit einer recht ausgeprägten Country-Voice.
 
-::genre::indie pop, alternative indie, country folk
+::genre::indie pop, alt indie, country folk
 
 ## Harrison Storm - Empty Garden
 
 Ein weiteres Sophomore Release in der Liste. Der australische Singer & Songwriter fusioniert Indie-Folk, Melo-Folk und Folk-Pop zu einem Werk.
 
-::genre::indie folk, melodramatic folk, folk pop
+::genre::indie folk, mellow folk, folk pop
 
 ## Heavenchord, Infinity Dots - Feedback Serenity
 
@@ -150,13 +150,13 @@ Die finnischen Death-Doomer sind zurück mit einem neuen Werk. Die üblichen Str
 
 Neues von den Schotten. Ihre Kompositionen aus Alt-Rock, Britpop und Indie-Rock werden dem Indie-Liebhaber/der Indie-Liebhaberin sicherlich nicht das Herz zerreißen.
 
-::genre::alternative rock, britpop, indie rock
+::genre::alt rock, britpop, indie rock
 
 ## islandman - Island5
 
 Das türkische Trio mit seinem neuesten Release. Electro-Pop, welcher mit Strukturen des anatolischen Folk und Elementen der Psychedelica ausgestattet wird.
 
-::genre::electropop, alternative folk, psychedelic folk
+::genre::electropop, alt folk, psych folk
 
 ## Jakob Bro, Wadada Leo Smith, Marcus Gilmore - Murasaki
 
@@ -174,37 +174,37 @@ Der britische Singer & Songwriter und Producer ist nach zehn Jahren wieder zurü
 
 Das renommierte Duo aus Amerika mit einer Komposition, welche sicherlich für Film gedacht waren, aber es nie in einen geschafft haben. Orchestral-Cinematic-Electronica, welche pompös dargeboten wird.
 
-::genre::modern classic, cinematic electronica
+::genre::modern classic, cine electronica
 
 ## Karen Willems - A Fool’s Guide to Reality
 
 Die belgische Drummerin und Percussionistin mit ihrem neuesten Werk. Ewig fluide Klänge des Avantgard entwickeln sich um verschiedenste Drum-/Percussion-Strukturen, im Einklang mit Elementen der World-Music und Electronica. Ein weiteres Release, das kurz nach Erscheinen von Spotify verschwunden ist.
 
-::genre::avantgarde jazz, world music, electronica
+::genre::avant jazz, world music, electronica
 
 ## Låpsley - I’m a Hurricane I’m a Woman in Love
 
 Die britische Singer & Songwriterin und Producerin mit ihrem neuesten Release. Ein Release, welches sich durch verschiedene Schichten des Pop schlängelt. Von Synth-Pop über Alt-Pop zu Drill-Pop ist alles an Bord.
 
-::genre::synth pop, alternative pop, drill
+::genre::synth pop, alt pop, drill
 
 ## Lucynine - Melena *
 
 Das Projekt um den italienischen Multi-Instrumentalisten Sergio Bertani mit neuem Material. Eine avantgarde Tour in den Post-Black-Metal, mit Stopps in Industrial, Post-Hardcore, Progressive und Doom.
 
-::genre::post black metal, idm, post hardcore, progressive metal, doom metal
+::genre::post black metal, idm, post hardcore, prog metal, doom metal
 
 ## M.E.L.T. - Innervate / Obliterate *
 
 Die Formation aus Pennsylvania mit ihrem neuesten Streich. Sie wissen es gekonnt, progressive und psychedelische Strukturen in ihre Stoner-Rock-Kompositionen einfließen zu lassen.
 
-::genre::stoner rock, psychedelic rock, progressive rock
+::genre::stoner rock, psych rock, prog rock
 
 ## Marco Ocram Leo - Sonic Landscapes
 
 Der italienische Gitarrist mit neuesten Kompositionen um Klassische und Elektrische Gitarre. Geboten wird alles, was die Gitarre bieten kann. Von Fusion-Jazz über Accoustic-Ambient hin zu Folk-Pop zu Alt-Folk und Blues.
 
-::genre::jazz fusion, ambient accoustic, folk pop, alternative folk, blues
+::genre::jazz fusion, ambient acoustic, folk pop, alt folk, blues
 
 ## Marta - Out the Way **
 
@@ -228,13 +228,13 @@ Die Kollaboration zwischen dem amerikanischen Rapper und dem britischen Producer
 
 Die belgische Experimental-Jazz-Musikerin mit ihren Beitrag zu Benny Safdie’s Film “The Smashing Machine”. Ein wahrlich experimenteller cinematischer Soundtrack, welcher auch die Vorlieben Nala’s enthält.
 
-::genre::cinematic modern classic, cinematic electronica
+::genre::cine modern classic, cine electronica
 
 ## Night Rites - Nine of Swords *
 
 Das australische Trio mit seinem Debüt-Longplayer. Eine drone-y Variante des Psych-Rock mit Ausritten in den Krautrock.
 
-::genre::drone, psychedelic rock, krautrock
+::genre::drone, psych rock, krautrock
 
 ## Ofermod - Drakosophia
 
@@ -246,7 +246,7 @@ Das schwedische Outfit, welches im Grunde nur aus Sänger/Gitarrist Mika “Belf
 
 Das Century Media Debüt der schwedischen Melo-Deather. Kräftig produzierter Melo-Death, welcher mit seinen Momenten daherkommt. Intelligentes Songwriting für Melo-Death mit ein paar Sprenkel von Industrial.
 
-::genre::melodic death metal, industrial metal
+::genre::melo death metal, industrial metal
 
 ## Redspencer - Primal Urges
 
@@ -258,7 +258,7 @@ Das australische Trio mit seinem neuesten Output. Mood-y Indie-Rock, welcher auc
 
 Die Norweger mit einem neuen Werk. Als Session-Projekt “gegründet”, soll dies jetzt "endgültig" der Abschluss des Session-Projekts sein. Drei space-y Prog-Rock-Kompositionen werden angeboten um den Abschluss auch gerecht zu werden.
 
-::genre::progressive rock, space rock
+::genre::prog rock, space rock
 
 ## Scalding - Nuclear Winter Spell
 
@@ -270,7 +270,7 @@ Das kanadische Gespann mit einem neuen Werk. 2nd Wave Black Metal, welcher mit a
 
 Die Franzosen mit ihrem neuesten Release. Avantgard Black Metal, welcher trotz seiner rauen Produktion, allerlei Finessen enthält und mit seinen experimentellen Nuancen nicht spart.
 
-::genre::avantgarde black metal
+::genre::avant black metal
 
 ## Snööper - Worldwide
 
@@ -282,7 +282,7 @@ Die amerikanische Band aus Nashville mit ihrem neuesten Output. Diese Art des Pu
 
 Das Trio aus Chicago mit seinem neuesten Werk. Emo, welcher Elemente des LoFi-Emo und Melo-Folk in sich vereinigt.
 
-::genre::emocore, lofi, melodramatic folk
+::genre::emocore, lofi, mellow folk
 
 ## Sun Glitters - Transcend.
 
@@ -318,13 +318,13 @@ Der italienische “Bad Boy” Producer Sir Bob Cornelius Rifo mit neuen Komposi
 
 Neues vom amerikanische Duo, welches keines Wegs seine Roots vergessen hat und mit dem neuen Release einen Mix aus Alt-Pop, Alt-Folk und Indie-Folk abliefern.
 
-::genre::alternative pop, alternative folk, indie folk
+::genre::alt pop, alt folk, indie folk
 
 ## The Deep Dark Woods - The Circle Remains
 
 Das kanadische Trio mit seinem neuesten Output. Melo-Folk, welcher Strukturen des Country nicht verbirgt und in seine Kompositionen aufnimmt.
 
-::genre::melodramatic folk, country folk
+::genre::mellow folk, country folk
 
 ## The Midnight - Syndicate
 
@@ -336,19 +336,19 @@ Das amerikanische Duo mit einem neuen Werk des Klanges. Synthwave, welcher von d
 
 Die amerikanische Formation mit ihrem neuen Werk, welches bereits 2021 angekündigt wurde. Hat sich “das Warten” gelohnt? Keine Ahnung. Mensch sollte sich ein eigenes Bild malen. Die Post-Hardcore-Kapelle hat ihren alten Hardcore-Sound definitiv entfernt und sich mehr dem Alt-Rock gewidmet, welcher mit progressiven Elementen und Midwest-Strukturen verfeinert wird.
 
-::genre::post hardcore, alternative rock
+::genre::post hardcore, alt rock
 
 ## Time’s Forgotten - Songs of Awakening
 
 Die Band aus Costa Rica mit ihrem neuesten Release. Progressive Rock, welcher von Elementen des Progressive Metal und Symphonic Metal umrahmt wird, ohne djent-y zu werden.
 
-::genre::progressive rock, progressive metal, symphonic metal, djent
+::genre::prog rock, prog metal, symphonic metal, djent
 
 ## Totorro - Sofa so good *
 
 Die Formation aus Frankreich mit ihrem neuesten Output. Eine instrumentelle Reise durch progressive First-Wave-Post-Rock-Kompositionen, welche immer wieder in eine Art des Midwest-Emo abgleiten und damit ihren eigenen Sound kreieren.
 
-::genre::midwest emo, post rock, progressive rock, instrumental
+::genre::midwest emo, post rock, prog rock, instrumental
 
 ## Triosence - Stories of Life
 
@@ -360,7 +360,7 @@ Die deutsche Jazz-Band mit ihrem neuesten Release. Die Formation um den Jazz-Pia
 
 Die schwedische Singer & Songwriterin mit ihrem neuesten Output. Ihre Vorliebe für Grunge lässt sich in den Pop-Kompositionen ohne Probleme wiederfinden.
 
-::genre::post grunge, alternative pop
+::genre::post grunge, alt pop
 
 ## Vitamin String Quartet - Performs Billie Eilish
 
@@ -372,7 +372,7 @@ Das amerikanische String-Projekt, welches CMH Records ins Leben gerufen wurde, m
 
 Die britische Formation mit ihrem neuesten Release. Old-School-Death trifft auf Black Metal trifft auf thrash-y Doom. Das ist die Rezeptur, die die Briten mit diesem Werk verfolgen.
 
-::genre::old school death metal, black metal, thrash metal
+::genre::osdm, black metal, thrash metal
 
 ## Yowie - Taking Umbrage *
 
@@ -394,19 +394,19 @@ Die deutsche Formation mit ihrem neuesten Output. Liebhaber des sludge-y Post-Me
 
 Das Projekt um den belgischen Multi-Instrumentalisten Damien Polfliet mit neuen Kompositionen. Instrumental-SciFi-Post-Metal, welcher partiell mit Quotes aus dem 2007er SciFi Movie Sunshine ausgestattet wurde.
 
-::genre::cinematic post rock, instrumental
+::genre::cine post rock, instrumental
 
 ## Crewless - Lighthouse *
 
 Die Band aus Utah mit ihrem Sophomore Release. In ihrem avantgard Indie-Sound werden Avantgard-Pop, Indie-Pop, Electronica und Disco zu einer Komposition komprimiert. Der Sound ist so britisch, dass ich immer noch erschrocken bin, dass die Formation aus Amerika ist.
 
-::genre::avantgarde pop, indie pop, electronica, disco
+::genre::avant pop, indie pop, electronica, disco
 
 ## Khan - That Fair and warlike Form // Return to Dusk
 
 Das australische Trio, nicht zu verwechseln mit den kurzlebigen Proggern aus UK, mit ihrem neuesten Werk, welches aus zwei Tracks besteht. Eine Melange von Stoner und Progressive Rock, mit Einflüssen des Psychedelic Rock wird dem Ohr geboten.
 
-::genre::progressive rock, psychedelic rock
+::genre::prog rock, psych rock
 
 ## Molly Nilsson - Amateur
 
@@ -436,7 +436,7 @@ Die Formation aus Oklahoma hat bei seinem neuen Release sicherlich mal bei Defto
 
 Die schwedische Kapelle mit ihrem neuesten Output. Old School Death Metal, welcher mich stark an das Songwriting von Schweden-Death der 90er erinnert. Wer den Sound von Boss Metal Zone auf Max Distortion über Marshall Amps liebt, kommt hier voll auf seine Kosten.
 
-::genre::old school death metal
+::genre::osdm
 
 ## Sports Coach - On the Mountain above the Cloud
 
@@ -448,13 +448,13 @@ Der amerikanische Producer Thatcher May (Sports Coach) mit seinem neuesten Werk.
 
 Volume 2 der Kollaboration zwischen dem amerikanischen Singer & Songwriter Mark Kozelek (Sun Kil Moon) und der ungarischen Jazz-Fusion-Formation Amoeba. Die poetische Stimme von Mark wird von Jazz-Fusion, Soul, Folk-Rock und Psychedelica umschmeichelt.
 
-::genre::jazz fusion, neo soul, psychedelic folk, folk rock
+::genre::jazz fusion, neo soul, psych folk, folk rock
 
 ## Oaken - From the Bonfire *
 
 Die Ungarn mit ihrem neuesten Longplayer. Sludge-y Post-Metal, welcher mit Crust, Progressiven Elementen, D-Beat und Doom fusioniert, ohne dabei den Fokus zu verlieren.
 
-::genre::post metal, sludge metal, progressive metal, d-beat, doom metal
+::genre::post metal, sludge metal, prog metal, d-beat, doom metal
 
 ## Shelf Life - MTV
 

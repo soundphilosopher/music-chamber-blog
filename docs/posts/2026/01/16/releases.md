@@ -14,7 +14,7 @@ authors:
 
 Die deutsch-geborene Singer & Songwriterin mit ihrem neuesten Album. Ein Werk des Alt-Pop ist entstanden, welches mit einer stimmlichen Klangfarbe zwischen Soul und Indie angereicht wird.
 
-::genre::alternative pop
+::genre::alt pop
 
 ## Animations - Definition of Mad
 
@@ -40,19 +40,19 @@ Das deutsche Kollektiv bestehend aus den Producern Christoph Bauss (Shuko), Robe
 
 Die Kollaboration zwischen den amerikanischen Jazz-Drummer Billy Martin (Illy B), dem amerikanischen Multi-Instrumentalisten Matt Glassmeyer und dem amerikanischen Jazz-Gitarristen Jonathan Goldberger bietet eine Live-Improvisation, welche mit ausgefallen Ideen und Experimenten dem Avant-Jazz, wie auch dem Fusion zugeordnet werden kann.
 
-::genre::avantgarde jazz, jazz fusion, improvisation
+::genre::avant jazz, jazz fusion, improvisation
 
 ## Bimurta - All Skies lead to the Sun *
 
 Die Debüt EP der indischen Formation. Ein progressiver wie auch faszinierender Mix aus Post Metal, Progressive Metal und indischer Folklore.
 
-::genre::post metal, progressive metal, indian folk
+::genre::post metal, prog metal, indian folk
 
 ## Blanket - True Blue
 
 Die Briten sind zurück mit neuen Kompositionen. Diesmal geht die Richtung mehr in den Alt-Rock, sodass sie am Ende ihre Kompositionen zwischen Shoegaze, Dreampop und Alt-Rock schweben lassen.
 
-::genre::shoegaze, dreampop, alternative rock
+::genre::shoegaze, dreampop, alt rock
 
 ## Carrion Vael - Slay Utterly
 
@@ -64,7 +64,7 @@ Die kalifornische Formation mit ihrem neuesten Werk. Deathcore, welcher in seine
 
 Der britische Singer & Songwriter und Producer Robin Skinner (Cavetown) mit seinem sechsten Release in seiner Discography. Wieder durchmengt der Künstler das Feld des Pops mit Indie, Trap, Drum & Bass und Alternative Tönen.
 
-::genre::indie pop, trap, drum & bass, alternative pop
+::genre::indie pop, trap, drum & bass, alt pop
 
 ## Cindytalk - That we must pass through this Life
 
@@ -76,13 +76,13 @@ Bereits über 40 Jahre hat das Experimental Projekt um die britische Künstlerin
 
 Das dänische Duo mit seinen neuesten Kompositionen. Eine Melange aus traditionellen und modernen Progressive Metal wird dem Ohr geboten, welcher gar von Zeit zu Zeit Strukturen des Fusion und Jazz zulässt. All diese Einflüssen werden in ein melodiereiches, modernes Songwriting verpackt.
 
-::genre::progressive metal
+::genre::prog metal
 
 ## Computer Nerd - 20000 Years & Still Going Strong
 
 Der amerikanische Multi-Instrumentalist und Producer Chris Bush mit seinem neuesten Output. Von Retro-Games inspirierter klassischer Prog-Rock, welcher wie eine Oper wirkt und repräsentiert wird.
 
-::genre::progressive rock
+::genre::prog rock
 
 ## Current Blue - Ikigai
 
@@ -94,13 +94,13 @@ Das amerikanische Duo mit seinem neuesten Werk. Irgendwie schwungloser Indie-Pop
 
 Das australische Duo mit seinem neuesten Release. Die Dance-Punker nehmen diesmal viele Elemente des Alt-Rock und auch Spuren des Post-Hardcore  in ihr Songwriting auf.
 
-::genre::alternative rock, post hardcore
+::genre::alt rock, post hardcore
 
 ## In a House of Heartbeats - Divination of Dreams
 
 Das britische Trio mit seinem neuesten Output. Instrumental Post Metal wird mit ein paar Ausflügen in den Psych-Metal und Prog-Metal verfeinert.
 
-::genre::psychedelic metal, progressive metal, post metal, instrumental
+::genre::psych metal, prog metal, post metal, instrumental
 
 ## Edenbridge - Set the Dark on Fire
 
@@ -112,13 +112,13 @@ Die österreichischen Metaller mit ihrem neuesten Werk. Refrain-Starker Symphoni
 
 Elipsis ist mehr als nur ein Release, es ist ein Treffen zwischen mehreren Welten. Das Kollektiv bestehend aus dem amerikanischen Multi-Instrumentalisten Michael League (Snarky Puppy), dem kubanischen Percussionist Pedrito Martinez und dem mexikanischen Jazz-Drummer Antonio Sanchez bietet einen sehr spannenden Mix aus Afro-Beat, Fusion, Electronica und Avant-Rock. Sehr fasziniertes Songwriting verpackt in einer bombastischen Produktion.
 
-::genre::afrobeat, fusion, electronica, avantgarde rock
+::genre::afrobeat, fusion, electronica, avant rock
 
 ## Frozen Factory - Apocalypse Inc.
 
 Die finnische Combo mit ihrem neuesten Release. Progressive Metal, welcher facettenlos daher gespielt wird. Ab und an wird versucht Spannung in das leere Songwriting aufzubauen, welche schnell vergeht. Sieger in der Kategorie: Schlechtestes Plattencover in der Woche,
 
-::genre::progressive metal
+::genre::prog metal
 
 ## Frowntown Disco - Are you sure?
 
@@ -172,13 +172,13 @@ Das algerische Kollektiv mit seinem vierten Output in ihrer Discography. Eine fa
 
 Was für eine Kollaboration. Die amerikanische Komponistin und Producerin Julianna Barwick tut sich zusammen mit der amerikanischen Harfenistin Mary Lattimore. Juli erstellt aus Loops und dem Layern ihrer Stimme kosmische Kompositionen des Ambient, welcher von Mary’s Harfe begleitet, nein, eher unterstützt wird. Dadurch wird ein Soundtrack einer Imagination erzeugt.
 
-::genre::ambient, cinematic ambient
+::genre::ambient, cine ambient
 
 ## Kalyptra - Enigma
 
 Das amerikanische Duo mit seinem neuesten Output der Wahrscheinlichkeiten. Modern Alt-Metal, welcher mit allerlei elektronischen Elementen versehen ist und klingt, als wenn KI doch mehr übernommen hat, als vielleicht nötig war.
 
-::genre::alternative metal
+::genre::alt metal
 
 ## Keep Shelly In Athens - V
 
@@ -190,19 +190,19 @@ Das griechische Duo mit seinem neuesten Release. Dem Ohr erwartet eine Mixtur au
 
 Die deutschen Thrasher mit ihrem 16ten? Longplayer in ihrer Karriere. Ich weiß nicht wirklich ob ich das Thrash-Metal nennen würde am Ende, ich würde es eher dem Melo-Death zuweisen, trotzdem Mille natürlich seine Stimmlage im Clean-Bereich belässt. Ziemlich schleppendes und langweiliges Songwriting wird dem Ohr am Ende geboten. Also was Kreator schon seit einiger Zeit ans Tageslicht entlässt.
 
-::genre::melodic death metal
+::genre::melo death metal
 
 ## Langhorne Slim - The Dreamin’ Kind
 
 Der amerikanische Singer & Songwriter Sean Scolnick (Langhorne Slim) mit seinem neuesten Release. Indie-Folk, welcher sich Elemente aus dem Blues, Alt-Rock, Indie-Rock, Alt-Country und Bluegrass zu nutzen macht.
 
-::genre::indie folk, blues, alternative rock, indie rock, alternative country, bluegrass
+::genre::indie folk, blues, alt rock, indie rock, alt country, bluegrass
 
 ## Last Hounds - Strngeworld
 
 Die neueste EP der UK-Based Kapelle. Eine Melange aus Hardcore und Alt-Metal wird dem Mensch geboten. Ein irgendwie stranges Werk, welches jedoch eine gewisse Anziehungskraft besitzt.
 
-::genre::alternative metal
+::genre::alt metal
 
 ## Lisa Wulff - Hand auf’s Herz
 
@@ -214,7 +214,7 @@ Die deutsche Jazz-Bassistin mit ihrem neuesten Beitrag. Ein moderner Beitrag zum
 
 Der amerikanische Singer & Songwriter mit seinem neuesten Werk. Eine melancholische Melange von Folk-Strukturen, Ambient-Elementen und Modern-Classic-Fragmenten. In seine Melo-Folk-Kompositionen werden die dystopischen Thematiken seiner Lyrics mit einem gewissen depressiven Touch integriert. Für mich war und ist er mit seinem Songwriting die depressive Interpretation von Patrick Watson.
 
-::genre::ambient, melancholic folk, modern classic
+::genre::ambient, mellow folk, modern classic
 
 ## Madison Beer - locket
 
@@ -226,13 +226,13 @@ Die amerikanische Singer & Songwriterin mit ihrem neuesten Output. Recht flach a
 
 Die texanische Kapelle mit ihren neuesten Kompositionen. Recht klassischer Alt-Metal, welcher mit ein paar rauen Stellen versehen ist und so den Charakter von Modern Metalcore versprühen kann. An und für sich wird allerdings nichts wirklich Bewegendes angeboten, da das Songwriting doch sehr eintönig und einfallslos daherkommt.
 
-::genre::alternative metal, modern metalcore
+::genre::alt metal, modern metalcore
 
 ## Moon Wisdom - Let Water Flow
 
 Das Debüt des italienischen Trios. Ich nenne es mal einen Versuch des Melodic Black Metal. Selbst für Black Metal ist die Produktion alles andere als gelungen. Das Songwriting vermag Potential haben, aber die Produktion vermasselt ein Zuhören. Hier wird gezeigt, wie Produktion am Ende nicht aussehen sollte.
 
-::genre::melodic black metal
+::genre::melo black metal
 
 ## My Ruin - Declaration Of Resistance
 
@@ -244,13 +244,13 @@ Das LA-Based Duo mit seinem neunten und neuesten Release, nach gut 13 Jahren Rel
 
 Die amerikanische Band mit ihrer Debüt EP. Ein sehr spannender Mix aus Hardcore, Alt-Metal und Post-Hardcore. Das Songwriting ist für eine EP in dem Genre exzellent und mit recht vielen Besonderheiten versehen.
 
-::genre::hardcore, alternative metal, post hardcore
+::genre::metallic hardcore, alt metal, post hardcore
 
 ## Nick Wilson - Maybe
 
 Der amerikanische Singer & Songwriter mit seinem neuesten Release. Es wird ein melancholischer Spannungsbogen von Folk und Pop gesponnen, welcher Elemente des Ambient in seinen Kompositionen zulässt.
 
-::genre::melancholic folk, melancholic pop, ambient
+::genre::mellow folk, mellow pop, ambient
 
 ## Ov Sulfur - Endless
 
@@ -262,13 +262,13 @@ Die amerikanische Kapelle mit ihrem neuesten Release, welches Nummer 3 in ihrer 
 
 Die indische Combo mit ihrem neuesten Release. Als großer Verehrer von Melodic Hardcore hat auch dieses Output sehr schnell mein Ohr gewonnen. Melodic Hardcore, welcher in der Tradition der 90er schonungslos und ungeschönt präsentiert wird. Selbst Elemente von At The Drive-In werden hier mit verbastelt. Klasse.
 
-::genre::melodic hardcore
+::genre::melo hardcore
 
 ## Perfect - BodeNote *
 
 Was für ein Experiment. Das Kollektiv aus Ohio ist wieder zurück und verwirbelt wie immer die Rock-Landschaft. Alles hat seine Klangfarben und so wird hier Avant-Rock, Fusion, Jazz-Rock, Space-Rock, Math-Rock und Prog-Rock zu einem expressionistischen Gemälde vereint.
 
-::genre::avantgarde rock, fusion, jazz rock, space rock, math rock, progressive rock
+::genre::avant rock, fusion, jazz rock, space rock, math rock, prog rock
 
 ## Petroglyphs - Where I Make Peace With Death
 
@@ -280,13 +280,13 @@ Die Kalifornier mit ihrem neuesten Output. Djent, welcher mit einer gewissen sym
 
 Studio Live Session von Philippe Drouin und John Longstreth. Entstanden ist eine Art der Improvisation des Technical Death Metal.
 
-::genre::technical death metal, improvisation
+::genre::tech death metal, improvisation
 
 ## Robbie Williams - Britpop
 
 Das neueste Werk von Robbie Williams bietet mehr als nur “Britpop”. Im Großen und Ganzen wird hier neben Britpop auch Alt-Rock, Alt-Pop und Pop-Rock eine Chance gegeben.
 
-::genre::britpop, alternative rock, alternative pop, pop rock, progressive pop
+::genre::britpop, alt rock, alt pop, pop rock, prog pop
 
 ## Robohands - Oranj *
 
@@ -304,7 +304,7 @@ Das britische Duo mit seinem neuesten Release. Die Mods erzeugen eine Melange au
 
 Die Schweden mit ihrem neuesten Release, welches eine “eigene Ära” kennzeichnet. Von dem Prog-Metal ála Tool und Opeth ist nichts mehr übrig. Stattdessen wird auf klare Strukturen gesetzt, welche sich stark am Alt-Metal orientieren und damit die Songstrukturen recht radio-konform halten.
 
-::genre::progressive metal, alternative metal
+::genre::prog metal, alt metal
 
 ## Soulbound - sYn
 
@@ -316,25 +316,25 @@ Die deutschen Industrial Metaller mit ihrem neuesten Werk. Irgendwo im Spektrum 
 
 Das texanische Duo mit seinem neuesten Output. Prog-Metal, welcher mit Strukturen und Fragmenten des Alt-Metal ausgestattet wurde. Das Songwriting ist sehr abwechslungsreich und übernimmt viele Elemente des Rock und Metal in sich auf und lässt diese erblühen.
 
-::genre::progressive metal, alternative metal
+::genre::prog metal, alt metal
 
 ## Takatak - Influx
 
 Das dritte Werk der pakistanischen Combo. Prog-Metal, welcher mit Elementen des Djent und Metalcore eine gewisse moderne Note und Aggressivität erhält.
 
-::genre::progressive metal, modern metalcore, djent
+::genre::prog metal, modern metalcore, djent
 
 ## The Eternal - Celestial
 
 Die australisch/finnische Formation mit ihrer neuesten EP. Eine recht eintönige und langatmige Melange aus Gothic Rock, Gothic Metal und Prog-Metal.
 
-::genre::gothic rock, gothic metal, progressive metal
+::genre::gothic rock, gothic metal, prog metal
 
 ## The Red Masque -  All the Wolves are Fed … *
 
 Neues von den Dark Art Rockern aus Pennsylvania. Die Einflüsse der 70er sind nicht zurückzuweisen. Die Kompositionen schweben im musikalischen Raum zwischen Psych-Rock, Art-Rock und Prog-Rock.
 
-::genre::psychedelic rock, art rock, progressive rock
+::genre::psych rock, art rock, prog rock
 
 ## Together Pangea - Eat Myself
 
@@ -346,7 +346,7 @@ Die kalifornische Kapelle mit ihrem neuesten Release. Durch die Ohren wird eine 
 
 Die italienische Formation mit ihrer neuesten EP. Gestartet wird das Release mit einer Art Melange aus Melo-Pop und Melo-Jazz. Die weiteren Kompositionen sind dann dem Djent zuzuordnen, was dem Start irgendwie die Experimentalität wieder entzieht, da in den Djent-Kompositionen kein Bezug mehr auf die Melo-Thematiken, wie auch Jazz genommen wird.
 
-::genre::melancholic pop, melancholic jazz, djent
+::genre::mellow pop, mellow jazz, djent
 
 ## Vesseles - Home
 
@@ -380,7 +380,7 @@ Der amerikanische Drummer, Producer und Komponist mit ein paar neuen Klangfragme
 
 Die italienische Combo mit seinen neuesten Ergüssen. Klassischer Heavy Metal, welcher mit SciFi-Thematiken ausgestattet ist und damit ein recht progressives Bild haben kann, was sich aber nicht in den Kompositionen ausspielt.
 
-::genre::heavy metal, progressive metal
+::genre::heavy metal, prog metal
 
 ## Tyler Ramsey, Carl Broemel - Celestun
 
@@ -398,7 +398,7 @@ Der amerikanische Producer und Multi-Instrumentalist Mikey Maramag (Blackbird Bl
 
 Die amerikanische Formation mit ihrem neuesten Release. Folk-Rock, welcher mit einer Portion Alt-Country und Alt-Folk verfeinert wurde. Alles wird mit der typischen Country-Romantik im Songwriting, wie auch der Produktion verpackt.
 
-::genre::folk rock, alternative folk, alternative country
+::genre::folk rock, alt folk, alt country
 
 ## Machinefabriek - Stof en Ruis
 

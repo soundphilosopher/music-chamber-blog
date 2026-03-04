@@ -10,13 +10,13 @@ categories:
 
 Die Neuseeländer mit ihrem neuesten Release. Es wird ein Mix aus Alt-Folk und Indie-Folk geboten.
 
-::genre::alternative folk, indie folk
+::genre::alt folk, indie folk
 
 ## Anchor And Burden - Sunken Fleet *
 
 Die Berliner Kapelle mit ihrem neuesten Streich. Ein Werk aus Doom-Jazz, Prog-Rock, Post-Rock und Avant-Rock wird in die Welt getragen.
 
-::genre::doom jazz, progressive rock, post rock, avantgarde rock
+::genre::doom jazz, prog rock, post rock, avant rock
 
 ## Area 3 - View
 
@@ -30,13 +30,13 @@ Das Projekt um den kanadischen Producer Dylan James Khotin-Foote mit einem Relea
 
 Die finnische Melo-Death-Band mit ihrem neuesten Album. Stabiler Melo-Death mit nicht innovativem Songwriting.
 
-::genre::melodic death metal
+::genre::melo death metal
 
 ## Big Thief - Double Infinity
 
 Die Indie-Folker aus New York mit ihrem neuen Release. Eine treibende Reise durch die Welten von Indie-Folk, Psych-Folk, Psych-Indie und Psych-Rock.
 
-::genre::indie folk, psychedelic folk, psychedelic indie, psychedelic rock
+::genre::indie folk, psych folk, psych indie, psych rock
 
 ## BLESSTHEFALL - Gallows
 
@@ -66,13 +66,13 @@ Das Indie-Rock-Gespann aus Tennessee mit ihrem aktuellen Output. Tanzbare Kompos
 
 Das talentierte deutsche Quartett mit seinem neuesten Klangexperiment. Atmosphärischer Post-Metal mit allerlei Finessen im Songwriting, welche von orientalischen Songstrukturen, über Blackgaze, Psychedelic und Post-Punk alles vereinen.
 
-::genre::post black metal, atmospheric black metal, blackgaze, psychedelic metal, post punk
+::genre::post black metal, atmo black metal, blackgaze, psych metal, post punk
 
 ## Connor Kaminski - Tapestry
 
 Der UK-Gitarrist mit seinem neuesten Album. Mit allerlei Gästen an Bord, wird er instrumentale Prog-Metal in Komposition gebracht und dabei nie der Part des Fusion vermisst.
 
-::genre::progressive metal, fusion, instrumental
+::genre::prog metal, fusion, instrumental
 
 ## Curtis Harding - Departures & Arrivals: Adventures of Captain Curt *
 
@@ -96,7 +96,7 @@ Der New Yorker Jazz-Trompeter und Composer mit seinem neuesten Klang-Output. Aus
 
 Der Name könnte geläufig sein. Der ehemalige Gitarrist der Talking Heads mit einem neuen Solo-Output, in Kollaboration mit dem New Yorker Ghost Train Orchestra. Ein experimenteller Trip zwischen New Wave und Art-Rock, mit erwartet genialem Songwriting.
 
-::genre::art rock, post rock, new wave, avantgarde rock
+::genre::art rock, post rock, new wave, avant rock
 
 ## Dylan Mondegreen - A Sound Rings True
 
@@ -108,7 +108,7 @@ Der norwegische Singer & Songwriter mit seinem neuesten Kompositionen des Indie-
 
 Das Projekt um den französischen Multi-Instrumentalisten mit neuen Stuff. Atmospheric-Black-Death-Metal beschreibt es vermutlich am besten.
 
-::genre::atmospheric black metal, blackened death metal
+::genre::atmo black metal, blackened death metal
 
 ## Faithless - Champion Sound
 
@@ -120,13 +120,13 @@ Ja, es ist das erfolgreiche UK-Dance-Music-Outfit, mit neuen Kompositionen. Blei
 
 Die Brasilianer mit ihrem neuesten Werk. Genial fuzz-y Kompositionen zwischen Psych-Rock, Alt-Rock und Post-Rock.
 
-::genre::psychedelic rock, alternative rock, post rock
+::genre::psych rock, alt rock, post rock
 
 ## Fleshwater - 2000: In search of the endless Sky
 
 Das Outfit aus Massachusetts mit ihrem neuesten Werk. Post-Hardcore-Kompositionen der early 2000er mit Sprinkel von Shoegaze und Alt-Rock.
 
-::genre::post hardcore, shoegaze, alternative rock
+::genre::post hardcore, shoegaze, alt rock
 
 ## Funki Porcini - Modern Hymns for Modern Things *
 
@@ -144,7 +144,7 @@ Der deutsche Pianist, Writer, Composer und Trauerbegleiter mit neuen Komposition
 
 Der Score zur walisischen Dramaserie von der talentierten UK-Producerin Elizabeth Bernholz aka Gazelle Twin. Drone-y Ambient-Electronica, welche besser ist, als diese shitty Dramaserie. Score hören: Ja; Serie schauen: Nein
 
-::genre::cinematic ambient, cinematic electronica, drone
+::genre::cine ambient, cine electronica, drone
 
 ## Gecko & Tokage Parade - Rawment
 
@@ -168,7 +168,7 @@ Der australische Komponist und Multiinstrumentalist mit seinem neuesten Output. 
 
 Im letzten Jahr kam diese wunderbar bebilderte Dokumentation in die Kinos, welche das Leben zwischen den Trümmern in Beirut begleitete. Untermalt wurden die Szenen von den traumhaften Kompositionen des Electro-Duos HVOB aus Österreich. Hier nun das Release.
 
-::genre::cinematic modern classic
+::genre::cine modern classic
 
 ## Harmonic Pathways - September Solitude
 
@@ -180,7 +180,7 @@ Das Projekt um den kanadische Producer Michael Chambers mit neuen Klängen des A
 
 Der australische Singer & Songwriter mit neuen Kompositionen. Mit seinem Mix aus Root-Rock, Indie-Folk und Alt-Folk kann er überzeugen, wenn man damit etwas anfangen kann.
 
-::genre::roots rock, indie folk, alternative folk, americana
+::genre::roots rock, indie folk, alt folk, americana
 
 ## John Myrtle - The little World of You and Me
 
@@ -192,19 +192,19 @@ Der britische Singer & Songwriter mit seinem neuesten Album. Indie-Folk, welcher
 
 Der Ire Ronan Kealy aka Junior Brother mit seinem neuesten Werk. In der Grundstruktur dem Folk zuzuweisen, welcher progressiv Instrumentalisiert wird.
 
-::genre::indie folk, alternative folk, progressive folk
+::genre::indie folk, alt folk, prog folk
 
 ## Karfagen - Omni: A Shuffle of Fate
 
 Das Projekt um den ukrainischen Producer und Composer Antony Kalugin mit dem Abschluss zu seinem Omin Experiment. Klassischer Prog-Rock, welcher auch gern Formen des Symphonic Rock aufnimmt.
 
-::genre::progressive rock, symphonic rock
+::genre::prog rock, symphonic rock
 
 ## La Dispute - No one was driving the Car *
 
 Die amerikanische Band mit einem neuen Release. Mit ihrer Art Poesie mit Post-Hardcore und Alt-Rock zu fusionieren, konnten sie mich immer begeistern.
 
-::genre::post hardcore, alternative rock
+::genre::post hardcore, alt rock
 
 ## Laura Cannell - The visible Light of other Worlds
 
@@ -216,7 +216,7 @@ Die UK-Based Composerin mit einer neuen Improvisation von Contemporary Classic, 
 
 Das Trio aus Berlin mit seinem neuesten Werk. Ein Werk des Indie-Rocks mit Passagen aus Krautrock und Alt-Rock.
 
-::genre::indie rock, krautrock, alternative rock
+::genre::indie rock, krautrock, alt rock
 
 ## Lucian Ban, John Surman, Mat Maneri - The Athenaeum Concert
 
@@ -246,7 +246,7 @@ Das schweizer Duo mit einem neuen Release. Electro-Pop, welcher mir ein wenig la
 
 Der New Yorker Singer & Songwriter Mauro Remiddi mit neuen Kompositionen, die entstanden sind aus Gesprächen mit seiner kleinen Tochter. Entstanden sind Kompositionen zwischen Indie-Pop, Indie-Folk und Psych-Folk.
 
-::genre::indie pop, indie folk, psychedelic folk
+::genre::indie pop, indie folk, psych folk
 
 ## STM - Ultraviolet
 
@@ -258,13 +258,13 @@ Die texanische Producerin mit einem neuen Werk um ihr Projekt STM. Electro-Pop, 
 
 Die Texaner mit ihrem neuesten Output. Ein partly progressiver Mix aus Alt-Rock, Indie-Folk und Alt-Folk.
 
-::genre::alternative rock, indie folk, alternative folk
+::genre::alt rock, indie folk, alt folk
 
 ## Shame - Cutthroat
 
 Die britischen Punks mit ihrem neuesten Werk. Ein Mix aus Avant-Punk und Alt-Rock.
 
-::genre::avantgarde punk, alternative rock
+::genre::avant punk, alt rock
 
 ## Silent Theory - Theoretically Speaking III
 
@@ -282,7 +282,7 @@ Die Indie-Folk-Band aus LA mit ihrem neuesten Release. Damit ist auch schon alle
 
 Das Projekt um den britischen Multi-Instrumentalisten Ahnansé und den britischen Sänger Afronaut Zu mit seinem Debüt. Modern-Jazz wird mit Afro-Beat, Soul und einer Portion Alt-Rock in eine Komposition gebracht.
 
-::genre::modern jazz, afrobeat, neo soul, alternative rock
+::genre::modern jazz, afrobeat, neo soul, alt rock
 
 ## Still In Love - Recovery Language
 
@@ -294,13 +294,13 @@ Die UK-Based Band mit ihrem neuesten Release. Metalic-Hardcore, welcher Elemente
 
 Die routinierten Briten mit ihrem neuesten Werk. Mit dem Alter scheinen sie immer mehr ihre Wurzeln in ihre Kompositionen aufzunehmen. In der Basis-Komposition kann man es weiterhin dem Alt-Rock zuweisen, allerdings dominieren Post-Punk und New-Wave in diesem Release.
 
-::genre::alternative rock, post punk, new wave
+::genre::alt rock, post punk, new wave
 
 ## Tallah - Primeval: Obsession // Detachment **
 
 Das Dritte Output der Amerikaner, welche den Begriff Nu-Core geprägt haben. Die Band wurde gegründet von Max Portnoy, Sohn von Mike Portnoy, welcher damals noch die Drums bediente und jetzt komplett an den Bass gewechselt ist. Ein wahnsinnig progressiver Mix aus Nu-Metal, Metalcore und Progressive Metal.
 
-::genre::nu metalcore, progressive metal
+::genre::nu metalcore, prog metal
 
 ## ten56. - IO
 
@@ -324,7 +324,7 @@ Das Chicago-Outfit mit ihrem neuesten Klangwerk. Orchestraler Instrumental-Post-
 
 Das amerikanische Christian-Folk-Pop-Duo mit seinem neuesten Release. Orchestrale Pop-Kompositionen werden von Nashville-Folk begleitet.
 
-::genre::americana, alternative folk, folk pop
+::genre::americana, alt folk, folk pop
 
 ## The Microgram - Misuse
 
@@ -336,7 +336,7 @@ Der britische Producer Daniel Stephenson, hier unter seinem Alias The Microgram,
 
 Der britische Singer & Songwriter mit seinem neuesten Output. Er konnte mit seinen eher darken Indie-Folk/Alt-Folk Kompositionen bereits die Kritiker überzeugen.
 
-::genre::indie folk, alternative folk
+::genre::indie folk, alt folk
 
 ## Tony Lugo, Frank Rosaly - Pistas
 
@@ -394,7 +394,7 @@ Die russische Formation mit ihrem zweiten Teil ihrer Dreamwalker-Trilogie. Instr
 
 Der amerikanische Singer & Songwriter und Producer mit seinem neuen Album. Ein netter Mix aus Acid-Jazz, Funk, Indie-Psych und R&B.
 
-::genre::acid jazz, acid funk, indie pop, psychedelic pop, r&b
+::genre::acid jazz, acid funk, indie pop, psych pop, r&b
 
 ## Tropics - Reality Fever
 

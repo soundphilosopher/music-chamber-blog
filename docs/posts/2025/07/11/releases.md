@@ -16,7 +16,7 @@ Genre: Ambient
 
 Genre: Alt-Pop
 
-::genre::alternative pop
+::genre::alt pop
 
 ## Angerot - Seofon
 
@@ -42,7 +42,7 @@ Genre: Singer & Songwriter, LoFi Indie
 
 Genre: Progressive Metalcore
 
-::genre::progressive metalcore
+::genre::prog metalcore
 
 ## Bring Me The Horizon - Lo-files
 
@@ -54,7 +54,7 @@ Genre: LoFi Electronica
 
 Genre: Alt-Rock, Art-Rock
 
-::genre::alternative rock, art rock
+::genre::alt rock, art rock
 
 ## Cherrystones, Demdike Stare - Who owns the Dark?
 
@@ -90,7 +90,7 @@ Genre: Contemporary Classic
 
 Genre: Alt-Country, Indie-Country
 
-::genre::alternative country
+::genre::alt country
 
 ## Dino Saluzzi, Jacob Young, José Maria Saluzzi - El Viejo Caminante
 
@@ -102,7 +102,7 @@ Genre: Classical Guitar Jazz
 
 Genre: Alt-Rock
 
-::genre::alternative rock
+::genre::alt rock
 
 ## Eternal Idol - Behind A Vision
 
@@ -126,7 +126,7 @@ Genre: Blues
 
 Genre: Alt-Indie
 
-::genre::alternative indie
+::genre::alt indie
 
 ## Geier Sturzflug - Spricht
 
@@ -156,7 +156,7 @@ Genre: Instrumental Ambient Post-Rock
 
 Genre: Soundtrack
 
-::genre::cinematic modern classic
+::genre::cine modern classic
 
 ## Harmonic Pathways - Emberlight
 
@@ -174,19 +174,19 @@ Genre: Shoegaze
 
 Genre: LoFi Alt-Rock
 
-::genre::lofi, alternative rock
+::genre::lofi, alt rock
 
 ## Impureza - Alcázares
 
 Genre: Melodic Death Metal
 
-::genre::melodic death metal
+::genre::melo death metal
 
 ## Kjartan Holm, Sin Fang - Before We Forget
 
 Genre: Soundtrack
 
-::genre::cinematic ambient, cinematic modern classic
+::genre::cine ambient, cine modern classic
 
 ## Kokoroko - Tuff Times Never Last
 
@@ -216,25 +216,25 @@ Genre: Jazz
 
 Genre: Alt-Folk
 
-::genre::alternative folk
+::genre::alt folk
 
 ## Petey USA - The Yips
 
 Genre: Alt-Folk
 
-::genre::alternative folk
+::genre::alt folk
 
 ## Philosophobia - The Constant Void
 
 Genre: Progressive Metal
 
-::genre::progressive metal
+::genre::prog metal
 
 ## Primalfrost - Path Of Resilience
 
 Genre: Melodic Death Metal
 
-::genre::melodic death metal
+::genre::melo death metal
 
 ## Rancho Relaxo - Manipulation of the Thalamus
 
@@ -258,7 +258,7 @@ Genre: New Retro-Wave
 
 Genre: Progressive Stoner Metal
 
-::genre::progressive metal, stoner metal
+::genre::prog metal, stoner metal
 
 ## Split Chain - Motionblur
 
@@ -294,19 +294,19 @@ Genre: Chamber Folk
 
 Genre: Singer & Songwriter, Alt-Folk
 
-::genre::alternative folk
+::genre::alt folk
 
 ## Tony Njoku - All Our Knives Are Always Sharp
 
 Genre: Singer & Songwriter, Alt-Indie
 
-::genre::alternative indie
+::genre::alt indie
 
 ## Viogression - Thaumaturgic Veil
 
 Genre: Old-School Death-Metal
 
-::genre::old school death metal
+::genre::osdm
 
 ## Ward XVI - Identity
 
@@ -318,7 +318,7 @@ Genre: Theatrical NWOBHM
 
 Genre: Alt-Rock
 
-::genre::alternative rock
+::genre::alt rock
 
 ---
 
@@ -358,7 +358,7 @@ Genre: Post-Punk, Shoegaze
 
 Genre: Soundtrack
 
-::genre::cinematic modern classic
+::genre::cine modern classic
 
 ## Public Enemy - Black Sky Over The Projects: Apartment 2025
 
@@ -370,13 +370,13 @@ Genre: Hip Hop
 
 Genre: Soundtrack
 
-::genre::cinematic modern classic
+::genre::cine modern classic
 
 ## Deap Vally - Femejism
 
 Genre: Garage Rock, Alt-Rock
 
-::genre::garage rock, alternative rock
+::genre::garage rock, alt rock
 
 ## Ranges - Sin
 

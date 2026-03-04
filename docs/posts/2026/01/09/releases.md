@@ -14,7 +14,7 @@ authors:
 
 Der ukrainische Sing & Songwriter, Producer und Gitarrist Alex Yarmak konzentriert sich schon eine Weile auf die Re-Interpretation von Soundtracks in einem Gewand des Metal. So wird hier der Soundtrack zu dem Spiel Hollow Knight in den Sound von Modern-Metal re-interpretiert, welcher auch moderne Spuren von Prog-Metal und Post-Metal enthält.
 
-::genre::modern metal, progressive metal, post metal
+::genre::modern metal, prog metal, post metal
 
 ## Beyond The Black - Break The Silence
 
@@ -58,7 +58,7 @@ Technisch gesehen, ist dies das Sophomore Release der Finnen, welche sich 1999 g
 
 Der isländische Komponist mit seinem dritten Werk zu seinem spekulativen Science Fiction Soundtrack. Cinematic Modern Classic, welche mit viel Gefühl und Gespür mit dem Sounds des Ambient unterlegt wird. Wie ein erleuchtender Tauchgang durch kalte Meere entfalten sich die Kompositionen.
 
-::genre::modern classic, cinematic ambient
+::genre::modern classic, cine ambient
 
 ## Greg Spero, MonoNeon, Robert Searight - Pop-Ology
 
@@ -76,7 +76,7 @@ Der kanadische Producer Michael Chambers (Harmonic Pathways) mit seinem neuesten
 
 Der russische Komponist und Producer mit einem Solo-Beitrag, welcher kein Soundtrack ist, sondern seiner eigenen Inspiration entwachsen ist. Entstanden ist ein Werk zwischen Cinematic Ambient, Synthwave und Neo Classic.
 
-::genre::cinematic ambient, synth wave, neo classic
+::genre::cine ambient, synth wave, neo classic
 
 ## Lionheart - Valley of Death II
 
@@ -100,12 +100,12 @@ Die portugiesische Kapelle mit ihrem neuesten Release. Wenn man den Sound des 1s
 
 Der amerikanische Singer & Songwriter, Producer und Multi-Instrumentalist mit seinem neuesten Output. Wieder spielt er fasziniert mit gewissen Genre-Grenzen und zaubert ein recht poppiges Werk, welches ich dem Fusion zuordnen wurde. Mit seinen avantgardistischen Intermezzos bringt er immer eine gewisse künstliche Zerrissenheit hervor.
 
-::genre::fusion, avantgarde pop
+::genre::fusion, avant pop
 
 ## Sault - Chapter 1 *
 Neues vom Projekt um den britischen Producer und Multi-Instrumentalisten Dean Cover (Inflo) und der britischen Sängerin Cleo Sol. Kompositionen, welche eine Melange aus Neo Soul, Acid Funk, Alt Soul und R&B bilden.
 
-::genre::neo soul, acid funk, alternative soul, r&b
+::genre::neo soul, acid funk, alt soul, r&b
 
 ## Surefire - Endorphins
 
@@ -123,7 +123,7 @@ Das neunte Werk aus der Feder des britischen Brüder-Trios. Klassischer nord-eng
 
 Das Projekt um den deutschen Multi-Instrumentalisten Alexander von Meilenwald (The Ruins of Beverast) mit seinem neuesten Kompositionen. Metal-Komplexe der dunklen Art und Weise hat es schon immer gern zusammenfließen lassen und macht auch bei seinem neuesten Output keine Ausnahme. Elemente des Doom, Atmospheric Black Metal, Post Black Metal, Post Punk und Gothic Metal werden zu einer Symphonie der dunklen Töne vereint.
 
-::genre::doom metal, atmospheric black metal, post black metal, post punk, gothic metal
+::genre::doom metal, atmo black metal, post black metal, post punk, gothic metal
 
 ## Trigg & Gusset - Event Horizon *
 
@@ -145,7 +145,7 @@ Der amerikanische Singer & Songwriter mit seinem neuesten Release. Die 11 Kompos
 
 Die uruguayische Band mit ihrem neuesten Kompositionen. Eine Melange aus Latin Rock, Pop Rock und Alt Rock wird routiniert unter die Massen gebracht. Da sie immer mal Stücke komponieren, welche ich dem Post Punk zuweisen würde, geniesse ich manches von ihnen.
 
-::genre::post punk, latin rock, pop rock, alternative rock
+::genre::post punk, latin rock, pop rock, alt rock
 
 ## Lubomyr Melnyk - Windmills: Fragments
 

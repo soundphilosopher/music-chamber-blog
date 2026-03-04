@@ -14,19 +14,19 @@ authors:
 
 Die Franzosen mit ihrem neuesten Output. Hier bilden Drone, Progressive und Post-Metal eine Traumhafte Symbiose. Ihr werdet das Hören nicht bereuen. Tip!
 
-::genre::drone, progressive metal, post metal
+::genre::drone, prog metal, post metal
 
 ## BIG|BRAVE - Ost
 
 Das kanadische Experimental-Trio mit einem Konzeptalbum, das einiges auf den Kopf stellt. Dieses Album ist ein Soundtrack zu einem Film, welcher (noch) nicht existiert. Experimental, Dark-Cinematic, Minimal-Instrumental-Rock.
 
-::genre::experimental rock, dark cinematic rock, instrumental
+::genre::experimental rock, cine rock, instrumental
 
 ## Billow Observatory - The Glass Curtain
 
 Das transatlantische Duo mit ihrem neuen Werk. Pure Ambient-Kompositionen, ohne Percussions. Cinematic Guitars, im orchestralen Raum. Wenn die Stimmung auf ruhige, stimmige Kompositionen ausgelegt ist, dann ist das ein passendes Release.
 
-::genre::cinematic ambient
+::genre::cine ambient
 
 <!-- more -->
 
@@ -46,7 +46,7 @@ Die britischen Doom-/Sludge-Metaller mit ihrem aktuellen Werk. Nichts was man ni
 
 Das Debüt der britischen Kapelle um Neal Morse, Chester Thompson und Phil Keaggy. Was passiert, wenn sich Menschen von Transatlantic, Genesis und Glass Harp zusammen tun? Genau das hier. Classic Progressive Rock, welcher gern mal bei Queen anklopft.
 
-::genre::progressive rock
+::genre::prog rock
 
 ## Cadaver - Hymns of Misanthropy
 
@@ -58,7 +58,7 @@ Die norwegischen Death Metaller veröffentlichen ein “verloren gegangenes" Alb
 
 Die Instrumental-Version des diesjährigen Releases um das Roxy Music Mastermind. Mir gefällt die Spoken-Words-Version besser.
 
-::genre::art rock, avantgarde jazz, instrumental
+::genre::art rock, avant jazz, instrumental
 
 ## Caliban - Back From Hell
 
@@ -88,13 +88,13 @@ Die norwegische Kollaboration um Daniel Herskedal (Brass), Eyolf Dale (Piano) un
 
 Kollaboration der beiden amerikanischen Electronica Ambient Künstler. Cinematic-Synth-Ambient-Electronica.
 
-::genre::cinematic ambient, synth ambient, electronica
+::genre::cine ambient, synth ambient, electronica
 
 ## Deerhoof - Noble and Godlike in Ruin *
 
 Die kalifornischen Indie-Rocker mit ihrem neuesten Output. In ihrer progressiven Art, des Indie Rocks, begeistern sie mich immer. Abgefahrenes Werk.
 
-::genre::indie rock, progressive rock
+::genre::indie rock, prog rock
 
 ## Deserted Fear - Veins Of Fire
 
@@ -118,7 +118,7 @@ Aktuelles Werk der britischen Komponistin und Multi-Instrumentalistin. Soul-isch
 
 Die progressiven Indie Rocker aus Philadelphia mit ihrem neuesten Werk. Ich kann damit etwas anfangen.
 
-::genre::indie rock, progressive rock
+::genre::indie rock, prog rock
 
 ## Ghost - Skeletá
 
@@ -148,7 +148,7 @@ Die Sad Pop Punker aus Ohio mit ihrem neuesten Output. Wenn man mit Pop Punk etw
 
 Neuester Solo-Output vom schwedischen Kashmir Keyboardists. Cinematic-Neo-Classic Kompositionen.
 
-::genre::cinematic modern classic, neo classic
+::genre::cine modern classic, neo classic
 
 ## Sotvorishi, Heavenchord, Infinity Dots - Moments Are Forever
 
@@ -160,7 +160,7 @@ Die Kollaboration zwischen Heavenchord und Infinity Dots reißt nicht ab, diesma
 
 Der britische Singer & Songwriter und X Factor Gewinner aus 2012?, mit seinem neuesten Output. Muss man nicht gehört haben.
 
-::genre::folk rock, pop rock, alternative pop
+::genre::folk rock, pop rock, alt pop
 
 ## Carl Winther, Jeff “Tain” Watts, Richard Andersson - Steep Steps
 
@@ -190,7 +190,7 @@ Neuester Output des amerikanischen folk-y Pop Singer & Songwriters. Amerikanisch
 
 Die “Deathgazer” aus Arizona mit ihrem neuesten Output. Progressiver Death Metal, welcher mit orchestral-catchy Refrains kommt. Irgendwas finde ich an dem Album Interessant, was aber auch wieder verfliegen kann.
 
-::genre::deathgaze, progressive death metal
+::genre::deathgaze, prog death metal
 
 ## Landmvrks - The Darkest Place I’ve Ever Been
 
@@ -208,7 +208,7 @@ Die kalifornischen Groove Metaller mit einem neuen Output. Man verpasst absolut 
 
 Der Belgier mit seinem aktuellen Output. Psychedelic Indie Rock der europäischen Art.
 
-::genre::psychedelic rock, indie rock
+::genre::psych rock, indie rock
 
 ## Piano Hands - Air on a G String
 
@@ -220,7 +220,7 @@ Das Piano Duo mit ihrem neuesten Werk. Ambient Neo-Classic.
 
 Die norwegische Progressive Rock Band mit ihrem aktuellen Werk. Mich hat es in seinen Bann gezogen.
 
-::genre::progressive rock
+::genre::prog rock
 
 ## Of The Muses - Underheavens-Of Blood, Ghosts and Saltwater
 
@@ -232,13 +232,13 @@ Sophomore Release des Projekts um die Italienerin Cristina Rombi. Nichts mehr vo
 
 Das Projekt um Thomas Howard aus Atlanta. Dieser Output widmet sich dem 90’s Slowcore oder auch Alt-Dreampop.
 
-::genre::slowcore, alternative pop, dreampop
+::genre::slowcore, alt pop, dreampop
 
 ## Palace Winter - Confessions of Mr. Nowhere
 
 Das australisch-dänische Duo mit seinem neuesten Output. Es wird ein Fangnetz um Indie-Pop und Krautrock gespannt, mit einem Alt-Rock Twist.
 
-::genre::indie rock, krautrock, alternative rock
+::genre::indie rock, krautrock, alt rock
 
 ## Rashad Becker - The Incident
 
@@ -256,7 +256,7 @@ Das Projekt um die kalifornische Multi-Instrumentalistin. Ich nenne es mal Fusio
 
 Die kalifornische Singer & Songwriterin mit ihrem aktuellen Output. Carsten-Only-Pick.
 
-::genre::indie folk, alternative folk, bedroom pop
+::genre::indie folk, alt folk, bedroom pop
 
 ## Satomimagae - Taba
 
@@ -268,19 +268,19 @@ Neuester Output der japanischen Künstlerin. Acid-Folk wird dieses Genre, meiner
 
 Das neueste Werk der britischen Multi-Instrumentalistin. Sie hat sich mit diesem Projekt ihren Traum erfüllt, eine Pop-Künstlerin zu werden. Carsten-Only-Pick.
 
-::genre::introspective pop, indie pop, alternative pop
+::genre::introspective pop, indie pop, alt pop
 
 ## Light-Space Modulator - The Rising Wave
 
 Kollaboration zwischen Marlene Ribeiro (GNOD) und dem Producer (Sam) Shackleton. Psychedelic Electronica, welche, auf mich, eine anziehende Art hat.
 
-::genre::psychedelic electronica
+::genre::psych electronica
 
 ## Stereophonics - Make ‘em laugh, Make ‘em Cry, Make ‘em Wait
 
 Die walisischen Alt-Popper/Arena-Rocker mit ihrem neuesten Output. Zu der Band muss ich nicht viel schreiben. Mit dem Release, so meine ich, erfüllen sie die Vorstellungen der Fans.
 
-::genre::alternative pop, hard rock, arena rock
+::genre::alt pop, hard rock, arena rock
 
 ## Sumac, Moor Mother - The Film *
 
@@ -292,7 +292,7 @@ Kollaboration um Sumac, die “Supagroup” um Aaron Turner (Isis), Nick Yacyshy
 
 Die New Yorker Alternative Rocker mit ihrem aktuellen Release. Catchy und dennoch boring.
 
-::genre::alternative rock
+::genre::alt rock
 
 ## Tennis - Face Down In The Garden
 
@@ -304,13 +304,13 @@ Die Indie Popper aus Denver mit ihrem aktuellen Release. Sie haben sich den 70er
 
 Die Kanadier mit ihrem neuesten Output. Hunting Psych Rock. Ich kann damit etwas anfangen.
 
-::genre::psychedelic rock
+::genre::psych rock
 
 ## The Golden Dregs - Godspeed
 
 Die Briten mit ihrem aktuellen Output. Ich liebe die Stimme von Benjamin Woods. Irgendwie eine Fusion von Indie Rock und Alt-Folk aber mit der gewissen Progressivität von der Insel.
 
-::genre::alternative folk, fusion
+::genre::alt folk, fusion
 
 ## The Moonlandingz - No Rocket Required
 
@@ -322,13 +322,13 @@ Die englischen Krautrocker mit ihrem neuesten Output. Neben Krautrock, kommen au
 
 Das dänische Indie Rock Duo mit seinem neuesten Output. Wenn der Titeltrack nicht von Pixies beeinflusst ist, dann weiss ich auch nicht weiter. Indie Rock, der an die erste Progressive Welle des Indie Rock erinnert. Ich kann dem Release etwas abgewinnen.
 
-::genre::indie rock, progressive pop
+::genre::indie rock, prog pop
 
 ## The Wldlfe - Make Me Cry
 
 Die Tik Tok Post Punker aus Indianapolis mit ihrem neuen Output. Muss man kein Gehör schenken. Der Versuch, aus College Rock, Angels & Airwaves zu machen.
 
-::genre::college rock, pop punk, alternative rock
+::genre::college rock, pop punk, alt rock
 
 ## Tomasz Bednarczyk - Catbient 2.0
 
@@ -346,7 +346,7 @@ Kollaboration zwischen dem Jazz Pianisten Ignasi Terraza, dem Jazz Bassisten Pie
 
 Die schwedischen Punker mit ihrem neuesten Werk. Der nordische Punk war immer ein wenig experimenteller. Carsten-Only-Pick.
 
-::genre::progressive punk rock
+::genre::prog rock, punk rock
 
 ## Vivienne Eastwood - Take Care
 
@@ -358,7 +358,7 @@ Die Dream-y Shoegazer aus New York mit ihrem neuesten Release.
 
 Die deutschen Krautrocker mit ihrem aktuellsten Werk. Psychedelic. Kraut-y. Fusion Jazz-y. Besitzen, was das progressive Herz begeehrt.
 
-::genre::psychedelic rock, krautrock, jazz fusion
+::genre::psych rock, krautrock, jazz fusion
 
 ## William Tyler - Time Indefinite
 

@@ -10,13 +10,13 @@ categories:
 
 Die Ukrainer mit ihrem neuesten Werk. Melodic Black Metal, welcher im Theme des ersten Weltkrieges präsentiert wird. Alles wird mit einer modernen Produktion abgerundet.
 
-::genre::melodic black metal
+::genre::melo black metal
 
 ## Ancient Fragments - Vestige
 
 Das Quartett aus Barcelona mit seinem Debüt Longplayer. Modern Progressive Metal, welcher mit catchy Hooks und dem VIbe des Alt-Metal versehen ist. Birgt am Ende weniger Abwechslung als das Genre ansonsten mit sich bringt.
 
-::genre::modern metalcore, alternative metal, progressive metal
+::genre::modern metalcore, alt metal, prog metal
 
 ## André Valério, Rob Christian - Spiritwood Jazzscape: Quantum Echoes of Brazil
 
@@ -90,7 +90,7 @@ Der österreichische Producer und Komponist Oliver Johnson mit seinem neuesten R
 
 Der italienische Komponist und Pianist bringt mit dem Duo LoopArc (Marco Remondini - Cello, Stefano Zeni - Violine) neue Fragmente in seine Modern Classic Kompositionen. Das Ergebnis ist eine Perfektion der Modern Classic und Minimal Electronica und des Cinematic-Ambient.
 
-::genre::minimal electronica, cinematic ambient, modern classic
+::genre::minimal electronica, cine ambient, modern classic
 
 ## G. Love & Special Sauce - Ode to R.L.
 
@@ -132,19 +132,19 @@ Das Sophomore Release der Briten. Punk-Influenced Pub-Rock, welcher mit einer No
 
 Die Kollaboration zwischen den beiden amerikanischen Singer & Songwritern Fussell und Elkington präsentiert ein instrumentalen Soundtrack des Country-Folk, welcher avantgardistische und klassische Elemente in sich verschmelzen lässt.
 
-::genre::avantgarde folk, country folk, modern classic
+::genre::avant folk, country folk, modern classic
 
 ## João Lencastre’s Communion - Parallel Realities II *
 
 Das Sophomore Release der portugiesischen Jazz-Kommune bestehend aus João Lencastre (Drums), Albert Cirera (Saxophone), Rodrigo Pinheiro (Piano), Pedro Branco (Gitarre) und João Hasselberg (Bass). Eine Improvisation, wie auch Komposition des Free-Jazz, mit avantgardistischen, wie auch progressiven und elektronischen Tendenzen.
 
-::genre::free jazz, contemporary jazz, improvisation, avantgarde jazz
+::genre::free jazz, contemporary jazz, improvisation, avant jazz
 
 ## Jü - Rudel *
 
 Das Trio aus Ungarn mit seinem neuesten Streich. Eine experimentelle und avantgardistische Fusion von Math-Rock, Noise Rock, Avant-Jazz und Free-Jazz, welche mit Elementen der Psychedelica verfeinert wird.
 
-::genre::math rock, avantgarde jazz, noise rock, free jazz, progressive rock, psychedelic rock
+::genre::math rock, avant jazz, noise rock, free jazz, prog rock, psych rock
 
 ## Kings Kaleidoscope - Asaph’s Arrows II
 
@@ -162,7 +162,7 @@ Das Projekt um den amerikanischen Multi-Instrumentalisten “M” mit seinem vie
 
 Das Projekt um den amerikanischen Multi-Instrumentalisten Gavin Cushman III, hier mit Verstärkung um den Drummer Benjamin Standage, mit ihrem neuesten Release. Progressiver Alt-Rock wird mit Elementen des Post-Grunge, Desert-Rock und der Psychedelica vereint und auf die Menschheit losgelassen.
 
-::genre::alternative rock, progressive rock, post grunge, desert rock, psychedelic rock
+::genre::alt rock, prog rock, post grunge, desert rock, psych rock
 
 ## Lise Jonsson - Piano Echoes of Nature
 
@@ -174,13 +174,13 @@ Die norwegische Komponistin und Pianistin mit ihrem neuesten Album. Für das Ohr
 
 Der deutsche Singer & Songwriter Maximilian Barth (M. Byrd) mit seinem Sophomore Output. Surf-y Indie-Pop wird mit Elementen des Alt-Indie, Indie-Folk und Power Pop ausgestattet.
 
-::genre::surf rock, indie rock, alternative indie, indie folk, power pop, progressive pop
+::genre::surf rock, indie rock, alt indie, indie folk, power pop, prog pop
 
 ## Matt Pryor - The Salton Sea
 
 Der Frontman von The Get Up Kids mit seinem neuesten Solo-Release. Ich könnte mir vorstellen, dass The Get Up Kids unplugged so klingen würden. Eine Dramaturgie des Alt-Indie und Indie-Folk.
 
-::genre::alternative indie, indie folk
+::genre::alt indie, indie folk
 
 ## Mattia Vlad Morleo - The quiet Beauty of familiar Places
 
@@ -198,13 +198,13 @@ Die New-Waver aus Kanada mit ihrem neuesten Release. Gegründet ‘77 sind nicht
 
 Das spanische Quartett mit seinem neuesten Output. Eine Mischung des Indie-Rocks wird mit Spuren des Emo und Alt-Rock verfeinert.
 
-::genre::indie rock, emocore, alternative rock
+::genre::indie rock, emocore, alt rock
 
 ## Move 78 - In the Age of Data *
 
 Das Kollektiv aus Berlin mit seinem neuesten Werk. Audio-Collagen (Spoken Words) werden eingebettet in Improvisationen des Jazz, UK Hip Hop und der Psychedelica.
 
-::genre::nu jazz, trip hop, psychedelic pop, uk jazz, spoken words
+::genre::nu jazz, trip hop, psych pop, uk jazz, spoken words
 
 ## Odonis Odonis - Odonis Odonis
 
@@ -240,7 +240,7 @@ Die Briten, welche sich selbst nicht so ernst nehmen, mit ihrem neuesten Release
 
 Das Debüt des amerikanischen Duo. Doom-y Old School Death Metal, welcher mit einer gewissen Melancholie und Tiefe dargeboten wird.
 
-::genre::old school death metal, doom metal
+::genre::osdm, doom metal
 
 ## Restive Plaggona - Short Story
 
@@ -252,13 +252,13 @@ Neues von dem griechischen Producer und DJ Dimitris Doukas (Restive Plaggona). I
 
 Die Pariser mit ihrem neuesten Release. Alt-Metal, welcher mit Rap ausgestattet wird. Besitzt weder die “I don’t care” von Limp Bizkit, noch die “true live” Attitüde von Body Count und schneidet durch die schwachen Vocals/Raps Victor’s eher lächerlich ab.
 
-::genre::alternative metal, rap metal
+::genre::alt metal, rap metal
 
 ## Seryn - War on Christmas
 
 Die Nashville-Based Band mit ihrem Beitrag zu Weihnacht. Alt-Folk, welcher mit einer gewissen Leichtigkeit auch Formen des Indie-Folk annehmen kann. All dies eingebettet in recht sarkastischen Weihnachts-Lyrics und keine langweiligen "Weihnachts-Interpretationen".
 
-::genre::alternative folk, country folk, americana
+::genre::alt folk, country folk, americana
 
 ## Shuko - Brasil
 
@@ -270,13 +270,13 @@ Der renommierte deutsche Producer und Komponist mit einem neuen Beitrag. Brazil-
 
 Das Sophomore Release des Atlanta-Based Trios. Geboten wird ein Experiment des Post-Grunge, Indie-Pop, Dream Pop und Alt-Rock.
 
-::genre::post grunge, indie pop, dreampop, alternative rock
+::genre::post grunge, indie pop, dreampop, alt rock
 
 ## The Avett Brothers, Mike Patton - AVTT/PTTN
 
 Das Projekt um Mike Patton und The Avett Brothers mit seinem Debüt. Der facettenreiche Singer & Songwriter Mike Patton bringt mit dieser Kollaboration ein eher klassisches Werk des Folk-Rock und Alt-Pop ans Tageslicht. Mike kann sich hier definitiv an neuen Gesangs-Strukturen austoben.
 
-::genre::folk rock, alternative pop
+::genre::folk rock, alt pop
 
 ## The Devil Wears Prada - Flowers
 
@@ -300,7 +300,7 @@ Neues von den Schweden. Eine melancholische, moody Melange aus Dream Pop, New Wa
 
 Nach der Auszeit und der Entlassung von Drummer Brandon Fried, welchen sexuelle Übergriffe vorgeworfen werden, sind die Amerikaner wieder zurück mit neuen Kompositionen. Geboten wird klassischer amerikanischer Indie-Rock, welcher mit Noten des Pop und Power Pop versehen wird.
 
-::genre::indie rock, power pop, alternative pop
+::genre::indie rock, power pop, alt pop
 
 ## The Spitters - Fake Brutal
 
@@ -324,7 +324,7 @@ Das Ensemble um die dänische Jazz-Saxophonistin Tineke Postma mit einem neuen R
 
 Der polnische Producer mit einen Teil-Release zu seiner Ambient-Serie. Theatralischer Ambient, welcher die wöchentlichen Ambient-Soundscapes zusammenfasst zum heutigen Tage.
 
-::genre::cinematic ambient
+::genre::cine ambient
 
 ## Trace Amount - Flagrant
 
@@ -336,13 +336,13 @@ Das Projekt um den New Yorker Multi-Instrumentalisten Brandon Gallagher mit eine
 
 Das amerikanische Duo mit seinem neuesten Output. In extravagant Art und Weise wird eine Melange aus Black-Death-Metal und Progressive Metal abgebildet, welche eine gewissen Hang zum Avantgard nicht verstecken kann und auch nicht braucht. Teils thrash-y, teils misanthropisch, teils progressiv aber nie wirklich langweilig.
 
-::genre::progressive metal, blackened death metal, avantgarde black metal
+::genre::prog metal, blackened death metal, avant black metal
 
 ## Voidceremony - Abditum
 
 Das dritte Release der amerikanischen Formation. Kompositionen des Progressive-Death-Metal bringen das Ohr zum Glühen und die Synapsen zum Schwingen. Das Gefühl der Wiederholung lässt sich allerdings nicht ganz ausräumen, trotz des progressiven Songwriting.
 
-::genre::progressive death metal
+::genre::prog death metal
 
 ## Wajdi Riahi Trio - Zabonprés Sessions
 
@@ -372,10 +372,10 @@ Nach fast 10 Jahren bringt die amerikanische Combo neues ans Tageslicht. Neben i
 
 Die beiden polnischen Künstlerinnen Yana Couto und Zuzanna Ossowska (OS.SO) vereinen ihre Stärken in diesen theatralischen, minimalistischen Werk der Neo-Classic. Das sanfte Piano umschmeichelt von fast unheimlich wirkenden Vocal-Fragmenten zaubert eine sehr emotionale Stimmung.
 
-::genre::neo classic, cinematic modern classic
+::genre::neo classic, cine modern classic
 
 ## Yawning Man - Pavement Ends *
 
 Die amerikanischen Experimental-Rocker kehren ins Studio zurück und lassen ihrer Kreativität freien Lauf. Die fast 40 jährige Bandkarriere merkt man der Combo nicht an. Ein Feuerwerk in instrumentalen Kompositionen des Post-Sludge, welcher neben Psychedelica auch Desert-Rock zulässt und in eine melancholische Wüsten-Tristesse vereint.
 
-::genre::post sludge metal, psychedelic rock, desert rock, instrumental
+::genre::post sludge metal, psych rock, desert rock, instrumental

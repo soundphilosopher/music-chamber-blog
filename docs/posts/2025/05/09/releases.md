@@ -20,7 +20,7 @@ Der australische Künstler und Komponist mit einem neuen Output um sein Projekt 
 
 Die kanadischen Alt-Indie Rocker mit einem neuen Klangwerk. Ich kann meine Ohren nicht davon ablassen. Eines der Releases, welches auf meiner 2025 Liste auftauchen wird. Love it!
 
-::genre::alternative rock, indie rock
+::genre::alt rock, indie rock
 
 ## Arthur Possing Quartet, Joel Rabesolo - Homes
 
@@ -38,7 +38,7 @@ Der neueste Streich der polnischen Blackened Death Metaller. Es ist ein besserer
 
 Das kalifornische Trio um den Dredg Gitarristen, den Far Drummer und den Trophy Fire Sänger/Gitarristen, mit ihrem neuesten Werk. Der Prog-Einfluss ist noch nicht ganz verschwunden, weicht allerdings immer mehr dem Alt-Rock und Post-Grunge.
 
-::genre::progressive pop, alternative rock, post grunge
+::genre::prog pop, alt rock, post grunge
 
 ## Coast - Ember
 
@@ -50,19 +50,19 @@ Die australische Formation um den Jazz-Drummer Paul Derricott, mit ihrem neueste
 
 Der kalifornische Singer & Songwriter mit einem neuen Werk. 70er Influenced Soul/R&B, mit einer stimmigen Produktion. Ich mag diesen 70er Soul/R&B Motown Sound. Carsten-Only-Pick? Probably.
 
-::genre::soul, r&b
+::genre::neo soul, r&b
 
 ## Deradoorian - Ready for Heaven
 
 Die New Yorker Multi-Instrumentalistin mit ihrem neuesten Klangwerk. Eine experimentelle Tour de Post-Punk. Wildes Werk, was mich ab und an an die Kreativität von Talking Heads erinnert hat.
 
-::genre::post punk, art rock, avantgarde rock
+::genre::post punk, art rock, avant rock
 
 ## Dexter Britain - Solo, Vol. 3
 
 Der britische Komponist mit der dritten Runde seiner Solo-Arbeiten. Cinematische Piano Kompositionen, für den gemütlichen Abend am Kamin.
 
-::genre::cinematic modern classic, modern classic
+::genre::cine modern classic, modern classic
 
 ## Duval Timothy - Wishful Thinking
 
@@ -74,7 +74,7 @@ Der britische Multi-Disziplinäre Künstler mit einer neuen Komposition. Eine Fa
 
 Die New Yorker Prog-Rocker mit neuen Kompositionen, seit 2016. Das Release war überraschend, für mich, was das Quartett darin komponiert und kombiniert hat, weniger. Ein bombastisches Progressive Rock Release, mit Einsatz von Flöte und Kreativität.
 
-::genre::progressive rock
+::genre::prog rock
 
 ## Ghost Bath - Rose Thorn Necklace **
 
@@ -86,7 +86,7 @@ Die amerikanischen Blackgazer mit ihrem neuesten Output. Von der Produktion und 
 
 Das norwegische Trio um die Gitarristin Hedvig Mollestad mit einem neuen Output. Ein Mix aus Southern Rock, Progressiv Jazz und Psychedelica.
 
-::genre::southern rock, progressive jazz, psychedelic rock
+::genre::southern rock, prog jazz, psych rock
 
 ## Holy Holy - Sweet Bitter Sweet
 
@@ -104,7 +104,7 @@ Die, ich meine spanischen?, Blackened Death Metaller mit ihrem sophomore Release
 
 Die isländische Alt-Rocker mit ihrem neuesten Output. Alt-Rock im Mix mit amerikanischen Alt-Folk, Indie-Rock und Modern Blues.
 
-::genre::alternative folk, indie rock, blues
+::genre::alt folk, indie rock, blues
 
 ## Kara-Lis Coverdale - From Where You Came
 
@@ -122,7 +122,7 @@ Die britischen Punker mit ihrem neuesten Output. American-Influenced Punk, mit w
 
 Der Norweger mit seinem neuesten Werk. Der Keyboarder von Wobbler mit Progressive Rock Kompositionen der symphonischen Art.
 
-::genre::progressive rock, symphonic rock
+::genre::prog rock, symphonic rock
 
 ## Lazy Legs - Tower
 
@@ -134,7 +134,7 @@ Das Slowcore Outfit aus Portland mit ihrem neuesten Werk. Post-grunge-y Komposit
 
 Die portugiesischen Psychedelic-Rocker mit ihrem aktuellen Output. Klassischer Psychedelic-Rock, mit Progressive und Stoner Einflüssen.
 
-::genre::psychedelic rock, progressive rock, stoner rock
+::genre::psych rock, prog rock, stoner rock
 
 ## Mark Pritchard, Thom Yorke - Tall Tales
 
@@ -176,7 +176,7 @@ Das Projekt um den griechischen Produzenten mit einem neuen Release. Ambient Ele
 
 Die Briten mit ihrem neuesten Output. Modern Progressive Metal, welcher sich immer mehr in die Richtung von Nu-Metal entwickelt. Eine Gesamtkomposition aus Trap, Modern Prog-Metal und Alt-Metal. Die Auto-Tune Vocals stören mich sehr. So recht weiß ich nicht, ob sie es hier mit den Trap-Einflüssen, für mich, übertrieben haben.
 
-::genre::modern progressive metal, trap, alternative metal
+::genre::prog metal, trap, alt metal, modern metal, electronica
 
 ## Sold Soul - Just like that, I disappear entirely
 
@@ -188,7 +188,7 @@ Die amerikanischen Modern Deathcorer mit ihrem aktuellen Output. Für das Genre 
 
 Der amerikanische R&B Rekonstruktion mit seinem neuesten Werk. Progressiv vorgetragener R&B, welcher die 70er nicht vernachlässigt. Carsten-Only-Pick? Probably.
 
-::genre::progressive r&b
+::genre::prog r&b
 
 ## Svarta Havet - Månen ska lysa din väg *
 
@@ -206,7 +206,7 @@ Das amerikanische Nu-Metal Quartett mit ihrem neuesten Output. 2000er Nu-Metal m
 
 Die britischen Indie Rocker mit ihrem neuesten Release. Entfernen sich mit diesem Release ein wenig vom Indie-Rock und geben den Gitarren mehr Overdrive, was eine Art Alt-Indie-Rock am Ende erzeugt.
 
-::genre::indie rock, alternative rock
+::genre::indie rock, alt rock
 
 ## Brian Bilston and The Catenary Wires - Sound made by Humans
 
@@ -224,19 +224,19 @@ Die amerikanischen Indie-Folker mit ihrem neuesten Release. Carsten-Only-Pick? P
 
 Die etablierten britischen Indie Rocker mit ihrem neuesten Werk. Ziemlich gelassenes Werk der Briten, mit Einflüssen von Psychedelic- und Surf-Rock.
 
-::genre::indie rock, psychedelic rock, surf rock
+::genre::indie rock, psych rock, surf rock
 
 ## The Vernon Spring - Under a familiar Sun
 
 Der britische Komponist mit seinem neuesten Werk um sein Projekt “The Vernon Spring”. Eine Fahrt durch die Welten der Neo-Klassik, Ambient Electronica und Alt-Indie-Pop.
 
-::genre::alternative pop, indie pop, neo classic, ambient, electronica
+::genre::alt pop, indie pop, neo classic, ambient, electronica
 
 ## The Wonder Years - Burst & Decay (Volume III)
 
 Die (Jetzt) Alternative Rocker aus Pennsylvania mit ihrem dritten Output der “Burst & Decay" -Serie, welche sich auf akustische Vertonungen konzentriert. Ich kann nach ihrem 2011er Release im Grunde nichts mehr mit ihnen anfangen, verfolge sie aber natürlich dennoch.
 
-::genre::alternative rock
+::genre::alt rock
 
 ## Unwed Sailor - Cruel Entertainment
 

@@ -26,7 +26,7 @@ Die französische Jazz-Drummerin mit ihrer neuesten Komposition. Der Modern-Jazz
 
 Das italienische Duo mit seinem neuesten Werk. Die überwiegend instrumentalen Kompositionen bewegen sich problemlos zwischen Jazz-Fusion, Progressive-Metal und Djent.
 
-::genre::progressive metal, djent, jazz fusion, instrumental
+::genre::prog metal, djent, jazz fusion, instrumental
 
 <!-- more -->
 
@@ -34,19 +34,19 @@ Das italienische Duo mit seinem neuesten Werk. Die überwiegend instrumentalen K
 
 Die französische Spiritual-Soul-Jazzerin mit ihrem neuesten Werk. Eine Reise durch Soul, Pop, Elemente des Jazz und indigene Instrumentalisierungen, welche die spirituelle Welt in voller Farbe abbildet.
 
-::genre::spiritual soul, alternative pop, spiritual jazz
+::genre::spiritual soul, alt pop, spiritual jazz
 
 ## Balmorhea - The Trap (Original Motion Picture Soundtrack)
 
 Das Minimal-Instrumental-Duo aus Texas mit seinem neuesten Output, welches einen Soundtrack zu Lena Headey’s Werk aus dem Jahr 2023 abbildet und die Inner-Reise der Protagonistin Michelle begleitet.
 
-::genre::cinematic modern classic
+::genre::cine modern classic
 
 ## Belinda Carlisle - Once upon a TIme in California
 
 Die amerikanische Pop-Ikone mit ihrem neuesten Werk. Musikalisch Anfänge als (Kurzzeit-)Drummerin der Germs, feierte sie schnell Erfolge mit der Rock & Roll Hall of Fame Band The Go-Go’s Anfang der 80er, bis ihre erfolgreiche Solokarriere startete. Das Album stellt nicht “Neues” dar, sondern präsentiert Re-Interpretationen von “Bekannten”.
 
-::genre::alternative pop
+::genre::alt pop
 
 ## Blood Orange - Essex Honey
 
@@ -100,19 +100,19 @@ Das etablierte Trio aus New York mit einem neuen Release. Funk wird mit New-York
 
 Der IDLES Soundtrack zu Darren Aronofsky’s neuesten Film. Quote: “It really was about being in the studio with the scenes and obviously Rob’s amazing composition, And then just, I guess, adapting it and giving it depth with our tones and the 700 pedals that our guitarists have got.”
 
-::genre::cinematic rock
+::genre::cine rock
 
 ## Ihlo - Legacy
 
 Das UK-Trio mit seinem neuesten Output. Das Sophomore Release kann mit seinen Progressive-Metal-Kompositionen die Ohren begeistern. In der Progressivität werden Electronica-, Rock- und Pop-Elemente in die Metal-Klangwelten verbaut.
 
-::genre::progressive metal, electronica, alternative pop ,alternative rock
+::genre::prog metal, electronica, alt pop ,alt rock
 
 ## In Mourning - The Immortal
 
 Die schwedischen Melo-Death-Metaller mit ihrem neuesten Streich. Der Gothenburg-Sound ist weiter präsent, wird aber immer mehr von progressiven Songstrukturen begleitet. Starkes Songwriting und Produktion. Eines der besseren Melo-Death-Releases in diesem Jahr.
 
-::genre::melodic death metal
+::genre::melo death metal
 
 ## Jon Secada, Gonzalo Rubalcaba - Fascination
 
@@ -124,7 +124,7 @@ Die Kollaboration zwischen Singer & Songwriter Jon Secada und dem Jazz-Pianisten
 
 Die Kollaboration zwischen dem kanadischen Duo Shabason & Krgovich und dem japanischen Avent-Pop-Duo Tenniscoats umschmeichelt das Ohr mit seinen New-Age-Kompositionen. Entstanden aus zwei Tagen Studio-Improvisation und der Beobachtung des Pazific aus dem Studio-Fenster.
 
-::genre::avantgarde pop, j-pop, new age
+::genre::avant pop, j-pop, new age
 
 ## Margo Price - Hard Headed Woman
 
@@ -136,19 +136,19 @@ Die amerikanische Singer & Songwriterin mit ihrem neuesten Werk. Nashville-Count
 
 Das neueste Werk der UK-Based Band bringt einige Krautrock-Einflüsse in seine Alt-Indie-Kompositionen. Irgendwie geniales Songwriting.
 
-::genre::krautrock, indie rock, alternative rock, progressive pop
+::genre::krautrock, indie rock, alt rock, prog pop
 
 ## Monumental - When I liked myself just a little too much
 
 Die schweizer Formation mit ihrem Debüt. Dunkle Kompositionen des Avant-Pop, mit starkem Songwriting und Produktion. 
 
-::genre::avantgarde pop
+::genre::avant pop
 
 ## Nasal Wings - Yellow Breeze
 
 Das Sophomore Release der deutschen Fusion-Band. Kombinieren Indie-Folk, Psychedelic und Alt-Pop zu einem Fluss des Klanges.
 
-::genre::indie folk, psychedelic pop, alternative pop
+::genre::indie folk, psych pop, alt pop
 
 ## Nate Smith - Live-Action
 
@@ -166,7 +166,7 @@ Nachdem die UK-Based Band um Nick Corbin sich eigentlich schon verabschiedet hat
 
 Die UK-Based Band um das Duo Amy Love und Georgia South mit seinem neuesten Werk. Alt-Pop, Alt-Rock und Alt-Metal werden in Kombination zu einer Komposition gebracht. Auf ihrem dritten Werk widmen sie ihr Songwriting mehr “der dunklen Seite”.
 
-::genre::alternative pop, alternative rock, alternative metal
+::genre::alt pop, alt rock, alt metal
 
 ## Oren Ambarchi, Johan Berthling, Andreas Werliin - Ghosted III *
 
@@ -190,7 +190,7 @@ Der kanadische Singer & Songwriter mit seinem neuesten Release. Bedroom-Indie-Fo
 
 Neues von der Doom-Death-Kapelle aus den Niederlande. Melodischer Doom-Death, welcher auch Freude an Post-Metal zu haben scheint.
 
-::genre::post metal, doom metal, melodic death metal
+::genre::post metal, doom metal, melo death metal
 
 ## Plant43 - Feeding the Machines
 
@@ -220,13 +220,13 @@ Der Producer aus Malta mit neuen Kompositionen. Minimal Electronica, Neo-Classic
 
 Das Sophomore Release des Projekts um den Singer & Songwriter Noah Weinman. Post-Grunge in Dualität mit Alt-Rock.
 
-::genre::post grunge, alternative rock
+::genre::post grunge, alt rock
 
 ## Sabrina Carpenter - Man’s best Friend
 
 Der “Girl Meets World” Star mit ihrem siebten Studioalbum. Die Einflüsse der beiden Producer Jack Antonoff und John Ryan lassen sich nicht verbergen. Beim Hören des ersten Tracks dachte ich mir: “Das könnte auch ein Bleachers Song sein.”
 
-::genre::alternative pop, introspective pop, bubblegum pop
+::genre::alt pop, introspective pop, bubblegum pop
 
 ## Slow Crush - Thirst
 
@@ -238,7 +238,7 @@ Die Belgier mit ihrem neuesten Release. Ein spannender Mix aus Post-Metal, Post-
 
 Das Projekt um den deutschen Multi-Instrumentalist Christian Peters (Samsara Blues Experiment) mit einem neuen Werk. Irgendwo zwischen Psychedelic Rock und Krautrock. Space Rock passt vermutlich am besten durch die Thematik, welche die Kompositionen eröffnet.
 
-::genre::space rock, psychedelic rock, krautrock
+::genre::space rock, psych rock, krautrock
 
 ## Tanhai Collective - Circa 2019
 
@@ -250,13 +250,13 @@ Das dritte Werk der UK-Jazz-Formation. Dem Groove verpflichtetes Werk des New-Ja
 
 Die kanadische Singer & Songwriterin mit ihrem neuen Album. Entstanden während eines Retreats, sind die Kompositionen mehr im Minimal- oder LoFi-Bereich angesiedelt, was dem Songwriting um Dreampop und Alt-Folk nicht schlecht steht.
 
-::genre::lofi, dreampop, alternative folk
+::genre::lofi, dreampop, alt folk
 
 ## The Beths - Straight Line was a Lie
 
 Die Alt-Indie-Kapelle aus Neuseeland mit ihrem neuesten Werk. Einprägsamer Indie-Rock, welcher folk-y und alt-rock-y Strukturen annehmen kann.
 
-::genre::indie rock, indie folk, alternative rock
+::genre::indie rock, indie folk, alt rock
 
 ## The Casket Lottery - Feel the Teeth
 
@@ -280,7 +280,7 @@ Das Projekt um den kanadischen Singer & Songwriter Carter De Filippis mit seinem
 
 Das Projekt um den amerikanischen Bassisten John Lisi mit seinem Debüt. Progressive-Rock der Jazz-Fusion Art und Weise.
 
-::genre::progressive rock, jazz fusion
+::genre::prog rock, jazz fusion
 
 ## Two Sides Of Me - Clinging to the Edge of Life
 
@@ -292,19 +292,19 @@ Die Kapelle aus Virginia mit ihrem neuesten Release. Ziemlich langweiliger Mix a
 
 Die Finnen mit ihrem neuesten Werk. Dieser symphonische Melodic-Metal scheint eine finnische “Erfindung” zu sein. Es scheint Fans für das Genre zu geben, ich scheine nicht wirklich einer zu sein.
 
-::genre::melodic metal, symphonic metal
+::genre::melo metal, symphonic metal
 
 ## Vistas - Cut the Cord
 
 Die Alt-Rocker aus Schottland mit ihrem neuesten Album. Alt-Rock, welcher Elemente des Desert-Rock nicht vernachlässigt.
 
-::genre::alternative rock, desert rock
+::genre::alt rock, desert rock
 
 ## Wucan - Axioms *
 
 Die Psych-Prog-Rocker aus Dresden mit ihrem neuen Release. Durch den Einsatz der Flöte könnte man meinen, dass Jethro Tull möglicherweise ein Einfluss der Band sein könnte und man liegt damit auch nicht so falsch. Klassischer Prog-Rock mit Psychedelic- und Krautrock-Einflüssen.
 
-::genre::progressive rock, psychedelic rock, krautrock
+::genre::prog rock, psych rock, krautrock
 
 ## Zetokrev - … bring Mirrors to the Surface *
 
@@ -332,13 +332,13 @@ Das norwegische Duo mit seinem neuesten Werk. Post-Grunge, welcher mit Einflüss
 
 Die Australier gründeten sich bereits 1996 und haben drei EPs und eine kleine Pause von 2001 bis 2025 in ihrem Portfolio. Mit diesem Release veröffentlicht die Band in der Tat ihr Debüt. Alt-Rock mit einer Portion Post-Grunge wird dem Ohr am Ende geboten.
 
-::genre::alternative rock, post grunge
+::genre::alt rock, post grunge
 
 ## Embleton - This could really Hurt your Brand
 
 Der amerikanische Singer & Songwriter mit seinem neuesten Release. Eine Komposition aus Indie-Folk, Alt-Folk und Indie-Rock mit einem typischen Nashville-Sound.
 
-::genre::americana, indie folk, alternative folk, country folk
+::genre::americana, indie folk, alt folk, country folk
 
 ## Offthesky - Nocturnas
 
@@ -350,7 +350,7 @@ Der experimentell Musiker Jason Corder aka Offthesky mit seinem neuesten Output.
 
 Der spanische Composer und Pianist Vicente Bueso mit neuen Kompositionen der Neo-Classic, mit einem Twist in Electronica und Pop.
 
-::genre::neo classic, electronica, alternative pop
+::genre::neo classic, electronica, alt pop
 
 ## Parhelia - Parhelia Ad Astra
 

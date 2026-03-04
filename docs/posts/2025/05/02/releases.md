@@ -46,7 +46,7 @@ Kollaboration zwischen der amerikanischen Klarinettistin und der britischen Komp
 
 Der griechische Tausendsassa mit seinem aktuellen Werk. Zu diesem Werk hat sich der Künstler Unterstützung von Künster*innen geholt, die er verehrt. Herausgekommen ist ein Alternative Rock Album, welches sich nicht verstecken muss.
 
-::genre::alternative rock
+::genre::alt rock
 
 ## Arve Henriksen, Trygve Seim, Anders Jormin, Markku Ounaskari - Arcanum
 
@@ -58,25 +58,25 @@ Das Erstlingswerk um das skandinavische Projekt “Arcanum”. Das Jazz Quartett
 
 Die norwegische Singer & Songwriterin mit ihrem neuesten Output. Ein Synth-/Alt-Pop Output, welches sich nicht verstecken muss. Mit hoher Wahrscheinlichkeit ein Carsten-Only-Pick. I love it.
 
-::genre::synth pop, alternative pop
+::genre::synth pop, alt pop
 
 ## Beware of Gods - Upon whom the last Light descends II: Amnesia Island *
 
 Die Amerikaner mit einem neuen Output. Wie immer, bleiben sie keinem Stil wirklich treu. Progressive-Post-Metal würde es vermutlich am Besten treffen. Irgendwie ein beeindruckendes Werk.
 
-::genre::progressive metal, post metal
+::genre::prog metal, post metal
 
 ## Black Honey Cult - Black Honey Cult *
 
 Das Quintett aus LA mit ihrem neuesten Werk. Eine psychedelische Tour zwischen Krautrock und Post-Punk. Genial. Ich mag es.
 
-::genre::krautrock, post punk, psychedelic rock
+::genre::krautrock, post punk, psych rock
 
 ## Bleak Magician - No Fireball Show
 
 Die Australier mit ihrem Erstling. Melodischer 90s Brit-Indie-Rock, mit einen punk-y Vocalist, welcher mit an alte Arctic Monkeys erinnert. Musik, mit welcher ich auch groß geworden bin. I like it.
 
-::genre::indie rock, garage rock revival
+::genre::indie rock, garage rock
 
 ## Bleed - Bleed *
 
@@ -130,31 +130,31 @@ Der finnische “Breakbeat Master” mit seinem neuesten Werk. Ambient-reicher B
 
 Der Italiener mit seinem aktuellen musikalischen Output. Den 60er/70er nicht abgeneigter Alt-Pop. Ich habe gar ein Theremin in ein paar Kompositionen vernommen.
 
-::genre::alternative pop, progressive pop
+::genre::alt pop, prog pop
 
 ## Gypsy Pistoleros - Church of the Pistoleros
 
 Die britischen Glam Punker mit ihrem aktuellen Album. Sleazy im Goth-Outfit arrangierter Glam Punk, mit catchy Refrains und lazy Songwriting.
 
-::genre::glam punk, sleaze, glam punk
+::genre::glam punk, sleaze, proto pop punk
 
 ## Hate - Bellum Regiis
 
 Die polnische Death Metal Kapelle mit ihrem neuesten Output. Atmospheric Death Metal, mit einem Hauch Black-Metallischer Vibes im Songwriting.
 
-::genre::death metal, atmospheric death metal
+::genre::death metal, atmo death metal
 
 ## Jenny Hval - Iris Silver Mist
 
 Die norwegische Künstlerin mit ihrem neuesten Album. Elemente von Alt-Pop, Synth-Pop, Spoken Words und 80s Pop werden hier in Form gegossen und auf die Hörer gelassen.
 
-::genre::alternative pop, synth pop, progressive pop, spoken words
+::genre::alt pop, synth pop, prog pop, spoken words
 
 ## Labyrinthus Stellarum - Rift in Reality *
 
 Die Ukrainer mit ihrem neuesten Streich. Atmospheric Post-Black-Metal, welcher sich am Science Fiction Thema kunst- und kraftvoll austobt. Ich mag deren Releases bisher und auch dieses enttäuscht nicht bei mir.
 
-::genre::post black metal, atmospheric black metal
+::genre::post black metal, atmo black metal
 
 ## Lael Neale - Altogether Stranger
 
@@ -178,7 +178,7 @@ Der Kanadier Loscil aka Scott Morgan wartet hier auf sein neuesten Machwerk. Amb
 
 Die brasilianischen Progressive Metaller mit ihrem neuesten Streich. Was für ein starkes Werk. Erstklassiges Songwriting, starke Produktion und erstklassige Instrumentalisierung. Mich hat es gefesselt.
 
-::genre::progressive metal
+::genre::prog metal
 
 ## Misfire - Product of the Environment
 
@@ -220,13 +220,13 @@ Die (Post-)Grunger aus Kansas City mit einem neuen Werk. Ja, habe es gehört und
 
 Die Liverpooler mit ihrem neuesten Werk. Brit-Indie-Rock, welcher auch gern in den Alt-Punk ala The Clash abbiegt. Vom Songwriting her ein beeindruckendes Werk.
 
-::genre::indie rock, alternative punk rock
+::genre::indie rock, alt rock, punk rock
 
 ## Skyjoggers - 12021: Post-Electric Apocalypse
 
 Die Finnen mit ihrem neuesten Output. Eine Komposition aus Space Rock, Stoner Rock und Psychedelic.
 
-::genre::space rock, stoner rock, psychedelic rock
+::genre::space rock, stoner rock, psych rock
 
 ## Søndag Søndag - Flux Nebula
 
@@ -244,7 +244,7 @@ Die Kollaboration zwischen dem britischen Sound Artist Taylor Deupree und dem br
 
 Die schwedischen Prog-Rock-Legenden mit ihrem neuesten Streich. Klassische Prog-Kompositionen, die einladend präsentiert werden.
 
-::genre::progressive rock
+::genre::prog rock
 
 ## The Supernaturals - Show Tunes
 
@@ -256,4 +256,4 @@ Die schottischen Indie-/Surf-Rocker mit ihrem neuesten Werk. I like this stuff.
 
 Die amerikanischen Metalcorer mit ihrem aktuellsten Werk. Metalcore, mit kleinen progressiven Experimenten und Melo-Death Einlagen. Guter Output für das Genre.
 
-::genre::melodic death metal
+::genre::melo death metal

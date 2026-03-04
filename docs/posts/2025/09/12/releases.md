@@ -30,7 +30,7 @@ Der finnische Jazz-Pianist mit seinem neuesten Werk. Nordic-Jazz in seiner purst
 
 Die französische Formation mit ihrem neuesten Release. Geboten wird ein Mix aus Post-Grunge, Alt-Rock, Stoner-Rock und Space-Rock, mit aufregenden Songwriting.
 
-::genre::post grunge, alternative rock, stoner rock, space rock
+::genre::post grunge, alt rock, stoner rock, space rock
 
 ## Ariel Pink - With you every Night
 
@@ -54,7 +54,7 @@ Das Gespann aus den Staaten mit ihrem neuesten Output. Ich mag Garage-Punk, dahe
 
 Für die Band aus North Carolina scheint es keine Grenze der Kreativität zu geben. Die Progressive-Metaller können auch mit diesem Werk punkten. Kreatives Songwriting und starke Produktion. Weiter so.
 
-::genre::progressive metal, experimental metal
+::genre::prog metal, experimental metal
 
 ## Byron Metcalf - Spiral Exchange
 
@@ -84,7 +84,7 @@ Die Band um den American Idol Finalist Chris Daughtry mit dem zweiten Teil ihrer
 
 Der österreichische Jazz-Pianist  und die österreichische Jazz-Cellistin mit einer neuen Kollaboration, welche Pop-, Rock- und Jazz-Hits neu interpretiert und den Klangfarben des Duos wiedergibt, welche die Grenzen zwischen Pop, Jazz und Klassik fließend auflösen.
 
-::genre::alternative pop, contemporary jazz, modern classic
+::genre::alt pop, contemporary jazz, modern classic
 
 ## Dead End Tragedy - Electrical Impulse of Hate
 
@@ -96,7 +96,7 @@ Die deutsche Beatdown-Kapelle scheint ihrem Fünf-Jahres-Rhythmus für Releases 
 
 Die Band aus Würzburg mit ihrem neuen Release. Atmospheric Black Metal, welcher durch seine durchgängige Thematik von Angst, Leid und Qual sicherlich auch gut in die Sparte Depression Black Metal passt. Starkes Songwriting und Produktion.
 
-::genre::atmospheric black metal, post black metal
+::genre::atmo black metal, post black metal
 
 ## Die Höchste Eisenbahn - Wenn wir uns wieder sehen schreien wir uns wieder an
 
@@ -108,7 +108,7 @@ Die Berliner Indie-Rocker mit ihrem neuesten Werk. Ich nenne es gern Baggersee-I
 
 Das Debüt der aus Texas stammenden Band. Mit ihrem Mix aus Post-Grunge, Punk, Alt-Rock und Desert-Rock besitzen sie ein simples aber facettenreiches Songwriting, was begeistern kann.
 
-::genre::post grunge, punk rock, alternative rock, desert rock
+::genre::post grunge, punk rock, alt rock, desert rock
 
 ## Domination Inc. - Generation Hate
 
@@ -126,19 +126,19 @@ Der renommierte britische Singer & Songwriter mit seinem neuen Output. “Der Ma
 
 Der Soundtrack zu Olmo Schnabel’s Werk “Pet Shop Days” aus dem Jahr 2023, in Klang gebracht von niemand geringerem als dem renommierten Drummer und Percussionist Eli Keszler.
 
-::genre::cinematic ambient
+::genre::cine ambient
 
 ## Foxcult - Watercolors: The Emerald Grove
 
 Die Modern-Metal-Band aus Seattle mit ihrem neuesten Release. Werden als Stargaze-Band ausgeschrieben, verfolgen aber eher einen straighten Modern-Metal-Weg, welcher Alt-Metal, Pop-Rock und ein paar progressive Töne kombiniert und von einem einprägsamen Songwriting begleitet wird.
 
-::genre::modern metalcore, alternative metal, pop rock, progressive pop
+::genre::modern metalcore, alt metal, pop rock, prog pop
 
 ## Flying Horseman - Anaesthesia
 
 Die Belgier sind zurück mit neuem Lineup und neuen Kompositionen. In bewährter Art und Weise werden Indie-Rock und Alt-Rock mit Desert-Rock und Psychedelic vereint und auf die Massen losgelassen.
 
-::genre::indie rock, alternative rock, desert rock, psychedelic rock
+::genre::indie rock, alt rock, desert rock, psych rock
 
 ## Fruit Bats - Baby Man
 
@@ -162,13 +162,13 @@ Ein neues Werk von dem Projekt um den niederländischen Multi-Instrumentalisten 
 
 Der walisische Singer & Songwriter mit seinem neuesten Werk komplett eingesungen auf Walisisch. Ich würde es dem Alt-Folk zuweisen.
 
-::genre::alternative folk
+::genre::alt folk
 
 ## Guerilla Toss - You’re weird now *
 
 Die Dance-Punker aus New York mit ihrem neuesten Release. Ein aufregender Mix aus Art-Rock, Psych-Punk und Post-Punk.
 
-::genre::art rock, psychedelic rock, post punk
+::genre::art rock, psych rock, post punk
 
 ## Heinz Rudolf Kunze - Angebot und Nachfrage
 
@@ -210,13 +210,13 @@ Der schwedische Singer & Songwriter beschreibt mit seinem neuen Werk seine Reise
 
 Das Gründungsmitglied von “The Lumineers” hier mit seinen Kompositionen zu dem 2025er Film “The Long Walk”. Soundtrack besser, als der Film.
 
-::genre::cinematic folk, cinematic rock
+::genre::cine folk, cine rock
 
 ## Josh Ritter - I believe in you, my Honeydew
 
 Der amerikanische Singer & Songwriter und anscheinende Honigmelonen-Liebhaber, mit seinem neuesten Werk. Ich würde es dem Nashville-Folk zuweisen, durch den pop-y Swing, welchen die Kompositionen haben.
 
-::genre::americana, country folk, alternative folk
+::genre::americana, country folk, alt folk
 
 ## Kara-Lis Coverdale - A Series of Actions in a Sphere of Forever
 
@@ -234,7 +234,7 @@ Der amerikanische Jazz-Drummer mit seinem neuesten Release. World-Jazz-Töne wer
 
 Neues aus der Stube der Improv-Rocker aus Schweden. Entstanden ist ein Sound zwischen Psychedelic Rock, Krautrock und Space Rock.
 
-::genre::psychedelic rock, krautrock, space rock, improvisation
+::genre::psych rock, krautrock, space rock, improvisation
 
 # Lawrence English - WhiteOut
 
@@ -246,7 +246,7 @@ Der australische Producer mit einem neuen Output. Minimal-Ambient trifft auf Dro
 
 Die UK-Based Band mit ihrem neuesten Streich. Die Art-Rocker haben es wieder geschafft, einprägsame Hymnen in vertrackte Strukturen zu komponieren.
 
-::genre::art rock, alternative rock
+::genre::art rock, alt rock
 
 ## Lorna Shore - I feel the everblack Festering within me
 
@@ -258,13 +258,13 @@ Die amerikanischen Symphonic-Deathcorer mit ihrem neuesten Release. Einfallslose
 
 Die amerikanische Singer & Songwriterin mit einem neuen Werk zwischen American Folk und Soul.
 
-::genre::americana, alternative folk, soul
+::genre::americana, alt folk, soul
 
 ## Mark William Lewis - Mark William Lewis *
 
 Das neueste Klangwerk des britischen Künstlers. In seiner unverkennbaren Art und Weise werden Elemente des Dreampop, Indie-Rock, Folk, Avant-Pop und Jazz in eine Komposition gebracht.
 
-::genre::dreampop, indie rock, indie folk, avantgarde pop, art pop
+::genre::dreampop, indie rock, indie folk, avant pop, art pop
 
 ## Maruja - Pain to Power *
 
@@ -306,19 +306,19 @@ Der amerikanisch Singer & Songwriter mit seinem neuesten Output. Traditional Ame
 
 Das Metalcore-Outfit aus Florida mit ihrem Debüt. Ein rabiater Mix aus Metalcore und Alt-Metal, mit thrash-y Riffing. Kein schlechtes Songwriting, welches Potential enthält.
 
-::genre::metalcore, alternative metal
+::genre::metalcore, alt metal
 
 ## Oren Ambarchi, Fredrik Rasten - Dragon’s Return
 
 Die Kollaboration zwischen dem australischen Multi-Instrumentalisten Oren Ambarchi und dem norwegischen Gitarristen Fredrik Rasten ist eine Live-Improvisation zu dem Film “Dragon’s Return” aus dem Jahre 1967.
 
-::genre::cinematic ambient, ambient accoustic, improvisation
+::genre::cine ambient, ambient acoustic, improvisation
 
 ## Orions Belte - Pur Jus
 
 Die Norweger mit einem neuen Release der instrumentalen Fusion-Musik. Psych-Rock, Indie-Rock, World-Music und Alt-Rock werden instrumental in einen Pott gemixt und in die musikalische Welt entsandt.
 
-::genre::psychedelic rock, indie rock, world music, alternative rock
+::genre::psych rock, indie rock, world music, alt rock
 
 ## Parcels - Loved
 
@@ -336,13 +336,13 @@ Der australische Multi-Instrumentalist mit einem neuen Release. Modern Metal, we
 
 Der amerikanische Singer & Songwriter mit neuen Klangstücken. Minimal gehaltener American-Folk.
 
-::genre::americana, country folk, alternative folk
+::genre::americana, country folk, alt folk
 
 ## Power Plush - Love Language
 
 Das Sophomore Release der Chemnitzer Indie-Popper. Indie-Pop, welcher geschmeidig mit Alt-Rock versehen wird.
 
-::genre::indie pop, alternative rock
+::genre::indie pop, alt rock
 
 ## Rafiq Bhatia - Environments *
 
@@ -354,7 +354,7 @@ Der amerikanische Composer und Gitarrist versteht es, experimentelle Klangwelten
 
 Der UK-Based Künstler mit neuen Kompositionen. Irgendwo zwischen Synth-Rock, Glam-Rock, Alt-Pop und Space Rock finden die Kompositionen ihr zu Hause.
 
-::genre::synth rock, glam rock, alternative rock, space rock
+::genre::synth rock, glam rock, alt rock, space rock
 
 ## Shadow League - Cheat Code
 
@@ -372,13 +372,13 @@ Zum 25. Geburtstag der Band liefern die Emocorer aus Kanada eine Duology. Dies h
 
 Neues von der UK-Based Band. Sludge-y Doom welcher dem Genre-Fan sicherlich gefallen wird. Neben den fuzz-y Riffing werden auch Elemente des Psych-Rock und Space-Rock verarbeitet.
 
-::genre::sludge metal, doom metal, psychedelic rock, space rock
+::genre::sludge metal, doom metal, psych rock, space rock
 
 ## Snorri Hallgrimsson - The importance of Birds
 
 Der isländische Composer, Producer und Multi-Instrumentalist mit seinen neuesten Klangkompositionen. Cinematic-Modern-Classic mit Ausflügen in den Ambient.
 
-::genre::cinematic modern classic, ambient
+::genre::cine modern classic, ambient
 
 ## Spite House - Desertion
 
@@ -402,7 +402,7 @@ Nach mehr als 20 Jahren gibt es wieder neues Material aus der Schmieder der brit
 
 Die israelische Stoner-Kapelle mit neuen Kompositionen. Stoner Rock, welcher Elemente des Psych-Rock und Desert-Rock mit aufnimmt.
 
-::genre::stoner rock, psychedelic rock, desert rock
+::genre::stoner rock, psych rock, desert rock
 
 ## The Hidden Cameras - Bronto
 
@@ -426,7 +426,7 @@ Das Chicago-Based Sextett mit dem Konzept des Blueprints, welches aus improvisie
 
 Die deutsche Rock-Formation mit ihrem neuesten musikalischen Output. Alt-Rock, welcher sicherlich mal Punkrock gehört zu haben.
 
-::genre::alternative rock, punk rock
+::genre::alt rock, punk rock
 
 ## Verses GT - Verses GT
 
@@ -438,7 +438,7 @@ Das Projekt um die beiden LA Producer Jacques Greene und Nosaj Thing verpackt Mi
 
 Das schwedische Outfit mit seinen neuesten Kompositionen. Sie liefern auch mit diesem Werk wieder ihr “Huldigung” an die 70er/80er Jahre Heavy-Szene, in dem sie Elemente des klassischen Heavy Metal, Doom Metal und Prog-Metal in ihrem Sound verarbeiten.
 
-::genre::heavy metal, nwoahm, doom metal, progressive metal
+::genre::heavy metal, nwoahm, doom metal, prog metal
 
 ## Yellow Ostrich - Trying
 
@@ -450,7 +450,7 @@ Die Band aus Minneapolis mit ihrem neuesten Streich. Die Indie-Rocker verarbeite
 
 Das kanadische Duo bestehend aus John Talbot und Justin Cober hat sich für sein neuestes Werk den texanischen Multi-Instrumentalisten Nolan Potter und das kanadische Trio Population II an Bord geholt. Ein exzellenter Mix aus Krautrock, Psych-Rock und Noise-Rock.
 
-::genre::krautrock, psychedelic rock, noise rock, progressive rock
+::genre::krautrock, psych rock, noise rock, prog rock
 
 ---
 
@@ -460,7 +460,7 @@ Das kanadische Duo bestehend aus John Talbot und Justin Cober hat sich für sein
 
 Die beiden neuseeländischen Produzent mit ihrem Output der Kollaboration. Cinematisch werden Fragmente des Ambient, Drone, Post-Rock und Electronica in ein Werk des Klanges versetzt.
 
-::genre::cinematic ambient, drone, post rock, electronica
+::genre::cine ambient, drone, post rock, electronica
 
 ## Milky Chance - Trip Tape III
 
@@ -472,14 +472,14 @@ Das deutsche Duo mit seinem dritten Trip Tape Output. Ja, das “One-Hit-Wonder�
 
 Der britische Singer & Songwriter liefert mit diesem Release die musikalische Untermalung zu dem Musical “The Unlikely Pilgrimage of Harold Fry” ab. 
 
-::genre::cinematic folk
+::genre::cine folk
 
 ## Royal Sorrow - Survival Complex
 
 In zwei Wochen kommt das Debüt der Finnen auf den Markt und Sony dachte sich: “Bringen wir doch eine EP mit 7/10 Songs des Albums auf den Markt” … WTF!
 Was bringen die Finnen mit sich? Alt-Metal mit progressiven Strukturen und Pop-Elementen.
 
-::genre::alternative metal, modern metal
+::genre::alt metal, modern metal
 
 ## Ian Hawgood - Mono Sleep Patterns
 
