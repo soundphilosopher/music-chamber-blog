@@ -35,9 +35,9 @@ categories:
 
     ## 5. Calvin Love - Throw my Shadow to the Sun
 
--   ![Helicon, Al Lover - Arise](site:assets/images/helicon_al_lover_-_arise-1772299064.jpeg){ .top-list-image }
+-   ![Hen Ogledd - DISCOMBOBULATED](site:assets/images/hen_ogledd_-_discombobulated-1772299064.jpeg){ .top-list-image }
 
-    ## 6. Helicon, Al Lover - Arise
+    ## 6. Hen Ogledd - DISCOMBOBULATED
 
 -   ![The Ant Band - From Genesis to Reimagination](site:assets/images/the_ant_band_-_from_genesis_to_reimagination-1772299064.jpeg){ .top-list-image }
 
@@ -51,9 +51,9 @@ categories:
 
     ## 9. Death Of Youth - Nothing Is The Same Anymore
 
--   ![Thistle Sifter - Forever The Optimist](site:assets/images/thistle_sifter_-_forever_the_optimist-1772299063.jpeg){ .top-list-image }
+-   ![Helicon, Al Lover - Arise](site:assets/images/helicon_al_lover_-_arise-1772299064.jpeg){ .top-list-image }
 
-    ## 10. Thistle Sifter - Forever The Optimist
+    ## 10. Helicon, Al Lover - Arise
 
 -   ![Zahn - Purpur](site:assets/images/zahn_-_purpur-1772299065.jpeg){ .top-list-image }
 

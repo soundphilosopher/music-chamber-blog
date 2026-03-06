@@ -5,3 +5,6 @@
 # mkdocs
 /site
 /.cache
+
+# goofs
+/scripts/raw

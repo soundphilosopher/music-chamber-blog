@@ -32,7 +32,7 @@ from markdown.extensions.toc import slugify
 from mkdocs.config import Config
 from mkdocs.structure import files, pages
 
-log = logging.getLogger(f"mkdocs.hooks.{__name__}")
+log = logging.getLogger(f"mkdocs.hooks.add_bandcamp_player")
 
 # ---------------------------------------------------------------------------
 # Constants
