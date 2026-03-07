@@ -5,7 +5,8 @@ line, sorts the releases alphabetically by artist, and writes a Markdown blog
 post (including MkDocs front matter) to the configured posts directory.
 
 If a releases post already exists at the target path, any existing reviews
-and genres are carried over into the newly generated post.
+and genres are carried over into the newly generated post. New releases not
+yet present in the existing file are always added to the Friday collection.
 
 Usage:
     python import_releases.py <date> <path>
@@ -23,6 +24,7 @@ import logging
 import re
 from dataclasses import dataclass
 from datetime import date
+from enum import Enum
 from pathlib import Path
 
 import markdown
@@ -60,15 +62,38 @@ class Release:
     genres: list[str]
 
 
-def _add_reviews_and_genres(path: Path, releases: list[Release]) -> list[Release]:
-    """Enrich releases with existing reviews and genres from a Markdown file.
+class ReleaseCollectionType(Enum):
+    """Categorises a group of releases by when they were published."""
 
-    If the file at the given path does not exist (e.g. on the first run),
-    the releases are returned unchanged. Otherwise the file is parsed and
-    each release whose artist and title match an existing heading has its
-    review and genres updated in-place.
+    FRIDAY = "Releases! Releases! Releases!"
+    EARLIER = "Earlier the week ..."
+
+
+@dataclass
+class ReleaseCollection:
+    """A named group of releases sharing the same publication category.
+
+    Attributes:
+        type: The category of the collection (Friday or earlier in the week).
+        releases: The list of Release objects belonging to this collection.
+    """
+
+    type: ReleaseCollectionType
+    releases: list[Release]
+
+
+def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
+    """Parse an existing releases Markdown file into a list of ReleaseCollections.
+
+    Each top-level heading (H1) is mapped to a ReleaseCollectionType by its
+    text value. H2 headings underneath are parsed as individual releases,
+    carrying their review text and genre tags along.
+
+    If the file does not exist, an empty list is returned.
 
     The function expects each release to be structured in Markdown as:
+
+        # <ReleaseCollectionType value>
 
         ## Artist - Title
         Review text
@@ -76,53 +101,146 @@ def _add_reviews_and_genres(path: Path, releases: list[Release]) -> list[Release
 
     Args:
         path: Path to an existing releases Markdown post to read from.
-        releases: The list of Release objects to enrich.
 
     Returns:
-        The same list of Release objects, with review and genres updated
-        in-place where matches were found.
+        A list of ReleaseCollection objects found in the file, preserving
+        their document order. Returns an empty list when the file does not
+        exist.
     """
     if not path.exists():
-        log.debug(f"No existing releases file found at {path}, skipping enrichment.")
-        return releases
+        log.debug(f"No existing releases file found at {path}.")
+        return []
+
+    collections: list[ReleaseCollection] = []
+    current_type: ReleaseCollectionType | None = None
+    current_releases: list[Release] = []
 
     with open(path) as f:
-        md = markdown.markdown(f.read())
-        soup = BeautifulSoup(md, "html.parser")
+        soup = BeautifulSoup(markdown.markdown(f.read()), "html.parser")
 
-        for h2 in soup.find_all("h2"):
-            artist, title = h2.text.split(" - ")
+    for tag in soup.find_all(["h1", "h2"]):
+        if tag.name == "h1":
+            # Flush the previous collection before starting a new one.
+            if current_type is not None:
+                collections.append(
+                    ReleaseCollection(type=current_type, releases=current_releases)
+                )
+            try:
+                current_type = ReleaseCollectionType(tag.get_text())
+            except ValueError:
+                log.debug(f"Unknown collection heading: '{tag.get_text()}', skipping.")
+                current_type = None
+            current_releases = []
 
-            # Look for a release matching this heading; skip if not found.
-            release = next(
-                (r for r in releases if r.artist == artist and r.title == title),
-                None,
+        elif tag.name == "h2" and current_type is not None:
+            parts = tag.get_text().split(" - ", 1)
+            if len(parts) != 2:
+                log.debug(f"Skipping malformed release heading: '{tag.get_text()}'")
+                continue
+
+            artist, title = parts
+            review = "tbd"
+            genres: list[str] = []
+
+            review_tag = tag.find_next_sibling("p")
+            if review_tag:
+                review = review_tag.get_text()
+                log.debug(f"review={review}")
+
+                genres_tag = review_tag.find_next_sibling("p", string=GENRE_TAG_PATTERN)
+                if genres_tag:
+                    genres = [
+                        g.strip()
+                        for g in genres_tag.get_text()
+                        .removeprefix(GENRE_TAG_PREFIX)
+                        .split(",")
+                    ]
+                    log.debug(f"genres={genres}")
+
+            current_releases.append(
+                Release(
+                    artist=artist.strip(),
+                    title=title.strip(),
+                    review=review,
+                    genres=genres,
+                )
             )
-            if not release:
-                continue
 
-            # Use get_text() instead of .string so that inline markup
-            # (e.g. bold or italic) inside the review paragraph is handled.
-            review = h2.find_next_sibling("p")
-            if not review:
-                continue
+    # Flush the last collection.
+    if current_type is not None:
+        collections.append(ReleaseCollection(type=current_type, releases=current_releases))
 
-            release.review = review.get_text()
-            log.debug(f"review={release.review}")
+    log.debug(f"Parsed {len(collections)} existing collection(s) from {path}.")
+    return collections
 
-            # The genre paragraph immediately follows the review paragraph
-            # and starts with the GENRE_TAG_PREFIX.
-            genres = review.find_next_sibling("p", string=GENRE_TAG_PATTERN)
-            if not genres:
-                continue
 
-            release.genres = [
-                g.strip()
-                for g in genres.get_text().removeprefix(GENRE_TAG_PREFIX).split(",")
-            ]
-            log.debug(f"genres={release.genres}")
+def _sort_to_collections(
+    incoming: list[Release],
+    existing: list[ReleaseCollection],
+) -> list[ReleaseCollection]:
+    """Distribute incoming releases across collections.
 
-    return releases
+    Each incoming release is looked up in the existing collections by a
+    case-insensitive artist + title comparison (trailing " *" markers on
+    existing titles are ignored during comparison). A release that is already
+    present is kept in its original collection and carries over its review and
+    genres. A release that is not yet present is added to the FRIDAY
+    collection.
+
+    Releases that exist in the current Markdown but are absent from the
+    incoming list are not carried forward — the incoming list is authoritative.
+
+    Every collection is sorted alphabetically by artist after merging.
+
+    Args:
+        incoming: Releases read from the raw input file.
+        existing: Collections parsed from the current releases Markdown file.
+            Pass an empty list when no Markdown file exists yet.
+
+    Returns:
+        A list of ReleaseCollection objects in ReleaseCollectionType
+        definition order (FRIDAY first, then EARLIER).
+    """
+    result: dict[ReleaseCollectionType, ReleaseCollection] = {
+        ct: ReleaseCollection(type=ct, releases=[]) for ct in ReleaseCollectionType
+    }
+
+    if not existing:
+        # No existing file — all incoming releases go straight to FRIDAY.
+        result[ReleaseCollectionType.FRIDAY].releases = list(incoming)
+        return list(result.values())
+
+    # Build a flat lookup: normalised (artist, title) → (collection_type, Release).
+    existing_lookup: dict[tuple[str, str], tuple[ReleaseCollectionType, Release]] = {}
+    for collection in existing:
+        for release in collection.releases:
+            key = (
+                release.artist.casefold(),
+                # Strip trailing asterisk markers before comparing.
+                release.title.casefold().rstrip("* "),
+            )
+            existing_lookup[key] = (collection.type, release)
+
+    for incoming_release in incoming:
+        key = (incoming_release.artist.casefold(), incoming_release.title.casefold())
+        if key in existing_lookup:
+            collection_type, existing_release = existing_lookup[key]
+            result[collection_type].releases.append(existing_release)
+            log.debug(
+                f"Kept '{existing_release.artist} - {existing_release.title}'"
+                f" in {collection_type.name}."
+            )
+        else:
+            result[ReleaseCollectionType.FRIDAY].releases.append(incoming_release)
+            log.debug(
+                f"New release '{incoming_release.artist} - {incoming_release.title}'"
+                f" added to FRIDAY."
+            )
+
+    for collection in result.values():
+        collection.releases.sort(key=lambda r: r.artist.casefold())
+
+    return list(result.values())
 
 
 def _build_release_list(path: Path) -> list[Release]:
@@ -131,7 +249,7 @@ def _build_release_list(path: Path) -> list[Release]:
     Each non-empty line in the file must follow the format "Artist - Title".
     Leading and trailing whitespace around both the artist and title are
     stripped automatically. Review defaults to "tbd" and genres to an empty
-    list; these are populated later by _add_reviews_and_genres() if available.
+    list; these are populated later by _sort_to_collections() if available.
 
     Args:
         path: Path to the raw releases text file.
@@ -146,25 +264,37 @@ def _build_release_list(path: Path) -> list[Release]:
     releases = []
     with open(path) as f:
         for line in f.read().strip().split("\n"):
-            artist, title = line.split(" - ")
+            artist, title = line.split(" - ", 1)
+            if any(
+                r.artist.casefold() == artist.strip().casefold()
+                and r.title.casefold() == title.strip().casefold()
+                for r in releases
+            ):
+                continue
+
             releases.append(
                 Release(artist=artist.strip(), title=title.strip(), review="tbd", genres=[])
             )
+
+    releases.sort(key=lambda r: r.artist.casefold())
     return releases
 
 
-def _create_release_content(release_date: date, releases: list[Release]) -> str:
+def _create_release_content(
+    release_date: date, collections: list[ReleaseCollection]
+) -> str:
     """Build the Markdown content for the releases post, including front matter.
 
     The generated post includes MkDocs-compatible YAML front matter (date,
-    draft status, and category) followed by a heading and one section per
-    release. Each release section contains the review text and a genre tag
-    line. A footer section for earlier-in-the-week entries is appended at
-    the end.
+    draft status, and category) followed by a section per collection. Each
+    section starts with an H1 heading matching the collection's type value,
+    followed by one H2 block per release. A horizontal rule separates
+    consecutive collection sections. The ``<!-- more -->`` excerpt marker is
+    inserted after the third release of the FRIDAY collection.
 
     Args:
         release_date: The publication date used in the front matter.
-        releases: The list of releases to include in the post.
+        collections: The list of ReleaseCollection objects to render.
 
     Returns:
         A string containing the full Markdown content of the post.
@@ -179,23 +309,28 @@ def _create_release_content(release_date: date, releases: list[Release]) -> str:
         "  - Releases",
         "---",
         "",
-        "# Releases! Releases! Releases!",
-        "",
     ]
 
-    for release in releases:
-        content.append(f"## {release.artist} - {release.title}")
-        content.append("")
-        content.append(release.review)
-        content.append("")
-        # Use the GENRE_TAG_PREFIX constant to keep the tag format consistent.
-        content.append(f"{GENRE_TAG_PREFIX}{', '.join(release.genres)}")
+    for col_index, collection in enumerate(collections):
+        if col_index > 0:
+            content.append("---")
+            content.append("")
+
+        content.append(f"# {collection.type.value}")
         content.append("")
 
-    content.append("---")
-    content.append("")
-    content.append("# Earlier the week ...")
-    content.append("")
+        for rel_index, release in enumerate(collection.releases):
+            if collection.type == ReleaseCollectionType.FRIDAY and rel_index == 3:
+                content.append("<!-- more -->")
+                content.append("")
+
+            content.append(f"## {release.artist} - {release.title}")
+            content.append("")
+            content.append(release.review)
+            content.append("")
+            # Use the GENRE_TAG_PREFIX constant to keep the tag format consistent.
+            content.append(f"{GENRE_TAG_PREFIX}{', '.join(release.genres)}")
+            content.append("")
 
     return "\n".join(content)
 
@@ -203,10 +338,9 @@ def _create_release_content(release_date: date, releases: list[Release]) -> str:
 def main(release_date: date, path: Path) -> None:
     """Main entry point: build, sort, and write the releases Markdown post.
 
-    Reads releases from the raw input file, sorts them case-insensitively by
-    artist name, enriches them with any existing reviews and genres, generates
-    the Markdown content, and writes the result to the appropriate path inside
-    the MkDocs docs directory.
+    Reads releases from the raw input file, collects any existing collections
+    from the current releases Markdown, merges them, and writes the result to
+    the appropriate path inside the MkDocs docs directory.
 
     The output path follows the pattern:
         docs/posts/<year>/<month>/<day>/releases.md
@@ -216,15 +350,13 @@ def main(release_date: date, path: Path) -> None:
             to determine the output file path.
         path: Path to the raw releases text file.
     """
-    releases = _build_release_list(path)
+    # 1. Collect all releases from the txt file.
+    incoming_releases = _build_release_list(path)
+    log.debug(f"incoming_releases={incoming_releases}")
 
-    if not releases:
-        log.debug("No releases found, exiting.")
+    if not incoming_releases:
+        log.info("No releases found, exiting.")
         return
-
-    # Sort case-insensitively; casefold() handles Unicode better than lower()
-    releases.sort(key=lambda r: r.artist.casefold())
-    log.debug(f"releases={releases}")
 
     # Build the full output path, e.g. docs/posts/2026/03/06/releases.md
     release_list_path = (
@@ -236,11 +368,16 @@ def main(release_date: date, path: Path) -> None:
     )
     log.debug(f"release_list_path={release_list_path}")
 
-    # Carry over any reviews and genres already written in the existing file.
-    releases = _add_reviews_and_genres(release_list_path, releases)
-    log.debug(f"releases={releases}")
+    # 2. Collect all releases from the current release markdown (if it exists).
+    existing_collections = _parse_existing_collections(release_list_path)
+    log.debug(f"existing_collections={existing_collections}")
 
-    content = _create_release_content(release_date, releases)
+    # 3. Sort releases into collections.
+    collections = _sort_to_collections(incoming_releases, existing_collections)
+    log.debug(f"collections={collections}")
+
+    # 4. Use the collections to create the release markdown.
+    content = _create_release_content(release_date, collections)
     log.debug(f"content={content}")
 
     # MkDocs expects paths relative to the docs/ root (i.e. POSTS_PATH.parts[0])
@@ -256,16 +393,20 @@ if __name__ == "__main__":
         description="Generate a MkDocs releases post from a raw text file."
     )
     parser.add_argument(
-        "date",
+        "--date",
+        "-d",
         type=date.fromisoformat,
         help="Publication date in ISO 8601 format (e.g. 2026-03-06).",
+        required=True,
     )
     parser.add_argument(
-        "path",
+        "--file",
+        "-f",
         type=Path,
         help="Path to the raw releases text file.",
+        required=True,
     )
     args = parser.parse_args()
     log.debug(f"args={args}")
 
-    main(args.date, args.path)
+    main(args.date, args.file)

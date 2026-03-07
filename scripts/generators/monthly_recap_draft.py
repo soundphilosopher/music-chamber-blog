@@ -106,7 +106,7 @@ def _build_recap_markdown(
         f"date: {year}-{month_number}-01",
         "draft: true",
         "categories:",
-        "    - Recap",
+        "    - Autogen",
         "authors:",
         f"    - {DEFAULT_AUTHOR}",
         "---",

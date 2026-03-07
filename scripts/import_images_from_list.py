@@ -276,9 +276,11 @@ if __name__ == "__main__":
         ),
     )
     parser.add_argument(
-        "list_file",
+        "--file",
+        "-f",
         type=Path,
         help="Path to the list file. Each line must be: Title | https://url.to/image",
+        required=True,
     )
     parser.add_argument(
         "--delay",
@@ -299,4 +301,4 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
-    main(args.list_file, delay=args.delay, retries=args.retries)
+    main(args.file, delay=args.delay, retries=args.retries)

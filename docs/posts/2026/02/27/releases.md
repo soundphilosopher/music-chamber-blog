@@ -1,7 +1,5 @@
 ---
 date: 2026-02-27
-pin: true
-bandcamp: true
 categories:
   - Releases
 ---
@@ -536,7 +534,7 @@ Der Debüt Longplayer der Schweden. Die _Templar_ rotzen ein raues und schonungs
 
 Das australische Outfit mit seinem neuesten Longplayer. Eine Melange aus Modern Metalcore, Symphnic Deathcore und Cinematic Modern Classic. So werden die harten Breakdowns von theatralischen Instrumentalisierungen umrandet. 
 
-::genre::modern metalcore, symphonic deathcore, cine modern classic, modern post hardcore
+::genre::modern metalcore, symphonic deathcore, cine modern classic, post hardcore
 
 ## The Neal Morse Band - L.I.F.T.
 
@@ -560,7 +558,7 @@ Das neueste Release der Kapelle aus Philly. Eine aggressive und walzende Kombina
 
 Die Debüt EP des amerikanischen Singer & Songwriter. Alá _Team Goldie_ wird ein Solo-Projekt des Pop Punk erschaffen, allerdings mit mehr Fokus auf modernen Post Hardcore, welcher mit der gewollten Catchiness geschrieben wurde. Das Gesamtbild bekommt dadurch einen Anstrich des Alternative Rock verpasst, statt mehr die Pop Punk Strukturen zu verfolgen.
 
-::genre::modern post hardcore, alt rock, sad pop punk
+::genre::post hardcore, alt rock, sad pop punk
 
 ## Voxtrot - Dreamers in Exile **
 
@@ -612,7 +610,7 @@ Das Sophomore Release der französischen Formation. Eine dunkle und melancholisc
 
 Die britische Formation mit ihrer neuesten EP. Geboten wird eine Mixtur aus Modern Post Hardcore, Pop Punk, Djent und Modern Metalcore. Durch den Einsatz von Pop Punk, könnte man meinen, dass Easycore vermutlich eine gute Beschreibung wäre, allerdings fehlen die chuggy Breakdowns und die extreme Gelassenheit von Pop Punk. Die Gesamtkomposition gleicht eher einen modernen Ausleger des Post Hardcore.
 
-::genre::modern post hardcore, pop punk, djent, modern metalcore
+::genre::post hardcore, pop punk, djent, modern metalcore
 
 ## ØVI - Hedera Helix
 

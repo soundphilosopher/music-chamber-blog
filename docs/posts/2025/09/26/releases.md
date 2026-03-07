@@ -270,7 +270,7 @@ Die finnischen Melo-Deather mit ihrem neuesten Release. Symphonic-Melo-Death, we
 
 Das deutsche Jazz-Kollektiv mit seinem neuesten Klangwerk. Eine Fusion von World-Jazz, Groove-Jazz, Braziliacana, Soul und Indie-Pop.
 
-::genre::world jazz, jazz fusion, neo soul, indie pop
+::genre::world music, jazz fusion, neo soul, indie pop
 
 ## Neko Case - Neon Grey Midnight Green *
 

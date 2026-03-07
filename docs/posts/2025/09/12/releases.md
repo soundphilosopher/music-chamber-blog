@@ -228,7 +228,7 @@ Die kanadische Pianistin und Composerin mit ihren neuesten Kompositionen. Ein na
 
 Der amerikanische Jazz-Drummer mit seinem neuesten Release. World-Jazz-Töne werden nahtlos in Nu-Jazz-Kompositionen verpackt.
 
-::genre::world jazz, nu jazz
+::genre::world music, nu jazz
 
 ## Kungens Män - Resande i rockmusik *
 

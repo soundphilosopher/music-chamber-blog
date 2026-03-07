@@ -86,7 +86,7 @@ Die amerikanischen Blackgazer mit ihrem neuesten Output. Von der Produktion und 
 
 Das norwegische Trio um die Gitarristin Hedvig Mollestad mit einem neuen Output. Ein Mix aus Southern Rock, Progressiv Jazz und Psychedelica.
 
-::genre::southern rock, prog jazz, psych rock
+::genre::southern rock, jazz fusion, psych rock
 
 ## Holy Holy - Sweet Bitter Sweet
 

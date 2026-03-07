@@ -34,7 +34,7 @@ Die New Yorker mit einer neuen EP. Gespielt wird eine klassische Form des Deathg
 
 Das deutsche Kollektiv bestehend aus den Producern Christoph Bauss (Shuko), Roberto Di Gioia und Jan Krause mit seinem neuesten Output. Eine Melange aus Modern Oriental Jazz, Trip Hop und Oriental Beat.
 
-::genre::modern jazz, trip hop, world jazz
+::genre::modern jazz, trip hop, world music
 
 ## Billy Martin, Matt Glassmeyer, Jonathan Goldberger - State Fête
 
