@@ -6,6 +6,10 @@ site_url: https://soundphilosopher.github.io/music-chamber-blog/
 repo_name: music-chamber-blog
 repo_url: https://github.com/soundphilosopher/music-chamber-blog
 
+copyright: >
+  Copyright &copy; 2025 - 2026 Carsten Vuellings &mdash;
+  <a href="/music-chamber-blog/privacy-policy/">Privacy Policy</a>
+
 extra_css:
   - assets/append.css
   - assets/override.css
@@ -29,6 +33,7 @@ theme:
         name: Switch to light mode
   features:
     - navigation.indexes
+    - navigation.top
     - search.highlight
     - search.share
     - content.action.edit

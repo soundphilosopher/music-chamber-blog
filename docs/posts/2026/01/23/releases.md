@@ -310,7 +310,7 @@ Das Sophomore Release des britischen Trios. Auf ihrem neuesten Longplayer werden
 
 Die deutsche Formation mit ihrem neuesten Release. Im Grunde kann es dem Electrocore bzw. Dancecore zugewiesen werden, welcher mit Rap-Passagen ausgefüllt wird.
 
-::genre::electrocore, dancecore
+::genre::electronicore, dancecore
 
 ## The Damned - Not like everybody else
 
