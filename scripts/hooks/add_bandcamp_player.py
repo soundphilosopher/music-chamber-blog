@@ -141,7 +141,7 @@ def _lookup_bandcamp_album(album_id: str, band_id: str, session: Session) -> boo
         if response.status_code == 429:
             retry_after = response.headers.get("Retry-After")
             wait = float(retry_after) + REQUEST_DELAY_SECONDS if retry_after else REQUEST_DELAY_SECONDS
-            log.warning(
+            log.info(
                 "Bandcamp rate limit hit for album %r (attempt %d/%d), retrying in %.1fs",
                 album_id, attempt, MAX_RETRIES, wait,
             )
@@ -197,7 +197,7 @@ def _collect_bandcamp_information(
         if response.status_code == 429:
             retry_after = response.headers.get("Retry-After")
             wait = float(retry_after) + REQUEST_DELAY_SECONDS if retry_after else REQUEST_DELAY_SECONDS
-            log.warning(
+            log.info(
                 "Bandcamp rate limit hit for query %r (attempt %d/%d), retrying in %.1fs",
                 search_query, attempt, MAX_RETRIES, wait,
             )
