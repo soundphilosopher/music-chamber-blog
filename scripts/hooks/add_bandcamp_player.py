@@ -17,10 +17,7 @@ front-matter contains ``pin: true`` are processed — regular (non-pinned)
 weekly posts are left untouched.
 """
 
-from __future__ import annotations
-
 import logging
-from threading import Lock
 import time
 
 from dataclasses import dataclass
@@ -31,6 +28,7 @@ from curl_cffi.requests.exceptions import RequestException
 from markdown.extensions.toc import slugify
 from mkdocs.config import Config
 from mkdocs.structure import files, pages
+
 
 log = logging.getLogger(f"mkdocs.hooks.add_bandcamp_player")
 
@@ -49,6 +47,9 @@ EMBED_PLAYER_BASE_URL = "https://bandcamp.com/EmbeddedPlayer"
 
 REQUEST_DELAY_SECONDS: float = 0.5
 """Polite delay between consecutive API requests to avoid rate-limiting."""
+
+MAX_RETRIES: int = 3
+"""Maximum number of retry attempts when Bandcamp responds with HTTP 429."""
 
 PLAYER_BG_COLOR_LIGHT = "ffffff"
 """Hex background color passed to the Bandcamp embed player for light mode."""
@@ -121,6 +122,7 @@ def _lookup_bandcamp_album(album_id: str, band_id: str, session: Session) -> boo
 
     Args:
         album_id: The Bandcamp-internal numeric album identifier.
+        band_id: The Bandcamp-internal numeric band/artist identifier.
         session: A reusable :class:`curl_cffi.requests.Session` (keeps
             the underlying connection alive across calls).
 
@@ -129,16 +131,30 @@ def _lookup_bandcamp_album(album_id: str, band_id: str, session: Session) -> boo
     """
     params = {"band_id": band_id, "tralbum_id": album_id, "tralbum_type": "a"}
 
-    try:
-        response = session.get(BANDCAMP_ALBUM_LOOKUP_URL, params=params)
-    except Exception as e:
-        log.exception("Failed to lookup Bandcamp album %r: %r", album_id, e)
-        return False
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            response = session.get(BANDCAMP_ALBUM_LOOKUP_URL, params=params)
+        except Exception as e:
+            log.exception("Failed to lookup Bandcamp album %r: %r", album_id, e)
+            return False
 
-    if response.status_code != 200:
-        return False
+        if response.status_code == 429:
+            retry_after = response.headers.get("Retry-After")
+            wait = float(retry_after) + REQUEST_DELAY_SECONDS if retry_after else REQUEST_DELAY_SECONDS
+            log.warning(
+                "Bandcamp rate limit hit for album %r (attempt %d/%d), retrying in %.1fs",
+                album_id, attempt, MAX_RETRIES, wait,
+            )
+            time.sleep(wait)
+            continue  # next attempt
 
-    return len(response.json().get("tracks", [])) > 0
+        if response.status_code != 200:
+            return False
+
+        return len(response.json().get("tracks", [])) > 0
+
+    log.warning("Bandcamp rate-limit retries exhausted for album %r", album_id)
+    return False
 
 
 def _collect_bandcamp_information(
@@ -146,9 +162,9 @@ def _collect_bandcamp_information(
 ) -> BandcampInfo | None:
     """Query Bandcamp for album metadata that matches *h2*.
 
-    Sends a single fuzzy-search request and returns the **first** result
-    whose type is ``"a"`` (album).  A short delay is applied after each
-    request to be respectful of the Bandcamp API.
+    Retries up to :data:`MAX_RETRIES` times when the API responds with
+    HTTP 429, honouring the ``Retry-After`` header when present.
+    A short polite delay is applied after every non-429 response.
 
     Args:
         h2: A BeautifulSoup ``<h2>`` tag whose text content is an
@@ -166,45 +182,58 @@ def _collect_bandcamp_information(
     if search_query is None:
         return None
 
-    try:
-        response = session.get(
-            BANDCAMP_FUZZY_SEARCH_URL,
-            params={"q": search_query, "param_with_locations": "true"},
-            impersonate="chrome",
-        )
-        log.debug(f"response={response}")
-    except RequestException:
-        log.exception("Bandcamp request failed for query %r", search_query)
-        return None
-    finally:
-        # Always pause — even on failure — to stay within rate limits.
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            response = session.get(
+                BANDCAMP_FUZZY_SEARCH_URL,
+                params={"q": search_query, "param_with_locations": "true"},
+                impersonate="chrome",
+            )
+            log.debug("response=%s", response)
+        except RequestException:
+            log.exception("Bandcamp request failed for query %r", search_query)
+            return None
+
+        if response.status_code == 429:
+            retry_after = response.headers.get("Retry-After")
+            wait = float(retry_after) + REQUEST_DELAY_SECONDS if retry_after else REQUEST_DELAY_SECONDS
+            log.warning(
+                "Bandcamp rate limit hit for query %r (attempt %d/%d), retrying in %.1fs",
+                search_query, attempt, MAX_RETRIES, wait,
+            )
+            time.sleep(wait)
+            continue  # next attempt
+
+        # Polite delay — only for non-429 paths so we don't double-sleep.
         time.sleep(REQUEST_DELAY_SECONDS)
 
-    if response.status_code != 200:
-        log.warning(
-            "Bandcamp returned HTTP %d for query %r",
-            response.status_code,
-            search_query,
-        )
+        if response.status_code != 200:
+            log.warning(
+                "Bandcamp returned HTTP %d for query %r with headers %s",
+                response.status_code, search_query, response.headers,
+            )
+            return None
+
+        for result in response.json().get("results", []):
+            if result.get("type") == "a":
+                if not _lookup_bandcamp_album(result.get("id"), result.get("band_id"), session):
+                    log.debug("Bandcamp album %r has no tracks, skipping", result.get("id"))
+                    continue
+
+                info = BandcampInfo(
+                    album_id=result.get("id"),
+                    album_name=result.get("name"),
+                    band_id=result.get("band_id"),
+                    band_name=result.get("band_name"),
+                    album_url=result.get("url"),
+                )
+                log.debug("Matched %r -> %s", search_query, info.album_url)
+                return info
+
+        log.debug("No Bandcamp album found for query %r", search_query)
         return None
 
-    for result in response.json().get("results", []):
-        if result.get("type") == "a":
-            if not _lookup_bandcamp_album(result.get("id"), result.get("band_id"), session):
-                log.debug("Bandcamp album %r has no tracks, skipping", result.get("id"))
-                continue
-
-            info = BandcampInfo(
-                album_id=result.get("id"),
-                album_name=result.get("name"),
-                band_id=result.get("band_id"),
-                band_name=result.get("band_name"),
-                album_url=result.get("url"),
-            )
-            log.debug("Matched %r -> %s", search_query, info.album_url)
-            return info
-
-    log.debug("No Bandcamp album found for query %r", search_query)
+    log.warning("Bandcamp rate-limit retries exhausted for query %r", search_query)
     return None
 
 
