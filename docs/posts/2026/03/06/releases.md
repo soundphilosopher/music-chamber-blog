@@ -358,6 +358,12 @@ Das Sophomore Release der norwegischen Saxophonistin und Komponistin. Im kollekt
 
 ::genre::contemporary jazz, neo classic, nordic jazz, chamber jazz
 
+## Moon Taxi - Highwave
+
+Das neueste Studioalbum der amerikanischen Kapelle. Das Quintett schafft einen eingängigen Sound, der Indie Pop, Indie Rock, Alt Rock, Alt Folk und Indie Folk. Den Umzug nach Nashville kann man in den Songwriting erkennen, welches neben Jam Band Einflüssen auch Roots Rock mit dem modernen Indie Sound kombiniert.
+
+::genre::indie pop, indie rock, alt rock, alt folk, indie folk
+
 ## Moon Tooth - Bastard *
 
 Die neueste EP der amerikanischen Formation. In moderner Art und Weise werden Hard Rock, Post Hardcore, Alt Metal und Prog Metal vereint. Das Songwriting bietet soviel Catchiness, dass die Kompositionen hier und da das Format von Post Grunge annehmen und die progressiven Strukturen wie untergehen, nur um diese wieder auszupacken, wenn es keiner sieht.
@@ -436,6 +442,12 @@ Das Sophomore Output des amerikanischen Outfits. Ein modernes Werk des Melo Deat
 
 ::genre::melo death metal, prog metal, metalcore
 
+## Our Oceans - Right here, Right now **
+
+Die niederländische Supagroup, bestehend aus Ex-Mitgliedern von _Cynic_, _Exivious_ und _Pestilence_, mit ihrem dritten Full-Length in ihrer Discography. Entstanden ist eine eingängige, emeotionale und komplexe Komposition des Prog Rock. Ihr Stil wird oft als atmosphärischer Progressive Rock oder „Post-Prog“ beschrieben. Er verbindet Indie-Rock-Sensibilität mit den weitläufigen, spacigen Texturen progressiver Musik.
+
+::genre::post prog rock, prog indie, prog rock
+
 ## Ricardo Formoso - Electric Rebound
 
 Der spanische Jazz-Trompeter und Komponist mit seinem neuesten kollaborativen Werk. In einer Studio Sesison wurden Jazz Fusion, Jazz Rcok, Acid Funk und Prog Rock zu einem Monster vereint. In diesem Werk widmet sich der Künstler mehr der elektrischen, als der akkustischen Ausgestaltung.
@@ -452,7 +464,7 @@ Der Sophomore Output des norwegischen Trios. Eine melancholische, depressive und
 
 Die amerikanische Formation mit dem Nachfolger ihrer 2023 EP "Torture Portrait".  Im Songwriting werden Modern Metalcore, Metalic Hardcore, Post Hardcore und Nu Metal in einer rauen, wie auch nahen und brutalen Produktion verpackt. Hoch ambitioniertes Werk, welches keinesfalls in die Sameness der Modern Metalcore Szene einzugliedern ist.
 
-::genre::modern metalcore, metalic hardcore, post hardcore, nu metal, beatdown
+::genre::modern metalcore, metallic hardcore, post hardcore, nu metal, beatdown
 
 ## Savage Beat - Bright Lights, Tall Shadows
 
@@ -471,6 +483,18 @@ Der irische Singer & Songwriter mit seinem neuesten Werk. Ein avantgardistisches
 Das Debüt Studioalbum der chilenischen Formation. Hier wird Brutal Death auf die Spitze getrieben und mit allen erforderlichen Mitteln ausgestattet. Variable Growls, aggressives Riffing, stampfende Dramatiken und extravagantes Drumming. Die Produktion ist allerdings ein weing monoton in der Erscheinung, was gerade bei den Drums dazu führt, dass diese den korrekten Ton erlangen aber in der Instrumentalisierung untergehen.
 
 ::genre::brutal death metal
+
+## Sevin - Knighton Joint
+
+Der niederländische Producer und DJ mit seinem neuesten Werk. Eine Symbiose aus Liquid Drum & Bass, Acid Funk, Acid Jazz, Neo Soul und Breakbeat. Die Kompositionen durch laufen ihren elektrischen Wandel und binden alle Elemente in passender Form ein. Dabei wird viel Wert auf den nostalgischen Faktor gelegt.
+
+::genre::drum & bass, breakbeat, acid funk, acid jazz, neo soul
+
+## Shabaka - Of the Earth
+
+Das neuste Solo-Album des britischen Multi-Instrumentalisten Shabaka Hutchings. In der UK Jazz Szene konnte er mit seinen letzten Veröffentlichungen eine breite Öffentlichkeit erreichen. In diesem Werk des UK Jazz, Nu Jazz, Hip Hop, World Music, Jazztronica und Spiritual Jazz bindet er zum ersten Mal auch Passagen des Rap mit in seine Kompositionen ein, was zum Songwriting im Gesamten eine klare Aussage mitliefert.
+
+::genre::uk jazz, nu jazz, hip hop, world music, jazztronica, spiritual jazz
 
 ## Sonic Transistor - Just Empty
 
@@ -496,6 +520,12 @@ Der neueste Longplayer der amerikanischen Kapelle. Eine Komposition zwischen Gar
 
 ::genre::garage rock, punk rock, hardcore, alt rock, post grunge
 
+## Tanya Tagaq - Saputjiji *
+
+Die kanadische Künstlerin mit ihrem neuesten Klangwerk. Ein Experiment, welches Electronica, Trip Hop, Avant Electronica und Spoken Words miteinander verbindet und ein Zusammenspiel ermöglicht. Das Songwriting ist ein breites Feld und bringt die Kritik in den Lyrics eindrucksvoll zum Ausdruck.
+
+::genre::trip hop, avant electronica, spoken words, experimental electronica
+
 ## Temple Of Void - The Crawl
 
 Die amerikanische Kapelle mit ihrem filthy fifth Full-Length Studioalbum. Ein Werk, welches Old School Death mit Doom Metal fusioniert. Dabei werden gern kleine Melodiebögen in die Kompositionen verbaut, welches einen Schein des Post Metal verbreitet, ohne jedoch lang genug zu wirken.
@@ -507,6 +537,12 @@ Die amerikanische Kapelle mit ihrem filthy fifth Full-Length Studioalbum. Ein We
 Der neueste Longplayer des amerikanischen Outfits. Ein klarer und massentauglicher Mix aus Indie Folk, Country Folk, Alt Folk, Folk Rock, Hard Rock und Alt Pop. Die Kompositionen konzentrieren sich diesmal mehr auf die Gitarren, was dem Ganzen die Indie-Wurzeln streitig macht und mehr in den Folk Richtung weißt, was sicherlich mit dem Umzug der Band nach Nashville zu schulden ist.
 
 ::genre::indie folk, country folk, folk rock, alt folk, hard rock, alt pop
+
+## The Duskfall - The Everlasting Shadows
+
+Die schwedische Formation mit ihrem neuesten Full-Length Studioalbum. Gekennzeichnet durch einen direkten Gegensatz zwischen Schwere und Melodie. Zu den Hauptmerkmalen gehören aggressive Riffs im Thrash-Stil, Dual Gitarrenharmonien und growling, aber dennoch artikulierter Gesang.
+
+::genre::melo death metal, thrash metal
 
 ## The Mon - Songs of Embrace
 
@@ -524,7 +560,7 @@ Die Esten mit ihrem Debüt Full-Length. Ein progressiver Austausch zwische Death
 
 Die Debüt EP des amerikanischen Eastcoast Outfits. Ein ehrliches und raues Werk des Hardcore, welches Elemente von Metalic Hardcore und Crossover nicht verbergen kann und sicherlich auch nicht will. Es ist schließlich die Eastcoast. Sing-Alongs, Two-Steps, Mosh und Stage-Dives sind bei diesem Energiebündel von Hardcore vorprogrammiert.
 
-::genre::hardcore, metalic hardcore, crossover
+::genre::hardcore, metallic hardcore, crossover
 
 ## Tore Brunborg Trio - Malm
 
@@ -542,7 +578,7 @@ Das dritte Werk in der Discography der griechischen Formation. Thrash Metal, Hea
 
 Das amerikanische Kollektiv mit Mitgliedern von Integrity und Eternal Sleep ist mit einer neuen EP wieder in den Startlöchern. Wenn man schon immer mal erfahren wollte, wie Celtic Frost klingen wurden, wenn sie Hardcore Punk machen würden, hier ist die Chance. Metalic Hardcore, welcher Elemente des Hardcore Punk und Thrash Metal in sich vereint und eine gewisse Kälte weiß zu erzeugen, welche im Pit in Schweiß und Blut umgewandelt werden kann.
 
-::genre::metalic hardcore, hardcore punk, thrash metal, doom metal
+::genre::metallic hardcore, hardcore punk, thrash metal, doom metal
 
 ## Virodh - Harvest Of Desolation
 
