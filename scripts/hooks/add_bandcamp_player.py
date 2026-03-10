@@ -126,7 +126,7 @@ def _search_bandcamp(title: str, session: Session) -> list[Any]:
         if response.status_code == 429:
             retry_after = response.headers.get("Retry-After")
             wait = float(retry_after) + REQUEST_DELAY_SECONDS if retry_after else REQUEST_DELAY_SECONDS
-            log.info(
+            log.debug(
                 "(SEARCH): Bandcamp rate limit hit for query %r (attempt %d/%d), retrying in %.1fs",
                 title, attempt, MAX_RETRIES, wait,
             )
@@ -194,12 +194,19 @@ def _lookup_bandcamp_album(artists: list[str], result: Any, session: Session) ->
             if response.status_code == 429:
                 retry_after = response.headers.get("Retry-After")
                 wait = float(retry_after) + REQUEST_DELAY_SECONDS if retry_after else REQUEST_DELAY_SECONDS
-                log.info(
+                log.debug(
                     "(LOOKUP): Bandcamp rate limit hit for album %r (attempt %d/%d), retrying in %.1fs",
                     result.get("id"), attempt, MAX_RETRIES, wait,
                 )
                 time.sleep(wait)
                 continue
+
+            if response.status_code != 200:
+                log.warning(
+                    "(LOOKUP): Bandcamp returned HTTP %d for query %r with headers %s",
+                    response.status_code, normalized_title, response.headers,
+                )
+                return False
 
             return len(response.json().get("tracks", [])) > 0
 
@@ -230,11 +237,11 @@ def _collect_bandcamp_information(h2: Tag, session: Session) -> BandcampInfo | N
     artists = [a.strip() for a in artists.split(",")]
 
     results = _search_bandcamp(title=title.strip(), session=session)
-    log.info("Found %d results for %s", len(results), title.strip())
+    log.debug("Found %d results for %s", len(results), title.strip())
 
     for result in results:
         if _lookup_bandcamp_album(artists=artists, result=result, session=session):
-            log.info("Found Bandcamp album %r for %s", result.get("id"), heading_text)
+            log.debug("Found Bandcamp album %r for %s", result.get("id"), heading_text)
             return BandcampInfo(
                 album_id=result.get("id"),
                 album_name=result.get("name"),
@@ -244,7 +251,7 @@ def _collect_bandcamp_information(h2: Tag, session: Session) -> BandcampInfo | N
             )
 
     # Use %-style formatting for consistency with the rest of the module.
-    log.warning("Cannot find Bandcamp album for %r", heading_text)
+    log.debug("Cannot find Bandcamp album for %r", heading_text)
     return None
 
 
@@ -351,17 +358,21 @@ def on_page_content(html: str, page: pages.Page, config: Config, files: files.Fi
     if not headings:
         return html
 
+    embedding_failed = 0;
+    embedding_total = len(headings)
+
     # Reuse a single session for all requests on this page to benefit
     # from HTTP keep-alive and reduced TLS handshake overhead.
     with Session() as session:
         for h2 in headings:
             bandcamp_info = _collect_bandcamp_information(h2, session)
             if bandcamp_info is None:
+                embedding_failed += 1
                 continue
 
             description = h2.find_next_sibling("p")
             if description is None:
-                log.debug(
+                log.warning(
                     "No <p> sibling found for heading %r - skipping player",
                     h2.get_text(strip=True),
                 )
@@ -369,5 +380,7 @@ def on_page_content(html: str, page: pages.Page, config: Config, files: files.Fi
 
             player = _build_player_embed(bandcamp_info, soup)
             description.append(player)
+
+    print(f"\n\n  Bandcamp player embedded: {embedding_total - embedding_failed}/{embedding_total}\n\n")
 
     return str(soup)

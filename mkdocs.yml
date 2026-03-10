@@ -18,9 +18,9 @@ extra_css:
   - assets/css/reading-state.css
 
 theme:
-  logo: assets/images/logo.png
-  favicon: assets/images/favicon.ico
   name: material
+  favicon: assets/images/favicon.png
+  logo: assets/images/logo.png
   icon:
     repo: fontawesome/brands/github
   font:
@@ -59,8 +59,10 @@ plugins:
         - scripts/generators/monthly_recap_draft.py
         - scripts/generators/genre_overview.py
   - meta
-  - optimize
+  - optimize:
+      concurrency: 1
   - privacy:
+      concurrency: 1
       log_level: warn
   - rss:
       use_git: false
