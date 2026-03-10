@@ -1,6 +1,6 @@
 # :material-shield-lock: Privacy Policy
 
-*Last updated: 8 March 2026*
+*Last updated: March 10th, 2026*
 
 ## Overview
 
@@ -59,6 +59,20 @@ The author avatar displayed on post pages is loaded from
 [GitHub's avatar service](https://avatars.githubusercontent.com). This causes your
 browser to make a request to GitHub's servers and is subject to
 [GitHub's General Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+
+---
+
+## Typography: Web Fonts
+
+This blog uses [Lora](https://fonts.google.com/specimen/Lora) and
+[Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) as web fonts,
+configured via the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+theme. Although these fonts originate from Google Fonts, they are
+**self-hosted on GitHub Pages** — downloaded at build time via the theme's
+[built-in privacy plugin](https://squidfunk.github.io/mkdocs-material/plugins/privacy/).
+
+No connection to Google's font servers (`fonts.googleapis.com` or
+`fonts.gstatic.com`) is made when you visit this blog.
 
 ---
 

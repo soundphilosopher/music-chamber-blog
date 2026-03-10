@@ -1,4 +1,4 @@
-site_name: 🎵🎵🎵 Music Chamber 🎵🎵🎵
+site_name: Music Chamber
 site_description: Blog, release lists, top lists and and and.. Everything we discuss in our music chamber sessions,
 site_author: Carsten Vuellings
 site_url: https://soundphilosopher.github.io/music-chamber-blog/
@@ -11,33 +11,38 @@ copyright: >
   <a href="/music-chamber-blog/privacy-policy/">Privacy Policy</a>
 
 extra_css:
-  - assets/append.css
-  - assets/override.css
+  - assets/css/override.css
+  - assets/css/genre.v1.css
+  - assets/css/bandcamp.css
+  - assets/css/recap.css
 
 theme:
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
   name: material
   icon:
     repo: fontawesome/brands/github
+  font:
+    text: Lora
+    code: Robot Mono
   palette:
     - scheme: default
       primary: deep orange
       accent: deep purple
       toggle:
-        icon: material/brightness-7
+        icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
       primary: deep orange
       accent: deep purple
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-sunny
         name: Switch to light mode
   features:
     - navigation.indexes
     - navigation.top
     - search.highlight
     - search.share
-    - content.action.edit
-    - content.action.view
     - content.code.copy
 
 plugins:
@@ -54,6 +59,7 @@ plugins:
         - scripts/generators/genre_overview.py
   - meta
   - optimize
+  - privacy
   - rss:
       use_git: false
       match_path: posts/.*
