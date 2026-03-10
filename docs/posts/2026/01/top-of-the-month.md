@@ -13,11 +13,11 @@ categories:
 
 <div class="grid cards" align="center" markdown>
 
--   ![Pedrito Martínez, Antonio Sánchez, Michael League - Elipsis](site:assets/images/PedritoMartnezAntonioSnchezMichaelLeagueElipsis.png){ .top-list-image }
+-   ![Pedrito Martínez, Antonio Sánchez, Michael League - Elipsis](https://i0.wp.com/latinjazznet.com/wp-content/uploads/2026/02/Pedrito-Martinez-Antonio-Sanchez-Michael-League-Elipsis.jpg){ .top-list-image }
 
     ## 1. Pedrito Martínez, Antonio Sánchez, Michael League - Elipsis
 
--   ![Hér - Monochrome](site:assets/images/HrMonochrome.jpeg){ .top-list-image }
+-   ![Hér - Monochrome](https://f4.bcbits.com/img/a0222184905_10.jpg){ .top-list-image }
 
     ## 2. Hér - Monochrome
 
@@ -27,55 +27,55 @@ categories:
 
 <div class="grid cards" align="center" markdown>
 
--   ![MØL - Dreamcrush](site:assets/images/MLDreamcrush.jpeg){ .top-list-image }
+-   ![MØL - Dreamcrush](https://f4.bcbits.com/img/a0675353436_16.jpg){ .top-list-image }
 
     ## 3. MØL - Dreamcrush
 
--   ![Jazzpospolita - Kosmopolis](site:assets/images/JazzpospolitaKosmopolis.jpeg){ .top-list-image }
+-   ![Jazzpospolita - Kosmopolis](https://f4.bcbits.com/img/a4109814650_10.jpg){ .top-list-image }
 
     ## 4. Jazzpospolita - Kosmopolis
 
--   ![Poppy - Empty Hands](site:assets/images/PoppyEmptyHands.png){ .top-list-image }
+-   ![Poppy - Empty Hands](https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Poppy_-_Empty_Hands.png/250px-Poppy_-_Empty_Hands.png){ .top-list-image }
 
     ## 5. Poppy - Empty Hands
 
--   ![Under - What happened in Roundwood](site:assets/images/UnderWhathappenedinRoundwood.jpeg){ .top-list-image }
+-   ![Under - What happened in Roundwood](https://f4.bcbits.com/img/a2138021685_16.jpg){ .top-list-image }
 
     ## 6. Under - What happened in Roundwood
 
--   ![Gavran - The One Who Propels](site:assets/images/GavranTheOneWhoPropels.jpeg){ .top-list-image }
+-   ![Gavran - The One Who Propels](https://f4.bcbits.com/img/a1675474462_10.jpg){ .top-list-image }
 
     ## 7. Gavran - The One Who Propels
 
--   ![Summer of Hate - Blood and Honey](site:assets/images/SummerofHateBloodandHoney.jpeg){ .top-list-image }
+-   ![Summer of Hate - Blood and Honey](https://www.betreutesproggen.de/wp-content/uploads/2026/02/soh.jpeg){ .top-list-image }
 
     ## 8. Summer of Hate - Blood and Honey
 
--   ![Perfect - BodeNote](site:assets/images/PerfectBodeNote.jpeg){ .top-list-image }
+-   ![Perfect - BodeNote](https://f4.bcbits.com/img/a3991905132_10.jpg){ .top-list-image }
 
     ## 9. Perfect - BodeNote
 
--   ![Orchestra of the Upper Atmosphere - Theta Seven](site:assets/images/OrchestraoftheUpperAtmosphereThetaSeven.jpeg){ .top-list-image }
+-   ![Orchestra of the Upper Atmosphere - Theta Seven](https://f4.bcbits.com/img/a0444966573_10.jpg){ .top-list-image }
 
     ## 10. Orchestra of the Upper Atmosphere - Theta Seven
 
--   ![Plantoid - Flare](site:assets/images/PlantoidFlare.jpeg){ .top-list-image }
+-   ![Plantoid - Flare](https://f4.bcbits.com/img/a1555794497_10.jpg){ .top-list-image }
 
     ## 11. Plantoid - Flare
 
--   ![Christian Löffler - Until we meet again](site:assets/images/ChristianLfflerUntilwemeetagain.jpeg){ .top-list-image }
+-   ![Christian Löffler - Until we meet again](https://f4.bcbits.com/img/a3175785074_16.jpg){ .top-list-image }
 
     ## 12. Christian Löffler - Until we meet again
 
--   ![Trigg & Gusset - Event Horizon](site:assets/images/TriggGussetEventHorizon.jpeg){ .top-list-image }
+-   ![Trigg & Gusset - Event Horizon](https://f4.bcbits.com/img/a3038559371_16.jpg){ .top-list-image }
 
     ## 13. Trigg & Gusset - Event Horizon
 
--   ![Dry Cleaning - Secret Love](site:assets/images/DryCleaningSecretLove.jpeg){ .top-list-image }
+-   ![Dry Cleaning - Secret Love](https://f4.bcbits.com/img/a4213216818_16.jpg){ .top-list-image }
 
     ## 14. Dry Cleaning - Secret Love
 
--   ![Pacifist - Five](site:assets/images/PacifistFive.jpeg){ .top-list-image }
+-   ![Pacifist - Five](https://f4.bcbits.com/img/a1199963268_10.jpg){ .top-list-image }
 
     ## 15. Pacifist - Five
 

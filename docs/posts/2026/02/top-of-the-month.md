@@ -9,11 +9,11 @@ categories:
 
 <div class="grid cards" align="center" markdown>
 
--   ![Abronia - Shapes Unravel](site:assets/images/abronia_-_shapes_unravel-1772299060.jpeg){ .top-list-image }
+-   ![Abronia - Shapes Unravel](https://f4.bcbits.com/img/a2597020737_16.jpg){ .top-list-image }
 
     ## 1. Abronia - Shapes Unravel
 
--   ![Apparat - A Hum of Maybe](site:assets/images/apparat_-_a_hum_of_maybe-1772299060.jpeg){ .top-list-image }
+-   ![Apparat - A Hum of Maybe](https://f4.bcbits.com/img/a1971940186_10.jpg){ .top-list-image }
 
     ## 2. Apparat - A Hum of Maybe
 
@@ -23,55 +23,55 @@ categories:
 
 <div class="grid cards" align="center" markdown>
 
--   ![Archive - Glass Minds](site:assets/images/Archive_Glass_Minds_Artwork.jpg){ .top-list-image }
+-   ![Archive - Glass Minds](https://www.betreutesproggen.de/wp-content/uploads/2026/02/Archive_Glass_Minds_Artwork.jpg){ .top-list-image }
 
     ## 3. Archive - Glass Minds
 
--   ![Converge - Love is not enough](site:assets/images/converge_-_love_is_not_enough-1772299064.jpeg){ .top-list-image }
+-   ![Converge - Love is not enough](https://f4.bcbits.com/img/a1291330267_16.jpg){ .top-list-image }
 
     ## 4. Converge - Love is not enough
 
--   ![Calvin Love - Throw my Shadow to the Sun](site:assets/images/calvin_love_-_throw_my_shadow_to_the_sun-1772299063.webp){ .top-list-image }
+-   ![Calvin Love - Throw my Shadow to the Sun](https://www.normanrecords.com/artwork/large/165/214415-calvin-love-throw-my-shadow-to-the.jpg){ .top-list-image }
 
     ## 5. Calvin Love - Throw my Shadow to the Sun
 
--   ![Hen Ogledd - DISCOMBOBULATED](site:assets/images/hen_ogledd_-_discombobulated-1772299064.jpeg){ .top-list-image }
+-   ![Hen Ogledd - DISCOMBOBULATED](https://www.dominomusic.com/res/Naxm/1200_1200/Hen_Ogledd_-_DISCOMBOBULATED_-_Packshot_WEIRD172D.jpg){ .top-list-image }
 
     ## 6. Hen Ogledd - DISCOMBOBULATED
 
--   ![The Ant Band - From Genesis to Reimagination](site:assets/images/the_ant_band_-_from_genesis_to_reimagination-1772299064.jpeg){ .top-list-image }
+-   ![The Ant Band - From Genesis to Reimagination](https://f4.bcbits.com/img/a0143925967_16.jpg){ .top-list-image }
 
     ## 7. The Ant Band - From Genesis to Reimagination
 
--   ![New Found Glory - Listen Up!](site:assets/images/new_found_glory_-_listen_up-1772299064.jpeg){ .top-list-image }
+-   ![New Found Glory - Listen Up!](https://m.media-amazon.com/images/I/913JeW5XBrL._UF894,1000_QL80_.jpg){ .top-list-image }
 
     ## 8. New Found Glory - Listen Up!
 
--   ![Death Of Youth - Nothing Is The Same Anymore](site:assets/images/death_of_youth_-_nothing_is_the_same_anymore-1772299065.jpeg){ .top-list-image }
+-   ![Death Of Youth - Nothing Is The Same Anymore](https://f4.bcbits.com/img/a0769363702_10.jpg){ .top-list-image }
 
     ## 9. Death Of Youth - Nothing Is The Same Anymore
 
--   ![Helicon, Al Lover - Arise](site:assets/images/helicon_al_lover_-_arise-1772299064.jpeg){ .top-list-image }
+-   ![Helicon, Al Lover - Arise](https://f4.bcbits.com/img/a0747300167_16.jpg){ .top-list-image }
 
     ## 10. Helicon, Al Lover - Arise
 
--   ![Zahn - Purpur](site:assets/images/zahn_-_purpur-1772299065.jpeg){ .top-list-image }
+-   ![Zahn - Purpur](https://f4.bcbits.com/img/a2030838000_16.jpg){ .top-list-image }
 
     ## 11. Zahn - Purpur
 
--   ![EXEK - Prove The Mountains Move](site:assets/images/exek_-_prove_the_mountains_move-1772299065.webp){ .top-list-image }
+-   ![EXEK - Prove The Mountains Move](https://f4.bcbits.com/img/a2241676650_16.jpg){ .top-list-image }
 
     ## 12. EXEK - Prove The Mountains Move
 
--   ![Unverkalt - Héréditaire](site:assets/images/unverkalt_-_hereditaire-1772299065.jpeg){ .top-list-image }
+-   ![Unverkalt - Héréditaire](https://f4.bcbits.com/img/a1255436578_10.jpg){ .top-list-image }
 
     ## 13. Unverkalt - Héréditaire
 
--   ![Bruecken - Years That Answer](site:assets/images/bruecken_-_years_that_answer-1772299065.jpeg){ .top-list-image }
+-   ![Bruecken - Years That Answer](https://f4.bcbits.com/img/a2325173818_10.jpg){ .top-list-image }
 
     ## 14. Bruecken - Years That Answer
 
--   ![Voxtrot - Dreamers in Exile](site:assets/images/voxtrot_-_dreamers_in_exile-1772441792.jpeg){ .top-list-image }
+-   ![Voxtrot - Dreamers in Exile](https://f4.bcbits.com/img/a4192593042_10.jpg){ .top-list-image }
 
     ## 15. Voxtrot - Dreamers in Exile
 

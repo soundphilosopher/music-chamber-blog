@@ -59,7 +59,8 @@ plugins:
         - scripts/generators/genre_overview.py
   - meta
   - optimize
-  - privacy
+  - privacy:
+      log_level: warn
   - rss:
       use_git: false
       match_path: posts/.*
@@ -105,7 +106,6 @@ markdown_extensions:
 hooks:
   - scripts/hooks/cleanup_tags.py
   - scripts/hooks/mark_top_picks.py
-  - scripts/hooks/image_src_with_site_url.py
   - scripts/hooks/add_genres_filter.py
   - scripts/hooks/add_release_count.py
   - scripts/hooks/add_bandcamp_player.py
