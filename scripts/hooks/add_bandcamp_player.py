@@ -13,7 +13,7 @@ For each ``<h2>`` heading the hook:
    that follows the heading.
 
 Only pages whose source path ends with ``releases.md`` **and** whose
-front-matter contains ``pin: true`` are processed — regular (non-pinned)
+front-matter contains ``bandcamp: true`` are processed — regular
 weekly posts are left untouched.
 """
 
@@ -21,6 +21,8 @@ import logging
 import time
 
 from dataclasses import dataclass
+from typing import Any
+from random import uniform
 
 from bs4 import BeautifulSoup, Tag
 from curl_cffi.requests import Session
@@ -30,7 +32,8 @@ from mkdocs.config import Config
 from mkdocs.structure import files, pages
 
 
-log = logging.getLogger(f"mkdocs.hooks.add_bandcamp_player")
+# No f-string needed — the logger name is a plain string literal.
+log = logging.getLogger("mkdocs.hooks.add_bandcamp_player")
 
 # ---------------------------------------------------------------------------
 # Constants
@@ -45,7 +48,7 @@ BANDCAMP_ALBUM_LOOKUP_URL = "https://bandcamp.com/api/mobile/25/tralbum_details"
 EMBED_PLAYER_BASE_URL = "https://bandcamp.com/EmbeddedPlayer"
 """Base URL for constructing Bandcamp ``<iframe>`` embed sources."""
 
-REQUEST_DELAY_SECONDS: float = 0.5
+REQUEST_DELAY_SECONDS: float = round(uniform(0.8, 1.5), 2)
 """Polite delay between consecutive API requests to avoid rate-limiting."""
 
 MAX_RETRIES: int = 3
@@ -58,7 +61,7 @@ PLAYER_LINK_COLOR_LIGHT = "0687f5"
 """Hex link color passed to the Bandcamp embed player for light mode."""
 
 PLAYER_BG_COLOR_DARK = "333333"
-"""Hex background color passed to the Bandcamp embed player for light mode."""
+"""Hex background color passed to the Bandcamp embed player for dark mode."""
 
 PLAYER_LINK_COLOR_DARK = "0f91ff"
 """Hex link color passed to the Bandcamp embed player for dark mode."""
@@ -92,95 +95,23 @@ class BandcampInfo:
 # ---------------------------------------------------------------------------
 
 
-def _normalize_release_name(original_name: str) -> str | None:
-    """Turn an ``Artist(s) - Title`` heading into a search-friendly query.
+def _search_bandcamp(title: str, session: Session) -> list[Any]:
+    """Query the Bandcamp fuzzy-search API for albums matching *title*.
 
-    Multi-artist headings (comma-separated) are reduced to the **first**
-    listed artist so the Bandcamp search has a better chance of returning
-    a single, relevant result.
-
-    Args:
-        original_name: The raw heading text, expected in
-            ``Artist - Album Title`` format.
-
-    Returns:
-        A slugified, lower-case search string, or ``None`` if the heading
-        does not contain the expected ``" - "`` separator.
-    """
-    parts = original_name.split(" - ", maxsplit=1)
-    if len(parts) != 2:
-        log.warning("Heading does not match 'Artist - Title' pattern: %r", original_name)
-        return None
-
-    artists, title = parts
-    artist = artists.split(",")[0].strip()
-    return slugify(f"{artist} {title}", " ")
-
-
-def _lookup_bandcamp_album(album_id: str, band_id: str, session: Session) -> bool:
-    """Query Bandcamp for album details by ID.
+    Filters raw results to only those whose ``type`` is ``"a"`` (album)
+    and whose ``name`` slug-matches *title* exactly.  Retries up to
+    :data:`MAX_RETRIES` times when the API responds with HTTP 429, and
+    honours the ``Retry-After`` response header when present.
 
     Args:
-        album_id: The Bandcamp-internal numeric album identifier.
-        band_id: The Bandcamp-internal numeric band/artist identifier.
-        session: A reusable :class:`curl_cffi.requests.Session` (keeps
-            the underlying connection alive across calls).
+        title: The album title to look up (without artist prefix).
+        session: A :class:`~curl_cffi.requests.Session` to reuse across calls.
 
     Returns:
-        ``True`` if the album exists and has tracks, ``False`` otherwise.
+        A (possibly empty) list of raw Bandcamp result dicts.
     """
-    params = {"band_id": band_id, "tralbum_id": album_id, "tralbum_type": "a"}
-
-    for attempt in range(1, MAX_RETRIES + 1):
-        try:
-            response = session.get(BANDCAMP_ALBUM_LOOKUP_URL, params=params)
-        except Exception as e:
-            log.exception("Failed to lookup Bandcamp album %r: %r", album_id, e)
-            return False
-
-        if response.status_code == 429:
-            retry_after = response.headers.get("Retry-After")
-            wait = float(retry_after) + REQUEST_DELAY_SECONDS if retry_after else REQUEST_DELAY_SECONDS
-            log.info(
-                "Bandcamp rate limit hit for album %r (attempt %d/%d), retrying in %.1fs",
-                album_id, attempt, MAX_RETRIES, wait,
-            )
-            time.sleep(wait)
-            continue  # next attempt
-
-        if response.status_code != 200:
-            return False
-
-        return len(response.json().get("tracks", [])) > 0
-
-    log.warning("Bandcamp rate-limit retries exhausted for album %r", album_id)
-    return False
-
-
-def _collect_bandcamp_information(
-    h2: Tag, session: Session
-) -> BandcampInfo | None:
-    """Query Bandcamp for album metadata that matches *h2*.
-
-    Retries up to :data:`MAX_RETRIES` times when the API responds with
-    HTTP 429, honouring the ``Retry-After`` header when present.
-    A short polite delay is applied after every non-429 response.
-
-    Args:
-        h2: A BeautifulSoup ``<h2>`` tag whose text content is an
-            ``Artist - Title`` string.
-        session: A reusable :class:`curl_cffi.requests.Session` (keeps
-            the underlying connection alive across calls).
-
-    Returns:
-        A :class:`BandcampInfo` instance for the first matching album,
-        or ``None`` if the search yields no album results, the heading
-        text cannot be parsed, or the request fails.
-    """
-    heading_text = h2.get_text(strip=True)
-    search_query = _normalize_release_name(heading_text)
-    if search_query is None:
-        return None
+    # slugify() already accepts a plain str — no f-string wrapper needed.
+    search_query = slugify(title, " ")
 
     for attempt in range(1, MAX_RETRIES + 1):
         try:
@@ -189,51 +120,129 @@ def _collect_bandcamp_information(
                 params={"q": search_query, "param_with_locations": "true"},
                 impersonate="chrome",
             )
-            log.debug("response=%s", response)
+            log.debug("(SEARCH): response=%s", response)
         except RequestException:
-            log.exception("Bandcamp request failed for query %r", search_query)
-            return None
+            log.exception("(SEARCH): Bandcamp request failed for query %r", search_query)
+            return []
 
         if response.status_code == 429:
             retry_after = response.headers.get("Retry-After")
             wait = float(retry_after) + REQUEST_DELAY_SECONDS if retry_after else REQUEST_DELAY_SECONDS
             log.info(
-                "Bandcamp rate limit hit for query %r (attempt %d/%d), retrying in %.1fs",
+                "(SEARCH): Bandcamp rate limit hit for query %r (attempt %d/%d), retrying in %.1fs",
                 search_query, attempt, MAX_RETRIES, wait,
             )
             time.sleep(wait)
-            continue  # next attempt
+            continue
 
         # Polite delay — only for non-429 paths so we don't double-sleep.
         time.sleep(REQUEST_DELAY_SECONDS)
 
         if response.status_code != 200:
             log.warning(
-                "Bandcamp returned HTTP %d for query %r with headers %s",
+                "(SEARCH): Bandcamp returned HTTP %d for query %r with headers %s",
                 response.status_code, search_query, response.headers,
             )
-            return None
+            return []
 
-        for result in response.json().get("results", []):
-            if result.get("type") == "a":
-                if not _lookup_bandcamp_album(result.get("id"), result.get("band_id"), session):
-                    log.debug("Bandcamp album %r has no tracks, skipping", result.get("id"))
-                    continue
+        # Pre-compute the slug once so the list comprehension stays readable.
+        title_slug = slugify(title, "")
+        return [
+            r for r in response.json().get("results", [])
+            if r.get("type") == "a" and slugify(r.get("name", ""), "") == title_slug
+        ]
 
-                info = BandcampInfo(
-                    album_id=result.get("id"),
-                    album_name=result.get("name"),
-                    band_id=result.get("band_id"),
-                    band_name=result.get("band_name"),
-                    album_url=result.get("url"),
+    return []
+
+
+def _lookup_bandcamp_album(artists: list[str], result: Any, session: Session) -> bool:
+    """Verify that *result* is an album by one of *artists* via the Bandcamp mobile API.
+
+    First checks whether any of the provided artist names is contained in
+    the result's ``band_name`` field (case-insensitive).  If so, performs a
+    sanity-check request to :data:`BANDCAMP_ALBUM_LOOKUP_URL` to confirm
+    the album is still accessible.  Retries up to :data:`MAX_RETRIES` times
+    on HTTP 429 and aborts immediately if all retries are exhausted.
+
+    Args:
+        artists: List of artist names to match against the result's band name.
+        result: A raw Bandcamp search result dict (from :func:`_search_bandcamp`).
+        session: A :class:`~curl_cffi.requests.Session` to reuse across calls.
+
+    Returns:
+        ``True`` if the album belongs to one of *artists* and is accessible,
+        ``False`` otherwise.
+    """
+    for artist in artists:
+        # Skip artists that don't match the band name returned by the search.
+        if artist.lower() not in result.get("band_name", "").lower():
+            continue
+
+        params = {
+            "band_id": result.get("band_id"),
+            "tralbum_id": result.get("id"),
+            "tralbum_type": "a",
+        }
+
+        for attempt in range(1, MAX_RETRIES + 1):
+            try:
+                response = session.get(BANDCAMP_ALBUM_LOOKUP_URL, params=params)
+            except RequestException:
+                # log.exception() already attaches the full traceback.
+                log.exception("(LOOKUP): Failed to lookup Bandcamp album %r", result.get("id"))
+                return False
+
+            if response.status_code == 429:
+                retry_after = response.headers.get("Retry-After")
+                wait = float(retry_after) + REQUEST_DELAY_SECONDS if retry_after else REQUEST_DELAY_SECONDS
+                log.info(
+                    "(LOOKUP): Bandcamp rate limit hit for album %r (attempt %d/%d), retrying in %.1fs",
+                    result.get("id"), attempt, MAX_RETRIES, wait,
                 )
-                log.debug("Matched %r -> %s", search_query, info.album_url)
-                return info
+                time.sleep(wait)
+                continue
 
-        log.debug("No Bandcamp album found for query %r", search_query)
-        return None
+            return len(response.json().get("tracks", [])) > 0
 
-    log.warning("Bandcamp rate-limit retries exhausted for query %r", search_query)
+        # All retries exhausted due to rate-limiting — abort early instead of
+        # retrying the identical request for remaining artists in the list.
+        return False
+
+    return False
+
+
+def _collect_bandcamp_information(h2: Tag, session: Session) -> BandcampInfo | None:
+    """Resolve a Bandcamp album for the release described by *h2*.
+
+    Parses the heading text as ``"Artist[, Artist2] - Title"``, searches
+    Bandcamp for the album title, and verifies each candidate result against
+    the parsed artist list.
+
+    Args:
+        h2: The ``<h2>`` tag whose text contains the ``Artist - Title`` string.
+        session: A :class:`~curl_cffi.requests.Session` to reuse across calls.
+
+    Returns:
+        A :class:`BandcampInfo` instance for the first matching album, or
+        ``None`` if no match is found.
+    """
+    heading_text = h2.get_text(strip=True)
+    artists, title = heading_text.split(" - ", 1)
+    artists = [a.strip() for a in artists.split(",")]
+
+    for result in _search_bandcamp(title=title.strip(), session=session):
+        if _lookup_bandcamp_album(artists=artists, result=result, session=session):
+            log.info("Found Bandcamp album %r for %s", result.get("id"), heading_text)
+            return BandcampInfo(
+                album_id=result.get("id"),
+                album_name=result.get("name"),
+                band_id=result.get("band_id"),
+                band_name=result.get("band_name"),
+                album_url=result.get("url"),
+            )
+
+    # Use %-style formatting for consistency with the rest of the module.
+    log.warning("Cannot find Bandcamp album for %r", heading_text)
     return None
 
 
@@ -259,7 +268,6 @@ def _build_player_embed(info: BandcampInfo, soup: BeautifulSoup) -> Tag:
     Returns:
         A ``<p>`` :class:`Tag` ready to be appended into the DOM.
     """
-
     player_map = {
         "bandcamp-player--light": (
             f"{EMBED_PLAYER_BASE_URL}"
@@ -308,10 +316,10 @@ def _build_player_embed(info: BandcampInfo, soup: BeautifulSoup) -> Tag:
 
 
 def on_page_content(html: str, page: pages.Page, config: Config, files: files.Files) -> str:
-    """MkDocs hook: embed Bandcamp players on pinned release-list pages.
+    """MkDocs hook: embed Bandcamp players on release-list pages.
 
     Skips pages that are not ``releases.md`` inside the ``posts/``
-    directory tree, or whose front-matter does not set ``pin: true``.
+    directory tree, or whose front-matter does not set ``bandcamp: true``.
 
     For every ``<h2>`` on a qualifying page the hook queries Bandcamp,
     and — when a match is found — appends an embedded mini-player to the
