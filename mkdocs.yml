@@ -17,8 +17,8 @@ extra_css:
   - assets/css/recap.css
 
 theme:
-  logo: assets/logo.png
-  favicon: assets/favicon.ico
+  logo: assets/images/logo.png
+  favicon: assets/images/favicon.ico
   name: material
   icon:
     repo: fontawesome/brands/github
