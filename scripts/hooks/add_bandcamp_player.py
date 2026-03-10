@@ -19,6 +19,7 @@ weekly posts are left untouched.
 
 import logging
 import time
+import re
 
 from dataclasses import dataclass
 from typing import Any
@@ -110,19 +111,16 @@ def _search_bandcamp(title: str, session: Session) -> list[Any]:
     Returns:
         A (possibly empty) list of raw Bandcamp result dicts.
     """
-    # slugify() already accepts a plain str — no f-string wrapper needed.
-    search_query = slugify(title, " ")
-
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             response = session.get(
                 BANDCAMP_FUZZY_SEARCH_URL,
-                params={"q": search_query, "param_with_locations": "true"},
+                params={"q": title, "param_with_locations": "true"},
                 impersonate="chrome",
             )
             log.debug("(SEARCH): response=%s", response)
         except RequestException:
-            log.exception("(SEARCH): Bandcamp request failed for query %r", search_query)
+            log.exception("(SEARCH): Bandcamp request failed for query %r", title)
             return []
 
         if response.status_code == 429:
@@ -130,7 +128,7 @@ def _search_bandcamp(title: str, session: Session) -> list[Any]:
             wait = float(retry_after) + REQUEST_DELAY_SECONDS if retry_after else REQUEST_DELAY_SECONDS
             log.info(
                 "(SEARCH): Bandcamp rate limit hit for query %r (attempt %d/%d), retrying in %.1fs",
-                search_query, attempt, MAX_RETRIES, wait,
+                title, attempt, MAX_RETRIES, wait,
             )
             time.sleep(wait)
             continue
@@ -141,15 +139,13 @@ def _search_bandcamp(title: str, session: Session) -> list[Any]:
         if response.status_code != 200:
             log.warning(
                 "(SEARCH): Bandcamp returned HTTP %d for query %r with headers %s",
-                response.status_code, search_query, response.headers,
+                response.status_code, title, response.headers,
             )
             return []
 
-        # Pre-compute the slug once so the list comprehension stays readable.
-        title_slug = slugify(title, "")
         return [
             r for r in response.json().get("results", [])
-            if r.get("type") == "a" and slugify(r.get("name", ""), "") == title_slug
+            if r.get("type") == "a"
         ]
 
     return []
@@ -173,9 +169,12 @@ def _lookup_bandcamp_album(artists: list[str], result: Any, session: Session) ->
         ``True`` if the album belongs to one of *artists* and is accessible,
         ``False`` otherwise.
     """
+    normalized_band_name = "".join([char.lower() for char in result.get("band_name", "") if char.isalnum()])
+    normalized_title = "".join([char.lower() for char in result.get("name", "") if char.isalnum()])
+
     for artist in artists:
-        # Skip artists that don't match the band name returned by the search.
-        if artist.lower() not in result.get("band_name", "").lower():
+        normalized_artist = "".join([char.lower() for char in artist if char.isalnum()])
+        if normalized_artist not in normalized_band_name and not normalized_title.startswith(normalized_artist):
             continue
 
         params = {
@@ -230,7 +229,10 @@ def _collect_bandcamp_information(h2: Tag, session: Session) -> BandcampInfo | N
     artists, title = heading_text.split(" - ", 1)
     artists = [a.strip() for a in artists.split(",")]
 
-    for result in _search_bandcamp(title=title.strip(), session=session):
+    results = _search_bandcamp(title=title.strip(), session=session)
+    log.info("Found %d results for %s", len(results), title.strip())
+
+    for result in results:
         if _lookup_bandcamp_album(artists=artists, result=result, session=session):
             log.info("Found Bandcamp album %r for %s", result.get("id"), heading_text)
             return BandcampInfo(
