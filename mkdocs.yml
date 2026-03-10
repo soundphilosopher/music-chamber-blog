@@ -15,6 +15,7 @@ extra_css:
   - assets/css/genre.v1.css
   - assets/css/bandcamp.css
   - assets/css/recap.css
+  - assets/css/reading-state.css
 
 theme:
   logo: assets/images/logo.png
@@ -92,6 +93,9 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -99,9 +103,7 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.snippets
   - pymdownx.superfences
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tilde
 
 hooks:
   - scripts/hooks/cleanup_tags.py
@@ -109,3 +111,4 @@ hooks:
   - scripts/hooks/add_genres_filter.py
   - scripts/hooks/add_release_count.py
   - scripts/hooks/add_bandcamp_player.py
+  - scripts/hooks/add_reading_status.py

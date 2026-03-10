@@ -9,6 +9,12 @@ categories:
 
 # Releases! Releases! Releases!
 
+## A Cosmic Trail - Third
+
+tbd
+
+::genre::
+
 ## Angus McSix - Angus McSix And The All-Seeing Astral Eye
 
 tbd
@@ -21,13 +27,13 @@ tbd
 
 ::genre::
 
+<!-- more -->
+
 ## Brigitte Calls Me Baby - Irreversible
 
 tbd
 
 ::genre::
-
-<!-- more -->
 
 ## Crack Cloud - Peace And Purpose
 
@@ -35,7 +41,13 @@ tbd
 
 ::genre::
 
-## Daniel Romano’s Outfit - Preservers Of The Pearl
+## Daniel Romano's Outfit - Preservers Of The Pearl
+
+tbd
+
+::genre::
+
+## Different Strings - The Great Divide
 
 tbd
 
@@ -65,6 +77,12 @@ tbd
 
 ::genre::
 
+## Gong - Bright Spirit
+
+tbd
+
+::genre::
+
 ## Gotthard - More Stereo Crush
 
 tbd
@@ -78,6 +96,12 @@ tbd
 ::genre::
 
 ## Lamb Of God - Into Oblivion
+
+tbd
+
+::genre::
+
+## Major Parkinson - Valesa - Chapter II: Viva the Apocalypse!
 
 tbd
 
@@ -156,6 +180,12 @@ tbd
 ::genre::
 
 ## The Orielles - Only You Left
+
+tbd
+
+::genre::
+
+## The Soft Machine - Thirteen
 
 tbd
 
