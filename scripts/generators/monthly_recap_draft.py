@@ -20,6 +20,7 @@ from collections import defaultdict
 from dataclasses import dataclass
 from glob import glob
 from pathlib import Path
+from typing import Any
 
 from bs4 import BeautifulSoup
 from bs4.element import NavigableString
@@ -38,7 +39,7 @@ class StarredRelease:
     name: str
     file_path: str
     date: datetime.date
-    anchor: str
+    anchor: str | Any
 
 
 def _parse_starred_releases(release_list_path: str) -> list[StarredRelease]:
@@ -62,7 +63,8 @@ def _parse_starred_releases(release_list_path: str) -> list[StarredRelease]:
         html = md.convert(f.read())
 
     soup = BeautifulSoup(html, "html.parser")
-    release_date = datetime.datetime.strptime(md.Meta["date"][0], "%Y-%m-%d").date()
+    meta: dict[str, Any] = getattr(md, "Meta", {})
+    release_date = datetime.datetime.strptime(meta["date"][0], "%Y-%m-%d").date()
 
     starred: list[StarredRelease] = []
 
@@ -81,6 +83,7 @@ def _parse_starred_releases(release_list_path: str) -> list[StarredRelease]:
                 )
 
     return starred
+
 
 
 def _build_recap_markdown(

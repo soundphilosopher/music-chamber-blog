@@ -19,6 +19,7 @@ Generated file: ``genres.md``
 from __future__ import annotations
 
 import re
+from typing import Any
 import markdown
 import mkdocs_gen_files
 
@@ -49,7 +50,7 @@ class ReleaseAnchor:
     """A link reference to a specific release heading in a source file."""
 
     title: str
-    anchor_id: str
+    anchor_id: str | Any
     file_path: str
 
 
@@ -114,11 +115,14 @@ def _parse_genre_tags(file_path: str) -> list[tuple[str, ReleaseAnchor]]:
     results: list[tuple[str, ReleaseAnchor]] = []
 
     # exclude drafts from genre overview
-    draft = md.Meta.get("draft", [])
+    draft = getattr(md, "Meta", {}).get("draft", [])
     if "true" in draft:
         return results
 
-    for genre_tag in soup.find_all("p", string=GENRE_TAG_PATTERN):
+    for genre_tag in soup.find_all(name="p"):
+        if not GENRE_TAG_PATTERN.match(genre_tag.get_text()):
+            continue
+
         description = genre_tag.find_previous_sibling("p")
         if not description:
             continue
@@ -133,7 +137,7 @@ def _parse_genre_tags(file_path: str) -> list[tuple[str, ReleaseAnchor]]:
             file_path=relative_path,
         )
 
-        genre_text = genre_tag.string.removeprefix(GENRE_TAG_PREFIX).strip()
+        genre_text = genre_tag.get_text().removeprefix(GENRE_TAG_PREFIX).strip()
         genre_names = [name.strip().lower() for name in genre_text.split(",")]
         genre_names_normalized = _normalize_genre_names(genre_names)
 
@@ -143,6 +147,7 @@ def _parse_genre_tags(file_path: str) -> list[tuple[str, ReleaseAnchor]]:
                 results.append((name, anchor))
 
     return results
+
 
 
 def _collect_genres(glob_pattern: str) -> list[Genre]:

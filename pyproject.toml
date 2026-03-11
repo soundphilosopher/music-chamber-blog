@@ -20,5 +20,12 @@ dependencies = [
     "curl-cffi"
 ]
 
+[project.optional-dependencies]
+dev = [
+    "pyright"
+]
+
+
 [tool.pyright]
-exclude = ["**/node_modules", "**/__pycache__", "**/dist", "**/build"]
+exclude = ["**/*"]
+include = ["scripts/**/*.py"]

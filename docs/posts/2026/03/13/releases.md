@@ -13,23 +13,77 @@ categories:
 
 tbd
 
-::genre::
+::genre::post rock, prog rock, instrumental
+
+## Alessia Piermarini - 10 Miles
+
+tbd
+
+::genre::nu jazz, jazztronica, neo soul, spoken words
+
+## Alexis Taylor - Paris in the Spring
+
+tbd
+
+::genre::country pop, cosmic pop, avant pop, edm, avant folk, prog pop, alt folk
+
+<!-- more -->
 
 ## Angus McSix - Angus McSix And The All-Seeing Astral Eye
 
 tbd
 
-::genre::
+::genre::power metal, melo metal, symphonic metal, arena rock
+
+## Anjimile - You're Free to Go
+
+tbd
+
+::genre::introspective pop, indie folk, alt folk, chamber pop
+
+## Art School Girlfriend - Lean In
+
+tbd
+
+::genre::alt rock, alt pop, electropop, experimental electronica, folktronica, ambient
+
+## Beccy Cole - Through the Haze
+
+tbd
+
+::genre::country folk, americana, country rock
+
+## Ben Wendel - BaRcoDe
+
+tbd
+
+::genre::modern jazz, jazztronica, ambient acoustic, chamber jazz, experimental jazz
+
+## Bill Orcutt - Music in Continuous Motion
+
+tbd
+
+::genre::modern classic, post rock, avant jazz, experimental jazz, nu jazz
 
 ## Bloody Knees - What Else
 
 tbd
 
-::genre::
-
-<!-- more -->
+::genre::indie rock, garage rock, post grunge, alt rock, powerviolence
 
 ## Brigitte Calls Me Baby - Irreversible
+
+tbd
+
+::genre::new wave, post punk, indie rock, dreampop, prog pop
+
+## Bruiser Wolf - Push & Paint
+
+tbd
+
+::genre::
+
+## Chapiam Fulton - Flying High: Still Soaring
 
 tbd
 
@@ -41,7 +95,19 @@ tbd
 
 ::genre::
 
+## Cut Worms - Transmitter
+
+tbd
+
+::genre::
+
 ## Daniel Romano's Outfit - Preservers Of The Pearl
+
+tbd
+
+::genre::
+
+## Dhanya Langer - Modha - At Your Pace
 
 tbd
 
@@ -59,6 +125,18 @@ tbd
 
 ::genre::
 
+## Elucid and Sebb Bash - I Guess You Had to Be There
+
+tbd
+
+::genre::
+
+## Eric Cantona - Perfect Imperfection
+
+tbd
+
+::genre::
+
 ## Fangus - Emerald Dream
 
 tbd
@@ -66,6 +144,12 @@ tbd
 ::genre::
 
 ## Fotocrime - Security
+
+tbd
+
+::genre::
+
+## Foy Vance - The Wake
 
 tbd
 
@@ -89,6 +173,30 @@ tbd
 
 ::genre::
 
+## heavensouls - westside trapped
+
+tbd
+
+::genre::
+
+## Jack Harlow - Monica
+
+tbd
+
+::genre::
+
+## James Blake - Trying Times
+
+tbd
+
+::genre::
+
+## Johnny Blue Skies & the Dark Clouds - Mutiny After Midnight
+
+tbd
+
+::genre::
+
 ## Kim Gordon - Play Me
 
 tbd
@@ -107,6 +215,12 @@ tbd
 
 ::genre::
 
+## Moenia - Temporal
+
+tbd
+
+::genre::
+
 ## Monosphere - Amnesia
 
 tbd
@@ -120,6 +234,12 @@ tbd
 ::genre::
 
 ## Moon Far Away - Acou
+
+tbd
+
+::genre::
+
+## Nili Brosh - Eventide
 
 tbd
 
@@ -149,13 +269,31 @@ tbd
 
 ::genre::
 
+## Soft Machine - Thirteen
+
+tbd
+
+::genre::
+
 ## Sweet Pill - Still There's A Glow
 
 tbd
 
 ::genre::
 
+## The 2nd - Smoove
+
+tbd
+
+::genre::
+
 ## The Black Crowes - A Pound Of Feathers
+
+tbd
+
+::genre::
+
+## The Fray - A Light That Waits
 
 tbd
 
@@ -185,6 +323,12 @@ tbd
 
 ::genre::
 
+## The Scratch - Pull Like a Dog
+
+tbd
+
+::genre::
+
 ## The Soft Machine - Thirteen
 
 tbd
@@ -192,6 +336,12 @@ tbd
 ::genre::
 
 ## Tinariwen - Hoggar
+
+tbd
+
+::genre::
+
+## Tyrone Allen II - UPWARD
 
 tbd
 
@@ -216,6 +366,12 @@ tbd
 ::genre::
 
 ## Witchcraft - A Sinner Child
+
+tbd
+
+::genre::
+
+## Yonaka - Hope You're Satisfied
 
 tbd
 

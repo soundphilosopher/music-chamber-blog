@@ -147,8 +147,8 @@ def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
                 review = review_tag.get_text()
                 log.debug(f"review={review}")
 
-                genres_tag = review_tag.find_next_sibling("p", string=GENRE_TAG_PATTERN)
-                if genres_tag:
+                genres_tag = review_tag.find_next_sibling(name="p")
+                if genres_tag and GENRE_TAG_PATTERN.match(genres_tag.get_text()):
                     genres = [
                         g.strip()
                         for g in genres_tag.get_text()
