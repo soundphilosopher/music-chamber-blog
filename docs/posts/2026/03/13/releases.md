@@ -29,6 +29,12 @@ tbd
 
 <!-- more -->
 
+## Alkhemia - Häxen
+
+tbd
+
+::genre::
+
 ## Angus McSix - Angus McSix And The All-Seeing Astral Eye
 
 tbd
@@ -65,11 +71,23 @@ tbd
 
 ::genre::modern classic, post rock, avant jazz, experimental jazz, nu jazz
 
+## Blind Revolution - Far From The Sun
+
+tbd
+
+::genre::
+
 ## Bloody Knees - What Else
 
 tbd
 
 ::genre::indie rock, garage rock, post grunge, alt rock, powerviolence
+
+## Bound in Fear - A Mind too Sick to Heal
+
+tbd
+
+::genre::
 
 ## Brigitte Calls Me Baby - Irreversible
 
@@ -137,7 +155,25 @@ tbd
 
 ::genre::
 
+## Fabienne Erni - Starveil
+
+tbd
+
+::genre::
+
 ## Fangus - Emerald Dream
+
+tbd
+
+::genre::
+
+## Fighter V - Deja Vu
+
+tbd
+
+::genre::
+
+## Firesky - Firesky
 
 tbd
 
@@ -245,6 +281,18 @@ tbd
 
 ::genre::
 
+## No/Mas - No Peace
+
+tbd
+
+::genre::
+
+## Nuctemeron - Demonic Sceptre
+
+tbd
+
+::genre::
+
 ## Ondt Blod - Bauta
 
 tbd
@@ -252,6 +300,12 @@ tbd
 ::genre::
 
 ## Powerplant - Bridge Of Sacrifice
+
+tbd
+
+::genre::
+
+## Protrusion - The Last Suppuration
 
 tbd
 
