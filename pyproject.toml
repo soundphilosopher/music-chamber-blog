@@ -25,6 +25,9 @@ dev = [
     "pyright"
 ]
 
+[tool.setuptools]
+packages = ["utils"]
+package-dir = {"utils" =  "scripts/utils"}
 
 [tool.pyright]
 exclude = ["**/*"]

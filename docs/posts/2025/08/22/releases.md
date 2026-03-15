@@ -70,7 +70,7 @@ Das Melo-Hard-Rock-Outfit aus Schweden mit ihrem neuesten Output. Schwedisch gep
 
 Die kalifornischen Horny-Alt-Metaller mit einem neuen Werk. Stabiles Songwriting, mit ihren gewohnten Mix aus Alt-Metal, Nu-Metal und shoegaze-y Gesang, welcher das Thema “I’m so horny” nicht vernachlässigt.
 
-::genre::alt metal, shoegaze, nu metal
+::genre::alt metal, shoegaze, nu metal, altgaze
 
 ## Desaster - Kill all Idols
 
@@ -214,7 +214,7 @@ Das Projekt um den UK-Based Experimental-Musiker und Label-Chef, Tim Diagram aka
 
 Die renommierte Produzentin aus Seattle mit nicht wirklich Neuen, sondern mit Re-Interpretationen von “Hits” verpackt in Synthwave. Wer schon immer mal Placebo, Britney Spears, HIM, Marilyn Manson, No Doubt, Blink-182, Fleetwood Mac oder The Red Hot Chilli Peppers auf “Dark” Synthwave hören wollte, hier ist die Chance.
 
-::genre::synth wave, vapro wave
+::genre::synth wave, vaporwave
 
 ## Myrath - Reflections
 

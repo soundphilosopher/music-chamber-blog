@@ -488,7 +488,7 @@ Die Formation aus Neuseeland mit ihrem neuesten Release. Mit der persönlichen A
 
 Das Sophomore Release der amerikanischen Formation. Irgendwie klingen sie wie eine Metalcore-Version von Deftones stellenweise. Im Groben wird aber ein Mix aus Progressive Metalcore, Nu-Metal und Shoegaze präsentiert, was das Werk zwar sehr modern erscheinen lässt, aber dennoch nicht wie “jedes andere Werk” in dem Genre wirkt, was eindeutig am progressiven Songwriting liegt.
 
-::genre::prog metalcore, nu metal, shoegaze, nu gaze
+::genre::prog metalcore, nu metal, shoegaze, nu gaze, altgaze
 
 ## Leafblade - The Dragon Priest
 

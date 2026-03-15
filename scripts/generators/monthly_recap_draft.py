@@ -37,9 +37,10 @@ class StarredRelease:
     """A single starred release extracted from a weekly release list."""
 
     name: str
-    file_path: str
+    file_path: Path
     date: datetime.date
     anchor: str | Any
+    top_pick: bool
 
 
 def _parse_starred_releases(release_list_path: str) -> list[StarredRelease]:
@@ -76,9 +77,10 @@ def _parse_starred_releases(release_list_path: str) -> list[StarredRelease]:
                 starred.append(
                     StarredRelease(
                         name=child.rstrip(" *"),
-                        file_path=str(mkdocs_path),
+                        file_path=mkdocs_path,
                         date=release_date,
                         anchor=h2.get("id", ""),
+                        top_pick=child.endswith(" **"),
                     )
                 )
 
@@ -116,28 +118,33 @@ def _build_recap_markdown(
         "",
         f"# {month_name} {year} Recap",
         "",
+        "<!-- more -->",
+        "",
     ]
 
-    for index, release in enumerate(releases):
-        # Navigate up to docs root from posts/YYYY/MM/, then back down
-        release_link = f"../../../{release.file_path}#{release.anchor}"
+    # get only top picks
+    top_picks = [release for release in releases if release.top_pick]
+    top_picks.sort(key=lambda r: r.name)
+    picks = [release for release in releases if not release.top_pick]
+    picks.sort(key=lambda r: r.name)
 
-        lines.extend([
-            "<div class='grid cards' markdown>",
-            "",
-            f"-   ### {release.name}",
-            "",
-            "    ---",
-            "",
-            f"    [:octicons-arrow-right-24: Reference]({release_link})",
-            "",
-            "</div>",
-            "",
-        ])
+    if top_picks:
+        lines.extend(["## Top Picks", ""])
+        for release in top_picks:
+            # Navigate up to docs root from posts/YYYY/MM/, then back down
+            release_link = f"../../../{release.file_path}#{release.anchor}"
+            lines.append(f"- ### [{release.name}]({release_link})")
 
-        if index == EXCERPT_SEPARATOR_AFTER:
-            lines.extend(["<!-- more -->", ""])
+    lines.append("")
 
+    if picks:
+        lines.extend(["## Picks", ""])
+        for release in picks:
+            # Navigate up to docs root from posts/YYYY/MM/, then back down
+            release_link = f"../../../{release.file_path}#{release.anchor}"
+            lines.append(f"- ### [{release.name}]({release_link})")
+
+    lines.append("")
     return "\n".join(lines)
 
 

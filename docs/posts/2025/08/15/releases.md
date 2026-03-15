@@ -64,7 +64,7 @@ Das UK-Techno-Duo mit neuen Tunes. Dark-Electronica-Techno, welcher sein Vorbild
 
 Der amerikanische DJ und Producer mit einer Art Compilation von Session-Tracks und -Mixes. Arcade-Wave, Synthwave, Retrowave aka Vaprowave werden in verschiedenster Art und Weise in Klang gebracht.
 
-::genre::new retro wave, synth wave, vapro wave
+::genre::new retro wave, synth wave, vaporwave
 
 ## Cass McCombs - Interior Live Oak
 

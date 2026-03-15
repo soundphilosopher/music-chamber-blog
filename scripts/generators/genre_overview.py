@@ -27,6 +27,8 @@ from dataclasses import dataclass, field
 from glob import glob
 from pathlib import Path
 
+from utils.genres import normalize_genre_names
+
 from bs4 import BeautifulSoup
 
 
@@ -34,15 +36,6 @@ DOCS_ROOT = Path("docs")
 DOCS_GLOB = "docs/**/*.md"
 GENRE_TAG_PREFIX = "::genre::"
 GENRE_TAG_PATTERN = re.compile(rf"^{re.escape(GENRE_TAG_PREFIX)}")
-
-SPELLING_MAP = {
-    "lofi": "LoFi", "rock'n'roll": "Rock'n'Roll", "uk": "UK", "edm": "EDM", "idm": "IDM",
-    "ebm": "EBM", "ibm": "IBM", "dsbm": "DSBM", "rabm": "RABM", "nwobhm": "NWOBHM", "nwoahm": "NWOAHM",
-    "j-pop": "J-Pop", "j-rock": "J-Rock", "j-folk": "J-Folk", "d-beat": "D-Beat", "r&b": "R&B", "avant-garde": "Avant-Garde",
-    "avantgarde": "Avant-Garde", "scifi": "SciFi", "sci-fi": "SciFi", "ndw": "Neue Deutsche Welle", "avant": "Avant-Garde",
-    "prog": "Progressive", "alt": "Alternative", "psych": "Psychedelic", "atmo": "Atmospheric", "melo": "Melodic",
-    "mellow": "Melodramatic", "cine": "Cinematic", "tech": "Technical", "osdm": "Old School Death Metal",
-}
 
 
 @dataclass
@@ -60,35 +53,6 @@ class Genre:
 
     name: str
     releases: list[ReleaseAnchor] = field(default_factory=list)
-
-def _normalize_genre_names(genre_names: list[str]) -> list[str]:
-    """Normalize the capitalization of a list of genre names.
-
-    Each word in a genre name is capitalized (title case) unless it
-    matches a key in ``SPELLING_MAP``, in which case the mapped
-    spelling is used instead (e.g. "lofi" → "LoFi", "dsbm" → "DSBM").
-
-    Args:
-        genre_names: Lowercased genre name strings
-            (e.g. ``["lofi hip hop", "death metal", "uk garage"]``).
-
-    Returns:
-        Genre names with corrected capitalization
-            (e.g. ``["LoFi Hip Hop", "Death Metal", "UK Garage"]``).
-    """
-    result = []
-
-    for genre in genre_names:
-        words = genre.split(" ")
-        normalized_words = [
-            # Use the SPELLING_MAP override if the word has one,
-            # otherwise just capitalize the first letter.
-            SPELLING_MAP[word] if word in SPELLING_MAP else word.capitalize()
-            for word in words
-        ]
-        result.append(" ".join(normalized_words))
-
-    return result
 
 
 def _parse_genre_tags(file_path: str) -> list[tuple[str, ReleaseAnchor]]:
@@ -139,7 +103,7 @@ def _parse_genre_tags(file_path: str) -> list[tuple[str, ReleaseAnchor]]:
 
         genre_text = genre_tag.get_text().removeprefix(GENRE_TAG_PREFIX).strip()
         genre_names = [name.strip().lower() for name in genre_text.split(",")]
-        genre_names_normalized = _normalize_genre_names(genre_names)
+        genre_names_normalized = normalize_genre_names(genre_names)
 
 
         for name in genre_names_normalized:
