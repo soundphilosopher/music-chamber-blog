@@ -108,9 +108,9 @@ markdown_extensions:
   - pymdownx.tilde
 
 hooks:
-  - scripts/hooks/cleanup_tags.py
   - scripts/hooks/mark_top_picks.py
-  - scripts/hooks/add_genres_filter.py
-  - scripts/hooks/add_release_count.py
   - scripts/hooks/add_bandcamp_player.py
   - scripts/hooks/add_reading_status.py
+  - scripts/hooks/add_release_count.py
+  - scripts/hooks/add_genres_filter.py
+  - scripts/hooks/cleanup_tags.py

@@ -33,18 +33,18 @@ Filtering behaviour:
       sections with no visible releases are hidden.
 """
 
-from __future__ import annotations
-
 import copy
-
-from pathlib import Path
+import logging
 
 from bs4 import BeautifulSoup, Tag
 from mkdocs.structure.pages import Page
 from mkdocs.config import Config
 
-CLEAR_ICON_PATH = Path(__file__).resolve().parents[2] / "docs" / "assets" / "icons" / "close-circle-outline.svg"
-CLEAR_ICON_TAG: Tag = BeautifulSoup(CLEAR_ICON_PATH.read_text(encoding="utf-8"), "html.parser")
+from utils.icons import CLOSE_CIRCLE_OUTLINE_TAG
+
+
+log = logging.getLogger("mkdocs.hooks.add_genre_release_filter")
+
 
 FILTER_SCRIPT = """\
 <script>
@@ -273,7 +273,7 @@ def on_post_page(output: str, page: Page, config: Config) -> str:
         "aria-label": "Clear filter",
         "style": "display: none;"
     })
-    clear_button_tag.append(copy.copy(CLEAR_ICON_TAG))
+    clear_button_tag.append(copy.copy(CLOSE_CIRCLE_OUTLINE_TAG))
 
     input_wrapper_tag.append(filter_input_tag)
     input_wrapper_tag.append(clear_button_tag)

@@ -27,15 +27,13 @@ from dataclasses import dataclass, field
 from glob import glob
 from pathlib import Path
 
-from utils.genres import normalize_genre_names
+from utils.genres import normalize_genre_names, GENRE_TAG_PREFIX, GENRE_TAG_PATTERN
 
 from bs4 import BeautifulSoup
 
 
 DOCS_ROOT = Path("docs")
 DOCS_GLOB = "docs/**/*.md"
-GENRE_TAG_PREFIX = "::genre::"
-GENRE_TAG_PATTERN = re.compile(rf"^{re.escape(GENRE_TAG_PREFIX)}")
 
 
 @dataclass
@@ -43,7 +41,7 @@ class ReleaseAnchor:
     """A link reference to a specific release heading in a source file."""
 
     title: str
-    anchor_id: str | Any
+    anchor_id: str
     file_path: str
 
 
@@ -97,7 +95,7 @@ def _parse_genre_tags(file_path: str) -> list[tuple[str, ReleaseAnchor]]:
 
         anchor = ReleaseAnchor(
             title=heading.get_text().rstrip(" *"),
-            anchor_id=heading.get("id", ""),
+            anchor_id=str(heading.get("id", "")),
             file_path=relative_path,
         )
 

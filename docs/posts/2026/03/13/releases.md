@@ -364,6 +364,12 @@ Das australische Quartett mit seinem Sophomore Output. Der erste Track kann eine
 
 ::genre::sludge metal, doom metal, blackened thrash metal
 
+## Marco Belloni - Love // Memory
+
+Der italienische Producer und Komponist mit seinem neuesten Full-Length. Der Künstler entwickelt einen imaginären Soundtrack, welcher Neo Classic, Modern Classic, Ambient und IDM so ins Bild setzt. Dabei wird mit den korrekten Mitteln verschiedenen Stimmungen ein Ausdruck gegeben.
+
+::genre::neo classic, modern classic, ambient, idm
+
 ## Mark Turner, Jason Palmer, Joe Martin, Jonathan Pinson - Patternmaster
 
 Das neueste Full-Length des Ensembles um den amerikanischen Jazz-Saxophonisten Mark Turner. Eine spirituelle Reise durch Post Bop, Chamber Jazz und zeitgenössischen Jazz, welche inspiriert ist von Octavia E. Butlers Science-Fiction-Roman "Patternmaster" aus dem Jahr 1976. Damit wird die Idee der Telepathie und des gemeinsamenen Bewusstseins in der Musik ausgedrückt.
@@ -399,6 +405,12 @@ Das Sophomore Output des deutschen Quartetts. Eine aggressive und walzende Fusio
 Das neueste Ergebnis aus der Schmiede der italienischen Christ-Kappel. Technisch visierter Mix aus Power Metal und Progressive Metal, welcher die kraftvolle Verschmelzung von technischer Präzision und spiritueller Überzeugung (Konfession) abbilden soll.
 
 ::genre::power metal, prog metal
+
+## Michele McLaughlin - The Little Things
+
+Der amerikanische Komponist und Pianist mit seinem neuesten Output. Ein Werk des Solo Pianos, welches sich mit den menschlichen Erfahrungen und Gefühlen auseinandersetzt. Dabei wird Trauer, Freude, Wiederstandsfähigkeit und Verbindung durch die 88 Stimmungen des Pianos ausgedrückt.
+
+::genre::solo piano
 
 ## Modha - At Your Pace
 
@@ -495,6 +507,12 @@ Das norwegische Outfit mit seinem neuesten Longplayer. Sie sind dafür bekannt, 
 Das Duo aus Salt Lake City mit seinem Debüt Output. Instrumental wird eine SciFi Symphonie erschaffen, welche kosmische Klänge des Death Metal, Black Metal und Doom Metal um technische Fertigkeiten und elektronische Effekte erweitert.
 
 ::genre::cosmic metal, tech death metal, doom metal, post metal, black metal, instrumental
+
+## Philippe B - Cigale
+
+Der kanadische Singer & Songwriter mit seinem neuesten Release. Mit einem Hybrid aus Sophisticated Folk, Acoustic Pop, Chamber Music und reduzierten Arrangements, schsfft der Künstler eine intime Atmosphäre und emotionale Tiefe in seine Musik.
+
+::genre::alt folk, chamber music, chanson, folk pop, alt pop, art pop
 
 ## postdrome - From Heaven, From Nowhere
 
@@ -603,6 +621,12 @@ Das amerikanische Trio ist nach einer mehr als 10 jährigen Release-Pause wieder
 Das Sophomore Release des schwedischen Trios, welches aus ehemaligen Mitgliedern von Thundermother zusammengesetzt ist. Gegründet haben sie sich um mehr kreative Freiheit zu erlangen. Diese "Freiheit" wird mit melodischen Hard Rock celebriert, was ein wenig wie eine Ironie wirkt. Fragmentell werden Prog Rock und Synth Pop versucht aber die "Freiheit" bleibt beim AOR.
 
 ::genre::hard rock, melodic rock, arena rock, southern rock
+
+## The Hickey Underworld - Cold Sun *
+
+Die belgische Formation ist nach einer 11 jährigen Release-Pause wieder am Start. Mit ausgereiften und experimentellen Songwriting wird eine Melange aus Alt Rock, Psych Rock, Post Punk, Post Grunge und Avant Rock generiert. Dabei gleichen die Strukturen einer künstlichen Welt, welche sich mit den Zerbrechen ihrer Selbst auseinandersetzt.
+
+::genre::alt rock, avant rock, post grunge, post punk, psych rock
 
 ## The Monochrome Set - Lotus Bridge
 

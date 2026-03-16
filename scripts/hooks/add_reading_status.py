@@ -1,6 +1,12 @@
+import logging
+
 from bs4 import BeautifulSoup
 from mkdocs.config import Config
 from mkdocs.structure.pages import Page
+
+
+log = logging.getLogger("mkdocs.hooks.add_reading_status")
+
 
 SCRIPT = """
 <script>

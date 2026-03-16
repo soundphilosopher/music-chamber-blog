@@ -2,6 +2,9 @@
 Genre normalization utilities.
 """
 
+import re
+
+
 __SPELLING_MAP = {
     "lofi": "LoFi", "rock'n'roll": "Rock'n'Roll", "uk": "UK", "edm": "EDM", "idm": "IDM",
     "ebm": "EBM", "ibm": "IBM", "dsbm": "DSBM", "rabm": "RABM", "nwobhm": "NWOBHM", "nwoahm": "NWOAHM",
@@ -11,6 +14,9 @@ __SPELLING_MAP = {
     "mellow": "Melodramatic", "cine": "Cinematic", "tech": "Technical", "osdm": "Old School Death Metal",
     "medi": "Mediterranean", "ndh": "Neue Deutsche Härte",
 }
+GENRE_TAG_PREFIX = "::genre::"
+GENRE_TAG_PATTERN = re.compile(rf"^{re.escape(GENRE_TAG_PREFIX)}")
+
 
 def normalize_genre_names(genre_names: list[str]) -> list[str]:
     """Normalize the capitalization of a list of genre names.

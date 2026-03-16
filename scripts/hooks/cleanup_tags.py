@@ -62,11 +62,15 @@ works regardless of how deeply the prefix-carrying tag is nested.
 """
 
 import re
+import logging
 
 from dataclasses import dataclass, field
 from typing import Any
 
 from bs4 import BeautifulSoup
+
+
+log = logging.getLogger("mkdocs.hooks.cleanup_tags")
 
 
 # ---------------------------------------------------------------------------

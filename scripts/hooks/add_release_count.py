@@ -13,18 +13,17 @@ For every page whose source path ends with ``releases.md``, the hook:
    the text *"N releases"*.
 """
 
-from __future__ import annotations
-
 import copy
-from pathlib import Path
+import logging
 
 from bs4 import BeautifulSoup, Tag
 from mkdocs.config import Config
 from mkdocs.structure.pages import Page
 
-# Resolve the SVG icon once at import time so it is not re-read on every page.
-_SVG_PATH = Path(__file__).resolve().parents[2] / "docs" / "assets" / "icons" / "music-box-outline.svg"
-_SVG_TAG: Tag = BeautifulSoup(_SVG_PATH.read_text(encoding="utf-8"), "html.parser")
+from utils.icons import MUSIC_BOX_OUTLINE_TAG
+
+
+log = logging.getLogger("mkdocs.hooks.add_release_count")
 
 
 def _build_release_count_item(count: int, soup: BeautifulSoup) -> Tag:
@@ -50,7 +49,7 @@ def _build_release_count_item(count: int, soup: BeautifulSoup) -> Tag:
     div = soup.new_tag("div", attrs={"class": "md-nav__link"})
     span = soup.new_tag("span", attrs={"class": "md-ellipsis"}, string=f"{count} releases")
 
-    div.append(copy.copy(_SVG_TAG))
+    div.append(copy.copy(MUSIC_BOX_OUTLINE_TAG))
     div.append(span)
     li.append(div)
     return li
@@ -70,7 +69,8 @@ def on_post_page(output: str, page: Page, config: Config) -> str:
         The modified HTML with the release count appended to the nav,
         or the original HTML if the page is not a releases page.
     """
-    if not page.file.src_path.endswith("releases.md"):
+    src = page.file.src_path
+    if not (src.endswith("releases.md") and src.startswith("posts")):
         return output
 
     soup = BeautifulSoup(output, "html.parser")

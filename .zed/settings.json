@@ -1,8 +1,11 @@
 {
   "lsp": {
     "yaml-language-server": {
-      "initialization_options": {
+      "settings": {
         "yaml": {
+          "schemas": {
+            "https://squidfunk.github.io/mkdocs-material/schema.json": "mkdocs.yml",
+          },
           "customTags": [
             "!ENV scalar",
             "!ENV sequence",
@@ -12,9 +15,6 @@
             "tag:yaml.org,2002:python/name:pymdownx.superfences.fence_code_format",
             "tag:yaml.org,2002:python/object/apply:pymdownx.slugs.slugify mapping",
           ],
-          "schemas": {
-            "https://squidfunk.github.io/mkdocs-material/schema.json": "mkdocs.yml",
-          },
         },
       },
     },

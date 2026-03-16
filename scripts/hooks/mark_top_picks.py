@@ -13,10 +13,14 @@ restructures the HTML so each starred entry (heading + description) is
 enclosed in a Material grid card ``<div>``.
 """
 
-from __future__ import annotations
+import logging
 
 from bs4 import BeautifulSoup, Tag
 from bs4.element import NavigableString
+
+
+log = logging.getLogger("mkdocs.hooks.mark_top_picks")
+
 
 # Maps star suffixes to their corresponding CSS card class.
 # Order matters: double-star must be checked before single-star,
@@ -104,7 +108,8 @@ def on_page_content(html: str, page, config, files) -> str:
     Returns:
         The modified HTML with starred entries wrapped in cards.
     """
-    if not page.file.src_path.endswith("releases.md"):
+    src = page.file.src_path
+    if not (src.endswith("releases.md") and src.startswith("posts")):
         return html
 
     soup = BeautifulSoup(html, "html.parser")

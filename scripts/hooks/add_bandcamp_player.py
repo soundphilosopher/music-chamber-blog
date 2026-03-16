@@ -19,7 +19,6 @@ weekly posts are left untouched.
 
 import logging
 import time
-import re
 
 from dataclasses import dataclass
 from typing import Any
