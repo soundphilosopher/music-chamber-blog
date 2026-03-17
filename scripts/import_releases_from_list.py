@@ -42,6 +42,7 @@ GENRE_TAG_PREFIX = "::genre::"
 GENRE_TAG_PATTERN = re.compile(rf"^{re.escape(GENRE_TAG_PREFIX)}")
 
 
+logging.basicConfig(level=logging.INFO)
 log = logging.getLogger("scripts.import_releases")
 
 
@@ -67,6 +68,9 @@ class ReleaseCollectionType(Enum):
 
     FRIDAY = "Releases! Releases! Releases!"
     EARLIER = "Earlier the week ..."
+
+    def __str__(self) -> str:
+        return self.value
 
 
 @dataclass
@@ -264,6 +268,9 @@ def _build_release_list(path: Path) -> list[Release]:
     releases = []
     with open(path) as f:
         for line in f.read().strip().split("\n"):
+            if line.strip().startswith("<<ignore>>"):
+                break
+
             artist, title = line.split(" - ", 1)
             if any(
                 r.artist.casefold() == artist.strip().casefold()
@@ -386,6 +393,29 @@ def main(release_date: date, path: Path) -> None:
 
     with mkdocs_gen_files.open(mkdocs_file_path, "w") as f:
         f.write(content)
+
+    friday_release_collection = next((rc for rc in existing_collections if rc.type == ReleaseCollectionType.FRIDAY), None)
+    earlier_release_collection = next((rc for rc in existing_collections if rc.type == ReleaseCollectionType.EARLIER), None)
+
+    incoming_releases_count = len(incoming_releases)
+    friday_release_collection_count = len(friday_release_collection.releases) if friday_release_collection else 0
+    earlier_release_collection_count = len(earlier_release_collection.releases) if earlier_release_collection else 0
+    new_releases_count = incoming_releases_count - (friday_release_collection_count + earlier_release_collection_count)
+
+    result = [
+        f"Releases sorted and written to {mkdocs_file_path}",
+        "",
+        "     ------------------------------------",
+        f"     Colleted from file: {incoming_releases_count}",
+        f"     New: {new_releases_count}",
+        "     Existing:",
+        f"         Friday: {friday_release_collection_count}",
+        f"         Earlier: {earlier_release_collection_count}",
+        "     ------------------------------------",
+        "",
+    ]
+
+    log.info("\n".join(result))
 
 
 if __name__ == "__main__":
