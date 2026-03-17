@@ -17,13 +17,15 @@ import markdown
 import mkdocs_gen_files
 
 from collections import defaultdict
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from glob import glob
 from pathlib import Path
 from typing import Any
 
 from bs4 import BeautifulSoup
 from bs4.element import NavigableString
+
+from utils.genres import GENRE_TAG_PATTERN, GENRE_TAG_PREFIX, normalize_genre_names
 
 
 RELEASES_GLOB = "docs/**/releases.md"
@@ -41,6 +43,7 @@ class StarredRelease:
     date: datetime.date
     anchor: str | Any
     top_pick: bool
+    genres: list[str] = field(default_factory=list)
 
 
 def _parse_starred_releases(release_list_path: str) -> list[StarredRelease]:
@@ -70,19 +73,29 @@ def _parse_starred_releases(release_list_path: str) -> list[StarredRelease]:
     starred: list[StarredRelease] = []
 
     for h2 in soup.find_all("h2"):
-        for child in h2.children:
-            if isinstance(child, NavigableString) and (
-                child.endswith(" *") or child.endswith(" **")
-            ):
-                starred.append(
-                    StarredRelease(
-                        name=child.rstrip(" *"),
-                        file_path=mkdocs_path,
-                        date=release_date,
-                        anchor=h2.get("id", ""),
-                        top_pick=child.endswith(" **"),
-                    )
-                )
+        release = h2.get_text().strip()
+        if not release.endswith(" *") and not release.endswith(" **"):
+            continue
+
+        starred_release = StarredRelease(
+            name=release.rstrip(" *"),
+            file_path=mkdocs_path,
+            date=release_date,
+            anchor=h2.get("id", ""),
+            top_pick=release.endswith(" **"),
+            genres=[],
+        )
+
+        for p in h2.find_next_siblings("p", limit=2):
+            if not GENRE_TAG_PATTERN.match(p.get_text()):
+                continue
+
+            genre_tag = p.get_text().removeprefix(GENRE_TAG_PREFIX).strip()
+            genre_names = [g.strip().lower() for g in genre_tag.split(",")]
+            genre_names_normalized = normalize_genre_names(genre_names)
+            starred_release.genres.extend(genre_names_normalized)
+
+        starred.append(starred_release)
 
     return starred
 
@@ -133,7 +146,8 @@ def _build_recap_markdown(
         for release in top_picks:
             # Navigate up to docs root from posts/YYYY/MM/, then back down
             release_link = f"../../../{release.file_path}#{release.anchor}"
-            lines.append(f"- ### [{release.name}]({release_link})")
+            lines.append(f"-   ### [{release.name}]({release_link})")
+            lines.append(f"    _{', '.join(release.genres)}_")
 
     lines.append("")
 
@@ -142,7 +156,8 @@ def _build_recap_markdown(
         for release in picks:
             # Navigate up to docs root from posts/YYYY/MM/, then back down
             release_link = f"../../../{release.file_path}#{release.anchor}"
-            lines.append(f"- ### [{release.name}]({release_link})")
+            lines.append(f"-   ### [{release.name}]({release_link})")
+            lines.append(f"    _{', '.join(release.genres)}_")
 
     lines.append("")
     return "\n".join(lines)

@@ -250,7 +250,7 @@ def _collect_bandcamp_information(h2: Tag, session: Session) -> BandcampInfo | N
             )
 
     # Use %-style formatting for consistency with the rest of the module.
-    log.debug("Cannot find Bandcamp album for %r", heading_text)
+    log.warning("Cannot find Bandcamp album for %r", heading_text)
     return None
 
 

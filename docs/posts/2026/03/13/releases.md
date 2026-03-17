@@ -1,7 +1,5 @@
 ---
 date: 2026-03-13
-pin: true
-bandcamp: true
 categories:
   - Releases
 ---
@@ -279,6 +277,12 @@ Der amerikanische Producer und Rapper mit seinem neuesten Klangwerk.  Das Album 
 Der britische Singer & Songwriter und Producer mit seinem neuesten Output. Sein Debüt über Good Boy Records, nachdem er sich von Republic Records getrennt hatte. Das Album zeichnet sich durch seine üppige, raffinierte Produktion aus, die minimalistische elektronische Klänge und soulige Texturen gekonnt miteinander verbindet. So wird eine Melange aus Alt R&B, Neo Soul, Prog Soul, Drone, Bedroom Pop und Electronica vollendet, welche die melancholisschen Momente in den Strukturen elegant hervorhebt.
 
 ::genre::alt r&b, neo soul, prog soul, drone, bedroom pop, electronica
+
+## Janne Schra - Work Out
+
+Der neueste Output der niederländischen Singer & Songwriterin. Es verbindet ihren charakteristischen melancholischen, jazzigen Gesang mit warmen, organischen Arrangements, die von klassischer Akustik bis hin zu dezenten elektronischen Elementen reichen.
+
+::genre::indie pop, indie folk, vocal jazz, mellow folk
 
 ## Johnny Blue Skies & the Dark Clouds - Mutiny After Midnight
 
