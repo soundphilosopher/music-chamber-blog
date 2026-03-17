@@ -47,7 +47,19 @@ tbd
 
 ::genre::
 
+## Bong-Ra - Esoterik
+
+tbd
+
+::genre::
+
 ## BTS - Arirang
+
+tbd
+
+::genre::
+
+## Chalice Of Suffering - The Raven Cries One Last Time
 
 tbd
 
@@ -65,6 +77,12 @@ tbd
 
 ::genre::
 
+## Clâm - Clâm
+
+tbd
+
+::genre::
+
 ## Colleen - Libres antes del final
 
 tbd
@@ -77,7 +95,31 @@ tbd
 
 ::genre::
 
+## Cultist - Spiritual Atrophy
+
+tbd
+
+::genre::
+
 ## Damaged Bug - Zuzax
+
+tbd
+
+::genre::
+
+## Dawn Of Ashes - Anatomy Of Suffering
+
+tbd
+
+::genre::
+
+## Decipher - θελημα (Thelema)
+
+tbd
+
+::genre::
+
+## Deimler - Darkness Falls
 
 tbd
 
@@ -113,13 +155,31 @@ tbd
 
 ::genre::
 
+## Engorgement - They Rot Beneath Our Floor
+
+tbd
+
+::genre::
+
 ## Eva Novoa - Solo (I)
 
 tbd
 
 ::genre::
 
+## Evermore - Mournbraid
+
+tbd
+
+::genre::
+
 ## Exodus - Goliath
+
+tbd
+
+::genre::
+
+## Flatwounds - Chain Of Command
 
 tbd
 
@@ -149,7 +209,19 @@ tbd
 
 ::genre::
 
+## Goatsmoker - E.R.I.S.
+
+tbd
+
+::genre::
+
 ## Grace Ives - Girlfriend
+
+tbd
+
+::genre::
+
+## Graufar - Via Necropolis
 
 tbd
 
@@ -173,6 +245,12 @@ tbd
 
 ::genre::
 
+## Hanging Garden - Isle Of Bliss
+
+tbd
+
+::genre::
+
 ## Harvie S - Bright Dawn
 
 tbd
@@ -185,6 +263,18 @@ tbd
 
 ::genre::
 
+## Inner Vitriol - Semper Tacui
+
+tbd
+
+::genre::
+
+## Kal-El - Astral Voyager Vol. 2
+
+tbd
+
+::genre::
+
 ## Kate's Acid - Hellbender
 
 tbd
@@ -192,6 +282,12 @@ tbd
 ::genre::
 
 ## Ladytron - Paradises
+
+tbd
+
+::genre::
+
+## Lord Of Confusion - The Weight Of Life
 
 tbd
 
@@ -251,7 +347,19 @@ tbd
 
 ::genre::
 
+## Necrogore - Ectoplasmic Rape Phenomena
+
+tbd
+
+::genre::
+
 ## Nic Code - Genna With A G
+
+tbd
+
+::genre::
+
+## Nifrost - Briseld
 
 tbd
 
@@ -263,7 +371,19 @@ tbd
 
 ::genre::
 
+## Norna, Legbiter - Split-EP
+
+tbd
+
+::genre::
+
 ## Poison The Well - Peace In Place
+
+tbd
+
+::genre::
+
+## Putred - Blestemul Din Adânc
 
 tbd
 
@@ -281,7 +401,19 @@ tbd
 
 ::genre::
 
+## Saint City Orchestra - This Ain't Quiet
+
+tbd
+
+::genre::
+
 ## Sarah L King - The Light Ahead
+
+tbd
+
+::genre::
+
+## Sign Of Evil - Psychodelic Darkness
 
 tbd
 
@@ -329,6 +461,12 @@ tbd
 
 ::genre::
 
+## The Holeum - Ensis
+
+tbd
+
+::genre::
+
 ## The Silver - Looking Glass Hymnal Blue
 
 tbd
@@ -353,6 +491,12 @@ tbd
 
 ::genre::
 
+## Türböwitch - Under Haunted Skies
+
+tbd
+
+::genre::
+
 ## Veil Of The Serpent - Born To Burn
 
 tbd
@@ -360,6 +504,12 @@ tbd
 ::genre::
 
 ## Venus 5 - March Of The Venus 5
+
+tbd
+
+::genre::
+
+## Via Doloris - Guerre Et Paix
 
 tbd
 
@@ -411,7 +561,25 @@ tbd
 
 ::genre::
 
+## Empire Of Disease - While Everything Collapses
+
+tbd
+
+::genre::
+
 ## Filth Is Eternal - Impossible World
+
+tbd
+
+::genre::
+
+## Nuclear Warfare - All Hail To The Liberator
+
+tbd
+
+::genre::
+
+## Omission - Doomed Ancient Rites
 
 tbd
 
