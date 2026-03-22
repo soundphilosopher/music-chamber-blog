@@ -66,6 +66,7 @@ PLAYER_BG_COLOR_DARK = "333333"
 PLAYER_LINK_COLOR_DARK = "0f91ff"
 """Hex link color passed to the Bandcamp embed player for dark mode."""
 
+
 # ---------------------------------------------------------------------------
 # Data
 # ---------------------------------------------------------------------------
@@ -95,16 +96,16 @@ class BandcampInfo:
 # ---------------------------------------------------------------------------
 
 
-def _search_bandcamp(title: str, session: Session) -> list[Any]:
-    """Query the Bandcamp fuzzy-search API for albums matching *title*.
+def _search_bandcamp(search_query: str, session: Session) -> list[Any]:
+    """Query the Bandcamp fuzzy-search API for albums matching *search_query*.
 
     Filters raw results to only those whose ``type`` is ``"a"`` (album)
-    and whose ``name`` slug-matches *title* exactly.  Retries up to
+    and whose ``name`` slug-matches *search_query* exactly.  Retries up to
     :data:`MAX_RETRIES` times when the API responds with HTTP 429, and
     honours the ``Retry-After`` response header when present.
 
     Args:
-        title: The album title to look up (without artist prefix).
+        search_query: The album title to look up (without artist prefix).
         session: A :class:`~curl_cffi.requests.Session` to reuse across calls.
 
     Returns:
@@ -114,12 +115,12 @@ def _search_bandcamp(title: str, session: Session) -> list[Any]:
         try:
             response = session.get(
                 BANDCAMP_FUZZY_SEARCH_URL,
-                params={"q": title, "param_with_locations": "true"},
+                params={"q": search_query, "param_with_locations": "true"},
                 impersonate="chrome",
             )
             log.debug("(SEARCH): response=%s", response)
         except RequestException:
-            log.exception("(SEARCH): Bandcamp request failed for query %r", title)
+            log.exception("(SEARCH): Bandcamp request failed for query %r", search_query)
             return []
 
         if response.status_code == 429:
@@ -127,7 +128,7 @@ def _search_bandcamp(title: str, session: Session) -> list[Any]:
             wait = float(retry_after) + REQUEST_DELAY_SECONDS if retry_after else REQUEST_DELAY_SECONDS
             log.debug(
                 "(SEARCH): Bandcamp rate limit hit for query %r (attempt %d/%d), retrying in %.1fs",
-                title, attempt, MAX_RETRIES, wait,
+                search_query, attempt, MAX_RETRIES, wait,
             )
             time.sleep(wait)
             continue
@@ -138,7 +139,7 @@ def _search_bandcamp(title: str, session: Session) -> list[Any]:
         if response.status_code != 200:
             log.warning(
                 "(SEARCH): Bandcamp returned HTTP %d for query %r with headers %s",
-                response.status_code, title, response.headers,
+                response.status_code, search_query, response.headers,
             )
             return []
 
@@ -235,8 +236,10 @@ def _collect_bandcamp_information(h2: Tag, session: Session) -> BandcampInfo | N
     artists, title = heading_text.split(" - ", 1)
     artists = [a.strip() for a in artists.split(",")]
 
-    results = _search_bandcamp(title=title.strip(), session=session)
-    log.debug("Found %d results for %s", len(results), title.strip())
+    search_query = title if ", " in heading_text else heading_text
+
+    results = _search_bandcamp(search_query=search_query, session=session)
+    log.debug("Found %d results for %s", len(results), heading_text)
 
     for result in results:
         if _lookup_bandcamp_album(artists=artists, result=result, session=session):
@@ -250,7 +253,7 @@ def _collect_bandcamp_information(h2: Tag, session: Session) -> BandcampInfo | N
             )
 
     # Use %-style formatting for consistency with the rest of the module.
-    log.warning("Cannot find Bandcamp album for %r", heading_text)
+    log.info("Cannot find Bandcamp album for %r", heading_text)
     return None
 
 
