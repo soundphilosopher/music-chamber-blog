@@ -17,7 +17,8 @@ dependencies = [
     "mkdocs-material[imaging]",
     "mkdocs-rss-plugin",
     "beautifulsoup4",
-    "curl-cffi"
+    "curl-cffi",
+    "html-to-markdown",
 ]
 
 [project.optional-dependencies]

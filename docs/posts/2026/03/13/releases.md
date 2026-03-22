@@ -342,7 +342,7 @@ Der dritte Longplayer in der Discography des amerikanischen Singer & Songwriters
 
 Die kanadische Singer & Songwriterin mit ihrem Debüt Output. Ein emotionales und nahes Werk des Indie Folk, welches Elemente von Indie Pop, Alt Rock, Folk Rock, Pop Rock und Bedroom Pop in sich bindet. Eine Fusion, welche die Sehnsüchte in Heimfahrten durch die Dämmerung und die Einsamkeit des Weges zum Heimweg ausdrückt.
 
-::genre::indie folk, alt folk, alt rock, folk rock, pop rock, bedroompop
+::genre::indie folk, alt folk, alt rock, folk rock, pop rock, bedroom pop
 
 ## Lord Centipede - Centipede II: Electric Boogaloo
 

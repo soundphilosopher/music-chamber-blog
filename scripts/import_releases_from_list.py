@@ -22,15 +22,17 @@ Example:
 import argparse
 import logging
 import re
+import markdown
+import mkdocs_gen_files
+import html_to_markdown
+
 from dataclasses import dataclass
 from datetime import date
 from enum import Enum
 from pathlib import Path
 
-import markdown
 from bs4 import BeautifulSoup
 
-import mkdocs_gen_files
 
 # Root path for MkDocs blog posts. All generated files are placed here.
 POSTS_PATH = Path("docs/posts")
@@ -40,6 +42,18 @@ GENRE_TAG_PREFIX = "::genre::"
 
 # Compiled pattern to match lines that start with the genre tag prefix.
 GENRE_TAG_PATTERN = re.compile(rf"^{re.escape(GENRE_TAG_PREFIX)}")
+
+# Statistics for the import process.
+IMPORT_STATISTICS = {
+    "imported": 0,
+    "imported_skipped": 0,
+    "existing": 0,
+    "existing_skipped": 0,
+    "existing_friday": 0,
+    "existing_earlier": 0,
+    "existing_with_review": 0,
+    "existing_with_genres": 0,
+}
 
 
 logging.basicConfig(level=logging.INFO)
@@ -132,6 +146,7 @@ def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
             try:
                 current_type = ReleaseCollectionType(tag.get_text())
             except ValueError:
+                IMPORT_STATISTICS["existing_skipped"] += 1
                 log.debug(f"Unknown collection heading: '{tag.get_text()}', skipping.")
                 current_type = None
             current_releases = []
@@ -139,8 +154,14 @@ def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
         elif tag.name == "h2" and current_type is not None:
             parts = tag.get_text().split(" - ", 1)
             if len(parts) != 2:
+                IMPORT_STATISTICS["existing_skipped"] += 1
                 log.debug(f"Skipping malformed release heading: '{tag.get_text()}'")
                 continue
+
+            if current_type == ReleaseCollectionType.FRIDAY:
+                IMPORT_STATISTICS["existing_friday"] += 1
+            else:
+                IMPORT_STATISTICS["existing_earlier"] += 1
 
             artist, title = parts
             review = "tbd"
@@ -149,10 +170,14 @@ def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
             review_tag = tag.find_next_sibling("p")
             if review_tag:
                 review = review_tag.get_text()
+                if "tbd" not in review:
+                    IMPORT_STATISTICS["existing_with_review"] += 1
+
                 log.debug(f"review={review}")
 
                 genres_tag = review_tag.find_next_sibling(name="p")
                 if genres_tag and GENRE_TAG_PATTERN.match(genres_tag.get_text()):
+                    IMPORT_STATISTICS["existing_with_genres"] += 1
                     genres = [
                         g.strip()
                         for g in genres_tag.get_text()
@@ -161,6 +186,7 @@ def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
                     ]
                     log.debug(f"genres={genres}")
 
+            IMPORT_STATISTICS["existing"] += 1
             current_releases.append(
                 Release(
                     artist=artist.strip(),
@@ -277,8 +303,10 @@ def _build_release_list(path: Path) -> list[Release]:
                 and r.title.casefold() == title.strip().casefold()
                 for r in releases
             ):
+                IMPORT_STATISTICS["imported_skipped"] += 1
                 continue
 
+            IMPORT_STATISTICS["imported"] += 1
             releases.append(
                 Release(artist=artist.strip(), title=title.strip(), review="tbd", genres=[])
             )
@@ -394,23 +422,16 @@ def main(release_date: date, path: Path) -> None:
     with mkdocs_gen_files.open(mkdocs_file_path, "w") as f:
         f.write(content)
 
-    friday_release_collection = next((rc for rc in existing_collections if rc.type == ReleaseCollectionType.FRIDAY), None)
-    earlier_release_collection = next((rc for rc in existing_collections if rc.type == ReleaseCollectionType.EARLIER), None)
-
-    incoming_releases_count = len(incoming_releases)
-    friday_release_collection_count = len(friday_release_collection.releases) if friday_release_collection else 0
-    earlier_release_collection_count = len(earlier_release_collection.releases) if earlier_release_collection else 0
-    new_releases_count = incoming_releases_count - (friday_release_collection_count + earlier_release_collection_count)
-
     result = [
         f"Releases sorted and written to {mkdocs_file_path}",
         "",
         "     ------------------------------------",
-        f"     Colleted from file: {incoming_releases_count}",
-        f"     New: {new_releases_count}",
+        f"     Colleted from file: {IMPORT_STATISTICS["imported"]}",
+        f"     New: {IMPORT_STATISTICS["imported"] - IMPORT_STATISTICS["existing"]}",
         "     Existing:",
-        f"         Friday: {friday_release_collection_count}",
-        f"         Earlier: {earlier_release_collection_count}",
+        f"         Friday: {IMPORT_STATISTICS["existing_friday"]}",
+        f"         Earlier: {IMPORT_STATISTICS["existing_earlier"]}",
+        f"         Reviewed: {IMPORT_STATISTICS["existing_with_review"]}",
         "     ------------------------------------",
         "",
     ]

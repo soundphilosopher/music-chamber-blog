@@ -138,7 +138,7 @@ Die Kollaboration zwischen den amerikanischen Producer, Komponisten und Multi-In
 
 Die Formation aus Brooklyn mit ihrem Debüt Release. Eine tanzbare Melancholie aus Post Punk, New Wave, Synthpop und Indie Rock. Die Kompositionen enthalten viele Räume, welche ab und an mit progressiven Stukturen befüllt werden. Das Hauptaugenmerk des Songwritings liegt allerdings in der Catchiness und dem melodischen Charme der Kompositionen.
 
-::genre::post punk, new wave, synthpop, indie rock
+::genre::post punk, new wave, synth pop, indie rock
 
 ## Epigram - Obsolescent
 
