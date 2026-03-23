@@ -1,6 +1,6 @@
 """Import a list of music releases and generate a MkDocs blog post.
 
-The script reads a raw text file containing one "Artist - Title" entry per
+The script reads a raw text file containing one "(Release Date) Artist - Title" entry per
 line, sorts the releases alphabetically by artist, and writes a Markdown blog
 post (including MkDocs front matter) to the configured posts directory.
 
@@ -9,14 +9,14 @@ and genres are carried over into the newly generated post. New releases not
 yet present in the existing file are always added to the Friday collection.
 
 Usage:
-    python import_releases.py <date> <path>
+    python import_releases.py -d <date> -f <path>
 
 Args:
     date: Publication date for the post in ISO 8601 format (e.g. 2026-03-06).
     path: Path to the raw releases text file.
 
 Example:
-    python import_releases.py 2026-03-06 scripts/raw/releases.txt
+    python import_releases.py -d 2026-03-06 -f scripts/raw/releases.txt
 """
 
 import argparse
@@ -32,6 +32,7 @@ from enum import Enum
 from pathlib import Path
 
 from bs4 import BeautifulSoup
+from colorama import Fore, Style
 
 
 # Root path for MkDocs blog posts. All generated files are placed here.
@@ -56,6 +57,9 @@ IMPORT_STATISTICS = {
     "existing_with_review": 0,
     "existing_with_genres": 0,
 }
+
+# Graph data
+IMPORT_GRAPH_DATA: dict[date, int] = {}
 
 
 logging.basicConfig(level=logging.INFO)
@@ -311,6 +315,9 @@ def _build_release_list(path: Path) -> list[ReleaseCollection]:
             artist = title.split(" - ", 1)[0].strip()
             title = title.split(" - ", 1)[1].strip()
 
+            # increment graph data for release date
+            IMPORT_GRAPH_DATA[release_date] = IMPORT_GRAPH_DATA.get(release_date, 0) + 1
+
             # check if release_date is friday add release to friday collection if not already present
             current_week_type = ReleaseCollectionType.FRIDAY if release_date.weekday() == 4 else ReleaseCollectionType.EARLIER
 
@@ -411,7 +418,12 @@ def main(release_date: date, path: Path) -> None:
             to determine the output file path.
         path: Path to the raw releases text file.
     """
-    # 1. Collect all releases from the txt file.
+    # check if file exists
+    if not path.exists():
+        log.warning(f"File not found: {path}")
+        return
+
+    # Collect all releases from the txt file.
     incoming_releases = _build_release_list(path)
     log.debug(f"incoming_releases={incoming_releases}")
 
@@ -451,18 +463,25 @@ def main(release_date: date, path: Path) -> None:
     result = [
         f"Releases sorted and written to {mkdocs_file_path}",
         "",
-        "     ------------------------------------",
-        f"     Colleted from file: {IMPORT_STATISTICS["imported"]}",
-        f"         Friday: {IMPORT_STATISTICS["imported_friday"]}",
-        f"         Earlier: {IMPORT_STATISTICS["imported_earlier"]}",
-        f"     New: {IMPORT_STATISTICS["imported"] - IMPORT_STATISTICS["existing"]}",
-        "     Existing:",
-        f"         Friday: {IMPORT_STATISTICS["existing_friday"]}",
-        f"         Earlier: {IMPORT_STATISTICS["existing_earlier"]}",
-        f"         Reviewed: {IMPORT_STATISTICS["existing_with_review"]}",
-        "     ------------------------------------",
-        "",
+        "------------------------------------",
+        f"Colleted from file: {Style.BRIGHT}{Fore.YELLOW}{IMPORT_STATISTICS["imported"]}{Style.RESET_ALL}",
+        f"    Friday:\t\x1B[3m{IMPORT_STATISTICS["imported_friday"]}\x1B[0m",
+        f"    Earlier:\t\x1B[3m{IMPORT_STATISTICS["imported_earlier"]}\x1B[0m",
+        f"New: {Style.BRIGHT}{Fore.CYAN}{IMPORT_STATISTICS["imported"] - IMPORT_STATISTICS["existing"]}{Style.RESET_ALL}",
+        "Existing:",
+        f"    Friday:\t\x1B[3m{IMPORT_STATISTICS["existing_friday"]}\x1B[0m",
+        f"    Earlier:\t\x1B[3m{IMPORT_STATISTICS["existing_earlier"]}\x1B[0m",
+        f"    Reviewed:\t\x1B[3m{IMPORT_STATISTICS["existing_with_review"]}\x1B[0m",
+        "------------------------------------",
     ]
+
+    # add graph data to result
+    if IMPORT_GRAPH_DATA:
+        result.append("Release distribution:")
+        for release_date, count in IMPORT_GRAPH_DATA.items():
+            result.append(f"{release_date}\t\x1B[3m({count})\x1B[0m")
+        result.append("------------------------------------")
+        result.append("")
 
     log.info("\n".join(result))
 

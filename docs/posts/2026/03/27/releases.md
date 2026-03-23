@@ -503,12 +503,6 @@ tbd
 
 ::genre::
 
-## Kanye West - Bully
-
-tbd
-
-::genre::
-
 ## Kerrigan - Wayfarer
 
 tbd
