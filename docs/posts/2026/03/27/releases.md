@@ -431,6 +431,12 @@ tbd
 
 ::genre::
 
+## Hedge - Freeze Frame High Five
+
+tbd
+
+::genre::
+
 ## Hellripper - Coronach
 
 tbd
@@ -720,6 +726,12 @@ tbd
 ::genre::
 
 ## Nomad - Oxygen
+
+tbd
+
+::genre::
+
+## Offend Your Friends - Almost Didn't Make It
 
 tbd
 
