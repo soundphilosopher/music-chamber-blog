@@ -89,7 +89,7 @@ tbd
 
 ::genre::
 
-## Bernard Butler,Norman Blake, andJames Grant - Murmurs
+## Bernard Butler, Norman Blake, James Grant - Murmurs
 
 tbd
 
@@ -113,31 +113,13 @@ tbd
 
 ::genre::
 
-## Bobby Selvaggio - Red Rhinoceros
-
-tbd
-
-::genre::
-
 ## Brisinga - Rad
 
 tbd
 
 ::genre::
 
-## Butler, Blake & Grant - Murmurs
-
-tbd
-
-::genre::
-
 ## Buzzy Lee - Shoulder to Shoulder
-
-tbd
-
-::genre::
-
-## Camae Ayewa - Future Present Past
 
 tbd
 
@@ -150,12 +132,6 @@ tbd
 ::genre::
 
 ## Carnivore A.D. - Transmutation
-
-tbd
-
-::genre::
-
-## Caroline Davis - Fallows
 
 tbd
 
@@ -347,6 +323,12 @@ tbd
 
 ::genre::
 
+## Evildead - The Underworld Re-Release
+
+tbd
+
+::genre::
+
 ## Fcukers - Ö
 
 tbd
@@ -443,13 +425,13 @@ tbd
 
 ::genre::
 
-## Heavy Metal Shrapnel - Heavy Metal Hairspray
+## Half A Band - Moody Weather
 
 tbd
 
 ::genre::
 
-## Hegeroth - Soaked In Rot
+## Heavy Metal Shrapnel - Heavy Metal Hairspray
 
 tbd
 
@@ -522,6 +504,18 @@ tbd
 ::genre::
 
 ## Justine Skye - Candy
+
+tbd
+
+::genre::
+
+## Kal-El - Astral Voyager Vol. 2
+
+tbd
+
+::genre::
+
+## Kanye West - Bully
 
 tbd
 
@@ -635,12 +629,6 @@ tbd
 
 ::genre::
 
-## Marnie Weber - Returning Home: The Music of Marnie Weber
-
-tbd
-
-::genre::
-
 ## Melanie Martinez - Hades
 
 tbd
@@ -696,6 +684,12 @@ tbd
 ::genre::
 
 ## Moodring - Death Fetish
+
+tbd
+
+::genre::
+
+## MOOP - Gagner la victoire
 
 tbd
 
@@ -815,6 +809,12 @@ tbd
 
 ::genre::
 
+## Robben Ford - Two Shades of Blue
+
+tbd
+
+::genre::
+
 ## Robert Francis - Phantasmagoria
 
 tbd
@@ -834,12 +834,6 @@ tbd
 ::genre::
 
 ## RY-GUY - like a river
-
-tbd
-
-::genre::
-
-## Ryuichi Sakamoto - Opus
 
 tbd
 
@@ -905,7 +899,7 @@ tbd
 
 ::genre::
 
-## Stormo - Sogni Che Invadono il Cielo
+## Spencer Cullum - Coin Collection 3
 
 tbd
 
@@ -941,13 +935,13 @@ tbd
 
 ::genre::
 
-## Teeth Of Lamb - Deathward
+## Syrinx Call - Mirrorneuron, Part 2
 
 tbd
 
 ::genre::
 
-## Teratoma - Longing Veracity
+## Teeth Of Lamb - Deathward
 
 tbd
 
@@ -1025,6 +1019,12 @@ tbd
 
 ::genre::
 
+## Tommee Profitt - The Resurrection of a King
+
+tbd
+
+::genre::
+
 ## Tommy Peltier - Echo Park
 
 tbd
@@ -1068,12 +1068,6 @@ tbd
 ::genre::
 
 ## Valdrin - Beyond The Forest
-
-tbd
-
-::genre::
-
-## Van Halen - 5150
 
 tbd
 
@@ -1127,7 +1121,7 @@ tbd
 
 ::genre::
 
-## Yeat - ADL
+## Yeat - ADL (A Dangerous Lyfe / A Dangerous Love)
 
 tbd
 
@@ -1149,6 +1143,12 @@ tbd
 
 ::genre::
 
+## Anthony Splane - The Changing Divide
+
+tbd
+
+::genre::
+
 ## Aurora Disease - Epitaph
 
 Das neueste Studio Album des deutschen Projekts um den Multi-Instrumentalisten "Antisozial". Ein avantgarde-melancholisches Werk des DSBM, welches Elemente von Psychedelic Rock, Art Rock und Progressive Rock mit in seine abgrundtiefen Kompositionen einbindet. Dabei wird zwischen depressiven Screams und weltlichen Cleans gewechselt um den täglichen Kampf der Depression Strukturen zu verleihen.
@@ -1156,6 +1156,30 @@ Das neueste Studio Album des deutschen Projekts um den Multi-Instrumentalisten "
 ::genre::dsbm, psych rock, prog rock, art rock, avant rock
 
 ## Baby Dont Cry - After Cry
+
+tbd
+
+::genre::
+
+## Bobby Selvaggio - Red Rhinoceros
+
+tbd
+
+::genre::
+
+## Bobby Wiens - Focus
+
+tbd
+
+::genre::
+
+## Camae Ayewa - Future Present Past
+
+tbd
+
+::genre::
+
+## Caroline Davis - Fallows
 
 tbd
 
@@ -1179,7 +1203,25 @@ tbd
 
 ::genre::
 
+## Eleveine - Travelling
+
+Das franzöische Trio mit seiner Debüt EP. Ein überaus dynamisches und komplexes Werk des Alternative Rock, welches Strukturen von Art Rock, Noise Rock, Progressove Rock, Post Grunge und Post Punk eine seine elementaren Grundbau integriert.
+
+::genre::alt rock, art rock, avant rock, post punk, prog rock, post grunge
+
 ## Gengis Don - No Rules 2 This
+
+tbd
+
+::genre::
+
+## Hegeroth - Soaked In Rot
+
+tbd
+
+::genre::
+
+## Jakabol - Leornian
 
 tbd
 
@@ -1197,7 +1239,7 @@ tbd
 
 ::genre::
 
-## Nortt - Døden...
+## Juvenile - Boiling Point
 
 tbd
 
@@ -1208,6 +1250,24 @@ tbd
 tbd
 
 ::genre::
+
+## Stormo - Sogni Che Invadono il Cielo
+
+Das neueste Output des italienischen Outfits. Ein energiegeladenes Bündel aus Post Hardcore, Mathcore, Crust, Noise Rock und Hardcore Punk. Dabei werden die schnellen und vertakteten Kompositionen in ein Meer aus Emotionen eingepackt, welches sich zu experimentellen atmosphärischen Zwischenspielen ausspielt, wo die Experimente kein Ende zu nehmen scheinen.
+
+::genre::post hardcore, mathcore, crust, noise rock, hardcore punk
+
+## Teratoma - Longing Veracity
+
+tbd
+
+::genre::
+
+## Unité Douleur - Pollen Haze
+
+Die französische Formation mit ihrer Sophomore EP. Ein weicher und experimentierfreudiger Baukausten aus Post Metal, Progressive Rock, Alternative Rock und Psychedelic Rock. Das Songwriting wirkt entsprechend profressionell, lädt zum Abschweifen ein, hällt aber dennoch Platz für ausschweifende Experimente in der Zukunft. Mit ihren beiden EPs haben sie bereits Wachtum bewiesen.
+
+::genre::prog rock, alt rock, post metal, psych rock
 
 ## Valyear - An Invitation To Chaos
 

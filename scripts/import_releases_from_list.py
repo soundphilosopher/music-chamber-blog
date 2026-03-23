@@ -47,6 +47,8 @@ GENRE_TAG_PATTERN = re.compile(rf"^{re.escape(GENRE_TAG_PREFIX)}")
 IMPORT_STATISTICS = {
     "imported": 0,
     "imported_skipped": 0,
+    "imported_friday": 0,
+    "imported_earlier": 0,
     "existing": 0,
     "existing_skipped": 0,
     "existing_friday": 0,
@@ -98,6 +100,9 @@ class ReleaseCollection:
 
     type: ReleaseCollectionType
     releases: list[Release]
+
+    def sort_releases(self) -> None:
+        self.releases.sort(key=lambda r: r.artist.casefold())
 
 
 def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
@@ -205,7 +210,7 @@ def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
 
 
 def _sort_to_collections(
-    incoming: list[Release],
+    incoming: list[ReleaseCollection],
     existing: list[ReleaseCollection],
 ) -> list[ReleaseCollection]:
     """Distribute incoming releases across collections.
@@ -236,9 +241,7 @@ def _sort_to_collections(
     }
 
     if not existing:
-        # No existing file — all incoming releases go straight to FRIDAY.
-        result[ReleaseCollectionType.FRIDAY].releases = list(incoming)
-        return list(result.values())
+        return incoming
 
     # Build a flat lookup: normalised (artist, title) → (collection_type, Release).
     existing_lookup: dict[tuple[str, str], tuple[ReleaseCollectionType, Release]] = {}
@@ -251,21 +254,22 @@ def _sort_to_collections(
             )
             existing_lookup[key] = (collection.type, release)
 
-    for incoming_release in incoming:
-        key = (incoming_release.artist.casefold(), incoming_release.title.casefold())
-        if key in existing_lookup:
-            collection_type, existing_release = existing_lookup[key]
-            result[collection_type].releases.append(existing_release)
-            log.debug(
-                f"Kept '{existing_release.artist} - {existing_release.title}'"
-                f" in {collection_type.name}."
-            )
-        else:
-            result[ReleaseCollectionType.FRIDAY].releases.append(incoming_release)
-            log.debug(
-                f"New release '{incoming_release.artist} - {incoming_release.title}'"
-                f" added to FRIDAY."
-            )
+    for incoming_collection in incoming:
+        for incoming_release in incoming_collection.releases:
+            key = (incoming_release.artist.casefold(), incoming_release.title.casefold())
+            if key in existing_lookup:
+                collection_type, existing_release = existing_lookup[key]
+                result[collection_type].releases.append(existing_release)
+                log.debug(
+                    f"Kept '{existing_release.artist} - {existing_release.title}'"
+                    f" in {collection_type.name}."
+                )
+            else:
+                result[ReleaseCollectionType.FRIDAY].releases.append(incoming_release)
+                log.debug(
+                    f"New release '{incoming_release.artist} - {incoming_release.title}'"
+                    f" added to FRIDAY."
+                )
 
     for collection in result.values():
         collection.releases.sort(key=lambda r: r.artist.casefold())
@@ -273,7 +277,8 @@ def _sort_to_collections(
     return list(result.values())
 
 
-def _build_release_list(path: Path) -> list[Release]:
+
+def _build_release_list(path: Path) -> list[ReleaseCollection]:
     """Read and parse the raw releases file into a list of Release objects.
 
     Each non-empty line in the file must follow the format "Artist - Title".
@@ -291,28 +296,49 @@ def _build_release_list(path: Path) -> list[Release]:
         FileNotFoundError: If the given path does not exist.
         ValueError: If a line does not contain the expected " - " separator.
     """
-    releases = []
+    collections: list[ReleaseCollection] = [
+        ReleaseCollection(type=ct, releases=[]) for ct in ReleaseCollectionType
+    ]
+
     with open(path) as f:
         for line in f.read().strip().split("\n"):
             if line.strip().startswith("<<ignore>>"):
                 break
 
-            artist, title = line.split(" - ", 1)
+            # split line "(2026-03-27) Yeat - ADL (A Dangerous Lyfe / A Dangerous Love)" into release date and title
+            release_date_str, title = line.split(") ", 1)
+            release_date = date.fromisoformat(release_date_str.lstrip("(").strip())
+            artist = title.split(" - ", 1)[0].strip()
+            title = title.split(" - ", 1)[1].strip()
+
+            # check if release_date is friday add release to friday collection if not already present
+            current_week_type = ReleaseCollectionType.FRIDAY if release_date.weekday() == 4 else ReleaseCollectionType.EARLIER
+
+            # add to statistics
+            IMPORT_STATISTICS[f"imported_{current_week_type.name.lower()}"] += 1
+
+            # sort release to collection if not already exists
+            collection = next((rc for rc in collections if rc.type == current_week_type), None)
+            if not collection:
+                collection = ReleaseCollection(type=current_week_type, releases=[])
+                collections.append(collection)
             if any(
                 r.artist.casefold() == artist.strip().casefold()
                 and r.title.casefold() == title.strip().casefold()
-                for r in releases
+                for r in collection.releases
             ):
                 IMPORT_STATISTICS["imported_skipped"] += 1
                 continue
 
             IMPORT_STATISTICS["imported"] += 1
-            releases.append(
+            collection.releases.append(
                 Release(artist=artist.strip(), title=title.strip(), review="tbd", genres=[])
             )
 
-    releases.sort(key=lambda r: r.artist.casefold())
-    return releases
+    for rc in collections:
+        rc.releases.sort(key=lambda r: r.artist.casefold())
+
+    return collections
 
 
 def _create_release_content(
@@ -390,7 +416,7 @@ def main(release_date: date, path: Path) -> None:
     log.debug(f"incoming_releases={incoming_releases}")
 
     if not incoming_releases:
-        log.info("No releases found, exiting.")
+        log.warning("No releases found, exiting.")
         return
 
     # Build the full output path, e.g. docs/posts/2026/03/06/releases.md
@@ -427,6 +453,8 @@ def main(release_date: date, path: Path) -> None:
         "",
         "     ------------------------------------",
         f"     Colleted from file: {IMPORT_STATISTICS["imported"]}",
+        f"         Friday: {IMPORT_STATISTICS["imported_friday"]}",
+        f"         Earlier: {IMPORT_STATISTICS["imported_earlier"]}",
         f"     New: {IMPORT_STATISTICS["imported"] - IMPORT_STATISTICS["existing"]}",
         "     Existing:",
         f"         Friday: {IMPORT_STATISTICS["existing_friday"]}",
