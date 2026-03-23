@@ -1,7 +1,8 @@
 ---
 date: 2026-03-20
 pin: true
-bandcamp: true
+bandcamp: false
+draft: true
 categories:
   - Releases
 ---
@@ -243,6 +244,12 @@ Das Debüt Studiowerk der brasilianischen Formation. Eine Balance aus roher Aggr
 Die amerikanische Kapelle mit ihrem Debüt Full-Length. Ein melodisches Melodrama, welches okkultistische Atmosphären und nihilistische Melancholien im Songwriting verarbeitet. Dabei wird eine Melange aus Melodic Black Metal und Blackened Death Metal gespielt, welche ihre Wurzeln in den 90er der Schwedischen Szene findet.
 
 ::genre::melo black metal, blackened death metal
+
+## Dryft - Particle
+
+Das neueste Full-Length des amerikanische Singer & Songwriters, Producers und Multi-Instrumentalisten Mike Cadoo. Die Musik auf "Particle" wird als Ambient-Techno mit industriellen Klängen und kraftvollen Beats beschrieben. Sie schlägt eine Brücke zwischen dem frühen postindustriellen IDM und zeitgenössischeren, zurückhaltenderen elektronischen Formen.
+
+::genre::ambient, idm, ibm, ambient techno
 
 ## Ego Ella May - Good Intentions
 
@@ -789,6 +796,12 @@ Das Sophomore Release der amerikanischen Formation ist deutlich erwachsener und 
 Das Brainchild des amerikanischen Multi-Instrumentalisten Matt Koenig mit seinem Sophomore Studio-Release. Es zeichnet sich durch groovige, laufende Basslinien, schimmernde Synthesizer und Koenigs charakteristischen, luftigen Falsettgesang aus. Ein deutlicher Schritt von den üblichen Bedroom Pop Ansatz, wird hier ein Melange aus Psych Rock, Indie Pop, Indie Rock, Disco, Field Recordings und Dream Pop.
 
 ::genre::indie rock, indie pop, psych rock, disco, field recordings, dreampop, alt rock
+
+## The Violent Youth - tsvety
+
+Das russische Duo mit seinem neuesten Longplayer. Verletzliche, gefühlvolle Texte, die universelle Themen wie Distanz und Verlust behandeln und dabei einen Silberstreif am Horizont der Hoffnung bewahren. Das Songwriting erschafft eine Fusion aus Post Punk, IDM, Dark Wave und Synth Pop, welche einen in die dunklen Keller der Gothic-Szene versetzt.
+
+::genre::synth pop, dark wave, idm, post punk
 
 ## Thomas Markusson, Arve Henriksen, Helge Andreas Norbakken - In the Space Between *
 
