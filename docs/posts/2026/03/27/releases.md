@@ -113,6 +113,12 @@ tbd
 
 ::genre::
 
+## Bobby Selvaggio - Red Rhinoceros
+
+tbd
+
+::genre::
+
 ## Brisinga - Rad
 
 tbd
@@ -131,6 +137,12 @@ tbd
 
 ::genre::
 
+## Camae Ayewa - Future Present Past
+
+tbd
+
+::genre::
+
 ## Cannons - Everything Glows
 
 tbd
@@ -138,6 +150,12 @@ tbd
 ::genre::
 
 ## Carnivore A.D. - Transmutation
+
+tbd
+
+::genre::
+
+## Caroline Davis - Fallows
 
 tbd
 
@@ -426,6 +444,12 @@ tbd
 ::genre::
 
 ## Heavy Metal Shrapnel - Heavy Metal Hairspray
+
+tbd
+
+::genre::
+
+## Hegeroth - Soaked In Rot
 
 tbd
 
@@ -887,6 +911,12 @@ tbd
 
 ::genre::
 
+## Stormo - Sogni Che Invadonoa il Cielo
+
+tbd
+
+::genre::
+
 ## Stuck - Optimizer
 
 tbd
@@ -912,6 +942,12 @@ tbd
 ::genre::
 
 ## Teeth Of Lamb - Deathward
+
+tbd
+
+::genre::
+
+## Teratoma - Longing Veracity
 
 tbd
 
@@ -1115,35 +1151,11 @@ tbd
 
 ## Aurora Disease - Epitaph
 
-tbd
+Das neueste Studio Album des deutschen Projekts um den Multi-Instrumentalisten "Antisozial". Ein avantgarde-melancholisches Werk des DSBM, welches Elemente von Psychedelic Rock, Art Rock und Progressive Rock mit in seine abgrundtiefen Kompositionen einbindet. Dabei wird zwischen depressiven Screams und weltlichen Cleans gewechselt um den täglichen Kampf der Depression Strukturen zu verleihen.
 
-::genre::
+::genre::dsbm, psych rock, prog rock, art rock, avant rock
 
 ## Baby Dont Cry - After Cry
-
-tbd
-
-::genre::
-
-## Bobby Selvaggio - Red Rhinoceros
-
-tbd
-
-::genre::
-
-## Bobby Wiens - Focus
-
-tbd
-
-::genre::
-
-## Camae Ayewa - Future Present Past
-
-tbd
-
-::genre::
-
-## Caroline Davis - Fallows
 
 tbd
 
@@ -1173,12 +1185,6 @@ tbd
 
 ::genre::
 
-## Hegeroth - Soaked In Rot
-
-tbd
-
-::genre::
-
 ## Jasper Høiby - Conversations of Hope
 
 tbd
@@ -1203,18 +1209,6 @@ tbd
 
 ::genre::
 
-## Stormo - Sogni Che Invadonoa il Cielo
-
-tbd
-
-::genre::
-
-## Teratoma - Longing Veracity
-
-tbd
-
-::genre::
-
 ## Valyear - An Invitation To Chaos
 
 tbd
@@ -1223,6 +1217,6 @@ tbd
 
 ## Yuna - Ice Cream
 
-tbd
+Das Debüt der koreanischen Künstlerin, welche das jüngste Mitglied der Süd Koreanischen Girl Group "ITZY" ist. Eine Komposition des Bubblegum Pops, welche mit elektronischen und dance Elementen versehen wurde. Ein Release, welches einen aus dem Tiefen des Alltags befreien möchte, wenn man diese Tiefen verspührt.
 
-::genre::
+::genre::bubblegum pop, alt pop, dance, edm
