@@ -323,12 +323,6 @@ tbd
 
 ::genre::
 
-## Evildead - The Underworld Re-Release
-
-tbd
-
-::genre::
-
 ## Fcukers - Ö
 
 tbd
@@ -504,12 +498,6 @@ tbd
 ::genre::
 
 ## Justine Skye - Candy
-
-tbd
-
-::genre::
-
-## Kal-El - Astral Voyager Vol. 2
 
 tbd
 
@@ -1068,12 +1056,6 @@ tbd
 ::genre::
 
 ## Valdrin - Beyond The Forest
-
-tbd
-
-::genre::
-
-## Various Artists - When There Is No Sun
 
 tbd
 
