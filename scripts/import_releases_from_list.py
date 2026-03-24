@@ -269,10 +269,10 @@ def _sort_to_collections(
                     f" in {collection_type.name}."
                 )
             else:
-                result[ReleaseCollectionType.FRIDAY].releases.append(incoming_release)
+                result[incoming_collection.type].releases.append(incoming_release)
                 log.debug(
                     f"New release '{incoming_release.artist} - {incoming_release.title}'"
-                    f" added to FRIDAY."
+                    f" added to {incoming_collection.type.name}."
                 )
 
     for collection in result.values():
@@ -426,6 +426,8 @@ def main(release_date: date, path: Path) -> None:
     # Collect all releases from the txt file.
     incoming_releases = _build_release_list(path)
     log.debug(f"incoming_releases={incoming_releases}")
+    log.debug(f"incoming_releases[FRIDAY]={len(incoming_releases[0].releases)}")
+    log.debug(f"incoming_releases[EARLIER]={len(incoming_releases[1].releases)}")
 
     if not incoming_releases:
         log.warning("No releases found, exiting.")
@@ -444,6 +446,8 @@ def main(release_date: date, path: Path) -> None:
     # 2. Collect all releases from the current release markdown (if it exists).
     existing_collections = _parse_existing_collections(release_list_path)
     log.debug(f"existing_collections={existing_collections}")
+    log.debug(f"existing_collections[FRIDAY]={len(existing_collections[0].releases)}")
+    log.debug(f"existing_collections[EARLIER]={len(existing_collections[1].releases)}")
 
     # 3. Sort releases into collections.
     collections = _sort_to_collections(incoming_releases, existing_collections)

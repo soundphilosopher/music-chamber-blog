@@ -113,6 +113,12 @@ tbd
 
 ::genre::
 
+## Bobby Selvaggio - Red Rhinoceros
+
+tbd
+
+::genre::
+
 ## Brisinga - Rad
 
 tbd
@@ -125,6 +131,12 @@ tbd
 
 ::genre::
 
+## Camae Ayewa - Future Present Past
+
+tbd
+
+::genre::
+
 ## Cannons - Everything Glows
 
 tbd
@@ -132,6 +144,12 @@ tbd
 ::genre::
 
 ## Carnivore A.D. - Transmutation
+
+tbd
+
+::genre::
+
+## Caroline Davis - Fallows
 
 tbd
 
@@ -173,6 +191,12 @@ tbd
 
 ::genre::
 
+## Collin Sherman - Ouroborosuite
+
+tbd
+
+::genre::
+
 ## Courtney Barnett - Creature Of Habit
 
 tbd
@@ -203,6 +227,12 @@ tbd
 
 ::genre::
 
+## Daniel Rotem - Solo II - Under Construction at bluewhale
+
+tbd
+
+::genre::
+
 ## Dark Heart - Evolution
 
 tbd
@@ -210,6 +240,12 @@ tbd
 ::genre::
 
 ## Dark Ride - Blade Manor
+
+tbd
+
+::genre::
+
+## Dave Adewumi - The Flame Beneath the Silence
 
 tbd
 
@@ -492,6 +528,12 @@ tbd
 ::genre::
 
 ## Irreversible Entanglements - Future Present Past
+
+tbd
+
+::genre::
+
+## Jasper Høiby - Conversations of Hope
 
 tbd
 
@@ -1145,51 +1187,9 @@ Das neueste Studio Album des deutschen Projekts um den Multi-Instrumentalisten "
 
 ## Baby Dont Cry - After Cry
 
-tbd
+Die koreanische Girl-Group mit ihrem neuesten Mini-Release, welches den Start ihrer "Tear Trology" einleitet. Für diesen Start zieht die Formation einen Mix aus K-Pop, Kawaii Pop, Alt Pop und Synth Pop heran, welcher auch gern "Baby Metal" genannt wird, ohwohl das "Metal" hier sehr diskutiert werden kann.
 
-::genre::
-
-## Bobby Selvaggio - Red Rhinoceros
-
-tbd
-
-::genre::
-
-## Bobby Wiens - Focus
-
-tbd
-
-::genre::
-
-## Camae Ayewa - Future Present Past
-
-tbd
-
-::genre::
-
-## Caroline Davis - Fallows
-
-tbd
-
-::genre::
-
-## Collin Sherman - Ouroborosuite
-
-tbd
-
-::genre::
-
-## Daniel Rotem - Solo II - Under Construction at bluewhale
-
-tbd
-
-::genre::
-
-## Dave Adewumi - The Flame Beneath the Silence
-
-tbd
-
-::genre::
+::genre::k-pop, kawaii pop, alt pop, synth pop
 
 ## Eleveine - Travelling
 
@@ -1199,9 +1199,9 @@ Das franzöische Trio mit seiner Debüt EP. Ein überaus dynamisches und komplex
 
 ## Gengis Don - No Rules 2 This
 
-tbd
+Der amerikanische Jazz-Drummer und Producer mit seinem neuesten Full-Length Output. Eine Komposition aus modernem Jazz, die eine Mischung aus gleichmäßigen, hypnotischen Hip-Hop-Grooves und jazzigen Experimenten bietet. Schon die Titel der Stücke - wie "Album Intros Are Overrated" und "Song's Already Out but I Need the Streams" - spiegeln einen metatextuellen Kommentar zur modernen Musikindustrie wider.
 
-::genre::
+::genre::modern jazz, neo soul, hip hop, world music, electronica
 
 ## Hegeroth - Soaked In Rot
 
@@ -1210,18 +1210,6 @@ tbd
 ::genre::
 
 ## Jakabol - Leornian
-
-tbd
-
-::genre::
-
-## Jasper Høiby - Conversations of Hope
-
-tbd
-
-::genre::
-
-## Jordan Robinson - No Goats
 
 tbd
 
@@ -1259,9 +1247,9 @@ Die französische Formation mit ihrer Sophomore EP. Ein weicher und experimentie
 
 ## Valyear - An Invitation To Chaos
 
-tbd
+Das Sophomore Release der kanadischen Formation. Eine rebellische, intensive und mit roher Energie ausgestattet Komposition des Hard Rock, welche Elemente des Alternative Rock, Heavy Rock und Post Grunge enthält.
 
-::genre::
+::genre::hard rock, alt rock, heavy rock, post grunge, alt metal
 
 ## Yuna - Ice Cream
 
