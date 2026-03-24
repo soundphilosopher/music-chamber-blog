@@ -425,6 +425,12 @@ tbd
 
 ::genre::
 
+## Geof Whitely Project - Ashes of the Continental Heart
+
+tbd
+
+::genre::
+
 ## Godsticks - Void
 
 tbd
@@ -1001,6 +1007,12 @@ tbd
 
 ::genre::
 
+## The Charlatans - Some Friendly
+
+tbd
+
+::genre::
+
 ## The Crooked Skulls - Midnight Sun
 
 tbd
@@ -1173,6 +1185,12 @@ tbd
 
 ::genre::
 
+## Alon Stern - Supreme Chord
+
+tbd
+
+::genre::
+
 ## Anthony Splane - The Changing Divide
 
 tbd
@@ -1190,6 +1208,12 @@ Das neueste Studio Album des deutschen Projekts um den Multi-Instrumentalisten "
 Die koreanische Girl-Group mit ihrem neuesten Mini-Release, welches den Start ihrer "Tear Trology" einleitet. Für diesen Start zieht die Formation einen Mix aus K-Pop, Kawaii Pop, Alt Pop und Synth Pop heran, welcher auch gern "Baby Metal" genannt wird, ohwohl das "Metal" hier sehr diskutiert werden kann.
 
 ::genre::k-pop, kawaii pop, alt pop, synth pop
+
+## Domas Žeromskas - Meditations on Providence and Perseverance, Vol. 2
+
+tbd
+
+::genre::
 
 ## Eleveine - Travelling
 
@@ -1221,13 +1245,49 @@ tbd
 
 ::genre::
 
+## Manoel Cruz - Navegante
+
+tbd
+
+::genre::
+
+## Model/Actriz - Swan Songs *
+
+Das amerikanische Trio mit seiner Überraschungs-EP. Der Sound ist eine mitreißende Mischung aus Noise-Rock, Post-Punk und Industrial-Dance-Musik. Sie sind bekannt für ihren "Sprechgesang"-Gesangsstil und ihre äußerst rhythmische Instrumentierung, bei der alles eine Trommel ist.
+
+::genre::noise rock, post punk, idm, avant rock, experimental electronica, indietronica
+
+## Richard Bliwas - Insomnia
+
+tbd
+
+::genre::
+
+## Richard Bliwas - Summoning
+
+tbd
+
+::genre::
+
+## Rob McGilton - My Undivided Attention
+
+tbd
+
+::genre::
+
+## Rob van Bavel - Crazy World of Love
+
+tbd
+
+::genre::
+
 ## Steamgenerator - Hopeless Romantic
 
 tbd
 
 ::genre::
 
-## Stormo - Sogni Che Invadono il Cielo
+## Stormo - Sogni Che Invadono il Cielo *
 
 Das neueste Output des italienischen Outfits. Ein energiegeladenes Bündel aus Post Hardcore, Mathcore, Crust, Noise Rock und Hardcore Punk. Dabei werden die schnellen und vertakteten Kompositionen in ein Meer aus Emotionen eingepackt, welches sich zu experimentellen atmosphärischen Zwischenspielen ausspielt, wo die Experimente kein Ende zu nehmen scheinen.
 
@@ -1238,6 +1298,12 @@ Das neueste Output des italienischen Outfits. Ein energiegeladenes Bündel aus P
 tbd
 
 ::genre::
+
+## Throw The Dice - Contactless
+
+Das Debüt der spanischen Kapelle. Eine experimentierfreudige und heavy Exkursion durch Progressive Rock, Progressive Pop, Indie Rock und Art Rock. Hier wird auf einfacher Electronica komplexe Strukturen erschaffen und mit fließenden Rhythmen belegt.
+
+::genre::prog rock, prog pop, indie rock, art rock, alt rock, synth rock
 
 ## Unité Douleur - Pollen Haze
 
@@ -1250,6 +1316,12 @@ Die französische Formation mit ihrer Sophomore EP. Ein weicher und experimentie
 Das Sophomore Release der kanadischen Formation. Eine rebellische, intensive und mit roher Energie ausgestattet Komposition des Hard Rock, welche Elemente des Alternative Rock, Heavy Rock und Post Grunge enthält.
 
 ::genre::hard rock, alt rock, heavy rock, post grunge, alt metal
+
+## Yelena Eckemoff - Rosendals Garden
+
+tbd
+
+::genre::
 
 ## Yuna - Ice Cream
 
