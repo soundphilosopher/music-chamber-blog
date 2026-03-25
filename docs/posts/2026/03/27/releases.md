@@ -15,7 +15,7 @@ tbd
 
 ::genre::
 
-## Adult - Kissing Luck Goodbye
+## ADULT. - Kissing Luck Goodbye
 
 tbd
 
@@ -35,7 +35,19 @@ tbd
 
 ::genre::
 
+## Aidan Baker, rsn - Bottom Layers of a Surface
+
+tbd
+
+::genre::
+
 ## Ain Sof Aur - Theos-Vel-Samael
+
+tbd
+
+::genre::
+
+## Alexander IV - Alchemist
 
 tbd
 
@@ -47,13 +59,7 @@ tbd
 
 ::genre::
 
-## Anisum - Autumn Embrace
-
-tbd
-
-::genre::
-
-## Antrisch - Expedition III: Renitenzpfad Marañones
+## Antrisch - Expedition III: Renitenzpfad
 
 tbd
 
@@ -89,6 +95,12 @@ tbd
 
 ::genre::
 
+## Ben McElroy - Allotment Tapes #3: We Are All Visitors Here
+
+tbd
+
+::genre::
+
 ## Bernard Butler, Norman Blake, James Grant - Murmurs
 
 tbd
@@ -119,19 +131,25 @@ tbd
 
 ::genre::
 
+## bod kin - bod kin
+
+tbd
+
+::genre::
+
 ## Brisinga - Rad
 
 tbd
 
 ::genre::
 
-## Buzzy Lee - Shoulder to Shoulder
+## Brooddark - Deliro
 
 tbd
 
 ::genre::
 
-## Camae Ayewa - Future Present Past
+## Buzzy Lee - Shoulder to Shoulder
 
 tbd
 
@@ -233,13 +251,13 @@ tbd
 
 ::genre::
 
-## Dark Heart - Evolution
+## Danya Pilchen, Kali Ensemble - Paper Braids
 
 tbd
 
 ::genre::
 
-## Dark Ride - Blade Manor
+## Dark Heart - Evolution
 
 tbd
 
@@ -251,7 +269,13 @@ tbd
 
 ::genre::
 
-## Dave Harringtonand Tim Mislock - Isle of Palms
+## Dave Brøns - The Fellowship
+
+tbd
+
+::genre::
+
+## Dave Harringtonand, Tim Mislock - Isle of Palms
 
 tbd
 
@@ -311,6 +335,12 @@ tbd
 
 ::genre::
 
+## Dobrawa Czocher - State of Matter
+
+tbd
+
+::genre::
+
 ## DomJord - Morgonglöd
 
 tbd
@@ -348,6 +378,12 @@ tbd
 ::genre::
 
 ## Elmiene - Sounds for Someone
+
+tbd
+
+::genre::
+
+## Emil Mark - Mellemtid
 
 tbd
 
@@ -431,6 +467,12 @@ tbd
 
 ::genre::
 
+## GLASSxTEETH - Whispers Heard Through Waiting Room Windows
+
+tbd
+
+::genre::
+
 ## Godsticks - Void
 
 tbd
@@ -480,6 +522,12 @@ tbd
 ::genre::
 
 ## Hellripper - Coronach
+
+tbd
+
+::genre::
+
+## Herb Lore - Mysticism
 
 tbd
 
@@ -617,6 +665,12 @@ tbd
 
 ::genre::
 
+## Lion’s Share - Inferno
+
+tbd
+
+::genre::
+
 ## little image - KILL THE GHOST
 
 tbd
@@ -701,6 +755,12 @@ tbd
 
 ::genre::
 
+## Mikael Lind - Norðaustur
+
+tbd
+
+::genre::
+
 ## Miserate - Weaver Of Witchery
 
 tbd
@@ -761,6 +821,12 @@ tbd
 
 ::genre::
 
+## Nene H - Second Skin
+
+tbd
+
+::genre::
+
 ## New Dawn Fades - Lores
 
 tbd
@@ -791,6 +857,12 @@ tbd
 
 ::genre::
 
+## Pan American - Fly the Ocean in a Silver Plane
+
+tbd
+
+::genre::
+
 ## Party Cannon - Subjected To A Partying
 
 tbd
@@ -798,6 +870,12 @@ tbd
 ::genre::
 
 ## Paula Kelley - Blinking As The Starlight Burns Out
+
+tbd
+
+::genre::
+
+## pdqb - Future Traumatic Stress Disorder
 
 tbd
 
@@ -887,7 +965,25 @@ tbd
 
 ::genre::
 
+## Sanaya Ardeshir - Hand of Thought
+
+tbd
+
+::genre::
+
 ## Seafret - Fear of Emotion
+
+tbd
+
+::genre::
+
+## Serpente - Visita do Fogo
+
+tbd
+
+::genre::
+
+## Shane Aspegren - Spiritual Cannibalism
 
 tbd
 
@@ -900,6 +996,18 @@ tbd
 ::genre::
 
 ## Siege Perilous - Becoming The Dragon
+
+tbd
+
+::genre::
+
+## Simon Berz - Tectonic
+
+tbd
+
+::genre::
+
+## Simon Hanes - GARGANTUA
 
 tbd
 
@@ -983,6 +1091,12 @@ tbd
 
 ::genre::
 
+## Taroug - Chott
+
+tbd
+
+::genre::
+
 ## Teeth Of Lamb - Deathward
 
 tbd
@@ -1007,13 +1121,13 @@ tbd
 
 ::genre::
 
-## The Charlatans - Some Friendly
+## The Crooked Skulls - Midnight Sun
 
 tbd
 
 ::genre::
 
-## The Crooked Skulls - Midnight Sun
+## the FLV. - Land of Siesta
 
 tbd
 
@@ -1061,6 +1175,12 @@ tbd
 
 ::genre::
 
+## Till Hillbrecht, Zimoun - Warp Slow
+
+tbd
+
+::genre::
+
 ## Tom Misch - Full Circle
 
 tbd
@@ -1091,6 +1211,12 @@ tbd
 
 ::genre::
 
+## Tristan Allen - Osni the Flare
+
+tbd
+
+::genre::
+
 ## Tulus - Morbid Desires
 
 tbd
@@ -1109,6 +1235,12 @@ tbd
 
 ::genre::
 
+## Tyler Friedman - METLASR
+
+tbd
+
+::genre::
+
 ## Tårfödd - Mörker täcker livets ljus
 
 tbd
@@ -1122,6 +1254,12 @@ tbd
 ::genre::
 
 ## Varmia - Lauks
+
+tbd
+
+::genre::
+
+## WaSaBi Trio - WaSaBi Trio
 
 tbd
 
@@ -1151,6 +1289,18 @@ tbd
 
 ::genre::
 
+## worriedaboutsatan - No Knock No Doorbell
+
+tbd
+
+::genre::
+
+## Wu Zhuoling - Uncharted II
+
+tbd
+
+::genre::
+
 ## Xtinguish The Code - The Conflict
 
 tbd
@@ -1163,7 +1313,13 @@ tbd
 
 ::genre::
 
-## Yeat - ADL (A Dangerous Lyfe / A Dangerous Love)
+## Yeat - ADL (A Dangerous Lyfe / A Dangerous Love)
+
+tbd
+
+::genre::
+
+## Yelena Eckenoff - Rosendals Garden
 
 tbd
 
@@ -1175,11 +1331,23 @@ tbd
 
 ::genre::
 
+## Zosha Warpeha - I grow accustomed to the dark
+
+tbd
+
+::genre::
+
 ---
 
 # Earlier the week ...
 
 ## Alhambra - Skyward Pray
+
+Die japanische Combo mit ihrem neuesten Release nach einer 10 jährigen Release-Pause. Ein progessives und technisch ausgereiftes Werk des Power Metal, welches eine Geschichte versucht zu erstellen. Die Kompositionen aus Power Metal, Hard Rock, Heavy Rock und Symphonic Metal nehmen technische Keyboard Arbeit und verbinden diese mit neoklassischer Gitarren-Arbeit.
+
+::genre::power metal, prog rock, hard rock, symphonic metal, arena rock
+
+## Alon Stern - Supreme Chord
 
 tbd
 
@@ -1209,7 +1377,19 @@ Die koreanische Girl-Group mit ihrem neuesten Mini-Release, welches den Start ih
 
 ::genre::k-pop, kawaii pop, alt pop, synth pop
 
-## Domas Žeromskas - Meditations on Providence and Perseverance, Vol. 2
+## Blurstem - Fallen Fragments
+
+tbd
+
+::genre::
+
+## Bruno Duplant - athanor
+
+tbd
+
+::genre::
+
+## Clocolan - When the Emptying Sun Filled the Sky
 
 tbd
 
@@ -1229,9 +1409,9 @@ Der amerikanische Jazz-Drummer und Producer mit seinem neuesten Full-Length Outp
 
 ## Hegeroth - Soaked In Rot
 
-tbd
+Die polnische Formation mit ihrem neuesten Full-Length. Eine tiefgründige Auseinandersetzung mit Atheismus und Nihilismus, welche in Strukturen von Melodic Black Metal und Raw Black Metal eingepackt wird. Mit roher Energie und aggressiven Tremelos wird der origenelle und organische Gesang in eine tiefe Atmosphäre gesetzt.
 
-::genre::
+::genre::melo black metal
 
 ## Jakabol - Leornian
 
@@ -1257,6 +1437,12 @@ Das amerikanische Trio mit seiner Überraschungs-EP. Der Sound ist eine mitreiß
 
 ::genre::noise rock, post punk, idm, avant rock, experimental electronica, indietronica
 
+## Rahul Mukerji - Mridhangit
+
+Der renommierte indische Gitarrist und Komponist mit seinem neuesten Longplayer. Ein orientalisches Experiment aus Progressive Rock, World Fusion, Jazz Fusion, Progressive Metal und Experimental Rock. In seinen neuesten Kompositionen bezieht er mehr und mehr die Töne des indischen Kontinents ein.
+
+::genre::prog rock, prog metal, jazz fusion, world music, experimental rock
+
 ## Richard Bliwas - Insomnia
 
 tbd
@@ -1264,6 +1450,12 @@ tbd
 ::genre::
 
 ## Richard Bliwas - Summoning
+
+tbd
+
+::genre::
+
+## Rising Rose Records - Summoning
 
 tbd
 
@@ -1283,9 +1475,9 @@ tbd
 
 ## Steamgenerator - Hopeless Romantic
 
-tbd
+Das deutsche Quintett mit seinem neuesten Longplayer. Ein Album, das mit seinem sorgfältig gestalteten Klangkosmos beweist, dass klassischer Doom Metal authentisch und spannend bleiben kann. Es zeichnet sich durch eine meditative Schwere, dichte Atmosphären und stoische, unerschütterliche Rhythmen aus.
 
-::genre::
+::genre::doom metal, post doom metal
 
 ## Stormo - Sogni Che Invadono il Cielo *
 
@@ -1295,9 +1487,9 @@ Das neueste Output des italienischen Outfits. Ein energiegeladenes Bündel aus P
 
 ## Teratoma - Longing Veracity
 
-tbd
+Die internationale Formation aus Berlin mit seinem Sophomore Longplayer. Ein Gigant des Verfalls, der rasante Angriffe mit schleppenden, düsteren Passagen in Einklang bringt. Eine perfekte Verbindung aus schwedischem Death Metal (nicht HM-2) und abgedrehten, depressiven finnischen Klängen.
 
-::genre::
+::genre::osdm, crust, d-beat
 
 ## Throw The Dice - Contactless
 
@@ -1328,3 +1520,9 @@ tbd
 Das Debüt der koreanischen Künstlerin, welche das jüngste Mitglied der Süd Koreanischen Girl Group "ITZY" ist. Eine Komposition des Bubblegum Pops, welche mit elektronischen und dance Elementen versehen wurde. Ein Release, welches einen aus dem Tiefen des Alltags befreien möchte, wenn man diese Tiefen verspührt.
 
 ::genre::bubblegum pop, alt pop, dance, edm
+
+## Zlatko Kaučič, Francesco Cigana - Kako Klicati Zmaja
+
+tbd
+
+::genre::
