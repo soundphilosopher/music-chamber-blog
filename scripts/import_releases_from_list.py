@@ -18,6 +18,8 @@ Args:
 Example:
     python import_releases.py -d 2026-03-06 -f scripts/raw/releases.txt
 """
+from typing import Optional, Any
+from pygments.lexers.ml import OpaLexer
 
 import argparse
 import logging
@@ -44,23 +46,6 @@ GENRE_TAG_PREFIX = "::genre::"
 # Compiled pattern to match lines that start with the genre tag prefix.
 GENRE_TAG_PATTERN = re.compile(rf"^{re.escape(GENRE_TAG_PREFIX)}")
 
-# Statistics for the import process.
-IMPORT_STATISTICS = {
-    "imported": 0,
-    "imported_skipped": 0,
-    "imported_friday": 0,
-    "imported_earlier": 0,
-    "existing": 0,
-    "existing_skipped": 0,
-    "existing_friday": 0,
-    "existing_earlier": 0,
-    "existing_with_review": 0,
-    "existing_with_genres": 0,
-}
-
-# Graph data
-IMPORT_GRAPH_DATA: dict[date, int] = {}
-
 
 logging.basicConfig(level=logging.INFO)
 log = logging.getLogger("scripts.import_releases")
@@ -81,6 +66,10 @@ class Release:
     title: str
     review: str
     genres: list[str]
+
+@dataclass
+class IncomingRelease(Release):
+    date: date
 
 
 class ReleaseCollectionType(Enum):
@@ -103,7 +92,7 @@ class ReleaseCollection:
     """
 
     type: ReleaseCollectionType
-    releases: list[Release]
+    releases: list[Release | IncomingRelease]
 
     def sort_releases(self) -> None:
         self.releases.sort(key=lambda r: r.artist.casefold())
@@ -155,7 +144,6 @@ def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
             try:
                 current_type = ReleaseCollectionType(tag.get_text())
             except ValueError:
-                IMPORT_STATISTICS["existing_skipped"] += 1
                 log.debug(f"Unknown collection heading: '{tag.get_text()}', skipping.")
                 current_type = None
             current_releases = []
@@ -163,11 +151,8 @@ def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
         elif tag.name == "h2" and current_type is not None:
             parts = tag.get_text().split(" - ", 1)
             if len(parts) != 2:
-                IMPORT_STATISTICS["existing_skipped"] += 1
                 log.debug(f"Skipping malformed release heading: '{tag.get_text()}'")
                 continue
-
-            IMPORT_STATISTICS[f"existing_{current_type.name.lower()}"] += 1
 
             artist, title = parts
             review = "tbd"
@@ -176,14 +161,10 @@ def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
             review_tag = tag.find_next_sibling("p")
             if review_tag:
                 review = review_tag.get_text()
-                if "tbd" not in review:
-                    IMPORT_STATISTICS["existing_with_review"] += 1
-
                 log.debug(f"review={review}")
 
                 genres_tag = review_tag.find_next_sibling(name="p")
                 if genres_tag and GENRE_TAG_PATTERN.match(genres_tag.get_text()):
-                    IMPORT_STATISTICS["existing_with_genres"] += 1
                     genres = [
                         g.strip()
                         for g in genres_tag.get_text()
@@ -192,7 +173,6 @@ def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
                     ]
                     log.debug(f"genres={genres}")
 
-            IMPORT_STATISTICS["existing"] += 1
             current_releases.append(
                 Release(
                     artist=artist.strip(),
@@ -306,43 +286,37 @@ def _build_release_list(path: Path) -> list[ReleaseCollection]:
             if line.strip().startswith("<<ignore>>"):
                 break
 
-            # split line "(2026-03-27) Yeat - ADL (A Dangerous Lyfe / A Dangerous Love)" into release date and title
+            # split line "(2026-03-27) Yeat - ADL (A Dangerous Lyfe / A Dangerous Love)" into release date and title
             release_date_str, title = line.split(") ", 1)
             release_date = date.fromisoformat(release_date_str.lstrip("(").strip())
             artist = title.split(" - ", 1)[0].strip()
             title = title.split(" - ", 1)[1].strip()
 
-            # increment graph data for release date
-            IMPORT_GRAPH_DATA[release_date] = IMPORT_GRAPH_DATA.get(release_date, 0) + 1
-
             # check if release_date is friday add release to friday collection if not already present
             current_week_type = ReleaseCollectionType.FRIDAY if release_date.weekday() == 4 else ReleaseCollectionType.EARLIER
-
-            # add to statistics
-            IMPORT_STATISTICS[f"imported_{current_week_type.name.lower()}"] += 1
 
             # sort release to collection if not already exists
             collection = next((rc for rc in collections if rc.type == current_week_type), None)
             if not collection:
                 collection = ReleaseCollection(type=current_week_type, releases=[])
                 collections.append(collection)
+
             if any(
                 r.artist.casefold() == artist.strip().casefold()
                 and r.title.casefold() == title.strip().casefold()
                 for r in collection.releases
             ):
-                IMPORT_STATISTICS["imported_skipped"] += 1
                 continue
 
-            IMPORT_STATISTICS["imported"] += 1
             collection.releases.append(
-                Release(artist=artist.strip(), title=title.strip(), review="tbd", genres=[])
+                IncomingRelease(artist=artist.strip(), title=title.strip(), review="tbd", genres=[], date=release_date)
             )
 
     for rc in collections:
         rc.releases.sort(key=lambda r: r.artist.casefold())
 
     return collections
+
 
 
 def _create_release_content(
@@ -398,6 +372,43 @@ def _create_release_content(
             content.append("")
 
     return "\n".join(content)
+
+
+def _build_statistics(incoming: list[ReleaseCollection], existing: list[ReleaseCollection]) -> dict[str, Any]:
+    total_incoming = sum(len(collection.releases) for collection in incoming)
+    total_existing = sum(len(collection.releases) for collection in existing)
+
+    total_incoming_friday = sum(len(collection.releases) for collection in incoming if collection.type == ReleaseCollectionType.FRIDAY)
+    total_existing_friday = sum(len(collection.releases) for collection in existing if collection.type == ReleaseCollectionType.FRIDAY)
+
+    total_incoming_earlier = sum(len(collection.releases) for collection in incoming if collection.type == ReleaseCollectionType.EARLIER)
+    total_existing_earlier = sum(len(collection.releases) for collection in existing if collection.type == ReleaseCollectionType.EARLIER)
+
+    # count all release.review entries in existing that are not "tbd"
+    total_existing_with_review = sum(1 for collection in existing for release in collection.releases if release.review and release.review.lower() != "tbd")
+
+    # count all release.genres entries in existing that are not empty
+    total_existing_with_genres = sum(1 for collection in existing for release in collection.releases if release.genres)
+
+    # count releases by release.date (only IncomingRelease has a date attribute)
+    total_incoming_by_date: dict[date, int] = {}
+    for collection in incoming:
+        for release in collection.releases:
+            if isinstance(release, IncomingRelease):
+                total_incoming_by_date[release.date] = total_incoming_by_date.get(release.date, 0) + 1
+
+    return {
+        "imported": total_incoming,
+        "imported_friday": total_incoming_friday,
+        "imported_earlier": total_incoming_earlier,
+        "existing": total_existing,
+        "existing_friday": total_existing_friday,
+        "existing_earlier": total_existing_earlier,
+        "existing_with_review": total_existing_with_review,
+        "existing_with_genres": total_existing_with_genres,
+        "distributions": total_incoming_by_date,
+    }
+
 
 
 def main(release_date: date, path: Path) -> None:
@@ -461,25 +472,29 @@ def main(release_date: date, path: Path) -> None:
     with mkdocs_gen_files.open(mkdocs_file_path, "w") as f:
         f.write(content)
 
+    statistics = _build_statistics(incoming_releases, collections)
     result = [
         f"Releases sorted and written to {mkdocs_file_path}",
         "",
         "------------------------------------",
-        f"Colleted from file: {Style.BRIGHT}{Fore.YELLOW}{IMPORT_STATISTICS["imported"]}{Style.RESET_ALL}",
-        f"    Friday:\t\x1B[3m{IMPORT_STATISTICS["imported_friday"]}\x1B[0m",
-        f"    Earlier:\t\x1B[3m{IMPORT_STATISTICS["imported_earlier"]}\x1B[0m",
-        f"New: {Style.BRIGHT}{Fore.CYAN}{IMPORT_STATISTICS["imported"] - IMPORT_STATISTICS["existing"]}{Style.RESET_ALL}",
+        f"Colleted from file: {Style.BRIGHT}{Fore.YELLOW}{statistics["imported"]}{Style.RESET_ALL}",
+        f"    Friday:\t\x1B[3m{statistics["imported_friday"]}\x1B[0m",
+        f"    Earlier:\t\x1B[3m{statistics["imported_earlier"]}\x1B[0m",
+        f"New: {Style.BRIGHT}{Fore.CYAN}{statistics["imported"] - statistics["existing"]}{Style.RESET_ALL}",
         "Existing:",
-        f"    Friday:\t\x1B[3m{IMPORT_STATISTICS["existing_friday"]}\x1B[0m",
-        f"    Earlier:\t\x1B[3m{IMPORT_STATISTICS["existing_earlier"]}\x1B[0m",
-        f"    Reviewed:\t\x1B[3m{IMPORT_STATISTICS["existing_with_review"]}\x1B[0m",
+        f"    Friday:\t\x1B[3m{statistics["existing_friday"]}\x1B[0m",
+        f"    Earlier:\t\x1B[3m{statistics["existing_earlier"]}\x1B[0m",
+        f"    Reviewed:\t\x1B[3m{statistics["existing_with_review"]}\x1B[0m",
         "------------------------------------",
     ]
 
     # add graph data to result
-    if IMPORT_GRAPH_DATA:
+    release_distribution = statistics.get("distributions", {})
+    sorted_release_distribution = sorted(release_distribution.items())
+
+    if release_distribution:
         result.append("Release distribution:")
-        for release_date, count in IMPORT_GRAPH_DATA.items():
+        for release_date, count in sorted_release_distribution:
             result.append(f"{release_date}\t\x1B[3m({count})\x1B[0m")
         result.append("------------------------------------")
         result.append("")
