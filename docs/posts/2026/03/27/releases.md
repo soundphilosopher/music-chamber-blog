@@ -149,6 +149,12 @@ tbd
 
 ::genre::
 
+## Bruno Duplant - athanor
+
+Der französische Komponist und Multi-Instrumentalist mit seinem neuesten Longplayer. Es ist zutiefst inspiriert von der Poesie des Alltags und von Schriftstellern wie Francis Ponge und Gaston Bachelard. Musikalisch steht er in der Tradition von Luc Ferrari und Eliane Radigue und konzentriert sich dabei auf Klangtexturen und das Konzept der imaginären Landschaften. Es bewegt sich an der Schnittstelle zwischen Lowercase, Electroacoustic und Dark Ambient.
+
+::genre::ambient acoustic, dark ambient
+
 ## Buzzy Lee - Shoulder to Shoulder
 
 tbd
@@ -1382,12 +1388,6 @@ Die koreanische Girl-Group mit ihrem neuesten Mini-Release, welches den Start ih
 Der amerikanische Komponist und Pianist Chris Bartels mit seinem neuesten Full-Length. Im Mittelpunkt der Musik steht minimalistische Intimität im Kontrast zu weitläufiger Erhabenheit. Sie zeichnet sich durch gefilteres Klavier, analoge Tonbandschleifen, hallgetränkte Klangschichten und Zeitexperimente wie Rückwärtswiedergabe und Tonhöhenverschiebung aus.
 
 ::genre::ambient, neo classic, modern classic
-
-## Bruno Duplant - athanor
-
-Der französische Komponist und Multi-Instrumentalist mit seinem neuesten Longplayer. Es ist zutiefst inspiriert von der Poesie des Alltags und von Schriftstellern wie Francis Ponge und Gaston Bachelard. Musikalisch steht er in der Tradition von Luc Ferrari und Eliane Radigue und konzentriert sich dabei auf Klangtexturen und das Konzept der imaginären Landschaften. Es bewegt sich an der Schnittstelle zwischen Lowercase, Electroacoustic und Dark Ambient.
-
-::genre::ambient acoustic, dark ambient
 
 ## Clocolan - When the Emptying Sun Filled the Sky
 

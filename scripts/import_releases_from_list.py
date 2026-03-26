@@ -167,10 +167,7 @@ def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
                 log.debug(f"Skipping malformed release heading: '{tag.get_text()}'")
                 continue
 
-            if current_type == ReleaseCollectionType.FRIDAY:
-                IMPORT_STATISTICS["existing_friday"] += 1
-            else:
-                IMPORT_STATISTICS["existing_earlier"] += 1
+            IMPORT_STATISTICS[f"existing_{current_type.name.lower()}"] += 1
 
             artist, title = parts
             review = "tbd"
@@ -263,7 +260,7 @@ def _sort_to_collections(
             key = (incoming_release.artist.casefold(), incoming_release.title.casefold())
             if key in existing_lookup:
                 collection_type, existing_release = existing_lookup[key]
-                result[collection_type].releases.append(existing_release)
+                result[incoming_collection.type].releases.append(existing_release)
                 log.debug(
                     f"Kept '{existing_release.artist} - {existing_release.title}'"
                     f" in {collection_type.name}."
