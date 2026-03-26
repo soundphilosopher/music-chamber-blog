@@ -1331,6 +1331,12 @@ tbd
 
 ::genre::
 
+## Zlatko Kaučič, Francesco Cigana - Kako Klicati Zmaja
+
+tbd
+
+::genre::
+
 ## Zosha Warpeha - I grow accustomed to the dark
 
 tbd
@@ -1349,21 +1355,15 @@ Die japanische Combo mit ihrem neuesten Release nach einer 10 jährigen Release-
 
 ## Alon Stern - Supreme Chord
 
-tbd
+Der israelische Multi-Instrumentalist, Producer und Lehrer mit seinem neuesten Release. Das Werk zeichnet sich durch komplexe rhythmische Strukturen und melodisches Zusammenspiel aus, wobei er häufig sowohl auf seine Wurzeln im Nahen Osten als auch auf die reichen Jazztraditionen Südafrikas zurückgreift.
 
-::genre::
-
-## Alon Stern - Supreme Chord
-
-tbd
-
-::genre::
+::genre::modern jazz, jazz fusion, world music, afrobeat, world jazz
 
 ## Anthony Splane - The Changing Divide
 
-tbd
+Der neueste Longplayer des kanadischen Multi-Instrumentalisten und Producer. Eine persönliche Auseinandersetzung im Style von Alternative Rock, Pop Rock, Indie Rock, Art Rock, Progressive Rock und Psychedelic Pop. Der Künstler spielte dabei alle Instrumente im Studio selber ein, um den persönlichen Ausdruck in den Kompositionen aufrechtzuerhalten.
 
-::genre::
+::genre::pop rock, indie rock, alt rock, art rock, prog pop, prog rock, psych pop
 
 ## Aurora Disease - Epitaph
 
@@ -1379,21 +1379,21 @@ Die koreanische Girl-Group mit ihrem neuesten Mini-Release, welches den Start ih
 
 ## Blurstem - Fallen Fragments
 
-tbd
+Der amerikanische Komponist und Pianist Chris Bartels mit seinem neuesten Full-Length. Im Mittelpunkt der Musik steht minimalistische Intimität im Kontrast zu weitläufiger Erhabenheit. Sie zeichnet sich durch gefilteres Klavier, analoge Tonbandschleifen, hallgetränkte Klangschichten und Zeitexperimente wie Rückwärtswiedergabe und Tonhöhenverschiebung aus.
 
-::genre::
+::genre::ambient, neo classic, modern classic
 
 ## Bruno Duplant - athanor
 
-tbd
+Der französische Komponist und Multi-Instrumentalist mit seinem neuesten Longplayer. Es ist zutiefst inspiriert von der Poesie des Alltags und von Schriftstellern wie Francis Ponge und Gaston Bachelard. Musikalisch steht er in der Tradition von Luc Ferrari und Eliane Radigue und konzentriert sich dabei auf Klangtexturen und das Konzept der imaginären Landschaften. Es bewegt sich an der Schnittstelle zwischen Lowercase, Electroacoustic und Dark Ambient.
 
-::genre::
+::genre::ambient acoustic, dark ambient
 
 ## Clocolan - When the Emptying Sun Filled the Sky
 
-tbd
+Der neueste Longplayer des südafrikanischen Komponisten und Producer Emlyn Ellis Addison. Das Album zeichnet sich durch eine einzigartige Kombination aus elektronischen und akustischen Klängen aus, wobei Holzbläser-Cluster, Mikrotonalität und sparsam eingesetzte melodische Motive zum Einsatz kommen, die einen hypnotischen, filmischen Effekt erzeugen sollen. Ein Werk welches Ambient, IDM, Downtempo und Hauntology in einen theatralischen Rahmen fusioniert.
 
-::genre::
+::genre::cinematic ambient, idm, downtempo, hauntology
 
 ## Eleveine - Travelling
 
@@ -1413,23 +1413,17 @@ Die polnische Formation mit ihrem neuesten Full-Length. Eine tiefgründige Ausei
 
 ::genre::melo black metal
 
-## Jakabol - Leornian
-
-tbd
-
-::genre::
-
 ## Juvenile - Boiling Point
 
-tbd
+Der amerikanische Producer und Rapper Terius Gray bringt zu seinem 51ten Geburtstag einen neuen Longplayer heraus. Der Pionier im Southern Hip Hop bringt seine alten Bounce Rhythmen ("Juvenile") zum neuen Glanz.
 
-::genre::
+::genre::hip hop, southern hip hop, bounce
 
 ## Manoel Cruz - Navegante
 
-tbd
+Der brasilianische Komponist und Jazz Bassist mit seinem neuesten Release. Sein Werk ist bekannt für seine raffinierte harmonische Sprache und seine rhythmische Präzision. "Navegante" (was so viel wie "Navigator" bedeutet) greift ein in der brasilianischen Musik häufig behandeltes Seefahrer-Thema auf und besticht durch fließende Basslinien und melodische Improvisationen. Das Album vereint brasilianischen Jazz, Samba und Brasileira.
 
-::genre::
+::genre::word music, world jazz, samba, brasileira, improvisation
 
 ## Model/Actriz - Swan Songs *
 
@@ -1445,33 +1439,15 @@ Der renommierte indische Gitarrist und Komponist mit seinem neuesten Longplayer.
 
 ## Richard Bliwas - Insomnia
 
-tbd
+Der amerikanische Pianist und Komponist mit Teil 1 seines neuesten Release-Cycle. Das Werk zeichnet sich durch harmonische Mehrdeutigkeit und eine Konzentration auf Raum und Resonanz aus. Die Kompositionen wirken oft wie sorgfältig strukturierte spontane Improvisationen, in denen sich eine jazzige Sensibilität mit der formalen Disziplin der klassischen Musik des 20. Jahrhunderts verbindet. Eine klassische Improvisation aus Modern Classic und Modern Jazz.
 
-::genre::
+::genre::modern jazz, modern classic, improvisation
 
 ## Richard Bliwas - Summoning
 
-tbd
+Der amerikanische Pianist und Komponist mit Teil 2 seines neuesten Release-Cycle. Im Gegensatz zum eher minimalistischen "Insomnia" wird "Summoning" als ein Stück mit einer eher beschwörenden und dringlichen Energie beschrieben. Es zeichnet sich durch komplexe Klaviertexturen, unvorhersehbare harmonische Wendungen und eine Betonung der Körperlichkeit des Instruments aus.
 
-::genre::
-
-## Rising Rose Records - Summoning
-
-tbd
-
-::genre::
-
-## Rob McGilton - My Undivided Attention
-
-tbd
-
-::genre::
-
-## Rob van Bavel - Crazy World of Love
-
-tbd
-
-::genre::
+::genre::modern jazz, neo classic, avant jazz
 
 ## Steamgenerator - Hopeless Romantic
 
@@ -1509,20 +1485,8 @@ Das Sophomore Release der kanadischen Formation. Eine rebellische, intensive und
 
 ::genre::hard rock, alt rock, heavy rock, post grunge, alt metal
 
-## Yelena Eckemoff - Rosendals Garden
-
-tbd
-
-::genre::
-
 ## Yuna - Ice Cream
 
 Das Debüt der koreanischen Künstlerin, welche das jüngste Mitglied der Süd Koreanischen Girl Group "ITZY" ist. Eine Komposition des Bubblegum Pops, welche mit elektronischen und dance Elementen versehen wurde. Ein Release, welches einen aus dem Tiefen des Alltags befreien möchte, wenn man diese Tiefen verspührt.
 
 ::genre::bubblegum pop, alt pop, dance, edm
-
-## Zlatko Kaučič, Francesco Cigana - Kako Klicati Zmaja
-
-tbd
-
-::genre::
