@@ -443,8 +443,8 @@ def main(release_date: date, path: Path) -> None:
     # 2. Collect all releases from the current release markdown (if it exists).
     existing_collections = _parse_existing_collections(release_list_path)
     log.debug(f"existing_collections={existing_collections}")
-    log.debug(f"existing_collections[FRIDAY]={len(existing_collections[0].releases)}")
-    log.debug(f"existing_collections[EARLIER]={len(existing_collections[1].releases)}")
+    log.debug(f"existing_collections[FRIDAY]={len(existing_collections[0].releases) if existing_collections else 0}")
+    log.debug(f"existing_collections[EARLIER]={len(existing_collections[1].releases) if existing_collections else 0}")
 
     # 3. Sort releases into collections.
     collections = _sort_to_collections(incoming_releases, existing_collections)
