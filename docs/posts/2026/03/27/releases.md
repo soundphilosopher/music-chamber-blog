@@ -9,6 +9,12 @@ categories:
 
 # Releases! Releases! Releases!
 
+## A Moments Notice - Fear & Loathing
+
+Das Debüt der amerikanischen Formation. Modern Metalcore, welches augezeichnet instrumentell begleitet wird aber durch die Produktion in der Sameness des Modern Metalcore untergeht. Am Ende wird hier nichts geliefert, was man nicht in den wöchtlich 100 Modern Metalcore Releases findet. Djent-y Riffing, technische Zwischenspiele, Industrial Symphonien und Breakdowns. Alles wird mit gesichtslosen Gesang "verfeinert".
+
+::genre::modern metalcore
+
 ## ADULT. - Kissing Luck Goodbye
 
 Das amerikanische Duo mit seinem neuesten Output. Eine dystopische Reise durch Synth-Punk oder Electropunk. Der Sound dieses Albums zeichnet sich dadurch aus, dass er eindringlicher, aggressiver und kompromissloser ist als ihre früheren Werke. Der Sound ist geprägt von den Stilen des Industrial, Post-Punk und der frühen Wax Trax! Records aus den 1980er Jahren.
@@ -21,13 +27,13 @@ Das Sophomore Full-Length der italienischen Formation. Eine nihilistische und ps
 
 ::genre::melodic black metal, prog black metal, avant black metal, mathcore, post hardcore
 
+<!-- more -->
+
 ## Aggressive Perfector - Come Creeping Fiends
 
 Das britische Powertrio mit seinem Sophomore Longplayer. Ein nostalgisches Werk, welches die "Alten Herren" des Proto Black Metal eine gelunge Huldigung bietet. Ein aggressiver, punk-y, dunkler und bieter böser Mix aus Speed Metal, NWOBHM und Thrash Metal, welcher mit einer gewissen "F*** U" Attitüde dargeboten wird, um die Kompositionen möglichst rau und unbelassen erscheinen zu lassen.
 
 ::genre::nwobhm, speed metal, thrash metal, proto black metal
-
-<!-- more -->
 
 ## Aidan Baker, rsn - Bottom Layers of a Surface
 
@@ -101,6 +107,12 @@ Der neueste Longplayer der amerikanischen Formation, welche im Grunde Zakk Wylde
 
 ::genre::southern metal, groove metal, hard rock, heavy rock, doom rock
 
+## Black Veins - EP 2
+
+Die Sophomore EP der amerikanischen Kapelle. Warum diese in den Previews als "Metalcore" und manchmal schlimmer als "Modern Metalcore" gereviewed wird, zeigt mir, dass man keinen einzigen Ton von der EP gehört hat. Hier wird ein spielfreudiges und aggressives Werk erstellt, welches Metallic Hardcore, Crust, Post Hardcore und Blackgaze in sich vereint. Alles wird mit einer entsprechenden DIY Produktion versehen, was die experimentelle Reise in eine raue, ehrliche Atmosphäre versetzt.
+
+::genre::metallic hardcore, hardcore punk, crust, d-beat, blackgaze, post hardcore
+
 ## Bnnyhunna - PSALM FUNK
 
 Der niederländische Multi-Instrumentalist Benjamin Ankomah mit seinem Sophomore Release. Es zeichnet sich dadurch aus, dass es Bnnyhunnas musikalisches Spektrum erweitert, indem es Rhythmus und Raum neben Harmonie und Lyrik als narrative Elemente in den Vordergrund rückt. Eine raffinierte Verschmelzung von Jazz, Funk, Gospel und afrikanischen Rhythmus-Traditionen.
@@ -125,6 +137,12 @@ Der belarusische Producer Yaroslav Gavrilyuk mit seinem neuesten Longplayer. Ein
 
 ::genre::dark ambient, experimental electronica, deep ambient, drone
 
+## Brotality - Wormsign *
+
+Das amerikanische Trio mit seiner neuesten EP. Eine verrückte und verschachtelte Komposition, welche Stoner Metal, Alternative Metal, Noisecore, Crust, Thrash Metal, Djent, Progressive Rock und Metalcore in sich fusioniert. Das Songwriting wirkt am Ende nicht wirklich Komplex, was ein kleines Wunder darstellt, wenn man beachtet, wie viele Genre-Überschritte in den kurzen Songs erschaffen werden.
+
+::genre::stoner metal, psych metal, noisecore, mathcore, metalcore, djent, crust, thrash metal, post hardcore, prog rock
+
 ## Bruno Duplant - athanor
 
 Der französische Komponist und Multi-Instrumentalist mit seinem neuesten Longplayer. Es ist zutiefst inspiriert von der Poesie des Alltags und von Schriftstellern wie Francis Ponge und Gaston Bachelard. Musikalisch steht er in der Tradition von Luc Ferrari und Eliane Radigue und konzentriert sich dabei auf Klangtexturen und das Konzept der imaginären Landschaften. Es bewegt sich an der Schnittstelle zwischen Lowercase, Electroacoustic und Dark Ambient.
@@ -139,21 +157,21 @@ Das neueste Studio-Album der amerikanischen Singer & Songwriterin, Writerin und 
 
 ## Cannons - Everything Glows
 
-tbd
+Das amerikanische Trio mit seinem neuesten Longplayer. Er entstand, während Michelle Joy sich von schweren persönlichen Schicksalsschlägen erholte, darunter eine Scheidung, eine Operation und die Diagnose einer Anämie. Die Band beschreibt es als ein Album über Wiedergeburt und darüber, wie man in chaotischen, ungelösten Momenten Schönheit findet. Primär wird hier eine Fusion aus Indie Pop, Synth Wave, Vaporwave, Synth Pop, Disco und Electropop erzeugt, welches alle elementaren Frequenzen im korrekten Kontext verwendet.
 
-::genre::
+::genre::synth pop, disco, electropop, vaporwave, synth wave, prog pop, indie pop
 
 ## Carnivore A.D. - Transmutation
 
-tbd
+Die Debüt EP der offiziellen Nachfolger von Carnivore, ohne Peter Steele (R.I.P.), versteht sich. Geboten wird eine rohe Mischung aus Crossover-Thrash, Hardcore-Punk und Doom Metal. Schwere Grooves im mittleren Tempo, unterbrochen von rasanten Thrash-Ausbrüchen. Die Produktion ist bewusst rau gehalten und verzichtet auf moderne Überbearbeitung, um dem Hardcore-Sound des New York der 80er Jahre treu zu bleiben.
 
-::genre::
+::genre::crossover, thrash metal, hardcore punk
 
 ## Caroline Davis - Fallows
 
-tbd
+Das erste pure Solo-Release der amerikanischen Jazz-Saxophonistin, Komponistin und Producerin. Entstanden während eines einmonatigen Künstleraufenthalts bei der Ucross Foundation im ländlichen Wyoming. Davis nahm das Material allein in einer Hütte auf und nutzte dabei tägliche Improvisationen, ohne dem Druck typischer Studio-Deadlines oder den Erwartungen des Publikums ausgesetzt zu sein. Eine Abkehr von ihren Wurzeln im Jazzensemble, bei der sie Altsaxophon, Elektronik und vor Ort aufgenommene Feldaufnahmen miteinander verbindet. Das Werk kann als experimentell, ambient und unterirdisch wahrgenommen werden und lotet die klanglichen Möglichkeiten des Saxophons aus.
 
-::genre::
+::genre::avant jazz, experimental electronica, improvisation
 
 ## Central Cee - All Roads Lead Home
 
@@ -287,6 +305,12 @@ tbd
 
 ::genre::
 
+## Defying Decay - Synthetic Sympathy
+
+tbd
+
+::genre::
+
 ## Dermont Kennedy - The Weight of the Woods
 
 tbd
@@ -330,6 +354,12 @@ tbd
 ::genre::
 
 ## Don Broco - Nightmare Tripping
+
+tbd
+
+::genre::
+
+## Downstait - Marcy
 
 tbd
 
@@ -509,6 +539,24 @@ tbd
 
 ::genre::
 
+## HEALTH - R-TYPE III
+
+tbd
+
+::genre::
+
+## Heaven & Hell - Breaking Out Of Heaven
+
+tbd
+
+::genre::
+
+## HEAVEN.EXE - Erase Me
+
+tbd
+
+::genre::
+
 ## Heavy Metal Shrapnel - Heavy Metal Hairspray
 
 tbd
@@ -521,6 +569,12 @@ tbd
 
 ::genre::
 
+## Helgafell - Chronicles
+
+tbd
+
+::genre::
+
 ## Hellripper - Coronach
 
 tbd
@@ -528,6 +582,12 @@ tbd
 ::genre::
 
 ## Herb Lore - Mysticism
+
+tbd
+
+::genre::
+
+## Hexenhorde - Sempiternal Witchery
 
 tbd
 
@@ -641,6 +701,12 @@ tbd
 
 ::genre::
 
+## Lansdowne - Wish You Well
+
+tbd
+
+::genre::
+
 ## Lauren Auder - Whole World as Vigil
 
 tbd
@@ -671,6 +737,12 @@ tbd
 
 ::genre::
 
+## Lo Rays - RE:BIRTH SEQUENCE
+
+tbd
+
+::genre::
+
 ## Lone - Hyperfantasia
 
 tbd
@@ -684,6 +756,12 @@ tbd
 ::genre::
 
 ## Lou Gramm - Released
+
+tbd
+
+::genre::
+
+## Love Ghost - Anarchy And Ashes
 
 tbd
 
@@ -761,6 +839,12 @@ tbd
 
 ::genre::
 
+## Monochrome - From The Outside Looking In
+
+tbd
+
+::genre::
+
 ## Monster Rally - Echoes of the Emerald Sands
 
 tbd
@@ -809,6 +893,12 @@ tbd
 
 ::genre::
 
+## Naked Identity Created By King - Virtual Missa
+
+tbd
+
+::genre::
+
 ## Needtobreathe - The Long Surrender
 
 tbd
@@ -833,7 +923,25 @@ tbd
 
 ::genre::
 
+## No Traces - Cruel Trace Era
+
+tbd
+
+::genre::
+
+## Nociception - Cognitive Dismemberment
+
+tbd
+
+::genre::
+
 ## Nomad - Oxygen
+
+tbd
+
+::genre::
+
+## Obscure Fate - Shades Of A Dying World
 
 tbd
 
@@ -917,6 +1025,12 @@ tbd
 
 ::genre::
 
+## Resurrector UK - Nest
+
+tbd
+
+::genre::
+
 ## Rivers Ablaze - Inexternal Dread
 
 tbd
@@ -960,6 +1074,12 @@ tbd
 ::genre::
 
 ## Sanaya Ardeshir - Hand of Thought
+
+tbd
+
+::genre::
+
+## Scar Woven - Prophecy
 
 tbd
 
@@ -1056,6 +1176,12 @@ tbd
 ::genre::
 
 ## Stuck - Optimizer
+
+tbd
+
+::genre::
+
+## Sun Eater - Death Crown
 
 tbd
 
@@ -1241,6 +1367,12 @@ tbd
 
 ::genre::
 
+## Under Exile - Ephemera
+
+tbd
+
+::genre::
+
 ## Valdrin - Beyond The Forest
 
 tbd
@@ -1376,6 +1508,12 @@ Das neueste Studio Album des deutschen Projekts um den Multi-Instrumentalisten "
 Die koreanische Girl-Group mit ihrem neuesten Mini-Release, welches den Start ihrer "Tear Trology" einleitet. Für diesen Start zieht die Formation einen Mix aus K-Pop, Kawaii Pop, Alt Pop und Synth Pop heran, welcher auch gern "Baby Metal" genannt wird, ohwohl das "Metal" hier sehr diskutiert werden kann.
 
 ::genre::k-pop, kawaii pop, alt pop, synth pop
+
+## Bloodletting Prince - Bloodletting Eyes, Bearers Of Insight
+
+Das italienische Duo mit seinem Sophomore Release. In MySpace Qualität wird ein Werk des Symphonic Deathcore erzeugt, welches mit funny Gesangsexperimenten versehen ist. Das Songwriting ist nicht wirklich Überraschend für Digi Deathcore, welcher mit symphonischen Elementen versehen wurde. Das was die Kompositionen besonders macht, sind die Ideen hinter den Gesangseinlagen.
+
+::genre::symphonic deathcore, digi deathcore
 
 ## Blurstem - Fallen Fragments
 
