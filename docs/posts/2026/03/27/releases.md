@@ -175,183 +175,171 @@ Das erste pure Solo-Release der amerikanischen Jazz-Saxophonistin, Komponistin u
 
 ## Central Cee - All Roads Lead Home
 
-tbd
+Die neueste EP des britischen Rappers Oakley Neil Caesar-Su. Eine der führenden Figuren im UK Drill spitted seine Rhymes in eine mehr melodische, aufmunterende und nähere Art des Genre. Neben UK Drill kommen hier Elemente des R&B, Pop Rap, Trap, Dancehall und Afrobeat auf den Mix-Teller.
 
-::genre::
+::genre::uk drill, trap, r&b, dancehall
 
 ## Chamber - This Is Goodbye...
 
-tbd
+Die amerikanische Combo mit ihrem neuesten Full-Length. Oft als "Psychotic Mosh Metal" bezeichnet - eine rasante Mischung aus Metallic Hardcore und Mathcore, die sich durch dissonante Akkorde, ungerade Taktarten und Blast Beats auszeichnet. Auf diesem Output werden mehr Experimente mit Clean Vocals und glitchy Electronica-Elemente.
 
-::genre::
+::genre::mathcore, metalcore, post hardcore, metallic hardcore
 
 ## Chaosaddiction - Kintsugi
 
-tbd
+Das portugiesische Outfit mit seinem neuesten Studiowerk. Eine energiegeladene Bombe des klassischen Groove Metal, welche Strukturen von Thrash Metal, Metallic Hardcore und Death Metal in seine Kompositionen einflechtet. Kompromislos wird das Tempo in den Songs gedrosselt, um am Ende wieder Fahrt aufzunehmen. 
 
-::genre::
+::genre::groove metal, thrash metal, metallic hardcore, osdm
 
 ## Charlie Puth - Whatever's Clever!
 
-tbd
+Der amerikanische Singer & Songwriter, Producer, Pianist und Sänger mit seinem neuesten Release. Der frischgebackene Vater macht mit diesem Werk einen Sprung vom "Cookie-Cutter-Pop" zu "Dad Rock". Eine Mischung aus Pop Rock, Yacht Rock, Synth Pop und Disco wird durch die Ohren geblasen und mit entsprechenden "Dad-Lyrics" und 80s Feeling versehen.
 
-::genre::
+::genre::pop rock, synth pop, yacht rock, alt pop, disco
 
 ## Charlotte Cornfield - Hurts Like Hell
 
-tbd
+Die kanadische Singer & Songwriterin mit ihrem neuesten Release. Das Album stellt einen wichtigen kreativen Wendepunkt dar und entstand nach der Geburt ihrer Tochter im Jahr 2023. Diese Erfahrung veränderte ihre Perspektive: Statt sich auf sich selbst zu konzentrieren, nahm sie nun einen abgesetzten Blickwinkel ein, was sich in den Texten widerspiegelt, die nun Figuren und Themen jenseits ihrer unmittelbaren Gedankenwelt beleuchten. Stillistisch werden Alternative Folk, Indie Folk, Folk Rock und Americana fusioniert und in den Fokus der lyrischen Untermalung gesetzt.
 
-::genre::
+::genre::indie folk, alt folk, folk rock, americana, country folk
 
 ## Chez Kane - Reckless
 
-tbd
+Die britische Singer & Songwriterin mit ihrem neuesten Studio-Album. Ein historische Reise in die 80er, als Rock immer melodischer und zugänglicher für die Radios und Arenen wurde. Stellt euch einen Sommer-Blockbuster aus dem Jahr 1989 in Audioform vor. Er ist explosiv, unapologetisch sexy und steckt voller mitreißender Hooks und Saxophon-Soli, die das Publikum in den Bann ziehen - so sehr, dass einem allein beim Zuhören die Haare um acht Zentimeter wachsen. Es ist ein energiegeladenes Fest aus Powerballaden und mitreißenden Hymnen.
 
-::genre::
+::genre::hard rock, heavy rock, arena rock
 
 ## Collin Sherman - Ouroborosuite
 
-tbd
+Der amerikanische Multi-Instrumentalist mit seinem neuesten One-Man-Ensemble Full-Length. In seinem Heimstudio überlagert er verschiedene Instrumente wie Holzblasinstrumente, Synthesizer und sogar Percussion-Klänge einer Schreibmaschine. Dieses Stück ist ein echter Denkanstoß. Mit dem Ouroboros (der Schlange, die ihren eigenen Schwanz frisst) als Metapher für die Vereinigten Staaten thematisiert die Musik politische Verzweiflung und den Kreislauf der Selbstzerstörung. Freut euch auf eine zum Nachdenken anregende Mischung aus hupenden und kreischenden Saxophonen, gepaart mit eindringlichen, synthlastigen Klanglandschaften - es ist der Soundtrack zu einer tiefgründigen, leicht beunruhigenden nächtlichen Kontemplation.
 
-::genre::
+::genre::avant jazz, experimental jazz, experimental electronica, ambient, improvisation
 
 ## Courtney Barnett - Creature Of Habit
 
-tbd
+Die australische Formation mit ihrem neuesten Output. Die Founderin von Milk! Records bringt eine Fusion aus Slacker Rock, Indie Rock, Indie Folk und Art Rock unter die Massen. Barnett ist die Meisterin darin, das Alltägliche monumental wirken zu lassen. Dieses Album beschäftigt sich mit Schreibblockaden, Selbstzweifeln und dem beunruhigenden Gefühl, wenn man seine Gewohnheiten ändert. Es ist unbeholfen-cool, nachvollziehbar und überraschend fröhlich. In einem Moment ertrinkst du im Spülbecken, im nächsten bleibst du auf deiner Spur - es ist eine kluge, klirrende Gitarren-Pop-Umarmung für alle, die sich ein bisschen in ihrer Routine festgefahren fühlen.
 
-::genre::
+::genre::slacker rock, indie rock, indie folk, art rock
 
 ## Cruel Force - Haneda
 
-tbd
+Die deutsche Kapelle mit ihrem neuesten Longplayer. Die Kultband aus dem Untergrund hat sich 2022, nach einer 10 jährigen Pause, wiedervereint. Von ihren rauen und rohen Blackened Thrash Wurzeln haben sie sich ein wenig entfernt und gehen mehr in die Speed/Thrash Metal Richtung ihrer 80er Helden. Haneda ist ein Leitfaden des Old-School-Speed-Metal, der sich wie eine Zeitmaschine ins Jahr 1985 anfühlt. Es ist eine wilde und triumphale Reise voller Maschinengewehr-Riffs, Leder-und-Nieten-Energie und einem gewaltigen, neunminütigen Titeltrack, der den Kreis ihrer filmischen Erzählung schließt. Es ist das klangliche Äquivalent eines mit Stacheln besetzten Handschuhs, der einem ins Gesicht geschleudert wird.
 
-::genre::
+::genre::speed metal, thrash metal
 
 ## Cry Club - High Voltage Anxiety
 
-tbd
+Das australische Outfit mit seinem neuesten Output. Sie verbinden die Dringlichkeit des klassischen Punk mit der ausgefeilten, schweißtreibenden Energie einer Rave-Party in einem Lagerhaus. Dies ist der Soundtrack für eine Fackel-und-Heugabel-Party der heutigen Zeit. Das Album, das sich mit Themen wie der Lebenshaltungskostenkrise und dem Festhalten an der Hoffnung mit geballter Faust auseinandersetzt, ist ein verwüstender Ausbruch aus Wut und Rhythmus. Es ist eingängig, es ist wütend und es ist wie geschaffen für alle, die sich durch eine Panikattacke tanzen wollen.
 
-::genre::
+::genre::electropunk, pop punk, industrial
 
 ## Cryptworm - Infectious Pathological Waste
 
-tbd
+Die britische Formaiton mit ihrem neuesten Full-Length. Reiner Old-School-Death-Metal und Gore-Grind. Ihr Sound ist von den fauligen und höhlenartigen Stilen des Extreme Metal der frühen 90er Jahre geprägt. So ekelhaft, wie der Titel vermuten lässt, ist dieses Album ein von Maden befallener Brocken Death-Metal-Verwesung. Mit Stücken wie Gallons of Molten Hominal Goo bietet es ein Schocktrauma aus gurgelndem Gesang und aufstürzender Gitarrenarbeit. Es ist hypnotisch, dreckig und hat einen krampfenden Schließmuskel, der nicht loslässt - ideal für Fans, die es mögen, wenn ihre Musik klingt, als würde sie verrotten.
 
-::genre::
+::genre::osdm, goregrind
 
 ## Dan Lucas - Age Is Just A Number
 
-tbd
+Der deutsche Rock-Veteran mit seinem neuesten Output. Sein Sound ist tief in der Rocktradition der späten 80er Jahre verwurzelt. Dieses Album hält genau das, was es verspricht: eine energiegeladene, lebensbejahende Hommage an den Rock’n’Roll, der sich einfach nicht zur Ruhe setzen will. Es ist rockig und melodisch und steckt voller pointierter Reflexionen über ein Leben auf Tour. Lucas’ Stimme ist kraftvoll wie eh und je und beweist, dass die Riffs ewig bleiben, auch wenn die Zeit vergeht. Es ist der perfekte Soundtrack für eine Autofahrt mit heruntergelassenen Fenstern und aufgedrehter Lautstärke.
 
-::genre::
-
-## Daniel Rotem - Solo II - Under Construction at bluewhale
-
-tbd
-
-::genre::
+::genre::melo rock, hard rock, heavy rock, arena rock
 
 ## Danya Pilchen, Kali Ensemble - Paper Braids
 
-tbd
+Die Kollaboration zwischen der ukrainischen Komponistin Danya Pilchen und dem niederländischen Kali Ensemble ist das Ergebnis einer vierjährigen Forschungsarbeit darüber, wie Klang mit bestimmten architektonischen Räumen interagiert. Ein Experiment welches Frequenzen von Experimental Electronica, Ambient Acoustic und Minimal Electronica zusammenführt. "Paper Braids" ist eine intellektuelle Reise, bei der durch den Einsatz von Pfeifenorgeln und akustischem Feedback ein Konzertsaal in ein lebendiges, atmendes Instrument verwandelt wird. Es ist akribisch und zerbrechlich - wenn man es auflegt, könnte man meinen, es passiere nichts, doch dann manifestiert sich langsam ein hoher, geisterhafter Ton, der sich um den Kopf schlingt. Es ist eine intellektuelle, meditative Erfahrung, die verlangt, dass man alles stehen und liegen lässt und einfach nur zuhört.
 
-::genre::
+::genre::experimental electronica, avant electronica, ambient acoustic, minimal electronica
 
 ## Dark Heart - Evolution
 
-tbd
+Nach dem die Band sich in den 2020er revitalisiert hat, bringen sie nun ihren neuesten Longplayer auf dem Mark. Obwohl ihre Wurzeln in der NWOBHM liegen, tendiert diese neue Ära eher zu ausgefeiltem Melodic Rock und Hard Rock. "Evolution" ist eine raffinierte und temperamentvolle Reise durch die schönsten Klangwelten des Classic Rock. Vom progigen Auftakt von "Light The Flame" bis zum bluesigen, stimmungsvollen "Cold Winter" zeigt das Album eine Band, die rohe Aggressivität gegen ausgereiftes Songwriting und mitreißende Refrains eingetauscht hat. Es ist eine mitreißende Erinnerung daran, dass Classic Rock nie aus der Mode kommt.
 
-::genre::
+::genre::melo rock, hard rock, arena rock
 
 ## Dave Adewumi - The Flame Beneath the Silence
 
-tbd
+Der amerikanische Jazz Trompeter mit seinem Debüt als Band-Lead. Eine Live-Improvisation, welche die Welten zwischen zeitgenössischen und modernen Jazz verschwimmen lässt. Dieses Album ist intensiv und introspektiv und nutzt Stille als rhythmische Komponente, um ein Gefühl politischer und existenzieller Dringlichkeit zu erzeugen. Mit einem kraftvollen Trio, bestehend aus Joel Ross (Vibraphon) und Linda May Han Oh (Bass), schafft Adewumi eine klangliche Suite, die ebenso schön wie beunruhigend ist. Es ist intellektueller Jazz mit einem Kern, der die Seele offenbart.
 
-::genre::
+::genre::contemporary jazz, modern jazz, avant jazz
 
 ## Dave Brøns - The Fellowship
 
-tbd
+Der britische Gitarren-Virtuose mit seinem ersten Solo-Output, für welches er drei weitere Musiker/Musikerinnen um sich versammelt um ein Quartet zuschaffen. Eine fantasitische Auseinandersetzung mit Celtic Folk, Symphonic Rock und Progressive Rock. Dies ist eine filmische Odyssee, die Sie direkt nach Mittelerde entführen soll. Mit ätherischem Gesang, Uilleann Pipes und einem "100-köpfigen Chor" begleitet die Musik die Reise des Rings durch 15 Titel voller feuriger Gitarrenriffs und orchestraler Pracht. Es ist absurd unterhaltsam und perfekt für alle, die sich ihren Prog-Rock wie einen High-Fantasy-Blockbuster wünschen.
 
-::genre::
+::genre::symphonic metal, progressive rock, celtic folk, cinematic folk, ambient folk
 
-## Dave Harringtonand, Tim Mislock - Isle of Palms
+## Dave Harringtonand, Tim Mislock - Isle of Palms *
 
-tbd
+Die Kollaboration zwischen den amerikanischen Multi-Instrumentalisten und Producer Dave Harringtonand (DARKSIDE) und den amerikanischen Gitarristen Tim Mislock (ex-Antony and the Johnsons, ex-The Antlers) birgt einen experimentellen Exkurs durch Ambient, Avant-Garde Rock, Art Rock, Post Rock, Experimental Electronica, Indie Folk, Americana und Dark Jazz. "Isle of Palms" ist wie eine Gewichtsdecke für die Ohren. Es ist ein eindringliches, träumerisches Erlebnis, bei dem Harringtons charakteristische gletschergleiche Gitarrenklänge auf Mislocks zarte Klangtexturen treffen. Es fühlt sich weniger wie eine Sammlung von Songs an, sondern eher wie ein Spaziergang durch einen digitalen Wald im Morgengrauen - intim, ein wenig eindringlich und perfekt für den Moment, in dem man sich in seinem eigenen Wohnzimmer angenehm verloren fühlen möchte.
 
-::genre::
-
-## David Gray - Nightjar
-
-tbd
-
-::genre::
+::genre::indie folk, americana, experimental electronica, ambient, post rock, avant rock, art rock, post rock, dark jazz, instrumental
 
 ## Dead Finks - New Plastik Abyss
 
-tbd
+Das australisch/neuseeländische Duo, welches sein neues Zuhause in Berlin gefundet hat und dies auch in seinen industriellen Sound wiederspiegelt. Dieses Album ist eine nervöse, farbenfrohe Explosion voller Selbstbewusstsein. Die Band tauscht einen Teil ihrer früheren Rauheit gegen schimmernde Gitarren und eingängige Pop-Songs ein und geht dabei mit unerschütterlicher Ehrlichkeit an schwere Themen wie Sucht heran. Es ist der Sound einer Band, die ihr offenherziges Zentrum findet, ohne dabei ihre Schärfe zu verlieren. Es ist perfekt chaotische Musik für einen Spaziergang durch eine neonbeleuchtete Stadt um 3 Uhr morgens.
 
-::genre::
+::genre::post punk, shoegaze, art rock, punk rock
 
 ## Deadnate - Mosaic
 
-tbd
+Die dänische Formation mit ihrem neuesten Release. Die Band wandelt sich von Album zu Album und verrückt seinen Sound immer mehr weg vom Thrash hin zum Progressive Metal. Stell dir vor, ein Mathematikbuch würde Zähne bekommen und anfangen, Headbanging zu machen. "Mosaic ist ein Meisterwerk des kontrollierten Chaos - es hat diese wuchtigen Riffs im Gojira-Stil, die dich dazu bringen, gegen eine Wand zu schlagen, aber gleichzeitig genug atmosphärische Melodien, damit du dich dabei kultiviert fühlst. Es ist das musikalische Äquivalent eines Rubik-Würfels aus Granit.
 
-::genre::
+::genre::progressive metal, tech thrash metal
 
 ## Defacing God - Darkness Is My Crown
 
-tbd
+Das neueste Full-Length der dänischen Kapelle. Symphonischer Black Metal, welcher viele Einflüsse aus dem Death Metal mit in sich führt. Dieses Album gleicht einer nächtlichen Séance in einer Kathedrale, die langsam vom Wald zurückerobert wird. Es ist grandios, theatralisch und erschreckend rasant. Sandies Gesang klingt, als wäre er vom Grund eines verwunschenen Brunnens heraufgeschabt worden, und die symphonischen Klänge verleihen jedem einzelnen Titel die Atmosphäre einer Bösewicht-Entstehungsgeschichte.
 
-::genre::
+::genre::symphonic black metal, blackened death metal
 
 ## Defying Decay - Synthetic Sympathy
 
-tbd
+Die Thailänder mit ihrem neuesten Release. "Hyper-Pop-Metal", der Metalcore und Nu-Metal mit der Energie des K-Pop und EDM-Elementen verbindet. Wenn es in einem Cyberpunk-Film einen Moshpit gäbe, wäre dies der Soundtrack dazu. Synthetic Sympathy ist ein neonbeleuchteter Fiebertraum, der ohne mit der Wimper zu zucken von eingängigen Pop-Hooks zu knochenerschütternden Breakdowns wechselt. Es ist laut, es ist glitzernd, und es ist wohl der größte Spaß, den man haben kann, während man die Struktur der Realität hinterfragt.
 
-::genre::
+::genre::modern metalcore, nu metal, alt metal, edm, electronicore
 
 ## Dermont Kennedy - The Weight of the Woods
 
-tbd
+Das neueste Release des irischen Singer & Songwriters. Eine Mischung aus Folk-Wurzeln, Pop und gefühlvollem Geschichtenerzählen. Dieses Album fühlt sich an wie ein langer, ehrlicher Spaziergang durch einen feuchten irischen Wald. Es tauscht einen Teil seines früheren Stadion-Pop-Glanzes gegen eine gelebte Akustik ein und enthält sogar Geräusche wie Wind, der durch Strommasten rauscht, und Schnee, der unter den Füßen knirscht. Es ist verletzlich, bodenständig und fängt das Gefühl von Hoffnung in der Dunkelheit perfekt ein.
 
-::genre::
+::genre::indie folk, folk pop, prog pop, alt folk
 
 ## Devil Electric - Tahlia
 
-tbd
+Die australische Doom-Kapelle mit ihrem neuesten Longplayer. "Tahlia" ist ein Meisterwerk des Riffs. Der Song ist stimmungsvoll, fesselnd und besticht durch den kraftvollen Gesang von Pierina O'Brien, die in einem einzigen Atemzug von einem rauchigen Knurren zu einem himmelhohen Schrei wechseln kann. Es ist ein langsamer Abstieg in die dunkleren Seiten des Lebens, der einem dennoch ein Gefühl der Stärke vermittelt.
 
-::genre::
+::genre::doom metal, stoner rock, psych rock
 
 ## Devils Cigarette - Meet Me On The Floor Tonight
 
-tbd
+Die schwedische Heavy-Formation mit ihrem neuesten Output. Wenn du einen richtigen Adrenalinkick brauchst, dann ist das hier genau das Richtige. Es ist laut, schnell und absolut kompromisslos. Die Produktion (verfeinert von Robert Pehrsson) bewahrt den rauen Garagen-Sound und schärft die Hooks gleichzeitig so sehr, dass sie fast schon wehtun. Es ist der Sound einer jungen Band, die sich in Echtzeit und bei voller Lautstärke ihren Weg bahnt.
 
-::genre::
+::genre::garage rock, heavy rock, proto punk rock
 
 ## Dionysiaque - La Tourbe Des Rêves
 
-tbd
+Die französischen Doomer mit ihrem neuesten Full-Length. Dieses Album fühlt sich an wie ein langsamer, bedächtiger Spaziergang durch einen nebelverhangenen Friedhof. Es ist torfig (wie der Titel schon andeutet) – dicht, organisch und zutiefst atmosphärisch. Es schafft es, zugleich erdrückend schwer und auf seltsame Weise schön zu sein, so als fände man eine einzelne blühende Blume in einem Feld aus Vulkanasche.
 
-::genre::
+::genre::doom metal, stoner metsl, heavy metal
 
 ## Divine Chaos - Hate Reactor
 
-tbd
+Die britische Kapelle mit ihrem neuesten Release. Eine Melange aus Thrash Metal und Technical Death Metal, welche progressive und aggressive Töne in sich bindet. Dieses Album ist im Grunde genommen eine kontrollierte Sprengung in musikalischer Form. Es ist schnell, technisch anspruchsvoll und klingt, als wäre es in einem brennenden Düsentriebwerk aufgenommen worden. Wenn du nach einem Soundtrack gesucht hast, zu dem du (natürlich auf verantwortungsvolle Weise) gegen eine Mauer schlagen kannst, dann ist Hate Reactor dein neuer bester Freund.
 
-::genre::
+::genre::tech thrash metal, tech death metal. prog metal
 
 ## Dobrawa Czocher - State of Matter
 
-tbd
+Die polnische Cellisin und Komponistin mit ihrem neuesten Solo-Werk. Dieses Album ist eine lebendige, atmende Meditation. Es ist nicht einfach nur Cellomusik - es ist eine klangliche Erkundung von Wasser, Luft und festem Boden. Wenn man es hört, fühlt es sich an, als würde man in eine sehr teure, sehr schwere Wolldecke gehüllt sein, während man einen Sturm über dem Meer beobachtet. Es ist von eindringlicher Schönheit und wirkt zutiefst beruhigend.
 
-::genre::
+::genre::modern classic, neo classic, ambient, minimal electronica
 
 ## DomJord - Morgonglöd
 
-tbd
+Das Solo-Projekt von Daniel Änghede (Crippled Black Phoenix, Venus Principle) mit seinem Full-Length. Es ist von der Elektronik der Berliner Schule der 70er Jahre und modernen cineastischen Klanglandschaften inspiriert. "Morgonglöd" bedeutet so viel wie "Morgenglühen", und die Musik macht ihrem Namen alle Ehre. Sie klingt, als würde die Sonne langsam über einem skandinavischen Kiefernwald aufgehen. Sie ist synthielastig, wirkt aber dennoch organisch und vermittelt eine verträumte Retro-Future-Stimmung, die perfekt für nächtliche Autofahrten oder den Kaffee am frühen Morgen ist.
 
-::genre::
+::genre::ambient, cinematic ambient, vaporwave, synth wave, minimal electronica
 
 ## Don Broco - Nightmare Tripping
 
