@@ -9,145 +9,121 @@ categories:
 
 # Releases! Releases! Releases!
 
-## Acidosis - Arrival
-
-tbd
-
-::genre::
-
 ## ADULT. - Kissing Luck Goodbye
 
-tbd
+Das amerikanische Duo mit seinem neuesten Output. Eine dystopische Reise durch Synth-Punk oder Electropunk. Der Sound dieses Albums zeichnet sich dadurch aus, dass er eindringlicher, aggressiver und kompromissloser ist als ihre früheren Werke. Der Sound ist geprägt von den Stilen des Industrial, Post-Punk und der frühen Wax Trax! Records aus den 1980er Jahren.
 
-::genre::
+::genre::idm, electropunk, synth pop, post punk
 
 ## Adversam - Daimon
 
-tbd
+Das Sophomore Full-Length der italienischen Formation. Eine nihilistische und psychologische Auseinandersetzung mit C.G. Jung und Gustavo Rol, welche das menschliche Bewusstsein, die Existenz und die Natur des Bösen in seine dunklen Kompositionen einbindet. Eine melodische, aggressive, progressive und technische avasierte Fusion aus Black Metal, Melodic Black Metal, Post Black Metal, Mathcore und Post Hardcore.
 
-::genre::
-
-<!-- more -->
+::genre::melodic black metal, prog black metal, avant black metal, mathcore, post hardcore
 
 ## Aggressive Perfector - Come Creeping Fiends
 
-tbd
+Das britische Powertrio mit seinem Sophomore Longplayer. Ein nostalgisches Werk, welches die "Alten Herren" des Proto Black Metal eine gelunge Huldigung bietet. Ein aggressiver, punk-y, dunkler und bieter böser Mix aus Speed Metal, NWOBHM und Thrash Metal, welcher mit einer gewissen "F*** U" Attitüde dargeboten wird, um die Kompositionen möglichst rau und unbelassen erscheinen zu lassen.
 
-::genre::
+::genre::nwobhm, speed metal, thrash metal, proto black metal
+
+<!-- more -->
 
 ## Aidan Baker, rsn - Bottom Layers of a Surface
 
-tbd
+Die beiden Left-Field Legenden testen ihr kreatives Schaffen. Der kanadische Multi-Instrumentalist Aidan Baker und der deutsche Sound-Designer Thomas Rosen vereinen dabei ihre Sound-Frequenzen mit der "xenochrony" Technik. Dabei wurden hier Bass (Rosen) und Piano (Baker) ohne Wissen voneinander aufgenomme. Die daraus entstehenden Klanglandschaften kann man als greifbar und intuitiv beschrieben; sie sollen eher ein Gefühl der Präsenz erzeugen, als zu beeindrucken.
 
-::genre::
+::genre::experimental ambient, drone, neo classic, field recordings
 
 ## Ain Sof Aur - Theos-Vel-Samael
 
-tbd
+Das Sophomore Release der brasilianischen Kapelle. In drei Akten repräsentiert die Band "Visio" (Vision), "Vires" (Kraft) und "Actio" (Handlung). Der Sound entwickelt sich vom hypnotischen, tranceartigen Klang des ersten Satzes hin zu einem aggressiven, vom Death Metal geprägten Finale im dritten Akt. Die Musik ist düster, episch und reich an okkulter Symbolik, wobei der Schwerpunkt insbesondere auf drakonischen Strömungen, dem Chaos-Gnostizismus und dem Pfad der Linken Hand liegt. Eine Abhandlung, welche Avant-Garde Metal, Blackened Death Metal, Doom Metal und Experimental Metal in ihrer aufsteigenden Aggressivität fusioniert.
 
-::genre::
+::genre::blackened death metal, avant metal, experimental metal, doom metal
 
-## Alexander IV - Alchemist
+## Alexander IV - Alchemist *
 
-tbd
+Das Debüt des neuen Projekts um den niederländischen Multi-Instrumentalisten, Komponisten und Producer Joris Feiertag. Eine Reise durch 13 Titel, die jazzige Beats, Neo-Soul-Grooves, Downtempo und Hip-Hop-Rhythmen miteinander verbindet. Es stützt sich stark auf samplebasierte Handwerkskunst - das sorgfältige Zerlegen und Umkehren von Fragmenten, um neue musikalische Welten zu erschaffen. So entsteht ein Werk des Trip Hop, welches Hip Hop, Neo Soul und Nu Jazz in sich trägt.
 
-::genre::
-
-## Andy McCoy - 21st Century Rocks
-
-tbd
-
-::genre::
+::genre::trip hop, hip hop, neo soul, acid funk, nu jazz
 
 ## Antrisch - Expedition III: Renitenzpfad
 
-tbd
+Das deutsche Duo mit seinem Sophomore Full-Length. Eine brillante Komposition mit stimmungsvollen Riffs und einem charismatischen Sänger, wobei insbesondere der fesselnde Wahnsinn hervorgehoben wird, der in der Erzählung zum Ausdruck kommt. Ein dynamischer Wechsel zwischen aggressiven, messerscharfen Black-Metal-Riffs und atmosphärischen, melodischen Passagen. Der äufige Einsatz von gesprochenen Einleitungen und Soundeffekten (wie beispielsweise Geräusche aus der Seefahrt oder dem Dschungel), soll die narrative Erzählung zu unterstreichen. Das Songwriting schwebt zwischen Atmospheric Black Metal und Post Black Metal.
 
-::genre::
+::genre::atmo black metal, post black metal
 
 ## Artemas - getting up to no good
 
-tbd
+Der britische Singer & Songwriter und Producer Artemas Diamandis mit seinem neuesten Output. Das Projekt knüpft an seinen weltweiten Durchbruch an und führt die „stimmungsvolle, fesselnde“ Klangwelt fort. Ein modernes und dunkles Werk, welches R&B, EDM, IDM, Alternative Pop, Dark Wave, ELectrpop und Glitch fusioniert. Trotz den ausgewogenen Songwriting kommt nicht wirklich ein zusammenhängendes Werk zustande, was am Ende wie eine Zeitverschwendung wirkt.
 
-::genre::
+::genre::alt pop, electropop, dark wave, idm, edm, r&b, glitch
 
 ## Ashen Sun - Velarium
 
-tbd
+Die Debüt EP des Projekts um den schwedischen Singer & Songwriter und Bassisten Johnny Hagel (ex-Tiamat, ex-Sundown). Ein nostalgisches Werk des Gothic Rock, welches sich eher voranschleppt, als einen Eindruck zu hinterlassen. Gesichtsloses und leeres Songwriting, welches keine Kraft, Inspiration und Individualität besitzt. Von einen ehemaligen Songwriter Tiamat's habe ich doch mehr verlangt.
 
-::genre::
+::genre::gothic rock
 
 ## AySay - Mal
 
-tbd
+Das neueste Full-Length des dänischen Trios. Der Sound verbindet traditionelle Instrumente wie die Saz (Baglama) und die Darbuka mit zeitgenössischen Pop-Arrangements und knackiger Electronica. Ersahins Gesang wechselt oft zwischen Dänisch, Kurdisch und Türkisch. Der Titel "Mal" bedeutet auf Kurdisch "Zuhause". Das Album beschäftigt sich mit Identität, Migration und dem kollektiven Zuhause aus Widerstandskraft und Erinnerung und ist dabei teilweise von der Biografie von Malala Yousafzai inspiriert. 
 
-::genre::
+::genre::world music, indie pop, prog pop, funk, soul
 
 ## Barbaric Oath - Sword, Sorcery, Vengeance
 
-tbd
+Das deutsche Duo mit seiner Debüt EP. Es bietet unaufhörliche Riff-Salven, brutale Bass-Attacken und Gesang, der von grauenhaftem Gebrüll bis hin zu verzweifelten Schreien reicht -  alles in etwa 21 Minuten wirbelstürmischer Gewalt. Die Kompositionen des traditionellen Blackened Death Metal werden durch ihre Liebe zu B-Movies und dem RP-Game Heroquest mit entsprechende Samples versehen.
 
-::genre::
+::genre::blackened death metal
 
 ## Bekor Qilish - Consecrated Abysses Of Dread
 
-tbd
+Das Solo-Projekt um den italienischen Multi-Instrumentalisten Andrea Bruzzone mit seinem neuesten Output. Das Werk ist als ein einziges, ausuferndes Stück von etwa 30 Minuten Länge konzipiert, das sich durch verzerrte, epileptische Riffs, stürmische Rhythmen und harte elektronische Ausbrüche auszeichnet. Die Melodien scheinen oft auf eine Weise aufzutauchen und wieder zu verschwinden, was an den modalen Jazz erinnert. Eine musikalische Auseinandersetzung mit Avant-Garde Metal, Progressive Metal, Mathcore, Blackened Death Metal und Experimental Metal.
 
-::genre::
+::genre::avant metal, blackened death metal, mathcore, experimental metal
 
 ## Ben McElroy - Allotment Tapes #3: We Are All Visitors Here
 
-tbd
+Die neueste Installation der monatlichen "Allotment Tape" Serie des britischen Multi-Instrumentalisten. "Allotment Tapes" ist ein fortlaufendes Projekt, das sich um die St. Anns Allotments in Nottingham dreht, die älteste und größte Kleingartenanlage Europas. Diese spezielle Folge entstand in Zusammenarbeit mit Rachel Brooke. Der Klang zeichnet sich durch Black-Hole-Drones, bearbeitete akustische Texturen (Cello, Violine, Viola, Klarinette) und Fundstücke aus. Eine Mischung aus Ambient Folk, moderner Klassik und Drone, bei der häufig Feldaufnahmen und Interviews zum Einsatz kommen.
 
-::genre::
-
-## Bernard Butler, Norman Blake, James Grant - Murmurs
-
-tbd
-
-::genre::
+::genre::ambient folk, modern classic, drone, field recordings
 
 ## Big Harp - Runs to Blue
 
-tbd
+Das amerikanische Ehepaar mit neuen Kompositionen, nach über 10 Jahren Release-Pause. Ihr am einfachsten klingendes und reduziertestes Album wurde komplett live im Studio aufgenommen und besteht lediglich aus Akustikgitarre, Bass und ihren beiden eng miteinander verwobenen Stimmen. Der Sound ist von der Tradition des American Primitive und der klassischen Folk-Erzählkunst geprägt. Senseney strebte unverblümte Texte an, bei denen direkte Kommunikation Vorrang vor Wortspielen hat.
 
-::genre::
+::genre::americana, country folk, alt folk
 
 ## Black Label Society - Engines Of Demolition
 
-tbd
+Der neueste Longplayer der amerikanischen Formation, welche im Grunde Zakk Wylde & Guests betitelt werden könnte. Geboten werden mitreißende Riffs, Pinch-Harmonics und bluesgetränkte Soli, im Kontrast zu gefühlvollen Klavier- und Akustikballaden. Eine Melange aus Groove Metal, Hard Rock, Heavy Rock und Southern Metal.
 
-::genre::
+::genre::southern metal, groove metal, hard rock, heavy rock, doom rock
 
-## Blasart - Depravatus Christianis Sacris
+## Bnnyhunna - PSALM FUNK
 
-tbd
+Der niederländische Multi-Instrumentalist Benjamin Ankomah mit seinem Sophomore Release. Es zeichnet sich dadurch aus, dass es Bnnyhunnas musikalisches Spektrum erweitert, indem es Rhythmus und Raum neben Harmonie und Lyrik als narrative Elemente in den Vordergrund rückt. Eine raffinierte Verschmelzung von Jazz, Funk, Gospel und afrikanischen Rhythmus-Traditionen.
 
-::genre::
+::genre::funk, neo soul, r&b, acid jazz, gospel, afrobeat
 
 ## Bobby Selvaggio - Red Rhinoceros
 
-tbd
+Der Album Titel weißt im Grunde auf das amerikanische Oktett "Red Rhinoceros" hin, welches durch den renommierten amerikanischen Jazz-Saxophonisten und Komponisten Bobby Selvaggio angeführt wird. Das Oktett zeichnet sich durch reichhaltige Harmonien und eine komplexe Instrumentierung aus, die speziell auf den individuellen Stil seiner Mitglieder zugeschnitten ist. Eine harmonische Kompositionen, welche Modern Jazz und zeitgenössischen Jazz fusioniert und auch vor den ein oder anderen Jazz Fusion Einflüssen Abstand nehmen kann.
 
-::genre::
+::genre::modern jazz, contemporary jazz, jazz fusion
 
 ## bod kin - bod kin
 
-tbd
+Der italienische Multi-Instrumentalist und Producer Dario Gatto mit seinem Debüt Output. Eine Dekonstruktion von Art Pop, Neo Psychedelia und Electronic Folk, welche im vereinten Sinne Kompositionen von Avant-Garde Electronica, Noise und Grime erschafft. Blitzartig werden die einzelnen Samples so tief verschachtelt, dass Strukturen zu Phrasen werden und Melodien und Fragmenten.
 
-::genre::
-
-## Brisinga - Rad
-
-tbd
-
-::genre::
+::genre::experimental electronica, avant electronica, grime, noise
 
 ## Brooddark - Deliro
 
-tbd
+Der belarusische Producer Yaroslav Gavrilyuk mit seinem neuesten Longplayer. Ein fragmentale Soundkulisse des Schreckens, welche Strukturen von Drone, Dark Ambient, Deep Ambient und Experimental Electronica zu einer Sonnenfinsternis der Frequenzen vereint. Die Produktion bedient sich verarbeiteter Elektronik, Rückkopplungen und rauer Texturen, die aus ungewohnten Klangmaterialien wie Schabgeräuschen und Pieptönen entstehen.
 
-::genre::
+::genre::dark ambient, experimental electronica, deep ambient, drone
 
 ## Bruno Duplant - athanor
 
@@ -157,9 +133,9 @@ Der französische Komponist und Multi-Instrumentalist mit seinem neuesten Longpl
 
 ## Buzzy Lee - Shoulder to Shoulder
 
-tbd
+Das neueste Studio-Album der amerikanischen Singer & Songwriterin, Writerin und Schauspielerin Sasha Spielberg (Korrekt. Tochter von Steven Spielberg). Ein theatralisches und experimentelles Werk des Indie Pop, welches Elemente von Progressive Pop, Art Pop und Alternative Folk aufnimmt. Von der Dunkelheit aus ihrem Vorgänger ist ein leuchtendes und emotionales Songwriting geworden.
 
-::genre::
+::genre::synth pop, indie pop, prog pop, art pop, alt folk, indie folk
 
 ## Cannons - Everything Glows
 
@@ -389,7 +365,19 @@ tbd
 
 ::genre::
 
+## Emika - Fountain
+
+tbd
+
+::genre::
+
 ## Emil Mark - Mellemtid
+
+tbd
+
+::genre::
+
+## Emily Bowen - The Way She Says Goodbye
 
 tbd
 
@@ -492,6 +480,12 @@ tbd
 ::genre::
 
 ## Good Riddance - Before The World Caves In
+
+tbd
+
+::genre::
+
+## Gordon Grdina, Russ Lossing - TURNPIKE
 
 tbd
 
@@ -666,12 +660,6 @@ tbd
 ::genre::
 
 ## Lion's Share - Inferno
-
-tbd
-
-::genre::
-
-## Lion’s Share - Inferno
 
 tbd
 
@@ -1349,6 +1337,12 @@ tbd
 
 ::genre::
 
+## Мир сказок, Кирилл Головин - Еврейские сказки
+
+tbd
+
+::genre::
+
 ---
 
 # Earlier the week ...
@@ -1490,3 +1484,9 @@ Das Sophomore Release der kanadischen Formation. Eine rebellische, intensive und
 Das Debüt der koreanischen Künstlerin, welche das jüngste Mitglied der Süd Koreanischen Girl Group "ITZY" ist. Eine Komposition des Bubblegum Pops, welche mit elektronischen und dance Elementen versehen wurde. Ein Release, welches einen aus dem Tiefen des Alltags befreien möchte, wenn man diese Tiefen verspührt.
 
 ::genre::bubblegum pop, alt pop, dance, edm
+
+## ZUTOMAYO - KEISOUDO
+
+Das mysterische Projekt aus Japan mit seinem neuesten Longplayer. Wie es sich für J-Pop und J-Rock gehört, wird ein wilder und progressiver Mix aus Alternative Rock, Jazz Fusion, Electropop, Art Pop, Avant-Garde Rock und Progressive Pop geliefert und in ein passendes mysterisches Kleid verpackt.
+
+::genre::alt rock, art rock, art pop, jazz fusion, avant rock, prog pop, j-pop, j-rock

@@ -374,7 +374,7 @@ def _create_release_content(
     return "\n".join(content)
 
 
-def _build_statistics(incoming: list[ReleaseCollection], existing: list[ReleaseCollection]) -> dict[str, Any]:
+def _build_statistics(mkdocs_file_path: Path, incoming: list[ReleaseCollection], existing: list[ReleaseCollection]) -> str:
     total_incoming = sum(len(collection.releases) for collection in incoming)
     total_existing = sum(len(collection.releases) for collection in existing)
 
@@ -397,17 +397,29 @@ def _build_statistics(incoming: list[ReleaseCollection], existing: list[ReleaseC
             if isinstance(release, IncomingRelease):
                 total_incoming_by_date[release.date] = total_incoming_by_date.get(release.date, 0) + 1
 
-    return {
-        "imported": total_incoming,
-        "imported_friday": total_incoming_friday,
-        "imported_earlier": total_incoming_earlier,
-        "existing": total_existing,
-        "existing_friday": total_existing_friday,
-        "existing_earlier": total_existing_earlier,
-        "existing_with_review": total_existing_with_review,
-        "existing_with_genres": total_existing_with_genres,
-        "distributions": total_incoming_by_date,
-    }
+    result = [
+        f"Releases sorted and written to {mkdocs_file_path}",
+        "",
+        "------------------------------------",
+        f"Colleted from file: {Style.BRIGHT}{Fore.YELLOW}{total_incoming}{Style.RESET_ALL}",
+        f"    Friday:\t\x1B[3m{total_incoming_friday}\x1B[0m",
+        f"    Earlier:\t\x1B[3m{total_incoming_earlier}\x1B[0m",
+        f"New: {Style.BRIGHT}{Fore.CYAN}{total_incoming - total_existing}{Style.RESET_ALL}",
+        "Existing:",
+        f"    Friday:\t\x1B[3m{total_existing_friday}\x1B[0m",
+        f"    Earlier:\t\x1B[3m{total_existing_earlier}\x1B[0m",
+        f"    Reviewed:\t\x1B[3m{total_existing_with_review}\x1B[0m",
+        "------------------------------------",
+    ]
+
+    sorted_release_distribution = sorted(total_incoming_by_date.items())
+    result.append("Release distribution:")
+    for release_date, count in sorted_release_distribution:
+        result.append(f"{release_date}\t\x1B[3m({count})\x1B[0m")
+    result.append("------------------------------------")
+    result.append("")
+
+    return "\n".join(result)
 
 
 
@@ -472,34 +484,7 @@ def main(release_date: date, path: Path) -> None:
     with mkdocs_gen_files.open(mkdocs_file_path, "w") as f:
         f.write(content)
 
-    statistics = _build_statistics(incoming_releases, collections)
-    result = [
-        f"Releases sorted and written to {mkdocs_file_path}",
-        "",
-        "------------------------------------",
-        f"Colleted from file: {Style.BRIGHT}{Fore.YELLOW}{statistics["imported"]}{Style.RESET_ALL}",
-        f"    Friday:\t\x1B[3m{statistics["imported_friday"]}\x1B[0m",
-        f"    Earlier:\t\x1B[3m{statistics["imported_earlier"]}\x1B[0m",
-        f"New: {Style.BRIGHT}{Fore.CYAN}{statistics["imported"] - statistics["existing"]}{Style.RESET_ALL}",
-        "Existing:",
-        f"    Friday:\t\x1B[3m{statistics["existing_friday"]}\x1B[0m",
-        f"    Earlier:\t\x1B[3m{statistics["existing_earlier"]}\x1B[0m",
-        f"    Reviewed:\t\x1B[3m{statistics["existing_with_review"]}\x1B[0m",
-        "------------------------------------",
-    ]
-
-    # add graph data to result
-    release_distribution = statistics.get("distributions", {})
-    sorted_release_distribution = sorted(release_distribution.items())
-
-    if release_distribution:
-        result.append("Release distribution:")
-        for release_date, count in sorted_release_distribution:
-            result.append(f"{release_date}\t\x1B[3m({count})\x1B[0m")
-        result.append("------------------------------------")
-        result.append("")
-
-    log.info("\n".join(result))
+    log.info(_build_statistics(mkdocs_file_path, incoming_releases, existing_collections))
 
 
 if __name__ == "__main__":
