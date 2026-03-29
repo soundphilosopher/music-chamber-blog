@@ -956,123 +956,117 @@ Der neueste Output des Soloprojekts von Mark Nelson, das sich auf Ambient und vo
 
 ## Party Cannon - Subjected To A Partying
 
-tbd
+Die neueste EP der schottischen Party Slamer. Wenn du schon immer mal in einer Hüpfburg voller Glasscherben moshen wolltest, ist das genau das Richtige für dich. Es gibt das Spiel sogar auf einer funktionierenden Nintendo-64-Kassette! Es ist ein widerlicher, basslastiger Wahnsinn, der beweist, dass man slam sein und trotzdem den Spaß seines Lebens haben kann.
 
-::genre::
+::genre::slamcore, brutal death metal
 
-## Paula Kelley - Blinking As The Starlight Burns Out
+## Paula Kelley - Blinking As The Starlight Burns Out *
 
-tbd
+Das neue Album des ehemaligen Mitglieds der Shoegaze-Pioniere Drop Nineteens - das erste seit über 20 Jahren. Dieses Album wirkt wie ein warmer, zuckersüßer Zitronenbonbon mit einem überraschend sauren Kern. Es ist emotional direkt und unbehaglich ehrlich und verbindet Melodien, die an die Beach Boys der Pet Sounds-Ära erinnern, mit zutiefst persönlichen Geschichten über das Überleben und die wiedergewonnene Stimme.
 
-::genre::
+::genre::prog pop, pop noir, art pop, avant pop
 
 ## pdqb - Future Traumatic Stress Disorder
 
-tbd
+Das neueste Full-Length von diesen deutschen Projekt. "pdqb" agiert als Gebilde ohne feste Form - eine auf Abruf basierende Musik, die Momente aus zusammengebrochenen Zukünften und unvollendeten Vergangenheiten miteinander verwebt. Dies ist nicht nur ein Album, sondern eine vorübergehende Konstellation für die Hörer von Earthbound. Es ist unbeständig, glitchig und erkundet eine Welt, in der Erinnerungen eher vorausschauend als rückblickend funktionieren. Es ist der perfekte Soundtrack für eine Tanzfläche in einer Dimension, in der Zeit nur eine Andeutung ist.
 
-::genre::
+::genre::experimental electronica, edm, acid house, acid techno
 
 ## Pet Needs - Elbows Out! This Is Capitalism
 
-tbd
+Das neueste Release des britischen Outfits. Hektischer DIY-Punkrock mit melodischen Rockelementen und satirischen Texten. Ein bissiger, urkomischer Film, der die Band dabei begleitet, wie sie sich auf einer Auktion eine gebrauchte Punk-Karriere kauft und dabei spektakulär daran scheitert, diese zum Laufen zu bringen. Mit Gastauftritten von CJ Ramone und einem echten Auktionator liefert der Film eingängige, rebellische Hymnen für alle, die einen normalen Job haben, aber von der Bühne träumen.
 
-::genre::
+::genre::punk rock, melodic rock, proto pop punk
 
 ## Power Paladin - Beyond The Reach Of Enchantment
 
-tbd
+Die isländische Heavy-Formation mit ihrem Sophomore Output. Dieses Album steht ganz im Zeichen von Heavy Metal an erster Stelle, Dungeons and Dragons an zweiter Stelle. Es ist eine epische, in Kapitel gegliederte Saga voller hochfliegender Gesänge, Twin-Gitarren-Attacken und Titeln wie Camelot Rock City. Wenn du Musik suchst, die dir das Gefühl gibt, mutig genug zu sein, um mit einer fliegenden Gitarre gegen einen Drachen zu kämpfen, dann leg diese Platte sofort auf.
 
-::genre::
+::genre::power metal, nwobhm
 
 ## Rain Diary - Night Church
 
-tbd
+Das finnische Projekt mit seinem neuesten Studioalbum. Bekannt für "Winterwave", eine Mischung aus Gothic Rock und Industrial Pop. Das ist schöne und verstörende Musik für die Mitternachtsseele. Sie schafft es, zugleich düster und eingängig zu sein, und verleiht einer klassischen Gothic-Landschaft einen urbanen Touch. Sie ist der perfekte Soundtrack für eine regnerische Nacht in einer neonbeleuchteten Stadt.
 
-::genre::
+::genre::dark wave, industrial, art pop, synth pop, gothic rock
 
 ## Ram-Zet - Sapien
 
-tbd
+Das Comeback-Full-Length des norwegischen Kollektives. Eine einzigartige Mischung, die sich keiner einzelnen Kategorie zuordnen lässt und Industrial, Black Metal und Alternative Metal miteinander verbindet. "Sapien" ist eine vollständige Wiederauferstehung. Es ist intensiv, komplex und unverhohlen schräg. Mit einer 8-saitigen Gitarre, die folkige Themen in knallharten Metal einwebt, fühlt es sich an wie ein verwirrender Trip durch ein Science-Fiction-Labyrinth.
 
-::genre::
+::genre::prog rock, prog metal, avant metal, prog black metal, industrial metal
 
 ## RAYE - This Music May Contain Hope
 
-tbd
+Das Sophomore Release der renommierten britischen Kapelle. Old-School-Jazz und Blues mit groß angelegten Arrangements, die unter anderem von Hans Zimmer mitproduziert wurden. Dieses Album, dessen Titel ganz in Großbuchstaben geschrieben ist, ist ein 71-minütiges Manifest der Widerstandsfähigkeit. Es ist in vier Jahreszeiten unterteilt und führt dich von der Dunkelheit ins Licht. Es ist eine Umarmung in musikalischer Form, die beweist, dass Verletzlichkeit RAYEs größte Superkraft ist.
 
-::genre::
+::genre::neo soul, neo classic, contemporary jazz, r&b, blues
 
 ## RedRedRed - Deaf Gods
 
-tbd
+Der Debüt Longplayer der französischen Kapelle. Dies ist ein Soundtrack zum Wahnsinn. Er ist kraftvoll, menschlich und unverfälscht echt. Mit fetten Riffs und rauen Grooves beschäftigt er sich mit Themen wie Macht und Kontrollverlust. Es ist die Art von Musik, die einen dazu zwingt, die Lautstärke aufzudrehen, bis die Welt um einen herum verschwindet.
 
-::genre::
+::genre::alt rock, alt metal, noise rock, stoner rock, heavy rock, psych rock
 
 ## Resistor - Bite This!
 
-tbd
+Die amerikanische Formation mit ihrem Debüt Full-Length. Sie bezeichnen sich selbst als "Knuckle Dragging Wika Wika Core" - eine Mischung aus Nu-Metal-Prahlerei und Hardcore des 21. Jahrhunderts. Dieses Album ist ein unwissender und ehrlicher Stinkefinger in Richtung Welt. Es sind 29 Minuten pure, geballte Energie, die Bass-Drops mit der Aggressivität von Live-Instrumenten in Einklang bringt. Es ist übermütig, heavy und darauf ausgelegt, den Boden unter deinen Füßen zum Beben zu bringen.
 
-::genre::
+::genre::nu metal, alt metal
 
 ## Resurrector UK - Nest
 
-tbd
+Das, wer hätte es gedacht, britische Projekt mit seinem neuesten Full-Length. Inspiriert von den Pionieren der frühen Industrial und der modernen Glitch-Ästhetik. "Nest" fühlt sich an, als würde man in einem defekten Serverraum aufwachen. Es ist nervös, metallisch und auf seine ganz eigene mechanische Art überraschend gemütlich. Wenn du Beats magst, die klingen, als würden sie von einer sehr rhythmischen Waschmaschine in einem verwunschenen Keller gespielt, dann ist das genau das Richtige für dich.
 
-::genre::
+::genre::glitch, idm
 
 ## Rivers Ablaze - Inexternal Dread
 
-tbd
+Die ungarische Formation mit ihrem neuesten Studioalbum. Es verbindet die Intensität des Black Metal mit atmosphärischer Tiefe und unerwarteten progressiven Wendungen. Das ist wilder und doch sorgfältig ausgearbeiteter Metal. Es ist ein Massengrab des Traumas, das durch rasende Gitarren und komplexe Breaks zum Ausdruck kommt. Es ist brutal, zutiefst inspiriert und perfekt, wenn man in den Orbit von etwas wirklich Schwerem eintauchen möchte.
 
-::genre::
+::genre::prog black metal, blackened death metal, prog metal
 
 ## Robben Ford - Two Shades of Blue
 
-tbd
+Der legendäre, fünfmalige Grammy-Nominierte kehrt mit einem transatlantischen Modern Classic zurück, der sich zwischen Jazz, Rock und Blues bewegt. Das ist Musikalität von Weltklasse in ihrer höchsten Ausprägung. Von tiefem Funk-Blues bis hin zu himmelhohen Instrumentalstücken - dieses Album zeichnet sich durch Raffinesse und Risikobereitschaft aus. Es ist der Sound eines Meistergitarristen, der keine zwei Alben hat, die gleich klingen, und der auf die bestmögliche Weise seinen eigenen Weg geht.
 
-::genre::
+::genre::jszz rock, hard rock, blues, folk rock, prog folk
 
 ## Robert Francis - Phantasmagoria
 
-tbd
+Der amerikanische Singer & Songwriter mit seinem neuesten Studio-Output. Dieses Album ist aus der Verwüstung entstanden. Es ist eine verschwommene, wunderschöne Reise, auf der traditionelle Instrumente auf ein synthesizerbesessenes Herz treffen. Es fühlt sich an wie ein Fiebertraum, in dem Folk auf wiederverwerteter Technik gespielt werden - melancholisch, widerstandsfähig und absolut fesselnd.
 
-::genre::
+::genre::prog folk, experimental folk, ambient, synth pop
 
-## Robyn - Sexistential
+## Robyn - Sexistential *
 
-tbd
+Die schwedische Singer & Songwriterin war mit ihrem neuesten Full-Length nach einer acht jährigen Release-Pause. Sie war mit ihrem Synth-Pop immer etwas der Zeit voraus und wurde erst später für ihre Kompositionen ausgezeichnet. Wie der Titel schon andeutet, handelt es sich hier um eine tiefgehende Auseinandersetzung mit den sexistentiellen Krisen der modernen Welt. Der Song ist elegant, clever und darauf ausgelegt, einen gleichzeitig zum Weinen und zum Tanzen zu bringen. Robyn bleibt die Königin der einsamen Tanzfläche und liefert den perfekten Soundtrack, um unter Stroboskoplicht über das eigene Leben zu grübeln.
 
-::genre::
+::genre::synth pop, edm, disco
 
 ## Rum.gold - Is There Anybody Home?
 
-tbd
+Der amerikanische Singer & Songwriter Delonte Drumgold mit seinem neuesten Longplayer. Dieses Album ist ein einfühlsamer, elf Titel umfassender Einblick in das Trauern um die Lebenden und persönliche Traumata. Es ist eine fesselnde Reise, auf der sanfter R&B auf experimentelle Klänge trifft - perfekt für alle, die ihre Gefühle in höchster Auflösung erleben möchten.
 
-::genre::
+::genre::r&b, neo soul, modern jazz, chamber jazz
 
 ## RY-GUY - like a river
 
-tbd
+Der britische Singer & Songwriter mit seiner Sophomore EP. Eine fließende Verschmelzung von klassischem Soul, psychedelischem Bedroom-Pop und Art-Pop. Wie der Name schon sagt, ist diese EP eine fließende Reise durch halluzinogene Klänge und suchende Gesangsstimmen. Es ist ein gefühlvoller Thriller, der mit einer zwielichtigen, filmischen Note schwere Themen wie Sterbehilfe und weibliche Widerstandskraft erforscht.
 
-::genre::
+::genre::art pop, r&b, psych pop, psych rock, bedroom pop
 
 ## Samurai Pizza Cats - Press Start
 
-tbd
+Die deutsche Formation mit ihrem Sophomore Release. Energiegeladener Metalcore/Deathcore, angereichert mit elektronischen Elementen und satirischen Themen. Dieses Album ist eine Reise voller Zusammenbrüche, die das Geschichtenerzählen wie ein Videospiel behandelt. Zwischen Titeln über Alien-Invasionen und einem satirischen Liebesbrief an die Pizza erwarten dich 12 Level voller harter Riffs und chaotischem Spaß, die dich an deinem Schreibtisch zum Moshen bringen werden.
 
-::genre::
+::genre::digicore, electricore, metalcore
 
 ## Sanaya Ardeshir - Hand of Thought
 
-tbd
+Die indische Multi-Instrumentalistin mit ihrem ersten Solo-Werk unter ihren realen Namen. Inspiriert von der Praxis des Zen-Buddhismus und minimalistischen Ikonen wie Steve Reich ist dieses Album eine zarte, verletzliche Rückkehr zu den Wurzeln. Es ist eine üppige Klanglandschaft, in der intime Klavierklänge auf filmische Orchestrierungen treffen - wie ein Buckelwal, der wieder in den Ozean taucht.
 
-::genre::
-
-## Scar Woven - Prophecy
-
-tbd
-
-::genre::
+::genre::modern classic, ambient, experimental electronica
 
 ## Scouting For Girls - These Are The Good Days
 
