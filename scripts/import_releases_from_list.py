@@ -1,6 +1,6 @@
 """Import a list of music releases and generate a MkDocs blog post.
 
-The script reads a raw text file containing one "Artist - Title" entry per
+The script reads a raw text file containing one "(Release Date) Artist - Title" entry per
 line, sorts the releases alphabetically by artist, and writes a Markdown blog
 post (including MkDocs front matter) to the configured posts directory.
 
@@ -9,15 +9,17 @@ and genres are carried over into the newly generated post. New releases not
 yet present in the existing file are always added to the Friday collection.
 
 Usage:
-    python import_releases.py <date> <path>
+    python import_releases.py -d <date> -f <path>
 
 Args:
     date: Publication date for the post in ISO 8601 format (e.g. 2026-03-06).
     path: Path to the raw releases text file.
 
 Example:
-    python import_releases.py 2026-03-06 scripts/raw/releases.txt
+    python import_releases.py -d 2026-03-06 -f scripts/raw/releases.txt
 """
+from typing import Optional, Any
+from pygments.lexers.ml import OpaLexer
 
 import argparse
 import logging
@@ -32,6 +34,7 @@ from enum import Enum
 from pathlib import Path
 
 from bs4 import BeautifulSoup
+from colorama import Fore, Style
 
 
 # Root path for MkDocs blog posts. All generated files are placed here.
@@ -42,18 +45,6 @@ GENRE_TAG_PREFIX = "::genre::"
 
 # Compiled pattern to match lines that start with the genre tag prefix.
 GENRE_TAG_PATTERN = re.compile(rf"^{re.escape(GENRE_TAG_PREFIX)}")
-
-# Statistics for the import process.
-IMPORT_STATISTICS = {
-    "imported": 0,
-    "imported_skipped": 0,
-    "existing": 0,
-    "existing_skipped": 0,
-    "existing_friday": 0,
-    "existing_earlier": 0,
-    "existing_with_review": 0,
-    "existing_with_genres": 0,
-}
 
 
 logging.basicConfig(level=logging.INFO)
@@ -76,6 +67,10 @@ class Release:
     review: str
     genres: list[str]
 
+@dataclass
+class IncomingRelease(Release):
+    date: date
+
 
 class ReleaseCollectionType(Enum):
     """Categorises a group of releases by when they were published."""
@@ -97,7 +92,10 @@ class ReleaseCollection:
     """
 
     type: ReleaseCollectionType
-    releases: list[Release]
+    releases: list[Release | IncomingRelease]
+
+    def sort_releases(self) -> None:
+        self.releases.sort(key=lambda r: r.artist.casefold())
 
 
 def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
@@ -146,7 +144,6 @@ def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
             try:
                 current_type = ReleaseCollectionType(tag.get_text())
             except ValueError:
-                IMPORT_STATISTICS["existing_skipped"] += 1
                 log.debug(f"Unknown collection heading: '{tag.get_text()}', skipping.")
                 current_type = None
             current_releases = []
@@ -154,14 +151,8 @@ def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
         elif tag.name == "h2" and current_type is not None:
             parts = tag.get_text().split(" - ", 1)
             if len(parts) != 2:
-                IMPORT_STATISTICS["existing_skipped"] += 1
                 log.debug(f"Skipping malformed release heading: '{tag.get_text()}'")
                 continue
-
-            if current_type == ReleaseCollectionType.FRIDAY:
-                IMPORT_STATISTICS["existing_friday"] += 1
-            else:
-                IMPORT_STATISTICS["existing_earlier"] += 1
 
             artist, title = parts
             review = "tbd"
@@ -170,14 +161,10 @@ def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
             review_tag = tag.find_next_sibling("p")
             if review_tag:
                 review = review_tag.get_text()
-                if "tbd" not in review:
-                    IMPORT_STATISTICS["existing_with_review"] += 1
-
                 log.debug(f"review={review}")
 
                 genres_tag = review_tag.find_next_sibling(name="p")
                 if genres_tag and GENRE_TAG_PATTERN.match(genres_tag.get_text()):
-                    IMPORT_STATISTICS["existing_with_genres"] += 1
                     genres = [
                         g.strip()
                         for g in genres_tag.get_text()
@@ -186,7 +173,6 @@ def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
                     ]
                     log.debug(f"genres={genres}")
 
-            IMPORT_STATISTICS["existing"] += 1
             current_releases.append(
                 Release(
                     artist=artist.strip(),
@@ -205,7 +191,7 @@ def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
 
 
 def _sort_to_collections(
-    incoming: list[Release],
+    incoming: list[ReleaseCollection],
     existing: list[ReleaseCollection],
 ) -> list[ReleaseCollection]:
     """Distribute incoming releases across collections.
@@ -236,9 +222,7 @@ def _sort_to_collections(
     }
 
     if not existing:
-        # No existing file — all incoming releases go straight to FRIDAY.
-        result[ReleaseCollectionType.FRIDAY].releases = list(incoming)
-        return list(result.values())
+        return incoming
 
     # Build a flat lookup: normalised (artist, title) → (collection_type, Release).
     existing_lookup: dict[tuple[str, str], tuple[ReleaseCollectionType, Release]] = {}
@@ -251,21 +235,22 @@ def _sort_to_collections(
             )
             existing_lookup[key] = (collection.type, release)
 
-    for incoming_release in incoming:
-        key = (incoming_release.artist.casefold(), incoming_release.title.casefold())
-        if key in existing_lookup:
-            collection_type, existing_release = existing_lookup[key]
-            result[collection_type].releases.append(existing_release)
-            log.debug(
-                f"Kept '{existing_release.artist} - {existing_release.title}'"
-                f" in {collection_type.name}."
-            )
-        else:
-            result[ReleaseCollectionType.FRIDAY].releases.append(incoming_release)
-            log.debug(
-                f"New release '{incoming_release.artist} - {incoming_release.title}'"
-                f" added to FRIDAY."
-            )
+    for incoming_collection in incoming:
+        for incoming_release in incoming_collection.releases:
+            key = (incoming_release.artist.casefold(), incoming_release.title.casefold())
+            if key in existing_lookup:
+                collection_type, existing_release = existing_lookup[key]
+                result[incoming_collection.type].releases.append(existing_release)
+                log.debug(
+                    f"Kept '{existing_release.artist} - {existing_release.title}'"
+                    f" in {collection_type.name}."
+                )
+            else:
+                result[incoming_collection.type].releases.append(incoming_release)
+                log.debug(
+                    f"New release '{incoming_release.artist} - {incoming_release.title}'"
+                    f" added to {incoming_collection.type.name}."
+                )
 
     for collection in result.values():
         collection.releases.sort(key=lambda r: r.artist.casefold())
@@ -273,7 +258,8 @@ def _sort_to_collections(
     return list(result.values())
 
 
-def _build_release_list(path: Path) -> list[Release]:
+
+def _build_release_list(path: Path) -> list[ReleaseCollection]:
     """Read and parse the raw releases file into a list of Release objects.
 
     Each non-empty line in the file must follow the format "Artist - Title".
@@ -291,28 +277,46 @@ def _build_release_list(path: Path) -> list[Release]:
         FileNotFoundError: If the given path does not exist.
         ValueError: If a line does not contain the expected " - " separator.
     """
-    releases = []
+    collections: list[ReleaseCollection] = [
+        ReleaseCollection(type=ct, releases=[]) for ct in ReleaseCollectionType
+    ]
+
     with open(path) as f:
         for line in f.read().strip().split("\n"):
             if line.strip().startswith("<<ignore>>"):
                 break
 
-            artist, title = line.split(" - ", 1)
+            # split line "(2026-03-27) Yeat - ADL (A Dangerous Lyfe / A Dangerous Love)" into release date and title
+            release_date_str, title = line.split(") ", 1)
+            release_date = date.fromisoformat(release_date_str.lstrip("(").strip())
+            artist = title.split(" - ", 1)[0].strip()
+            title = title.split(" - ", 1)[1].strip()
+
+            # check if release_date is friday add release to friday collection if not already present
+            current_week_type = ReleaseCollectionType.FRIDAY if release_date.weekday() == 4 else ReleaseCollectionType.EARLIER
+
+            # sort release to collection if not already exists
+            collection = next((rc for rc in collections if rc.type == current_week_type), None)
+            if not collection:
+                collection = ReleaseCollection(type=current_week_type, releases=[])
+                collections.append(collection)
+
             if any(
                 r.artist.casefold() == artist.strip().casefold()
                 and r.title.casefold() == title.strip().casefold()
-                for r in releases
+                for r in collection.releases
             ):
-                IMPORT_STATISTICS["imported_skipped"] += 1
                 continue
 
-            IMPORT_STATISTICS["imported"] += 1
-            releases.append(
-                Release(artist=artist.strip(), title=title.strip(), review="tbd", genres=[])
+            collection.releases.append(
+                IncomingRelease(artist=artist.strip(), title=title.strip(), review="tbd", genres=[], date=release_date)
             )
 
-    releases.sort(key=lambda r: r.artist.casefold())
-    return releases
+    for rc in collections:
+        rc.releases.sort(key=lambda r: r.artist.casefold())
+
+    return collections
+
 
 
 def _create_release_content(
@@ -370,6 +374,55 @@ def _create_release_content(
     return "\n".join(content)
 
 
+def _build_statistics(mkdocs_file_path: Path, incoming: list[ReleaseCollection], existing: list[ReleaseCollection]) -> str:
+    total_incoming = sum(len(collection.releases) for collection in incoming)
+    total_existing = sum(len(collection.releases) for collection in existing)
+
+    total_incoming_friday = sum(len(collection.releases) for collection in incoming if collection.type == ReleaseCollectionType.FRIDAY)
+    total_existing_friday = sum(len(collection.releases) for collection in existing if collection.type == ReleaseCollectionType.FRIDAY)
+
+    total_incoming_earlier = sum(len(collection.releases) for collection in incoming if collection.type == ReleaseCollectionType.EARLIER)
+    total_existing_earlier = sum(len(collection.releases) for collection in existing if collection.type == ReleaseCollectionType.EARLIER)
+
+    # count all release.review entries in existing that are not "tbd"
+    total_existing_with_review = sum(1 for collection in existing for release in collection.releases if release.review and release.review.lower() != "tbd")
+
+    # count all release.genres entries in existing that are not empty
+    total_existing_with_genres = sum(1 for collection in existing for release in collection.releases if release.genres)
+
+    # count releases by release.date (only IncomingRelease has a date attribute)
+    total_incoming_by_date: dict[date, int] = {}
+    for collection in incoming:
+        for release in collection.releases:
+            if isinstance(release, IncomingRelease):
+                total_incoming_by_date[release.date] = total_incoming_by_date.get(release.date, 0) + 1
+
+    result = [
+        f"Releases sorted and written to {mkdocs_file_path}",
+        "",
+        "------------------------------------",
+        f"Colleted from file: {Style.BRIGHT}{Fore.YELLOW}{total_incoming}{Style.RESET_ALL}",
+        f"    Friday:\t\x1B[3m{total_incoming_friday}\x1B[0m",
+        f"    Earlier:\t\x1B[3m{total_incoming_earlier}\x1B[0m",
+        f"New: {Style.BRIGHT}{Fore.CYAN}{total_incoming - total_existing}{Style.RESET_ALL}",
+        "Existing:",
+        f"    Friday:\t\x1B[3m{total_existing_friday}\x1B[0m",
+        f"    Earlier:\t\x1B[3m{total_existing_earlier}\x1B[0m",
+        f"    Reviewed:\t\x1B[3m{total_existing_with_review}\x1B[0m",
+        "------------------------------------",
+    ]
+
+    sorted_release_distribution = sorted(total_incoming_by_date.items())
+    result.append("Release distribution:")
+    for release_date, count in sorted_release_distribution:
+        result.append(f"{release_date}\t\x1B[3m({count})\x1B[0m")
+    result.append("------------------------------------")
+    result.append("")
+
+    return "\n".join(result)
+
+
+
 def main(release_date: date, path: Path) -> None:
     """Main entry point: build, sort, and write the releases Markdown post.
 
@@ -385,12 +438,19 @@ def main(release_date: date, path: Path) -> None:
             to determine the output file path.
         path: Path to the raw releases text file.
     """
-    # 1. Collect all releases from the txt file.
+    # check if file exists
+    if not path.exists():
+        log.warning(f"File not found: {path}")
+        return
+
+    # Collect all releases from the txt file.
     incoming_releases = _build_release_list(path)
     log.debug(f"incoming_releases={incoming_releases}")
+    log.debug(f"incoming_releases[FRIDAY]={len(incoming_releases[0].releases)}")
+    log.debug(f"incoming_releases[EARLIER]={len(incoming_releases[1].releases)}")
 
     if not incoming_releases:
-        log.info("No releases found, exiting.")
+        log.warning("No releases found, exiting.")
         return
 
     # Build the full output path, e.g. docs/posts/2026/03/06/releases.md
@@ -406,6 +466,8 @@ def main(release_date: date, path: Path) -> None:
     # 2. Collect all releases from the current release markdown (if it exists).
     existing_collections = _parse_existing_collections(release_list_path)
     log.debug(f"existing_collections={existing_collections}")
+    log.debug(f"existing_collections[FRIDAY]={len(existing_collections[0].releases) if existing_collections else 0}")
+    log.debug(f"existing_collections[EARLIER]={len(existing_collections[1].releases) if existing_collections else 0}")
 
     # 3. Sort releases into collections.
     collections = _sort_to_collections(incoming_releases, existing_collections)
@@ -422,21 +484,7 @@ def main(release_date: date, path: Path) -> None:
     with mkdocs_gen_files.open(mkdocs_file_path, "w") as f:
         f.write(content)
 
-    result = [
-        f"Releases sorted and written to {mkdocs_file_path}",
-        "",
-        "     ------------------------------------",
-        f"     Colleted from file: {IMPORT_STATISTICS["imported"]}",
-        f"     New: {IMPORT_STATISTICS["imported"] - IMPORT_STATISTICS["existing"]}",
-        "     Existing:",
-        f"         Friday: {IMPORT_STATISTICS["existing_friday"]}",
-        f"         Earlier: {IMPORT_STATISTICS["existing_earlier"]}",
-        f"         Reviewed: {IMPORT_STATISTICS["existing_with_review"]}",
-        "     ------------------------------------",
-        "",
-    ]
-
-    log.info("\n".join(result))
+    log.info(_build_statistics(mkdocs_file_path, incoming_releases, existing_collections))
 
 
 if __name__ == "__main__":

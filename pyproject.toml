@@ -18,7 +18,7 @@ dependencies = [
     "mkdocs-rss-plugin",
     "beautifulsoup4",
     "curl-cffi",
-    "html-to-markdown",
+    "colorama",
 ]
 
 [project.optional-dependencies]
