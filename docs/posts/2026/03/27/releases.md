@@ -733,7 +733,7 @@ Die amerikanischen Veteranen mit ihrem neuesten Studioalbum. Sie spielen energie
 
 ## Lauren Auder - Whole World as Vigil *
 
-Die britische Singer & Songwriterin mit ihrem Sophomore Full-Length. Sie ist vor allem für ihren "Orchestral Pop" bekannt, der klassische, experimentelle und Emo-Elemente miteinander verbindet. Eine psychedelische Erfahrung, entstanden in einer Zeit intensiver persönlicher Veränderungen. Es ist eine üppige, hochauflösende Erkundung von Schönheit und Paranoia. Die Single "Praxis" verwendet sogar das Sample einer Bohrmaschine, die sich durch Metall bohrt, um ihre Industrial-Pop-Intensität zu unterstreichen. Es ist seltsam, hypnotisch und zutiefst filmisch - die Art von Musik, die einem das Gefühl gibt, der eigene Alltag würde von einem Avantgarde-Filmemacher inszeniert.
+Der britische Singer & Songwriter mit seinem Sophomore Full-Length. Er ist vor allem für ihren "Orchestral Pop" bekannt, der klassische, experimentelle und Emo-Elemente miteinander verbindet. Eine psychedelische Erfahrung, entstanden in einer Zeit intensiver persönlicher Veränderungen. Es ist eine üppige, hochauflösende Erkundung von Schönheit und Paranoia. Die Single "Praxis" verwendet sogar das Sample einer Bohrmaschine, die sich durch Metall bohrt, um ihre Industrial-Pop-Intensität zu unterstreichen. Es ist seltsam, hypnotisch und zutiefst filmisch - die Art von Musik, die einem das Gefühl gibt, der eigene Alltag würde von einem Avantgarde-Filmemacher inszeniert.
 
 ::genre::avant pop, alt pop, psych pop, prog pop
 
