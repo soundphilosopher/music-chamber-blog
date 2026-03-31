@@ -19,6 +19,7 @@ dependencies = [
     "beautifulsoup4",
     "curl-cffi",
     "colorama",
+    "markdownify",
 ]
 
 [project.optional-dependencies]

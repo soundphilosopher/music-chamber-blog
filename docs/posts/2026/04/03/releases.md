@@ -15,7 +15,7 @@ categories:
 
 ## Amerikan Kaos - The Sheeple Swing
 
-Das internationale Projekt unter der Leitung des Gitarrenvirtuosen Jeff Waters (Gründer der Thrash-Legenden Annihilator) mit dem letzten Teil ihrer "Amerikan Kaos"-Trilogie. Dies ist der energiegeladene Abschluss von Waters’ experimenteller Trilogie. Das Album ist schneller und vermittelt ein lebendigeres Gefühl als die vorherigen Teile. Freut euch auf Songs, die von politischen Kommentaren bis hin zu absoluter Albernheit reichen (wie "(I Won) The Hottie Lottery") und von erstklassigen Gitarrenklängen begleitet werden.
+Das internationale Projekt unter der Leitung des Gitarrenvirtuosen Jeff Waters (Gründer der Thrash-Legenden *Annihilator*) mit dem letzten Teil ihrer "Amerikan Kaos"-Trilogie. Dies ist der energiegeladene Abschluss von Waters’ experimenteller Trilogie. Das Album ist schneller und vermittelt ein lebendigeres Gefühl als die vorherigen Teile. Freut euch auf Songs, die von politischen Kommentaren bis hin zu absoluter Albernheit reichen (wie "(I Won) The Hottie Lottery") und von erstklassigen Gitarrenklängen begleitet werden.
 
 ::genre::hard rock, melodic rock, heavy rock, pop metal, thrash metal
 
