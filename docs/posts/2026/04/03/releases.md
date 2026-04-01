@@ -37,6 +37,12 @@ Das neue Album der amerikanischen Progressive-Rock-Band, die für ihre energiege
 
 ::genre::neo prog rock, psych rock, symphonic rock
 
+## Heartfeast - Creative Control *
+
+Die amerikanische Formation mit ihrem neuesten Full-Length. Sie haben sich auf eine rein instrumentale Mischung aus progressivem Post-Rock und Space-Rock spezialisiert. Ihr Sound zeichnet sich durch eine progressive Abweichung aus, die sich von gängigen Strukturen entfernt und in weitläufigere, atmosphärischere Gefilde vordringt. Wenn du schon immer mal eine Zeitlupen-Surfsession auf einem fernen Mond musikalisch untermalen wolltest, dann ist das hier genau das Richtige. Es ist eine üppige, wortlose Reise, die die Rauheit einer Garage in Santa Cruz mit der Weite des Weltraums in Einklang bringt. Da brauchen keine Texte, wenn die Gitarren schon alles sagen!
+
+::genre::post rock, prog rock, space rock, psych rock, surf rock, instrumental
+
 ## Herb Lore - Mysticism
 
 Das Sophomore Release des amerikanischen Producer. Fantasie, Erfindung und Naturreisen nach Oregon und Neufundland. Dieses Album, das als spirituelle Reise beschrieben wird, wirkt wie eine neblige Meditation in einem feuchten Sommerwald. Es ist eine Hommage an das ewige Jetzt - perfekt, um die Kraft der Erde in sich aufzunehmen und den Sonnenaufgang zu beobachten - oder sich einfach in seinem eigenen Garten zu verlieren.
@@ -54,6 +60,12 @@ Dieses Projekt ist tief in der italienischen "Dark Sound"-Tradition verwurzelt u
 Die ungarische Formation mit ihrem neuesten Output. Ein Instrumentalprojekt mit Schwerpunkt auf Post-Rock, Post-Metal und Ambient-Klängen. Das ist die Art von Musik, die das Starren auf eine Wand zu einem tiefgreifenden Erlebnis macht. Sie ist mitreißend und emotional und fängt die Schönheit und die Trauer des Titels in langen, hallenden Instrumentalpassagen ein, die den Eindruck erwecken, als würden sie nach dem Horizont greifen.
 
 ::genre::post rock, art rock, post metal, instrumental
+
+## Trion - Terra Tiempo
+
+Das niederländische Progressive-Rock-Trio, bestehend aus Mitgliedern von *Odyssice* und *Flamborough Head*, präsentiert sein neues Album. Das ist Seelenfutter für Prog-Fans. Es ist melodisch, meisterhaft gespielt und strahlt eine gewisse Zeitlosigkeit aus (was zu einem Titel wie "Terra Tiempo" passt). Es ist die Art von Musik, bei der man am liebsten die Augen schließt und sich vom Mellotron einhüllen lässt.
+
+::genre::neo prog rock, synth rock, instrumental
 
 ## Xavi Reija Electric Quintet - Nu Breed
 
