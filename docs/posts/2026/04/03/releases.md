@@ -431,6 +431,6 @@ Das niederländische Progressive-Rock-Trio, bestehend aus Mitgliedern von *Odyss
 
 ## Xavi Reija Electric Quintet - Nu Breed
 
-Das Quintett um den spanischen Jazz-Drummer Xavi Reija mit seinem neuesten Release. _Xavi Reija_ ist ein meisterhafter Schlagzeuger und Pädagoge, der einen ganz eigenen Stil des instrumentalen progressiven Electric Jazz kreiert. Das ist instrumentaler, progressiver Electric Jazz in seiner ambitioniertesten Form. Es ist ein dichtes, polyrhythmisches Kraftpaket, das klingt, als würde ein kleines Orchester die Musik zu einem Albtraumfilm komponieren. Wenn du komplexe, kraftvolle und leicht beunruhigende Musik magst, ist dies dein neuer Lieblingssoundtrack für intensive Gedanken.
+Das Quintett um den spanischen Jazz-Drummer Xavi Reija mit seinem neuesten Release. *Xavi Reija* ist ein meisterhafter Schlagzeuger und Pädagoge, der einen ganz eigenen Stil des instrumentalen progressiven Electric Jazz kreiert. Das ist instrumentaler, progressiver Electric Jazz in seiner ambitioniertesten Form. Es ist ein dichtes, polyrhythmisches Kraftpaket, das klingt, als würde ein kleines Orchester die Musik zu einem Albtraumfilm komponieren. Wenn du komplexe, kraftvolle und leicht beunruhigende Musik magst, ist dies dein neuer Lieblingssoundtrack für intensive Gedanken.
 
 ::genre::prog jazz, avant jazz, nu jazz, jazz fusion
