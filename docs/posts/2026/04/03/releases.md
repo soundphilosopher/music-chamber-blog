@@ -259,213 +259,213 @@ tbd
 
 ## Green Carnation - A Dark Poem, Part II: Sanguis
 
-tbd
+Die norwegische Formation mit ihrem neuesten Studioalbum. Atmosphärischer **Progressive Metal** mit **Gothic** Anklängen. *Sanguis* (Blut) ist eine tiefgründige, blutrote Reise. Das Album ist dramatisch, geprägt von theatralischer Melancholie und besticht durch schwebende Gesangspassagen, die den Hörer dazu verleiten, aus dem Fenster auf einen regnerischen Friedhof zu blicken. Es ist Metal auf höchstem Niveau für die Seele.
 
-::genre::
+::genre::prog metal, prog rock, space rock, gothic rock
 
 ## Gus Drax - Theories Of Imperfection
 
-tbd
+Der Grieche *Drax* ist ein Gitarrenvirtuose, der für seine Arbeit mit *Suicidal Angels* und *Sunburst* bekannt ist. Dies ist sein zweites Soloalbum, das mehr als ein Jahrzehnt nach seinem Debüt erscheint. Dies ist ein Workshop für Gitarren-Akrobatik. Er ist unglaublich schnell und technisch anspruchsvoll, verliert dabei aber nie den Sinn für Melodie. Es klingt, als würde ein Supercomputer versuchen, eine Symphonie zu schreiben - makellos, voller Shredding und für Technikfreaks absolut atemberaubend.
 
-::genre::
+::genre::prog metal
 
 ## Hekz - Qisma
 
-tbd
+Das britische Kollektiv mit seinem neuesten Studio-Output. **Progressive Metal** mit einem "Classic Rock"-Herzen. *Qisma* (Schicksal) ist eine epische Geschichte, die durch donnernde Basslinien und schwebende Synthesizer erzählt wird. Der Song ist extravagant, abenteuerlich und wirkt wie ein Fantasy-Roman, der mit einem Double-Bass-Pedal zum Leben erweckt wurde. Das ist Prog mit großem P.
 
-::genre::
+::genre::prog metal, neo prog rock, hard rock
 
 ## Hellwalker - Law And Disorder
 
-tbd
+Das neueste Release des amerikanischen Outfits. Eine neue Kraft im **NWOBHM**, die sich auf rohe Energie und den rebellischen Geist der 80er Jahre konzentriert. Dieses Album ist im Grunde eine Lederjacke in akustischer Form. Es ist laut, dreckig und hat absolut kein Interesse daran, anständig zu sein. Es ist der perfekte Soundtrack, um Regeln zu brechen (oder einfach nur ein bisschen zu schnell zu fahren).
 
-::genre::
+::genre::speed metal, nwobhm
 
 ## Hiding Places - The Secret to Good Living
 
-tbd
+Die australische Formation mit ihrem neuesten Longplayer. Gespielt wird ein Mix aus **Dream Pop**, **Jangle Pop** und **Indie Rock**. Wenn du mal eine Pause vom ganzen Metal brauchst, ist dies dein Rückzugsort. Es ist luftig, melodisch und fühlt sich an wie ein warmer Nachmittag am Strand - auch wenn dich die Texte vielleicht an all deine peinlichen Teenager-Fehltritte erinnern. Es ist das Geheimnis für gute Laune.
 
-::genre::
+::genre::dreampop, jangle pop, indie rock, prog pop
 
 ## HIKAGE - human.
 
-tbd
+Die japanische Formation mit ihrem neuesten Output. Eine ungewöhnliche und experimentelle Mischung aus **Electronica**, **Hip-Hop** und **Alternative**. Eine etwas schrullige, aber wunderschöne Auseinandersetzung damit, was es bedeutet, Mensch zu sein. Der Track ist neongetränkt und futuristisch, doch hinter all den Synthesizern schlägt ein warmes Herz. Es ist ein klangliches Rätsel, zu dem man ebenso gerne tanzt wie man es gerne entschlüsselt.
 
-::genre::
+::genre::experimental electronica, hip hop, alt hip hop
 
 ## Houses We Die In - A Brief Glimpse of Solace
 
-tbd
+Die deutsche Formation mit ihrem neuesten Longplayer. Ein aufstrebender Name in der europäischen Alternative-Szene, bekannt für ihre eindringliche, emotionale Darbietung und ihre nackenbrechenden Riffs. Es ist ein kurzer Einblick, der mit der Wucht eines Güterzugs einschlägt. Die Musik schafft einen Ausgleich zwischen vernichtender Aggression und Momenten purer, melodischer Verletzlichkeit. Es ist Katharsis in ihrer reinsten Form - laut, roh und von tiefer Resonanz für alle, die auf der Suche nach ihrem eigenen Trost sind.
 
-::genre::
+::genre::emocore, post hardcore, screamo
 
 ## Hubris - Acts Of Sedition
 
-tbd
+Das amerikanische Quartett legt nach seinem Debüt vor 14 Jahren nun sein zweites Album vor. **Black Metal** mit atmosphärischen und technischen Elementen. Ein klanglicher Aufstand. Es ist kalt, schnell und kompromisslos und fängt das Gefühl der Trotzigkeit, das der Titel andeutet, perfekt ein. Es ist die Art von Metal, die sich wie ein Wintersturm anfühlt - rau, überwältigend und auf seltsame Weise majestätisch.
 
-::genre::
+::genre::atmo black metal, melo black metal
 
 ## Index For Working Musik - Bunker Intimations II
 
-tbd
+Entstanden aus der Londoner Underground-Szene, sind sie bekannt für ihre dichten Klangschichten und dafür, dass sie Genres durch eine Verschmelzung traditioneller Folk-Instrumente (wie Geigen) und chaotischem Noise weiterentwickeln. Eine Mischung aus **Experimental Post-Hardcore**, **Neofolk** und abstraktem **Noise**. Das ist Musik für eine Welt im „unerbittlichen Chaos“. Es ist ein „hybrides Kleinod“, das einen in eine dunkle, leicht unbehagliche, aber zutiefst hypnotische Atmosphäre zieht. Es fühlt sich an, als würde man eine verlassene Galerie erkunden – gleichermaßen unheimlich und avantgardistisch.
 
-::genre::
+::genre::noisecore, neofolk, post hardcore
 
 ## Joe Pernice - Sunny, I Was Wrong
 
-tbd
+Der amerikanische Singer & Songwriter mit seinem Debüt. Eine Mischung aus nachdenklichem **Pop/Rock** und **Americana**. Das ist Poesie mit Melodie. Es ist ein unglaublich intimes und eindringliches Album, auf dem *Pernice* mit unerschütterlicher Ehrlichkeit verpasste Gelegenheiten und alte Reue aufrechnet. Es ist wie ein ruhiges Gespräch auf der Veranda - bittersüß, weise und auf wunderschöne Weise zurückhaltend.
 
-::genre::
+::genre::country folk, pop rock, americana
 
-## Knumears - Directions Due
+## Knumears - Directions Due *
 
-tbd
+Die amerikanische Kapelle mit ihrem neuesten Studio-Werk. Eine der wichtigsten Bands des modernen Emo-Revivals der "fifth Wave", bekannt für ihre rasanten Instrumentalstücke und ihren emotionalen Gesang. Eine Mischung aus **Midwest-Emo**, **Screamo** und **Post-Hardcore**. Wenn du Musik magst, die sich anhört wie eine Panikattacke, gefolgt von einem langen, befreienden Schrei, dann ist das genau das Richtige für dich. Es ist chaotisch, herrlich chaotisch und genau das, was du brauchst, um um 2 Uhr morgens im Auto laut mitzuschreien.
 
-::genre::
+::genre::post hardcore, screamo, midwest emo
 
 ## Kronos Quartet - Glorious Mahalia
 
-tbd
+Das weltberühmte Streichquartett würdigt die legendäre Gospelsängerin *Mahalia Jackson*. Das Album enthält Archivaufnahmen von Jacksons Stimme sowie Interviews mit Bürgerrechtsführern wie *Dr. Martin Luther King Jr.* und *Clarence B. Jones*. Dies ist mehr als nur ein Album; es ist eine lebendige Geschichtsstunde. Das Quartett verwebt seine Klänge mit Mahalias kraftvollem, erderschütterndem Gesang und schafft so etwas, das sich zugleich uralt und dringlich modern anfühlt. Es ist tiefgründig, emotional und wahrhaft herrlich.
 
-::genre::
+::genre::modern classic, chamber music
 
 ## Lantlôs - Nowhere In Between Forever
 
-tbd
+Das deutsche Projekt mit seinem neuesten Output. Eine genreübergreifende Odyssee, die **Alternative Metal**, **Shoegaze** und **Synth-Pop** miteinander verschmilzt. Dieses Album ist ein digitales Mixtape aus verschwommenen Träumen. Es ist stellenweise überraschend eingängig und poppig, trägt aber dennoch diese schwere, rastlose Lantlôs-Seele in sich. Stellt euch das wie einen sonnigen Tag mit einem seltsamen, plastischen digitalen Glitch vor - ein perfekter Soundtrack für 90er-Kids, die sich immer noch ein bisschen heimatlos fühlen.
 
-::genre::
+::genre::alt metal, shoegaze, synth pop, nu gaze
 
 ## Letters From Wolves - Immortals
 
-tbd
+Die britische Formation mit ihrem neuesten Longplayer. Eine Mischung aus cineastischem **Alternative Rock** und **Modern Metal**. Dramatischer Rock mit Biss. Er versprüht diese düstere Wolfsrudel-Energie, die schwere Riffs mit elektronischen Klängen verbindet. Es ist die Art von Musik, bei der man das Gefühl hat, einem Sturm davonlaufen zu können - pulsierend und trotzig.
 
-::genre::
+::genre::alt rock, modern metal
 
-## Liminal Silence - Ballroom for Phantoms
+## Liminal Silence - Ballroom for Phantoms *
 
-tbd
+Der neueste Longplayer der amerikanischen Kapelle. Man mische **Post-Rock**, **Ambient** und **Doomgaze** in einem Mixer und schaffe so einen Fokus auf die liminalen Räume zwischen Stille und überwältigendem Klang. Genau das, was der Titel verspricht - gespenstisch, elegant und ein klein wenig beunruhigend. Es ist ein Album, das sich langsam entfaltet und gewaltige Klangwände aufbaut, nur um sie dann zu einem Flüstern zerfallen zu lassen. Perfekt für alle, die gerne durch spukhafte Gedankenlandschaften streifen.
 
-::genre::
+::genre::post rock, ambient, doomgaze
 
 ## Luke Grimes - Redbird
 
-tbd
+Das neueste Release des amerikanischen Singer & Songwriter und Schauspieler. Obwohl Grimes vor allem für seine Rolle in der Fernsehserie *Yellowstone* bekannt ist, hat er erfolgreich den Sprung in die Country-Musik geschafft und setzt dabei auf einen rauen, traditionellen Sound. Das ist Musik für die offene Straße. Sie hat die Rauheit einer staubigen Ranch und die Seele eines klassischen Lagerfeuerliedes. Es ist authentischer, schnörkelloser Country, der sich in einer Spelunke genauso zu Hause fühlt wie auf einer großen Bühne.
 
-::genre::
+::genre::country folk, country rock, roots rock, americana
 
 ## Malauriu - The Third Nail
 
-tbd
+Das neueste Release des italienischen Projekts. Das Projekt ist bekannt für seine rohen, primitiven Aufnahmen, die sich mit sizilianischen religiösen Traditionen und Horror auseinandersetzen. Sie spielen **Black Metal**, gemischt mit **Blackened Punk** und rituell-okkultistischen Themen. Im wahrsten Sinne des Wortes höllisch - im besten Sinne. Es ist ein wildes, schmutzverkrustetes Stück Metal, das klingt wie ein Ritual, das in einer verlassenen Krypta abgehalten wird. Düster, dreckig und absolut unerbittlich.
 
-::genre::
+::genre::raw black metal, crust
 
 ## Maria Taylor - Story’s End
 
-tbd
+Das neueste Solo-Werk der amerikanischen Singer & Songwriterin. Eine stimmungsvolle Mischung aus **Folk-Pop**, **Indie-Rock** und **Chamber-Pop**. Zart, eindringlich und unglaublich intim. Es ist, als würde man das Tagebuch einer Person lesen, während im Hintergrund ein Cello spielt - vielleicht rührt es einen zu Tränen, aber die verändernde Hoffnung am Ende macht den Herzschmerz wieder wett.
 
-::genre::
+::genre::folk pop, indie rock, indie pop, chamber pop
 
 ## Michael Sweet - The Master Plan
 
-tbd
+Als Frontmann von *Stryper* ist Sweet seit 40 Jahren eine tragende Säule der christlichen Metal-Szene. Dies ist sein neuestes Solo-Projekt, das auf eine Reihe erfolgreicher, härterer Veröffentlichungen folgt. Es ist eine Meisterleistung in Sachen stadiontauglichem Glauben. Hochoktanige Riffs treffen auf schwebende, melodische Vocals, die beweisen, dass Sweets Stimme immer noch eines der kraftvollsten Instrumente im Rock ist. Man denke an den Glanz der 80er Jahre mit dem Schliff von 2026.
 
-::genre::
+::genre::hard rock, arena rock, melo metal
 
 ## MIKE, Earl Sweatshirt, SURF GANG - POMPEII // UTILITY
 
-tbd
+Die jahrzehntelange Freundschaft zwischen MIKE und Earl gipfelt in dieser Doppel-LP mit 33 Titeln. **Experimental Hip-Hop**, abstrakter Rap und **Mellow Trap**. Das Album ist stark vom gemeinsamen kreativen Ökosystem der Underground-Szene geprägt. Es ist eine Siegesrunde für zwei der brillantesten Introvertierten des Rap. Es fühlt sich an wie ein nächtliches Gespräch in einem verrauchten Raum - dicht, nachdenklich und gelegentlich schräg, aber immer zutiefst menschlich.
 
-::genre::
+::genre::experimental hip hop, trap
 
 ## Miserable chillers - Innocent victims
 
-tbd
+Das Soloprojekt von Miguel Gallego, der sich vom "Bummer-Pop" hin zu hochkomplexen, orchestralen Arrangements entwickelt hat, legt ein neues Album vor. Das ist intelligente "Adult Alternative"-Musik, die sich anfühlt wie eine verblasste Polaroid-Erinnerung. Sie ist skurril und ein wenig esoterisch und schafft es, einen Song über eine Radtour durch die Stadt wie ein filmisches Erlebnis wirken zu lassen.
 
-::genre::
+::genre::alt pop, baroque pop, prog pop
 
-## Nature Morte - Still Life
+## Nature Morte - Still Life *
 
-tbd
+Das neueste Studio-Output der französischen Kapelle. **Blackgaze** und **Post Black Metal**. Sie verbinden zarte Indie-Rock-Melodien mit zerstörerischen "Wall of Sound"-Atmosphären. Wenn du es genießt, dich zutiefst traurig zu fühlen, während dich ein Wirbelsturm aus Verzerrungen umhüllt, ist das genau das Richtige für dich. Es ist wunderschön, überwältigend und zutiefst introspektiv - als würde man ein Meisterwerk in einer brennenden Galerie betrachten.
 
-::genre::
+::genre::blackgaze, post black metal
 
 ## Nervosa - Slave Machine
 
-tbd
+Die brasilianische Formation mit ihrem neuesten Longplayer. Dieses Album schlägt ein wie ein Vorschlaghammer. Es ist schneller und brutaler als ihre bisherigen Werke, besticht aber in den Brücken durch eine überraschende alternative Eingängigkeit. Es ist der Klang eines ausbrechenden Metal-Vulkans und wohl ihr bisher ausgereiftestes Werk.
 
-::genre::
+::genre::thrash metal, groove metal
 
 ## No Terror In The Bang - Existence
 
-tbd
+Das französische Quintett mit neuen Studiomaterial. Cinematic **Progressive Metal**. Sie verbinden zarte Melodien mit unbändiger Wut. Mit einer Spielzeit von nur 20 Minuten ist diese EP ein Sprint durch eine zusammenbrechende digitale Landschaft. Sie ist dramatisch, schwer wie ein herabstürzender Safe, und Sofias formwandelnder Gesang ist wahrhaft eindringlich. Es fühlt sich an wie der Soundtrack eines hochkarätigen Science-Fiction-Films zum Weltuntergang.
 
-::genre::
+::genre::prog metal, djent
 
 ## Noi!se - Fate Of The Union
 
-tbd
+Das dritte Release in der Discography der amerikanische Kapelle. Melodischer **Streetpunk** und **Oi!** mit einem Doppelgitarren-Angriff. Zu den Einflüssen zählen **Soul**, **Hardcore** und **Reggae**. Auch nach zehn Jahren haben sie noch immer das gewisse Etwas. Das ist knallharter Punk, der einen tatsächlich zum Nachdenken anregt, während man laut mitsingt. Wenn du laute Riffs und tiefgründige Texte magst, ist das hier deine neue Hymne für dieses Jahr.
 
-::genre::
+::genre::streetpunk, hardcore punk, soul, raggae
 
 ## Non Est Deus - Blessings And Curses
 
-tbd
+Das Nebenprojekt von *Noise*, dem kreativen Kopf hinter der Band *Kanonenfieber*, mit seinem neuen Album. Bekannt für scharfsinnige gesellschaftliche und religiöse Kommentare, verpackt in rasanten Riffs. Diese Veröffentlichung knüpft an eine Reihe erfolgreicher Underground-Kultalben an. Man stelle sich eine Kathedrale vor, die in Zeitlupe einstürzt, während eine Metal-Band in den Trümmern spielt. Es ist grandios, aggressiv und zutiefst skeptisch gegenüber allem Heiligen. Ein absolutes Muss für Fans von ausgefeiltem und zugleich gnadenlosem Black Metal.
 
-::genre::
+::genre::melo black metal
 
 ## Obey The Sun - Desert Ritual
 
-tbd
+Die ungarische Formation mit seiner Debüt EP. **Grunge** und **Groove Metal** mit einem Hauch von **Alternative Metal**. Das ist Metal, der einem Sand zwischen die Zähne bringt. Er hat das düstere, schwere Herz des Seattle-Grunge der 90er Jahre, gepaart mit der mechanischen Präzision des modernen Groove Metal. Stell dir *Alice in Chains* vor - nur wenn sie in einer Wüste leben und einen Panzer besitzen würden.
 
-::genre::
+::genre::alt metal, post grunge, groove metal
 
 ## Omah Lay - Clarity of Mind
 
-tbd
+Der niegerianische Singer & Songwriter mit seinem Sophomore Longplayer. Es wird als introspektiver **Afrobeats** und **Afropop** beschrieben. War sein erstes Album der Sturm, so ist dies die Ruhe danach. Es ist gefühlvoll, nachdenklich und klingt wie ein Sonnenaufgang nach einer sehr langen Nacht. Die Stimmung ist heilend, aber bitte als clubtauglicher Groove.
 
-::genre::
+::genre::afrobeat, afropop, alt pop
 
 ## Paul Cauthen - Book of Paul
 
-tbd
+Der amerikanische Singer & Songwriter mit seinem neuesten Studioalbum. Eine Fuison aus **Country Folk**, **Acid Funk**, **Blues**, **Americana** und **Roots Rock**. Es ist ein Gospel-Revival in einer verrauchten Lounge in Las Vegas. Cauthens Stimme könnte die Fenster einer Kathedrale zum Klirren bringen, und die Musik ist ebenso theatralisch - zu gleichen Teilen Samtanzug und staubige Cowboystiefel.
 
-::genre::
+::genre::gospel, country folk, acid funk, blues, americana, roots rock
 
 ## phil//mills - I cried when they cut my hair
 
-tbd
+Das neueste Solo-Release vom niederländischen Producer und Singer & Songwriter. *Mills* blickt auf eine lange Geschichte in der elektronischen und experimentellen Musik zurück. Dieses Projekt widmet sich seiner eher gefühlvollen, facettenreichen Art des Songwritings, geprägt von Einflüssen aus **Shoegaze**, **Ambient** und **Lo-Fi-Indie**. Ein Album wie ein verschwommener, wunderschöner Tagtraum. Es klingt wie das Gefühl, durch ein regennasses Fenster zu blicken und sich dabei an ein Geheimnis aus der Kindheit zu erinnern. Es ist zart, atmosphärisch und ein klein wenig herzzerreißend.
 
-::genre::
+::genre::shoegaze, ambient, lofi, indie pop, indie rock
 
 ## Philine Sonny - Virgin Lake
 
-tbd
+Das Debüt der deutschen Singer & Songwriterin. Melancholischer **Indie-Rock** und **Folk** mit der Intimität des **Bedroom Pop**. Eine euphancholische (euphorische + melancholische) Reise durch das Erwachsenenleben. Es ist ein verletzlicher, intelligenter Indie-Rock, der sich anfühlt wie eine lange Heimfahrt nach einer Trennung – schmerzhaft, aber auf seltsame Weise schön.
 
-::genre::
+::genre::indie rock, indie folk, bedroom pop
 
 ## Poison Ruin - Hymns from the Hills
 
-tbd
+Das amerikanische Outfit mit seinem neuesten Release. Eine „oi-rumply“ Mischung aus **Post-Punk**, Dungeon-**Synth** und **Metal**. Sie klingen wie Crust-Punks, die zu viel Zeit damit verbracht haben, Tolkien zu lesen. Das ist „Chainmail-Punk“. Es ist hymnisch, Lo-Fi und weckt den Wunsch, eine Burg zu stürmen - oder zumindest einen sehr aggressiven Moshpit. Es ist DIY-Fantasy für die moderne Zeit.
 
-::genre::
+::genre::post punk, synth metal, crust
 
-## Rats Will Feast - An Evocation
+## Rats Will Feast - An Evocation *
 
-tbd
+Die Finnen mit neuen Material. **Experimental/Metallic Hardcore**, gemischt mit geräuschvoller **Psychedelia** und **Post-Rock**. Stell dir vor, du bist in einer wunderschönen, hallenden Höhle gefangen, während dir jemand gelegentlich über eine Wand aus verzerrten Gitarren hinweg Gedichte entgegenbrüllt. Es ist kathartisch, überwältigend und zutiefst emotional.
 
-::genre::
+::genre::experimental hardcore, metallic hardcore, post rock, psych rock
 
 ## Relic - Crown Of Flies
 
-tbd
+Die amerikanische Kapelle mit ihrem neuesten Full-Length. **Blackened Death Metal**. Der Sound zeichnet sich durch eine Mischung aus der Wucht des Old-School-Death-Metal und einer schroffen, düsteren Atmosphäre aus. Ein unerbittlicher Klangangriff. Es ist düster, heavy und riecht leicht nach Schwefel - perfekt für alle, denen gewöhnlicher Death Metal für den morgendlichen Weg zur Arbeit einfach nicht böse genug ist.
 
-::genre::
+::genre::blackened death metal, osdm
 
 ## Robber Robber - Two Wheels Move the Soul
 
-tbd
+Das Sophomore Release der amerikanischen Formation. Dynamischer **Indie-Rock** und **Alternative** mit einem starken **Electronica**-Einschlag der 90er Jahre. Hätte Angst einen eingängigen Rhythmus, dann wäre es genau dieser. Es ist mitreißender Rock, der sich anfühlt wie ein koffeingetriebener Sprint durch eine neonbeleuchtete Stadt und dabei die raue Energie des Post-Punk mit überraschend tanzbarer Elektronik verbindet.
 
-::genre::
+::genre::electropunk, alt rock, indie rock, edm
 
 ## Sam Barber - Broken View
 
