@@ -64,7 +64,7 @@ Ja, die britische Pop-Legende mit einem neuen Werk. Wer schon immer mal neue Tun
 
 Die kanadische Skate-/Pop-Punk Band mit einem neuen Output. Singalong Punk der kalifornischen Art und Weise. Ich habe immer noch ein Herz für diesen Shit.
 
-::genre::pop punk, skate punk
+::genre::pop punk, skatepunk
 
 ## Dreamwake - The Lost Years
 

@@ -208,7 +208,7 @@ Die Australier mit ihrem neuesten Werk. Treibender Brit-Indie-Rock, welcher mein
 
 Die kanadischen Pop-/Skate-Punker mit einem neuen Output. Ob das wirklich nötig war, mag ich bezweifeln. Ich konnte allerdings mit Propagandhi noch nie etwas anfangen. Musikalisch wollten die Kanadier immer irgendwie etwas “Anderes” in den Skate-Punk bringen, ob sie es geschafft haben, liegt vermutlich im Auge des Betrachters oder Fans.
 
-::genre::pop punk, skate punk
+::genre::pop punk, skatepunk
 
 ## Puddle Of Mudd - Kiss The Machine
 

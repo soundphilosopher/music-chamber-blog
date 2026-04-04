@@ -34,7 +34,7 @@ Die beiden in Hong Kong lebenden Producer mit ihrer Kollaboration. Downtempo Amb
 
 Das Gespann aus Minnesota mit einem neuen Output. Midwest influenced Punk-Rock, welcher sich auch gern beim Skatepunk bedient.
 
-::genre::midwest emo, pop punk, skate punk
+::genre::midwest emo, pop punk, skatepunk
 
 ## Brian Eno, Beatie Wolfe - Lateral *
 

@@ -34,6 +34,7 @@ from enum import Enum
 from pathlib import Path
 
 from bs4 import BeautifulSoup
+from markdownify import markdownify
 from colorama import Fore, Style
 
 
@@ -160,7 +161,7 @@ def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
 
             review_tag = tag.find_next_sibling("p")
             if review_tag:
-                review = review_tag.get_text()
+                review = markdownify(str(review_tag))
                 log.debug(f"review={review}")
 
                 genres_tag = review_tag.find_next_sibling(name="p")

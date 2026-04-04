@@ -378,7 +378,7 @@ Die neue EP der amerikanischen Kapelle. Death Thrash Metal der Old School Schien
 
 Der neueste Longplayer der Florida-Based Formation. Die “Erfinder” des Easycore (Pop Punk with Breakdowns) bringen ihre Energie wieder voll zur Ausprägung und gehen mit diesem Release wieder mehr in ihre Anfangszeit. Chad spielte seine Gitarre zwischen Chemotherapie und Krankenhaus ein. Auch wenn die College-y Texte ein wenig cheesy wirken von Menschen, die in meiner Alters-Liga sind, passt es einfach super zu der musikalischen Untermalung und bringt eine gewisse Nostalgie zum Vorschein.
 
-::genre::easycore, pop punk, skate punk
+::genre::easycore, pop punk, skatepunk
 
 ## Nightshade - In Essence Divided *
 
