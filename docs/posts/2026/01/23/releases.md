@@ -166,7 +166,7 @@ Das “Welcome Back” des britischen Outfits. Nachdem sie sich 2015 getrennt ha
 
 Der neunte Longplayer der LA-Based Band in ihrer Karriere. Ein der einflussreichsten Ska-Punk-Kapellen sind nicht wirklich im Sound und Songwriting gealtert. Weiter wird ein Werk zwischen Skate- und Pop-Punk abgeliefert, diesmal mit weniger Ska-Punk anlagen. Alles ist ein wenig straighter im Sound geworden, was nicht immer schlecht ist für den OC-Punk-Sound. Viel Unterstützung bekommen sie auch von Blink-182 bis Pennywise.
 
-::genre::ska punk, skate punk, pop punk
+::genre::ska punk, skatepunk, pop punk
 
 ## Helix - Scrap Metal
 

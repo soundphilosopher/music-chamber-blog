@@ -541,7 +541,7 @@ Die finnischen Death Metaller mit ihrem Debüt Longplayer. Tief verwurzelt in de
 
 Die amerikanische Formation mit ihrem zehnten Longplayer in ihrer Discography. Mit ihrem aggressiven Songwriting und cathy Melodien, haben sie geholfen den Melodic Hardcore zu schleifen. Das ist nicht nur eine Sammlung von Songs, sondern ein 13-Track-Überlebensleitfaden für die heutige Zeit. Das Album ist überraschend bewusst und durchdachter als ihre früheren, rasanten Alben; es lässt Raum für düstere, dissonante Spannungen, liefert aber dennoch den energiegeladenen, mitreißenden Punk, den man erwartet. Es ist der perfekte Soundtrack, wenn man gegen das System ankämpfen will, aber auch einen richtig guten Refrain braucht, den man laut mitsingen kann.
 
-::genre::skate punk, punk rock, melo hardcore
+::genre::skatepunk, punk rock, melo hardcore
 
 ## Gordon Grdina, Russ Lossing - TURNPIKE
 
@@ -979,7 +979,7 @@ Die finnische Formation mit ihrem neuesten Longplayer. Wenn du gerne auf einen g
 
 Das neueste Studioalbum des amerikanischen Trios. Ein energiegeladenes Pop-Punk-/Skate-Punk-Trio, das für seine rasanten Live-Auftritte und seinen selbstironischen Humor bekannt ist. Der Titel ist eine Stimmung. Dieses Album ist ein rasender, 25-minütiger Sprint durch die Ängste des Erwachsenenlebens und fragwürdige Lebensentscheidungen. Es ist laut, schnell und enthält genug Whoa-oh-Refrains, um jedes Kind der 90er-Jahre zufrieden zu stellen. Es ist das musikalische Äquivalent eines Koffeinabsturzes – nervös, ehrlich und unglaublich unterhaltsam.
 
-::genre::pop punk, skate punk
+::genre::pop punk, skatepunk
 
 ## Only Human - Planned Obsolescence
 

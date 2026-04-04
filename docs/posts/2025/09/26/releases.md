@@ -438,7 +438,7 @@ Das Trio um den österreichischen Jazz-Gitarristen Wolfgang Muthspiel, dem ameri
 
 Die deutschen Skatepunker mit ihrem neuesten Release. Ist damit alles geschrieben zur Musik? Ja.
 
-::genre::punk rock, skate punk
+::genre::punk rock, skatepunk
 
 --- 
 

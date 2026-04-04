@@ -16,7 +16,7 @@ Die amerikanische Formation mit ihrer neuesten EP. Ein Werk welches Metallic Har
 
 Der neueste Longplayer der amerikanischen Kapelle. Ihre Kompositionen verstehen es eingängig modernen Heavy Metal, Progressive Thrash Metal und Skate Punk zu fusionieren. Dabei wird viel Wert auf die catchiness der Songs gelegt, welche mit viel progressiven Strukturen durchsetzt sind, was das Gesamtwerk sehr spannend erscheinen lässt.
 
-::genre::prog thrash metal, skate punk, modern metal, heavy metal
+::genre::prog thrash metal, skatepunk, modern metal, heavy metal
 
 ## Above the Broken - Redemption
 

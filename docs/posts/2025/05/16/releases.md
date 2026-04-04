@@ -268,7 +268,7 @@ Die Modern Metal Band aus Estland mit ihrem neuesten Release. Gewohnter moderner
 
 Die tschechische Band mit ihrem neuesten Output. Pop-/Skatepunk der Warped Tour Generation. Solides Release.
 
-::genre::pop punk, skate punk
+::genre::pop punk, skatepunk
 
 ## Reuben James - Big People Music
 
