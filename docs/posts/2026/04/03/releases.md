@@ -2,7 +2,6 @@
 date: 2026-04-03
 pin: true
 bandcamp: false
-draft: true
 categories:
   - Releases
 ---
@@ -11,35 +10,23 @@ categories:
 
 ## 41 - AREA 41
 
-tbd
+Das amerikanischer Rapper Kollektiv mit seinem Debüt Studio-Longplayer. Eine Mischung aus Brooklyn **Drill**, Jersey Club und melodischem **Hip-Hop**. "AREA 41" - das ist der Sound, der die Straßen von Brooklyn zum Kochen bringt. Die Chemie zwischen den drei Musikern ist elektrisierend: Sie liefern sich einen Schlagabtausch über gläsernen Synth-Teppichen und erderschütternden Bässen. Es ist energiegeladen, kokett und zweifellos aktuell. Wenn der Sound des ersten Albums oben noch ein Aufruhr war, dann ist dieses hier die Party, die direkt danach losgeht.
 
-::genre::
-
-## A Place to Bury Strangers - Rare And Deadly
-
-tbd
-
-::genre::
-
-## Ain Sof Aur - Theos-Vel-Samael
-
-tbd
-
-::genre::
-
-<!-- more -->
+::genre::drill, hip hop
 
 ## AllNineYards - Violet
 
-tbd
+Die deutsche Formation mit ihrem neuesten Output. Sie spielen eine Mischung aus **Modern Rock** und **Alternative Metal** mit Einflüssen aus **Pop-Punk** und **Nu-Metal**. Das ist Party-Metal mit Herz. Er verbindet schwere Riffs mit Pop-Melodien, die im Ohr bleiben. Er ist emotional, dynamisch und wie geschaffen dafür, bei einem Live-Konzert laut mitzusingen.
 
-::genre::
+::genre::modern metal, alt metal, power pop, nu metal
 
 ## Altared States - Borrowed Time
 
-tbd
+Technisch gesehen das Comeback-Full-Length der amerikanischen Thrasher. Old-School-**Thrash-Metal** mit Einflüssen aus dem **neoklassischen** und **progressiven Metal**. "Borrowed Time" ist eine energiegeladene Reise zurück in die goldene Ära des Thrash. Das Album ist schnell, roh und voller unbeugsamem Geist. Es ist genau die Art von Platte, bei der man sofort den nächsten Moshpit suchen möchte.
 
-::genre::
+::genre::thrash metal
+
+<!-- more -->
 
 ## Amerikan Kaos - The Sheeple Swing
 
@@ -49,27 +36,27 @@ Das internationale Projekt unter der Leitung des Gitarrenvirtuosen Jeff Waters (
 
 ## Anasarca - Achlys
 
-tbd
+Die Veteranen der deutschen Death-Szene mit ihrem neuesten Longplayer. Ihr Stil ist knallharter **Old-School-Death-Metal**. Ein unerbittlicher akustischer Schlag. Wenn du die Zeiten vermisst, in denen Death Metal sich wie eine düstere, physische Last anfühlte, ist dies dein Soundtrack. Es ist Blasting im traditionellsten Sinne - ungefiltert und schwer wie Blei.
 
-::genre::
+::genre::osdm
 
-## Angine de Poitrine - Vol. II
+## Angine de Poitrine - Vol. II **
 
-tbd
+Das Sophomore Release des kanadischen Duos. Ein selbsternanntes "Mantra-Rock-Dada-Pythagoreisch-Kubistisches Orchester". Genauer gesagt handelt es sich um eine Mischung aus **Math Rock**, **Avant-Prog** und mikrotonalem **Psychedelic Rock**. Das ist unsexy Musik, die einfach unwiderstehlich ist. Es klingt wie ein betrunkener Mathelehrer, der versucht zu tanzen - abgehackt, schräg und unglaublich groovig. Es ist eine mikrotonale Menagerie, die zugleich ein technisches Meisterwerk und ein absoluter Wahnsinn ist.
 
-::genre::
+::genre::math rock, avant prog rock, psych rock
 
 ## Apolaustic - No Plenitude Without Suffering
 
-tbd
+Das Debüt des schweizer Trios. Eine hochwertige Mischung aus klassischem europäischem **Melodic Death Metal** mit einem dunklen, atmosphärischen **Black-Metal**-Touch. Lass dich vom Wort Leiden im Titel nicht abschrecken - dies ist ein atemberaubendes Werk von technischer Brillanz. Es schafft es, brutal schnell und eiskalt zu sein und gleichzeitig diese gewaltigen, schwebenden Melodien zu bieten, die einem im Gedächtnis bleiben. Es ist raffinierte Wildheit, die beweist, dass Schweizer Metal so präzise (und scharf) ist wie ein Taschenmesser.
 
-::genre::
+::genre::melo death metal, blackened death metal
 
 ## Arlo Parks - Ambiguous Desire
 
-tbd
+Die Mercury-Prize-Gewinnerin schlägt auf ihrem dritten Album einen kühnen neuen Kurs ein und tauscht ihren Live-Band-Indie-Sound gegen modulare Synthesizer, Sampler und pulsierende Club-Texturen ein. *Arlo* tanzt den Schmerz weg auf diesem Album. Es ist euphorisch, verletzlich und fängt die schweißtreibende Magie einer dunklen Tanzfläche um 1 Uhr morgens ein. Ihre poetischen Texte sind immer noch da, aber jetzt reiten sie auf Breakbeats und schimmernden Synthesizern. Es ist der ultimative hoffnungsvolle Schmerz für deine Late-Night-Playlists.
 
-::genre::
+::genre::synth pop, edm, ebm
 
 ## As A Flame - Without Warning
 
@@ -79,7 +66,7 @@ Und die Sameness geht weiter. Die britische Formation mit ihrem Debüt. Dieses A
 
 ## Belexum - Belexum
 
-Die neue Supergroup, bestehend aus Mitgliedern von _Cloak_, _Mystic Priestess_ und _All Your Sisters_. Ihr Debütalbum ist eine düstere, treibende Mischung aus **Goth-Rock**, **Post-Punk** und **Blackened Heavy Metal**. Wenn du schon immer wissen wolltest, was passiert, wenn man eine Goth-Party in Lederkluft in einer brennenden Kirche schmeißt, dann ist das hier genau das Richtige. Es hat all die gruseligen Synthesizer-Klänge der 80er, aber mit einem harten, metallischen Touch, der dafür sorgt, dass niemand ohne ein bisschen Schmutz unter den Fingernägeln nach Hause geht. Pure, nächtliche Energie.
+Die neue Supergroup, bestehend aus Mitgliedern von *Cloak*, *Mystic Priestess* und *All Your Sisters*. Ihr Debütalbum ist eine düstere, treibende Mischung aus **Goth-Rock**, **Post-Punk** und **Blackened Heavy Metal**. Wenn du schon immer wissen wolltest, was passiert, wenn man eine Goth-Party in Lederkluft in einer brennenden Kirche schmeißt, dann ist das hier genau das Richtige. Es hat all die gruseligen Synthesizer-Klänge der 80er, aber mit einem harten, metallischen Touch, der dafür sorgt, dass niemand ohne ein bisschen Schmutz unter den Fingernägeln nach Hause geht. Pure, nächtliche Energie.
 
 ::genre::gothic rock, post punk, dark wave, gothic metal
 
@@ -197,13 +184,13 @@ Das sechste Album der italienischen Veteranen. Verwurzelt im ursprünglichen **B
 
 ::genre::blackened thrash metal
 
-## Deathbird Earth - Objective Consciousness *
+## Deathbird Earth - Objective Consciousness
 
 Das Debüt des amerikanischen **Psychedelic**- und **Space-Rock**-Duos. Wenn du schon immer einmal durch ein Schwarzes Loch schweben wolltest, während dein Gehirn vor verzerrter, unruhiger Energie vibriert, dann ist dies dein Soundtrack. Es ist gepflegter Noise für den Nachdenklichen - atmosphärisch, trippig und perfekt für eine nächtliche Session, in der man an die Decke starrt.
 
 ::genre::space rock, psych rock, krautrock
 
-## Doodseskader - The Change Is Me *
+## Doodseskader - The Change Is Me
 
 Das belgische Duo, bestehend aus Tim De Gieter (*Amenra*) und Sigfried Burroughs (*Kapitan Korsakov*), präsentiert sein neues Album. Ihr Sound ist eine genreübergreifende Mischung aus **Industrial Dream Pop**, **Hip-Hop** und **Sludge**. Das ist das unberechenbare Kind einer Mischung aus Witch-House-Rave und Stadion-Rockkonzert. Es markiert eine Abkehr von ihrem früheren "Year"-Zyklus hin zu einem Sound, der selbstbewusster, aber dennoch überwältigend ist. Es ist beunruhigend, wunderschön und absolut gewaltig.
 
@@ -353,9 +340,9 @@ Die britische Formation mit ihrem neuesten Longplayer. Eine Mischung aus cineast
 
 ::genre::alt rock, modern metal
 
-## Liminal Silence - Ballroom for Phantoms *
+## Liminal Silence - Ballroom for Phantoms
 
-Der neueste Longplayer der amerikanischen Kapelle. Man mische **Post-Rock**, **Ambient** und **Doomgaze** in einem Mixer und schaffe so einen Fokus auf die liminalen Räume zwischen Stille und überwältigendem Klang. Genau das, was der Titel verspricht - gespenstisch, elegant und ein klein wenig beunruhigend. Es ist ein Album, das sich langsam entfaltet und gewaltige Klangwände aufbaut, nur um sie dann zu einem Flüstern zerfallen zu lassen. Perfekt für alle, die gerne durch spukhafte Gedankenlandschaften streifen.
+Der neueste Longplayer der amerikanischen Kapelle. Man mische **Post Hardcore** und **Modern Metalcore** in einem Mixer und schaffe so einen Fokus auf die liminalen Räume zwischen Stille und überwältigendem Klang. Genau das, was der Titel verspricht - gespenstisch, elegant und ein klein wenig beunruhigend. Es ist ein Album, das sich langsam entfaltet und gewaltige Klangwände aufbaut, nur um sie dann zu einem Flüstern zerfallen zu lassen. Perfekt für alle, die gerne durch spukhafte Gedankenlandschaften streifen.
 
 ::genre::post rock, ambient, doomgaze
 
@@ -467,7 +454,7 @@ Das amerikanische Outfit mit seinem neuesten Release. Eine „oi-rumply“ Misch
 
 ::genre::post punk, synth metal, crust
 
-## Rats Will Feast - An Evocation *
+## Rats Will Feast - An Evocation **
 
 Die Finnen mit neuen Material. **Experimental/Metallic Hardcore**, gemischt mit geräuschvoller **Psychedelia** und **Post-Rock**. Stell dir vor, du bist in einer wunderschönen, hallenden Höhle gefangen, während dir jemand gelegentlich über eine Wand aus verzerrten Gitarren hinweg Gedichte entgegenbrüllt. Es ist kathartisch, überwältigend und zutiefst emotional.
 
@@ -529,9 +516,9 @@ Das spanische **Death/Doom-Metal**-Projekt, an dem Mitglieder der spanischen Und
 
 ## Splendidula - Absentia *
 
-Das belgische Power-Quintett, das die Schnittstelle zwischen **Post-Doom** und **Sludge** meisterhaft beherrscht, und ihr neues Album. Mit dem eindringlichen, ätherischen Gesang von Kristien Cools im Kontrast zu vernichtenden Riffs. Ein wunderschöner Albtraum. Er schafft den perfekten Ausgleich zwischen der Dynamik von Die Schöne und das Biest - in einem Moment schwebt man in einem traumhaften Dunst, und im nächsten wird man in einen Sumpf aus verzerrten Gitarrenklängen hineingezogen.
+Das belgische Power-Quintett, das die Schnittstelle zwischen **Post-Doom**, **Post Black Metal** und **Sludge** meisterhaft beherrscht, und ihr neues Album. Mit dem eindringlichen, ätherischen Gesang von Kristien Cools im Kontrast zu vernichtenden Riffs. Ein wunderschöner Albtraum. Er schafft den perfekten Ausgleich zwischen der Dynamik von Die Schöne und das Biest - in einem Moment schwebt man in einem traumhaften Dunst, und im nächsten wird man in einen Sumpf aus verzerrten Gitarrenklängen hineingezogen.
 
-::genre::atmo doom metal, post sludge metal, post doom metal
+::genre::atmo doom metal, post sludge metal, post doom metal, post black metal
 
 ## Stafrænn Hákon - Suð/Kókos
 
@@ -581,7 +568,7 @@ Das amerikanische Projekt, das sich mit seinem Debütalbum stark dem Horror-Core
 
 ::genre::dark wave, synth wave, experimental electronica, ebm
 
-## The Darker Shore - Further Regions *
+## The Darker Shore - Further Regions
 
 Das britische Atmospheric-Projekt, das sich durch die Tiefen des **Post-Metal** und **Sludge** bewegt. Sie haben sich auf langatmige, sich aufbauende Kompositionen spezialisiert, bei denen Stimmung und Klangtextur im Vordergrund stehen. Eine eindringliche Reise ins Unbekannte. Es fühlt sich an, als würde man einen weiten, dunklen Ozean erkunden - mal ruhig und wunderschön, mal überwältigend mächtig und tief.
 
@@ -623,7 +610,7 @@ Das norwegische Quartett mit seinem Debüt Full-Length. Eine düstere Mischung a
 
 ::genre::gothic metal, dark metal
 
-## Wagoneer - Redesign *
+## Wagoneer - Redesign
 
 Das amerikanische Quartett mit seinem neuesten Longplayer. Sie bezeichnet ihren Sound als **Twang Rock** - eine Mischung aus rauem, melodischem **Alternative Rock** und **Memphis-Blues**. Purer Spaß mit einer hammermäßigen Rhythmusgruppe und zwei Gitarren, die sich nicht scheuen, Soli zu spielen. Ein passender Name für eine Band, die ihren Sound zu etwas Kühnerem, Melodischerem und einzigartig Amerikanischem weiterentwickelt.
 
@@ -705,7 +692,7 @@ Das neueste Full-Length des amerikanischen Multi-Instrumentalisten Jonathan Spru
 
 ::genre::psych rock, prog rock, space rock, avant rock, indie rock, instrumental
 
-## Forgotten Silence - Idola Specus *
+## Forgotten Silence - Idola Specus
 
 Die Veteranen der tcheschischen Avant-Garde-Szene sind zurück mit neuen Studio-Kompositionen. Sie gelten als eine der unberechenbarsten Bands der europäischen Underground-Szene. Aus ihren **Death/Doom**-Wurzeln haben sie sich zu einer hochkomplexen **Experimental-/Progressive-Metal**-Band entwickelt, die Elemente des **Jazz-Fusion** und **Ambient**-Klänge in ihre Musik einfließen lässt. Das ist eine echte Denksportaufgabe. In einem Moment steht man noch in einem Heavy-Metal-Moshpit, im nächsten befindet man sich in einer verrauchten Jazz-Lounge. Es ist komplex, anspruchsvoll und belohnt Zuhörer, die genau hinhören.
 
