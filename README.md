@@ -17,6 +17,7 @@ Built with [MkDocs Material](https://squidfund.github.io/mkdocs-material/) and p
 | 📊 **Monthly Top Lists** | The best of each month, complete with album artwork in a beautiful grid layout |
 | 🏆 **Yearly Top 25** | The cream of the crop — a ranked year-end list with cover art |
 | 💎 **Top 25 Lifetime** | The all-time hall of fame. Beatles to Portishead. Wire to N.W.A. No genre left behind. |
+| 🎸 **Genre Overview** | A full auto-generated genre index linking every tagged release, with a live filter |
 | 📡 **RSS Feed** | Subscribe to the blog via RSS and never miss a release |
 
 ---
@@ -36,11 +37,23 @@ A custom [MkDocs hook](scripts/hooks/mark_top_picks.py) powered by BeautifulSoup
 
 ### Auto-Generated Recaps 🤖
 
-A [generator script](scripts/generators/current_recap_list.py) crawls all the weekly release lists, collects every starred entry, and automatically produces monthly recap pages — grouped by month, linked back to the original review. Write your reviews, sprinkle some stars, and the recaps build themselves.
+A [generator script](scripts/generators/monthly_recap_draft.py) crawls all the weekly release lists, collects every starred entry, and automatically produces monthly recap pages — grouped by month, linked back to the original review. Write your reviews, sprinkle some stars, and the recaps build themselves.
 
-### Image Source Rewriting 🖼️
+### Genre Overview 🎸
 
-A [hook](scripts/hooks/image_src_with_site_url.py) rewrites image sources that use the `site:` prefix, replacing them with the absolute site URL at build time. This keeps image paths portable in Markdown while ensuring they resolve correctly in blog excerpts and the full rendered site.
+A [generator script](scripts/generators/genre_overview.py) scans all release posts for `::genre::` tags and auto-generates a `genres.md` page that indexes every tagged release under its genre, with links back to the original review. A companion [hook](scripts/hooks/add_genres_filter.py) injects a live client-side filter into the page, letting readers search by genre name — with TOC sidebar synchronisation included.
+
+### Bandcamp Player 🎵
+
+A [hook](scripts/hooks/add_bandcamp_player.py) can embed a Bandcamp mini-player beneath every release heading on pinned release pages (pages with `bandcamp: true` in their front-matter). It queries the Bandcamp fuzzy-search API at build time and injects `<iframe>` embed players — one for light mode, one for dark mode — directly into the rendered HTML.
+
+### Reading Progress Bar 📖
+
+A [hook](scripts/hooks/add_reading_status.py) injects a slim scroll-progress bar at the top of every weekly release list. It tracks the reader's scroll position and fills the bar as they move through the page — a subtle way to show how far through the week's releases you've read.
+
+### Privacy & External Images 🔒
+
+External images (e.g. album covers loaded from third-party URLs) are handled by the [MkDocs Privacy Plugin](https://squidfunk.github.io/mkdocs-material/plugins/privacy/). At build time it downloads all external assets and rewrites references to serve them locally — keeping the site self-contained and privacy-friendly.
 
 ### RSS Feed 📡
 
@@ -128,7 +141,16 @@ conda env remove -n music-chamber
 
 The blog rocks a **deep orange** primary with **deep purple** accents on Material for MkDocs, because apparently we're designing a 70s prog album cover. Light and dark mode included, naturally. 🌗
 
-Custom CSS handles the special card styling for top picks and tweaks admonition borders to keep things clean.
+Styling is split across several purpose-built CSS files in `docs/assets/css/`:
+
+| File | Purpose |
+|---|---|
+| `override.css` | Global tweaks — admonition borders, general layout fixes |
+| `recap.css` | Card & chip styles for top-pick and recap entries |
+| `bandcamp.css` | Bandcamp mini-player embed layout and light/dark switching |
+| `genre.v1.css` | Styles for the genre filter input and clear button |
+| `reading-state.css` | Scroll-progress bar shown on release list pages |
+| `release-filter.css` | Styles for the release filter select on release pages |
 
 ---
 
@@ -140,9 +162,15 @@ music-chamber/
 │   ├── .authors.yml                    # Blog author metadata
 │   ├── index.md                        # Blog landing page
 │   ├── assets/
-│   │   ├── images/                     # Album artwork for top lists
-│   │   ├── append.css                  # Card & chip styles
-│   │   └── override.css                # Admonition tweaks
+│   │   ├── css/
+│   │   │   ├── override.css            # Global layout tweaks
+│   │   │   ├── recap.css               # Card & chip styles
+│   │   │   ├── bandcamp.css            # Bandcamp player styles
+│   │   │   ├── genre.v1.css            # Genre filter styles
+│   │   │   ├── reading-state.css       # Scroll-progress bar styles
+│   │   │   └── release-filter.css      # Release filter styles
+│   │   ├── icons/                      # SVG icon assets
+│   │   └── images/                     # Album artwork for top lists
 │   └── posts/
 │       ├── 2025/
 │       │   ├── 04/25/releases.md       # Weekly release lists
@@ -164,17 +192,18 @@ music-chamber/
 │               └── top-of-the-month.md
 ├── scripts/
 │   ├── generators/
-│   │   └── monthly_recap_draft.py      # Auto-generates monthly recaps
+│   │   ├── monthly_recap_draft.py      # Auto-generates monthly recaps
 │   │   └── genre_overview.py           # Auto-generates genre overview
 │   ├── hooks/
-│   │   ├── add_bandcamp_player.py      # Add the Bandcamp player iframe to pinned releases
-│   │   ├── add_release_count.py        # Add release count to metadate view on release lists
-│   │   ├── cleanup_tags.py             # Removes HTML tags
-│   │   ├── filter_genres.py            # Add fuzzy filter input to auto-generated genres page
-│   │   ├── image_src_with_site_url.py  # Rewrites site:-prefixed image sources
+│   │   ├── add_bandcamp_player.py      # Embeds Bandcamp players on pinned pages
+│   │   ├── add_genres_filter.py        # Injects live filter into the genre overview
+│   │   ├── add_reading_status.py       # Injects a scroll-progress bar on release pages
+│   │   ├── add_release_count.py        # Adds release count badge to sidebar metadata
+│   │   ├── cleanup_tags.py             # Removes custom inline tags (e.g. ::genre::)
 │   │   └── mark_top_picks.py           # Transforms starred entries into cards
 │   ├── setup_docs.sh                   # One-command setup
-│   └── import_images.py                # Import images (helper script)
+│   ├── create_posts_structure.py       # Helper: scaffold the weekly post folder structure
+│   └── import_releases_from_list.py    # Helper: import releases from a list
 ├── mkdocs.yml                          # Site configuration
 └── pyproject.toml                      # Python project config
 ```
