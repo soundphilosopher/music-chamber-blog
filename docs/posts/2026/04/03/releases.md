@@ -20,13 +20,19 @@ Die deutsche Formation mit ihrem neuesten Output. Sie spielen eine Mischung aus 
 
 ::genre::modern metal, alt metal, power pop, nu metal
 
+## Alsever Lake - The Last Train Home
+
+Der amerikanische Producer und Komponist Adrian Walther mit seinem neuesten Longplayer. Das Projekt ist stark von **Ambient**, **New Age** und **Acoustic-Folk** geprägt. Es zeichnet sich durch beruhigende Gitarrenmelodien und friedliche atmosphärische Klänge aus. Wenn du schon immer einmal auf einem Blatt einen Fluss hinuntertreiben wolltest, während ein kleines Orchester aus Waldtieren Gitarre spielt, dann ist dies dein Soundtrack. Es ist pure Glückseligkeit für die Ohren - die Art von Musik, die einen hektischen Montagmorgen wie ein Sonntagsschläfchen in einem Sonnenstrahl erscheinen lässt.
+
+::genre::ambient, cine ambient, acoustic ambient, new age, alt folk
+
+<!-- more -->
+
 ## Altared States - Borrowed Time
 
 Technisch gesehen das Comeback-Full-Length der amerikanischen Thrasher. Old-School-**Thrash-Metal** mit Einflüssen aus dem **neoklassischen** und **progressiven Metal**. "Borrowed Time" ist eine energiegeladene Reise zurück in die goldene Ära des Thrash. Das Album ist schnell, roh und voller unbeugsamem Geist. Es ist genau die Art von Platte, bei der man sofort den nächsten Moshpit suchen möchte.
 
 ::genre::thrash metal
-
-<!-- more -->
 
 ## Amerikan Kaos - The Sheeple Swing
 
@@ -190,6 +196,12 @@ Das Debüt des amerikanischen **Psychedelic**- und **Space-Rock**-Duos. Wenn du 
 
 ::genre::space rock, psych rock, krautrock
 
+## Dermot Kennedy - The Weight of the Woods
+
+Der irische Singer & Songwriter mit seinem neuesten Output. Sein Stil verbindet **Folk-Pop**, **Indie-Rock** und **Hip-Hop**-inspirierten Gesang. Für dieses Album hat er sich auf seine irischen Wurzeln besonnen und traditionelle Instrumente sowie das Erzählen von Geschichten eingesetzt. Dermot ist im Grunde der Schutzpatron des Alles-auf-einmal-fühlen. Dieses Album ist eine schwere, wunderschöne Lawine von Männerklageliedern, die einen direkt in die Magengrube trifft. Es ist stimmungsvoll, mystisch und perfekt, wenn man sich gleichzeitig unglaublich traurig und seltsam hoffnungsvoll fühlen möchte.
+
+::genre::irish folk, alt folk, indie folk, indie rock, folk rock
+
 ## Doodseskader - The Change Is Me
 
 Das belgische Duo, bestehend aus Tim De Gieter (*Amenra*) und Sigfried Burroughs (*Kapitan Korsakov*), präsentiert sein neues Album. Ihr Sound ist eine genreübergreifende Mischung aus **Industrial Dream Pop**, **Hip-Hop** und **Sludge**. Das ist das unberechenbare Kind einer Mischung aus Witch-House-Rave und Stadion-Rockkonzert. Es markiert eine Abkehr von ihrem früheren "Year"-Zyklus hin zu einem Sound, der selbstbewusster, aber dennoch überwältigend ist. Es ist beunruhigend, wunderschön und absolut gewaltig.
@@ -316,6 +328,12 @@ Der amerikanische Singer & Songwriter mit seinem Debüt. Eine Mischung aus nachd
 
 ::genre::country folk, pop rock, americana
 
+## John Andrews & The Yawns - STREETSWEEPER
+
+Das fünfte Outlet der Kollaboration zwischen *Andrews* und *The Yawns*. *Andrews* kreiert **Lo-Fi**-**Indie-Folk** und 70er-Jahre-**Folk-Pop** mit einem leicht psychedelischen Touch. Sein Gesang vermittelt eine gemütliche Atmosphäre, als wäre man gerade aus einem Nickerchen erwacht. Dieses Album klingt genau wie ein fauler Nachmittag in Brooklyn, an dem nichts passiert, aber sich alles bedeutungsvoll anfühlt. Es ist zart und voller Herz, perfekt für Hörer, die den zerknitterten, schläfrigen Charme eines abgetragenen Lieblingspullovers genießen.
+
+::genre::lofi, indie folk, folk pop, prog folk, prog pop, psych folk
+
 ## Knumears - Directions Due *
 
 Die amerikanische Kapelle mit ihrem neuesten Studio-Werk. Eine der wichtigsten Bands des modernen Emo-Revivals der "fifth Wave", bekannt für ihre rasanten Instrumentalstücke und ihren emotionalen Gesang. Eine Mischung aus **Midwest-Emo**, **Screamo** und **Post-Hardcore**. Wenn du Musik magst, die sich anhört wie eine Panikattacke, gefolgt von einem langen, befreienden Schrei, dann ist das genau das Richtige für dich. Es ist chaotisch, herrlich chaotisch und genau das, was du brauchst, um um 2 Uhr morgens im Auto laut mitzuschreien.
@@ -345,6 +363,12 @@ Die britische Formation mit ihrem neuesten Longplayer. Eine Mischung aus cineast
 Der neueste Longplayer der amerikanischen Kapelle. Man mische **Post Hardcore** und **Modern Metalcore** in einem Mixer und schaffe so einen Fokus auf die liminalen Räume zwischen Stille und überwältigendem Klang. Genau das, was der Titel verspricht - gespenstisch, elegant und ein klein wenig beunruhigend. Es ist ein Album, das sich langsam entfaltet und gewaltige Klangwände aufbaut, nur um sie dann zu einem Flüstern zerfallen zu lassen. Perfekt für alle, die gerne durch spukhafte Gedankenlandschaften streifen.
 
 ::genre::post rock, ambient, doomgaze
+
+## Lipphead - The Long Way
+
+Das amerikanische Duo mit seinem dritten Full-Length als Kollaboration. Beide sind Veteranen der elektronischen und **instrumentalen** Hip-Hop-Szene. Eine Fusion aus *Blockheads* (Tony Simon) sample-lastigem **Hip-Hop** und *Eliot Lipps* beschwingtem **Electronic Funk**. Denk an groovig, jazzig und voller verrückter Beats. Wenn dein Gehirn ein abgefahrenes Fenster hätte, wäre das der Ausblick. Es ist ein konsistenter und sinnlicher Bissen elektronischer Früchte, der sich weigert, Regeln zu befolgen - und in einem einzigen Track von "Sex In The 80's"-Funk zu Downtempo-Tagträumen wechselt.
+
+::genre::acid funk, hip hop, acid jazz, nu jazz, instrumental
 
 ## Luke Grimes - Redbird
 
@@ -429,6 +453,12 @@ Die ungarische Formation mit seiner Debüt EP. **Grunge** und **Groove Metal** m
 Der niegerianische Singer & Songwriter mit seinem Sophomore Longplayer. Es wird als introspektiver **Afrobeats** und **Afropop** beschrieben. War sein erstes Album der Sturm, so ist dies die Ruhe danach. Es ist gefühlvoll, nachdenklich und klingt wie ein Sonnenaufgang nach einer sehr langen Nacht. Die Stimmung ist heilend, aber bitte als clubtauglicher Groove.
 
 ::genre::afrobeat, afropop, alt pop
+
+## Orchid Mantis - sincerity
+
+*Orchid Mantis* ist das experimentelle Soloprojekt von Thomas Howard aus Atlanta, Georgia. Sein Sound ist eine unverwechselbare Mischung aus **Dream-Pop**, **Lo-Fi** und **Ambient**. Er nutzt häufig Found Sounds, Tonbandcollagen und analoge Aufnahmetechniken, um Themen wie Erinnerung und Nostalgie zu thematisieren. Wenn Nostalgie eine bestimmte unscharfe Textur hätte, wäre es genau diese. "Sincerity" fühlt sich an, als würde man auf dem Dachboden eine alte, unbeschriftete VHS-Kassette finden, die irgendwie das Gefühl eines perfekten Sommernachmittags eingefangen hat. Es ist dunstig, warm und an den Rändern genau im richtigen Maß verschwommen - perfekt, um aus dem Fenster zu starren und sich zu fragen, wo die Zeit geblieben ist.
+
+::genre::ambient, lofi, dreampop
 
 ## Paul Cauthen - Book of Paul
 
@@ -526,6 +556,12 @@ Das langjährige Projekt von Ólafur Josephsson mit seiner neuesten EP. Es präs
 
 ::genre::post rock, lofi, ambient, drone
 
+## Steve Roach, Serena Gabriel - Entering Elysium
+
+*Steve Roach* ist ein amerikanischer Ambient-Pionier aus Arizona, während *Serena Gabriel* eine Multi-Instrumentalistin und Sängerin ist, die für den Einsatz archaischer und organischer Instrumente bekannt ist. Dies ist ihre dritte große Zusammenarbeit. Eine nahtlose Brücke zwischen **Ambient-Electronica** und **indigenen Klängen aus aller Welt**. Das Album besticht durch tiefe Synthesizerklänge, Flöten, Harmonium, Leier und gesangslose Vocals. Das ist nicht nur Musik; es ist ein klangliches Paradies, in das man tatsächlich eintreten kann. Es klingt, als hätten sich die Antike und eine ferne Zukunft um Mitternacht in einer Wüste zu einem sehr friedlichen Treffen getroffen. Es ist weitläufig, seelenvoll und lässt Ihr Wohnzimmer wie eine riesige, leuchtende Kathedrale des Klangs wirken.
+
+::genre::ambient, experimental electronica, world music
+
 ## Sun Dont Shine - From Birth To Death
 
 Das Cross-American Kollektiv mit seinem Debüt Longplayer. Eine All-Star-Besetzung mit Kenny Hickey und Johnny Kelly (ex-*Type-O-Negative*) sowie Kirk Windstein und Todd Strange (*Crowbar*/*Down*). Dieses Album ist das musikalische Äquivalent eines dichten Nebels, der über einen Friedhof zieht. Es ist langsam, erdrückend und auf wunderschöne Weise trostlos. Die Melodik von Type-O trifft auf die schiere Wucht von Crowbar - das Ergebnis ist ein Album, das sich anfühlt wie eine warme, schwere Decke aus Blei.
@@ -549,6 +585,12 @@ Die eine Hälfte des Chartstürmer-Duos Rae Sremmurd. Dieses Soloalbum knüpft a
 Das amerikanische Outfit mit seinem neuesten Longplayer. Ihr Sound ist eine bissige Mischung aus **klassischer Rock**-Aggressivität und rasantem **Punk**. Ein wildes Spektrum, das von *Motörhead* und *Thin Lizzy* bis hin zu den Disco-Rhythmen der späten 70er reicht. Ein pessimistisches Kraftpaket. Es ist ein Album darüber, wie man zusieht, wie die Welt zusammenbricht, sich aber trotzdem dafür entscheidet, sich zu wehren. Es ist melodisch, sauer und rockt von Anfang bis Ende.
 
 ::genre::garage punk, power pop, hard rock, hardcore punk
+
+## Swell Maps - C21 *
+
+Die Band ist ein Eckpfeiler der DIY-Kultur, des **Punk** und des **Krautrock**. Freut euch auf schroffe Riffs, ungewöhnliche Strukturen und ernsthaften Spaß. Eine Mischung aus neu aufgenommenem Material und bisher unveröffentlichten Songs, die bereits 1979 geschrieben wurden. Das wichtigste Comeback des Jahres. Es ist ein surrealer Zustand lauter Glückseligkeit, der beweist, dass der Geist von 1979 lebendig ist und immer noch nach Ärger sucht. Es ist abgehackt, abenteuerlich und bleibt wild unabhängig - im Grunde genommen ist es ein "ernsthafter Spaß"-Aufruhr in einer Schachtel.
+
+::genre::post punk, krautrock, punk rock
 
 ## Terrordactyl - TRIASSIC TERROR
 
@@ -686,6 +728,12 @@ Das amerikanische Kollektiv mit seinem neuesten Longplayer. *Dave Spock* ist ein
 
 ::genre::psych rock, space rock, krautrock, synth rock, psych metal
 
+## Dead Voices On Air - Dvoa - Cze
+
+Das Projekt von Mark Spybey, einem britischen Künstler (und tagsüber Therapeuten), der Gründungsmitglied von *Zoviet France* war, bevor er nach Kanada zog. Bekannt als "Panambience" - eine Mischung aus **Industrial**, **Ambient** und **experimenteller Improvisation** unter Verwendung von bearbeiteten Spielzeugen und primitiven Instrumenten. Das ist Musik für die Augen. Es ist kein typischer Chill-out-Ambient; es ist eher ein suggestiver Soundtrack der urbanen Zivilisation, der zerhackt und wieder ausgespuckt wurde. Es ist stimmungsvoll, leicht eindringlich und fühlt sich an, als würde man durch einen wunderschönen, halb vergessenen Maschinenfriedhof wandern.
+
+::genre::idm, ambient, experimental electronica, improvisation
+
 ## Ektachrome - Psychic Readings *
 
 Das neueste Full-Length des amerikanischen Multi-Instrumentalisten Jonathan Spruance. Eine lebhafte Mischung aus **Psych-Prog**, **Instrumental-Rock** und **Avantgarde**. Die Musik ist stark von den Klangwelten der Canterbury-Szene, des Krautrock und des Space Rock geprägt. *Psychic Readings* anzuhören, fühlt sich an, als würde man auf einem sonnenverwöhnten Dachboden eine Schachtel mit gespenstischen Dias finden. Spruance zaubert sonnenverwöhnte Gitarrenklänge, die durch einen bernsteinfarbenen Schleier aus Tonbandschleifen und geisterhaften Orgelklängen schweben. Die Einbindung von Breakbeat-Drums verleiht der moosigen, von Waldschatten geprägten Atmosphäre eine überraschende, moderne rhythmische Note. Es ist ein Album, das leicht nach Cord und Gefahr duftet - ein perfekter Begleiter für alle, die sich Progressive Rock wünschen, der sowohl nostalgisch als auch ein wenig beunruhigend wirkt.
@@ -745,6 +793,18 @@ Die renommierte kanadische Singer & Songwriterin mit ihrer Überraschungs-EP. Ei
 Dieses Projekt ist tief in der italienischen "Dark Sound"-Tradition verwurzelt und verbindet **atmosphärischen Doom, Dark Wave und Progressive Rock**. Ein eindringliches, filmisches Erlebnis. Es fühlt sich an, als würde man in der Dämmerung durch ein altes italienisches Dorf schlendern, während sich die Schatten zu unwirklichen, spindeldürren Gestalten ausdehnen. Es ist unheimlich, wunderschön und fängt diese Atmosphäre von Geheimnissen in der Dunkelheit perfekt ein.
 
 ::genre::prog rock, dark wave, atmo doom
+
+## Live Footage - Nature + Space *
+
+Ein amerikanisches elektroakustisches Duo aus Brooklyn, New York, bestehend aus *Topu Lyo* (Cello) und *Mike Thies* (Schlagzeug/Keyboards). Sie bezeichnen sich selbst als "surrealistische Soundtrack-Komponisten". Ihr Stil ist eine durch Live-Loops geprägte Mischung aus **Cinematic Jazz**, **Hip-Hop** und **Klassik**. Stellen Sie sich einen Cellisten und einen Schlagzeuger vor, die versuchen, die Musik für einen Dokumentarfilm über die Entstehung eines Sterns zu komponieren, während sie in einem verrauchten New Yorker Jazzclub sitzen. Es ist erdig und organisch und doch absolut Hightech. Es ist die Art von Musik, die einen Spaziergang im Park wie eine epische Reise durch die Galaxie erscheinen lässt.
+
+::genre::cine jazz, modern jazz, modern classic, hip hop, ambient, field recordings, dark jazz
+
+## Merijn Bisschops, Zwerm, Karen Willems - The Five
+
+*The Five* ist ein avantgardistisches Musikprojekt, das aus einer einzigartigen interdisziplinären Zusammenarbeit zwischen dem niederländischen Komponisten Merijn Bisschops, dem belgischen E-Gitarren-Quartett Zwerm und der Perkussionistin Karen Willems entstanden ist. Das Projekt hat seine Wurzeln in der **zeitgenössischen Klassik**, im **Experimental Rock** und in der **Improvisationsmusik**. Stellen Sie sich vor, Sie betreten einen Raum, in dem vier Gitarren eine höfliche Debatte führen, die sich langsam in einen Fiebertraum verwandelt, während ein Schlagzeuger in der Ecke beschließt, gleichzeitig auf die Wände und Ihren Puls zu schlagen. *The Five* ist eine klanglich dichte, leicht gefährlich klingende Reise. Es ist intellektuelle Musik, die nicht vergisst, körperlich zu sein. Sie spielt nicht nur Noten; sie erschafft eine Landschaft aus den kontroversen Themen des Buches, auf dem sie basiert - manchmal unbequem, immer faszinierend und definitiv nichts, was man als Hintergrundmusik für ein Nickerchen spielen würde. Es ist ein surreales Labyrinth, in dem man sich gerne verirren möchte.
+
+::genre::modern classic, experimental rock, avant rock, prog rock, improvisation
 
 ## Mike Parker - Echo Disintegrator
 
