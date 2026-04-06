@@ -35,7 +35,7 @@ tbd
 
 ::genre::
 
-## ARCHSPIRE - Too Fast To Die
+## Archspire - Too Fast To Die
 
 tbd
 
@@ -155,12 +155,6 @@ tbd
 
 ::genre::
 
-## Chris McNulty - Soul Journey
-
-tbd
-
-::genre::
-
 ## Chronicler Of Ardul - Sounds Of Ardul
 
 tbd
@@ -174,6 +168,12 @@ tbd
 ::genre::
 
 ## Cody Jasper - Rock Is Dead
+
+tbd
+
+::genre::
+
+## Conic Rose - Wedding
 
 tbd
 
@@ -288,12 +288,6 @@ tbd
 ::genre::
 
 ## Gangar - Dreng
-
-tbd
-
-::genre::
-
-## Gnod - Chronicles Of Gnowt Vol. 1
 
 tbd
 
@@ -431,6 +425,12 @@ tbd
 
 ::genre::
 
+## Leo Gassmann - Vita Vera Paradiso
+
+tbd
+
+::genre::
+
 ## Levels - This Will Make You Feel Again
 
 tbd
@@ -455,7 +455,19 @@ tbd
 
 ::genre::
 
+## Lou Rhodes - Kiiōtō - Black Salt
+
+tbd
+
+::genre::
+
 ## Magenta - Tarot
+
+tbd
+
+::genre::
+
+## Mark Sheeky - The Myth Of Sisyphus
 
 tbd
 
@@ -497,7 +509,7 @@ tbd
 
 ::genre::
 
-## Mike Bruzzese - Another Space
+## Michel Petrucciani - Michel Petrucciani Kuumbwa
 
 tbd
 
@@ -659,12 +671,6 @@ tbd
 
 ::genre::
 
-## Ryan Blotnick - The Woods
-
-tbd
-
-::genre::
-
 ## Scythe Of Mefiso - Til Death Do Us Part
 
 tbd
@@ -683,6 +689,12 @@ tbd
 
 ::genre::
 
+## Serena Brancale - Sacro
+
+tbd
+
+::genre::
+
 ## Serial Killers - The Thing of Ours
 
 tbd
@@ -690,6 +702,12 @@ tbd
 ::genre::
 
 ## Sicarius - Nex
+
+tbd
+
+::genre::
+
+## Sierra Hull - The Movements
 
 tbd
 
@@ -737,7 +755,7 @@ tbd
 
 ::genre::
 
-## Ten East, Softsun - Turned To Stone Chapter 10
+## Ten East/Softsun - Turned To Stone Chapter 10
 
 tbd
 
@@ -810,12 +828,6 @@ tbd
 ::genre::
 
 ## Thunderkill - Global Cataclysm
-
-tbd
-
-::genre::
-
-## Tigercub - Nets to Catch the Wind
 
 tbd
 
@@ -917,9 +929,21 @@ tbd
 
 ::genre::
 
+## —Tigercub - Nets to Catch the Wind
+
+tbd
+
+::genre::
+
 ---
 
 # Earlier the week ...
+
+## Adam J. Bear - Self-titled
+
+Der kanadische Singer & Songwriter mit seinem Sophomore Output. Eine nostalgische Mischung aus **Rock** und **Classic Metal** der 70er, 80er und 90er Jahre. Stell dir einen rauen, hinternschüttelnden Bass an, bei dem schwere Drums und Bass im Vordergrund stehen. Dieses Album fühlt sich an wie eine lange verschollene Kassette, die man im Handschuhfach eines alten Muscle-Cars findet. Es ist rau, ehrlich und kompromisslos **Rock’n’Roll**. Adams DIY-Ansatz verleiht dem Ganzen eine gefühlvolle, handgemachte Note, die Lust macht, ein Bier aufzumachen und den Lautstärkeregler aufzudrehen, bis er abfällt.
+
+::genre::hard rock, melodic rock, heavy metal, proto metal
 
 ## Attila - Concrete Throne
 
@@ -927,13 +951,25 @@ tbd
 
 ::genre::
 
-## Long Distance Calling - The Phantom Void
+## Ota3d3 - The Roar
+
+tbd
+
+::genre::
+
+## Relayer - Choices
 
 tbd
 
 ::genre::
 
 ## The Machinist - Towers
+
+tbd
+
+::genre::
+
+## Voidchaser - Interstellar I
 
 tbd
 

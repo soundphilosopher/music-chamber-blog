@@ -10,7 +10,7 @@ authors:
 
 # Releases! Releases! Releases!
 
-# 36 - Stasis Sounds for long-distance Space Travel III
+## 36 - Stasis Sounds for long-distance Space Travel III
 
 Genre: Ambient, Drone
 
