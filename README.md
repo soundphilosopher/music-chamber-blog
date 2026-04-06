@@ -192,20 +192,21 @@ music-chamber/
 │               └── top-of-the-month.md
 ├── scripts/
 │   ├── generators/
-│   │   ├── monthly_recap_draft.py      # Auto-generates monthly recaps
-│   │   └── genre_overview.py           # Auto-generates genre overview
+│   │   ├── monthly_recap_draft.py        # Auto-generates monthly recaps
+│   │   └── genre_overview.py             # Auto-generates genre overview
 │   ├── hooks/
-│   │   ├── add_bandcamp_player.py      # Embeds Bandcamp players on pinned pages
-│   │   ├── add_genres_filter.py        # Injects live filter into the genre overview
-│   │   ├── add_reading_status.py       # Injects a scroll-progress bar on release pages
-│   │   ├── add_release_count.py        # Adds release count badge to sidebar metadata
-│   │   ├── cleanup_tags.py             # Removes custom inline tags (e.g. ::genre::)
-│   │   └── mark_top_picks.py           # Transforms starred entries into cards
-│   ├── setup_docs.sh                   # One-command setup
-│   ├── create_posts_structure.py       # Helper: scaffold the weekly post folder structure
-│   └── import_releases_from_list.py    # Helper: import releases from a list
-├── mkdocs.yml                          # Site configuration
-└── pyproject.toml                      # Python project config
+│   │   ├── add_bandcamp_player.py        # Embeds Bandcamp players on pinned pages
+│   │   ├── add_genres_filter.py          # Injects live filter into the genre overview
+│   │   ├── add_reading_status.py         # Injects a scroll-progress bar on release pages
+│   │   ├── add_release_count.py          # Adds release count badge to sidebar metadata
+│   │   ├── change_toc_for_releases.py    # Add the top-level (h1) to the TOC on release pages
+│   │   ├── cleanup_tags.py               # Removes custom inline tags (e.g. ::genre::)
+│   │   └── mark_top_picks.py             # Transforms starred entries into cards
+│   ├── setup_docs.sh                     # One-command setup
+│   ├── create_posts_structure.py         # Helper: scaffold the weekly post folder structure
+│   └── import_releases_from_list.py      # Helper: import releases from a list
+├── mkdocs.yml                            # Site configuration
+└── pyproject.toml                        # Python project config
 ```
 
 ---
