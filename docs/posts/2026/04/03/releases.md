@@ -68,6 +68,12 @@ Und die Sameness geht weiter. Die britische Formation mit ihrem Debüt. Dieses A
 
 ::genre::modern metalcore, post hardcore
 
+## aus isoda - Interwoven
+
+Die Zusammenarbeit zwischen *aus* (Yasuhiko Fukuzono) aus Tokio und *Ken-ichiro Isoda* von der Insel Hachijo in Japan vereint Elemente aus **Ambient**, **New Age** und **Environmental Music**. Zu den Einflüssen zählen japanische Meister wie Satoshi Ashikawa, Midori Takada und Hiroshi Yoshimura sowie Brian Eno. Stellen Sie sich ein akustisches Aquarell vor, in dem zarte Klavierklänge und cineastische Synthesizer wie ein Nagoyaka na Kaze (leiser Wind) dahinschweben. Es ist eine generationsübergreifende Brücke, die sich wie eine geflüsterte Erinnerung anfühlt - perfekt für alle, die ihr Wohnzimmer in einen ruhigen japanischen Garten verwandeln möchten.
+
+::genre::ambient, world music, new age, experimental electronica
+
 ## Belexum - Belexum
 
 Die neue Supergroup, bestehend aus Mitgliedern von *Cloak*, *Mystic Priestess* und *All Your Sisters*. Ihr Debütalbum ist eine düstere, treibende Mischung aus **Goth-Rock**, **Post-Punk** und **Blackened Heavy Metal**. Wenn du schon immer wissen wolltest, was passiert, wenn man eine Goth-Party in Lederkluft in einer brennenden Kirche schmeißt, dann ist das hier genau das Richtige. Es hat all die gruseligen Synthesizer-Klänge der 80er, aber mit einem harten, metallischen Touch, der dafür sorgt, dass niemand ohne ein bisschen Schmutz unter den Fingernägeln nach Hause geht. Pure, nächtliche Energie.
@@ -349,6 +355,12 @@ Das weltberühmte Streichquartett würdigt die legendäre Gospelsängerin *Mahal
 Das deutsche Projekt mit seinem neuesten Output. Eine genreübergreifende Odyssee, die **Alternative Metal**, **Shoegaze** und **Synth-Pop** miteinander verschmilzt. Dieses Album ist ein digitales Mixtape aus verschwommenen Träumen. Es ist stellenweise überraschend eingängig und poppig, trägt aber dennoch diese schwere, rastlose Lantlôs-Seele in sich. Stellt euch das wie einen sonnigen Tag mit einem seltsamen, plastischen digitalen Glitch vor - ein perfekter Soundtrack für 90er-Kids, die sich immer noch ein bisschen heimatlos fühlen.
 
 ::genre::alt metal, shoegaze, synth pop, nu gaze
+
+## Laura Cannell - AURORAE
+
+Die britische Komponistin und Performerin mit einem neuen Solo-Longplayer. Minimalistische Bordunklänge, mittelalterlicher **Folk** und **Avantgarde**. Sie lässt sich stark von mittelalterlichen Tonarten und historischen Noten inspirieren. Es handelt sich um "Slow Music", die die Nord- und Südlichter heraufbeschwören soll. Wenn eine baufällige Kirchenorgel Bordunklänge neben eindringlichem Cellospiel hervorkeucht, fühlt es sich an, als wäre der Geist eines mittelalterlichen Mönchs versehentlich in ein modernes Ambient-Studio gestolpert.
+
+::genre::ambient, medieval folk, avant folk
 
 ## Letters From Wolves - Immortals
 
@@ -810,6 +822,12 @@ Der amerikanische Producer und DJ mit seinem ersten Full-Length in 13 Jahren. *P
 
 ::genre::deep d&b, dark house, minimal techno
 
+## Mooryc - Sideways
+
+Der polnische Multi-Instrumentalist und Komponist Maurycy Zimmermann mit seinem neuesten Solo-Output. **Synth-Pop**, **Leftfield** und **Experimental House**. Seine Einflüsse reichen von *Bach* und *Arvo Pärt* bis hin zu *Aphex Twin* und *Boards of Canada*. *Mooryc* hat sich auf diese Hüftschwung-im-Traum-Stimmung spezialisiert. "Sideways" setzt wahrscheinlich seinen Trend fort, gefühlvollen, hauchigen Gesang mit glitchigen Texturen zu verbinden - es ist Popmusik für Menschen, denen gewöhnlicher Pop etwas zu vorhersehbar ist.
+
+::genre::synth pop, leftfield pop, acid house, experimental house
+
 ## Protex - Sticking With You
 
 Die nordirischen Legenden, geboren anno 1978, mit neuen Marterial. Während sie ursprünglich mit rasantem Punk begannen, tendiert dieses Album eher zu einem melodischeren **Power-Pop**-Sound. Diese Punk-Veteranen haben einen Teil ihrer jugendlichen Rasanz gegen Sonnenschein und eingängige Melodien eingetauscht. Es ist optimistisch, fröhlich und beweist, dass man einer guten Lederjacke und einem eingängigen Refrain nie wirklich entwächst.
@@ -858,6 +876,12 @@ Das niederländische Duo mit seinem Debüt Full-Length. Ein energiegeladenes Gen
 
 ::genre::prog rock, prog metal, crossover, fusion, hip hop, funk
 
+## Those Poor Bastards - Black Tongue
+
+Das geheimnisvolle Duo, bestehend aus *Lonesome Wyatt* (Gesang, Gitarre) und *The Minister* (Banjo, Bass, Percussion), präsentiert sein neues Album. **Gothic Country**, **Death Country** und **Midwestern-Nightmare-Folk**. Sie vermischen religiöse Angst mit mörderischer Menschenfeindlichkeit und klingen wie eine gespenstische Feldaufnahme aus einer ausgebrannten Hütte. "Black Tongue" zeigt die Band von ihrer verbranntesten und gebrochensten Seite. Es ist voller verzerrter Bandrauschen, knarrender Dielen und dem allgemeinen Gefühl, dass etwas direkt vor deinem Zelt lauert. Wenn du Musik magst, die dir das Gefühl gibt, unbeliebt, ungewaschen und unrein zu sein, ist dies dein neuer Lieblingssoundtrack für das Elend.
+
+::genre::alt country, gothic rock, art rock, avant folk, prog folk
+
 ## Trion - Terra Tiempo
 
 Das niederländische **Progressive-Rock**-Trio, bestehend aus Mitgliedern von *Odyssice* und *Flamborough Head*, präsentiert sein neues Album. Das ist Seelenfutter für Prog-Fans. Es ist melodisch, meisterhaft gespielt und strahlt eine gewisse Zeitlosigkeit aus (was zu einem Titel wie "Terra Tiempo" passt). Es ist die Art von Musik, bei der man am liebsten die Augen schließt und sich vom Mellotron einhüllen lässt.
@@ -869,6 +893,12 @@ Das niederländische **Progressive-Rock**-Trio, bestehend aus Mitgliedern von *O
 Das schwedische One-Man-Project *Tårfödd* bekommt auf seinem neuesten Longplayer Verstärkung durch "Revenant" von *Order of Nosferat*. Wenn du dich schon immer einmal so fühlen wolltest, als würdest du langsam im schwedischen Permafrost versinken, dann ist dies der richtige Soundtrack für dich. Er ist rau, düster und auf unbehagliche Weise schön - perfekt für Momente, in denen dir die Sonne einfach ein bisschen zu hell ist.
 
 ::genre::dsbm, atmo black metal
+
+## Ultha - A Light so Dim **
+
+Eine kraftvolle fünfköpfige Band, die aus der europäischen Extreme-Metal-Szene nicht mehr wegzudenken ist. "A Light so Dim" ist ihr fünftes Studioalbum in voller Länge. **Atmospheric Black Metal** mit deutlichen Anklängen an **Prog-Rock**, **Darkwave** und **Trip-Hop**. Sie sind bekannt für lange, weitläufige Kompositionen und bösartige Melancholie. Dieses Album, das aus heiterem Himmel ohne vorherige Ankündigung veröffentlicht wurde, ist ein Aufruf an das innere Selbst. Es ist ein dichtes, dramatisches Konzeptalbum mit einem 40-köpfigen Frauenchor und Gastgesang, die ihrer charakteristischen Klangwand eine eindringliche Ebene hinzufügen. Es ist das klangliche Äquivalent dazu, ein Lichtstrahl zu finden, während man in einem Meer der Niederlage ertrinkt - intensiv, wunderschön und auf die bestmögliche Weise absolut erschöpfend.
+
+::genre::atmo black metal, melo black metal, post black metal, prog metal, darkwave, trip hop
 
 ## Visions Of Terror - The Dark Triad
 
