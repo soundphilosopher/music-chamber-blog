@@ -344,7 +344,6 @@ def _create_release_content(
         f"date: {release_date.isoformat()}",
         "pin: true",
         "bandcamp: false",
-        "draft: true",
         "categories:",
         "  - Releases",
         "---",
