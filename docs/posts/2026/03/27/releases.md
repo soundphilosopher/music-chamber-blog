@@ -50,7 +50,7 @@ Das Sophomore Release der amerikanischen Kapelle. Traditioneller amerikanischer 
 
 ::genre::melo black metal, raw black metal
 
-## Alexander IV - Alchemist *
+## Alexander IV - Alchemist **
 
 Das Debüt des neuen Projekts um den niederländischen Multi-Instrumentalisten, Komponisten und Producer Joris Feiertag. Eine Reise durch 13 Titel, die jazzige Beats, Neo-Soul-Grooves, Downtempo und Hip-Hop-Rhythmen miteinander verbindet. Es stützt sich stark auf samplebasierte Handwerkskunst - das sorgfältige Zerlegen und Umkehren von Fragmenten, um neue musikalische Welten zu erschaffen. So entsteht ein Werk des Trip Hop, welches Hip Hop, Neo Soul und Nu Jazz in sich trägt.
 
@@ -537,7 +537,7 @@ Die finnischen Death Metaller mit ihrem Debüt Longplayer. Tief verwurzelt in de
 
 ::genre::osdm, d-beat
 
-## Good Riddance - Before The World Caves In *
+## Good Riddance - Before The World Caves In **
 
 Die amerikanische Formation mit ihrem zehnten Longplayer in ihrer Discography. Mit ihrem aggressiven Songwriting und cathy Melodien, haben sie geholfen den Melodic Hardcore zu schleifen. Das ist nicht nur eine Sammlung von Songs, sondern ein 13-Track-Überlebensleitfaden für die heutige Zeit. Das Album ist überraschend bewusst und durchdachter als ihre früheren, rasanten Alben; es lässt Raum für düstere, dissonante Spannungen, liefert aber dennoch den energiegeladenen, mitreißenden Punk, den man erwartet. Es ist der perfekte Soundtrack, wenn man gegen das System ankämpfen will, aber auch einen richtig guten Refrain braucht, den man laut mitsingen kann.
 
@@ -633,7 +633,7 @@ Die kanadische Singer & Songwriterin und Pianistin mit ihrem neuesten Studioalbu
 
 ::genre::ambient, drone, minimal electronica, modern classic
 
-## Holy Fuck - Event Beat *
+## Holy Fuck - Event Beat **
 
 Das kanadische Quartett mit seinem neuesten Full-Length. Sie verwenden Trödelinstrumente wie Spielzeugkeyboards, Filmsynchronisatoren und Spielzeug-Phaser-Pistolen. Ihr Stil ist eine Mischung aus Electronica, Dance-Punk und Krautrock. Stellt euch vor, ein Roboter würde versuchen, in einem Science-Fiction-Film aus den 1970er Jahren einen Nachtclub zu bauen - und zwar nur mit Ersatzteilen vom Schrottplatz. "Event Beat" ist auf die bestmögliche Art hypnotisch und chaotisch. Es bewegt sich auf einem faszinierenden Drahtseil zwischen knallhartem Noise und groovigem Synth-Funk. Die Lead-Single "Evie" sticht besonders hervor, mit einer Basslinie, die sich anhört, als würde sie aus dem Erdinneren gespielt.
 
@@ -741,7 +741,7 @@ Die amerikanische Formation mit ihrer neuesten EP. Eine moderne Form des Crossov
 
 ::genre::crossover, thrash metal, hardcore punk
 
-## Lili Refrain - Nagalite *
+## Lili Refrain - Nagalite **
 
 Die italienische Multi-Instrumentalistin und Producerin mit ihrem neuesten Release. Es vereint Elemente aus Minimalismus, Folk, Psychedelic, Metal und Oper. "Nagalite" ist nicht nur ein Album, sondern ein alchemistisches Ritual. Indem sie das Symbol der Naga (der heiligen Schlange) nutzt, um Transformation und Metamorphose zu erforschen, schafft Lili eine tribale Trance, die sich zugleich uralt und futuristisch anfühlt. Es ist eindringlich, wortlos und zutiefst spirituell - perfekt, wenn man der Realität entfliehen möchte, ohne die Couch zu verlassen.
 
@@ -855,7 +855,7 @@ Die amerikanische Formation mit ihrem neuesten Longplayer. Elf Tracks in nur 18 
 
 ::genre::goregrind, grindcore
 
-## Memorials - All Clouds Bring Not Rain *
+## Memorials - All Clouds Bring Not Rain **
 
 Die neue Veröffentlichung des britischen Experimental-Duos mit Verity Susman (Electrelane) und Matthew Simms (WIRE). Eine psychedelische kosmische Reise, die Folk, Dub, Post-Punk und Canterbury-Prog miteinander verbindet; beschrieben als "Nico, die mit Can singt". Dieses Album, das in einer Scheune in den französischen Wäldern aufgenommen wurde, ist wunderschön ungewöhnlich. Es verwebt analoge Elektronik und Vintage-Instrumente zu etwas, das sich wie ein vergessener Klassiker der 1960er Jahre anfühlt. Es ist hypnotisch, abenteuerlich und fängt perfekt dieses verträumte Gefühl ein, in den eigenen Gedanken versunken zu sein - mal melodisch, mal wild.
 
@@ -1197,7 +1197,7 @@ Der amerikanische Singer & Songwriter mit den dritten Teil seiner Coin-Collectio
 
 ::genre::krautrock, prog folk, psych folk, country folk
 
-## Spirits Burning, Bridget Wishart - Fragments *
+## Spirits Burning, Bridget Wishart - Fragments **
 
 Die neue Veröffentlichung des britisch-amerikanischen Ambient-/Space-Rock-Superkollektivs unter der Leitung von Don Falcone, mit dem ätherischen Gesang der ehemaligen Hawkwind-Sängerin Bridget Wishart. Dieses Album ist wie eine Reise durch eine Nebelwolke mit einem wirklich coolen Reiseleiter. Es ist eine verschwommene, schimmernde Sammlung von Fragmenten aus einem kosmischen Traum. Mit Gastauftritten verschiedener Prog-Rock-Legenden wirkt es wie eine Meditationssitzung in großer Höhe - ätherisch, weitläufig und wunderschön ausdehnend.
 
@@ -1245,7 +1245,7 @@ Das deutsche Projekt um den Multi-Instrumentalisten Volker Kuinke mit der Fortf�
 
 ::genre::prog rock, art rock, fusion
 
-## Taroug - Chott *
+## Taroug - Chott
 
 Der tunesische Producer, Drummer und Percussionist mit seinem Sophomore Output. "Chott" (benannt nach den ausgetrockneten Salzseen der Sahara) ist eine Fata Morgana in Klangform. Es ist schimmernd, dunstig und leicht bedrohlich. Es verbindet die Hitze der Wüste mit der kühlen Präzision deutscher Elektronik. Es ist der perfekte Soundtrack, um sich in einer weiten, sonnenverbrannten Landschaft zu verlieren - eindringlich schön und zutiefst fesselnd.
 
@@ -1575,7 +1575,7 @@ Der brasilianische Komponist und Jazz Bassist mit seinem neuesten Release. Sein 
 
 ## Model/Actriz - Swan Songs *
 
-Das amerikanische Trio mit seiner Überraschungs-EP. Der Sound ist eine mitreißende Mischung aus Noise-Rock, Post-Punk und Industrial-Dance-Musik. Sie sind bekannt für ihren "Sprechgesang"-Gesangsstil und ihre äußerst rhythmische Instrumentierung, bei der alles eine Trommel ist.
+Das amerikanische Trio mit seiner Überraschungs-EP. Der Sound ist eine mitreißende Mischung aus Noise-Rock, Post-Punk und Industrial-Dance-Musik. Sie sind bekannt für ihren "Spoken-Words"-Gesangsstil und ihre äußerst rhythmische Instrumentierung, bei der alles eine Trommel ist.
 
 ::genre::noise rock, post punk, idm, avant rock, experimental electronica, indietronica
 

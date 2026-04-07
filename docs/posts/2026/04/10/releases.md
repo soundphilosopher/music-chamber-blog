@@ -778,12 +778,6 @@ tbd
 
 ::genre::
 
-## The Machinist - Towers
-
-Das britische Trio mit seiner neuesten EP. Ein unerbittliches Trio, das jahrelang daran gearbeitet hat, einen Sound zu verfeinern, den sie als nihilistischen **Blackened Industrial Death Metal** bezeichnen. Wenn man "Towers" hört, fühlt man sich wie in einer verwunschenen futuristischen Fabrik gefangen, in der die Maschinen Gefallen an Menschenopfern gefunden haben. Das Album beginnt mit "Sagittarius In Bloom" - einem Riff-Spektakel, das klingt, als wäre es in einem Schwarzen Loch aufgenommen worden - und endet mit 10 Minuten symphonischer Beklemmung. Es ist der perfekte Soundtrack für alle, denen entspannende Waldgeräusche zu leise sind und die ihre theatralische Dunkelheit lieber mit einer Prise Industrial-Grinding genießen.
-
-::genre::blackened death metal, industrial metal, symphonic black metal
-
 ## The Maine - Joy Next Door
 
 tbd
@@ -857,12 +851,6 @@ tbd
 ::genre::
 
 ## Urluk - Memories In Fade
-
-tbd
-
-::genre::
-
-## Voidchaser - Interstellar I
 
 tbd
 
