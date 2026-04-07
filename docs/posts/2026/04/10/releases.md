@@ -2,7 +2,6 @@
 date: 2026-04-10
 pin: true
 bandcamp: false
-draft: true
 categories:
   - Releases
 ---
@@ -781,9 +780,9 @@ tbd
 
 ## The Machinist - Towers
 
-tbd
+Das britische Trio mit seiner neuesten EP. Ein unerbittliches Trio, das jahrelang daran gearbeitet hat, einen Sound zu verfeinern, den sie als nihilistischen **Blackened Industrial Death Metal** bezeichnen. Wenn man "Towers" hört, fühlt man sich wie in einer verwunschenen futuristischen Fabrik gefangen, in der die Maschinen Gefallen an Menschenopfern gefunden haben. Das Album beginnt mit "Sagittarius In Bloom" - einem Riff-Spektakel, das klingt, als wäre es in einem Schwarzen Loch aufgenommen worden - und endet mit 10 Minuten symphonischer Beklemmung. Es ist der perfekte Soundtrack für alle, denen entspannende Waldgeräusche zu leise sind und die ihre theatralische Dunkelheit lieber mit einer Prise Industrial-Grinding genießen.
 
-::genre::
+::genre::blackened death metal, industrial metal, symphonic black metal
 
 ## The Maine - Joy Next Door
 
@@ -945,13 +944,13 @@ Der kanadische Singer & Songwriter mit seinem Sophomore Output. Eine nostalgisch
 
 ::genre::hard rock, melodic rock, heavy metal, proto metal
 
+## Athak - Primarï
+
+Ein Projekt des französischen Musikers Scarset Vincent mit einem neuen Album. *Vincent* spielt in der Regel fast alle Instrumente selbst (Gesang, Keyboard, Gitarre, Bass, Schlagzeug). Stark beeinflusst von **Zeuhl**, *King Crimson* und **Progressive Rock**. Primarï verbindet insbesondere hochenergetische Zeuhl-Elemente mit **traditionellen chinesischen Instrumenten** wie Yangqin und Er Hu sowie psychedelischen Klängen. Stellt euch einen verrückten Wissenschaftler in einem neonbeleuchteten Keller in Hongkong vor, der versucht, mit Hilfe eines traditionellen chinesischen Orchesters einen französischen Prog-Rock-Dämon zu beschwören. Es ist rhythmisches Chaos trifft auf psychedelische Texturen - eine Reise durch Primärfarben, die im Licht beginnt und euch in die herrliche, avantgardistische Dunkelheit entführt.
+
+::genre::prog rock, zeuhl, psych rock, avant rock, jazz fusion, world music
+
 ## Attila - Concrete Throne
-
-tbd
-
-::genre::
-
-## Ota3d3 - The Roar
 
 tbd
 
@@ -965,9 +964,9 @@ tbd
 
 ## The Machinist - Towers
 
-tbd
+Das britische Trio mit seiner neuesten EP. Ein unerbittliches Trio, das jahrelang daran gearbeitet hat, einen Sound zu verfeinern, den sie als nihilistischen **Blackened Industrial Death Metal** bezeichnen. Wenn man "Towers" hört, fühlt man sich wie in einer verwunschenen futuristischen Fabrik gefangen, in der die Maschinen Gefallen an Menschenopfern gefunden haben. Das Album beginnt mit "Sagittarius In Bloom" - einem Riff-Spektakel, das klingt, als wäre es in einem Schwarzen Loch aufgenommen worden - und endet mit 10 Minuten symphonischer Beklemmung. Es ist der perfekte Soundtrack für alle, denen entspannende Waldgeräusche zu leise sind und die ihre theatralische Dunkelheit lieber mit einer Prise Industrial-Grinding genießen.
 
-::genre::
+::genre::blackened death metal, industrial metal, symphonic black metal
 
 ## Voidchaser - Interstellar I
 
