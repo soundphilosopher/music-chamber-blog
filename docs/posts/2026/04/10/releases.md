@@ -938,15 +938,9 @@ Ein Projekt des französischen Musikers Scarset Vincent mit einem neuen Album. *
 
 ::genre::prog rock, zeuhl, psych rock, avant rock, jazz fusion, world music
 
-## Attila - Concrete Throne
-
-tbd
-
-::genre::
-
 ## Relayer - Choices
 
-tbd
+Die amerikanischen Symphonic Progger mit ihrem neuesten Longplayer. Ihr Sound ist eine klassische Mischung aus **Vintage-Prog (Neo Progressive Rock)** der 70er Jahre und modernem **Melodic Rock**. Man denke an schwungvolle Keyboards, komplexe Gitarrenarbeit und eine kräftige Prise **AOR**-Flair. Wenn du dich jemals gefragt hast, was passieren würde, wenn eine Garagenband der 90er Jahre in ein Zeitportal fallen und eine Woche lang mit dem Geist von 1974 jammen würde, dann ist dies genau das. "Choices" fühlt sich an wie ein Liebesbrief an die Goldene Ära, aber geschrieben mit einer modernen Feder. Es ist weniger Chaos und Krieg und mehr Melodie und Stimmung. Es ist die Art von Musik, die man auflegt, wenn man sich beim Autofahren schlau fühlen will - viele komplexe Taktarten, die einen dazu bringen, mit den Fingern am Lenkrad mitzuklatschen, aber eingängig genug, dass man sich tatsächlich an den Refrain erinnert. Es ist symphonisch, es ist grandios, und es beantwortet endlich die Frage: *Was wäre, wenn Prog-Rock einfach nur einen schönen, leicht komplizierten Tag haben wollte?*
 
 ::genre::
 
