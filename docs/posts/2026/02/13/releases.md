@@ -306,7 +306,7 @@ Das neueste Werk der britischen Formation. Gothic Rock, welcher Elemente des Har
 
 Die amerikanische Formation mit ihrem neuesten Release. Die Band wird dem Genre der Jamtronica zugewiesen, was die Kompositionen am Ende auch gut einfängt. Hier werden Jam-Rock und Electronica auf ein neues Niveau gehoben. Einflüsse von Space Rock, Acid House, Drum & Bass, Prog-Funk und Disco werden in die Jam-Kompositionen ohne einen Riss zu erzeugen eingebettet.
 
-::genre::jamtronica, jam band, space rock, acid house, drum & bass, prog funk, disco
+::genre::jamtronica, jam band, space rock, acid house, d&b, prog funk, disco
 
 ## Lucy Kruger & The Lost Boys - Pale Bloom
 

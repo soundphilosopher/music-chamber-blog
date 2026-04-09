@@ -66,7 +66,7 @@ Das deutsche Duo mit seinem Sophomore Full-Length. Eine brillante Komposition mi
 
 Die neueste Kollaboration zwischen den Jazz-Gitarristen Arne Jansen und den klassisch Ausgebildeten Cellisten Stephan Braun schafft eine intime, akustische Geschichte, in denen sich Jazz, Pop und klassische Elemente miteinander verbinden. Das ist nicht einfach nur ein Album; es ist ein Dialog zwischen einer Gitarre und einem Cello bei einer sehr teuren Flasche Wein. Es ist minimalistisch, aber zutiefst emotional - perfekt, wenn man sich an einem regnerischen Nachmittag beim Blick aus dem Fenster etwas Weltgewandtheit gönnen möchte. Es ist Chamber Jazz, der tatsächlich einen Puls hat.
 
-::genre::chamber jazz, contemporory jazz, modern classic
+::genre::chamber jazz, contemporary jazz, modern classic
 
 ## Artemas - getting up to no good
 
@@ -354,13 +354,13 @@ Die schwedische Heavy-Formation mit ihrem neuesten Output. Wenn du einen richtig
 
 Die französischen Doomer mit ihrem neuesten Full-Length. Dieses Album fühlt sich an wie ein langsamer, bedächtiger Spaziergang durch einen nebelverhangenen Friedhof. Es ist torfig (wie der Titel schon andeutet) – dicht, organisch und zutiefst atmosphärisch. Es schafft es, zugleich erdrückend schwer und auf seltsame Weise schön zu sein, so als fände man eine einzelne blühende Blume in einem Feld aus Vulkanasche.
 
-::genre::doom metal, stoner metsl, heavy metal
+::genre::doom metal, stoner metal, heavy metal
 
 ## Divine Chaos - Hate Reactor
 
 Die britische Kapelle mit ihrem neuesten Release. Eine Melange aus Thrash Metal und Technical Death Metal, welche progressive und aggressive Töne in sich bindet. Dieses Album ist im Grunde genommen eine kontrollierte Sprengung in musikalischer Form. Es ist schnell, technisch anspruchsvoll und klingt, als wäre es in einem brennenden Düsentriebwerk aufgenommen worden. Wenn du nach einem Soundtrack gesucht hast, zu dem du (natürlich auf verantwortungsvolle Weise) gegen eine Mauer schlagen kannst, dann ist Hate Reactor dein neuer bester Freund.
 
-::genre::tech thrash metal, tech death metal. prog metal
+::genre::tech thrash metal, tech death metal, prog metal
 
 ## Dobrawa Czocher - State of Matter
 
@@ -1069,7 +1069,7 @@ Die ungarische Formation mit ihrem neuesten Studioalbum. Es verbindet die Intens
 
 Der legendäre, fünfmalige Grammy-Nominierte kehrt mit einem transatlantischen Modern Classic zurück, der sich zwischen Jazz, Rock und Blues bewegt. Das ist Musikalität von Weltklasse in ihrer höchsten Ausprägung. Von tiefem Funk-Blues bis hin zu himmelhohen Instrumentalstücken - dieses Album zeichnet sich durch Raffinesse und Risikobereitschaft aus. Es ist der Sound eines Meistergitarristen, der keine zwei Alben hat, die gleich klingen, und der auf die bestmögliche Weise seinen eigenen Weg geht.
 
-::genre::jszz rock, hard rock, blues, folk rock, prog folk
+::genre::jazz rock, hard rock, blues, folk rock, prog folk
 
 ## Robert Francis - Phantasmagoria
 
@@ -1571,7 +1571,7 @@ Der amerikanische Producer und Rapper Terius Gray bringt zu seinem 51ten Geburts
 
 Der brasilianische Komponist und Jazz Bassist mit seinem neuesten Release. Sein Werk ist bekannt für seine raffinierte harmonische Sprache und seine rhythmische Präzision. "Navegante" (was so viel wie "Navigator" bedeutet) greift ein in der brasilianischen Musik häufig behandeltes Seefahrer-Thema auf und besticht durch fließende Basslinien und melodische Improvisationen. Das Album vereint brasilianischen Jazz, Samba und Brasileira.
 
-::genre::word music, world jazz, samba, brasileira, improvisation
+::genre::world music, world jazz, samba, brasileira, improvisation
 
 ## Model/Actriz - Swan Songs *
 

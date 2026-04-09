@@ -34,7 +34,7 @@ Die britischen Modern Metalcorer mit einem weiteren Output. Wenn man mit der mod
 
 Das Projekt um den britischen Produzenten Liam Blackburn. Drum & Bass eingebettet in eine ambient-reiche Welt.
 
-::genre::drum & bass, ambient
+::genre::d&b, ambient
 
 ## Angel Bat Dawid, Naima Nefertari - Journey to Nabta Playa
 
@@ -124,7 +124,7 @@ Die amerikanische Metalcorer mit ihrem neuesten Output. Klassischer Metalcore, m
 
 Der finnische “Breakbeat Master” mit seinem neuesten Werk. Ambient-reicher Breakbeat, welcher auch gern mal in den Drum & Bass abbiegt.
 
-::genre::dark ambient, drum & bass
+::genre::dark ambient, d&b
 
 ## Giorgio Poi - Schegge
 

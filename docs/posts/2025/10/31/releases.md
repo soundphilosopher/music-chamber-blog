@@ -282,7 +282,7 @@ Neues aus der Zone des primitiven Mannes. Das Trio aus Denver bringt wieder ihre
 
 Der spanische Producer Juan Rico aka Reeko mit seinem neuesten Werk der Electronica. Eine extravagante Reise durch Drum & Bass, mit markanten experimentellen Ausreißern in dub-y Electronica und Minimal.
 
-::genre::experimental electronica, drum & bass, dub, minimal electronica
+::genre::experimental electronica, d&b, dub, minimal electronica
 
 ## Riley Pearce - The Weight of our Dreaming
 
@@ -436,7 +436,7 @@ Der amerikanische Singer & Songwriter mit seinem neuesten Output. Eine Melange a
 
 Die amerikanische Formation mit ihrem neuesten Release. Post-Hardcore, welcher viele Elemente des Melodic-Hardcore und Emocore in sich vereinigt. Alles wird verpackt in eine passende Early 2000er Produktion.
 
-::genre::post harcore, melodic hardcore, emocore
+::genre::post hardcore, melodic hardcore, emocore
 
 ## Jazzrausch Bigband - For Heaven’s Sake
 

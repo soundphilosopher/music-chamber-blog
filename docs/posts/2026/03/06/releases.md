@@ -486,7 +486,7 @@ Das Debüt Studioalbum der chilenischen Formation. Hier wird Brutal Death auf di
 
 Der niederländische Producer und DJ mit seinem neuesten Werk. Eine Symbiose aus Liquid Drum & Bass, Acid Funk, Acid Jazz, Neo Soul und Breakbeat. Die Kompositionen durch laufen ihren elektrischen Wandel und binden alle Elemente in passender Form ein. Dabei wird viel Wert auf den nostalgischen Faktor gelegt.
 
-::genre::drum & bass, breakbeat, acid funk, acid jazz, neo soul
+::genre::d&b, breakbeat, acid funk, acid jazz, neo soul
 
 ## Shabaka - Of the Earth
 

@@ -20,7 +20,7 @@ Die russische Formation (Noises of Stormy Latitudes) mit ihrem neuesten Release 
 
 Das Debüt des deutschen Singer & Songwriters, Producer und Multi-Instrumentalisten Alexander Thiel. Sad Pop Punk, welcher mit modernen Elementen des Pop und Hip Hop und Metalcore ausgestattet wurde, ohne aber wirklich die nostalgischen Elemente zu verlieren oder sich in der Moderne zu verlieren. Recht intelligent Produziert wurde das Produkt, muss ich gestehen.
 
-::genre::sad pop punk, metalcore, rap punk
+::genre::sad pop punk, metalcore, punk rap
 
 ## As The Structure Fails - Cry For Mercy
 

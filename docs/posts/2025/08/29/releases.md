@@ -356,7 +356,7 @@ Der spanische Composer und Pianist Vicente Bueso mit neuen Kompositionen der Neo
 
 Der russische Producer mit seinem neuesten Output. Sci Fi-Inspired Ambient Drum & Bass mit Synthwave-Einflüssen.
 
-::genre::ambient, dark drum & bass, synth wave
+::genre::ambient, dark d&b, synth wave
 
 ## Dope Smoker - Lxst Cxssxttx
 

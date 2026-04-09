@@ -898,7 +898,7 @@ Das schwedische One-Man-Project *Tårfödd* bekommt auf seinem neuesten Longplay
 
 Eine kraftvolle fünfköpfige Band, die aus der europäischen Extreme-Metal-Szene nicht mehr wegzudenken ist. "A Light so Dim" ist ihr fünftes Studioalbum in voller Länge. **Atmospheric Black Metal** mit deutlichen Anklängen an **Prog-Rock**, **Darkwave** und **Trip-Hop**. Sie sind bekannt für lange, weitläufige Kompositionen und bösartige Melancholie. Dieses Album, das aus heiterem Himmel ohne vorherige Ankündigung veröffentlicht wurde, ist ein Aufruf an das innere Selbst. Es ist ein dichtes, dramatisches Konzeptalbum mit einem 40-köpfigen Frauenchor und Gastgesang, die ihrer charakteristischen Klangwand eine eindringliche Ebene hinzufügen. Es ist das klangliche Äquivalent dazu, ein Lichtstrahl zu finden, während man in einem Meer der Niederlage ertrinkt - intensiv, wunderschön und auf die bestmögliche Weise absolut erschöpfend.
 
-::genre::atmo black metal, melo black metal, post black metal, prog metal, darkwave, trip hop
+::genre::atmo black metal, melo black metal, post black metal, prog metal, dark wave, trip hop
 
 ## Visions Of Terror - The Dark Triad
 

@@ -526,7 +526,7 @@ Der amerikanische Singer & Songwriter bringt mit seinem neuesten Werk eine Mixtu
 
 Das Debüt der Kollaboration zwischen den amerikanischen Producern Thys, Machinedrum, Holly und Salvador Breed. In Beat werden Jungle, Drum & Bass, Breakbeat und Dub gebracht.
 
-::genre::jungle, drum & bass, breakbeat, dub
+::genre::jungle, d&b, breakbeat, dub
 
 ## Worakls - From one Blink to another
 

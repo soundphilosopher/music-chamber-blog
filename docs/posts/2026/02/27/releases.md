@@ -604,7 +604,7 @@ Das Sophomore Release der amerikanischen Kapelle. Straight wird eine Melange aus
 
 Das Sophomore Release der französischen Formation. Eine dunkle und melancholisch Melange aus Modern Metalcore, Djent, Drum & Bass und Trap. Dabei wirkt das Songwriting nicht Überladen mit Electronica, sondern bietet einen Konstrast zwischen den Unterschiedlichkeiten. Dieser Schritt lässt mehr Raum, um ein individuelles Muster zu bilden, was bei der existierenden Sameness recht schwer ist.
 
-::genre::modern metalcore, djent, drum & bass, trap
+::genre::modern metalcore, djent, d&b, trap
 
 ## IMMERSE - Self-Titled
 

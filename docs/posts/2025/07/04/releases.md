@@ -22,7 +22,7 @@ Genre: Modern Classic, Trip-Hop, Ambient
 
 Genre: Jungle, Breakbeat, Dark Drum & Bass
 
-::genre::jungle, drum & bass, breakbeat
+::genre::jungle, d&b, breakbeat
 
 <!-- more -->
 
