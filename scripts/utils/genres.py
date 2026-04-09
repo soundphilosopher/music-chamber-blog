@@ -5,7 +5,7 @@ Genre normalization utilities.
 import re
 
 
-__SPELLING_MAP = {
+_SPELLING_MAP = {
     "lofi": "LoFi", "rock'n'roll": "Rock'n'Roll", "uk": "UK", "edm": "EDM", "idm": "IDM",
     "ebm": "EBM", "ibm": "IBM", "dsbm": "DSBM", "rabm": "RABM", "nwobhm": "NWOBHM", "nwoahm": "NWOAHM",
     "j-pop": "J-Pop", "j-rock": "J-Rock", "j-folk": "J-Folk", "d-beat": "D-Beat", "r&b": "R&B", "avant-garde": "Avant-Garde",
@@ -23,7 +23,7 @@ def normalize_genre_names(genre_names: list[str]) -> list[str]:
     """Normalize the capitalization of a list of genre names.
 
     Each word in a genre name is capitalized (title case) unless it
-    matches a key in ``SPELLING_MAP``, in which case the mapped
+    matches a key in ``_SPELLING_MAP``, in which case the mapped
     spelling is used instead (e.g. "lofi" → "LoFi", "dsbm" → "DSBM").
 
     Args:
@@ -41,7 +41,7 @@ def normalize_genre_names(genre_names: list[str]) -> list[str]:
         normalized_words = [
             # Use the SPELLING_MAP override if the word has one,
             # otherwise just capitalize the first letter.
-            __SPELLING_MAP[word] if word in __SPELLING_MAP else word.capitalize()
+            _SPELLING_MAP[word] if word in _SPELLING_MAP else word.capitalize()
             for word in words
         ]
         result.append(" ".join(normalized_words))
