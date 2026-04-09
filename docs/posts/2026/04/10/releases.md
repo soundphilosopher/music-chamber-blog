@@ -952,6 +952,6 @@ Das britische Trio mit seiner neuesten EP. Ein unerbittliches Trio, das jahrelan
 
 ## Voidchaser - Interstellar I
 
-tbd
+Das Transatlantic-Trio (Kanada, Schweden) mit seinem Sophomore Release. Es handelt sich um ein konzeptionelles Werk, das in einem von Mythologie durchdrungenen Weltraumuniversum angesiedelt ist und Themen wie technologische Überheblichkeit, Korruption und Überleben behandelt - präsentiert vom **Progressive-Metal**-Kollektiv. Wenn du dich jemals gefragt hast, was passieren würde, wenn die KI eines Raumschiffs beim Hören von 70er-Jahre-Rock und Prog der 2000er-Jahre eine Midlife-Crisis hätte, dann ist "Interstellar I" die Antwort darauf. Es ist eine dichte Klangwand, die es schafft, sowohl gnadenlos heavy als auch unerwartet eingängig zu sein - stell dir vor, Death-Metal-Growls treffen in einer dunklen Gasse im Weltraum auf Glam-Metal-Refrains. Das Thema ist ein Sci-Fi-Buffet aus technologischer Übermacht und Massenkorruption, im Grunde eine musikalische Warnung, dass wir vielleicht nicht unseren Toastern die Herrschaft über die Galaxie überlassen sollten. Von der 8-minütigen technischen Meisterleistung "Initiation Day" bis zum romantisch-brutalen "Anything for Love" fühlt sich das Album wie ein filmisches Erlebnis an, bei dem das von Mythologie durchdrungene Universum tatsächlich eine Rolle spielt. Es ist groß, es ist nerdig und es ist laut genug, um eine schlafende Nebelwolke zu wecken.
 
-::genre::
+::genre::prog metal, neo prog rock, synth metal, djent
