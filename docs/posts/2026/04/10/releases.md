@@ -870,33 +870,33 @@ tbd
 
 ## T'Pau - Be Wonderful
 
-tbd
+Die legendären UK Pop-Rocker geführt von Carol Decker mit ihrem neuesten Longplayer. **Pop-Rock** und Adult Contemporary. Angeführt von der unverkennbaren, kraftvollen Stimme von Carol Decker bleibt ihr Stil dem melodischen, hymnischen Pop der späten 80er Jahre treu. Es ist eine wahre Freude, Carol Deckers Stimme wieder zu hören! "Be Wonderful" ist ein kompromisslos optimistisches Album. Es versucht nicht, modernen Trends hinterherzulaufen, sondern setzt stattdessen auf mitreißende Refrains und herzliche Texte. Es ist Komfortnahrung für die Ohren - warm, vertraut und aufrichtig aufbauend.
 
-::genre::
+::genre::pop rock, synth pop, power pop
 
 ## Tarask - Sitra Ahra
 
-tbd
+Als aufstrebende Größe in der südostasiatischen Extreme-Metal-Szene hat sich *Tarask* in den letzten Jahren einen Ruf für hochintensive Rituale erarbeitet, die als Konzerte getarnt sind. **Blackened Death Metal** mit okkulten Themen. "Sitra Ahra" bezieht sich in der kabbalistischen Überlieferung auf die andere Seite, und die Musik klingt tatsächlich, als käme sie aus einer dunklen Welt. Es ist ein unerbittlicher, düsterer Ansturm aus Tremolo-Picking und kehligen Brüllen. Nichts für schwache Nerven, aber wenn du deinen Metal pechschwarz und höhlenhaft magst, ist dies ein Volltreffer.
 
-::genre::
+::genre::blackened death metal
 
 ## Ten East/Softsun - Turned To Stone Chapter 10
 
-tbd
+Teil der legendären "Turned to Stone"-Split-Reihe. Auf *Ten East* sind Größen der **Desert-Rock**-Szene wie *Gary Arce* zu hören, während *Softsun* ein **Heavy-Psych**-Projekt ist, an dem Mitglieder von *High On Fire* und *Abbath* mitwirken. **Desert Rock**, **Psych-Rock** und **Stoner Doom**. Das ist sonnenverbrannte Musik. *Ten East* liefert schimmernde, von Hitzeschleier umhüllte Instrumentalstücke, die das Gefühl vermitteln, über die Mojave-Wüste zu treiben, während *Softsun* das schwere, kosmische Gewicht beisteuert. Es ist eine Meisterklasse in Sachen Fuzz und Flow - am besten mit hochwertigen Kopfhörern und ohne jegliche Ablenkung zu genießen.
 
-::genre::
+::genre::stoner rock, doom metal, psych rock, psych metal, desert rock
 
 ## Tenille Townes - The Acrobat
 
-tbd
+Das neueste Studioalbum der kanadischen Singer & Songwriterin. **Zeitgenössischer Country** und **Americana**. Man stelle sich eine Mischung aus *Lori McKenna* und *U2* vor - groß angelegte, schwebende Melodien gepaart mit zutiefst intimen, beobachtungsstarken Texten. "The Acrobat" wirkt wie ein emotionaler Hochseilakt. Es ist ein wunderschön ausgewogenes Album, das den Spagat zwischen Leben und Ruhm erforscht. Ihre Stimme bleibt eines der einzigartigsten Crackle-and-Soul-Instrumente im modernen Country. Es ist Musik, die das Herz auf der Zunge trägt und dabei durchaus Köpfchen hat.
 
-::genre::
+::genre::country folk, alt folk, americana
 
-## The Itch - It’s The Hope That Kills You
+## The Itch - It’s The Hope That Kills You *
 
-tbd
+Das Debüt der britischen Band, die **Post-Punk** und **Art-Rock** miteinander verbindet. Dieses Album ist wie ein Nervenzusammenbruch, zu dem man tanzen kann. Es ist nervös, sarkastisch und sehr londonerisch. Der Titel fängt das Gefühl, in den 2020er Jahren ein Sportfan (oder einfach nur ein Mensch) zu sein, perfekt ein. Es ist scharf genug, um zu schneiden, aber eingängig genug, um einem eine Woche lang im Kopf zu bleiben.
 
-::genre::
+::genre::post punk, art rock
 
 ## The Lords Of Altamont - Forever Loaded
 
