@@ -694,12 +694,6 @@ tbd
 
 ::genre::
 
-## Organ - Immobilism *
-
-Die italienische Formation mit ihrem Sophomore Release. **Instrumentaler Post-Doom** und **Post-Metal**. Zu den Einflüssen zählen hypnotische Riffs, bedrückende Rhythmen und unheimliche, albtraumhafte Stimmungen. "Immobilism" hält genau das, was der Titel verspricht: Er nagelt einen mit erdrückender Wucht auf den Stuhl. Diese fünf Stücke sind weniger Lieder als vielmehr Landschaften - genauer gesagt, jene dunklen, nebligen italienischen Wälder, in denen man vielleicht etwas findet, wonach man gar nicht gesucht hat. Es ist schwer, langsam und wunderbar erdrückend.
-
-::genre::post doom metal, post metal
-
 ## Oskar Bond - Sista Morgonen
 
 tbd
