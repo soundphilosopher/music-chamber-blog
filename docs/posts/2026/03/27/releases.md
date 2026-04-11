@@ -763,7 +763,7 @@ Die amerikanische Formation mit ihrem neuesten Longplayer. Indie-Rock-Wurzeln, k
 
 Die Debüt EP der schottischen Kapelle. Selbsternannter "Postapokalyptischer Pop-Metal", welcher ein wilder Mix aus Alternative Metal, Djent, Progressive Metal, Mathcore, Electricore und Pop. Diese EP ist eine glitchige, synkopierte Reise durch eine neonbeleuchtete Ödnis. Sie bietet mitreißende Dance-Tracks, unterlegt mit melancholischen Texten - genau die Art von Musik, bei der man tanzen möchte, während man über den Zusammenbruch der Gesellschaft nachdenkt. Sie ist futuristisch, rau und schafft es, die Kluft zwischen einem schweißtreibenden Moshpit und einer Underground-Techno-Party zu überbrücken.
 
-::genre::modern metalcore, electricore, prog metal, djent, avant metal, alt metal, edm, ebm
+::genre::modern metalcore, electronicore, prog metal, djent, avant metal, alt metal, edm, ebm
 
 ## Lomi, Dornen - A Sudden Burst Of Noise
 
@@ -1099,7 +1099,7 @@ Der britische Singer & Songwriter mit seiner Sophomore EP. Eine fließende Versc
 
 Die deutsche Formation mit ihrem Sophomore Release. Energiegeladener Metalcore/Deathcore, angereichert mit elektronischen Elementen und satirischen Themen. Dieses Album ist eine Reise voller Zusammenbrüche, die das Geschichtenerzählen wie ein Videospiel behandelt. Zwischen Titeln über Alien-Invasionen und einem satirischen Liebesbrief an die Pizza erwarten dich 12 Level voller harter Riffs und chaotischem Spaß, die dich an deinem Schreibtisch zum Moshen bringen werden.
 
-::genre::digicore, electricore, metalcore
+::genre::digicore, electronicore, metalcore
 
 ## Sanaya Ardeshir - Hand of Thought
 
