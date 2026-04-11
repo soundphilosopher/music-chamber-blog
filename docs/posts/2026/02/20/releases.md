@@ -276,7 +276,7 @@ Die deutsche Formation mit ihrem Debüt Longplayer. Geboten wird Blackened Thras
 
 Das Debüt der jungen britischen Singer & Songwriterin. Entstanden ist ein Werk, welches Elemente des Dancehall, Reggae, Pop, R&B und Afrobeat vereint, um ein Pop-Werk der karibischen Töne zu erzeugen. Da karibische Töne bei Warner gerade nicht so gern gesehen werden, wurde der Vorwand der “kreativen Differenzen” genutzt, um die Künstlerin aus dem Roster zu entfernen.
 
-::genre::dancehall, raggae, r&b, afrobeat
+::genre::dancehall, reggae, r&b, afrobeat
 
 ## Liz Cooper - New Day
 

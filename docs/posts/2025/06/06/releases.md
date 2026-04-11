@@ -88,7 +88,7 @@ Das jetzt Solo-Projekt um den britischen Künstler Richard Maguire mit einem neu
 
 Die amerikanische Band mit einem neuen Release. Die Indie-Roots-Kapelle kombiniert ihre Basis-Kompositionen gern mit Reggae und Alt-Folk.
 
-::genre::indie folk, alt folk, raggae
+::genre::indie folk, alt folk, reggae
 
 ## Electric Youth - North of Normal (Original Motion Picture Soundtrack)
 

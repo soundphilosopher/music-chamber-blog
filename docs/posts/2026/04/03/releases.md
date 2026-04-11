@@ -144,7 +144,7 @@ Dies ist das 17. Studioalbum des produktiven "Son of Davy". Es ist eine raue Mis
 
 Das genreübergreifende Trio (mit *Fat Mike* und *Ceschi*), das mit seinem zweiten Studioalbum den Crimewave-Sound - eine Mischung aus **Hip-Hop**, **Punk** und **Reggae** - geprägt hat. "Lifers" ist ein Stinkefinger an alle, die glauben, Punk und Hip-Hop passten nicht zusammen. Mit Gastbeiträgen von Legenden wie The D.O.C. und N8NOFACE ist es ein provokantes, spannungsgeladenes Album, das beweist, dass Szenen nur Räume im selben Haus sind.
 
-::genre::hip hop, punk rock, pop punk, raggae
+::genre::hip hop, punk rock, pop punk, reggae
 
 ## Common Holly - Good, Like It Should Be
 
@@ -444,7 +444,7 @@ Der japanische Producer mit seinem neuesten Longplayer. *Okahashi* ist bekannt f
 
 Das dritte Release in der Discography der amerikanische Kapelle. Melodischer **Streetpunk** und **Oi!** mit einem Doppelgitarren-Angriff. Zu den Einflüssen zählen **Soul**, **Hardcore** und **Reggae**. Auch nach zehn Jahren haben sie noch immer das gewisse Etwas. Das ist knallharter Punk, der einen tatsächlich zum Nachdenken anregt, während man laut mitsingt. Wenn du laute Riffs und tiefgründige Texte magst, ist das hier deine neue Hymne für dieses Jahr.
 
-::genre::streetpunk, hardcore punk, soul, raggae
+::genre::streetpunk, hardcore punk, soul, reggae
 
 ## Non Est Deus - Blessings And Curses
 

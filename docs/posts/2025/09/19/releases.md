@@ -318,7 +318,7 @@ Die routinierten Chicagoianer mit ihrem neuesten Release. Mit ihrem intelligente
 
 Das australische Outfit mit seinem neuesten Werk. Die verschiedenen Schichten der Liebe werden in ihre Komposition aus Psychedelic-Rock und Reggae eingebettet, was zu einem Mix führt, welcher auch dem Alt-Indie zugewiesen werden könnte.
 
-::genre::psych rock, raggae, alt rock, indie rock
+::genre::psych rock, reggae, alt rock, indie rock
 
 ## Oddjob - Atlas *
 

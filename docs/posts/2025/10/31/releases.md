@@ -222,7 +222,7 @@ Der Singer & Songwriter aus Kentucky mit seinem neuesten Werk. Wenn ich nicht ir
 
 Der amerikanische Singer & Songwriter mit seinen neuesten Klangexperimenten. In der verschiedenen Song-Elementen werden Ambient-Percussion, Field-Recordings, Soul, Reggae, Folk und Electronica in Wellen des Klanges verwandelt.
 
-::genre::ambient acoustic, field recordings, neo soul, raggae, folktronica
+::genre::ambient acoustic, field recordings, neo soul, reggae, folktronica
 
 ## Lunatic Soul - The World under Unsun *
 

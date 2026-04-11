@@ -444,7 +444,7 @@ The Ant Band mit ihrem neuesten Release. Das deutsche Kollektive widmet sich die
 
 Die Sophomore EP des französischen Quartetts. Vintage Stoner Rock wird als Grundbaustein mit Elementen des Reggae, Psych-Rock und Garage Rock zu einer genussvollen Komposition vereint. Das Songwriting bietet viel Abwechslung und bringt den Vibe der alten Psych-Jam-Sessions zurück.
 
-::genre::stoner rock, raggae, psych rock, garage rock
+::genre::stoner rock, reggae, psych rock, garage rock
 
 ## The Day Of The Beast - Nightspawn Descendants
 
