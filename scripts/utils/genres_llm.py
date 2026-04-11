@@ -31,7 +31,7 @@ def _build_prompt(raw_genres: list[str]) -> str:
         "Rules:\n"
         "  - Use the known mappings table below as your reference — apply them to any matching word within a genre string\n"
         "  - When a known abbreviation appears as a word in a multi-word genre, expand it (e.g. 'alt folk' → 'Alternative Folk', 'psych rock' → 'Psychedelic Rock')\n"
-        "  - Use Title Case for all other words\n"
+        "  - Use Title Case for all mapped genre names (e.g. 'drone' → 'Drone', 'indie rock' → 'Indie Rock')\n"
         "  - Every key in the input list MUST appear in the output — do not skip any\n"
         "  - Respond with a single JSON object only. No markdown, no explanation.\n"
         "\n"
@@ -50,7 +50,7 @@ def _extract_json(text: str) -> dict[str, str]:
 
 def _ask_llm(raw_genres: list[str]) -> dict[str, str]:
     response = ollama.chat(
-        model="llama3.2",
+        model="llama3.2:latest",
         messages=[{"role": "user", "content": _build_prompt(raw_genres)}],
         format="json",  # enforces structured JSON output — no fences needed
     )
