@@ -688,7 +688,7 @@ Das italienische Trio (Gitarren, Synthesizer, Schlagzeug), das auf seinem neuest
 
 ::genre::post rock, avant rock, experimental rock, ambient, instrumental
 
-## Richard Barbieri - Hauntings **
+## Richard Barbieri - Hauntings *
 
 Der britische Pionier mit seinem ersten Soloalbum seit 2021. Barbieri ist ein Pionier der Synthesizer-Musik, Gründungsmitglied von *Japan* und langjähriges Mitglied von *Porcupine Tree*. **Art-Rock**, **Ambient**, **Dark Jazz**, **Modern Jazz** und **Synth Pop**. Beeinflusst von Nostalgie für die Vergangenheit und die Zukunft. Das ist Musik, in der man sich verlieren kann. Sie ist nachdenklich und düster und wechselt zwischen den gasbeleuchteten Straßen des viktorianischen Londons und juckender moderner Angst. Es geht weniger um eingängige Hooks als vielmehr um eine schleichende Lovecraftsche Atmosphäre, die die Seele heimsucht.
 
