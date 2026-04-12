@@ -622,7 +622,7 @@ Das dritte Album des deutschen **Instrumental-Noise-Rock**-Trios. Die Band ist e
 
 ::genre::noise rock, post metal, experimental rock, instrumental
 
-## Ogle, Mugwood - Eskypism
+## Ogle & Mugwood - Eskypism
 
 Eine Kollaboration zwischen *Ogle* und *Antony Ryan* (Mugwood), der bekanntlich die eine Hälfte des Elektronik-Duos *ISAN* bildet. Sparsame elektronische Arrangements, die vor Ort entstanden sind. Die Tracks wurden direkt von den Dächern Roms und dem Seegras an der Küste Jütlands inspiriert. Das ist geografischer **Ambient** vom Feinsten. Es spielt nicht nur Musik, sondern schafft einen Raum, in dem man sich niederlassen kann. Die eine Seite wirkt warm und mediterran, während die andere kühl und salzig wie die Nordsee ist. Im Grunde ist es ein Urlaub für die Ohren, der deutlich weniger kostet als ein Flugticket.
 
@@ -670,7 +670,7 @@ Das neue, originelle Konzeptalbum einer der angesehensten Bands der **Math-Rock*
 
 ::genre::math rock, prog rock, instrumental
 
-## Prymek, Sagę - Shelter
+## Prymek & Sagę - Shelter
 
 Eine einzigartige Zusammenarbeit zwischen Multi-Instrumentalisten und Klangkünstlern. Ein tiefes Eintauchen in **Ambient**, **moderne Klassik** und elektroakustische Klangwelten. *Brian Eno*, *Max Richter* und die stillen, organischen Klänge der Natur. Das ist nicht nur Hintergrundmusik; es ist ein physischer Raum. Getreu seinem Namen fühlt sich das Album wie ein sicherer Hafen inmitten eines Sturms an. Es ist langsam, atmosphärisch dicht und nutzt Stille ebenso effektiv wie Klang. Es ist Gewichtsdecke-Musik für Ihre Ohren.
 
