@@ -124,7 +124,7 @@ Die amerikanische Kapelle mit ihrem neuesten Werk. Stadion- und radiotauglicher 
 
 Das amerikanische Kreativ-Duo mit ihrem neuen Output. Eine nahtlose Genre-Verschmelzung, welche durch ihre metallischen Kompositionen dem Nu-Metal zugeschrieben werden kann. In der Grundkomposition werden Trap, Drum & Bass, Electronica und Post-Hardcore zu einem Werk verschmolzen.
 
-::genre::nu metal, trap, drum & bass, electronica, post hardcore
+::genre::nu metal, trap, d&b, electronica, post hardcore
 
 ## Isaak Peyer, Charley Rose, Jonathan Collin-Bouhon, Juan Ibarra - Songs of Water
 

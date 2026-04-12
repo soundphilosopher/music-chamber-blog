@@ -114,7 +114,7 @@ Die beiden Portland-Based Producer mit ihrer Kollaboration. Nicht die erste Koll
 
 Die LA-Based Electro-Pop-Künstlerin mit ihrem Sophomore Output. Klassischer Electro-Pop, welcher auch gern Drum & Bass einige Kompositionen aufnimmt.
 
-::genre::electropop, drum & bass
+::genre::electropop, d&b
 
 ## F.S.Blumm, Nils Frahm - Handling *
 
@@ -318,7 +318,7 @@ Die routinierten Chicagoianer mit ihrem neuesten Release. Mit ihrem intelligente
 
 Das australische Outfit mit seinem neuesten Werk. Die verschiedenen Schichten der Liebe werden in ihre Komposition aus Psychedelic-Rock und Reggae eingebettet, was zu einem Mix führt, welcher auch dem Alt-Indie zugewiesen werden könnte.
 
-::genre::psych rock, raggae, alt rock, indie rock
+::genre::psych rock, reggae, alt rock, indie rock
 
 ## Oddjob - Atlas *
 
@@ -396,7 +396,7 @@ Das Black-Metal-Outfit aus der Schweiz mit ihrem Sophomore-Release. Klassische B
 
 Der britische Producer mit seiner neuesten EP. Erschienen über Metalheadz, was bereits den Sound “bestimmt”. Drum & Bass der klassischen Manchester-Spielart.
 
-::genre::drum & bass
+::genre::d&b
 
 ## Wednesday - Bleeds
 

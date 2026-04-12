@@ -360,7 +360,7 @@ Der UK-Based Künstler mit neuen Kompositionen. Irgendwo zwischen Synth-Rock, Gl
 
 Die Kollaboration von Black Sun Empire und Virus Syndicate wartet mit einem Mix aus Neurofunk, Grime und Drum & Bass auf.
 
-::genre::drum & bass, neurofunk, hip hop
+::genre::d&b, neurofunk, hip hop
 
 ## Silverstein - Pink Moon
 

@@ -30,7 +30,7 @@ Und eine Überraschung für mich. Die Kollaboration zwischen der italienischen M
 
 Die britischen Avent-Metaller mit ihrem neuesten Streich. Ein avantgardistischer Mix aus Symphonic-Black-Metal, Progressive Metal und auch Death Metal findet seinen Weg hier.
 
-::genre::avant black metal, symphonic blakc metal, prog metal, blackened death metal
+::genre::avant black metal, symphonic black metal, prog metal, blackened death metal
 
 ## The Pesos - Night at the Races
 

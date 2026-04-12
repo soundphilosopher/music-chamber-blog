@@ -64,7 +64,7 @@ Die kalifornische Formation mit ihrem neuesten Werk. Deathcore, welcher in seine
 
 Der britische Singer & Songwriter und Producer Robin Skinner (Cavetown) mit seinem sechsten Release in seiner Discography. Wieder durchmengt der Künstler das Feld des Pops mit Indie, Trap, Drum & Bass und Alternative Tönen.
 
-::genre::indie pop, trap, drum & bass, alt pop
+::genre::indie pop, trap, d&b, alt pop
 
 ## Cindytalk - That we must pass through this Life
 

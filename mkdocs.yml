@@ -110,6 +110,7 @@ markdown_extensions:
   - pymdownx.tilde
 
 hooks:
+  - scripts/hooks/change_toc_for_releases.py
   - scripts/hooks/mark_top_picks.py
   - scripts/hooks/add_bandcamp_player.py
   - scripts/hooks/add_reading_status.py

@@ -372,7 +372,7 @@ Das Sophomore Release der österreichischen Formation. Ein avantgardes Werk des 
 
 Das koreanische Solo-Projekt mit seiner neuesten Verrücktheit. Ein irrwahnsinniger Mix aus Industrial, Electricore, Post Hardcore und Experimental Electronica. Trotzdem vieles nur aus "der Dose" entstammt, sind die Kompositionen komplex und chaotisch und intelligent gestrickt.
 
-::genre::ibm, synth pop, experimental electronica, post hardcore, electricore
+::genre::ibm, synth pop, experimental electronica, post hardcore, electronicore
 
 ## Green-House - Hinterlands
 

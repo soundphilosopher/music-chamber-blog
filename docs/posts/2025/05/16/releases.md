@@ -118,7 +118,7 @@ Die Amerikaner mit einem neuen Release. Noise Rock mit Hang zum Black Metal und 
 
 Der britische Drum & Bass Pionier mit einem neuen Release. Im Mix stecken Dark Drum & Bass, Jungle und guter Mid-90s Drum & Bass. Alles, was man von einem Pionier erwartet.
 
-::genre::drum & bass, jungle, dark drum & bass
+::genre::d&b, jungle, dark d&b
 
 ## Grails - Miracle Music **
 

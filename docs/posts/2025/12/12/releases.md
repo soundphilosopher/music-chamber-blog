@@ -30,7 +30,7 @@ Neues vom amerikanischen Singer & Songwriter Nathaniel Banks (Arilie). Die Kompo
 
 Der britische Producer James Clements (ASC) mit seinem neuesten Streich. Eine Melange aus Ambient, Atmospheric Jungle und Dark Drum & Bass. Alles verpackt in eine Art Soundtrack der Science Fiction.
 
-::genre::dark drum & bass, jungle, ambient
+::genre::dark d&b, jungle, ambient
 
 ## Aus - Eau
 

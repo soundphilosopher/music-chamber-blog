@@ -306,7 +306,7 @@ Das neueste Werk der britischen Formation. Gothic Rock, welcher Elemente des Har
 
 Die amerikanische Formation mit ihrem neuesten Release. Die Band wird dem Genre der Jamtronica zugewiesen, was die Kompositionen am Ende auch gut einfängt. Hier werden Jam-Rock und Electronica auf ein neues Niveau gehoben. Einflüsse von Space Rock, Acid House, Drum & Bass, Prog-Funk und Disco werden in die Jam-Kompositionen ohne einen Riss zu erzeugen eingebettet.
 
-::genre::jamtronica, jam band, space rock, acid house, drum & bass, prog funk, disco
+::genre::jamtronica, jam band, space rock, acid house, d&b, prog funk, disco
 
 ## Lucy Kruger & The Lost Boys - Pale Bloom
 
@@ -444,7 +444,7 @@ The Ant Band mit ihrem neuesten Release. Das deutsche Kollektive widmet sich die
 
 Die Sophomore EP des französischen Quartetts. Vintage Stoner Rock wird als Grundbaustein mit Elementen des Reggae, Psych-Rock und Garage Rock zu einer genussvollen Komposition vereint. Das Songwriting bietet viel Abwechslung und bringt den Vibe der alten Psych-Jam-Sessions zurück.
 
-::genre::stoner rock, raggae, psych rock, garage rock
+::genre::stoner rock, reggae, psych rock, garage rock
 
 ## The Day Of The Beast - Nightspawn Descendants
 

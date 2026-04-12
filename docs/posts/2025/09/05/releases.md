@@ -132,7 +132,7 @@ Das Outfit aus Massachusetts mit ihrem neuesten Werk. Post-Hardcore-Kompositione
 
 Der britische Producer, DJ und Composer mit seinem neuesten Kompositionen. Das Album-Cover hat mich zum Lachen gebracht. In der Basis kann man die Kompositionen der Ambient-Electronica zuweisen, allerdings bietet das Werk mehr. Bop, Drum & Bass, Folk-Electronica, Trap und Nu-Jazz waren Elemente, die ich beim Hören ausgefasst habe.
 
-::genre::ambient, post bop, drum & bass, folktronica, trap, nu jazz
+::genre::ambient, post bop, d&b, folktronica, trap, nu jazz
 
 ## Garreth Broke - Bittersweet
 

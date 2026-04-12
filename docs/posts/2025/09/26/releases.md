@@ -312,7 +312,7 @@ Der kanadische Singer & Songwriter hat viele Gäste zu Gast bei seinen neuesten 
 
 Das kanadische Electro-Pop-Duo mit ihrem neuesten Release. Electro-Pop, welcher Elemente des Drum & Bass, Folk-Rock und Trance in seine Kompositionen bindet.
 
-::genre::electropop, drum & bass, folk rock
+::genre::electropop, d&b, folk rock
 
 ## Puts Marie - Pigeons, Politicians & Pinups during the End Time of Mankind *
 

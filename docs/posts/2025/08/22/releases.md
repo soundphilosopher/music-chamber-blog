@@ -250,7 +250,7 @@ Nach sechs Jahren sind sie wieder da. Das norwegische RIO-Quintett mit neuen Kom
 
 Nach 15 Jahren ist die UK-based Drum & Bass Band wieder mit neuem Material am Start und ich frage mich wirklich: “War es das wirklich Wert?”; Stadion-Rock trifft auf “Drum & Bass”? Phew … ich behalte sie lieber mit ihrem Debüt in Gedanken.
 
-::genre::hard rock, arena rock, drum & bass, alt rock
+::genre::hard rock, arena rock, d&b, alt rock
 
 ## Pino Palladino, Blake Mills - That wasn’t a Dream
 

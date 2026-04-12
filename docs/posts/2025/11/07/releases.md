@@ -96,7 +96,7 @@ Die routinierten Schweden mit neuen Kompositionen. Man kann sie dem Old-School-D
 
 Der britische Producer und DJ Christopher Clark mit einem neuen Output. In gewohnter Tradition werden Ambient, House, Breakbeat, Drum & Bass, Neo Classic und IDM zu einer Produktion vereint. Geachtet wird auf eine gewisse Struktur in der Produktion, so dass die Neo-Classic-Elemente eher als Interludes zu den Electronica Kompositionen eingesetzt werden.
 
-::genre::ambient, acid house, breakbeat, drum & bass, neo classic, idm, neo classic
+::genre::ambient, acid house, breakbeat, d&b, neo classic, idm, neo classic
 
 ## Cold In Berlin - Wounds *
 
@@ -228,7 +228,7 @@ Das Konsortium aus Portland mit seinem neuesten Werk. Krautrock, welcher die Wel
 
 Der griechische Producer und DJ mit seinem neuesten Streich. Ich meine, dass diese Synth-Wave-Inspirierte Art des Drum & Bass, Liquid Drum & Bass genannt wird.
 
-::genre::synth wave, drum & bass
+::genre::synth wave, d&b
 
 ## Omnium Gatherum - May the Bridges we burn Light the Way
 

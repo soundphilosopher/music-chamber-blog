@@ -20,6 +20,7 @@ dependencies = [
     "curl-cffi",
     "colorama",
     "markdownify",
+    "ollama",
 ]
 
 [project.optional-dependencies]

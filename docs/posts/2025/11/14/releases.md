@@ -42,7 +42,7 @@ Das Projekt um die kanadische Singer & Songwriterin, Producerin und Komponistin 
 
 Das deutsche Metalcore-Outfit mit seinem Sophomore Release. Modern Metalcore, welcher mit einer kräftigen Pop, Eurodance, Trip und Dance Note versehen ist, was ich dann immer gern Dancecore nenne. Trotz des radiofreundlichen Songwritings, wird doch eine gewisse Aggressivität und Melancholie dargeboten.
 
-::genre::eurodance, trip, dance
+::genre::edm, trip, dance, modern metalcore
 
 ## Bell Witch, Aerial Ruin - Stygian bough Volume II
 

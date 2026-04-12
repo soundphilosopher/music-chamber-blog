@@ -28,6 +28,8 @@ Das europäische Quartet um den luxemburgischen Jazz-Pianisten Arthur Possing, h
 
 ::genre::contemporary jazz, improvisation
 
+<!-- more -->
+
 ## Behemoth - The Shit Ov God
 
 Der neueste Streich der polnischen Blackened Death Metaller. Es ist ein besserer Output als das Vorwerk, jedoch kommt es mir so vor, als ob den Protagonisten die Ideen im Songwriting immer mehr verloren gehen.

@@ -150,7 +150,7 @@ Sechs Jahre nach ihrem Debüt präsentiert die deutsche Formation nun ihren Soph
 
 Die australische Formation mit ihrer neuesten EP. Nu-Metalcore wirkt als das musikalische Skelett, welches mit Drum & Bass, Trap und Modern Metalcore durchflossen wird, um einen Körper der musikalischen Entfaltung abzubilden. Das Songwriting bietet wenig progressive Elemente und ist eher aggressiv gestaltet in der Grundtonalität.
 
-::genre::nu metalcore, drum & bass, trap, modern metalcore
+::genre::nu metalcore, d&b, trap, modern metalcore
 
 ## Dissentience - Kaiju
 
@@ -276,7 +276,7 @@ Die deutsche Formation mit ihrem Debüt Longplayer. Geboten wird Blackened Thras
 
 Das Debüt der jungen britischen Singer & Songwriterin. Entstanden ist ein Werk, welches Elemente des Dancehall, Reggae, Pop, R&B und Afrobeat vereint, um ein Pop-Werk der karibischen Töne zu erzeugen. Da karibische Töne bei Warner gerade nicht so gern gesehen werden, wurde der Vorwand der “kreativen Differenzen” genutzt, um die Künstlerin aus dem Roster zu entfernen.
 
-::genre::dancehall, raggae, r&b, afrobeat
+::genre::dancehall, reggae, r&b, afrobeat
 
 ## Liz Cooper - New Day
 
@@ -318,7 +318,7 @@ Die japanische Komponistin und Producerin mit ihrem neuesten Longplayer. Ein ima
 
 Der neueste Longplayer der amerikanischen Singer & Songwriterin. Die Kompositionen bewegen theatralisch nahtlos zwischen Avant-Folk, Indie-Folk, Post-Rock, Dream Pop, Art-Rock und Chamber Pop. Das Songwriting beweist in jeder Komposition die Freude am Erkunden von neuen Sound-Experimenten und bildet so ein magnetisches Anziehungspotential.
 
-::genre::avant folk, indie folk, post rock, dreampop, srt rock, chamber pop
+::genre::avant folk, indie folk, post rock, dreampop, art rock, chamber pop
 
 ## Mirrorcell - Long Nights In Lovescape
 
@@ -330,7 +330,7 @@ Die amerikanische Kapelle mit ihrem Debüt Longplayer. Irgendwo zwischen Pop und
 
 Der deutsche Producer und DJ Michael Bräuninger mit seinem neuesten Full-Length Output. Eine Melange aus Drum & Bass, Dark Electronica, Neurofunk und Breakbeat. Der tiefe misanthropische Sound umrahmt gut das Album-Konzept und wirkt wie eine Dystopie in sich selbst.
 
-::genre::drum & bass, dark electronica, neurofolk, breakbeat
+::genre::d&b, dark electronica, neurofolk, breakbeat
 
 ## Moby - Future Quiet
 

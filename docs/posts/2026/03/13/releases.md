@@ -168,7 +168,7 @@ Die schweizerische Singer & Songwriterin und Harfistin mit ihrem Debüt Full-Len
 
 Die neueste EP des britischen Duos. Sie konnten mit ihrem Sound bereits ein paar TikTok Kiddies gewinnen. Es wird eine Melange aus Electricore, Post Hardcore, Alt Metal und Industrial Metal. Alles wird verschiedenen Electronica Kulissen umrandet, welche mal elektronisch, mal instrumental entwickelt werden. Trotz der modernen Genre-Überschreitung, wirkt das Gesamtergebnis sehr pur und nah und nicht künstlich.
 
-::genre::electricore, post hardcore, alt metal, industrial metal, electronica
+::genre::electronicore, post hardcore, alt metal, industrial metal, electronica
 
 ## Fallath - Nälkäiset aaveet
 
