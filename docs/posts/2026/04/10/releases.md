@@ -14,7 +14,7 @@ Ein kraftvolles Trio, das oft als **Heavy Rock** oder **Sludge**-**Pop** bezeich
 
 ::genre::heavy rock, stoner rock, desert rock, alt rock
 
-## Adorn - Let Love Remain *
+## Adorn - Let Love Remain
 
 Eine aufstrebende Kraft in der **Melodic-Hardcore**- und **Post-Hardcore**-Szene. Sie verbinden die rohe, kehlenschneidende Leidenschaft von Bands wie *Touché Amoré* mit dem schimmernden, atmosphärischen Gitarrenspiel von *Explosions in the Sky*. "Let Love Remain" ist ein emotionaler Schlag in die Magengrube, der am Ende dennoch irgendwie hoffnungsvoll wirkt. Es ist laut, schnell und enthält Texte, die sich anfühlen, als würde man jemandes private Tagebücher lesen. Es ist Musik, bei der das Herz auf der Zunge liegt, für Menschen, die gerne moshen, während sie weinen. Es fängt dieses ganz bestimmte Gefühl ein, wenn man versucht, den Kopf über Wasser zu halten, wenn das Leben schwer wird.
 
@@ -154,11 +154,11 @@ Seit den frühen 90er Jahren sind sie Veteranen der spanischen **Death-Metal**-S
 
 ::genre::osdm
 
-## Chessie, Contriva - Black Jacket *
+## Chessie, Contriva - Black Jacket
 
 Eine kontinentübergreifende Zusammenarbeit zwischen Chessie (Stephen Hendee) und der Berliner Indie-Instrumental-Band Contriva. Sie verbinden **Indie-Elektro** mit **Post-Rock** und der Ästhetik des **Train-Hop**. Black Jacket klingt wie eine lange Pendelfahrt durch eine flackernde Stadtlandschaft. Es ist rhythmisch und präzise, hat aber ein warmes, menschliches Herz. Es ist intellektueller Pop ohne Gesang - elegant, stilvoll und ein klein wenig geheimnisvoll, genau wie das Kleidungsstück, nach dem es benannt ist.
 
-::genre::post rock, indietronica
+::genre::post rock, indietronica, instrumental
 
 ## Chronicler Of Ardul - Sounds Of Ardul
 
@@ -178,6 +178,12 @@ Ein von **Soul** durchdrungener Rocker, der mit *Jimi Hendrix*, *Otis Redding* u
 
 ::genre::soul, prog r&b, prog pop
 
+## Como Asesinar a Felipes - Umbral
+
+Ein legendäres chilenisches Quintett, das **Avantgarde-Jazz**, **Hip-Hop** und **Rock** miteinander verschmilzt. Sie haben bereits mit Billy Gould (*Faith No More*) zusammengearbeitet und sind bekannt für ihren düsteren, poetischen und rhythmisch komplexen Sound. "Umbral" (spanisch für "Schwelle") macht seinem Namen alle Ehre. Es ist eine erkundende Reise ins Unbekannte, bei der aggressiver Rap auf saxophongetriebenes Chaos und schwere Grooves trifft. Wenn du Musik suchst, die wie ein Protest in einem verrauchten Jazzclub am Ende der Welt klingt, dann bist du hier genau richtig. Sie ist intensiv, intellektuell anregend und absolut einzigartig.
+
+::genre::avant jazz, hip hop, jazz fusion, world music
+
 ## Conic Rose - Wedding *
 
 Ein trendsetzendes Quintett aus der Berliner "Urban Jazz"-Szene. Sie verbinden **Modern Jazz** mit **Indie-Rock** und **Ambient**-Klängen und klingen wie eine Mischung aus *Radiohead* und *Christian Scott aTunde Adjuah*. Lass dich vom Titel nicht täuschen; das ist nicht nur Musik für den Gang zum Altar. Es ist eine stimmungsvolle, filmische Erkundung des Berliner Stadtteils "Wedding". Es ist cool, zurückhaltend und unglaublich atmosphärisch - mit Trompetenmelodien, die über knackige, vom Indie inspirierte Drumbeats schweben. Es ist der perfekte Soundtrack, um in einem Café geheimnisvoll zu wirken.
@@ -196,7 +202,7 @@ Ein Projekt, das aus der Underground-Szene von **Darkwave** und **EBM** hervorge
 
 ::genre::dark wave, idm, ebm, ibm
 
-## Da - Da *
+## Da - Da
 
 Ein minimalistisches **Experimental-/Art-Pop**-Projekt. "Da" (oft in Kleinbuchstaben geschrieben) nutzt repetitive Loops und Percussion aus Fundstücken und lässt sich dabei vom Dadaismus und frühen minimalistischen Komponisten inspirieren. Dieses Album ist ein Puzzle. Es ist spärlich, schräg und überraschend verspielt. Es fühlt sich an wie eine Sammlung musikalischer Skizzen, die irgendwie ein perfektes Bild ergeben, wenn man einen Schritt zurücktritt. Es ist Musik, die dich herausfordert, die Melodie im Alltäglichen zu finden - und sobald du das tust, wirst du sie nicht mehr aus dem Kopf bekommen.
 
@@ -256,11 +262,11 @@ Ein Kraftpaket der **Modern-Metalcore**- und **Naturecore**-Szene. Sie verbinden
 
 ::genre::modern metalcore, post hardcore
 
-## El Ten Eleven - Nowhere Faster *
+## El Ten Eleven - Nowhere Faster
 
 Ein legendäres **Post-Rock**-/**Math-Rock**-Duo, bestehend aus Kristian Dunn (Doppelhals-Bass/Gitarre) und Tim Fogarty (Schlagzeug). Sie sind dafür bekannt, dass sie mit komplexen Loop-Pedalen einen Sound erzeugen, der wie eine zehnköpfige Band klingt, ganz ohne vorab aufgenommene Tracks. "Nowhere Faster" ist eine Meisterklasse in Sachen Rhythmus. Es ist spritzig, komplex und für Math-Rock überraschend tanzbar. Es fühlt sich an, als würde man einer Hochgeschwindigkeits-Uhrwerkmaschine dabei zusehen, wie sie sich mitten in der Luft zusammenbaut. Es ist beschwingte, instrumentale Glückseligkeit, bei der man sich schon allein durch das Zuhören produktiver fühlt.
 
-::genre::post rock, math rock, instrumental
+::genre::post rock, math rock, prog rock, instrumental
 
 ## Ella Langley - Dandelion
 
@@ -280,7 +286,7 @@ Als Pioniere des Electronicore verbinden diese Jungs seit 20 Jahren **Post-Hardc
 
 ::genre::electronicore, post hardcore, trance, idm, ibm
 
-## ESYA - Chasing Desire *
+## ESYA - Chasing Desire
 
 *ESYA* ist das Soloprojekt von Ayşe Hassan, die ihr vielleicht als Bassistin der Post-Punk-Band *Savages* kennt. Ihre Soloarbeiten tauchen in eine düstere, industrielle, beat-getriebene Welt ein, die von *Nine Inch Nails* und *Portishead* beeinflusst ist. Dieses Album ist ein stimmungsvolles Meisterwerk für die späten Abendstunden. Es fühlt sich an, als würde man in einem Cyberpunk-Film durch eine regennasse Stadt streifen. Sie ist atmosphärisch dicht, geprägt von pulsierenden Synthesizern und Ayşes eindringlichem, nah am Mikrofon aufgenommenen Gesang, der einem direkt ins Gehirn flüstert. Sie ist unbehaglich, intim und absolut magnetisch.
 
@@ -370,11 +376,11 @@ Ein aufstrebender Name in der Welt des **Progressive Metal** und **Djent**. Ihr 
 
 ::genre::prog metal, djent
 
-## Hannah Lew - Hannah Lew *
+## Hannah Lew - Hannah Lew
 
 *Lew*, die vor allem als treibende Kraft hinter der Post-Punk-Band *Grass Widow* und ihrem Soloprojekt *Cold Beat* bekannt ist, ist eine Veteranin der **Indie**-Szene der Bay Area. Ihre Einflüsse reichen von den kantigen Rhythmen der *Raincoats* bis hin zum ätherischen **Synth-Pop** von *Stereolab*. Das ist Cool-Girl-Indie vom Feinsten. Er ist reduziert, intelligent und leicht distanziert, wie ein Gespräch, das man in einer trendigen Kunstgalerie mitbekommt. Er schafft eine Balance zwischen knackigen Basslinien und schimmernden, spacigen Vocals, die einem das Gefühl geben, durch einen dunstigen kalifornischen Nachmittag zu treiben.
 
-::genre::indie pop, synth pop, alt pop
+::genre::indie pop, synth pop, alt pop, dreampop, vaporwave
 
 ## Hawel/McPhail - Sorrow Wonderland
 
@@ -394,13 +400,13 @@ Als einer der vielversprechendsten **Alt-Pop**-Stars Großbritanniens lässt sic
 
 ::genre::alt pop, indie pop, bedroom pop
 
-## hopewell - hopewell *
+## hopewell - hopewell
 
-Mit Jason Russo (ehemals *Mercury Rev*) ist *Hopewell* seit Jahrzehnten eine feste Größe in der **Psych-Rock**- und **Space-Rock**-Underground-Szene. Ihr Sound ist eine Mischung aus 60er-Jahre-**Fuzz**, 90er-Jahre-**Shoegaze** und kosmischer Erkundung. Diese Platte ist eine sich langsam entfaltende Reise durch eine Nebelwolke. Sie ist verträumt, melodisch und zutiefst atmosphärisch. Wenn du dich schon immer einmal so fühlen wolltest, als würdest du in einer Schwerelosigkeitskammer schweben, während in der Ecke eine Vintage-Rockband spielt, dann ist dieses selbstbetitelte Juwel genau das Richtige für dich.
+Diese Band ist Teil der pulsierenden DIY-Szene in North Carolina und tritt regelmäßig in Clubs wie der Chapel of Bones in Raleigh auf. Ihr Sound ist geprägt von modernem **Metalcore**, **Alternative Metal** und **Post-Hardcore**, wobei der Schwerpunkt auf einer ausgefeilten Produktion und energiegeladenen Live-Auftritten liegt. Wenn das andere Hopewell eine Reise durch die Sterne ist, dann ist dieses *Hopewell* ein Schlag mit dem Vorschlaghammer auf die Brust. Es ist vollgepackt mit knackigen, heruntergestimmten Riffs, hochfliegenden melodischen Refrains und jener stadiontauglichen Energie, die einen dazu bringt, sofort in den Moshpit zu springen. Es ist emotional aufgeladen und aggressiv, aber mit genügend Hooks, damit man die Melodien noch lange nach dem Ende des Breakdowns vor sich hin summt.
 
-::genre::space rock, psych rock, krautrock, shoegaze
+::genre::post hardcore, melo hardcore
 
-## Hyper Gal - Our Hyper *
+## Hyper Gal - Our Hyper
 
 Ein minimalistisches **No-Wave**-/**Avant-Pop**-Duo, bestehend aus der bildenden Künstlerin Koharu Ishida (Gesang) und Kurumi Kadoya (Schlagzeug). Sie sind Teil der pulsierenden japanischen Experimentszene und lassen sich von der rohen Energie des **Punk** und den repetitiven Strukturen des **Techno** beeinflussen. Das ist maximale Musik, geschaffen mit minimalen Mitteln. Es ist eine glitzernde, laute Kollision aus rasanten Drums und ätherischem, stakkatoartigem Gesang. Es fühlt sich an, als stecke man in einem Flipperautomaten fest, der von einem avantgardistischen Modedesigner entworfen wurde - chaotisch, schick und unglaublich süchtig machend.
 
@@ -442,11 +448,11 @@ Seit 2006 gehören Inferi zu den Größen des **Technical Death Metal**. Diese V
 
 ::genre::tech death metal
 
-## Iterum Nata - Heartwood *
+## Iterum Nata - Heartwood
 
 Das Soloprojekt von Jesse Heikkinen (von *Hexvessel*). Die Musik ist eine eindringliche Mischung aus **Dark Folk**, **Progressive Rock** der 70er Jahre und **Extreme Metal**. Entstanden in einer Zeit intensiver innerer Umbrüche, ist "Heartwood" ein Moment der Wiedergeburt, der Einsamkeit gegen eine feurige, trotzige Energie eintauscht. Es ist eine Reise durch frostige nordische Landschaften, in denen kantige progressive Strukturen auf Momente karger, zerbrechlicher Verletzlichkeit treffen.
 
-::genre::prog folk, dark folk, prog rock, post black metal
+::genre::prog folk, dark folk, prog rock
 
 ## Jessie Ware - Superbloom
 
@@ -484,13 +490,13 @@ Die amerikanische Sängerin und Songwriterin Mackenzie Ziegler präsentiert ihr 
 
 ::genre::indie folk, bedroom pop, alt pop, alt folk
 
-## Kiiōtō - Black Salt *
+## Kiiōtō - Black Salt
 
 Das Sophomore Release des britischen Duos, bestehend aus der renommierten Sängerin Lou Rhodes und dem renommierten Singer & Songwriter und Keyboarder Rohan Health. Das Duo taucht ein in **atmosphärischen Folk** und **avantgardistische Akustikmusik**. Dieses Album wirkt wie ein Geheimnis, das in einem dunklen Raum geflüstert wird. Es ist reduziert, erdig und konzentriert sich ganz auf Lous eindringlichen Gesang und die sparsame, filmische Instrumentierung. Es ist die Art von Musik, die die Welt vor deinem Fenster für vierzig Minuten stillstehen lässt. Pure, unverfälschte Stimmung.
 
 ::genre::avant jazz, avant pop, avant folk, art pop, atmo folk
 
-## Kolm - Yūgen *
+## Kolm - Yūgen
 
 **Ambient** / **Post-Progressive**. Dieses Projekt beschäftigt sich mit dem japanischen ästhetischen Konzept des "Yūgen" - einem tiefgründigen, geheimnisvollen Gefühl für die Schönheit des Universums. Wenn du die atmosphärische Seite von Bands wie *Tool* oder *Porcupine Tree* magst, ist dies genau das Richtige für dich. Es ist ein Meisterwerk, das sich langsam entfaltet und bei dem die Stimmung Vorrang vor technischer Brillanz hat. Es fühlt sich an, als stünde man am Rande eines riesigen Canyons; es ist weitläufig, ein wenig einschüchternd und absolut faszinierend.
 
@@ -520,7 +526,7 @@ Die Debüt EP des britischen Qunitetts. Energiegeladener **Math-Rock** und **Pos
 
 ::genre::mathcore, post hardcore, midwest emo
 
-## Mark Sheeky - The Myth Of Sisyphus *
+## Mark Sheeky - The Myth Of Sisyphus
 
 **Avantgarde-Klassik** und **Spoken Word**. *Sheeky* ist ein multidisziplinärer Künstler (Maler, Autor, Pianist), der oft konzeptlastige Klavierwerke schafft, die vom Surrealismus inspiriert sind. Ein originelles konzeptuelles Werk, das auf dem Essay von Albert Camus basiert. Dies ist Musik für Tage, an denen Ihr großes Gehirn auf Hochtouren läuft. Es ist eine klangliche Erkundung des griechischen Mythos von einem Mann, der einen Felsbrocken für immer einen Hügel hinaufrollt. Sie ist minimalistisch, repetitiv (absichtlich!) und seltsam hypnotisch. Es gelingt ihr, existenzielle Angst ziemlich schön klingen zu lassen, was keine Kleinigkeit ist.
 
@@ -580,7 +586,7 @@ Das Debütalbum des dänischen Trios. Intensiver **instrumentaler Post-Metal** u
 
 ::genre::post metal, post sludge metal
 
-## My New Band Believe - My New Band Believe *
+## My New Band Believe - My New Band Believe
 
 Das Debüt der britischen Band. Das von Cameron Picton (ehemaliger Bassist und Sänger von *black midi*) gegründete Projekt ist eine radikale Hinwendung zu **Chamber Pop**, **Avant-Folk** und **Art Rock**. Mit dabei ist eine große Besetzung von Musikern, darunter Mitglieder der Band *caroline*. Das ist maximalistische Akustikmusik. Sie ist halluzinatorisch und wechselt zwischen intimem Folk und plötzlichen, theatralischen Ausbrüchen. Es fühlt sich an wie ein Fiebertraum in einem staubigen Theater - wunderschön, leicht chaotisch und absolut originell.
 
@@ -610,7 +616,7 @@ Die neueste EP der deutschen Octane-Deathcorer. Das ist das musikalische Äquiva
 
 ::genre::deathcore, symphonic black metal, modern metalcore
 
-## Octo - Idyll *
+## Octo - Idyll
 
 Das dritte Album des deutschen **Instrumental-Noise-Rock**-Trios. Die Band ist ein einzigartiges Trio, das aus zwei Bassgitarren und Schlagzeug besteht - normale Gitarren und Gesang sind nicht erlaubt. Lass dich vom Titel nicht täuschen - dieses "Idyll" ist ein Biest. Durch den Verzicht auf die traditionelle Gitarre schafft Octo eine unheimliche Reise aus rhythmischer Komplexität und physischem Klang. Es ist heavy, kathartisch und perfekt, wenn du dir Musik wünschst, die sich wie ein kraftvolles Low-End-Workout für deine Lautsprecher anfühlt.
 
@@ -622,29 +628,47 @@ Eine Kollaboration zwischen *Ogle* und *Antony Ryan* (Mugwood), der bekanntlich 
 
 ::genre::ambient, minimal electronica
 
+## Oliver Koletzki - 12
+
+Koletzki ist ein legendärer DJ, Produzent und Gründer des Labels "Stil vor Talent". Seit über 20 Jahren steht er an der Spitze der Berliner Underground-Szene und verbindet **House**, **Indie-Dance** und globale Rhythmen. Eine Meisterleistung in Sachen Zurückhaltung und emotionaler Klarheit. Das ist sehr Berlin: cool, methodisch, aber mit einem schlagenden Herzen. Man bekommt langsam aufbauende Club-Energie gemischt mit schrulligen, temperamentvollen Synths auf Tracks wie Schnapsidee. Es ist Musik für Menschen, die tanzen wollen, dabei aber auch etwas Tieferes spüren möchten.
+
+::genre::house, acid house, minimal techno, indietronica, edm
+
 ## Oskar Bond - Sista Morgonen
 
 Der schwedische Pianist mit seinem neuesten Solo-Werk. Diese Veröffentlichung bewegt sich im Bereich der **Modern Classic** und der **Ambient**-Elektronik. Sie zeichnet sich durch langsam fließende, verletzliche Klanglandschaften aus, in denen jeder noch so kleinen Frequenz Raum gegeben wird. Wenn du schon immer einmal hören wolltest, wie ein Sonnenaufgang über einem zugefrorenen Fjord klingt, dann ist dies genau das Richtige für dich. Es ist auf die beste Art und Weise zerbrechlich - als hielte man ein Stück antikes Glas in der Hand. Es ist perfekt für jene regnerischen Sonntagvormittage, an denen man tief in sich gehen möchte, aber noch nicht ganz bereit ist, sich der Welt zu stellen.
 
 ::genre::modern classic, ambient
 
-## Palette Knife - Keyframe *
+## Palette Knife - Keyframe
 
 Das ursprüngliche dritte Album in voller Länge. *Palette Knife* ist ein Meilenstein des **Midwest-Emo**-Revivals und dafür bekannt, Anspielungen auf Videospiele mit echter emotionaler Tiefe zu verbinden. Das ist Musik für sonnige Tage mit einem Hauch existentieller Angst. Sie ist beschwingt, voller funkelnder Gitarrenriffs und macht unglaublich viel Spaß beim Mitsingen. Sie fühlt sich an wie der Soundtrack zu einem Coming-of-Age-Film, in dem die Hauptfigur viel zu viel Zeit mit Rollenspielen verbringt.
 
 ::genre::midwest emo, emocore, post hardcore
 
-## Palmar De Troya - III *
+## Palmar De Troya - III
 
 Das ursprüngliche dritte Album (daher der Titel) dieser kraftvollen **Noise-Rock**- und **Post-Hardcore**-Band aus Frankreich. Sie sind bekannt für ihre intensiven, düsteren Live-Auftritte. Dunkel, treibend und ein wenig gefährlich. Es hat dieses Industriestadt-Feeling - grau, metallisch und kraftvoll. Die Rhythmusgruppe ist eine Dampfwalze, und der Gesang durchbricht die Spannung wie ein Taschenlampenstrahl in einem Keller. Es ist Musik, um einer Herausforderung ins Auge zu sehen.
 
 ::genre::post hardcore, noise rock, alt rock
 
-## Poly-Math - Something Deeply Hidden *
+## Paul Cardall - Ancestors
+
+Ein mit dem Dove Award ausgezeichneter Pianist, der für seine unglaublich persönlichen, heilenden Kompositionen bekannt ist. Er lässt sich von *Vangelis*, *Ray Lynch* und modernen Synthesizer-Klängen wie denen von *M83* inspirieren. Nachdem er bei seinem vorherigen Projekt *Chasing Crowns* mit elektronischen Klängen experimentiert hatte, kehrt Paul nun zu seinen Wurzeln zurück: dem Klavier. "Ancestors" ist eine ruhige, nachdenkliche Erkundung des Erbes und der Geschichten, die wir übernehmen. Es fühlt sich an, als säße man mit einem alten Fotoalbum am Kamin - sanft, filmisch und zutiefst friedlich.
+
+::genre::solo piano, modern classic
+
+## Pictish Trail - Life Slime
+
+Das Projekt von Lost Map Records-Chef Johnny Lynch mit seinem neuen Album. Es ist ein schleimgetränkter Strudel aus **psychedelischem** **Electro-Pop**. Dies ist ein Trennungsalbum, das überraschend viel Spaß macht. Es ist voller squelchiger Synthesizer und dessen, was Lynch als müde Akzeptanz bezeichnet. In einer legendären Aktion versuchte Lynch sogar, einen Guinness-Weltrekord aufzustellen, indem er sich für das Video zum Titelsong 170 Liter rosa Schleim über den Kopf schüttete. Es ist chaotisch, fröhlich und wunderbar schräg.
+
+::genre::electropop, psych pop, indie pop, prog pop
+
+## Poly-Math - Something Deeply Hidden
 
 Das neue, originelle Konzeptalbum einer der angesehensten Bands der **Math-Rock**- und **Prog**-Szene. Bekannt für ihre komplexen Taktarten und dreifachen Gitarrenattacken. *King Crimson*, *The Mars Volta* und theoretische Physik (insbesondere die "Viele-Welten"-Interpretation). Diese Platte ist ein echter Denksportaufgabe. Sie ist unglaublich technisch, groovt aber trotzdem irgendwie. Es fühlt sich an wie eine Hochgeschwindigkeitsjagd durch ein Kaleidoskop. Wenn du Musik magst, bei der du mit den Fingern mitzählen und gleichzeitig headbangen willst, ist dies deine neue Obsession.
 
-::genre::math rock, prog rock
+::genre::math rock, prog rock, instrumental
 
 ## Prymek, Sagę - Shelter
 
@@ -664,7 +688,7 @@ Das erste eigenständige Album des norwegischen Kollektivs. **Heavy Rock** der s
 
 ::genre::heavy rock, stoner rock, proto doom
 
-## Rachel Lime - STORIES *
+## Rachel Lime - STORIES
 
 Ein originelles zweites Album. Rachel Lime ist eine koreanisch-amerikanische Produzentin, die traditionelle Instrumente mit modernem **Art-Pop** verbindet. 80er-Jahre-**Synth-Pop**, zeitgenössischer **R&B**, Kate Bush und koreanische Mythologie. Dieses Album fühlt sich an, als würde man einen Fantasy-Roman lesen, während man im Meer treibt. Es ist eine Sammlung von elektronischen Art-Pop-Mikrokosmen - verträumte Fabeln, in denen traditionelle koreanische Tonleitern auf pulsierende Synthesizer treffen. Es ist ätherisch, entführt den Hörer in andere Welten und hat etwas Magisches an sich.
 
@@ -688,7 +712,7 @@ Das italienische Trio (Gitarren, Synthesizer, Schlagzeug), das auf seinem neuest
 
 ::genre::post rock, avant rock, experimental rock, ambient, instrumental
 
-## Richard Barbieri - Hauntings *
+## Richard Barbieri - Hauntings **
 
 Der britische Pionier mit seinem ersten Soloalbum seit 2021. Barbieri ist ein Pionier der Synthesizer-Musik, Gründungsmitglied von *Japan* und langjähriges Mitglied von *Porcupine Tree*. **Art-Rock**, **Ambient**, **Dark Jazz**, **Modern Jazz** und **Synth Pop**. Beeinflusst von Nostalgie für die Vergangenheit und die Zukunft. Das ist Musik, in der man sich verlieren kann. Sie ist nachdenklich und düster und wechselt zwischen den gasbeleuchteten Straßen des viktorianischen Londons und juckender moderner Angst. Es geht weniger um eingängige Hooks als vielmehr um eine schleichende Lovecraftsche Atmosphäre, die die Seele heimsucht.
 
@@ -754,6 +778,12 @@ Das zweite Original-Album der amerikanischen Band. Moderner **Shoegaze**, **Drea
 
 ::genre::shoegaze, dreampop, post punk
 
+## Spirit Adrift - Infinite Illumination
+
+Mastermind Nate Garrett startete dies als Solo-Doom-Projekt, bevor es sich zu einer Weltklasse-Kraftstation des **traditionellen Heavy Metal** entwickelte. Man stelle sich *Black-Sabbath*-Riffs vor, gemischt mit dem epischen Geist von *Iron Maiden*. Dies ist ein schwerer, trauriger Abschied, der nicht einfach nur gespielt wird - er beherrscht den Raum. Es ist eine regelrechte Feier des klassischen Metal mit einer niedergeschlagenen Trotzhaltung. Der letzte Track, "Reunited In the Void", wird als das Beste gefeiert, was sie je gemacht haben. Er ist laut, er ist stolz, und er ist ein verdammt guter Abgang.
+
+::genre::nwobhm, doom metal
+
 ## Splitview - Believe You’ll Be Alright
 
 Die Debüt EP der amerikanischen Formation. Eine kathartische Mischung aus **Grunge**, **Shoegaze** und **Alternative Rock**. Zu empfehlen für Fans von *Nirvana*, *Superheaven* und *Slowdive*. Das ist **Grungegaze** vom Feinsten - verträumt, schwer und zutiefst persönlich. Die Songs sind ein dynamischer und bombastischer Eintauch in emotionale Gefangenschaft, bei dem kräftige Gitarren als Anker für schwebende, verletzliche Vocals dienen. Es ist die Art von Album, die Nostalgie für einen Ort weckt, an dem man noch nie gewesen ist.
@@ -778,7 +808,7 @@ Die Debüt EP des kanadischen Quartetts. Schwerer, **experimenteller Metal**. Ih
 
 ::genre::prog metal, modern metal
 
-## Sugar Horse - Not A Sound In Heaven *
+## Sugar Horse - Not A Sound In Heaven
 
 Das dritte Full-Length der britischen Formation. Ein Klangsalat, der **Doom**, **Shoegaze** und **Industrial Sludge** miteinander verbindet. Stellt es euch als den verdrehten Nachkommen von *Godflesh* und Shoegaze-Legenden vor, aber mit einem überraschenden Schuss Anthem-Pop. Dieses Album ist wie ein Samthammer - in einem Moment wunderschön ätherisch, im nächsten eine politische Abrissbirne. Es erkundet die grimmige Realität des modernen Kapitalismus durch vernichtende Riffs und eindringliche Synthesizer. Es ist gewaltig, stimmungsvoll und überraschend eingängig.
 
@@ -808,11 +838,11 @@ Das neueste Studioalbum der kanadischen Singer & Songwriterin. **Zeitgenössisch
 
 ::genre::country folk, alt folk, americana
 
-## The Itch - It’s The Hope That Kills You *
+## The Itch - It’s The Hope That Kills You
 
-Das Debüt der britischen Band, die **Post-Punk** und **Art-Rock** miteinander verbindet. Dieses Album ist wie ein Nervenzusammenbruch, zu dem man tanzen kann. Es ist nervös, sarkastisch und sehr londonerisch. Der Titel fängt das Gefühl, in den 2020er Jahren ein Sportfan (oder einfach nur ein Mensch) zu sein, perfekt ein. Es ist scharf genug, um zu schneiden, aber eingängig genug, um einem eine Woche lang im Kopf zu bleiben.
+Das Debüt der britischen Band, die **Post-Punk**, **Synth Pop** und **Art-Pop** miteinander verbindet. Dieses Album ist wie ein Nervenzusammenbruch, zu dem man tanzen kann. Es ist nervös, sarkastisch und sehr londonerisch. Der Titel fängt das Gefühl, in den 2020er Jahren ein Sportfan (oder einfach nur ein Mensch) zu sein, perfekt ein. Es ist scharf genug, um zu schneiden, aber eingängig genug, um einem eine Woche lang im Kopf zu bleiben.
 
-::genre::post punk, art rock
+::genre::post punk, art pop, synth pop
 
 ## The Lords Of Altamont - Forever Loaded
 
@@ -838,17 +868,11 @@ Das neue Album des deutschen Quartetts. Energiegeladener **Power Pop** und **Pun
 
 ::genre::power pop, pop punk
 
-## The Neptune Power Federation - Mondo Tomorrow *
+## The Neptune Power Federation - Mondo Tomorrow
 
 Das neueste Release der australischen Formation. Eine grandioser Mix aus **Psychedelic Rock**, 70er-Jahre-**Heavy-Metal** und **Space-Punk**. Stellt euch eine wilde Mischung aus *Motörhead*, *AC/DC* und der Theatralik von *Patti Smith* vor. Das ist Pulp-Fiction-Rock vom Feinsten. Es fühlt sich an wie der Soundtrack zu einem verschollenen Science-Fiction-Film aus den 70ern, in dem die Helden Pailletten tragen und mit Riffs kämpfen. Es ist laut, es ist stolz, und es ist wohl der größte Spaß, den man haben kann, wenn man die Lautsprecher auf elf aufdreht.
 
 ::genre::psych rock, space rock, heavy rock, heavy metal
-
-## The Pictish Trail - Life Slime *
-
-Das Projekt von Lost Map Records-Chef Johnny Lynch mit seinem neuen Album. Es ist ein schleimgetränkter Strudel aus **psychedelischem** **Electro-Pop**. Dies ist ein Trennungsalbum, das überraschend viel Spaß macht. Es ist voller squelchiger Synthesizer und dessen, was Lynch als müde Akzeptanz bezeichnet. In einer legendären Aktion versuchte Lynch sogar, einen Guinness-Weltrekord aufzustellen, indem er sich für das Video zum Titelsong 170 Liter rosa Schleim über den Kopf schüttete. Es ist chaotisch, fröhlich und wunderbar schräg.
-
-::genre::electropop, psych pop, indie pop, prog pop
 
 ## Thomas Stone - The Shunned Path
 
@@ -873,6 +897,12 @@ Das britische **Alternative-Rock**-Trio, das seit 15 Jahren an einem schweren, c
 Der britische Cellist mit seiner neuesten EP; Teil I einer großen Arbeit. **Modern Classic** und **Ambient**. Seine Werke zeichnen sich oft durch üppige, melodische Cellopassagen aus, bei denen das ästhetische Empfinden im Vordergrund steht. Ein wunderschön stimmungsvolles Stück, das an einen ruhigen Abend am Meer erinnert. Woollards Cello fungiert als Erzähler und führt den Zuhörer durch eine Landschaft aus spontanen Ritualen und schimmernden Melodien. Es ist stilvoll, beruhigend und zutiefst filmisch.
 
 ::genre::modern classic, ambient
+
+## Treeboy & Arc - GOOSE
+
+Eine fünfköpfige Band, die in Kellern von Reihenhäusern aus rotem Backstein ihre Anfänge nahm. Ihre früheren Werke waren rauer **Post-Punk**, doch diese neue Ära ist von **Industrial**- und **Elektronik**-Künstlern geprägt. Das zweite Studioalbum. Sie haben einen Teil ihrer nervösen Gitarrenenergie gegen treibende Synthesizer-Sequenzen und hypnotische Wiederholungen eingetauscht. Es ist stimmungsvoll, mechanisch und unglaublich eingängig - wie eine Post-Punk-Band, die beschlossen hat, sich mit einem Haufen Vintage-Equipment und einer Kraftwerk-Platte in einem Raum einzuschließen.
+
+::genre::post punk, idm, edm, new wave
 
 ## Truckfighters - Masterflow
 
@@ -928,7 +958,7 @@ Die amerikanische Kapelle mit ihrem neuesten Output. Ein aufstrebendes Projekt, 
 
 ::genre::indie rock, emocore, alt rock, sad pop punk, power pop
 
-## Witch Ripper - Through The Hourglass *
+## Witch Ripper - Through The Hourglass
 
 Das amerikanische Kollektiv mit seiner neuen Veröffentlichung. Eine Mischung aus **Sludge** und **Progressive Metal**. Sie wurden schon mit *Mastodon*, *Baroness* und *High on Fire* verglichen, doch dieses Album verkörpert auf einzigartige Weise den rockigen Bombast von *David Bowie* und *Queen*. Wenn du dich jemals gefragt hast, was passieren würde, wenn David Bowie mitten in einem Schwarzen Loch eine Sludge-Band anführen würde, dann ist dies deine Antwort. Es ist eine epische, weltraumtaugliche Reise, auf der schwere Riffs auf chorale Erhabenheit und Starman-Energie treffen. Es ist brillant schräg und unbestreitbar gewaltig.
 
@@ -980,6 +1010,12 @@ Ein Projekt des französischen Musikers Scarset Vincent mit einem neuen Album. *
 
 ::genre::prog rock, zeuhl, psych rock, avant rock, jazz fusion, world music
 
+## Daniel Deluxe - Sometimes He Comes Back
+
+Deluxe ist ein Gigant der **Darksynth**-Szene, stark beeinflusst von Horrorfilmen der 80er Jahre, Anime und Cyberpunk-Ästhetik. Er komponierte auch den Soundtrack für das Spiel "Ghostrunner". Das ist hochoktaniger, blutdrucksteigernder **Synthwave**, der wie eine Verfolgungsjagd durch eine neonüberflutete dystopische Stadt klingt. Mit schweren Basslines und „knallharten Kicks“ ist er das musikalische Äquivalent zu einer Lederjacke und einem futuristischen Motorrad.
+
+::genre::synth wave, vaporwave, dark wave
+
 ## Mörkdöd - Book of Lamentations
 
 Das russische Projekt mit seinem neuesten Longplayer. **Black Metal** (**DSBM**) mit Themen rund um das Christentum, Verzweiflung, psychische Erkrankungen und Hoffnung. Das ist Musik, die in den Abgrund blickt. "Book of Lamentations" bietet einen rohen, eisigen Black-Metal-Sturm, der nicht einfach nur wie Lärm klingt; er fühlt sich an wie ein spiritueller Kampf, untermalt von Tremolo-Picking. Es ist düster, es ist intensiv, und es ist der perfekte Soundtrack, wenn man die Last des Daseins spüren möchte.
@@ -994,9 +1030,9 @@ Die italienische Formation mit ihrem Sophomore Release. **Instrumentaler Post-Do
 
 ## Relayer - Choices
 
-Die amerikanischen Symphonic Progger mit ihrem neuesten Longplayer. Ihr Sound ist eine klassische Mischung aus **Vintage-Prog (Neo Progressive Rock)** der 70er Jahre und modernem **Melodic Rock**. Man denke an schwungvolle Keyboards, komplexe Gitarrenarbeit und eine kräftige Prise **AOR**-Flair. Wenn du dich jemals gefragt hast, was passieren würde, wenn eine Garagenband der 90er Jahre in ein Zeitportal fallen und eine Woche lang mit dem Geist von 1974 jammen würde, dann ist dies genau das. "Choices" fühlt sich an wie ein Liebesbrief an die Goldene Ära, aber geschrieben mit einer modernen Feder. Es ist weniger Chaos und Krieg und mehr Melodie und Stimmung. Es ist die Art von Musik, die man auflegt, wenn man sich beim Autofahren schlau fühlen will - viele komplexe Taktarten, die einen dazu bringen, mit den Fingern am Lenkrad mitzuklatschen, aber eingängig genug, dass man sich tatsächlich an den Refrain erinnert. Es ist symphonisch, es ist grandios, und es beantwortet endlich die Frage: *Was wäre, wenn Prog-Rock einfach nur einen schönen, leicht komplizierten Tag haben wollte?*
+Die amerikanischen Symphonic Progger mit ihrem neuesten Longplayer. Ihr Sound ist eine klassische Mischung aus **Vintage-Prog (Neo Progressive Rock)** der 70er Jahre und modernem **Melodic Rock**. Man denke an schwungvolle Keyboards, komplexe Gitarrenarbeit und eine kräftige Prise **AOR**-Flair. Wenn du dich jemals gefragt hast, was passieren würde, wenn eine Garagenband der 90er Jahre in ein Zeitportal fallen und eine Woche lang mit dem Geist von 1974 jammen würde, dann ist dies genau das. "Choices" fühlt sich an wie ein Liebesbrief an die Goldene Ära, aber geschrieben mit einer modernen Feder. Es ist weniger Chaos und Krieg und mehr Melodie und Stimmung. Es ist die Art von Musik, die man auflegt, wenn man sich beim Autofahren schlau fühlen will - viele komplexe Taktarten, die einen dazu bringen, mit den Fingern am Lenkrad mitzuklatschen, aber eingängig genug, dass man sich tatsächlich an den Refrain erinnert. Es ist symphonisch, es ist grandios, und es beantwortet endlich die Frage: Was wäre, wenn Prog-Rock einfach nur einen schönen, leicht komplizierten Tag haben wollte?
 
-::genre::
+::genre::melo rock, neo prog rock, arena rock
 
 ## The Machinist - Towers
 
