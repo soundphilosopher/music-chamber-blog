@@ -171,17 +171,22 @@ def _lookup_bandcamp_album(artists: list[str], title: str, result: Any, session:
         ``False`` otherwise.
     """
     normalized_artists = ["" .join([char.lower() for char in artist if char.isalnum()]) for artist in artists]
-    normalized_artists_from_result = ["" .join([char.lower() for char in band_name if char.isalnum()]) for band_name in result.get("band_name", "").split(", ", 1)]
     normalized_title = "".join([char.lower() for char in title if char.isalnum()])
-    normalized_title_from_result = ["".join([char.lower() for char in title_part if char.isalnum()]) for title_part in result.get("name", "").split(" - ", 1)]
+    original_bag = [f"{artist} - {normalized_title}" for artist in normalized_artists]
 
-    for artist in normalized_artists:
-        log.debug(f"Looking up release {artist} - {normalized_title}")
-        if artist not in normalized_artists_from_result and not (artist == normalized_title_from_result[0] and normalized_title == normalized_title_from_result[1]):
-            log.debug(f"Artist {artist} not found in band name {normalized_artists_from_result} or title {normalized_title} does not start with it")
+    normalized_artists_from_result = ["" .join([char.strip().lower() for char in band_name if char.isalnum()]) for band_name in result.get("band_name", "").split(",")]
+    normalized_title_from_result = ["".join([char.lower() for char in title_part if char.isalnum()]) for title_part in result.get("name", "").split(" - ", 1)]
+    result_bag = [f"{artist} - {normalized_title_from_result[-1]}" for artist in normalized_artists_from_result]
+    if len(normalized_title_from_result) > 1:
+        result_bag.append(f"{normalized_title_from_result[0]} - {normalized_title_from_result[1]}")
+
+    # check if any of the artists in the original bag are in the result bag
+    for release in original_bag:
+        if release not in result_bag:
+            log.debug(f"Release {release} not found in result bag {result_bag}")
             continue
 
-        log.debug(f"Found release {artist} - {normalized_title}")
+        log.debug(f"Found release {release} in result bag {result_bag}")
 
         params = {
             "band_id": result.get("band_id"),
@@ -359,7 +364,7 @@ def on_page_content(html: str, page: pages.Page, config: Config, files: files.Fi
     if not page.meta.get("bandcamp", False):
         return html
 
-    log.debug("Embedding Bandcamp players for pinned page: %s", src)
+    log.info("Embedding Bandcamp players for pinned page: %s", src)
     soup = BeautifulSoup(html, "html.parser")
     headings = soup.find_all("h2")
 
