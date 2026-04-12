@@ -16,6 +16,7 @@ Only pages whose source path ends with ``releases.md`` **and** whose
 front-matter contains ``bandcamp: true`` are processed — regular
 weekly posts are left untouched.
 """
+from IPython.lib.deepreload import original_import
 
 import logging
 import time
@@ -151,7 +152,7 @@ def _search_bandcamp(search_query: str, session: Session) -> list[Any]:
     return []
 
 
-def _lookup_bandcamp_album(artists: list[str], result: Any, session: Session) -> bool:
+def _lookup_bandcamp_album(artists: list[str], title: str, result: Any, session: Session) -> bool:
     """Verify that *result* is an album by one of *artists* via the Bandcamp mobile API.
 
     First checks whether any of the provided artist names is contained in
@@ -169,13 +170,18 @@ def _lookup_bandcamp_album(artists: list[str], result: Any, session: Session) ->
         ``True`` if the album belongs to one of *artists* and is accessible,
         ``False`` otherwise.
     """
-    normalized_band_name = "".join([char.lower() for char in result.get("band_name", "") if char.isalnum()])
-    normalized_title = "".join([char.lower() for char in result.get("name", "") if char.isalnum()])
+    normalized_artists = ["" .join([char.lower() for char in artist if char.isalnum()]) for artist in artists]
+    normalized_artists_from_result = ["" .join([char.lower() for char in band_name if char.isalnum()]) for band_name in result.get("band_name", "").split(", ", 1)]
+    normalized_title = "".join([char.lower() for char in title if char.isalnum()])
+    normalized_title_from_result = ["".join([char.lower() for char in title_part if char.isalnum()]) for title_part in result.get("name", "").split(" - ", 1)]
 
-    for artist in artists:
-        normalized_artist = "".join([char.lower() for char in artist if char.isalnum()])
-        if normalized_artist not in normalized_band_name and not normalized_title.startswith(normalized_artist):
+    for artist in normalized_artists:
+        log.info(f"Looking up release {artist} - {normalized_title}")
+        if artist not in normalized_artists_from_result and not (artist == normalized_title_from_result[0] and normalized_title == normalized_title_from_result[1]):
+            log.info(f"Artist {artist} not found in band name {normalized_artists_from_result} or title {normalized_title} does not start with it")
             continue
+
+        log.info(f"Found release {artist} - {normalized_title}")
 
         params = {
             "band_id": result.get("band_id"),
@@ -239,10 +245,10 @@ def _collect_bandcamp_information(h2: Tag, session: Session) -> BandcampInfo | N
     search_query = title if ", " in heading_text else heading_text
 
     results = _search_bandcamp(search_query=search_query, session=session)
-    log.debug("Found %d results for %s", len(results), heading_text)
+    log.info("Found %d results for %s", len(results), heading_text)
 
     for result in results:
-        if _lookup_bandcamp_album(artists=artists, result=result, session=session):
+        if _lookup_bandcamp_album(artists=artists, title=title, result=result, session=session):
             log.debug("Found Bandcamp album %r for %s", result.get("id"), heading_text)
             return BandcampInfo(
                 album_id=result.get("id"),

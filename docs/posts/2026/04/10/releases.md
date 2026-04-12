@@ -562,7 +562,7 @@ Die Pioniere des **Mesopotamian Metal** verbinden auf ihrer neuen EP **Black/Thr
 
 ::genre::blackened thrash metal, melo black metal, ritual music
 
-## Melvins and Napalm Death - Savage Imperial Death March
+## Melvins, Napalm Death - Savage Imperial Death March
 
 Eine echte 50/50-Kooperation. Es ist eine knallharte Mischung aus **Sludge Metal**, **Grindcore** und **Experimental Noise**. Das ist das musikalische Äquivalent einer Monster-Truck-Rallye in einem Spukhaus. Es ist laut, chaotisch und absolut genial. Man erlebt, wie die schweren, schwungvollen Riffs der Melvins auf die aggressive, brüllende Wut von Barney Greenway von Napalm Death prallen. Es ist stellenweise überraschend melodisch, klingt aber größtenteils so, als hätten zwei Legenden einen Riesenspaß dabei, Dinge zu zertrümmern.
 
