@@ -910,7 +910,7 @@ Die Schweden mit ihrem neuesten Longplayer. **Fuzz Rock** und **Desert Rock**. M
 
 ::genre::stoner rock, sludge rock, desert rock
 
-## upsammy, Valentina Magaletti - Seismo
+## upsammy & Valentina Magaletti - Seismo
 
 Die Fusion zwischen der niederländischen Producerin und DJane Thessa Torsing (upsammy) und der italienischen Drummerin und Percussionistin Valentina Magaletti und deren erste Kollaboration. **Experimental Electronica** und **World Fusion**. Eine rhythmische Meisterleistung, die Club-Tiefe mit offenen, landschaftsartigen Klangtexturen verbindet. Das ist liquid Musik - glasartig und ständig im Wandel wie Quecksilber. Es ist der Sound zweier **Avantgarde**-Genies, die mit Schlägeln und Synthesizern an den Grenzen von Raum und Zeit rütteln. Es ist anspruchsvoll, hat aber genug Bass-Schwergewicht, um die Füße zum Mitwippen zu bringen.
 

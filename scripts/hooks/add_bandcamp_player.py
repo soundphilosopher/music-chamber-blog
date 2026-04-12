@@ -250,11 +250,22 @@ def _collect_bandcamp_information(h2: Tag, session: Session) -> BandcampInfo | N
     search_query = title if ", " in heading_text else heading_text
 
     results = _search_bandcamp(search_query=search_query, session=session)
-    log.debug("Found %d results for %s", len(results), heading_text)
+    log.info("Found %d results for %s", len(results), heading_text)
+
+    if len(results) == 1:
+        result = results[0]
+        log.info("Found Bandcamp album %r for %s", result.get("name"), heading_text)
+        return BandcampInfo(
+            album_id=result.get("id"),
+            album_name=result.get("name"),
+            band_id=result.get("band_id"),
+            band_name=result.get("band_name"),
+            album_url=result.get("url"),
+        )
 
     for result in results:
         if _lookup_bandcamp_album(artists=artists, title=title, result=result, session=session):
-            log.debug("Found Bandcamp album %r for %s", result.get("id"), heading_text)
+            log.info("Found Bandcamp album %r for %s after lookup", result.get("name"), heading_text)
             return BandcampInfo(
                 album_id=result.get("id"),
                 album_name=result.get("name"),
