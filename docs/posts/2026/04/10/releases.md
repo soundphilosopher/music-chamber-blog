@@ -1,7 +1,7 @@
 ---
 date: 2026-04-10
 pin: true
-bandcamp: true
+bandcamp: false
 categories:
   - Releases
 ---
@@ -147,6 +147,12 @@ Benannt nach seinem Geburtsnamen, ist dieses Album ein zutiefst persönliches Pr
 Ein hochgelobter Jazz-Saxophonist (und Mitglied des *Orrin Evans Trios*). Sein Stil ist **avantgardistisch**, aber dennoch im **Blues** verwurzelt und vom Abenteuergeist von *Ornette Coleman* und *John Coltrane* geprägt. "Ritual" ist ein Balanceakt der **Improvisation**. Curtis spielt mit einem Ton, der in einem Moment geschmeidig wie Butter und im nächsten scharf wie Glasscherben sein kann. Es fühlt sich weniger wie eine traditionelle Jazzplatte an, sondern eher wie eine spirituelle Zeremonie - bewusst, intensiv und zutiefst bewegend.
 
 ::genre::contemporary jazz, spiritual jazz, avant jazz, blues
+
+## Carl Stone, ASUNA - Imu Plastos
+
+Die Zusammenarbeit zwischen dem amerikanischen Computermusik-Pionier Carl Stone und dem japanischen Klangkünstler Asuna Arashi. *Carl Stone* gilt als einer der Größen der **Plunderphonics** und des Live-Samplings. *ASUNA* ist bekannt für seine "100 Keyboards"-Performances, bei denen er Spielzeuginstrumente einsetzt. Gemeinsam schaffen sie komplexe **elektroakustische Collagen**. Das Duo verbindet **avantgardistisches Sampling** mit den verspielten, fröhlichen Klängen von Spielzeugkeyboards, die während einer Live-Session in Tokio aufgenommen wurden. Stellt euch vor, ein Wissenschaftler und ein Kleinkind hätten einen Radiosender übernommen. Es ist „verblüffende“ Musik, die zittert und springt und winzige Knackgeräusche und Spielzeugquietschen in eine überraschend eingängige, chaotische Symphonie verwandelt. Es ist seltsam, es ist wunderbar, und es wird eure Ohren definitiv auf Trab halten!
+
+::genre::avant electronica, experimental electronica
 
 ## Caustic - Inner Deflagration
 
@@ -837,6 +843,12 @@ Teil der legendären "Turned to Stone"-Split-Reihe. Auf *Ten East* sind Größen
 Das neueste Studioalbum der kanadischen Singer & Songwriterin. **Zeitgenössischer Country** und **Americana**. Man stelle sich eine Mischung aus *Lori McKenna* und *U2* vor - groß angelegte, schwebende Melodien gepaart mit zutiefst intimen, beobachtungsstarken Texten. "The Acrobat" wirkt wie ein emotionaler Hochseilakt. Es ist ein wunderschön ausgewogenes Album, das den Spagat zwischen Leben und Ruhm erforscht. Ihre Stimme bleibt eines der einzigartigsten Crackle-and-Soul-Instrumente im modernen Country. Es ist Musik, die das Herz auf der Zunge trägt und dabei durchaus Köpfchen hat.
 
 ::genre::country folk, alt folk, americana
+
+## The Black Dog - Loud Ambient 2 *
+
+Pioniere des **IDM** und des **Ambient** **Techno**. Leider verstarb Gründungsmitglied Ken Downie im Dezember 2025, sodass dies eine der ersten Veröffentlichungen ohne seine direkte Mitwirkung ist. Es handelt sich um ein Originalalbum, das das 2025 mit dem ersten "Loud Ambient" gestartete Projekt fortsetzt. Der Titel ist ein augenzwinkernder Hinweis - es ist Ambient, aber mit Puls. Es ist das musikalische Äquivalent eines Stroboskoplichts in einer Nebelmaschine; es ist hypnotisch, rhythmisch und perfekt, wenn man tanzen möchte, aber gleichzeitig über die Weite des Universums nachdenken will.
+
+::genre::minimal techno, ambient, idm
 
 ## The Itch - It’s The Hope That Kills You
 
