@@ -28,6 +28,12 @@ tbd
 
 <!-- more -->
 
+## Abate Berihun - Addis Ken
+
+tbd
+
+::genre::
+
 ## Abrams - Loon
 
 tbd
@@ -112,6 +118,12 @@ tbd
 
 ::genre::
 
+## Barry Greene - Giants
+
+tbd
+
+::genre::
+
 ## Beaming - horseshoe
 
 tbd
@@ -119,6 +131,12 @@ tbd
 ::genre::
 
 ## Bejamin Tod - Vengeance and Grace
+
+tbd
+
+::genre::
+
+## Ben Markley - Tuesday Morning Feeling
 
 tbd
 
@@ -269,6 +287,12 @@ tbd
 ::genre::
 
 ## Electronic Death Black Dogs - The Bornless One
+
+tbd
+
+::genre::
+
+## Eric Chasalow - ...arching, reaching, breathless
 
 tbd
 
@@ -694,6 +718,12 @@ tbd
 
 ::genre::
 
+## Raid2 - Uncorrect
+
+tbd
+
+::genre::
+
 ## Reeking Aura - On The Promise Of The Moon
 
 tbd
@@ -980,25 +1010,7 @@ tbd
 
 # Earlier the week ...
 
-## Abate Berihun - Addis Ken
-
-tbd
-
-::genre::
-
 ## Anitta - EQUILIBRIVM
-
-tbd
-
-::genre::
-
-## Barry Greene - Giants
-
-tbd
-
-::genre::
-
-## Ben Markley - Tuesday Morning Feeling
 
 tbd
 
@@ -1093,6 +1105,12 @@ Jim Coles (alias *Om Unit*) ist ein Veteran der britischen Soundsystem-Szene, be
 tbd
 
 ::genre::
+
+## Posh Toboggan - Crunch Potential **
+
+In ihrer Heimatgemeinde gelten sie als "Paria des Prog-Rock". Zur Band gehört unter anderem Daniel Hedberg am Bass. Sie treten regelmäßig in lokalen Veranstaltungsorten wie der Phog Lounge (PhogHeads) und dem Meteor auf. Ihr Sound ist eine eklektische Mischung aus **Prog-Rock**, **Jazz**, **Experimentalmusik** und **Alternative Rock**. Wenn du Musik magst, bei der du dich fragst: *Moment mal, was ist da gerade passiert?*, dann ist "Crunch Potential" dein neuer bester Freund. Es ist eine wilde Fahrt durch die verschneiten Hügel des Prog-Rock, bei der der Schlitten gelegentlich vom Weg abkommt und in experimentelles Jazz-Territorium abdriftet. Das Thema fühlt sich an wie eine verspielte Energieexplosion - man stelle sich hochoktanige Riffs vor, die auf raffinierte Basslinien treffen, die tatsächlich Crunch haben. Es macht Spaß, ist unvorhersehbar und fängt perfekt die Paria-Energie einer Band ein, die sich weigert, auf Nummer sicher zu gehen.
+
+::genre::prog rock, alt rock, jazz fusion, new wave, art rock, avant rock, neo soul
 
 ## Preludio Ancestral - Guardians Of Twilight
 
