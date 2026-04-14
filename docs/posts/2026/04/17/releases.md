@@ -652,7 +652,7 @@ tbd
 
 ::genre::
 
-## Nine Inch Nails - Nine Inch Noize
+## Nine Inch Noize - Nine Inch Noize
 
 tbd
 
