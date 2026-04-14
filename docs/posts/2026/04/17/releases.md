@@ -1016,11 +1016,11 @@ tbd
 
 ::genre::
 
-## comdex - A Wave of Alarm
+## comdex - A Wave of Alarm *
 
-tbd
+Eine Zusammenarbeit mit Paul Wolinski von der renommierten Noise-Band *65daysofstatic*. Die Musik ist eine Mischung aus **eisigem Dub**, **Ambient**-Texturen und Inselrhythmen. Das ist Instrumentalmusik für unsichere Zeiten. Es ist eine wunderschöne, geräuschvolle Entwicklung, die sich wie eine chaotische, aber kontrollierte Reaktion auf die moderne Welt anfühlt. Tracks wie "The Hypermiler" zeigen ihre Fähigkeit, durch Rauheit und Atmosphäre Spannung aufzubauen. Wenn du Musik magst, die klingt, als hätte ein hochentwickelter Computer einen sehr emotionalen Zusammenbruch, dann ist dies genau das Richtige für dich.
 
-::genre::
+::genre::dark ambient, dub, avant electronica, deep house
 
 ## DREAMSCAPES - Tales of a Wanderer
 
@@ -1072,9 +1072,9 @@ tbd
 
 ## Moonrise - No Rewind
 
-tbd
+Ein Projekt unter der Leitung des Multi-Instrumentalisten Kamil Konieczniak, einer festen Größe der europäischen **Neo-Prog**-Szene. Neo-Progressive-Rock mit **symphonischen** und **atmosphärischen Pop**-Elementen. "No Rewind" ist wie ein warmes, violett schimmerndes Bad für die Ohren. Es ist reichhaltig mit üppigen Synthesizern und melodischen Prog-Wendungen unterlegt, die eine geheimnisvollere, etwas düsterere Stimmung vermitteln als ihre früheren Werke. Die Texte beschäftigen sich mit moderner Unsicherheit und der Verwischung der Wahrheit, doch die Musik bleibt in cremigen Melodien und komplexen Gitarrensoli verankert, die sich sowohl zeitlos als auch zutiefst persönlich anfühlen.
 
-::genre::
+::genre::neo prog rock, prog pop
 
 ## Nautilus - A Castle Full of Secrets
 
@@ -1084,9 +1084,9 @@ tbd
 
 ## Om Unit - Oracles
 
-tbd
+Jim Coles (alias *Om Unit*) ist ein Veteran der britischen Soundsystem-Szene, bekannt für seine Mischung aus **Jungle**, **Footwork** und Dungeon **Dubstep**. **Bass**, Elektronik, von Jungle beeinflusster **House** und Head-Down-**Techno**. Diese EP ist ein elegantes, geschmeidiges Biest, geschaffen für einen dunklen Raum mit einem gewaltigen Soundsystem. Der Titeltrack "Remember" fungiert als Brücke zwischen klassischen Jungle-Breaks und der Direktheit des modernen House. In einem Moment ist er erhaben und sprudelnd, im nächsten techno-treibend - die Art von Musik, die einem das Gefühl gibt, viel cooler zu sein, als man eigentlich ist, während man die Straße entlanggeht.
 
-::genre::
+::genre::acid house, jungle, acid techno, dubstep
 
 ## Passenger Pigeon - Another New Low
 
@@ -1096,9 +1096,9 @@ tbd
 
 ## Preludio Ancestral - Guardians Of Twilight
 
-tbd
+Die von dem Gitarristen und Komponisten Leonardo Gatti gegründete Band legt hier ihr fünftes Album in voller Länge vor. **Symphonic Power Metal** mit neoklassischen Einflüssen, stark geprägt von Bands wie *Stratovarius* und *Rhapsody of Fire*. Wenn du dich schon immer einmal wie auf einem Drachen durch ein Gewitter reiten wolltest, ist dies dein Soundtrack. Sänger Gaston Guillen liefert kraftvolle Vocals, die über unerbittliches Double-Bass-Drumming und rasante Soli schweben. Es ist eine Meisterklasse in Majestät, die sich nicht scheut, sich an die Theatralik des Euro-Metal anzulehnen. Perfekt, wenn dein Dienstag 100% mehr epische Fantasie braucht.
 
-::genre::
+::genre::power metal, melo metal, symphonic metal
 
 ## Regolith - The Moon Underwater *
 
@@ -1126,9 +1126,9 @@ tbd
 
 ## They Might Be Giants - The World Is to Dig
 
-tbd
+Das Anfang der 80er Jahre gegründete Duo John Flansburgh und John Linnell gilt als Meister des satirischen, absurden **Indie-Rock**. Bekannt sind sie für ihre nerdige Ästhetik und ihre experimentelle Vermischung verschiedener Genres. Dieses 24. Album ist ihr erstes in voller Länge seit "BOOK" aus dem Jahr 2021. Eine charakteristische Mischung aus **Alternative Rock**, **Power Pop** und der Theatralik der Tin Pan Alley, nun ergänzt durch moderne experimentelle Elemente. Stellt euch zwei exzentrische Professoren vor, die zufällig eine Zeitmaschine entdecken und beschließen, jedes Jahrzehnt auf einmal zu erobern. "The World Is to Dig" wirkt wie ein Leitbild für neugierige Geister. Während es die typische Skurrilität der Band beibehält, schleicht sich in Tracks wie "Je N'en Ai Pas" eine neue Weltmüdigkeit ein. Es ist schräg, manchmal überraschend politisch (hört euch "What the Cat Dragged In" an) und nutzt mikrotonale Verschiebungen, um sicherzustellen, dass ihr weiterhin aufmerksam bleibt.
 
-::genre::
+::genre::alt rock, indie rock, power pop
 
 ## Try Angel - Ancient Trees
 
