@@ -466,6 +466,12 @@ tbd
 
 ::genre::
 
+## Karmamoi - Eternal Mistake
+
+tbd
+
+::genre::
+
 ## Kathryn Mohr - Carve
 
 tbd
@@ -491,6 +497,12 @@ tbd
 ::genre::
 
 ## Kuru - Backstage Hologram
+
+tbd
+
+::genre::
+
+## Lars Danielsson - Echomyr
 
 tbd
 
@@ -1016,17 +1028,17 @@ tbd
 
 ::genre::
 
-## Brass Camel - Brass Camel
+## Brass Camel - Brass Camel *
 
-tbd
+Die Band, die ihren Stil selbst als **Progressive Funk** bezeichnet, verbindet die technische Virtuosität von *Rush* mit der groovigen Theatralik von *Queen* und *Parliament*-Funkadelic. Stellt euch vor, *Frank Zappa* und die Jungs von *Rush* würden in einer Disco zusammen etwas trinken - das ist *Brass Camel*. Produziert vom legendären Terry Brown (der an Rushs klassischer Ära mitgearbeitet hat), ist dieses Album eine umwerfende Reise durch ungewöhnliche Taktarten, gewaltige Gesangsharmonien und funkige Basslinien. Es ist retro, schräg und absolut mitreißend.
 
-::genre::
+::genre::prog rock, prog funk, jazz fusion, prog soul
 
 ## City of Dawn - Silent Portrait
 
-tbd
+Ein experimentelles **Ambient**- und **Post-Rock**-Projekt, das sich von Themen wie Heilung und Neurodiversität leiten lässt. Es ist gedämpfte Farben in klanglicher Form. Mit Gitarren und Biofeedback erschafft Duque eine Welt, in der Stille tatsächlich aus Tausenden winziger, wunderschöner Klänge besteht. Es ist das musikalische Äquivalent zum Betrachten eines Sonnenuntergangs in Zeitlupe - zutiefst friedlich, ein wenig eindringlich und absolut fesselnd.
 
-::genre::
+::genre::ambient, post rock, hautology, instrumental
 
 ## comdex - A Wave of Alarm *
 
@@ -1060,39 +1072,15 @@ Reiner, kalter norwegischer **Black Metal**. Er tendiert zu einer eher mittelsch
 
 ## John Summit - CTRL ESCAPE
 
-tbd
+Der ehemalige Buchhalter, der sich zum weltberühmten Superstar-DJ gewandelt hat, präsentiert seinen charakteristischen **House**- und **Tech-House**-Sound, der nun von weiteren Einflüssen wie Bass und alternativer Elektronik geprägt ist. Das Album, das am Tax-Day als augenzwinkernde Anspielung auf sein früheres Leben am Schreibtisch veröffentlicht wurde, ist die ultimative "Ich kündige"-Hymne. Es ist energiegeladen, clubtauglich und darauf ausgelegt, dich deine Tabellenkalkulationen vergessen zu lassen. Von viralen TikTok-Hits bis hin zu tiefen, treibenden Warehouse-Beats - *Summit* führt offiziell die Fluchtgeschwindigkeit der Buchhalter an.
 
-::genre::
-
-## Karmamoi - Eternal Mistake
-
-tbd
-
-::genre::
-
-## Lars Danielsson - Echomyr
-
-tbd
-
-::genre::
-
-## Michel Petrucciani - Kuumbwa
-
-tbd
-
-::genre::
+::genre::scid house, techno, deep house
 
 ## Moonrise - No Rewind
 
 Ein Projekt unter der Leitung des Multi-Instrumentalisten Kamil Konieczniak, einer festen Größe der europäischen **Neo-Prog**-Szene. Neo-Progressive-Rock mit **symphonischen** und **atmosphärischen Pop**-Elementen. "No Rewind" ist wie ein warmes, violett schimmerndes Bad für die Ohren. Es ist reichhaltig mit üppigen Synthesizern und melodischen Prog-Wendungen unterlegt, die eine geheimnisvollere, etwas düsterere Stimmung vermitteln als ihre früheren Werke. Die Texte beschäftigen sich mit moderner Unsicherheit und der Verwischung der Wahrheit, doch die Musik bleibt in cremigen Melodien und komplexen Gitarrensoli verankert, die sich sowohl zeitlos als auch zutiefst persönlich anfühlen.
 
 ::genre::neo prog rock, prog pop
-
-## Nautilus - A Castle Full of Secrets
-
-tbd
-
-::genre::
 
 ## Om Unit - Oracles
 
@@ -1106,7 +1094,7 @@ tbd
 
 ::genre::
 
-## Posh Toboggan - Crunch Potential **
+## Posh Toboggan - Crunch Potential *
 
 In ihrer Heimatgemeinde gelten sie als "Paria des Prog-Rock". Zur Band gehört unter anderem Daniel Hedberg am Bass. Sie treten regelmäßig in lokalen Veranstaltungsorten wie der Phog Lounge (PhogHeads) und dem Meteor auf. Ihr Sound ist eine eklektische Mischung aus **Prog-Rock**, **Jazz**, **Experimentalmusik** und **Alternative Rock**. Wenn du Musik magst, bei der du dich fragst: *Moment mal, was ist da gerade passiert?*, dann ist "Crunch Potential" dein neuer bester Freund. Es ist eine wilde Fahrt durch die verschneiten Hügel des Prog-Rock, bei der der Schlitten gelegentlich vom Weg abkommt und in experimentelles Jazz-Territorium abdriftet. Das Thema fühlt sich an wie eine verspielte Energieexplosion - man stelle sich hochoktanige Riffs vor, die auf raffinierte Basslinien treffen, die tatsächlich Crunch haben. Es macht Spaß, ist unvorhersehbar und fängt perfekt die Paria-Energie einer Band ein, die sich weigert, auf Nummer sicher zu gehen.
 
@@ -1124,23 +1112,17 @@ Es handelt sich um eine kraftvolle **instrumentale** Reise durch den **Psychedel
 
 ::genre::psych rock, space rock, prog rock, jazz fusion, instrumental
 
-## Richard Davies - The Son of the Man Who Wrestled a Sea Lion
-
-tbd
-
-::genre::
-
 ## Robert R. Thurman - Cicadas: Broods XIX and XIII
 
-tbd
+Als Teil seines laufenden Projekts "Poetic Nature" verbindet dieses Album experimentelle Elektronik mit Field-Recordings. Zu den Stilrichtungen zählen **Lo-Fi**-Improvisation, **Ambient**-**Drone**s und „geformtes weißes Rauschen“. **Field-Recordings**, **Ambient**, **Experimental** und **Avantgarde**. Stellen Sie sich den Soundtrack eines Horrorfilms vor, in dem die „Monster“ jedoch aus Billionen summender Insekten bestehen. Inspiriert vom seltenen gleichzeitigen Schlüpfen zweier Zikadenbruten im Jahr 2024 vermischt Thurman deren natürliches, außerirdisch anmutendes Dröhnen mit Loops, Rückkopplungen und eindringlichen Echos. Es ist ein dichtes, hypnotisches Hörerlebnis, das ein biologisches Phänomen in ein düsteres, atmosphärisches Kunstwerk verwandelt.
 
-::genre::
+::genre::avant electronica, ambient, field recordings, experimental electronica
 
 ## Sexyy Red - Richer Den Alla My Opps
 
-tbd
+Die aufstrebende **Ra**pperin Janae Nierah Wherry wurde 2023 mit viralen TikTok-Hits wie "Pound Town" bekannt. Ihr **Dirty-Rap**-Stil ist stark von der furchtlosen Energie von *Gucci Mane*, *Lil Wayne* und *Three 6 Mafia* geprägt. Wenn du auf der Suche nach knallharten Bars bist, bist du hier falsch, aber wenn du hochkarätige Club-Hymnen willst, liefert Red. Das Album ist eine kühne Siegesrunde voller knallharter Trap-Beats und ungefilterter Texte, die sich wie ein Stinkefinger an die Hater anfühlen.
 
-::genre::
+::genre::hip hop
 
 ## They Might Be Giants - The World Is to Dig
 
