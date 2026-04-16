@@ -16,8 +16,6 @@ via its ``<h2>`` heading anchor in the source file.
 Generated file: ``genres.md``
 """
 
-import re
-from typing import Any
 import markdown
 import mkdocs_gen_files
 

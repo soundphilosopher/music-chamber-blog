@@ -23,11 +23,6 @@ dependencies = [
     "ollama",
 ]
 
-[project.optional-dependencies]
-dev = [
-    "pyright"
-]
-
 [tool.setuptools]
 packages = ["utils"]
 package-dir = {"utils" =  "scripts/utils"}
@@ -35,3 +30,9 @@ package-dir = {"utils" =  "scripts/utils"}
 [tool.pyright]
 exclude = ["**/*"]
 include = ["scripts/**/*.py"]
+
+[dependency-groups]
+dev = [
+    "pyright>=1.1.408",
+    "ruff>=0.15.10",
+]
