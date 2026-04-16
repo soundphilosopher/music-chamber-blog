@@ -1024,9 +1024,9 @@ tbd
 
 ## Anitta - EQUILIBRIVM
 
-tbd
+Anitta, bekannt als das "Mädchen aus Rio", ist ein weltweiter Superstar, der aus den Favelas aufstieg und zu Brasiliens größter Pop-Ikone wurde. Eine Mischung aus brasilianischen Wurzeln und globalem Pop. Das Album gliedert sich in zwei Akte: Akt I konzentriert sich auf **Samba**, brasilianischen **Funk** und **Reggae** (mit starken afro-brasilianischen Candomblé-Einflüssen), während Akt II sich dem internationalen **Pop** und **Latin Pop** zuwendet. Mit "EQUILIBRIVM" serviert Anitta ein reichhaltiges Buffet an brasilianischer Energie. Die eine Hälfte des Albums weckt den Wunsch, das spirituelle Herz der Favelas zu erkunden, während die andere - mit einer grandiosen Zusammenarbeit mit Shakira bei "Choka Choka" - darauf ausgelegt ist, in jedem Club der Welt die Stimmung zum Kochen zu bringen. Es ist ein gewagter Balanceakt zwischen ihrem kulturellen Erbe und ihrer Krone als globale Pop-Königin.
 
-::genre::
+::genre::latin pop, samba, prog funk, funk, reggae, prog pop
 
 ## Brass Camel - Brass Camel *
 
@@ -1046,11 +1046,11 @@ Eine Zusammenarbeit mit Paul Wolinski von der renommierten Noise-Band *65daysofs
 
 ::genre::dark ambient, dub, avant electronica, deep house
 
-## DREAMSCAPES - Tales of a Wanderer
+## DREAMSCAPES - Tales of a Wanderer *
 
-tbd
+Ein in London ansässiges Sextett unter der Leitung des Gitarristen und Komponisten *Julien Durand*. Mit dabei ist die Sängerin Lucy-Anne Daniels sowie ein komplettes Ensemble mit Flöte, Saxophon, Keyboard, Bass und Percussion. **Ambient-Jazz-Fusion** und **Nu-Jazz**. Die Kompositionen sind stark von Durands Zusammenarbeit in Brasilien mit Legenden wie Toninho Horta und Guinga geprägt und verbinden spontane **Improvisation** mit einem **zeitgenössischen Kammermusik**-Flair. Dieses Album ist wie ein First-Class-Ticket in eine üppige, jazzgefüllte Traumwelt ohne Jetlag. Es ist raffiniert, luftig und zutiefst gefühlvoll. Lucy-Anne Daniels’ Gesang schwebt über brasilianisch inspirierten Rhythmen wie eine warme Brise durch einen Londoner Park. Wenn Sie sich schon immer einmal wie die Hauptfigur eines stimmungsvollen, hochkarätigen Indie-Films fühlen wollten, während Sie zum Supermarkt spazieren, dann ist dies Ihr Soundtrack.
 
-::genre::
+::genre::jazz fusion, chamber jazz, nu jazz, prog rock, jazz rock, improvisation
 
 ## Evil Warriors - Evil Warriors
 
@@ -1090,9 +1090,9 @@ Jim Coles (alias *Om Unit*) ist ein Veteran der britischen Soundsystem-Szene, be
 
 ## Passenger Pigeon - Another New Low
 
-tbd
+Dies ist das Soloprojekt von *Levi Fuller*, einem Künstler, der für seine Arbeit mit *Levi Fuller & the Library und dem in Seattle* ansässigen Label Ball of Wax Audio bekannt ist. **Experimentelle**, auf **Loops** basierende **Instrumentalmusik**, die als seltsame Grooves und schräge Geräusche beschrieben wird. Sie zeichnet sich durch **improvisierte Gitarrenklänge** und unkonventionelle Klangtexturen aus. Stell dir vor, dein Gehirn wäre eine Lavalampe, und Levi Fuller hätte gerade die Hitze aufgedreht. "Another New Low" ist eine Sammlung klanglicher Experimente, die sich anfühlen, als würde man einem Gespräch zwischen einem Loop-Pedal und einer empfindungsfähigen Gitarre lauschen. Es ist auf die bestmögliche Art und Weise nuddelig - perfekt, wenn man sich ein wenig von der Realität losgelöst fühlen möchte, während man dennoch zu einem zurückhaltenden, rauen Groove abhebt.
 
-::genre::
+::genre::ambient, experimental rock, experimental electronica
 
 ## Posh Toboggan - Crunch Potential *
 
