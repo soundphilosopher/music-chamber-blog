@@ -1141,3 +1141,9 @@ Die aufstrebende **Ra**pperin Janae Nierah Wherry wurde 2023 mit viralen TikTok-
 Das Anfang der 80er Jahre gegründete Duo John Flansburgh und John Linnell gilt als Meister des satirischen, absurden **Indie-Rock**. Bekannt sind sie für ihre nerdige Ästhetik und ihre experimentelle Vermischung verschiedener Genres. Dieses 24. Album ist ihr erstes in voller Länge seit "BOOK" aus dem Jahr 2021. Eine charakteristische Mischung aus **Alternative Rock**, **Power Pop** und der Theatralik der Tin Pan Alley, nun ergänzt durch moderne experimentelle Elemente. Stellt euch zwei exzentrische Professoren vor, die zufällig eine Zeitmaschine entdecken und beschließen, jedes Jahrzehnt auf einmal zu erobern. "The World Is to Dig" wirkt wie ein Leitbild für neugierige Geister. Während es die typische Skurrilität der Band beibehält, schleicht sich in Tracks wie "Je N'en Ai Pas" eine neue Weltmüdigkeit ein. Es ist schräg, manchmal überraschend politisch (hört euch "What the Cat Dragged In" an) und nutzt mikrotonale Verschiebungen, um sicherzustellen, dass ihr weiterhin aufmerksam bleibt.
 
 ::genre::alt rock, indie rock, power pop
+
+## Tomorrow X Together - 7th Year: A Moment of Stillness in the Thorns
+
+tbd
+
+::genre::
