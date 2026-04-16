@@ -8,12 +8,6 @@ categories:
 
 # Releases! Releases! Releases!
 
-## .Gif From God - Dissimulation
-
-tbd
-
-::genre::
-
 ## A Very Old Ghost Behind The Farm - Canes Gothi
 
 tbd
@@ -26,13 +20,13 @@ tbd
 
 ::genre::
 
-<!-- more -->
-
 ## Abate Berihun - Addis Ken
 
 tbd
 
 ::genre::
+
+<!-- more -->
 
 ## Abrams - Loon
 
@@ -352,6 +346,12 @@ tbd
 
 ::genre::
 
+## gif. from god - Dissimulation
+
+tbd
+
+::genre::
+
 ## Godsnake - Inhale The Noise
 
 tbd
@@ -424,7 +424,7 @@ tbd
 
 ::genre::
 
-## James Igenfritz, Thomas Buckner - Automatic Thinking
+## James Igenfritz & Thomas Buckner - Automatic Thinking
 
 tbd
 
@@ -448,7 +448,7 @@ tbd
 
 ::genre::
 
-## Joseph Branciforte, Jozef Dumoulin - ITERAE
+## Joseph Branciforte & Jozef Dumoulin - ITERAE
 
 tbd
 
@@ -478,7 +478,7 @@ tbd
 
 ::genre::
 
-## Kerzenlicht/Kirous - Split
+## Kerzenlicht / Kirous - Split
 
 tbd
 
@@ -527,6 +527,12 @@ tbd
 ::genre::
 
 ## Lividus - Scarabaeus
+
+tbd
+
+::genre::
+
+## Look Outside Your Window - Look Outside Your Window
 
 tbd
 
@@ -634,12 +640,6 @@ tbd
 
 ::genre::
 
-## Motörhead - On Parole Sessions
-
-tbd
-
-::genre::
-
 ## Muerto - Eclipsed Realms
 
 tbd
@@ -695,6 +695,12 @@ tbd
 ::genre::
 
 ## Ozul - Stillborn Hope Vol I
+
+tbd
+
+::genre::
+
+## Pilori - Sans Adieu
 
 tbd
 
@@ -779,6 +785,12 @@ tbd
 ::genre::
 
 ## Sean Solomon - The World Is Not Good Enough
+
+tbd
+
+::genre::
+
+## See You Next Tuesday / Chop Chop Chop Chop Chop Chop Chop - Brothers
 
 tbd
 
