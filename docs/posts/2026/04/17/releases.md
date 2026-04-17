@@ -610,215 +610,191 @@ tbd
 
 ::genre::
 
-## Look Outside Your Window - Look Outside Your Window
+## Look Outside Your Window - Look Outside Your Window *
 
-tbd
+Ein lange verschollenes mythisches Projekt mit Corey Taylor, Shawn Clown Crahan, Jim Root und Sid Wilson. Es war bekanntlich 18 Jahre lang unter Verschluss gehalten worden. **Experimenteller Rock**, atmosphärisch und melodisch. Wird oft mit dem Klanguniversum von *Radiohead* verglichen. Ein eindringlicher Zeitzeugnis roher Emotionen. Es ist Slipknot ohne Masken und Aggression, ersetzt durch Radiohead-ähnliche Melodien und abstrakte Experimente. Es ist ein gespenstisches, intimes Stück Metal-Geschichte, das endlich ans Licht kommt.
 
-::genre::
+::genre::experimental rock, avant rock, art rock
 
 ## Los Pulpitos - Tentacletek
 
-tbd
+Ein Elektronik-Duo, bestehend aus dem peruanischen Produzenten Felipe Salmon (*Dengue Dengue Dengue*) und dem deutschen Innovator Dirk Leyers (*Africaine 808*). **Elektronica**, **Experimental Bass** und **Sci-Fidelic-Electronica**. Ein Tiefsee-Rave im Weltraum. Hypnotisch, rhythmisch dicht und voller „schwebender Bässe“ und vielschichtiger Percussion. Perfekt, wenn man tanzen möchte, sich aber gleichzeitig fühlt, als würde man von coolen Unterwasser-Aliens entführt.
 
-::genre::
+::genre::experimental electronica, psych electronica, deep house
 
 ## Lucy Liyou - Mr Cobra
 
-tbd
+Eine transdisziplinäre Klangkünstlerin, die ihr halbautobiografisches Theaterstück "Mister Cobra" in dieses erschütternde Album umsetzt. **Experimentelle Elektronik**, **Musique concrète** und koreanische Volksoper (**Pansori**) vermischt mit **Pop** der 2000er Jahre. Ein Musique-concrète-Spukhaus. Es ist eine revisionistische Nacherzählung von Highschool-Traumata, die abwechselnd erschreckend, komisch und zutiefst menschlich ist. Es klingt wie ein glitchiger, wunderschöner Albtraum, aus dem man nicht aufwachen kann.
 
-::genre::
+::genre::experimental electronica, musique concréte, j-pop, prog pop, avant electronica
 
-## Lungburner - Dogma
+## Lungburner - Dogma *
 
-tbd
+Ein Heavy-Metal-Kollektiv, das dafür bekannt ist, die Wucht des **Southern Sludge** mit progressiven Rhythmen und vielschichtigen Synth-Texturen zu verbinden. Sludge, **Doom Metal** und **Industrial**. Zu den Einflüssen zählen *YOB*, *Killing Joke* und *Nine Inch Nails*. Ein klanglich brutales Ritual. Der Eröffnungstrack "Adamu" beginnt mit einer eindringlichen Anrufung Luzifers und gibt damit den Ton für ein Album vor, das sich wie ein schwerer, psychedelischer Abstieg in uralte, ursprüngliche Gefühle anfühlt.
 
-::genre::
+::genre::doom metal, sludge metal, industrial metal
 
 ## Lø Spirit - Isn’t Life Beautiful
 
-tbd
+Lø Spirit (*Josh Landry*) ist ein aufstrebender Singer-Songwriter, der für seine Verletzlichkeit und seine kraftvolle Stimmlage bekannt ist und sich häufig mit Themen wie psychischer Gesundheit und Selbstfindung auseinandersetzt. **Alternative Rock** und **Pop-Rock** mit einer rauen, introspektiven Note. Man stelle sich die emotionale Intensität des Emo der frühen 2000er Jahre vor, gemischt mit moderner Alternative-Rock-Produktion. Dies ist eine Suche nach Licht in der Dunkelheit. Es ist ein herzzerreißendes und doch hoffnungsvolles Album, das so klingt, als hätte jemand nach langem Schweigen endlich seine Stimme gefunden. Es ist das musikalische Äquivalent eines tiefen, kathartischen Ausatmens.
 
-::genre::
+::genre::alt rock, pop rock, power pop, alt folk
 
-## LØLØ - god forbid a girl spits out her feelings
+## LØLØ - god forbid a girl spits out her feelings *
 
-tbd
+*LØLØ* (Lauren Mandel) hat sich durch TikTok und energiegeladene Tourneen mit Bands wie *New Found Glory* eine riesige Fangemeinde aufgebaut. Dies ist ihr mit Spannung erwartetes Debütalbum. Eine Mischung aus **Pop-Punk** und **Alternative Rock** mit der Energie der frühen 2000er Jahre. Es ist stark beeinflusst von der rohen Ehrlichkeit von *Avril Lavigne* und dem bissigen Witz des zeitgenössischen **Indie-Pop**. Dies ist der ultimative Tagebucheintrag, unterlegt mit Powerchords. Es ist chaotisch, dramatisch und unglaublich mitreißend. Es fühlt sich an wie eine Pyjamaparty, bei der man in eine Haarbürste über seinen Ex schreit - nur mit viel besserer Produktion.
 
-::genre::
+::genre::pop punk, power pop, alt rock, indie pop
 
-## M.I.A. - M.I.7
+## M.I.A. - M.I.7 *
 
-tbd
+Das Album wurde an sieben Orten rund um den Globus (darunter Äthiopien, Indien und Ägypten) geschrieben und aufgenommen und ist *M.I.A.*s erstes großes Projekt als vollständig unabhängige Künstlerin auf ihrem eigenen Label. **Gospel**, christlicher **Hip-Hop** und **experimentelle Elektronik**. Es verbindet *M.I.A.*s charakteristische Global-Bass-Sounds mit liturgischen Themen und Chorarrangements. Ein metaphysischer Leitfaden für die Endzeit. Mit dem *Sunday Service Choir* ist es eine hochkonzeptionelle Klangreise, die halb evangelikale Predigt, halb Underground-Rave ist. Es ist wild, kontrovers und zutiefst spirituell - klassisches M.I.A.
 
-::genre::
+::genre::gospel, alt hip hop, experimental electronica
 
 ## Malora - DEATH IS LOOMING
 
-tbd
+Malora ist Teil einer aufstrebenden Welle britischer Metal-Bands, die mit filmischen Elementen die Grenzen des Genres erweitern. **Progressive Metalcore** und **Alternative Metal**. Der Sound zeichnet sich durch hohe technische Komplexität, atmosphärische Synthesizer und emotionalen Gesang aus. Das ist heavy Musik für den Grübler. Trotz des düsteren Titels liegt eine dunkle Schönheit in diesem technischen Chaos. Es fühlt sich an, als stünde man mitten in einem digitalen Sturm - erdrückend dicht, aber gelegentlich erhellt von hochfliegenden melodischen Hooks.
 
-::genre::
+::genre::modern metalcore, prog metalcore, alt metal
 
-## Man Band - Strong Man
+## Man Band - Strong Man *
 
-tbd
+Eine neue "Macho"-Supergroup mit ehemaligen Mitgliedern der Sludge-Metal-Band *OHHMS* (Chainy Rabbit und Daniel Sargent). **Alternative Metal**, **Hardcore** und **Garage Grunge**. Fans von *mclusky* und *Queens of the Stone Age* werden hier viel zu lieben finden. Eine satirische und aufrichtige Auseinandersetzung mit moderner Männlichkeit. Sie verbindet sludgy Riffs mit trockenem, respektlosem Humor - unterstrichen durch Tracks wie "My Dad’s Bigger Than Your Dad". Es ist laut, clever und schlägt ein wie eine Tonne Ziegelsteine.
 
-::genre::
+::genre::alt metal, metallic hardcore, post grunge, desert rock
 
 ## Manali - Manali
 
-tbd
+Dieses Projekt entstand aus der lebendigen Musikfestivalszene im Himalaya und soll die psychedelische Atmosphäre von Zusammenkünften in den hochgelegenen Wäldern einfangen. **Psytrance**, **Techno** und **Cosmic Beats**. Stark beeinflusst von den schamanischen Rhythmen des Parvati-Tals. Ein ritualer Raum in einer Box. Es ist dafür gedacht, unter dem Mondlicht bei maximaler Lautstärke abgespielt zu werden. Wenn du dich schon immer einmal so gefühlt hast, als würdest du in einem schneebedeckten Kiefernwald ein spirituelles Erwachen erleben, dann ist dies dein Soundtrack.
 
-::genre::
+::genre::psytrance, techno, acid house, edm
 
-## Marta Sánchez - For the Space You Left
+## Marta Sánchez - For the Space You Left *
 
-tbd
+Eine preisgekrönte Pianistin und Komponistin (2025 Downbeat Rising Star), bekannt für ihre komplexen, polyrhythmischen Quintettwerke. **Avantgarde-Jazz** und modernes kreatives Klavierspiel. Nennt vielfältige Einflüsse wie *Bach*, *Joni Mitchell* und den *Minimalismus*. Eine zutiefst persönliche klangliche Erzählung der Einsamkeit. Durch die Verwendung sanfter Materialien wie Papier und Blu-Tack zur Vorbereitung des Klaviers schafft Sánchez eine intensive innere Welt aus obsessiven Zyklen und Verletzlichkeit. Es ist zart, experimentell und unglaublich bewegend - ein stilles Meisterwerk des modernen Jazz.
 
-::genre::
-
-## Marty Wilde - Let’s Rock This Place
-
-tbd
-
-::genre::
+::genre::modern jazz, avant jazz, modern classic
 
 ## Master Dy - Milf Queen
 
-tbd
+Unter der Leitung von DyA ist das Projekt für seine Theatralik und seine vielfältigen Gesangstexturen bekannt, die von eingängigen Refrains bis hin zu rauen, kratzigen Stimmen reichen. **Industrial Metal** mit starken melodischen, heavy und sogar **blackened-Thrash**-Einflüssen. Es ist badass und böse, aber dennoch überraschend mitreißend. Stellt euch die theatralische Energie von Ghost BC gemischt mit roher Industrial-Power vor. Es ist eine epische Metal-Reise, die sich selbst nicht allzu ernst nimmt und dennoch mit geilen Riffs und kraftvollen Soli aufwartet.
 
-::genre::
+::genre::industrial metal, blackened thrash metal
 
-## Master’s Ashes - How The Mighty Have Fallen
+## Master’s Ashes - How The Mighty Have Fallen *
 
-tbd
+Eine Heavy-Metal-Supergroup mit Veteranen von *Voivod*, *Crowbar*, *Crisis* und *Mindrot*. Eine aggressive Mischung aus **Crust**, **Proto-Industrial** und **Apocalyptic Metal**. Stell dir vor, Amebix trifft auf *Neurosis*. Eine Kritik der verbrannten Erde am aktuellen politischen Klima. Es ist unerbittlich, erdrückend und darauf ausgelegt, falsche Idole zu zerstören. Wenn du Musik suchst, die wie ein Protest inmitten einer zusammenbrechenden Ära klingt, ist dies dein Schlachtruf.
 
-::genre::
+::genre::crust, industrial metal, avant metal, post metal
 
 ## Matt Corby - Tragic Magic
 
-tbd
+Corby ist ein mehrfacher ARIA-Award-Gewinner, der sich von einem Teilnehmer einer TV-Gesangs-Castingshow zu einem angesehenen Multi-Instrumentalisten und Produzenten entwickelt hat. Dies ist sein viertes Studioalbum. Eine gefühlvolle Mischung aus **Alternative Rock**, Motown-inspiriertem **Pop** und **Indie-Folk**. Diese zutiefst persönliche und von der Seele durchdrungene Platte vermittelt das Gefühl, als hätte Corby durch seine Vaterschaft sein Denken neu ausgerichtet. Sie ist groovig, nachdenklich und stellt diese unverwechselbare Stimme in den Mittelpunkt - perfekt für einen regnerischen Nachmittag oder eine lange, besinnliche Autofahrt.
 
-::genre::
-
-## Meitei - AGATE / 瑪瑙
-
-tbd
-
-::genre::
+::genre::indie folk, soul, alt rock
 
 ## Michael Jones - The Promise of Escape
 
-tbd
+Jones ist ein Schlagzeuger und Dirigent, dessen Arbeit sich auf die Förderung **moderner experimenteller Werke** konzentriert: Percussion des 21. Jahrhunderts und **Avantgarde**. Sein Schwerpunkt liegt auf alternativer Virtuosität - Sensibilität, Resonanz und feinen Klangtexturen statt lautem, schnellem Trommeln. Ein klangliches Ritual aus klingenden Objekten. Es ist still, nach innen gerichtet und intensiv körperlich, wobei jeder Schlag und jeder Klang wie ein geflüstertes Geheimnis behandelt wird. Es bietet nicht nur eine Fluchtmöglichkeit; es erschafft eine ganz neue Welt, in der man sich verstecken kann.
 
-::genre::
+::genre::avant jazz, experimental electronica
 
-## Mike Bruzzese - Another Space
+## Mike Bruzzese - Another Space *
 
-tbd
+Als aufstrebender Gitarrist der kanadischen Jazzszene ist dies sein zweites Album als Bandleader bei Bent River Records. **Modern Jazz**. Das Album zeichnet sich durch einen kollaborativen Quartettansatz mit suchenden Saxophonlinien und fließenden Gitarrenimprovisationen aus. Intim und doch weitreichend. Es ist der Klang von vier Freunden, die sich in einem schummrig beleuchteten Raum, in dem die Luft vor Kreativität nur so strotzt, ein Gespräch auf hohem Niveau liefern. Es entführt Sie in einen anderen Raum, in dem nur die nächste Note zählt.
 
-::genre::
+::genre::modern jazz, improvisation
 
 ## Mike Lazarev - Gradiscence
 
-tbd
+*Lazarev* ist ein Produzent und Komponist, der für seine tiefgründigen, meditativen Werke auf Labels wie Past Inside the Present bekannt ist. **Ambient** und **moderne Klassik** mit einem Schwerpunkt auf Achtsamkeit und strukturierten Klanglandschaften. Das ist Atem-Musik. Sie ist sparsam, hypnotisch und elementar und wirkt weniger wie eine Sammlung von Songs, sondern eher wie eine mikroskopische Erkundung der Zeit selbst. Setz deine besten Kopfhörer auf und mach dich bereit, davonzuschweben.
 
-::genre::
+::genre::ambient, modern classic
 
 ## Misery Channel - Loveless
 
-tbd
+Dies ist die Debüt-EP der aufstrebenden britischen Band, die auf ihre Single "The Gutter" folgt. Eine kraftvolle Mischung aus **Metalcore**, **Nu-Metalcore** und **Deathcore**. Auch wenn sie denselben Namen wie das legendäre Album von *My Bloody Valentine* trägt, ist diese Platte nichts zum Träumen - sie ist zum Schreien. Es ist ein aggressiver, rauer Abstieg in das Elend, der klingt, als wäre er in einem sturmgepeitschten Lagerhaus aufgenommen worden.
 
-::genre::
+::genre::nu metalcore, deathcore
 
-## Mont Loser - Confessional
+## Mont Loser - Confessional *
 
-tbd
+Die Band, die in der Zeit nach der Pandemie als Trio gegründet wurde, strebt einen modernen Sound an, der sich nicht auf bloße Nostalgie für vergangene Jahrzehnte verlässt. Eine einzigartige Mischung aus **Grunge**, **Noise Rock** und **Industrial**. Sie verbindet raue Texturen mit rhythmischer Energie. Diese Veröffentlichung besticht durch hohe Energie und eine leicht hektische Atmosphäre. Sie schafft einen Ausgleich zwischen Momenten melodischer Sensibilität und Ausbrüchen chaotischen Lärms und fängt so das Gefühl einer späten Nacht in einer Stadt ein, die niemals schläft.
 
-::genre::
+::genre::post grunge, noise rock, industrial
 
-## Muerto - Eclipsed Realms
+## Muerto - Eclipsed Realms *
 
-tbd
+Das Projekt, das sich durch den unverwechselbaren Gesangsstil von *Penelope Matamoros* auszeichnet, beschäftigt sich mit Themen der Selbstreflexion und den schwierigeren Aspekten menschlicher Emotionen. **Doom**-beeinflusster **Black Metal**. Er verbindet die langsamen, schweren Tempi des Doom mit der rauen, aggressiven Schärfe des Black Metal, um eine düstere Atmosphäre zu schaffen. Die Musik ist zutiefst melancholisch und langsam. Sie fängt ein Gefühl tiefer Isolation und Dunkelheit ein und ist damit ideal für alle, die Musik schätzen, die tiefe, introspektive Stimmungen erkundet.
 
-::genre::
+::genre::blackened doom metal
 
-## Mylingar - Út
+## Mylingar - Út *
 
-tbd
+Dieses Projekt ist dafür bekannt, ein gewisses Maß an Anonymität zu wahren, wodurch die Musik für sich selbst sprechen kann, während sie düstere, existenzielle Themen behandelt. Intensiver **Blackened Death Metal**. Der Sound zeichnet sich durch eine dichte, beklemmende Atmosphäre und komplexe, chaotische Arrangements aus. Dieses Album bietet ein anspruchsvolles und fesselndes Erlebnis. Es fühlt sich an wie eine Reise durch eine dunkle, turbulente Landschaft und richtet sich an Hörer, die Musik schätzen, die ebenso emotional anspruchsvoll wie technisch meisterhaft ist.
 
-::genre::
+::genre::blackened death metal
 
 ## Necromorbid - Ceremonial Demonslaught
 
-tbd
+Dieses seit 2011 aktive Projekt ist eine feste Größe der italienischen Underground-Szene und bekannt für seinen kompromisslos dämonischen Sound. Hyperaggressiver **Black/Death Metal**. Erwartet bestialische Energie, rohe Produktion und einen Strudel der Zerstörung. Das ist das musikalische Äquivalent eines verfluchten Rituals in einer feuchten Krypta. Es ist dreckig, schnell und unerbittlich böse - ein Gaumenreiniger für alle, die finden, dass Metal zu glatt geworden ist.
 
-::genre::
+::genre::blackened death metal
 
 ## Nekrogoblikon - The Boiling Sea
 
-tbd
+Dies ist die erste Veröffentlichung der Band mit einem neuen Gesangsduo: Dickie Allen (von *Infant Annihilator*) am Growl-Gesang und John Goblikon am Klargesang. **Melodic Death Metal** trifft auf **Folk Metal** - oder **Goblin Metal**. Das Album besticht durch rasante Keyboards, vernichtende Riffs und eine chaotische Mischung aus Humor und Brutalität. Es ist ein Karneval im Goblin-Stil, der gerade eine düstere, maritime Wendung genommen hat. Auf einem Track ist sogar die Bläsersektion von *Reel Big Fish* zu hören, was diese Platte zur einzigen Death-Metal-Veröffentlichung macht, die dich dazu inspirieren könnte, zu skanken, während ein Goblin dich anschreit.
 
-::genre::
+::genre::melo death metal, folk metal
 
 ## Nightkites - Metropolis
 
-tbd
+Ein aufstrebendes Quartett, bekannt für seine schillernden Live-Shows mit einer wahren Klangwand und seine filmischen, lyrischen Themen. **Dream Pop** und **Shoegaze**. Stark beeinflusst von den üppigen, hallenden Klangschichten des britischen Indie der 90er Jahre und des modernen atmosphärischen Pop. Getreu seinem Namen fühlt sich dieses Album an wie eine Mitternachtsfahrt durch eine neonbeleuchtete Stadt. Es ist verträumt, romantisch und ein wenig melancholisch - als würde man die Sterne im regennassen Asphalt spiegeln sehen. Es ist eine klangliche Umarmung für alle, die sich in einer großen Menschenmenge ein wenig einsam fühlen.
 
-::genre::
-
-## Nine Inch Noize - Nine Inch Noize
-
-tbd
-
-::genre::
-
-## Normal Community High School Experimental Ensemble - A Moment of Yet
-
-tbd
-
-::genre::
+::genre::dreampop, shoegaze
 
 ## Normandie - SIDE EFFECTS PT. 1
 
-tbd
+Dies ist die erste von drei EPs, die letztendlich das fünfte Studioalbum der Band bilden werden. Das Projekt wurde vollständig von den Bandmitgliedern selbst geschrieben und produziert. **Alternative Rock** und **Post-Hardcore**. Diese EP führt die Band im Vergleich zu ihren früheren Werken in einen härteren und energiegeladeneren Klangraum. Stellt euch die Euphorie einer energiegeladenen Arena-Show vor, gepaart mit der Rauheit eines Punk-Gigs im Keller. Es ist kraftvoll, ausgefeilt und bereit, von einem Festivalpublikum lautstark zurückgeschrien zu werden. Wenn ihr vorheriges Album Dopamine der Rausch war, dann ist dies die berauschende Nebenwirkung.
 
-::genre::
+::genre::alt rock, post hardcore
 
 ## Northern Graves - Derelict Heart
 
-tbd
+Ursprünglich als Soloprojekt von Damian Smith (*Altars of Grief*) gestartet, wuchs das Projekt im Jahr 2024 zu einer vierköpfigen Besetzung heran. **Blackened Doom Metal**. Die Band lässt sich stark von der weiten, rauen kanadischen Wildnis und der düsteren Atmosphäre ländlicher Geisterstädte inspirieren. Dieses Album ist ein Wintersturm in akustischer Form. Es ist eine eindringliche Reise durch zerfallende Infrastruktur und gefrorene Ebenen, die rohe Wut mit melodischem Doom in Einklang bringt. Es ist perfekt, wenn man die Kälte eines Schneesturms in Saskatchewan aus der Sicherheit seiner Kopfhörer heraus spüren möchte.
 
-::genre::
+::genre::blackened doom metal
 
-## Occult Hand Order - Meaningless Monuments
+## Occult Hand Order - Meaningless Monuments *
 
-tbd
+Ursprünglich als Trio im Jahr 2018 gegründet, haben sie sich kürzlich mit dem Beitritt des Gitarristen Clément Mozzone zu einem Quartett erweitert. **Psychedelic Doom** und **Post-Rock**. Eine Mischung aus massiven Doom-Riffs und hypnotischen, meditativen Atmosphären. Ein klangliches Ritual durch innere Ruinen. Es ist langsamer, düsterer und filmischer als ihre früheren Werke. Es klingt, als würde jemand versuchen, in einer postapokalyptischen Ödnis einen Sinn zu finden, wobei er nichts als ein Fuzz-Pedal und ein Gefühl kosmischer Angst einsetzt.
 
-::genre::
+::genre::psych rock, doom metal, post rock
 
-## Ordh - Blind In Abyssal Realms
+## Ordh - Blind In Abyssal Realms *
 
-tbd
+Eine neue Supergroup, gegründet von Mitgliedern von *Barishi* und *Come to Grief*. **Progressive Death Metal**. Man stelle sich die kosmische Erkundung von *Blood Incantation* vor, gemischt mit der technischen Raffinesse von *Demilich*. Ein technisches Labyrinth, das direkt in ein Schwarzes Loch führt. Es ist technisch, neblig und berauschend aggressiv. Es schafft es, gleichzeitig höhlenartig und strahlend zu sein, als fände man ein leuchtendes antikes Artefakt auf dem Grund eines trüben Ozeans.
 
-::genre::
+::genre::prog death metal
 
-## Ozul - Stillborn Hope Vol I
+## Ozul - Stillborn Hope Vol I *
 
-tbd
+Das Solo-Studio-Projekt des norwegisch-costaricanischen Filmemachers *Paulo Chavarría*, der den Blick eines Regisseurs in seine musikalischen Kompositionen einfließen lässt. **Kinematografischer Progressive Rock**. Stark inspiriert vom atmosphärischen Storytelling von *Porcupine Tree* und *Steven Wilson*. Das ist nicht nur Musik; es ist ein Audio-Kino-Erlebnis. Es ist ätherisch, stimmungsvoll und äußerst visuell - eine tragische Geschichte, erzählt durch üppige Klangtexturen und emotionale Kraft. Es fühlt sich an, als würde man einen Noir-Film mit geschlossenen Augen ansehen.
 
-::genre::
+::genre::prog rock, avant rock, art rock
 
-## Pilori - Sans Adieu
+## Pilori - Sans Adieu *
 
-tbd
+Als feste Größe der französischen Extreme-Szene legen sie nach einer erfolgreichen Reihe von Veröffentlichungen Anfang der 2020er Jahre nun ihr drittes Album in voller Länge vor. **Blackened Hardcore** und **Crust Punk** gemischt mit **Sludge**. Es klingt, als würde die Welt in Zeitlupe untergehen. Massiv heavy und erdrückend düster - ein schwankender, industriell angehauchter Albtraum, der es schafft, zugleich frenetisch und quälend langsam zu sein. Ideal für alle, die Trost in klanglicher Vernichtung finden.
 
-::genre::
+::genre::crust, post black metal, post sludge metal, hardcore punk
 
 ## Pinknoise - Flesh And Bone
 
-tbd
+Unter der Leitung der nicht-binären Künstlerin *Kacey Foxx* eroberte das Projekt innerhalb nur eines Jahres die Szene im Sturm und sammelte Millionen von Streams, bevor es bei der Nettwerk Music Group unter Vertrag genommen wurde. Ein energiegeladener Mix aus **Djent**, **Metalcore** und **R&B**. Stell dir vor, die technischen Riffs von *Meshuggah* treffen auf den gefühlvollen, kraftvollen Gesang einer R&B-Diva. Dies ist eine Hymne zum Mitfäustenschlagen für alle, die authentisch und anders sind. Sie begegnet dem Gift des Online-Hasses mit roher, ungefilterter Wut - perfekt, um im Auto laut mitzuschreien oder im Fitnessstudio eine neue persönliche Bestleistung zu erzielen.
 
-::genre::
+::genre::modern metalcore, djent, alt r&b
 
 ## Preludio Ancestral - Guardians Of Twilight
 
@@ -828,93 +804,81 @@ Die von dem Gitarristen und Komponisten Leonardo Gatti gegründete Band legt hie
 
 ## Primal Warfare - After The Flames
 
-tbd
+Eine neue Größe in der Hardcore-Szene der Westküste, bekannt für ihren rasanten Sound und ihre aggressiven Live-Auftritte. **Crossover-Thrash** und **Hardcore-Punk**. Schnell, rau und stark beeinflusst von der rohen Kraft der Bay-Area-Szene der 80er Jahre. Diese Platte ist pures Feuer. Es ist der Sound eines benzingetränkten Kellerkonzerts, bei dem sich alle mit 200 Meilen pro Stunde bewegen. Kurz, knackig und absolut glühend heiß - ideal für alle, denen normaler Metal einfach ein bisschen zu langsam ist.
 
-::genre::
-
-## Prince Daddy & the Hyena - Hotwire Trip Switch
-
-tbd
-
-::genre::
+::genre::crossover, metallic hardcore, hardcore punk
 
 ## Protoje - The Art of Acceptance
 
-tbd
+*Protoje* ist ein Pionier der "Reggae Revival"-Bewegung und ein für den Grammy nominierter Künstler, der die Grenzen des Genres immer wieder neu definiert hat. **Moderner Reggae** und **Roots** Revival. Sein Stil zeichnet sich durch eine kraftvolle Reggae-Instrumentierung aus, die von Ikonen der 90er Jahre inspiriert ist, mit Anklängen von **Hip-Hop** und **Soul**. Dies ist eine gefühlvolle Reise, die heilt und tröstet. Es ist warm, bewusst und spirituell geerdet und präsentiert Schwergewichte wie *Damian* und *Stephen Marley*. Es klingt wie ein Sonnenuntergang über Kingston - zeitlos, kraftvoll und bei wiederholtem Hören zutiefst bereichernd.
 
-::genre::
-
-## Radio Hito - L’uso e gli attributi del cuore
-
-tbd
-
-::genre::
+::genre::reggae, neo soul, dancehall
 
 ## Raid2 - Uncorrect
 
-tbd
+*Raid2* haben sich mit ihrem kompromisslos aggressiven Sound in der europäischen Underground-Szene einen Namen gemacht. Eine knallharte Mischung aus **Metallic Hardcore** und **Beatdown**. Freut euch auf schwere Grooves, dissonante Riffs und hochintensiven Gesang. Das ist das musikalische Äquivalent einer hochkarätigen Abrissmannschaft. Es ist unerbittlich, gnadenlos und wie geschaffen für alle, die mitten im Moshpit ihre Ruhe finden. Wenn ihr mal Dampf ablassen müsst, ist "Uncorrect" genau das Richtige für euch.
 
-::genre::
+::genre::metallic hardcore, beatdown
 
 ## Reeking Aura - On The Promise Of The Moon
 
-tbd
+Eine "Supergroup" mit Veteranen aus Bands wie *Afterbirth*, *Grey Skies Fallen* und *Thaetas*. Agrar-**Death-Metal**. Eine einzigartige Mischung aus brutalem NY/NJ-Death-Metal mit einem seltsamen, nostalgischen Fokus auf Natur, Landwirtschaft und Verfall. Stellt euch einen Horrorfilm vor, der auf einer Kartoffelfarm spielt. Es ist kehlkopfbetont und dreckig, aber überraschend melodisch und atmosphärisch. Es ist der Beweis dafür, dass es im Schlamm und im Mond jede Menge Horror zu entdecken gibt.
 
-::genre::
+::genre::death metal
 
-## Rene Wise - Johnson’s Theme
+## Rene Wise - Johnson’s Theme *
 
-tbd
+Er wurde als Andrew Shobeiri geboren und wuchs bei einem iranischen Profi-Schlagzeuger auf, was seine Faszination für komplexe perkussive Strukturen eindeutig geprägt hat. Tiefgründiger, **Trip**-orientierter **Techno**. Der Fokus liegt auf funktionalem Minimalismus und psychoaktiven Loops. Techno aus dem Dschungel. Er ist zurückhaltend, hypnotisch und darauf ausgelegt, auf einer dunklen Tanzfläche tief einzutauchen. Es ist die Art von Musik, bei der man den Überblick darüber verliert, wo der eigene Körper endet und die Lautsprecher beginnen.
 
-::genre::
+::genre::acid techno, minimal techno, experimental electronica, trip hop
 
-## Rise Of Kronos - Slaves Of Time
+## Rise Of Kronos - Slaves Of Time *
 
-tbd
+Früher bekannt als die Band *Surface*, haben sie sich 2021 umbenannt, um ihren Fokus zu schärfen. Dies ist ihr insgesamt fünftes Album unter dem neuen Namen. Olympischer **Death Metal**. Eine Mischung aus schwedischer Aggressivität, **progressiver Präzision** und **Hardcore**-Intensität. Ein Konzeptalbum über den unaufhaltsamen Lauf der Zeit und die Sterblichkeit. Es ist heavy, mythologisch und klingt, als würde man von einem griechischen Titanen verfolgt, der sehr, sehr wütend ist, dass man zu spät zum Abendessen kommt.
 
-::genre::
+::genre::melo death metal, metalcore
 
 ## Ryan Blotnick - The Woods
 
-tbd
+Ein kluger Gitarrist, der ein Jahrzehnt in NYC verbrachte, bevor er nach Maine zurückkehrte. Dies ist sein erstes Album als Bandleader seit zehn Jahren, live aufgenommen in einem einzigen Raum im "The Woods"-Studio in Woodstock. **Moderner Jazz** mit Anklängen von **Rock** und **Psychedelia**. Zu seinen Einflüssen zählen Gitarristen wie *Wes Montgomery*, *Grant Green* und *Bill Frisell*. Ein audiophiler Traum, der sich wie eine ruhige Wanderung durch einen Wald anfühlt. Es ist weitläufig, mit summbar und tief verbunden. Wenn deine Ohren nach einer langen Woche voller Lärm eine warme Decke und eine Tasse Tee brauchen, dann ist dies genau das Richtige.
 
-::genre::
+::genre::modern jazz, jazz fusion, psych rock, psych jazz
 
 ## Sabancaya - Dispirited
 
-tbd
+Sabancaya wurden 2021 gegründet und sorgten mit ihrer Debüt-EP "Presentiment of Decay" für Aufsehen, bevor sie dieses Album veröffentlichten. **Melodic Death Metal** (oder wie sie es scherzhaft nennen: "#femihalvdödsmetall"). Freut euch auf eine Mischung aus knallharten Riffs, düsteren Stimmungen und der rohen Energie des schwedischen Undergrounds. Benannt nach einem peruanischen Vulkan, ist die Musik ebenso explosiv. Es ist der perfekte Soundtrack, wenn ihr euch wie ein Wikinger fühlen wollt, der am Rande einer Klippe steht - majestätisch, ein wenig traurig, aber vor allem bereit, gegen einen Drachen zu kämpfen.
 
-::genre::
+::genre::melo death metal
 
 ## Sabiendas - Puppeteer Of Doom
 
-tbd
+*Sabiendas* ist eine seit 2006 aktive Death-Metal-Band, die für ihre technische Versiertheit und ihren brutalen Sound bekannt ist. **Old-School-Death-Metal**. Stark beeinflusst von der Szene Floridas (*Morbid Angel*, *Deicide*), gemischt mit europäischer Präzision. Es ist, als wäre man in einem Marionettentheater gefangen, in dem die Fäden aus Stacheldraht bestehen. Das ist kompromissloser, brick-walled Death Metal, bei dem vernichtende Riffs und kehlige Erzählungen im Vordergrund stehen. Es ist düster, technisch und absolut unerbittlich.
 
-::genre::
+::genre::osdm
 
 ## Sandmind - 13 Pragas Infernais
 
-tbd
+Die im Oktober 2022 gegründete Band ist eine aufstrebende Kraft in der portugiesischen Metal-Szene. **Heavy Metal** und **Groove Metal**. Fans von *Moonspell*, *Iron Maiden* und *Lamb of God* werden sich hier sofort zu Hause fühlen. Eine konzeptionelle Reise durch das alte Ägypten, komplett auf Portugiesisch. Es ist wie "Die Mumie", nur inszeniert von einer Gruppe von Metalheads mit massiven Riffs und Growl-Gesang. Stellt euch Sandstürme, Flüche und Headbangen vor einer Pyramide vor.
 
-::genre::
+::genre::groove metal, alt metal, heavy metal
 
-## Scarboro - Hate Season
+## Scarboro - Hate Season *
 
-tbd
+*Scarboro* ist seit langem ein fester Bestandteil der Punk-Szene in Brooklyn und bekannt für politische Themen und eine unverfälschte emotionale Offenheit. Energiegeladener **Punkrock** und **melodischer Hardcore**. Die Band schöpft stark aus dem klassischen New Yorker Hardcore-Spirit und der Intensität des *Riot Grrrl*. Ein Liebesbrief an den Punk, der sich nicht scheut, Trauer laut herauszuschreien. Schnell, knackig und kathartisch - die Art von Platte, die Lust macht, eine politische Kampagne zu starten oder einfach durch eine Mauer zu rennen.
 
-::genre::
+::genre::punk rock, melo hardcore
 
 ## Sean Solomon - The World Is Not Good Enough
 
-tbd
+*Solomon* ist der Leadsänger der Indie-Band *Moaning* und arbeitet außerdem als professioneller Animator und Cartoonist (Schöpfer von "The Sean Solomon Show"). **Indie-Rock** und Adult **Alternative** mit einem Hauch von **Folk-Pop**. Zu den Einflüssen zählen die emotionale Direktheit von *Elliott Smith* und die rohe Verletzlichkeit von *Nirvana*. Das ist Sad-Boy-Musik für Menschen, die gerne über den Schmerz lachen. Sie ist introspektiv und melancholisch, aber gespickt mit trockenem, ironischem Humor. Es fühlt sich an, als würde man einen wunderschön gezeichneten Cartoon über eine kleine existenzielle Krise auf einer Party ansehen.
 
-::genre::
+::genre::alt rock, indie rock, folk pop, indie pop
 
 ## See You Next Tuesday / Chop Chop Chop Chop Chop Chop Chop - Brothers
 
-tbd
+*See You Next Tuesday* ist ein Urgestein der Math-Grind-Szene der frühen 2000er Jahre (bekannt vor allem für das Album "Parasite"), das kürzlich sein Comeback feierte. *CCCCC* ist ein produktives, modernes Projekt, das für seine hyperaktiven, experimentellen Veröffentlichungen bekannt ist. Eine chaotische Verschmelzung von **Grindcore**, **Mathcore** und **Cybergrind**. Freut euch auf rasante Blastbeats, dissonante Gitarrentechnik und sporadische elektronische Glitch-Effekte. Stellt euch einen Mixer vor, gefüllt mit scharfkantigen Metallsplittern und einem defekten GameBoy. Es ist eine 10-minütige Panikattacke, die euch irgendwie dazu bringt, Möbel zertrümmern zu wollen. Reines, unverfälschtes akustisches Chaos.
 
-::genre::
+::genre::grindcore, deathcore, mathcore, cybergrind
 
 ## Seether - Beneath The Surface
 
