@@ -8,6 +8,12 @@ categories:
 
 # Releases! Releases! Releases!
 
+## A Burial At Sea, Newhvn - Spring Time Blues *
+
+A Burial At Sea sind bekannt für ihre laute und bläserlastige Interpretation des Post-Rock; Newhvn ist ein aufstrebender Akteur im Bereich des experimentellen Rocks. **Post-Rock** / **Math-Rock** / **Brass-Rock**. Die Einflüsse reichen von den cineastischen Crescendi von *Mogwai* bis zum energiegeladenen, von Bläsern getragenen Chaos von *The Budos Band*. Lass dich vom Namen nicht täuschen - das ist nicht der Blues deines Großvaters. Es ist eine triumphale Klangwand mit schwebenden Trompeten und krachenden Gitarren. Es klingt wie eine Parade, die das Ende der Welt feiert: laut, chaotisch und seltsam fröhlich.
+
+::genre::post rock, math rock, prog rock
+
 ## A Very Old Ghost Behind The Farm - Canes Gothi *
 
 Ein geheimnisvolles Kollektiv, das traditionelle akustische Instrumente - Geigen, Drehleiern und Glocken - einsetzt, deren Klang durch mehrere Schichten aus Rauschen und Hall verarbeitet wird. **Experimenteller Folk** / **Dark Ambient** / **Avantgarde**. Stellt euch eine rustikalere, furchteinflößendere Version von *Current 93* oder den Soundtrack zu einem Folk-Horrorfilm vor. Das ist Dreck-unter-den-Fingernägeln-Grusel. Es klingt wie ein Dorfritual, das in einer überwucherten Scheune abgehalten wird, während ein Sturm aufzieht. Es ist eindringlich, knarrend und absolut fesselnd - weniger ein Lied als vielmehr ein Spuk, an dem ihr freiwillig teilnehmt.
@@ -20,13 +26,13 @@ Ein geheimnisvolles Kollektiv, das traditionelle akustische Instrumente - Geigen
 
 ::genre::idm, ambient, musique concréte, field recordings
 
+<!-- more -->
+
 ## Abate Berihun - Addis Ken
 
 *Berihun* ist ein weltbekannter Saxophonist und Sänger, der zuvor das gefeierte Projekt *Kululam* leitete. **Ethio-Jazz** / **Soul**. Es verbindet die traditionellen pentatonischen Tonleitern Äthiopiens mit **Spiritual Jazz** und erinnert an *Mulatu Astatke* und *John Coltrane*. Das ist klangliche Diplomatie. *Berihuns* Saxophon spielt nicht nur Noten; es erzählt eine Geschichte von Exil, Herkunft und Hoffnung. Es ist gefühlvoll, hat einen tiefen Groove und besitzt eine spirituelle Wärme, die das Gefühl vermittelt, als würden die Lautsprecher leuchten.
 
 ::genre::spiritual jazz, contemporary jazz, neo soul, world music
-
-<!-- more -->
 
 ## Abrams - Loon *
 
@@ -178,6 +184,12 @@ Ihr drittes Studioalbum, das auf "Waiting For Your Colours" aus dem Jahr 2022 fo
 
 ::genre::sad pop punk, power pop
 
+## Christina Kubisch - TUNING
+
+Seit den 1970er Jahren eine legendäre Figur der europäischen Klangkunstszene. Sie erforscht die verborgenen Klänge der Technik, die für den Menschen normalerweise nicht hörbar sind. **Sound Art** / **Field Recordings** / **Experimentelle Musik**. Kubisch ist eine Pionierin der "Electrical Walks" und nutzt eigens angefertigte Induktionskopfhörer, um die unsichtbaren elektromagnetischen Felder städtischer Umgebungen aufzunehmen. Das ist keine Musik im herkömmlichen Sinne; es ist eine akustische Röntgenaufnahme der Welt. Es ist faszinierend, summend und rhythmisch auf eine Weise, die einem bewusst macht, dass die Luft um uns herum tatsächlich vor Daten schreit. Es ist für den Hörer, der hinter den Vorhang der Realität blicken möchte.
+
+::genre::musique concréte, experimental electronica, field recordings, ambient
+
 ## Class Traitor - The Images Aren't Mine
 
 Dies ist das zweite Album der Band, das auf ihr Debüt folgt und nach Jahren, in denen sie sich in der Heavy-Metal-Szene etabliert haben. **Sludge** / **Post-Metal** / **Hardcore**. Diese Platte wird als voller neuer Ideen, Klangtexturen und Riffs beschrieben. Ein Album, das aus Blut, Schweiß und Tränen entstanden ist, und das hört man auch. Es ist ein schwerer, strukturierter Ansturm, der es schafft, emotional zu berühren und gleichzeitig laut genug zu sein, um die Grundmauern deines Hauses zum Wackeln zu bringen.
@@ -322,6 +334,12 @@ Dies ist ihr fünftes Studioalbum. Es folgt auf "Blackout" aus dem Jahr 2023 und
 
 ::genre::alt metal, rap metal, nu metal
 
+## Gawshock - Leaves to the Sun
+
+Ein aufstrebendes Independent-Projekt, das mit melodischen, gitarrenlastigen Singles zunehmend an Fahrt gewinnt. **Indie-Rock** / **Alternative**. Es herrscht eine unverkennbare sonnige, aber melancholische Atmosphäre, die Vergleiche mit dem britischen Indie der frühen 2000er Jahre und dem **Mid-West-Emo** weckt. Dieses Album fühlt sich an wie der erste warme Tag des Jahres, an dem man noch eine leichte Jacke braucht. Es ist voller klirrender Gitarren und Texte über Wachstum und Veränderungen. Es ist der perfekte Soundtrack, um aus dem Zugfenster zu schauen und sich wie die Hauptfigur eines Coming-of-Age-Films zu fühlen.
+
+::genre::midwest emo, alt rock, indie rock
+
 ## Gem Club - Emerald Press
 
 Das Projekt von *Christopher Barnes* ist das erste Album von Gem Club seit 12 Jahren, nach "In Roses" aus dem Jahr 2014. **Ambient Pop** / **Chamber Pop**. Bekannt für eine minimalistische Besetzung aus Keyboard, Cello und zartem Gesang. Wäre Musik eine Gewichtsdecke, dann wäre es "Emerald Press". Es ist sanft, zerbrechlich und absolut wunderschön - die Art von Album, die man hört, wenn man jede einzelne seiner Emotionen auf einmal spüren möchte, während man aus dem Fenster auf einen ganz bestimmten Vogel starrt.
@@ -412,6 +430,12 @@ Unter der Leitung von *Rob Lane* kehrte die Band 2022 nach einer 14-jährigen Pa
 
 ::genre::comedy metal, groove metal
 
+## I'm With Her - Sing Me Alive
+
+Eine Americana-Supergroup mit Sara Watkins (*Nickel Creek*), Sarah Jarosz und Aoife O'Donovan. Dies ist ihr erstes neues Album seit 2018. **Americana** / **Folk** / **Bluegrass**. Bekannt für ihre übernatürlichen Gesangsharmonien und ihr instrumentales Können. Wenn menschliche Stimmen Seide weben könnten, würde es so klingen. Die Rückkehr des Trios ist eine Meisterklasse in Sachen Weniger ist mehr - einfache, perfekte Instrumentierung, die als Sockel für ihre dreistimmigen Harmonien dient. Es ist gefühlvoll, belebend und schlichtweg zeitlos.
+
+::genre::americana, roots rock, bluegrass, country folk
+
 ## Ignobleth - Manor Of Primitive Anticreation
 
 Ein 2022 gegründetes Trio, das sich schnell von einem chaotischen Probenprojekt zu einer ausgefeilten Extreme-Metal-Band entwickelte. Bestialer **Blackened Death Metal** (War Metal) mit mesopotamischen Horrorthemen. Das ist archäologischer Metal - er klingt, als wäre er aus einem Grab ausgegraben worden, statt in einem Studio aufgenommen. Er ist roh, klaustrophobisch und gewalttätig. Er ist der perfekte Soundtrack für alle, die in ihrem Wohnzimmer uralte Dämonen beschwören wollen.
@@ -423,6 +447,12 @@ Ein 2022 gegründetes Trio, das sich schnell von einem chaotischen Probenprojekt
 Eine Zusammenarbeit zwischen Matt Tluchowski (*Doctor Smoke*) und Alan Cassidy (*The Black Dahlia Murder*), die seit 2009 in der Entwicklung ist. Groove-geladener, **Tech-** und **Brutal-Death-Metal**. Wenn du möchtest, dass deine Musik wie ein Mixer voller rostiger Nägel klingt, der mit 200 BPM läuft, dann ist das hier genau das Richtige. Es ist gnadenlos, technisch atemberaubend und überraschend sprunghaft für etwas so Groteskes. Es ist das musikalische Äquivalent eines Horrorfilms, zu dem man tanzen kann.
 
 ::genre::brutal death metal, tech death metal
+
+## Iterum Nata - Heartwood
+
+Das Soloprojekt von Jesse Heikkinen (auch bekannt von *Hexvessel*). Heikkinen ist ein Meister der okkult geprägten, atmosphärischen Folk-Musik. **Neofolk** / **Psychedelic Folk**. Es vereint die Dunkelwald-Energie von *Current 93* mit der eindringlichen, akustischen Melancholie des frühen *Leonard Cohen*. "Heartwood" ist ein Spaziergang durch uralte Kiefernwälder. Es ist intim und mystisch und nutzt Akustikgitarren und Heikkinens gedämpften Gesang, um die Beziehung zwischen dem menschlichen Geist und der Wildnis zu erforschen. Es ist perfekt für Fans von „Spuk-Folk“.
+
+::genre::neo folk, psych folk, prog folk
 
 ## James Igenfritz, Thomas Buckner - Automatic Thinking *
 
@@ -585,6 +615,12 @@ Lø Spirit (*Josh Landry*) ist ein aufstrebender Singer-Songwriter, der für sei
 Das Album wurde an sieben Orten rund um den Globus (darunter Äthiopien, Indien und Ägypten) geschrieben und aufgenommen und ist *M.I.A.*s erstes großes Projekt als vollständig unabhängige Künstlerin auf ihrem eigenen Label. **Gospel**, christlicher **Hip-Hop** und **experimentelle Elektronik**. Es verbindet *M.I.A.*s charakteristische Global-Bass-Sounds mit liturgischen Themen und Chorarrangements. Ein metaphysischer Leitfaden für die Endzeit. Mit dem *Sunday Service Choir* ist es eine hochkonzeptionelle Klangreise, die halb evangelikale Predigt, halb Underground-Rave ist. Es ist wild, kontrovers und zutiefst spirituell - klassisches M.I.A.
 
 ::genre::gospel, alt hip hop, experimental electronica
+
+## Magpie Jazz Trio - What Do We Know?
+
+Ein hochkarätiges Trio mit George Crowley (Saxophon), Tom Wheatley (Bass) und Benedict Taylor (Viola). **Modern Jazz** / **Chamber Jazz**. Verschmilzt die strukturierte Eleganz der klassischen Musik mit der Spontaneität der freien Improvisation. Das ist Detektiv-Jazz. Es fühlt sich an, als würden drei brillante Köpfe versuchen, ein Rätsel in Echtzeit zu lösen. Die Musik ist sparsam, neugierig und belohnt aufmerksames Zuhören - die Art von Musik, bei der man sich schon allein dadurch, dass sie im Hintergrund läuft, schlauer fühlt.
+
+::genre::modern jazz, chamber jazz, improvisation
 
 ## Malora - DEATH IS LOOMING
 
@@ -790,6 +826,18 @@ Sabancaya wurden 2021 gegründet und sorgten mit ihrer Debüt-EP "Presentiment o
 
 ::genre::osdm
 
+## Sagor Som Leder Mot Slutet - IV *
+
+Die 2014 gegründete Band hat einen Namen, der sich mit Geschichten, die zum Ende führen übersetzen lässt. Sie ist bekannt für ihre kraftvolle, instrumentale Erzählkunst. **Cinematic-Post-Rock** / **Post-Metal**. Ihr Sound ist stark von den weiten, stimmungsvollen Landschaften Skandinaviens und dem Schaffen von Bands wie *Cult of Luna* oder *God Is An Astronaut* beeinflusst. Getreu ihrem Namen ist dies Melancholie im großen Stil. Es ist eine klangliche Wanderung durch einen gefrorenen Wald - im Wechsel zwischen zarten, kristallklaren Melodien und massiven, wall-of-soundartigen Verzerrungen, die sich wie eine Gletscherbewegung anfühlen.
+
+::genre::post metal, cine post rock, instrumental
+
+## Sam Blasucci - Physical Dream
+
+Die eine Hälfte des gefeierten Duos *Mapache*. Dies ist sein zweites Soloalbum, das größtenteils in den legendären Valentine Recording Studios in LA aufgenommen wurde. **Sophisti-Pop** / **Soft Rock** / **Psych-Folk**. Zu seinen Einflüssen zählen *Sade*, *Nilsson* und der sanfte Sound der kalifornischen Küste der 1970er Jahre. Dieses Album fühlt sich an wie ein langer, warmer Sonnenuntergang in einem Oldtimer-Cabrio. Es ist erwachsene Musik, die sich nicht scheut, schön zu sein - üppige Flötenklänge, sanftes Saxophon und Sams honigsüße Stimme sorgen für ein Album, das sich wie ein sanfter, wacher Traum anfühlt.
+
+::genre::psych folk, prog pop, introspective pop, soft rock
+
 ## Sandmind - 13 Pragas Infernais
 
 Die im Oktober 2022 gegründete Band ist eine aufstrebende Kraft in der portugiesischen Metal-Szene. **Heavy Metal** und **Groove Metal**. Fans von *Moonspell*, *Iron Maiden* und *Lamb of God* werden sich hier sofort zu Hause fühlen. Eine konzeptionelle Reise durch das alte Ägypten, komplett auf Portugiesisch. Es ist wie "Die Mumie", nur inszeniert von einer Gruppe von Metalheads mit massiven Riffs und Growl-Gesang. Stellt euch Sandstürme, Flüche und Headbangen vor einer Pyramide vor.
@@ -837,6 +885,12 @@ Als Teil der pulsierenden baltischen Metal-Szene haben sie sich einen Ruf für c
 Die 2011 gegründete Band ist bekannt für ihre schonungslosen gesellschaftskritischen Texte und ihre energiegeladenen Live-Auftritte. **Hardcore-Punk** mit einer kräftigen Prise **Thrash Metal**. Zu ihren Einflüssen zählen *Agnostic Front* und *Hatebreed*. Das ist das musikalische Äquivalent zu einem Schlag ins Gesicht, gefolgt von einer helfenden Hand. Es ist schnell, aggressiv und bietet einige der härtesten Breakdowns des Jahres. Wenn du mal Dampf ablassen musst, ist das hier dein Retter für das Training im Fitnessstudio.
 
 ::genre::metallic hardcore, hardcore punk
+
+## Silver Ships Plastic Oceans - II *
+
+Das zweite Album dieses Projekts, das 2024 mit dem vielbeachteten "Sahara" debütierte. **Psychedelic Pop** / **Experimental Rock**. Das Projekt lässt sich von der ambitionierten Produktion der Beach Boys aus der "Pet Sounds"-Ära und dem genreübergreifenden Geist von Gorillaz’ "Plastic Beach" inspirieren. Ein symphonischer Fiebertraum. Das Album ist eine üppige, weitläufige Sammlung von Songs, die sich anfühlen, als wären sie auf einer einsamen Insel ausgegraben worden, und klassische Harmonien mit einer beunruhigenden, umweltbewussten Unterströmung vermischen.
+
+::genre::prog pop, psych pop, experimental rock, art rock
 
 ## Simon Goff - Sparks
 
@@ -1112,11 +1166,23 @@ Das 2005 gegründete Quartett legt hiermit sein fünftes Studioalbum vor. Es wur
 
 ::genre::thrash metal, crossover, metallic hardcore
 
+## Ginevra Nervi - 18 Buracos Para O Paraiso *
+
+Als etablierte Komponistin und Elektronik-Produzentin hat sie intensiv an Soundtracks für hochkarätige italienische Produktionen gearbeitet. **Electronica** / **Avantgarde**. *Nervi* ist bekannt für ihre meisterhafte Stimmbearbeitung und ihr atmosphärisches Sounddesign für Film und Fernsehen. Das ist spektrales Kino. Der Soundtrack nutzt Nervis ätherischen Gesang, um einen eindringlich schönen Raum zu schaffen, der die surreale Erzählung des Films widerspiegelt, sodass sich jeder Track wie eine schimmernde, klangliche Fata Morgana anfühlt.
+
+::genre::avant electronica
+
 ## Ildfar - Der Ligger Et Land
 
 Reiner, kalter norwegischer **Black Metal**. Er tendiert zu einer eher mittelschnellen Atmosphäre, die nicht jedermanns Sache ist und den düsteren Geist des Genres einfängt. Dies ist das vierte Album der Band in voller Länge. Wenn ein gefrorener Wald schreien könnte, würde er so klingen. Es hat diesen klassischen Norsk-Biss - kompromisslos, düster und getränkt in schattenhafte "Natteskygger" (Nacht-Schatten). Es ist das musikalische Äquivalent eines Schneesturms, der dir ins Gesicht peitscht, während du auf einen Berg starrst.
 
 ::genre::raw black metal, atmo black metal
+
+## Janus 4-14 - All the Kids Are Doing It
+
+Die 2009 gegründete Band besteht aus Sänger und Gitarrist Chad Barnard, Leadgitarrist Shane Mauck und Schlagzeuger Brett Beardsley. **Indie-Pop/Rock**. Sie lassen den facettenreichen Geist von *The Replacements*, *Elvis Costello* und *Sebadoh* aufleben und verbinden dabei **Punk**-Ethos mit der Energie großer Stadien. Ein raffiniert-verrücktes Album. Es fängt ein nuancierteres emotionales Spektrum ein als ihre früheren Wütensalven und beweist, dass man erwachsen werden kann, ohne diesen lebenswichtigen Indie-Funken aus der Kleinstadt zu verlieren.
+
+::genre::indie rock, indie pop, power pop
 
 ## Jin Soo Kim - Aspirtaion
 
@@ -1195,3 +1261,9 @@ Das Anfang der 80er Jahre gegründete Duo John Flansburgh und John Linnell gilt 
 Dies ist das achte Mini-Album der Gruppe und markiert einen wichtigen Meilenstein nach der Vertragsverlängerung mit *BIGHIT MUSIC*. Musikalisch ist es eine abwechslungsreiche Mischung aus **Dance**, **Elektronica**, **Synth-Funk** und **alternativem R&B**. Stell dir vor, du findest eine ruhige Ecke in einem Spiegelkabinett. Es ist introspektiv und stimmungsvoll und nutzt "Dornen" als Metapher für die Wachstumsschmerzen ihrer siebenjährigen Reise. Es ist das Erwachsenwerden von TXT – sie tauschen einen Teil ihres jugendlichen Glanzes gegen eine scharfe, reflektierende Kante ein.
 
 ::genre::edm, acid funk, prog funk, alt r&b
+
+## Transmission Zero - Yes. And I Would Do It Again
+
+Die Gruppe, die 2011 ursprünglich als Trio gegründet wurde, hat sich einen Namen für dichte, sich ständig wandelnde Klangschichten gemacht. Dieses neue Album knüpft an ihr gefeiertes 2021er Werk "Bridges" an. **Post-Rock** und **cineastische Instrumentalmusik**. Die Band lässt sich von den atmosphärischen Crescendi von Post-Rock-Pionieren wie *Explosions in the Sky* und *Mogwai* inspirieren. Das ist episches Geschichtenerzählen ganz ohne Worte. Es ist eine kompromisslose Reise zwischen Spannung und Entspannung, geprägt von imposanten Basslinien und traumhaften Texturen, die sich wie ein lebendiges, atmendes Wesen anfühlen.
+
+::genre::post rock, cinematic rock, instrumental
