@@ -13,7 +13,7 @@ _SPELLING_MAP = {
     "prog": "Progressive", "alt": "Alternative", "psych": "Psychedelic", "atmo": "Atmospheric", "melo": "Melodic",
     "mellow": "Melodramatic", "cine": "Cinematic", "tech": "Technical", "osdm": "Old School Death Metal",
     "medi": "Mediterranean", "ndh": "Neue Deutsche Härte", "k-pop": "K-Pop", "digi": "Digital", "black'n'roll": "Black'n'Roll",
-    "d&b": "Drum & Bass", "g-funk": "G-Funk"
+    "d&b": "Drum & Bass", "g-funk": "G-Funk", "goth": "Gothic"
 }
 GENRE_TAG_PREFIX = "::genre::"
 GENRE_TAG_PATTERN = re.compile(rf"^{re.escape(GENRE_TAG_PREFIX)}")

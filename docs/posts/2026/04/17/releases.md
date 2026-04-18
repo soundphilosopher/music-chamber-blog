@@ -8,607 +8,541 @@ categories:
 
 # Releases! Releases! Releases!
 
-## A Very Old Ghost Behind The Farm - Canes Gothi
+## A Very Old Ghost Behind The Farm - Canes Gothi *
 
-tbd
+Ein geheimnisvolles Kollektiv, das traditionelle akustische Instrumente - Geigen, Drehleiern und Glocken - einsetzt, deren Klang durch mehrere Schichten aus Rauschen und Hall verarbeitet wird. **Experimenteller Folk** / **Dark Ambient** / **Avantgarde**. Stellt euch eine rustikalere, furchteinflößendere Version von *Current 93* oder den Soundtrack zu einem Folk-Horrorfilm vor. Das ist Dreck-unter-den-Fingernägeln-Grusel. Es klingt wie ein Dorfritual, das in einer überwucherten Scheune abgehalten wird, während ein Sturm aufzieht. Es ist eindringlich, knarrend und absolut fesselnd - weniger ein Lied als vielmehr ein Spuk, an dem ihr freiwillig teilnehmt.
 
-::genre::
+::genre::dark ambient, prog folk, experimental folk, avant folk
 
-## Aarp - Kadıköy
+## Aarp - Kadıköy *
 
-tbd
+*Aarp* ist bekannt für konzeptionelle elektronische Musik, die städtische Umgebungen als Instrumente behandelt. **Ambient** / **IDM** / **Musique Concrète**. Das Album stützt sich stark auf **Field Recordings** aus dem Istanbuler Stadtteil Kadıköy, die zu glitchigen, rhythmischen Texturen verarbeitet wurden. Ein Liebesbrief an das urbane Chaos. Anstelle typischer Synthesizer hört man den rhythmischen Puls von Fähren, das Klirren von Teegläsern und Straßenlärm - alles zu einem hypnotischen digitalen Traum zerhackt. Es ist der perfekte Soundtrack für eine Reise in eine Stadt, ohne den Sessel zu verlassen.
 
-::genre::
+::genre::idm, ambient, musique concréte, field recordings
 
 ## Abate Berihun - Addis Ken
 
-tbd
+*Berihun* ist ein weltbekannter Saxophonist und Sänger, der zuvor das gefeierte Projekt *Kululam* leitete. **Ethio-Jazz** / **Soul**. Es verbindet die traditionellen pentatonischen Tonleitern Äthiopiens mit **Spiritual Jazz** und erinnert an *Mulatu Astatke* und *John Coltrane*. Das ist klangliche Diplomatie. *Berihuns* Saxophon spielt nicht nur Noten; es erzählt eine Geschichte von Exil, Herkunft und Hoffnung. Es ist gefühlvoll, hat einen tiefen Groove und besitzt eine spirituelle Wärme, die das Gefühl vermittelt, als würden die Lautsprecher leuchten.
 
-::genre::
+::genre::spiritual jazz, contemporary jazz, neo soul, world music
 
 <!-- more -->
 
-## Abrams - Loon
+## Abrams - Loon *
 
-tbd
+Ein Quartett, das jahrelang daran gearbeitet hat, seinen Wall of Sound in der fruchtbaren Heavy-Metal-Szene von Denver zu verfeinern. **Sludge** / **Post-Hardcore** / **Progressive Rock**. Sie verbinden die schweren Mountain-Rock-Riffs von *Mastodon* mit den melodischen, mitreißenden Hooks von *Torche* und *Cave In*. "Loon" ist ein gewaltiger melodischer Sturm. Es ist heavy genug, um den Asphalt zu zerbrechen, aber eingängig genug, dass man die Refrains vor sich hin summt, während man den Schaden begutachtet. Es fühlt sich an, als würde man mit einem Panzer durch ein Feld voller Wildblumen fahren - brutal, aber seltsam schön.
 
-::genre::
+::genre::post hardcore, prog rock, sludge metal
 
 ## Accessory - Dust
 
-tbd
+*Accessory*, ein langjähriges Projekt von Dirk Steyer, ist seit 1995 ein fester Bestandteil der Dark-Electronic-Szene. **Electronic Body Music** (EBM) / **Aggrotech**. Beeinflusst von den knallharten Industrial-Sounds der 90er Jahre wie *Front 242* und *Nitzer Ebb*. Das ist Industrial Survivalism. Es ist rau, rhythmisch und klingt wie eine Tanzfläche in einem postapokalyptischen Bunker. Wenn du Musik suchst, die dir das Gefühl gibt, Kampfstiefel zu tragen, selbst wenn du in Hausschuhen steckst, dann ist das hier genau das Richtige.
 
-::genre::
+::genre::aggrotech, ebm, ibm
 
-## Adrian Younge - YOUNGE
+## Adrian Younge - YOUNGE *
 
-tbd
+Ein autodidaktischer Multi-Instrumentalist und ehemaliger Anwalt, der sich zum Produzenten gewandelt hat und für die "Jazz Is Dead"-Reihe sowie die Soundtracks zu *Luke Cage* und *Black Dynamite* bekannt ist. **Psychedelic Soul** / **Alt-Jazz**. Zu seinen Einflüssen zählen *Ennio Morricone*, *Curtis Mayfield* und die Breakbeats des 90er-Jahre-**Hip-Hop**. Es ist Orchester-Musik mit einem Hip-Hop-Gehirn. Komplett auf analogem Tonband aufgenommen, klingt es wie eine verschollene Filmmusik aus dem Jahr 1971 - üppig, cineastisch und voller jener staubigen Grooves, die Produzenten noch jahrzehntelang samplen werden.
 
-::genre::
+::genre::psych soul, alt jazz, trip hop
 
-## Ageless Gateway - Corruptor Of Stars
+## Ageless Gateway - Corruptor Of Stars *
 
-tbd
+Ein neues Projekt aus der produktiven polnischen Black-Metal-Underground-Szene. **Black Metal** / **Doom**. Es greift stark auf Themen aus dem Bereich des kosmischen Horrors und der Science-Fiction zurück. Ein furchterregender Abstieg durch zerfallende Sterne. Es ist düster, wahnsinnig und voller gewaltiger, mit Tremolo gespielter Ruinenklänge - der perfekte Soundtrack, wenn man sich angesichts unvorstellbarer kosmischer Kräfte klein fühlen möchte.
 
-::genre::
+::genre::raw black metal, doom metal
 
 ## American Sharks - Not Dead Yet
 
-tbd
+Ein Trio, das unermüdlich auf Tour ist und bereits Acts wie *GWAR* und *Clutch* supportet hat. Dies ist ihr drittes Album, mit dem sie eine fünfjährige Pause beenden. **Punk-Metal** / **Stoner Rock**. Oft beschrieben als Weezer im Stoner-Rock-Stil, verbinden sie eingängige Pop-Hooks mit schweren, an *Black Sabbath* erinnernden Riffs. Ein purer Zuckerschub voller hochoktaniger Energie. Mit Gastbeiträgen von Heavy-Metal-Legenden (wie *Zach Blair* und *Kyle Shutt*) ist das Album einzig und allein darauf ausgelegt, dich wachzurütteln und zum Headbangen zu bringen.
 
-::genre::
+::genre::alt rock, stoner rock, thrash metal, desert rock
 
-## Analog Tara - Life of the Mother
+## Andrés Coll Cosmic Trio - Ride to Heaven *
 
-tbd
+Coll ist ein Multi-Instrumentalist, der durch seine einzigartige Verschmelzung mediterraner Folk-Elemente mit energiegeladener Jazz-Improvisation Aufmerksamkeit erregt hat. **Jazz / Fusion**. Der 25-jährige Bandleader ist dafür bekannt, Marimba und Kastagnetten mit einer Leichtigkeit und Beweglichkeit zu spielen, die traditionelle Klänge mit **modernem Jazz** verbindet. Das ist in jeder Hinsicht kosmisch - so sehr, dass angeblich eine Kopie über die NASA zum Mond geschickt wurde. Es ist eine luftige, farbenfrohe Reise, die sich anfühlt wie eine Sommernacht auf Ibiza, in der man eher in die Sterne blickt als auf die Tanzfläche.
 
-::genre::
-
-## Andrés Coll Cosmic Trio - Ride to Heaven
-
-tbd
-
-::genre::
-
-## Annea Lockwood - World Rhythms
-
-tbd
-
-::genre::
+::genre::modern jazz, jazz fusion
 
 ## Anthea - Beyond The Dawn
 
-tbd
+Dies ist das dritte Studioalbum der Band, nach "Illusion" aus dem Jahr 2020 und "Tales Untold" aus dem Jahr 2022. Die Band gab ihr Debüt im legendären *Whisky a Go Go* in Hollywood. **Symphonic Metal** mit starken theatralischen und filmischen Elementen. Im Vergleich zu den progressiven Einflüssen ihrer früheren Werke legt diese Veröffentlichung den Schwerpunkt stärker auf ihre symphonische Seite. "Beyond The Dawn" ist eine gotische Maskerade in musikalischer Form. Es ist ambitioniert und theatralisch und schafft einen Ausgleich zwischen schnellen, schweren Riffs und emotionalen, mitreißenden Orchestrierungen sowie schwebenden Gesangsharmonien.
 
-::genre::
+::genre::symphonic metal, power metal
 
-## Apostate Monarch - Apostate Monarch
+## Apostate Monarch - Apostate Monarch *
 
-tbd
+Ein aufstrebender Act in der Progressive-Metal-Szene, der an frühere Veröffentlichungen aus dem Jahr 2025 wie "Mountain of Bone" und "Krampusnacht Feast" anknüpft. **Melodischer Progressive Heavy Metal**, gemischt mit Fantasy-Elementen und Ausbrüchen von **Hardcore**/**Metalcore**. Die Einflüsse tendieren zu mittelalterlichen Themen und chaotischer Energie. Es ist verzauberter Metal für alle, die beim Headbangen eine neue Ära einläuten wollen. Die Tracks sind chaotisch und hochverstärkt, perfekt, um Dampf abzulassen - mit einer Mischung aus technischer Präzision und roher, mittelalterlich angehauchter Kraft.
 
-::genre::
+::genre::prog metal, melo metal, metalcore, post hardcore
 
 ## Ard Bit - Juxtaposed
 
-tbd
+*Ard Bit* ist eine feste Größe in der Ambient-Szene und bekannt für seine intimen und weitläufigen Kompositionen. Tiefgründiger, melodischer **Ambient** und **Electronic**. Der Sound zeichnet sich durch subtile modulare Schimmer und immersive Klangfeldaufnahmen aus. Diese Platte ist, als würde man die Welt für einen Moment hinter sich lassen. Sie gleitet dahin und atmet mit einer stillen Zuversicht, zieht einen durch eine Landschaft aus zarten Texturen, die sich zugleich weitläufig und unglaublich persönlich anfühlen.
 
-::genre::
+::genre::ambient, minimal electronica, experimental electronica
 
-## Arkells - Between Us
+## Arkells - Between Us *
 
-tbd
+Dies ist das elfte Studioalbum der neunfachen JUNO-Award-Gewinner. Es wurde in Los Angeles von Grammy-Gewinner John Congleton (*St. Vincent*, *Death Cab for Cutie*) produziert. Hymnischer **Indie-Rock** und **Indie-Pop**. Die Band verbindet **Soul**, **Disco** und **Stadionrock**, wobei der Gesang von Frontmann Max Kerman oft mit einer modernen Mischung aus *The Killers* und *The Gaslight Anthem* verglichen wird. "Between Us" ist eine mitreißende Hommage an die zwischenmenschlichen Beziehungen. Es ist ein Sommer-Soundtrack voller Mitsing-Hymnen wie "Next Summer", die sich in einem vollbesetzten Stadion ebenso zu Hause fühlen wie in einem sonnigen Park mit Freunden.
 
-::genre::
+::genre::indie rock, indie pop, neo soul, disco
 
-## ARY - DARKSTAR
+## ARY - DARKSTAR *
 
-tbd
+Dies ist ihr zweites Studioalbum, das auf ihr gefeiertes Debüt und Singles wie "Withering Rose" und "Kill Me" folgt. **Alternative Pop** / **Electronica**. *ARY* ist bekannt für ihre ehrlichen, düsteren Vibes und verbindet schimmernde Synthesizerklänge mit sehr persönlichen, oft melancholischen Texten. Ein wunderschön ehrlicher Eintauch in den norwegischen Alt-Pop. Es ist cineastisch und verletzlich, bewegt sich zwischen zerbrechlichen Gesangsmomenten und kraftvollen elektronischen Wogen - die Art von Platte, die sich wie ein geteiltes Geheimnis im Dunkeln anfühlt.
 
-::genre::
+::genre::alt pop, prog pop, synth pop, avant electronica
 
 ## Augmentia - Static
 
-tbd
+Ein aufstrebender Name in der Heavy-Szene, der in wöchentlichen Veröffentlichungs-Threads oft neben großen **Post-Hardcore**- und **Metalcore**-Acts zu finden ist. Hardcore / Metalcore. Diese Veröffentlichung zeichnet sich durch intensive Passagen und den Einsatz von Breakdowns aus, die sich hervorragend für energiegeladene Live-Auftritte eignen. Static macht seinem Namen alle Ehre und liefert ein mitreißendes, hochspannendes Erlebnis. Es ist roh und drängend und fängt die chaotische Energie einer neuen Band ein, die entschlossen ist, in kürzester Zeit so viel Lärm wie möglich zu machen.
 
-::genre::
+::genre::post hardcore, metalcore
 
-## Avon - Black On Sunshine
+## Avon - Black On Sunshine *
 
-tbd
+Die Band ist ein fester Bestandteil der **Desert-Rock**-Szene und bekannt für ihre Tradition und ihren authentischen, fuzzlastigen Sound. **Stoner Rock** / Desert Rock. Mit Alfredo Hernández (ehemals *Kyuss* und *Queens of the Stone Age*) orientiert sich die Band an den schweren, sonnenverwöhnten Riffs der 70er Jahre. "Black On Sunshine" ist eine Meisterklasse in Sachen Riff-Verehrung. Der Sound ist rau, groovig und klingt genau so, als würde man mit heruntergelassenen Fenstern durch eine staubige Landschaft fahren - großartige Gitarrenarbeit, die den Geist von Palm Desert lebendig und laut hält.
 
-::genre::
+::genre::desert rock, stoner rock
 
-## Aziola Cry - Dysphoria Ritual
+## Aziola Cry - Dysphoria Ritual *
 
-tbd
+Dies ist das vierte Album des Trios aus Chicago, das sich über Jahre hinweg durch das Label 7D Media eine treue Fangemeinde in der Progressive-Musik-Szene aufgebaut hat. **Instrumentaler Progressive Metal / Rock**. Unter der Leitung von *Warr*-Gitarrist Jason Blake erkundet die Band den Abstieg in die Isolation durch komplexe, sich ständig wandelnde Klanglandschaften. Eine eindringliche, technische Reise, die die allgegenwärtige Gleichförmigkeit einsamer Tage einfängt. Das Zusammenspiel zwischen der Warr-Gitarre und der Rhythmusgruppe schafft eine dichte, ritualistische Atmosphäre, die sowohl gnadenlos schwer als auch akribisch detailliert ist.
 
-::genre::
+::genre::prog rock, prog metal, post metal, instrumental
 
 ## Barry Greene - Giants
 
-tbd
+Als erfahrener Jazzpädagoge und Musiker präsentiert *Greene* auf seiner persönlichsten Aufnahme zwei Sessions: ein Orgeltrio mit Pat Bianchi und Ulysses Owens Jr. sowie eine Quintett-Session mit David Kikoski und Steve Nelson. **Modern Jazz**. Dieses Album ist eine nuancierte Hommage an die Gitarristen, die seinen Stil geprägt haben, insbesondere *Pat Martino*, *Wes Montgomery*, *Grant Green* und *Russell Malone*. "Giants" wirkt wie eine Meisterklasse in elegantem Zusammenspiel. Es ist warm, technisch brillant und zollt der Jazzgeschichte Respekt, ohne in der Vergangenheit zu verharren - perfekt für Hörer, die einen Gitarristen schätzen, der komplexe Melodielinien mühelos klingen lässt.
 
-::genre::
+::genre::modern jazz, contemporary jazz
 
 ## Beaming - horseshoe
 
-tbd
+Eine Zusammenarbeit zwischen Braden Lawrence (ehemals *The Districts*) und dem produktiven Produzenten und Solokünstler Derek Ted. Schimmernder **Indie-Pop** und **Rock**. Das Duo beschreibt seinen Sound als Rock’n’Roll mit einer verspielten Gitarrenstimmung, eine Mischung aus **Pop**, **Rock** und **Folk**. Das ist "Laundry Day"-Philosophie, untermalt von eingängigen Gitarrensoli. Es geht um schwierige, bedrückende Gefühle, die mit einer luftigen, verspielten Energie angegangen werden - so, als fände man einen Glücksbringer in der Tasche eines Mantels, den man schon für immer verloren geglaubt hatte.
 
-::genre::
-
-## Bejamin Tod - Vengeance and Grace
-
-tbd
-
-::genre::
-
-## Ben Markley - Tuesday Morning Feeling
-
-tbd
-
-::genre::
+::genre::indie pop, indie rock, indie folk
 
 ## Beneath The Skin - Beneath The Skin
 
-tbd
+Ein knallharter Vierer, der sich aus ihrer 2025er EP "Pay Up" entwickelt hat, einer Chronik von Sucht und Genesung. Heavy **Doom Metal** und **Sludge**. Die Musik ist stark von der *Crowbar*- und *Corrosion-of-Conformity*-Schule des Heavy geprägt. Das ist das klangliche Äquivalent eines Tsunamis aus Teer. Es ist langsam, vernichtend und enthält eine überraschend melodische, kraftvolle Coverversion von Creams "Sunshine of Your Love". Man geht mit blauen Flecken davon, ist aber stolz auf die Narben.
 
-::genre::
+::genre::sludge metal, doom metal
 
-## Boy Witch - Boy Witch
+## Boy Witch - Boy Witch *
 
-tbd
+Das Soloprojekt von Felix Rörig, der fast alle Stücke selbst geschrieben, produziert und fast alle Instrumente selbst gespielt hat, unterstützt von Schlagzeuger Gidon Carmel. Eine hypnotische Mischung aus **Psychedelic Rock**, **Electronica** und **Experimental Pop**. Zu den Einflüssen zählen *Wand*, *Unknown Mortal Orchestra* und *Queens of the Stone Age*. Stell dir vor, du fliegst mit einem Vintage-Space-Shuttle durch eine Neon-Nebelwolke, während sich dein Gehirn langsam in eine Lavalampe verwandelt - genau das ist dieses Album. Es ist ein retro-futuristischer Trip, der die Grenze zwischen Traum und Verzerrung verschwimmen lässt.
 
-::genre::
+::genre::psych rock, space rock, prog pop, experimental pop, krautrock
 
 ## Brother Cane - Magnolia Medicine
 
-tbd
+Dies ist das erste Studioalbum der Band seit 28 Jahren. Frontmann Damon Johnson (der auch bei *Lynyrd Skynyrd* spielt) hat sich für diese Veröffentlichung wieder mit dem ursprünglichen Bassisten Glenn Maxey und dem Produzenten Marti Frederiksen zusammengetan. Klassischer **Southern Rock** und **Hard Rock**. Das Album lässt sich klanglich von Größen wie *Tom Petty*, *Bruce Springsteen* und *Lynyrd Skynyrd* inspirieren. Eine kraftvolle Wiedergeburt, die die Tür mit einem Tritt aufstößt, anstatt sanft hereinzuschlüpfen. Es ist gefühlvoll, riffgeladen und enthält eine ergreifende Hommage an den verstorbenen Gitarristen *Gary Rossington* namens Prince Charming, komplett mit Gastgesang von Skynyrd-Mitgliedern.
 
-::genre::
+::genre::hard rock, southern rock, melo rock, heavy rock
 
-## Cabaret Fantôme - Hollow Sun
+## Cabaret Fantôme - Hollow Sun *
 
-tbd
+Das 2019 gegründete Quartett tourte mehrere Jahre lang durch Europa, bevor es dieses erste Album fertigstellte. **Dark Rock** / **Gothic Rock** / **Post-Punk**. Ihr Sound schöpft aus dem Rock der 70er und dem Goth der 80er Jahre, mit Anspielungen auf *The Cult*, *Blue Öyster Cult* und *Killing Joke*. Eine dandyhafte und okkulte Reise, die mit den Toten tanzt. Es ist rätselhafter, hybrider Rock, der Mondlandschaften mit seltsamen Farben erhellt - perfekt für alle, die ihren Rock’n’Roll mit einer Prise theatralischer Dunkelheit mögen.
 
-::genre::
+::genre::goth rock, dark rock, post punk, avant rock
 
 ## Cameron Whitcomb - Deep Water
 
-tbd
+*Whitcomb* wurde berühmt, nachdem sein Debütalbum "The Hard Way" die kanadischen Charts anführte. Der 23-jährige Künstler ist bekannt für seine unverfälschten, authentischen Texte, in denen er oft seine persönliche Reise durch Sucht und Genesung thematisiert. Eine Mischung aus **Country**, **Folk-Rock** und **Pop**. Er wird oft mit modernen Geschichtenerzählern wie Noah Kahan und Sam Barber verglichen. Das ist arena-tauglicher Folk mit emotionalem Kern. Es ist eine faszinierende Mischung aus gemeinschaftlichen, mitreißenden Rhythmen und brutal ehrlicher Lyrik - die Art von Musik, die bei einem ausgelassenen Festivalpublikum genauso gut ankommt wie an einem ruhigen, nachdenklichen Abend.
 
-::genre::
+::genre::folk pop, folk rock, country folk, americana
 
 ## Carcerous - Doomsday Factory
 
-tbd
+Ein kompaktes, aber eingespieltes Quartett, das dieses Material in seinem eigenen Studio aufgenommen hat, um einen fokussierten, kompromisslosen Sound zu gewährleisten. **Blackened Death Metal**. Ein deutlich düstereres und härteres Werk als ihre früheren Demos. Im Mittelpunkt stehen düstere Geschichten über Mord, Geheimnisse und religiöse Verfolgung; das Album bietet kontrollierte Aggression und eine dichte, bedrückende Atmosphäre, die Puristen des Extreme Metal begeistern wird.
 
-::genre::
+::genre::blackened death metal
 
-## Carlo Costa - Ashes
+## Carlo Costa - Ashes *
 
-tbd
+*Costa* ist ein produktiver Perkussionist und Komponist, der dafür bekannt ist, langsam fließende Klanglandschaften und die Schnittstelle zwischen akustischen und digitalen Klangtexturen zu erforschen. **Avantgarde-Jazz** / **Experimentelle Perkussion** / **Freie Improvisation**. Getreu seinem Namen wirkt "Ashes" wie eine minimalistische, schwelende Studie über Klang und Raum. Es ist intellektuelle Musik zum intensiven Hören, bei der jeder Trommelschlag oder jedes Beckenschlagen bewusstes Gewicht trägt - ein eindringlicher, sparsamer Begleiter für ruhige Stunden.
 
-::genre::
+::genre::avant jazz, experimental jazz, fusion, improvisation
 
 ## Catalysis - Serpentine
 
-tbd
+Als produktive Band der schottischen Underground-Szene haben sie in neun Jahren fünf EPs und zwei Alben veröffentlicht und bei den Scottish Alternative Music Awards den Preis für den Besten Metal gewonnen. **Groove Metal** / **Metalcore-Crossover**. Beeinflusst von Metal-Legenden der frühen 2000er Jahre wie *Chimaira*. Ein Stinkefinger an die Architekten des Missbrauchs. Diese EP ist ein wilder Metal-Angriff, der mit Hilfe von schweren, präzise kontrollierten Riffs Themen wie Zwang und Verrat behandelt. Sie ist direkt, wütend und ungefähr so subtil wie ein Ziegelstein, der durch ein Fenster fliegt.
 
-::genre::
+::genre::metalcore, groove metal
 
 ## Chief State - Keep Your Friends Closer
 
-tbd
+Ihr drittes Studioalbum, das auf "Waiting For Your Colours" aus dem Jahr 2022 folgt. Nach erheblichen Besetzungswechseln in den Jahren 2023 – 2024 wäre die Platte beinahe nicht zustande gekommen. **Pop-Punk** / **Emo**. Sie verbinden die Nostalgie der 2000er Jahre (man denke an *Sum 41* und *Simple Plan*) mit modernen, mitreißenden Melodien. Dies ist die Verschmelzung von 10 Jahren Durchhaltevermögen. Es ist ein ehrlicher, temporeicher Energieschub, der sich mit Freundschaft, Verrat und dem Streben nach einem Traum auseinandersetzt. Perfekt, wenn man eine Dosis Positivität und einen Grund braucht, wieder aufzustehen, nachdem man zu Boden gegangen ist.
 
-::genre::
-
-## Chris McNulty - Soul Journey
-
-tbd
-
-::genre::
+::genre::sad pop punk, power pop
 
 ## Class Traitor - The Images Aren't Mine
 
-tbd
+Dies ist das zweite Album der Band, das auf ihr Debüt folgt und nach Jahren, in denen sie sich in der Heavy-Metal-Szene etabliert haben. **Sludge** / **Post-Metal** / **Hardcore**. Diese Platte wird als voller neuer Ideen, Klangtexturen und Riffs beschrieben. Ein Album, das aus Blut, Schweiß und Tränen entstanden ist, und das hört man auch. Es ist ein schwerer, strukturierter Ansturm, der es schafft, emotional zu berühren und gleichzeitig laut genug zu sein, um die Grundmauern deines Hauses zum Wackeln zu bringen.
 
-::genre::
+::genre::post sludge metal, post metal, post hardcore
 
-## Conic Rose - wedding
+## Crimson Glory - Chasing The Hydra *
 
-tbd
+Ein legendäres Comeback mit drei Gründungsmitgliedern (Jon Drenning, Ben Jackson und Jeff Lords) und dem unglaublichen neuen Sänger Travis Wills. **Progressive Power Metal**. Pioniere des Genres neben *Queensrÿche* und *Fates Warning*. Die Maske ist wieder auferstanden! Dies ist eine würdige Rückkehr zu ihren Wurzeln, die die mystische, atmosphärische Magie ihrer frühen Werke einfängt. Travis Wills’ Gesang ist eine atemberaubende Hommage an den verstorbenen, großartigen *Midnight* und macht dieses Album zu einem Muss für jeden, der die glorreichen Tage des US-Power-Metal vermisst.
 
-::genre::
+::genre::power metal, prog metal
 
-## Crimson Glory - Chasing The Hydra
+## Crippled Black Phoenix - Sceaduheim *
 
-tbd
+Dieses sich ständig weiterentwickelnde Kollektiv, das seit über zwei Jahrzehnten vom Multi-Instrumentalisten Justin Greaves geleitet wird, ist bekannt für sein emotional intensives und genreübergreifendes Repertoire. **Post-Rock** / **Progressive Rock** / **Macabre Rock**. Die Einflüsse reichen von *Pink Floyd* bis *Chelsea Wolfe*. Der Titel stammt aus Beowulf und bezieht sich auf einen Schattenhelm oder die alles verhüllende Dunkelheit. Es ist eine strenge, nach innen gerichtete Reise durch Burnout und emotionale Erosion. Das Album baut sich langsam auf, bleibt ungelöst und fängt perfekt das Gefühl ein, um 4 Uhr morgens an die Decke zu starren und sich zu fragen, wo alles schiefgelaufen ist.
 
-::genre::
-
-## Crippled Black Phoenix - Sceaduheim
-
-tbd
-
-::genre::
+::genre::post rock, prog rock, avant rock
 
 ## Crypt Crawler - To The Grave
 
-tbd
+Ursprünglich 2019 im Eigenverlag veröffentlicht, hat sich diese fleißige DIY-Band seitdem zu einer festen Größe der australischen Metal-Szene entwickelt. **Old-School-Death-Metal**. Stark beeinflusst von Legenden wie *Obituary*, *Benediction* und *Morgoth*. Eine nackenbrechende Hommage an die goldene Ära des Death Metal. Es ist dreckig, grooviger als ein Friedhof um Mitternacht und trägt eine Klangwand in sich, die daran erinnert, warum wir die 90er überhaupt geliebt haben.
 
-::genre::
+::genre::osdm
 
-## Daemon Grimm - Laced Divination
+## Daemon Grimm - Laced Divination *
 
-tbd
+Eine aufstrebende Größe in der Heavy-Szene von New Orleans, mit Brandon Landry. **Metalcore** mit einer düsteren, auf den Lebensstil ausgerichteten Ästhetik. Es ist roh, es ist Grimm und es ist kompromisslos heavy. Dieses Album ist wie geschaffen für den Moshpit und verbindet die Präzision des modernen Metalcore mit einem dreckigen Southern-Touch, der Lust macht, ein bisschen zu schnell durch den Bayou zu fahren.
 
-::genre::
+::genre::modern metalcore, metalcore
 
-## Daemonium Regni - Daemonium Regni
+## Daemonium Regni - Daemonium Regni *
 
-tbd
+Das Debüt-Soloprojekt von Mickael Broberg, dem legendären Sänger von *Unanimated*. **Epischer Black/Doom Metal**. Zu den Einflüssen zählen *Bathory*, *Root* und die frühen *Hellhammer*/*Celtic Frost*. Es ist ein Abstieg in Zeitlupe in den Abgrund. Mit Texten, die vollständig auf Latein verfasst sind, und einer meisterhaft dichten Atmosphäre, die Dan Swanös Mastering verleiht, fühlt es sich an, als würde man einem höchst unheiligen, uralten Ritual in einem feuchten Steinkeller beiwohnen.
 
-::genre::
+::genre::black metal, doom metal
 
 ## Death Warmed Up - Wildcard
 
-tbd
+Das 2023 gegründete Quintett hat sich in zwei Jahren auf Tourneen mit Bands wie *Defences* und *Paradise Sins* in ganz Großbritannien einen Ruf als kraftvolle Live-Band erarbeitet. **Hard Rock** / **80er-Jahre-Rock**. Sie schöpfen aus dem **Old-School-Rock’n’Roll**, verleihen ihm aber einen scharfen, modernen Touch. Getreu seinem Titel ist "Wildcard" ein Risiko, das sich auszahlt. Es ist energiegeladen, extravagant und kompromisslos laut. Es ist das klangliche Äquivalent einer Lederjacke - klassisch, tough und cooler, als du es jemals sein wirst.
 
-::genre::
+::genre::hard rock, heavy rock, arena rock
 
-## Demons My Friends - Survive/Yourself
+## Demons My Friends - Survive/Yourself *
 
-tbd
+Die Band, bestehend aus Mitgliedern der mexikanischen Rockband *QBO* und der in Washington, D.C. ansässigen Gruppe *Fellowcraft*, entstand während einer spontanen Session auf dem SXSW 2022. **Grunge** / **Stoner Doom**. Sie knüpft an die Schwergewichte der 90er Jahre wie *Alice in Chains* und *Soundgarden* an, fügt aber einen doomigen Twist und psychedelische Harmonien hinzu. Das ist starke Medizin für die Seele. Entstanden aus der Angst nach der Pandemie, ist sie roh und rau, schafft es aber dennoch, mit gewaltigen Melodien zu beflügeln. Es ist, als würde man eine Schatzkarte finden, die mitten im Moshpit versteckt ist.
 
-::genre::
+::genre::post grunge, alt rock, stoner rock, doom, psych rock
 
-## Den Syvenda Son - Ti Skridt Fra Livet
+## Den Syvenda Son - Ti Skridt Fra Livet *
 
-tbd
+Unter der Leitung von *Michel Belli* hat sich die Band einen Namen für groovigen, gefühlvollen Rock mit einem unverwechselbaren dänischen Erzählstil gemacht. **Psych-Rock** / **Pop-Rock**. Sie verbinden einen Retro-Vibe der 60er- und 70er-Jahre mit modernem dänischem Songwriting. Das Album, dessen Titel übersetzt Zehn Schritte vom Leben entfernt bedeutet, fühlt sich an wie ein langer Heimweg nach einer sehr gelungenen Party. Es ist warm, nostalgisch und voller Refrains, die man noch lange nach dem Ende der Platte vor sich hin summen wird.
 
-::genre::
+::genre::psych rock, psych pop, prog pop
 
 ## Dionisaf - The Stories of Paper Planets
 
-tbd
+Ein Komponist und Produzent, der sich auf Kammer- und elektronische Ambient-Musik spezialisiert hat. **Ambient** / **Lo-Fi** / **Experimental**. Das Album nutzt Tintenblumen-Konstellationen und zerbrechliche, analoge Klangtexturen, um eine Welt fernab digitaler Sterilität zu feiern. Ein klangliches Sammelalbum der Galaxie. Es ist die Art von Musik, die wie ein handgeschriebener Brief eines Astronauten klingt, der schon ein bisschen zu lange fort ist. Meditativ und wunderbar ungeschliffen.
 
-::genre::
+::genre::ambient, modern classic, lofi, experimental electronica
 
 ## Domiziano Maselli - Garden of Kira
 
-tbd
+Maselli ist Bild- und Tonkünstler und Mitglied des Mailänder Kunstkollektivs *Eremo*. Er hat in den Greenhouse Studios in Reykjavík gemeinsam mit *Ben Frost* und *Valgeir Sigurðsson* gearbeitet. **Experimental** / **Elektroakustik**. *Masellis* Arbeit verbindet oft modulare Synthesizer, Klavier und Streichersamples, um cineastische, texturreiche Klanglandschaften zu schaffen. Das ist botanischer Industrial vom Feinsten. Es fühlt sich an, als würde man einen Garten durch eine zerbrochene digitale Linse in Zeitraffer wachsen sehen - organisch, leicht beunruhigend und von tiefer Schönheit.
 
-::genre::
+::genre::experimental electronica, experimental ambient, ambient acoustic, modern classic
 
 ## Doodswens - Doodswens
 
-tbd
+Das 2017 als Duo gegründete Projekt hat sich aus der Underground-Szene emporgearbeitet und tourt mittlerweile mit Legenden wie *Marduk*. Heute ist es ein Trio unter der Leitung von "I" (Inge van der Zon) am Schlagzeug und Gesang. Kompromissloser niederländischer **Black Metal**. Zu den Einflüssen zählen *Darkthrone* und die frühen *Mayhem*, wobei rohe Aggression der 90er Jahre mit einer ritualistischen, atmosphärischen Wall of Sound verschmilzt. "Doodswens" mag zwar Todeswunsch bedeuten, doch dieses Album ist in Wirklichkeit eine flammende Klinge, die dem Tod entgegengehalten wird - es geht darum, Kraft zu finden, nachdem man dem Ende ins Auge geblickt hat. Es ist ein wildes, zeremonielles Erlebnis, das deine Dämonen konfrontiert, anstatt sie zu trösten.
 
-::genre::
+::genre::melo black metal, raw black metal
 
-## Draken - Here Be Draken
+## Draken - Here Be Draken *
 
-tbd
+Ein 2019 gegründetes Power-Trio mit Mitgliedern von *Spidergawd*. Dies ist ihr drittes Album in voller Länge. **Stoner Rock** / **Hard Rock** / **Heavy Metal**. Fans von *High on Fire*, *Motörhead* und *Black Sabbath* werden sich bei ihrer massiven Wall of Sound und den heruntergestimmten Riffs sofort zu Hause fühlen. Dieses Album schlägt ein wie ein ernsthaft wütender Bewohner von Asgard, der mit einem Hammer zuschlägt. Es ist dicht, gewalttätig und kompromisslos heavy. Wenn ihr nach einem Soundtrack für die Apokalypse sucht - oder einfach nur nach einem sehr intensiven Samstagabend -, dann habt ihr ihn gefunden.
 
-::genre::
+::genre::stoner rock, doom, hard rock, heavy rock
 
-## Drew Wesely - Silence Is a Sharpened Blade
+## Drew Wesely - Silence Is a Sharpened Blade *
 
-tbd
+Ein in Brooklyn ansässiger Komponist und Improvisator, der sich intensiv damit beschäftigt, wie das Bewusstsein das Klangerlebnis beeinflusst. **Avantgarde** / **Experimenteller Jazz** / **Improvisation**. *Weselys* Musik erforscht die Beziehung zwischen Klangfarbe, Gestik und Dauer und nutzt dabei häufig eine präparierte Gitarre, um immersive, groß angelegte Klanglandschaften zu schaffen. Wie der Titel schon andeutet, handelt es sich hierbei nicht um ruhige Musik - es sind präzise konstruierte Klänge, die sich durch den Lärm hindurchsetzen. Es ist eine intellektuelle Reise für Zuhörer, die die physische Wahrnehmung von Klang genießen, der sich in Echtzeit entfaltet. Es ist nicht nur eine Platte; es ist eine Anrufung für die Ohren.
 
-::genre::
+::genre::avant jazz, experimental jazz, improvisation
 
 ## Drunken Swallows - Echos Alter Tage
 
-tbd
+Die 2009 gegründete Band veröffentlicht hiermit ihr achtes Studioalbum. Durch unermüdliche Tourneen und eine klare Haltung gegen soziale Ungerechtigkeit haben sie sich eine treue Piraten-Crew an Fans aufgebaut. Energiegeladener deutscher **Punkrock**. Das Album wird als Rückkehr zu den Wurzeln beschrieben und besticht durch eingängige Riffs sowie ehrliche, kritische Texte über den Alltag und politische Themen. Das ist Piraten-Punk vom Feinsten - laut, rau und voller Leben. Es fühlt sich an wie eine ausgelassene Nacht in einer Hafenkneipe, in der alle zu Songs mitsingen, die es irgendwie schaffen, gleichzeitig ein Schlag in die Magengrube und eine heilende Hand zu sein. Schnapp dir deine Stiefel und dreh die Lautstärke auf 11.
 
-::genre::
-
-## Duo The Moon And The Nightspirit - Seed Of The Formless
-
-tbd
-
-::genre::
+::genre::punk rock
 
 ## Eaves Wilder - Little Miss Sunshine
 
-tbd
+*Wilder* unterschrieb mit 18 bei Secretly Canadian; dies ist ihr mit Spannung erwartetes Debütalbum. **Alternative Rock** / **Bedroom Pop**. Die Einflüsse reichen von *PJ Harvey* und *Wolf Alice* bis hin zu **Britpop** und **Shoegaze**. Benannt nach einem Spitznamen, den sie erhielt, als sie ständig wütend war, ist dieses Album eine trotzige Explosion von Ohrwurm-Riffs. Es klingt wie Tagebucheinträge, unterlegt mit Gitarren, die sich nicht ignorieren lassen - elementar, gewaltig und mühelos cool.
 
-::genre::
+::genre::alt rock, bedroom pop, prog pop, shoegaze, dreampop
 
-## Electronic Death Black Dogs - The Bornless One
+## Electronic Death Black Dogs - The Bornless One *
 
-tbd
+Ein experimentelles Projekt, das sich mit okkulten und rituellen Klangwelten auseinandersetzt. **Dark Ambient** / **Industrial**. Nichts für schwache Nerven. Das ist das klangliche Äquivalent zu einem Streifzug durch eine verlassene Industrieanlage um 3 Uhr morgens. Es ist dicht, bedrohlich und zieht einen tief in seinen Bann - die Art von Musik, die deine Schatten ein kleines bisschen länger erscheinen lässt.
 
-::genre::
+::genre::idm, ibm, dark ambient
 
 ## Eric Chasalow - ...arching, reaching, breathless
 
-tbd
+*Chasalow* ist ein renommierter Komponist, der für seine Pionierarbeit im Bereich der elektroakustischen Musik bekannt ist. **Elektroakustische** / **zeitgenössische Kammermusik**. Eine Verschmelzung traditioneller Streicherkomposition mit elektronischen Klangtexturen. Das ist Spannung auf höchstem künstlerischen Niveau. Die Musik lebt von der Spannung zwischen dem organischen Klang einer Violine und dem kühlen Puls eines Computers. Sie ist so eindringlich, wie der Titel vermuten lässt - als würde man den Atem anhalten, während man zusieht, wie sich etwas Schönes langsam auflöst.
 
-::genre::
+::genre::ambient acoustic, chamber music, modern classic
 
-## Eulipion Corps - Beyond Kurama
+## Eulipion Corps - Beyond Kurama *
 
-tbd
+Ein Projekt, das hauptsächlich aus *Neil Rudd* und *John Barrett* besteht. **Electronica** / **Krautrock**. Stark beeinflusst von der Düsseldorfer Schule und den Legenden des Krautrock. Wenn du schon immer einmal durch eine digitale Version eines deutschen Waldes der 1970er Jahre schweben wolltest, ist das genau das Richtige für dich. Es ist synthlastig, atmosphärisch und gerade seltsam genug, um dich vergessen zu lassen, in welchem Jahrzehnt du dich befindest. Perfekt für nächtliche Blickduelle mit deinen Bildschirmschonern.
 
-::genre::
+::genre::krautrock, experimental electronica, prog pop
 
-## Exorcizphobia - Neurosis Unbound
+## EZRA - Whippersnap *
 
-tbd
+Ein Quartett (Jesse Jones, Jacob Jolliff, Max Allard und Craig Butterfield), das in etwas mehr als zwei Jahren vier Alben veröffentlicht hat. **Zeitgenössische Kammermusik** / **Experimenteller Bluegrass**. Man denke an Saitenzauberei, die die Grenzen des Genres auslotet, ähnlich wie bei *Béla Fleck*. Eine verspielte und technisch atemberaubende Darbietung jugendlicher Prahlerei. Es ist komplex, skurril und bietet genug supersonische Mandolinen- und Banjo-Triolen, um einem den Kopf zu verdrehen, doch es verliert nie sein fröhliches, folkiges Herz.
 
-::genre::
+::genre::prog bluegrass, experimental bluegrass, chamber pop, americana
 
-## EZRA - Whippersnap
+## Fast Money Music - Fast Money Music *
 
-tbd
+Ein selbstbetiteltes Debütalbum mit hochkarätigen Mitwirkenden wie *George Daniel* und *John Waugh* von *The 1975* sowie Mitgliedern von *Klaxons*. **Post-Punk**, **Art-Pop** und **New Wave**. Das Soloprojekt von Nick Hinman lässt sich von *The Clash*, *The Modern Lovers* und den *Viagra Boys* inspirieren. Hinman beschreibt das Album als harte Nostalgie. Es ist teils Autobiografie, teils Tanzflächenfüller - stell dir eine raue, von den 80ern inspirierte Party vor, auf der jeder ein bisschen existentiell ist, aber die Bassline einfach zu gut ist, um mit dem Tanzen aufzuhören.
 
-::genre::
-
-## Fast Money Music - Fast Money Music
-
-tbd
-
-::genre::
+::genre::post punk, art pop, new wave
 
 ## Fiona-Lee - Every Woman
 
-tbd
+Ihre zweite EP, die auf das 2025 erschienene Debütalbum "Nothing Compares To Nineteen" folgt. **Indie-Rock**/**Pop** mit einem Gesang, der zum Kampf aufruft. Produziert von Thom Lewis (bekannt für seine Arbeit mit *Sam Fender*), ist der Sound roh und kompromisslos. Das ist Musik mit einer Mission. Fiona-Lee nutzt ihre Plattform, um Vergewaltigungskultur und sexuelle Übergriffe frontal anzugehen, und verwandelt Trauma in eine kraftvolle, bestätigende Hymne der Wut und zurückgewonnenen Macht. Es liegt schwer auf dem Herzen, ist aber lebenswichtig für die Ohren.
 
-::genre::
+::genre::indie rock, indie pop, power pop
 
 ## Frog - Frog for Sale
 
-tbd
+Ihr achtes Studioalbum und bemerkenswerterweise bereits ihr drittes Album in nur 14 Monaten, nach "1000 Variations on the Same Song" und "The Count". **Indie-Rock** / **Anti-Folk**. Die Bateman-Brüder (Daniel und Steve) nennen klassische Songwriter wie *Paul McCartney* und *Buddy Holly* als wesentliche Einflüsse für diese Sessions. Es ist ein skurriles und doch bodenständiges Album darüber, wie Geld der Liebe im Weg steht. Mit Glockenspielen und DIY-Charme fühlt es sich an wie ein gemütliches, leicht exzentrisches Gespräch mit einem alten Freund, der jede Menge seltsame Geschichten zu erzählen hat.
 
-::genre::
+::genre::indie rock, prog pop
 
 ## From Ashes to New - Reflections
 
-tbd
+Dies ist ihr fünftes Studioalbum. Es folgt auf "Blackout" aus dem Jahr 2023 und enthält die Singles "New Disease", "Drag Me" und "Villain". Eine energiegeladene Mischung aus **Alternative Metal**, **Nu-Metal** und **Rap**. Die Band setzt weiterhin auf ihren charakteristischen Mix aus schweren Riffs, melodischem Gesang und elektronischen Elementen. Wenn du dich schon immer einmal wie der Protagonist eines intensiven, neonbeleuchteten Actionfilms fühlen wolltest, ist dies dein Soundtrack. Es ist laut, es ist emotional und es trifft mit der Präzision eines in Samt gehüllten Vorschlaghammers.
 
-::genre::
+::genre::alt metal, rap metal, nu metal
 
 ## Gem Club - Emerald Press
 
-tbd
+Das Projekt von *Christopher Barnes* ist das erste Album von Gem Club seit 12 Jahren, nach "In Roses" aus dem Jahr 2014. **Ambient Pop** / **Chamber Pop**. Bekannt für eine minimalistische Besetzung aus Keyboard, Cello und zartem Gesang. Wäre Musik eine Gewichtsdecke, dann wäre es "Emerald Press". Es ist sanft, zerbrechlich und absolut wunderschön - die Art von Album, die man hört, wenn man jede einzelne seiner Emotionen auf einmal spüren möchte, während man aus dem Fenster auf einen ganz bestimmten Vogel starrt.
 
-::genre::
+::genre::ambient, ambient pop, chamber pop
 
 ## Generation Radio - Take Two
 
-tbd
+Eine Supergroup mit Jay DeMarcus (*Rascal Flatts*), Jason Scheff (ehemaliger Sänger von *Chicago*) und dem legendären Schlagzeuger *Steve Ferrone*. **AOR** / **West Coast Rock** mit einem Hauch von **Country**. Denkt an großartige Melodien und makellose Harmonien. Dies ist das ultimative Album für eine Fahrt in den Sonnenuntergang. Es ist geschmeidig, aufwendig produziert und unbestreitbar eingängig. Es ist Musik für Menschen, die einen perfekt ausgeführten Tonartwechsel zu schätzen wissen und jeden Text mitsingen können, ohne überhaupt zu merken, dass sie ihn auswendig gelernt haben.
 
-::genre::
+::genre::melo rock, hard rock, heavy rock, country rock, arena rock
 
 ## gif. from god - Dissimulation
 
-tbd
+Eine sechsköpfige Maschine, die dafür bekannt ist, zwei eigenständige Sänger zu haben, um den Wahnsinn ihrer Live-Auftritte auf die Spitze zu treiben. **Mathcore** / **Screamo** / **Grindcore**. Ihr Sound ist chaotisch, explosiv und hat seine Wurzeln in der DIY-Punkszene von Virginia. Das anzuhören ist, als befände man sich in einem Mixer mit einem Haufen Geometrie-Lehrbüchern. Es ist schnell, hektisch und auf die bestmögliche Art intellektuell verwirrend. Es trifft wie ein LKW und lässt einen sich fragen, wo die eigenen inneren Organe geblieben sind.
 
-::genre::
+::genre::crust, mathcore, screamo, grindcore
 
 ## Godsnake - Inhale The Noise
 
-tbd
+Dies ist das dritte Studioalbum der Band. Mit dabei ist Jean Borman von *Rage* an der Gitarre, neben langjährigen Mitgliedern wie Sänger Torger. **Melodischer Thrash Metal**. Er wird als kontrollierter Kontrollverlust beschrieben - melodisch und doch heavy, beeinflusst von den klassischen Thrash-Größen. *Godsnake* ist wie eine gut geölte Maschine, die gelegentlich Feuer spuckt. Es verfügt über die technische Präzision eines deutschen Ingenieursprojekts, aber mit genug roher Energie, um einen Aufstand auszulösen. Es ist der perfekte Soundtrack, wenn man sich sowohl kultiviert fühlen als auch so fühlen möchte, als würde man mit dem Motorrad durch ein Gewitter fahren.
 
-::genre::
+::genre::thrash metal
 
-## Gout - Actual Bastard
+## Gout - Actual Bastard *
 
-tbd
+Ein Quartett, bestehend aus Mitgliedern der Glasgower Bands *Lucia & The Best Boys* und *The Ninth Wave*. Eine düstere Mischung aus **Sludge Metal** und **Hardcore**. Textlich ist es nihilistisch und eindringlich und behandelt Themen wie Angst und Selbstironie. Stell dir das Gefühl vor, wenn eine schwere Eisentür in einem kalten, hallenden Raum zuschlägt - genau das ist dieses Album. Es ist laut, es ist wütend und es ist kompromisslos rau. Wenn du Musik magst, die sich wie ein kontrollierter Zusammenbruch anfühlt, ist Gout dein neuer bester Freund.
 
-::genre::
+::genre::sludge metal, crust, hardcore punk
 
 ## Gypsy Pistoleros - Dark Faerie Tales
 
-tbd
+Bekannt als die weltweit einzigen **Glam-Punk**-Goth-Outlaws unter der Führung von Sängerin Gypsy Lee Pistolero. Glam-Punk / **Goth‘n’Roll**. Die Einflüsse reichen von *The Damned* und *Hanoi Rocks* bis hin zu modernen Acts wie *YUNGBLUD* und *Ghost*. Ein Märchen für die Verdammten. Stell dir einen Gothic-Karneval vor, der in Flammen aufgegangen ist und trotzdem weiterfeiern will. Es ist theatralisch, ausgeflippt und absolut voller Glitzer und Schmutz. Es ist Rock’n’Roll-Ritual in seiner extravagantesten Form.
 
-::genre::
-
-## Happyer - AT LEAST WE HAD THE CHANCE TO PRETEND
-
-tbd
-
-::genre::
+::genre::gothic rock, glam punk, horror punk, punk rock
 
 ## Hardline - Shout
 
-tbd
+Unter der Leitung des legendären Sängers *Johnny Gioeli* umfasst die aktuelle Besetzung italienische Veteranen wie *Alessandro Del Vecchio* und *Luca Princiotta*. Klassischer **Hard Rock** und **Melodic Metal**. Die Band hat sich bewusst zum Ziel gesetzt, die künstlerische DNA ihres Meisterwerks "Double Eclipse" aus dem Jahr 1992 einzufangen. Das ist das musikalische Äquivalent dazu, die Autofenster herunterzukurbeln und aus voller Kehle zu schreien. Es sind große Refrains, noch größere Riffs und null Interesse daran, das Rad neu zu erfinden - es geht einfach nur darum, dieses Rad sehr, sehr schnell drehen zu lassen.
 
-::genre::
+::genre::hard rock, melo metal, heavy rock
 
-## Hebephrenique - Decathexis
+## Hedvig Mollestad Weejuns - Bitches Blues *
 
-tbd
+Ein Trio mit der Gitarrenvirtuosin *Hedvig Mollestad*, dem Keyboarder *Ståle Storløkken* (*Elephant9*) und dem Schlagzeuger *Ole Mofjell*. Eine verwirrende Mischung aus **Jazz-Rock** und **improvisierter Fusion**. Es ist stark von der "Electric Miles"-Ära der späten 60er und frühen 70er Jahre (insbesondere von *Bitches Brew*) sowie vom *Mahavishnu Orchestra* inspiriert. Das ist "Blues" für Leute, denen die üblichen 12-taktigen Progressionen zu vorhersehbar sind. Es ist schwerelos, schräg und wunderbar - *Mollestads* Gitarre spielt nicht nur Noten; sie erschließt neue Dimensionen, während die Orgel wie ein Neonsturm um einen herumwirbelt.
 
-::genre::
-
-## Hedvig Mollestad Weejuns - Bitches Blues
-
-tbd
-
-::genre::
+::genre::jazz rock, jazz fusion, improvisation
 
 ## Hermitude - Eight
 
-tbd
+Das Duo (*Luke Dubber* und *Angus Stuart*) ist seit über zwei Jahrzehnten wegweisend. Dies ist ihr achtes Album und vor allem ihre erste Veröffentlichung auf ihrem eigenen Label Heavy Weather, nachdem ihr langjähriges Zuhause Elefant Traks geschlossen wurde. **Electronica** / **Dance**. Diese Platte setzt auf Genre-Maxxing und energiegeladene Club-Kracher. Passend betitelt mit "Eight", nutzt das Album die Zahl 8 als Symbol für Unendlichkeit und die Tanzfläche als Ort, an dem Unterschiede verschwinden. Es ist sorgfältig ausgearbeitet, aber darauf ausgelegt, zu rocken - es ist intelligente Musik für Leute, die einfach nur tanzen wollen.
 
-::genre::
+::genre::edm, ebm, deep house, minimal techno
 
 ## Hold My Own - Pay No Mind
 
-tbd
+Gegründet 2021 von Veteranen der Szene, darunter Greg Falchetto (ehemals *The Mongoloids*). Sie tourten bereits mit Hardcore-Größen wie *Terror* und *Madball*. Purer, harter **Hardcore**. Freut euch auf fette Riffs, wuchtige Rhythmen und explosive Breakdowns. Ein 100 % Hardcore-Album, das genau das hält, was es verspricht: Es trifft euch mitten in die Brust und stellt keine Fragen. Es ist das klangliche Äquivalent eines sehr aggressiven High-Fives, das dich versehentlich umwirft.
 
-::genre::
+::genre::metallic hardcore
 
 ## Holodec - TRU FOLK
 
-tbd
+*Jieh* ist seit Jahren aktiv und hat mit Künstlern wie *Nosaj Thing* und *Main Attrakionz* zusammengearbeitet. Dieses Projekt greift auf ein 15 Jahre umfassendes Archiv an Field Recordings zurück. **Ambient** / **Electronica** / **Field Recordings**. Es lässt sich von US-**R&B** der 90er Jahre, britischer Clubmusik und **Neoklassik** inspirieren. Das ist Spiritualität auf Straßenebene. Statt Vogelgezwitscher im Wald hört man das rhythmische Klappern eines Maschendrahtzauns und das Stadtgetöse, verwandelt in einen narkotischen, traumartigen Dunst. Es ist Musik für Menschen, die im urbanen Rauschen Frieden finden.
 
-::genre::
+::genre::neo classic, ambient, cine electronica, field recordings
 
-## Holosoil - Animal
+## Holosoil - Animal *
 
-tbd
+Die 2024 gegründete Band war zuvor unter dem Namen *R3VO* bekannt. Die Besetzung besteht aus Mitgliedern aus Frankreich und Finnland, was sie zu einer wahrhaft internationalen **Alt-Prog**-Kraft macht. **Alternativer Progressive Metal/Rock**. Die Band beschreibt diesen speziellen Track als Treuebekundung an klassische Rockhymnen, die Pop-Hooks mit metallischer Technik verbindet. Das ist kein gewöhnlicher Prog - es ist raffiniert-verrückt. Es gelingt ihnen, technisch beeindruckend zu sein, ohne dabei zu vergessen, dass ein Song eigentlich eingängig sein sollte. Es ist für alle, die headbangen wollen, aber auch den 7/8-Takt halten möchten.
 
-::genre::
+::genre::alt prog rock, prog metal
 
 ## Holywatr - Deo Gratias
 
-tbd
+Obwohl sie noch relativ neu in der Szene sind, haben sie sich mit Singles wie "nail polish" und "loose ends" eine treue Fangemeinde aufgebaut. Eine raue, stimmungsvolle Mischung aus **Nu-Metal**, **Emo** und **Hardcore**. Sie lassen sich stark von **Alternative-Metal**-Legenden wie den *Deftones* inspirieren. Wenn du dich schon immer einmal so fühlen wolltest, als säßest du 1999 in einer regennassen Gasse und würdest jede Entscheidung deines Lebens hinterfragen, dann ist dies dein Soundtrack. Es ist heavy, es ist dramatisch und es ist herrlich ungeschliffen - wie ein Tagebucheintrag, geschrieben mit einem Sharpie.
 
-::genre::
+::genre::alt metal, nu metal, emocore, post hardcore
 
 ## Honey Dijon - Nightlife
 
-tbd
+Als Ikone der Underground-Szene hat sie sich von Clubnächten als Teenagerin zum Superstar-DJ hochgearbeitet und arbeitet mit Größen wie *Beyoncé* zusammen. **House**, **Nu-Disco** und **Electronica**. Das ist der ultimative Kick auf der Tanzfläche. Es ist sexy, gefühlvoll und gemeinschaftsorientiert, mit einer riesigen Liste an Gästen wie *Chloe Bailey* und *Bree Runway*. Es ist der Sound eines Club-Höhepunkts um 4 Uhr morgens - dekadent, schweißtreibend und perfekt raffiniert.
 
-::genre::
+::genre::deep house, acid house, disco, edm, electronica
 
 ## Honeybunches Of Death - Waist Of Money
 
-tbd
+Unter der Leitung von *Rob Lane* kehrte die Band 2022 nach einer 14-jährigen Pause zurück und präsentierte eine theatralische, kostümreiche Live-Show. **Comedy-Groove-Metal**, der die Riffs von *Pantera*/*Lamb of God* mit dem Humor von *Tenacious D* und *GWAR* verbindet. Absolutes theatralisches Chaos. Mit Songs über Krisen im Bereich der öffentlichen Gesundheit wie Binge-Drunk-Driving und das Verspeisen von Spielzeugeisenbahnen ist es ebenso dumm wie heavy. Es ist eine Geldverschwendung, bei der man sich tatsächlich großartig fühlt - man stelle sich eine Mischung aus Moshpits und Monty Python vor.
 
-::genre::
+::genre::comedy metal, groove metal
 
 ## Ignobleth - Manor Of Primitive Anticreation
 
-tbd
+Ein 2022 gegründetes Trio, das sich schnell von einem chaotischen Probenprojekt zu einer ausgefeilten Extreme-Metal-Band entwickelte. Bestialer **Blackened Death Metal** (War Metal) mit mesopotamischen Horrorthemen. Das ist archäologischer Metal - er klingt, als wäre er aus einem Grab ausgegraben worden, statt in einem Studio aufgenommen. Er ist roh, klaustrophobisch und gewalttätig. Er ist der perfekte Soundtrack für alle, die in ihrem Wohnzimmer uralte Dämonen beschwören wollen.
 
-::genre::
+::genre::blackened death metal
 
 ## Infestuous - Unfathomable Mutagenic Abominations
 
-tbd
+Eine Zusammenarbeit zwischen Matt Tluchowski (*Doctor Smoke*) und Alan Cassidy (*The Black Dahlia Murder*), die seit 2009 in der Entwicklung ist. Groove-geladener, **Tech-** und **Brutal-Death-Metal**. Wenn du möchtest, dass deine Musik wie ein Mixer voller rostiger Nägel klingt, der mit 200 BPM läuft, dann ist das hier genau das Richtige. Es ist gnadenlos, technisch atemberaubend und überraschend sprunghaft für etwas so Groteskes. Es ist das musikalische Äquivalent eines Horrorfilms, zu dem man tanzen kann.
 
-::genre::
+::genre::brutal death metal, tech death metal
 
-## I’m With Her - Sing Me Alive
+## James Igenfritz, Thomas Buckner - Automatic Thinking *
 
-tbd
+*Ilgenfritz* ist ein Kontrabass-Virtuose und Leiter des Labels Infrequent Seams; *Buckner* ist ein legendärer Baritonist in der Welt der Neuen Musik und der experimentellen Improvisation. **Avantgarde-Jazz** und **Chamber Improvisation**. Zehn rohe Improvisationen, die sich wie ein Hochseilakt anfühlen. Es ist eine Meisterklasse in erweiterten Techniken - stimmliche Akrobatik trifft auf meisterhaftes Bogenspiel. Es ist anspruchsvoll, intellektuell und ironisch betitelt, denn an der tiefen Konzentration, die erforderlich ist, damit dies funktioniert, ist nichts Automatisches.
 
-::genre::
-
-## James Igenfritz & Thomas Buckner - Automatic Thinking
-
-tbd
-
-::genre::
+::genre::avant jazz, chamber jazz, modern jazz, improvisation
 
 ## Jared Hall - Hometown
 
-tbd
+Ein erfahrener Trompeter und Pädagoge, der bereits auf großen Jazzfestivals aufgetreten ist und an der Whitworth University unterrichtet hat. **Hard Bop** und **Modern Jazz**, mit Anklängen an *Woody Shaw* und *Roy Hargrove*. Das ist Seelenfutter für Jazzliebhaber. Es ist warm, lyrisch und wird von einem Quintett gespielt, das mit klassischer Präzision swingt. Es ist das musikalische Äquivalent zu einem perfekt gereiften Apfelwein - süß, spritzig und genau das, was man sich an einem Sonntagmorgen wünscht.
 
-::genre::
+::genre::modern jazz, hard bop, post bop
 
 ## Jessie Ware - Superbloom
 
-tbd
+Eine für den Mercury Prize nominierte Popstar, die sich in letzter Zeit die Welten von Disco und Dance-Pop zu eigen gemacht hat. **Nu-Disco**, **R&B** und **Euphoric Pop**; ein Studio-54-Glitzerrausch. Ware vollendet ihre Dance-Trilogie mit einem Album, das pure Glamour und Glamour ist. Es besticht durch freche Western-Anspielungen (ein Gruß an *Morricone*) und frechen Gesang. Wenn du einen Soundtrack für eine schicke Gartenparty brauchst, die zu einer Rave-Nacht wird, dann ist das hier genau das Richtige.
 
-::genre::
+::genre::disco, r&b, edm
 
-## Jonas Cambien - Man Eating Tree
+## Jonas Cambien - Man Eating Tree *
 
-tbd
+Ein klassisch ausgebildeter Pianist, der in der norwegischen Improvisationsszene aktiv ist und das *Jonas Cambien Trio* leitet. **Avantgarde-Jazz** und **Minimalismus**, beeinflusst von *Ligeti*, *Steve Reich* und *Alice Coltrane*. *Cambien* behandelt das Klavier wie ein Schlagzeug. Freuen Sie sich auf tranceartige Rhythmusmuster und präparierte Klänge - stellen Sie sich beispielsweise Besteck vor, das im Inneren eines Flügels vibriert. Es ist hypnotisch, leicht unheimlich und absolut fesselnd - ein wahrer Wald aus Klängen, in dem man sich gerne verlieren möchte.
 
-::genre::
+::genre::avant jazz, experimental electronica, ambient
 
-## Joseph Branciforte & Jozef Dumoulin - ITERAE
+## Joseph Branciforte, Jozef Dumoulin - ITERAE *
 
-tbd
+*Branciforte* ist Produzent und Experte für modulare Synthesizer; *Dumoulin* ist ein Pionier bei der Neudefinition des Fender Rhodes für das 21. Jahrhundert. **Post-Glitch**, **zeitgenössische Elektronik** und **improvisierter Jazz**. Dies ist nicht nur ein Album, sondern ein 70-minütiger, architektonisch durchdachter Tagtraum. Zwei Rhodes-Meister verweben Glitches und Akkorde, die zwischen statisch und drängend schweben. Es ist der perfekte Begleiter, wenn man sich wie ein Hightech-Detektiv in einem Noir-Film fühlen möchte.
 
-::genre::
+::genre::modern classic, post glitch, free jazz, fusion
 
 ## Josephine - Unexplained
 
-tbd
+Ein Trio bestehend aus der Produzentin *Josephine*, dem Schlagzeuger *Sammy Sielu* und dem Bassisten *Yasin Saif*; sie sind ein Neuzugang beim Elektronik-Label Vicious. **Ambient Dubstep**, **Drum’n’Bass** und **UK-Bass**-Kultur. Das ist *Shitmusic Girl* (Josephines Künstlername) in einer düsteren und dystopischen Variante. Es ist ein glitchiger, basslastiger Ausflug in urbane Landschaften, der Live-Instrumentierung mit tiefer, immersiver elektronischer Produktion verbindet. Es fühlt sich an, als würde man durch eine neonbeleuchtete Stadt in einem Science-Fiction-Thriller spazieren - rhythmisch spannend, emotional aufgeladen und sehr cool.
 
-::genre::
+::genre::ambient, dubstep, d&b, uk garage
 
 ## Jäst - Jästified
 
-tbd
+Eine Art Supergroup mit Axel Ritt (ex-*Grave Digger*), Steven Wussow (*Orden Ogan*) und Timmi Breideband (ex-*Freedom Call*). Ein Neustart des 80er-Jahre-**AOR** und **Hard Rock**. Jäst hat es sich zur Aufgabe gemacht, den Rock zurück ins Radio zu bringen, und sie haben die gewaltigen Refrains mitgebracht, um das zu beweisen. Es ist eine unverhohlene Liebeserklärung an den **Arena-Rock** der 80er - große Hooks, melodische Gitarren und genug Fist-in-the-Air-Energie, um ein Stadion zu befeuern. Es ist ausgefeilt, kraftvoll und wie geschaffen dafür, bei heruntergelassenen Fenstern voll aufgedreht zu werden.
 
-::genre::
+::genre::hard rock, melo rock, arena rock, heavy rock
 
 ## Kanine - Khaos
 
-tbd
+Als aufstrebende Stars der Bassdrop-Szene haben sie sich 2020 gegründet und 2022 bereits das brutale Album "Karnage" veröffentlicht. **Slamming Deathcore** und **Brutal Death Metal**. Dieses Album spielt nicht einfach nur; es greift an. Es ist ein unerbittlicher Ansturm aus Bree-Bree-Gesang, Blast Beats und Bassdrops, die schwer genug sind, um deine inneren Organe zu verschieben. Es ist pure, hochoktanige Energie, gemacht für die größten Pits, die man sich vorstellen kann - aggressiv, gnadenlos und unbestreitbar ein Spaß für alle Anhänger der Heavy-Musik.
 
-::genre::
+::genre::brutal death metal, slamcore
 
-## Karmamoi - Eternal Mistake
+## Karmamoi - Eternal Mistake *
 
-tbd
+Die 2008 gegründete Band hat sich mit sechs bisherigen Studioalben zu einem festen Bestandteil der europäischen Prog-Szene entwickelt. **Progressive Rock** und **Neo-Prog** mit cineastischen, atmosphärischen Klangteppichen. Das ist Prog in seiner ambitioniertesten Form - zehn Titel (plus Intros), die sich mit der menschlichen Zerbrechlichkeit auseinandersetzen. Es ist eine fesselnde, stimmungsvolle Reise, die zwischen komplexer Musikalität und emotionalen Höhenflügen wechselt. Wenn du Rock mit einer Prise tiefer Selbstreflexion und atemberaubenden Gastsoli magst, ist dies genau das Richtige für dich.
 
-::genre::
+::genre::prog rock, neo prog
 
-## Kathryn Mohr - Carve
+## Kathryn Mohr - Carve *
 
-tbd
+*Mohr*, bekannt für ihr Debütalbum aus dem Jahr 2022 und "Waiting Room" aus dem Jahr 2025, nimmt ihre Musik oft an abgelegenen, stimmungsvollen Orten auf (wie beispielsweise in einer verlassenen isländischen Fischfabrik). **Avant-Folk**, **Ambient** und **Lo-Fi-Indie**. Aufgenommen in einem Single-Wide-Wohnwagen in der Mojave-Wüste, wirkt dieses Album wie eine staubige, sonnenverblasste Erinnerung. Es ist intim und schwer von Liebe als Trauer, eine Mischung aus Feldaufnahmen und melancholischer Gitarre. Es ist der perfekte Soundtrack, um auf einer Veranda zu sitzen und auf einen Horizont zu starren, der nicht aufhört, sich zu bewegen.
 
-::genre::
+::genre::avant folk, prog folk, lofi, indie folk, ambient
 
-## Kerzenlicht / Kirous - Split
+## Kerzenlicht, Kirous - Split
 
-tbd
+Zwei achtenswerte Horden der finnischen Underground-Szene; *Kirous* ist das Projekt eines produktiven Musikers, der auch bei *White Baroness* aktiv ist. Primitiver, orkischer finnischer **Black Metal** und nostalgische **Dungeon-Synth**-Ästhetik. Wenn du Musik magst, die klingt, als wäre sie während eines Schneesturms in einem feuchten mittelalterlichen Verlies aufgenommen worden, bist du hier genau richtig. Es ist düster, trostlos und wunderschön primitiv. Während Kerzenlicht den orkischen Dreck beisteuert, ergänzt **Kirous** mystische Midtempo-Märsche mit überraschend virtuosen Gitarren-Soli. Es ist eine Hommage an unsichere Orte und uralte Dunkelheit.
 
-::genre::
+::genre::atmo black metal, melo black metal, dsbm
 
-## Kill The Silence - Resolve
+## Kill The Silence - Resolve *
 
-tbd
+Die 2018 gegründete Band kehrte mit dieser Veröffentlichung, auf der Sänger Jason Walsh zu hören ist, aus einer Pause zurück. Energiegeladener **Post-Hardcore** und **Metalcore**, der aggressive Riffs mit melodischen, vom **Pop-Punk** geprägten Refrains verbindet. Das ist der Sound einer Band, die ihren Thron zurückerobert. Es ist eine Achterbahnfahrt der Energie, die einen mit technischer Präzision am Schlagzeug trifft und dann mit einer schwebenden Melodie umarmt. Es ist roh, kompromisslos ehrlich und fängt die Nostalgie der 2000er Jahre, in der Emo auf Metalcore traf, mit modernem Schliff perfekt ein.
 
-::genre::
+::genre::post hardcore, melo hardcore, metalcore
 
 ## Kink Gong - The Lisu
 
-tbd
+Ein renommierter Field Recordist und Archivar mit über 100 Alben, die traditionelle Volksmusik aus Asien und Afrika dokumentieren. **Ethno-Ambient**- und **experimentelle Fieldrecordings**, mit besonderem Schwerpunkt auf den Lisu-Gemeinschaften in China und Thailand. Dies ist nicht nur ein Album, sondern ein Portal. Indem er die elektronische Bearbeitung auf ein absolutes Minimum beschränkt, lässt Gong den rohen, metallischen Klang des Chibeu (einer Lisu-Laute) und die zeremoniellen Gesänge in den Vordergrund treten. Es fühlt sich an, als stünde man mitten in einem lebhaften, staubigen Dorffest - lebendig, respektvoll und zutiefst einnehmend.
 
-::genre::
+::genre::ambient, world music, field recordings, experimental electronica
 
-## Kraan - All In
+## Kraan - All In *
 
-tbd
+Dieses legendäre Ensemble, das seit über 55 Jahren besteht, besteht aus Hellmut Hattler (Bass), Peter Wolbrandt (Gitarre) und Jan Fride (Schlagzeug). Eine Meisterklasse in **Jazz-Rock**, **Fusion** und **Funk**, mit einem Hauch von psychedelischem **Krautrock**. Nach fünf Jahrzehnten haben diese Legenden immer noch alle Trümpfe in der Hand. Es ist ein unglaublich geschmeidiges, virtuoses Album, das beweist, dass man sowohl entspannt als auch technisch atemberaubend sein kann. Es klingt wie die raffinierteste Jam-Session, zu der man je eingeladen wurde – optimistisch, groovig und zeitlos.
 
-::genre::
+::genre::jazz rock, jazz fusion, prog rock, prog funk, krautrock
 
 ## Kuru - Backstage Hologram
 
-tbd
+Ein produktiver Rapper und Produzent (geb. 2005), der aus der Underground-Digicore-Szene nicht mehr wegzudenken ist. Eine verspielte, vielstimmige Mischung aus **IDM**, **Digicore** und **Trap**. Das ist Bedroom Production, die endlich den Sprung auf die große Bühne geschafft hat. Es ist eine glitchige, von Bit-Musik geprägte Achterbahnfahrt, die sich anfühlt, als hätte der Soundtrack deines Lieblingsvideospiels ein Kind mit experimentellem Rap bekommen. Es ist fröhlich, rasend und überraschend eingängig.
 
-::genre::
+::genre::idm, digicore, trap
 
-## Lars Danielsson - Echomyr
+## Lars Danielsson - Echomyr *
 
-tbd
+*Danielsson*’s Liberetto-Projekt ist ein langjähriges Ensemble mit Gregory Privat (Klavier) und Magnus Öström (Schlagzeug). Sie verbinden **nordischen Jazz** mit klassischer Eleganz und Volksmelodien. **Kammerjazz** / **Europäischer Jazz** / **Fusion**. Das ist das klangliche Äquivalent eines Luxus-Spas mitten in einem verschneiten Wald. Es ist unglaublich lyrisch und ausgefeilt und bewegt sich zwischen energiegeladenen Grooves und intimen Soli. Es ist raffiniert, wunderschön und der perfekte Soundtrack, um aus dem Fenster zu schauen und in Gedanken zu versinken.
 
-::genre::
+::genre::chamber jazz, nordic jazz, jazz fusion, prog folk
 
-## Laura Cocks - A Pearl in the Jaw
+## Laura Cocks - A Pearl in the Jaw *
 
-tbd
+Eine erfahrene Flötistin und Mitglied des TAK Ensembles, bekannt für ihre meisterhafte Erforschung der Feldanatomie des Klangs. **Experimentell** / **Moderne Klassik**; mit Schwerpunkt auf flötenbasierter Kunstfertigkeit und Materialität. Vergessen Sie alles, was Sie über schöne Flötenmusik wissen. Hier geht es vielmehr um die Körperlichkeit des Atems und den metallischen Klang des Instruments. Es ist scharf, rhythmisch und detailreich - ein winziges, glitzerndes Objekt, das ein wenig gefährlich in der Hand liegt, genau wie die Perle im Kiefer, auf die der Titel anspielt.
 
-::genre::
+::genre::experimental classic, modern classic, experimental electronica
 
-## Leila Abdul-Rauf - Andros Insidium
+## Leila Abdul-Rauf - Andros Insidium *
 
-tbd
+Eine Multi-Instrumentalistin, bekannt durch die Death-Metal-Band *Vastum*, doch ihre Soloarbeiten sind eine völlige Abkehr davon. Konzeptionell lässt sie sich von der sumerischen Mythologie (Inanna und Ereshkegal) inspirieren. **Dark Ambient** / **Industrial** / **Ritual Folk**. Stell dir vor, du gehst durch eine Höhle aus Schatten, während in der Ferne jemand Trompete spielt. Dies ist ein zeremonieller Abstieg, der sich wie ein Ritual in einem Obsidian-Tempel anfühlt. Es ist dicht, leicht beunruhigend und absolut fesselnd - das musikalische Äquivalent eines Psychothrillers.
 
-::genre::
+::genre::dark ambient, prog folk, ibm, idm, ritual music
 
-## Lester St. Louis - The End Site
+## Lester St. Louis - The End Site *
 
-tbd
+*St. Louis* ist ein herausragender Cellist und Komponist in der New Yorker **Avantgarde**- und **Improvisations**szene. Er bewegt sich häufig an der Schnittstelle zwischen **Klassik**, **Free Jazz** und elektronischer Musik. **Experimentell** / Avantgarde / **Improvisiertes Cello**. Wenn du dich jemals gefragt hast, wie ein Cello klingt, wenn es eine existenzielle Krise durchleben darf, dann ist dies die Antwort. *St. Louis* nutzt erweiterte Spieltechniken - wie das Streichen mit dem Bogen, um flüsterartige Klänge zu erzeugen -, um eine Klanglandschaft zu schaffen, die sich wie ein leises Gespräch zwischen einer Maschine und einem Geist anfühlt. Es ist minimalistisch, eindringlich und unglaublich cool.
 
-::genre::
+::genre::avant jazz, free jazz, experimental jazz, modern classic
 
-## Lividus - Scarabaeus
+## Lividus - Scarabaeus *
 
-tbd
+Eine Supergroup aus Veteranen des pazifischen Nordwestens mit Uta Plotkin (ex-*Witch Mountain*), Christy Cather (*Ludicra*) und Rob Shaffer (*Dark Castle*, *Uada*). Ihr Sound ist eine komplexe metallische Formel, die Anleihen bei *Voivod*, *Hammers of Misfortune*, *Death* und *Nevermore* nimmt. Abenteuerlicher **Progressive Metal** gemischt mit **Melodic Death** und **Black Metal**. Dieses Album ist wie ein akustischer Käfer - hartschalig, vielbeinig und überraschend schillernd. Es behandelt das schwere Thema der Traumaverarbeitung mit Riffs, die wie ein rasendes Insekt im Zickzack verlaufen, und Gesang, der zwischen opernhaften Klarstimmen und wilden Knurren wechselt. Es ist intelligenter Metal, der es dennoch versteht, richtig loszulegen.
 
-::genre::
+::genre::melo death metal, prog metal, atmo black metal
 
 ## Look Outside Your Window - Look Outside Your Window *
 
@@ -874,7 +808,7 @@ Die im Oktober 2022 gegründete Band ist eine aufstrebende Kraft in der portugie
 
 ::genre::alt rock, indie rock, folk pop, indie pop
 
-## See You Next Tuesday / Chop Chop Chop Chop Chop Chop Chop - Brothers
+## See You Next Tuesday, Chop Chop Chop Chop Chop Chop Chop - Brothers
 
 *See You Next Tuesday* ist ein Urgestein der Math-Grind-Szene der frühen 2000er Jahre (bekannt vor allem für das Album "Parasite"), das kürzlich sein Comeback feierte. *CCCCC* ist ein produktives, modernes Projekt, das für seine hyperaktiven, experimentellen Veröffentlichungen bekannt ist. Eine chaotische Verschmelzung von **Grindcore**, **Mathcore** und **Cybergrind**. Freut euch auf rasante Blastbeats, dissonante Gitarrentechnik und sporadische elektronische Glitch-Effekte. Stellt euch einen Mixer vor, gefüllt mit scharfkantigen Metallsplittern und einem defekten GameBoy. Es ist eine 10-minütige Panikattacke, die euch irgendwie dazu bringt, Möbel zertrümmern zu wollen. Reines, unverfälschtes akustisches Chaos.
 
@@ -970,7 +904,7 @@ Die 2022 gegründete Band veröffentlicht hiermit ihr erstes Studioalbum in voll
 
 ::genre::avant black metal, experimental ambient, blackened death metal
 
-## Tanya Donelly and Chris Brokaw - The Done Is Done Again
+## Tanya Donelly, Chris Brokaw - The Done Is Done Again
 
 Ein Zusammenschluss zweier Größen des Alternative Rock: Donelly ist der Gründer von *Belly* und *Throwing Muses*, während Brokaw ein Veteran von *Codeine* und *Come* ist. Die Wurzeln liegen im **Indie-Rock**, **Folk** und **Chamber Pop** der 90er Jahre. Dieses Projekt setzt ihre langjährige kreative Zusammenarbeit fort. Diese Platte ist wie ein herzliches Gespräch zwischen alten Freunden in einem von Kerzenlicht erhellten Raum. Sie ist ausgereift, melodisch und zutiefst beruhigend und beweist, dass das, was schon einmal da war, beim zweiten Mal sogar noch besser ist.
 
@@ -982,7 +916,7 @@ Ein originelles siebtes Studioalbum. Bemerkenswert ist, dass es sich um ihre ers
 
 ::genre::slacker rock, emocore, lofi, alt rock
 
-## Tezzus / diamond* - UY SCUTI BØYZ
+## Tezzus, diamond* - UY SCUTI BØYZ
 
 Zwei aufstrebende Stars der Underground-Szene von Atlanta, die nun bei Young Thugs Label YSL Records unter Vertrag stehen. Als Teil des *Øway-Kollektivs* verbinden sie **Trap**, **experimentellen Hip-Hop** und eine von Anime inspirierte Ästhetik. Das Ergebnis ist pures Chaos und Chemie. Nachdem sie Ende letzten Jahres einen öffentlichen Streit beigelegt hatten, hat das Duo diese Energie in ein energiegeladenes Projekt gesteckt, das sich wie der Soundtrack zu einem glitchigen Videospiel anhört. Es ist wild, schräg und zweifellos der neue Sound der Underground-Szene.
 
@@ -1014,9 +948,9 @@ Dies ist das dritte Studioalbum der Band, produziert von Tom Peters in ihrem eig
 
 ## The Moon And The Nightspirit - Seed Of The Formless *
 
-Dies ist ihr achtes Studioalbum, das einen Sprung vom Wald- und Wiesen-Folk hin zu kosmischer und viszeraler elektrischer Energie darstellt. Traditionell als Ethereal-Folk-Band bekannt, markiert dieses Album eine klangliche Mutation hin zu **atmosphärischem Post-Metal** und **Black Metal**. Es ist ein mystischer Balanceakt zwischen Schatten und Licht. Während die akustischen Wurzeln erhalten bleiben, verleihen die neuen elektrischen Schichten dem Ganzen eine eisige, majestätische Schärfe, die den Hörer sich gleichzeitig winzig und mit dem Universum verbunden fühlen lässt.
+Das 2003 von *Ágnes Tóth* und *Mihály Szabó* gegründete Duo ist bekannt für seine zutiefst mystischen Texte - oft in ungarischer Sprache -, die ihre Wurzeln im Schamanismus und in alten Fabeln haben. Eine eindringliche Mischung aus **atmosphärischem Post-Metal** und **Neofolk**. Während ihre früheren Werke eher akustisch geprägt waren, markiert dieses achte Album einen Wandel hin zu härteren, elektrischen Klängen, wobei ihre ätherische und heidnische Seele erhalten bleibt. Wenn Sie schon immer einmal hören wollten, wie ein Waldgeist klingt, wenn er eine E-Gitarre in die Hand nimmt und beschließt, über die Geheimnisse der Schöpfung zu sinnieren, dann ist dies genau das Richtige. Es ist elegisch, traumhaft und trägt eine tiefgründige „spirituelle Schwere“, die perfekt für einen Mitternachtsspaziergang durch den Kosmos ist.
 
-::genre::post black metal, atmo black metal, post metal
+::genre::atmo black metal, post metal, neo folk
 
 ## The Mugshots - Gloomy, Eerie And Weird
 
@@ -1171,6 +1105,12 @@ Ein in London ansässiges Sextett unter der Leitung des Gitarristen und Komponis
 Eine glühende Mischung aus **Black Metal**, **Thrash** und **Death Metal**. Sie schöpft aus dem Wahnsinn von Bands wie *Watain*, *Darkthrone* und *Possessed* (nach denen sie benannt sind!). Ihr selbstbetiteltes drittes Album wurde live in ihrem Proberaum aufgenommen, um ein spontanes, rohes Gefühl einzufangen. Trotz des faulen Boomer-Namens ist die Musik absoluter Psychotic Black Metal. Sie ist aggressiv, chaotisch und nihilistisch, aber mit überraschend raffinierten dissonanten Harmonien und einer Horror-Soundtrack-Atmosphäre. Im Grunde genommen ist es ein 40-minütiger akustischer Exorzismus.
 
 ::genre::blackened thrash metal, blackened death metal, melo black metal
+
+## Exorcizphobia - Neurosis Unbound
+
+Das 2005 gegründete Quartett legt hiermit sein fünftes Studioalbum vor. Es wurde im Golden Hive Studio in Prag aufgenommen. Eine rasante Mischung aus **Thrash Metal**, **Punk** und **Hardcore** mit dem Gewicht der alternativen Musik der 1990er Jahre. Das ist Thrash für Denker - er behält die nackenbrechende Geschwindigkeit bei, fügt aber Schichten philosophischer Auseinandersetzungen hinzu, inspiriert von Arthur Schopenhauer. Es fühlt sich an wie ein rasantes Bekenntnis, das nicht nur schreien will, sondern gehört werden will.
+
+::genre::thrash metal, crossover, metallic hardcore
 
 ## Ildfar - Der Ligger Et Land
 
