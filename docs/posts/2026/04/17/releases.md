@@ -1,7 +1,7 @@
 ---
 date: 2026-04-17
 pin: true
-bandcamp: false
+bandcamp: true
 categories:
   - Releases
 ---
@@ -316,6 +316,12 @@ Ein selbstbetiteltes Debütalbum mit hochkarätigen Mitwirkenden wie *George Dan
 
 ::genre::post punk, art pop, new wave
 
+## Finn Askew - Blueboy
+
+Ein genreübergreifender Künstler der Generation Z, der mit seiner Debütsingle "Roses" viral ging und seitdem zu einem Aushängeschild der britischen Alt-Pop-Szene geworden ist. **Alt-Pop**/**R&B**/**Indie**. Als Einflüsse nennt er Namen von *Frank Ocean* und *Tyler, The Creator* bis hin zu klassischen britischen Indie-Bands. Finn ist der coole Typ auf der Party, der tatsächlich einen großartigen Musikgeschmack hat. Diese Veröffentlichung ist eine lebhafte, neonfarbene Sammlung von Tracks, die zwischen gefühlvollem Crooning und scharfem, rhythmischem Pop hin- und herspringen. Es ist jugendliche Energie, eingefangen in einer Flasche - spaßig, leicht rebellisch und unglaublich geschmeidig.
+
+::genre::alt pop, indie pop, alt r&b
+
 ## Fiona-Lee - Every Woman
 
 Ihre zweite EP, die auf das 2025 erschienene Debütalbum "Nothing Compares To Nineteen" folgt. **Indie-Rock**/**Pop** mit einem Gesang, der zum Kampf aufruft. Produziert von Thom Lewis (bekannt für seine Arbeit mit *Sam Fender*), ist der Sound roh und kompromisslos. Das ist Musik mit einer Mission. Fiona-Lee nutzt ihre Plattform, um Vergewaltigungskultur und sexuelle Übergriffe frontal anzugehen, und verwandelt Trauma in eine kraftvolle, bestätigende Hymne der Wut und zurückgewonnenen Macht. Es liegt schwer auf dem Herzen, ist aber lebenswichtig für die Ohren.
@@ -381,6 +387,12 @@ Bekannt als die weltweit einzigen **Glam-Punk**-Goth-Outlaws unter der Führung 
 Unter der Leitung des legendären Sängers *Johnny Gioeli* umfasst die aktuelle Besetzung italienische Veteranen wie *Alessandro Del Vecchio* und *Luca Princiotta*. Klassischer **Hard Rock** und **Melodic Metal**. Die Band hat sich bewusst zum Ziel gesetzt, die künstlerische DNA ihres Meisterwerks "Double Eclipse" aus dem Jahr 1992 einzufangen. Das ist das musikalische Äquivalent dazu, die Autofenster herunterzukurbeln und aus voller Kehle zu schreien. Es sind große Refrains, noch größere Riffs und null Interesse daran, das Rad neu zu erfinden - es geht einfach nur darum, dieses Rad sehr, sehr schnell drehen zu lassen.
 
 ::genre::hard rock, melo metal, heavy rock
+
+## Hebephrenique - Decathexis
+
+Eine aufstrebende Kraft in der Extreme-Metal-Underground-Szene, bekannt für die Auseinandersetzung mit Themen wie psychischem Zusammenbruch und klinischer Distanziertheit. **Dissonanter Blackened Death Metal**. Beeinflusst von technischen Meistern wie *Gorguts* und der chaotischen, gewalttätigen Theatralik von *Anaal Nathrakh*. Dies ist ein akustischer Angriff, der nicht nur um deine Aufmerksamkeit bittet - er reißt sie dir regelrecht aus der Seele. Er ist akribisch chaotisch, voller schwankender Taktarten und Gesang, der klingt wie ein psychotischer Zusammenbruch, der auf Band festgehalten wurde. Er ist furchterregend, brillant und definitiv nichts, was man kurz vor dem Schlafengehen hören sollte, es sei denn, man mag seine Träume zerklüftet und industriell.
+
+::genre::dissonant death metal, blackened death metal
 
 ## Hedvig Mollestad Weejuns - Bitches Blues
 
@@ -634,6 +646,12 @@ Dieses Projekt entstand aus der lebendigen Musikfestivalszene im Himalaya und so
 
 ::genre::psytrance, techno, acid house, edm
 
+## Manual - True Bypass
+
+Jonas Munk ist ein produktiver Multi-Instrumentalist und Produzent, der auch für seine Arbeit in der Psychedelic-Rock-Band *El Paraiso* und bei *Causa Sui* bekannt ist. **Ambient**, **IDM** und **Shoegaze**. Er kehrt zu seinen Wurzeln aus den frühen 2000er Jahren zurück und verbindet verträumte Synthesizerklänge mit sorgfältig programmierten elektronischen Beats und seinen charakteristischen, traumhaften Gitarrenlinien. Wenn du schon immer einmal hören wolltest, wie ein Computer klingt, der von einem Strand träumt, dann ist dies genau das Richtige. Es ist warm, nostalgisch und voller 40 Jahre alter, holzverkleideter Synthesizer, die dem Ganzen ein verschwommenes, analoges Herz verleihen. Es ist der perfekte Begleiter für die Arbeit spät in der Nacht oder eine Autofahrt an einem regnerischen Nachmittag, bei der du dich ein wenig außerhalb der Zeit fühlen möchtest.
+
+::genre::ambient, dreampop, idm, shoegaze
+
 ## Marta Sanchez - For the Space You Left
 
 Eine preisgekrönte Pianistin und Komponistin (2025 Downbeat Rising Star), bekannt für ihre komplexen, polyrhythmischen Quintettwerke. **Avantgarde-Jazz** und modernes kreatives Klavierspiel. Nennt vielfältige Einflüsse wie *Bach*, *Joni Mitchell* und den *Minimalismus*. Eine zutiefst persönliche klangliche Erzählung der Einsamkeit. Durch die Verwendung sanfter Materialien wie Papier und Blu-Tack zur Vorbereitung des Klaviers schafft Sánchez eine intensive innere Welt aus obsessiven Zyklen und Verletzlichkeit. Es ist zart, experimentell und unglaublich bewegend - ein stilles Meisterwerk des modernen Jazz.
@@ -652,11 +670,11 @@ Eine Heavy-Metal-Supergroup mit Veteranen von *Voivod*, *Crowbar*, *Crisis* und 
 
 ::genre::crust, industrial metal, avant metal, post metal
 
-## Matt Corby - Tragic Magic
+## Mia Doi Todd - Human Experience
 
-Corby ist ein mehrfacher ARIA-Award-Gewinner, der sich von einem Teilnehmer einer TV-Gesangs-Castingshow zu einem angesehenen Multi-Instrumentalisten und Produzenten entwickelt hat. Dies ist sein viertes Studioalbum. Eine gefühlvolle Mischung aus **Alternative Rock**, Motown-inspiriertem **Pop** und **Indie-Folk**. Diese zutiefst persönliche und von der Seele durchdrungene Platte vermittelt das Gefühl, als hätte Corby durch seine Vaterschaft sein Denken neu ausgerichtet. Sie ist groovig, nachdenklich und stellt diese unverwechselbare Stimme in den Mittelpunkt - perfekt für einen regnerischen Nachmittag oder eine lange, besinnliche Autofahrt.
+Eine klassisch ausgebildete Sängerin und Komponistin, die seit Ende der 90er Jahre für ihren feinfühligen, poetischen Ansatz in der Folk- und Indie-Musik bekannt ist. **Bossa Nova**, meditativer **Folk** und **Chamber Pop**. Ihr Sound ist stark von der brasilianischen Tropicalia und der introspektiven Natur der Zen-Meditation geprägt. Dieses Album fühlt sich an wie ein Sonnenuntergang über dem Pazifik in Zeitlupe. Es ist eine üppige, tropische Reise, bei der jede Note mit chirurgischer Präzision platziert ist, sich aber so organisch anfühlt wie ein Garten. Es ist heilende Musik für Menschen, die auch bei der Entspannung noch ein wenig komplexes Songwriting mögen - man kann es als Meisterklasse darin betrachten, wie man gleichzeitig zerbrechlich und unglaublich kraftvoll klingen kann.
 
-::genre::indie folk, soul, alt rock
+::genre::chamber pop, bossa nova, alt folk, world music
 
 ## Michael Jones - The Promise of Escape
 
@@ -693,6 +711,12 @@ Die Band, die in der Zeit nach der Pandemie als Trio gegründet wurde, strebt ei
 Das Projekt, das sich durch den unverwechselbaren Gesangsstil von *Penelope Matamoros* auszeichnet, beschäftigt sich mit Themen der Selbstreflexion und den schwierigeren Aspekten menschlicher Emotionen. **Doom**-beeinflusster **Black Metal**. Er verbindet die langsamen, schweren Tempi des Doom mit der rauen, aggressiven Schärfe des Black Metal, um eine düstere Atmosphäre zu schaffen. Die Musik ist zutiefst melancholisch und langsam. Sie fängt ein Gefühl tiefer Isolation und Dunkelheit ein und ist damit ideal für alle, die Musik schätzen, die tiefe, introspektive Stimmungen erkundet.
 
 ::genre::blackened doom metal, post black metal
+
+## Multicast Dynamics - Circles
+
+*Van Dijk* ist ein vielseitiger Künstler, der auch unter den Pseudonymen *VC-118A* (Techno) und *Mohlao* (Dub-Techno) produziert. Immersiver **Ambient/Drone**. Im Mittelpunkt stehen detailliertes Sounddesign, eine dunstige Ästhetik und ökologisch vertretbare Klanglandschaften. Dies ist Musik für das tiefe Unterbewusstsein. Es ist fast eine Stunde voller fließender, sich wandelnder Texturen, die sich fast feucht anfühlen. Es ist die perfekte klangliche Begleitung zum Sternegucken oder einfach nur, um sich von einer lauten Welt abzukoppeln. Es spielt nicht einfach nur; es entfaltet sich.
+
+::genre::ambient, drone, experimental electronica
 
 ## Mylingar - Út
 
@@ -772,11 +796,23 @@ Eine neue Größe in der Hardcore-Szene der Westküste, bekannt für ihren rasan
 
 ::genre::crossover, metallic hardcore, hardcore punk
 
+## Prince Daddy & the Hyena - Hotwire Trip Switch
+
+Gegründet im Jahr 2014, inspiriert von einer Folge der Serie *Rozwell Kids*, sind sie mittlerweile aus der Indie-/Emo-Szene nicht mehr wegzudenken. **Indie/Emo/Punk**. Ihr Sound ist stark geprägt von der schwindelerregenden Energie von *Green Day* (Nimrod-Ära), den schrägen Hooks von *Weezer* (Blue Album) und der Dringlichkeit von *Jeff Rosenstock*. Ein chaotischer, auf Singles ausgerichteter Adrenalinstoß. Es ist frech, laut und unglaublich eingängig und klingt wie eine Verfolgungsjagd mit hoher Geschwindigkeit durch ein Vorstadtviertel. Es ist ihr bisher fokussiertestes Werk und beweist, dass man erwachsen werden kann, ohne seinen explosionsgefährdeten Punk-Spirit zu verlieren.
+
+::genre::power pop, indie rock, emocore
+
 ## Protoje - The Art of Acceptance
 
 *Protoje* ist ein Pionier der "Reggae Revival"-Bewegung und ein für den Grammy nominierter Künstler, der die Grenzen des Genres immer wieder neu definiert hat. **Moderner Reggae** und **Roots** Revival. Sein Stil zeichnet sich durch eine kraftvolle Reggae-Instrumentierung aus, die von Ikonen der 90er Jahre inspiriert ist, mit Anklängen von **Hip-Hop** und **Soul**. Dies ist eine gefühlvolle Reise, die heilt und tröstet. Es ist warm, bewusst und spirituell geerdet und präsentiert Schwergewichte wie *Damian* und *Stephen Marley*. Es klingt wie ein Sonnenuntergang über Kingston - zeitlos, kraftvoll und bei wiederholtem Hören zutiefst bereichernd.
 
 ::genre::reggae, neo soul, dancehall
+
+## Ragnhild Hemsing, Mathias Eick, Steinar Raknes, Terje Isungset - Unbound
+
+Eine Supergroup norwegischer Stars. *Hemsing* ist ein renommierter Geiger für Klassik und Volksmusik; *Eick* ist ein gefeierter Jazztrompeter (ECM Records); *Raknes* ist Kontrabassist; und *Isungset* ist bekannt für seine Ice Music und sein Schlagzeugspiel. Klassischer **Crossover** und **Jazz**. Hier verschmelzen traditionelle norwegische Volksmusik (die Hardangerfiedel) mit atmosphärischem Jazz und improvisierten Klangtexturen. So klingt es, wenn die Nordlichter beschließen, eine Jazzband zu gründen. In einem Moment ist es mitreißend rhythmisch, im nächsten eindringlich filmisch. Wenn Sie das Gefühl haben möchten, bei Tagesanbruch mit einer Tasse exquisiten Kaffees an einem Fjord zu stehen, ist dies Ihr Soundtrack.
+
+::genre::jazz fusion, nothern folk, crossover, atmo jazz
 
 ## Raid2 - Uncorrect
 
@@ -1142,6 +1178,12 @@ Eine Zusammenarbeit mit Paul Wolinski von der renommierten Noise-Band *65daysofs
 
 ::genre::dark ambient, dub, avant electronica, deep house
 
+## Crystal Murray - Anatomy of a Cry
+
+Als Tochter des Jazz-Saxophonisten *David Murray* wuchs sie inmitten von Gospel und Improvisation auf. **Alt-Pop**, der **Trip-Hop**-Schatten mit **Neo-Soul**-Wärme und **experimenteller Elektronik** verschmelzen lässt. Diese EP entstand aus einem Moment unwillkürlicher Tränen bei einer Symphonie und behandelt Emotionen wie eine physische, mathematisch exakte Wissenschaft. Sie ist zutiefst intim und verletzlich und bewegt sich von schwermütigen emotionalen Strömungen hin zu kraftvollen Club-Beats. Im Grunde ist es eine klangliche Umarmung, die einen gelegentlich auf die Tanzfläche zieht, um die Tränen zu trocknen.
+
+::genre::alt pop, trip hop, neo soul, avant pop
+
 ## DREAMSCAPES - Tales of a Wanderer *
 
 Ein in London ansässiges Sextett unter der Leitung des Gitarristen und Komponisten *Julien Durand*. Mit dabei ist die Sängerin Lucy-Anne Daniels sowie ein komplettes Ensemble mit Flöte, Saxophon, Keyboard, Bass und Percussion. **Ambient-Jazz-Fusion** und **Nu-Jazz**. Die Kompositionen sind stark von Durands Zusammenarbeit in Brasilien mit Legenden wie Toninho Horta und Guinga geprägt und verbinden spontane **Improvisation** mit einem **zeitgenössischen Kammermusik**-Flair. Dieses Album ist wie ein First-Class-Ticket in eine üppige, jazzgefüllte Traumwelt ohne Jetlag. Es ist raffiniert, luftig und zutiefst gefühlvoll. Lucy-Anne Daniels’ Gesang schwebt über brasilianisch inspirierten Rhythmen wie eine warme Brise durch einen Londoner Park. Wenn Sie sich schon immer einmal wie die Hauptfigur eines stimmungsvollen, hochkarätigen Indie-Films fühlen wollten, während Sie zum Supermarkt spazieren, dann ist dies Ihr Soundtrack.
@@ -1166,6 +1208,12 @@ Als etablierte Komponistin und Elektronik-Produzentin hat sie intensiv an Soundt
 
 ::genre::avant electronica
 
+## Heyoon - Seriously Unserious
+
+*HEYOON* erlangte weltweite Bekanntheit durch das Pop-Kollektiv *Now United*, bevor er mit dem viralen Hit "Pivot" seine Solokarriere startete. Eine energiegeladene Mischung aus **Elektropop** und **Clubmusik**. Diese EP hält genau das, was sie verspricht: eine neonfarbene Tanzparty, die das Leben nicht allzu ernst nimmt. Der Titelsong "Swipe" (featuring den brasilianischen Künstler Lou Garcia) ist ein kaleidoskopischer Bop, der für die Tanzfläche gemacht ist. Wenn du einen Soundtrack für einen Abend in der Stadt brauchst - oder einfach nur für eine Tanzparty im Schlafzimmer -, dann ist das genau das Richtige.
+
+::genre::electropop, edm, disco
+
 ## Ildfar - Der Ligger Et Land
 
 Reiner, kalter norwegischer **Black Metal**. Er tendiert zu einer eher mittelschnellen Atmosphäre, die nicht jedermanns Sache ist und den düsteren Geist des Genres einfängt. Dies ist das vierte Album der Band in voller Länge. Wenn ein gefrorener Wald schreien könnte, würde er so klingen. Es hat diesen klassischen Norsk-Biss - kompromisslos, düster und getränkt in schattenhafte "Natteskygger" (Nacht-Schatten). Es ist das musikalische Äquivalent eines Schneesturms, der dir ins Gesicht peitscht, während du auf einen Berg starrst.
@@ -1189,6 +1237,12 @@ Die 2009 gegründete Band besteht aus Sänger und Gitarrist Chad Barnard, Leadgi
 Der ehemalige Buchhalter, der sich zum weltberühmten Superstar-DJ gewandelt hat, präsentiert seinen charakteristischen **House**- und **Tech-House**-Sound, der nun von weiteren Einflüssen wie Bass und alternativer Elektronik geprägt ist. Das Album, das am Tax-Day als augenzwinkernde Anspielung auf sein früheres Leben am Schreibtisch veröffentlicht wurde, ist die ultimative "Ich kündige"-Hymne. Es ist energiegeladen, clubtauglich und darauf ausgelegt, dich deine Tabellenkalkulationen vergessen zu lassen. Von viralen TikTok-Hits bis hin zu tiefen, treibenden Warehouse-Beats - *Summit* führt offiziell die Fluchtgeschwindigkeit der Buchhalter an.
 
 ::genre::scid house, techno, deep house
+
+## Matt Corby - Tragic Magic
+
+Corby ist ein mehrfacher ARIA-Award-Gewinner, der sich von einem Teilnehmer einer TV-Gesangs-Castingshow zu einem angesehenen Multi-Instrumentalisten und Produzenten entwickelt hat. Dies ist sein viertes Studioalbum. Eine gefühlvolle Mischung aus **Alternative Rock**, Motown-inspiriertem **Pop** und **Indie-Folk**. Diese zutiefst persönliche und von der Seele durchdrungene Platte vermittelt das Gefühl, als hätte Corby durch seine Vaterschaft sein Denken neu ausgerichtet. Sie ist groovig, nachdenklich und stellt diese unverwechselbare Stimme in den Mittelpunkt - perfekt für einen regnerischen Nachmittag oder eine lange, besinnliche Autofahrt.
+
+::genre::indie folk, soul, alt rock
 
 ## Midwinter - A Love I Hope Will Haunt Me Forever
 
