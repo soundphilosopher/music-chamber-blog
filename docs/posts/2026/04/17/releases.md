@@ -202,7 +202,7 @@ Ein legendäres Comeback mit drei Gründungsmitgliedern (Jon Drenning, Ben Jacks
 
 ::genre::power metal, prog metal
 
-## Crippled Black Phoenix - Sceaduheim *
+## Crippled Black Phoenix - Sceaduhelm *
 
 Dieses sich ständig weiterentwickelnde Kollektiv, das seit über zwei Jahrzehnten vom Multi-Instrumentalisten Justin Greaves geleitet wird, ist bekannt für sein emotional intensives und genreübergreifendes Repertoire. **Post-Rock** / **Progressive Rock** / **Macabre Rock**. Die Einflüsse reichen von *Pink Floyd* bis *Chelsea Wolfe*. Der Titel stammt aus Beowulf und bezieht sich auf einen Schattenhelm oder die alles verhüllende Dunkelheit. Es ist eine strenge, nach innen gerichtete Reise durch Burnout und emotionale Erosion. Das Album baut sich langsam auf, bleibt ungelöst und fängt perfekt das Gefühl ein, um 4 Uhr morgens an die Decke zu starren und sich zu fragen, wo alles schiefgelaufen ist.
 

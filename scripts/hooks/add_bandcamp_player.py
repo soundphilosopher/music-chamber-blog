@@ -245,7 +245,8 @@ def _collect_bandcamp_information(h2: Tag, session: Session) -> BandcampInfo | N
     artists, title = heading_text.split(" - ", 1)
     artists = [a.strip() for a in artists.split(",")]
 
-    search_query = title if ", " in heading_text else heading_text
+    # search_query = title if ", " in heading_text else heading_text
+    search_query = heading_text
 
     results = _search_bandcamp(search_query=search_query, session=session)
     log.debug("Found %d results for %s", len(results), heading_text)
