@@ -16,7 +16,6 @@ Only pages whose source path ends with ``releases.md`` **and** whose
 front-matter contains ``bandcamp: true`` are processed — regular
 weekly posts are left untouched.
 """
-from IPython.lib.deepreload import original_import
 
 import logging
 import time
@@ -28,7 +27,6 @@ from random import uniform
 from bs4 import BeautifulSoup, Tag
 from curl_cffi.requests import Session
 from curl_cffi.requests.exceptions import RequestException
-from markdown.extensions.toc import slugify
 from mkdocs.config import Config
 from mkdocs.structure import files, pages
 
@@ -382,7 +380,7 @@ def on_page_content(html: str, page: pages.Page, config: Config, files: files.Fi
     if not headings:
         return html
 
-    embedding_failed = 0;
+    embedding_failed = 0
     embedding_total = len(headings)
 
     # Reuse a single session for all requests on this page to benefit

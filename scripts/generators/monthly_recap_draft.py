@@ -23,7 +23,6 @@ from pathlib import Path
 from typing import Any
 
 from bs4 import BeautifulSoup
-from bs4.element import NavigableString
 
 from utils.genres import GENRE_TAG_PATTERN, GENRE_TAG_PREFIX, normalize_genre_names
 

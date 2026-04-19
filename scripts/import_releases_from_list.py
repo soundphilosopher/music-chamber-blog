@@ -18,15 +18,12 @@ Args:
 Example:
     python import_releases.py -d 2026-03-06 -f scripts/raw/releases.txt
 """
-from typing import Optional, Any
-from pygments.lexers.ml import OpaLexer
 
 import argparse
 import logging
 import re
 import markdown
 import mkdocs_gen_files
-import html_to_markdown
 
 from dataclasses import dataclass
 from datetime import date
@@ -388,7 +385,7 @@ def _build_statistics(mkdocs_file_path: Path, incoming: list[ReleaseCollection],
     total_existing_with_review = sum(1 for collection in existing for release in collection.releases if release.review and release.review.lower() != "tbd")
 
     # count all release.genres entries in existing that are not empty
-    total_existing_with_genres = sum(1 for collection in existing for release in collection.releases if release.genres)
+    _total_existing_with_genres = sum(1 for collection in existing for release in collection.releases if release.genres)
 
     # count releases by release.date (only IncomingRelease has a date attribute)
     total_incoming_by_date: dict[date, int] = {}
