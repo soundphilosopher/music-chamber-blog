@@ -19,12 +19,10 @@ weekly posts are left untouched.
 
 import logging
 import time
-import re
 
 from dataclasses import dataclass
 from typing import Any
 from random import uniform
-from datetime import date, datetime, timedelta
 from difflib import SequenceMatcher
 
 from bs4 import BeautifulSoup, Tag
@@ -40,10 +38,6 @@ log = logging.getLogger("mkdocs.hooks.add_bandcamp_player")
 # ---------------------------------------------------------------------------
 # Constants
 # ---------------------------------------------------------------------------
-
-# Tune these together if edge-cases arise:
-_SUBSTR_MIN_LEN: int = 4    # don't substring-match names shorter than this
-_SUBSTR_MIN_RATIO: float = 0.65  # shorter must be >= 65% of longer's length
 
 BANDCAMP_FUZZY_SEARCH_URL = "https://bandcamp.com/api/fuzzysearch/2/app_autocomplete"
 """Bandcamp autocomplete endpoint used to look up albums by name."""
@@ -71,6 +65,20 @@ PLAYER_BG_COLOR_DARK = "333333"
 
 PLAYER_LINK_COLOR_DARK = "0f91ff"
 """Hex link color passed to the Bandcamp embed player for dark mode."""
+
+# ---------------------------------------------------------------------------
+# Matching tunables
+# ---------------------------------------------------------------------------
+
+_SUBSTR_MIN_LEN: int = 4
+"""Minimum character length before substring matching is attempted.
+Prevents single-syllable names like ``"da"`` from matching ``"dadada"``."""
+
+_SUBSTR_MIN_RATIO: float = 0.65
+"""Minimum ratio of shorter/longer string length for a substring match.
+Ensures the substring covers a meaningful portion of the candidate
+(e.g. ``"jinsookim"`` / ``"jinsookimjskm"`` ≈ 0.69 — passes;
+``"da"`` / ``"dadada"`` ≈ 0.33 — rejected)."""
 
 
 # ---------------------------------------------------------------------------
@@ -100,6 +108,8 @@ class BandcampInfo:
 # ---------------------------------------------------------------------------
 # Internal helpers
 # ---------------------------------------------------------------------------
+
+
 def _normalize(text: str) -> str:
     """Return *text* lowercased with every non-alphanumeric character removed."""
     return "".join(c.lower() for c in text if c.isalnum())
@@ -108,8 +118,10 @@ def _normalize(text: str) -> str:
 def _split_artist_string(raw: str) -> list[str]:
     """Split *raw* on common multi-artist separators and return normalised names.
 
-    Handles ``&``, ``+``, ``/``, ``vs``, ``feat``, and ``ft`` variants so that
-    any combination of separators used by Bandcamp is covered.
+    Deliberately does **not** split on ``"and"`` because that word appears
+    inside many legitimate band names (e.g. *Of Monsters and Men*).
+    The ``"and"`` connector case is handled by the combined-string check
+    in :func:`_lookup_bandcamp_album`.
     """
     for sep in (" vs. ", " vs ", " feat. ", " feat ", " ft. ", " ft ", "&", "+", "/"):
         raw = raw.replace(sep, ",")
@@ -119,45 +131,41 @@ def _split_artist_string(raw: str) -> list[str]:
 def _artist_match(query: str, candidate: str) -> bool:
     """Return ``True`` when *query* and *candidate* refer to the same artist.
 
-    Matching is intentionally loose to handle:
+    Three checks in order:
 
-    * Aliases / parenthetical suffixes — e.g. ``"jinsookim"`` inside
-      ``"jinsoukimjskm"`` (substring check).
-    * Minor spelling variations — handled by a
-      :class:`~difflib.SequenceMatcher` similarity ratio of ≥ 0.85.
+    1. Exact normalised equality.
+    2. Substring — the shorter string must be at least :data:`_SUBSTR_MIN_LEN`
+       characters long **and** cover at least :data:`_SUBSTR_MIN_RATIO` of the
+       longer string's length.  This catches ``"Jin Soo Kim"`` inside
+       ``"Jin Soo Kim (JSKM)"`` while rejecting ``"da"`` inside ``"dadada"``.
+    3. :class:`~difflib.SequenceMatcher` similarity ≥ 0.85 for minor
+       spelling variations.
     """
     if not query or not candidate:
-            return False
-
+        return False
     if query == candidate:
         return True
-
     shorter, longer = (
         (query, candidate) if len(query) <= len(candidate) else (candidate, query)
     )
-    # Substring guard: covers "Jin Soo Kim" ⊆ "Jin Soo Kim (JSKM)", but the
-    # shorter token must be substantive AND cover ≥ 65 % of the longer one to
-    # prevent "da" ⊆ "dadada" style false positives.
     if (
         len(shorter) >= _SUBSTR_MIN_LEN
         and shorter in longer
         and len(shorter) / len(longer) >= _SUBSTR_MIN_RATIO
     ):
         return True
-
     return SequenceMatcher(None, query, candidate).ratio() >= 0.85
 
 
 def _search_bandcamp(search_query: str, session: Session) -> list[Any]:
     """Query the Bandcamp fuzzy-search API for albums matching *search_query*.
 
-    Filters raw results to only those whose ``type`` is ``"a"`` (album)
-    and whose ``name`` slug-matches *search_query* exactly.  Retries up to
-    :data:`MAX_RETRIES` times when the API responds with HTTP 429, and
-    honours the ``Retry-After`` response header when present.
+    Filters raw results to only those whose ``type`` is ``"a"`` (album).
+    Retries up to :data:`MAX_RETRIES` times when the API responds with
+    HTTP 429, and honours the ``Retry-After`` response header when present.
 
     Args:
-        search_query: The album title to look up (without artist prefix).
+        search_query: The search string sent to the Bandcamp autocomplete API.
         session: A :class:`~curl_cffi.requests.Session` to reuse across calls.
 
     Returns:
@@ -206,62 +214,86 @@ def _search_bandcamp(search_query: str, session: Session) -> list[Any]:
 def _lookup_bandcamp_album(artists: list[str], title: str, result: Any, session: Session) -> bool:
     """Verify that *result* is an album by one of *artists* via the Bandcamp mobile API.
 
-    Matching is performed in two stages:
+    Matching runs through a **title check** and a **three-pass artist check**
+    before the network sanity call is ever made.
 
-    1. **Title check** — the normalised query title is compared against the
-       title extracted from the result's ``name`` field using exact, substring,
-       and :class:`~difflib.SequenceMatcher` similarity (≥ 0.85) checks.
-    2. **Artist check** — at least one query artist must loosely match an
-       artist derived from the result's ``band_name`` field *or* from the
-       left-hand segment of ``name`` when it follows an ``"Artist - Album"``
-       pattern (label-hosted releases).
+    **Title check**
+        The normalised query title must equal, substring-match (with length
+        ratio guard), or be similar (≥ 0.85 via
+        :class:`~difflib.SequenceMatcher`) to the album title extracted from
+        the result's ``name`` field.
 
-    Retries up to :data:`MAX_RETRIES` times on HTTP 429 and aborts
-    immediately if all retries are exhausted.
+    **Artist check — Pass 1 (band_name, split + full)**
+        ``band_name`` is split on common separators; the full unsplit
+        normalised ``band_name`` is also included as a candidate.  Any one
+        query artist matching any one candidate is sufficient.  The full form
+        handles names where ``&`` is part of the name rather than a separator
+        (e.g. *Prince Daddy & the Hyena*).
+
+    **Artist check — Pass 2 (band_name, combined)**
+        For multi-artist queries, all query artists must appear as substrings
+        of the raw (un-split) ``band_name``.  Handles ``"and"`` connectors
+        that are unsafe to split on globally.
+
+    **Artist check — Pass 3 (label-release fallback)**
+        Only entered when Passes 1 and 2 both fail (``band_name`` is likely a
+        record-label name rather than the artist).  The ``name`` field must
+        follow the ``"Artist - Album"`` format, the artist segment must differ
+        from the title segment (prevents self-titled albums from creating a
+        false loop), and **all** query artists must be matched from the
+        name-prefix.  Accepting only a partial match here is what lets
+        unrelated results slip through.
 
     Args:
-        artists: List of artist names to match against the result.
-        title: Album title to match against the result.
+        artists: List of artist names parsed from the heading.
+        title: Album title parsed from the heading.
         result: A raw Bandcamp search result dict (from :func:`_search_bandcamp`).
         session: A :class:`~curl_cffi.requests.Session` to reuse across calls.
 
     Returns:
-        ``True`` if the album matches one of *artists* and is accessible,
+        ``True`` if the result matches and the album is accessible,
         ``False`` otherwise.
     """
-    # --- Normalise query side ---
+    # ------------------------------------------------------------------ #
+    # Normalise query side                                                 #
+    # ------------------------------------------------------------------ #
     normalized_query_artists: list[str] = [_normalize(a) for a in artists]
     normalized_query_title: str = _normalize(title)
 
-    # --- Collect candidate artists from the result ---
-    # Source 1: band_name (the credited artist / label on Bandcamp)
-    result_artists: list[str] = _split_artist_string(result.get("band_name", ""))
+    # ------------------------------------------------------------------ #
+    # Collect from result                                                  #
+    # ------------------------------------------------------------------ #
 
-    # Source 2: name field — when a *label* lists the release, Bandcamp stores
-    # "Artist - Album" inside name and the label name inside band_name.
-    # Split on the first " - " and treat the left segment as additional artist
-    # candidates; the right segment is the true album title.
+    # Build result_artists from two sources so that & inside a band name
+    # (e.g. "Prince Daddy & the Hyena") and & as a separator between
+    # multiple artists (e.g. "Joseph Branciforte & Jozef Dumoulin") are
+    # both handled:
+    #   • split form  → individual artist names when & is a separator
+    #   • full form   → whole normalised name when & is part of the name
+    band_name_raw: str = result.get("band_name", "")
+    result_artists: list[str] = _split_artist_string(band_name_raw)
+    _full_band: str = _normalize(band_name_raw)
+    if _full_band not in result_artists:
+        result_artists = result_artists + [_full_band]
+
+    # The name field is split here for both the title check and the
+    # label-release fallback (Pass 3).
     result_name_raw: str = result.get("name", "")
     result_name_parts: list[str] = result_name_raw.split(" - ", 1)
     result_name_title: str = _normalize(result_name_parts[-1])
-    result_name_artists: list[str] = (
-        _split_artist_string(result_name_parts[0])
-        if len(result_name_parts) > 1
-        else []
-    )
-    all_result_artists: list[str] = result_artists + result_name_artists
 
-    # --- Title check ---
-    # The query title must loosely match the album title extracted from the result.
-    _shorter_title, _longer_title = (
-            (normalized_query_title, result_name_title)
-            if len(normalized_query_title) <= len(result_name_title)
-            else (result_name_title, normalized_query_title)
-        )
-    _title_substr_ok = (
-        len(_shorter_title) >= _SUBSTR_MIN_LEN
-        and _shorter_title in _longer_title
-        and len(_shorter_title) / len(_longer_title) >= _SUBSTR_MIN_RATIO
+    # ------------------------------------------------------------------ #
+    # Title check                                                          #
+    # ------------------------------------------------------------------ #
+    _shorter_t, _longer_t = (
+        (normalized_query_title, result_name_title)
+        if len(normalized_query_title) <= len(result_name_title)
+        else (result_name_title, normalized_query_title)
+    )
+    _title_substr_ok: bool = (
+        len(_shorter_t) >= _SUBSTR_MIN_LEN
+        and _shorter_t in _longer_t
+        and len(_shorter_t) / len(_longer_t) >= _SUBSTR_MIN_RATIO
     )
     title_matched: bool = (
         normalized_query_title == result_name_title
@@ -276,46 +308,70 @@ def _lookup_bandcamp_album(artists: list[str], title: str, result: Any, session:
         )
         return False
 
-    # --- Artist check ---
-    # At least one query artist must loosely match at least one result artist.
-    artist_matched: bool = any(
-        any(_artist_match(qa, ra) for ra in all_result_artists)
+    # ------------------------------------------------------------------ #
+    # Artist check — three independent passes                              #
+    # ------------------------------------------------------------------ #
+
+    # Pass 1: split + full band_name — any one query artist suffices.
+    band_name_match: bool = any(
+        any(_artist_match(qa, ra) for ra in result_artists)
         for qa in normalized_query_artists
     )
 
-    # Multi-artist fallback: for releases with several credited artists,
-    # also test whether every query artist appears as a substring inside the
-    # combined (un-split) band_name or name-prefix string.
-    # This handles connectors like "and" that are unsafe to split on globally
-    # (e.g. "Of Monsters and Men") but fine to treat as a separator when we
-    # already know there are multiple distinct artists in the query.
-    if not artist_matched and len(normalized_query_artists) > 1:
-        combined_sources = [_normalize(result.get("band_name", ""))]
-        if len(result_name_parts) > 1:
-            combined_sources.append(_normalize(result_name_parts[0]))
+    # Pass 2: raw combined band_name — for multi-artist releases whose
+    # artists are joined by "and" or similar connectors that are unsafe to
+    # split on globally (e.g. "Of Monsters and Men & Someone Else").
+    # Requires ALL query artists to be substrings of the combined string.
+    combined_band_match: bool = False
+    if not band_name_match and len(normalized_query_artists) > 1:
+        combined_band = _normalize(band_name_raw)
+        combined_band_match = all(
+            len(qa) >= _SUBSTR_MIN_LEN and qa in combined_band
+            for qa in normalized_query_artists
+        )
 
-        artist_matched = any(
-            all(
-                len(qa) >= _SUBSTR_MIN_LEN and qa in source
+    # Pass 3: label-release fallback — artists extracted from the left
+    # segment of a "Artist - Album" name field, used only when band_name
+    # matched nothing (i.e. it is likely a record label).
+    #
+    # Two guards prevent the false positives that motivated removing this
+    # pass earlier:
+    #   • artist segment ≠ title segment  →  rejects self-titled albums
+    #     like "Evil Warriors - Evil Warriors" where the name-prefix
+    #     "evilwarriors" would otherwise match the query artist.
+    #   • all()  →  a partial match (one of four artists) is not enough;
+    #     only a full listing of all credited artists in the name field
+    #     is accepted.
+    label_release_match: bool = False
+    if not band_name_match and not combined_band_match and len(result_name_parts) > 1:
+        result_name_artists: list[str] = _split_artist_string(result_name_parts[0])
+        name_prefix_normalized: str = _normalize(result_name_parts[0])
+
+        artist_segment_differs_from_title: bool = name_prefix_normalized != result_name_title
+
+        if artist_segment_differs_from_title and result_name_artists:
+            label_release_match = all(
+                any(_artist_match(qa, ra) for ra in result_name_artists)
                 for qa in normalized_query_artists
             )
-            for source in combined_sources
+
+    artist_matched: bool = band_name_match or combined_band_match or label_release_match
+
+    if not artist_matched:
+        log.debug(
+            "(LOOKUP): Artist mismatch — query_artists=%r, band_name=%r",
+            normalized_query_artists, band_name_raw,
         )
-        if artist_matched:
-            log.debug(
-                "(LOOKUP): Multi-artist substring match — query_artists=%r matched in %r",
-                normalized_query_artists,
-                result.get("band_name", ""),
-            )
+        return False
 
     log.debug(
-        "(LOOKUP): Candidate matched — query=%r / %r, result band=%r, name=%r",
-        artists, title,
-        result.get("band_name", ""),
-        result_name_raw,
+        "(LOOKUP): Candidate accepted — query=%r / %r, band=%r, name=%r",
+        artists, title, band_name_raw, result_name_raw,
     )
 
-    # --- Sanity-check the album via the mobile API ---
+    # ------------------------------------------------------------------ #
+    # API sanity check — only reached when title and artist both match     #
+    # ------------------------------------------------------------------ #
     params = {
         "band_id": result.get("band_id"),
         "tralbum_id": result.get("id"),
@@ -371,13 +427,20 @@ def _collect_bandcamp_information(h2: Tag, session: Session) -> BandcampInfo | N
     artists, title = heading_text.split(" - ", 1)
     artists = [a.strip() for a in artists.split(",")]
 
-    search_query = title if ", " in heading_text else heading_text
+    # Multi-artist releases are searched by title only because Bandcamp
+    # may credit them under a combined name that differs from the heading.
+    # Single-artist releases use the full "Artist - Title" heading so the
+    # search is already targeted.
+    search_query = title if len(artists) > 1 else heading_text
     results = _search_bandcamp(search_query=search_query, session=session)
-    log.debug("Found %d results for %s", len(results), heading_text)
+    log.debug("Found %d results for %r", len(results), search_query)
 
     for result in results:
         if _lookup_bandcamp_album(artists=artists, title=title, result=result, session=session):
-            log.debug("Found Bandcamp album %r for %s after lookup", result.get("name"), heading_text)
+            log.debug(
+                "(COLLECT): Matched %r for heading %r",
+                result.get("name"), heading_text,
+            )
             return BandcampInfo(
                 album_id=result.get("id"),
                 album_name=result.get("name"),
@@ -386,8 +449,7 @@ def _collect_bandcamp_information(h2: Tag, session: Session) -> BandcampInfo | N
                 album_url=result.get("url"),
             )
 
-    # Use %-style formatting for consistency with the rest of the module.
-    log.debug("Cannot find Bandcamp album for %r", heading_text)
+    log.debug("(COLLECT): Cannot find Bandcamp album for %r", heading_text)
     return None
 
 
