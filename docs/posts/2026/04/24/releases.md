@@ -938,12 +938,6 @@ tbd
 
 ::genre::
 
-## Afroman - Freedom of Speech
-
-tbd
-
-::genre::
-
 ## Akon - Beautiful Day
 
 tbd
@@ -976,15 +970,15 @@ tbd
 
 ## Carcerous - Doomsday Factory
 
-tbd
+Ein 2023 gegründetes Extreme-Metal-Quartett mit Mitgliedern wie Konstantin Milev und Ivan Kozarev. Die Band verbindet **Black** und **Death Metal** mit Elementen aus **Thrash** und **Doom**. "Doomsday Factory" ist ihr Debütalbum in voller Länge. Dies ist der Soundtrack zum Weltuntergang in Zeitlupe. Es ist Feuer und Zorn, ohne dass Rettung in Sicht ist. Wenn du deinen Metal ultra-tight, düster und so heavy magst, dass er den Asphalt sprengt, ist dieser bulgarische Export deine neue Lieblings-Weltuntergangs-Uhr.
 
-::genre::
+::genre::blackened death metal, blackened doom metal, blackened thrash metal
 
 ## Dallas Good and Richard Reed Parry - Were The Watchtowers
 
-tbd
+Dieses Projekt, das ursprünglich den Titel "The Watchtowers" trug, wurde über einen Zeitraum von zehn Jahren nach und nach an freien Wochenenden aufgenommen. Es zeichnet sich durch einen **kosmischen, psychedelischen Americana** Sound aus und enthält Gastauftritte von Künstlern wie *Neko Case* und *Kurt Vile*. Dieses Projekt wurde über einen Zeitraum von zehn Jahren nach und nach geschrieben und aufgenommen, wann immer die beiden ein freies Wochenende hatten. Es handelt sich um die letzten Aufnahmen von *Dallas Good* vor seinem Tod im Jahr 2022. Stellt euch ein Lagerfeuer am Rande des Universums vor. Es ist eindringlich, staubig und wunderschön, mit Gastauftritten von Größen wie Neko Case, Kurt Vile und sogar Margaret Atwood. Der letzte Titel enthält einen Chor aus über 500 Freunden und Fans, was ihn zu einem herzzerreißenden, aber freudigen Abschied von einer Gitarrenlegende macht.
 
-::genre::
+::genre::psych folk, country folk, americana
 
 ## Dionée - Mille-feuilles
 
@@ -994,23 +988,11 @@ tbd
 
 ## doPE - no country for old men
 
-tbd
+Ein Super-Duo mit Chuck D (dem legendären Frontmann von *Public Enemy*) und John Densmore (dem ikonischen Schlagzeuger von *The Doors*). Die Musik ist eine kraftvolle Mischung aus **Hip-Hop**, jazzigem Schlagzeugspiel und gesellschaftskritischen Texten. Hier trifft **Boom-Bap** auf den Rhythmus des *Lizard King*. Es ist rau, politisch und schlägt eine Brücke zwischen Generationen der Rebellion. Mit Chuck Ds dröhnender Autorität über Densmores legendärem **Swing** ist es das musikalische Äquivalent eines Protestmarsches durch einen Jazzclub. Die Single "Every Tick Tick Tick" wurde sogar zum RSD 2026 Song of the Year gekürt.
 
-::genre::
+::genre::boom bop, hip hop, prog hip hop
 
 ## Dorian Electra - Dorian Electra
-
-tbd
-
-::genre::
-
-## Gary Marks - Crossroads
-
-tbd
-
-::genre::
-
-## John Coltrane - Tiberi Tapes
 
 tbd
 
@@ -1024,15 +1006,15 @@ tbd
 
 ## Kõdu - Kirjad Sõgedate Külast
 
-tbd
+Als aufstrebende Kraft in der estnischen Underground-Szene konzentriert sich *Kõdu* auf die düsteren literarischen Traditionen ihrer Heimat. Narrativer **Black Metal**. Das Album, dessen Titel übersetzt "Briefe aus dem Dorf der Wahnsinnigen" bedeutet, ist ein trostloser, atmosphärischer Abstieg in die Isolation. Mit Texten, die auf estnische Dichter des 19. Jahrhunderts zurückgreifen, erzählt es einen Krimi, der in einem verfallenden Dorf spielt. Es ist kalt, intellektuell und klingt wie ein Winterwind, der durch einen verwunschenen Wald heult. Perfekt, wenn du dir Metal wünschst, der sich wie eine Geschichtsstunde auf einem Friedhof anfühlt.
 
-::genre::
+::genre::raw black metal, atmo black metal
 
-## Look Outside Your Window - Look Outside Your Window
+## Look Outside Your Window - Look Outside Your Window *
 
-tbd
+Ein Nebenprojekt von vier Mitgliedern von *Slipknot*: Corey Taylor, Shawn Crahan, Jim Root und Sid Wilson. **Experimenteller Rock**, melodisch, atmosphärisch. Aufgenommen 2008 während der "All Hope Is Gone"-Sessions. Es galt lange Zeit als verloren und verzögerte sich um 18 Jahre. Die Mitglieder beschreiben es als *Radiohead*-Vibe und als etwas, das sich stark vom brutalen Sound von *Slipknot* unterscheidet. Der Heilige Gral der Metal-Nebenprojekte. Statt Masken und Geschrei gibt es hier trippige Orgelklänge, abstrakte Gitarrengeräusche und Samples von Fröschen und Grillen. Es ist ein stimmungsvolles Kunstwerk, das sich eher wie ein Fiebertraum in einem abgelegenen Bauernhaus anfühlt als wie ein Metal-Konzert.
 
-::genre::
+::genre::experimental rock
 
 ## Marcus Klossek - Blink 7
 
@@ -1066,9 +1048,9 @@ tbd
 
 ## Tons - Stoned Villains
 
-tbd
+*Tons* wurden 2009 in der Turiner Hardcore-Punk-Szene gegründet und haben sich zu Italiens führenden kiffigen Schwergewichten entwickelt. **Sludge Metal**, **Stoner Doom** und 90er-Jahre-**Hardcore**. Dieses Album schlägt ein wie eine Kugelkette aus reinem Granit. Mit Titeln wie "The Big Bong Theory" und "Darth Vaper" nehmen sich *Tons* selbst ganz offensichtlich nicht allzu ernst, doch die Riffs sind verdammt fies. Das Album besticht durch amphibisch jaulenden Gesang und seismische Grooves, die speziell auf Fans von massivem, dreckig-lebendigem Sludge zugeschnitten sind. Es ist das musikalische Äquivalent eines Bulldozers, der langsam eine Snackfabrik plattwalzt.
 
-::genre::
+::genre::sludge metal, stoner metal, doom metal, metallic hardcore
 
 ## Ural - Anthropic Genetic Involution
 
