@@ -20,7 +20,7 @@ Die Band wurde 2009 gegründet und war bis etwa 2014 aktiv, bevor sie eine Pause
 
 ::genre::sludge metal, doom metal, blackened doom metal, ritual music
 
-## Aarp - Kadıköy
+## Aārp - Kadıköy
 
 *Aarp* ist bekannt für konzeptionelle elektronische Musik, die städtische Umgebungen als Instrumente behandelt. **Ambient** / **IDM** / **Musique Concrète**. Das Album stützt sich stark auf **Field Recordings** aus dem Istanbuler Stadtteil Kadıköy, die zu glitchigen, rhythmischen Texturen verarbeitet wurden. Ein Liebesbrief an das urbane Chaos. Anstelle typischer Synthesizer hört man den rhythmischen Puls von Fähren, das Klirren von Teegläsern und Straßenlärm - alles zu einem hypnotischen digitalen Traum zerhackt. Es ist der perfekte Soundtrack für eine Reise in eine Stadt, ohne den Sessel zu verlassen.
 
