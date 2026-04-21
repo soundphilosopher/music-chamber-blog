@@ -946,9 +946,9 @@ tbd
 
 ## Alphaxone - Subsynthetic Pulseforms
 
-tbd
+Das Projekt ist das Werk von *Mehdi Saleh*, einem produktiven Elektronikmusiker aus Teheran im Iran. Saleh ist seit über einem Jahrzehnt aktiv und hat zahlreiche Solo- und Gemeinschaftsprojekte veröffentlicht, vor allem beim schwedischen Label Cryo Chamber. Er ist bekannt für seine technische Präzision im Sounddesign und bei der Frequenzmanipulation. Seine Arbeit wird oft mit einer düstereren, „astralen“ Interpretation von *Tangerine Dream* verglichen. Sein Stil verbindet **Dark Ambient** und **Cinematic** sowie **Space** und **Industrial Ambient**. Stell dir vor, du bist eine abtrünnige KI, die durch eine verlassene Raumstation treibt, wo dir nur das Summen eines flackernden Neonkerns Gesellschaft leistet. "Subsynthetic Pulseforms" klingt genau so - schwer, minimalistisch und angespannt.
 
-::genre::
+::genre::dark ambient, industrial, cine ambient
 
 ## April + VISTA - Traditional Noise
 
