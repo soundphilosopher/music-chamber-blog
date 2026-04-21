@@ -932,12 +932,6 @@ tbd
 
 # Earlier the week ...
 
-## Adhyâropa Records - ContraPunctus
-
-tbd
-
-::genre::
-
 ## Akon - Beautiful Day
 
 tbd
