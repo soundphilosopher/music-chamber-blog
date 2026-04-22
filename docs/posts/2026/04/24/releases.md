@@ -352,12 +352,6 @@ tbd
 
 ::genre::
 
-## Glen Hansard - Don+t Settle – Transmissions East & West
-
-tbd
-
-::genre::
-
 ## Golgotha - Hubris
 
 tbd
@@ -377,12 +371,6 @@ tbd
 ::genre::
 
 ## Heiden - Cma
-
-tbd
-
-::genre::
-
-## HighWay - Last Call For Rock’N’Roll
 
 tbd
 
@@ -574,7 +562,7 @@ tbd
 
 ::genre::
 
-## Nixil/Drouth - Toward Dead Temples Split
+## Nixil/Drouth - Toward Dead Temples
 
 tbd
 
@@ -934,9 +922,9 @@ tbd
 
 ## Akon - Beautiful Day
 
-tbd
+*Akon* wurde in St. Louis, Missouri, geboren und wuchs im Senegal auf. Er gilt als weltweiter Pionier des **R&B** und **Afrobeats**. Er ist der Mann hinter Hits der 2000er Jahre wie "Locked Up" und "Lonely". Sein Sound ist eine Mischung aus westafrikanischen Rhythmen, amerikanischem R&B und **Hip-Hop**. Stellt euch eine warme Umarmung der Sonne in Form eines Songs vor. Akon nimmt diesen "It’s a beautiful day"-Refrain, den wir alle auf TikTok gesehen haben, und verwandelt ihn in eine vollwertige Stadionhymne. Der Song enthält Kinderchöre, sanfte R&B-Vocals und genug Positivität, um selbst einen regnerischen Montag wie einen tropischen Urlaub wirken zu lassen.
 
-::genre::
+::genre::r&b, afrobeat, hip hop
 
 ## Alphaxone - Subsynthetic Pulseforms
 
@@ -946,9 +934,9 @@ Das Projekt ist das Werk von *Mehdi Saleh*, einem produktiven Elektronikmusiker 
 
 ## April + VISTA - Traditional Noise
 
-tbd
+Das Duo besteht aus der Sängerin April George und dem Produzenten Matt Thompson. Sie waren bereits als Vorgruppe von Little Dragon und Mura Masa auf Tour. Experimenteller **Alt-R&B** und **Art-Pop** mit Einflüssen von *Radiohead*, *Gorillaz* und den Filmen von *Satoshi Kon*. Trotz des Titels handelt es sich hierbei nicht um "Noise" im Sinne von Radio-Rauschen. Es ist eine üppige, stimmungsvolle Mischung aus Alt-Pop, **Soul** und R&B. Man kann es sich als den perfekten Soundtrack für einen selbstbewussten Gang durch die Dunkelheit vorstellen - es ist raffiniert, in seiner Ehrlichkeit ein wenig beängstigend und zutiefst atmosphärisch.
 
-::genre::
+::genre::alt r&b, art pop, prog pop, neo soul, acid soul
 
 ## Batuhan Aydın - Homewards
 
@@ -976,21 +964,15 @@ Dieses Projekt, das ursprünglich den Titel "The Watchtowers" trug, wurde über 
 
 ## Dionée - Mille-feuilles
 
-tbd
+*Dionée* ist ein Trio mit Robin Servant (Akkordeon/Improvisation) und Clarisse Bériault (Oboe), das häufig Verbindungen zwischen populären Traditionen und zeitgenössischen Klangwelten knüpft. Verwurzelt im **experimentellen Free Jazz** und der **improvisierten Noise-Art**. Wie das Gebäck, nach dem es benannt ist, dreht sich bei dieser Veröffentlichung alles um Schichten - doch statt Sahne und Blätterteig gibt es hier Schichten alchemistischer Fusion. Es ist ein wildes, klangliches Mille-Feuille, in dem Jazz und Noise aufeinanderprallen und etwas erschaffen, das sich anfühlt, als würde es mit dem Konzept der Zeit selbst spielen.
 
-::genre::
+::genre::experimental jazz, free jazz, avant jazz, noise, improvisation
 
 ## doPE - no country for old men
 
 Ein Super-Duo mit Chuck D (dem legendären Frontmann von *Public Enemy*) und John Densmore (dem ikonischen Schlagzeuger von *The Doors*). Die Musik ist eine kraftvolle Mischung aus **Hip-Hop**, jazzigem Schlagzeugspiel und gesellschaftskritischen Texten. Hier trifft **Boom-Bap** auf den Rhythmus des *Lizard King*. Es ist rau, politisch und schlägt eine Brücke zwischen Generationen der Rebellion. Mit Chuck Ds dröhnender Autorität über Densmores legendärem **Swing** ist es das musikalische Äquivalent eines Protestmarsches durch einen Jazzclub. Die Single "Every Tick Tick Tick" wurde sogar zum RSD 2026 Song of the Year gekürt.
 
 ::genre::boom bop, hip hop, prog hip hop
-
-## Dorian Electra - Dorian Electra
-
-tbd
-
-::genre::
 
 ## John Derek Bishop - Rondo
 
@@ -1018,9 +1000,9 @@ tbd
 
 ## Myaap - Pixie Dust
 
-tbd
+Entstanden aus der amerikanischen Hip-Hop-Szene, insbesondere verbunden mit den aufstrebenden Subgenres **Scam Rap** oder **Glitch**y aus dem Süden und Mittleren Westen. **Lowend** (ein Subgenre des Milwaukee-Hip-Hop) zeichnet sich durch kräftige 808er und klatschende Rhythmen aus. Hochenergetisch, mit der Energie von "She Was a Fairy", gemischt mit dem rauen Milwaukee-Bass. Es ist Musik, die für TikTok-Tänze gemacht ist - kurz, eingängig und voller "Yop!"-Ad-libs. Es fühlt sich an wie eine glitzernde Hausparty, auf der alle den Milwaukee-Tanz tanzen.
 
-::genre::
+::genre::hip hop, glitch, lowend
 
 ## Nishla Smith - It's Getting Late, You'd Better Go Home
 
