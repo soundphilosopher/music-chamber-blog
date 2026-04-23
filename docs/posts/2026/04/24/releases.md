@@ -130,6 +130,12 @@ tbd
 
 ::genre::
 
+## Batuhan Aydın - Homewards
+
+tbd
+
+::genre::
+
 ## bela - Korean Love Sonnets
 
 tbd
@@ -155,6 +161,12 @@ tbd
 ::genre::
 
 ## Blood Sucking Maniacs - Blood Sucking Maniacs
+
+tbd
+
+::genre::
+
+## Brian Eaton - Parable of the Trees
 
 tbd
 
@@ -430,6 +442,12 @@ tbd
 
 ::genre::
 
+## John Derek Bishop - Rondo
+
+tbd
+
+::genre::
+
 ## Jordan Rakei - Between Us
 
 tbd
@@ -557,6 +575,12 @@ tbd
 ::genre::
 
 ## Nequient - Avarice
+
+tbd
+
+::genre::
+
+## Nishla Smith - It's Getting Late, You'd Better Go Home
 
 tbd
 
@@ -938,18 +962,6 @@ Das Duo besteht aus der Sängerin April George und dem Produzenten Matt Thompson
 
 ::genre::alt r&b, art pop, prog pop, neo soul, acid soul
 
-## Batuhan Aydın - Homewards
-
-tbd
-
-::genre::
-
-## Brian Eaton - Parable of the Trees
-
-tbd
-
-::genre::
-
 ## Carcerous - Doomsday Factory
 
 Ein 2023 gegründetes Extreme-Metal-Quartett mit Mitgliedern wie Konstantin Milev und Ivan Kozarev. Die Band verbindet **Black** und **Death Metal** mit Elementen aus **Thrash** und **Doom**. "Doomsday Factory" ist ihr Debütalbum in voller Länge. Dies ist der Soundtrack zum Weltuntergang in Zeitlupe. Es ist Feuer und Zorn, ohne dass Rettung in Sicht ist. Wenn du deinen Metal ultra-tight, düster und so heavy magst, dass er den Asphalt sprengt, ist dieser bulgarische Export deine neue Lieblings-Weltuntergangs-Uhr.
@@ -974,12 +986,6 @@ Ein Super-Duo mit Chuck D (dem legendären Frontmann von *Public Enemy*) und Joh
 
 ::genre::boom bop, hip hop, prog hip hop
 
-## John Derek Bishop - Rondo
-
-tbd
-
-::genre::
-
 ## Kõdu - Kirjad Sõgedate Külast
 
 Als aufstrebende Kraft in der estnischen Underground-Szene konzentriert sich *Kõdu* auf die düsteren literarischen Traditionen ihrer Heimat. Narrativer **Black Metal**. Das Album, dessen Titel übersetzt "Briefe aus dem Dorf der Wahnsinnigen" bedeutet, ist ein trostloser, atmosphärischer Abstieg in die Isolation. Mit Texten, die auf estnische Dichter des 19. Jahrhunderts zurückgreifen, erzählt es einen Krimi, der in einem verfallenden Dorf spielt. Es ist kalt, intellektuell und klingt wie ein Winterwind, der durch einen verwunschenen Wald heult. Perfekt, wenn du dir Metal wünschst, der sich wie eine Geschichtsstunde auf einem Friedhof anfühlt.
@@ -992,35 +998,23 @@ Ein Nebenprojekt von vier Mitgliedern von *Slipknot*: Corey Taylor, Shawn Crahan
 
 ::genre::experimental rock
 
-## Marcus Klossek - Blink 7
-
-tbd
-
-::genre::
-
 ## Myaap - Pixie Dust
 
 Entstanden aus der amerikanischen Hip-Hop-Szene, insbesondere verbunden mit den aufstrebenden Subgenres **Scam Rap** oder **Glitch**y aus dem Süden und Mittleren Westen. **Lowend** (ein Subgenre des Milwaukee-Hip-Hop) zeichnet sich durch kräftige 808er und klatschende Rhythmen aus. Hochenergetisch, mit der Energie von "She Was a Fairy", gemischt mit dem rauen Milwaukee-Bass. Es ist Musik, die für TikTok-Tänze gemacht ist - kurz, eingängig und voller "Yop!"-Ad-libs. Es fühlt sich an wie eine glitzernde Hausparty, auf der alle den Milwaukee-Tanz tanzen.
 
 ::genre::hip hop, glitch, lowend
 
-## Nishla Smith - It's Getting Late, You'd Better Go Home
-
-tbd
-
-::genre::
-
 ## Richard Davies - The Son of the Man Who Wrestled a Sea Lion
 
-tbd
+Ein Tenorsaxophonist und Komponist, bekannt für Projekte wie *A Reason to Listen*. **Zeitgenössischer Jazz** mit Einflüssen aus **Ambient** und **World Music**. Abgesehen davon, dass das Album den absolut besten Titel auf dieser Liste hat, ist die Musik eine raffinierte Reise durch Familie und Erinnerung. Sie ist reichhaltig, gefühlvoll und bewegend. Stellen Sie sich eine regnerische Nacht in einer neonbeleuchteten Stadt vor, in der das Saxophon das Einzige ist, das die Wahrheit sagt. Es ist das musikalische Äquivalent einer abgetragenen Lederjacke - klassisch, cool und voller Geschichten.
 
 ::genre::
 
 ## Sapphire Goss - Light Sensitive Materials
 
-tbd
+*Goss*, der in erster Linie Filmemacher und Fotograf ist, nutzt veraltetes Zelluloid und abgelaufene Materialien, um die Kluft zwischen Bild und Ton zu überbrücken. **Experimentell**/**Avantgarde**; eindringliche, analog-unheimliche Klänge. Dies ist nicht nur ein Album; es ist ein wissenschaftliches Experiment, zu dem man (vage) tanzen kann. Goss nutzte einen Celluloid-Synthesizer, um die Helligkeitswerte von Filmrollen in Audio umzuwandeln - er hat buchstäblich Klänge aus dem Staub und den Kratzern alter Filme hervorgeholt. Es ist gespenstisch, geheimnisvoll und perfekt, wenn man sich fühlen möchte, als wäre man in einem wunderschönen, verfallenden Stummfilm gefangen.
 
-::genre::
+::genre::experimental electronica, avant electronica, drone, ambient
 
 ## Tons - Stoned Villains
 
@@ -1030,12 +1024,12 @@ tbd
 
 ## Ural - Anthropic Genetic Involution
 
-tbd
+Seit 2010 sind sie aktiv und gelten als Thrash-Wölfe, die für ihre energiegeladenen Live-Auftritte in ganz Europa bekannt sind. **Thrash Metal** im "Bay Area"-Stil, gemischt mit dissonanten, von *Voivod* inspirierten Riffs und **Crossover**-Energie. Haltet eure Nackenstützen bereit. *Ural* liefert einen Thrash-Alarm, der sich anfühlt wie ein koffeingetriebenes Rennen durch eine Spielhalle der 80er Jahre. Er ist messerscharf, technisch und schnell genug, um euch die Haare nach hinten zu peitschen. Es ist der perfekte Soundtrack, wenn ihr Hausarbeiten in Rekordzeit erledigen müsst - oder einfach nur das Wohnzimmer verwüsten wollt.
 
-::genre::
+::genre::thrash metal
 
 ## Vomit Forth - In the Name of the Father
 
-tbd
+Die 2018 gegründete Band hat sich zu einem Highlight der modernen US-Extreme-Szene entwickelt. Diese EP ist ihr erstes Werk seit der Unterzeichnung bei Pure Noise Records. Chaotischer, harter **Death Metal** mit massiver **Hardcore**-Note. Wenn du schon immer mal hören wolltest, wie sich eine Panikattacke in einem Müllcontainer anhört (im positiven Sinne!), dann ist das hier genau das Richtige. Es ist düster, kompromisslos und zutiefst persönlich - Sänger Kane Gelaznik schrieb diese Tracks, während er mit dem plötzlichen Verlust seines Vaters zu kämpfen hatte. Freut euch auf jede Menge slamtastische Momente, die euch dazu bringen werden, gegen euren eigenen Schatten kämpfen zu wollen.
 
-::genre::
+::genre::brutal death metal, deathcore
