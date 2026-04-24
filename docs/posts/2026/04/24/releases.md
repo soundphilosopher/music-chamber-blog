@@ -202,6 +202,12 @@ tbd
 
 ::genre::
 
+## City of the Sun - Under the Moon
+
+tbd
+
+::genre::
+
 ## Cnoc An Tursa - A Cry For The Slain
 
 tbd
@@ -406,6 +412,12 @@ tbd
 
 ::genre::
 
+## Hélène Duret, Synestet - Perception
+
+tbd
+
+::genre::
+
 ## Irmin Schmidt - Requiem
 
 tbd
@@ -569,6 +581,12 @@ tbd
 ::genre::
 
 ## Necroccultus - The Afterdeath Blackness
+
+tbd
+
+::genre::
+
+## NECROTTED - We Are The Gods That Tear Ourselves Apart
 
 tbd
 
@@ -768,177 +786,135 @@ tbd
 
 ## Six Feet Under - Next to Die
 
-tbd
+Unter der Leitung des legendären Sängers Chris Barnes (ehemals *Cannibal Corpse*) ist die Band seit über 30 Jahren ein fester Bestandteil der Groove-orientierten Death-Metal-Szene. Erwarte nichts Geringeres als den charakteristischen brutalen Groove, für den *Six Feet Under* berühmt ist. Er ist heavy, unerbittlich und besticht durch Barnes’ ikonisches Kehlgrunzen, das genau die Art von grausigem Midtempo-Gemetzel liefert, nach dem sich die Fans sehnen.
 
-::genre::
-
-## Sonic Youth - Diamond Seas
-
-tbd
-
-::genre::
+::genre::death metal, groove metal
 
 ## SydeBoob Duo - Au Naturel
 
-tbd
+Das Duo wurde 2020 von der Sopranistin Anna Elder und der Flötistin Sarah Steranka gegründet und konzentriert sich auf die Beauftragung und Aufführung von Grenzen sprengenden Werken der modernen Klassik. **Zeitgenössische Kammermusik**. Getreu ihrer Mission lotet Au Naturel mit der menschlichen Stimme und der Flöte seltsame, wunderschöne neue Gefilde aus. Es ist Kammermusik für das 21. Jahrhundert - intim, technisch meisterhaft und gerade experimentell genug, um einen in ihren Bann zu ziehen.
 
-::genre::
+::genre::chamber pop, chamber jazz, modern classic
 
-## Tabernis - Seasons Of The Dark Hive
+## Tacoma Park - Baltimore *
 
-tbd
+Ein Duo bestehend aus John Harrison und Benjamin David Felton, bekannt für ihre Mischung aus erdigem Fingerpicking und Retro-Synth-Beats. **Astral Americana**, **Ambient** und "**Kosmische**". Diese Platte ist eine vernebelte ländliche Traumlandschaft, die die organische Wärme der Gitarre perfekt mit mechanischen elektronischen Texturen in Einklang bringt. Sie ist meditativ, improvisiert und fühlt sich an wie ein Roadtrip durch eine Landschaft, die ständig zwischen den 1970er Jahren und der fernen Zukunft hin- und herwechselt.
 
-::genre::
+::genre::prog folk, ambient, krautrock, space rock
 
-## Tacoma Park - Baltimore
+## Tempers - Delusion *
 
-tbd
+Das Duo (Jasmine Golestaneh und Eddie Cooper) ist bekannt für seinen poetischen, hypnotischen Elektronik-Sound. **Darkwave**, **Post-Punk** und **Synth-Pop**. *Tempers* hat sich auf düstere, eisige Melodien spezialisiert, die sich wie ein neongetränkter Traum anfühlen. Es ist Musik für eine Autofahrt durch die Stadt um 3 Uhr morgens - elegant, stimmungsvoll und zutiefst atmosphärisch, die einen in einen Mantel aus raffinierten Synth-Texturen hüllt.
 
-::genre::
-
-## Tempers - Delusion
-
-tbd
-
-::genre::
+::genre::synth pop, dark wave, post punk
 
 ## Terror - STILL SUFFER
 
-tbd
+Ihr zehntes Album in voller Länge, produziert vom ehemaligen Gitarristen Todd Jones (*Nails*). Mit dabei sind Gäste wie Chuck Ragan sowie Mitglieder von *Mindforce* und *God's Hate*. **Hardcore**, **Beatdown**-Hardcore und **Punkrock**. Auch nach 24 Jahren regiert *Terror* noch immer mit verletzlichen, explosiven und poetisch bösartigen Hymnen. Es ist ein Paradebeispiel für tektonischen Hardcore, der sich gleichzeitig wie eine Mosh-Hymne und ein kathartisches Eingeständnis des Kampfes anfühlt.
 
-::genre::
+::genre::metallic hardcore
 
-## The Amity Affliction - House Of Cards
+## The Amity Affliction - House Of Cards *
 
-tbd
+Das neunte Studioalbum der Band und das erste mit dem neuen Bassisten und Clean-Sänger Jonathan Reeves. **Metalcore** und **Post-Hardcore**. Dies ist eines der verheerendsten und persönlichsten Alben ihrer Karriere, das sich vor allem mit dem Trauma von Frontmann Joel Birch im Zusammenhang mit dem Tod seiner Mutter auseinandersetzt. Musikalisch ist es ein vollständiger Angriff, der einige der härtesten Stücke der Band mit grandiosen, von Streichern durchtränkten Schlussakkorden verbindet.
 
-::genre::
+::genre::metalcore, post hardcore
 
 ## The Cab - Chasing Crowns
 
-tbd
+Ihr erstes vollständiges Album seit 15 Jahren, auf dem die Gründungsmitglieder Alex DeLeon und Alex T. Marshall zu hören sind. Es folgt auf ihre Comeback-EP "Road To Reign" aus dem Jahr 2025. Moderner **Pop-Rock** und hymnischer **Pop**. *The Cab* ist von den Toten auferstanden und es fühlt sich an wie eine filmreife Wiedergeburt. Tracks wie "Sweet Kerosene" sind bildreich und hymnisch, darauf ausgelegt, die Tür zu einer neuen Ära voller gefühlvoller, ausgefeilter Pop-Rock-Brillanz aufzustoßen.
 
-::genre::
+::genre::pop rock, alt pop, introspective pop
 
-## The Medea Project - Akkadian Artefacts
+## The Prestige - Isthmos *
 
-tbd
+Ein Quartett, das für seinen viszeralen und erdrückenden Sound bekannt ist, hat sein neuestes Werk im The Apiary Studio aufgenommen. **Post-Hardcore**, **Sludge** und **Chaotic Hardcore**. Ein schwindelerregender, dreidimensionaler Sprung in die inneren Turbulenzen. Es wechselt zwischen aggressiven, chaotischen Ausbrüchen und nachdenklichen, ruhigen Ausdehnungen. Es fühlt sich an wie ein hochspannender Psychothriller in musikalischer Form - intensiv, stimmungsvoll und unmöglich zu ignorieren.
 
-::genre::
+::genre::post hardcore, mathcore, sludge metal
 
-## The Prestige - Isthmos
+## The Reds, Pinks & Purples - Acknowledge Kindness *
 
-tbd
+*Donaldson* ist unglaublich produktiv, konzentriert sich normalerweise auf Lo-Fi-Bedroom-Pop, strebt hier aber nach einem groß klingenden Album. **Indie-Pop**, **Dream-Pop** und **Post-Punk** (FFO: *The Cure*, *The Go-Betweens*). Melancholie, zu der man tanzen kann - oder zumindest in einem übergroßen Pullover mitschwingen. Es ist voll von 80er-Jahre-Hall und schrillen Vocals im Robert-Smith-Stil. Songs wie "Emo Band" zeigen Donaldsons charakteristische Mischung aus Herzschmerz und trockenem, selbstironischem Humor.
 
-::genre::
-
-## The Reds, Pinks & Purples - Acknowledge Kindness
-
-tbd
-
-::genre::
+::genre::dreampop, shoegaze, post punk, indie pop
 
 ## The Saddest Landscape - Alone With Heaven
 
-tbd
+Nach einer zehnjährigen Pause kehrten diese Screamo-Veteranen zurück, um erneut mit dem verstorbenen Steve Albini und Jack Shirley zusammenzuarbeiten. **Post-Hardcore**, **Screamo** und **Emo**. Ein mitreißendes Doppelalbum, das chaotische Intensität mit zerbrechlicher, melodischer Hoffnung in Einklang bringt. Mit Gästen wie Julien Baker fängt es den rohen Schmerz des Überlebens nach einem Trauerfall ein. Es ist die Art von Album, die einen dazu bringt, in die Leere schreien zu wollen, während man gleichzeitig ein seltsames Gefühl der Erleichterung verspürt.
 
-::genre::
+::genre::post hardcore, screamo, emocore
 
-## Thorgrim - Puca
+## Thorgrim - Puca *
 
-tbd
+Die 2023 gegründete Band nimmt ihre Songs live auf, um rohe, viszerale Energie ohne Metronome oder Tricks einzufangen. **Sludge**, **Doom**, **Punk** und **Black Metal**. Das ist böse im besten Sinne des Wortes. Es ist dreckiger, schwankender Sludge, der klingt, als wäre er in einem Keller voller Glasscherben und böser Absichten aufgenommen worden. Jeder Fehler und jede Schramme bleibt erhalten, was dem Ganzen eine gefährlich authentische Note verleiht.
 
-::genre::
+::genre::sludge metal, powerviolence, doom metal
 
 ## Thy Sanitorium - Thy Sanatorium
 
-tbd
+Dieses 2025 gegründete anonyme Projekt nutzt Horror als erzählerisches Rückgrat für seinen extremen Sound. **Melodic Death Metal**, **Gothic Metal** und **Symphonic Black Metal**. Eine schaurige Mischung aus Aggression und Melodie. Es fühlt sich an, als würde man durch eine verwunschene Irrenanstalt wandeln, in der die Behandlungen aus donnernden Riffs und symphonischer Furcht bestehen. Es ist theatralisch, gruselig und für ein Horror-Metal-Album überraschend eingängig.
 
-::genre::
-
-## Tobias Lanz - Volumes Variations
-
-tbd
-
-::genre::
+::genre::melo death metal, gothic metal, symphonic black metal
 
 ## Toxikull - Turbulence
 
-tbd
+Eine seit einem Jahrzehnt bestehende vierköpfige Band (*Tommy 666*, *Lex Thunder* usw.), bekannt für energiegeladenen europäischen Metal. **Heavy Metal**, **Speed Metal** und 80er-Jahre-**Hardrock**. Eine echte Liebeserklärung an den Metal der 80er Jahre. Sie vereint die rasante Rauheit der frühen *Judas Priest* und *Helloween* mit einem ausgefeilten, modernen Punch. Songs wie "Midnight Fire" sind wie geschaffen für das Mitfiebern und den in Leder gekleideten Triumph über innere Stürme.
 
-::genre::
+::genre::heavy rock, heavy metal, speed metal, hard rock
 
 ## TROUM - EmphasYs
 
-tbd
+*TROUM* (altdeutsch für "Traum") sind seit Ende der 90er Jahre aktiv und gelten als Pioniere hypnotischer, transzendentaler Klanglandschaften. **Drone**, **Dark Ambient** und **Post-Industrial**. Bei EmphasYs geht es weniger um Songs als vielmehr um elementare Zustände. Es ist eine Studie der Resonanz, in der sich Akustikgitarren und Saxophone in schimmernde Gase und irisierenden Äther auflösen. Es fühlt sich an, als befände man sich in einer sich langsam wandelnden Klangwolke.
 
-::genre::
-
-## Vaeovon - Spiritual Nullification
-
-tbd
-
-::genre::
+::genre::drone, dark ambient, post industrial
 
 ## VINSON - RAW HONEY
 
-tbd
+Ein gebürtiger Detroiter, dessen Sound in der reichen Geschichte seiner Stadt verwurzelt ist - von Motown bis hin zu Techno-Pionieren wie *Underground Resistance*. **Alternative R&B** und **Electronica** (mit **House**-/**Techno**-Einflüssen). Sanft, wohltuend und doch ein klein wenig gefährlich. Es ist das klangliche Äquivalent einer nächtlichen Autofahrt nach einer langen Sauferei voller Lust und Neugier. Es ist süße Musik für den Moment, wenn du auf der After-Hour-Rave bist, aber immer noch tief in deinen Gefühlen versunken bist.
 
-::genre::
+::genre::alt r&b, acid house, acid techno
 
 ## Volcandra - Beyond The Will Of Mortals
 
-tbd
+Nach ihrem 2024 erschienenen Album "The Way of Ancients" haben sie sich schnell zu einer aufstrebenden Kraft in der US-amerikanischen Blackened-Death-Szene entwickelt, indem sie chaotische Riffs mit triumphalen Melodien verbinden. **Melodic Blackened Death Metal**. Es ist wie eine Achterbahnfahrt durch einen kosmischen Strudel. In einem Moment werden Sie von Blastbeats und finsteren Knurren überrollt, im nächsten schweben Sie in einer traumhaften, ätherischen Melodie. Energiegeladener Metal für alle, die ihre Dunkelheit gerne mit einer Prise Epik genießen.
 
-::genre::
+::genre::melo death metal, blackened death metal
 
 ## Whirlwind - 1640
 
-tbd
+Nachdem sie auf Festivals wie dem Pounding Metal Fest für Aufsehen gesorgt haben, kehren sie mit einem Sound zurück, der stark von Legenden der Mitte der 80er Jahre wie *Running Wild* und *Helloween* inspiriert ist. **Traditioneller Heavy Metal** mit germanischen Einflüssen. Diese Platte ist eine echte Zeitmaschine zurück ins Jahr 1985. Hier dreht sich alles um epische Geschichten, galoppierende Riffs und Ruhm mit großem R. Wenn du schon immer einmal in Spandex und Jeansweste in die Schlacht stürmen wolltest, ist dies dein Soundtrack.
 
-::genre::
+::genre::heavy metal, heavy rock, nwobhm
 
 ## Witherhoard - For All Who Have Been Broken
 
-tbd
+Die aus der Metal-Szene von Philadelphia stammende Band legt den Schwerpunkt auf prägnantes Songwriting und Texte, die sich mit Autoritarismus und religiösem Fundamentalismus auseinandersetzen. **Melodic Death Metal** mit cineastischer Atmosphäre. Stell dir vor, ein Hochgeschwindigkeitszug würde mit voller Wucht gegen eine Wand aus Orchesterklängen prallen. Es ist rasend schnell und aggressiv, aber überraschend eingängig - die Art von Album, bei der man über den Untergang von Imperien nachdenken kann, während man gerade mit dem Headbangen beschäftigt ist.
 
-::genre::
+::genre::melo death metal
 
 ## Wrang - Verwording
 
-tbd
+Das Duo, bestehend aus Valr und Galgenvot, ist seit Jahren ein fester Bestandteil der niederländischen Underground-Szene und bekannt für seinen rauen und atmosphärischen Stil. **Black Metal** mit einer kalten, aggressiven Note. Das ist der Klang eines Wintersturms, der in einer niederländischen Kathedrale gefangen ist. Er ist unerbittlich und eisig, besitzt aber eine gewisse graue Erhabenheit, die Lust macht, durch einen nebligen Wald zu streifen - nur vielleicht lieber nicht allein.
 
-::genre::
+::genre::melo black metal, atmo black metal
 
 ## Xorsist - Aberrations
 
-tbd
+Ein junges Trio, das das Erbe von Stockholmer Legenden wie *Entombed* und *Dismember* weiterführt. **Old-School**-Swedish-**Death-Metal** mit "Buzzsaw“-Gitarrensounds. Stell dir vor, jemand würde mit einer Kettensäge in ein Spukhaus gehen - genau so klingt Aberrations. Es ist roh, dreckig und riecht wie ein feuchter schwedischer Keller aus dem Jahr 1991, aber mit gerade genug modernem Biss, um sicherzustellen, dass deine Lautsprecher (und dein Nacken) diese Erfahrung nicht überleben.
 
-::genre::
+::genre::osdm
 
 ## YARN - Saturday Night Sermon
 
-tbd
+Die Band unter der Leitung von Blake Christiana, die Ende der 2000er Jahre in der New Yorker Barszene gegründet wurde, hat sich zu einer kraftvollen Live-Band entwickelt. **Roots Rock**, **Americana** und Outlaw **Country** mit einem starken **Soul**-/**Gospel**-Einschlag. Das ist ein alkoholgetränkter, bluesiger Gottesdienst, bei dem das Weihwasser durch Whiskey ersetzt wird. Mit einem neuen Gospelchor und einer triumphalen Bläsersektion ist dies die Art von Album, die Lust macht, am Samstagabend seine Sünden zu bekennen, nur um am Sonntagmorgen darüber singen zu können.
 
-::genre::
-
-## Yoasobi - E-Side 4
-
-tbd
-
-::genre::
+::genre::roots rock, country folk, americana
 
 ## ZHU - BLACK MIDAS
 
-tbd
+ZHU, bekannt für sein "BLACKLIZT"-Konzept, kehrt zu seinen Dancefloor-Wurzeln zurück, nachdem er auf seinem vorherigen Album "Grace" mit eher cineastischen Klängen experimentiert hatte. **Deep House**, **Melodic Techno** und **Dark Wave**. Dieses Album ist im Grunde eine VIP-Eintrittskarte für einen dunklen, verrauchten Warehouse-Rave in Istanbul. Es ist rau, tribal und kompromisslos körperbetont. Wären die Basslines noch schwerer, bräuchten sie ein eigenes Sicherheitsteam, um zu verhindern, dass die Menge vom Groove erdrückt wird.
 
-::genre::
-
-## Étienne de Crécy - Warm Up Remixes
-
-tbd
-
-::genre::
+::genre::deep house, edm, dark wave, techno
 
 ---
 
@@ -986,6 +962,12 @@ Ein Super-Duo mit Chuck D (dem legendären Frontmann von *Public Enemy*) und Joh
 
 ::genre::boom bop, hip hop, prog hip hop
 
+## Half Man - I Can See God *
+
+Dies ist das erste Album der Band in voller Länge, das auf ihre EP aus dem Jahr 2023 folgt. **Hardcore**, **Powerviolence** und **Death Metal**. Diese Platte ist ein Beweis für pure Intensität und bietet 11 Titel in nur 16 Minuten. Sie ist schnell und kompromisslos und verbindet die rohe Energie des Hardcore mit der technischen Wucht des Death Metal. Sie richtet sich an Hörer, die rasante, perkussive Aggressivität schätzen.
+
+::genre::osdm, metallic hardcore, powerviolence
+
 ## Kõdu - Kirjad Sõgedate Külast
 
 Als aufstrebende Kraft in der estnischen Underground-Szene konzentriert sich *Kõdu* auf die düsteren literarischen Traditionen ihrer Heimat. Narrativer **Black Metal**. Das Album, dessen Titel übersetzt "Briefe aus dem Dorf der Wahnsinnigen" bedeutet, ist ein trostloser, atmosphärischer Abstieg in die Isolation. Mit Texten, die auf estnische Dichter des 19. Jahrhunderts zurückgreifen, erzählt es einen Krimi, der in einem verfallenden Dorf spielt. Es ist kalt, intellektuell und klingt wie ein Winterwind, der durch einen verwunschenen Wald heult. Perfekt, wenn du dir Metal wünschst, der sich wie eine Geschichtsstunde auf einem Friedhof anfühlt.
@@ -1028,8 +1010,26 @@ Seit 2010 sind sie aktiv und gelten als Thrash-Wölfe, die für ihre energiegela
 
 ::genre::thrash metal
 
+## Vaeovon - Spiritual Nullification
+
+Eine aufstrebende Band aus der neuseeländischen Extreme-Metal-Szene, bekannt für kompromisslose Geschwindigkeit und Intensität. **Raw Black Metal** und **Blackened Death Metal**. Das ist ein Rasantdurchlauf durch die Hölle. Es ist beißend, gewalttätig und unerbittlich - sie rasen durch Tracks wie "Death Proclamation" mit messerscharfen Riffs, bei denen man sich fühlt, als würde man hinter einer Dämonenmaschine hergeschleift. Nichts für schwache Nerven.
+
+::genre::raw black metal, blackened death metal
+
+## VOIEL - Goddess of the North *
+
+Ein geheimnisvolles Projekt, das auf Independent-Musikplattformen durch seine atmosphärischen und kraftvollen Kompositionen Aufmerksamkeit erregte. **Post-Metal**, **Depressive Rock** und **Melancholic Metal**. Das Album nimmt den Hörer mit auf eine Reise durch wechselnde Stimmungen, die mit sanften Harmonien und **Spoken-Word**-Elementen beginnt, bevor sie in kraftvolle, verzerrte Instrumentierung übergeht. Durch den Einsatz von hallenden Gitarren und wuchtigen Rhythmen vermittelt es ein Gefühl von kalter, nordischer Einsamkeit.
+
+::genre::post metal, blackgaze, dsbm, mellow metal
+
 ## Vomit Forth - In the Name of the Father
 
 Die 2018 gegründete Band hat sich zu einem Highlight der modernen US-Extreme-Szene entwickelt. Diese EP ist ihr erstes Werk seit der Unterzeichnung bei Pure Noise Records. Chaotischer, harter **Death Metal** mit massiver **Hardcore**-Note. Wenn du schon immer mal hören wolltest, wie sich eine Panikattacke in einem Müllcontainer anhört (im positiven Sinne!), dann ist das hier genau das Richtige. Es ist düster, kompromisslos und zutiefst persönlich - Sänger Kane Gelaznik schrieb diese Tracks, während er mit dem plötzlichen Verlust seines Vaters zu kämpfen hatte. Freut euch auf jede Menge slamtastische Momente, die euch dazu bringen werden, gegen euren eigenen Schatten kämpfen zu wollen.
 
 ::genre::brutal death metal, deathcore
+
+## Vylet Pony - Gonarch's Lair
+
+Zelda Trixie Lulamoon ist seit 2012 aktiv. Während ihre frühen Werke in Internet-Subkulturen verwurzelt waren, hat sich das Projekt zu einem höchst experimentellen, genreübergreifenden Sound entwickelt. Eine energiegeladene Mischung aus **Trap**, **Experimental Hip Hop**, **Digicore** und **Brostep**. Diese Veröffentlichung zeichnet sich durch eine dichte, überreizte Produktion und einen verspielten Geist aus. Sie schafft einen Ausgleich zwischen aggressiven elektronischen Beats und einzigartigen thematischen Bezügen. Der einfallsreiche Produktionsstil hat Vergleiche mit Hyperpop-Pionieren hervorgerufen und bietet ein maximalistisches Hörerlebnis.
+
+::genre::digicore, experimental hip hop, trap
