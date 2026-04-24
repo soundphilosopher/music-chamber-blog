@@ -514,119 +514,119 @@ tbd
 
 ::genre::
 
-## Jesus Christ Taxi Driver - Taxi the Rich
+## Jesus Christ Taxi Driver - Taxi the Rich *
 
-tbd
+Das 2022 gegründete Quartett steht unter der Leitung von Ian Ehrhart und ist bekannt für seine wild-chaotischen Live-Auftritte, die mit denen von *Iggy Pop* und *The Cramps* verglichen werden. **Garage-Punk**, **Surf-Rock** und jazzige Satire. Politisch pointiert und existentiell unsicher ist dieses Album ein fröhlich respektloser Lärm. Zwischen Tracks über den Elitismus in Palm Beach und satirischen Anspielungen auf *Lana Del Rey* ist es eine chaotische Reise durch die moderne Desillusionierung, die einen irgendwie dazu bringt, zur Apokalypse mitzutanzen.
 
-::genre::
+::genre::garage punk, surf rock, psych rock, prog pop, power pop
 
 ## Jim Papadatos - Judgement Day
 
-tbd
+*Papadatos*, ein virtuoser griechischer Gitarrist, ist Teil der wachsenden Technical-Metal-Szene in Athen. **Instrumentaler Progressive Metal** und **Deathcore**. Dies ist eine Meisterleistung des modernen Shredding. Obwohl das Album größtenteils instrumental ist, sorgt es durch Gastauftritte - darunter ein Gesangsbeitrag bei "Digital Collapse" - für Abwechslung und bietet genug gitarrenlastige Intensität, um Fans von Djent und Prog-Metal gleichermaßen zu begeistern.
 
-::genre::
+::genre::prog metal, deathcore, instrumental
 
 ## Joe Fujinoki - Glass Torso
 
-tbd
+*Fujinoki*, ein experimenteller Künstler, der für sein Debütalbum "Watering The Steel Flowers" bekannt ist, konzentriert sich darauf, durch analoge Klanglandschaften Textur und Rhythmus zu verschmelzen. **Electronica**, **Ambient** und **Post-Industrial**. Wie der Titel schon andeutet, ist dies Musik, die sich zerbrechlich und doch strukturiert anfühlt. Es ist ein analoger Balsam für die Seele - man stelle sich tiefe, sich wandelnde Klangströme vor, unterbrochen von schimmernden Glitches. Perfekt für nächtliche Streifzüge durch die Stadt oder einfach nur, um aus einem regnerischen Fenster zu starren.
 
-::genre::
+::genre::ambient, experimental electronica, ibm, idm
 
 ## John Corabi - New Day
 
-tbd
+*Corabi* ist ein Rock-Veteran, der vor allem als ehemaliger Frontmann von *Mötley Crüe* und aktueller Sänger von *The Dead Daisies* bekannt ist. **Hard Rock** mit Einflüssen aus den 60er- und 70er-Jahren. Hier entfernt sich *Corabi* von den Mega-Rock-Verstärkern, um seine gefühlvolle, organische Seite zu zeigen. Aufgenommen in Nashville, ist es ein Liebeswerk, das melodisches Zusammenspiel mit dem rauen Geist des Classic Rock verbindet - man stelle sich die Stadion-Energie seiner früheren Projekte vor, gefiltert durch eine gefühlvolle, instrumentale Linse.
 
-::genre::
+::genre::hard rock, heavy rock
 
-## John Derek Bishop - Rondo
+## John Derek Bishop - Rondo *
 
-tbd
+*Bishop*, auch bekannt als *Tortusa*, ist ein Meister darin, Field Recordings mit verzerrten akustischen Instrumenten zu verschmelzen. Er ist ein fester Bestandteil des Labels Jazzland Recordings. **Experimenteller Electronica**, **Ambient** und **Live-Sampling**. Das ist klangliche Tapisserie vom Feinsten. Es fühlt sich an wie eine sich langsam entwickelnde, transzendentale Reise, auf der Field Recordings der uns umgebenden Welt in sanfte, aber ungewohnte Formen verzerrt werden. Es ist jene Art von verführerischem Ambient, die dein Wohnzimmer in eine hochkarätige Kunstinstallation verwandelt.
 
-::genre::
+::genre::ambient, experimental electronica, drone
 
-## Jordan Rakei - Between Us
+## Jordan Rakei - Between Us *
 
-tbd
+Das Projekt entstand im Rahmen von Rakeis "Artist in Residence"-Aufenthalt 2025 in den Abbey Road Studios, wo er fünf Tage lang fünf verschiedene Gäste zu intensiven, spontanen Songwriting-Sessions einlud. **Soul**, **R&B** und **Electronic Jazz**. Stell dir das als die "Abbey Road After Hours"-Session vor, zu der du nicht eingeladen warst. Es ist ein kompaktes, strahlendes Set, das sich auf die Chemie zwischen uns konzentriert - mit Tom McFarland von *Jungle* - und zu einigen der schwerelosesten Soul-Songs des Jahres führt.
 
-::genre::
+::genre::neo soul, alt r&b, alt jazz
 
-## Julia Cumming - Julia
+## Julia Cumming - Julia *
 
-tbd
+*Cumming*, die vor allem als Leadsängerin und Bassistin des Rock-Trios *Sunflower Bean* bekannt ist, verbrachte Jahre in der Bestätigungsschleife der Branche, bevor sie die Freiheit fand, dieses Solo-Debüt aufzunehmen. Von den 70ern inspirierter **Indie-Rock**, **Dream Pop** und **Vintage Pop**. Ein atemberaubender Neuanfang, bei dem rauer Garagenrock gegen elegante, von Klaviermelodien getragene Klänge getauscht wird, die an Carole King erinnern. Es ist ein meditatives Album über Selbstfindung und Autonomie - ideal für alle, die einer badass Frontfrau dabei zuhören wollen, wie sie ihre eigene ruhige, befreite Stimme findet.
 
-::genre::
+::genre::alt pop, prog pop, indie rock, dreampop
 
 ## Kaasin - The Underworld
 
-tbd
+Die Band wurde 2020 vom Gitarristen Jo Henning Kaasin (ehemals *Come Taste the Band*) gegründet und vereint eine ganze Reihe norwegischer Rocktalente, darunter Sänger *Jan Thore Grefstad*. Klassischer **Hard Rock** und **Melodic Metal** mit Einflüssen der **NWOBHM** der frühen 80er Jahre. Schnapp dir deine Lederjacke - dieses Album ist eine bahnbrechende Reise zurück in die glorreichen Tage von *Thin Lizzy* und *Deep Purple*. Es ist heavy, galoppierend und voller Cowbell-Klänge und Twin-Gitarren-Harmonien, die jeden Old-School-Metal-Fan zum Grinsen bringen.
 
-::genre::
+::genre::nwobhm, hard rock, melo metal
 
 ## Kehlani - Kehlani
 
-tbd
+Dieses selbstbetitelte Projekt ist das fünfte Studioalbum der Künstlerin und erscheint pünktlich zu ihrem 31. Geburtstag als bedeutendes Jubiläumswerk. **Zeitgenössischer R&B**, **Soul** und Anklänge an die Millennium-Ära. Dies ist *Kehlani* in ihrer unapologetischsten Phase. Es ist eine üppige, nachdenkliche Reise durch Reifeprozesse und Verletzlichkeit, die es schafft, das glanzvolle Y2K-R&B-Feeling einzufangen und gleichzeitig in moderner emotionaler Ehrlichkeit verwurzelt zu bleiben.
 
-::genre::
+::genre::r&b, neo soul
 
-## KNIFE BRIDE - sorry about the plague
+## KNIFE BRIDE - sorry about the plague *
 
-tbd
+Angeführt von der charismatischen Mollie Thompson bezeichnen Knife Bride ihren Stil als "Vampir-Rock". Mit ihren aufwendigen Visuals und theatralischen Live-Auftritten sorgen sie für Aufsehen. **Nu-Goth**, **Alternative Metal** und **Cinematic Rock**. Trotz des höflichen Titels ist dieses Album ein echter Knaller. Es ist eine Mischung aus schweren Riffs, eingängigen Pop-Elementen und einer dunklen, kitschigen Ästhetik. Es ist die Art von Musik, die man auf einem Gothic-Karneval hören würde - lebhaft, ein bisschen gruselig und jede Menge Spaß.
 
-::genre::
+::genre::nu metal, gothic rock, alt metal, cine rock
 
 ## Konquest - Dark Waters
 
-tbd
+Konquest, ins Leben gerufen von Alex Rossi, ist eine Hommage an die frühen 80er Jahre von *Iron Maiden* und *Thin Lizzy*. **New Wave of Traditional Heavy Metal**. Schnapp dir deine Jeansweste und die Luftgitarre. "Dark Waters" ist Heavy-Metal-Komfortnahrung pur. Es strotzt nur so vor galoppierenden Basslinien, Harmonien zweier Gitarren und genug Leder-Energie, um eine kleine Stadt mit Strom zu versorgen. Es ist klassisch, zeitlos und kompromisslos laut.
 
-::genre::
+::genre::heavy metal, nwobhm
 
 ## Krooked Tongue - Drugstore Cowboy
 
-tbd
+Dieses Trio sorgt derzeit in der britischen Clubszene für Furore - mit einem Sound, der oft als härtere Variante von *Royal Blood* oder *The Amazons* beschrieben wird. **Alternative Rock** und **Modern Grunge**. Bei "Drugstore Cowboy" dreht sich alles um Selbstbewusstsein und Verzerrung. Die Band bietet fette, verzerrte Riffs und Hooks, die einem tagelang im Kopf bleiben. Es ist Hauptfigur-Energie in musikalischer Form - perfekt, wenn man sich beim Spazierengehen auf der Straße ein bisschen gefährlich fühlen möchte.
 
-::genre::
+::genre::alt rock, post grunge
 
-## Las Cruxes - Las Cruxes
+## Las Cruxes - Las Cruxes *
 
-tbd
+Unter der Leitung des Multi-Instrumentalisten *Edu Casanova* verbindet dieses Projekt eine gespenstische, hallgetränkte Atmosphäre mit treibenden Punk-Rhythmen, wobei oft sowohl auf Englisch als auch auf Spanisch gesungen wird. **Post-Punk**, **Deathrock** und **Psych-Rock**. Stellt euch einen Spaghetti-Western vor, bei dem ein Goth Regie führt - das ist *Las Cruxes*. Es ist staubig, düster und unglaublich stilvoll. Das selbstbetitelte Debütalbum fühlt sich an wie eine Mitternachtsfahrt durch die Wüste mit einem Geist auf dem Beifahrersitz.
 
-::genre::
+::genre::post punk, psych rock, art rock
 
 ## LASTOUT - No Safe Way To Feel
 
-tbd
+*LASTOUT*, die aus der legendären britischen Hardcore-Szene hervorgegangen sind, haben sich mit ihrer No-Nonsense-Herangehensweise an Heavy-Musik, bei der rohe Aggression und gesellschaftskritische Themen im Mittelpunkt stehen, schnell einen Namen gemacht. **Hardcore** und **Crossover**-**Thrash**. Diese Platte ist ein zehn Tonnen schwerer Hammer. Sie ist laut, beklemmend und auf geniale Weise wütend. Wenn du einen Soundtrack für dein Training im Fitnessstudio brauchst oder einfach nur das Gefühl haben willst, eine Mauer durchschlagen zu können, liefert LASTOUT die perfekten unsicheren Vibes.
 
-::genre::
+::genre::crossover, thrash metal, hardcore punk
 
 ## Late Bush - Hoarses
 
-tbd
+Dieses Projekt, das auf dem avantgardistischen Label Vlek erschienen ist, ist bekannt für sein akribisches Sounddesign und seine Zusammenarbeit mit bildenden Künstlern wie *Aline Bouvy*. **Experimental Electronica**, **IDM** und **Abstract Glitch**. Erwarte hier kein "Running Up That Hill" - "Hoarses" ist ein tiefes Eintauchen in lose Kanten und keine Regeln. Es ist ein elegantes, manchmal minimalistisches elektronisches Erlebnis, das geduldige Zuhörer belohnt. Es ist texturreich und rein atmosphärisch und fühlt sich an wie die Eröffnung einer Galerie für moderne Kunst, in der die Musik das Interessanteste im Raum ist.
 
-::genre::
+::genre::experimental electronica, idm, glitch
 
-## Life Lessons / Forever - Forever
+## Life Lessons - Forever - Forever
 
-tbd
+Life Lessons haben Jahre damit verbracht, Rückschläge und Liebeskummer zu bewältigen, was in diesem Kapitel gipfelt, das sie als Manifest für psychisches Wachstum bezeichnen. **Pop-Punk**, **Rock** und **Emo**. Das ist Musik für die ewigen Fans von schnellen Drums und ehrlichen Texten. Es ist energiegeladener Pop-Punk, der auch vor den schwierigen Themen nicht zurückschreckt. Es fühlt sich an wie ein Gesamtwerk, das der Band endlich Luft zum Atmen gibt und Rückschläge in einen "Mind in Motion" verwandelt.
 
-::genre::
+::genre::pop punk, power pop, alt rock
 
 ## Lolo Zouaï - Reverie
 
-tbd
+Als eigenständige Künstlerin, die bereits Songs für *H.E.R.* mitgeschrieben und als Vorband für *Dua Lipa* aufgetreten ist, hat Lolo das Jahr 2026 damit verbracht, dieses persönliche Album zu promoten, das einer engen Freundin gewidmet ist, die 2021 verstorben ist. **R&B**, **Dream Pop** und von **Trap** beeinflusster Club-**Pop**. Wenn du jemals die Energie von 3AM in San Francisco gespürt hast, ist dies dein Soundtrack. Es ist ein von Trauer getriebenes, genreübergreifendes Album, das mit luftigen Vocals und kraftvollen Beats Verletzlichkeit erforscht. Es ist reif, ehrlich und strahlt absolut den Coolness-Faktor der späten Nacht aus.
 
-::genre::
+::genre::r&b, dreampop, trap, glitch, alt pop
 
-## Loukeman - SD-3
+## Loukeman - SD-3 *
 
-tbd
+*Loukeman* (Luke Gammal), ein gefragter Produzent, der bereits mit *A$AP Rocky* und *PinkPantheress* zusammengearbeitet hat, schließt eine Trilogie ab, die 2021 begann. **Chilled Electronic**, **Ambient Pop** und **R&B**. *SD-3* ist wunderbar entspannte Musik für die heutige Zeit. Sie ist voller verzerrter Samples und zarter Vocals (wie die von *Georgia Hammer*), die sich anfühlen, als würden sie auf einer eisbedeckten Eisbahn in Toronto schweben. Es ist das klangliche Äquivalent einer kuscheligen Canada Goose-Jacke - vertraut, elegant und einzigartig nordisch.
 
-::genre::
+::genre::ambient, minimal electronica, art pop, r&b
 
-## Lynx - Trinity Of Suns
+## Lynx - Trinity Of Suns *
 
-tbd
+Die 2020 gegründete Band entwickelte sich erheblich weiter, nachdem der ursprüngliche Frontmann Marvin Kiefer 2025 ausgestiegen war. Die Sängerin und Synthesizer-Spielerin Amy Zine übernahm die Hauptstimme und führte die Band zu einem nuancierteren, zarten und doch kraftvollen Sound. 70er-Jahre-**Heavy-Rock**, **Progressive Rock** und **Psychedelic Folk**. Ein wahr gewordener Traum für Liebhaber des Vintage-Sounds. Live aufgenommen, fängt das Album die rohe Energie des frühen Proto-Metal mit wirbelnden Synthesizern und mystischen Texten ein. Es ist, als hätte man eine verlorene Kassette aus dem Jahr 1974 gefunden, die irgendwie brandneu klingt - perfekt für alle, die sich im Glanz der goldenen Ära des Rock sonnen wollen.
 
-::genre::
+::genre::heavy rock, psych rock, prog rock
 
 ## MAGNOLIA - Doomscrolling
 
