@@ -8,11 +8,25 @@ categories:
 
 # Releases! Releases! Releases!
 
+## 157frq - A World I Was Never a Part Of
+
+tbd
+
+::genre::
+
 ## 30 Denari - Kindly Plotting For Riot
 
 tbd
 
 ::genre::
+
+## Adam Schatz - Civil Engineering Vol. 1
+
+tbd
+
+::genre::
+
+<!-- more -->
 
 ## Admiral Sir Cloudesley Shovell - The Trouble With The Shovell
 
@@ -25,8 +39,6 @@ tbd
 tbd
 
 ::genre::
-
-<!-- more -->
 
 ## Alicate - Too Bad To Be Good
 
@@ -124,6 +136,18 @@ tbd
 
 ::genre::
 
+## Ayanami - Submechanophobia
+
+tbd
+
+::genre::
+
+## Bassault US - Lights, Camera, Slaughter
+
+tbd
+
+::genre::
+
 ## Battleroar - Petrichor
 
 tbd
@@ -166,6 +190,12 @@ tbd
 
 ::genre::
 
+## Body Thief - Halfway to Hallelujah
+
+tbd
+
+::genre::
+
 ## Brian Eaton - Parable of the Trees
 
 tbd
@@ -196,6 +226,12 @@ tbd
 
 ::genre::
 
+## Changeless - Adrift
+
+tbd
+
+::genre::
+
 ## Christin Nichols - Christin Nichols
 
 tbd
@@ -220,6 +256,12 @@ tbd
 
 ::genre::
 
+## Counteractt - Obscurantism
+
+tbd
+
+::genre::
+
 ## Creye - IV Aftermath
 
 tbd
@@ -238,7 +280,19 @@ tbd
 
 ::genre::
 
+## Daniel Brooke - gloom
+
+tbd
+
+::genre::
+
 ## Death Lens - What’s Left Now?
+
+tbd
+
+::genre::
+
+## decades. - Grayscales
 
 tbd
 
@@ -292,6 +346,12 @@ tbd
 
 ::genre::
 
+## Emarosa - High Horse Heaven
+
+tbd
+
+::genre::
+
 ## Eternal Dark - Cugetări
 
 tbd
@@ -299,6 +359,12 @@ tbd
 ::genre::
 
 ## Eugene McGuinness - Eugene McGuinness Versus the Universe
+
+tbd
+
+::genre::
+
+## Every Waking Moment - Liminal
 
 tbd
 
@@ -388,7 +454,19 @@ tbd
 
 ::genre::
 
+## HEALTH - R-TYPE V
+
+tbd
+
+::genre::
+
 ## Heiden - Cma
+
+tbd
+
+::genre::
+
+## HighWay - Last Call For Rock’N’Roll
 
 tbd
 
@@ -430,7 +508,7 @@ tbd
 
 ::genre::
 
-## james K - Friend Remixes
+## Jason Aldean - Songs About Us
 
 tbd
 
@@ -449,6 +527,12 @@ tbd
 ::genre::
 
 ## Joe Fujinoki - Glass Torso
+
+tbd
+
+::genre::
+
+## John Corabi - New Day
 
 tbd
 
@@ -484,6 +568,12 @@ tbd
 
 ::genre::
 
+## KNIFE BRIDE - sorry about the plague
+
+tbd
+
+::genre::
+
 ## Konquest - Dark Waters
 
 tbd
@@ -502,7 +592,19 @@ tbd
 
 ::genre::
 
+## LASTOUT - No Safe Way To Feel
+
+tbd
+
+::genre::
+
 ## Late Bush - Hoarses
+
+tbd
+
+::genre::
+
+## Life Lessons / Forever - Forever
 
 tbd
 
@@ -526,83 +628,101 @@ tbd
 
 ::genre::
 
-## Mahatmos - Aurora Spectralis
+## MAGNOLIA - Doomscrolling
 
-tbd
+Diese Band, die aus der Berliner Underground-Szene hervorgegangen ist, hat sich einen Namen für energiegeladene, emotional unverfälschte Auftritte gemacht. **Post-Hardcore** und **Alternative Rock**. Wir kennen das alle - um 3 Uhr morgens starren wir auf unsere Bildschirme, während es sich anfühlt, als würde die Welt untergehen. "Doomscrolling" fängt genau diese chaotische Energie mit schwebenden Vocals und schweren Riffs ein. Es ist laut, es ist nachvollziehbar und es ist die perfekte Hymne für alle, die ihr Handy weglegen und stattdessen einen Moshpit starten müssen.
 
-::genre::
+::genre::post hardcore, alt metal
+
+## Mahatmos - Aurora Spectralis *
+
+Ein Duo bestehend aus *Gianluca Meloni* (Techno-Veteran) und *Maurizio Loffredo* (Filmkomponist). Mit modularer Synthese und Live-Bearbeitung schlagen sie eine Brücke zwischen Clubkultur und Kino. Elektronischer **Ambient**, **Minimalismus** und hypnotischer **Techno**. Inspiriert von Größen wie *Brian Eno* und *Terry Riley* ist diese Platte ein verführerisch hypnotischer Slow-Burner. Es ist Musik für die Raumfahrt - oder zumindest dafür, an die Decke zu starren und sich vorzustellen, man schwebe durch eine Neon-Nebelwolke.
+
+::genre::minimal techno, ambient, minimal electronica
 
 ## Matteo Stella - Radeche Fonne
 
-tbd
+Stella ist eine Experimentalmusikerin, die sich auf lebende musikalische Organismen konzentriert und häufig Klänge aus dem italienischen Hinterland nutzt, um vielschichtige Klangtexturen zu schaffen. **Ambient**, **Drone**, **Field Recordings** und **Neoklassik**. Dies ist nicht nur ein Album, sondern ein Ökosystem, das man hören kann. Es fühlt sich an, als würde man in einem nebligen italienischen Tal erwachen, wo die Bäume summen und der Boden singt. Es ist tiefgründig, ruhig und perfekt für alle, die sich in einer Landschaft aus reinem Klang verlieren möchten.
 
-::genre::
+::genre::neo classic, drone, ambient, field recordings
 
-## Meghan Trainor - Toy With Me
+## Meghan Trainor - Toy With Me *
 
-tbd
+Der Star von "All About That Bass" kehrt mit ihrem siebten Studioalbum zurück, das in einer Zeit des Wandels - geprägt von Mutterschaft und persönlicher Weiterentwicklung - entstanden ist. **Pop**, **Doo-Wop** und **Retro-Pop**. Das ist das musikalische Äquivalent eines Barbie-Traumhauses auf Koffeinrausch. Es ist gewagt, frech und voller "Male Tears"-Frühstückshymnen und Millennial-Männerhass. Das ist Trainor in ihrer furchtlosesten Form, die beweist, dass "Shimmering" die beste Rache an den Hatern ist.
 
-::genre::
+::genre::alt pop, prog pop
+
+## Menace - Wheel Of Spikes
+
+Menace ist eine aufstrebende Kraft in der griechischen Metal-Szene, bekannt für ihren aggressiven und rasanten Ansatz im traditionellen **Thrash**. Purer **Heavy Metal** und **Speed Metal**. Wenn du die Zeiten vermisst, als Metal noch schnell genug war, um einen Supersportwagen hinter sich zu lassen, ist "Wheel of Spikes" genau das Richtige für dich. Es ist ein unerbittlicher Riff-Sturm, der sich anfühlt wie ein Stachelhandschuh ins Gesicht - pure, unverfälschte Geschwindigkeit für alle, die ihr Leben mit 200 BPM leben.
+
+::genre::speed metal, heavy metal, proto thrash metal
 
 ## Mesmer - Terrain Vague II
 
-tbd
+Ein experimentelles Trio, das sich für Vergänglichkeit und den Kontext von Klang in natürlichen und kulturellen Umgebungen begeistert. Dies ist ihr zweites Album mit eigenen Kompositionen. **Electroacoustic**, **Experimentalmusik** und **Field Recordings**. Eine akustische Landkarte des verlorenen Raums. Es ist eine immersive, oft fremdartig klingende Reise, auf der Live-Aufnahmen verzerrt und mit realen Umgebungsgeräuschen vermischt werden. Es handelt sich weniger um ein traditionelles Hörerlebnis als vielmehr um die Erkundung eines vergessenen Industriegeländes, das die Natur langsam zurückerobert.
 
-::genre::
+::genre::field recordings, ambient, experimental electronica
 
-## Mikaela Davis - Graceland Way
+## Mikaela Davis - Graceland Way *
 
-tbd
+Eine gefeierte Harfenistin und Songwriterin, die bereits mit Mitgliedern der *Grateful Dead* zusammengearbeitet hat. Dies ist ihr fünftes Studioalbum mit eigenen Kompositionen. **Psychedelic Folk**, **Cosmic Country** und harfenbetonter **Pop**. Ein kaleidoskopisches "Canyon Country"-Epos, aufgenommen in einem sonnigen Canyon in Glendale. Mit ihrer charakteristischen schimmernden Harfe und ihrer kristallklaren Stimme fühlt es sich an wie eine sonnenverwöhnte Reise durch die Geschichte des Laurel Canyon, die mystisches Licht mit einem Hauch von Neo-Western-Rauheit in Einklang bringt.
 
-::genre::
+::genre::cosmic country, psych folk, prog folk, prog pop
 
 ## Mildred - Fenceline
 
-tbd
+Entstanden aus dem einfachen Wunsch, zusammen abzuhängen und über Musik zu reden, wird diese Band oft als *Pavement* im Americana-Stil beschrieben. Sie sind das Aushängeschild des Labels Memorials of Distinction. **Folk**, **Indie-Rock** und **Ambient-Country**. Dieses Album ist die musikalische Version eines gemütlichen, leicht abgenutzten Autos, das durch eine Stadt fährt, die man schon sein ganzes Leben lang kennt. Es hat diesen unprätentiösen Charme - warme Gitarren und Songs über die Mittelmäßigkeit am Arbeitsplatz und das Essen von Fischstäbchen mit Freunden, bei denen man sich sofort wie zu Hause fühlt.
 
-::genre::
+::genre::alt folk, ambient folk, indie rock, americana
 
-## Miss Grit - Under My Umbrella
+## Miss Grit - Under My Umbrella *
 
-tbd
+Margaret Sohn (*Miss Grit*) ist eine koreanisch-amerikanische Musikerin, die für ihre Präzision und ihre "Don’t overthink it"-Einstellung beim Aufnehmen bekannt ist. Dies ist ihr zweites Original-Album in voller Länge. **Art-Pop**, **Trip-Hop** und **Dream Pop**. Miss Grit hat den Roboter offiziell ausgeschaltet und ihren menschlichen Gefühlen freien Lauf gelassen. Es ist üppig, cineastisch und gelegentlich rau. Wenn du Pop mit noir-artigen Atmosphären und einem Hauch existenzieller Angst magst, bietet dieser Stil dir reichlich Platz.
 
-::genre::
+::genre::art pop, dreampop, trip hop
 
 ## Mochyn Daer - Riverloom
 
-tbd
+Joni Lewis (*Mochyn Daer*) ist eine experimentelle Musikerin und Gong-Künstlerin, die sich intensiv von der walisischen Landschaft und Überlieferungen inspirieren lässt. Dies ist ihr erstes Album. **Ambient**, **Experimental** und Sonic Rituals. Es ist wie eine warme, neblige Decke für dein Gehirn. Mit Mondgongs, Klarinette und Klangschalen webt sie ein sonic cynefin – ein walisischer Begriff für einen Ort, an dem man sich zu Hause fühlt. Es ist perfekt, um sich auf den Boden zu legen und so zu tun, als wäre man ein moosbedeckter Stein in einem stillen Tal.
 
-::genre::
+::genre::ambient, experimental folk, ritual music
+
+## MONEYBALL - Dogcatcher *
+
+Dieses vierköpfige Projekt, das oft als Midwestcore bezeichnet wird, sorgt mit seinen rauen, energiegeladenen Auftritten und seinen großen Hooks für Aufsehen. **Midwest-Emo** und **Post-Hardcore** mit **Nu-Metal**- und **Alternative-Rock**-Einflüssen. Ein Midwest-Emo-Bop, der wie ein rechter Haken einschlägt. Er fängt die klassische Vorstadt-Angst mit eingängigen Hooks und einer hundezentrierten Ästhetik ein. Wenn du schon immer mal moshen wolltest, während du über deine Heimatstadt weinst, ist dies die richtige EP für dich.
+
+::genre::midwest emo, post hardcore
 
 ## Mortuary - Great Black Earth
 
-tbd
+Mortuary, echte OGs, die sich 1988 gründeten, haben sich 2008 wieder zusammengefunden. Diese EP ist ihre erste Veröffentlichung seit 2012 und lässt den primitiven Sound der Anfangszeit perfekt wiederaufleben. **Death/Thrash Metal**. Diese Platte ist wie eine Zeitmaschine in die 90er Jahre, die Ära des unaufhaltsamen musikalischen Genusses. Sie ist roh, Old-School und erhebt mit einem Sound, der ebenso großartig wie düster ist, einen starken Anspruch auf moderne Vorherrschaft.
 
-::genre::
+::genre::osdm, thrash metal
 
 ## Necroccultus - The Afterdeath Blackness
 
-tbd
+Diese 2003 gegründeten Underground-Militanten kehren fast zwei Jahrzehnte nach ihrem Debüt mit ihrem lang erwarteten zweiten Album zurück. **Old-School-Death-Metal** mit einer düsteren, bestialischen Atmosphäre. Urtümlich und unheilig. Es klingt, als würden die bestgehüteten Geheimnisse der mexikanischen Death-Metal-Szene der frühen 90er Jahre endlich aus einem Grab kriechen. Mit Keyboards auf ausgewählten Tracks ist es eine feierliche und höhlenartige Reise durch die höchsten Sphären der Toten.
 
-::genre::
+::genre::osdm
 
 ## NECROTTED - We Are The Gods That Tear Ourselves Apart
 
-tbd
+Die 2008 gegründete Band ist ein Träger der Hoffnung für den modernen Death Metal. Auf diesem sechsten Studioalbum sind Gastsänger wie Sven de Caluwé (*Aborted*) und Lukas Nicolai (*Mental Cruelty*) zu hören. **Blackened Death Metal** gemischt mit **Deathcore** und **Slam**. Brutale Geschwindigkeit trifft auf tiefgründige Gedanken. Während die Musik ein massiver Death-Metal-Kraftakt aus Blastbeats und Slams ist, sind die Texte philosophisch - es gibt sogar Passagen in Latein. Im Grunde genommen ist es ein Hochgeschwindigkeits-Workout für deinen Nacken und dein Gehirn.
 
-::genre::
+::genre::brutal death metal, blackened death metal, slamcore
 
-## Nequient - Avarice
+## Nequient - Avarice *
 
-tbd
+Bekannt für ihre intensive Bühnenpräsenz und ihre Texte, die sich gegen politische und kapitalistische Unterdrückung richten, nahmen sie dieses dritte Album bei Bricktop Recordings mit Pete Grossman auf. Eine Fusion aus **Crust-Punk**, **Thrash**, **Death Metal** und **Grindcore**. Es ist ein shreddy politischer Stinkefinger. Die Band greift Christofaschismus und Enshittification mit technischen Sweeps und vernichtenden Breakdowns an. Es ist der perfekte Soundtrack, wenn man zu Recht sauer auf den Zustand der Welt ist und jemanden darüber schreien hören will, unterlegt mit einem sich ständig verändernden metallischen Rand.
 
-::genre::
+::genre::crust, metallic hardcore, death metal, grindcore
 
 ## Nishla Smith - It's Getting Late, You'd Better Go Home
 
-tbd
+Eine multidisziplinäre Künstlerin, die dafür bekannt ist, Geschichtenerzählen mit Jazz zu verbinden. Sie ist eine herausragende Persönlichkeit der britischen Jazzszene und trat bereits an legendären Veranstaltungsorten wie Ronnie Scott’s auf. **Jazz**, **Vocal Jazz** und erzählerische **Chamber Music**. Exquisit und von eindringlicher Schönheit. Nishlas Stimme besitzt eine stille Kraft, die einen in Geschichten voller Sehnsucht und Trennung hineinzieht. Es ist das perfekte Album für jene Stimmung um 2 Uhr morgens, wenn die Welt zu groß erscheint und man sich einfach nur in einer wunderschönen, inneren Klanglandschaft verlieren möchte. Elegantes Songwriting vom Allerfeinsten.
 
-::genre::
+::genre::contemporary jazz, vocal jazz, chamber jazz
 
 ## Nixil/Drouth - Toward Dead Temples
 
@@ -633,6 +753,12 @@ Als visueller und musikalischer Provokateur hat *Tree* dieses Album während ein
 Eine aufstrebende fünfköpfige Band, die ihr Debüt in der britischen Metal-Szene gibt. **Moderner melodischer Death Metal**. Für ein Debütalbum ist dieses bemerkenswert felsenfest. Es verbindet die Aggressivität des traditionellen Death Metal mit modernen melodischen Hooks. Es ist heavy, ausgefeilt und bietet einen kraftvollen, gewichtigen Einstieg in das Schaffen einer Band, die klingt, als hätte sie bereits ihren Platz in den Katakomben des britischen Undergrounds gefunden.
 
 ::genre::modern metal, death metal
+
+## On Water - From The Depths... *
+
+Oft mit der experimentellen Metalcore-Szene in Verbindung gebracht, verbinden sie sanfte, akustisch geprägte Klänge mit unerwarteten, harten Breakdowns. **Experimenteller Indie-Folk** und **Chamber Pop** mit **Deathcore**-Elementen. Schwer genug, um ein Schlachtschiff zu versenken. Der Sound wird seinem Titel gerecht: tief, düster und gnadenlos aggressiv. Wenn du Breakdowns magst, bei denen es sich anfühlt, als würden sich die tektonischen Platten unter deinen Füßen verschieben, ist dies dein neuer Lieblings-Moshpit-Treibstoff. Es ist das klangliche Äquivalent dazu, ohne U-Boot auf dem Meeresgrund zu sein - unerbittlicher Druck.
+
+::genre::deathcore, experimental metalcore
 
 ## OOIOO / Lightning Bolt - The Horizon Spirals/The Horizon Viral *
 
@@ -688,6 +814,12 @@ Dieses Projekt ist das geistige Kind des charismatischen Frontmanns Dominic Jest
 
 ::genre::proto pop punk, glam punk, sleaze rock, power pop
 
+## Ptolomea - Canto XXXIII
+
+Das fünfte Originalalbum des Trios unter der Leitung von Bruno Masulli. Es ist das letzte Kapitel einer von Dantes "Göttlicher Komödie" inspirierten Viererreihe. **Epischer Doom Metal** mit **Thrash**-Einflüssen. Pure dramatische Erhabenheit. Es ist ein musikalischer Abstieg in die Hölle (Ptolomea ist die Zone für Verräter), der mit einem Aufstieg ins Licht endet. Erwartet donnernde Double-Bass-Drums, komplexe Shredding-Passagen und Gesang, der klingt, als gehöre er in eine gotische Kathedrale. Es ist im Grunde Geschichtsunterricht: Die Metal-Version, nur viel lauter und cooler.
+
+::genre::doom metal, thrash metal
+
 ## Pure Wrath - Bleak Days Ahead *
 
 Das Ein-Mann-Projekt des Multi-Instrumentalisten Januaryo Hardy (*Ryo*). Für dieses vierte Album hat er persönlich mit dem Schlagzeuger Yurii Ciel (ex-*White Ward*) aufgenommen. **Atmospheric Black Metal** mit progressiven und symphonischen Elementen. Dies ist eine trostlose Klage für diejenigen, die in der erstickenden Routine des modernen industriellen Lebens versinken. Es ist kälter und konfrontativer als seine früheren Werke und nutzt Mellotron, Orgel und Saxophon, um eine noir-artige Black-Metal-Atmosphäre zu schaffen. Es ist eine schwere, viszerale Reise, die sich anfühlt wie kalter Winterregen, der auf eine graue, urbane Landschaft fällt.
@@ -742,6 +874,12 @@ Nach ihrem Debüt, das auf Platz 1 der ARIA-Charts landete, wurde dieses zweite 
 
 ::genre::alt rock, post grunge, indie rock, indie folk
 
+## Sabancaya - Dispirited *
+
+Dies ist das ursprüngliche Debüt-Album der Band in voller Länge. Melodic Death Metal (von der Band oft scherzhaft als "Femihalvdödsmetall" oder "Halb-Tot-Metal" bezeichnet). Das ist kein gewöhnlicher "wütender Typ im Keller"-Metal. Es ist ausgefeilter schwedischer **Melodeath**, der vernichtende Riffs mit überraschend melodischen Hooks in Einklang bringt. Stell dir das wie einen wunderschönen, dunklen Wald vor, in dem die Bäume gelegentlich versuchen, dich zu fressen. Songs wie "Sanctified Suffering" sind perfekt, wenn du dich episch fühlen willst, während du etwas Alltägliches tust, wie zum Beispiel Staubsaugen.
+
+::genre::melo death metal
+
 ## Sepultura - The Cloud of Unknowing *
 
 Das Album aus der Abschiedsepoche der legendären Band. Es ist die einzige Studioaufnahme, auf der Schlagzeuger *Greyson Nekrutman* zu hören ist. **Thrash**- und **Progressive-Metal** mit überraschend vielen experimentellen Elementen, darunter orchestrale Anklänge, Jazz-Einflüsse und sogar Klavier. Ein bittersüßer Abschied, der sich weigert, einfach nur die Hits wiederzukäuen. Ein Titel ist eine vollwertige Powerballade ("Beyond the Dream") mit Mitgliedern von *Titãs*, während ein anderer so klingt, als stamme er aus einem parallelen *Tool*-Universum. Es ist heavy, abwechslungsreich und furchtlos - ein letzter kreativer Feuerwerk, bevor der Vorhang über eine 40-jährige Karriere fällt.
@@ -777,6 +915,24 @@ Was 2016 als Soloprojekt des Multi-Instrumentalisten Oscar Rask begann, hat sich
 Unter der Leitung des legendären Sängers Chris Barnes (ehemals *Cannibal Corpse*) ist die Band seit über 30 Jahren ein fester Bestandteil der Groove-orientierten Death-Metal-Szene. Erwarte nichts Geringeres als den charakteristischen brutalen Groove, für den *Six Feet Under* berühmt ist. Er ist heavy, unerbittlich und besticht durch Barnes’ ikonisches Kehlgrunzen, das genau die Art von grausigem Midtempo-Gemetzel liefert, nach dem sich die Fans sehnen.
 
 ::genre::death metal, groove metal
+
+## Snake Father - SAGITTAL
+
+Eine rasant aufstrebende Band der texanischen Extreme-Szene, bekannt für ihre technische Versiertheit, die an die MySpace-Ära erinnert. **Deathcore** mit Elementen des analogen Horrors. Freut euch auf teuflische Breakdowns und unbändige Energie. Es handelt sich um eine düstere, cineastische Art von Deathcore, die sich anfühlt, als würde ein endloser Schleier der Gewalt über den Kopf gezogen - ein Muss für Fans des Härtesten, was Texas zu bieten hat.
+
+::genre::deathcore, slamcore
+
+## Stalemate Of Wills - Existence Denied *
+
+Das 2023 von Derek Kovacs gegründete Trio besteht aus den Szeneveteranen Jake Morris und Bob McSherry. **Sludgecore**, **Doom** und **Hardcore**. Eine salzige, rostige Variante des New Orleans Sludge. Textlich ist es ein tiefer Eintauch in die Hoffnungslosigkeit, die man im Laufe des Lebens erlebt, vorgetragen mit heruntergestimmten, "meat and potatoes"-Riffs, die deine Dielen zum Vibrieren bringen werden.
+
+::genre::sludge metal, doom metal, metallic hardcore
+
+## Sugar Spine - Soul Before Spirit
+
+Ein Projekt, das für seine energiegeladene Fusion bekannt ist und kürzlich zum Prime Collective gestoßen ist. Eine Verschmelzung von **Metalcore** und **Nu-Metal**. Ein roher, moderner Metal-Angriff, bei dem emotionale Tiefe im Vordergrund steht. Er schafft einen Ausgleich zwischen der chaotischen Energie des Metalcore und dem rhythmischen Schwung des Nu-Metal und liefert so den Soundtrack für alle, die ihre Breakdowns mit einer Prise introspektiver Härte serviert bekommen möchten.
+
+::genre::nu metalcore, modern metalcore
 
 ## SydeBoob Duo - Au Naturel
 
@@ -850,11 +1006,29 @@ Eine seit einem Jahrzehnt bestehende vierköpfige Band (*Tommy 666*, *Lex Thunde
 
 ::genre::heavy rock, heavy metal, speed metal, hard rock
 
+## Trace Monument - Hollow Land
+
+Eine Zusammenarbeit zwischen dem Komponisten Daniel Elms und Adam Blyth (von der Band *Blind Monarch*). **Experimentelle Instrumentalmusik**, **zeitgenössische Klassik** und verstärkte Synthese. Diese Platte, die als Phantomort, den man betreten kann beschrieben wird, wurde gemeinsam in einer Scheune auf dem englischen Land geschrieben und aufgenommen. Sie fängt die Klänge der Landschaft ein - Vogelgesang und Kirchenglocken -, verwoben mit klaren E-Gitarren und verträumten Synthesizern. Es ist ein gespenstisches, immersives Erlebnis für das Hören zu später Stunde.
+
+::genre::nu classic, modern classic, cine modern classic
+
 ## TROUM - EmphasYs
 
 *TROUM* (altdeutsch für "Traum") sind seit Ende der 90er Jahre aktiv und gelten als Pioniere hypnotischer, transzendentaler Klanglandschaften. **Drone**, **Dark Ambient** und **Post-Industrial**. Bei EmphasYs geht es weniger um Songs als vielmehr um elementare Zustände. Es ist eine Studie der Resonanz, in der sich Akustikgitarren und Saxophone in schimmernde Gase und irisierenden Äther auflösen. Es fühlt sich an, als befände man sich in einer sich langsam wandelnden Klangwolke.
 
 ::genre::drone, dark ambient, post industrial
+
+## Uz:ME - rondo
+
+Ein Projekt mit der legendären Synchronsprecherin (Seiyuu) Rie Tanaka (bekannt aus *Gundam SEED* und *Chobits*). **Metalcore**, **Visual Kei** und **Gothic Metal** mit einer Sängerin. Hier trifft Anime-Pracht auf Heavy-Metal-Rauheit. Es ist dramatisch, theatralisch und enthält einen *Stutter-House*-Remix sowie eine Epilog-Version ihres Titels "ELPIS". Es ist ein Gothic-Metal-Tanz, der sich anfühlt wie der Titelsong einer dunklen Fantasy-Serie, die noch nicht gedreht wurde.
+
+::genre::goth metal, kawaii metal, modern metalcore
+
+## Vargkvint - Jorden kallar
+
+Das Soloprojekt der vielseitigen Künstlerin Sofia Nystrand, aufgenommen in Zusammenarbeit mit dem Komponisten Jakob Lindhagen im renommierten LEITER-Studio in Berlin. **Ambient**, **moderne Klassik** und schwedische **Folk**. Eine ätherische Erkundung des Anthropozäns - Trauer um einen sich wandelnden Planeten, vermischt mit dem Staunen über das, was bleibt. Mit Zithern, Chor und Synthesizern entsteht eine Klanglandschaft, die sich anfühlt wie ein stiller Spaziergang durch einen frostbedeckten Wald. Es ist eindringlich schön und zutiefst melancholisch.
+
+::genre::modern classic, ambient, folk
 
 ## VINSON - RAW HONEY
 
@@ -867,6 +1041,18 @@ Ein gebürtiger Detroiter, dessen Sound in der reichen Geschichte seiner Stadt v
 Nach ihrem 2024 erschienenen Album "The Way of Ancients" haben sie sich schnell zu einer aufstrebenden Kraft in der US-amerikanischen Blackened-Death-Szene entwickelt, indem sie chaotische Riffs mit triumphalen Melodien verbinden. **Melodic Blackened Death Metal**. Es ist wie eine Achterbahnfahrt durch einen kosmischen Strudel. In einem Moment werden Sie von Blastbeats und finsteren Knurren überrollt, im nächsten schweben Sie in einer traumhaften, ätherischen Melodie. Energiegeladener Metal für alle, die ihre Dunkelheit gerne mit einer Prise Epik genießen.
 
 ::genre::melo death metal, blackened death metal
+
+## Waste - The Weight Of Everything
+
+Die Band, eine aufstrebende Größe in der Metal-Szene von Minnesota, steht bei Seek & Strike Records unter Vertrag. Mitreißender **Deathcore** und **Metalcore**. Dieses Album ist eine rasante Kollision aus roher Aggression und technischer Präzision. Es klingt, als würde jemand versuchen, einem Erdrutsch zu entkommen - gewaltig, erdrückend und unerbittlich. Es ist der perfekte Soundtrack, wenn man das buchstäbliche Gewicht der Musik auf der Brust spüren möchte.
+
+::genre::deathcore, modern metalcore
+
+## When Venus Weeps - The Endless Wandering of Those Who Love Life
+
+Seit 2016 sind sie aktiv und bekannt für ihren emotionalen, energiegeladenen Sound, der schwere Riffs mit elektronischen Klängen verbindet. **Modern Metal**, **Electronica** und **Post-Hardcore**. Eine weitläufige, emotionale Reise durch die Höhen und Tiefen des modernen Lebens. Es ist Katharsis, zu der man tanzen kann, eine Mischung aus den schwebenden Vocals des Post-Hardcore und einem digitalen Glanz, der die Energie aufrechterhält, selbst wenn die Themen schwer werden.
+
+::genre::modern post hardcore, modern metalcore
 
 ## Whirlwind - 1640
 
