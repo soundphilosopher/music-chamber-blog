@@ -606,183 +606,171 @@ tbd
 
 ## Nixil/Drouth - Toward Dead Temples
 
-tbd
+Nixil ist bekannt für „surrealistischen“ Black Metal, während Drouth einen „wütenden“ und technisch ausgefeilten, vom Death Metal beeinflussten Black-Metal-Sound präsentiert. **Black Metal** (*Nixil*) und **Black/Death Metal** (*Drouth*). Diese Split-Veröffentlichung ist buchstäblich ein Schlag aus Rauch und Feuer. Nixil sorgt für die unheimliche, surreale Atmosphäre, während Drouth die klangliche Gewalt liefert, die einem wie ein Ziegelstein ins Gesicht trifft. Es ist eine viszerale Reise durch zerfallende, uralte Ruinen - perfekt, wenn man spüren möchte, wie das Gewicht der Moderne durch rasante Riffs dem Erdboden gleichgemacht wird.
 
-::genre::
+::genre::black metal, blackened death metal
 
 ## Noah Kahan - The Great Divide
 
-tbd
+*Kahan* gelang 2022 mit seinem Durchbruchalbum "Stick Season" der Sprung zum Star. Dieses vierte Studioalbum knüpft an diesen riesigen Erfolg an und wurde in Zusammenarbeit mit Gabe Simon und Aaron Dessner produziert. Es bietet rauen **Folk-Pop** und **Indie-Folk** mit hymnischen Akustikarrangements. Während es in "Stick Season" darum ging, festzustecken, dreht sich "The Great Divide" um die Kluft, die entsteht, wenn man endlich aufbricht. Es ist ein emotionaler Schlag in die Magengrube, der die Kluft zwischen deinem früheren Ich und deinem neuen Leben erforscht, dargebracht mit Kahans typischer Ehrlichkeit eines liebevollen älteren Bruders und genügend Refrains zum Mitsingen, um einen Roadtrip quer durch das Land zu beflügeln.
 
-::genre::
+::genre::indie folk, folk pop, alt folk
 
 ## Nxdia - Lovemesick
 
-tbd
+Nxdia erlangte mit der Queer-Hymne "She Likes a Boy" viralen TikTok-Ruhm und knüpft mit dieser neuen EP an ihr Mixtape "I Promise No One’s Watching" aus dem Jahr 2025 an. **Alt-Pop** mit tanzbaren Rhythmen und einer charakteristischen Mischung aus englischen und arabischen Texten. Von der Künstlerin als Manifest über Versager beschrieben, ist dies eine Sammlung düsterer Liebeslieder, die zum Weintanzen gedacht sind. Es ist eine energiegeladene, rave-taugliche emotionale Katharsis durch Liebeskummer - roh, eingängig und unapologetisch queer.
 
-::genre::
+::genre::alt pop
 
 ## Oliver Tree - Love You Madly, Hate You Badly
 
-tbd
+Als visueller und musikalischer Provokateur hat *Tree* dieses Album während einer zweijährigen Reise in 82 Ländern auf allen 7 Kontinenten aufgenommen. Eine chaotische Mischung aus **Alternative Rock**, Dancefloor **Drum & Bass** und **Electropop**. Dies ist Trees Reisebericht "Von der Antarktis nach Afghanistan". Es ist eine Achterbahnfahrt mit 17 Songs, die zwischen rasanten Beats und verletzlichen Balladen wechselt und einen zerstreuten Künstler widerspiegelt, der in einer Welt industrieller Perfektion nach Authentizität sucht. Es ist farbenfroh, absurd und wahrscheinlich das einzige Album dieses Jahres, das mit einem in der Antarktis gedrehten Dokumentarfilm in Spielfilmlänge einhergeht.
 
-::genre::
+::genre::d&b, alt rock, electropop
 
 ## Olympus - Knowing It Shall Wake
 
-tbd
+Eine aufstrebende fünfköpfige Band, die ihr Debüt in der britischen Metal-Szene gibt. **Moderner melodischer Death Metal**. Für ein Debütalbum ist dieses bemerkenswert felsenfest. Es verbindet die Aggressivität des traditionellen Death Metal mit modernen melodischen Hooks. Es ist heavy, ausgefeilt und bietet einen kraftvollen, gewichtigen Einstieg in das Schaffen einer Band, die klingt, als hätte sie bereits ihren Platz in den Katakomben des britischen Undergrounds gefunden.
 
-::genre::
+::genre::modern metal, death metal
 
-## OOIOO / Lightning Bolt - The Horizon Spirals/The Horizon Viral
+## OOIOO / Lightning Bolt - The Horizon Spirals/The Horizon Viral *
 
-tbd
+Eine legendäre Split-LP mit YoshimiO (Schlagzeuger bei den *Boredoms*) und dem frenetischen Noise-Duo Brian Chippendale und Brian Gibson. **Experimenteller Noise-Rock**, **Psychedelic Rock** und von Gamelan inspirierter **Experimentalismus**. Eine titanische Kraft aus Percussion und Fuzz. *OOIOO* präsentiert hypnotische, eisenharte Gamelan-Sagen, die sich spiralförmig nach oben winden, während *Lightning Bolt* mit 200 bpm Schlägen ins Gesicht kontert. Es ist ein rhythmisches Kaninchenloch, in dem Maschinengewehr-Basslines auf akrobatischen Gesang treffen - eine glorreiche, gleichberechtigte Tag-Team-Leistung.
 
-::genre::
-
-## Pearl - Love and Grief
-
-tbd
-
-::genre::
+::genre::noise rock, psych rock, experimental rock
 
 ## Peter Carlsohn’s The Rise - Raising The Roof
 
-tbd
+Unter der Leitung von Peter Carlsohn, dem langjährigen Bassisten der legendären christlichen Rockband *Jerusalem*. Dies ist sein zweites Solo-Projekt mit seiner Band *The Rise*. **Melodischer Hardrock** und **Classic Rock** mit einem Hauch von **AOR**. Ein kraftvolles neues Kapitel von einem Veteranen der Szene. Es vereint fünf Jahrzehnte Erfahrung zu einem Sound, der sowohl nostalgisch als auch modern ist. Carlsohns unverkennbares Bassspiel bildet das Fundament für Tracks, die mit emotionalem Gesang und einer ausgefeilten schwedischen Produktion das Dach zum Beben bringen.
 
-::genre::
+::genre::melo rock, hard rock, arena rock
 
 ## Pig’s Blood - Destroying The Spirit
 
-tbd
+Eine brutale Underground-Band, die bei Dark Descent Records unter Vertrag steht und für ihren Scorched-Earth-Ansatz in der extremen Musik bekannt ist. Glühend heißer **Blackened Death Metal** und **War Metal**. Das ist Gewalt in Reinkarnation. Ein unheiliger Ansturm aus vulkanischen Riffs und abgrundtiefer Feindseligkeit, der ein neues Level an unerbittlicher Brutalität erreicht. Es klingt wie die Apokalypse im Mixer - perfekt für alle, die im Klang eines Baseballschlägers im Gesicht meditative Kontemplation finden.
 
-::genre::
+::genre::blackened death metal, war metal
 
-## Pleasure Pill - ALIVE
+## Pleasure Pill - ALIVE *
 
-tbd
+Eine fünfköpfige Band unter der Leitung der Brüder Jonah und Ethan Paz. Sie sind bekannt für ihre stadiongroßen Ambitionen und einen Sound, der an Giganten der 90er wie *Oasis* oder *The Kinks* erinnert. Eine stimmungsvolle Mischung aus **Britpop**-Revival, **Indie-Rock** und **Power-Pop**. Wenn du diesen selbstbewussten, melodischen Gitarrensound der Mitte der 90er vermisst hast, ist dies genau das Richtige für dich. Es ist amphetaminartige Energie, die sich anfühlt wie ein sonniger Tag in einem Vintage-Band-T-Shirt. Es ist eingängig, ehrlich und fängt diese jugendliche Wanderlust-Stimmung perfekt ein.
 
-::genre::
+::genre::britpop, power pop, indie rock
 
-## Plini - An Unnameable Desire
+## Plini - An Unnameable Desire *
 
-tbd
+*Plini Roessler-Holgate* ist eine autodidaktische Meisterin der kopflosen Gitarre und eine führende Persönlichkeit der modernen Instrumental-Prog-Szene, die von Steve Vai berühmt gelobt wurde. **Progressiver Instrumentalrock**, **Jazz-Fusion** und Djent-naher melodischer Metal. Das ist musikalischer Sonnenschein. Selbst wenn die Taktarten seltsam werden und die Riffs schwer werden, liegt eine innewohnende Helligkeit und ein Optimismus im Spiel. Es fühlt sich an wie eine hochauflösende Tour durch eine futuristische Stadt. Es ist virtuos, aber niemals effekthascherisch, und konzentriert sich auf wunderschöne Melodien, die einen vergessen lassen, dass es keinen Gesang gibt.
 
-::genre::
+::genre::prog rock, post rock, jazz fusion, instrumental
 
-## Portrayal of Guilt - ...Beginning of the End
+## Portrayal of Guilt - ...Beginning of the End *
 
-tbd
+Dieses Trio, das als eine der produktivsten und furchteinflößendsten Bands der modernen Extremmusik gilt, hat sich einen Ruf dafür erarbeitet, Genres zu einem geschlossenen Albtraum zu verschmelzen. **Blackened Screamo**, **Hardcore** und **Industrial Sludge**. Klangliche Klaustrophobie pur. Es klingt, als wäre man in einem sinkenden U-Boot gefangen, während die Wände schreien. Es ist kurz, scharf und auf die bestmögliche Art zutiefst unangenehm. Die Industrial-Elemente verleihen ihrem gewohnt chaotischen Sound eine kalte, mechanische Angst, sodass er sich wie der Soundtrack zu einer digitalen Apokalypse anfühlt.
 
-::genre::
+::genre::post hardcore, screamo, sludge metal
 
-## Poseydon - Time Is A River And The Waters Are Red
+## Poseydon - Time Is A River And The Waters Are Red *
 
-tbd
+Poseydon sind seit den frühen 90er Jahren aktiv und haben trotz zahlreicher Besetzungswechsel ihre Stellung als eine der Säulen der belgischen Metal-Szene behauptet. Dies ist ihr erstes Album seit mehreren Jahren. **Technischer Death Metal** und **Old-School-Thrash**. Eine blutgetränkte Reise durch die Geschichte. Die Musik ist komplex und präzise wie ein Uhrwerk aus rostigen Klingen. Sie behandelt Themen wie menschliche Konflikte und den unerbittlichen Lauf der Zeit. Sie ist düster, gnadenlos und raffiniert - perfekt, wenn du Metal suchst, der sowohl Köpfchen als auch Muskeln hat.
 
-::genre::
+::genre::tech death metal, tech thrash metal
 
 ## Powerrage - Beast
 
-tbd
+Eine erfahrene norwegische Band, die für ihren schnörkellosen Rock’n’Roll-Stil bekannt ist und mit zweistimmigen Gitarrenharmonien und rauen Vocals den Geist der 80er am Leben erhält. **Hardrock** und **Heavy Metal** mit einer kräftigen Prise *AC/DC*-inspiriertem Groove. Es ist genau das, was der Titel verspricht - ein Biest. Es ist Denim-and-Leather-Musik, die dazu gedacht ist, bei maximaler Lautstärke auf der Autobahn gespielt zu werden. Sie versucht nicht, das Rad neu zu erfinden; sie will einfach alles in ihrem Weg mit massiven Riffs und mitreißenden Refrains plattwalzen. Einfach, effektiv und sehr laut.
 
-::genre::
+::genre::hard rock, heavy rock, proto heavy metal
 
 ## Premier Jester - Turn You On
 
-tbd
+Dieses Projekt ist das geistige Kind des charismatischen Frontmanns Dominic Jester, der jahrelang in der Londoner Underground-Szene unterwegs war, bevor er dieses energiegeladene Quartett gründete. **Glam-Punk**, **Power-Pop** und **Sleaze-Rock**. Man stelle sich eine Mischung aus den *New York Dolls* der 1970er Jahre und den frühen *Cheap Trick* vor. Das ist ein neongetränkter, in Lederjacken gekleideter Aufruhr. Es ist laut, auffällig und macht ganz unverhohlen Spaß. In den Texten geht es um Nächte in der Stadt und fragwürdige Entscheidungen, vorgetragen mit einem Grinsen und einer gewissen Prahlerei. Wenn du Musik für eine Dachterrassenparty brauchst, die vielleicht mit einem Besuch der Polizei endet, dann ist das genau das Richtige.
 
-::genre::
+::genre::proto pop punk, glam punk, sleaze rock, power pop
 
-## Pure Wrath - Bleak Days Ahead
+## Pure Wrath - Bleak Days Ahead *
 
-tbd
+Das Ein-Mann-Projekt des Multi-Instrumentalisten Januaryo Hardy (*Ryo*). Für dieses vierte Album hat er persönlich mit dem Schlagzeuger Yurii Ciel (ex-*White Ward*) aufgenommen. **Atmospheric Black Metal** mit progressiven und symphonischen Elementen. Dies ist eine trostlose Klage für diejenigen, die in der erstickenden Routine des modernen industriellen Lebens versinken. Es ist kälter und konfrontativer als seine früheren Werke und nutzt Mellotron, Orgel und Saxophon, um eine noir-artige Black-Metal-Atmosphäre zu schaffen. Es ist eine schwere, viszerale Reise, die sich anfühlt wie kalter Winterregen, der auf eine graue, urbane Landschaft fällt.
 
-::genre::
-
-## Quiet Light - Blue Angel Sparkling Silver 2
-
-tbd
-
-::genre::
+::genre::atmo black metal, avant black metal
 
 ## Razen - Stained Glass Starling
 
-tbd
+Eine Zusammenarbeit zwischen dem radikalen belgischen Duo Razen (Brecht Ameel und Kim Delcour) und dem niederländischen Komponisten und Theatermusiker Dick Van der Harst. **Experimenteller akustischer Minimalismus**, Deep Listening und **improvisierter Folk**. Das ist halluzinatorische akustische Erkundung. Das Album enthält fünf lange Stücke, die sich langsam entfalten und dabei unkonventionelle Intonationen sowie vielfältige Instrumente nutzen. Es wirkt uralt und doch futuristisch - als säße man in einer stillen Kathedrale, während Staubkörnchen zu einer Frequenz tanzen, die nur man selbst hören kann.
 
-::genre::
+::genre::experimental electronica, ambient, prog folk, experimental folk, improvisation
 
 ## Remember The Monsters - War Of Attrition
 
-tbd
+Unter der Leitung von Gründer Ashten Banks besteht die aktuelle Besetzung der Band aus Sänger Andrew de Neef und dem kraftvollen Schlagzeuger Elias Mallin (der bereits mit Filter und Kesha auf Tour war). **Modern Rock**, **Cinematic Rock** und **Post-Hardcore**. Produziert von Matt Good (*Asking Alexandria*), ist dieses Album eine schonungslose psychologische Autopsie der Emotionen. Es ist atmosphärisch, explosiv und hymnisch - wie ein hochkarätiger Actionfilm für die Ohren, der sich nicht scheut, sich verletzlich zu zeigen, wenn es um toxische Machtverhältnisse und dunkle Romantik geht.
 
-::genre::
+::genre::modern metal, cine rock, post hardcore
 
-## Reverend and the Makers - Is This How Happiness Feels?
+## Reverend and the Makers - Is This How Happiness Feels? *
 
-tbd
+Dies ist das achte Studioalbum der von Jon McClure angeführten Band, das auf ihren Top-10-Hit "Heatwave in the Cold North" aus dem Jahr 2023 folgt. Eine mitreißende Mischung aus **Indie-Rock**, Vintage-**Soul** und **Dance-Rock**. Dies ist der freudige Triumph der Band. Sie tauscht einen Teil ihres früheren Madchester-Funk gegen üppigen, mitreißenden Soul und prägnante Geschichtenerzählung ein. Auf einem Titel, "Haircut", ist sogar die britische Schauspielikone Vicky McClure als Sängerin zu hören. Es ist der perfekte Soundtrack für einen sonnigen Nachmittag, an dem man philosophisch gestimmt ist, aber trotzdem grooven möchte.
 
-::genre::
+::genre::indie rock, soul, melo rock, ebm
 
 ## Rikets - Tales From The Construct AlphaA v.1
 
-tbd
+Nach einem Jahrzehnt voller EPs und Live-Auftritte veröffentlichte diese erfahrene Band unter der Leitung von Sänger Flid (Johan Fridel) ihr erstes Studioalbum in voller Länge. Aggressiver schwedischer **Death Metal**, gemischt mit **Thrash** und **Punk**. Dies ist eine klangliche Zeitmaschine. Jeder Song (gesungen auf Schwedisch) behandelt ein anderes dunkles Kapitel der Geschichte - von Hungersnot und Krieg bis hin zur modernen Entfremdung. Es ist gnadenlos heavy, aber überraschend zum Nachdenken anregend, wie eine Geschichtsstunde, die mit einer Kettensäge erteilt wird.
 
-::genre::
+::genre::death metal, thrash metal, d-beat
 
 ## Ringo Starr - Long Long Road
 
-tbd
+Dies ist sein 22. Studioalbum. Es setzt seine intensive Auseinandersetzung mit der Country-Musik in der späten Phase seiner Karriere fort, gemeinsam mit dem Produzenten T Bone Burnett. Friedlicher **Country**, **Americana** und **Country-Rock**. Es klingt wie ein gemütlicher Morgen auf der Veranda mit einer 85-jährigen Legende. Es ist schlicht, charmant und voller Ringos typischem "Peace and Love". Mit Gästen wie *St. Vincent* und *Sheryl Crow* ist es eine warme, urige Umarmung, die beweist, dass man nie zu alt ist, um seine erste Liebe wiederzuentdecken.
 
-::genre::
+::genre::americana, country folk, country rock
 
 ## Riverflame - Lunar Crusades
 
-tbd
+Dies ist eine Supergroup, die sich aus Mitgliedern von *Hail Spirit Noir* und *Ponte Del Diavolo* zusammensetzt. Epischer mittelalterlicher **Black Metal** und melodischer Black Metal mit einem Hauch von **Power Metal**. Mit eisigen Riffs und bardenhaften Erzählungen erweckt sie einen Fantasy-Roman zum Leben. Sie ist filmisch, theatralisch und voller Zauberer und Schlachtfelder. Sie ist der Soundtrack für ein dämonisches Ross, das durch ein gefrorenes Tal reitet, während der Mond schweigend zusieht.
 
-::genre::
+::genre::melo black metal
 
-## Roman Candle - Unadulterated
+## Roman Candle - Unadulterated *
 
-tbd
+Gegründet von Piper Ferrari und Jonas Vece nach ihrem vorherigen Projekt *sowithout.*, haben sie sich zu einer herausragenden Größe in der Underground-Szene von Las Vegas entwickelt. Viszeraler **Screamo**, **Hardcore** und ein **Emo**-Revival. Das ist eine psychologische Autopsie, vertont. Es ist roh, laut und bewusst ungeschliffen, mit Schwerpunkt auf Themen wie Rache und Überleben. Es ist der Sound von jemandem, der die Zähne fletscht und sich weigert, nachzugeben - perfekt, wenn man in die Leere schreien muss, um sich danach besser zu fühlen.
 
-::genre::
+::genre::post hardcore, emocore, screamo
 
 ## Ruby Fields - Small Achievements
 
-tbd
+Nach ihrem Debüt, das auf Platz 1 der ARIA-Charts landete, wurde dieses zweite Album von vier Jahren voller lokaler Herausforderungen geprägt: Isolation während der Pandemie, Überschwemmungen und persönliche Trennungen. Mitreißender, rauer **Indie-Rock** und grungiger **Alternative-Rock** mit Anklängen an **Heartland-Rock** und **Bushland-Folk**. Stellt es euch vor als ein musikalisches Tagebuch, das bei ein paar Bier im örtlichen Pub geschrieben wurde. Es ist verletzlich, selbstbewusst und feiert die kleinen Siege - wie das Überstehen einer Überschwemmung oder eines schlechten Tages - mit hymnischen Hooks, die den Schmerz ein bisschen mehr wie ein Lachen wirken lassen.
 
-::genre::
+::genre::alt rock, post grunge, indie rock, indie folk
 
-## Sepultura - The Cloud of Unknowing
+## Sepultura - The Cloud of Unknowing *
 
-tbd
+Das Album aus der Abschiedsepoche der legendären Band. Es ist die einzige Studioaufnahme, auf der Schlagzeuger *Greyson Nekrutman* zu hören ist. **Thrash**- und **Progressive-Metal** mit überraschend vielen experimentellen Elementen, darunter orchestrale Anklänge, Jazz-Einflüsse und sogar Klavier. Ein bittersüßer Abschied, der sich weigert, einfach nur die Hits wiederzukäuen. Ein Titel ist eine vollwertige Powerballade ("Beyond the Dream") mit Mitgliedern von *Titãs*, während ein anderer so klingt, als stamme er aus einem parallelen *Tool*-Universum. Es ist heavy, abwechslungsreich und furchtlos - ein letzter kreativer Feuerwerk, bevor der Vorhang über eine 40-jährige Karriere fällt.
 
-::genre::
+::genre::thrash metal, prog metal
 
-## Setting - Setting
+## Setting - Setting *
 
-tbd
+Ein Trio erfahrener Musiker (Nathan Bowles, Jaime Fennelly, Joe Westerlund), deren Werdegang Gruppen wie *Megafaun*, *Bon Iver* und *Mind Over Mirrors* umfasst. Experimentelle amerikanische Musik mit organischen **Drone**s, **Art-Pop** und elektroakustischen Klanglandschaften. Dieses Album wird als lehmiger Puls himmlischer Transzendenz beschrieben. Es ist eine verführerische, erdige Platte, die sich wie eine weniger kitschige Version von **Krautrock** oder New-Age-Ambiente anfühlt. Sie nutzt alles von Banjo und Zithern bis hin zu Kassettenloops und Drumcomputern, um einen hypnagogischen Groove zu erzeugen, der pure gemeinschaftliche Freude ist. Es ist die perfekte Musik, wenn man sich „im Windschatten“ fühlen möchte.
 
-::genre::
+::genre::dronw, krautrock, art pop, avant pop, prog pop
 
-## Sewer Altar - Fever Dreams Of Vengeance
+## Sewer Altar - Fever Dreams Of Vengeance *
 
-tbd
+Finnische Provokateure, die zuvor bereits eine Demo veröffentlicht haben; sie sind bekannt für ihre gesellschaftliche Respektlosigkeit und ihren knochenbrechenden Sound. Rasender **Deathgrind** gemischt mit **Hardcore**-Energie und **D-Beat**. Ein 21-minütiger Dampfwalzen-Lärm, der es schafft, sowohl gnadenlos als auch seltsam unterhaltsam zu sein. Es ist wie ein wildes Tier, das gefährliche Stimmungsschwankungen durchmacht. Textlich tauscht es Gore gegen gesellschaftspolitische Paranoia ein und verwandelt den Kampf der Unterschicht in ein spirituelles Totem. Wenn du es genießt, von der Energie mitgerissen zu werden, ohne dabei den klaren Blick zu verlieren, ist dies dein Soundtrack.
 
-::genre::
+::genre::deathgrind, d-beat, crust
 
-## Shadowlands - 004
+## Shadowlands - 004 *
 
-tbd
+Ein Quartett, das nun schon seit zehn Jahren zusammen spielt, bestehend aus den Schwestern Amy und Angie Sabin an Gesang, Synthesizern und Gitarre, unterstützt von einem soliden rhythmischen Fundament aus Bass und Schlagzeug. Eine kaleidoskopische Mischung aus **Post-Punk**, **Darkwave** und von den 80ern inspiriertem Horror-Synth. Man stelle sich klassischen **Goth-Rock** mit einem Hauch von **Shoegaze** und **Psychedelic** vor. Das ist anspruchsvolle Noir-Cinematic-Musik für Ihre nächste Absinth-getränkte Soirée. Sie ist stimmungsvoll und melancholisch, lässt aber die Gitarren laut erklingen und den Gesang in die Höhe steigen. Ein Track, "Clicks", thematisiert sogar die Leere digitaler Bestätigung mit einem Puls, der wirklich zum Tanzen einlädt. Es ist wie ein wunderschön düsterer Trip durch einen gespenstischen Nachtclub von 1982.
 
-::genre::
+::genre::post punk, shoegaze, dark wave, psych rock
 
 ## Since The Death - Entangled
 
-tbd
+Was 2016 als Soloprojekt des Multi-Instrumentalisten Oscar Rask begann, hat sich nun erstmals zu einer vollwertigen Live-Band entwickelt. Eine kraftvolle Mischung aus **Death Metal**, **Thrash** und **Black Metal**. Der Sound wird als knorriger, todesmetallischer skandinavischer Thrash mit einer kreissägenartigen Energie beschrieben. Stell dir vor, du wärst in einen spinnenartigen Kokon gehüllt, während in der Nähe ein Vulkan ausbricht. Das ist Entangled. Es ist ein Paradoxon aus dem Gefühl, gefangen und doch beschützt zu sein, das Midtempo-Death-Metal-Riffs mit plötzlichen melodischen, progressiven Abstechern verbindet. Es ist heavy, atmosphärisch und überraschend hoffnungsvoll - perfekt, wenn du deine existenzielle Angst mit einer Prise Tech-Death-Groove serviert haben möchtest.
 
-::genre::
+::genre::tech thrash metal, blackened death metal
 
 ## Six Feet Under - Next to Die
 
@@ -985,6 +973,12 @@ Ein Nebenprojekt von vier Mitgliedern von *Slipknot*: Corey Taylor, Shawn Crahan
 Entstanden aus der amerikanischen Hip-Hop-Szene, insbesondere verbunden mit den aufstrebenden Subgenres **Scam Rap** oder **Glitch**y aus dem Süden und Mittleren Westen. **Lowend** (ein Subgenre des Milwaukee-Hip-Hop) zeichnet sich durch kräftige 808er und klatschende Rhythmen aus. Hochenergetisch, mit der Energie von "She Was a Fairy", gemischt mit dem rauen Milwaukee-Bass. Es ist Musik, die für TikTok-Tänze gemacht ist - kurz, eingängig und voller "Yop!"-Ad-libs. Es fühlt sich an wie eine glitzernde Hausparty, auf der alle den Milwaukee-Tanz tanzen.
 
 ::genre::hip hop, glitch, lowend
+
+## Pearl - Love and Grief *
+
+Eine 2018 gegründete vierköpfige Band, deren Mitglieder aus etablierten Baltimore-Bands wie *Celebration* und *Wet Brain* stammen. Ihre Einflüsse reichen von *Black Sabbath* bis hin zu *Bad Brains*. Wilder **Hardcore**, **Post-Punk** und mit **Electronica** versetzter **Noise**. Dieses Album fängt die rohe Energie eines Underground-Kellerkonzerts ein. Es erkundet das emotionale Spektrum zwischen Liebe und Verlust mit frenetischer, basslastiger Intensität. Es ist der pure Tod, der dich auf Schritt und Tritt verfolgt, bleibt aber auf seine eigene chaotische Art bezaubernd eingängig.
+
+::genre::post hardcore, electronica, noise
 
 ## Richard Davies - The Son of the Man Who Wrestled a Sea Lion
 
