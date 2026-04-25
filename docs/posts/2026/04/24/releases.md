@@ -8,17 +8,17 @@ categories:
 
 # Releases! Releases! Releases!
 
-## 30 Denari - Kindly Plotting For Riot *
+## 30 Denari - Kindly Plotting For Riot
 
 Die 2021 gegründete Band besteht aus erfahrenen Musikern aus der italienischen Metal-Industrial-, Anarchopunk- und New-Wave-Szene. Ihre Debüt-EP "Banco Dei Valori Morali" legte den Grundstein für ihren charakteristischen zynischen Blick auf die moderne Gesellschaft. **Post-Punk**, **Darkwave** und **Electro-Industrial**. Sie lassen sich von Ikonen der 80er Jahre wie *Bauhaus* und *Siouxsie and the Banshees* sowie von modernen Acts wie *NIN* und *Editors* inspirieren. Das ist Erstickungsmusik für die Moderne. Sie kombinieren den kalten, mechanischen Puls einer Drum-Machine mit gezackten Gitarrenklängen, um einen Soundtrack für finanzielle Ängste und sozialen Verfall zu schaffen. Politisch scharfsinnig und klanglich beklemmend - als wäre man in einem Hightech-Aufzug gefangen, in dem langsam der Sauerstoff ausgeht.
 
 ::genre::dark wave, new wave, post punk, industrial
 
-## Adam Schatz - Civil Engineering Vol. 1 *
+## Adam Schatz - Civil Engineering Vol. 1
 
 *Schatz* ist Frontmann der Band *Landlady* und ein vielbeschäftigter Mitwirkender in der Indie-/Jazz-Szene von Brooklyn. Dieses Soloprojekt konzentriert sich auf instrumentale strukturelle Kompositionen. **Experimenteller Jazz**, **Art-Pop** und **Avantgarde**. Der Titel ist perfekt - diese Musik wirkt, als wäre sie eher konstruiert als komponiert worden. Es ist ein verspieltes, komplexes Puzzle aus Holzbläsern und Rhythmen. Es ist intelligente Musik, die nie vergisst, Spaß zu machen - als würde man zusehen, wie sich ein komplexes LEGO-Set mitten in der Luft von selbst zusammenbaut.
 
-::genre::experimental jazz, art pop, avant pop
+::genre::experimental jazz, art pop, avant pop, avant jazz, improvisation
 
 ## Admiral Sir Cloudesley Shovell - The Trouble With The Shovell
 
@@ -40,11 +40,11 @@ Die Band wurde Ende der 80er Jahre gegründet und legte eine lange Pause ein, be
 
 ::genre::melo rock, hard rock, arena rock
 
-## Anenon - Dream Temperature *
+## Anenon - Dream Temperature
 
 *Anenon* ist ein Multi-Instrumentalist (vor allem Saxophon und Electronica), der dafür bekannt ist, architektonische Räume mit improvisierter Musik zu verbinden. Dieses Album wurde durch seinen Umzug in die Wüste inspiriert und fängt die wechselnde Hitze und Stille der Landschaft ein. **Ambient**, **moderne Klassik** und **experimenteller Jazz**. Diese Platte ist eine Halluzination in Zeitlupe. Sie ist spärlich und schimmernd, als würde man mittags beobachten, wie Hitzewellen von einer Autobahn aufsteigen. Das Saxophon atmet durch die Stücke wie ein Wüstenwind - es ist unglaublich friedlich, besitzt aber eine unterschwellige Intensität, die einem das Gefühl gibt, durch einen lebhaften Traum zu treiben.
 
-::genre::modern classic, ambient, experimental jazz
+::genre::modern classic, modern jazz, noir jazz, experimental jazz, improvisation
 
 ## Angelique Kidjo - Hope!!
 
@@ -58,11 +58,11 @@ Als langjähriger Weggefährte und Labelkollege von *Sufjan Stevens* ist De Augu
 
 ::genre::psych folk, alt folk, indie folk, prog folk
 
-## Anthony Joseph - The Ark *
+## Anthony Joseph - The Ark
 
 *Anthony Joseph* ist ein gefeierter Dichter und Romanautor, dessen musikalisches Schaffen häufig Spoken Word mit avantgardistischen Jazzarrangements verbindet. Eine facettenreiche Fusion aus **Jazz**, **Funk** und **Soul**, die oft den Genres **Broken Beat** und **Nu Jazz** zugeordnet wird. "The Ark" ist eine wunderschön produzierte Reise durch **Spiritual Jazz** und karibische Rhythmen. Es ist ein intellektueller und gefühlvoller Groove, in dem Poesie auf tiefe, hypnotische Klänge trifft - perfekt für alle, die sich Musik wünschen, die eine Geschichte erzählt und sie gleichzeitig zum Schwingen bringt.
 
-::genre::nu jazz, neo soul, spiritual jazz, world music
+::genre::nu jazz, hip hop, neo soul, spiritual jazz, world music
 
 ## Anubis - Anthromorphicide
 
@@ -76,13 +76,13 @@ Ein Duo bestehend aus den Underground-Veteranen Arneriach (*Marche Funèbre*) un
 
 ::genre::melo black metal, blackened death metal
 
-## Armed For Apocalypse - The Earth Is Breathing Beneath Me *
+## Armed For Apocalypse - The Earth Is Breathing Beneath Me
 
 Aufgenommen in den GodCity Studios mit Produzent Kurt Ballou (*Converge*), zeigt dieses vierte Album die Band von ihrer raffiniertesten und aggressivsten Seite. Dreckiger **Sludge Metal** und **Hardcore**. Das ist musikalischer Dreck vom Feinsten. Es ist Rock’n’Roll, tief gestimmt und stinksauer, aber mit einer überraschenden Menge an Seele, die unter der Verzerrung verborgen liegt. Es taumelt mit einem schweren, schlurfenden Groove dahin, der sich anfühlt, als würde sich der Boden buchstäblich unter den Füßen bewegen.
 
-::genre::sludge metal, metallic hardcore
+::genre::sludge metal, metallic hardcore, metalcore
 
-## Astraya - Atropine *
+## Astraya - Atropine
 
 Das zweite Album der Band ist eine konzeptionelle Auseinandersetzung mit Schicksal, Sterblichkeit und der Struktur der Zeit. Sie beschreiben ihren Sound als düsteren, ätherischen Rock und werden dabei mit *The Gathering* aus der Mitte der 90er Jahre verglichen. **Dark Rock**, **Post-Metal** und **Doom**. Ein wunderschön düsteres Erlebnis, das sich anfühlt, als würde man durch einen nebelverhangenen Wald wandern. Es ist gemächlich und zutiefst atmosphärisch und schafft einen Ausgleich zwischen erdrückender, doomartiger Schwere und zarten, hoffnungsvollen Melodien, die wie eine kleine Kerze in einem sehr großen, dunklen Raum wirken.
 
@@ -94,11 +94,11 @@ Dieses achte Studioalbum ist eine bewegende Hommage an den Gründungssänger Tom
 
 ::genre::melo death metal
 
-## Atlantic Ridge - Atlantic Ridge *
+## Atlantic Ridge - Atlantic Ridge
 
 Ein neues Projekt aus der fruchtbaren schwedischen Heavy-Rock-Szene, das sich auf lange, geografische Kompositionen konzentriert, die die Bewegung tektonischer Platten nachahmen. **Atmosphärischer Stoner Rock** und **instrumentaler Post-Metal**. Das ist Heavy Meditation vom Feinsten. Es ist langsam aufbauend und gewaltig, als würde man zusehen, wie eine Bergkette langsam aus dem Meer emporragt. Es gibt keinen Gesang, der ablenkt, nur durchgängige, verzerrte Riffs und donnernde Drums, die einem das Gefühl geben, am Rande der Welt zu stehen.
 
-::genre::post metal, stoner metal, instrumental
+::genre::post metal, stoner metal, post black metal
 
 ## Atreyu - The End is Not the End
 
@@ -106,13 +106,13 @@ Einer der Wegbereiter des Metalcore-Booms der 2000er Jahre. Seit dem Ausscheiden
 
 ::genre::modern metal, hard rock, emocore
 
-## Atsuko Chiba - Atsuko Chiba *
+## Atsuko Chiba - Atsuko Chiba **
 
-Bekannt für ihre gewaltigen, mitreißenden Live-Shows, die maßgeschneiderte visuelle Installationen beinhalten. Dieses selbstbetitelte Album markiert einen entscheidenden Durchbruch für den weiterentwickelten Sound der Band. **Post-Rock**, **Psychedelic Rock** und **Math-Rock**. Sie verbinden schwebende Klanglandschaften mit plötzlichen, explosiven Rhythmuswechseln. Dieses Album ist ein Kaleidoskop aus Klängen, das sich weigert, stillzustehen. In einem Moment ist es groovig, im nächsten erschreckend laut. Es fühlt sich an, als würde man in einem Traum aufwachen, in dem man sich nicht ganz sicher ist, ob man schwebt oder fällt - so oder so will man nicht aufwachen, bis die letzte Note verklingt.
+Bekannt für ihre gewaltigen, mitreißenden Live-Shows, die maßgeschneiderte visuelle Installationen beinhalten. Dieses selbstbetitelte Album markiert einen entscheidenden Durchbruch für den weiterentwickelten Sound der Band. **Post-Punk**, **Psychedelic Rock** und **Krautrock**. Sie verbinden schwebende Klanglandschaften mit plötzlichen, explosiven Rhythmuswechseln. Dieses Album ist ein Kaleidoskop aus Klängen, das sich weigert, stillzustehen. In einem Moment ist es groovig, im nächsten erschreckend laut. Es fühlt sich an, als würde man in einem Traum aufwachen, in dem man sich nicht ganz sicher ist, ob man schwebt oder fällt - so oder so will man nicht aufwachen, bis die letzte Note verklingt.
 
-::genre::post rock, psych rock, math rock
+::genre::post punk, psych rock, krautrock, space rock
 
-## Aurora Borealis - Disillusioned By The Illusion *
+## Aurora Borealis - Disillusioned By The Illusion
 
 Das langjährige Projekt des Multi-Instrumentalisten *Ron Vento*, der dieses Schiff seit 1994 steuert. Sie sind bekannt für rasante Tempi und hypertechnische Präzision. **Technical Death Metal** mit einer kräftigen Prise **Thrash**. Ihr Stil wird oft als Space Death Metal bezeichnet, da sich ihre Texte auf Kosmologie und antike Außerirdische konzentrieren. Wenn du möchtest, dass dein Gehirn einen Marathon läuft, während deine Ohren ordentlich was abbekommen, ist das genau das Richtige für dich. Es ist eine unerbittliche Riff-Fabrik, die sich anfühlt wie eine Hochgeschwindigkeitsjagd durch einen Asteroidengürtel. Es ist komplex, schwindelerregend und beweist, dass man tech sein kann, ohne dabei die rohe, thrashige Seele zu verlieren.
 
@@ -124,11 +124,11 @@ Seit 2009 ist dieses Trio eine führende Stimme der spanischen Underground-Szene
 
 ::genre::atmo black metal, melo black metal
 
-## Ayanami - Submechanophobia *
+## Ayanami - Submechanophobia
 
-Er gehört zu jener anonymen, im Internet beheimateten Welle von Produzenten, die mit nostalgischer Anime-Ästhetik und aquatischen Klanglandschaften immersive Vibe-Musik schaffen. **Vaporwave**, **Dreampunk** und **Ambient**. Der Titel spielt auf die Angst vor versunkenen, von Menschenhand geschaffenen Objekten an. Das ist das musikalische Äquivalent dazu, nachts durch ein Glasbodenboot auf ein verlassenes Schiffswrack zu blicken. Es ist düster, hallend und ein wenig beunruhigend, aber auch auf seltsame Weise schön. Es ist der perfekte Soundtrack, um sich spätnachts in den Kaninchenbau von Wikipedia zu stürzen.
+Es handelt sich um ein originelles Debütalbum, dessen Titel und Themen sich mit der spezifischen Phobie vor unter Wasser liegenden, von Menschenhand geschaffenen Objekten (Submechanophobie) sowie mit psycho-sensorischen Konzepten unter Wasser befassen. Das Album wird in erster Linie den Genres **Metalcore** und **Deathcore** zugeordnet, wobei deutliche Einflüsse aus **Mathcore** und Math Metal zu erkennen sind. Stellt euch vor, ihr taucht in einen dunklen, verrosteten Ozean ein, in dem die heimische Tierwelt durch glitchende Hydraulikpumpen und zerklüftetes Eisen ersetzt wurde – das ist die Welt, die Ayanami hier erschaffen hat. Es ist eine „unterwasserpsychosensorische Reise“, die sich wie ein dystopischer Albtraum unter den Wellen anfühlt.
 
-::genre::vaporwave, dreampop, ambient
+::genre::modern metalcore, mathcore, deathcore
 
 ## Bassault US - Lights, Camera, Slaughter
 
@@ -142,7 +142,7 @@ Die im Jahr 2000 gegründete Band zählt zu den Titanen der europäischen Epic-M
 
 ::genre::cine metal, heavy metal
 
-## Batuhan Aydın - Homewards *
+## Batuhan Aydın - Homewards
 
 Ein virtuoser Musiker, der seit Jahren alte anatolische Melodien mit **modernen Jazz**- und **Weltmusik**-Arrangements verbindet. **Zeitgenössischer Folk** und anatolische **Fusion**. *Aydın* ist ein Meister der Kaval (einer traditionellen Querflöte). Dies zu hören ist wie ein Rundflug über das Taurusgebirge bei Sonnenuntergang. Die Flötenmelodien sind hauchig und eindringlich, wirken zugleich uralt und überraschend modern. Es ist friedlich, gefühlvoll und das perfekte Gegenmittel zu einer lauten Welt.
 
@@ -172,11 +172,11 @@ Geboren als *Jamari Spencer*, ist er eine prominente Figur in der **Rage-Rap**-S
 
 ::genre::experimental hip hop, trap
 
-## Blindead 23 - Deuterium *
+## Blindead 23 - Deuterium
 
-Eine neu belebte Version der Band *Blindead*, angeführt vom ehemaligen Behemoth-Gitarristen Mateusz "Havoc" Smierzchalski und mit Mitgliedern von *Katatonia*, *Vader* und *Decapitated*. **Avant-Metal**, **Sludge** und **Post-Metal**. Freut euch auf stratosphärische Klanglandschaften, gemischt mit schweren, progressiven Riffs und Elektronik. "Deuterium" ist eine konzeptionelle Odyssee, die sich wie eine langsam voranschreitende, reflektierende Reise für eure Seele anfühlt. Es ist geduldig, gewaltig und viszeral - weniger wie ein typisches Metal-Album, sondern eher wie ein einstündiger Streifzug durch Teile eures Geistes, die ihr normalerweise verschlossen haltet.
+Eine neu belebte Version der Band *Blindead*, angeführt vom ehemaligen Behemoth-Gitarristen Mateusz "Havoc" Smierzchalski und mit Mitgliedern von *Katatonia*, *Vader* und *Decapitated*. **Avant-Metal**, **Sludge**, **Progressive Metal** und **Post-Metal**. Freut euch auf stratosphärische Klanglandschaften, gemischt mit schweren, progressiven Riffs und Elektronik. "Deuterium" ist eine konzeptionelle Odyssee, die sich wie eine langsam voranschreitende, reflektierende Reise für eure Seele anfühlt. Es ist geduldig, gewaltig und viszeral - weniger wie ein typisches Metal-Album, sondern eher wie ein einstündiger Streifzug durch Teile eures Geistes, die ihr normalerweise verschlossen haltet.
 
-::genre::sludge metal, post metal, avant metal
+::genre::sludge metal, post metal, avant metal, prog metal
 
 ## Blood Sucking Maniacs - Blood Sucking Maniacs
 
@@ -184,29 +184,29 @@ Unter der Leitung des legendären Songwriters und Bildhauers Terry Allen (82) un
 
 ::genre::art rock, country folk, americana, roots rock
 
-## Body Thief - Halfway to Hallelujah *
+## Body Thief - Halfway to Hallelujah
 
-Nach jahrelangen Tourneen mit Bands wie *Dance Gavin Dance* haben Body Thief einen Sound entwickelt, der musikalisch komplex und emotional unverfälscht zugleich ist. **Post-Hardcore**, **Math-Rock** und **Indie-Emo**. Sie verbinden technische Riffs mit gefühlvollen, hohen Gesangspassagen, die an *Coheed and Cambria* oder *Circa Survive* erinnern. Das ist Musik voller großer Gefühle, gespielt mit chirurgischer Präzision. Es ist eine Achterbahnfahrt aus funkelnden Gitarrenmelodien, die plötzlich in überwältigende emotionale Höhepunkte explodieren. Es fühlt sich wie ein Durchbruch für die Band an - eine mitreißende Hymne für die moderne Indie-Rock-Ära, bei der man die Hände in die Luft reckt.
+Nach jahrelangen Tourneen mit Bands wie *Dance Gavin Dance* haben Body Thief einen Sound entwickelt, der musikalisch komplex und emotional unverfälscht zugleich ist. **Post-Hardcore**, **Midwest Emo** und **Indie-Emo**. Sie verbinden technische Riffs mit gefühlvollen, hohen Gesangspassagen, die an *Coheed and Cambria* oder *Circa Survive* erinnern. Das ist Musik voller großer Gefühle, gespielt mit chirurgischer Präzision. Es ist eine Achterbahnfahrt aus funkelnden Gitarrenmelodien, die plötzlich in überwältigende emotionale Höhepunkte explodieren. Es fühlt sich wie ein Durchbruch für die Band an - eine mitreißende Hymne für die moderne Indie-Rock-Ära, bei der man die Hände in die Luft reckt.
 
-::genre::post hardcore, mathcore, emocore
+::genre::post hardcore, midwest emo, indie rock
 
-## Brian Eaton - Parable of the Trees *
+## Brian Eaton - Parable of the Trees
 
 Ein erfahrener Multi-Instrumentalist und Produzent, der seit über zwei Jahrzehnten detailreiche Ein-Mann-Band-Projekte veröffentlicht. **Progressive Rock**, **Psychedelic Pop** und **Folk Rock**. Er lässt sich stark von der 70er-Jahre-Ära von *Genesis*, *Pink Floyd* und *Todd Rundgren* inspirieren. Eaton schafft Kino für die Ohren. Dieses Album ist eine üppige, weitläufige Reise durch Natur und Philosophie, gefüllt mit vielschichtigen Gitarrenklängen und schwebenden Gesangsharmonien. Es ist die Art von Platte, die man auflegt, wenn man in eine andere Welt reisen möchte, ohne das Sofa zu verlassen.
 
 ::genre::prog rock, prog pop, psych folk, psych rock
 
-## Bringers Of Disease - Sulphur *
+## Bringers Of Disease - Sulphur
 
 Als relativ neue Größe in der schwedischen Underground-Szene besteht die Band aus Mitgliedern, die seit Jahren in der europäischen Metal-Szene aktiv sind. Dies ist ihr zweites Album in voller Länge. **Old-School-Death-Metal** mit **Black-Metal**- und **Crust**-Punk-Elementen. Dieses Album spielt nicht einfach nur; es zerfrisst einen. Es ist ein dreckiges, aggressives und unerbittliches Stück Metal, das nach verbranntem Gummi und uralter Verwesung riecht. Wenn du Musik suchst, bei der du dich fühlst, als würdest du durch eine verwunschene Werft gejagt, dann ist dies genau das Richtige für dich.
 
 ::genre::osdm, crust
 
-## Carla dal Forno - Confession *
+## Carla dal Forno - Confession
 
 Eine klassisch ausgebildete Multi-Instrumentalistin, die in den Underground-Szenen Europas berühmt wurde, bevor sie nach Australien zurückkehrte. Dies ist ihre erste große Veröffentlichung seit ihrem gefeierten Album "Come Quietly" aus dem Jahr 2022. DIY-**Post-Punk**, **Minimal Wave** und **Dub**-beeinflusster **Pop**. Man stelle sich eine gespenstische Mischung aus *Young Marble Giants* und *Grouper* vor. Diese Platte ist wie ein langes, geheimnisvolles Flüstern in einem dunklen, leeren Haus. Sie ist spärlich, unglaublich stimmungsvoll und zeichnet sich durch ihren charakteristischen ausdruckslosen Gesang aus, der sich irgendwie intimer anfühlt als ein Schrei. Es ist das klangliche Äquivalent eines nebligen Morgens und einer sehr starken Tasse schwarzen Kaffees.
 
-::genre::art rock, post punk, synth pop
+::genre::art rock, post punk, synth pop, dreampop
 
 ## CAVS - Sojourn *
 
@@ -220,23 +220,23 @@ Als aufstrebende Größe der japanischen Metal-Szene ist die Band für ihre Zero
 
 ::genre::modern metalcore
 
-## Chevreuil - Stadium *
+## Chevreuil - Stadium
 
 Diese Veröffentlichung markiert das Ende einer fast 20-jährigen Pause der Gruppe. Das Album erschien bei Computer Students™, einem Label, das vom Schlagzeuger der Band betrieben wird. **Math-Rock** und **experimenteller Rock**, angeführt von einem minimalistischen Gitarren- und Schlagzeug-Duo. "Stadium" ist ein haikuartiges Klangarchitektur-Projekt. Die Musik ist intensiv und fragmentiert, angetrieben von martialischem Schlagzeugspiel, das wirbelnden Klangtexturen Platz macht. Es ist weniger ein Konzert als vielmehr eine verbindende Passage durch zwanzig Jahre Stille - kompakt, kraftvoll und völlig unbeeindruckt von Traditionen.
 
 ::genre::math rock, experimental rock
 
-## Christin Nichols - Christin Nichols *
+## Christin Nichols - Christin Nichols
 
 *Nichols* ist eine vielseitige Künstlerin, die ihre Musikkarriere mit der Schauspielerei (Auftritte am Berliner Ensemble und in verschiedenen Filmen) in Einklang bringt. Dies ist ihr drittes Soloalbum nach "I'm Fine" und "Rette sich, wer kann". "Hopecore" - eine selbst definierte Mischung aus **Indie-Rock**, **Post-Punk**, **Pop** und **Shoegaze**. Nichols ist ein „mystisches Vorbild“, das es schafft, treibende Gitarren wie eine warme Umarmung klingen zu lassen. Das Album ist eine kühne, facettenreiche Hymne an die Selbstermächtigung. Es ist die Art von Platte, die Lust macht, die Bühne zu stürmen, um dann nach Hause zu gehen und endlich nett zu sich selbst zu sein.
 
 ::genre::dreampop, shoegaze, post punk, indie pop, indie rock
 
-## City of the Sun - Under the Moon *
+## City of the Sun - Under the Moon
 
-Die Band hat fünf Jahre lang an dieser Sammlung gearbeitet, die als akustisches Tagebuch von den Lockdowns im Jahr 2020 bis hin zu ihren Aufnahmesessions im Dezember 2024 dient. **Indie-Rock**, **Post-Rock**, **Folk** und **Jazz**. Das Trio ist bekannt für einen akustisch geprägten, genreübergreifenden Sound, der sich durch komplexe, vom Flamenco inspirierte Gitarrenarbeit auszeichnet. Dies ist Sonnenaufgangsmusik für eine Welt, die aus dem Schatten hervortritt. Es fühlt sich an wie ein langer, tiefer Atemzug nach fünf Jahren des Anhaltens. Die Gitarren spielen nicht einfach nur; sie führen einen Dialog und verweben Geschichten von Verwandlung und neuen Perspektiven, die das Hineintreten ins Licht buchstäblich spürbar machen.
+Die Band hat fünf Jahre lang an dieser Sammlung gearbeitet, die als akustisches Tagebuch von den Lockdowns im Jahr 2020 bis hin zu ihren Aufnahmesessions im Dezember 2024 dient. **Indie-Rock**, **Post-Rock** und **Psychedelic Rock**. Das Trio ist bekannt für einen akustisch geprägten, genreübergreifenden Sound, der sich durch komplexe, vom Flamenco inspirierte Gitarrenarbeit auszeichnet. Dies ist Sonnenaufgangsmusik für eine Welt, die aus dem Schatten hervortritt. Es fühlt sich an wie ein langer, tiefer Atemzug nach fünf Jahren des Anhaltens. Die Gitarren spielen nicht einfach nur; sie führen einen Dialog und verweben Geschichten von Verwandlung und neuen Perspektiven, die das Hineintreten ins Licht buchstäblich spürbar machen.
 
-::genre::post rock, indie rock, indie folk
+::genre::post rock, indie rock, indie folk, psych rock
 
 ## Cnoc An Tursa - A Cry For The Slain
 
@@ -250,11 +250,11 @@ Eine altgediente Größe der südamerikanischen Underground-Szene, bekannt für 
 
 ::genre::brutal death metal
 
-## Counteractt - Obscurantism *
+## Counteractt - Obscurantism
 
-Bekannt für einen technischen, knallharten Sound, der brutale Breakdowns mit atmosphärischen, spacey Synth-Layern verbindet. **Progressive Metalcore** und **Groove Metal**. Diese Platte schlägt ein wie eine hochspezialisierte Industriemaschine. Sie ist präzise, heavy und ein wenig furchteinflößend. Es ist die Art von Musik, die Lust macht, komplexe Matheaufgaben zu lösen, während man ein Loch in eine Backsteinmauer schlägt - chaotisch, aber unglaublich clever.
+Bekannt für einen technischen, knallharten Sound, der brutale Breakdowns mit atmosphärischen, spacey Synth-Layern verbindet. **Brutal Death Metal** und **Slamcore**. Diese Platte schlägt ein wie eine hochspezialisierte Industriemaschine. Sie ist präzise, heavy und ein wenig furchteinflößend. Es ist die Art von Musik, die Lust macht, komplexe Matheaufgaben zu lösen, während man ein Loch in eine Backsteinmauer schlägt - chaotisch, aber unglaublich clever.
 
-::genre::alt metal, prog metalcore, groove metal
+::genre::brutal death metal, slamcore
 
 ## Creye - IV Aftermath
 
@@ -262,19 +262,19 @@ Bekannt für einen technischen, knallharten Sound, der brutale Breakdowns mit at
 
 ::genre::melo rock, hard rock, heavy rock, arena rock
 
-## Crocodiles - Greetings From Hell *
+## Crocodiles - Greetings From Hell
 
 Das Kern-Duo aus Brandon Welchez und Charles Rowell ist seit 2008 eine feste Größe in der Indie-Garage-Szene. Dies ist ihr neuntes Studioalbum. **Noise-Pop**, **Psychedelic Rock** und **Post-Punk**. Stellt euch vor, *The Jesus and Mary Chain* treffen auf *T. Rex* mit einem Surf-Rock-Kater. Das ist Lederjacken-Musik für eine Strandparty im Fegefeuer. Es ist verzerrt, romantisch und herrlich zynisch. Es klingt wie eine Schachtel neonfarbener Bonbons, die in der Sonne liegen gelassen wurde - klebrig, süß und ein klein wenig giftig.
 
 ::genre::post punk, psych rock, noise rock, art pop
 
-## Daniel Brooke - gloom *
+## Daniel Brooke - gloom
 
 Brooke beschreibt dies als sein bisher persönlichstes Projekt, mit dem er knallharten Metalcore aus der MySpace-Ära für ein modernes Publikum veröffentlichen möchte. **Moderner Metalcore** mit starken Einflüssen aus der Emo-Ära. Das ist eine regelrechte Ode an die Emo-Ära, die überraschend heftig zur Sache geht. Es ist düster, kantig und kathartisch - die Art von Musik, bei der man sich die Ponyfrisur glattstreichen und ins Leere schreien möchte, während die Blast Beats den Puls in die Höhe treiben.
 
-::genre::emocore, metalcore, post hardcore
+::genre::emocore, modern metalcore, post hardcore, digicore
 
-## Death Lens - What’s Left Now? *
+## Death Lens - What’s Left Now?
 
 Aufgewachsen in einkommensschwachen Arbeiterfamilien 20 Meilen östlich von LA, schöpft die Band direkt aus den gelebten Erfahrungen von Kampf und Überleben. **Punkrock**, **Post-Hardcore** und **Post-Punk**. Sie verbinden Punk-Wut mit latino-angehauchten Surf-Einflüssen und melodischer Rauheit. Das sind Stage-Dive-Hymnen für die Unterdrückten. Es ist ein drängendes, schweißtreibendes und brutal ehrliches Album, das von der Energie der Angst lebt. Es fühlt sich an wie ein Stromschlag für das System - roh genug, um einen Moshpit zu entfachen, aber hymnisch genug, um tagelang im Kopf zu bleiben.
 
@@ -292,7 +292,7 @@ Dies ist das achte Studioalbum der Band. Sänger Robin Eriksson schrieb mehrere 
 
 ::genre::hard rock, melo rock, heavy rock, arena rock
 
-## Demi Lovato - It’s Not That Deep (Unless You Want It to Be) *
+## Demi Lovato - It’s Not That Deep (Unless You Want It to Be)
 
 Nach ihrem erfolgreichen Wechsel zum Rock mit "Holy Fvck" erkundet Lovato weiterhin die Schnittstelle zwischen Verletzlichkeit und kraftvollem Instrumental. **Pop-Rock** und **Alternative Pop**. Der Titel sagt schon alles - hier zeigt sich Demi von ihrer verspielten Seite aus ihrer Rockstar-Ära, ohne dabei auf die kraftvollen, klaren Vocals zu verzichten, für die sie bekannt ist. Der Song ist stimmungsvoll, rebellisch und perfekt für alle, die ihre Gefühle vom Dach eines fahrenden Autos aus in die Welt hinausschreien wollen.
 
@@ -304,37 +304,37 @@ Angeführt von *Trey Landrum* sorgte die Band mit ihrem Hit "Insomnia" auf TikTo
 
 ::genre::metalcore, country metal
 
-## Devoid Of Thought - Devoid Of Thought *
+## Devoid Of Thought - Devoid Of Thought
 
 Ein italienisches Quartett, das ein Jahrzehnt damit verbracht hat, seinen Old-School-und-doch-bizarren Sound zu perfektionieren. Dies ist ihr zweites Studioalbum in voller Länge. **Progressiver** kosmischer **Death Metal**. Sie verbinden die Verrücktheit von *Voivod* mit der erdrückenden Wucht von *Blood Incantation* und *Incantation*. Das ist Mindfuck-Metal vom Feinsten. Es fühlt sich weniger an wie eine Reise durch den Weltraum, sondern eher so, als würde man in eine furchterregende kosmische Leere gesogen. Es ist progressiv, dissonant und zeichnet sich durch ein Schlagzeugspiel aus, das klingt, als käme es aus einer völlig anderen Dimension.
 
 ::genre::dissonant death metal, prog death metal
 
-## DFL - Fuck It *
+## DFL - Fuck It
 
 Gegründet 1991 von Monty Messex, Tom Davis und Adam "Ad-Rock" Horovitz von den *Beastie Boys*. Diese neue EP wurde von Fletcher Dragge von *Pennywise* produziert. Roher, rasender **Hardcore-Punk** im Stil der 80er, beeinflusst von *Bad Religion* und den *Circle Jerks*. Kurz, schnell und laut. Es ist wie ein konzentrierter Adrenalinstoß für alle, die die unvorbereitete Rauheit der Szene der frühen 90er Jahre vermissen. Mit Tracks wie "Second Chances", die rohe Energie mit emotionaler Tiefe verbinden, ist es ein chaotischer, aber willkommener Schlag auf die Ohren.
 
 ::genre::hardcore punk
 
-## Doug Gillard - Parallel Stride *
+## Doug Gillard - Parallel Stride
 
 Eine Gitarrenlegende, die bereits mit *Guided by Voices*, *Nada Surf* und *Death of Samantha* gespielt hat. Das Rolling Stone Magazin hat ihn zu einem der 250 besten Gitarristen aller Zeiten gekürt. Eingängiger **Indie-Rock** und **Power-Pop**. Sein Stil wird oft mit dem melodischen, unkonventionellen Rock von *Teenage Fanclub* verglichen. Dies ist eine Meisterklasse im Songwriting von einem Mann, der Melodien geradezu atmet. Es ist warm, selbstbewusst und voller süchtig machender Tracks, die wehmütige Melodien mit fröhlichen Gitarrenriffs verbinden - perfekt für einen sonnigen Nachmittag, an dem man sich einfach nur von der Musik mitreißen lassen möchte.
 
 ::genre::indie rock, power pop
 
-## Dust Lovers - Green Screens *
+## Dust Lovers - Green Screens
 
 Bekannt für einen rauen, oft vom Film Noir inspirierten Sound, der energiegeladenen Rock mit atmosphärischer Spannung verbindet. **Cold Rock**, **Post-Rock** und düstere Ästhetik mit einem rasanten Groove. Eine elegante, eiskalte Reise durch die Gefilde des **Dark Rock**. Es ist die Art von Album, die Lust macht, sich eine Lederjacke überzuziehen und um 3 Uhr morgens durch eine regennasse Stadt zu spazieren. Stimmungsvoll, groovig und unbestreitbar stilvoll.
 
 ::genre::post rock, dark rock
 
-## Einar Solberg - Vox Occulta *
+## Einar Solberg - Vox Occulta
 
 Solberg, bekannt als Frontmann von *Leprous*, kann sich in seiner Solokarriere ganz der orchestralen und filmischen Grandiosität hingeben. **Progressive Metal**, **Symphonic Metal** und **moderne Klassik**. Dies ist nicht nur ein Album, sondern eine theatralische und gotische Odyssee. Es ist cineastisch genug, um als Soundtrack für ein Wikinger-Epos zu dienen, und doch zerbrechlich genug, um einem das Herz zu brechen. Wenn Sie Musik suchen, die bis in die Knochen geht, ist dies der Schwergewichts-Champion der Woche.
 
 ::genre::prog metal, symphonic metal, modern classic
 
-## Emarosa - High Horse Heaven *
+## Emarosa - High Horse Heaven
 
 Einst eine feste Größe der Post-Hardcore-Szene, vollzog die Band mit ihrem 2019er Album "Peach Club" einen vielbeachteten Schwenk hin zum Pop. Bradley Walden ist nun die treibende Kraft hinter dem Projekt. **Alt-Pop** und von den 80ern inspirierter **Synth-Pop**. Man denke an die stilisierte Pracht von *The 1975* oder *M83*. Dieses Album ist eine hochoktanige Tanzparty in einem gespenstischen Ballsaal. Es ist glatt, hymnisch und unverhohlen poppig, trägt doch eine moderne emotionale Wucht in sich, die seine schimmernden Synthesizer lebendig und echt wirken lässt.
 
@@ -346,7 +346,7 @@ Die 1994 gegründete Band legte eine 27-jährige Pause ein, bevor sie 2021 ihr C
 
 ::genre::gothic metal, death metal, prog metal, melo death metal
 
-## Eugene McGuinness - Eugene McGuinness Versus the Universe *
+## Eugene McGuinness - Eugene McGuinness Versus the Universe
 
 Nachdem er Ende der 2000er Jahre bei Domino Records bekannt geworden war und 2014 sein viertes Album "Chroma" veröffentlicht hatte, glaubte *McGuinness* kurzzeitig, seine Musikkarriere sei vorbei. Unkonventioneller **Pop** und **Folk-Pop**. Sein Stil verbindet ironischen Humor und Selbstbewusstsein mit akustischem Gitarrenspiel und von *The Cure* inspirierten Rhythmen. Das ist der Sound eines Songwriters, der sich seinen Spielplatz zurückerobert. Es ist melodisch, charmant exzentrisch und voller mysteriösem, unkonventionellem Pop, der beweist: Man kann den Jungen aus der Indie-Szene herausholen, aber man kann ihm nicht sein kreatives Feuer nehmen.
 
@@ -382,7 +382,7 @@ Die Band erschafft eine fesselnde Geschichte rund um drei unsterbliche Gesetzlos
 
 ::genre::roots rock, blues, hard rock, country rock, country folk, alt rock
 
-## Fatboi Sharif and Child Actor - Crayola Circles *
+## Fatboi Sharif, Child Actor - Crayola Circles
 
 Beide sind feste Größen des Underground-Labels Backwoodz Studioz, doch dies ist ihre erste gemeinsame Langspielplatte. **Experimenteller Hip-Hop**, **Psychedelia** und "ebony black"-Soundscapes. Das ist Nightmare Rap, der sich anfühlt wie ein luzider Traum in einem neonbeleuchteten Keller. *Sharifs* verwirrende, surreale Texte gleiten über knorrige, wechselnde Beats aus Blechbläsern, Cowhide und Undersea Piano. Es ist ein Geschmack, an den man sich erst gewöhnen muss, der aber diejenigen belohnt, die mutig genug sind, in seine abstrakten Gewässer einzutauchen.
 
@@ -394,11 +394,11 @@ Ihr zwölftes Studioalbum und das erste mit dem Schlagzeuger Ilan Rubin. **Alter
 
 ::genre::alt rock, post grunge
 
-## Friko - Something Worth Waiting For *
+## Friko - Something Worth Waiting For
 
-Unter der Leitung von *Niko Kapetan* erwarben sie sich in der Chicagoer DIY-Szene einen hervorragenden Ruf, bevor sie mit ihrem Debütalbum aus dem Jahr 2024 internationale Anerkennung erlangten. **Noise-Rock** trifft auf **avantgardistische Klassik** und symphonische Balladen der 70er Jahre. Es ist ein generationsprägender Schlachtruf, der zwischen explosiver, hämmernder Energie und zartem Chamber Pop hin- und herpendelt. In einem Moment schreist du noch zu ungezügeltem Chaos mit, und im nächsten schwingst du dich in einem Zustand melodischer Glückseligkeit an einem metaphorischen Kronleuchter.
+Unter der Leitung von *Niko Kapetan* erwarben sie sich in der Chicagoer DIY-Szene einen hervorragenden Ruf, bevor sie mit ihrem Debütalbum aus dem Jahr 2024 internationale Anerkennung erlangten. **Power Pop** trifft auf **avantgardistischen Rock** und symphonische Balladen der 70er Jahre. Es ist ein generationsprägender Schlachtruf, der zwischen explosiver, hämmernder Energie und zartem Chamber Pop hin- und herpendelt. In einem Moment schreist du noch zu ungezügeltem Chaos mit, und im nächsten schwingst du dich in einem Zustand melodischer Glückseligkeit an einem metaphorischen Kronleuchter.
 
-::genre::noise rock, avant rock, modern classic, chamber pop
+::genre::avant rock, indie rock, alt rock, power pop
 
 ## Gay Meat - Blue Water
 
@@ -412,9 +412,9 @@ Ursprünglich als Singer-Songwriterin tätig, verlor Margaret 2019 aufgrund eine
 
 ::genre::ambient, synth pop, indie pop
 
-## Golgotha - Hubris *
+## Golgotha - Hubris
 
-*Golgotha* wurde Anfang der 90er Jahre gegründet und ist ein Eckpfeiler der spanischen Metal-Szene. Dieses Album besticht durch den einzigartigen Kontrast zwischen *María J. Lladós* monotonem klarem Gesang und *Andrew Spinosa’s* rauem Gebrüll. **Melodischer Death/Doom Metal**. Sie verbinden die erdrückende Wucht des Doom mit der melodischen Sensibilität früher Gothic-Metal-Pioniere wie **Paradise Lost**. Das ist Doom mit großem D, aber überraschend eingängig. Es ist, als befände man sich in einer gotischen Kathedrale, in der der Chor eine Midlife-Crisis durchlebt - düster, kraftvoll und seltsam schön, mit Melodien, die einem im Kopf hängen bleiben wie nasse Blätter auf einer Windschutzscheibe.
+*Golgotha* wurde Anfang der 90er Jahre gegründet und ist ein Eckpfeiler der spanischen Metal-Szene. Dieses Album besticht durch den einzigartigen Kontrast zwischen *María J. Lladós* monotonem klarem Gesang und *Andrew Spinosa’s* rauem Gebrüll. **Melodischer Death/Doom Metal**. Sie verbinden die erdrückende Wucht des Doom mit der melodischen Sensibilität früher Gothic-Metal-Pioniere wie *Paradise Lost*. Das ist Doom mit großem D, aber überraschend eingängig. Es ist, als befände man sich in einer gotischen Kathedrale, in der der Chor eine Midlife-Crisis durchlebt - düster, kraftvoll und seltsam schön, mit Melodien, die einem im Kopf hängen bleiben wie nasse Blätter auf einer Windschutzscheibe.
 
 ::genre::death metal, doom metal, gothic metal
 
@@ -430,7 +430,7 @@ Mehrfacher MOBO-Award-Gewinner und eine der einflussreichsten Persönlichkeiten 
 
 ::genre::grime, hip hop, gospel
 
-## Heiden - Cma *
+## Heiden - Cma
 
 *Heiden* sind seit 2003 aktiv und gelten als eine der tragenden Säulen der tschechischen Underground-Szene. Sie sind Meister darin, bergige Klanglandschaften zu erschaffen, die tief in den europäischen Landschaften verwurzelt wirken. **Atmosphärischer Post-Black-Metal** und **Prog-Rock**. Ihr Sound hat sich vom rohen Black Metal zu etwas Filmischem, Melancholischem und Kunstvollem entwickelt. Wenn man „Cma“ hört, fühlt es sich an, als würde man sich im dichten Nebel des Böhmerwaldes verirren. Es ist stimmungsvoll, komplex und von tiefer Schönheit. Es ist Metal für Menschen, die gerne in die Sterne blicken und sich dabei ein wenig unbedeutend fühlen.
 
