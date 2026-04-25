@@ -14,7 +14,7 @@ Die 2021 gegründete Band besteht aus erfahrenen Musikern aus der italienischen 
 
 ::genre::dark wave, new wave, post punk, industrial
 
-## Adam Schatz - Civil Engineering Vol. 1
+## Adam Schatz - Civil Engineering Vol. 1 *
 
 *Schatz* ist Frontmann der Band *Landlady* und ein vielbeschäftigter Mitwirkender in der Indie-/Jazz-Szene von Brooklyn. Dieses Soloprojekt konzentriert sich auf instrumentale strukturelle Kompositionen. **Experimenteller Jazz**, **Art-Pop** und **Avantgarde**. Der Titel ist perfekt - diese Musik wirkt, als wäre sie eher konstruiert als komponiert worden. Es ist ein verspieltes, komplexes Puzzle aus Holzbläsern und Rhythmen. Es ist intelligente Musik, die nie vergisst, Spaß zu machen - als würde man zusehen, wie sich ein komplexes LEGO-Set mitten in der Luft von selbst zusammenbaut.
 
@@ -740,7 +740,7 @@ Als visueller und musikalischer Provokateur hat *Tree* dieses Album während ein
 
 Eine aufstrebende fünfköpfige Band, die ihr Debüt in der britischen Metal-Szene gibt. **Moderner melodischer Death Metal**. Für ein Debütalbum ist dieses bemerkenswert felsenfest. Es verbindet die Aggressivität des traditionellen Death Metal mit modernen melodischen Hooks. Es ist heavy, ausgefeilt und bietet einen kraftvollen, gewichtigen Einstieg in das Schaffen einer Band, die klingt, als hätte sie bereits ihren Platz in den Katakomben des britischen Undergrounds gefunden.
 
-::genre::modern metal, death metal
+::genre::melo death metal
 
 ## On Water - From The Depths... *
 
