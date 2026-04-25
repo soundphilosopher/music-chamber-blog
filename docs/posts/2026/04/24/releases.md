@@ -454,25 +454,25 @@ Es handelt sich um eine Art finnische Supergroup, bestehend aus Joel Hokka (ehem
 
 ::genre::modern rock, melo metal, metalcore
 
-## Holy Wars - Shadow Work / Light Work *
+## Holy Wars - Shadow Work / Light Work
 
 Unter der Leitung von Kat Leon nutzte die Band dieses Konzeptalbum, um die persönliche Trauer über den Verlust von Familienmitgliedern zu verarbeiten. Es ist ihr zweites Album in voller Länge, produziert von Gitarrist Nicholas Perez. Dunkler **Alternative Rock** und **Nu-Gothika**. Sie verbinden die schwere Intensität von *Spiritbox* mit dem melodischen Art-Pop von *Kate Bush*. Diese Platte ist eine rasante Verfolgungsjagd durch ein Spukhaus. Sie ist kathartisch, laut und zutiefst emotional. Seite A (Shadow) zieht dich durch die Dunkelheit, und Seite B (Light) bringt dich zurück ins Sonnenlicht, wo du nach Luft schnappst, dich aber wie neu geboren fühlst.
 
-::genre::art pop, art rock, dark rock, alt rock
+::genre::art pop, dark rock, alt rock, alt metal
 
-## Hrishikesh Hirway - In the Last Hour of Light *
+## Hrishikesh Hirway - In the Last Hour of Light
 
 *Hirway* ist der Schöpfer des gefeierten Podcasts "Song Exploder". Dies ist sein erstes Album in voller Länge unter seinem eigenen Namen, womit er sich von seinem früheren Künstlernamen *The One AM Radio* verabschiedet. **Indie-Pop** und **Chamber Folk**. Es enthält Kollaborationen mit *Iron & Wine*, *Yo-Yo Ma* und *Jay Som*. Für jemanden, der seine Tage damit verbringt, die Songs anderer Leute auseinanderzunehmen, weiß Hirway genau, wie man einen selbst zusammenstellt. Es ist verletzlich, intim und klingt wie ein sanftes Gespräch bei Sonnenuntergang. Es ist das klangliche Äquivalent einer warmen Decke und einer wirklich guten Tasse Tee.
 
 ::genre::indie pop, indie folk, chamber music
 
-## Hélène Duret, Synestet - Perception *
+## Hélène Duret, Synestet - Perception
 
-Der Name *Synestet* bezieht sich auf Synästhesie - das Verbinden von Klängen mit Farben oder Gerüchen. Dies ist das vierte Album des Ensembles, das aus fünf Musikern besteht (manchmal sechs, wenn Gäste wie *Nils Wogram* dabei sind), die Wert auf Offenheit und Raum für Improvisation legen. Mitreißender **Modern Jazz** und improvisierte Musik. Die Gruppe lässt sich von Künstlern wie *Jimmy Giuffre*, *Duke Ellington* und *Jakob Bro* inspirieren. Wenn man Musik schmecken könnte, wäre dieses Album ein Fünf-Gänge-Menü aus Klängen. Es ist gemächlich, farbenfroh und fühlt sich an, als würde man zusehen, wie ein abstraktes Gemälde in einem verrauchten belgischen Club zum Leben erwacht. Perfekt, wenn man Farben hören und Melodien sehen möchte.
+Der Name *Synestet* bezieht sich auf Synästhesie - das Verbinden von Klängen mit Farben oder Gerüchen. Dies ist das vierte Album des Ensembles, das aus fünf Musikern besteht (manchmal sechs, wenn Gäste wie *Nils Wogram* dabei sind), die Wert auf Offenheit und Raum für Improvisation legen. Mitreißender **Modern Jazz**, **Jazz Rock**, **Jazz Fusion** und improvisierte Musik. Die Gruppe lässt sich von Künstlern wie *Jimmy Giuffre*, *Duke Ellington* und *Jakob Bro* inspirieren. Wenn man Musik schmecken könnte, wäre dieses Album ein Fünf-Gänge-Menü aus Klängen. Es ist gemächlich, farbenfroh und fühlt sich an, als würde man zusehen, wie ein abstraktes Gemälde in einem verrauchten belgischen Club zum Leben erwacht. Perfekt, wenn man Farben hören und Melodien sehen möchte.
 
-::genre::modern jazz, improvisation
+::genre::modern jazz, jazz rock, jazz fusion, improvisation
 
-## Irmin Schmidt - Requiem *
+## Irmin Schmidt - Requiem
 
 *Schmidt* ist ein klassisch ausgebildeter Dirigent und Pianist, der bekanntlich die Kluft zwischen akademischer Musik und psychedelischem Rock überbrückte. "Requiem" ist eine moderne, groß angelegte Komposition für Solisten und Orchester. **Avantgarde**, **Neoklassik** und **experimenteller Rock**. Als Mitbegründer der legendären Band *Can* bringt Schmidt seine lebenslangen Krautrock-Experimente in sein klassisches Werk ein. Dies ist kein typisches Kirchenrequiem. Es ist eine gewaltige, mitreißende Klangreise, die sich zugleich uralt und futuristisch anfühlt. Es hat das Gewicht einer traditionellen Messe, aber den unberechenbaren, suchenden Geist eines Mannes, der in den 1960er Jahren dazu beitrug, die Musik neu zu erfinden.
 
@@ -483,12 +483,6 @@ Der Name *Synestet* bezieht sich auf Synästhesie - das Verbinden von Klängen m
 Dies ist *Deans* drittes Studioalbum. Als aufstrebender Star in Nashville ist er bekannt für einen lockeren und gelebten Sound, der sich vom glatten Pop-Country seiner Kollegen abhebt. **Southern Rock**, Outlaw **Country** der 70er Jahre und Delta **Soul**. *Dean* beschreibt das Album als eine Mischung aus zwei Welten: dem gefühlvollen, sanften "Magnolia" und dem wilden, westernartigen "Sage". Diese Platte fühlt sich an wie ein Paar abgetragene Stiefel. Die eine Hälfte ist ein sanfter Spaziergang am Strand, die andere Hälfte eine raue, staubige Fahrt durch die Wildnis von Wyoming. Es ist ein filmisches Country-Erlebnis, das das Herz ebenso stark berührt wie die Ohren.
 
 ::genre::southern rock, country rock, soul
-
-## Jesus Christ Taxi Driver - Taxi the Rich *
-
-Das 2022 gegründete Quartett steht unter der Leitung von Ian Ehrhart und ist bekannt für seine wild-chaotischen Live-Auftritte, die mit denen von *Iggy Pop* und *The Cramps* verglichen werden. **Garage-Punk**, **Surf-Rock** und jazzige Satire. Politisch pointiert und existentiell unsicher ist dieses Album ein fröhlich respektloser Lärm. Zwischen Tracks über den Elitismus in Palm Beach und satirischen Anspielungen auf *Lana Del Rey* ist es eine chaotische Reise durch die moderne Desillusionierung, die einen irgendwie dazu bringt, zur Apokalypse mitzutanzen.
-
-::genre::garage punk, surf rock, psych rock, prog pop, power pop
 
 ## Jim Papadatos - Judgement Day
 
@@ -508,21 +502,21 @@ Das 2022 gegründete Quartett steht unter der Leitung von Ian Ehrhart und ist be
 
 ::genre::hard rock, heavy rock
 
-## John Derek Bishop - Rondo *
+## John Derek Bishop - Rondo
 
 *Bishop*, auch bekannt als *Tortusa*, ist ein Meister darin, Field Recordings mit verzerrten akustischen Instrumenten zu verschmelzen. Er ist ein fester Bestandteil des Labels Jazzland Recordings. **Experimenteller Electronica**, **Ambient** und **Live-Sampling**. Das ist klangliche Tapisserie vom Feinsten. Es fühlt sich an wie eine sich langsam entwickelnde, transzendentale Reise, auf der Field Recordings der uns umgebenden Welt in sanfte, aber ungewohnte Formen verzerrt werden. Es ist jene Art von verführerischem Ambient, die dein Wohnzimmer in eine hochkarätige Kunstinstallation verwandelt.
 
 ::genre::ambient, experimental electronica, drone
 
-## Jordan Rakei - Between Us *
+## Jordan Rakei - Between Us
 
 Das Projekt entstand im Rahmen von Rakeis "Artist in Residence"-Aufenthalt 2025 in den Abbey Road Studios, wo er fünf Tage lang fünf verschiedene Gäste zu intensiven, spontanen Songwriting-Sessions einlud. **Soul**, **R&B** und **Electronic Jazz**. Stell dir das als die "Abbey Road After Hours"-Session vor, zu der du nicht eingeladen warst. Es ist ein kompaktes, strahlendes Set, das sich auf die Chemie zwischen uns konzentriert - mit Tom McFarland von *Jungle* - und zu einigen der schwerelosesten Soul-Songs des Jahres führt.
 
 ::genre::neo soul, alt r&b, alt jazz
 
-## Julia Cumming - Julia *
+## Julia Cumming - Julia
 
-*Cumming*, die vor allem als Leadsängerin und Bassistin des Rock-Trios *Sunflower Bean* bekannt ist, verbrachte Jahre in der Bestätigungsschleife der Branche, bevor sie die Freiheit fand, dieses Solo-Debüt aufzunehmen. Von den 70ern inspirierter **Indie-Rock**, **Dream Pop** und **Vintage Pop**. Ein atemberaubender Neuanfang, bei dem rauer Garagenrock gegen elegante, von Klaviermelodien getragene Klänge getauscht wird, die an Carole King erinnern. Es ist ein meditatives Album über Selbstfindung und Autonomie - ideal für alle, die einer badass Frontfrau dabei zuhören wollen, wie sie ihre eigene ruhige, befreite Stimme findet.
+*Cumming*, die vor allem als Leadsängerin und Bassistin des Rock-Trios *Sunflower Bean* bekannt ist, verbrachte Jahre in der Bestätigungsschleife der Branche, bevor sie die Freiheit fand, dieses Solo-Debüt aufzunehmen. Von den 70ern inspirierter **Indie-Rock**, **Alt Pop** und **Progressive Pop**. Ein atemberaubender Neuanfang, bei dem rauer Garagenrock gegen elegante, von Klaviermelodien getragene Klänge getauscht wird, die an Carole King erinnern. Es ist ein meditatives Album über Selbstfindung und Autonomie - ideal für alle, die einer badass Frontfrau dabei zuhören wollen, wie sie ihre eigene ruhige, befreite Stimme findet.
 
 ::genre::alt pop, prog pop, indie rock, dreampop
 
@@ -544,7 +538,7 @@ Dieses selbstbetitelte Projekt ist das fünfte Studioalbum der Künstlerin und e
 
 ::genre::r&b, neo soul
 
-## KNIFE BRIDE - sorry about the plague *
+## KNIFE BRIDE - sorry about the plague
 
 Angeführt von der charismatischen Mollie Thompson bezeichnen Knife Bride ihren Stil als "Vampir-Rock". Mit ihren aufwendigen Visuals und theatralischen Live-Auftritten sorgen sie für Aufsehen. **Nu-Goth**, **Alternative Metal** und **Cinematic Rock**. Trotz des höflichen Titels ist dieses Album ein echter Knaller. Es ist eine Mischung aus schweren Riffs, eingängigen Pop-Elementen und einer dunklen, kitschigen Ästhetik. Es ist die Art von Musik, die man auf einem Gothic-Karneval hören würde - lebhaft, ein bisschen gruselig und jede Menge Spaß.
 
@@ -562,7 +556,7 @@ Dieses Trio sorgt derzeit in der britischen Clubszene für Furore - mit einem So
 
 ::genre::alt rock, post grunge
 
-## Las Cruxes - Las Cruxes *
+## Las Cruxes - Las Cruxes
 
 Unter der Leitung des Multi-Instrumentalisten *Edu Casanova* verbindet dieses Projekt eine gespenstische, hallgetränkte Atmosphäre mit treibenden Punk-Rhythmen, wobei oft sowohl auf Englisch als auch auf Spanisch gesungen wird. **Post-Punk**, **Deathrock** und **Psych-Rock**. Stellt euch einen Spaghetti-Western vor, bei dem ein Goth Regie führt - das ist *Las Cruxes*. Es ist staubig, düster und unglaublich stilvoll. Das selbstbetitelte Debütalbum fühlt sich an wie eine Mitternachtsfahrt durch die Wüste mit einem Geist auf dem Beifahrersitz.
 
@@ -592,13 +586,13 @@ Als eigenständige Künstlerin, die bereits Songs für *H.E.R.* mitgeschrieben u
 
 ::genre::r&b, dreampop, trap, glitch, alt pop
 
-## Loukeman - SD-3 *
+## Loukeman - SD-3
 
 *Loukeman* (Luke Gammal), ein gefragter Produzent, der bereits mit *A$AP Rocky* und *PinkPantheress* zusammengearbeitet hat, schließt eine Trilogie ab, die 2021 begann. **Chilled Electronic**, **Ambient Pop** und **R&B**. *SD-3* ist wunderbar entspannte Musik für die heutige Zeit. Sie ist voller verzerrter Samples und zarter Vocals (wie die von *Georgia Hammer*), die sich anfühlen, als würden sie auf einer eisbedeckten Eisbahn in Toronto schweben. Es ist das klangliche Äquivalent einer kuscheligen Canada Goose-Jacke - vertraut, elegant und einzigartig nordisch.
 
 ::genre::ambient, minimal electronica, art pop, r&b
 
-## Lynx - Trinity Of Suns *
+## Lynx - Trinity Of Suns
 
 Die 2020 gegründete Band entwickelte sich erheblich weiter, nachdem der ursprüngliche Frontmann Marvin Kiefer 2025 ausgestiegen war. Die Sängerin und Synthesizer-Spielerin Amy Zine übernahm die Hauptstimme und führte die Band zu einem nuancierteren, zarten und doch kraftvollen Sound. 70er-Jahre-**Heavy-Rock**, **Progressive Rock** und **Psychedelic Folk**. Ein wahr gewordener Traum für Liebhaber des Vintage-Sounds. Live aufgenommen, fängt das Album die rohe Energie des frühen Proto-Metal mit wirbelnden Synthesizern und mystischen Texten ein. Es ist, als hätte man eine verlorene Kassette aus dem Jahr 1974 gefunden, die irgendwie brandneu klingt - perfekt für alle, die sich im Glanz der goldenen Ära des Rock sonnen wollen.
 
@@ -610,7 +604,7 @@ Diese Band, die aus der Berliner Underground-Szene hervorgegangen ist, hat sich 
 
 ::genre::post hardcore, alt metal
 
-## Mahatmos - Aurora Spectralis *
+## Mahatmos - Aurora Spectralis
 
 Ein Duo bestehend aus *Gianluca Meloni* (Techno-Veteran) und *Maurizio Loffredo* (Filmkomponist). Mit modularer Synthese und Live-Bearbeitung schlagen sie eine Brücke zwischen Clubkultur und Kino. Elektronischer **Ambient**, **Minimalismus** und hypnotischer **Techno**. Inspiriert von Größen wie *Brian Eno* und *Terry Riley* ist diese Platte ein verführerisch hypnotischer Slow-Burner. Es ist Musik für die Raumfahrt - oder zumindest dafür, an die Decke zu starren und sich vorzustellen, man schwebe durch eine Neon-Nebelwolke.
 
@@ -620,7 +614,7 @@ Ein Duo bestehend aus *Gianluca Meloni* (Techno-Veteran) und *Maurizio Loffredo*
 
 Beide sind feste Größen der Chicagoer Kreativszene und haben bereits mit Größen wie *Bill Callahan* und *Makaya McCraven* zusammengearbeitet. Das Album wurde in Laurenzis Dachgeschoss unter der Vorgabe keine Overdubs aufgenommen, wodurch ein rohes, in Echtzeit entstandenes Zusammenspiel eingefangen wurde. **Ambient-Jazz** und **elektroakustische Improvisation**. Es verbindet sakralen Minimalismus mit rhythmischer, tanzflächenreifer Energie. Es ist ein klangliches Gespräch zwischen einem Saxophon und einer Drum-Machine, das sich irgendwie wie eine religiöse Erfahrung anfühlt. In einem Moment meditierst du in einem ruhigen Dachboden, im nächsten bist du in einem hypnotischen Groove gefangen, der dich nicht mehr loslässt.
 
-::genre::modern jazz, avant jazz, ambient, improvisation
+::genre::modern jazz, avant jazz, ambient, synth pop, improvisation
 
 ## Matteo Stella - Radeche Fonne
 
@@ -628,7 +622,7 @@ Stella ist eine Experimentalmusikerin, die sich auf lebende musikalische Organis
 
 ::genre::neo classic, drone, ambient, field recordings
 
-## Meghan Trainor - Toy With Me *
+## Meghan Trainor - Toy With Me
 
 Der Star von "All About That Bass" kehrt mit ihrem siebten Studioalbum zurück, das in einer Zeit des Wandels - geprägt von Mutterschaft und persönlicher Weiterentwicklung - entstanden ist. **Pop**, **Doo-Wop** und **Retro-Pop**. Das ist das musikalische Äquivalent eines Barbie-Traumhauses auf Koffeinrausch. Es ist gewagt, frech und voller "Male Tears"-Frühstückshymnen und Millennial-Männerhass. Das ist Trainor in ihrer furchtlosesten Form, die beweist, dass "Shimmering" die beste Rache an den Hatern ist.
 
@@ -646,13 +640,13 @@ Ein experimentelles Trio, das sich für Vergänglichkeit und den Kontext von Kla
 
 ::genre::field recordings, ambient, experimental electronica
 
-## Mika Häkki - Mika Häkki & Dark Yonder *
+## Mika Häkki - Mika Häkki & Dark Yonder
 
-*Häkki* ist bekanntlich der Bassist der schwedischen Heavy-Rock-Giganten Monolord. Dieses Projekt ermöglicht es ihm, sich von der traditionellen Bandstruktur zu lösen und strukturiertere, oft orgellastige Kompositionen zu erkunden. Vorwiegend instrumentaler **Sludge**, **Doom** und **Ambient Rock**. *Häkki* lässt sich von schweren, verzerrten Klängen und tiefen, melodischen Rumpeln inspirieren. Das ist Musik für eine Apokalypse in Zeitlupe. Sie ist schwer genug, um deine Zähne zum Klappern zu bringen, hat aber genug Space-Rock-DNA, um dich schweben zu lassen, anstatt unterzugehen. Stell dir das als den perfekten Soundtrack vor, um auf eine Sturmfront zu starren, während du eine sehr schwere Bassgitarre in den Händen hältst.
+*Häkki* ist bekanntlich der Bassist der schwedischen Heavy-Rock-Giganten *Monolord*. Dieses Projekt ermöglicht es ihm, sich von der traditionellen Bandstruktur zu lösen und strukturiertere, oft orgellastige Kompositionen zu erkunden. Vorwiegend instrumentaler **Psychedelic Rock**, **Heavy Rock** und **Country Rock**. *Häkki* lässt sich von schweren, verzerrten Klängen und tiefen, melodischen Rumpeln inspirieren. Das ist Musik für eine Apokalypse in Zeitlupe. Sie ist schwer genug, um deine Zähne zum Klappern zu bringen, hat aber genug Space-Rock-DNA, um dich schweben zu lassen, anstatt unterzugehen. Stell dir das als den perfekten Soundtrack vor, um auf eine Sturmfront zu starren, während du eine sehr schwere Bassgitarre in den Händen hältst.
 
-::genre::post sludge metal, post doom metal, instrumental
+::genre::country rock, psych rock, heavy rock, hard rock
 
-## Mikaela Davis - Graceland Way *
+## Mikaela Davis - Graceland Way
 
 Eine gefeierte Harfenistin und Songwriterin, die bereits mit Mitgliedern der *Grateful Dead* zusammengearbeitet hat. Dies ist ihr fünftes Studioalbum mit eigenen Kompositionen. **Psychedelic Folk**, **Cosmic Country** und harfenbetonter **Pop**. Ein kaleidoskopisches "Canyon Country"-Epos, aufgenommen in einem sonnigen Canyon in Glendale. Mit ihrer charakteristischen schimmernden Harfe und ihrer kristallklaren Stimme fühlt es sich an wie eine sonnenverwöhnte Reise durch die Geschichte des Laurel Canyon, die mystisches Licht mit einem Hauch von Neo-Western-Rauheit in Einklang bringt.
 
@@ -666,9 +660,9 @@ Entstanden aus dem einfachen Wunsch, zusammen abzuhängen und über Musik zu red
 
 ## Miss Grit - Under My Umbrella *
 
-Margaret Sohn (*Miss Grit*) ist eine koreanisch-amerikanische Musikerin, die für ihre Präzision und ihre "Don’t overthink it"-Einstellung beim Aufnehmen bekannt ist. Dies ist ihr zweites Original-Album in voller Länge. **Art-Pop**, **Trip-Hop** und **Dream Pop**. Miss Grit hat den Roboter offiziell ausgeschaltet und ihren menschlichen Gefühlen freien Lauf gelassen. Es ist üppig, cineastisch und gelegentlich rau. Wenn du Pop mit noir-artigen Atmosphären und einem Hauch existenzieller Angst magst, bietet dieser Stil dir reichlich Platz.
+Margaret Sohn (*Miss Grit*) ist eine koreanisch-amerikanische Musikerin, die für ihre Präzision und ihre "Don’t overthink it"-Einstellung beim Aufnehmen bekannt ist. Dies ist ihr zweites Original-Album in voller Länge. **Art-Pop**, **Trip-Hop**, **EDM** und **Dream Pop**. Miss Grit hat den Roboter offiziell ausgeschaltet und ihren menschlichen Gefühlen freien Lauf gelassen. Es ist üppig, cineastisch und gelegentlich rau. Wenn du Pop mit noir-artigen Atmosphären und einem Hauch existenzieller Angst magst, bietet dieser Stil dir reichlich Platz.
 
-::genre::art pop, dreampop, trip hop
+::genre::art pop, dreampop, trip hop, edm
 
 ## Mochyn Daer - Riverloom
 
@@ -676,7 +670,7 @@ Joni Lewis (*Mochyn Daer*) ist eine experimentelle Musikerin und Gong-Künstleri
 
 ::genre::ambient, experimental folk, ritual music
 
-## MONEYBALL - Dogcatcher *
+## MONEYBALL - Dogcatcher
 
 Dieses vierköpfige Projekt, das oft als Midwestcore bezeichnet wird, sorgt mit seinen rauen, energiegeladenen Auftritten und seinen großen Hooks für Aufsehen. **Midwest-Emo** und **Post-Hardcore** mit **Nu-Metal**- und **Alternative-Rock**-Einflüssen. Ein Midwest-Emo-Bop, der wie ein rechter Haken einschlägt. Er fängt die klassische Vorstadt-Angst mit eingängigen Hooks und einer hundezentrierten Ästhetik ein. Wenn du schon immer mal moshen wolltest, während du über deine Heimatstadt weinst, ist dies die richtige EP für dich.
 
@@ -700,11 +694,11 @@ Die 2008 gegründete Band ist ein Träger der Hoffnung für den modernen Death M
 
 ::genre::brutal death metal, blackened death metal, slamcore
 
-## Nequient - Avarice *
+## Nequient - Avarice
 
 Bekannt für ihre intensive Bühnenpräsenz und ihre Texte, die sich gegen politische und kapitalistische Unterdrückung richten, nahmen sie dieses dritte Album bei Bricktop Recordings mit Pete Grossman auf. Eine Fusion aus **Crust-Punk**, **Thrash**, **Death Metal** und **Grindcore**. Es ist ein shreddy politischer Stinkefinger. Die Band greift Christofaschismus und Enshittification mit technischen Sweeps und vernichtenden Breakdowns an. Es ist der perfekte Soundtrack, wenn man zu Recht sauer auf den Zustand der Welt ist und jemanden darüber schreien hören will, unterlegt mit einem sich ständig verändernden metallischen Rand.
 
-::genre::crust, metallic hardcore, death metal, grindcore
+::genre::crust, metallic hardcore, death metal, grindcore, experimental metal
 
 ## Nishla Smith - It's Getting Late, You'd Better Go Home
 
@@ -742,11 +736,11 @@ Eine aufstrebende fünfköpfige Band, die ihr Debüt in der britischen Metal-Sze
 
 ::genre::melo death metal
 
-## On Water - From The Depths... *
+## On Water - From The Depths...
 
-Oft mit der experimentellen Metalcore-Szene in Verbindung gebracht, verbinden sie sanfte, akustisch geprägte Klänge mit unerwarteten, harten Breakdowns. **Experimenteller Indie-Folk** und **Chamber Pop** mit **Deathcore**-Elementen. Schwer genug, um ein Schlachtschiff zu versenken. Der Sound wird seinem Titel gerecht: tief, düster und gnadenlos aggressiv. Wenn du Breakdowns magst, bei denen es sich anfühlt, als würden sich die tektonischen Platten unter deinen Füßen verschieben, ist dies dein neuer Lieblings-Moshpit-Treibstoff. Es ist das klangliche Äquivalent dazu, ohne U-Boot auf dem Meeresgrund zu sein - unerbittlicher Druck.
+Nach der Aufnahme ihrer EP "Desolate Plane" aus dem Jahr 2024 fand die Band offiziell zu ihrer endgültigen Besetzung. "From The Depths..." ist ihr offizielles Debüt-Album in voller Länge und soll künftig ihren wahren Sound prägen. Das ist purer, moderner **Deathcore** und **Beatdown**. Die Band hat ihren Sound für dieses Album gezielt verändert und ist von der Drop-C-Stimmung auf die Drop-A-Stimmung umgestiegen, um eine deutlich schwerere, vernichtendere Atmosphäre zu erzielen. Wenn du auf der Suche nach einem entspannten Wellness-Tag warst, hast du eine sehr falsche Abzweigung in ein Haifischbecken genommen. "From The Depths..." ist eine Meisterklasse in schwerer Musik - es fühlt sich weniger so an, als würde man einem Song lauschen, sondern eher so, als würde man von einem Anker auf den Grund des Ozeans gezogen.
 
-::genre::deathcore, experimental metalcore
+::genre::deathcore, beatdown
 
 ## OOIOO / Lightning Bolt - The Horizon Spirals/The Horizon Viral *
 
