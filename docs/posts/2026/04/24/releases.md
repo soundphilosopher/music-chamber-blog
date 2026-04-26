@@ -1,7 +1,7 @@
 ---
 date: 2026-04-24
 pin: true
-bandcamp: false
+bandcamp: true
 categories:
   - Releases
 ---
@@ -670,12 +670,6 @@ Joni Lewis (*Mochyn Daer*) ist eine experimentelle Musikerin und Gong-Künstleri
 
 ::genre::ambient, experimental folk, ritual music
 
-## MONEYBALL - Dogcatcher
-
-Dieses vierköpfige Projekt, das oft als Midwestcore bezeichnet wird, sorgt mit seinen rauen, energiegeladenen Auftritten und seinen großen Hooks für Aufsehen. **Midwest-Emo** und **Post-Hardcore** mit **Nu-Metal**- und **Alternative-Rock**-Einflüssen. Ein Midwest-Emo-Bop, der wie ein rechter Haken einschlägt. Er fängt die klassische Vorstadt-Angst mit eingängigen Hooks und einer hundezentrierten Ästhetik ein. Wenn du schon immer mal moshen wolltest, während du über deine Heimatstadt weinst, ist dies die richtige EP für dich.
-
-::genre::midwest emo, post hardcore
-
 ## Mortuary - Great Black Earth
 
 Mortuary, echte OGs, die sich 1988 gründeten, haben sich 2008 wieder zusammengefunden. Diese EP ist ihre erste Veröffentlichung seit 2012 und lässt den primitiven Sound der Anfangszeit perfekt wiederaufleben. **Death/Thrash Metal**. Diese Platte ist wie eine Zeitmaschine in die 90er Jahre, die Ära des unaufhaltsamen musikalischen Genusses. Sie ist roh, Old-School und erhebt mit einem Sound, der ebenso großartig wie düster ist, einen starken Anspruch auf moderne Vorherrschaft.
@@ -760,25 +754,25 @@ Eine brutale Underground-Band, die bei Dark Descent Records unter Vertrag steht 
 
 ::genre::blackened death metal, war metal
 
-## Pleasure Pill - ALIVE *
+## Pleasure Pill - ALIVE
 
 Eine fünfköpfige Band unter der Leitung der Brüder Jonah und Ethan Paz. Sie sind bekannt für ihre stadiongroßen Ambitionen und einen Sound, der an Giganten der 90er wie *Oasis* oder *The Kinks* erinnert. Eine stimmungsvolle Mischung aus **Britpop**-Revival, **Indie-Rock** und **Power-Pop**. Wenn du diesen selbstbewussten, melodischen Gitarrensound der Mitte der 90er vermisst hast, ist dies genau das Richtige für dich. Es ist amphetaminartige Energie, die sich anfühlt wie ein sonniger Tag in einem Vintage-Band-T-Shirt. Es ist eingängig, ehrlich und fängt diese jugendliche Wanderlust-Stimmung perfekt ein.
 
 ::genre::britpop, power pop, indie rock
 
-## Plini - An Unnameable Desire *
+## Plini - An Unnameable Desire
 
-*Plini Roessler-Holgate* ist eine autodidaktische Meisterin der kopflosen Gitarre und eine führende Persönlichkeit der modernen Instrumental-Prog-Szene, die von Steve Vai berühmt gelobt wurde. **Progressiver Instrumentalrock**, **Jazz-Fusion** und Djent-naher melodischer Metal. Das ist musikalischer Sonnenschein. Selbst wenn die Taktarten seltsam werden und die Riffs schwer werden, liegt eine innewohnende Helligkeit und ein Optimismus im Spiel. Es fühlt sich an wie eine hochauflösende Tour durch eine futuristische Stadt. Es ist virtuos, aber niemals effekthascherisch, und konzentriert sich auf wunderschöne Melodien, die einen vergessen lassen, dass es keinen Gesang gibt.
+*Plini Roessler-Holgate* ist eine autodidaktische Meisterin der kopflosen Gitarre und eine führende Persönlichkeit der modernen Instrumental-Prog-Szene, die von Steve Vai berühmt gelobt wurde. **Instrumental Progressive Metal**, **Post-Metal** und Djent-naher melodischer Metal. Das ist musikalischer Sonnenschein. Selbst wenn die Taktarten seltsam werden und die Riffs schwer werden, liegt eine innewohnende Helligkeit und ein Optimismus im Spiel. Es fühlt sich an wie eine hochauflösende Tour durch eine futuristische Stadt. Es ist virtuos, aber niemals effekthascherisch, und konzentriert sich auf wunderschöne Melodien, die einen vergessen lassen, dass es keinen Gesang gibt.
 
-::genre::prog rock, post rock, jazz fusion, instrumental
+::genre::prog metal, post metal, instrumental
 
-## Portrayal of Guilt - ...Beginning of the End *
+## Portrayal of Guilt - ...Beginning of the End
 
 Dieses Trio, das als eine der produktivsten und furchteinflößendsten Bands der modernen Extremmusik gilt, hat sich einen Ruf dafür erarbeitet, Genres zu einem geschlossenen Albtraum zu verschmelzen. **Blackened Screamo**, **Hardcore** und **Industrial Sludge**. Klangliche Klaustrophobie pur. Es klingt, als wäre man in einem sinkenden U-Boot gefangen, während die Wände schreien. Es ist kurz, scharf und auf die bestmögliche Art zutiefst unangenehm. Die Industrial-Elemente verleihen ihrem gewohnt chaotischen Sound eine kalte, mechanische Angst, sodass er sich wie der Soundtrack zu einer digitalen Apokalypse anfühlt.
 
 ::genre::post hardcore, screamo, sludge metal
 
-## Poseydon - Time Is A River And The Waters Are Red *
+## Poseydon - Time Is A River And The Waters Are Red
 
 Poseydon sind seit den frühen 90er Jahren aktiv und haben trotz zahlreicher Besetzungswechsel ihre Stellung als eine der Säulen der belgischen Metal-Szene behauptet. Dies ist ihr erstes Album seit mehreren Jahren. **Technischer Death Metal** und **Old-School-Thrash**. Eine blutgetränkte Reise durch die Geschichte. Die Musik ist komplex und präzise wie ein Uhrwerk aus rostigen Klingen. Sie behandelt Themen wie menschliche Konflikte und den unerbittlichen Lauf der Zeit. Sie ist düster, gnadenlos und raffiniert - perfekt, wenn du Metal suchst, der sowohl Köpfchen als auch Muskeln hat.
 
@@ -802,11 +796,11 @@ Das fünfte Originalalbum des Trios unter der Leitung von Bruno Masulli. Es ist 
 
 ::genre::doom metal, thrash metal
 
-## Pure Wrath - Bleak Days Ahead *
+## Pure Wrath - Bleak Days Ahead
 
 Das Ein-Mann-Projekt des Multi-Instrumentalisten Januaryo Hardy (*Ryo*). Für dieses vierte Album hat er persönlich mit dem Schlagzeuger Yurii Ciel (ex-*White Ward*) aufgenommen. **Atmospheric Black Metal** mit progressiven und symphonischen Elementen. Dies ist eine trostlose Klage für diejenigen, die in der erstickenden Routine des modernen industriellen Lebens versinken. Es ist kälter und konfrontativer als seine früheren Werke und nutzt Mellotron, Orgel und Saxophon, um eine noir-artige Black-Metal-Atmosphäre zu schaffen. Es ist eine schwere, viszerale Reise, die sich anfühlt wie kalter Winterregen, der auf eine graue, urbane Landschaft fällt.
 
-::genre::atmo black metal, avant black metal
+::genre::atmo black metal, melo black metal
 
 ## Razen - Stained Glass Starling
 
@@ -819,12 +813,6 @@ Eine Zusammenarbeit zwischen dem radikalen belgischen Duo Razen (Brecht Ameel un
 Unter der Leitung von Gründer Ashten Banks besteht die aktuelle Besetzung der Band aus Sänger Andrew de Neef und dem kraftvollen Schlagzeuger Elias Mallin (der bereits mit Filter und Kesha auf Tour war). **Modern Rock**, **Cinematic Rock** und **Post-Hardcore**. Produziert von Matt Good (*Asking Alexandria*), ist dieses Album eine schonungslose psychologische Autopsie der Emotionen. Es ist atmosphärisch, explosiv und hymnisch - wie ein hochkarätiger Actionfilm für die Ohren, der sich nicht scheut, sich verletzlich zu zeigen, wenn es um toxische Machtverhältnisse und dunkle Romantik geht.
 
 ::genre::modern metal, cine rock, post hardcore
-
-## Reverend and the Makers - Is This How Happiness Feels? *
-
-Dies ist das achte Studioalbum der von Jon McClure angeführten Band, das auf ihren Top-10-Hit "Heatwave in the Cold North" aus dem Jahr 2023 folgt. Eine mitreißende Mischung aus **Indie-Rock**, Vintage-**Soul** und **Dance-Rock**. Dies ist der freudige Triumph der Band. Sie tauscht einen Teil ihres früheren Madchester-Funk gegen üppigen, mitreißenden Soul und prägnante Geschichtenerzählung ein. Auf einem Titel, "Haircut", ist sogar die britische Schauspielikone Vicky McClure als Sängerin zu hören. Es ist der perfekte Soundtrack für einen sonnigen Nachmittag, an dem man philosophisch gestimmt ist, aber trotzdem grooven möchte.
-
-::genre::indie rock, soul, melo rock, ebm
 
 ## Rikets - Tales From The Construct AlphaA v.1
 
@@ -844,7 +832,7 @@ Dies ist eine Supergroup, die sich aus Mitgliedern von *Hail Spirit Noir* und *P
 
 ::genre::melo black metal
 
-## Roman Candle - Unadulterated *
+## Roman Candle - Unadulterated
 
 Gegründet von Piper Ferrari und Jonas Vece nach ihrem vorherigen Projekt *sowithout.*, haben sie sich zu einer herausragenden Größe in der Underground-Szene von Las Vegas entwickelt. Viszeraler **Screamo**, **Hardcore** und ein **Emo**-Revival. Das ist eine psychologische Autopsie, vertont. Es ist roh, laut und bewusst ungeschliffen, mit Schwerpunkt auf Themen wie Rache und Überleben. Es ist der Sound von jemandem, der die Zähne fletscht und sich weigert, nachzugeben - perfekt, wenn man in die Leere schreien muss, um sich danach besser zu fühlen.
 
@@ -856,19 +844,13 @@ Nach ihrem Debüt, das auf Platz 1 der ARIA-Charts landete, wurde dieses zweite 
 
 ::genre::alt rock, post grunge, indie rock, indie folk
 
-## Sabancaya - Dispirited *
-
-Dies ist das ursprüngliche Debüt-Album der Band in voller Länge. Melodic Death Metal (von der Band oft scherzhaft als "Femihalvdödsmetall" oder "Halb-Tot-Metal" bezeichnet). Das ist kein gewöhnlicher "wütender Typ im Keller"-Metal. Es ist ausgefeilter schwedischer **Melodeath**, der vernichtende Riffs mit überraschend melodischen Hooks in Einklang bringt. Stell dir das wie einen wunderschönen, dunklen Wald vor, in dem die Bäume gelegentlich versuchen, dich zu fressen. Songs wie "Sanctified Suffering" sind perfekt, wenn du dich episch fühlen willst, während du etwas Alltägliches tust, wie zum Beispiel Staubsaugen.
-
-::genre::melo death metal
-
 ## Satoshi & Makoto - Mirage Cafe
 
 Das von dem Amsterdamer DJ Young Marco entdeckte Duo kreiert bereits seit seinem 15. Lebensjahr elektronische Klanglandschaften. Dieses Album ist ihre erste Veröffentlichung in voller Länge seit sechs Jahren. Raffinierte **Electronica**, **Ambient** und **IDM** mit subtilen Jazz-Anklängen. Ihre Werke sind bekannt dafür, dass sie mit dem Synthesizer Casio CZ-5000 komponiert wurden. Als imaginäres Café konzipiert, ist dieses Album ein sinnliches Ritual, das perfekt zur Kaffeekultur passt. Es ist warm, gemächlich und bis ins Detail ausgefeilt - perfekt für nächtliche Träumereien, bei denen die Grenze zwischen Traum und Wirklichkeit zu verschwimmen beginnt.
 
 ::genre::experimental electronica, ambient, idm
 
-## Scimitar - Scimitarium II *
+## Scimitar - Scimitarium II
 
 Die 2024 gegründete Band besteht aus Mitgliedern der Kopenhagener Metal-Szene (insbesondere der Band *Slægt*). Diese Veröffentlichung ist der Nachfolger ihres Debüts "Scimitarium I". Eine wilde Mischung aus **Blackened Heavy Metal** und **Progressive Metal**. Stellt euch epische Riffs vor, die auf Black-Metal-Kälte und Okkult-Rock treffen. Dieses Album ist wie eine höllische Maschine, die langsam ihren Rhythmus findet, bevor sie in eine Reise aus kantigen Gitarren und Blast Beats explodiert. Shaam A’s gespenstischer, trauriger Gesang gleitet über das Chaos wie eine Erscheinung in einem Gewitter.
 
@@ -884,25 +866,25 @@ Das Album aus der Abschiedsepoche der legendären Band. Es ist die einzige Studi
 
 Ein Trio erfahrener Musiker (Nathan Bowles, Jaime Fennelly, Joe Westerlund), deren Werdegang Gruppen wie *Megafaun*, *Bon Iver* und *Mind Over Mirrors* umfasst. Experimentelle amerikanische Musik mit organischen **Drone**s, **Art-Pop** und elektroakustischen Klanglandschaften. Dieses Album wird als lehmiger Puls himmlischer Transzendenz beschrieben. Es ist eine verführerische, erdige Platte, die sich wie eine weniger kitschige Version von **Krautrock** oder New-Age-Ambiente anfühlt. Sie nutzt alles von Banjo und Zithern bis hin zu Kassettenloops und Drumcomputern, um einen hypnagogischen Groove zu erzeugen, der pure gemeinschaftliche Freude ist. Es ist die perfekte Musik, wenn man sich „im Windschatten“ fühlen möchte.
 
-::genre::dronw, krautrock, art pop, avant pop, prog pop
+::genre::drone, krautrock, art pop, avant pop, prog pop, psych pop
 
-## Sewer Altar - Fever Dreams Of Vengeance *
+## Sewer Altar - Fever Dreams Of Vengeance
 
 Finnische Provokateure, die zuvor bereits eine Demo veröffentlicht haben; sie sind bekannt für ihre gesellschaftliche Respektlosigkeit und ihren knochenbrechenden Sound. Rasender **Deathgrind** gemischt mit **Hardcore**-Energie und **D-Beat**. Ein 21-minütiger Dampfwalzen-Lärm, der es schafft, sowohl gnadenlos als auch seltsam unterhaltsam zu sein. Es ist wie ein wildes Tier, das gefährliche Stimmungsschwankungen durchmacht. Textlich tauscht es Gore gegen gesellschaftspolitische Paranoia ein und verwandelt den Kampf der Unterschicht in ein spirituelles Totem. Wenn du es genießt, von der Energie mitgerissen zu werden, ohne dabei den klaren Blick zu verlieren, ist dies dein Soundtrack.
 
 ::genre::deathgrind, d-beat, crust
 
-## Shadowlands - 004 *
+## Shadowlands - 004
 
 Ein Quartett, das nun schon seit zehn Jahren zusammen spielt, bestehend aus den Schwestern Amy und Angie Sabin an Gesang, Synthesizern und Gitarre, unterstützt von einem soliden rhythmischen Fundament aus Bass und Schlagzeug. Eine kaleidoskopische Mischung aus **Post-Punk**, **Darkwave** und von den 80ern inspiriertem Horror-Synth. Man stelle sich klassischen **Goth-Rock** mit einem Hauch von **Shoegaze** und **Psychedelic** vor. Das ist anspruchsvolle Noir-Cinematic-Musik für Ihre nächste Absinth-getränkte Soirée. Sie ist stimmungsvoll und melancholisch, lässt aber die Gitarren laut erklingen und den Gesang in die Höhe steigen. Ein Track, "Clicks", thematisiert sogar die Leere digitaler Bestätigung mit einem Puls, der wirklich zum Tanzen einlädt. Es ist wie ein wunderschön düsterer Trip durch einen gespenstischen Nachtclub von 1982.
 
 ::genre::post punk, shoegaze, dark wave, psych rock
 
-## Simon Moullier - Ceiba *
+## Simon Moullier - Ceibaw
 
 Ein preisgekrönter Musiker, der am Berklee College of Music und am Thelonious Monk Institute bei Mentoren wie Herbie Hancock und Quincy Jones studierte. **Modern Jazz**. Sein Stil ist lyrisch, konzentriert und emotional aufgeladen und wird oft als filmisch beschrieben. Moullier nimmt das Vibraphon - ein Instrument, das manchmal wie Hintergrundmusik wirken kann - und verwandelt es in einen warmen, verführerischen Hauptdarsteller. Es ist anspruchsvoller Jazz, der sich in einem schummrig beleuchteten Club ebenso zu Hause fühlt wie als Soundtrack zu einem hochwertigen "inneren Kin"-Film.
 
-::genre::modern jazz
+::genre::modern jazz, contemporary jazz
 
 ## Since The Death - Entangled
 
@@ -922,13 +904,13 @@ Eine rasant aufstrebende Band der texanischen Extreme-Szene, bekannt für ihre t
 
 ::genre::deathcore, slamcore
 
-## Sofia Jernberg - Voice *
+## Sofia Jernberg - Voice
 
 *Jernberg*, die eine Ausbildung in Jazz und Komposition genossen hat, ist dafür bekannt, die menschliche Stimme als Vollspektrum-Instrument zu behandeln, ohne dabei auf elektronische Effekte zurückzugreifen. Sie ist eine Meisterin der **avantgardistischen** und **experimentellen Vokalkunst**. Sie bedient sich nonverbaler Vokalisation, Split-Tones, Verzerrung und Multiphonics. Das ist pure Batshit-Sonics im besten Sinne des Wortes. In einem Moment klingt sie wie ein Vogelchor, im nächsten wie ein analoger Synthesizer oder ein Blasinstrument. Es ist eine fesselnde, manchmal eindringliche Erkundung dessen, wozu die menschliche Kehle fähig ist, wenn man aufhört zu versuchen zu singen und stattdessen versucht, der Klang selbst zu sein.
 
 ::genre::avant jazz, vocal jazz, experimental jazz
 
-## Stalemate Of Wills - Existence Denied *
+## Stalemate Of Wills - Existence Denied
 
 Das 2023 von Derek Kovacs gegründete Trio besteht aus den Szeneveteranen Jake Morris und Bob McSherry. **Sludgecore**, **Doom** und **Hardcore**. Eine salzige, rostige Variante des New Orleans Sludge. Textlich ist es ein tiefer Eintauch in die Hoffnungslosigkeit, die man im Laufe des Lebens erlebt, vorgetragen mit heruntergestimmten, "meat and potatoes"-Riffs, die deine Dielen zum Vibrieren bringen werden.
 
@@ -946,13 +928,13 @@ Das Duo wurde 2020 von der Sopranistin Anna Elder und der Flötistin Sarah Stera
 
 ::genre::chamber pop, chamber jazz, modern classic
 
-## Tacoma Park - Baltimore *
+## Tacoma Park - Baltimore
 
 Ein Duo bestehend aus John Harrison und Benjamin David Felton, bekannt für ihre Mischung aus erdigem Fingerpicking und Retro-Synth-Beats. **Astral Americana**, **Ambient** und "**Kosmische**". Diese Platte ist eine vernebelte ländliche Traumlandschaft, die die organische Wärme der Gitarre perfekt mit mechanischen elektronischen Texturen in Einklang bringt. Sie ist meditativ, improvisiert und fühlt sich an wie ein Roadtrip durch eine Landschaft, die ständig zwischen den 1970er Jahren und der fernen Zukunft hin- und herwechselt.
 
-::genre::prog folk, ambient, krautrock, space rock
+::genre::prog folk, ambient, krautrock, space rock, instrumental
 
-## Tempers - Delusion *
+## Tempers - Delusion
 
 Das Duo (Jasmine Golestaneh und Eddie Cooper) ist bekannt für seinen poetischen, hypnotischen Elektronik-Sound. **Darkwave**, **Post-Punk** und **Synth-Pop**. *Tempers* hat sich auf düstere, eisige Melodien spezialisiert, die sich wie ein neongetränkter Traum anfühlen. Es ist Musik für eine Autofahrt durch die Stadt um 3 Uhr morgens - elegant, stimmungsvoll und zutiefst atmosphärisch, die einen in einen Mantel aus raffinierten Synth-Texturen hüllt.
 
@@ -964,11 +946,11 @@ Ihr zehntes Album in voller Länge, produziert vom ehemaligen Gitarristen Todd J
 
 ::genre::metallic hardcore
 
-## The Amity Affliction - House Of Cards *
+## The Amity Affliction - House Of Cards
 
 Das neunte Studioalbum der Band und das erste mit dem neuen Bassisten und Clean-Sänger Jonathan Reeves. **Metalcore** und **Post-Hardcore**. Dies ist eines der verheerendsten und persönlichsten Alben ihrer Karriere, das sich vor allem mit dem Trauma von Frontmann Joel Birch im Zusammenhang mit dem Tod seiner Mutter auseinandersetzt. Musikalisch ist es ein vollständiger Angriff, der einige der härtesten Stücke der Band mit grandiosen, von Streichern durchtränkten Schlussakkorden verbindet.
 
-::genre::metalcore, post hardcore
+::genre::modern metalcore, post hardcore
 
 ## The Cab - Chasing Crowns
 
@@ -982,13 +964,13 @@ Die Band, die sich einen Ruf für energiegeladene Live-Auftritte erarbeitet hat,
 
 ::genre::indie rock, alt rock, surf rock
 
-## The Prestige - Isthmos *
+## The Prestige - Isthmos
 
 Ein Quartett, das für seinen viszeralen und erdrückenden Sound bekannt ist, hat sein neuestes Werk im The Apiary Studio aufgenommen. **Post-Hardcore**, **Sludge** und **Chaotic Hardcore**. Ein schwindelerregender, dreidimensionaler Sprung in die inneren Turbulenzen. Es wechselt zwischen aggressiven, chaotischen Ausbrüchen und nachdenklichen, ruhigen Ausdehnungen. Es fühlt sich an wie ein hochspannender Psychothriller in musikalischer Form - intensiv, stimmungsvoll und unmöglich zu ignorieren.
 
 ::genre::post hardcore, mathcore, sludge metal
 
-## The Reds, Pinks & Purples - Acknowledge Kindness *
+## The Reds, Pinks & Purples - Acknowledge Kindness
 
 *Donaldson* ist unglaublich produktiv, konzentriert sich normalerweise auf Lo-Fi-Bedroom-Pop, strebt hier aber nach einem groß klingenden Album. **Indie-Pop**, **Dream-Pop** und **Post-Punk** (FFO: *The Cure*, *The Go-Betweens*). Melancholie, zu der man tanzen kann - oder zumindest in einem übergroßen Pullover mitschwingen. Es ist voll von 80er-Jahre-Hall und schrillen Vocals im Robert-Smith-Stil. Songs wie "Emo Band" zeigen Donaldsons charakteristische Mischung aus Herzschmerz und trockenem, selbstironischem Humor.
 
@@ -1000,7 +982,7 @@ Nach einer zehnjährigen Pause kehrten diese Screamo-Veteranen zurück, um erneu
 
 ::genre::post hardcore, screamo, emocore
 
-## Thorgrim - Puca *
+## Thorgrim - Puca
 
 Die 2023 gegründete Band nimmt ihre Songs live auf, um rohe, viszerale Energie ohne Metronome oder Tricks einzufangen. **Sludge**, **Doom**, **Punk** und **Black Metal**. Das ist böse im besten Sinne des Wortes. Es ist dreckiger, schwankender Sludge, der klingt, als wäre er in einem Keller voller Glasscherben und böser Absichten aufgenommen worden. Jeder Fehler und jede Schramme bleibt erhalten, was dem Ganzen eine gefährlich authentische Note verleiht.
 
@@ -1148,7 +1130,7 @@ Ein Super-Duo mit Chuck D (dem legendären Frontmann von *Public Enemy*) und Joh
 
 ::genre::boom bop, hip hop, prog hip hop
 
-## Half Man - I Can See God *
+## Half Man - I Can See God
 
 Dies ist das erste Album der Band in voller Länge, das auf ihre EP aus dem Jahr 2023 folgt. **Hardcore**, **Powerviolence** und **Death Metal**. Diese Platte ist ein Beweis für pure Intensität und bietet 11 Titel in nur 16 Minuten. Sie ist schnell und kompromisslos und verbindet die rohe Energie des Hardcore mit der technischen Wucht des Death Metal. Sie richtet sich an Hörer, die rasante, perkussive Aggressivität schätzen.
 
@@ -1160,7 +1142,7 @@ Als aufstrebende Kraft in der estnischen Underground-Szene konzentriert sich *K�
 
 ::genre::raw black metal, atmo black metal
 
-## Look Outside Your Window - Look Outside Your Window *
+## LOYW - Look Outside Your Window
 
 Ein Nebenprojekt von vier Mitgliedern von *Slipknot*: Corey Taylor, Shawn Crahan, Jim Root und Sid Wilson. **Experimenteller Rock**, melodisch, atmosphärisch. Aufgenommen 2008 während der "All Hope Is Gone"-Sessions. Es galt lange Zeit als verloren und verzögerte sich um 18 Jahre. Die Mitglieder beschreiben es als *Radiohead*-Vibe und als etwas, das sich stark vom brutalen Sound von *Slipknot* unterscheidet. Der Heilige Gral der Metal-Nebenprojekte. Statt Masken und Geschrei gibt es hier trippige Orgelklänge, abstrakte Gitarrengeräusche und Samples von Fröschen und Grillen. Es ist ein stimmungsvolles Kunstwerk, das sich eher wie ein Fiebertraum in einem abgelegenen Bauernhaus anfühlt als wie ein Metal-Konzert.
 
@@ -1172,11 +1154,11 @@ Entstanden aus der amerikanischen Hip-Hop-Szene, insbesondere verbunden mit den 
 
 ::genre::hip hop, glitch, lowend
 
-## Pearl - Love and Grief *
+## Pearl - Love and Grief
 
-Eine 2018 gegründete vierköpfige Band, deren Mitglieder aus etablierten Baltimore-Bands wie *Celebration* und *Wet Brain* stammen. Ihre Einflüsse reichen von *Black Sabbath* bis hin zu *Bad Brains*. Wilder **Hardcore**, **Post-Punk** und mit **Electronica** versetzter **Noise**. Dieses Album fängt die rohe Energie eines Underground-Kellerkonzerts ein. Es erkundet das emotionale Spektrum zwischen Liebe und Verlust mit frenetischer, basslastiger Intensität. Es ist der pure Tod, der dich auf Schritt und Tritt verfolgt, bleibt aber auf seine eigene chaotische Art bezaubernd eingängig.
+Eine 2018 gegründete vierköpfige Band, deren Mitglieder aus etablierten Baltimore-Bands wie *Celebration* und *Wet Brain* stammen. Ihre Einflüsse reichen von *Black Sabbath* bis hin zu *Bad Brains*. Wilder **Hardcore Punk** versetzt mit **Noise**. Dieses Album fängt die rohe Energie eines Underground-Kellerkonzerts ein. Es erkundet das emotionale Spektrum zwischen Liebe und Verlust mit frenetischer, basslastiger Intensität. Es ist der pure Tod, der dich auf Schritt und Tritt verfolgt, bleibt aber auf seine eigene chaotische Art bezaubernd eingängig.
 
-::genre::post hardcore, electronica, noise
+::genre::post hardcore, noisecore
 
 ## Richard Davies - The Son of the Man Who Wrestled a Sea Lion
 
@@ -1210,7 +1192,7 @@ Eine aufstrebende Band aus der neuseeländischen Extreme-Metal-Szene, bekannt f�
 
 ## VOIEL - Goddess of the North *
 
-Ein geheimnisvolles Projekt, das auf Independent-Musikplattformen durch seine atmosphärischen und kraftvollen Kompositionen Aufmerksamkeit erregte. **Post-Metal**, **Depressive Rock** und **Melancholic Metal**. Das Album nimmt den Hörer mit auf eine Reise durch wechselnde Stimmungen, die mit sanften Harmonien und **Spoken-Word**-Elementen beginnt, bevor sie in kraftvolle, verzerrte Instrumentierung übergeht. Durch den Einsatz von hallenden Gitarren und wuchtigen Rhythmen vermittelt es ein Gefühl von kalter, nordischer Einsamkeit.
+Ein geheimnisvolles Projekt, das auf Independent-Musikplattformen durch seine atmosphärischen und kraftvollen Kompositionen Aufmerksamkeit erregte. **Blackgaze**, **Depressive Rock** und **Post-Rock**. Das Album nimmt den Hörer mit auf eine Reise durch wechselnde Stimmungen, die mit sanften Harmonien und **Spoken-Word**-Elementen beginnt, bevor sie in kraftvolle, verzerrte Instrumentierung übergeht. Durch den Einsatz von hallenden Gitarren und wuchtigen Rhythmen vermittelt es ein Gefühl von kalter, nordischer Einsamkeit.
 
 ::genre::post metal, blackgaze, dsbm, mellow metal
 
