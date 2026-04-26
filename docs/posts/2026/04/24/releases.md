@@ -1,7 +1,7 @@
 ---
 date: 2026-04-24
 pin: true
-bandcamp: true
+bandcamp: false
 categories:
   - Releases
 ---
@@ -693,12 +693,6 @@ Dieses Trio sorgt derzeit in der britischen Clubszene für Furore - mit einem So
 Dieses unabhängige Rock-Trio finanzierte sein Debütalbum über eine erfolgreiche GoFundMe-Kampagne und sammelte in weniger als zwei Wochen die Mittel für eine Vinylpressung. Zuvor hatten sie mit ihrer 2023 erschienenen EP "Deathproof" für Aufsehen gesorgt. Energiegeladener **Alternative Rock**. Kritiker haben ihren Sound mit einer Mischung aus *Queens of the Stone Age* und *Royal Blood* verglichen, geprägt von kraftvollen Rhythmen und einer kontrollierten, modernen Rock-Klanglandschaft. *Krooked Tongue* hat einen Ort geschaffen, den man unbedingt besuchen möchte. Es ist ein selbstbewusstes Debüt, das sich anfühlt wie eine nächtliche Spritztour durch eine Neonstadt - voller Selbstbewusstsein, verzerrter Riffs und Refrains, die einem wie gutes Barbecue unter die Haut gehen.
 
 ::genre::alt rock, desert rock, indie rock
-
-## Kõdu - Kirjad Sõgedate Külast
-
-Als aufstrebende Kraft in der estnischen Underground-Szene konzentriert sich *Kõdu* auf die düsteren literarischen Traditionen ihrer Heimat. Narrativer **Black Metal**. Das Album, dessen Titel übersetzt "Briefe aus dem Dorf der Wahnsinnigen" bedeutet, ist ein trostloser, atmosphärischer Abstieg in die Isolation. Mit Texten, die auf estnische Dichter des 19. Jahrhunderts zurückgreifen, erzählt es einen Krimi, der in einem verfallenden Dorf spielt. Es ist kalt, intellektuell und klingt wie ein Winterwind, der durch einen verwunschenen Wald heult. Perfekt, wenn du dir Metal wünschst, der sich wie eine Geschichtsstunde auf einem Friedhof anfühlt.
-
-::genre::raw black metal, atmo black metal
 
 ## Las Cruxes - Las Cruxes
 
