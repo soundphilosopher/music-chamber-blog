@@ -40,6 +40,12 @@ Die Band wurde Ende der 80er Jahre gegründet und legte eine lange Pause ein, be
 
 ::genre::melo rock, hard rock, arena rock
 
+## Ampacity - Cosmic Indifference *
+
+Die polnische Instrumentalband Ampacity sorgte 2013 mit ihrem Debütalbum "Encounter One" für Aufsehen. Sie sind Meister des langsamen Aufbaus und schaffen gewaltige, psychedelische Crescendos. **Space Rock**, **Krautrock** und **Progressive Rock**. Dies ist eine Reise durch die Sterne mit 10 Titeln. Stücke wie das 13-minütige "Phantomatics" verbinden alltägliche Probleme mit einer kosmischen Atmosphäre. Es ist heavy, trippig und weitläufig - perfekt für alle, die sich in einer Klangwand verlieren wollen, die sich so unermesslich anfühlt wie die Galaxie selbst.
+
+::genre::space rock, prog rock, krautrock, instrumental
+
 ## Anenon - Dream Temperature
 
 *Anenon* ist ein Multi-Instrumentalist (vor allem Saxophon und Electronica), der dafür bekannt ist, architektonische Räume mit improvisierter Musik zu verbinden. Dieses Album wurde durch seinen Umzug in die Wüste inspiriert und fängt die wechselnde Hitze und Stille der Landschaft ein. **Ambient**, **moderne Klassik** und **experimenteller Jazz**. Diese Platte ist eine Halluzination in Zeitlupe. Sie ist spärlich und schimmernd, als würde man mittags beobachten, wie Hitzewellen von einer Autobahn aufsteigen. Das Saxophon atmet durch die Stücke wie ein Wüstenwind - es ist unglaublich friedlich, besitzt aber eine unterschwellige Intensität, die einem das Gefühl gibt, durch einen lebhaften Traum zu treiben.
@@ -129,6 +135,12 @@ Seit 2009 ist dieses Trio eine führende Stimme der spanischen Underground-Szene
 Es handelt sich um ein originelles Debütalbum, dessen Titel und Themen sich mit der spezifischen Phobie vor unter Wasser liegenden, von Menschenhand geschaffenen Objekten (Submechanophobie) sowie mit psycho-sensorischen Konzepten unter Wasser befassen. Das Album wird in erster Linie den Genres **Metalcore** und **Deathcore** zugeordnet, wobei deutliche Einflüsse aus **Mathcore** und Math Metal zu erkennen sind. Stellt euch vor, ihr taucht in einen dunklen, verrosteten Ozean ein, in dem die heimische Tierwelt durch glitchende Hydraulikpumpen und zerklüftetes Eisen ersetzt wurde – das ist die Welt, die Ayanami hier erschaffen hat. Es ist eine „unterwasserpsychosensorische Reise“, die sich wie ein dystopischer Albtraum unter den Wellen anfühlt.
 
 ::genre::modern metalcore, mathcore, deathcore
+
+## Baba Stiltz, Okay Kaya - Blurb 2
+
+Baba Stiltz ist ein vielseitiger Produzent und DJ, der von House-Musik zum Pop wechselte, während Okay Kaya für ihren trockenen Humor und ihre verbitterte Sichtweise bekannt ist. Ihre Zusammenarbeit als Baba Stiltz & Okay Kaya begann mit ihrer 2025 erschienenen EP "Blurb". **Indie-Pop**, **Folk** und Outsider-Musik. Man denke an lockere, sanfte und oft witzige Akustikmelodien. Eine Meisterklasse in Weird-Pop. Sie fängt die menschliche Erfahrung in all ihrer langweiligen, traurigen und urkomischen Pracht ein. Mit Stiltz’ Produktion und Kayas weltlichem, spirituellem Verständnis ist es, als würde man einem Gespräch zwischen zwei Menschen lauschen, die ihr Boot „geradeaus in die Leere“ steuern.
+
+::genre::indie pop, indie folk
 
 ## Bassault US - Lights, Camera, Slaughter
 
@@ -232,6 +244,12 @@ Diese Veröffentlichung markiert das Ende einer fast 20-jährigen Pause der Grup
 
 ::genre::dreampop, shoegaze, post punk, indie pop, indie rock
 
+## Chuuwee - And Loathing
+
+*Chuuwee* ist ein Urgestein der Indie-Szene von Sacramento und bekannt für sein unermüdliches Schaffen (darunter die umfangreiche Dystopia-Reihe). Er beschäftigt sich oft mit Themen wie Philosophie, Religion und den Herausforderungen des unabhängigen Kunstschaffens. Underground-**Hip-Hop**, **Boom-Bap** und **Jazz-Hop** mit starkem Fokus auf komplexer Lyrik und gesellschaftskritischen Kommentaren. Hier zeigt sich *Chuuwee* von seiner introspektivsten Seite. "And Loathing" wirkt wie ein düsterer, spätnächtlicher Tagebucheintrag, unterlegt mit staubigen, gefühlvollen Samples. Es ist die Art von Platte, bei der man sich in einen dunklen Raum setzen, Kopfhörer aufsetzen und sich ganz auf das Wortspiel konzentrieren möchte.
+
+::genre::uk jazz, boom bap, hip hop
+
 ## City of the Sun - Under the Moon
 
 Die Band hat fünf Jahre lang an dieser Sammlung gearbeitet, die als akustisches Tagebuch von den Lockdowns im Jahr 2020 bis hin zu ihren Aufnahmesessions im Dezember 2024 dient. **Indie-Rock**, **Post-Rock** und **Psychedelic Rock**. Das Trio ist bekannt für einen akustisch geprägten, genreübergreifenden Sound, der sich durch komplexe, vom Flamenco inspirierte Gitarrenarbeit auszeichnet. Dies ist Sonnenaufgangsmusik für eine Welt, die aus dem Schatten hervortritt. Es fühlt sich an wie ein langer, tiefer Atemzug nach fünf Jahren des Anhaltens. Die Gitarren spielen nicht einfach nur; sie führen einen Dialog und verweben Geschichten von Verwandlung und neuen Perspektiven, die das Hineintreten ins Licht buchstäblich spürbar machen.
@@ -273,6 +291,12 @@ Das Kern-Duo aus Brandon Welchez und Charles Rowell ist seit 2008 eine feste Gr�
 Brooke beschreibt dies als sein bisher persönlichstes Projekt, mit dem er knallharten Metalcore aus der MySpace-Ära für ein modernes Publikum veröffentlichen möchte. **Moderner Metalcore** mit starken Einflüssen aus der Emo-Ära. Das ist eine regelrechte Ode an die Emo-Ära, die überraschend heftig zur Sache geht. Es ist düster, kantig und kathartisch - die Art von Musik, bei der man sich die Ponyfrisur glattstreichen und ins Leere schreien möchte, während die Blast Beats den Puls in die Höhe treiben.
 
 ::genre::emocore, modern metalcore, post hardcore, digicore
+
+## Dave Douglas - Transcend
+
+Ein produktiver, visionärer Trompeter und Komponist. Auf dieser Platte ist sein *GIFTS Quintett* zu hören, zu dem auch James Brandon Lewis und Tomeka Reid gehören. **Moderner Jazz** und **Avantgarde**, eine Verschmelzung von Elektronik und kollektiver Improvisation. Das ist radikal zukunftsweisender Jazz, der dennoch im Geiste geerdet wirkt. Er ist energiegeladen und experimentell, dabei aber zutiefst lyrisch. Das Zusammenspiel von Cello, Saxophon und Elektronik schafft eine schwebende, spirituelle Atmosphäre, die ihrem Titel alle Ehre macht – es ist Musik, die dich auf eine andere Ebene entführen will.
+
+::genre::modern jazz, nu jazz, avant jazz
 
 ## Death Lens - What’s Left Now?
 
@@ -399,6 +423,12 @@ Ihr zwölftes Studioalbum und das erste mit dem Schlagzeuger Ilan Rubin. **Alter
 Unter der Leitung von *Niko Kapetan* erwarben sie sich in der Chicagoer DIY-Szene einen hervorragenden Ruf, bevor sie mit ihrem Debütalbum aus dem Jahr 2024 internationale Anerkennung erlangten. **Power Pop** trifft auf **avantgardistischen Rock** und symphonische Balladen der 70er Jahre. Es ist ein generationsprägender Schlachtruf, der zwischen explosiver, hämmernder Energie und zartem Chamber Pop hin- und herpendelt. In einem Moment schreist du noch zu ungezügeltem Chaos mit, und im nächsten schwingst du dich in einem Zustand melodischer Glückseligkeit an einem metaphorischen Kronleuchter.
 
 ::genre::avant rock, indie rock, alt rock, power pop
+
+## Gareth Donkin - Extraordinary
+
+Ein 23-jähriger „Soul-Savant“, bekannt für seine instrumentale Virtuosität und seinen One-Man-Band-Produktionsstil. **Soul**, **Funk** und **Yacht Rock** mit zeitgenössischem Flair. Als wichtige Vorbilder nennt er *Michael Jackson*, *Quincy Jones* und *Earth, Wind & Fire*. Stellen Sie sich Michael Jackson vor, produziert von Quincy Jones im Jahr 2026 - es ist üppig, klingt aufwendig und absolut schillernd. Das Album ist ein Liebesbrief an LA, der sich anfühlt wie eine sonnenverwöhnte Fahrt mit offenem Verdeck. Es ist anspruchsvoller Pop, der es schafft, sowohl nostalgisch als auch frisch zu sein.
+
+::genre::neo soul, alt r&b, funk, prog soul
 
 ## Gay Meat - Blue Water
 
@@ -538,6 +568,12 @@ Dieses selbstbetitelte Projekt ist das fünfte Studioalbum der Künstlerin und e
 
 ::genre::r&b, neo soul
 
+## King No-One - The Burden of Empathy
+
+Nach Jahren des Straßenmusizierens und dem Aufbau einer riesigen Fangemeinde ist dies das lang erwartete Debütalbum der Band. Dynamischer **Indie-Rock** und **Indie-Pop**, der Vergleiche mit Bands wie *Black Honey* hervorruft. Es ist eine hymnenreiche Auseinandersetzung mit der modernen Welt. Frontmann Zach Lounts magnetische Stimme führt durch Songs, die sowohl emotional offen als auch zum Nachdenken anregend sind. Es ist groß, laut und unglaublich ehrlich - die Art von Platte, die danach verlangt, in einem vollgepackten, schweißtreibenden Club gehört zu werden.
+
+::genre::indie rock, indie pop
+
 ## KNIFE BRIDE - sorry about the plague
 
 Angeführt von der charismatischen Mollie Thompson bezeichnen Knife Bride ihren Stil als "Vampir-Rock". Mit ihren aufwendigen Visuals und theatralischen Live-Auftritten sorgen sie für Aufsehen. **Nu-Goth**, **Alternative Metal** und **Cinematic Rock**. Trotz des höflichen Titels ist dieses Album ein echter Knaller. Es ist eine Mischung aus schweren Riffs, eingängigen Pop-Elementen und einer dunklen, kitschigen Ästhetik. Es ist die Art von Musik, die man auf einem Gothic-Karneval hören würde - lebhaft, ein bisschen gruselig und jede Menge Spaß.
@@ -579,6 +615,12 @@ Dieses Projekt, das auf dem avantgardistischen Label Vlek erschienen ist, ist be
 Life Lessons haben Jahre damit verbracht, Rückschläge und Liebeskummer zu bewältigen, was in diesem Kapitel gipfelt, das sie als Manifest für psychisches Wachstum bezeichnen. **Pop-Punk**, **Rock** und **Emo**. Das ist Musik für die ewigen Fans von schnellen Drums und ehrlichen Texten. Es ist energiegeladener Pop-Punk, der auch vor den schwierigen Themen nicht zurückschreckt. Es fühlt sich an wie ein Gesamtwerk, das der Band endlich Luft zum Atmen gibt und Rückschläge in einen "Mind in Motion" verwandelt.
 
 ::genre::pop punk, power pop, alt rock
+
+## Liquits - Déjà Vu
+
+Liquits wurden 1993 gegründet und entwickelten sich zu einer festen Größe der mexikanischen Indie-Szene, bekannt für ihre fantasievollen Texte und ihren genreübergreifenden Stil. Diese Veröffentlichung markiert ein bedeutendes Comeback des Trios. **Alternative Rock** und **Indie-Pop** mit einem eigenwilligen, melodischen Touch. Es fühlt sich an wie ein lang ersehntes Wiedersehen mit einem alten Freund, der seinen Sinn für Humor nicht verloren hat. Die Produktion ist knackig und modern, behält aber dennoch den klassischen *Liquits*-Charme bei - ein bisschen psychedelisch, sehr eingängig und perfekt, wenn man einen musikalischen Muntermacher braucht.
+
+::genre::psych indie, indie rock, alt rock, indie pop
 
 ## Lolo Zouaï - Reverie
 
@@ -663,6 +705,12 @@ Entstanden aus dem einfachen Wunsch, zusammen abzuhängen und über Musik zu red
 Margaret Sohn (*Miss Grit*) ist eine koreanisch-amerikanische Musikerin, die für ihre Präzision und ihre "Don’t overthink it"-Einstellung beim Aufnehmen bekannt ist. Dies ist ihr zweites Original-Album in voller Länge. **Art-Pop**, **Trip-Hop**, **EDM** und **Dream Pop**. Miss Grit hat den Roboter offiziell ausgeschaltet und ihren menschlichen Gefühlen freien Lauf gelassen. Es ist üppig, cineastisch und gelegentlich rau. Wenn du Pop mit noir-artigen Atmosphären und einem Hauch existenzieller Angst magst, bietet dieser Stil dir reichlich Platz.
 
 ::genre::art pop, dreampop, trip hop, edm
+
+## Missing Words - Serotonin
+
+Eine dreiköpfige Band (James Meays, Colin Wood und Jameson Meays), die für ihre energiegeladenen Live-Auftritte und einen Sound bekannt ist, der Vintage-Synthesizer-Klänge mit melodischen Gitarren verbindet. **Synth-Pop**, **New Wave** und **Synthwave** mit einer 80er-Jahre-Retro-DNA. Ein wahrer Dopamin-Kick. Nostalgisch-aufmunternd, behandelt die Band schwere Themen wie Liebeskummer und Reifeprozesse durch schimmernde Neon-Melodien, die zum Tanzen animieren, während man seine Gefühle verarbeitet.
+
+::genre::synth pop, new wave, synth wave
 
 ## Mochyn Daer - Riverloom
 
@@ -844,6 +892,12 @@ Nach ihrem Debüt, das auf Platz 1 der ARIA-Charts landete, wurde dieses zweite 
 
 ::genre::alt rock, post grunge, indie rock, indie folk
 
+## Sam Gendel, Sam Wilkes - UNRELATED
+
+Gefragte Mitwirkende (die mit Künstlern wie Moses Sumney und Chaka Khan zusammenarbeiten), die dafür bekannt sind, mithilfe von Elektronik die Grenzen von Saxophon und Bass zu erweitern. **Jazz-Fusion**, **Ambient** und **Nu Jazz**. Stellen Sie sich eine Mischung aus Lounge-Jazz, experimentellem Minimalismus und R&B vor. Das ist Musik zum Nachdenken, die sich nicht wie eine lästige Pflicht anfühlt. Sie ist atmosphärisch und beruhigend und nutzt Bläser- und Gitarrensynthesizer, um eine üppige, schwebende Welt zu erschaffen, in der die Instrumente endlich genug Raum zum Atmen haben.
+
+::genre::
+
 ## Satoshi & Makoto - Mirage Cafe
 
 Das von dem Amsterdamer DJ Young Marco entdeckte Duo kreiert bereits seit seinem 15. Lebensjahr elektronische Klanglandschaften. Dieses Album ist ihre erste Veröffentlichung in voller Länge seit sechs Jahren. Raffinierte **Electronica**, **Ambient** und **IDM** mit subtilen Jazz-Anklängen. Ihre Werke sind bekannt dafür, dass sie mit dem Synthesizer Casio CZ-5000 komponiert wurden. Als imaginäres Café konzipiert, ist dieses Album ein sinnliches Ritual, das perfekt zur Kaffeekultur passt. Es ist warm, gemächlich und bis ins Detail ausgefeilt - perfekt für nächtliche Träumereien, bei denen die Grenze zwischen Traum und Wirklichkeit zu verschwimmen beginnt.
@@ -880,7 +934,7 @@ Ein Quartett, das nun schon seit zehn Jahren zusammen spielt, bestehend aus den 
 
 ::genre::post punk, shoegaze, dark wave, psych rock
 
-## Simon Moullier - Ceibaw
+## Simon Moullier - Ceiba
 
 Ein preisgekrönter Musiker, der am Berklee College of Music und am Thelonious Monk Institute bei Mentoren wie Herbie Hancock und Quincy Jones studierte. **Modern Jazz**. Sein Stil ist lyrisch, konzentriert und emotional aufgeladen und wird oft als filmisch beschrieben. Moullier nimmt das Vibraphon - ein Instrument, das manchmal wie Hintergrundmusik wirken kann - und verwandelt es in einen warmen, verführerischen Hauptdarsteller. Es ist anspruchsvoller Jazz, der sich in einem schummrig beleuchteten Club ebenso zu Hause fühlt wie als Soundtrack zu einem hochwertigen "inneren Kin"-Film.
 
@@ -957,6 +1011,12 @@ Das neunte Studioalbum der Band und das erste mit dem neuen Bassisten und Clean-
 Ihr erstes vollständiges Album seit 15 Jahren, auf dem die Gründungsmitglieder Alex DeLeon und Alex T. Marshall zu hören sind. Es folgt auf ihre Comeback-EP "Road To Reign" aus dem Jahr 2025. Moderner **Pop-Rock** und hymnischer **Pop**. *The Cab* ist von den Toten auferstanden und es fühlt sich an wie eine filmreife Wiedergeburt. Tracks wie "Sweet Kerosene" sind bildreich und hymnisch, darauf ausgelegt, die Tür zu einer neuen Ära voller gefühlvoller, ausgefeilter Pop-Rock-Brillanz aufzustoßen.
 
 ::genre::pop rock, alt pop, introspective pop
+
+## The Milk Carton Kids - Lost Cause Lover Fool
+
+Das Duo Kenneth Pattengale und Joey Ryan ist bekannt für seinen minimalistischen, zurückhaltenden Sound und seine Vintage-Gitarren von Martin und Gibson. **Indie-Folk**, **Dark Folk** und **Americana**, stark geprägt von den Traditionen der Close-Harmony-Gesangstechniken der 1950er Jahre. Wie eine warme Tasse Kaffee an einem regnerischen Morgen. Es ist eine intime Sammlung, die dich dazu auffordert, den kleinen Momenten Aufmerksamkeit zu schenken, bevor sie verfliegen - alles eingehüllt in ihre charakteristischen, fast telepathischen Gesangsharmonien.
+
+::genre::indie folk, alt folk, mellow folk, americana
 
 ## The Moss - Big Blue Moon *
 
@@ -1141,6 +1201,12 @@ Dies ist das erste Album der Band in voller Länge, das auf ihre EP aus dem Jahr
 Als aufstrebende Kraft in der estnischen Underground-Szene konzentriert sich *Kõdu* auf die düsteren literarischen Traditionen ihrer Heimat. Narrativer **Black Metal**. Das Album, dessen Titel übersetzt "Briefe aus dem Dorf der Wahnsinnigen" bedeutet, ist ein trostloser, atmosphärischer Abstieg in die Isolation. Mit Texten, die auf estnische Dichter des 19. Jahrhunderts zurückgreifen, erzählt es einen Krimi, der in einem verfallenden Dorf spielt. Es ist kalt, intellektuell und klingt wie ein Winterwind, der durch einen verwunschenen Wald heult. Perfekt, wenn du dir Metal wünschst, der sich wie eine Geschichtsstunde auf einem Friedhof anfühlt.
 
 ::genre::raw black metal, atmo black metal
+
+## La Portuaria - La Vida en la Tierra
+
+Ihr erstes Studioalbum seit über 15 Jahren. Es enthält eine neu interpretierte Coverversion von **Virus**’ "Hay que salir del agujero interior". Unter der Leitung von *Diego Frenkel* spielten sie in den 1990er Jahren eine zentrale Rolle in der argentinischen Rockszene und waren dafür bekannt, **Pop-Rock** mit **Jazz**, **R&B** und **World Music** zu verbinden. Dies ist ein konzeptionelles und dennoch tanzbares Comeback. Es fühlt sich an wie eine herzliche Umarmung von einem alten Freund, der auf Reisen war - sie kehren zu ihren rhythmischen, jazzigen Wurzeln zurück und reflektieren gleichzeitig über menschliche Verbindungen im digitalen Zeitalter.
+
+::genre::alt pop, pop rock, r&b, world music
 
 ## LOYW - Look Outside Your Window
 
