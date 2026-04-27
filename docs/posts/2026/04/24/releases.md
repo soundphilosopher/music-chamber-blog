@@ -190,6 +190,12 @@ Seit 1995 sind sie Veteranen der Szene, mit Marcus E. Norman (Naglfar). Dies ist
 
 ::genre::blackened thrash metal, thrash metal
 
+## Birthh - SENZA FIATO
+
+Birthh ist das Projekt von *Alice Bisi*, einer Visionärin des Neo-Soul und Alt-Pop, die schon als Kind, inspiriert von der Liebe ihres Vaters zu *Tom Waits* und *Bob Dylan*, Songs schrieb. **Alt-Pop**, **Neo-Soul** und **Electronica** - ihre Einflüsse reichen von *Frank Ocean* und *Arca* über klassische italienische Musik bis hin zur Nouvelle Vague. "Senza Fiato" (zu Deutsch: "atemlos") ist ein wunderschöner, kaleidoskopischer Trip. Durch den Wechsel in ihre Muttersprache Italienisch verleiht Bisi ihren futuristischen Synthesizerklängen und Hyperpop-Experimenten eine rohe, opernhafte Intimität. Es klingt wie ein Liebesbrief von einer Raumstation über der Toskana - raffiniert, leicht hektisch und zutiefst gefühlvoll.
+
+::genre::medi pop, neo soul, alt pop, electronica
+
 ## Black Brunswicker - Dreams of a Sunflower River
 
 Das Album, das größtenteils auf Tonband aufgenommen wurde, konzentriert sich auf den organischen Verfall und die gespenstische Qualität des Bandrauschens, um eine geheimnisvolle Nostalgie zu evozieren. **Ambient-Folk** und **drone**-lastiges Fingerpicking. Es ist eine lebendige Klanglandschaft, die sich anfühlt wie eine schwache, schöne Erinnerung, die knapp unter der Oberfläche schwebt. Es ist still, sagt mehr, als es ausspricht, und perfekt für alle, die ihre eigenen Stimmungen auf einen Soundtrack aus gespenstischen Gitarrenklängen und dem Verfall des Tonbands projizieren möchten.
@@ -477,6 +483,12 @@ Die Band erschafft eine fesselnde Geschichte rund um drei unsterbliche Gesetzlos
 Beide sind feste Größen des Underground-Labels Backwoodz Studioz, doch dies ist ihre erste gemeinsame Langspielplatte. **Experimenteller Hip-Hop**, **Psychedelia** und "ebony black"-Soundscapes. Das ist Nightmare Rap, der sich anfühlt wie ein luzider Traum in einem neonbeleuchteten Keller. *Sharifs* verwirrende, surreale Texte gleiten über knorrige, wechselnde Beats aus Blechbläsern, Cowhide und Undersea Piano. Es ist ein Geschmack, an den man sich erst gewöhnen muss, der aber diejenigen belohnt, die mutig genug sind, in seine abstrakten Gewässer einzutauchen.
 
 ::genre::experimental hip hop, psych pop, prog pop
+
+## Fischersund, Sin Fang, Kjartan Holm - SLEEP
+
+Dies ist eine kraftvolle Zusammenarbeit zwischen dem Kunstkollektiv Fischersund (mitbegründet von *Jónsi* von *Sigur Rós*) und den langjährigen Partnern *Sin Fang* (Sindri Már Sigfússon) und *Kjartan Holm*. Sie arbeiten regelmäßig zusammen, um eine Brücke zwischen Duft und Klang zu schlagen. **Ambient**, **moderne Klassik** und **Soundscape**. Beeinflusst von der isländischen Natur und der unsichtbaren Verbindung zwischen Duft und Klang. Das ist nicht nur Musik; es ist eine akustische Gewichtsdecke. Entworfen, um die perfekte Nachtruhe in der Arktis nachzuahmen, ist es ein minimalistischer Strom aus sanften Drones und gedämpften Texturen. Es ist das ultimative "Bitte nicht stören"-Schild für dein Gehirn - perfekt, wenn du das Gefühl haben möchtest, auf einem moosbewachsenen Feld zu dösen, während über dir die Nordlichter tanzen.
+
+::genre::ambient, modern classic, field recordings
 
 ## Foo Fighters - Your Favorite Toy
 
@@ -1120,6 +1132,12 @@ Eine rasant aufstrebende Band der texanischen Extreme-Szene, bekannt für ihre t
 
 ::genre::avant jazz, vocal jazz, experimental jazz
 
+## Sole, TELEVANGEL - Dads At The End Of The World
+
+Sole (*Tim Holland*) ist Gründungsmitglied des Underground-Hip-Hop-Kollektivs *Anticon*. Televangel (*Ian Taggart*) war die eine Hälfte des Produzentenduos *Blue Sky Black Death*. Abstrakter **Hip-Hop**, bewusster/politischer Hip-Hop und **experimenteller Hip-Hop**. Dies ist Soles Testament darüber, was es bedeutet, im Anthropozän Eltern zu sein. Erwarte endlose Ströme von Bars über einer sorgfältig gestalteten Atmosphäre. Es ist persönlich, politisch und wunderschön laut - der perfekte Soundtrack für einen leicht panischen, hochgebildeten Vater, während die Welt (angeblich) untergeht.
+
+::genre::experimental hip hop, avant hip hop
+
 ## Stalemate Of Wills - Existence Denied
 
 Das 2023 von Derek Kovacs gegründete Trio besteht aus den Szeneveteranen Jake Morris und Bob McSherry. **Sludgecore**, **Doom** und **Hardcore**. Eine salzige, rostige Variante des New Orleans Sludge. Textlich ist es ein tiefer Eintauch in die Hoffnungslosigkeit, die man im Laufe des Lebens erlebt, vorgetragen mit heruntergestimmten, "meat and potatoes"-Riffs, die deine Dielen zum Vibrieren bringen werden.
@@ -1131,6 +1149,12 @@ Das 2023 von Derek Kovacs gegründete Trio besteht aus den Szeneveteranen Jake M
 Ein Projekt, das für seine energiegeladene Fusion bekannt ist und kürzlich zum Prime Collective gestoßen ist. Eine Verschmelzung von **Metalcore** und **Nu-Metal**. Ein roher, moderner Metal-Angriff, bei dem emotionale Tiefe im Vordergrund steht. Er schafft einen Ausgleich zwischen der chaotischen Energie des Metalcore und dem rhythmischen Schwung des Nu-Metal und liefert so den Soundtrack für alle, die ihre Breakdowns mit einer Prise introspektiver Härte serviert bekommen möchten.
 
 ::genre::nu metalcore, modern metalcore
+
+## Superpoze, Blandine Rinkel - Le disque de ma mère
+
+Superpoze (*Gabriel Legeleux*) ist ein renommierter Elektronik-Produzent und Filmkomponist. *Blandine Rinkel* ist eine französische Autorin und Musikerin (Mitglied der Band *Catastrophe*). **Electronica**, **Art-Pop** und **Spoken Word**/**Experimentelles**. Eine zarte, filmische Korrespondenz zwischen Musik und Worten. Mit wunderschönen Klavier- und Rhodes-Klängen sowie Diktaphonaufnahmen entsteht eine intime, nostalgische Atmosphäre. Im Grunde eine Umarmung von Musik trifft Literatur - schick, französisch und zutiefst bewegend.
+
+::genre::experimental electronica, spoken words, art pop
 
 ## SydeBoob Duo - Au Naturel
 
@@ -1495,6 +1519,12 @@ Ein Tenorsaxophonist und Komponist, bekannt für Projekte wie *A Reason to Liste
 *Goss*, der in erster Linie Filmemacher und Fotograf ist, nutzt veraltetes Zelluloid und abgelaufene Materialien, um die Kluft zwischen Bild und Ton zu überbrücken. **Experimentell**/**Avantgarde**; eindringliche, analog-unheimliche Klänge. Dies ist nicht nur ein Album; es ist ein wissenschaftliches Experiment, zu dem man (vage) tanzen kann. Goss nutzte einen Celluloid-Synthesizer, um die Helligkeitswerte von Filmrollen in Audio umzuwandeln - er hat buchstäblich Klänge aus dem Staub und den Kratzern alter Filme hervorgeholt. Es ist gespenstisch, geheimnisvoll und perfekt, wenn man sich fühlen möchte, als wäre man in einem wunderschönen, verfallenden Stummfilm gefangen.
 
 ::genre::experimental electronica, avant electronica, drone, ambient
+
+## Sun Kil Moon - Murals
+
+Sun Kil Moon ist das Projekt von *Mark Kozelek*, ehemaliges Mitglied der legendären Slowcore-Band *Red House Painters*. Singer-Songwriter, **Ambient Pop** und **Spoken Word**. Zu seinen Einflüssen zählen Folk-Rock und Künstler wie *Neil Young* oder *Nick Drake*. Mark Kozelek ist zurück mit seinen von der Gitarre begleiteten Tagebucheinträgen. Diese Veröffentlichung fühlt sich an wie ein langes, ausschweifendes und doch seltsam tröstliches Gespräch mit einem alten Freund, der sich an jedes Wandgemälde erinnert, an dem sie jemals vorbeigegangen sind. Es ist Talk-Singing in seiner meditativsten Form - perfekt für eine ruhige Nacht, in der man seine Lebensentscheidungen auf die bestmögliche Weise überdenken möchte.
+
+::genre::ambient folk, ambient pop, spoken words
 
 ## Terrestrial Animal - Beneath the Ocean of Names: Where a Mind Once Held the Sky
 
