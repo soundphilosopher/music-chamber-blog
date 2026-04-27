@@ -34,6 +34,18 @@ tbd
 
 ::genre::
 
+## AS IS - Crazy World
+
+tbd
+
+::genre::
+
+## B.D. Lenz - And the Crowd Goes Mild
+
+tbd
+
+::genre::
+
 ## BLARF - Film Scores for Films That Don’t Exist
 
 tbd
@@ -46,6 +58,12 @@ tbd
 
 ::genre::
 
+## Brian Citro - Keep Moving (Home)
+
+tbd
+
+::genre::
+
 ## Built For The Future - Empire
 
 tbd
@@ -53,6 +71,12 @@ tbd
 ::genre::
 
 ## Drakulas - Midnight City
+
+tbd
+
+::genre::
+
+## Emie R Roussel Trio - TERR
 
 tbd
 
@@ -113,6 +137,12 @@ tbd
 ::genre::
 
 ## Kacey Musgraves - Middle of Nowhere
+
+tbd
+
+::genre::
+
+## Kate Williams - On The Wing Of A Dragonfly
 
 tbd
 
@@ -203,6 +233,12 @@ tbd
 ::genre::
 
 ## Rob Harrison - Overflow
+
+tbd
+
+::genre::
+
+## Sean Imboden - Uncharted Realms
 
 tbd
 
@@ -380,24 +416,6 @@ tbd
 
 ::genre::
 
-## AS IS - Crazy World
-
-tbd
-
-::genre::
-
-## B.D. Lenz - And the Crowd Goes Mild
-
-tbd
-
-::genre::
-
-## Brian Citro - Keep Moving (Home)
-
-tbd
-
-::genre::
-
 ## Candarian - Trepanación
 
 Gegründet im Jahr 2020 als Duo mit Christopher de Haan und José Pablo Phillips, Mitgliedern etablierter Bands wie Crypt Monarch und Astriferous. Dies ist ihr Debüt-Album in voller Länge. Brutaler **Old-School-Death-Metal** mit Doom-Elementen. Das ist nicht nur Musik; es ist eine akustische Autopsie. Es ist dreckig, groovig und absolut gnadenlos. Wenn du es magst, wenn deine Riffs klingen, als wären sie aus einem Sumpf gezogen worden, und deine Vocals wie ein raues Kratzen aus dem Boden, dann ist diese Platte dein neuer bester Freund.
@@ -411,12 +429,6 @@ tbd
 ::genre::
 
 ## duendita - existential thottie
-
-tbd
-
-::genre::
-
-## Emie R Roussel Trio - TERR
 
 tbd
 
@@ -464,13 +476,13 @@ tbd
 
 ::genre::
 
-## Jump Scare - Fold
+## Jonny Fallout - The Subconscious
 
 tbd
 
 ::genre::
 
-## Kate Williams - On The Wing Of A Dragonfly
+## Jump Scare - Fold
 
 tbd
 
@@ -483,12 +495,6 @@ tbd
 ::genre::
 
 ## Malhkebre - B.A.M.N.
-
-tbd
-
-::genre::
-
-## Near Minerals - The Talking Castle
 
 tbd
 
@@ -536,18 +542,6 @@ tbd
 
 ::genre::
 
-## Sean Imboden - Uncharted Realms
-
-tbd
-
-::genre::
-
-## Steve Wilson - Enduring Sonance
-
-tbd
-
-::genre::
-
 ## Ted Rosenthal - The Good Old Days
 
 tbd
@@ -555,12 +549,6 @@ tbd
 ::genre::
 
 ## The Great Observer - Loss Of Transcendence
-
-tbd
-
-::genre::
-
-## Tumbao Bravo - Joy of the Mambo
 
 tbd
 
