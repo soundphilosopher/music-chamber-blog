@@ -542,12 +542,6 @@ tbd
 
 ::genre::
 
-## Ted Rosenthal - The Good Old Days
-
-tbd
-
-::genre::
-
 ## The Great Observer - Loss Of Transcendence
 
 tbd
