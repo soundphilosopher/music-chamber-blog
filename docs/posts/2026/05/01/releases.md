@@ -28,6 +28,12 @@ tbd
 
 <!-- more -->
 
+## Ana Roxanne - Poem 1
+
+tbd
+
+::genre::
+
 ## Arturo Sandoval - SANGÚ
 
 tbd
@@ -124,6 +130,12 @@ tbd
 
 ::genre::
 
+## Frachter - Es wird gleich besser
+
+tbd
+
+::genre::
+
 ## Gabrielle Cavassa - Daivola
 
 tbd
@@ -137,6 +149,12 @@ tbd
 ::genre::
 
 ## Haste the Day - Dissenter
+
+tbd
+
+::genre::
+
+## Hekt - Forever
 
 tbd
 
@@ -292,6 +310,12 @@ tbd
 
 ::genre::
 
+## Seefeel - Sol.Hz
+
+tbd
+
+::genre::
+
 ## Sevendust - ONE
 
 tbd
@@ -359,6 +383,12 @@ tbd
 ::genre::
 
 ## The Black Keys - Peaches!
+
+tbd
+
+::genre::
+
+## The Boo Radleys - In Spite Of Everything
 
 tbd
 
