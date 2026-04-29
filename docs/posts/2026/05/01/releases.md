@@ -14,13 +14,13 @@ tbd
 
 ::genre::
 
-## Alberto Giurioli - Leftovers
+## Aeonik - The Roamer Of Heaven And Hell
 
 tbd
 
 ::genre::
 
-## American Football - LP4
+## Alberto Giurioli - Leftovers
 
 tbd
 
@@ -28,7 +28,43 @@ tbd
 
 <!-- more -->
 
+## American Football - LP4
+
+tbd
+
+::genre::
+
+## Amp - Isotropic Beacons
+
+tbd
+
+::genre::
+
 ## Ana Roxanne - Poem 1
+
+tbd
+
+::genre::
+
+## AntiHuman Industries - Accelerated Death Impulse
+
+tbd
+
+::genre::
+
+## Antirope - Bring Me To Zero
+
+tbd
+
+::genre::
+
+## Ard Bit, Radboud Mens - Mara Silen
+
+tbd
+
+::genre::
+
+## Arovane, Taylor Deupree - Enth
 
 tbd
 
@@ -46,13 +82,37 @@ tbd
 
 ::genre::
 
+## Asake - M$ney
+
+tbd
+
+::genre::
+
 ## Ashen Horde - The Harvest
 
 tbd
 
 ::genre::
 
+## Atronos - Gram
+
+tbd
+
+::genre::
+
 ## B.D. Lenz - And the Crowd Goes Mild
+
+tbd
+
+::genre::
+
+## Beyond The Veil - Oblivion
+
+tbd
+
+::genre::
+
+## Black Cilice - Votive Fire
 
 tbd
 
@@ -76,6 +136,12 @@ tbd
 
 ::genre::
 
+## Brule - Beltane
+
+tbd
+
+::genre::
+
 ## Built For The Future - Empire
 
 tbd
@@ -88,7 +154,37 @@ tbd
 
 ::genre::
 
-## Cognizance - No Light No Shape
+## Choke Me - A Violent Phenomenon
+
+tbd
+
+::genre::
+
+## Christof Migone - oo
+
+tbd
+
+::genre::
+
+## Codex - Tokyo Station
+
+tbd
+
+::genre::
+
+## Cognizance - In Light, No Shape
+
+tbd
+
+::genre::
+
+## Concrete Fantasies - MISERERE
+
+tbd
+
+::genre::
+
+## Corrado Maria De Santis - Thresholds of Light
 
 tbd
 
@@ -100,7 +196,37 @@ tbd
 
 ::genre::
 
+## Dario Calderone - The Infinite Garden
+
+tbd
+
+::genre::
+
+## Deaf Center - Through Time
+
+tbd
+
+::genre::
+
 ## Detach the Island - Concret Jungle
+
+tbd
+
+::genre::
+
+## Devenial Verdict - Old Blood – Fresh Wounds
+
+tbd
+
+::genre::
+
+## Devin Sarno - Flowers on the Ocean
+
+tbd
+
+::genre::
+
+## Dodgy - Hello Beautiful
 
 tbd
 
@@ -112,13 +238,37 @@ tbd
 
 ::genre::
 
+## Durand Bernarr - Bernarr
+
+tbd
+
+::genre::
+
 ## Emie R Roussel Trio - TERR
 
 tbd
 
 ::genre::
 
+## Emma Louise - Sunshine for Happiness
+
+tbd
+
+::genre::
+
+## ERLA & BARTONDISPLAY - TENDER (then punch me)
+
+tbd
+
+::genre::
+
 ## Ernest - Deep Blue
+
+tbd
+
+::genre::
+
+## Eveale - Enter The Woodland Realm
 
 tbd
 
@@ -136,13 +286,55 @@ tbd
 
 ::genre::
 
+## Fyrdsman - The Free Man
+
+tbd
+
+::genre::
+
+## Gabriella Smart - Parasymbiosis
+
+tbd
+
+::genre::
+
 ## Gabrielle Cavassa - Daivola
 
 tbd
 
 ::genre::
 
+## Geordie Gordon - River Round
+
+tbd
+
+::genre::
+
+## Glissando 70 - Bones of Dundasa
+
+tbd
+
+::genre::
+
 ## Goodbye Mountain - The Mystery of it All
+
+tbd
+
+::genre::
+
+## Gottlieb - The Far Fallen Fruit
+
+tbd
+
+::genre::
+
+## Grond - The Temple
+
+tbd
+
+::genre::
+
+## Hajduk - Хвърковата чета
 
 tbd
 
@@ -166,7 +358,13 @@ tbd
 
 ::genre::
 
-## In Malice's Wake - The Profound Darkness
+## In Malice’s Wake - The Profound Darkness
+
+tbd
+
+::genre::
+
+## Infected Death - Invicta
 
 tbd
 
@@ -184,13 +382,31 @@ tbd
 
 ::genre::
 
+## It Was Her Idea - Daughter of War
+
+tbd
+
+::genre::
+
 ## Jason Fabus Trio - In Their Domain
 
 tbd
 
 ::genre::
 
+## Jason Kruk - Beyond the Veil
+
+tbd
+
+::genre::
+
 ## Jesca Hoop - Long Wave Home
+
+tbd
+
+::genre::
+
+## Jolanda Moletta - Oceanine
 
 tbd
 
@@ -203,6 +419,24 @@ tbd
 ::genre::
 
 ## Kate Williams - On The Wing Of A Dragonfly
+
+tbd
+
+::genre::
+
+## Kavalcade - SIGNAL
+
+tbd
+
+::genre::
+
+## Kingsmash - The Heart Remains At Home
+
+tbd
+
+::genre::
+
+## Kissing Kaos - To Your Limit
 
 tbd
 
@@ -226,6 +460,18 @@ tbd
 
 ::genre::
 
+## Large Unit - Small Units
+
+tbd
+
+::genre::
+
+## Large Unit, Hakira Sukata - Hohai Bushi
+
+tbd
+
+::genre::
+
 ## Lil Tjay - They Just Ain’t You
 
 tbd
@@ -233,6 +479,30 @@ tbd
 ::genre::
 
 ## Lip Critic - Theft World
+
+tbd
+
+::genre::
+
+## LISA - Yamaha Dog
+
+tbd
+
+::genre::
+
+## Malhkebre - B.A.M.N.
+
+tbd
+
+::genre::
+
+## Masker - Peril
+
+tbd
+
+::genre::
+
+## Matthew Peter Gough - The Piano Field
 
 tbd
 
@@ -256,7 +526,31 @@ tbd
 
 ::genre::
 
+## Miguel Otero - Faint Glow
+
+tbd
+
+::genre::
+
 ## Modern Woman - Johnny’s Dreamworld
+
+tbd
+
+::genre::
+
+## Obeyer - Pallor
+
+tbd
+
+::genre::
+
+## October Changes - Quantum
+
+tbd
+
+::genre::
+
+## Oldowan Gash - 1000 Dreams Of War
 
 tbd
 
@@ -268,7 +562,43 @@ tbd
 
 ::genre::
 
+## Paal Nilsen-Love Circus, The Ex Guitars - Calls!
+
+tbd
+
+::genre::
+
 ## Paisley Fields - Are U Mad At Me
+
+tbd
+
+::genre::
+
+## Paul Silbergleit - The Stillness of July
+
+tbd
+
+::genre::
+
+## pdqb - Direct Hits
+
+tbd
+
+::genre::
+
+## People I've Met - Bunny
+
+tbd
+
+::genre::
+
+## Phil Geraldi - Rural Deceased Undiscovered
+
+tbd
+
+::genre::
+
+## Philamelian, Dov Waterman, Tomas Nordmark - 3 Pieces from an Old Statue
 
 tbd
 
@@ -286,6 +616,12 @@ tbd
 
 ::genre::
 
+## Resilia - By A Thread
+
+tbd
+
+::genre::
+
 ## Riffstone - Mythical Creatures
 
 tbd
@@ -298,7 +634,49 @@ tbd
 
 ::genre::
 
+## Ritchie Newton - Higher Power
+
+tbd
+
+::genre::
+
 ## Rob Harrison - Overflow
+
+tbd
+
+::genre::
+
+## Robot God - Onto The Afterlife
+
+tbd
+
+::genre::
+
+## Russell Haswell - Let It Go
+
+tbd
+
+::genre::
+
+## SAD PROM - SP004
+
+tbd
+
+::genre::
+
+## Sal - Sal
+
+tbd
+
+::genre::
+
+## Savage Master, Mystic Storm - The Power / Wandering Time
+
+tbd
+
+::genre::
+
+## Sconfitta - Essere Nesuno
 
 tbd
 
@@ -316,7 +694,7 @@ tbd
 
 ::genre::
 
-## Sevendust - ONE
+## Sevendust - One
 
 tbd
 
@@ -340,7 +718,37 @@ tbd
 
 ::genre::
 
+## SloGlo - In Another Language
+
+tbd
+
+::genre::
+
+## Solar Seas - kraken
+
+tbd
+
+::genre::
+
+## Spell - Wretched Heart
+
+tbd
+
+::genre::
+
+## Stalemate Of Wills - Existence Denied
+
+tbd
+
+::genre::
+
 ## Stephan Thelen - Fractal Guitar 4
+
+tbd
+
+::genre::
+
+## Strega - Mors Mortiys Morte
 
 tbd
 
@@ -364,7 +772,31 @@ tbd
 
 ::genre::
 
+## Symfata - Fallen Angel
+
+tbd
+
+::genre::
+
+## Synthre - Thus Burns The House Of The Sun
+
+tbd
+
+::genre::
+
 ## Taj Mahal - Time
+
+tbd
+
+::genre::
+
+## Tauren Wells - Breathe on It
+
+tbd
+
+::genre::
+
+## Taylor Brook, Vicki Ray - Nox
 
 tbd
 
@@ -394,6 +826,12 @@ tbd
 
 ::genre::
 
+## The Cafe Society - Blame It On My Youth
+
+tbd
+
+::genre::
+
 ## The Claypool Lennon Delirium - The Great Parrot-Ox and the Golden Egg of Empathy
 
 tbd
@@ -407,6 +845,18 @@ tbd
 ::genre::
 
 ## The Gardening Club - The Insubstantial Pageant
+
+tbd
+
+::genre::
+
+## The Great Observer - Loss Of Transcendence
+
+tbd
+
+::genre::
+
+## The Hands Free - Upturned Cup
 
 tbd
 
@@ -436,13 +886,55 @@ tbd
 
 ::genre::
 
+## Trem 77 - Reflective
+
+tbd
+
+::genre::
+
+## Trials - Hendle
+
+tbd
+
+::genre::
+
 ## ugly ozo - dive
 
 tbd
 
 ::genre::
 
+## Ultrabomb - The Bridges That We Burn
+
+tbd
+
+::genre::
+
+## Uncle Hauk - Lose Your Illusions
+
+tbd
+
+::genre::
+
+## Vansind - Hævnen
+
+tbd
+
+::genre::
+
+## Vctims - Pain Processing II
+
+tbd
+
+::genre::
+
 ## Venom - Into Oblivion
+
+tbd
+
+::genre::
+
+## Wandar - Tiefe Erde
 
 tbd
 
@@ -472,6 +964,12 @@ tbd
 
 ::genre::
 
+## Yu Su - Foundry
+
+tbd
+
+::genre::
+
 ## Zara Larsson - Midnight Sun: Girls Trip
 
 tbd
@@ -479,6 +977,12 @@ tbd
 ::genre::
 
 ## Ziggy Marley - Brightside
+
+tbd
+
+::genre::
+
+## ZÖJ - May the Devil’s Ear Be Deaf
 
 tbd
 
