@@ -40,6 +40,12 @@ tbd
 
 ::genre::
 
+## Ashen Horde - The Harvest
+
+tbd
+
+::genre::
+
 ## B.D. Lenz - And the Crowd Goes Mild
 
 tbd
@@ -65,6 +71,30 @@ tbd
 ::genre::
 
 ## Built For The Future - Empire
+
+tbd
+
+::genre::
+
+## Cage Fight - Exuvia
+
+tbd
+
+::genre::
+
+## Cognizance - No Light No Shape
+
+tbd
+
+::genre::
+
+## Creeping Flesh - God's Acres Rife with Flesh Adorned
+
+tbd
+
+::genre::
+
+## Detach the Island - Concret Jungle
 
 tbd
 
@@ -106,7 +136,19 @@ tbd
 
 ::genre::
 
+## Haste the Day - Dissenter
+
+tbd
+
+::genre::
+
 ## Hiss Golden Messenger - I’m People
+
+tbd
+
+::genre::
+
+## In Malice's Wake - The Profound Darkness
 
 tbd
 
@@ -155,6 +197,12 @@ tbd
 ::genre::
 
 ## Laibach - MUSICK
+
+tbd
+
+::genre::
+
+## Lair of the Minotaur - I Hail I
 
 tbd
 
