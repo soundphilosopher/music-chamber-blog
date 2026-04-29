@@ -430,9 +430,9 @@ tbd
 
 ## duendita - existential thottie
 
-tbd
+Ein experimentierfreudiger R&B-Sänger und Produzent. Dies ist ihr erstes Projekt, das sie von Anfang bis Ende komplett selbst produziert haben, was es sehr persönlich und tagebuchartig macht. **Alt-Soul**, **Jazz** und **R&B** mit Live-Schlagzeug, Harfe und komplexen Gesangsharmonien. Es handelt sich um eine Sammlung von 12 Original-Titeln. Der Titel ist ein 10/10, und die Musik wird dem gerecht. duendita macht Musik für die unbeholfenen Bad Girls, die im Club weinen, aber trotzdem weiterfeiern. Es ist ehrlich, wackelig und absurd - es behandelt alles von Trennungen und Verhütung bis hin zur Heilung mit einer verschwommenen, gefühlvollen Atmosphäre, die sich anfühlt wie ein langes, ehrliches Gespräch mit der besten Freundin.
 
-::genre::
+::genre::alt soul, modern jazz, r&b
 
 ## Eyal Maoz - forced to feel
 
@@ -448,9 +448,9 @@ tbd
 
 ## haana lee - deconstructed
 
-tbd
+Eine disziplinübergreifende Klangkünstlerin und Produzentin. Dieses spezielle Projekt entstand während der Genesung nach einer Operation, wobei Stille und Zerbrechlichkeit als kreative Vorgaben dienten. **Ambient**- und **Drone**-Musik mit Schwerpunkt auf Vintage-Elektoorgeln, insbesondere der Yamaha YC-30. Es handelt sich um eine originelle somatische Meditation. Dies ist kein typischer abstrakter Drone, sondern hübsche kleine Drones, die sich wie eine warme Umarmung anfühlen. Mit den sanften, leuchtenden Klängen einer Vintage-Orgel schafft haana lee einen Raum, der heimelig und sicher wirkt. Es ist das musikalische Äquivalent dazu, wie man das Sonnenlicht durch einen Raum wandern sieht, während man in eine schwere Decke gehüllt ist.
 
-::genre::
+::genre::ambient, drone
 
 ## Health - Addendum
 
@@ -478,9 +478,9 @@ tbd
 
 ## Jonny Fallout - The Subconscious
 
-tbd
+Ein Elektronik-Produzent, der für sein obsessives Sampling und Sounddesign bekannt ist. Er arbeitet häufig mit dem Gitarristen Kevin Hartman zusammen und lässt seine Werke von Synth-Szene-Veteranen wie Dynatron abmischen. **Synthwave**, **Retrowave** und **Synthpop** mit einem starken Cyberpunk-Touch. Eine originelle Erkundung innerer Landschaften. Setz deine neonfarbene Sonnenbrille auf, auch wenn du drinnen bist. Jonny Fallout nimmt uns mit auf eine tiefe Reise in den Maschinencode des Gehirns. Es ist cineastisch, treibend und klingt wie der Soundtrack zu einem Science-Fiction-Film der 1980er, den es nie gab - stimmungsvoll genug für eine Mitternachtsfahrt, aber ausgefeilt genug für einen Club.
 
-::genre::
+::genre::synth wave, new retro wave, synth pop
 
 ## Jump Scare - Fold
 
@@ -490,9 +490,9 @@ tbd
 
 ## La Doña - Corrientes
 
-tbd
+Eine Multi-Instrumentalistin (Trompete, Streichinstrumente, Percussion), die im Alter von sieben Jahren im Ensemble ihrer Familie zu spielen begann. Sie wurde durch das Engagement ihrer Eltern und eine Kindheit in einem musikalischen Haushalt ohne Fernseher geprägt. Eine gewaltige transkulturelle Fusion, die sie Femmetón nennt. Darin verschmelzen traditionelle lateinamerikanische Stile wie **Cumbia**, **Bolero** und Son Jarocho mit **Reggaeton**, **Hip-Hop** und **Salsa**. Das ist eine absolut grenzenlose Party. La Doña reiste in fünf Länder und arbeitete mit 40 Musikern zusammen, um einen Sound zu kreieren, der ebenso sehr ein politisches Statement ist wie ein Tanzflächenfüller. Er ist üppig, bläserlastig und unverhohlen queer - wie eine multinationale Tour durch Lateinamerika mit dem coolsten Reiseführer der Welt.
 
-::genre::
+::genre::bolero, reggaeton, hip hop, salsa
 
 ## Malhkebre - B.A.M.N.
 
@@ -532,9 +532,9 @@ tbd
 
 ## Ramilda - Cracked
 
-tbd
+Nach einer klassischen Ausbildung am Goldsmiths College der University of London bewegt sich ihre Musik an der Schnittstelle zwischen **zeitgenössischer Klassik**, **Avantgarde** und **experimentellem Pop**. Sie ist fest in der Londoner Improvisationsszene verankert. Düstere, atmosphärische Cello-Drones vermischen sich mit Live-Elektronik und unverfälschtem Songwriting. Es handelt sich um ein originelles Werk, das oft als aufgenommene Improvisation beginnt, bevor es sorgfältig produziert wird. Wenn du dich jemals gefragt hast, wie ein Cello klingt, wenn es in einem regnerischen Londoner Keller eine wunderschöne existenzielle Krise durchlebt, dann ist dies genau das Richtige. Es ist eindringlich, texturreich und fühlt sich an wie ein Zerbrechen in Zeitlupe - daher der Titel. Perfekt, wenn du dich kultiviert, aber auch ein wenig verunsichert fühlen möchtest.
 
-::genre::
+::genre::modern classic, avant ambient, experimental electronica, improvisation
 
 ## Safety Trance - sacrificio
 
