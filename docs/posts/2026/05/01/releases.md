@@ -490,12 +490,6 @@ tbd
 
 ::genre::
 
-## Malhkebre - B.A.M.N.
-
-tbd
-
-::genre::
-
 ## Masker - Peril
 
 tbd
@@ -545,12 +539,6 @@ tbd
 ::genre::
 
 ## October Changes - Quantum
-
-tbd
-
-::genre::
-
-## Oldowan Gash - 1000 Dreams Of War
 
 tbd
 
@@ -850,12 +838,6 @@ tbd
 
 ::genre::
 
-## The Great Observer - Loss Of Transcendence
-
-tbd
-
-::genre::
-
 ## The Hands Free - Upturned Cup
 
 tbd
@@ -994,9 +976,9 @@ tbd
 
 ## 35 Tapes - Veil on Life
 
-tbd
+Die Band ist ein Trio, bestehend aus Morten H. Birkeland, Jarle Wangen und Bjørn Jørgensen. Sie sind bekannt für ihr analoges Herz und nutzen Vintage-Sounds (wie das Mellotron), um weitläufige, filmische Klanglandschaften zu erschaffen. Dies ist ihr drittes Studioalbum nach "Lost & Found" und "Fabric of Life". **Progressive Rock**, genauer gesagt **Symphonic Prog** mit starken Elementen von **Neo-Prog** und **Art Rock**. Wenn du schon immer einmal in einem Samtumhang durch einen norwegischen Fjord schweben wolltest, ist dies dein Soundtrack. "Veil on Life" ist ein Meisterwerk, das sich langsam entfaltet und bei dem die Stimmung Vorrang vor technischem Virtuosentum hat. Es ist voller mitreißender Synth-Layers und melodischer Gitarrensoli, die den Eindruck erwecken, als versuchten sie, die Geheimnisse des Universums zu lüften. Das Thema erkundet den dünnen Schleier zwischen Realität und Unterbewusstsein - es ist hochkonzeptionell, zutiefst emotional und perfekt für eine nächtliche Hörsession bei gedämpftem Licht.
 
-::genre::
+::genre::art rock, prog rock, neo prog rock, symphonic rock
 
 ## Candarian - Trepanación
 
@@ -1006,9 +988,9 @@ Gegründet im Jahr 2020 als Duo mit Christopher de Haan und José Pablo Phillips
 
 ## David Mitchell - Natural Light
 
-tbd
+Unter dem Künstlernamen Dew Mitchell hat David Mitchell jahrelang daran gearbeitet, einen minimalistischen, auf Klangtexturen fokussierten Sound zu verfeinern. Diese neueste Veröffentlichung knüpft an sein 2025-Projekt *Turiyans* an und setzt seine Auseinandersetzung mit gnostischen und naturbezogenen Themen fort. Hypnotische, **ambient**artige Gitarrenklänge und schimmernde **Instrumental**kompositionen. "Natural Light" hält genau das, was der Titel verspricht: ein sonnenverwöhntes Klangbad. Es ist geduldige, gemächliche Musik, bei der man das Gefühl hat, Staubkörnchen beim Tanzen im Lichtstrahl eines Fensters zu beobachten. Mitchell nutzt seine Gitarre, um Landschaften zu malen, anstatt Riffs zu spielen, was das Album zum idealen Begleiter für einen ruhigen Nachmittag oder eine lange, nachdenkliche Autofahrt macht.
 
-::genre::
+::genre::ambient, ambient jazz, post rock, instrumental
 
 ## duendita - existential thottie
 
@@ -1022,12 +1004,6 @@ Der Gitarrist Eyal Maoz, ein fester Bestandteil des *John-Zorn*-Kreises, ist bek
 
 ::genre::avant jazz, experimental rock, jazz rock, free jazz, improvisation
 
-## Grond - The Temple
-
-tbd
-
-::genre::
-
 ## haana lee - deconstructed
 
 Eine disziplinübergreifende Klangkünstlerin und Produzentin. Dieses spezielle Projekt entstand während der Genesung nach einer Operation, wobei Stille und Zerbrechlichkeit als kreative Vorgaben dienten. **Ambient**- und **Drone**-Musik mit Schwerpunkt auf Vintage-Elektoorgeln, insbesondere der Yamaha YC-30. Es handelt sich um eine originelle somatische Meditation. Dies ist kein typischer abstrakter Drone, sondern hübsche kleine Drones, die sich wie eine warme Umarmung anfühlen. Mit den sanften, leuchtenden Klängen einer Vintage-Orgel schafft haana lee einen Raum, der heimelig und sicher wirkt. Es ist das musikalische Äquivalent dazu, wie man das Sonnenlicht durch einen Raum wandern sieht, während man in eine schwere Decke gehüllt ist.
@@ -1036,15 +1012,15 @@ Eine disziplinübergreifende Klangkünstlerin und Produzentin. Dieses spezielle 
 
 ## Health - Addendum
 
-tbd
+Nach ihrer "RAT WARS"-Saga bildet diese EP das abschließende DLC-Kapitel. Sie erweitert das ursprüngliche Vier-Song-Set der Ultra Edition des Albums um drei neue Titel: "Trials", "Ruin" und die von *Twin Peaks* inspirierte Single "A.L.O.N.E.". **Industrial Rock** und rave-ähnlicher **Metal** mit eindringlichen, atmosphärischen Synthesizerklängen. War "RAT WARS" ein Cyberpunk-Aufstand, so ist "ADDENDUM" der melancholische Sonnenaufgang am Morgen danach. Der neue Track "A.L.O.N.E." wirkt, als wäre er in einer futuristischen Version des Roadhouse aufgenommen worden - gleichmäßig, pulsierend und zutiefst cineastisch. Es ist Musik für Menschen, die ihre Tanzflächen dunkel und ihre emotionalen Einsätze hoch mögen.
 
-::genre::
+::genre::idm, industrial, industrial metal
 
 ## Heli Hartikainen - Interbody
 
-tbd
+*Hartikainen* ist eine von der Kritik gefeierte Saxophonistin und Komponistin, die für ihre Mensch-Maschine-Kooperationen bekannt ist. Auf dieser EP nutzt sie einen speziell angefertigten Sampler, der in Echtzeit auf ihr Spiel reagiert und so einen unvorhersehbaren, polyphonen Begleiter schafft. Experimentelle Klangkunst und **zeitgenössischer Jazz**; ein organischer Dialog zwischen Saxophon und Maschine. Das ist biologischer **Ambient**. *Hartikainen* behandelt ihr Saxophon wie eine Verlängerung ihrer Wirbelsäule, was zu einer Klanglandschaft führt, die auf eine seltsam lebendig wirkende Weise knallt, klickt und zischt. Es ist ein tiefes Eintauchen in die körperliche Zeit - perfekt für Hörer, die das Gefühl haben möchten, einem Gespräch zwischen einem empfindungsfähigen Wald und einer abtrünnigen KI zuzuhören.
 
-::genre::
+::genre::modern jazz, contemporary jazz, ambient, experimental electronica, avant jazz, improvisation
 
 ## Hrob - Brána Chladu
 
@@ -1054,9 +1030,9 @@ Das 2021 von Michal und Kiko (von der Band *Krudus*) gegründete Quartett hat si
 
 ## Illit - Mamihlapinatapai
 
-tbd
+Die fünfköpfige Gruppe, die von *Belift Lab* (einem Sublabel von *Hybe*) im Rahmen der Castingshow "R U Next?" gegründet wurde, hat sich schnell zu einem Mainstream-Kraftpaket entwickelt. Der Titelsong "It’s Me" ist eine Hymne an Wachstum und Selbstbewusstsein. Ein rasantes Mix aus **Dance**, **Drum & Bass**, **Techno** und **Electro-Pop**. Benannt nach einem Wort aus der Yaghan-Sprache für einen stillen, gemeinsamen Blick zwischen zwei Menschen, die etwas beginnen wollen, aber zu schüchtern sind, um den ersten Schritt zu machen, ist dieses Album alles andere als ruhig. Es ist eine Boss-Babe-Evolution, die die zuckersüße Sanftheit ihres Debüts gegen dröhnende Bässe und clubtaugliche Techno-Beats eintauscht. Eine Version enthält sogar ein Gua-Sha-Werkzeug - ein Release, das dafür sorgt, dass man beim Tanzen genauso gut aussieht, wie man sich fühlt.
 
-::genre::
+::genre::d&b, electropop, techno, dance
 
 ## Jonny Fallout - The Subconscious
 
@@ -1066,9 +1042,9 @@ Ein Elektronik-Produzent, der für sein obsessives Sampling und Sounddesign beka
 
 ## Jump Scare - Fold
 
-tbd
+Das Debütalbum dieses Duos, das seit einem Jahrzehnt als Studio-Partner zusammenarbeitet. Das Album bietet eine bunte Riege an Gastmusikern, vom Rapper *billy woods* bis zur Sängerin *Helena Deland*. Anspruchsvolle **Electronica/House** mit Elementen aus **Tech-House**, **Trance** und **Shoegaze**. "Fold" ist eine schwindelerregende Reise, die eine Brücke zwischen der vergänglichen Tanzflächenkultur der 90er und moderner HiFi-Produktion schlägt. Es hat einfach alles: gummiartige Basslines, durchtränktes Gitarren-Feedback und sogar ein Downtempo-Wiegenlied zum Abschluss. Es fühlt sich an wie eine Sammlung maßgeschneiderter Knaller - kuratiert, ausgefeilt und einfach ein bisschen magisch.
 
-::genre::
+::genre::tech house, trance, edm, acid house
 
 ## La Doña - Corrientes
 
@@ -1078,39 +1054,39 @@ Eine Multi-Instrumentalistin (Trompete, Streichinstrumente, Percussion), die im 
 
 ## Malhkebre - B.A.M.N.
 
-tbd
+Als einer der Eckpfeiler der "Satanic Resistance"-Szene kehrt diese französische Band mit ihrem ersten richtigen Album seit 2019 zurück. Dissonanter, ritualistischer **Black Metal**. Diese Platte ist ein düsterer, unheilvoller Schauer, der einem den Nacken hinunterläuft. Es ist klassischer französischer Black Metal: unheimliche Melodien, schleppende Rhythmen und beschwörende Vocals, die klingen, als würden sie aus einer anderen Dimension herabgeschrien. Es ist auf die bestmögliche Art beunruhigend und bedrückend - perfekt, wenn man sich Musik wünscht, die sich anfühlt wie ein dunkler, staubiger Flur in einem Spukschloss.
 
-::genre::
+::genre::melo black metal, ritual music
 
 ## Octo Octa - Sigils for Survival
 
-tbd
+Ihre erste Solo-LP seit sieben Jahren, veröffentlicht auf *T4T LUV NRG*, dem Label, das sie gemeinsam mit Eris Drew betreibt. Das Album würdigt ihr zehnjähriges Jubiläum, seit sie offen als Transperson lebt. Ecstatic **House**, **Techno**, **Acid** und **Breakbeat**. Das ist Tanzmusik als Zauberkunst. Jeder Track ist buchstäblich ein Sigil für Schutz und Freude. Es ist tanzbarer House, der alles von analogen Synthesizern über handgespielte Hackbretter bis hin zu Spoken-Word-Poesie bietet. Er ist viszeral, heilend und trägt die geballte Energie einer nächtlichen Rave-Party in sich, die darauf abzielt, den Geist zu befreien.
 
-::genre::
+::genre::acid house, acid techno, breakbeat
 
 ## Oddiseeand Heno - From Takoma with Love
 
-tbd
+Eine Zusammenarbeit zwischen dem erfahrenen Produzenten und MC Oddisee und dem aufstrebenden Künstler Heno. Beide sind in den Vororten von Washington, D.C. aufgewachsen, und der Track ist eine Hommage an die Heimat, die sie großgezogen hat. Jazziger **Boom-Bap**-**Hip-Hop** mit organischen Grooves und **Soul**. Betrachten Sie dies als den ultimativen Soundtrack für einen Sommer in der Stadt. Er ist üppig, rhythmisch und zutiefst nostalgisch und verschmilzt die Perspektiven der äthiopisch-eritreischen und sudanesisch-amerikanischen Diaspora zu einem zusammenhängenden, schimmernden Groove. Es ist intelligenter, zugänglicher Rap, der das Dorf und den Alltag feiert.
 
-::genre::
+::genre::neo soul, hip hop, boom bap
 
 ## Oldowan Gash - 1000 Dreams Of War
 
-tbd
+Dies ist das zweite Album in voller Länge des von *Forlorn Spirit* geleiteten Projekts, bei dem hier der Session-Schlagzeuger *Longinus* mitwirkt. Es erscheint sechs Jahre nach ihrem Debüt "Hubris Unchained". Roher und feuriger **Black Metal**. Das ist kein Black Metal im Stil eines schläfrigen Waldes; es ist ein kehlblutendes Zeugnis geistlicher Kriegsführung. Es ist vollgepackt mit mitreißenden Riffs und einer bitteren, arroganten Haltung, die sich anfühlt, als würde man in ein sehr uraltes, sehr wütendes Feuer starren. Es ist rau, schräg und absolut unerbittlich.
 
-::genre::
+::genre::raw black metal
 
 ## Phantom Horse - Primal Forms
 
-tbd
+Das Duo (Niklas Dommaschk und Ulf Schütte) arbeitet mit modularen Synthesizern und alten Drumcomputern. Dies ist ihre erste Veröffentlichung seit sechs Jahren. Hypnotische, sich langsam aufbauende **elektronische Musik**, stark beeinflusst von **Krautrock** (Cluster, Harmonia), **Moondog** und dem Minimalismus der 60er Jahre. Man stelle sich Tänze mechanischer Vögel in einem Raum ohne Menschen vor. Es ist stoisch, polyrhythmisch und entschlossen von der Welt abgewandt. Es ist der perfekte Soundtrack für einen Tag, an dem man keinen Kater hat, sich aber wie ein trauriger Roboter fühlen möchte, der Nachtschicht an einer Seepferdchen-Maschine arbeitet.
 
-::genre::
+::genre::minimal electronica, minimal techno, krautrock, experimental electronica
 
 ## Pope - BFM
 
-tbd
+Eine dreiköpfige Band, die seit ihrem Album von 2017 acht Jahre lang stillgestanden hat. "BFM" wurde ganz nach ihren eigenen Vorstellungen und ohne Druck aufgenommen. **Indie-Rock** und Big F*cking Music. Die Einflüsse reichen von 90er-Jahre-**Alternative* *(*Dinosaur Jr.*,* Pavement*) bis hin zu* *Post-Country* *und* *Power Pop**. Wie dieser coole Typ in der Highschool, der mühelos cool war, ohne sich anzustrengen, ist "BFM" ehrlich, geduldig und voller unbestreitbarer Hooks. Es ist ein Album darüber, negative Kreisläufe zu durchbrechen und nach Hause zu kommen, präsentiert mit knackigen Gitarren und einem trockenen Charme, der wie der beste Song klingt, den* Pavement\* nie geschrieben hat.
 
-::genre::
+::genre::power pop, indie rock, indie folk, country folk
 
 ## Ramilda - Cracked
 
@@ -1120,15 +1096,15 @@ Nach einer klassischen Ausbildung am Goldsmiths College der University of London
 
 ## Safety Trance - sacrificio
 
-tbd
+*Safety Trance* ist das Pseudonym von Luis Garban (ehemals *Cardopusher*), einem häufigen Kollaborateur von *Arca*. Rave-New-World-Clubmusik; eine Mischung aus Old-School-**Reggaeton**, Witch **House**, **Industrial Techno** und **Dembow**. Diese Platte vermittelt das Gefühl, als wolle man auf einer dunklen Tanzfläche alles durch Schweiß aus dem Körper pressen. Sie ist industriell, gothic und rau, aber in manchen Momenten überraschend kitschig und locker. Es ist ein Verwandlungsritual, bei dem der DJ dein Führer durch ein Portal der puren Club-Dunkelheit ist.
 
-::genre::
+::genre::idm, techno, reggaeton, house
 
 ## The Great Observer - Loss Of Transcendence
 
-tbd
+Die Band wurde um 2021 von Daniele Z. (ex-*Night Gaunt*) und Luca E. (ex-*Demonomancy*) gegründet und probte jahrelang, bevor sie dieses Debütalbum aufnahm. Eine bös Fusion aus Extreme Metal im Stil der 80er Jahre, insbesondere **Black**, **Death** und **Thrash Metal**. Das ist ausgefallene Musik aus der Gosse. Sie hat diesen Old-School-Heavy-Metal-Swagger - man stelle sich Hellhammer trifft auf puren Thrash vor -, aber mit genügend Gesangsschichten, dass einem der Kopf schwirrt. Es ist eine Post-Collapse-Vision, die sich nicht darum schert, modern zu sein; sie will einen einfach nur k.o. schlagen wie ein Amateurboxer.
 
-::genre::
+::genre::osdm, blackened death metal, blackened thrash metal
 
 ## TWS - NO TRAGEDY
 
@@ -1138,6 +1114,6 @@ Die von Pledis Entertainment gegründete sechsköpfige Gruppe (Shinyu, Dohoon, Y
 
 ## Whipped Cream - HOME WAS ALWAYS ME
 
-tbd
+Dies ist Cecils erstes richtiges Studioalbum in voller Länge, das über den Elektronik-Giganten Monstercat veröffentlicht wurde. Es ist das Ergebnis einer jahrelangen Entwicklung von roher Bassmusik hin zu komplexeren Arrangements. Filmische Tanzmusik, die Nightmare Bass, **Techno** und **Melodic House** miteinander verbindet. Stell dir vor, die biblische Eva beschließt, dass sie genug hat von dem Etikett Sünderin und begibt sich direkt auf die Hauptbühne eines Festivals. Dieses Album ist ein kraftvolles, emotionales Rückeroberungsprojekt. Es ist düster genug für eine Keller-Rave-Party, aber ausgefeilt genug für deine besten Kopfhörer - eine "Aus Zitronen Limonade machen"-Stimmung für alle, die sich jemals missverstanden gefühlt haben.
 
-::genre::
+::genre::edm, idm, house, techno
