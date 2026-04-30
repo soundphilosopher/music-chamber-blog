@@ -328,12 +328,6 @@ tbd
 
 ::genre::
 
-## Grond - The Temple
-
-tbd
-
-::genre::
-
 ## Hajduk - Хвърковата чета
 
 tbd
@@ -1003,6 +997,12 @@ Ein experimentierfreudiger R&B-Sänger und Produzent. Dies ist ihr erstes Projek
 Der Gitarrist Eyal Maoz, ein fester Bestandteil des *John-Zorn*-Kreises, ist bekannt für seine Arbeit mit der Band *Edom* und seine einzigartige Verschmelzung jüdischer Melodien mit Jazz-Rock. **Avantgarde-Jazz**, **Improvisation** und **experimenteller Rock**. Dieses Album ist wie der Anblick eines Seiltänzers, der sich durch einen Sturm bewegt - es steckt voller einmaliger Momente und spannungsgeladener Energie. Es ist Musik, die verlangt, dass man alles stehen und liegen lässt und einfach nur die Schwingungen spürt. Nichts für schwache Nerven, aber großartig für mutige Ohren.
 
 ::genre::avant jazz, experimental rock, jazz rock, free jazz, improvisation
+
+## Grond - The Temple
+
+Sie sind Veteranen der Underground-Szene und bekannt für ihren düsteren, gewaltigen Extreme-Metal-Sound, der sich über EPs wie "Steel Coffins" (2010) und Alben wie "Howling From The Deep" (2013) weiterentwickelt hat. **Old-School-Death-Metal** gemischt mit Elementen aus **Doom**, **Black Metal** und **Grind**. Der Sänger Kist klingt wie ein kriegerischer und einäugiger Barbar, dessen einzige Mission die totale Vernichtung ist. Musikalisch fühlt sich das Album an, als wäre man in einem sinkenden U-Boot gefangen - düster, klaustrophobisch und erdrückend, doch überraschend grooviger, als man es von einem Album über unheimliche Schrecken erwarten würde. Es ist eine große Rückkehr zu alter Form für alle, die die Zeiten vermissen, als es beim Death Metal noch um große Riffs und noch größere Kraken ging.
+
+::genre::osdm, blackened death metal, deathgrind
 
 ## haana lee - deconstructed
 
