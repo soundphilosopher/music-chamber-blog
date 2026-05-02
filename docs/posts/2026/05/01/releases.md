@@ -371,12 +371,6 @@ Erfahrene Thrash-Veteranen, bekannt für ihre energiegeladenen Live-Shows und ih
 
 ::genre::blackened thrash metal, melo death metal
 
-## Indelible Grace Music - Rove No More: Indelible Grace VIII
-
-tbd
-
-::genre::
-
 ## Infected Dead - Invicta
 
 Eine unerbittliche Death-Metal-Band, die ihren Sound jahrelang in der europäischen Underground-Szene verfeinert hat. **Old-School-Death-Metal** mit einem Hauch von **Thrash** und **Prog**. Beeinflusst von Pionieren wie *Bolt Thrower* und den frühen *Death*. Das ist No-Nonsense-Metal. Er ist dicht, groovig und schlägt mit der Wucht eines Bleirohrs zu. Das Thema ist pure Eroberung - erwartet kehlige Brülllaute und Riffs, die sich anhören, als wären sie in einem Hochofen geschmiedet worden. Es ist der perfekte Sound, wenn man sich unbesiegbar fühlen will (oder einfach nur headbangen möchte, bis der Nacken schmerzt).
