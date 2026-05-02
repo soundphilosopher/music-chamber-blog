@@ -279,16 +279,21 @@ def _build_release_list(path: Path) -> list[ReleaseCollection]:
         ReleaseCollection(type=ct, releases=[]) for ct in ReleaseCollectionType
     ]
 
+    pattern = re.compile(r"\((\d{4}-\d{2}-\d{2})\)\s+(.+)")
+
     with open(path) as f:
         for line in f.read().strip().split("\n"):
             if line.strip().startswith("<<ignore>>"):
                 break
 
             # split line "(2026-03-27) Yeat - ADL (A Dangerous Lyfe / A Dangerous Love)" into release date and title
-            release_date_str, title = line.split(") ", 1)
-            release_date = date.fromisoformat(release_date_str.lstrip("(").strip())
-            artist = title.split(" - ", 1)[0].strip()
-            title = title.split(" - ", 1)[1].strip()
+            date_artist, title = line.split(" - ", 1)
+            match = pattern.match(date_artist)
+            if not match:
+                continue
+
+            release_date_str, artist = match.groups()
+            release_date = date.fromisoformat(release_date_str)
 
             # check if release_date is friday add release to friday collection if not already present
             current_week_type = ReleaseCollectionType.FRIDAY if release_date.weekday() == 4 else ReleaseCollectionType.EARLIER
