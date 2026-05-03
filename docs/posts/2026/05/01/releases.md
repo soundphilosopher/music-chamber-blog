@@ -313,7 +313,7 @@ Ein dreiköpfiges Ensemble, das sich in der deutschen DIY-Punk- und Indie-Szene 
 
 *Fugue State* ist das Soloprojekt von Dorian S. Redman, einem Klangkünstler und Multi-Instrumentalisten aus London, Großbritannien. Redman bewegt sich in den schattenhaften Bereichen von **Industrial Ambient**, **Dark Folk** und **Drone**. Er blickt auf eine lange Geschichte in Londons Underground-DIY-Szenen zurück und tritt häufig mit präparierten Instrumenten und selbstgebauter Elektronik auf. Sein Hintergrund ist stark in der Tape-Culture-Bewegung verwurzelt, in der die Unvollkommenheiten alter Technologie als primäre musikalische Texturen genutzt werden. Dieses Album ist das klangliche Äquivalent eines spukenden Polaroids. Es fühlt sich an, als würde man durch ein verlassenes viktorianisches Haus gehen, in dem die Luft schwer von Staub und Erinnerungen ist. Redman verwendet Loops, die klingen, als würden sie während des Abspielens buchstäblich zerbröckeln, und schafft so einen schönen Verfall. Es gibt Momente überraschend zarter Folk-Gitarre, die durch den industriellen Nebel hindurchblitzen, wodurch es sich weniger wie ein Horrorfilm anfühlt, sondern eher wie ein zutiefst persönlicher, leicht unheimlicher Brief aus der Vergangenheit. Es ist doom-nah, besitzt aber eine seltsame, zerbrechliche Anmut.
 
-::genre:: industrial, dark ambient, dark folk, drone
+::genre::industrial, dark ambient, dark folk, drone
 
 ## Gabriella Smart - Parasymbiosis
 
