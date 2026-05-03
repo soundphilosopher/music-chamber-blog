@@ -16,6 +16,7 @@ Only pages whose source path ends with ``releases.md`` **and** whose
 front-matter contains ``bandcamp: true`` are processed — regular
 weekly posts are left untouched.
 """
+from curl_cffi import get
 
 import logging
 import time
@@ -211,6 +212,54 @@ def _search_bandcamp(search_query: str, session: Session) -> list[Any]:
     return []
 
 
+def _album_include_tracks(band_id: int, album_id: int, session: Session) -> bool:
+    """
+    Check if the album includes tracks via the Bandcamp mobile API.
+
+    Args:
+        band_id (int): The ID of the band.
+        album_id (int): The ID of the album.
+        session (Session): The HTTP session to use for the request.
+
+    Returns:
+        bool: True if the album includes tracks, False otherwise.
+    """
+    params = {
+        "band_id": band_id,
+        "tralbum_id": album_id,
+        "tralbum_type": "a",
+    }
+
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            response = session.get(BANDCAMP_ALBUM_LOOKUP_URL, params=params)
+        except RequestException:
+            log.exception("(LOOKUP): Failed to lookup Bandcamp album %r", album_id)
+            return False
+
+        if response.status_code == 429:
+            retry_after = response.headers.get("Retry-After")
+            wait = float(retry_after) + REQUEST_DELAY_SECONDS if retry_after else REQUEST_DELAY_SECONDS
+            log.debug(
+                "(LOOKUP): Bandcamp rate limit hit for album %r (attempt %d/%d), retrying in %.1fs",
+                album_id, attempt, MAX_RETRIES, wait,
+            )
+            time.sleep(wait)
+            continue
+
+        if response.status_code != 200:
+            log.warning(
+                "(LOOKUP): Bandcamp returned HTTP %d for album %r with headers %s",
+                response.status_code, album_id, response.headers,
+            )
+            return False
+
+        return len(response.json().get("tracks", [])) > 0
+
+    # All retries exhausted due to rate-limiting.
+    return False
+
+
 def _lookup_bandcamp_album(artists: list[str], title: str, result: Any, session: Session) -> bool:
     """Verify that *result* is an album by one of *artists* via the Bandcamp mobile API.
 
@@ -306,6 +355,7 @@ def _lookup_bandcamp_album(artists: list[str], title: str, result: Any, session:
             "(LOOKUP): Title mismatch — query=%r, result_name=%r",
             normalized_query_title, result_name_title,
         )
+
         return False
 
     # ------------------------------------------------------------------ #
@@ -318,6 +368,12 @@ def _lookup_bandcamp_album(artists: list[str], title: str, result: Any, session:
         for qa in normalized_query_artists
     )
 
+    if not band_name_match:
+        log.debug(
+            "(LOOKUP): Band name mismatch — query=%r, result_name=%r",
+            normalized_query_artists, result_artists,
+        )
+
     # Pass 2: raw combined band_name — for multi-artist releases whose
     # artists are joined by "and" or similar connectors that are unsafe to
     # split on globally (e.g. "Of Monsters and Men & Someone Else").
@@ -328,6 +384,12 @@ def _lookup_bandcamp_album(artists: list[str], title: str, result: Any, session:
         combined_band_match = all(
             len(qa) >= _SUBSTR_MIN_LEN and qa in combined_band
             for qa in normalized_query_artists
+        )
+
+    if not combined_band_match:
+        log.debug(
+            "(LOOKUP): Combined band name mismatch — query=%r, result_name=%r",
+            normalized_query_artists, result_artists,
         )
 
     # Pass 3: label-release fallback — artists extracted from the left
@@ -355,6 +417,12 @@ def _lookup_bandcamp_album(artists: list[str], title: str, result: Any, session:
                 for qa in normalized_query_artists
             )
 
+    if not label_release_match:
+        log.debug(
+            "(LOOKUP): Label release mismatch — query=%r, result_name=%r",
+            normalized_query_artists, result_name_parts,
+        )
+
     artist_matched: bool = band_name_match or combined_band_match or label_release_match
 
     if not artist_matched:
@@ -372,40 +440,7 @@ def _lookup_bandcamp_album(artists: list[str], title: str, result: Any, session:
     # ------------------------------------------------------------------ #
     # API sanity check — only reached when title and artist both match     #
     # ------------------------------------------------------------------ #
-    params = {
-        "band_id": result.get("band_id"),
-        "tralbum_id": result.get("id"),
-        "tralbum_type": "a",
-    }
-
-    for attempt in range(1, MAX_RETRIES + 1):
-        try:
-            response = session.get(BANDCAMP_ALBUM_LOOKUP_URL, params=params)
-        except RequestException:
-            log.exception("(LOOKUP): Failed to lookup Bandcamp album %r", result.get("id"))
-            return False
-
-        if response.status_code == 429:
-            retry_after = response.headers.get("Retry-After")
-            wait = float(retry_after) + REQUEST_DELAY_SECONDS if retry_after else REQUEST_DELAY_SECONDS
-            log.debug(
-                "(LOOKUP): Bandcamp rate limit hit for album %r (attempt %d/%d), retrying in %.1fs",
-                result.get("id"), attempt, MAX_RETRIES, wait,
-            )
-            time.sleep(wait)
-            continue
-
-        if response.status_code != 200:
-            log.warning(
-                "(LOOKUP): Bandcamp returned HTTP %d for album %r with headers %s",
-                response.status_code, result.get("id"), response.headers,
-            )
-            return False
-
-        return len(response.json().get("tracks", [])) > 0
-
-    # All retries exhausted due to rate-limiting.
-    return False
+    return _album_include_tracks(result.get("band_id"), result.get("id"), session)
 
 
 def _collect_bandcamp_information(h2: Tag, session: Session) -> BandcampInfo | None:
@@ -431,9 +466,27 @@ def _collect_bandcamp_information(h2: Tag, session: Session) -> BandcampInfo | N
     # may credit them under a combined name that differs from the heading.
     # Single-artist releases use the full "Artist - Title" heading so the
     # search is already targeted.
-    search_query = title if len(artists) > 1 else heading_text
+    # search_query = title if len(artists) > 1 else heading_text
+    search_query = heading_text
     results = _search_bandcamp(search_query=search_query, session=session)
     log.debug("Found %d results for %r", len(results), search_query)
+
+    if len(results) == 1:
+        result = results[0]
+        match = (
+            result.get("band_name").lower() in ",".join(artists).lower()
+            and title.lower() in result.get("name").lower()
+        )
+
+        if match:
+            return BandcampInfo(
+                album_id=result.get("id"),
+                album_name=result.get("name"),
+                band_id=result.get("band_id"),
+                band_name=result.get("band_name"),
+                album_url=result.get("url"),
+            )
+
 
     for result in results:
         if _lookup_bandcamp_album(artists=artists, title=title, result=result, session=session):
