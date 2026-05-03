@@ -298,7 +298,7 @@ def _lookup_bandcamp_album(artists: list[str], title: str, result: Any, session:
     title_matched: bool = (
         normalized_query_title == result_name_title
         or _title_substr_ok
-        or SequenceMatcher(None, normalized_query_title, result_name_title).ratio() >= 0.85
+        or SequenceMatcher(None, normalized_query_title, result_name_title).ratio() >= 0.95
     )
 
     if not title_matched:

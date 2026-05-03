@@ -1,18 +1,12 @@
 ---
 date: 2026-05-01
 pin: true
-bandcamp: false
+bandcamp: true
 categories:
   - Releases
 ---
 
 # Releases! Releases! Releases!
-
-## Aeonik - The Roamer Of Heaven And Hell
-
-Die 2023 gegründete Band besteht aus Veteranen der luxemburgischen Metal-Szene (*Scarlet Anger*, *Rude Revelation*, *Sublind*). Kurz nach ihrer Gründung qualifizierten sie sich für das Wacken Open Air 2024. **Melodischer Black-/Death-Metal**. Zu den Einflüssen zählen *Sacramentum* und *Dissection*. Dies ist ein brutales, frostiges Debüt, das die Geschichte eines mysteriösen Dimensionswanderers erzählt. Es schafft einen Ausgleich zwischen höllischen Growls, epischen Melodien und roher Energie. Es ist kompromisslos dynamisch und perfekt für alle, die ihren Black Metal sowohl uralt als auch explosiv klingen lassen wollen.
-
-::genre::melo death metal, blackened death metal
 
 ## Alberto Giurioli - Leftovers
 
@@ -20,7 +14,13 @@ Ein am Konservatorium ausgebildeter Pianist und Komponist, der durch seine Auftr
 
 ::genre::solo piano, modern classic
 
-## American Football - LP4 *
+## Alsever Lake - Far Away
+
+Alsever Lake ist ein moderner Komponist und Produzent, der für seine ruhigen, filmischen Klangwelten bekannt ist. **New Age**, **Ambient** und ruhige, besinnliche Instrumentalstücke. Sein Sound ist stark von Naturlandschaften geprägt, insbesondere von dem Gefühl weitläufiger Räume und Orten in Träumen. Hätte dein Gehirn einen Reset-Knopf, würde er genau so klingen. Es ist wie eine warme Tasse Tee für deine Ohren - sanft, friedlich und ein klein wenig magisch. Es ist die Art von Musik, die dich dazu bringt, deine Pläne abzusagen, dein Handy auf Flugmodus zu stellen und so zu tun, als würdest du in einer Hütte an einem sehr ruhigen See leben.
+
+::genre::new age, modern classic, ambient
+
+## American Football - American Football (LP4) *
 
 Die Urväter des Emo, Mike und Nate Kinsella, Steve Holmes und Steve Lamos. Dies ist ihr erstes Studioalbum seit sieben Jahren, nach einer kurzen Phase der Ungewissheit infolge des vorübergehenden Ausstiegs von Schlagzeuger Steve Lamos im Jahr 2021. **Midwest-Emo**, **Post-Rock** und **Alternative Rock**. Auf dem Album sind Gastgesänge von Brendan Yates von *Turnstile*, Caithlin De Marrais von *Rainer Maria* und dem Shoegaze-Künstler *Wisp* zu hören. Hier vertreibt This is American Football die Dämonen der Lebensmitte. Es ist ihr düsterstes und gewagtestes Werk, das sich mit Selbstmord, Scheidung und Selbsthass auseinandersetzt, dabei aber eine melodische Hoffnung bewahrt. Stell dir einen alten Freund vor, der erwachsen geworden ist, etwas ernster geworden ist, aber immer noch genau weiß, wie er dir mit einem einzigen Gitarrenriff das Herz brechen kann.
 
@@ -131,6 +131,12 @@ Ein „Crossover-Kraftpaket“ mit dem Gitarristen James Monteith (*TesseracT*) 
 
 ::genre::modern metalcore
 
+## Celer - Poulaine
+
+Ursprünglich ein Duo aus Kalifornien, gegründet von Will Long und der verstorbenen Danielle Baquet, ist *Celer* heute das Soloprojekt von Will Long mit Sitz in Tokio, Japan. **Minimalistischer Ambient**, **Drone** und **experimentelle Field Recordings**. Longs Werk ist stark von Filmmusik, den 1980er Jahren und dem Konzept der Bewahrung von Erinnerungen geprägt. Benannt nach einem mittelalterlichen Schuh mit einer unglaublich langen Spitze, ist dieses Album ebenso seltsam und langgestreckt. Es ist eine Reihe von eingefrorenen Momenten, die sich anfühlen, als wären sie so lange gedehnt worden, bis sie Teil des Raumes werden. Es verlangt keine Aufmerksamkeit; es verändert einfach langsam die Atmosphäre um dich herum, bis du merkst, dass du seit zwanzig Minuten auf eine Wand starrst - und dir das völlig recht ist.
+
+::genre::ambient, minimal electronica, drone, field recordings
+
 ## Choke Me - A Violent Phenomenon
 
 Eine Underground-Band unter der Leitung von Wesley Richards, die aus der DIY-Grindcore- und Power-Violence-Szene hervorgegangen ist. **Grindcore** / **Hardcore-Punk**. Eine unerbittliche, kompromisslose Mischung aus roher Aggression und politischer Wut. Diese Platte bietet über 20 Minuten akustische Selbstverbrennung. Es klingt wie eine Lagerhausparty, die in Flammen steht - kein Glanz, keine Kompromisse, nur rohe, wütende Energie, die den Beton zum Beben bringt.
@@ -167,7 +173,7 @@ Eine rasante Technical-Death-Metal-Maschine, die sich im letzten Jahrzehnt einen
 
 ::genre::drone, noise, musique concrète
 
-## Corrado Maria De Santis - Thresholds of Light
+## Corrado Maria De Santis - Threshold of Light
 
 Ein erfahrener Experimentalmusiker und Gitarrist, der sich seit Jahren mit der Schnittstelle zwischen traditioneller Instrumentierung und digitaler Bearbeitung beschäftigt. **Ambient**, **Post-Rock** und **Glitch**. Stellen Sie sich die zarten Texturen von *Fennesz* vor, gepaart mit der filmischen Weite von *Hammock*. Dieses Album ist wie der Anblick von Staubkörnchen, die in einem einzigen Sonnenstrahl tanzen. Es ist unglaublich zerbrechlich und leuchtend und nutzt bearbeitete Gitarrenloops, um das Gefühl zu erzeugen, zwischen zwei Welten gefangen zu sein. Es ist intellektuelle Chill-out-Musik, die tiefes Zuhören mit Kopfhörern und geschlossener Tür belohnt.
 
@@ -185,11 +191,17 @@ Schwedische Death-Metal-Veteranen, die für ihr drittes Album den Schritt in die
 
 ::genre::hard rock, stoner rock, blues, funk
 
-## Dal Av x EVERGLADE - Glass Palace
+## Dal Av, EVERGLADE - Glass Palace
 
 Ein Gemeinschaftsprojekt von Metalcore- und Progressive-Metal-Künstlern. **Metalcore** und **Progressive Metal**. "Glass Palace" ist eine energiegeladene Mischung aus schweren Riffs und technischer Präzision. Es ist die Art von EP, die von der ersten Sekunde an voll zur Sache geht und nicht nachlässt - perfekt, wenn man einen konzentrierten Schub an technischer Metal-Energie braucht.
 
 ::genre::modern metalcore, prog metal, djent
+
+## Damien Jurado, Lilly Miller - Did Something in Me Break
+
+Damien Jurado ist ein altgedienter Indie-Folk-Urgestein aus Seattle, Washington. Für dieses vielschichtige Gemeinschaftsprojekt hat er sich mit Lilly Miller, einer aufstrebenden Folk-Musikerin, zusammengetan. **Indie-Folk** und Singer-Songwriter. Das Album präsentiert sich im Split-Format, bei dem beide Künstler eigene Songs beisteuern, untermalt von üppiger Instrumentierung wie Cello und Geige. Es ist eine Reise mit 20 Titeln durch die wunderschön zerbrochenen Winkel des menschlichen Herzens. In einem Moment lässt man seine Schlüssel in Kennewick liegen, und im nächsten schwebt man in einem uralten Ritual. Es fühlt sich an wie ein ehrliches, ungeschöntes Gespräch zwischen zwei alten Freunden, die zufällig Weltklasse-Songwriter sind.
+
+::genre::indie folk
 
 ## Dario Calderone - The Infinite Garden
 
@@ -209,7 +221,7 @@ Eine Powerband mit einer Sängerin an der Spitze, das dem klassischen Heavy-Meta
 
 ::genre::nwothm, hard rock, heavy rock
 
-## Detach the Island - Concret Jungle *
+## Detach the Islands - Concrete Jungle *
 
 Ein Mathcore-Projekt unter der Leitung des Multi-Instrumentalisten Ryan Sowers, bekannt für atemberaubende technische Finesse und chaotische Songstrukturen. **Mathcore**, **Screamo** und **Experimental Metal**. Beeinflusst von den Chaos-Göttern wie *The Dillinger Escape Plan*. Diese Platte ist ein rasender Sprint durch einen digitalen Wolkenkratzer. Sie ist glitchig, laut und wechselt ständig die Richtung - gerade wenn man denkt, man hätte den Groove gefunden, teleportiert sie sich in eine Jazz-Fusion-Brücke oder eine Wand aus Rauschen. Sie ist anstrengend, brillant und fängt die Reizüberflutung des modernen Lebens perfekt ein.
 
@@ -317,7 +329,7 @@ Ein erfahrener Multi-Instrumentalist, der bereits mit *U.S. Girls*, *Islands* un
 
 ::genre::alt folk, experimental folk, indie folk
 
-## Glissandro 70 - Bones of Dundasa
+## Glissandro 70 - Bones Of Dundasa
 
 Eine Zusammenarbeit zwischen Sandro Perri und Craig Dunsmuir. Dies ist ihre erste Veröffentlichung seit 20 Jahren, nach ihrem legendären, selbstbetitelten Debüt. **Experimenteller Funk**, **Electronica** und **Arthouse-Pop**. Dieses Album ist ein Wunderwerk aus Technik und Geduld, das von einer verlorenen Festplatte wiederhergestellt wurde. Es ist groovig, schräg und sorgfältig vielschichtig - wie eine Disco-Party in einer sehr eleganten Kunstgalerie. Es ist der perfekte Balsam der Zeit für alle, die ihren Funk mit einer Prise avantgardistischer Coolness mögen.
 
@@ -353,7 +365,7 @@ Ein aufstrebender Star der Melodic-Techno- und Progressive-House-Szene, der oft 
 
 ::genre::deep house, techno, ebm, edm
 
-## Hiss Golden Messenger - I’m People
+## Hiss Golden Messenger - I'm People
 
 Unter der Leitung von MC Taylor hat sich dieses Projekt zu einer beliebten festen Größe der modernen Americana-Szene entwickelt, bekannt für gefühlvollen, groovigen Folk-Rock. Cosmic **Americana**, **Folk-Rock** und **R&B**. Die Einflüsse reichen von *Van Morrison* bis zu den *Grateful Dead*. Diese EP ist wie ein Sonnenuntergang auf der Veranda in akustischer Form. Taylor erkundet die Unvollkommenheit des Menschseins mit seiner charakteristischen Wärme und seinem Rhythmus. Sie ist luftig, aber nachdenklich - die Art von Musik, die Lust macht, einen alten Freund anzurufen und zu erkennen, dass wir trotz allem alle nur Menschen sind, die versuchen, ihren Weg zu finden.
 
@@ -418,6 +430,12 @@ Eine visionäre Singer-Songwriterin, die von Tom Waits entdeckt wurde. Für dies
 Eine experimentelle Sängerin und multidisziplinäre Künstlerin, deren Arbeit sich häufig mit Vocal-Loops und spirituellen Klanglandschaften befasst (wie auf ihrem 2025 erschienenen Album "Night Caves" zu hören ist). Experimentelles Vokalritual und ätherischer **Drone**. Dieses Album enthält Kollaborationen mit verschiedenen Sängerinnen, wobei jeder Grundklang vollständig von Molettas eigener Stimme erzeugt wird. "Oceanine" ist ein tiefes Eintauchen in die Geisterwelt. Es verwandelt die menschliche Stimme in ein verletzliches, heiliges Instrument und schafft Klanglandschaften, die sich weitläufig und doch schwerelos anfühlen. Es ist ein eindringlich schönes Überlebensritual, das einem das Gefühl gibt, sich mit Geistern am Ufer zu versammeln.
 
 ::genre::drone, experimental pop, experimental electronica, ambient
+
+## Jozef Van Wissem - This Is My Blood
+
+*Van Wissem*, geboren in Maastricht, Niederlande, ist ein avantgardistischer Komponist und Lautenspieler. Er studierte in New York bei Patrick O'Brien Laute und ist dafür bekannt, dieses Instrument der Renaissance ins 21. Jahrhundert zu übertragen. Eine eindringliche Verschmelzung von akustischem **Neofolk**, **Minimalismus** und barocken Lauten-Traditionen. Sein Werk ist stark von **No Wave**, **Industrial**-Musik und cineastischen **Drone**s beeinflusst und beschäftigt sich oft mit andächtigen und ritualistischen Wiederholungen. Stellen Sie sich dies als Soundtrack für einen mittelalterlichen Mönch vor, der versehentlich in ein Zeitportal fiel und in einem dunklen, flackernden Industrial-Club der 1980er Jahre landete. Es ist schimmernd, halluzinatorisch und seltsam intim - wie ein langsames Kreisen um die Trauer, zu dem man irgendwie in seinem Kopf tanzen kann.
+
+::genre::avant folk, neo folk, no wave, drone
 
 ## Kacey Musgraves - Middle of Nowhere
 
@@ -557,6 +575,18 @@ Ein Hardcore-Kraftpaket mit Rich Thurston (ex-*Terror*, *Blood Has Been Shed*). 
 
 ::genre::metallic hardcore
 
+## Nostalgia 77 - When The Lights Gone *
+
+*Nostalgia 77* ist der Künstlername von Benedic Lamdin, einem produktiven Produzenten und Musiker aus London. Als eine der Schlüsselfiguren des Labels Tru Thoughts ist Lamdin dafür bekannt, die Ästhetik des Vintage-Jazz mit moderner Produktion zu verbinden. Eine raffinierte Mischung aus **Jazz**, **Soul**, **Funk** und **Afro-Jazz**. Dieses Album beschäftigt sich mit den Themen Erinnerung, Zeit und Identität und besticht durch eine stimmungsvolle, entspannte Atmosphäre. Es besticht durch den rauen, gefühlvollen Gesang der in Berlin lebenden Sängerin Yosa Peit. Dieses Album ist wie ein spätnächtliches Gespräch in einem schummrig beleuchteten Jazzclub, wo der Kaffee stark ist und Geheimnisse im Flüsterton geteilt werden. Es ist in seiner Reinheit naiv und kindlich, aber verwurzelt in tiefen, organischen Grooves. Es ist der perfekte Begleiter für jene Stunde, in der die Welt still wird und man endlich einen Moment hat, einfach nur zu sein.
+
+::genre::vocal jazz, funk, soul, afro jazz, contemporary jazz
+
+## Noveller - I Am The Weather
+
+*Noveller* ist das Soloprojekt von Sarah Lipstate, einer Komponistin und Gitarristin, die ursprünglich aus Lafayette, Louisiana, stammt und heute in Los Angeles (zuvor Brooklyn) lebt. Als cineastische Gitarrenalchemistin tourte sie bereits mit Legenden wie *Iggy Pop* und *St. Vincent*. **Ambient**, **Post-Rock** und experimentelle Gitarrenmusik. Mit nur einer Gitarre und einer Vielzahl von Pedalen schafft Lipstate üppige, orchestrale Klanglandschaften, die ganze Orchester nachahmen. Ihr Stil ist rein instrumental und zutiefst atmosphärisch. Sarah Lipstate spielt nicht nur Gitarre; sie malt damit. "I Am The Weather" ist, als würde man in Zeitlupe beobachten, wie ein Sturm über eine Wüste hereinbricht - majestätisch, ein wenig beängstigend und absolut fesselnd. Es ist das musikalische Äquivalent einer Gewichtsdecke für das Gehirn - dicht, beruhigend und voller sich wandelnder klanglicher Mikroklimata.
+
+::genre::cine ambient, cine modern classic
+
 ## NVTURES GHOST - I HAVE NO MOUTH AND I MUST SCREAM
 
 Eine aufstrebende Band, die sich auf Plattformen wie TikTok mit ihrer Emo- und Alternative-Ästhetik eine Fangemeinde aufgebaut hat. **Alt-Rock**, **Post-Hardcore** und **Electronica**. Der Titel ist eine direkte Anspielung auf die klassische Science-Fiction-Horrorgeschichte von Harlan Ellison. Diese EP ist ein dystopischer Fiebertraum, eingefangen in Ton. Sie ist viszeral, roh und voller *C0PIUM* und Noise. Wenn du Musik suchst, die wie ein digitaler Zusammenbruch mitten in einer postapokalyptischen Ödnis klingt, ist dies dein neuer Lieblingsschrei.
@@ -581,7 +611,7 @@ Dies ist das Projekt von Karl Endreson, einem impressionistischen Elektronik-Kü
 
 ::genre::ambient, minimal electronica
 
-## Oteil Burbridge, Lamar Williams. Jr. - The Offering
+## Oteil Burbridge, Lamar Williams Jr. - The Offering
 
 Eine Zusammenarbeit zwischen dem Bassisten Oteil Burbridge (*Dead & Company*, *Allman Brothers*) und dem Sänger Lamar Williams Jr., aufgenommen in den Flóki Studios in Island. **Southern Soul**, **Gospel** und **improvisierter Rock**. Mit dabei ist eine All-Star-Besetzung, darunter Mitglieder der *Jerry Garcia Band* und von *Soulive*. Dieses Album ist wie heißer Kräutertee mit Honig. Es ist eine langsam entflammende Meisterklasse in Groove und Melodie, die darauf abzielt, den Unsinn auszublenden und die Liebe über den Hass zu stellen. Reiner, unverfälschter Southern Soul, der gleichzeitig die Hüften und das Herz in Schwung bringt.
 
@@ -611,13 +641,19 @@ Als erfahrener Jazzgitarrist und Pädagoge ist Silbergleit seit Jahrzehnten eine
 
 ::genre::deep techno, disco, electronica, synth wave
 
+## People I Love - Window to Another World
+
+*People I Love* ist das Musikprojekt von Joey Krieger, einem in Los Angeles, Kalifornien, ansässigen Künstler. Krieger wuchs in Wisconsin in einem Elternhaus auf, in dem das Erlernen eines Instruments zur Pflicht gehörte. Später verfeinerte er seine Fähigkeiten in Schulbands und in Audiokursen am College, bevor er nach LA zog. Der Sound ist eine verschwommene Mischung aus **Shoegaze**, **Dream Pop** und **Indie-Rock**. Er zeichnet sich durch poppige Hooks, raue, verzerrte Gitarren und verschwommene Texturen aus Effekten und Synthesizern aus. Kriegers Songwriting ist oft von Themen wie Tod, säkularem Humanismus und der Melancholie/extremen Sehnsucht geprägt, die typisch für den Soundtrack einer Rom-Com an einem regnerischen Tag ist. Wenn du schon immer einmal durch eine neonbeleuchtete Wolke schweben wolltest, während du eine leichte existenzielle Krise durchlebst, ist das genau dein Ding. Es ist Shoegaze zum Weinen und zum Crowdkilling - ein akustisches Fenster in eine Welt, in der jede verpasste Begegnung sich wie eine wunderschöne, verzerrte Symphonie anfühlt. Perfekt, um bei leichtem Nieselregen sehnsüchtig aus dem Fenster zu starren.
+
+::genre::shoegaze, dreampop, indie rock, indie pop
+
 ## Phil Geraldi - Rural Deceased Undiscovered
 
 Ein umherziehender Wanderarbeiter, der schon überall gelebt hat - von Brooklyn bis Portland - und in den unterschiedlichsten Berufen gearbeitet hat, vom Fahrradkurier bis zum Pooljungen, während er seinen Heartland-Mythos“ durch experimentelle Radiokunst verfeinerte. **Alien Country**, **Experimental Ambient** und **Folk**. Stell dir Americana vor, gesehen durch einen Schleier aus Radio-Rauschen und verzerrter Pedal Steel - erinnert an eine körnigere, Heartland-Version von The KLFs "Chill Out". Das ist Road-Trip-Musik für eine Autobahn, die nur in deinen Träumen existiert. Geraldi verwandelt bekannte Country-Hooks in schimmernde, verwitterte Texturen, die klingen wie eine verblassende Radiosendung aus einer Geisterstadt. Es ist staubig, wunderschön und seltsam leuchtend.
 
 ::genre::ambient, country folk, experimental electronica, avant folk
 
-## Philippe Poirier, Roméo Poirier - Images Parlées
+## Philippe Lamiral Poirier, Roméo Poirier - Images Parlées
 
 Eine ergreifende Zusammenarbeit zwischen Vater und Sohn. Philippe Lamiral Poirier (Mitbegründer der legendären Gruppe *Kat Onoma*) steuerte die gesprochenen Texte sowie Gitarren- und Saxophonparts bei, während sein Sohn Roméo Poirier, ein Meister der digitalen Collage und der intensiven Sample-Bearbeitung, die Musik komponierte. **Experimental**, **Spoken Word** und **Ambient**/Elektronische Collage. Das ist nicht nur Musik, es ist eine klangliche Expedition. Philippes raue Erzählstimme schwebt über Roméos glitchigen, schimmernden Klanglandschaften wie Geister in einem Leuchtturm. Es ist hochkonzeptionell, tief bewegend und fühlt sich an wie ein wunderschönes letztes Gespräch, das in Bernstein eingeschlossen wurde.
 
@@ -629,7 +665,7 @@ Unter der Leitung der guineischen Sängerin und Perkussionistin *Falle Nioke* be
 
 ::genre::afrobeat, krautrock, post punk, psych funk, psych rock
 
-## Real Farmer - Two Wrongs Don’t Make A Right
+## Real Farmer - Two Wrongs Don't Make A Right
 
 Ein schnell aufsteigendes Quartett, das aus der pulsierenden niederländischen DIY-Punkszene hervorgegangen ist. **Post-Punk** und **Garage Rock**. Ihr Sound zeichnet sich durch treibende Motorik-Beats, drahtige Gitarren und trockenen, energiegeladenen Gesang aus. Das ist Koffein in Audioform. Es ist schnörkellos, knallhart und unglaublich nervös. Der Band gelingt es, gleichzeitig gelangweilt und unglaublich hektisch zu klingen - ein klassischer Punk-Trick, den sie mit chaotischer, glorreicher Perfektion umsetzen. Es ist das klangliche Äquivalent einer rasanten Fahrradtour durch eine regnerische Stadt.
 
@@ -701,7 +737,7 @@ Ein Heavy-Industrial-Projekt, das sich um die stimmliche Intensität eines der i
 
 ::genre::heavy metal, doom metal, speed metal
 
-## Sconfitta - Essere Nesuno
+## Sconfitta - Essere Nessuno
 
 Ein radikales Anti-Projekt-Trio, das musikalische Kohärenz und Konventionen bewusst ablehnt. Eine chaotische Mischung aus **Hardcore-Punk**, **Alternative Rock** und **Noise Rock**. Sie wollen eine dissonante und verstimmte Note in der Welt der Protestmusik sein. Das ist das klangliche Äquivalent eines wunderschönen Aufruhrs. Es ist erschütternd, explosiv und völlig unvorhersehbar. Wenn du Musik willst, die klingt, als wären eine Punkband, ein Jazz-Trio und eine Goth-Rave-Party in einer dunklen Gasse aufeinanderprallt, dann ist Sconfitta deine neue Obsession.
 
@@ -857,7 +893,7 @@ Ihr 18. Studioalbum und das erste seit über vier Jahren. *Tori Amos* ist nach w
 
 ::genre::alt rock, alt pop, baroque pop, electronica
 
-## Torn Open - Torn The F*ck Open, Vol. 2
+## Torn Open - Torn The Fuck Open, Vol. 2
 
 Eine fünfköpfige Band, die sich 2025 gegründet hat. Nach dem Erfolg von Vol. 1 sicherten sie sich einen Vertrag bei Blue Grape Music Hellfire-Magazin, um ihren rasanten Angriff fortzusetzen. **Deathcore**. Er ist direkt, brutal und Gewalt des Geistes in musikalischer Form. Wie der Titel schon andeutet, hat dieses Album keinerlei Interesse daran, höflich zu sein. Es knüpft genau dort an, wo der erste Teil aufgehört hat - und steigert das Tempo und die kompromisslose Brutalität noch weiter. Wenn du einen Soundtrack für ein sehr intensives Workout brauchst oder dich einfach nur 15 Minuten lang wie eine Abrissbirne fühlen willst, ist dies genau das Richtige für dich.
 
@@ -887,7 +923,7 @@ Das Soloprojekt des Multi-Instrumentalisten *Hauk*, der Musik für alle, die sch
 
 ::genre::post punk, country metal, alt folk, alt metal
 
-## Vctims - Pain Processing II
+## VCTMS - Pain Processing II
 
 Bekannt für ihre gnadenlos harten und emotionalen Tracks veröffentlichen *VCTMS* diese 7-Track-EP in Eigenregie als direkte Fortsetzung ihres Vorgängeralbums "Pain Processing". Aggressiver **Metalcore** / **Nu-Metal**. Es ist ein akustischer Angriff aus heruntergestimmten Riffs und Missachtung der Grammatik. Diese Platte ist im Grunde eine hörbare Panikattacke. Sie ist wütend, unberechenbar und bietet genug Gastbeiträge, um sich wie ein Gemeinschaftserlebnis für die Gebrochenen anzufühlen. Wenn du nach einem Zusammenbruch in einem Krankenhaus aufwachen willst, ist Victim/Mentality dein Soundtrack.
 
@@ -904,6 +940,12 @@ Unter der Leitung des legendären Cronos ist dies das 16. Studioalbum der Band u
 Die seit 2006 aktive Band legt hiermit ihr viertes Album in voller Länge vor. Es bildet den Abschluss eines 15-jährigen konzeptionellen Zyklus, der mit ihren früheren Alben begann. **Atmospheric Black Metal**. Er verbindet die eisige skandinavische Tradition mit der emotionalen Intensität des Cascadian-Stils (man denke an *Wolves in the Throne Room*). Übersetzt bedeutet der Titel "Tiefe Erde" - dieses Album ist ein buchstäblicher Abstieg in eine verdammte Symphonie. Es ist eine dichte, 60-minütige Reise durch neun Kreise der Audiohölle - organisch, melancholisch und definitiv nichts für einen entspannten Brunch an einem sonnigen Tag.
 
 ::genre::atmo black metal, post black metal
+
+## Waveshaper - Alternate Reality
+
+Waveshaper (Tom Caswell) ist ein bekannter Produzent in der Synthwave-Szene, der dafür bekannt ist, die Retro-Future-Ästhetik einzufangen. Seine Musik umfasst energiegeladenen **Synthwave**, **Synthpop** und elektronische Musik. Sie ist stark von Filmmusik der 1980er Jahre und Retro-Future-Visionen inspiriert und zeichnet sich durch schwebende Melodien und facettenreiche Percussion aus. Setz deine Neon-Sonnenbrille auf und steig in deinen Ferrari Testarossa; wir machen eine Spritztour. Dieses Album klingt wie ein riesiges Cybergehirn, das einen triumphalen Traum träumt. Es ist halb intergalaktischer Army-Ranger-Kampf und halb nächtliche Fahrt durch ein neongetränktes Jahr 1985, das es eigentlich nie gegeben hat.
+
+::genre::synth wave, synth pop, vaporwave, new retro wave
 
 ## Weird Nightmare - Hoopla
 
@@ -941,6 +983,12 @@ Gelareh Pour ist eine Meisterin der Kamancheh und des Qeychak (persische Streich
 
 ::genre::modern metalcore, prog metalcore, deathcore
 
+## ÆoniK - The Roamer Of Heaven And Hell
+
+Die 2023 gegründete Band besteht aus Veteranen der luxemburgischen Metal-Szene (*Scarlet Anger*, *Rude Revelation*, *Sublind*). Kurz nach ihrer Gründung qualifizierten sie sich für das Wacken Open Air 2024. **Melodischer Black-/Death-Metal**. Zu den Einflüssen zählen *Sacramentum* und *Dissection*. Dies ist ein brutales, frostiges Debüt, das die Geschichte eines mysteriösen Dimensionswanderers erzählt. Es schafft einen Ausgleich zwischen höllischen Growls, epischen Melodien und roher Energie. Es ist kompromisslos dynamisch und perfekt für alle, die ihren Black Metal sowohl uralt als auch explosiv klingen lassen wollen.
+
+::genre::melo death metal, blackened death metal
+
 ---
 
 # Earlier the week ...
@@ -951,7 +999,13 @@ Die Band ist ein Trio, bestehend aus Morten H. Birkeland, Jarle Wangen und Bjør
 
 ::genre::art rock, prog rock, neo prog rock, symphonic rock
 
-## Candarian - Trepanación
+## Angus MacRae, Natalia Tsupryk - Inventions
+
+Diese Zusammenarbeit vereint den britischen Komponisten und Pianisten Angus MacRae und die ukrainische Geigerin Natalia Tsupryk. MacRae, Sohn einer Klavierlehrerin, verfügt zwar über einen akademischen Abschluss in Musik, bevorzugt jedoch emotionale Improvisation. Eine Mischung aus Einflüssen der **modernen Klassik**, der **elektronischen Musik** und des **Folks**, die sowohl aus der ukrainischen als auch aus der schottischen Tradition stammen. Sie zeichnet sich durch atmosphärische, idyllische und zutiefst nostalgische Züge aus. Wenn Sie sich schon immer einmal wie eine Figur in einem stimmungsvollen, hochkarätigen Indie-Film fühlen wollten, die durch eine neblige Wiese wandert, dann ist dies Ihr Soundtrack. Es ist wie ein Erinnerungsglas voller Emotionen - unerschütterlich ehrlich und perfekt für Momente, in denen Sie ein tiefes Gefühl der Sehnsucht verspüren möchten, ohne tatsächlich etwas zu haben, wonach Sie sich sehnen könnten.
+
+::genre::modern classic, ambient, cine electronica, alt folk
+
+## Candarian - Trepanacion
 
 Gegründet im Jahr 2020 als Duo mit Christopher de Haan und José Pablo Phillips, Mitgliedern etablierter Bands wie Crypt Monarch und Astriferous. Dies ist ihr Debüt-Album in voller Länge. Brutaler **Old-School-Death-Metal** mit Doom-Elementen. Das ist nicht nur Musik; es ist eine akustische Autopsie. Es ist dreckig, groovig und absolut gnadenlos. Wenn du es magst, wenn deine Riffs klingen, als wären sie aus einem Sumpf gezogen worden, und deine Vocals wie ein raues Kratzen aus dem Boden, dann ist diese Platte dein neuer bester Freund.
 
