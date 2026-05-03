@@ -448,7 +448,7 @@ tbd
 
 ::genre::
 
-## Ian Hawgood & David Cordero - Shifting Times
+## Ian Hawgood, David Cordero - Shifting Times
 
 tbd
 
@@ -514,7 +514,7 @@ tbd
 
 ::genre::
 
-## Jonny Greenwood with Shye Ben Tzur and The Rajasthan Express - Ranjha
+## Jonny Greenwood, Shye Ben Tzur, The Rajasthan Express - Ranjha
 
 tbd
 
@@ -592,7 +592,7 @@ tbd
 
 ::genre::
 
-## Laurie Anderson with Sexmob - Let X=X
+## Laurie Anderson,  Sexmob - Let X=X
 
 tbd
 
@@ -851,12 +851,6 @@ tbd
 ::genre::
 
 ## Scraper - Infinite Journey
-
-tbd
-
-::genre::
-
-## Shye Ben TzurandJonny Greenwoodwith the Rajasthan Express - Ranjha
 
 tbd
 
