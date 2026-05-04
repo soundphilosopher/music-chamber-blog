@@ -1162,9 +1162,9 @@ tbd
 
 ## Cortis - GreenGreen
 
-tbd
+Die als *Young Creator Crew* bekannte Gruppe besteht aus fünf Mitgliedern (Martin, James, Ju-hoon, Seong-hyeon und Keon-ho), die alle maßgeblich am Songwriting, an der Choreografie und an der visuellen Gestaltung beteiligt sind. Ihr Name ist die Abkürzung für Color Outside the Lines und spiegelt ihre Philosophie des freien Denkens wider. Energiegeladener **K-Pop** und **Hip-Hop** gemischt mit **Plugg**, **Trap** und **Future Bass**. Dieses Album ist wie ein neonbeleuchteter Energy-Drink. Es ist ausgefeilt, besitzt aber eine rohe Subjektivität, in der Grün für ihre Ziele steht und Rot (der Titelsong "REDRED") für die Dinge, die sie hinter sich lassen wollen. Es ist die Kraft der Generation Z in akustischer Form - dynamisch, stilvoll und man kann dabei unmöglich still sitzen bleiben.
 
-::genre::
+::genre::k-pop, hip hop, trap, future bass
 
 ## culfre - Other People’s Pictures
 
@@ -1292,11 +1292,11 @@ tbd
 
 ::genre::
 
-## Kartas - LADO H
+## Kartas - LADO H *
 
-tbd
+Kartas lassen oft Poesie und Lo-Fi-Ästhetik in ihre Musik einfließen und schaffen so einen Sound, der tief in der brasilianischen Avantgarde-Tradition verwurzelt ist und sich gleichzeitig an freieren Rockformen orientiert. Ein genreübergreifender Mix aus experimentellem **Space Jazz**, **Acid Rock**, **Art Rock** und **Lo-Fi**-Elektronik. Stell dir vor, du schwebst durch eine Nebelwolke, während ein Vintage-Radio Bossa Nova spielt, die langsam in einen psychedelischen Fuzz übergeht. Es ist Space Jazz im wahrsten Sinne des Wortes - Musik, die sich anhört, als wäre sie auf einem Raumschiff aufgenommen worden, das direkt vor der Küste von Rio treibt.
 
-::genre::
+::genre::space jazz, acid rock, art rock, lofi, ambient
 
 ## Lawrence English / Werner Dafeldecker - Fathom Tides
 
@@ -1351,6 +1351,12 @@ tbd
 tbd
 
 ::genre::
+
+## Old Stone - The Sigil of Old
+
+Dieses Projekt, das stark von der Atmosphäre des Black Metal der 90er Jahre und mittelalterlicher Fantasy geprägt ist, nutzt halllastige Synthesizer und Feldaufnahmen (Wind, Regen, knisterndes Feuer), um höhlenartige und mystische Klanglandschaften zu erschaffen. **Dungeon Synth**, **Dark Ambient** und Fantasy-Musik. Dies zu hören ist, als fände man in einer Ruine ein staubiges, in Leder gebundenes Buch und würde erkennen, dass es sich tatsächlich um ein Portal handelt. Es ist langsam, düster und tief einnehmend - der perfekte Soundtrack zum Bemalen von Miniaturen, zum Lesen von Tolkien oder einfach dazu, sich vorzustellen, man sei ein Zauberer, der einen sehr feuchten Turm bewacht.
+
+::genre::dark ambient, dungeon synth
 
 ## Phillip Golub - Partisan Ship
 
@@ -1435,6 +1441,12 @@ tbd
 tbd
 
 ::genre::
+
+## Warp Transmission - Excess Currents
+
+Eine Gruppe von Heavy-Psych-Overlords, die in analogen Studios aufnimmt, um einen rauen, authentischen Sound einzufangen. Sie lehnen gängige Etiketten wie Stoner Rock oder Shoegaze ab und konzentrieren sich lieber auf Urinstinkte und exzessiven Lärm. **Heavy Psych**, **Space Rock** und das, was die Band als Primordial Ooze Rock bezeichnet. "Excess Currents" ist ein Album, das wie ein verrückter Zufall wirkt. Es ist laut, berauschend und fühlt sich an wie eine Reise durch die Leere, in der die einzige Konstante eine vibrierende Basslinie ist. Es ist für den Hörer, der vor dem Ende des Songs ein paar Brücken hinter sich abbrechen und ein paar Abgründe überqueren möchte.
+
+::genre::space rock, psych rock, heavy rock
 
 ## William Susman - Scattered Threads
 
