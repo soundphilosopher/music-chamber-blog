@@ -460,7 +460,7 @@ def _collect_bandcamp_information(h2: Tag, session: Session) -> BandcampInfo | N
     """
     heading_text = h2.get_text(strip=True)
     artists, title = heading_text.split(" - ", 1)
-    artists = [a.strip() for a in artists.split(",")]
+    artists = _split_artist_string(artists)
 
     # Multi-artist releases are searched by title only because Bandcamp
     # may credit them under a combined name that differs from the heading.
@@ -473,12 +473,24 @@ def _collect_bandcamp_information(h2: Tag, session: Session) -> BandcampInfo | N
 
     if len(results) == 1:
         result = results[0]
-        match = (
-            result.get("band_name").lower() in ",".join(artists).lower()
-            and title.lower() in result.get("name").lower()
+        if not _album_include_tracks(album_id=result.get("id"), band_id=result.get("band_id"), session=session):
+            return None
+
+        normalized_result_artists: list[str] = _split_artist_string(result.get("band_name", ""))
+        normalized_title: str = _normalize(title)
+        normalized_result_title: str = _normalize(result.get("name", ""))
+
+        band_match: bool = (
+            any(artist in artists for artist in normalized_result_artists)
+            and normalized_title in normalized_result_title
         )
 
-        if match:
+        title_match: bool = (
+            any(artist in normalized_result_title for artist in normalized_result_artists)
+            and normalized_title in normalized_result_title
+        )
+
+        if band_match or title_match:
             return BandcampInfo(
                 album_id=result.get("id"),
                 album_name=result.get("name"),
