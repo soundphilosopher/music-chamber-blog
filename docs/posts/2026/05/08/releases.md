@@ -268,12 +268,6 @@ tbd
 
 ::genre::
 
-## David Ambrosio - Civil Disobedience
-
-tbd
-
-::genre::
-
 ## Dazr - Do Or Die
 
 tbd
@@ -490,12 +484,6 @@ tbd
 
 ::genre::
 
-## John Beasley - Invisible Piano
-
-tbd
-
-::genre::
-
 ## John Hollenbeck - Looking for Consonance
 
 tbd
@@ -653,18 +641,6 @@ tbd
 ::genre::
 
 ## Lyrre - Nothing Is Promised
-
-tbd
-
-::genre::
-
-## Marcel Vallès - BOAS LEMBRANÇAS
-
-tbd
-
-::genre::
-
-## Matt White - Matt White's Dolly
 
 tbd
 
@@ -1126,35 +1102,11 @@ tbd
 
 ## Alabaster DePlume - Dear Children of Our Children, I Knew: Epilogue
 
-tbd
+Alabaster DePlume International Anthem (Angus Fairbairn) ist ein in Manchester geborener und in London lebender Saxophonist, Dichter und Aktivist. Diese EP entstand während eines spontanen freien Tages in Brooklyn im Rahmen seiner US-Tournee im März 2025, um die elektrisierende Chemie einzufangen, die zwischen ihm, dem Bassisten Shahzad Ismaily und dem Schlagzeuger Tcheser Holmes herrschte. Sein Sound ist eine trotzige, genreübergreifende Mischung aus **Spiritual Jazz**, **Ethio-Jazz** und **Folk**, die aufgrund seiner entwaffnend ehrlichen sozialen Kommentare oft mit einem Trojanischen Pferd verglichen wird. Die Musik ist tief in der Improvisation und einer gemeinschaftlichen Energie verwurzelt, bei der der Mensch im Mittelpunkt steht. Dies ist nicht nur eine Platte; es ist ein lebendiges Dokument der Menschlichkeit und des Protests. Es fühlt sich an wie ein nächtliches Flüstern, das irgendwie die Wucht eines Schreis in sich trägt. DePlume verwebt eindringliche Saxophonmelodien mit Feldaufnahmen von spielenden Kindern im Westjordanland und schafft so eine Klanglandschaft, die unglaublich zart ist und doch vor politischer Dringlichkeit knistert. Es ist Musik, die dich auffordert, präsent zu sein, kostbar zu sein und der Welt zuzuhören, wie sie wirklich ist - und das alles, während sie wie ein warmer, leicht exzentrischer Jazz-Traum klingt.
 
-::genre::
-
-## Alexis Martin Ensemble - Les pôles Volume 1
-
-tbd
-
-::genre::
-
-## Aspetuck - Immersion
-
-tbd
-
-::genre::
-
-## Carlo Muscat - That's About It
-
-tbd
-
-::genre::
+::genre::spiritual jazz, world music, ethio jazz
 
 ## Carín León - Muda
-
-tbd
-
-::genre::
-
-## Christian Dillingham - As It Relates to Now
 
 tbd
 
@@ -1166,55 +1118,7 @@ Die als *Young Creator Crew* bekannte Gruppe besteht aus fünf Mitgliedern (Mart
 
 ::genre::k-pop, hip hop, trap, future bass
 
-## culfre - Other People’s Pictures
-
-tbd
-
-::genre::
-
-## David Ambrosio - Civil Disobedience
-
-tbd
-
-::genre::
-
-## Discovery Zone - Library Copy Do Not Remove
-
-tbd
-
-::genre::
-
-## Distant Birds - VOL. 01 & 02
-
-tbd
-
-::genre::
-
-## DJ Saliva - URTIGA
-
-tbd
-
-::genre::
-
-## Eluvium - Virga III
-
-tbd
-
-::genre::
-
 ## Extinct - In Conspiracies We Trust
-
-tbd
-
-::genre::
-
-## Federico Balducci & nobuka - Depth is Not a Place
-
-tbd
-
-::genre::
-
-## Fumction x Nastia Reigel present Devocion - Devocion
 
 tbd
 
@@ -1232,12 +1136,6 @@ tbd
 
 ::genre::
 
-## Greenhouse Ensemble - Mezzanine
-
-tbd
-
-::genre::
-
 ## HERE - Acceptance
 
 tbd
@@ -1250,43 +1148,7 @@ tbd
 
 ::genre::
 
-## Hysterese - Hysterese (5)
-
-tbd
-
-::genre::
-
-## Ibrahim Alfa Jnr. - Infinite Black Inside
-
-tbd
-
-::genre::
-
-## Jason Miles - Jason Miles 100 Miles for Miles Davis
-
-tbd
-
-::genre::
-
-## Jeff Parker TTA IVtet - Happy Today
-
-tbd
-
-::genre::
-
-## John Beasley - Invisible Piano
-
-tbd
-
-::genre::
-
 ## Jäverling ◇ von Euler - Spektrum
-
-tbd
-
-::genre::
-
-## KADAPAT & Nova Ruth featuring Siko Sedyanto - Ocean Cage
 
 tbd
 
@@ -1298,53 +1160,11 @@ Kartas lassen oft Poesie und Lo-Fi-Ästhetik in ihre Musik einfließen und schaf
 
 ::genre::space jazz, acid rock, art rock, lofi, ambient
 
-## Lawrence English / Werner Dafeldecker - Fathom Tides
+## Lelo - Mastiff
 
-tbd
+Lelo ist ein aufstrebender Rapper und Texter aus dem amerikanischen Mittleren Westen (der insbesondere mit dem New-Detroit-Sound in Verbindung gebracht wird). Dieses Projekt ist fest im **Midwest-Hip-Hop** verankert, insbesondere in der Rugged-Luxury-Bewegung und dem melodischen Flow. Freut euch auf energiegeladene Produktionen, die raue Street-Lyrik mit erstklassigem, modernem Wortspiel im East-Coast-Stil verbinden. Wenn du Rap mit einer starken Storyline und einer Big-Dog-Attitüde magst, bist du hier genau richtig. Es ist kraftvoll, roh und voller Selbstbewusstsein, das darauf hindeutet, dass Lelo bald ein ganz großer Name sein wird. Es ist das klangliche Äquivalent eines schnittigen Autos, das um Mitternacht durch eine regennasse Stadt fährt - stilvoll, aber gefährlich.
 
-::genre::
-
-## Lea Bertucci - The Days Pass Quickly Immersed in the Shadow of Eternity
-
-tbd
-
-::genre::
-
-## Lelo - Mastiff EP
-
-tbd
-
-::genre::
-
-## Marcel Vallès - BOAS LEMBRANÇAS
-
-tbd
-
-::genre::
-
-## Martyna Basta - Winged in Collapse
-
-tbd
-
-::genre::
-
-## Matt White - Matt White's Dolly
-
-tbd
-
-::genre::
-
-## Matthew Wright - Cracked Glaze
-
-tbd
-
-::genre::
-
-## Mei Honeycomb - Clairvoyant Dimensions
-
-tbd
-
-::genre::
+::genre::hip hop
 
 ## Nakamura Hiroyuki - Piano Distance
 
@@ -1358,31 +1178,7 @@ Dieses Projekt, das stark von der Atmosphäre des Black Metal der 90er Jahre und
 
 ::genre::dark ambient, dungeon synth
 
-## Phillip Golub - Partisan Ship
-
-tbd
-
-::genre::
-
-## R. Schappert - LOLOSTST
-
-tbd
-
-::genre::
-
-## Rafa Ramos Sania - A Broadcast of Your Silence
-
-tbd
-
-::genre::
-
 ## Ryan Castro and J Balvin - Omerta
-
-tbd
-
-::genre::
-
-## SHHE - THALASSA
 
 tbd
 
@@ -1390,53 +1186,11 @@ tbd
 
 ## Sins Of Shadows - The Last Frontier
 
-tbd
+*Sins Of Shadows* ist eine französische Heavy-Metal-Band, die Anfang der 2010er Jahre vom Bassisten Sébastien Normand gegründet wurde. Auf diesem dritten Album ist der kraftvolle Gesang von Tasos Lazaris zu hören. Ihr Sound ist eine energiegeladene Mischung aus **Heavy Metal**, **Power Metal** und **Progressive Metal**, stark beeinflusst von der NWOBHM und dem klassischen Shred der 80er Jahre. Macht euch bereit für ein paar ordentliche Nackentrainingseinheiten. "The Last Frontier" ist ein absolutes Riff-Fest, das technische Präzision mit gewaltigen, mitreißenden Refrains in Einklang bringt. Es ist dramatisch, filmisch und laut - im Grunde das musikalische Äquivalent eines silber-chromfarbenen Raumschiffs, das durch ein Gewitter fliegt.
 
-::genre::
+::genre::heavy metal, power metal, prog metal
 
 ## Spheruleus - The Lost Catalogue
-
-tbd
-
-::genre::
-
-## Stardust Multiplier - Convergence
-
-tbd
-
-::genre::
-
-## SUSS - Counting Sunsets
-
-tbd
-
-::genre::
-
-## Tumbao Bravo - Joy of the Mambo
-
-tbd
-
-::genre::
-
-## V0LAND - PLÜSCH
-
-tbd
-
-::genre::
-
-## Van Sur Les - Ingrian Tape
-
-tbd
-
-::genre::
-
-## Various Artists - Perceptions Vol. 7
-
-tbd
-
-::genre::
-
-## Vera V Almgren - I Det Vassa Ljuset
 
 tbd
 
@@ -1447,21 +1201,3 @@ tbd
 Eine Gruppe von Heavy-Psych-Overlords, die in analogen Studios aufnimmt, um einen rauen, authentischen Sound einzufangen. Sie lehnen gängige Etiketten wie Stoner Rock oder Shoegaze ab und konzentrieren sich lieber auf Urinstinkte und exzessiven Lärm. **Heavy Psych**, **Space Rock** und das, was die Band als Primordial Ooze Rock bezeichnet. "Excess Currents" ist ein Album, das wie ein verrückter Zufall wirkt. Es ist laut, berauschend und fühlt sich an wie eine Reise durch die Leere, in der die einzige Konstante eine vibrierende Basslinie ist. Es ist für den Hörer, der vor dem Ende des Songs ein paar Brücken hinter sich abbrechen und ein paar Abgründe überqueren möchte.
 
 ::genre::space rock, psych rock, heavy rock
-
-## William Susman - Scattered Threads
-
-tbd
-
-::genre::
-
-## Yulseus - Nothing Under Heaven
-
-tbd
-
-::genre::
-
-## Yvonne Rogers - The Button Jar
-
-tbd
-
-::genre::
