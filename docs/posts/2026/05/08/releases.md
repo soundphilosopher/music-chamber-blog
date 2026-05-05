@@ -1106,6 +1106,12 @@ Alabaster DePlume International Anthem (Angus Fairbairn) ist ein in Manchester g
 
 ::genre::spiritual jazz, world music, ethio jazz
 
+## Babymonster - Choom
+
+Die Gruppe, die 2023 im Rahmen der Reality-Show *Last Evaluation* gegründet wurde, gilt als Vorreiter der 5. K-Pop-Generation und ist bekannt für ihre vielseitigen Fähigkeiten in den Bereichen Gesang, Rap und Tanz. Ihr Sound ist geprägt von **K-Pop**, **Hip-Hop** und zeitgenössischem **R&B**. Als wichtigste Einflüsse nennen sie ihre Labelkolleginnen *Blackpink* und *2NE1*. Getreu seinem Namen (Choom bedeutet auf Koreanisch "Tanz") ist dieser Track eine energiegeladene Einladung zum Tanzen. Er hat diesen typischen YG-Swagger - schwere Beats, eingängige Synthesizer und genug Energie, um eine kleine Stadt mit Strom zu versorgen. Er ist das klangliche Äquivalent eines neonbeleuchteten Tanzwettbewerbs.
+
+::genre::k-pop, hip hop, trap, r&b
+
 ## Carín León - Muda
 
 tbd
@@ -1201,3 +1207,9 @@ tbd
 Eine Gruppe von Heavy-Psych-Overlords, die in analogen Studios aufnimmt, um einen rauen, authentischen Sound einzufangen. Sie lehnen gängige Etiketten wie Stoner Rock oder Shoegaze ab und konzentrieren sich lieber auf Urinstinkte und exzessiven Lärm. **Heavy Psych**, **Space Rock** und das, was die Band als Primordial Ooze Rock bezeichnet. "Excess Currents" ist ein Album, das wie ein verrückter Zufall wirkt. Es ist laut, berauschend und fühlt sich an wie eine Reise durch die Leere, in der die einzige Konstante eine vibrierende Basslinie ist. Es ist für den Hörer, der vor dem Ende des Songs ein paar Brücken hinter sich abbrechen und ein paar Abgründe überqueren möchte.
 
 ::genre::space rock, psych rock, heavy rock
+
+## Øresund Space Collective - Espaço 3
+
+Unter der Leitung von Dr. Scott "Dr. Space" Heller ist das Kollektiv seit 2004 aktiv. Es ist dafür bekannt, niemals zu proben; ihre Musik besteht ausschließlich aus improvisierten Jam-Sessions. Sie haben sich auf **Space Rock**, **Experimental** und freie **Improvisation** spezialisiert. Zu den wichtigsten Einflüssen zählen die Berliner Schule (*Tangerine Dream*, *Klaus Schulze*), **Krautrock** (*Can*) und psychedelische Legenden wie *Hawkwind* und *Pink Floyd*. Stell dir vor, du fährst auf einem Surfbrett durch eine Nebelwolke. "Espaço 3" ist weniger ein "Song" als vielmehr eine pulsierende, kosmische Lavalampe für deine Ohren. Es ist trippig, meditativ und perfekt, wenn du für eine Stunde vergessen möchtest, dass die Erde existiert.
+
+::genre::psych rock, space rock, krautrock, improvisation, instrumental
