@@ -1136,18 +1136,6 @@ Geoff Tate ist der ehemalige Leadsänger der amerikanischen Progressive-Metal-Ba
 
 ::genre::prog metal
 
-## Gigi Masin - Movement
-
-tbd
-
-::genre::
-
-## HERE - Acceptance
-
-tbd
-
-::genre::
-
 ## HWXXNG - K-Core
 
 tbd
@@ -1172,12 +1160,6 @@ Lelo ist ein aufstrebender Rapper und Texter aus dem amerikanischen Mittleren We
 
 ::genre::hip hop
 
-## Nakamura Hiroyuki - Piano Distance
-
-tbd
-
-::genre::
-
 ## Old Stone - The Sigil of Old
 
 Dieses Projekt, das stark von der Atmosphäre des Black Metal der 90er Jahre und mittelalterlicher Fantasy geprägt ist, nutzt halllastige Synthesizer und Feldaufnahmen (Wind, Regen, knisterndes Feuer), um höhlenartige und mystische Klanglandschaften zu erschaffen. **Dungeon Synth**, **Dark Ambient** und Fantasy-Musik. Dies zu hören ist, als fände man in einer Ruine ein staubiges, in Leder gebundenes Buch und würde erkennen, dass es sich tatsächlich um ein Portal handelt. Es ist langsam, düster und tief einnehmend - der perfekte Soundtrack zum Bemalen von Miniaturen, zum Lesen von Tolkien oder einfach dazu, sich vorzustellen, man sei ein Zauberer, der einen sehr feuchten Turm bewacht.
@@ -1195,12 +1177,6 @@ tbd
 *Sins Of Shadows* ist eine französische Heavy-Metal-Band, die Anfang der 2010er Jahre vom Bassisten Sébastien Normand gegründet wurde. Auf diesem dritten Album ist der kraftvolle Gesang von Tasos Lazaris zu hören. Ihr Sound ist eine energiegeladene Mischung aus **Heavy Metal**, **Power Metal** und **Progressive Metal**, stark beeinflusst von der NWOBHM und dem klassischen Shred der 80er Jahre. Macht euch bereit für ein paar ordentliche Nackentrainingseinheiten. "The Last Frontier" ist ein absolutes Riff-Fest, das technische Präzision mit gewaltigen, mitreißenden Refrains in Einklang bringt. Es ist dramatisch, filmisch und laut - im Grunde das musikalische Äquivalent eines silber-chromfarbenen Raumschiffs, das durch ein Gewitter fliegt.
 
 ::genre::heavy metal, power metal, prog metal
-
-## Spheruleus - The Lost Catalogue
-
-tbd
-
-::genre::
 
 ## Warp Transmission - Excess Currents
 
