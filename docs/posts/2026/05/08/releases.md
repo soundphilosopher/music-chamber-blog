@@ -1000,12 +1000,6 @@ tbd
 
 ::genre::
 
-## Various Artists - Moss and Melee I – Old Growth
-
-tbd
-
-::genre::
-
 ## Vile Desolation - Annihilating The Consciousness
 
 tbd
