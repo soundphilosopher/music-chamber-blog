@@ -574,7 +574,7 @@ tbd
 
 ::genre::
 
-## Laurie Anderson,  Sexmob - Let X=X
+## Laurie Anderson, Sexmob - Let X=X
 
 tbd
 
