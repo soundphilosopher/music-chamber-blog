@@ -250,6 +250,12 @@ tbd
 
 ::genre::
 
+## Darkthrone - Pre-Historic Metal
+
+tbd
+
+::genre::
+
 ## Daughn Gibson - Lake Mary Not Mysterious
 
 tbd
