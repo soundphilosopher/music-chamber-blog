@@ -244,6 +244,12 @@ tbd
 
 ::genre::
 
+## Darko US - Oni 2
+
+tbd
+
+::genre::
+
 ## Daughn Gibson - Lake Mary Not Mysterious
 
 tbd
@@ -310,7 +316,7 @@ tbd
 
 ::genre::
 
-## Frozen Soil - No Place Of Warmth
+## Frozen Soul - No Place Of Warmth
 
 tbd
 
