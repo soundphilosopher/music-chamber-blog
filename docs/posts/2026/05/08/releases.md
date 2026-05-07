@@ -40,12 +40,6 @@ tbd
 
 ::genre::
 
-## Abuser - Blood Marks
-
-tbd
-
-::genre::
-
 ## Acolythus - Unearthly Kingdoms ‘Neath Lifeless Stars
 
 tbd
@@ -1090,9 +1084,9 @@ tbd
 
 ## Abuser - Blood Marks
 
-tbd
+Ein brutales Trio (mittlerweile ein Quartett) aus Polen, das ursprünglich 2018 von Mitgliedern von Bands wie *Miecz* und *Raging Death* gegründet wurde. Wilder, riffgetriebener **Thrash Metal**. Stark beeinflusst von den Big Three des deutschen Thrash der 80er Jahre (*Kreator*, *Sodom*, *Destruction*) und der rohen Aggression von *Morbid Saint* und *Demolition Hammer*. Pure, unverfälschte Energie, die einem wie ein Nagel in den Körper hämmert. Rebellisch, adrenalingeladen und wunderbar frei von kommerziellem Schnickschnack. Wenn du eine 36-minütige Strafzettel in Audioform suchst, die den rohen, ungezügelten Geist eines Teenagers einfängt, der gerade eine alte Kassette entdeckt hat, dann ist das hier genau das Richtige.
 
-::genre::
+::genre::thrash metal
 
 ## Alabaster DePlume - Dear Children of Our Children, I Knew: Epilogue
 
@@ -1108,9 +1102,9 @@ Die Gruppe, die 2023 im Rahmen der Reality-Show *Last Evaluation* gegründet wur
 
 ## Carín León - Muda
 
-tbd
+Obwohl er ein Gigant der regionalen mexikanischen Musik ist, stellt "Muda" eine deutliche Abkehr von seinem bisherigen Stil dar. Das Album verbindet seine traditionellen Wurzeln mit **Pop**, **experimentellem Rock**, **Ska**, **Salsa** und **Cumbia**. Bevor er zum Star der regionalen mexikanischen Musik wurde, galt Leóns größte Leidenschaft dem Rock. Für dieses Projekt arbeitete er mit Meistern wie *Edgar Barrera* und Legenden wie *Juanes* zusammen. Der Titel bezieht sich sowohl auf seine Heimatstadt (das "H" in Hermosillo ist "muda" oder stumm) als auch auf das "Häuten". Es ist eine Reise mit 14 Titeln (weitere werden folgen), die sich wie ein persönliches Manifest anfühlt. Es ist geschmeidig, experimentell und beweist, dass ein Löwe tatsächlich seine Flecken ändern kann - oder zumindest sein Genre.
 
-::genre::
+::genre::experimental rock, experimental pop, ska, salsa
 
 ## Cortis - GreenGreen
 
@@ -1120,9 +1114,9 @@ Die als *Young Creator Crew* bekannte Gruppe besteht aus fünf Mitgliedern (Mart
 
 ## Extinct - In Conspiracies We Trust
 
-tbd
+Ein wildes Quartett aus Kiel/Schleswig. Seit 2003 gehören sie zur festen Größe der deutschen Metal-Szene. Klassischer germanischer **Thrash Metal**. Man stelle sich aggressive Old-School-Vibes der 80er Jahre vor, gemischt mit moderner, vernichtender Death/Thrash-Produktion. Es ist ein Thrash-Metal-Statement, das sich direkt gegen das Chaos der modernen Gesellschaft richtet. Die Texte behandeln alles von politischen Verzerrungen bis hin zu sozialen Spannungen. Musikalisch oszilliert das Album zwischen stampfenden Midtempo-Grooves und Slayer-artigen Blastbeats - im Grunde der perfekte Soundtrack für einen höflichen Aufstand.
 
-::genre::
+::genre::thrash metal
 
 ## Geoff Tate - Operation: Mindcrime III *
 
@@ -1132,15 +1126,9 @@ Geoff Tate ist der ehemalige Leadsänger der amerikanischen Progressive-Metal-Ba
 
 ## HWXXNG - K-Core
 
-tbd
+*HWXXNG* (alias Jaeho Hwang) ist ein in Seoul geborener, in Berlin lebender Produzent und DJ. Er gilt als Pionier des K-Core oder Asian-Core. Er verbindet **Industrial Techno** und **Hardstyle** mit traditioneller koreanischer Musik (**Gugak**), darunter schamanische Melodien und 800 Jahre alte zeremonielle Gesänge. Das Ergebnis ist ein cyber-schamanischer Aufruhr. *HWXXNG* nimmt alte Fragmente und zerreißt sie mit kompromisslosen Techno-Kicks. Es ist aggressiv, ritualistisch und energiegeladen - im Grunde das, was passiert, wenn eine traditionelle koreanische Percussion-Gruppe in einen dunklen Berliner Keller kommt und beschließt, eine Revolution zu starten.
 
-::genre::
-
-## Jäverling ◇ von Euler - Spektrum
-
-tbd
-
-::genre::
+::genre::industrial, techno, hardstyle
 
 ## Kartas - LADO H *
 
@@ -1160,11 +1148,11 @@ Dieses Projekt, das stark von der Atmosphäre des Black Metal der 90er Jahre und
 
 ::genre::dark ambient, dungeon synth
 
-## Ryan Castro and J Balvin - Omerta
+## Ryan Castro, J Balvin - Omerta
 
-tbd
+Beide sind Größen aus Medellín, Kolumbien. J Balvin ist der weltbekannte Reggaeton-Veteran, während Ryan Castro (bekannt als "El Cantante Del Ghetto") sich vom Straßenmusiker zu einem Vorreiter der neuen Generation hochgearbeitet hat. Es handelt sich um ein **Reggaeton**- und **Dancehall**-Projekt der Extraklasse, das jedoch mit **Trap**-, **Rock**- und Elektro-Elementen gewürzt ist. Die Einflüsse reichen von Old-School-Reggaeton aus Puerto Rico bis hin zu Ryans Zeit auf Curaçao, die einen unverwechselbaren karibischen Flow hinzufügte. Stellt euch das als ein Godfather-Epos vor, unterlegt mit einem Perreo-Beat. Trotz des mafiös klingenden Titels geht es hier nicht um Kriminalität; es ist eine Hommage an den Kodex der Loyalität und die Werte Familie geht vor, die sie teilen. Es ist geschmeidig, visuell und fühlt sich an wie eine Stabübergabe von Balvin an Castro.
 
-::genre::
+::genre::reggaeton, dancehall, trap
 
 ## Sins Of Shadows - The Last Frontier
 
@@ -1183,3 +1171,9 @@ Eine Gruppe von Heavy-Psych-Overlords, die in analogen Studios aufnimmt, um eine
 Unter der Leitung von Dr. Scott "Dr. Space" Heller ist das Kollektiv seit 2004 aktiv. Es ist dafür bekannt, niemals zu proben; ihre Musik besteht ausschließlich aus improvisierten Jam-Sessions. Sie haben sich auf **Space Rock**, **Experimental** und freie **Improvisation** spezialisiert. Zu den wichtigsten Einflüssen zählen die Berliner Schule (*Tangerine Dream*, *Klaus Schulze*), **Krautrock** (*Can*) und psychedelische Legenden wie *Hawkwind* und *Pink Floyd*. Stell dir vor, du fährst auf einem Surfbrett durch eine Nebelwolke. "Espaço 3" ist weniger ein "Song" als vielmehr eine pulsierende, kosmische Lavalampe für deine Ohren. Es ist trippig, meditativ und perfekt, wenn du für eine Stunde vergessen möchtest, dass die Erde existiert.
 
 ::genre::psych rock, space rock, krautrock, improvisation, instrumental
+
+## Циферблат - Melankholiia
+
+Ein dynamisches Trio aus Kiew, Ukraine, bestehend aus den Brüdern Daniil (Gesang) und Valentyn Leshchynskyi (Gitarre) sowie dem Schlagzeuger Fedir Khodakov. Sie sind Meister des **Art-Rock** und **Alternative Rock** und werden oft für ihre progressive Herangehensweise gelobt. Ihr Sound ist eine raffinierte Mischung aus 80er-Jahre-**Synth-Pop**, **Indie-Rock** und theatralischer Energie, was Vergleiche mit einer modernen, ukrainisch angehauchten Interpretation von *Pink Floyd* oder sogar japanischem City-Pop hervorruft. Wie der Name schon sagt, ist es ein Eintauchen in die schöne Traurigkeit. Es ist filmisch und üppig - stell dir vor, du gehst durch eine regnerische Stadt, in der sich Neonlichter in den Pfützen spiegeln, während jemand in der Nähe auf einem sehr teuren Synthesizer spielt. Es ist stimmungsvoll, aber so ausgefeilt, dass man trotz der Tränen tanzen möchte.
+
+::genre::alt rock, prog rock, synth pop, indie rock, art rock
