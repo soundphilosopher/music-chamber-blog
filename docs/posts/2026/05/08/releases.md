@@ -1072,7 +1072,7 @@ tbd
 
 ::genre::
 
-## Zsela, Daniel Aged, and Taul Katz - 4 Dreams
+## Zsela, Daniel Aged, Taul Katz - 4 Dreams
 
 tbd
 
