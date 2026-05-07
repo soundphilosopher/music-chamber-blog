@@ -14,25 +14,19 @@ tbd
 
 ::genre::
 
-## [Ahmed] - Play Monk
-
-tbd
-
-::genre::
-
 ## A Forest Of Stars - Stack Overflow In Corpse Pile Interface
 
 tbd
 
 ::genre::
 
-<!-- more -->
-
 ## A Plague Of Lighthouse Keepers - Towers Of Silence
 
 tbd
 
 ::genre::
+
+<!-- more -->
 
 ## Abigail Lapell - Shadow Child
 
@@ -250,12 +244,6 @@ tbd
 
 ::genre::
 
-## Darkthrone - Pre-Historic Metal
-
-tbd
-
-::genre::
-
 ## Daughn Gibson - Lake Mary Not Mysterious
 
 tbd
@@ -269,12 +257,6 @@ tbd
 ::genre::
 
 ## Deb Never - ARCADE
-
-tbd
-
-::genre::
-
-## Deimos' Dawn - Live To The Slaughter
 
 tbd
 
@@ -323,12 +305,6 @@ tbd
 ::genre::
 
 ## Fire-Toolz - Lavender Networks
-
-tbd
-
-::genre::
-
-## Francis Heery - Garry Kasparov vs. Deep Blue
 
 tbd
 
@@ -472,12 +448,6 @@ tbd
 
 ::genre::
 
-## Jason Mraz - Grandma’s Gospel Favorites
-
-tbd
-
-::genre::
-
 ## John Hollenbeck - Looking for Consonance
 
 tbd
@@ -497,12 +467,6 @@ tbd
 ::genre::
 
 ## Jonny Greenwood, Shye Ben Tzur, The Rajasthan Express - Ranjha
-
-tbd
-
-::genre::
-
-## Josh Groban - CINEMATIC
 
 tbd
 
@@ -574,12 +538,6 @@ tbd
 
 ::genre::
 
-## Laurie Anderson, Sexmob - Let X=X
-
-tbd
-
-::genre::
-
 ## Linda Perry - Let It Die Here
 
 tbd
@@ -641,12 +599,6 @@ tbd
 ::genre::
 
 ## Max Cooper - Feeling Is Structure
-
-tbd
-
-::genre::
-
-## Mess - Somos Mess
 
 tbd
 
@@ -935,12 +887,6 @@ tbd
 ::genre::
 
 ## The Quill - Master Of The Skies
-
-tbd
-
-::genre::
-
-## Thee Johnny Casino Syndicat - Une Nuit A Rennes
 
 tbd
 
