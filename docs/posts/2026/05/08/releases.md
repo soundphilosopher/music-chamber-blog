@@ -816,183 +816,171 @@ tbd
 
 ## Namasenda - Limbo
 
-tbd
+Als ehemaliges Mitglied des wegweisenden Londoner Labels PC Music erlangte Namasenda in der Hyperpop-Szene der frühen 2020er Jahre Bekanntheit, bevor sie zum schwedischen Label YEAR0001 wechselte. **Hyperpop** / **Alt-Pop** / **Eurotrance**. Das Album, das als ihr persönlichstes Werk beschrieben wird, trifft genau den perfekten Mittelweg zwischen Club-Euphorie und unverfälschtem Bekenntnis. Es wurde von einem All-Star-Team produziert, darunter Noonie Bao und Oscar Scheller. "Limbo" ist ein stroboskopbeleuchtetes Tagebuch. Es ist das, was passiert, wenn die Party zu Ende ist und man immer noch Glitzer trägt, während man eine existenzielle Krise durchlebt. Mit Tracks wie dem Eurotrance-lastigen "Miami Crest" ist es energiegeladen genug, um als Soundtrack für eine Rave-Party zu dienen, aber ehrlich genug, um jeden Aspekt ihres Kontrollverlusts spürbar zu machen.
 
-::genre::
+::genre::hyperpop, alt pop, trance
 
 ## Navah Sea, Braxton Cook, Saxton Chef - What Do I Know Now?
 
-tbd
+Navah Sea bewegt sich häufig im Bereich des Ambient House und des experimentellen Pop, während Braxton Cook ein am Konservatorium ausgebildeter Saxophonist und Sänger ist, der eine Brücke zwischen Jazz und R&B schlägt. **Experimenteller Ambient-Jazz** / **Alternativer R&B**. Das Projekt verbindet Cooks gefühlvolles Saxophon und seinen Gesang mit Seas atmosphärischer, ausgefallener Produktion. Die Single "Barcelona" gibt einen Vorgeschmack auf diesen genreübergreifenden Surrealismus. Diese Platte klingt wie ein Jazzclub in einer Wolke. Es ist Musik für späte Nachtfahrten für Menschen, denen normales Radio zu laut ist. Zwischen Cooks sanften Bläsersätzen und Seas glitchigen, verträumten Klanglandschaften entsteht ein wunderschönes, raffiniertes Durcheinander, das das Nichtstun wie hohe Kunst erscheinen lässt.
 
-::genre::
-
-## Neil Diamond - Wild at Heart
-
-tbd
-
-::genre::
-
-## Nicholas Krgovich - Boss Tape
-
-tbd
-
-::genre::
+::genre::ambient jazz, experimental jazz, alt r&b
 
 ## Night Vigil - The Ritual
 
-tbd
+Eine feste Größe in der Extreme-Metal-Szene des pazifischen Nordwestens. Sie lassen sich vom Blackened Death Metal von *Behemoth* und der atmosphärischen, von der Furchteinflößung der Natur geprägten Schwere von *Wolves in the Throne Room* inspirieren. **Blackened Death Metal** / **Doom**. Ihr Sound zeichnet sich durch tiefe, raue Vocals, Tremolo-Gitarren und massive, schwerfällige Breakdowns aus. Dieses Album ist eine einfache Fahrt in einen dunklen Wald mitten in einem Schneesturm. Es ist laut, aggressiv und unverhohlen grandios. Es ist zeremonieller Metal, der sich anfühlt, als sollte er in einer Höhle bei Fackelschein aufgeführt werden. Es ist die Art von Heavy Metal, die nicht nur deine Lautsprecher zum Vibrieren bringt - sie lässt deine Seele vibrieren.
 
-::genre::
+::genre::blackened death metal, doom metal
 
 ## Noah Meites - COUNTING
 
-tbd
+*Meites* ist ein Komponist und Multiinstrumentalist, der fest in der zeitgenössischen klassischen und experimentellen Szene von Los Angeles verwurzelt ist. Sein Werk ist geprägt vom amerikanischen Minimalismus (man denke an *Steve Reich* oder *Philip Glass*) und der strukturellen Strenge math-y Sequenzen. **Avantgarde** / **Minimalismus** / **Experimentelle Klassik**. Das Album ist eine konsequente Auseinandersetzung mit Rhythmus und Wiederholung, wobei häufig unkonventionelle Perkussions- und Blasinstrumente eingesetzt werden, um hypnotische, sich entwickelnde Muster zu schaffen. Wenn Sie schon immer einmal hören wollten, wie ein Supercomputer klingt, wenn er versucht, ein Wiegenlied zu schreiben, dann ist dies genau das Richtige. Es ist präzise, etwas kühl, aber seltsam süchtig machend. Es ist Gehirnmusik, die einen zwingt, sich auf ihre innere Logik einzulassen - perfekt für tiefe Konzentration oder um intensiv auf eine Tabellenkalkulation zu starren, bis sich die Zahlen zu bewegen beginnen.
 
-::genre::
+::genre::modern classic, avant electronica, minimal electronica, experimental electronica
 
 ## Nocturnal Departure - Spiritual Cessation
 
-tbd
+Als Kultfavorit in der internationalen Black-Metal-Underground-Szene hat sich dieses Quartett seit seinem Durchbruchalbum "Clandestine Theurgy" aus dem Jahr 2022 zu einer aufstrebenden Kraft entwickelt. Dieses Album markiert das Debüt der neuen Mitglieder Folterer (Gitarre) und Hexzul (Schlagzeug). **Raw Black Metal**, verwurzelt in der Second Wave der 90er Jahre. Stellt euch rasante Blastbeats, schrille, bissige Schreie und düstere Melodien vor, inspiriert von den grundlegenden Klängen des norwegischen und nordamerikanischen Black Metal. Das ist der Sound einer widerwärtigen Weite. Es ist ihr bisher dynamischster und professionellster Abstieg in die Leere. Es ist aggressiv, schnell und unangenehm kalt - perfekt, wenn man das Gefühl haben will, von etwas Uraltem und Hungrigem durch einen kanadischen Schneesturm gejagt zu werden.
 
-::genre::
+::genre::raw black metal
 
 ## Old Moon - Home To Nowhere
 
-tbd
+Das Projekt wurde vom Multi-Instrumentalisten *Michael Priest* (ehemals *Idolatrous*) ins Leben gerufen und begann 2024 als Solo-Studio-Projekt, bevor es sich zu einer vollwertigen Live-Band entwickelte. **Post-Black Metal** / **Melodic Death Metal**. Musikalisch haben sie mehr Gemeinsamkeiten mit europäischen Atmosphärik-Bands wie *Ellende* und *Harakiri for the Sky* als mit ihren amerikanischen Kollegen und legen den Schwerpunkt auf traumhafte Gitarrenmelodien. Dieses Album ist eine klangliche Erkundung des Gefühls der Sehnsucht nach etwas, das nicht mehr existiert. Es ist zutiefst emotional und trägt einen ironischen Titel, der persönlichen Verletzungen und Bedauern einen Raum gibt. Es trifft genau den Sweet Spot, an dem aggressiver Metal auf filmische Schönheit trifft - wie ein langer, kalter Spaziergang durch einen Wald, den man seit seiner Kindheit nicht mehr besucht hat.
 
-::genre::
+::genre::post black metal, melo death metal
 
 ## Olof Dreijer - Loud Bloom
 
-tbd
+*Dreijer* ist als eine Hälfte des Elektronik-Duos *The Knife* und als Produzent hinter einem Großteil der gefeierten Werke von *Fever Ray* legendär. Er veröffentlichte jahrelang Underground-Techno unter dem Namen *Oni Ayhun*, bevor er mit diesem Solo-Debüt ins Rampenlicht trat. **Experimental Dance** / **Global Club** / **House**. Das Album ist stark von den Werken der nigerianischen Autorin Akwaeke Emezi beeinflusst und versucht, die westliche Hegemonie durch die Zusammenarbeit mit internationalen Künstlern wie der sudanesischen Sängerin MaMan und der südafrikanischen MC Toya Delazy in Frage zu stellen. Stell dir vor, ein Garten würde in einem Synthesizer wachsen. "Loud Bloom" ist Freude als Form des Protests - es ist farbenfroh, beschwingt und voller verspielter Melodien, die sich anfühlen, als würden sie nach dem Sonnenlicht greifen. Es ist eine Meisterklasse in globalen Polyrhythmen, die komplexe, progressive Themen so natürlich wie einen Herzschlag wirken lässt.
 
-::genre::
+::genre::edm, dance, techno, deep house, acid house
 
 ## Overkhaos - Embracing Change
 
-tbd
+Ein etablierter Name in der europäischen Progressive-Szene, bekannt für technische Präzision und komplexe Arrangements. **Progressive Metal**. Sie verbinden schwere, math-y Riffs mit melodischen, schwebenden Vocals und atmosphärischen Synth-Texturen. Wenn du Metal magst, der sich wie ein rasantes Puzzle anfühlt, bist du bei *Overkhaos* genau richtig. Er ist raffiniert, komplex und macht seinem Namen alle Ehre, indem er sich auf sich entwickelnde Strukturen stützt. Es ist intelligenter Metal, der dennoch genug Power hat, um deinen Kopf trotz aller Taktwechsel ständig mitwippen zu lassen.
 
-::genre::
+::genre::prog metal
 
 ## Panopticon - Det hjemsøkte hjertet
 
-tbd
+Lunn ist ein produktiver Multi-Instrumentalist, der seine Musik bekanntlich aus Protest gegen die Werbeauswahl von Spotify von der Plattform entfernt hat. Dieses Album ist der letzte Teil einer konzeptionellen Trilogie. **Atmosphärischer Black Metal** / **Folk** / **Post-Rock**. Erwarte vernichtende Black-Metal-Intensität gepaart mit traditionellen Bluegrass-Instrumenten wie Pedal Steel, Lap Steel und Holzflöte. Das ist Wilderness Metal auf seinem Höhepunkt. Es ist eine 66-minütige Reise durch verschneite Wälder und innere Unruhe. Es ist brutal, wunderschön und zutiefst filmisch - die Art von Platte, die dich dazu bringt, eine Hütte im Wald zu bauen, nur um sie in ihrer natürlichen Umgebung hören zu können.
 
-::genre::
+::genre::post black metal, atmo black metal, folk metal, post metal
 
 ## Ray Bull - Please Stop Laughing
 
-tbd
+Das Duo lernte sich während seines Bildenden-Kunst-Studiums an der Cooper Union kennen. Nach ihrem Debüt im Jahr 2021 und einem riesigen Erfolg auf TikTok sind sie zu musikalischen Chamäleons geworden, die dafür bekannt sind, hochkarätige visuelle Elemente mit eingängigen Hooks zu verbinden. Eine ausgefeilte Mischung aus 80er-Jahre-**Synth-Pop**, 70er-Jahre-Laurel-Canyon-**Folk** und modernem **Indie-Rock**. Stellt euch den melodischen Witz von *The Strokes* gemischt mit den üppigen Harmonien der *Beach Boys* vor. Dieses Album fühlt sich an wie eine Identitätskrise, zu der man tanzen kann. In einem Moment ist es eine mandolinenlastige Folk-Hymne, im nächsten ein glänzender Pop-Kracher. Es fängt dieses spezifische New Yorker Cool ein und bleibt dabei spielerisch selbstironisch - perfekt für alle, die ihre tiefgründigen Gedanken gerne mit einem eingängigen Refrain serviert bekommen.
 
-::genre::
+::genre::indie folk, indie rock, synth pop, alt folk
 
 ## Red Eye Temple - Purgatory City
 
-tbd
+Das Trio, das sich aus Veteranen der Rock-Szene von North Carolina zusammensetzt, hat sich mit seiner einzigartigen Mischung aus Heavy Rock und okkulten Themen eine kultartige Fangemeinde aufgebaut. **Psychedelic Rock** / **Doom Metal** / **Grunge**. Sie lassen sich von der schrägen Atmosphäre von *Jane’s Addiction*, der Wucht von *Alice In Chains* und dem psychedelischen Dunst von *The Doors* inspirieren. Willkommen in "Purgatory City", wo die Gitarren laut sind und die Stimmung stets mitternächtlich. Dieses Album fühlt sich an wie ein neonbeleuchteter Noir-Film, der in einer Wüste spielt. Es ist gruselig, groovig und hat eine Prahlerei, die den meisten Doom-Bands fehlt. Es ist der perfekte Soundtrack für eine Mitternachtsfahrt durch eine Stadt, die niemals schläft (und vielleicht heimgesucht wird).
 
-::genre::
+::genre::psych rock, doom metal, post grunge, alt metal
 
 ## Relent - SUFFER
 
-tbd
+Eine energiegeladene Band, die sich im Rahmen des aktuellen Nu-Metal-Revivals schnell einen Namen gemacht hat. Bekannt für ihre aggressive, aber positive Botschaft, haben sie sich einen Ruf für intensive Live-Auftritte und unverfälschte, ehrliche Texte erarbeitet. **Nu-Metal** / **Rap-Core**. Stark beeinflusst von den Titanen der frühen 2000er Jahre wie *P.O.D.*, *Linkin Park* und *Limp Bizkit*, mischen sie schwere Grooves mit Hip-Hop-Flair und massiven melodischen Refrains. "SUFFER" ist wie ein Adrenalinstoß direkt ins Herz. Es ist laut, provokativ und zutiefst ehrlich in Bezug auf die Herausforderungen des modernen Lebens. Zwischen den rasanten Strophen und den erderschütternden Breakdowns ist es ein Album, das dir helfen soll, deine Probleme zu überwinden, anstatt vor ihnen davonzulaufen.
 
-::genre::
+::genre::nu metal
 
 ## Restless Spirit - Restless Spirit
 
-tbd
+Ursprünglich als Trio gegründet, hat sich diese Band jahrelang im Underground hochgearbeitet und sich von einer rauen Stoner-Rock-Band zu einer komplexeren, kraftvollen Größe in der amerikanischen Metal-Szene entwickelt. **Stoner Doom** / **Sludge Metal**. Als wichtigste Inspirationsquellen nennen sie Legenden wie *Black Sabbath*, *Type O Negative* und *The Obsessed*. Ihr Sound zeichnet sich durch massive, verzerrte Riffs, melancholische Melodien und eine düstere, sumpfige Atmosphäre aus. Dieses Album ist ein Autounfall in Zeitlupe - im besten Sinne. Es ist dicht, schwer und getränkt von einer New Yorker Düsternis, die sich anfühlt wie eine feuchte Nacht in einer verwunschenen Gasse. Wenn du Riffs magst, die sich wie eine Gewichtsdecke anfühlen, ist dies dein neues Lieblingsalbum.
 
-::genre::
+::genre::stoner metal, sludge metal, doom metal
 
 ## Rexoria - Fallen Dimension
 
-tbd
+*Rexoria*, ein Schwergewicht der Royal-Metal-Szene, hat sich seit ihrem Debüt im Jahr 2018 zu einer aufstrebenden Kraft im europäischen Metal entwickelt. Sie lassen sich von der klassischen schwedischen Melodic-Metal-Tradition inspirieren und verbinden die Kraft von *Battle Beast* mit den folkigen Melodien von *Nightwish*. **Melodic Metal** / **Power Metal**. Freut euch auf die kraftvollen Vocals von Frida Ohlin, mitreißende Refrains und zweigitarrige Harmonien, die wie geschaffen für die große Bühne sind. Dieses Album ist ein glorreiches, mitreißendes Abenteuer. Es klingt wie ein High-Fantasy-Roman, der mit einem modernen Heavy-Metal-Budget zum Leben erweckt wurde. Vom Gastauftritt von Johnny Gioeli bis hin zu explosiven Tracks wie "Metallic Rain" ist es ein Album, das es schafft, sowohl technisch beeindruckend als auch unglaublich unterhaltsam zu sein - perfekt für alle, die ihren Metal mit einer Prise epischer Erzählkunst genießen möchten.
 
-::genre::
+::genre::power metal, melo metal
 
 ## Royal & the Serpent - Emptiness Is Godly
 
-tbd
+*Santiago*, bekannt für ihren viralen Hit "Overwhelmed" aus dem Jahr 2020, ist eine Art-Pop-Entdeckerin, die seit Jahren konzeptionelle EPs wie die Rat-Trap-Reihe veröffentlicht. Sie verbindet eine neurotische lyrische Ehrlichkeit mit energiegeladenen, multisensorischen Auftritten. **Alt-Pop** / **Art-Pop** / **Electropop**. Das Album wird als multisensorisches Erlebnis beschrieben, angeführt von Singles wie "Favorite Person" und "Fiona". Diese Platte ist eine wunderschön kontrollierte Explosion. *Royal & the Serpent* schaffen es, dass den Verstand verlieren wie die beste Party der Stadt klingt. Es ist glatt und filmisch, doch unter den Pop-Hooks verbirgt sich eine raue, schroffe Seite, die sich vollkommen menschlich und unangenehm vertraut anfühlt.
 
-::genre::
+::genre::electropop, alt pop, art pop
 
-## Rumo Plum - Bloom Again
+## rumo plum - Bloom Again
 
-tbd
+*runo plum* ist eine Indie-Folk-Musikerin, die mit ihrem Debütalbum patching aus dem Jahr 2025 große Aufmerksamkeit erlangte. Ihr Schaffen ist tief in der Lo-Fi- und Bedroom-Pop-Szene verwurzelt und schöpft aus persönlichen Reflexionen, Liebeskummer und emotionaler Heilung. **Alternative Folk** / **Indie Rock**. Diese EP wird als melancholische Akustik-Sammlung beschrieben, die die zarte Offenbarung neuer Liebe und die Unvermeidbarkeit des Heilungsprozesses einfängt. Sie ist das musikalische Äquivalent einer ersten Frühlingsblume, die sich durch den Schnee drängt. Sie ist ruhig, zerbrechlich und von intensiver Intimität - größtenteils in einem Heimstudio aufgenommen, aber durch den Mitwirkenden Philip Brooks mit einer magischen Tiefe versehen. Es ist heilende Musik, die nicht nur davon erzählt, dass es einem besser geht; sie klingt wie der tatsächliche Moment, in dem man erkennt, dass alles wieder gut wird.
 
-::genre::
+::genre::alt folk, mellow folk, indie folk
 
 ## Saasta - Cesspool
 
-tbd
+Saasta wurden 2021 gegründet und haben sich schnell zu einem Namen entwickelt, den man in der finnischen Extreme-Underground-Szene im Auge behalten sollte. Sie schlagen eine Brücke zwischen **Sludge**, **Grindcore** und **Death Metal** und nennen den dreckigen Sound von *Eyehategod* sowie die technische Präzision von *Napalm Death* als ihre wichtigsten Inspirationsquellen. Death-Sludge / **Crust Punk**. Ihr Sound ist langsam, schlammig und unglaublich aggressiv, unterbrochen von plötzlichen Ausbrüchen von Grindcore-Geschwindigkeit. Der Titel "Cesspool" hält, was er verspricht. Dieses Album ist ein schmutziges, erstickendes Kriechen durch die Kanalisation. Es ist schwer genug, um Asphalt zu zerbrechen, und düster genug, um deine Stimmung auf die bestmögliche Weise zu ruinieren. Es ist das perfekte klangliche Äquivalent eines wirklich schlechten Tages - laut, wütend und unerbittlich trostlos.
 
-::genre::
+::genre::crust, death metal, sludge metal, grindcore
 
 ## Sabotør - Første Aksjon
 
-tbd
+Ein neues Power-Trio aus der fruchtbaren norwegischen Punk- und Garagenrock-Szene. Sie knüpfen an die energiegeladene Scandi-Rock-Tradition von *The Hellacopters* und *Turbonegro* an, gemischt mit der rohen, politischen Schärfe der frühen *Kvelertak*. **Action Rock** / **Punk’n’Roll**. Schnell, laut und komplett auf Norwegisch gesungen, konzentriert sich die Musik auf Geschwindigkeit, Biss und lokale Rebellion. Das ist benzingetränkter Rock’n’Roll. Es ist der Sound eines Fluchtautos, das durch einen Fjord rast. Es ist kurz, knackig und überzieht es nicht - nur vier Tracks purer, unverfälschter Energie, die Lust machen, einen Aufstand anzuzetteln oder zumindest eine Jeansjacke zu kaufen.
 
-::genre::
+::genre::punk rock, rock'n'roll
 
 ## sace6 - brutalist
 
-tbd
+*sace6* ist ein aufstrebender Vertreter der Hard-Trap- und Tread-Szene. Dieses Projekt schöpft aus der rauen, minimalistischen Ästhetik der brutalistischen Architektur und ist geprägt von der rohen Energie des Phonk der frühen 2000er Jahre sowie der industriellen Wucht von Künstlern wie Scarlxrd. **Industrial Trap** / **Dark Phonk** / **Experimenteller Hip-Hop**. Der Sound wird geprägt von verzerrten 808s, glitched-out Vocal-Chops und einer kalten, strukturellen Atmosphäre. Diese Platte klingt wie ein Betonhochhaus, das einen Albtraum hat. Sie ist scharf, schwer und bewusst unbehaglich. Wenn du dir schon immer Musik gewünscht hast, die sich anfühlt wie ein kalter, grauer Nachmittag in einer Hightech-Dystopie, dann ist Brutalist deine neue Hymne. Es ist Anti-Melodie auf die coolste Art und Weise, die man sich vorstellen kann.
 
-::genre::
+::genre::experimental hip hop, industrial, phonk, trap
 
 ## Sacriversum - Before The Birth Of Light
 
-tbd
+Dies ist ein großes Comeback für eine der Kultlegenden der polnischen Metal-Szene der 90er Jahre. Die 1992 gegründete Band *Sacriversum* war ein Pionier des Gothic/Death-Metal-Crossovers. Diese neue Veröffentlichung ist ihr erstes neues Material seit zwei Jahrzehnten und ist geprägt von der symphonischen Dunkelheit von *Therion* und dem frühen Gothic Doom von *Paradise Lost*. **Symphonic Gothic Metal**. Der Sound ist grandios und opernhaft, geprägt von orchestralen Arrangements, schweren Riffs und einer Mischung aus klarem und gutturalem Gesang. Das ist Vampir-Schloss-Metal, wie er sein soll. Er ist dramatisch, heavy und unverhohlen episch. Nach zwanzig Jahren im Schatten kehrt die Band mit einem Sound zurück, der größer und düsterer ist als je zuvor. Es fühlt sich an wie ein lange verschollenes Meisterwerk aus den 90ern, das versehentlich mit der Technologie von 2026 aufgenommen wurde - eine perfekte Mischung aus Nostalgie und moderner Kraft.
 
-::genre::
+::genre::gothic metal, symphonic death metal
 
 ## sadie - Better Angels
 
-tbd
+Die aufstrebende Singer-Songwriterin *sadie* hat sich in der britischen Indie-Szene mit ihren verletzlichen, an Tagebucheinträge erinnernden Texten einen Namen gemacht. Als wichtige Vorbilder nennt sie den Confessional Pop von *Phoebe Bridgers* und die üppige, von den 90er Jahren inspirierte Produktion von *Mazzy Star*. **Alt-Pop** / **Bedroom Pop** / **Dream Pop**. Freut euch auf intimen Gesang, verträumte Gitarrenklänge und Texte, die den Kampf darum thematisieren, in einer chaotischen Welt gut zu sein. "Better Angels" ist das musikalische Äquivalent zu einem tiefgründigen Gespräch mit eurer besten Freundin um 2 Uhr morgens. Es ist sanft, leicht melancholisch, aber letztendlich hoffnungsvoll. Sadie versteht es, ihre persönlichen Ängste universell wirken zu lassen, eingehüllt in Melodien, die so süß sind, dass man fast vergisst, dass sie einem das Herz bricht. Es ist Sad-Girl-Pop mit einem Silberstreif am Horizont.
 
-::genre::
+::genre::alt pop, bedroom pop, dreampop
 
 ## Sareban - Echoes in the Weave
 
-tbd
+*Sareban* ist ein experimentelles Projekt unter der Leitung des iranischen Multi-Instrumentalisten und Produzenten *Amir Sareban*. Seine Arbeit ist eine Schnittstelle zwischen traditioneller persischer Volksmusik und modernster westlicher Elektronikproduktion. Er lässt sich maßgeblich vom persischen *Radif* und der modularen Synthese von Künstlern wie *Alessandro Cortini* inspirieren. **Experimentelle Elektronik** / **Folktronica** / **IDM**. Das Album präsentiert traditionelle Instrumente wie Setar und Tar, die durch starke Glitch- und Ambient-Texturen verarbeitet wurden. Diese Platte ist wie ein digitaler Webstuhl, der aus Laserstrahlen einen Seidenteppich webt. Sie ist zutiefst meditativ, trägt aber eine nervöse Energie in sich, die einen auf Trab hält. Es fühlt sich an, als würde alte Geschichte direkt in das Gehirn heruntergeladen - ein klanglicher Wandteppich, der ebenso schön wie technisch komplex ist.
 
-::genre::
+::genre::experimental electronica, folktronica, idm
 
 ## Scarab - Transmutation Of Fate
 
-tbd
+Ägyptens legendärster Export im Bereich des Extreme Metal. Die Band feiert ihr 20-jähriges Bestehen und gilt als Meister des Ancient Egyptian Death Metal - beeinflusst von der brutalen Erhabenheit von Nile, jedoch mit einem eher ritualistischen, atmosphärischen Ansatz. **Atmosphärischer / ritualistischer Death Metal**. Das Album greift neoglyphische Konzepte und alte phonetische Beschwörungsformeln auf, um einen Sound zu schaffen, der ebenso sehr eine Zeremonie wie eine EP ist. Dies ist nicht nur eine EP; es ist eine klangliche Ausgrabung. Sie ist dicht, erdrückend und unglaublich grandios. *Scarab* nutzt Death Metal, um ein Tor zur antiken Welt zu öffnen, sodass man das Gefühl hat, die Pyramiden selbst würden vor Verzerrung zu summen beginnen. Es ist ritualistische Verwüstung, die die meisten anderen Metal-Bands so klingen lässt, als würden sie nur in einer Garage spielen.
 
-::genre::
+::genre::atmo death metal, ritual music
 
 ## Scraper - Infinite Journey
 
-tbd
+*Scraper* wurden 2016 im Ruhrgebiet gegründet und haben ein Jahrzehnt damit verbracht, einen intellektuellen Ansatz für Metal zu verfeinern. Sie verbinden die mechanische, kalte Intensität von *Voivod* mit der aggressiven Technizität der frühen *Kreator*. **Progressive Thrash** / **Melodic Death Metal**. Es handelt sich um ein Sci-Fi-Konzeptalbum, das die Entwicklung einer selbstbewussten künstlichen Intelligenz auf ihrer Reise durch den Weltraum thematisiert. Dieses Album ist wie eine Hochgeschwindigkeitsjagd durch eine neonbeleuchtete Cyber-Zukunft. Es ist dicht, hämmernd-schwer und wunderbar nerdig. Zwischen den verdrehten Akkordfolgen und der Handlung über Maschinen, die Bewusstsein erlangen, ist es der perfekte Soundtrack für alle, die sich Musik wünschen, die wie ein waffenfähiger Laserstrahl klingt.
 
-::genre::
+::genre::prog thrash metal, melo death metal
 
 ## Sins Of Shadow - The Last Frontier
 
-tbd
+Als eine der führenden Kräfte der französischen Traditional-Metal-Szene legt die Band hier ihr drittes Studioalbum vor. Sie ist stark von den Legenden der New Wave of British Heavy Metal - man denke an *Iron Maiden* und *Saxon* - beeinflusst, verbindet dies jedoch mit der technischen Härte von *Megadeth* und der melodischen Vielschichtigkeit von *Symphony X*. **Progressive Power Metal** / Traditional **Heavy Metal**. Es besticht durch den kraftvollen Gesang von Tasos Lazaris und die charakteristischen Twin-Gitarren-Harmonien, die an *Thin Lizzy* erinnern. Wenn ihr schon immer einmal hören wolltet, was passiert, wenn französische Eleganz auf eine Ladung 1980er-Jahre-Lederjacken-Energie trifft, dann ist dies genau das Richtige. Es ist ein Album, auf dem jeder Song ein Hit ist, das komplex genug für Prog-Fans ist, aber auch eingängig genug für alle, die einfach nur den Refrain aus voller Kehle mitsingen wollen.
 
-::genre::
+::genre::nwobhm, prog metal, power metal
 
 ## Social Distortion - Born to Kill
 
-tbd
+Dies ist ihr erstes Studioalbum seit 15 Jahren, nachdem sich Frontmann Mike Ness von seiner Mandelkrebserkrankung erholt hat. Die Band gilt nach wie vor als Maßstab für Cowpunk und verbindet Rock’n’Roll der 1950er Jahre mit der rauen Punk-Attitüde der 1970er Jahre. **Punkrock** / **Rock’n’Roll**. Freuen Sie sich auf ihre klassische Mischung aus melodischer Rebellion und lebensmüder Härte. Das Warten war länger als eine Gefängnisstrafe, aber "Born to Kill" beweist, dass Mike Ness immer noch den schärfsten Knurrer der Branche hat. Es ist pure Rock-Wut - drängend, rau und zutiefst gefühlvoll. Es klingt nach Lederjacken, billigem Whiskey und Überleben. Nach 40 Jahren ist Social Distortion immer noch der Boss des OC.
 
-::genre::
+::genre::punk rock, rock'n'roll
 
 ## Solar Mantra - State Of Joyful Lightness
 
-tbd
+Die 2017 gegründete Band stand bereits mit *Orange Goblin* und *Mondo Generator* auf der Bühne. Ihr zweites Album markiert eine Hinwendung zu einem dunkleren, härteren Sound, inspiriert von *Kyuss*, *Queens of the Stone Age* und *Clutch*. **Stoner Rock** / **Grunge** / **Psych-Rock**. Es verbindet dichte, verzerrte Wüsten-Grooves mit rauer Grunge-Spannung. Dieses Album ist wie eine schwere, violette Wolke, die über die italienische Landschaft zieht. Es ist laut, summend und trifft mit einer mürrischen Intensität, die sich viel geerdeter anfühlt als ihr Debüt. Es ist der perfekte Soundtrack für eine lange Fahrt durch die Wüste, bei der es einem nichts ausmacht, sich ein wenig in der Verzerrung zu verlieren.
 
-::genre::
+::genre::post grunge, psych rock, stoner rock, desert rock
 
 ## Stephen Sanchez - Love, Love, Love
 
-tbd
+Nachdem ihn sein Durchbruchshit "Until I Found You" zu einer Retro-Pop-Ikone gemacht hat, entfernt sich Sanchez nun von dem Troubadour-Charakter der 1950er Jahre, den er auf seinem Debütalbum "Angel Face" verkörperte. Für dieses Album lässt er sich vom Motown-Soul der 1960er Jahre und der Agape-Liebe (bedingungslose Liebe für die gesamte Menschheit) inspirieren, die er dem Film "Selma" und *Dr. Martin Luther King Jr.* verdankt. **Moderner Retro-Pop** / **Soul**. Während er seinen charakteristischen Crooner-Stil beibehält, ist der Sound technicolor-artiger und beschwingter als bei seinen früheren Werken. Wenn Sie schon immer einmal hören wollten, wie es klingt, sich zu verlieben, während man buchstäblich durch einen Regenbogen spaziert, dann ist dies genau das Richtige. Es ist lebhaft, optimistisch und unglaublich eingängig. Es tauscht den Herzschmerz der 50er gegen die hoffnungsvollen Grooves der 60er Jahre ein und ist damit der ultimative Soundtrack für alle, die noch an die guten alten Zeiten der Romantik glauben.
 
-::genre::
+::genre::retro soul, alt pop, prog pop
 
 ## Still Living - Ashes
 
