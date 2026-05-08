@@ -252,75 +252,69 @@ tbd
 
 ## Cola - Cost of Living Adjustment
 
-tbd
+Gegründet von ehemaligen Mitgliedern der gefeierten Band *Ought* (Tim Darcy und Ben Stidworthy) zusammen mit dem Schlagzeuger Evan Cartwright. **Post-Punk** und **Art-Rock**. Das Album zeichnet sich durch straffe, kantige Gitarrenklänge und Sprechgesang aus, wobei diese Platte im Vergleich zu ihren früheren minimalistischen Werken einen melodischeren und maximalistischeren Klang aufweist. "Cost of Living Adjustment" ist das Rockalbum für Denker. Es behandelt große Themen wie Kapitalismus vs. Sozialismus und behält dabei einen Groove bei, der tatsächlich ziemlich schön und üppig ist. Es ist anspruchsvoll, aber nicht langweilig - stell es dir wie ein sehr cooles, leicht abstraktes Gemälde vor, zu dem man tatsächlich tanzen kann. Es ist die perfekte Stimmung für einen regnerischen Nachmittag in einer Buchhandlung, an dem man versucht, intellektueller zu wirken, als man eigentlich ist.
 
-::genre::
+::genre::art rock, post punk
 
 ## Comastatic - LIVE FAST DIE YOUNG
 
-tbd
+Ein dynamisches Duo aus Zürich, das die Aufmerksamkeit von Hopeless Records auf sich zog, nachdem es mit namhaften Produzenten wie Stevie Knight und Matt Malpass zusammengearbeitet hatte. **Alternative Rock**, **Pop-Punk** und **Rapcore**. Die Band sprengt Genregrenzen und mischt energiegeladene Riffs mit elektronischen Elementen und Gastbeiträgen von Künstlern wie *Point North* und *Yours Truly*. Dieses Album ist im Grunde genommen ein Zuckerschock in akustischer Form. Es ist laut, es ist rebellisch und es will definitiv nicht früh ins Bett gehen. Mit Tracks wie "American Nightmare" und "Self Sabotage" fängt es diese hektische, im Moment lebende Energie ein, die jung und ein bisschen chaotisch ist. Es ist die Art von Platte, die Lust macht, sich die Haare in einer knalligen Farbe zu färben und mit dem Skateboard in den Sonnenuntergang zu fahren.
 
-::genre::
+::genre::alt rock, pop punk, power pop, rap rock
 
 ## Conjuring - Memento Mori
 
-tbd
+Es handelt sich um ein Ein-Mann-Projekt unter der Leitung des Multi-Instrumentalisten *Alvar*. Er übernimmt alle Instrumente und den Gesang und widmet sich dabei Themen wie der Sterblichkeit und dem ewigen Kreislauf der Natur. **Atmosphärischer Black Metal**. Er verbindet melancholische Tremolo-Passagen mit eindringlichen, von der Natur inspirierten Klanglandschaften. Fans von stimmungsvollem, landschaftsbezogenen Metal werden hier Ähnlichkeiten zum Cascadian-Stil erkennen, jedoch mit einer ausgeprägten alpinen Kühle. Das Anhören dieser Platte ist, als würde man sich in einem Schneesturm auf einem Schweizer Gipfel verirren - aber auf eine seltsam friedliche Art und Weise. Es ist andächtige Musik für Outdoor-Fans, die einen düsteren Wald einem sonnigen Strand vorziehen. Die Produktion ist klar, aber die Emotionen sind roh, was sie zum perfekten Soundtrack macht, um auf ein beschlagenes Fenster zu starren und über die Vergänglichkeit des Lebens nachzudenken.
 
-::genre::
+::genre::atmo black metal
 
 ## Conscious Pilot - Human Poultry
 
-tbd
+Als aufstrebende Größe in der britischen Indie-Szene sind sie bekannt für ihre rasanten Live-Auftritte und Texte, die die Absurdität des modernen Lebens mit trockenem schottischem Humor auf den Punkt bringen. **Post-Punk** und **Art-Rock**. Ihre Einflüsse reichen von der nervösen Energie von *Gang of Four* bis hin zur modernen Spoken-Word-Intensität von *The Murder Capital* oder *Fontaines D.C.*. Bei einem Titel wie "Human Poultry" weiß man schon, dass man etwas leicht Verrücktes erwartet. Diese EP ist eine zuckende, nervöse und brillante Sammlung von Songs, die klingen, als wären sie während einer Koffeinüberdosis geschrieben worden. Sie ist kantig, sie ist rhythmisch und sie ist sehr, sehr clever. Sie ist der perfekte Soundtrack, um schnell durch eine überfüllte Stadt zu laufen, während man sich vage über alle um einen herum ärgert.
 
-::genre::
-
-## Cortex - Cortex, Vol. 1
-
-tbd
-
-::genre::
+::genre::post punk, art rock
 
 ## Crashdïet - Art of Chaos
 
-tbd
+Die im Jahr 2000 gegründete Band hat zahlreiche Besetzungswechsel und persönliche Schicksalsschläge überstanden und ist nach wie vor die unangefochtene Nummer eins der schwedischen Underground-Szene. Dieses Album setzt ihre Serie energiegeladener Big-Hair-Hymnen fort. **Sleaze Rock** und **Glam Metal**. Sie sind die Fahnenträger der New Wave of Swedish Sleaze und stark beeinflusst von 80er-Legenden wie *Mötley Crüe*, *Skid Row* und *Guns N’ Roses*. Wenn Lederhosen, verschmierter Eyeliner und fragwürdige Lebensentscheidungen einen Sound hätten, wäre es dieser. Art of Chaos ist laut, provokant und herrlich eingängig. Es ist die Art von Musik, die Lust macht, mit einem Cabrio durch eine Mauer zu fahren, während man etwas Kohlensäurehaltiges in Neonfarben trinkt. Es ist ein totaler Rückblick, der sich im Jahr 2026 irgendwie perfekt zu Hause fühlt.
 
-::genre::
+::genre::sleaze rock, glam metal
 
 ## Croz Boyce - Croz Boyce
 
-tbd
+*Boyce* ist eine aufstrebende Größe in der Melbourner Underground-Szene und bekannt für seine witzigen, beobachtungsreichen Texte über den Alltag, miese Jobs und billiges Bier. **Pub-Rock**, **Post-Punk** und australischer **Garage-Rock**. Man stelle sich die rohe Energie von *The Chats* gemischt mit der erzählerischen Rauheit von *Courtney Barnett* vor. Diese Platte fühlt sich an wie ein chaotischer Freitagabend in der Stammkneipe. Sie ist ungeschliffen, laut und unglaublich charmant. Boyce singt über Dinge aus dem echten Leben mit einer - Nimm es oder lass es - Einstellung, die ansteckend ist. Es ist die Art von Musik, die Lust macht, ein Pint zu verschütten, den Refrain mitzuschreien und zu vergessen, dass man am Montag zur Arbeit muss. Es ist ehrlicher Rock mit einem starken australischen Akzent.
 
-::genre::
+::genre::post punk, garage rock
 
 ## Cyborg Zero - Zero
 
-tbd
+Ein anonymes Elektronik-Projekt, das sich in der Synthwave-Underground-Szene dank seiner konzeptionell anspruchsvollen Erzählweise und seiner robotischen Ästhetik eine Kult-Anhängerschaft erobert hat. **Darksynth**, **Cyberpunk** und **EBM**. Stark beeinflusst von Science-Fiction-Soundtracks der 80er Jahre (man denke an Blade Runner) und modernem **Industrial-Techno**. Setz deine coolste Sonnenbrille auf - es spielt keine Rolle, ob es Mitternacht ist. Dieses Album klingt wie eine Hochgeschwindigkeitsjagd durch eine neongetränkte dystopische Stadt. Die Basslines sind schwer genug, um eine kleine Cyborg-Armee anzutreiben, und die Synthesizer sind scharf genug, um Glas zu schneiden. Es ist der perfekte Soundtrack, um sich in einen Mainframe zu hacken oder einfach nur so zu tun, als wärst du viel cooler, als du tatsächlich bist.
 
-::genre::
+::genre::dark synth, ebm, industrial, techno
 
 ## Darko - Oni 2
 
-tbd
+Ein Super-Duo bestehend aus dem Sänger Tom Barber (*Chelsea Grin*) und dem Multi-Instrumentalisten Josh Miller (ex-*Emmure*/*Spite*). Sie sind bekannt als reines Studio-Projekt, das unglaublich komplexe, selbst produzierte Musik veröffentlicht. **Deathcore** trifft auf **Industrial**/**Experimental**. Ein chaotischer Mix aus technischem **Mathcore**, schweren Synthesizer-Klängen und Nu-Metal-Attitüde. "Oni 2" ist, als wäre man in einem glitchigen Videospiel gefangen, in dem der Endgegner eine defekte Kettensäge ist. Es ist laut, es ist verwirrend, und man hat das Gefühl, als würde das eigene Gehirn defragmentiert. In einem Moment ist es pure, furchterregende Aggression; im nächsten eine seltsam schöne elektronische Klanglandschaft. Es ist das musikalische Äquivalent einer digitalen Panikattacke, und man wird jede Sekunde davon lieben.
 
-::genre::
+::genre::deathcore, modern metalcore, mathcore
 
 ## Darkthrone - Pre-Historic Metal
 
-tbd
+*Fenriz* und *Nocturno Culto* sind die Begründer des True Norwegian Black Metal, doch in den letzten zwei Jahrzehnten haben sie sich zu einer lebenden Enzyklopädie des Underground-Metals der 80er Jahre gewandelt. **Black Metal**, **Speed Metal** und traditioneller **Heavy Metal**. Das ist eine Zeitmaschine für Metal-Nerds. Es ist roh, es ist krustig, und es klingt, als wäre es in einem feuchten norwegischen Keller mit einem einzigen Mikrofon aus den 1970er Jahren aufgenommen worden - und genau deshalb ist es großartig. Es fängt jenen Moment ein, als die Band vom Death Metal zu dem kalten Sound überging, der eine ganze Generation prägte. Es ist nicht raffiniert, es ist prähistorisch - hässlich, primitiv und für die Kult-Anhänger absolut unverzichtbar.
 
-::genre::
+::genre::heavy metal, speed metal, black metal
 
 ## Daughn Gibson - Lake Mary Not Mysterious
 
-tbd
+*Gibson*, ehemals Schlagzeuger der Stoner-Metal-Band Pearls and Brass, hat sich einer Solokarriere zugewandt, in der er Elvis-artiges Crooning mit Lynch-artigen, beunruhigenden Klanglandschaften verbindet. **Experimenteller Indie**, **Alt-Country** und **Americana Noir**. Gibson ist bekannt für seine Baritonstimme aus der Tiefe und den Einsatz unheimlicher Samples und elektronischer Loops. Sich durch "Lake Mary Not Mysterious" zu hören, fühlt sich an, als hätte man eine verstaubte VHS-Kassette eines alten Cowboyfilms gefunden, die mit Industrielärm überspielt wurde. Es ist düster, verführerisch und zutiefst seltsam. Gibsons Stimme klingt, als würde sie aus einer verwunschenen Jukebox in einer Raststätte am Rande der Welt widerhallen. Es ist das perfekte Album für nächtliche Autofahrten, bei denen man sich ziemlich sicher ist, von einem UFO verfolgt zu werden.
 
-::genre::
+::genre::alt folk, desert noir, americana, experimental folk, indie folk
 
 ## Dazr - Do Or Die
 
-tbd
+*Dazr* hat sich schnell zu einem festen Bestandteil der florierenden australischen Hardcore-Szene entwickelt und ist bekannt für ihren unerbittlichen Tourplan und ihre Vollgas-ohne-Bremsen-Herangehensweise beim Songwriting. **Hardcore-Punk** mit einer kräftigen Prise NYHC-Einfluss. Es ist schnell, aggressiv und basiert auf No-Nonsense-Energie. Diese Platte ist ein zehnminütiger Espresso-Schuss, der per Kopfstoß verabreicht wird. Sie ist schnell, laut und hält sich nicht länger auf, als sie willkommen ist. Wenn du plötzlich das Bedürfnis hast, durch eine Mauer zu rennen oder von einer Bühne zu springen, ist "Do Or Die" deine offizielle Erlaubnis. Es ist sauer Musik für Leute, die keine Zeit für lange Gitarrensoli haben.
 
-::genre::
+::genre::hardcore punk
 
 ## Deb Never - ARCADE
 
