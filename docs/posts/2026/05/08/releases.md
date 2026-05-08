@@ -34,12 +34,6 @@ tbd
 
 ::genre::
 
-## Abuser - Blood Marks
-
-Ein brutales Trio (mittlerweile ein Quartett) aus Polen, das ursprünglich 2018 von Mitgliedern von Bands wie *Miecz* und *Raging Death* gegründet wurde. Wilder, riffgetriebener **Thrash Metal**. Stark beeinflusst von den Big Three des deutschen Thrash der 80er Jahre (*Kreator*, *Sodom*, *Destruction*) und der rohen Aggression von *Morbid Saint* und *Demolition Hammer*. Pure, unverfälschte Energie, die einem wie ein Nagel in den Körper hämmert. Rebellisch, adrenalingeladen und wunderbar frei von kommerziellem Schnickschnack. Wenn du eine 36-minütige Strafzettel in Audioform suchst, die den rohen, ungezügelten Geist eines Teenagers einfängt, der gerade eine alte Kassette entdeckt hat, dann ist das hier genau das Richtige.
-
-::genre::thrash metal
-
 ## Acolythus - Unearthly Kingdoms ‘Neath Lifeless Stars
 
 tbd
@@ -330,75 +324,69 @@ tbd
 
 ## Deb Never - ARCADE
 
-tbd
+*Deb Never*, die früher mit BROCKHAMPTON und Dominic Fike zusammengearbeitet hat, war jahrelang ein Kultliebling in der Sad-Girl-Pop-Szene, bevor sie nun endlich ihr Debütalbum veröffentlichte. **Alternative Pop** und **Lo-Fi-Indie**. Ihr Sound verwischt Genregrenzen und verbindet stimmungsvolle **Alternative-Rock**-Texturen der 90er Jahre mit modernem **Bedroom Pop** und **Trap**-beeinflussten Rhythmen. Nach Jahren voller EPs beschert uns Deb nun endlich das volle cineastische Erlebnis. "ARCADE" fühlt sich an, als würde man um 3 Uhr morgens durch eine neonbeleuchtete Stadt fahren, während man sich ein wenig einsam, aber unglaublich cool fühlt. Es hat diese spontane LA-Energie - mal schwebend und süß, mal rau und isoliert. Es ist die Art von Platte, die das in seinem Kopf sein wie einen hochbudgetierten Indie-Film wirken lässt.
 
-::genre::
+::genre::indie pop, lofi, alt pop, bedroom pop, trap
 
 ## Defier - Trauma Model
 
-tbd
+Entstanden aus einer Außenseiter-Mentalität, legt die Band Wert auf Authentizität und Widerstand gegen gesellschaftliche Normen und verbindet ihre Musik oft mit einer ganz eigenen Ästhetik. Dark Hardcore und Post-Metal. Sie schöpft aus der erdrückenden Schwere von Bands wie Amenra oder Cult of Luna, gemischt mit der rohen, dissonanten Aggression des modernen europäischen Hardcore. Trauma Model ist so fröhlich wie ein regnerischer Montag auf einem Friedhof. Es ist heavy, aber nicht im Sinne von „Lasst uns moshen“ – eher im Sinne von „Lasst uns über unsere kollektive existenzielle Angst nachdenken“. Die Riffs sind dicht, der Gesang klingt, als würde er durch Glas gezogen, und die Atmosphäre ist herrlich erdrückend. Es ist der perfekte Soundtrack, um eine Wand anzustarren und Dinge sehr tief zu empfinden.
 
-::genre::
+::genre::deathcore, djent
 
 ## Dems Fightin Words - Worldwide Beatdown
 
-tbd
+Seit 2022 haben sie sich einen Namen als eine der härtesten Bands der Underground-Szene im Mittleren Westen gemacht und sind bekannt für energiegeladene Singles wie "Catch a Brick" und "No Excuse". Purer **Beatdown-Hardcore**. Stark beeinflusst von der Missouri-Hardcore-Szene, mit langsamen, gnadenlosen Breakdowns und aggressivem Gesang im Street-Style. Diese EP ist das musikalische Äquivalent eines Klappstuhls ins Gesicht. Worldwide Beatdown schert sich weder um deine Gefühle noch um deine körperliche Unversehrtheit. Sie ist speziell für Leute gedacht, die einen Konzertsaal in eine Baustelle verwandeln wollen. Wenn du Musik magst, die sich wie ein regelrechter Kampf anhört, ist dies deine Goldmedaille.
 
-::genre::
+::genre::beatdown, metallic hardcore
 
 ## DISRUPTR - ESOTERIA
 
-tbd
+Die Bandmitglieder sind alte Hasen der australischen Tech-Metal-Szene und haben jahrelang daran gearbeitet, einen Sound zu perfektionieren, der mathematische Präzision mit roher, kehliger Aggression verbindet. **Progressiver Deathcore** mit **Djent**-Elementen. Man stelle sich technisch anspruchsvolle Percussion vor, gemischt mit kosmischen, Science-Fiction-artigen Synthesizern. "ESOTERIA" ist im Grunde eine Übertragung aus einer fernen, wütenden Galaxie. In einem Moment wird man von einem Breakdown getroffen, der sich wie eine tektonische Verschiebung anfühlt, und im nächsten schwebt man durch ein verträumtes Synth-Solo aus dem Weltraumzeitalter. Es ist intelligenter Metal - die Art von Musik, für deren Spiel man drei Doktortitel braucht, aber nur ein funktionierendes Ohr, um zu erkennen, wie hart sie ist.
 
-::genre::
+::genre::prog metalcore, deathcore, djent
 
 ## DOOMSCOPE - THE STATIC BLINDFOLD
 
-tbd
+Ein relativ neues Projekt, das aus der Underground-Szene der Ostküste hervorgegangen ist und für seine hochintensiven, von Feedback durchdrungenen Live-Auftritte bekannt ist. **Industrial** **Sludge** und Downtempo-**Hardcore**. Stark beeinflusst von den rauen Texturen des Industrial der 90er Jahre und der erdrückenden Schwere des modernen Slow-Motion-Metals. Diese Platte klingt, als würde eine Fabrik langsam von einer hydraulischen Presse zermalmt. Sie ist hässlich, laut und auf entzückende Weise klaustrophobisch. Das static im Titel ist kein Scherz - über Riffs, die sich mit der Geschwindigkeit abkühlender Lava bewegen, liegen Schichten elektronischen Rauschens. Es ist die Art von Musik, die einen dazu bringt, den Fernseher zerschlagen zu wollen, aber auf eine sehr rhythmische, kathartische Weise.
 
-::genre::
+::genre::modern metalcore, nu metalcore, nu metal, alt metal
 
 ## Draconian - In Somnolent Ruin
 
-tbd
+Die 1994 gegründete Band ist seit langem eine feste Größe des Genres. Dieses Album markiert ein bedeutendes Comeback der Sängerin Lisa Johansson, deren ätherische Stimme erneut mit Anders Jacobssons tiefen Growls verschmilzt. Meister des **Gothic-Doom-Metal**. Diese Veröffentlichung setzt ihren charakteristischen "Beauty and the Beast"-Gesangsstil fort und verbindet vernichtende Doom-Riffs mit melancholischen, klagenden Melodien. Dies zu hören ist wie ein langer, langsamer Spaziergang durch einen viktorianischen Friedhof inmitten des Novembernebels. Es ist herrlich trostlos. Die Gitarren wiegen eine Tonne, die Atmosphäre ist so dicht, dass man darin versinken könnte, und Lisas Gesang spendet gerade genug Licht, um die Dunkelheit besonders unheimlich wirken zu lassen. Es ist der perfekte Soundtrack, wenn man sich gleichzeitig poetisch und am Boden zerstört fühlen möchte.
 
-::genre::
+::genre::gothic metal, doom metal
 
 ## Drown In Malice - Amnesie & Hysterie
 
-tbd
+Die seit 2016 aktive Indie-Band beschäftigt sich mit Themen wie Gesellschaft, inneren Konflikten und dem modernen Leben. Ihr Sound ist **Metalcore** mit Einflüssen aus **Melodic Death Metal**, **Hardcore** und **Post-Metal**. Nachdem sie zwei Jahre lang mit dem Versprechen - Es kommt bald - geworben hatten, hat die Band nun endlich dieses Werk voller organisierten Chaos veröffentlicht. Es ist eine konzeptlastige EP, die sich mit allem befasst - von KI über Fleischkonsum bis hin zum allgemeinen Wahnsinn der modernen Gesellschaft. Erwarte Klappern, Stöhnen und Grollen auf die bestmögliche Art und Weise - im Grunde das musikalische Äquivalent einer Midlife-Crisis, die sich mitten in einem Moshpit abspielt.
 
-::genre::
+::genre::metalcore, post metal, melo death metal
 
-## Electric Sun Defence - Estuary
+## Electric Sun Defence - Estuary *
 
-tbd
+Ein Duo bestehend aus Pete Colquhoun (Schlagzeug) und Joe Cormack (Gesang/Instrumente). Sie sind aus den Überresten der schottischen Band *The Massacre Cave* hervorgegangen. Ihr Stil wird als **Progressive Post-Metal** oder Dirty Progressive beschrieben. Für Fans von *Mastodon*, *Baroness* und *Psychonaut*. "Estuary" fühlt sich an, als würde man versuchen, mit einem Kajak durch einen Sturm zu paddeln und dabei einen Zauberwürfel zu lösen. Es ist komplex, schwindelerregend und herrlich dreckig. Die Musik fängt genau dieses Gefühl ein, gegen eine Strömung anzukämpfen, die man nicht kontrollieren kann - sie wechselt von ruhigen, schwebenden Melodien zu plötzlichen, nervösen Ausbrüchen, die wie eine unerwartete Welle einschlagen. Es ist die Prog-Flagge, die hoch über den regnerischen Straßen von Glasgow weht.
 
-::genre::
-
-## Endless Floods - Passages
-
-tbd
-
-::genre::
+::genre::prog metal, post metal
 
 ## Eradikated - Wiring Of Violence
 
-tbd
+Früher bekannt als *The Generations Army* (2014–2021), änderten sie ihren Namen in Eradikated und erhielten für ihr Debütalbum sofort eine Nominierung für den schwedischen Grammy. Moderner **Thrash Metal** mit starkem Old-School-Einfluss der 80er Jahre. Wenn du die Zeiten vermisst, als es beim Thrash noch um halsbrecherische Geschwindigkeit und präzise, chirurgische Riffs ging, ist dies dein neues Lieblingsalbum. Es ist ein Gemetzel von einem Album, das es schafft, sowohl klassisch als auch frisch zu klingen, und damit beweist, dass schwedischer Metal noch immer jede Menge Biss hat.
 
-::genre::
+::genre::thrash metal
 
 ## Erection - Plug It In
 
-tbd
+Angeführt von Punk-Queen Julia hat die Band für dieses Album einen Schwergewichtler am Schlagzeug: Vom Ritchie von der legendären deutschen Band Die Toten Hosen. **Power-Punk** mit Attitüde und **Punk’n’Roll**. Das ist purer, unverfälschter Spaß. Es ist laut, frech und dafür gedacht, bei maximaler Lautstärke gespielt zu werden. Mit Vom Ritchie am Schlagzeug ist die Energie ansteckend - perfekt für alle, die finden, dass Punk immer noch ein bisschen gefährlich und ziemlich laut sein sollte.
 
-::genre::
+::genre::punk rock, power pop
 
-## Exploding Head Syndrome - Deathbeds
+## Exploding Head Syndrome - Deathbeds *
 
-tbd
+Die Band wurde 2010 von Sänger Eirik und Gitarrist Morten gegründet, die bereits in den 90er Jahren zusammen gespielt hatten und sich im Alter von 30 Jahren bei einem alkoholreichen Moment wieder zusammenfanden, um eine Band zu gründen. Seitdem tourten sie durch Europa und traten bei großen Festivals wie dem Punk Rock Holiday auf. Eine energiegeladene Mischung aus **Hardcore-Punk** und melodischem **Skate-Punk**. Stellt euch die rohe Aggression einer Keller-Schlägerei vor, gemischt mit den eingängigen, mitreißenden Refrains, die man auf einem Tony-Hawk-Soundtrack finden würde. "Deathbeds" ist ihr bisher kompromisslosestes Werk - denkt an wütenden Punk mit einer philosophischen Schärfe.
 
-::genre::
+::genre::skatepunk, melo hardcore
 
 ## Fateful Finality - Desolation
 
