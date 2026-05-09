@@ -220,17 +220,29 @@ Ein produktiver Saxophonist und Komponist, der in der europäischen Szene anerka
 
 ::genre::contemporary jazz
 
+## CHASE WRIGHT - CHASING SHADOWS
+
+Ein aufstrebender Künstler aus Nashville. Dies ist sein drittes Studioalbum, das in einer Zeit des Wandels, der Heilung und seiner neuen Rolle als Vater entstanden ist. **Country-Pop** und **Modern Country**. *Chase Wright* nimmt uns mit auf eine Reise von Herzschmerz zur Heilung. "Chasing Shadows" ist verletzlich, ehrlich und voller Songs, die sich anfühlen wie nächtliche Reflexionen im Rückspiegel. Es geht darum, loszulassen, wer man war, um herauszufinden, wer man sein soll - im Grunde ein 51-minütiger Leitfaden, wie man einen Sturm übersteht und auf der anderen Seite mit einem wirklich guten Refrain wieder herauskommt.
+
+::genre::country folk, alt pop, alt folk
+
 ## Chinese American Bear - Dim Sum & Then Some
 
 Ein Ehepaar, bestehend aus Anne Tong (klassische Klavierausbildung) und Bryce Barsten (Fan von MGMT und Sly Stone). Dies ist ihr drittes Studioalbum, das auf ihr zweites Album "Wah!!!" folgt. Eine spritzige, psychedelische Mischung aus **Indie-Pop** und **Mandopop**. Zu den Einflüssen zählen *The Flaming Lips*, *The Beach Boys* und *Dusty Springfield*, wobei die Band ihren Sound selbst als hätten sie ein Baby mit einem Care Bear beschreibt. Dieses Album ist wie ein zuckersüßer, neonfarbener Traum, in dem alles essbar ist und nichts wehtut. Es ist vollgepackt mit Songs über die einfachen Freuden - hauptsächlich Essen und lustiger, simpler Unsinn -, dargeboten mit trippigen Synthesizern und einem Lächeln. Es ist das musikalische Äquivalent eines Dim-Sum-Festmahls, bei dem die Teigtaschen einem Superkräfte verleihen.
 
-::genre::
+::genre::indie pop
 
 ## Chris Brown - Brown
 
 Sein zwölftes Solo-Studioalbum. Brown gewann kürzlich bei den Grammys 2025 den Preis für das beste R&B-Album für "11:11 (Deluxe)" und hat damit die Messlatte für dieses Nachfolgealbum hoch gelegt. Eine gewaltige Mischung aus 27 Tracks mit **R&B**, **Hip-Hop** und **Soul**. Der Titel ist gleichzeitig ein Akronym für "Break Rules Only When Necessary". Wenn Sie 92 Minuten Zeit haben, hat Chris Brown seinen Nachnamen in ein ganzes filmisches Universum verwandelt. Es ist eine Night of Soul, vollgepackt mit Gaststars wie *Lucky Daye*, *Bryson Tiller* und *GloRilla*. Das Cover ist eine direkte Hommage an Michael Jacksons "Thriller", und die Musik ist ebenso ambitioniert - sie reicht von Juke-Joint-Vibes der 1930er Jahre bis hin zu energiegeladenen Sommer-Club-Hymnen. Es ist im Grunde ein Festival in einem einzigen Download.
 
 ::genre::r&b, hip hop, neo soul
+
+## Chris Potter - Alive With Ghosts Today
+
+Als meisterhafter Saxophonist und Komponist leitet Potter ein beeindruckendes Ensemble, zu dem Bill Frisell (Gitarre), Nate Smith (Schlagzeug) und Sara Caswell (Violine) gehören. **Zeitgenössischer Jazz**, angereichert mit **Blues**, **Gospel**, afrikanischen Rhythmen und **Country**. Dies ist nicht nur eine Jazzplatte; es ist ein mythisches amerikanisches Porträt, gemalt mit Blech- und Holzblasinstrumenten. Sie ist kraftvoll, improvisiert und ein wenig eindringlich - die Art von Album, die das Gefühl vermittelt, dass Geschichte sich direkt hier im Raum mit dir abspielt. Im Grunde ist es eine Meisterklasse darin, wie man einen Kampf des 19. Jahrhunderts in einen Groove des 21. Jahrhunderts verwandelt.
+
+::genre::contemporary jazz, blues, gospel, country folk, improvisation
 
 ## Citizins - The Last Resort
 
@@ -334,6 +346,12 @@ Die Bandmitglieder sind alte Hasen der australischen Tech-Metal-Szene und haben 
 
 ::genre::prog metalcore, deathcore, djent
 
+## Donna Lewis, David Lowe - Wanderlust
+
+Eine Zusammenarbeit zwischen der Platin-Sängerin Donna Lewis (bekannt vor allem für "I Love You, Always Forever") und dem legendären Komponisten und Produzenten David Lowe (Schöpfer der BBC-News-Erkennungsmelodien und des Projekts *Touch and Go*). **Dream Pop** trifft auf **Indie-Electronica**. Das Album ist eine cineastische Reise, die in den nostalgischen Klängen der frühen 2000er-Jahre verwurzelt ist und sich durch schimmernde Synthesizer, hauchzarte Vocals und subtile Rave-Einflüsse auszeichnet. "Wanderlust" ist wie das Finden eines leuchtenden Polaroids in einer alten Rave-Jacke. Es ist ein analoger Seufzer nach einer langen Reise - intim, warm und herrlich stimmungsvoll. Tracks wie "Meet Me" fühlen sich an wie schwebende Momente im Scheinwerferlicht, die die Magie der Vorfreude einfangen, während die Synthesizer dich durch einen Traum tragen, von dem du nicht wusstest, dass du ihn träumst.
+
+::genre::dreampop, indietronica
+
 ## DOOMSCOPE - THE STATIC BLINDFOLD
 
 Ein relativ neues Projekt, das aus der Underground-Szene der Ostküste hervorgegangen ist und für seine hochintensiven, von Feedback durchdrungenen Live-Auftritte bekannt ist. **Industrial** **Sludge** und Downtempo-**Hardcore**. Stark beeinflusst von den rauen Texturen des Industrial der 90er Jahre und der erdrückenden Schwere des modernen Slow-Motion-Metals. Diese Platte klingt, als würde eine Fabrik langsam von einer hydraulischen Presse zermalmt. Sie ist hässlich, laut und auf entzückende Weise klaustrophobisch. Das static im Titel ist kein Scherz - über Riffs, die sich mit der Geschwindigkeit abkühlender Lava bewegen, liegen Schichten elektronischen Rauschens. Es ist die Art von Musik, die einen dazu bringt, den Fernseher zerschlagen zu wollen, aber auf eine sehr rhythmische, kathartische Weise.
@@ -357,6 +375,12 @@ Die seit 2016 aktive Indie-Band beschäftigt sich mit Themen wie Gesellschaft, i
 Ein Duo bestehend aus Pete Colquhoun (Schlagzeug) und Joe Cormack (Gesang/Instrumente). Sie sind aus den Überresten der schottischen Band *The Massacre Cave* hervorgegangen. Ihr Stil wird als **Progressive Post-Metal** oder Dirty Progressive beschrieben. Für Fans von *Mastodon*, *Baroness* und *Psychonaut*. "Estuary" fühlt sich an, als würde man versuchen, mit einem Kajak durch einen Sturm zu paddeln und dabei einen Zauberwürfel zu lösen. Es ist komplex, schwindelerregend und herrlich dreckig. Die Musik fängt genau dieses Gefühl ein, gegen eine Strömung anzukämpfen, die man nicht kontrollieren kann - sie wechselt von ruhigen, schwebenden Melodien zu plötzlichen, nervösen Ausbrüchen, die wie eine unerwartete Welle einschlagen. Es ist die Prog-Flagge, die hoch über den regnerischen Straßen von Glasgow weht.
 
 ::genre::prog metal, post metal
+
+## Elifantree - Florescence
+
+Ein Trio bestehend aus Anni Elif Egecioglu (Gesang/Synthesizer), Pauli Lyytinen (Saxophon/Synthesizer) und Olavi Louhivuori (Schlagzeug). Seit über einem Jahrzehnt loten sie die Grenzen dessen aus, wie ein Jazz-Trio tatsächlich klingen kann. **Experimenteller Pop**, **Jazz** und **Avantgarde**. Ihr Sound ist eine chaotisch-und-doch-kontrollierte Mischung aus glitchiger Elektronik, schwebendem Gesang und komplexer Percussion. "Florescence" ist genau das, wonach es klingt: ein Klanggarten, der im Schnellvorlauf erblüht. Er ist wild, farbenfroh und ein wenig unvorhersehbar. Anni Elifs Stimme schwebt über einem Meer aus blubbernden Synthesizern und hektischen Drums, die sich wie ein Neon-Gewitter anfühlen. Es ist Kunsthochschul-Musik, zu der man sich tatsächlich bewegen kann - man muss nur darauf vorbereitet sein, dass sich die Rhythmen schneller ändern als die eigene Stimmung.
+
+::genre::experimental pop, avant jazz
 
 ## Eradikated - Wiring Of Violence
 
@@ -670,6 +694,12 @@ Eine Multi-Instrumentalistin, die von der DIY-Szene in LA in die gitarrenlastige
 
 ::genre::shoegaze, dreampop, alt rock
 
+## Legacy Pilots - Camera Obscura Volume 1
+
+Das Projekt des Multi-Instrumentalisten Frank Us, Legacy Pilots, ist dafür bekannt, ein Who’s Who der Prog-Legenden zu versammeln. Auf diesem Album sind Mitglieder von *Spock’s Beard*, *Kansas* und *The Flower Kings* als Gastmusiker zu hören. **Progressive Rock** und **Neo-Prog**. Beeinflusst von der melodischen Komplexität von *Genesis*, *ELP* und *Steely Dan*. Das ist intelligenter Rock mit einem Herz aus Gold. "Camera Obscura" ist wie eine Meisterklasse darin, wie man zwanzig Instrumente gleichzeitig spielt, ohne dass es chaotisch klingt. Es ist ausgefeilt, technisch anspruchsvoll und enthält genug Keyboard-Soli, um eine kleine Stadt mit Strom zu versorgen. Wenn Sie Musik mögen, die mehr Taktarten hat als eine Uhrenfabrik, hat Frank Us Ihre neue Lieblingsbesessenheit geschaffen.
+
+::genre::prog rock, neo prog rock
+
 ## Linda Perry - Let It Die Here
 
 *Perry*, die ursprünglich Frontfrau der Band *4 Non Blondes* war, hat jahrzehntelang als erfolgreiche Songwriterin für Stars wie Pink, Christina Aguilera und Gwen Stefani gearbeitet. Dies ist ihr erstes Solo-Studioalbum seit 27 Jahren. **Dark Folk-Rock** / **AOR**. Das Album dient als Begleitwerk zu einer gleichnamigen Dokumentation und ist stark geprägt von der rauen, ungeschliffenen Energie des Grunge der 90er Jahre sowie von der emotionalen Last, die der Tod ihrer Mutter hinterlassen hat. Diese Platte ist eine polierte Blues-Reise durch Trauer und Selbstfindung. Es ist kein glattes Pop-Album; es ist ein viszeraler, 17 Titel umfassender Marsch durch Dämonen und Erinnerungen, der so verletzlich klingt wie ein blanker Nerv. Es ist der Klang einer Frau, die 30 Jahre lang anderen half, ihre Stimme zu finden, und nun endlich ihre eigene wiederentdeckt.
@@ -777,6 +807,12 @@ Sie sind ein neuer Name in der norwegischen Szene und geben mit diesem Album ihr
 Als ehemaliges Mitglied des wegweisenden Londoner Labels PC Music erlangte Namasenda in der Hyperpop-Szene der frühen 2020er Jahre Bekanntheit, bevor sie zum schwedischen Label YEAR0001 wechselte. **Hyperpop** / **Alt-Pop** / **Eurotrance**. Das Album, das als ihr persönlichstes Werk beschrieben wird, trifft genau den perfekten Mittelweg zwischen Club-Euphorie und unverfälschtem Bekenntnis. Es wurde von einem All-Star-Team produziert, darunter Noonie Bao und Oscar Scheller. "Limbo" ist ein stroboskopbeleuchtetes Tagebuch. Es ist das, was passiert, wenn die Party zu Ende ist und man immer noch Glitzer trägt, während man eine existenzielle Krise durchlebt. Mit Tracks wie dem Eurotrance-lastigen "Miami Crest" ist es energiegeladen genug, um als Soundtrack für eine Rave-Party zu dienen, aber ehrlich genug, um jeden Aspekt ihres Kontrollverlusts spürbar zu machen.
 
 ::genre::hyperpop, alt pop, trance
+
+## Nautilus - Sunken Scores
+
+Unter der Leitung des Schlagzeugers *Toshiyuki Sasaki* hat sich Nautilus zu einer festen Größe der modernen japanischen Jazzszene entwickelt und ist bekannt für seine Heavy-Soul-Interpretationen klassischer Stücke und eigenständiger, filmischer Kompositionen. **Cinematic Soul**, **Jazz-Funk** und Rare Groove. Diese Veröffentlichung ist stark von der Library-Musik der 1970er Jahre und von Soundtrack-Komponisten wie *Lalo Schifrin* und *Ennio Morricone* beeinflusst. "Sunken Scores" fühlt sich an, als hätte man eine verlorene 16-mm-Filmrolle auf dem Meeresgrund gefunden. Es ist geheimnisvoll, groovig und sehr, sehr cool. Die Basslinien sind tief genug, um Sonarstörungen zu verursachen, und die Bläsersätze schlagen ein wie ein U-Boot, das mitten in einem Funk-Club auftaucht. Es ist der perfekte Soundtrack für einen Raubüberfall, den du gerade in deinem Kopf planst.
+
+::genre::neo soul, cine jazz, acid funk
 
 ## Navah Sea, Braxton Cook, Saxton Chef - What Do I Know Now?
 
@@ -1213,6 +1249,12 @@ Alabaster DePlume International Anthem (Angus Fairbairn) ist ein in Manchester g
 Die Gruppe, die 2023 im Rahmen der Reality-Show *Last Evaluation* gegründet wurde, gilt als Vorreiter der 5. K-Pop-Generation und ist bekannt für ihre vielseitigen Fähigkeiten in den Bereichen Gesang, Rap und Tanz. Ihr Sound ist geprägt von **K-Pop**, **Hip-Hop** und zeitgenössischem **R&B**. Als wichtigste Einflüsse nennen sie ihre Labelkolleginnen *Blackpink* und *2NE1*. Getreu seinem Namen (Choom bedeutet auf Koreanisch "Tanz") ist dieser Track eine energiegeladene Einladung zum Tanzen. Er hat diesen typischen YG-Swagger - schwere Beats, eingängige Synthesizer und genug Energie, um eine kleine Stadt mit Strom zu versorgen. Er ist das klangliche Äquivalent eines neonbeleuchteten Tanzwettbewerbs.
 
 ::genre::k-pop, hip hop, trap, r&b
+
+## Blue Lab Beats - The Blue Lab Beats Show
+
+Das Grammy-gekrönte Duo besteht aus NK-OK (Namali Kwaten) und Mr DM (David Mrakpor). Dies ist ihr fünftes Studioalbum, das unabhängig unter ihrem eigenen Label Blue Adventure Records erschienen ist. **Jazz**, **Hip-Hop** und **Electronica**. Es ist eine 16-Track-Reise um die Welt, die Jazz-Fusion der 70er Jahre (die an *Azymuth* erinnert), brasilianischen **Progressive-Jazz** und den typischen Sound von New Orleans mit modernem Dancehall und britischem R&B verbindet. Diese Platte ist eine Party zum zehnjährigen Jubiläum, zu der jeder eingeladen ist. Da sie sich für den Independent-Weg entschieden haben, hatte das Duo die völlige Freiheit, eine riesige Riege von Freunden einzuladen - darunter Jamila Woods und Denzel Himself. Das Album ist geschmeidig, unglaublich clever und fühlt sich an wie eine Siegesrunde für zwei der fleißigsten Musiker Londons.
+
+::genre::prog jazz, hip hop, experimental electronica
 
 ## Burning Haze - House In The Dark
 
