@@ -8,12 +8,6 @@ categories:
 
 # Releases! Releases! Releases!
 
-## 2 Again - Coins, Currency, Tokens, And Other Related Objects
-
-*2 Again* ist der Künstlername des Sounddesigners und Produzenten Liam Vance. In der Londoner Underground-Szene ist er für seine akribischen Sampling-Techniken und für die Schaffung immersiver Audioinstallationen bekannt, die die Beziehung zwischen Menschen und ihren Werkzeugen erforschen. **Experimentelle Elektronik**, **IDM** und **Glitch**. Das Projekt ist stark von Found Sounds und den mechanischen Texturen physischer Objekte geprägt. Es lässt sich von den bahnbrechenden Werken von *Aphex Twin* und *Autechre* inspirieren und konzentriert sich auf die taktilen Klänge von Metall, Papier und digitalen Transaktionen. Hast du dich jemals gefragt, wie dein Portemonnaie klingt, wenn es eine Party feiert? "Coins, Currency, Tokens, And Other Related Objects" ist im Grunde ein hochkonzeptioneller Raubzug für deine Ohren. Es verwandelt das Klimpern von Kleingeld und das Rascheln eines Fünf-Pfund-Scheins in ein glitchiges, rhythmisches Meisterwerk. Es ist Pocket-Change-Techno vom Feinsten - die Art von Musik, die dir das Gefühl gibt, in einem futuristischen Automaten zu stecken, der nur coole Vibes akzeptiert.
-
-::genre::experimental electronica, idm, glitch
-
 ## A Forest Of Stars - Stack Overflow In Corpse Pile Interface
 
 Ein einzigartiges Kollektiv, bekannt für seine Gentleman’s Club Ästhetik. Nach einer langen Pause - in der sie angeblich ein fertiges Album verworfen haben, um von vorne anzufangen - ist dies ihr mit Spannung erwartetes Comeback. Theatralischer **Avantgarde-Metal** und **atmosphärischer Black Metal**. Sie sind bekannt dafür, viktorianische Bildsprache mit blasphemischen Synthesizern und psychedelischer Violine zu vermischen. Der Titel klingt wie ein viktorianischer Albtraum im technischen Support, und die Musik folgt diesem Beispiel. Sie ist komplex, eingängig und völlig aus den Fugen geraten - wie ein nordischer Berserker, der 1890 beschloss, eine Mädchenpension zu besuchen. Mit Songtiteln und Texten, die an verschreibungspflichtige Medikamente und rostige Nägel erinnern, ist es ein brillantes, dissonantes Durcheinander, das irgendwie wunderschöne Brücken mit einer Violine schlägt.
@@ -26,37 +20,31 @@ Ein Projekt mit Joost Verhagen (Gesang/Synthesizer) und Wouter Schaatsbergen (Gi
 
 ::genre::experimental metal, sludge, doom, post metal, free jazz, drone
 
-<!-- more -->
-
 ## Abigail Lapell - Shadow Child
 
 Eine Multi-Instrumentalistin und vierfache Gewinnerin des Canadian Folk Music Award. Dieses Album wurde von Colin Stewart produziert, während Lapell schwanger war. **Indie-Folk** und **Americana**. Beeinflusst von Künstlerinnen wie *Natalie Merchant* und *Gillian Welch*, mit schlichten akustischen Arrangements mit Baritongitarre, Klavier und Akkordeon. Dies ist ein Schwangerschaftszyklus in akustischer Form, aber erwarten Sie kein zuckersüßes Babysprechen. Es ist ein ehrlicher, manchmal eindringlicher Blick auf das Muttersein, der maritime Tragödien und kleine Kannibalen als Metaphern verwendet. Es ist schnörkellos, poetisch und perfekt zum Muttertag getimed - wie eine Novelle, die man sich anhören kann, während man auf ein Ultraschallbild oder ein regennasses Fenster starrt.
 
 ::genre::indie folk, americana, country folk
 
+<!-- more -->
+
 ## Acolythus - Unearthly Kingdoms ‘Neath Lifeless Stars
 
 Ein kraftvolles Projekt mit Mitgliedern von *Convulse*, *Sargassus* und *Jotungrav*. Das Album wurde bekanntlich in nur wenigen Wochen geschrieben und aufgenommen, um die rohe, reinste Form der Musik ohne moderne digitale Tricks einzufangen. Traditioneller finnischer **Black Metal**. Er verbindet geradlinige Aggression mit einem klassischen melodischen Ansatz und weckt Vergleiche mit *Emperor*, *Alghazanth* und *Behexen*. Wenn ihr euren Metal frei von jeglichen Bearbeitungen und Tricks mögt, ist Acolythus genau das Richtige, um euch einen Schlag in die Magengrube zu versetzen. Diese Platte ist wie eine Zeitmaschine zurück in den finnischen Underground der Mitte der 90er - sie ist schnell, böse und melodisch auf genau die richtige gruselige Burg Art. Es ist der Sound von echten Menschen, die echte Instrumente sehr, sehr aggressiv spielen, unter einem Himmel, an dem definitiv keine Sterne zu sehen sind.
 
-::genre::raw black metal, atmo black metal
+::genre::melo black metal
 
 ## Action Bronson - Planet Frog
 
 Dies ist Bronsons achtes Studioalbum, das seine Frog-Ära einläutet - eine kreative Neuausrichtung hin zu Mystik und Selbstreflexion. Produziert wurde es von Größen wie *Harry Fraud*, *Daringer* und *Bronson* selbst. Drumloser abstrakter **Hip-Hop**, **Jazz-Rap** und **Neo-Psychedelia**. Die Produktion ist minimalistisch, oft kommen Schlagzeuge gänzlich zum Einsatz, stattdessen liegt der Fokus auf Loops, Saxophon und Klavierarrangements. Bam Bam Baklava ist offiziell in seine RC-Car-Phase eingetreten, in der er vom Herrn und möglicherweise einem magischen Delfin gesteuert wird. "PLANET FROG" ist ein 33-minütiges Chill-Fest, vollgepackt mit mehr Eigennamen und Luxusreferenzen als ein Designerkatalog. Es ist die Art von Platte, die man hört, während man teures Chutney isst und New Balances in Erdtönen trägt. Introspektiv, schräg und herrlich trommel-frei.
 
-::genre::hip hop, jazz rap, psych
+::genre::experimental hip hop, jazz rap, psych
 
 ## Aghalmar - Ruin
 
 Ein Duo, das aus der Leere und lähmenden Stagnation der Pandemie hervorgegangen ist. Es bedurfte mehrerer Jahre konsequenter Arbeit zwischen 2023 und 2025, um dieses Debütalbum mit sieben Titeln fertigzustellen. **Post-Black Metal** und **Atmospheric Black Metal**. Das Album wird als rau, hart und einsam beschrieben, ist jedoch von melancholischer Schönheit und eindringlichen Melodien durchdrungen. "Ruin" ist der perfekte Soundtrack, wenn man durch einen nebligen deutschen Wald wandern und so tun möchte, als wäre man der letzte Mensch auf Erden. Es hat diese raue und einsame Atmosphäre perfekt auf den Punkt gebracht - indem es scharfe, frostige Riffs mit Momenten purer Traurigkeit mischt, die eigentlich ziemlich schön sind. Es ist im Grunde eine 47-minütige akustische Umarmung von einem sehr kalten, sehr lauten Geist.
 
 ::genre::post black metal, atmo black metal
-
-## Akira Uchida - Nusa
-
-*Uchida* ist ein Meister des Wechsels der Klangstimmungen. Mit "Nusa" vollendet er eine Trilogie, die mit "Sasanami" (2020) und "Kurayami" (2023) begann und in Zusammenarbeit mit dem Fotografen Masao Yamamoto entstand. **Ambient**, **zeitgenössische Klassik** und **Field Recordings**. Der Klang basiert auf dem Clavichord und dem Saxophon und verwebt zurückhaltende Melodien mit natürlichen Klangtexturen. Nusa ist im Grunde ein 40-minütiger Urlaub auf einer ruhigen, eisigen Insel in Hokkaido. Es ist das ultimative Album zum tiefen Durchatmen - mit dem zarten Klang eines Clavichords und Aufnahmen des Windes, die einem das Gefühl geben, zu schweben. Es ist meditativ, wunderschön und wohl das einzige Album dieser Woche, das tatsächlich den Blutdruck senken könnte.
-
-::genre::field recordings, ambient, modern classic
 
 ## Alarm! - Failure By Design
 
@@ -74,7 +62,7 @@ Dies ist ihr fünftes Studioalbum, das in den Rockfield Studios mit ihrem langj�
 
 Eine sechsmalige Grammy-Gewinnerin und eine Größe der amerikanischen Musikszene. Dies ist ihr erstes Album mit komplett neuem, eigenem Material seit 13 Jahren, nachdem sie sich von einer Herzoperation und einem schweren Fahrradunfall erholt hat. **Singer-Songwriter**in, **Pop** und zeitgenössische christliche Musik. Es ist ein reduziertes, ehrliches Projekt, das sich auf akustische Klänge und das Erzählen von Geschichten konzentriert. *Amy Grant* ist zurück und hat ein Sammelalbum ihres Lebens mitgebracht, um es uns zu zeigen. "The Me That Remains" ist ein klarer Blick auf das Überleben und die Gnade. Es gibt weniger Schnickschnack und mehr Seele - mit gemütlichen Duetten mit ihrem Ehemann Vince Gill und Freunden wie Michael W. Smith. Es ist, als säße man auf einer Veranda mit einem alten Freund, der einen Sturm überstanden hat und einfach nur froh ist, die Sonne zu sehen.
 
-::genre::alt folk, alt pop
+::genre::alt folk, alt pop, indie folk
 
 ## Anastasia Kristensen - Bestarium Sombre
 
@@ -90,9 +78,9 @@ Chiara Amalia Bernardini und Nicola Mora, früher bekannt als das Duo *KICK*, ar
 
 ## ARKWAVE - Chapter 1: Everyone Has A Story To Tell
 
-*ARKWAVE* ist ein konzeptorientiertes Projekt, das sich auf narrative Synthese konzentriert und mithilfe von Musik spezifische, charakterbasierte Geschichten in einem futuristischen Setting erzählt. **Cinematic Synthwave**, **Cyberpunk** und **Retrowave**. Stark beeinflusst von Filmmusik der 80er Jahre und dem story-driven Elektronikstil von Künstlern wie The Midnight. Dies ist nicht nur eine Sammlung von Songs; es ist eine Pilotfolge für eine Sci-Fi-Serie, die nur in deinen Ohren existiert. Kapitel 1 fühlt sich an, als würde man in einem fliegenden Auto durch eine Neonstadt fahren und dabei ein wenig wehmütig an die Vergangenheit denken. Die Synthesizer sind üppig, die Beats sind gleichmäßig, und das gesamte Erlebnis ist in eine storytelling-Atmosphäre gehüllt, die Lust auf Kapitel 2 macht.
+*ARKWAVE* hat seit 2024 in der Metalcore-Szene stetig an Dynamik gewonnen und zuvor die Single "CONSUME" sowie die EP "SHOW ME SOMETHING TO DIE FOR" veröffentlicht. Vorwiegend **Modern Metal**, **Metalcore** und **Electronica**. Die Band nennt eine Vielzahl von Inspirationsquellen, vom schweren, ätherischen Sound von *Spiritbox* über die einzigartige Pop-Produktion von *Billie Eilish* bis hin zur atmosphärischen Präsenz von *Sleep Token*. Stell dir vor, du liest das geheime Tagebuch einer anderen Person, doch statt Tinte auf Papier werden die Worte vor dem Hintergrund neonbeleuchteter Synthesizer und erderschütternder Breakdowns herausgeschrien. Chapter 1 fühlt sich an wie ein digitaler Beichtstuhl. Es ist stimmungsvoll, heavy und überraschend eingängig. Wenn du Musik suchst, zu der du headbangen und gleichzeitig über die Komplexität menschlicher Beziehungen nachdenken kannst, ist diese EP dein neuer Soundtrack. Es ist Metalcore mit Seele - perfekt für nächtliche Autofahrten, wenn du dich ein bisschen mehr als sonst wie die Hauptfigur fühlst.
 
-::genre::new retro wave, synth wave, synth pop
+::genre::modern metalcore, digicore
 
 ## Ashley McBryde - Wild
 
@@ -100,7 +88,7 @@ Ein Mitglied der Grand Ole Opry und Grammy-Gewinnerin. Dieses Album knüpft an i
 
 ::genre::country rock, country folk, bluegrass, americana
 
-## Baratro - No Comply
+## Baratro - No Comply *
 
 Ein Power-Trio mit Veteranen der italienischen Underground-Szene, darunter Mitglieder von *L'Amico di Martucci*. Sie sind bekannt für ihren mechanischen und erdrückend schweren Sound. **Noise Rock**, **Sludge** und **Hardcore**. Beeinflusst von der aggressiven Energie von *Unsane* und der rhythmischen Wucht der *Melvins*. "No Comply" ist das musikalische Äquivalent eines Industriebors, der auf einen Betonboden trifft. Es ist zerklüftet, laut und auf genau die richtige Art und Weise herrlich unangenehm. Der Titel suggeriert eine Weigerung, Regeln zu befolgen, und die Musik untermauert dies - sie wechselt von hektischen Hardcore-Ausbrüchen zu langsamen, quälenden Sludge-Passagen. Es ist Stressmusik für Menschen, die im Chaos Frieden finden.
 
@@ -136,23 +124,23 @@ Berge, zweifacher Gewinner des Spellemannprisen (norwegischer Grammy), hat 13 St
 
 ::genre::blues, roots rock
 
-## Black Milk - Ceremonial
+## Black Milk - Ceremonial *
 
 Black Milk, J Dillas Schützling und legendärer Produzent und Rapper, kehrt hier nach drei Jahren zum ersten Mal wieder ans Mikrofon zurück. Auf dem Album sind Gäste wie Saba, BJ The Chicago Kid und Ian Fink zu hören. Eine raffinierte Mischung aus **Hip-Hop**, **Soul** und **Jazz-Fusion**. Es zeichnet sich durch kräftige, luftzerreißende Drums, staubige Soul-Loops und komplexe Live-Keyboardklänge aus. "Ceremonial" anzuhören ist wie ein Spaziergang durch ein Lagerhaus in Detroit, in dem eine Live-Jazzband sich eine Schlägerei mit einer Drum-Machine liefert - und beide gewinnen. Es ist majestätisch und doch rau, klingt wie ein Session-Tape, bei dem niemand den Musikern gesagt hat, sie sollen aufhören, nachdem das rote Licht erloschen ist. Es ist sanft genug für eine nächtliche Autofahrt, hat aber genug Dreck drauf, um den Kopf tagelang nicken zu lassen.
 
-::genre::hip hop, soul, jazz fusion
+::genre::hip hop, soul, jazz fusion, acid funk
 
 ## Black Orchid Empire - Lore
 
 Ein Power-Trio (Paul, Dave und Billy), das für seine unglaublich präzisen, energiegeladenen Auftritte bekannt ist. Durch ihr technisches Können und ihre konzeptionelle Tiefe haben sie sich eine treue Fangemeinde aufgebaut. **Progressive Metal** und **Technical Rock**. Ihr Sound ist wild und komplex, beeinflusst von japanischer Folklore und düsteren Erzählungen. "Lore" ist ein intelligentes, technisches Meisterwerk, das dennoch nicht an Durchschlagskraft einbüßt. Es ist von Folklore inspirierter Metal, der klingt, als würde ein Mythos in einem modernen Aufnahmestudio zum Leben erweckt. Mit Titeln wie "Scissormouth" und "Tristar" schafft es die Band, unglaublich komplex zu sein, ohne dabei die Hooks zu verlieren, die zum Headbangen animieren. Es ist im Grunde ein Geschichtsbuch, geschrieben in Gitarrensoli.
 
-::genre::prog metal
+::genre::prog metal, modern metal
 
-## Black Sea Of Trees - Cult Of The Sun
+## Black Sea Of Trees - Cult Of The Sun *
 
 Das Quartett, das aus der Underground-Szene Melbournes hervorgegangen ist, veröffentlichte zuvor das Album "The Spiritual Beast". Dieses Nachfolgealbum beschäftigt sich mit Themen wie dem Zusammenbruch philosophischer Systeme und alten Glaubenssystemen. **Progressive Metal** und **Post-Metal**. Es ist ein dichtes, erzählerisches Erlebnis, das echte Tonaufnahmen der NASA nutzt, um eine kosmische Atmosphäre einer rauen Wüste zu schaffen. Das Anhören dieses Albums ist, als wäre man mit einem Teleskop und einer sehr lauten Gitarre auf einem Wüstenplaneten gestrandet. Es ist Space-Doom, der es schafft, sowohl erdrückend als auch seltsam meditativ zu sein. Der Übergang von leisen, unheimlichen NASA-Weltraumgesprächen zu einer Wand aus progressiven Riffs fühlt sich an, als würde man in ein Schwarzes Loch gezogen - furchterregend, aber man will auf jeden Fall sehen, was sich auf der anderen Seite befindet.
 
-::genre::prog metal, post metal
+::genre::prog metal, post metal, post black metal
 
 ## Black Veil Brides - Vindicate
 
@@ -164,9 +152,9 @@ Die 2006 gegründete Band wird von Andy Biersack geleitet. Dies ist ihr erstes A
 
 Das Projekt des venezianischen Komponisten Samuele Gottardello. Nach seinem gefeierten Album "Se Ci Fosse La Luce Sarebbe Bellissimo" aus dem Jahr 2022 ist dieses neue Projekt eine Zusammenarbeit mit dem iranischen Illustrator Majid Bita. **Experimentelle Elektronik**, **Krautrock** und **Darksynth**. Eine weitläufige Fourth-World-Vision, die Rave-Up-Sounds der 80er Jahre, meditativen Trance und industrielle Geräusche miteinander verbindet. Dies ist nicht nur ein Album; es ist eine 10.000-jährige Zeitreise. Mit einer Länge von fast zwei Stunden ist es ein gewaltiger, dystopischer Soundtrack für eine Stadt, die es noch nicht gibt. Es fühlt sich an, als würde man durch ein futuristisches Museum wandern, in dem die Exponate schreien - allerdings auf eine sehr rhythmische, synthesizerlastige Art und Weise. Es ist dicht, politisch und perfekt, wenn man einen Nachmittag lang in eine andere Dimension entschwinden möchte.
 
-::genre::experimental electronica, krautrock, dark synth
+::genre::experimental electronica, krautrock, dark synth, dark techno, idm
 
-## Blood Red Nails - Poems About...
+## BloodRedNails - Poems About...
 
 Als aufstrebende Stars der finnischen Metal-Szene hat die Band mit energiegeladenen Singles wie "My Wrath" und einer mitreißenden Social-Media-Präsenz (einschließlich einiger erstklassiger Band-Memes) für große Vorfreude gesorgt. **Melodic Death Metal**. Der Sound ist in der klassischen finnischen Tradition verwurzelt - erwartet vernichtende Riffs, hochfliegende melodische Leads und eine ausgewogene Mischung aus Aggression und Atmosphäre. Lass dich vom Wort "Poems" nicht täuschen - das sind nicht die Gedichte, die man in einer ruhigen Bibliothek liest. Das ist ein Blitz finnischer Wut, der wie ein Schneesturm einschlägt. Es ist elegant genug, um als poetisch bezeichnet zu werden, aber heavy genug, um in deinem Wohnzimmer einen Moshpit zu entfachen. Es fängt dieses spezifische finnische Talent ein, tiefe Trauer wie ein grandioses Headbanger-Abenteuer klingen zu lassen.
 
@@ -190,11 +178,11 @@ Ein Trio aus erfahrenen Musikern, bestehend aus Darrel Wojick und Mike Caputo (v
 
 ::genre::hardcore punk
 
-## Broken Social Scene - Remember the Humans
+## Broken Social Scene - Remember the Humans *
 
 Auf ihrem ersten Studioalbum seit fast einem Jahrzehnt wird die Stammbesetzung von langjährigen Mitstreiterinnen wie Feist, Hannah Georgas und Lisa Lobsinger unterstützt. **Indie-Rock** und **Barock-Pop**. Dieses Album vereint das Kollektiv erneut mit dem Produzenten David Newfeld (der bereits für ihren Klassiker "You Forgot It in People" verantwortlich zeichnete) und lässt ihre charakteristische Wall of Sound voller Bläser, Streicher und verzerrter Gitarren wieder aufleben. Es ist wie ein riesiges, chaotisches Familientreffen, bei dem jeder ein Instrument und eine Geschichte mitgebracht hat. "Remember the Humans" ist ein 12-Track-Analog-Alarm in einer digitalen Welt - dicht, wunderschön und auf diese perfekte BSS-Art ein wenig chaotisch. Es ist der Sound einer Band, die erwachsen geworden ist, ohne die Freude am - Lasst uns alle zusammen spielen - zu verlieren, die sie zu Legenden gemacht hat.
 
-::genre::indie rock, baroque pop, indie pop
+::genre::indie rock, baroque pop, indie pop, art rock
 
 ## Brother Wallace - Electric Love
 
@@ -224,7 +212,7 @@ Ein produktiver Saxophonist und Komponist, der in der europäischen Szene anerka
 
 Ein aufstrebender Künstler aus Nashville. Dies ist sein drittes Studioalbum, das in einer Zeit des Wandels, der Heilung und seiner neuen Rolle als Vater entstanden ist. **Country-Pop** und **Modern Country**. *Chase Wright* nimmt uns mit auf eine Reise von Herzschmerz zur Heilung. "Chasing Shadows" ist verletzlich, ehrlich und voller Songs, die sich anfühlen wie nächtliche Reflexionen im Rückspiegel. Es geht darum, loszulassen, wer man war, um herauszufinden, wer man sein soll - im Grunde ein 51-minütiger Leitfaden, wie man einen Sturm übersteht und auf der anderen Seite mit einem wirklich guten Refrain wieder herauskommt.
 
-::genre::country folk, alt pop, alt folk
+::genre::alt pop, alt folk, modern rock, pop rock
 
 ## Chinese American Bear - Dim Sum & Then Some
 
@@ -242,13 +230,13 @@ Sein zwölftes Solo-Studioalbum. Brown gewann kürzlich bei den Grammys 2025 den
 
 Als meisterhafter Saxophonist und Komponist leitet Potter ein beeindruckendes Ensemble, zu dem Bill Frisell (Gitarre), Nate Smith (Schlagzeug) und Sara Caswell (Violine) gehören. **Zeitgenössischer Jazz**, angereichert mit **Blues**, **Gospel**, afrikanischen Rhythmen und **Country**. Dies ist nicht nur eine Jazzplatte; es ist ein mythisches amerikanisches Porträt, gemalt mit Blech- und Holzblasinstrumenten. Sie ist kraftvoll, improvisiert und ein wenig eindringlich - die Art von Album, die das Gefühl vermittelt, dass Geschichte sich direkt hier im Raum mit dir abspielt. Im Grunde ist es eine Meisterklasse darin, wie man einen Kampf des 19. Jahrhunderts in einen Groove des 21. Jahrhunderts verwandelt.
 
-::genre::contemporary jazz, blues, gospel, country folk, improvisation
+::genre::contemporary jazz, improvisation
 
-## Citizins - The Last Resort
+## Cittizins - The Last Resort
 
-Die Band, die ursprünglich in der Mars Hill Church in Seattle (unter dem Namen *Citizens & Saints*) gegründet wurde, benannte sich in *Citizens* um und schlug einen unabhängigeren, künstlerisch geprägten Weg ein, auf dem sie konsequent die Grenzen der zeitgenössischen Kirchenmusik erweitert. **Folk-Rock** und **Indie**-Worship. Ihr Sound zeichnet sich durch eine reformierte Lyrik aus - intellektuell und ehrlich -, verpackt in energiegeladene, gefühlvolle Folk-Arrangements. Das ist nicht die typische Handklatsch-in-der-Kirchebank-Musik. Es ist eher so, als säße eine Gruppe sehr talentierter Freunde um ein Lagerfeuer im Wald und hätte eine tiefe existenzielle Krise - aber mit einer wirklich großartigen Kick-Drum. Es ist gefühlvoll, erdig und fühlt sich an wie eine warme Umarmung für dein Gehirn. Es ist der letzte Ausweg, wenn du genug hast von überproduziertem Pop und einfach nur etwas willst, das sich echt anfühlt.
+Cittizins ist ein Gemeinschaftsprojekt im Stil einer Supergroup, an dem Mitglieder etablierter Bands wie *Haywire* (insbesondere Haywire 617), *Forced Reality*, *Soulless* und *Blood For Blood* beteiligt sind. Dabei handelt es sich um Schwergewichte der amerikanischen Oi!- und Hardcore-Szene. **Oi!**, **Streetpunk** und **Hardcore**. Die Band orientiert sich an den Skinhead-Hymnen der 80er Jahre - man denke an *The Last Resort*, *The 4-Skins* und *The Business* -, verleiht ihnen aber einen viel härteren Boston-Style-Punch. Wenn du Musik magst, die wie eine Kneipenschlägerei klingt, die in eine brüderliche Umarmung übergeht, dann ist das hier genau das Richtige. Cittizins fängt diese rohe, raue East-Coast-Aggression ein. Es ist nicht ausgefeilt, es ist nichts für das Radio und es kommen definitiv keine Synthesizer zum Einsatz.
 
-::genre::indie folk, folk rock, indie rock
+::genre::streetpunk
 
 ## Civil Villains - A Sleeper, Underneath
 
@@ -256,7 +244,7 @@ Ein talentiertes Trio (James King, Toby Warren und Mark) mit ausgeprägter DIY-E
 
 ::genre::mathcore, post hardcore, alt rock
 
-## Cola - Cost of Living Adjustment
+## Cola - Cost of Living Adjustment *
 
 Gegründet von ehemaligen Mitgliedern der gefeierten Band *Ought* (Tim Darcy und Ben Stidworthy) zusammen mit dem Schlagzeuger Evan Cartwright. **Post-Punk** und **Art-Rock**. Das Album zeichnet sich durch straffe, kantige Gitarrenklänge und Sprechgesang aus, wobei diese Platte im Vergleich zu ihren früheren minimalistischen Werken einen melodischeren und maximalistischeren Klang aufweist. "Cost of Living Adjustment" ist das Rockalbum für Denker. Es behandelt große Themen wie Kapitalismus vs. Sozialismus und behält dabei einen Groove bei, der tatsächlich ziemlich schön und üppig ist. Es ist anspruchsvoll, aber nicht langweilig - stell es dir wie ein sehr cooles, leicht abstraktes Gemälde vor, zu dem man tatsächlich tanzen kann. Es ist die perfekte Stimmung für einen regnerischen Nachmittag in einer Buchhandlung, an dem man versucht, intellektueller zu wirken, als man eigentlich ist.
 
@@ -272,13 +260,13 @@ Ein dynamisches Duo aus Zürich, das die Aufmerksamkeit von Hopeless Records auf
 
 Es handelt sich um ein Ein-Mann-Projekt unter der Leitung des Multi-Instrumentalisten *Alvar*. Er übernimmt alle Instrumente und den Gesang und widmet sich dabei Themen wie der Sterblichkeit und dem ewigen Kreislauf der Natur. **Atmosphärischer Black Metal**. Er verbindet melancholische Tremolo-Passagen mit eindringlichen, von der Natur inspirierten Klanglandschaften. Fans von stimmungsvollem, landschaftsbezogenen Metal werden hier Ähnlichkeiten zum Cascadian-Stil erkennen, jedoch mit einer ausgeprägten alpinen Kühle. Das Anhören dieser Platte ist, als würde man sich in einem Schneesturm auf einem Schweizer Gipfel verirren - aber auf eine seltsam friedliche Art und Weise. Es ist andächtige Musik für Outdoor-Fans, die einen düsteren Wald einem sonnigen Strand vorziehen. Die Produktion ist klar, aber die Emotionen sind roh, was sie zum perfekten Soundtrack macht, um auf ein beschlagenes Fenster zu starren und über die Vergänglichkeit des Lebens nachzudenken.
 
-::genre::atmo black metal
+::genre::atmo black metal, post black metal
 
 ## Conscious Pilot - Human Poultry
 
 Als aufstrebende Größe in der britischen Indie-Szene sind sie bekannt für ihre rasanten Live-Auftritte und Texte, die die Absurdität des modernen Lebens mit trockenem schottischem Humor auf den Punkt bringen. **Post-Punk** und **Art-Rock**. Ihre Einflüsse reichen von der nervösen Energie von *Gang of Four* bis hin zur modernen Spoken-Word-Intensität von *The Murder Capital* oder *Fontaines D.C.*. Bei einem Titel wie "Human Poultry" weiß man schon, dass man etwas leicht Verrücktes erwartet. Diese EP ist eine zuckende, nervöse und brillante Sammlung von Songs, die klingen, als wären sie während einer Koffeinüberdosis geschrieben worden. Sie ist kantig, sie ist rhythmisch und sie ist sehr, sehr clever. Sie ist der perfekte Soundtrack, um schnell durch eine überfüllte Stadt zu laufen, während man sich vage über alle um einen herum ärgert.
 
-::genre::post punk, art rock
+::genre::post punk, art rock, indie rock
 
 ## Crashdïet - Art of Chaos
 
@@ -288,17 +276,17 @@ Die im Jahr 2000 gegründete Band hat zahlreiche Besetzungswechsel und persönli
 
 ## Croz Boyce - Croz Boyce
 
-*Boyce* ist eine aufstrebende Größe in der Melbourner Underground-Szene und bekannt für seine witzigen, beobachtungsreichen Texte über den Alltag, miese Jobs und billiges Bier. **Pub-Rock**, **Post-Punk** und australischer **Garage-Rock**. Man stelle sich die rohe Energie von *The Chats* gemischt mit der erzählerischen Rauheit von *Courtney Barnett* vor. Diese Platte fühlt sich an wie ein chaotischer Freitagabend in der Stammkneipe. Sie ist ungeschliffen, laut und unglaublich charmant. Boyce singt über Dinge aus dem echten Leben mit einer - Nimm es oder lass es - Einstellung, die ansteckend ist. Es ist die Art von Musik, die Lust macht, ein Pint zu verschütten, den Refrain mitzuschreien und zu vergessen, dass man am Montag zur Arbeit muss. Es ist ehrlicher Rock mit einem starken australischen Akzent.
+Das Projekt entstand aus der Zusammenarbeit der langjährigen Freunde und Bandkollegen Portner (aus den Blue Ridge Mountains, North Carolina) und Weitz (aus Washington, D.C.). Der Anstoß für ihre Zusammenarbeit als Duo kam durch die gemeinsame Arbeit an dem Titel "Brown Thrasher" für die Compilation "For the Birds" aus dem Jahr 2022. Die Dynamik gefiel ihnen so gut, dass sie während der Pandemie weiterhin Musik schufen, indem sie digitale Dateien hin und her schickten. Das Album ist eine instrumentale Mischung aus **psychedelischem Ambient**, **experimentellem Folk** und hausgemachten elektronischen Texturen. Wenn *Animal Collective* ein maximalistisches Feuerwerk ist, dann ist Croz Boyce der ruhige Morgen danach, an dem man nach coolen Steinen im Bach sucht. Es ist eine riskante Nacht voller Drogenexperimente ohne den Horror-Trip - nur zwei alte Freunde, die sich über Staatsgrenzen hinweg Postkarten aus Klang schicken. In einem Moment schwebt man durch die psychedelische Atmosphäre von "Steven’s Sunshine Rejected", im nächsten navigiert man durch die spärlichen, abenteuerlichen Klang-Epen von "Towson Acid". Es ist Musik, die sich weigert, stillzustehen, und die Gesangsharmonien gegen ein fragmentarisches instrumentales Gespräch eintauscht, das sich wie ein süßer Balsam für das Alltägliche anfühlt.
 
-::genre::post punk, garage rock
+::genre::experimental folk, psych folk, psych ambient, experimental electronica, instrumental
 
 ## Cyborg Zero - Zero
 
-Ein anonymes Elektronik-Projekt, das sich in der Synthwave-Underground-Szene dank seiner konzeptionell anspruchsvollen Erzählweise und seiner robotischen Ästhetik eine Kult-Anhängerschaft erobert hat. **Darksynth**, **Cyberpunk** und **EBM**. Stark beeinflusst von Science-Fiction-Soundtracks der 80er Jahre (man denke an Blade Runner) und modernem **Industrial-Techno**. Setz deine coolste Sonnenbrille auf - es spielt keine Rolle, ob es Mitternacht ist. Dieses Album klingt wie eine Hochgeschwindigkeitsjagd durch eine neongetränkte dystopische Stadt. Die Basslines sind schwer genug, um eine kleine Cyborg-Armee anzutreiben, und die Synthesizer sind scharf genug, um Glas zu schneiden. Es ist der perfekte Soundtrack, um sich in einen Mainframe zu hacken oder einfach nur so zu tun, als wärst du viel cooler, als du tatsächlich bist.
+Das Projekt wird von dem maskierten Sänger und Gitarristen Cyborg Zero (ehemals The Cyborgs) geleitet, der derzeit in Italien lebt. *Cyborg Zero* tourte fast ein Jahrzehnt lang um die Welt und stand mit Ikonen wie *Iggy Pop*, *Bruce Springsteen* und *Jeff Beck* auf der Bühne. Dieses Projekt ist eine Rückkehr zu seinen Wurzeln: eine schnörkellose, mitreißende Zwei-Mann-Show. Es ist eine raue Mischung aus **Punk-Blues**, **Rock’n’Roll** und **Garage Rock**, mit starken Anklängen an **Stoner Rock** und **Indie-Rock**-Groove. Wenn du dich jemals gefragt hast, was passieren würde, wenn ein Bluesmusiker der 1930er Jahre in einer postapokalyptischen Garage aus Altmetall wieder zusammengebaut würde, dann ist Zero die Antwort. Es ist ein Vollgas-Klangangriff, der Synthesizer gegen übersteuerte Gitarrenriffs und ein Schlagzeug eintauscht, das klingt, als würde es mit einem Vorschlaghammer bearbeitet. Das Thema ist dystopischer Blues - es ist Musik für eine Wüstenöde, in der nur noch ein batteriebetriebener Verstärker und eine schlechte Laune übrig sind. Es ist schnörkellos, knallhart und trotz der Robotermasken durch und durch menschlich.
 
-::genre::dark synth, ebm, industrial, techno
+::genre::blues, proto punk rock, garage rock, indie rock
 
-## Darko - Oni 2
+## Darko US - Oni 2
 
 Ein Super-Duo bestehend aus dem Sänger Tom Barber (*Chelsea Grin*) und dem Multi-Instrumentalisten Josh Miller (ex-*Emmure*/*Spite*). Sie sind bekannt als reines Studio-Projekt, das unglaublich komplexe, selbst produzierte Musik veröffentlicht. **Deathcore** trifft auf **Industrial**/**Experimental**. Ein chaotischer Mix aus technischem **Mathcore**, schweren Synthesizer-Klängen und Nu-Metal-Attitüde. "Oni 2" ist, als wäre man in einem glitchigen Videospiel gefangen, in dem der Endgegner eine defekte Kettensäge ist. Es ist laut, es ist verwirrend, und man hat das Gefühl, als würde das eigene Gehirn defragmentiert. In einem Moment ist es pure, furchterregende Aggression; im nächsten eine seltsam schöne elektronische Klanglandschaft. Es ist das musikalische Äquivalent einer digitalen Panikattacke, und man wird jede Sekunde davon lieben.
 
@@ -310,17 +298,11 @@ Ein Super-Duo bestehend aus dem Sänger Tom Barber (*Chelsea Grin*) und dem Mult
 
 ::genre::heavy metal, speed metal, black metal
 
-## Daughn Gibson - Lake Mary Not Mysterious
+## Daughn Gibson - Lake Mary Not Mysterious *
 
 *Gibson*, ehemals Schlagzeuger der Stoner-Metal-Band Pearls and Brass, hat sich einer Solokarriere zugewandt, in der er Elvis-artiges Crooning mit Lynch-artigen, beunruhigenden Klanglandschaften verbindet. **Experimenteller Indie**, **Alt-Country** und **Americana Noir**. Gibson ist bekannt für seine Baritonstimme aus der Tiefe und den Einsatz unheimlicher Samples und elektronischer Loops. Sich durch "Lake Mary Not Mysterious" zu hören, fühlt sich an, als hätte man eine verstaubte VHS-Kassette eines alten Cowboyfilms gefunden, die mit Industrielärm überspielt wurde. Es ist düster, verführerisch und zutiefst seltsam. Gibsons Stimme klingt, als würde sie aus einer verwunschenen Jukebox in einer Raststätte am Rande der Welt widerhallen. Es ist das perfekte Album für nächtliche Autofahrten, bei denen man sich ziemlich sicher ist, von einem UFO verfolgt zu werden.
 
 ::genre::alt folk, desert noir, americana, experimental folk, indie folk
-
-## Dazr - Do Or Die
-
-*Dazr* hat sich schnell zu einem festen Bestandteil der florierenden australischen Hardcore-Szene entwickelt und ist bekannt für ihren unerbittlichen Tourplan und ihre Vollgas-ohne-Bremsen-Herangehensweise beim Songwriting. **Hardcore-Punk** mit einer kräftigen Prise NYHC-Einfluss. Es ist schnell, aggressiv und basiert auf No-Nonsense-Energie. Diese Platte ist ein zehnminütiger Espresso-Schuss, der per Kopfstoß verabreicht wird. Sie ist schnell, laut und hält sich nicht länger auf, als sie willkommen ist. Wenn du plötzlich das Bedürfnis hast, durch eine Mauer zu rennen oder von einer Bühne zu springen, ist "Do Or Die" deine offizielle Erlaubnis. Es ist sauer Musik für Leute, die keine Zeit für lange Gitarrensoli haben.
-
-::genre::hardcore punk
 
 ## Deb Never - ARCADE
 
@@ -328,13 +310,7 @@ Ein Super-Duo bestehend aus dem Sänger Tom Barber (*Chelsea Grin*) und dem Mult
 
 ::genre::indie pop, lofi, alt pop, bedroom pop, trap
 
-## Defier - Trauma Model
-
-Entstanden aus einer Außenseiter-Mentalität, legt die Band Wert auf Authentizität und Widerstand gegen gesellschaftliche Normen und verbindet ihre Musik oft mit einer ganz eigenen Ästhetik. Dark Hardcore und Post-Metal. Sie schöpft aus der erdrückenden Schwere von Bands wie Amenra oder Cult of Luna, gemischt mit der rohen, dissonanten Aggression des modernen europäischen Hardcore. Trauma Model ist so fröhlich wie ein regnerischer Montag auf einem Friedhof. Es ist heavy, aber nicht im Sinne von „Lasst uns moshen“ – eher im Sinne von „Lasst uns über unsere kollektive existenzielle Angst nachdenken“. Die Riffs sind dicht, der Gesang klingt, als würde er durch Glas gezogen, und die Atmosphäre ist herrlich erdrückend. Es ist der perfekte Soundtrack, um eine Wand anzustarren und Dinge sehr tief zu empfinden.
-
-::genre::deathcore, djent
-
-## Dems Fightin Words - Worldwide Beatdown
+## DemsFightinWords - Worldwide Beatdown
 
 Seit 2022 haben sie sich einen Namen als eine der härtesten Bands der Underground-Szene im Mittleren Westen gemacht und sind bekannt für energiegeladene Singles wie "Catch a Brick" und "No Excuse". Purer **Beatdown-Hardcore**. Stark beeinflusst von der Missouri-Hardcore-Szene, mit langsamen, gnadenlosen Breakdowns und aggressivem Gesang im Street-Style. Diese EP ist das musikalische Äquivalent eines Klappstuhls ins Gesicht. Worldwide Beatdown schert sich weder um deine Gefühle noch um deine körperliche Unversehrtheit. Sie ist speziell für Leute gedacht, die einen Konzertsaal in eine Baustelle verwandeln wollen. Wenn du Musik magst, die sich wie ein regelrechter Kampf anhört, ist dies deine Goldmedaille.
 
@@ -342,9 +318,9 @@ Seit 2022 haben sie sich einen Namen als eine der härtesten Bands der Undergrou
 
 ## DISRUPTR - ESOTERIA
 
-Die Bandmitglieder sind alte Hasen der australischen Tech-Metal-Szene und haben jahrelang daran gearbeitet, einen Sound zu perfektionieren, der mathematische Präzision mit roher, kehliger Aggression verbindet. **Progressiver Deathcore** mit **Djent**-Elementen. Man stelle sich technisch anspruchsvolle Percussion vor, gemischt mit kosmischen, Science-Fiction-artigen Synthesizern. "ESOTERIA" ist im Grunde eine Übertragung aus einer fernen, wütenden Galaxie. In einem Moment wird man von einem Breakdown getroffen, der sich wie eine tektonische Verschiebung anfühlt, und im nächsten schwebt man durch ein verträumtes Synth-Solo aus dem Weltraumzeitalter. Es ist intelligenter Metal - die Art von Musik, für deren Spiel man drei Doktortitel braucht, aber nur ein funktionierendes Ohr, um zu erkennen, wie hart sie ist.
+Die Bandmitglieder sind alte Hasen der australischen Tech-Metal-Szene und haben jahrelang daran gearbeitet, einen Sound zu perfektionieren, der mathematische Präzision mit roher, kehliger Aggression verbindet. **Progressiver Metalcore** mit **Djent**-Elementen. Man stelle sich technisch anspruchsvolle Percussion vor, gemischt mit kosmischen, Science-Fiction-artigen Synthesizern. "ESOTERIA" ist im Grunde eine Übertragung aus einer fernen, wütenden Galaxie. In einem Moment wird man von einem Breakdown getroffen, der sich wie eine tektonische Verschiebung anfühlt, und im nächsten schwebt man durch ein verträumtes Synth-Solo aus dem Weltraumzeitalter. Es ist intelligenter Metal - die Art von Musik, für deren Spiel man drei Doktortitel braucht, aber nur ein funktionierendes Ohr, um zu erkennen, wie hart sie ist.
 
-::genre::prog metalcore, deathcore, djent
+::genre::prog metalcore, djent
 
 ## Donna Lewis, David Lowe - Wanderlust
 
@@ -364,11 +340,11 @@ Die 1994 gegründete Band ist seit langem eine feste Größe des Genres. Dieses 
 
 ::genre::gothic metal, doom metal
 
-## Drown In Malice - Amnesie & Hysterie
+## Drown In Malice - Amnesie & Hysterie *
 
-Die seit 2016 aktive Indie-Band beschäftigt sich mit Themen wie Gesellschaft, inneren Konflikten und dem modernen Leben. Ihr Sound ist **Metalcore** mit Einflüssen aus **Melodic Death Metal**, **Hardcore** und **Post-Metal**. Nachdem sie zwei Jahre lang mit dem Versprechen - Es kommt bald - geworben hatten, hat die Band nun endlich dieses Werk voller organisierten Chaos veröffentlicht. Es ist eine konzeptlastige EP, die sich mit allem befasst - von KI über Fleischkonsum bis hin zum allgemeinen Wahnsinn der modernen Gesellschaft. Erwarte Klappern, Stöhnen und Grollen auf die bestmögliche Art und Weise - im Grunde das musikalische Äquivalent einer Midlife-Crisis, die sich mitten in einem Moshpit abspielt.
+Die seit 2016 aktive Indie-Band beschäftigt sich mit Themen wie Gesellschaft, inneren Konflikten und dem modernen Leben. Ihr Sound ist **Metalcore** mit Einflüssen aus **Melodic Black Metal** und **Post-Metal**. Nachdem sie zwei Jahre lang mit dem Versprechen - Es kommt bald - geworben hatten, hat die Band nun endlich dieses Werk voller organisierten Chaos veröffentlicht. Es ist eine konzeptlastige EP, die sich mit allem befasst - von KI über Fleischkonsum bis hin zum allgemeinen Wahnsinn der modernen Gesellschaft. Erwarte Klappern, Stöhnen und Grollen auf die bestmögliche Art und Weise - im Grunde das musikalische Äquivalent einer Midlife-Crisis, die sich mitten in einem Moshpit abspielt.
 
-::genre::metalcore, post metal, melo death metal
+::genre::metalcore, post metal, melo black metal
 
 ## Electric Sun Defence - Estuary *
 
@@ -376,11 +352,11 @@ Ein Duo bestehend aus Pete Colquhoun (Schlagzeug) und Joe Cormack (Gesang/Instru
 
 ::genre::prog metal, post metal
 
-## Elifantree - Florescence
+## Elifantree - Florescence *
 
 Ein Trio bestehend aus Anni Elif Egecioglu (Gesang/Synthesizer), Pauli Lyytinen (Saxophon/Synthesizer) und Olavi Louhivuori (Schlagzeug). Seit über einem Jahrzehnt loten sie die Grenzen dessen aus, wie ein Jazz-Trio tatsächlich klingen kann. **Experimenteller Pop**, **Jazz** und **Avantgarde**. Ihr Sound ist eine chaotisch-und-doch-kontrollierte Mischung aus glitchiger Elektronik, schwebendem Gesang und komplexer Percussion. "Florescence" ist genau das, wonach es klingt: ein Klanggarten, der im Schnellvorlauf erblüht. Er ist wild, farbenfroh und ein wenig unvorhersehbar. Anni Elifs Stimme schwebt über einem Meer aus blubbernden Synthesizern und hektischen Drums, die sich wie ein Neon-Gewitter anfühlen. Es ist Kunsthochschul-Musik, zu der man sich tatsächlich bewegen kann - man muss nur darauf vorbereitet sein, dass sich die Rhythmen schneller ändern als die eigene Stimmung.
 
-::genre::experimental pop, avant jazz
+::genre::avant pop, avant jazz, prog pop, art pop
 
 ## Eradikated - Wiring Of Violence
 
@@ -394,7 +370,7 @@ Angeführt von Punk-Queen Julia hat die Band für dieses Album einen Schwergewic
 
 ::genre::punk rock, power pop
 
-## Exploding Head Syndrome - Deathbeds *
+## Exploding Head Syndrome - Deathbeds
 
 Die Band wurde 2010 von Sänger Eirik und Gitarrist Morten gegründet, die bereits in den 90er Jahren zusammen gespielt hatten und sich im Alter von 30 Jahren bei einem alkoholreichen Moment wieder zusammenfanden, um eine Band zu gründen. Seitdem tourten sie durch Europa und traten bei großen Festivals wie dem Punk Rock Holiday auf. Eine energiegeladene Mischung aus **Hardcore-Punk** und melodischem **Skate-Punk**. Stellt euch die rohe Aggression einer Keller-Schlägerei vor, gemischt mit den eingängigen, mitreißenden Refrains, die man auf einem Tony-Hawk-Soundtrack finden würde. "Deathbeds" ist ihr bisher kompromisslosestes Werk - denkt an wütenden Punk mit einer philosophischen Schärfe.
 
@@ -426,9 +402,9 @@ Als herausragende Band der Hardcore-Szene in Südkalifornien schlägt *Forced Or
 
 ## Frozen Soul - No Place Of Warmth
 
-Diese Band, die oft als "The Kings of Cold" bezeichnet wird, hat die Metal-Szene mit ihrem gletscheren Death Metal im Sturm erobert. Dieses dritte Album in voller Länge ist ihre bislang ambitionierteste Produktion. **Old-School-Death-Metal**. Stark beeinflusst von *Bolt Thrower* und *Mortician*, basiert ihr Sound auf panzerartigen Riffs, Midtempo-Grooves und einer anhaltenden lyrischen Fixierung auf Eis und Tod. Diese Platte ist ein Schneesturm in akustischer Form. Sie ist langsam, heavy und absolut gewaltig. Es fühlt sich an, als würde man langsam von einem sich bewegenden Gletscher zermalmt. "No Place Of Warmth" setzt noch einen drauf beim Chug und liefert einen Soundtrack, der so kalt ist, dass man sich am liebsten einen Parka überziehen möchte, nur um die ersten drei Tracks durchzustehen.
+Das ist kein technischer, rasender Death Metal. Die Musik basiert auf mittelschnellen, vernichtenden Grooves und eiskalten Bass-Drops, die eher an einen Hardcore-Beatdown oder den rhythmischen Stampftakt von *Bolt Thrower* erinnern. Sie haben eine gletscherartige Ästhetik perfektioniert - man stelle sich Musik vor, die so kalt ist, dass man mitten im Sommer seinen Atem sehen kann. Eine unerbittliche Mischung aus **Metalcore**, **Beatdown**, **Metallic Hardcore** und **Groove Metal**. "No Place of Warmth" ist, als säße man in einem Schneesturm fest, in dem die Schneeflocken aus Blei sind. Es ist ein Album, das ausgefallene Gitarrenakrobatik gegen Riffs eintauscht, die wie ein Vorschlaghammer auf die Brust schlagen. Der Groove-Metal-Einfluss ist unbestreitbar; Tracks wie "Dreadnought" haben einen Swing, der einen dazu bringt, im Halb-Tempo zu headbangen, während man über den Wärmetod des Universums nachdenkt. Es ist auch überraschend emotional - Frontmann Chad Green nutzt dieses gefrorene Ödland Thema, um reale Trauer zu verarbeiten, was es zu einem seltenen Death-Metal-Album macht, das ebenso viel Herz wie Horror hat.
 
-::genre::osdm
+::genre::metallic hardcore, beatdown, groove metal, metalcore
 
 ## Gadget - Coerced
 
@@ -458,7 +434,7 @@ glaive (*Ash Gutierrez*) und kurtains sind Pioniere der Hyperpop-Bewegung, die b
 
 *Glass Tides*, ursprünglich als energiegeladene Alternative-Rock-Band gegründet, hat sich mit emotional unverfälschten Texten und einem Post-Hardcore-Touch einen Namen gemacht, der ihnen die Spitze der australischen Indie-Charts eingebracht hat. **Alternative Rock** / **Post-Hardcore**. Inspiriert von der düsteren Intensität von *The Amity Affliction* und der melodischen Rauheit von *Hands Like Houses*, zeichnet sich ihr Sound durch kraftvollen, mitreißenden Gesang und treibende Gitarrenriffs aus. "Safety in Darkness" ist ein wunderschön stimmungsvolles Album, das sich anfühlt wie eine lange Nacht, in der man in einem neonbeleuchteten Raum grübelt. Es ist kathartisch und laut und schafft einen Ausgleich zwischen schweren Breakdowns und überraschend zarten melodischen Passagen. Es ist der perfekte Soundtrack, wenn man alles auf einmal fühlen möchte - am besten bei maximaler Lautstärke.
 
-::genre::emocore, post hardcore, alt rock
+::genre::emocore, modern post hardcore, alt rock
 
 ## Goholor - Locus Damnatorum
 
@@ -470,13 +446,13 @@ Als aufstrebende Kraft in der slowakischen Extreme-Metal-Underground-Szene hat *
 
 Ein Super-Ensemble aus New Yorker Jazzmusikern unter der Leitung des Keyboarders Alex Snydman. Sie lassen sich von der Greenhouse-Philosophie des organischen Wachstums inspirieren und schöpfen aus der Fusion-Ära von *Miles Davis* sowie den modernen, üppigen Klangtexturen von *Snarky Puppy*. **Contemporary Jazz** / **Fusion** / **Neo-Soul**. Diese Platte ist die ultimative Entspannung nach einem langen Tag. Sie ist raffiniert, luftig und bietet einige der tightesten Rhythmusgruppen, die man dieses Jahr hören wird. Es fühlt sich an, als säße man auf einem Balkon in Manhattan, während die Sonne untergeht - luxuriös, mühelos und sehr, sehr geschmeidig.
 
-::genre::contemporary jazz, jazz fusion, neo soul
+::genre::contemporary jazz, jazz fusion, neo soul, spiritual jazz
 
 ## Grievance - Lúgubres Devaneios De Abismos E Sombras
 
 Dies ist das Soloprojekt von Korax, einem Veteranen der portugiesischen Underground-Szene. Er ist stark von der zweiten Welle des Black Metal und dem melancholischen, rohen Sound der Les Légions Noires-Bewegung beeinflusst. **Raw Black Metal**. Freut euch auf schrille Schreie, Lo-Fi-Produktion und ein allgegenwärtiges Gefühl von totaler, erdrückender Trauer. Wenn ihr einen zu guten Tag habt, ist *Grievance* da, um das zu ändern. Es ist ein wunderschön hässliches Album, das klingt, als wäre es in einem Regenwasserkanal aufgenommen worden. Es ist aggressiv und schnell, aber unter all dem Rauschen verbirgt sich eine seltsame, eindringliche Melodie - wie eine einzelne Kerze, die in einem dunklen, leeren Haus brennt.
 
-::genre::raw black metal
+::genre::raw black metal, atmo black metal
 
 ## Gydja - Níu kom ek heima fyr Niflhel neðan
 
@@ -490,17 +466,11 @@ Ursprünglich ein energiegeladenes Duo (Matt Reynolds und Tom Marsh), haben sie 
 
 ::genre::post hardcore, noise rock, alt rock
 
-## Hard Times Don't Last - Of Love & How It Makes Us Human
-
-Das aus der Hardcore-Szene des Ruhrgebiets stammende Quintett schafft einen Ausgleich zwischen Aggression und Melodie. Sie orientieren sich stark am Modern Hardcore-Sound von Bands wie *The Ghost Inside* und *Be Well*, wobei ihre Texte sich vor allem mit psychischer Gesundheit und sozialen Beziehungen beschäftigen. **Modern Metalcore** / **Post-Hardcore**. Dieses Album ist wie eine riesige, schweißtreibende Umarmung mitten im Moshpit. Es ist schnell und heavy, aber die Refrains sind gewaltig und wirklich bewegend. Es ist Hope-Core vom Feinsten - und erinnert dich daran, dass es im Moment zwar vielleicht beschissen ist, aber die Person, die neben dir mitschreit, genau dasselbe fühlt. Es ist laut, ehrlich und sehr menschlich.
-
-::genre::modern metalcore, post hardcore
-
 ## Harms - Rebirth Of The Cold
 
-*Harms* ist ein Soloprojekt, das tief in der zweiten Welle des Black Metal verwurzelt ist. Beeinflusst von Pionieren wie *Darkthrone* und den frühen *Enslaved* konzentriert sich das Projekt auf die primitive und atmosphärische Seite des Genres. **Atmosphärischer Black Metal**. Erwartet eine Lo-Fi-Produktion, Tremolo-Picking in Schneesturmgeschwindigkeit und ein allgegenwärtiges Gefühl von Isolation und Winter. Diese Platte ist ein akustisches Eisbad. Sie ist ungeschliffen, eiskalt und unerbittlich düster. Es klingt, als hätte jemand eine Spukerscheinung in einem Fleischkühlraum aufgenommen. Wenn du Musik magst, die dich dazu bringt, in einen grauen Himmel zu starren, während dein Atem in der Luft zu Nebel wird, hat Harms deinen neuen Lieblingssoundtrack abgeliefert.
+*Harms* ist ein Soloprojekt, das tief in der zweiten Welle des Black Metal verwurzelt ist. Beeinflusst von Pionieren wie *Darkthrone* und den frühen *Enslaved* konzentriert sich das Projekt auf die primitive und atmosphärische Seite des Genres. **Atmosphärischer Black Metal** / **Post Black Metal** / **Post Metal**. Erwartet eine Lo-Fi-Produktion, Tremolo-Picking in Schneesturmgeschwindigkeit und ein allgegenwärtiges Gefühl von Isolation und Winter. Diese Platte ist ein akustisches Eisbad. Sie ist ungeschliffen, eiskalt und unerbittlich düster. Es klingt, als hätte jemand eine Spukerscheinung in einem Fleischkühlraum aufgenommen. Wenn du Musik magst, die dich dazu bringt, in einen grauen Himmel zu starren, während dein Atem in der Luft zu Nebel wird, hat Harms deinen neuen Lieblingssoundtrack abgeliefert.
 
-::genre::atmo black metal
+::genre::atmo black metal, post metal, post black metal
 
 ## Henrik Munkeby Nørstebø - Faint Light Blackens
 
@@ -512,7 +482,7 @@ Das aus der Hardcore-Szene des Ruhrgebiets stammende Quintett schafft einen Ausg
 
 Ein kraftvolles Trio, das sich durch virale Straßenauftritte und unermüdliche Tourneen eine riesige Fangemeinde aufgebaut hat. Sie sind die Erben des Funk-Throns, den einst die *Average White Band* innehatte, und zeichnen sich durch eine moderne, rasante Energie aus, die an *Vulfpeck* erinnert. **Funk** / **Rock** / **Soul**. Bekannt für ihr messerscharfes musikalisches Können, konzentriert sich diese Doppel-A-Seite / EP auf ihre charakteristischen, ineinandergreifenden Rhythmen und blitzschnelle Gitarrenarbeit. Das ist Funk mit Koffeinsucht. Es ist so tight, dass es fast schon illegal ist. *High Fade* spielen mit einer Präzision, die einen fragen lässt, ob sie eigentlich Roboter sind, aber die Seele, die sie in jede Note legen, ist unbestreitbar menschlich. Es ist unmöglich, das anzuhören, ohne sich zu bewegen - ihr seid gewarnt.
 
-::genre::funk, hard rock, roots rock
+::genre::funk, hard rock, roots rock, math rock
 
 ## Hillbilly Vegas - A La Mode
 
@@ -534,9 +504,9 @@ Eine Supergroup aus erfahrenen Musikern der Hardcore-/Screamo-Szene der 90er und
 
 ## Hypostasis - Birth Of A Mask
 
-Dieses Projekt, das aus dem schattenhaften Athener Underground hervorgegangen ist, wird von einem Kollektiv von Musikern geleitet, die in der experimentellen und Ritual-Noise-Szene der Stadt aktiv sind. **Dark Ambient** / **Ritual Industrial** / Tribal. Sie schöpfen aus der Urkraft der antiken griechischen Mythologie und der beklemmenden Atmosphäre des frühen Lustmord. Dieses Album ist ein Abstieg in die Unterwelt. Es baut auf tiefen, kehligen Drones und dem Klang ferner, hallender Percussion auf. Es fühlt sich weniger wie eine Sammlung von Songs an, sondern eher wie der Soundtrack zu einer Zeremonie, an der man wahrscheinlich besser nicht teilnehmen sollte. Es ist unheimlich, grandios und fängt jene Antike-Trifft-Moderne-Angst perfekt ein.
+Sie traten erstmals 2016 mit einer selbstbetitelten EP in Erscheinung, legten dann jedoch eine achtjährige Pause ein, um ihren Sound zu verfeinern und dieses Konzeptalbum fertigzustellen. Im Wesentlichen **Progressive Metal** mit starken Einflüssen aus dem **Melodic Metal** und einer cineastischen Atmosphäre. Es erwarten euch fließende Melodien, präzise technische Riffs und eine düstere, introspektive Stimmung. Die Musik betont emotionale Tiefe und wechselt zwischen zerbrechlichem Flüstern und aggressiven Schreien. "Birth of a Mask" ist eine klangliche Reise durch eine tief gezeichnete Seele, die versucht herauszufinden, welches Gesicht das echte ist. Im Grunde handelt es sich um einen philosophischen Thriller, untermalt von schweren Gitarren. In einem Moment schwebt man in einem melodischen, luftigen Refrain, im nächsten wird man von einer aggressiven Strophe getroffen, die sich wie eine Konfrontation in einem dunklen Raum anfühlt. Es ist die Art von Prog, die nicht nur um ihrer selbst willen mit auffälligen Spielereien protzt; sie nutzt jeden wechselnden Takt, um eine Geschichte über Identität und Verwandlung zu erzählen.
 
-::genre::dark ambient, ritual music, idm, drone
+::genre::prog metal
 
 ## HÖWLER - Beyond Mortal Control
 
@@ -1273,6 +1243,18 @@ Obwohl er ein Gigant der regionalen mexikanischen Musik ist, stellt "Muda" eine 
 Die als *Young Creator Crew* bekannte Gruppe besteht aus fünf Mitgliedern (Martin, James, Ju-hoon, Seong-hyeon und Keon-ho), die alle maßgeblich am Songwriting, an der Choreografie und an der visuellen Gestaltung beteiligt sind. Ihr Name ist die Abkürzung für Color Outside the Lines und spiegelt ihre Philosophie des freien Denkens wider. Energiegeladener **K-Pop** und **Hip-Hop** gemischt mit **Plugg**, **Trap** und **Future Bass**. Dieses Album ist wie ein neonbeleuchteter Energy-Drink. Es ist ausgefeilt, besitzt aber eine rohe Subjektivität, in der Grün für ihre Ziele steht und Rot (der Titelsong "REDRED") für die Dinge, die sie hinter sich lassen wollen. Es ist die Kraft der Generation Z in akustischer Form - dynamisch, stilvoll und man kann dabei unmöglich still sitzen bleiben.
 
 ::genre::k-pop, hip hop, trap, future bass
+
+## Dazr - Do Or Die
+
+*DÅZR* besteht aus jungen Rockern unter der Leitung von Sänger Austin Hendrix und seinem Bruder, dem Gitarristen Grant Hendrix, sowie dem Bassisten Matthew Shranko und dem Schlagzeuger Shalor. Sie sind Teil einer aufstrebenden New Wave of Classic Rock Bewegung, deren Ziel es ist, den analogen, energiegeladenen Rock für eine neue Generation am Leben zu erhalten. Eine mitreißende Mischung aus **Hard Rock**, **Classic Rock** und **Rock’n’Roll**. Wenn du den Sound einer Garagenband vermisst hast, die tatsächlich weiß, wie man ihre Verstärker auf elf dreht, dann ist Do Or Die dein neuer bester Freund. Es ist unverfälschter, unverdünnter Rock’n’Roll, der sich wie eine Lederjacke für deine Ohren anfühlt. Austin Hendrix’ Gesang schwebt über Grants ansteckenden Hooks und Riffs, die eindeutig darauf ausgelegt sind, dir tagelang im Kopf zu bleiben. Es ist ein Album, das nicht versucht, das Rad neu zu erfinden - es montiert einfach ein paar Nitro-Booster daran und rast direkt in den Sonnenuntergang. Es ist laut, es ist heavy, und es ist ein absoluter Knaller für alle, die finden, dass Rock immer noch Spaß machen und gefährlich sein sollte.
+
+::genre::hard rock, heavy rock
+
+## Defier - Trauma Model
+
+Entstanden aus einer Außenseiter-Mentalität, legt die Band Wert auf Authentizität und Widerstand gegen gesellschaftliche Normen und verbindet ihre Musik oft mit einer ganz eigenen Ästhetik. **Modern Deathcore** und **Djent**. Sie schöpft aus der erdrückenden Schwere von Bands wie Amenra oder Cult of Luna, gemischt mit der rohen, dissonanten Aggression des modernen europäischen Hardcore. Trauma Model ist so fröhlich wie ein regnerischer Montag auf einem Friedhof. Es ist heavy, aber nicht im Sinne von „Lasst uns moshen“ – eher im Sinne von „Lasst uns über unsere kollektive existenzielle Angst nachdenken“. Die Riffs sind dicht, der Gesang klingt, als würde er durch Glas gezogen, und die Atmosphäre ist herrlich erdrückend. Es ist der perfekte Soundtrack, um eine Wand anzustarren und Dinge sehr tief zu empfinden.
+
+::genre::deathcore, djent
 
 ## Extinct - In Conspiracies We Trust
 
