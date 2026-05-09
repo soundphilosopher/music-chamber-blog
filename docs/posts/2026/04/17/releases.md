@@ -82,7 +82,7 @@ Ein aufstrebender Act in der Progressive-Metal-Szene, der an frühere Veröffent
 
 ## Ard Bit - Juxtaposed
 
-*Ard Bit* ist eine feste Größe in der Ambient-Szene und bekannt für seine intimen und weitläufigen Kompositionen. Tiefgründiger, melodischer **Ambient** und **Electronic**. Der Sound zeichnet sich durch subtile modulare Schimmer und immersive Klangfeldaufnahmen aus. Diese Platte ist, als würde man die Welt für einen Moment hinter sich lassen. Sie gleitet dahin und atmet mit einer stillen Zuversicht, zieht einen durch eine Landschaft aus zarten Texturen, die sich zugleich weitläufig und unglaublich persönlich anfühlen.
+*Ard Bit* ist eine feste Größe in der Ambient-Szene und bekannt für seine intimen und weitläufigen Kompositionen. Tiefgründiger, melodischer **Ambient** und **Electronic**. Der Sound zeichnet sich durch subtile modulare Schimmer und immersive Field Recordings aus. Diese Platte ist, als würde man die Welt für einen Moment hinter sich lassen. Sie gleitet dahin und atmet mit einer stillen Zuversicht, zieht einen durch eine Landschaft aus zarten Texturen, die sich zugleich weitläufig und unglaublich persönlich anfühlen.
 
 ::genre::ambient, minimal electronica, experimental electronica
 
