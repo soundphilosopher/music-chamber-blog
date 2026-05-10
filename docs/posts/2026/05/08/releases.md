@@ -286,12 +286,6 @@ Das Projekt wird von dem maskierten Sänger und Gitarristen Cyborg Zero (ehemals
 
 ::genre::blues, proto punk rock, garage rock, indie rock
 
-## Darko US - Oni 2
-
-Ein Super-Duo bestehend aus dem Sänger Tom Barber (*Chelsea Grin*) und dem Multi-Instrumentalisten Josh Miller (ex-*Emmure*/*Spite*). Sie sind bekannt als reines Studio-Projekt, das unglaublich komplexe, selbst produzierte Musik veröffentlicht. **Deathcore** trifft auf **Industrial**/**Experimental**. Ein chaotischer Mix aus technischem **Mathcore**, schweren Synthesizer-Klängen und Nu-Metal-Attitüde. "Oni 2" ist, als wäre man in einem glitchigen Videospiel gefangen, in dem der Endgegner eine defekte Kettensäge ist. Es ist laut, es ist verwirrend, und man hat das Gefühl, als würde das eigene Gehirn defragmentiert. In einem Moment ist es pure, furchterregende Aggression; im nächsten eine seltsam schöne elektronische Klanglandschaft. Es ist das musikalische Äquivalent einer digitalen Panikattacke, und man wird jede Sekunde davon lieben.
-
-::genre::deathcore, modern metalcore, mathcore
-
 ## Darkthrone - Pre-Historic Metal
 
 *Fenriz* und *Nocturno Culto* sind die Begründer des True Norwegian Black Metal, doch in den letzten zwei Jahrzehnten haben sie sich zu einer lebenden Enzyklopädie des Underground-Metals der 80er Jahre gewandelt. **Black Metal**, **Speed Metal** und traditioneller **Heavy Metal**. Das ist eine Zeitmaschine für Metal-Nerds. Es ist roh, es ist krustig, und es klingt, als wäre es in einem feuchten norwegischen Keller mit einem einzigen Mikrofon aus den 1970er Jahren aufgenommen worden - und genau deshalb ist es großartig. Es fängt jenen Moment ein, als die Band vom Death Metal zu dem kalten Sound überging, der eine ganze Generation prägte. Es ist nicht raffiniert, es ist prähistorisch - hässlich, primitiv und für die Kult-Anhänger absolut unverzichtbar.
@@ -345,6 +339,12 @@ Die 1994 gegründete Band ist seit langem eine feste Größe des Genres. Dieses 
 Die seit 2016 aktive Indie-Band beschäftigt sich mit Themen wie Gesellschaft, inneren Konflikten und dem modernen Leben. Ihr Sound ist **Metalcore** mit Einflüssen aus **Melodic Black Metal** und **Post-Metal**. Nachdem sie zwei Jahre lang mit dem Versprechen - Es kommt bald - geworben hatten, hat die Band nun endlich dieses Werk voller organisierten Chaos veröffentlicht. Es ist eine konzeptlastige EP, die sich mit allem befasst - von KI über Fleischkonsum bis hin zum allgemeinen Wahnsinn der modernen Gesellschaft. Erwarte Klappern, Stöhnen und Grollen auf die bestmögliche Art und Weise - im Grunde das musikalische Äquivalent einer Midlife-Crisis, die sich mitten in einem Moshpit abspielt.
 
 ::genre::metalcore, post metal, melo black metal
+
+## Elder Island - Hello Baby Okay
+
+Ein Trio bestehend aus Katy Sargent (Gesang/Cello), Luke Thornton (Bass/Beats) und David Havard (Gitarre/Keyboard). Sie sind bekannt für ihren Hintergrund in der bildenden Kunst (bildende Kunst, Fotografie, Grafikdesign), der ihre geformten Klanglandschaften stark beeinflusst. **Indie-Elektronik**, **Funk-Pop** und **House**. Es ist viel optimistischer und tanzbarer als ihre früheren, eher melancholischen Werke. Dieses Album fühlt sich an wie ein überbelichtetes Polaroid eines Sommerfestivals. Es ist warm, verträumt und voller sonnenverwöhnter Grooves, die Lust machen, aus dem langweiligen Alltag auszubrechen. Es ist der Sound einer Band, die endlich die Zügel lockert und Freude über Perfektion stellt.
+
+::genre::deep house, indietronica, acid funk
 
 ## Electric Sun Defence - Estuary *
 
@@ -658,19 +658,25 @@ Als einer der Eckpfeiler der Desert-Metal-Szene haben *Lago* jahrelang daran gea
 
 ::genre::dissonant death metal
 
+## Lambert - I Am Not Lambert
+
+Seit einem Jahrzehnt als der maskierte Pianist bekannt, hat Lamberts Musik stets eine Balance zwischen Verspieltheit und melancholischer Schönheit gefunden. Dieses Album enthält seine ersten bedeutenden Gesangsdarbietungen sowie Kollaborationen mit Künstlern wie Kat Frankie und Dekker. **Klaviergetragener Pop**, **moderne Klassik** und sanfte **Electronica**. Dieses Album markiert einen bedeutenden Wandel von Instrumentalmusik hin zu songorientiertem Pop. Es ist eine Coming-out-Party, bei der sich der Gastgeber immer noch in der Küche verstecken möchte. Die Musik ist intim und verletzlich und verbindet eingängige Melodien mit einem Gefühl von ehrlicher Täuschung. Es ist im Grunde der Soundtrack für alle, die das Gefühl haben, eine Maske zu tragen, auch wenn sie es gar nicht tun.
+
+::genre::modern classic, ambient, avant pop
+
 ## Lauren Lakis - Deadlights
 
 Eine Multi-Instrumentalistin, die von der DIY-Szene in LA in die gitarrenlastige Musikszene von Austin wechselte. Bekannt für ihren eindringlichen Gesang, hat sie sich mit ihren wilden Live-Auftritten eine treue Fangemeinde aufgebaut. **Shoegaze** / **Dream Pop** / 90er-Jahre-**Alternative-Rock**. Inspiriert von der Wall-of-Sound-Produktion von *My Bloody Valentine* und den ätherischen Klangtexturen der *Cocteau Twins* zeichnet sich ihre Musik durch kräftige Bässe und gespenstische Vocals aus. "Deadlights" ist eine Welt, die sich zugleich jenseitig und unbehaglich vertraut anfühlt. Es ist ein 10-Track-Tauchgang in eine sich wandelnde Realität, in der Verzerrung auf Klarheit trifft. Es ist Musik, die von Dunkelheit durchdrungen ist, und doch gibt es ein anhaltendes Gefühl der Hoffnung - wie ein Geist, der versucht, sich allein durch die Kraft der Melodie den Weg aus einem Keller zu bahnen.
 
 ::genre::shoegaze, dreampop, alt rock
 
-## Legacy Pilots - Camera Obscura Volume 1
+## Legacy Pilots - Camera Obscura Vol. I
 
 Es ist das geistige Kind von Frank Pilsl, einem erfahrenen Musiker und Produzenten, der Gitarre, Keyboard und Gesang übernimmt. Er ist dafür bekannt, hochkarätige virtuelle Bands zusammenzustellen, indem er mit erstklassigen Studiomusikern zusammenarbeitet. Ganz im Sinne der Tradition von *Legacy Pilots* wartet diese Veröffentlichung mit einer Reihe hochkarätiger Gäste auf, darunter der legendäre Bassist *Leland Sklar* und Schlagzeuger wie *Simon Phillips* und *Marco Minnemann*. Eine raffinierte Mischung aus **Progressive Rock**, **Art Rock** und **Jazz Fusion**. "Camera Obscura Volume 1" ist wie ein First-Class-Flug durch eine Prog-Rock-Traumlandschaft. Es ist unglaublich höfliche Musik, die dennoch weiß, wie man ihre Muskeln spielen lässt. Während viele Prog-Bands versuchen, einem mit Komplexität den Kopf zu verdrehen, nehmen Frank Pilsl und sein All-Star-Cockpit aus Musikern einen lieber mit auf eine malerische Reise. Das Thema wirkt wie eine musikalische Fotografie - Momente der Klarheit, eingefangen durch eine Vintage-Linse. Es ist intellektueller Comfort Food für alle, die ein perfekt platziertes Synth-Solo oder eine Basslinie lieben, die sich wie ein Samtteppich anfühlt. Wenn du dich wie ein anspruchsvoller 70er-Jahre-Rock-Kenner fühlen möchtest, ohne dein Wohnzimmer zu verlassen, ist dies genau das Richtige für dich.
 
 ::genre::prog rock, neo prog rock, art rock, jazz fusion
 
-## Legacy Pilots - Camera Obscura Volume 2
+## Legacy Pilots - Camera Obscura Vol. II
 
 Das Projekt ist nach wie vor das kreative Vehikel für Frank Pilsl, einen Produzenten und Komponisten, der als Steuermann einer internationalen Crew legendärer Session-Musiker fungiert. Ganz im Sinne des Trends der virtuellen Supergroup sind auf Volume 2 Beiträge von Ikonen wie *Simon Phillips* (Toto, The Who), *Leland Sklar* (Phil Collins, James Taylor) und *Marco Minnemann* (The Aristocrats) zu hören. **Symphonischer Progressive Rock**, **Jazz-Fusion** und **Pop-Rock**. War Volume 1 die Postkarte, so ist Camera Obscura Volume 2 die Dokumentation hinter den Kulissen. Es ist etwas abenteuerlicher und wohl auch progiger. Das musikalische Zusammenspiel ist so präzise, dass es fast schon kriminell ist - Simon Phillips’ Schlagzeug klingt, als wäre es in einer Kathedrale aus Gold aufgenommen worden. Das Thema spielt weiterhin mit der Idee von Wahrnehmung und Fokus, aber die Musik fühlt sich eher wie ein großes Finale an als wie eine einfache B-Seite. Es ist ein Album für Menschen, die ein musikalisches Rätsel genießen, das tatsächlich wie ein Song klingt. Stellen Sie es sich als eine High-Definition-Reise vor, bei der jede instrumentale Verzierung ein verstecktes Juwel ist, das darauf wartet, entdeckt zu werden.
 
@@ -904,6 +910,12 @@ Die aufstrebende Singer-Songwriterin *sadie* hat sich in der britischen Indie-Sz
 
 ::genre::atmo death metal, ritual music, avant death metal
 
+## Siril Malmedal Hauge, Kjetil Mulelid - I Remember Oranges
+
+Beide sind bekannte Größen der norwegischen Jazzszene. Seit einem Jahrzehnt arbeiten sie zusammen, angefangen schon während ihres Studiums in Trondheim. Auf diesem Album sind Gäste wie der Trompeter Mathias Eick zu hören, und im Mittelpunkt steht ihre tief intuitive musikalische Verbindung. **Zeitgenössischer Jazz** und **Art-Pop**. Es ist ein intimes, ungefiltertes Duo-Projekt mit Klavier und Gesang. Das musikalische Äquivalent eines ruhigen, sonnendurchfluteten Morgens. Es ist reduziert und verletzlich und konzentriert sich auf das Zusammenspiel zwischen Hauges kristallklarer Stimme und Mulelids eigenwilligem Klavierspiel. Es ist eingängig, aber raffiniert - einfach genug, um mitzusummen, aber komplex genug, um den Geist zu beflügeln.
+
+::genre::chamber jazz, contemporary jazz, vocal jazz
+
 ## Social Distortion - Born to Kill
 
 Dies ist ihr erstes Studioalbum seit 15 Jahren, nachdem sich Frontmann Mike Ness von seiner Mandelkrebserkrankung erholt hat. Die Band gilt nach wie vor als Maßstab für Cowpunk und verbindet Rock’n’Roll der 1950er Jahre mit der rauen Punk-Attitüde der 1970er Jahre. **Punkrock** / **Rock’n’Roll**. Freuen Sie sich auf ihre klassische Mischung aus melodischer Rebellion und lebensmüder Härte. Das Warten war länger als eine Gefängnisstrafe, aber "Born to Kill" beweist, dass Mike Ness immer noch den schärfsten Knurrer der Branche hat. Es ist pure Rock-Wut - drängend, rau und zutiefst gefühlvoll. Es klingt nach Lederjacken, billigem Whiskey und Überleben. Nach 40 Jahren ist Social Distortion immer noch der Boss des OC.
@@ -927,6 +939,12 @@ Nachdem ihn sein Durchbruchshit "Until I Found You" zu einer Retro-Pop-Ikone gem
 *Still Living* wurden 2003 gegründet und sind eine feste Größe der brasilianischen Melodic-Metal-Szene. Sie sind stark von den Big Three des Power Metal beeinflusst: *Helloween*, *Stratovarius* und ihren Landsleuten *Angra*. **Melodic Power Metal** / **Hard Rock**. Ihr Sound zeichnet sich durch rasantes Double-Bass-Drumming, neoklassische Gitarrenriffs und den hochfliegenden, mehrere Oktaven umfassenden Gesang von Renato Costa aus. Wenn du die Zeiten vermisst, in denen es beim Metal noch um heroische Refrains und blitzschnelle Soli ging, bei denen einem schon vom Zuhören die Finger wehtaten, dann ist "Ashes" dein neuer bester Freund. Es ist Feel-Good-Metal mit technischem Anspruch - ein triumphales Album, das sich anfühlt, als würde man einen Schwertkampf auf dem Rücken eines Drachen gewinnen.
 
 ::genre::power metal, melo metal, hard rock
+
+## Submotion Orchestra - Passed Me By **
+
+Das 2009 gegründete 7-köpfige Ensemble ist bekannt für Ruby Woods ätherischen Gesang und einen tiefen, cineastischen Sound. Diese Veröffentlichung ist ihr erstes Album in voller Länge seit acht Jahren. Eine raffinierte Fusion aus **Electronica**, **Dub**, **Jazz** und **Ambient** **Soul**, die oft unter dem Begriff Bass Music mit orchestralen Arrangements eingeordnet wird. Dieses Album ist wie ein Tiefseetauchgang in einen samtigen Ozean. Es ist unglaublich stimmungsvoll und atmosphärisch - perfekt für jene späten Nächte, in denen man aus einem regnerischen Fenster starrt Momente. Es schafft es, sich gleichzeitig gewaltig (dank dieser Subbass-Wobbles) und intim anzufühlen.
+
+::genre::edm, ebm, modern jazz, dub, trip hop, ambient, neo soul
 
 ## Sungrave - Afterglow
 
@@ -1207,6 +1225,12 @@ Obwohl er ein Gigant der regionalen mexikanischen Musik ist, stellt "Muda" eine 
 Die als *Young Creator Crew* bekannte Gruppe besteht aus fünf Mitgliedern (Martin, James, Ju-hoon, Seong-hyeon und Keon-ho), die alle maßgeblich am Songwriting, an der Choreografie und an der visuellen Gestaltung beteiligt sind. Ihr Name ist die Abkürzung für Color Outside the Lines und spiegelt ihre Philosophie des freien Denkens wider. Energiegeladener **K-Pop** und **Hip-Hop** gemischt mit **Plugg**, **Trap** und **Future Bass**. Dieses Album ist wie ein neonbeleuchteter Energy-Drink. Es ist ausgefeilt, besitzt aber eine rohe Subjektivität, in der Grün für ihre Ziele steht und Rot (der Titelsong "REDRED") für die Dinge, die sie hinter sich lassen wollen. Es ist die Kraft der Generation Z in akustischer Form - dynamisch, stilvoll und man kann dabei unmöglich still sitzen bleiben.
 
 ::genre::k-pop, hip hop, trap, future bass
+
+## Darko US - Oni 2
+
+Ein Super-Duo bestehend aus dem Sänger Tom Barber (*Chelsea Grin*) und dem Multi-Instrumentalisten Josh Miller (ex-*Emmure*/*Spite*). Sie sind bekannt als reines Studio-Projekt, das unglaublich komplexe, selbst produzierte Musik veröffentlicht. **Deathcore** trifft auf **Industrial**/**Experimental**. Ein chaotischer Mix aus technischem **Mathcore**, schweren Synthesizer-Klängen und Nu-Metal-Attitüde. "Oni 2" ist, als wäre man in einem glitchigen Videospiel gefangen, in dem der Endgegner eine defekte Kettensäge ist. Es ist laut, es ist verwirrend, und man hat das Gefühl, als würde das eigene Gehirn defragmentiert. In einem Moment ist es pure, furchterregende Aggression; im nächsten eine seltsam schöne elektronische Klanglandschaft. Es ist das musikalische Äquivalent einer digitalen Panikattacke, und man wird jede Sekunde davon lieben.
+
+::genre::deathcore, modern metalcore, mathcore
 
 ## Dazr - Do Or Die
 
