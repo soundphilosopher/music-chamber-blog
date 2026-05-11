@@ -12,6 +12,12 @@ categories:
 
 # Earlier the week ...
 
+## Ara - Hohe Tannen
+
+*Ara* ist das Soloprojekt eines österreichischen Musikers namens *Schnee*, der in Wien lebt. Schnee ist eine produktive Größe in der Underground-Black-Metal-Szene, und dies ist sein viertes Album in voller Länge unter dem Namen Ara. Es ist vor allem im Black Metal verwurzelt, genauer gesagt im **Raw Post Black Metal**. Diese Veröffentlichung wird als sein bislang experimentellstes Album beschrieben und verschiebt die Grenzen des Genres wahrscheinlich in avantgardistischere oder atmosphärischere Gefilde. Wenn du dich schon immer einmal von einem rachsüchtigen Geist durch einen nebelverhangenen österreichischen Wald gejagt fühlen wolltest, ist "Hohe Tannen" dein Soundtrack. Es ist Raw Black Metal im wahrsten Sinne des Wortes - wie ein Eisblock, der dir ins Gesicht schlägt. Schnee tauscht eine ausgefeilte Produktion gegen eine ritualistische, archaische Atmosphäre ein, die sich eher wie ein Zauber als wie ein Song anfühlt.
+
+::genre::atmo black metal, post black metal, avant black metal
+
 ## Kal-El - KRYPTON
 
 Benannt nach Supermans Geburtsnamen, hat die Band über ein Jahrzehnt damit verbracht, einen massiven, verzerrten Fuzz-Rock-Sound zu perfektionieren, der so schwer wirkt, als hätte er seine eigene Schwerkraft. **Stoner Rock**, **Doom Metal** und **Desert Rock**. Sie werden häufig mit Giganten wie *Black Sabbath*, *Kyuss* und *Monster Magnet* verglichen. Dieses Album ist schwerer als ein Planet aus Blei. Es ist Slow-Motion-Rock, der sich anfühlt, als würde er in einer Nebelwolke gespielt. Wenn du Riffs magst, die deinen Brustkorb zum Vibrieren bringen, und Texte über kosmische Odysseen, setz deinen Weltraumhelm auf und dreh die Lautstärke auf unverantwortlich. Es ist laut, es ist verzerrt und es ist herrlich gemächlich.
