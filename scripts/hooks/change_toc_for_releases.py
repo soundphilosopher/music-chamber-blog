@@ -96,20 +96,29 @@ def on_post_page(output: str, page: Page, config: Config) -> str:
         log.warning("change_toc_for_releases: TOC nav not found in %s", src)
         return output
 
-    toc_list = toc_nav.find("ul", class_="md-nav__list")
-    if not toc_list:
-        log.warning("change_toc_for_releases: TOC list not found in %s", src)
-        return output
+    toc_label = soup.new_tag(
+        "label", attrs={"class": "md-nav__title", "for": "__toc"}
+    )
+    toc_icon = soup.new_tag(
+        "span", attrs={"class": "md-nav__icon md-icon"}
+    )
+    toc_label.append(toc_icon)
+    toc_label.string = "Table of contents"
 
-    # Build the replacement TOC list directly from page.toc, which already
-    # carries the full heading hierarchy (h1 → h2 → …) assembled by MkDocs.
+    new_toc_nav = soup.new_tag(
+        "nav", attrs={"class": "md-nav md-nav--secondary", "aria-label": "Table of contents"}
+    )
+
     new_list = soup.new_tag(
         "ul", attrs={"class": "md-nav__list", "data-md-scrollfix": ""}
     )
     for anchor in page.toc:
         new_list.append(_toc_item(soup, anchor))
 
-    toc_list.replace_with(new_list)
+    new_toc_nav.append(toc_label)
+    new_toc_nav.append(new_list)
+
+    toc_nav.replace_with(new_toc_nav)
 
     log.debug("change_toc_for_releases: rebuilt TOC for %s", src)
 
