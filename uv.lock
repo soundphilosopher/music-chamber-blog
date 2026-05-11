@@ -684,11 +684,6 @@ dependencies = [
     { name = "ollama" },
 ]
 
-[package.optional-dependencies]
-dev = [
-    { name = "pyright" },
-]
-
 [package.dev-dependencies]
 dev = [
     { name = "pyright" },
@@ -710,9 +705,7 @@ requires-dist = [
     { name = "mkdocs-section-index" },
     { name = "mkdocstrings", extras = ["python"] },
     { name = "ollama" },
-    { name = "pyright", marker = "extra == 'dev'" },
 ]
-provides-extras = ["dev"]
 
 [package.metadata.requires-dev]
 dev = [
