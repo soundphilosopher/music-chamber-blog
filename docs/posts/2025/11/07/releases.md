@@ -6,476 +6,788 @@ categories:
 
 # Releases! Releases! Releases!
 
-## Aaron Parks - By all Means
+## 1900Rugrat - Big Ah Kidz
 
-Ein neues Blue Note Release des amerikanischen Jazz-Saxophonisten, welcher hier von Ben Street (Bass), Billy Hart (Drum) und Ben Solomon (Saxophon) unterstützt wird. Mehr der klassischen Note des “Corner-Jazz” zugewandten Kompositionen.
+tbd
 
-::genre::contemporary jazz, coffee jazz
+::genre::
 
-## Agnostic Front - Echoes in Eternity
+## 84 Days - 84 Days
 
-Crowd Vocals, schnelle Punk-Riffs, smoothe Two-Step-Passagen und Thrash an Stellen wo es notwendig ist. Ja, das New-Yorker-Hardcore Urgestein ist mit neuen Material am Start. Auch nach 41 Jahren nach ihrem Debüt ist die Combo nicht ruhiger unterwegs.
+tbd
 
-::genre::hardcore punk
+::genre::
 
-## Allie X - Happiness is going to get you *
+## Agnostic Front - Echoes In Eternity
 
-Die kanadische Singer & Songwriterin Alexandra Hughes (Allie X) mit ihrem neuesten Output. Avant-Pop, welcher mit Leichtigkeit mit Synth-Pop und der Harmonie-Kraft des Indie-Pop in Einklang gebracht wird.
+tbd
 
-::genre::avant pop, synth pop, indie pop
+::genre::
 
 <!-- more -->
 
-## Armand Hammer - Mercy *
+## Alcatrazz - Prior Convictions
 
-Das New-Yorker Duo Billy Woods und Elucid sind zurück mit einer weiteren Produktion des Alan Maman aka The Alchemist. New-York-Hip-Hop, welcher mit Elementen des Jazz und Prog ausgestattet und präsentiert wird.
+tbd
 
-::genre::hip hop
+::genre::
 
-## Armor For Sleep - There is no Memory
+## Alex Skolnick Trio - Prove You're Not a Robot
 
-Das New-Jersey-Outfit mit seinem neuesten Werk. Von ihrem dreamy Emocore-Sound ist nicht mehr viel übrig, außer die Texte selbst. Ansonsten wird ein recht stabiles Werk des Alt-Metal/Alt-Rock hier abgeliefert.
+tbd
 
-::genre::emocore, alt metal, alt rock, post hardcore
+::genre::
 
-## Astralplane - Out of the Void *
+## Allie X - Happiness Is Going to Get You
 
-Der dritte Longplayer des norwegischen Trios. Psych-Rock, welcher intelligent und elegant mit Elementen des Space-Rock, Prog-Rock, Stoner-Rock und Blues vereint wird. Starker Sänger, starkes Songwriting und klassische Produktion.
+tbd
 
-::genre::space rock, prog rock, stoner rock, blues
+::genre::
 
-## Astronoid - Stargod *
+## Armand Hammerandthe Alchemist - Mercy
 
-Neues von dem amerikanischen SciFi-Outfit. Space-y Alt-Rock-Kompositionen, werden mit Pop-Punk, Shoegaze, Dream Pop, Synth-Pop und Elementen des Black-Metal in der Struktur verarbeitet. Entstanden ist ein Werk, das mich stellenweise an die Kompositionen von Coheed And Cambria erinnert, nur mit mehr space-y Themes.
+tbd
 
-::genre::pop punk, shoegaze, dreampop, synth pop, avant black metal
+::genre::
 
-## Be Still The Earth, Dear Gravity - Anodyne + Afterglow
+## Armor For Sleep - There Is No Memory
 
-Die Kollaboration zwischen dem amerikanischen Producer Marshall Usinger (Be Still The Earth) und dem amerikanischen Producer Mike Graff (Dear Gravity) startete 2021 mit der EP "Anodyne". Dieses Release enthält die EP, zwei Remixe (Elskavon, Hammock) und Neues. Cinematic-Ambient, welcher Farben des Ambient-Post-Rock annehmen kann, wodurch der Remix von Hammock Sinn ergibt, denn genau an diese erinnern mich die Kompositionen immer.
+tbd
 
-::genre::cine ambient, post rock
+::genre::
 
-## Betterov - Große Kunst
+## Ash Wing - Ash Wing
 
-Das Sophomore Release des deutschen Projekts um den Singer & Songwriter Manuel Bittorf. Ich würde das Werk dem Avent-Alt-Rock zuordnen im Groben. Allerdings verarbeitet der Künstler in seiner Bühnen-Persona auch Elemente des Synth-Pop, Post-Punk und Indie-Pop.
+tbd
 
-::genre::indie pop, synth pop, post punk
+::genre::
 
-## Billy Meier - Ten **
+## Astarte - Blackdemonium
 
-Das norwegische Kollektiv, mit dem kontroversen Namen, bringt neue Kompositionen ans Tageslicht zu ihrem 10-jährigen Bestehen. Das Norwegian-Jazz-Kollektiv hat sich allerhand Verstärkung an Bord geholt für diesen Meilenstein und verarbeitet in ihren Nordic-Jazz-Kompositionen Progressive-, wie auch Fusion-Elemente.
+tbd
 
-::genre::nordic jazz, jazz fusion
+::genre::
 
-## Blk Odyssy - Mood Control
+## Astronoid - Stargod
 
-Der texanische Producer und Singer & Songwriter Juwan Elcock aka Blk Odyssy mit seinem neuesten Werk. Wieder bringt eine Mixtur aus verschiedenen Hip-Hop-Corners, Soul, R&B, Rock und Funk zum Leben.
+tbd
 
-::genre::hip hop, trip hop, r&b, neo soul, alt pop, acid funk
+::genre::
 
-## Caskets - The only Heaven you’ll know
+## Bahnhof Motte - Zeit Fressen
 
-Das UK-Based-Outfit mit seinem neuesten Release. Post-Hardcore wird Elementen des Modern Metal in eine Komposition gebracht. Für das Genre ausreichendes Songwriting, mit den typischen Trap-Elementen und dem Versuch der Aggressivität.
+tbd
 
-::genre::post hardcore, modern metal
+::genre::
 
-## Centinex - With Guts and Glory
+## Beastwars - The Ship // The Sea
 
-Die routinierten Schweden mit neuen Kompositionen. Man kann sie dem Old-School-Death zuweisen, allerdings würde ich sie klar dem Death-Thrash zuweisen, da die Kompositionen mehr Attitüde des Punk in Produktion und Songwriting widerspiegeln.
+tbd
 
-::genre::osdm, thrash metal
+::genre::
 
-## Circles Around The Sun - Interludes for the Dead: Volume 2
+## Benee - Ur an Angel I'm Just Particles
 
-10 Jahre nach “Interludes for the Dead” bringt die amerikanische Jam-Band die Fortsetzung dieses Projekts ans Tageslicht. Ursprünglich entstanden aus einer Jam-Session, um Pausen-Musik für die “The Grateful Dead” Tour zu komponieren, wurde ein klassisches Werk des Instrumental-Psych-Rocks.
+tbd
 
-::genre::jam band, psych rock, instrumental
+::genre::
+
+## Black Sabbitch - Unrest In The West
+
+tbd
+
+::genre::
+
+## Bogwife - From Ashes
+
+tbd
+
+::genre::
+
+## Brad Paisley - Snow Globe Town
+
+tbd
+
+::genre::
+
+## Cannibal Death - Cannibal Dead
+
+tbd
+
+::genre::
+
+## Caskets - The Only Heaven You'll Know
+
+tbd
+
+::genre::
+
+## Centinex - With Guts And Glory
+
+tbd
+
+::genre::
+
+## Cepheidae Variable - Primordial Reverie
+
+tbd
+
+::genre::
+
+## Charlotte de Witte - Charlotte de Witte
+
+tbd
+
+::genre::
 
 ## Clark - Steep Stims
 
-Der britische Producer und DJ Christopher Clark mit einem neuen Output. In gewohnter Tradition werden Ambient, House, Breakbeat, Drum & Bass, Neo Classic und IDM zu einer Produktion vereint. Geachtet wird auf eine gewisse Struktur in der Produktion, so dass die Neo-Classic-Elemente eher als Interludes zu den Electronica Kompositionen eingesetzt werden.
+tbd
 
-::genre::ambient, acid house, breakbeat, d&b, neo classic, idm, neo classic
+::genre::
 
-## Cold In Berlin - Wounds *
+## Cold In Berlin - Wounds
 
-Neues vom UK-Based Quartett. Doom-y, space-y Goth-Rock, welcher mit Elementen des Prog-Rock, Post-Punk, Krautrock und Post-Sludge versehen wird. Avantgardisches und elegant-energiereiches Songwriting mit einer starken Produktion.
+tbd
 
-::genre::prog rock, post punk, krautrock, post sludge metal, avant metal
+::genre::
+
+## Cold Steel - Discipline & Punish
+
+tbd
+
+::genre::
+
+## Constant Smiles - Moonflowers
+
+tbd
+
+::genre::
+
+## Cosmic Psychos - I Really Like Beer
+
+tbd
+
+::genre::
+
+## Cremate - Ready To Fight
+
+tbd
+
+::genre::
 
 ## Danny Brown - Stardust
 
-Der amerikanische Experimental-Rapper, Danny Brown, mit seinem neuesten Output, welches sich mit seiner Auseinandersetzung zwischen Kunst und den Nüchtern werden beschäftigt. In seiner uniquen Art und Weise verbindet er in seinen Hip-Hop-Kompositionen Electronica, Hyperpop, Acid, Rock und Indie-Pop zu einem Produkt.
+tbd
 
-::genre::hip hop, electronica, acid soul, pop rock, indie pop
+::genre::
 
-## Demae - Deep Dive *
+## Deconstructing Sequence - Tenebris Cosmicis Tempora
 
-Die britische Singer & Songwriterin Demae Wodu mit ihrem neuesten Werk. Ein Werk des Alt-Soul, welches Elemente des Reggae, Alt-Hip-Hop, Power Pop, R&B, Funk und Soft-Pop verarbeitet.
+tbd
 
-::genre::hip hop, power pop, r&b, acid funk
+::genre::
 
-## Dominik Eulberg - Lepidoptera
+## Del Water Gap - Chasing the Chimera
 
-Der deutsche Producer, Autor und Biologe mit seinem neuesten Werk der Metamorphose. Minimal Techno, welcher seine Metamorphose über die Stationen Ambient und Deep House vollzieht. Der Albumtitel ist die wissenschaftliche Bezeichnung für Schmetterling (Schuppenflügler) und im Kontrast werden alle Titel mit dem Namen einer Art dieser Gattung versehen.
+tbd
 
-::genre::minimal electronica, techno, ambient, deep house
+::genre::
 
-## Drain - … is your Friend
+## Deposed King - Letters to a Distant Past
 
-Das kalifornische Trio mit seinem dritten Output. Aggressiver Hardcore-Punk, welcher mit Elementen des Thrash und Metalcore ausgestattet wird. Damit passen sie sich gut in die Riege des Cal-Metalic-Hardcore alá Xibalba und Scowl ein.
+tbd
 
-::genre::hardcore punk, thrash metal, metalcore, metallic hardcore
+::genre::
+
+## DJ Snake - Nomad
+
+tbd
+
+::genre::
+
+## Drain - ...Is Your Friend
+
+tbd
+
+::genre::
 
 ## Dysentery - Dejection Chrysalis
 
-Die Slam-Formation aus Massachusetts mit ihrem neuesten Output. Slam Death, welcher mit einer Portion des Brutal Death versehen wird und mit einer passenden Slam-Produktion versehen wurde.
+tbd
 
-::genre::slamcore, brutal death metal
+::genre::
+
+## Edwin/Durant/Maitland - The Baldock Transmission
+
+tbd
+
+::genre::
+
+## Esprit D'Air - Aeons
+
+tbd
+
+::genre::
+
+## Ex-Plizit - Märchen, Mythen Und Legenden
+
+tbd
+
+::genre::
+
+## Fermáta - Backstage
+
+tbd
+
+::genre::
+
+## Fervent Send - Net Negative
+
+tbd
+
+::genre::
 
 ## Fickle Friends - Fickle Friends
 
-Die UK-Based Band mit ihrem dritten Release, nach ihrer Mental-Health-Hiatus. Nachdem auch Cooking sie aus dem Programm genommen hat, wird dieses Werk in Eigenregie vertrieben. Dem Ohr wird eine Melange des Indie-Pop und Power Pop geboten.
+tbd
 
-::genre::indie pop, power pop
+::genre::
 
-## Gareth Quinn Redmond - Múscailte
+## Finger Eleven - Last Night On Earth
 
-Der irische Producer bringt mit seinem neuesten Werk. Eine konzeptionelle Komposition des Ambient in der Form der Environmental-Music. Ambient Synth wird mit modularen Elementen in eine musikalische Umgebung der Schwingung transformiert.
+tbd
 
-::genre::ambient, synth pop, synth wave
+::genre::
 
-## Gianni Brezzo - Soundscapes Vol. 2: Music for Balkan Unicorns
+## Flying Circus - The Eternal Moment
 
-Das Projekt um den deutschen SInger & Songwriter Marvin Horsch mit einer neuen Fragmental-Compilation. Fragmente des Bossa Nova und Brazil-Jazz werden mit Elementen des Classica in eine Produktion vereint.
+tbd
 
-::genre::bossa nova, contemporary jazz, modern classic
+::genre::
 
-## Hafen040 - Hell
+## Giorgia - G
 
-Das deutsche Post-Hardcore-Duo bringt zwei EPs (“Hell” und “Dunkel”) unter die Massen. Klassischer deutscher Post-Hardcore, welcher mit viel Punk-Atitüde ausgestattet ist und mit einer Art des Pessimismus im Text versehen ist.
+tbd
 
-::genre::post hardcore
+::genre::
+
+## Glorious Depravity - Death Never Sleeps
+
+tbd
+
+::genre::
+
+## Gísli Gunnarsson - Úr Öskunni
+
+tbd
+
+::genre::
+
+## Harmful - Harmful
+
+tbd
+
+::genre::
 
 ## Hatchie - Liquorice
 
-Das dritte Werk der australischen Singer & Songwriterin Harriette Pilbeam (Hatchie) bewegt sich wieder auf dem schmalen Grad des Indie-Pop und Power-Pop, mit einer aussergewöhnlichen Freude Elemente des Dream-Pop mit einzubinden.
+tbd
 
-::genre::indie pop, power pop, dreampop
+::genre::
 
-## Kadavar - Kids abandoning Destiny among Vanity and Ruin *
+## Hell in the Club - Joker In The Pack
 
-Die Fuzzer aus Berlin mit ihrem (überraschenden) neuen Werk, was das zweite Release in diesem Jahr darstellt. Bereits im Vorgänger haben sie mehr auf Psych-Rock und Space-Rock gesetzt und weichen auch in diesem Werk nicht davon ab. Ihre Stoner-Wurzeln sind noch zu vernehmen, aber nicht mehr in der strukturellen Front.
+tbd
 
-::genre::psych rock, space rock, stoner rock
+::genre::
 
-## Kali Malone, Drew McDowall - Magnetism
+## Homme - Ma vie en théorèmes
 
-Eine weitere Kollaboration zwischen der amerikanischen Komponistin Kali Malone und dem schottischen Komponisten und Musiker Drew McDowall (Coil). Ein experimentelles Werk des Drone-Ambient.
+tbd
 
-::genre::ambient, drone
+::genre::
 
-## Kameel - Variomatic **
+## Ildaruni - Divinum Sanguinem
 
-Das belgische Trio bringt in seinem dritten Release ein paar Gäste mit, welche die instrumentalen Kompositionen mit ihren Künsten erweitern. Entstanden ist ein europäisch-inspiriertes Werk des Prog-Rock, welches, nicht unerwartet, Elemente des Space Rock, Krautrock und Psych-Rock in eleganter Art und Weise in das Songwriting integriert.
+tbd
 
-::genre::prog rock, psych rock, space rock, krautrock
+::genre::
 
-## Kariti - Still Life **
+## In My Exile - Bonsai Crusade
 
-Die russische Poetin, Producerin und Musikerin mit ihrem neuesten Output. Ich würde es im Groben dem Ambient-Folk zuweisen, allerdings birgt dieses Werk durchaus mehr. Avant-Rock, Drone, Neo-Classic und gar Elemente des Shoegaze kann man in den Songstrukturen wieder finden.
+tbd
 
-::genre::ambient folk, neo classic, drone, avant rock, shoegaze
+::genre::
 
-## Klangkarussell - Petrichor
+## Jack Gardiner - Urushi
 
-Das österreichische Duo mit seinem neuesten Werk. Mit stimmlicher Unterstützung von Givven, Blazey, Oliva, Bloom Twins, Olivia und Redward Martin wird eine Produktion des Minimal Techno und EDM geschaffen.
+tbd
 
-::genre::minimal electronica, edm, techno
+::genre::
 
-## Matt Costa - Explorations of Sight and Sound, Vol. 3
+## Jake Owen - Dreams to Dream
 
-Der amerikanische Singer & Songwriter mit einen neuen Exkurs in seinem Schaffen. Track #1 ist eine eher klassische Komposition des Indie-Folk, wobei Track #2 mit seinen ~75 Minuten eine Meditation des Ambient und Field-Recordings abbildet.
+tbd
 
-::genre::ambient, field recordings, indie folk, psych folk
+::genre::
 
-## Matteo Paggi, Maria Faust, Tilo Weber - Morgenbarn
+## Jonas Lindberg - Time Frames
 
-Die Kollaboration zwischen dem französischen Jazz-Posaunist Matteo Paggi, dem deutschen Drummer und Percussionist Tilo Weber und der estländischen Jazz-Saxophonistin Maria Faust verbirgt sich hinter dem Namen “Morgenbarn”. Geboten werden Improvisationen des klassischen Jazz, mit Hang zum Free-Jazz.
+tbd
 
-::genre::free jazz, contemporary jazz, improvisation
+::genre::
 
-## Mavis Staples - Sad and beautiful World
+## Jordana - Jordanaland
 
-Die amerikanische Singer & Songwriterin und Gospel-Sängerin mit ihrem neuesten Album in ihrer > 60 Jahre Musikerin-Karriere. R&B/Soul mit folky Strukturen und der markanten Stimme von Mavis.
+tbd
 
-::genre::r&b, neo soul
+::genre::
 
-## Midlake - A Bridge to far
+## Kadavar - Kids Abandoning Destiny Among Vanity And Ruin
 
-Die texanische Kapelle mit ihrem sechsten Output. Folk-Rock, welcher mit einer gewissen Emotion auch die Grenzen des Mello-Folk streift und mit den dreamy Kompositionen auch eine Art des Indie-Folk nicht von sich weisen kann.
+tbd
 
-::genre::indie folk, folk rock, mellow folk, dreampop
+::genre::
 
-## Møtrik - Earth *
+## Kali Maloneand, Drew McDowall - Magnetism
 
-Das Konsortium aus Portland mit seinem neuesten Werk. Krautrock, welcher die Welten des Space Rock, Psych Rock und Post-Punk mit in sein Universum integriert.
+tbd
 
-::genre::psych rock, space rock, post punk, krautrock
+::genre::
 
-## MSDOS - Unnoticed: MSDOS
+## Kameel - Variomatic
 
-Der griechische Producer und DJ mit seinem neuesten Streich. Ich meine, dass diese Synth-Wave-Inspirierte Art des Drum & Bass, Liquid Drum & Bass genannt wird.
+tbd
 
-::genre::synth wave, d&b
+::genre::
 
-## Omnium Gatherum - May the Bridges we burn Light the Way
+## Kauan - Wayhome
 
-Die routinierten Finnen mit ihren neuesten Werken. Die finnische Spielart des Melo-Death birgt immer eine Art der Symphonie in sich, welche sich von dem nordischen Power-Metal speist, was eine Art der Progressivität mit sich bringt.
+tbd
 
-::genre::power metal, melodic metal
+::genre::
 
-## Orchid Mantis - In Airports
+## Lambert - Nur für Mitglieder
 
-Das Projekt um den amerikanischen Singer & Songwriter Thomas Howard mit seinem zweiten Release in 2025. Struktureller Dream Pop trifft auf Indie Pop trifft auf Bedroom LoFi. Dabei wird die Fragilität der Erinnerung thematisch aufgegriffen.
+tbd
 
-::genre::dreampop, indie pop, bedroom pop, lofi
+::genre::
 
-## Portugal. The Man - Shish *
+## Mad Vantage - MINUTIAE.
 
-Das neueste Werk der amerikanischen Band. Geliebt werden sie durch ihre experimentelle Art und Weise, welche auch auf diesem Release seine Spuren hinterlässt. So wird ein Indie-Pop Song im Anschluß sofort von einen sludgy Hardcore-Punk-Track zerfetzt, um im Nachgang von einen Alt-Rock Song abgelöst.
+tbd
 
-::genre::indie pop, noise rock, avant rock, sludge rock, alt rock, hardcore punk
+::genre::
+
+## Maitland - Falling Into Place
+
+tbd
+
+::genre::
+
+## Mavis Staples - Sad and Beautiful World
+
+tbd
+
+::genre::
+
+## Midlake - A Bridge To Far
+
+tbd
+
+::genre::
+
+## Moriah Plaza - Própis
+
+tbd
+
+::genre::
+
+## Møtrik - Earth
+
+tbd
+
+::genre::
+
+## Naked Lunch - Lights
+
+tbd
+
+::genre::
+
+## Novembre - Words of Indigo
+
+tbd
+
+::genre::
+
+## Omnium Gatherum - May the Bridges We Burn Light the Way
+
+tbd
+
+::genre::
+
+## Oromet - The Sinking Isle
+
+tbd
+
+::genre::
+
+## Paul Kelly - Seventy
+
+tbd
+
+::genre::
+
+## Portugal. The Man - Shish
+
+tbd
+
+::genre::
 
 ## Pupil Slicer - Fleshwork
 
-Das UK-Based Trio mit seinem neuesten Werk. Eine intelligente Melange aus Post-Hardcore und Mathcore.
+tbd
 
-::genre::mathcore, post hardcore
+::genre::
 
-## Radical Face - Mixtapes #2
+## Radiant Thought - Transcendence
 
-Das Projekt um den amerikanischen Singer & Songwriter Ben Cooper mit der Fortsetzung seiner Mixtape Serie, welche mehr Experimente in Produktion und Songwriting zulässt. So werden Indie-Rock, Indie-Folk, Alt-Folk, Alt-Rock und Dream Pop in den Kompositionen erlaubt.
+tbd
 
-::genre::indie rock, indie folk, alt folk, alt rock, dreampop
+::genre::
 
-## Robert Rich, Markus Reuter - Incubation
+## Recollection - Vivid Dreams
 
-Die Kollaboration zwischen den amerikanischen Producer und Komponisten Robert Rich und den deutschen Multi-Instrumentalisten Markus Reuter verwöhnt das Ohr mit einer theatralischen Darbietung des Ambient und Drone, welche effektreich von analog Instrumentalisierungen der Gitarre, des Pianos und der Flöte begleitet wird.
+tbd
 
-::genre::ambient acoustic, drone
+::genre::
 
-## Sabine McCalla - Don’t call me Baby
+## Retreat From Moscow - The Illusion of Choice
 
-Das neueste Release der amerikanischen Singer & Songwriterin. Sie bindet in ihre Alt-Soul Kompositionen Rock’n’Roll, Surf-Rock, Folk, Gospel, Indie-Pop und allerhand Americana.
+tbd
 
-::genre::alt soul, surf rock, rock'n'roll revival, alt folk, gospel, indie pop, americana
+::genre::
 
-## Sarathy Korwar - There is Beauty, There already
+## rhubiqs - Spectral Passage
 
-Der UK-Based Drummer, Percussionist und Komponist mit neuem Klangmaterial. Percussions werden von minimalen Strukturen begleitet und ergeben ein fast meditatives Werk des Indo-Jazz, welches von Elementen der Ambient-Electronica begleitet und im LoFi Gewand präsentiert wird.
+tbd
 
-::genre::oriental jazz, world music, ambient, jazztronica, lofi
+::genre::
 
-## Sebastian Rochford, Finding Ways - Finding Ways *
+## Rosalía - Lux
 
-Der renommierte britische Jazz-Drummer, welcher mit Polar Bear bereits Meilensteine gelegt hat im Jazz, hier mit dem Debüt seines neuesten Projekts “Finding Ways”. Ein instrumentales Werk, welches die Gitarre als Hauptakteur im Fokus hat. Mit dem bizarren Drumming von Sebastian Rochford, entsteht eine Melange aus Fusion-Rock, Math-Rock und Prog-Rock.
+tbd
 
-::genre::jazz fusion, prog rock, math rock
+::genre::
 
-## Smalltape - Tangram *
+## Sam Gellaitry - Anywhere Here Is Perfect
 
-Das Projekt um den deutschen Producer und Multi-Instrumentalisten Philipp Nespital mit seinem neuesten Experiment. Strukturen des Prog-Rock, treffen auf Art-Rock, Industrial und Elementen der Klassik.
+tbd
 
-::genre::prog rock, art rock, avant rock, industrial
+::genre::
 
-## Snufmumriko - Sent i November
+## Smalltape - Tangram
 
-Neues aus dem Hause des schwedischen Producer Ingmar Wennerberg. Enthalten sind Kompositionen des Ambient, welche mit Field-Recordings und neo-klassischen Elementen in eine dichte, träumerische und kalte Symphonie gebracht werden.
+tbd
 
-::genre::neo classic, ambient, field recordings
+::genre::
+
+## SML - How You Been
+
+tbd
+
+::genre::
+
+## Softsun - Eternal Sunrise
+
+tbd
+
+::genre::
+
+## Sorry - Cosplay
+
+tbd
+
+::genre::
+
+## Spaced - No Espace
+
+tbd
+
+::genre::
+
+## Steam Skunk - Zeppelin
+
+tbd
+
+::genre::
+
+## Stella Donnelly - Love And Fortune
+
+tbd
+
+::genre::
 
 ## Steve Gunn - Daylight Daylight
 
-Der amerikanische Singer & Songwriter mit einem neuen Release. Mit viel Tiefe wird eine dreamy Spielweise des Indie-Folk zelebriert, welcher durch seine melancholische Art und der träumerischen Stimme von Steve auch in dem Mello-Folk einsortiert werden könnte.
+tbd
 
-::genre::indie folk, mellow folk
+::genre::
 
-## Summer Salt - Reside
+## Strange Moments - Skyscraping
 
-Das Duo aus Texas mit seinem neuesten Werk. Eine Melange aus Indie-Rock und Surf-Rock mit einer psychedelischen Produktion.
+tbd
 
-::genre::indie rock, surf rock, psych rock
+::genre::
 
-## Sung - Obsidian
+## Teen Jesus And The Jean Teasers - Glory
 
-Das Projekt um den koreanischen Producer Geoffrey Graven mit seinem neuesten Release. Synthwave bildet eine Melange mit Darkwave und Minimal Electronica.
+tbd
 
-::genre::minimal electronica, synth wave, dark wave
+::genre::
 
-## The Dears - Life is Beautiful! Life is Beautiful! Life is Beautiful! *
+## The Dears - Life Is Beautiful! Life Is Beautiful! Life Is Beautiful!
 
-Das Quintett aus Kanada mit seinem neuesten Output. Die Indie-Rock-Kapelle bringt eine Art Hommage an die Sounds der 70er Synth-Rock/Art-Rock Welle ans Tageslicht. Sie haben es immer verstanden, in ihrem Songwriting einen gewissen Raum zum Experiment zu geben.
+tbd
 
-::genre::synth rock, art rock
+::genre::
 
-## The Devil’s Trade - Nincs Szennyezetlen Szép *
+## The Mountain Goats - Through This Fire Across From Peter Balkan
 
-Die ungarische Band mit ihrem neuesten Release. Von ihrem Doom-Folk-Wurzeln ist nur noch der Doom übrig geblieben, was ich persönlich nicht allzu schmerzhaft empfinde. Ich wurde die Kompositionen dem Post-Doom grob zuschreiben. Gespielt wird eine Art des Doom-Metal, mit sludge-y Riffing und der Atmosphäre des Post-Metal. Eine leichte Note des Prog und Psych lassen sich nicht ganz verstecken.
+tbd
 
-::genre::post doom metal, sludge metal, prog metal, psych metal
+::genre::
 
-## The Mon - Songs of Abandon
+## The Washing Planck - GaSosTuForGy
 
-Das Solo-Projekt des Ufomammut’s Urlo. Gespielt wird eine psychedelische Art des Dark-Folk. Man könnte fast meinen, dass es Ufomammut Unplugged ist.
+tbd
 
-::genre::dark folk, prog folk, psych folk
+::genre::
 
-## The Mountain Goats - Through this Fire across from Peter Balkan *
+## Tiny Vipers - Tormentor
 
-Die amerikanische Kapelle mit ihrem neuesten Release. Ein “Full-On-Musical”, welches Protagonisten Captain Peter Balkan verfolgt. Die Indie-Folker werden auf ihre alte Tage immer Proggier, ohne dabei jedoch den Indie-Folk zu vernachlässigen.
+tbd
 
-::genre::indie folk, prog folk
+::genre::
 
-## The Rumour Said Fire - Lyset Mit Navn
+## Tollheit - Piper's Honey
 
-Das dänische Outfit mit seinen neuesten Kompositionen. Indie-Rock wird melancholisch in eine Melange aus Folk und Alt-Folk eingebettet.
+tbd
 
-::genre::alt folk, country folk, indie rock
+::genre::
 
-## Thisquietarmy, Otay:onii - Serpents and Shallows *
+## Trisha Yearwood - Christmastime
 
-Die Fortsetzung der Kollaboration zwischen den kanadischen Producer und Gitarristen Eric Quach (Thisquietarmy) und der chinesischen Musikerin und Komponistin Lane Shi Otayonii (otay:onii). Wieder werden Fragmente des Gesangs mit viel experimenteller Freude dem Drone ausgesetzt.
+tbd
 
-::genre::experimental drone
+::genre::
 
-## Thomas Morgan - Around you is a Forest
+## Valby Vokalgruppe - Solids for Voices
 
-Das Solo-Debüt des amerikanischen Jazz-Bassisten bietet tiefe Double-Bass Improvisationen, welche mit allerlei Kunst und Kollaboration in Gewänder der Mono-Electronica, des Oriental und des Ambient verbaut werden.
+tbd
 
-::genre::oriental jazz, ambient, jazztronica, improvisation
+::genre::
 
-## Tim Linghaus - Future City Ghosts
+## Werewolf Etiquette - Werewolf Etiquette
 
-Der deutsche Pianist mit neuen Kompositionen. Chamber-Piano wird mit Elementen der Electronica vereint und erzeugt ein tiefes Werk der Neo-Klassik.
+tbd
 
-::genre::neo classic, electronica, chamber orchestra
-
-## Tjara - Haunted Memory Boy *
-
-Das Projekt um die Reykjavik-Based Musiker Kjartan Holm, Francesco Fabris und Sin Fang mit ihrem Debüt. Dark-Ambient wird mit Drone und Noise in eine Produktion verpackt. Dabei werden theatralische Elemente als tragender Bogen um die Kompositionen gespannt.
-
-::genre::dark ambient, drone, noise
-
-## Tommy ‘86 - Colorful Sounds
-
-Der französische Producer Frédéric Féret mit seinem neuesten Werk unter seinem Pseudonym Tommy ‘86. Instrumentale Kompositionen des Retro-Wave werden mit Strukturen des Synth-Pop und Synth-Wave in Klang gebracht.
-
-::genre::new retro wave, synth pop, synth wave
-
-## Trevor Something - The Anima
-
-Der amerikanische Producer Clayton Bullard aka Trevor Something mit seinem neuesten Release. Synth-Pop wird mit Trap und Synth-Wave in eine Komposition gebracht. Das Gesamtwerk wird in einer melancholischen Stimmung dargeboten.
-
-::genre::synth pop, trap, synth wave
-
-## V/Haze Miasma - Praise Me! Erase Me! *
-
-Das deutsche Gestirn mit seinem Sophomore Release. Die Kapelle versteht exzellent Prog-Rock mit Post-Metal und Black-Metal zu vereinen. Entstanden ist ein dunkles Werk des Prog, mit erstklassigen Songwriting und einer entsprechenden Produktion.
-
-::genre::prog rock, post metal, post black metal
-
-## Waldgeflüster - Knochengesänge *
-
-Neues Geflüster aus dem Walde. Die deutschen Black-Metaller machen es den Amerikanern um Panopticon nach und veröffentlichen ein Zweigespann. Das erste Werk hier bildet ihre übliche Kombination von Melodic-Black-Metal und Folk-Hintergründen, mit einer symphonischen Instrumentalisierung ab. Wie auch bei Panopticon in diesem Jahr, kann ich mit diesem Teil mehr anfangen.
-
-::genre::melo black metal, post black metal
-
-## Waldgeflüster - Knochengesänge II
-
-Hier das zweite Werk der deutschen Melodic-Black-Metaller im puren Gewand des Neo-Folk. Boring. Not my cup of tea.
-
-::genre::neo folk
-
-## Walk Off The Earth - Good Company
-
-Die kanadische Indie-Pop Band mit ihrem neuesten Release. So sehr ich ihren experimentellen Style in Live und Stream Formaten mag und ein heimlicher Fan von Sarah Blackwood bin, so kann ich meist mit ihren Studio-Releases wenig anfangen. Ihr Style des Loopings wird zwar auch da angewandt, allerdings in einer sehr klinischen Umgebung.
-
-::genre::experimental pop, experimental folk, alt folk
+::genre::
 
 ## White Lies - Night Light
 
-Die Briten sind mit neuem Material am Start. Mit ihrem Mix aus Indie-Rock, New Wave und Post-Punk konnten sie immer Erfolge feiern und stehen meiner Meinung nach Bands wie Interpol oder The Killers im Nichts nach.
+tbd
 
-::genre::indie rock, post punk, new wave
+::genre::
 
 ## Whitney - Small Talk
 
-Das amerikanische Duo mit seinem neuesten Werk. Ein psychedelischer Wegweiser des Indie-Pop, mit Ausflügen in den Indie-Folk und Pop-Rock. Alles wird elegant verpackt in eine 70s influenced Pop-Rock-Produktion.
+tbd
 
-::genre::psych pop, indie pop, indie folk, pop rock
+::genre::
 
-## Xenia Reaper - Nept Polarisation
+## Willie Nelson - Workin' Man: Willie Sings Merle
 
-Die deutsche Producerin mit ihrem neuesten Output. Ein Werk der Glitch Electronica, welches mit Fragmenten des House, Breakbeat und Techno ausgerüstet ist.
+tbd
 
-::genre::glitch, electronica, acid house, breakbeat, techno
+::genre::
+
+## Wrede - Tides
+
+tbd
+
+::genre::
+
+## Young Miko - Do Not Disturb
+
+tbd
+
+::genre::
 
 ---
 
-# Earlier the week …
+# Earlier the week ...
+
+## Arianuova - Volevo Andare Altrove
+
+tbd
+
+::genre::
+
+## Arise Moto - The Light would like a word with you
+
+tbd
+
+::genre::
+
+## Astroverse Dimensions - Beta Shell
+
+tbd
+
+::genre::
+
+## Cheap Trick - All Washed Up
+
+tbd
+
+::genre::
+
+## Cymbalic Encounters - Le Porte Del Silenzio
+
+tbd
+
+::genre::
+
+## Debit - Desaceleradas
+
+tbd
+
+::genre::
+
+## Dominik Eulberg - Lepidoptera
+
+tbd
+
+::genre::
+
+## DrFantástico - Ghost Magnetic Face
+
+tbd
+
+::genre::
+
+## Fernando Perdomo - Waves 11
+
+tbd
+
+::genre::
+
+## Jilk - Fix Your Hearts
+
+tbd
+
+::genre::
+
+## Juana Molina - DOGA
+
+tbd
+
+::genre::
 
 ## Leap Day - When Gravity Wins
 
-Die routinierten Niederländer mit ihrem neuesten Release. Neo-Prog, welcher mit einer Portion Psych-Rock und Space-Rock ausgerüstet wird.
+tbd
 
-::genre::neo prog rock, psych rock, space rock
+::genre::
 
-## Lore. - Mug
+## Malibran - Remastered Collection
 
-Das Debüt des LA-Based Producer und Multi-Instrumentalisten Jake Supple. Alt-Rock, welcher mit Indie-Rock und Post-Grunge zu einer Komposition vereint wird.
+tbd
 
-::genre::alt rock, indie rock, post grunge
+::genre::
 
-## Strayline. - Lustre
+## Manja Ristić - Into Your Eyes
 
-Das Projekt Pittsburgh mit seinem dritten Release. Alt-Rock, welcher mit einer Note des Post-Grunge und Shoegaze versehen wird. In manchen Kompositionen werden gar Elemente der Electronica und des Post-Rocks aufgegriffen.
+tbd
 
-::genre::alt rock, post grunge, shoegaze, grungegaze
+::genre::
 
-## Yndling - Time Time Time (I’m in the Palm of your Hand) *
+## Murmur - Red Hill
 
-Die norwegische Künstlerin Silje Espevik (Yndling) mit ihrem neuesten Werk. Dream Pop wird mit Elementen des Shoegaze und Trip-Hop in eine Produktion verpackt.
+tbd
 
-::genre::dreampop, shoegaze, trip hop
+::genre::
 
-## Arnold Kasar - Spring Songs
+## Neverbody - Self Talk
 
-Der deutsche Multi-Instrumentalist und Komponist mit seinem neuesten Album. Auch in diesem Werk versteht er es wieder hervorragend Piano, Synthesizer und Modular Electronica in eine Komposition zu vereinen. Somit entsteht ein Werk der Modern Classic mit Tiefe und ambienter Mystik.
+tbd
 
-::genre::modern classic, electronica
+::genre::
 
-## Animal Ghosts - Alexandra’s Band
+## Octopus Diver - The Abyss Within Us
 
-Das Projekt um den Portland-Based Multi-Instrumentalist Cliff Barnes mit seinem neuesten Output. Shoegaze wird mit Alt-Rock und Post-Grunge in eine Komposition verpackt. Ein sehr raues Werk durch die LoFi/Bedroom Produktion.
+tbd
 
-::genre::shoegaze, alt rock, post grunge, lofi, bedroom pop
+::genre::
 
-## Young Oceans - Love like Raindrops made of Light
+## Overhead, The Albatross - Learning to Growl / I Leave You This
 
-Die Nashville Band mit ihrem neuesten Werk, welches eine Fortsetzung zu “Somehow” (2024) darstellen soll. Wie beim “Vorgänger” werden auch hier Fragmente von “Leftovers” in Komposition gebracht. Ein recht experimentelles Werk des Alt-Folk.
+tbd
 
-::genre::alt folk
+::genre::
 
-## Ian Hawgood - We are but Dream
+## Poly-Math - The Halting Problem
 
-Der britische Producer mit seinem neuesten Release. Ein modulares Werk des Ambient, welches in zwei Akten fungiert, welche sich beide über mehr als 20 Minuten erstrecken.
+tbd
 
-::genre::ambient
+::genre::
 
-## Marty Hicks, Audrey Powne - And still, a Resonance
+## PRAED Orchestra! - The Dictionary of Lost Meanings
 
-Die Kollaboration zwischen dem australischen Pianisten Marty Hicks und der australischen Multi-Instrumentalistin Audrey Powne birgt eine melancholische Melange aus klassischem Piano und Dark-Jazz, welcher durch die Jazz-Trompete Powne’s zum Ausdruck gebracht wird.
+tbd
 
-::genre::dark jazz, noir jazz, modern classic
+::genre::
+
+## Primaluce - Dark Mirrors
+
+tbd
+
+::genre::
+
+## Prometheus Rising - Blood Of The Elohim
+
+tbd
+
+::genre::
+
+## Ptolemea - Kali
+
+tbd
+
+::genre::
+
+## Pvrs - Let The Silence Begin
+
+tbd
+
+::genre::
+
+## Spriggan Mist - The Glare
+
+tbd
+
+::genre::
+
+## The Forever Moment - here to stay
+
+tbd
+
+::genre::
+
+## WitcheR - Öröklét
+
+tbd
+
+::genre::

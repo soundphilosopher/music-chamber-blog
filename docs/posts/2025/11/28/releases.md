@@ -6,218 +6,1142 @@ categories:
 
 # Releases! Releases! Releases!
 
+## 1349 - Winter Mass
+
+tbd
+
+::genre::
+
+## 5Rand - Ordhalia
+
+tbd
+
+::genre::
+
 ## 9th Wonder - Zion XI
 
-Der amerikanische Producer, DJ und Professor mit seinem 11ten Output seiner Zion-Series. Mit einer Menge an MC an Bord wird ein modernes Werk des Hip-Hop angeboten, welches sich wie ein Mix-Tape anfühlt.
+tbd
 
-::genre::hip hop
-
-## Bedtime For Charlie - Nevergreen *
-
-Die italienische Combo mit ihrem neuesten Release. Irgendwo zwischen Sad-Pop-Punk, Power-Pop und Melodic-Hardcore bewegen sich die Kompositionen.
-
-::genre::sad pop punk, power pop, melodic hardcore
-
-## Blut Aus Nord - Ethereal Horizons *
-
-Die französische Band mit ihrer neuesten philosophischen Hypnose des Post-Black-Metal. Avantgard wie eh und je und doch immer mit der feinen Balance zum Rauen.
-
-::genre::post black metal, avant black metal
+::genre::
 
 <!-- more -->
 
+## Absent Colors - Echoes of You
+
+tbd
+
+::genre::
+
+## Aktor - Professori (Season Two)
+
+tbd
+
+::genre::
+
+## Alera - CITC: a demonstration
+
+tbd
+
+::genre::
+
+## Amanaki - Vices
+
+tbd
+
+::genre::
+
+## Andrew Latimer - City Life
+
+tbd
+
+::genre::
+
+## Angstmäler - Angstmäler
+
+tbd
+
+::genre::
+
+## Ann My Dice - STRAIN
+
+tbd
+
+::genre::
+
+## Argonaut - Argonaut
+
+tbd
+
+::genre::
+
+## Ashinoa - Un'altra Forma
+
+tbd
+
+::genre::
+
+## Avdagata - The Apocalyptic Aeon
+
+tbd
+
+::genre::
+
+## Azzaya - Infernal Blasphemia
+
+tbd
+
+::genre::
+
+## Bedtime For Charlie - Nevergreen
+
+tbd
+
+::genre::
+
+## Between The Lakes - Reverie
+
+tbd
+
+::genre::
+
+## Bezdan - Upon The Altar
+
+tbd
+
+::genre::
+
+## Black Magic Tree - Terra
+
+tbd
+
+::genre::
+
+## Blackout Problems - SONGS
+
+tbd
+
+::genre::
+
+## Bloodfield - Homunculus Sapiens
+
+tbd
+
+::genre::
+
+## Blut Aus Nord - Ethereal Horizons
+
+tbd
+
+::genre::
+
+## Broken Calling - Echoes In Absence
+
+tbd
+
+::genre::
+
+## Büchsenspecht - Absturz Altstadt
+
+tbd
+
+::genre::
+
+## Cadaver - Hallucinating Anxiety
+
+tbd
+
+::genre::
+
+## Carnal Savagery - Crypt Of Decay
+
+tbd
+
+::genre::
+
+## Cassandra - Utopien
+
+tbd
+
+::genre::
+
 ## City and Colour - Sometimes Lullaby
 
-Das kanadische Projekt um den Alixisonfire Gitarristen Dallas Green mit nicht wirklich Neuen, aber Neu-Interpretationen zum 20sten Geburtstag seines Erstlings “Sometimes”. Rein instrumentelle Interpretationen, welche sich weit von dem Acoustic-Folk des Originals abheben. Ich würde die Neu-Interpretationen dem Cinematic-Ambient oder Mello-Ambient zuordnen. So wirken die Neu-Interpretationen wie neue Kompositionen, wenn man das Projekt nicht kennt.
+tbd
 
-::genre::mellow folk, cine ambient
+::genre::
+
+## Corpus Delicti - Liminal
+
+tbd
+
+::genre::
+
+## Crack the Sky - Blessed
+
+tbd
+
+::genre::
+
+## Crim - Futur Medieval
+
+tbd
+
+::genre::
+
+## Darklon - Mind Reaper
+
+tbd
+
+::genre::
+
+## Dead And Dripping - Nefarious Scintillations
+
+tbd
+
+::genre::
+
+## dEMOTIONAL - New Horizons
+
+tbd
+
+::genre::
+
+## Depression - Das Monument
+
+tbd
+
+::genre::
+
+## Die Ausreden - Menschen
+
+tbd
+
+::genre::
+
+## Ditz - Don Enzo Magic Carpet Salesman/ Kalimba Song
+
+tbd
+
+::genre::
 
 ## Dominique Charpentier - Portraits
 
-Der französische Komponist und Pianist mit seinem nachdenklichen und emotionalen Jahresabschluss. Melodramatische Kompositionen des Solo-Pianos.
+tbd
 
-::genre::solo piano, modern classic
+::genre::
 
-## DoomCannon - Somewhere in Between **
+## Dyssidia - Deeper Wells Of Meaning
 
-Der britische Producer, Komponist und Multi-Instrumentalist Dominic Canning (DoomCannon) mit seinem neuesten Streich. Ein Werk, welches sich zwischen Neo-Soul, Nu-Jazz, Acid-Jazz, Funk und UK-Jazz mühelos hin und her bewegt und damit die Jazz-Szene immer mal wieder wachrüttelt.
+tbd
 
-::genre::acid jazz, nu jazz, acid funk, uk jazz, neo soul
+::genre::
 
-## Hannes Kretzer - ○
+## Ef - Give Me Beauty...Or Give Me Death
 
-Der deutsche Producer mit seinem neuesten Werk. Cinematic-Ambient, welcher Ab und An auch Elemente des Field-Recordings aufnimmt und verarbeitet und am Ende einen KREISlauf des Nachdenkens anregen kann.
+tbd
 
-::genre::cine ambient, field recordings
+::genre::
 
-## Harifa - As the pale Sun fades
+## Equilibrium - Equinox
 
-Das Sophomore Release von dem Projekt der britischen Multi-Instrumentalistin Faye Davis. Atmospheric-Black-Metal, welcher sich mit der “Dunklen Jahreszeit” und dem Effekt von SAD (Seasonal Affective Disorder) auseinandersetzt.
+tbd
 
-::genre::atmo black metal
+::genre::
 
-## Horses, Not Waving - Every dumb Thing I ever did
+## Ergot - Decade
 
-Horses scheint ein neues Projekt des umtriebigen italienischen Producer und Multi-Instrumentalisten Alessio Natalizia (Not Waving …)  zu sein. Akustische, wie auch elektrische Gitarren werden in einen Loop aus Ambient und Minimal-Electronica vereint.
+tbd
 
-::genre::ambient acoustic, minimal electronica
+::genre::
+
+## Excide - Bastard Hymns
+
+tbd
+
+::genre::
+
+## False Lefty - Time Will Tell
+
+tbd
+
+::genre::
+
+## Ghost - Skeletá
+
+tbd
+
+::genre::
+
+## GRAY! - LOSS!
+
+tbd
+
+::genre::
+
+## Grim Colossus - Unhallowed Blasphemies
+
+tbd
+
+::genre::
+
+## Grim Reality - Crush Ya Bones
+
+tbd
+
+::genre::
+
+## Grovjobb - Nallebjörn är död
+
+tbd
+
+::genre::
+
+## Guapa - Fyr
+
+tbd
+
+::genre::
+
+## Hannes Kretzer - O
+
+tbd
+
+::genre::
+
+## Harifa - As The Pale Sun Fades
+
+tbd
+
+::genre::
+
+## Hi-Standard - Screaming Newborn Baby
+
+tbd
+
+::genre::
+
+## HOIST - Reshaping
+
+tbd
+
+::genre::
+
+## Horses, Not Waving - Every Dumb Thing I Ever Did
+
+tbd
+
+::genre::
+
+## Ikonika - Sad
+
+tbd
+
+::genre::
+
+## Irae - In The Key Of Twilight
+
+tbd
+
+::genre::
+
+## IVORY - .01
+
+tbd
+
+::genre::
 
 ## Janusz Strobel, Paweł Pańta - Janusz Strobel Paweł Pańta
 
-Die Kollaboration zwischen den polnischen GItarristen und Komponisten Janusz Strobel und den polnischen Jazz-Bassisten Paweł Pańta birgt eine pure, klassische Komposition des Jazz, welche pur von klassischer Gitarre und Bass begleitet wird.
+tbd
 
-::genre::contemporary jazz
+::genre::
 
-## Jessie J - Don’t tease me with a good Time
+## Jesse Sykes & The Sweet Hereafter - Forever, I've Been Being Born
 
-Die britische Singer & Songwriterin mit ihrem neuesten Werk, nach einer siebenjährigen Release-Abstinenz. Kompositionen des Pop und Hip-Hop werden mit der souligen Stimmgewalt Jessie’s verfeinert.
+tbd
 
-::genre::hip hop, neo soul
+::genre::
 
-## Jimi Tenor Band - Selenites, Selenites!
+## Jessie J - Don't Tease Me With A Good Time
 
-Der finnische Komponist und Multi-Instrumentalist mit seinem neuesten Werk. Big-Band-Oriented Afrobeat, welcher mit Elementen des Jazz, der Electronica, des Soul, Pop und Psychedelia verfeinert wird.
+tbd
 
-::genre::afrobeat, acid jazz, neo soul, psych pop
+::genre::
 
-## Julie’s Haircut - Radiance Opposition *
+## Jimi Tenor - Selenites, Selenites!
 
-Das zehnte Output der italienischen Formation. Neu ist, dass sie eine Sängerin in erster Reihe haben. Was wird dem Ohr geboten? Ein genialer Streich aus Neo-Psychedelia, Art-Rock und Alt-Rock.
+tbd
 
-::genre::psych rock, art rock, alt rock
+::genre::
 
-## Kyle Dion - Soular (Behind the Sun)
+## JJ Whitefield, Johannes Schleiermacher, Temple Gong - Distanz
 
-Der amerikanische Singer & Songwriter mit seinem neuesten Werk. Ein Werk des Neo-Soul, Acid-Jazz, Nu-Funk und der Electronica wird dem Zuhörer/der Zuhörerin geboten, mit der markanten und lebendigen Stimme von Kyle.
+tbd
 
-::genre::neo soul, acid jazz, acid funk, electronica
+::genre::
+
+## Josh Freese - Just A Minute Vol. 2
+
+tbd
+
+::genre::
+
+## Julie's Haircut - Radiance Opposition
+
+tbd
+
+::genre::
+
+## Kyle Dion - SOULAR (behind the sun)
+
+tbd
+
+::genre::
 
 ## Last Plane Out - Cautionary Tales
 
-Das schwedische Duo (Nils Erikson, Anders Lundquist) mit seinem Sophomore Release. Neo-Prog, welcher mit Elementen des Pop ausgerüstet wird und damit Ohrwurm-Charakteristiken besitzt.
+tbd
 
-::genre::neo prog rock, prog pop
+::genre::
 
-## Millie Turner - Looking for Alice
+## Leave No Witness - Hell And Back
 
-Die britische Singer & Songwriterin mit ihrem neuesten Release. Die emotionale Stimme von Millie wird von Kompositionen des Alt-Pop, Indie-Pop und der Electronica umschmeichelt.
+tbd
 
-::genre::alt pop, indie pop, electronica
+::genre::
 
-## Mind Prisoner - Less Faith *
+## Led Zeppelin - Trampled Under Foot
 
-Das Sophomore Release des amerikanischen Trios. Kompositionen, welche sich im Spektrum von Post-Black-Metal, Goth-Metal, Blackened Death Metal und Post-Punk sehr wohlfühlen.
+tbd
 
-::genre::blackened death metal, post black metal, gothic metal, post punk
+::genre::
 
-## Pabst - This is normal now *
+## Leslie Clio - Jukebox
 
-Das fünfte Output der deutschen Band. Eine fuzzy Art des Garage-Rock wird geboten, welche verfeinert wird mit poppy Elementen, den Hooks von britischen Indie-Rock und der Aggressivität des Punk.
+tbd
 
-::genre::garage rock, psych rock, indie rock
+::genre::
 
-## Petey USA - The Yips (A case of)
+## LOWER STILL - SEARCHING
 
-Der Weg von TikTok zu Capitol Records ist manchmal nicht so weit. im dritten Werk des Comedian und Musiker Peter Martin (Petey USA) verbergen sich Kompositionen des Indie-Folk, Indie-Rock und Emo-Pop, welche mit einer Art des Sarkasmus dargestellt werden.
+tbd
 
-::genre::indie folk, indie rock, alt pop
+::genre::
+
+## Lungtoucher - My Consort, Eternal
+
+tbd
+
+::genre::
+
+## Lynch Mob - Dancing With The Devil
+
+tbd
+
+::genre::
+
+## Magnetic Morning - A.M.
+
+tbd
+
+::genre::
+
+## Male//Gaze - Too Late Now
+
+tbd
+
+::genre::
+
+## Malefic Throne - The Conquering Darkness
+
+tbd
+
+::genre::
+
+## MBian - Stellar Atmospheres
+
+tbd
+
+::genre::
+
+## Melissa Carper - A Very Carper Christmas
+
+tbd
+
+::genre::
+
+## Mental Pressure - Demo
+
+tbd
+
+::genre::
+
+## Millie Turner - Looking For Alice
+
+tbd
+
+::genre::
+
+## MIND PRISONER - Less Faith
+
+tbd
+
+::genre::
+
+## Minotaurus - Memories In The Haze
+
+tbd
+
+::genre::
+
+## Mint Mile - Andwhichstray
+
+tbd
+
+::genre::
+
+## Moron Police - Pachinko
+
+tbd
+
+::genre::
+
+## Municipal Waste - Massive Aggressive
+
+tbd
+
+::genre::
+
+## MUNT - The World Is Not Yours
+
+tbd
+
+::genre::
+
+## Myth Of Logic - The Memory of After Suite / Circling Back
+
+tbd
+
+::genre::
+
+## NeversiN - The Loop Theory
+
+tbd
+
+::genre::
+
+## Nick D'Virgilio - Rewiring Genesis: A Tribute To The Lamb Lies Down On Broadway
+
+tbd
+
+::genre::
+
+## Nimear - The Silent One
+
+tbd
+
+::genre::
+
+## NO LOVE - Are You Ready For More?
+
+tbd
+
+::genre::
+
+## Odd Times - A Tale of Flames
+
+tbd
+
+::genre::
+
+## One of Many - Deficiency
+
+tbd
+
+::genre::
+
+## One Shot - 111 LIVE
+
+tbd
+
+::genre::
+
+## Onsetcold - Apocalyptic Sleep
+
+tbd
+
+::genre::
+
+## OTTTO - Sweaty Pool
+
+tbd
+
+::genre::
+
+## Pabst - This is normal now
+
+tbd
+
+::genre::
+
+## Paintrail - Nocturnals
+
+tbd
+
+::genre::
+
+## Pale Horse Ritual - Diabolic Formation
+
+tbd
+
+::genre::
+
+## Paledusk - Paledusk
+
+tbd
+
+::genre::
+
+## Pelican - What We All Come To Need & Ephemeral
+
+tbd
+
+::genre::
+
+## Petey USA - The Yips (A Case Of)
+
+tbd
+
+::genre::
+
+## Phantom Heir - Fragile Immortals
+
+tbd
+
+::genre::
 
 ## Phobocosm - Gateway
 
-Die Kanadier sind zurück mit ihrem vierten Release in ihrer Discography. Old School Death Metal, welcher brachial und pur präsentiert und mit ihrer Philosophie ausgestattet ist.
+tbd
 
-::genre::osdm
+::genre::
 
-## Rie Nakajima, David Toop - Is Spring a Sculpture?
+## Please Be Careful - Hot Surface
 
-Die Kollaboration zwischen dem japanischen Sound Artist Rie Nakajima und dem britischen Professor of Audio Culture und Improvisation birgt ein Experiment der improvisierten Klang-Spektren von Loops und Percussions.
+tbd
 
-::genre::experimental acoustic, improvisation
+::genre::
+
+## Plosivs - Yell At Cloud
+
+tbd
+
+::genre::
+
+## Points of Conception - cliché
+
+tbd
+
+::genre::
+
+## Pronoya - All for the Sun
+
+tbd
+
+::genre::
+
+## PROTOGONOS - Veil I – Fears
+
+tbd
+
+::genre::
+
+## Psychoyogi - World of Danger
+
+tbd
+
+::genre::
+
+## Reflection - Cleft Stick
+
+tbd
+
+::genre::
+
+## Rie Nakajima, David Toop - Is Spring A Sculpture?
+
+tbd
+
+::genre::
+
+## Ritualite - All The Weight
+
+tbd
+
+::genre::
+
+## Robec - The Forest Is Too Loud
+
+tbd
+
+::genre::
+
+## Season To Risk - In A Perfect World
+
+tbd
+
+::genre::
+
+## Sniper Mode, Gregor Tresher - Riot Gear
+
+tbd
+
+::genre::
 
 ## Sore Teeth - Sore Teeth
 
-Das dritte Release des britischen Trios. Hardcore Punk, welcher oft mit der Aggressivität der Intensität des Metallic Hardcore in Synergie gespielt wird.
+tbd
 
-::genre::hardcore punk, metallic hardcore
+::genre::
+
+## South Arcade - Play!
+
+tbd
+
+::genre::
+
+## Spinal Tap - The End Continues
+
+tbd
+
+::genre::
+
+## Starmen - Starmenized II
+
+tbd
+
+::genre::
+
+## Struck A Nerve - Struck A Nerve
+
+tbd
+
+::genre::
 
 ## Studnitzky - KY!
 
-Die deutsche Jazz-Supergroup (KY!) um den XJAZZ Founder und Jazz-Trompeter Sebastian Studnitzky mit ihrem neuesten Werk. Eine Melange aus Modern Jazz, Modern Classic, Oriental Jazz und Electronica.
+tbd
 
-::genre::oriental jazz, modern classic, modern jazz, jazztronica
+::genre::
 
-## Stéphane Galland, Lúcia Pires, Louise van den Heuvel - Kanda *
+## Stéphane Galland, Lúcia Pires, Louise van den Heuvel - Kanda
 
-Die Kollaboration zwischen den belgischen Jazz-Drummer Stéphane Galland, der belgischen Jazz-Flötistin Lúcia Pires und der dänischen Jazz-Bassistin Louise van den Heuvel birgt eine Art des Jazz Fusion, welcher mit progressiven Elementen versehen ist und fast schon ein Werk des Neo-Prog darstellen könnte.
+tbd
 
-::genre::neo prog rock, jazz fusion
+::genre::
 
-## The Town Council - The Damage *
+## Sua - Bide Ilunek Argitzen Zuten Dena
 
-Das Projekt um den kanadischen Singer & Songwriter Steve Paziuk mit seinem neuesten Release. Indie-Folk, welcher mit theatralischen Elementen verfeinert wird, um eine Gesamt-Melancholie der Tristesse abbilden zu können.
+tbd
 
-::genre::indie folk
+::genre::
+
+## Such A Surge - Under Pressure
+
+tbd
+
+::genre::
+
+## Suffering - Things Seen But Always Hidden
+
+tbd
+
+::genre::
+
+## Sworn to Death - Pillars of Morality / Ruins of a Mind
+
+tbd
+
+::genre::
+
+## The Amsterdam Red Light District - TARLD
+
+tbd
+
+::genre::
+
+## The Dillinger Escape Plan - Under The Running Board
+
+tbd
+
+::genre::
+
+## The Offline - La grande évasion
+
+tbd
+
+::genre::
+
+## The Old Dead Tree - London Sessions
+
+tbd
+
+::genre::
+
+## The Saints - Long March Through the Jazz Age
+
+tbd
+
+::genre::
+
+## The Town Council - The Damage
+
+tbd
+
+::genre::
+
+## Thermality - Concept 42
+
+tbd
+
+::genre::
+
+## These New South Whales - Godspeed
+
+tbd
+
+::genre::
 
 ## Thought Beings - Cold War Kids
 
-Das kalifornische Producer-Duo “Lemon and Orion” (Thought Beings) mit ihrem Erstling unter NewRetroWave aber natürlich nicht ihrem ersten Erstling. 80’s/90’s inspired Synth-Wave, welcher mit der frische des Saxophons in instrumentelle Klangwelten versetzt wird und mit den einen oder andern Sample ausgerüstet ist.
+tbd
 
-::genre::synth wave, new retro wave
+::genre::
+
+## Thus Defiled - Wings Of The Nightstorm
+
+tbd
+
+::genre::
 
 ## Timo Kämäräinen - Laulu pelastaa
 
-Der finnische Singer & Songwriter und Gitarrist mit seinem Jahresabschluss. Er hat immer eine Ader für den klassischen Prog-Rock und Fusion in seinen Kompositionen. Allerdings finden sich neben Jazz-Anleihen auch Elemente des Symphonic-Rock und Classic Rock und ein paar Sprenkel von Psych-Rock eingeschlichen und ein gewisses Gefühl zum Pop darf man auch nicht vergessen.
+tbd
 
-::genre::prog rock, fusion, symphonic rock, hard rock, heavy rock, psych rock
+::genre::
 
-## Uusi Aika - Luurankolauluja *
+## Tom Hodge - Testimony
 
-Das finnische Viergestirn mit seinem neuesten Werk. In ihrer traditionellen Art und Weise werden Jazz, Folk und World Music fusioniert und ergeben ein fast schon melancholisches Werk, welches Geschichten erzählen könnte.
+tbd
 
-::genre::contemporary jazz, alt folk, world music
+::genre::
+
+## Tulpa - Monster Of The Week
+
+tbd
+
+::genre::
+
+## Unviâr - Disglaç
+
+tbd
+
+::genre::
+
+## Uusi Aika - Luurankolauluja
+
+tbd
+
+::genre::
+
+## Valiant Hearts - Hidden Realms
+
+tbd
+
+::genre::
+
+## Vast Pyre - Bleak
+
+tbd
+
+::genre::
+
+## Verilehto - Aarnihauta
+
+tbd
+
+::genre::
+
+## Voyna - Monsters
+
+tbd
+
+::genre::
+
+## Warkings - Armageddon
+
+tbd
+
+::genre::
+
+## Will O’ Dusk - The Long Lasting Dusk
+
+tbd
+
+::genre::
+
+## Wytch Hazel - Lamentations
+
+tbd
+
+::genre::
+
+## Zeke - Peterbilt
+
+tbd
+
+::genre::
+
+## Zoungla - Dream Machine
+
+tbd
+
+::genre::
 
 ---
 
-# Earlier the week …
+# Earlier the week ...
 
-## Babasónicos - Cuerpos, Vol. 1
+## Alex Gage's Flagship - You've Got Strong Power, Kid
 
-Die argentinische Formation mit dem Start ihres “Bodywork” Konzepts. Ein sehr fragmentelles Werk von Alt-Rock, Elecronica und Post-Grunge in einem sehr minimalistischen Outfit für die angesprochenen Genre.
+tbd
 
-::genre::post grunge, alt rock, electronica
+::genre::
 
-## группа ил - кража личности *
+## Apex Ten - Atom
 
-Das russische Outfit mit seinem neuesten Werk. Die Art-/Avant-Rocker bieten wieder ein weites Bild des Alt-Rock, welches Elemente der Electronica, New-Wave, Trip-Hop, Breakbeat, Art-Pop und Chip-Tune in eine Art Gemälde von Rock und Fusion.
+tbd
 
-::genre::chiptune, trip hop, breakbeat, art pop, new wave, alt rock, fusion, electronica
+::genre::
 
-## Curfew - Black Doll’s Eyes
+## Arti E Mestieri - D-Brane
 
-Das Debüt des irischen Trios. Geboten wird ein gewaltiger Mix aus Alt-Rock, Post-Grunge, Desert-Rock, Neo-Psych und Indie-Rock. Sehr gelungenes Songwriting und eine ausgezeichnete Sängerin, welchen den Kompositionen eine gewisse Stärke mit verleiht.
+tbd
 
-::genre::alt rock, post grunge, desert rock, neo psych rock, indie rock
+::genre::
 
-## In Tears - Let it be me *
+## Autometer - Format
 
-Das sechste Release der anonymen Künstlerin/des anonymen Künstlers bringt erneut die depressive Form des Blackgaze ans Tageslicht. Diesen Sound kennt man von Projekten wie “_Sadness_”, “_From Another Life_” und “_To Writhe Love On Her Arms_”. Nichts für Menschen, welche unter SAD leiden.
+tbd
 
-::genre::blackgaze
+::genre::
 
-## Marvatten - Unscripted Moments, Vol. III
+## Babasonicos - CUERPOS, Vol. 1
 
-Das dritte Werk im Portfolio, welches auch gleichzeitig das dritte Werk in der “Unscripted Moments” -Serie darstellt. Rein improvisierter Instrumental-Post-Rock, welcher diesmal (bemerkbar) ohne Bass improvisiert wurde, da Alexander Teklemariam Familienzuwachs willkommen geheißen hat und ein nachträglicher Bass, hätte das Konzept der Improvisation nicht hergegeben.
+tbd
 
-::genre::post rock, instrumental, improvisation
+::genre::
 
-## Olav Torget, Helge Norbakken, Trygve Seim - Talking Trees *
+## Black eXpression - Sound Of Time
 
-Was wird eine Kollaboration dieser drei Jazz-Urgesteine wohl in sich halten? Olav Torget (Guitar), Helge Norbakken (Drums, Percussions) und Trygve Seim (Saxophone) bringen eine meisterliche Improvisation des Nordic-Jazz ans Tageslicht, welche wie ein Waldspaziergang mit der gewissen Ruhe und Relaxtheit durchflutet ist.
+tbd
 
-::genre::nordic jazz, improvisation
+::genre::
 
-## The Northern Lights - Midnight FM
+## Christophe Godin - Dancing in a Minefield
 
-Der CD hinter Northern Lights, Derek Barbanti, mit seinem neuesten Output. Dieser soll eine Hommage an das Midnight Radio der 80er/90er widerspiegeln und tut dies in seiner Art und Weise auch. Synth-Wave, welcher mit einer Portion Disco verfeinert wurde.
+tbd
 
-::genre::synth wave, disco
+::genre::
+
+## Crownpoint - Apologues
+
+tbd
+
+::genre::
+
+## Curfew - Black Doll's Eyes
+
+tbd
+
+::genre::
+
+## Det Skandaløse Orkester - Legenden om Boblemus / Masters of the Universe
+
+tbd
+
+::genre::
+
+## DNGLS - La route des Alpes
+
+tbd
+
+::genre::
+
+## Feather Mountain - A Liminal Step
+
+tbd
+
+::genre::
+
+## Fessus - Subcutaneous Tomb
+
+tbd
+
+::genre::
+
+## Flight76 - The Nightmare of Reason
+
+tbd
+
+::genre::
+
+## Gazelle Twin - Summerwater
+
+tbd
+
+::genre::
+
+## Hajo - A N TR I ST I S
+
+tbd
+
+::genre::
+
+## Hell's Domain - Terminal State
+
+tbd
+
+::genre::
+
+## In Tears - Let It Be Me
+
+tbd
+
+::genre::
+
+## Janek Gwizdala - Seminario
+
+tbd
+
+::genre::
+
+## Jay Tausig - September Songs Vol. 2
+
+tbd
+
+::genre::
+
+## Lazer Dim 700 - Stikkz n Stonez
+
+tbd
+
+::genre::
+
+## Marvatten - Unscripted Moments, vol. III
+
+tbd
+
+::genre::
+
+## Massacre - Corpus Mortis
+
+tbd
+
+::genre::
+
+## Master's Hammer - Maldorör Disco
+
+tbd
+
+::genre::
+
+## Mavi - The Pilot
+
+tbd
+
+::genre::
+
+## Nenavist - Mraz
+
+tbd
+
+::genre::
+
+## Olav Torget - Talking Trees
+
+tbd
+
+::genre::
+
+## Paul Jebanasam - mātr
+
+tbd
+
+::genre::
+
+## Proof Of Infinity - Cerulean
+
+tbd
+
+::genre::
+
+## SAMO KHIYOTA - THX, AHMAD!
+
+tbd
+
+::genre::
+
+## Steve Hughes - Long Summer
+
+tbd
+
+::genre::
+
+## The One - Lighter Than Air
+
+tbd
+
+::genre::
+
+## The Tea Club - Chasm
+
+tbd
+
+::genre::
+
+## Thokkian Vortex - Lucifer Lucem Proferens
+
+tbd
+
+::genre::
+
+## Tomáš Šenkyřík - 1m²
+
+tbd
+
+::genre::
+
+## Ukryty Wymiar - Tunele świadomości
+
+tbd
+
+::genre::
+
+## Unlucky Morpheus - Gate of Heaven
+
+tbd
+
+::genre::
+
+## Various Artists - Collapsing Tape
+
+tbd
+
+::genre::
+
+## группа ил - кража личности
+
+tbd
+
+::genre::
