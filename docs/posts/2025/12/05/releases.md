@@ -1,7 +1,5 @@
 ---
 date: 2025-12-05
-pin: true
-bandcamp: false
 categories:
   - Releases
 ---
