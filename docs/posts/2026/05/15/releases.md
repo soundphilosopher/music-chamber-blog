@@ -24,6 +24,12 @@ Benannt nach Supermans Geburtsnamen, hat die Band über ein Jahrzehnt damit verb
 
 ::genre::stoner rock, doom metal, desert rock
 
+## Kenny Mason - BULLDAWG
+
+Mason ist bekannt für seine Hund-Motive und die Pup-Pack-Reihe. Er verbindet die Rauheit des Atlanta-Rap mit der unbändigen Energie des 90er-Jahre-Rocks. Eine genreübergreifende Mischung aus **Hip-Hop**, **Trap** und **Grunge**/**Alternative Rock**. Stell dir einen Pitbull im Moshpit vor. "BULLDAWG" ist eine hochoktanige Reise durch das, was Mason als Schrottplatz-Realität bezeichnet, mit Schwergewichten wie *JID* und *Dominic Fike*. Es ist launisch, aggressiv und wild unabhängig - der perfekte Soundtrack für das Gefühl, der Underdog zu sein, der gerade seinen Biss gefunden hat.
+
+::genre::hip hop, trap, post grunge, alt rock
+
 ## Lloth - Archees Legeones (Ancient Legions)
 
 Lloth wurde ursprünglich 1995 von Maria "Tristessa" Kolokouri (später bei *Astarte*) gegründet. Nach ihrem Tod wurde die Band von ihrem Ehemann, Nicolas Maiis, wiederbelebt, um ihr Vermächtnis zu ehren und den Ancient-Legions-Sound fortzuführen. **Symphonic Black Metal** und **Melodic Death Metal**. Beeinflusst von der frühen griechischen Metal-Szene (man denke an *Rotting Christ* oder *Septicflesh*). Das ist Musik für Leute, die ihren Morgenkaffee am liebsten aus einem Totenschädel trinken. Sie ist grandios, düster und klingt, als marschiere buchstäblich eine Armee von Geistern durch deine Lautsprecher. Zwischen den schwebenden Orchestrierungen und dem kehligen Gesang ist sie der perfekte Soundtrack, um ein kleines Königreich zu erobern oder einfach nur einen Montagmorgen zu überstehen.
