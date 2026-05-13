@@ -1,0 +1,119 @@
+site_name: Music Chamber
+site_description: Blog, release lists, top lists and and and.. Everything we discuss in our music chamber sessions,
+site_author: Carsten Vuellings
+site_url: https://soundphilosopher.github.io/music-chamber-blog/
+
+repo_name: music-chamber-blog
+repo_url: https://github.com/soundphilosopher/music-chamber-blog
+
+copyright: >
+  Copyright &copy; 2025 - 2026 Carsten Vuellings &mdash;
+  <a href="/music-chamber-blog/privacy-policy/">Privacy Policy</a>
+
+extra_css:
+  - assets/css/override.css
+  - assets/css/genre.v1.css
+  - assets/css/bandcamp.css
+  - assets/css/recap.css
+  - assets/css/reading-state.css
+  - assets/css/release-filter.css
+
+theme:
+  name: material
+  favicon: assets/images/favicon.png
+  logo: assets/images/logo.png
+  icon:
+    repo: fontawesome/brands/github
+  font:
+    text: Lora
+    code: Roboto Mono
+  palette:
+    - scheme: default
+      primary: deep orange
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep orange
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.indexes
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+
+plugins:
+  - blog:
+      blog_dir: .
+      post_date_format: full
+      post_url_date_format: yyyy/MM/dd
+      draft: false
+      draft_on_serve: true
+      draft_if_future_date: true
+  - gen-files:
+      scripts:
+        - scripts/generators/monthly_recap_draft.py
+        - scripts/generators/genre_overview.py
+  - meta
+  - optimize:
+      concurrency: 1
+  - privacy:
+      concurrency: 1
+      log_level: warn
+  - rss:
+      use_git: false
+      match_path: posts/.*
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+  - search
+  - tags
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            docstring_style: google
+            show_root_heading: true
+            show_source: true
+            show_root_full_path: false
+            show_object_full_path: false
+            show_category_heading: true
+            heading_level: 2
+            ignore_init_summary: true
+            separate_signature: true
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.mark
+  - pymdownx.keys
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tilde
+
+hooks:
+  - scripts/hooks/change_toc_for_releases.py
+  - scripts/hooks/mark_top_picks.py
+  - scripts/hooks/add_bandcamp_player.py
+  - scripts/hooks/add_reading_status.py
+  - scripts/hooks/add_release_count.py
+  - scripts/hooks/add_genres_filter.py
+  - scripts/hooks/cleanup_tags.py

@@ -674,7 +674,6 @@ dependencies = [
     { name = "colorama" },
     { name = "curl-cffi" },
     { name = "markdownify" },
-    { name = "mkdocs" },
     { name = "mkdocs-gen-files" },
     { name = "mkdocs-literate-nav" },
     { name = "mkdocs-material", extra = ["imaging"] },
@@ -686,6 +685,8 @@ dependencies = [
 
 [package.dev-dependencies]
 dev = [
+    { name = "mkdocs" },
+    { name = "properdocs" },
     { name = "pyright" },
     { name = "ruff" },
 ]
@@ -696,7 +697,6 @@ requires-dist = [
     { name = "colorama" },
     { name = "curl-cffi" },
     { name = "markdownify" },
-    { name = "mkdocs" },
     { name = "mkdocs-gen-files" },
     { name = "mkdocs-literate-nav" },
     { name = "mkdocs-material" },
@@ -709,6 +709,8 @@ requires-dist = [
 
 [package.metadata.requires-dev]
 dev = [
+    { name = "mkdocs", specifier = ">=1.6.1" },
+    { name = "properdocs", specifier = ">=1.6.7" },
     { name = "pyright", specifier = ">=1.1.408" },
     { name = "ruff", specifier = ">=0.15.10" },
 ]

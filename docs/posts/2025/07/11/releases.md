@@ -6,17 +6,43 @@ categories:
 
 # Releases! Releases! Releases!
 
+## 360 - Out of the Blue
+
+tbd
+
+::genre::
+
+## A November Morning - In the Shadows of Absence
+
+tbd
+
+::genre::
+
+## Aho Ssan & Resina - Ego Death
+
+tbd
+
+::genre::
+
+<!-- more -->
+
 ## Alina Bzhezhinska, Tulshi - Whispers of Rain
 
 Genre: Ambient
 
 ::genre::ambient
 
-## Amy Macdonald - Is this what you’ve been waiting for?
+## Allo Darlin' - Bright Nights
 
-Genre: Alt-Pop
+tbd
 
-::genre::alt pop
+::genre::
+
+## Amy Macdonald - Is This What You've Been Waiting For?
+
+tbd
+
+::genre::
 
 ## Angerot - Seofon
 
@@ -24,13 +50,29 @@ Genre: Blackened Death Metal
 
 ::genre::blackened death metal
 
-<!-- more -->
+## Atom Juice - Atom Juice
 
-## Ava Mendoza, Gabby Fluke-Mogul, Carolina Pérez - Mama Killa
+tbd
 
-Genre: (Guitar) Jazz
+::genre::
 
-::genre::contemporary jazz, world music
+## Ava Mendoza, Gabby Fluke-Mogul and Carolina Pérez - Mama Killa
+
+tbd
+
+::genre::
+
+## Barely Breathing - Cycle Rupture
+
+tbd
+
+::genre::
+
+## Barry Can't Swim - Loner
+
+tbd
+
+::genre::
 
 ## Benoît Pioulard - Stanza IV
 
@@ -38,11 +80,29 @@ Genre: Singer & Songwriter, LoFi Indie
 
 ::genre::lofi, indie pop, indie folk
 
+## Boldy Jamesand Nicholas Craven - Late to My Own Funeral
+
+tbd
+
+::genre::
+
 ## Born Of Osiris - Through SHadows *
 
 Genre: Progressive Metalcore
 
 ::genre::prog metalcore
+
+## BREITH - Grievances
+
+tbd
+
+::genre::
+
+## Brent Cobb& the Fixin's - Ain't Rocked in a While
+
+tbd
+
+::genre::
 
 ## Bring Me The Horizon - Lo-files
 
@@ -50,11 +110,23 @@ Genre: LoFi Electronica
 
 ::genre::lofi, electronica
 
+## Burna Boy - No Sign of Weakness
+
+tbd
+
+::genre::
+
 ## Calva Louise - Edge of the Abyss *
 
 Genre: Alt-Rock, Art-Rock
 
 ::genre::alt rock, art rock
+
+## Celestial Wizard - Regenesis
+
+tbd
+
+::genre::
 
 ## Cherrystones, Demdike Stare - Who owns the Dark?
 
@@ -62,17 +134,47 @@ Genre: Dark Experimental Electronica, Dark Ambient
 
 ::genre::dark ambient, dark electronica, experimental electronica
 
+## Chris Lake - Chemistry
+
+tbd
+
+::genre::
+
 ## Chuuwee - ViRGOiSM
 
 Genre: Hip Hop
 
 ::genre::hip hop
 
-## Clipse - Let God sort em Out
+## Ciara - CiCi
 
-Genre: Hip Hop
+tbd
 
-::genre::hip hop
+::genre::
+
+## Clipse - Let God Sort 'Em Out
+
+tbd
+
+::genre::
+
+## Colorblind - Let Down / Misery Loves Company
+
+tbd
+
+::genre::
+
+## Cronos Compulsion - Lawgiver
+
+tbd
+
+::genre::
+
+## Crown Lands - Ritual I
+
+tbd
+
+::genre::
 
 ## Danno Simpson - The Kill Joy
 
@@ -80,17 +182,35 @@ Genre: Country
 
 ::genre::americana, country folk
 
-## Danny Wright - Piano Moments: The 60s
+## Dead7 - Love what you can while you got something left to Love
 
-Genre: Contemporary Classic
+Genre: Nu-Metal
 
-::genre::modern classic
+::genre::nu metal
 
-## David Wimbish & The Collection - Self Titled
+## Death Rattle - The Moral Chokehold
 
-Genre: Alt-Country, Indie-Country
+tbd
 
-::genre::alt country
+::genre::
+
+## Decadence Incarnate - Eternal Rebellion
+
+tbd
+
+::genre::
+
+## Denisa - St. Bernadette
+
+tbd
+
+::genre::
+
+## Differences - Friends, Dead Flowers And The Seasons Between
+
+tbd
+
+::genre::
 
 ## Dino Saluzzi, Jacob Young, José Maria Saluzzi - El Viejo Caminante
 
@@ -98,11 +218,59 @@ Genre: Classical Guitar Jazz
 
 ::genre::classic guitar, contemporary jazz, world music
 
-## Double Vision - Self Titled
+## Double Vision - Double Vision
 
-Genre: Alt-Rock
+tbd
 
-::genre::alt rock
+::genre::
+
+## Dream Drop - blackcastle: pt.1
+
+tbd
+
+::genre::
+
+## Duncan Lloyd - Unwound
+
+tbd
+
+::genre::
+
+## Dymensions - Where To Next On Pluto?
+
+tbd
+
+::genre::
+
+## Elder Caius - Elder Caius
+
+tbd
+
+::genre::
+
+## Ellesmere - Mere, On Stage!
+
+tbd
+
+::genre::
+
+## Embers Of Ouroboros - The Autumnal Decline And Hermetic Maturation
+
+tbd
+
+::genre::
+
+## Empty Nesters - Deaf Monks
+
+tbd
+
+::genre::
+
+## ENGELS - Engels II
+
+tbd
+
+::genre::
 
 ## Eternal Idol - Behind A Vision
 
@@ -110,29 +278,89 @@ Genre: Power Metal
 
 ::genre::power metal
 
+## Fade Evare - Welcome Back
+
+tbd
+
+::genre::
+
 ## Floating - Hesitating Lights *
 
 Genre: Blackened Doom Death Metal
 
 ::genre::blackened death metal, blackened doom metal
 
-## G. Love & Special Sauce - G. Love in the King’s Court
+## Flooding - Object 1
 
-Genre: Blues
+tbd
 
-::genre::blues
+::genre::
 
-## Goon - Dream 3
+## Front Row Warriors - Running Out Of Time
 
-Genre: Alt-Indie
+tbd
 
-::genre::alt indie
+::genre::
+
+## Frostbite - Dyatlov
+
+tbd
+
+::genre::
+
+## G. Love & Special Sauce - G. Love in the King's Court
+
+tbd
+
+::genre::
 
 ## Geier Sturzflug - Spricht
 
 Genre: Rock, NDW
 
 ::genre::ndw
+
+## Giants Dwarfs And Black Holes - Cherrytree Stories And Other Innuendo Tales
+
+tbd
+
+::genre::
+
+## Gina Birch - Trouble
+
+tbd
+
+::genre::
+
+## Giveon - Beloved
+
+tbd
+
+::genre::
+
+## Glacier - More Distant/More Violent
+
+tbd
+
+::genre::
+
+## Glansberg - The Only Way Out Is Through
+
+tbd
+
+::genre::
+
+## Gods Of Tomorrow - Gods Of Tomorrow
+
+tbd
+
+::genre::
+
+## Goon - Dream 3
+
+Genre: Alt-Indie
+
+::genre::alt indie
 
 ## Gwenno - Utopia
 
@@ -152,17 +380,17 @@ Genre: Instrumental Ambient Post-Rock
 
 ::genre::post rock, ambient, instrumental
 
-## Hans Zimmer - F1
-
-Genre: Soundtrack
-
-::genre::cine modern classic
-
 ## Harmonic Pathways - Emberlight
 
 Genre: Ambient Electronica
 
 ::genre::ambient, electronica
+
+## Hell - Submersus
+
+tbd
+
+::genre::
 
 ## Highspire - Crushed
 
@@ -176,17 +404,47 @@ Genre: LoFi Alt-Rock
 
 ::genre::lofi, alt rock
 
+## I.C.E. - Abominable Astral Summoning
+
+tbd
+
+::genre::
+
 ## Impureza - Alcázares
 
 Genre: Melodic Death Metal
 
 ::genre::melo death metal
 
-## Kjartan Holm, Sin Fang - Before We Forget
+## In The Company Of Serpents - A Crack In Everything
 
-Genre: Soundtrack
+tbd
 
-::genre::cine ambient, cine modern classic
+::genre::
+
+## Jessica Winter - My First Album
+
+tbd
+
+::genre::
+
+## Jethro Tull - Still Living In The Past
+
+tbd
+
+::genre::
+
+## John Grant, Richard Sen - Disappointing / Voodoo Doll
+
+tbd
+
+::genre::
+
+## Justin Bieber - Swag
+
+tbd
+
+::genre::
 
 ## Kokoroko - Tuff Times Never Last
 
@@ -200,11 +458,65 @@ Genre: Hard Rock, Stadium Rock
 
 ::genre::hard rock, arena rock
 
-## Matt Jencik, Midwife - Never Die
+## Larry JuneandCardo Got Wings - Until Night Comes
 
-Genre: Shoegaze
+tbd
 
-::genre::shoegaze
+::genre::
+
+## Mark Stewart - The Fateful Symmetry
+
+tbd
+
+::genre::
+
+## Matt Jencik and Midwife - Never Die
+
+tbd
+
+::genre::
+
+## Melanie - Anyway That You Want Me
+
+tbd
+
+::genre::
+
+## Mest - Wasting Time
+
+tbd
+
+::genre::
+
+## MF Tomlinson - Die to Wake Up from a Dream
+
+tbd
+
+::genre::
+
+## Midwife - Never Die
+
+tbd
+
+::genre::
+
+## Mindkiller - Technocratic War Machine
+
+tbd
+
+::genre::
+
+## Monochromatic Black - VEHEMENCE
+
+tbd
+
+::genre::
+
+## Mädhouse - Plead The Fifth
+
+tbd
+
+::genre::
 
 ## Nate Mercereau, Josh Johnson, Carlos Niño - Openness Trio
 
@@ -212,11 +524,41 @@ Genre: Jazz
 
 ::genre::contemporary jazz
 
+## Nathan James - Hollywood Mortician
+
+tbd
+
+::genre::
+
+## NET-RUINER - Prototype
+
+tbd
+
+::genre::
+
+## Nick Hakim - Where Will We Go
+
+tbd
+
+::genre::
+
 ## Noah Cyrus - I Want My Loved Ones To Go With Me
 
 Genre: Alt-Folk
 
 ::genre::alt folk
+
+## Noxious - Chaotic Cycles
+
+tbd
+
+::genre::
+
+## Open Mike Eagle - Neighborhood Gods Unlimited
+
+tbd
+
+::genre::
 
 ## Petey USA - The Yips
 
@@ -230,6 +572,18 @@ Genre: Progressive Metal
 
 ::genre::prog metal
 
+## Poor Creature - All Smiles Tonight
+
+tbd
+
+::genre::
+
+## Poor Kids O.C. - How To Be O.C.
+
+tbd
+
+::genre::
+
 ## Primalfrost - Path Of Resilience
 
 Genre: Melodic Death Metal
@@ -241,6 +595,18 @@ Genre: Melodic Death Metal
 Genre: Shoegaze
 
 ::genre::shoegaze
+
+## Repressed - Spiral
+
+tbd
+
+::genre::
+
+## Saiko Mantis - Mantis Protocol
+
+tbd
+
+::genre::
 
 ## Scary Kids Scaring Kids - Maps Written In Water
 
@@ -260,17 +626,53 @@ Genre: Progressive Stoner Metal
 
 ::genre::prog metal, stoner metal
 
+## Sigorspéd - Everlasting Wisdom Of The Ancients
+
+tbd
+
+::genre::
+
+## Somerset Thrower - Take Only What You Need To Survive
+
+tbd
+
+::genre::
+
 ## Split Chain - Motionblur
 
 Genre: Nu-Metal
 
 ::genre::nu metal
 
-## Strangers With Guns - Degenerate Art
+## Split Persona - War Within Ourselves
 
-Genre: Modern Grunge, Stoner Rock
+tbd
 
-::genre::post grunge, stoner rock
+::genre::
+
+## Starlit Pyre - Veins Of Sulfur
+
+tbd
+
+::genre::
+
+## Stygian Fair - The Hidden Realm
+
+tbd
+
+::genre::
+
+## sunking - I DON'T LIKE MY TELEPHONE
+
+tbd
+
+::genre::
+
+## Symphobia - Hideously Traumatic
+
+tbd
+
+::genre::
 
 ## Tanner Usrey - These Days
 
@@ -284,11 +686,29 @@ Genre: Modern Jazz
 
 ::genre::modern jazz
 
+## The Greying - Misery
+
+tbd
+
+::genre::
+
 ## The Innocence Mission - The Raindrop Cars
 
 Genre: Chamber Folk
 
 ::genre::chamber folk
+
+## The Prognosis - Runs Deep
+
+tbd
+
+::genre::
+
+## The Sorcerers - Other Worlds And Habitats
+
+tbd
+
+::genre::
 
 ## The Swell Season - Forward
 
@@ -296,11 +716,41 @@ Genre: Singer & Songwriter, Alt-Folk
 
 ::genre::alt folk
 
+## Thrailkill - Slowly, Then All at Once
+
+tbd
+
+::genre::
+
+## Tim O'Brien, Bill Frisell, Dale Bruning - Life Lessons
+
+tbd
+
+::genre::
+
 ## Tony Njoku - All Our Knives Are Always Sharp
 
 Genre: Singer & Songwriter, Alt-Indie
 
 ::genre::alt indie
+
+## TURQUOISEDEATH - Guardian
+
+tbd
+
+::genre::
+
+## Twice - This Is For
+
+tbd
+
+::genre::
+
+## Undoubting Thomas - In the Process of
+
+tbd
+
+::genre::
 
 ## Viogression - Thaumaturgic Veil
 
@@ -308,11 +758,17 @@ Genre: Old-School Death-Metal
 
 ::genre::osdm
 
-## Ward XVI - Identity
+## Vylet Pony - Love & Ponystep
 
-Genre: Theatrical NWOBHM
+tbd
 
-::genre::nwobhm, modern metal
+::genre::
+
+## Ward XVI - Id3ntity
+
+tbd
+
+::genre::
 
 ## Wet Leg - Moisturizer
 
@@ -320,69 +776,93 @@ Genre: Alt-Rock
 
 ::genre::alt rock
 
+## When In Doubt - After Life
+
+tbd
+
+::genre::
+
+## Ólafur Arnalds, Talos - A Dawning
+
+tbd
+
+::genre::
+
 ---
 
-# Earlier the week …
+# Earlier the week ...
 
-## Dead7 - Love what you can while you got something left to Love
+## Adam Lambert - Adam
 
-Genre: Nu-Metal
+tbd
 
-::genre::nu metal
+::genre::
 
-## Ólafur Arnalds - A Dawning
+## Aho Ssan & Resina - Ego Death
 
-Genre: Ambient Electronica, Modern Classic
+tbd
 
-::genre::ambient, electronica, modern classic
+::genre::
 
-## Lebanon Hanover - Asylum Lullabies
+## Aleph Naught and the Null Set - Corpus Oceani
 
-Genre: Dark Wave, Industrial, New Wave
+tbd
 
-::genre::dark wave, industrial, new wave
+::genre::
 
-## The Microgram - Breakthrough Therapy
+## Allison Russell - In the Hour of Chaos
 
-Genre: Ambient, Drone
+tbd
 
-::genre::ambient, drone
+::genre::
 
-## Flawed Mangoes - Anomaly IV
+## Angel Du$t - The Knife/ The Beat
 
-Genre: Post-Punk, Shoegaze
+tbd
 
-::genre::shoegaze, post punk
+::genre::
 
-## John Murphy, David Fleming - Superman
+## Arcane Tales - Crystal Skull
 
-Genre: Soundtrack
+tbd
 
-::genre::cine modern classic
+::genre::
 
-## Public Enemy - Black Sky Over The Projects: Apartment 2025
+## Bad Luck Pearl - Bad Luck Pearl
 
-Genre: Hip Hop
+tbd
 
-::genre::hip hop
+::genre::
 
-## David Thrussell, Snog, Soma - Angst
+## Black Knight - The Tower
 
-Genre: Soundtrack
+tbd
 
-::genre::cine modern classic
+::genre::
 
-## Deap Vally - Femejism
+## Boguslaw Balcerak's Crylord - Lost Bloody Heroes
 
-Genre: Garage Rock, Alt-Rock
+tbd
 
-::genre::garage rock, alt rock
+::genre::
 
-## Ranges - Sin
+## Crown Lands - Ritual I
 
-Genre: Instrumental Post-Rock
+tbd
 
-::genre::post rock, instrumental
+::genre::
+
+## DevilDriver - Strike and Kill
+
+tbd
+
+::genre::
+
+## Ebbb - Shallow Hits
+
+tbd
+
+::genre::
 
 ## Eternell - Indrajāla I
 
@@ -390,8 +870,224 @@ Genre: Ambient, Modern Classic
 
 ::genre::ambient, modern classic
 
-## Nothing Is Sacrosanct - I wish I didn’t *
+## Finn Wolfhard - Fire From The Hip
 
-Genre: Depressive Black Metal, Blackgaze
+tbd
 
-::genre::dsbm, blackgaze
+::genre::
+
+## Flawed Mangoes - Anomaly IV
+
+Genre: Post-Punk, Shoegaze
+
+::genre::shoegaze, post punk
+
+## hackedepicciotto - LICHTUNG
+
+tbd
+
+::genre::
+
+## Hammock - Nevertheless
+
+Genre: Instrumental Ambient Post-Rock
+
+::genre::post rock, ambient, instrumental
+
+## Houndmouth - Lordy
+
+tbd
+
+::genre::
+
+## Hurry - Zoned
+
+tbd
+
+::genre::
+
+## Isis Veil - Man and Dream
+
+tbd
+
+::genre::
+
+## Jaco Jaco - On the Levee
+
+tbd
+
+::genre::
+
+## Jordy - In Retrospect
+
+tbd
+
+::genre::
+
+## Kelela - new avatar
+
+tbd
+
+::genre::
+
+## Lebanon Hanover - Asylum Lullabies
+
+Genre: Dark Wave, Industrial, New Wave
+
+::genre::dark wave, industrial, new wave
+
+## Loren Nerell - Aquaticus
+
+tbd
+
+::genre::
+
+## Mai più inverno - Tormente
+
+tbd
+
+::genre::
+
+## Mason Jennings - Dark Wings
+
+tbd
+
+::genre::
+
+## Michael Cloud Duguay - Kingdom Come, Kingdom Go
+
+tbd
+
+::genre::
+
+## Milton Michaeli / Asaf Shchori / Amid Drake - Universal Butterfly
+
+tbd
+
+::genre::
+
+## Minus Mountain - Minus Mountain
+
+tbd
+
+::genre::
+
+## MOULD - Hoping As A Coping Mechanism
+
+tbd
+
+::genre::
+
+## nothing is sacrosanct - i wish i didnt
+
+tbd
+
+::genre::
+
+## Nuse - Evilution - Vol. II
+
+tbd
+
+::genre::
+
+## Pacific Death - The Yellow Album
+
+tbd
+
+::genre::
+
+## Parts & Labor - Set of All Sets
+
+tbd
+
+::genre::
+
+## Ranges - Sin
+
+Genre: Instrumental Post-Rock
+
+::genre::post rock, instrumental
+
+## Reid Willis - Reliquary
+
+tbd
+
+::genre::
+
+## Rolling Stones - Foreign Tongues
+
+tbd
+
+::genre::
+
+## Sarkh - Heretical Bastard
+
+tbd
+
+::genre::
+
+## she’s green - Swallowtail
+
+tbd
+
+::genre::
+
+## Show Me the Body - Alone Together
+
+tbd
+
+::genre::
+
+## Stephen McCraven - Killing Us Hardly
+
+tbd
+
+::genre::
+
+## Suki Waterhouse - Loveland
+
+tbd
+
+::genre::
+
+## The Microgram - Breakthrough Therapy
+
+Genre: Ambient, Drone
+
+::genre::ambient, drone
+
+## The Rolling Stones - Foreign Tongues
+
+tbd
+
+::genre::
+
+## The Temper Trap - Sungazer
+
+tbd
+
+::genre::
+
+## The Vegetarians - Salute Me
+
+tbd
+
+::genre::
+
+## Tom Galgano - Sleepwalking in a Strange Land
+
+tbd
+
+::genre::
+
+## Violet Opal - Price of Glory
+
+tbd
+
+::genre::
+
+## Will Sheff - Extra Mile
+
+tbd
+
+::genre::

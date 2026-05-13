@@ -1,26 +1,42 @@
 ---
 date: 2025-08-15
-pin: false
-draft: false
 categories:
   - Releases
-authors:
-  - vuellosoph
 ---
 
 # Releases! Releases! Releases!
 
-## Acres - Push Me Away
+## 100 Kilo Herz - Hallo, Startblock
 
-Die britische Post-Hardcore-Kapelle mit ihrem neuen Output. Moderner Post-Hardcore-Sound, welcher sehr oft an der Nu-Metal-Tür klopft.
+tbd
 
-::genre::modern metalcore, post hardcore, nu metal
+::genre::
 
-## Anat Fort - The Dreamworld of Paul Motian
+## ADÉLA - The Provacteur
 
-Das Quartett um den israelischen Jazz-Pianisten Anat Fort mit seiner Hommage an die amerikanische Jazz-Drum-Legende Paul Motian. Neu-Interpretationen von Bekannten bis Unbekannten Songs.
+tbd
 
-::genre::contemporary jazz
+::genre::
+
+## Alera - Beware The Snake
+
+tbd
+
+::genre::
+
+<!-- more -->
+
+## Alison Goldfrapp - Flux
+
+tbd
+
+::genre::
+
+## Anat Ford - The Dreamworld of Paul Motian
+
+tbd
+
+::genre::
 
 ## Andrew Osenga - Hold the Light
 
@@ -28,19 +44,29 @@ Der amerikanische Singer & Songwriter mit einem neuen Solo-Release. “Dem Herre
 
 ::genre::americana, country folk
 
-<!-- more -->
+## Apres Pompeii - Paint
+
+tbd
+
+::genre::
 
 ## Arms And Sleepers - Of Utopias and Catastrophes
 
-Das Ambient-Trip-Hop-Duo  aus Amerika mit keinen wirklich neuen Release, sondern einer Zusammenstellung ihrer EPs zu der betitelten Serie.
+Das Ambient-Trip-Hop-Duo aus Amerika mit keinen wirklich neuen Release, sondern einer Zusammenstellung ihrer EPs zu der betitelten Serie.
 
 ::genre::trip hop, ambient
 
-## As December Falls - Everything’s on Fire but I’m fine
+## As December Falls - Everything's On Fire But I'm Fine
 
-Die Briten mit ihrem neuesten Album. Die Emo-Rocker haben sicherlich das ein oder andere Mal Paramore angehabt, bringen aber dennoch ihren eigenen Sound mit in die Kompositionen.
+tbd
 
-::genre::emocore, alt rock, sad pop punk
+::genre::
+
+## Audrey Hobert - Who's the Clown?
+
+tbd
+
+::genre::
 
 ## Auri - III - Candles & Beginnings
 
@@ -48,23 +74,77 @@ Die finnischen Prog-Folk-Rocker mit einem neuen Werk. Keltische Song-Strukturen,
 
 ::genre::prog folk, prog rock, folk rock
 
+## Aurorawave - Monument
+
+tbd
+
+::genre::
+
+## Babyface Ray - Codeine Cowboy
+
+tbd
+
+::genre::
+
 ## Baest - Colossal
 
 Das Death-Metal-Outfit aus Dänemark mit ihrem neuesten Release. Death-Thrash-Metal, welcher auch gerne Merkmale des NWOBHM annimmt.
 
 ::genre::death metal, thrash metal, nwobhm
 
-## British Murder Boys - Recordings
+## Bedroom Floor - Blade of Fate
 
-Das UK-Techno-Duo mit neuen Tunes. Dark-Electronica-Techno, welcher sein Vorbild in den late 90s der UK-Szene hat. Erinnert mich an lange Nächte in dunklen, mit Nebel- und Strobo-Durchfluteten, Kellern, Fabriken oder Gewölben.
+tbd
 
-::genre::dark electronica, techno
+::genre::
 
-## Caspro - Session Vibes, Vol .1
+## Big Noble - It's Later Than You Think
 
-Der amerikanische DJ und Producer mit einer Art Compilation von Session-Tracks und -Mixes. Arcade-Wave, Synthwave, Retrowave aka Vaprowave werden in verschiedenster Art und Weise in Klang gebracht.
+tbd
 
-::genre::new retro wave, synth wave, vaporwave
+::genre::
+
+## Billianne - Modes of Transportation
+
+tbd
+
+::genre::
+
+## Billie Eilish - Lullaby Renditions of Billie Eilish
+
+tbd
+
+::genre::
+
+## Black Honey - Soak
+
+tbd
+
+::genre::
+
+## Bob Dylan - Bob Dylan's Dream
+
+tbd
+
+::genre::
+
+## Bret McKenzie - Freak Out City
+
+tbd
+
+::genre::
+
+## British Murder Boys, Regis, Surgeon - Recordings
+
+tbd
+
+::genre::
+
+## Caspro - Session Vibes, Vol. 1
+
+tbd
+
+::genre::
 
 ## Cass McCombs - Interior Live Oak
 
@@ -72,11 +152,41 @@ Der Singer & Songwriter aus Amerika mit einem neuen Klangwerk. Folkige Sounds tr
 
 ::genre::indie rock, psych rock
 
+## Cassandra Jenkins - My Light, My Massage Parlor
+
+tbd
+
+::genre::
+
+## Castrator - Coronation Of The Grotesque
+
+tbd
+
+::genre::
+
+## Cedith - Cardinality
+
+tbd
+
+::genre::
+
+## Chance the Rapper - Star Line
+
+tbd
+
+::genre::
+
 ## Chevelle - Bright as Blasphemy *
 
 Das Trio aus Illinois mit einen neuen Output. Post-Grunge mit Hang zum Alt-Rock und ich würde gar Post-Hardcore mit in die Schale werfe. Das Werk wird von guten Songwriting und Produktion begleitet.
 
 ::genre::alt rock, post grunge, post hardcore
+
+## Chicago Underground Duo - Hyperglyph
+
+tbd
+
+::genre::
 
 ## Conan Gray - Wishbone
 
@@ -84,17 +194,95 @@ Der ehemalige “Growing-Star” des Folk-Pop-Himmel mit einem neuen Release. Ic
 
 ::genre::folk pop
 
+## Crematory - Awake
+
+tbd
+
+::genre::
+
+## Crimson Coven - 0 - The Genesis
+
+tbd
+
+::genre::
+
+## Cruel Bomb - Cruel Bomb
+
+tbd
+
+::genre::
+
+## Dark Satellite - Splitting Image
+
+tbd
+
+::genre::
+
+## Darrel Treece Birch's Atlantea - Life
+
+tbd
+
+::genre::
+
+## Dijon - Baby
+
+tbd
+
+::genre::
+
 ## Ellefson-Soto - Unbreakable
 
 Das Sophomore-Release von der Kollaboration zwischen David Ellefson und Jeff Scott Soto. NWOAHM mit Hang zum Hard-Rock.
 
 ::genre::nwobhm, hard rock
 
+## Emily James - Summer Nostalgia
+
+tbd
+
+::genre::
+
+## Evidence - Unlearning Vol. 2
+
+tbd
+
+::genre::
+
 ## Fletcher Tucker - Kin
 
 Der amerikanische Künstler mit einem neuen Machwerk. Eine Avant-Garde-Reise durch verschiedenste akustische Instrumental-Fragmente, Spoken-Words, Ambient-Acoustic und Field-Recordings. Besitzt viel Tiefe meine ich.
 
 ::genre::ambient, field recordings, spoken words
+
+## Gavin Adcock - Own Worst Enemy
+
+tbd
+
+::genre::
+
+## Georgia Harmer - Eye of the Storm
+
+tbd
+
+::genre::
+
+## GG - Time Capsule
+
+tbd
+
+::genre::
+
+## Good Teal - Good Teal
+
+tbd
+
+::genre::
+
+## Grand Cadaver - The Rot Beneath
+
+tbd
+
+::genre::
 
 ## Greg Maroney - A soft Place to Fall
 
@@ -108,11 +296,11 @@ Die Schweizer wissen ihre dunklen Seiten zu vereinen. Mit ihren neuen Album mach
 
 ::genre::post punk, prog rock, industrial, art rock, dark wave
 
-## Holy Springs - Outside
+## Hammer King - Make Metal Royal Again
 
-Das Shoegaze-Outfit aus London mit einem neuen Werk. Shoegazer, welcher Element des Psychedelic-Rock in seine Strukturen aufnimmt.
+tbd
 
-::genre::shoegaze, psych rock
+::genre::
 
 ## Hinoku, nu.un, Between The Stars - Nightwalk
 
@@ -120,11 +308,35 @@ Was kann man hier wohl erwarten, wenn man sich die Namen und den Titel anschaut?
 
 ::genre::ambient
 
+## Holy Springs - Outside
+
+Das Shoegaze-Outfit aus London mit einem neuen Werk. Shoegazer, welcher Element des Psychedelic-Rock in seine Strukturen aufnimmt.
+
+::genre::shoegaze, psych rock
+
+## Ike & Tina Turner - I Can't Stop Loving You
+
+tbd
+
+::genre::
+
+## In My Own Blood - Heaven Couldn’t Wait
+
+tbd
+
+::genre::
+
 ## Incite - Savage New Times
 
 Die Band aus Phoenix mit ihrem neuesten Output. Thrash-Metal, dargeboten in einer groovigen Art und Weise.
 
 ::genre::thrash metal
+
+## Insane Clown Posse - The Naught (Psychopathic)
+
+tbd
+
+::genre::
 
 ## Jack Garratt - Pillars
 
@@ -132,11 +344,17 @@ Der britische Singer & Songwriter mit einem neuen Werk. Alt-Pop, welcher Acid-Ja
 
 ::genre::alt pop, acid jazz, alt folk
 
-## Joseph Akins - Songs my Father played
+## Joey Valence & Brae - HYPERYOUTH
 
-Der amerikanische Pianist mit Instrumental-Cover-Versionen bekannter “Hits” im Gewand des klassischen Pianos.
+tbd
 
-::genre::modern classic
+::genre::
+
+## Jordan Davis - Learn the Hard Way
+
+tbd
+
+::genre::
 
 ## Justice For The Damned - Stay Relentless
 
@@ -144,11 +362,47 @@ Die Band aus Sydney mit einem neuen Release. Metalic-Hardcore, welcher sicherlic
 
 ::genre::metallic hardcore
 
-## Kaytranada - Ain’t no damn Way!
+## K Camp - Kiss 6
 
-Der kanadische Producer mit einem neuen Werk der Electronica. Trip-Hop, “Backyard-House” und Alt-Dance werden hier in einen Pott geworfen und auf “die Massen” gelassen.
+tbd
 
-::genre::electronica, dance, alt pop
+::genre::
+
+## Kal Banx - Rhoda
+
+tbd
+
+::genre::
+
+## KAYTRANADA - AIN'T NO DAMN WAY!
+
+tbd
+
+::genre::
+
+## Kerosene Heights - Blame It On the Weather
+
+tbd
+
+::genre::
+
+## King Yosef - Spire Of Fear
+
+tbd
+
+::genre::
+
+## Linx - Annihilation
+
+tbd
+
+::genre::
+
+## Lupe Fiasco - Samurai DX
+
+tbd
+
+::genre::
 
 ## Marissa Nadler - New Radiations *
 
@@ -168,6 +422,12 @@ Lassen wir das neuen Werk der Niederländer willkommen. Ich würde es klar dem N
 
 ::genre::nwobhm
 
+## Maxine Brown - Maxine Brown Sings
+
+tbd
+
+::genre::
+
 ## Maïak - Geiger Discounter
 
 Nicht wirklich aktuelles Material von den Schweizer aber “Never-Released” Material aus den frühen Tagen der Band. Instrumental-Post-Rock, welcher auch Drone und Electronica im minimalen Einsatz hat.
@@ -186,6 +446,18 @@ Nach dem M’era Luna ist vor dem M’era Luna. Die deutschen Gothic-Rocker mit 
 
 ::genre::gothic rock
 
+## Music for Writers - Steve Gunn
+
+tbd
+
+::genre::
+
+## My Fangs Find You - Nothing Lasts
+
+tbd
+
+::genre::
+
 ## Nerves - Iarmhaireacht
 
 Die irische Formation mit einem neuen Release. Ein spannender Mix aus Noise-Punk, Avant-Punk und Industrial.
@@ -198,17 +470,35 @@ Das Duo, aus … nah? … natürlich New York, mit seinem neuesten Werk. Sludge 
 
 ::genre::sludge rock, prog rock, noise rock, psych rock
 
+## North of Ruins - State of Decay
+
+tbd
+
+::genre::
+
 ## Nuns Of The Tundra - Nuns Of The Tundra
 
 Die UK Band mit ihrem neuesten Release. Groovy Alt-Metal, welcher sich nahtlos dem Nu-Metal zuschreiben lässt, meine ich.
 
 ::genre::groove metal, alt metal, nu metal
 
-## Plaiins - Happy Faces
+## Nunslaughter, Sabbat - Evil Hellbangers
 
-Die Hamburger mit ihrem neuesten Streich. Die Garage-Punker verfeinern ihre Kompositionen mit einer gewaltigen Portion des Indie-Rock. Im Management angepriesen als QOTSA, Idles und Turnstile “Nachfolger”. Davon hört man allerdings im Songwriting nur etwas, wenn man eine gute Einbildungskraft hat. Mit early Arctic Monkeys und The Hives kommt man dem Ganzen schon näher.
+tbd
 
-::genre::garage rock, proto punk rock, indie rock
+::genre::
+
+## Orion - Into Darkness
+
+tbd
+
+::genre::
+
+## Ourselves Among Others - Infinite
+
+tbd
+
+::genre::
 
 ## Panopticon - Laurentian Blue
 
@@ -216,29 +506,83 @@ Als ich es gehört habe, dachte ich mir: “Kuhl, mal was neues von Panopticon�
 
 ::genre::celtic folk
 
-## Panopticon - Songs of Hiraeth *
-
-Hier ist Teil 2 der August-Veröffentlichung des amerikanischen Solo-Projekts Panopticon. In diesem Release wird dem Post-Metal die Chance gegeben, seine Stärken zu zeigen. Die amerikanische Band hat sich mit diesem Release auf die klassische Post-Metal-Komposition konzentriert, ohne dabei die Black-Metal-Elemente zu verlieren. Das Ergebnis ist ein hervorragendes Album, das sowohl die Fans der Black-Metal als auch die der Post-Metal zufrieden stellen wird.
-
-::genre::post black metal, blackgaze
-
 ## Patriarchs In Black - Home
 
 Das Projekt um Johnny Kelly und Dan Lorenzo mit einem neuen Output. Stoner-Rock trifft auf Doom-Metal. Nicht mehr, nicht weniger.
 
 ::genre::stoner metal, doom metal
 
-## Rise Against - Ricochet
+## Pile - Balance Beams
 
-DIe Straight-Edge-Punker aus Chicago mit ihrem neuesten Release. Im Alter wechselt ihr Sound immer mehr in den Alt-Rock. Trotzdem ich ihr Engagement neben der Band sehr wertvoll finde, ihren “neuen” Style finde ich creepy.
+tbd
 
-::genre::alt rock
+::genre::
 
-## Slime - 3! + 7¹
+## PINKNOISE - HUMAN=KIND
 
-Ja, die Hamburger Polit-Punks gibt es immer noch. Das zweite Werk mit dem neuen Sänger, nach dem Ausstieg von “Diggen” in 2020. Was soll ich sagen, deutscher Polit-Punk der etablierten Art und Weise.
+tbd
 
-::genre::punk rock
+::genre::
+
+## Plaiins - Happy Faces
+
+Die Hamburger mit ihrem neuesten Streich. Die Garage-Punker verfeinern ihre Kompositionen mit einer gewaltigen Portion des Indie-Rock. Im Management angepriesen als QOTSA, Idles und Turnstile “Nachfolger”. Davon hört man allerdings im Songwriting nur etwas, wenn man eine gute Einbildungskraft hat. Mit early Arctic Monkeys und The Hives kommt man dem Ganzen schon näher.
+
+::genre::garage rock, proto punk rock, indie rock
+
+## Pool Kids - Easier Said Than Done
+
+tbd
+
+::genre::
+
+## Racing Mount Pleasant - Racing Mount Pleasant
+
+tbd
+
+::genre::
+
+## Rich Brian - WHERE IS MY HEAD?
+
+tbd
+
+::genre::
+
+## Rise Against - Richochet
+
+tbd
+
+::genre::
+
+## Rivals - Medusa’s Home
+
+tbd
+
+::genre::
+
+## Rovar - Smoke
+
+tbd
+
+::genre::
+
+## Shane Driscoll - Sounds in the Dark Oppression Break
+
+tbd
+
+::genre::
+
+## She's Green - Chrysalis
+
+tbd
+
+::genre::
+
+## Slime - 3!+7¹
+
+tbd
+
+::genre::
 
 ## Stephen Bishop - Thimk
 
@@ -252,23 +596,47 @@ Der amerikanische Singer & Songwriter mit seinem Erstling? als Solo-Künstler. A
 
 ::genre::minimal ambient, ambient acoustic
 
-## Steve Moore - Jimmy & Stiggs (Original Motion Picture Soundtrack)
-
-Der New-York-Based Producer und Film-Komponist mit dem Soundtrack zum chaotischen Horror-Spektakel Jimmy & Stiggs.
-
-::genre::cine modern classic
-
 ## Street Sects - Dry Drunk
 
 Das Duo aus Texas mit seinem neuesten Output. Ich würde es dem Industrial-Metal oder Industrial-Hardcore zurechnen.
 
 ::genre::industrial metal, hardcore
 
+## Street Sex - Full Color Eclipse
+
+tbd
+
+::genre::
+
 ## Sunbeam Sound Machine - Double Magic
 
 Das Projekt um den australischen Producer und Multi-Instrumentalisten Nick Sowersby. Psychedelic-Indie-Pop, mit Einflüssen des Synthwave.
 
 ::genre::psych pop, indie pop, synth wave
+
+## Sunsleep - Terrible Things
+
+tbd
+
+::genre::
+
+## Surfaced - Where Angels Fear To Tread
+
+tbd
+
+::genre::
+
+## Tebby And The Heavy - Heavy Afternoon
+
+tbd
+
+::genre::
+
+## That Mexican OT - Recess
+
+tbd
+
+::genre::
 
 ## The Aces - Gold Star Baby
 
@@ -282,11 +650,23 @@ Das Duo aus Washington (State) mit einer Compilation aus den letzten 12 Jahren, 
 
 ::genre::indie rock
 
-## The Hacky Turtles - I’ve been here before …
+## The Hacky Turtles - I've Been Here Before...
 
-Die Band aus Michigan mit ihrem neuesten Werk. Eine Komposition des Indie-Folk, mit Ausflügen in den Indie-Rock.
+tbd
 
-::genre::indie folk, indie rock
+::genre::
+
+## The Kingston Lions - The Kingston Lions
+
+tbd
+
+::genre::
+
+## The Prophecy 23 - Mosh O’Clock
+
+tbd
+
+::genre::
 
 ## The Summer Set - Meet me at the Record Store
 
@@ -299,6 +679,24 @@ Die amerikanische Pop-Rock-Band mit ihrem neuesten Output. Pop-Rock meets Pop-Pu
 Der französische Producer mit dem Soundtrack zu Serge Lehman’s Werk. Electronica-Cinematic-Ambient beschreibt die Kompositionen zum Futuristic-Movie am Besten.
 
 ::genre::cine ambient, cine electronica
+
+## Tom Grennan - Everywhere I Went Led Me To Where I Didn’t Want To Be
+
+tbd
+
+::genre::
+
+## Treasondom - The Flesh Consumes The Mind
+
+tbd
+
+::genre::
+
+## twaklander - Buntai
+
+Der schweizerische Ambient-Künstler mit einem neuen Werk. Synth-Ambient, welcher minimale Ausflüge in Drone erlaubt.
+
+::genre::synth ambient, drone
 
 ## Unleashed - Fire upon your Lands
 
@@ -318,15 +716,105 @@ Die finnische Melodic-Death-Metal-Formation mit ihrem neuesten Release. Ihre Zun
 
 ::genre::melo death metal
 
-## twaklander - Buntai
+## When I Say Jump - Before the Fall
 
-Der schweizerische Ambient-Künstler mit einem neuen Werk. Synth-Ambient, welcher minimale Ausflüge in Drone erlaubt.
+tbd
 
-::genre::synth ambient, drone
+::genre::
+
+## Whimsical Creature - Wistful Thinking
+
+tbd
+
+::genre::
+
+## Witchrider - Metamorph
+
+tbd
+
+::genre::
 
 ---
 
-# Earlier the week …
+# Earlier the week ...
+
+## As December Falls - Everything's on Fire but I'm Fine
+
+tbd
+
+::genre::
+
+## B2K - Juju Women - Eucaphony: Volumen Sextus
+
+tbd
+
+::genre::
+
+## Baco Dì Silenzio - Aquile e Cieli
+
+tbd
+
+::genre::
+
+## GLU - PONY BOY
+
+tbd
+
+::genre::
+
+## Haunt - Ignite
+
+Die Kalifornier mit ihrem neuesten Output. Ziemlich unaufgeregter NWOAHM.
+
+::genre::nwobhm
+
+## Icona Pop - Ritual
+
+tbd
+
+::genre::
+
+## Jacqueline Taieb - Les Voix de Jacqueline
+
+tbd
+
+::genre::
+
+## Jason Fretz - Auf Letzter Tour
+
+tbd
+
+::genre::
+
+## Jungle - Sunshine
+
+tbd
+
+::genre::
+
+## Kallias - Digital Plague
+
+tbd
+
+::genre::
+
+## Kevin Gates - Luca Brasi 4
+
+tbd
+
+::genre::
+
+## Kurara - Чужие песни
+
+tbd
+
+::genre::
+
+## Liar - Liar's Hell
+
+tbd
+
+::genre::
 
 ## Nom De Plume - Circle the Dream
 
@@ -334,8 +822,56 @@ Die amerikanischen Folk-Rocker mit ihrem neuesten Release. Folk-Rock, welcher si
 
 ::genre::folk rock, alt country
 
-## Haunt - Ignite
+## Obazik - Bring Back Home
 
-Die Kalifornier mit ihrem neuesten Output. Ziemlich unaufgeregter NWOAHM.
+tbd
 
-::genre::nwobhm
+::genre::
+
+## Parallel Pulse - The Polarity
+
+tbd
+
+::genre::
+
+## Pat Stotz & Chris Beya - It's Time
+
+tbd
+
+::genre::
+
+## Psicolorama - The Photocopied Lives
+
+tbd
+
+::genre::
+
+## Riffstone - Richard III
+
+tbd
+
+::genre::
+
+## SebastiAn - SAINT LAURENT SHOWS
+
+tbd
+
+::genre::
+
+## Sendelica - Nirmata
+
+tbd
+
+::genre::
+
+## Seth Angerer - The Nine Sources
+
+tbd
+
+::genre::
+
+## Tory Slusher - Other Side of the Equation
+
+tbd
+
+::genre::
