@@ -1,14 +1,108 @@
 ---
 date: 2025-04-25
-pin: false
-draft: false
 categories:
   - Releases
-authors:
-  - vuellosoph
 ---
 
 # Releases! Releases! Releases!
+
+## Acidwound - Antroposcene
+
+tbd
+
+::genre::
+
+## Aeonyzhar - The Profane Era
+
+tbd
+
+::genre::
+
+## Ahamkara - The Harrow Of The Lost
+
+tbd
+
+::genre::
+
+<!-- more -->
+
+## AKa Rinde - Kids
+
+tbd
+
+::genre::
+
+## Almeeva - HyperLife
+
+tbd
+
+::genre::
+
+## Alpha Lighting System - Dualitas
+
+tbd
+
+::genre::
+
+## Amy Irving - Always Will Be
+
+tbd
+
+::genre::
+
+## Ancient Bards - Artifex
+
+tbd
+
+::genre::
+
+## Ancst - Dominion
+
+Die Berliner Metalcorer mit ihrem aktuellsten Werk. Erinnert mich stark an alte Heaven Shall Burn. Vermutlich kein Zufall.
+
+::genre::metalcore
+
+## Andy Grammer - The Friends & Family Sessions
+
+tbd
+
+::genre::
+
+## Anoraak - Golden Hour
+
+tbd
+
+::genre::
+
+## Another Damn Disappointment - Bedlam
+
+tbd
+
+::genre::
+
+## Art Nation - The Ascendance
+
+tbd
+
+::genre::
+
+## Ateena - Ateena
+
+tbd
+
+::genre::
+
+## Avenger Of Blood - Revenge Is My Name
+
+tbd
+
+::genre::
+
+## Ayelet Rose Gottlieb, Dream Keepers - Dust
+
+tbd
+
+::genre::
 
 ## Bank Myna - Eimuria **
 
@@ -16,11 +110,29 @@ Die Franzosen mit ihrem neuesten Output. Hier bilden Drone, Progressive und Post
 
 ::genre::drone, prog metal, post metal
 
-## BIG|BRAVE - Ost
+## Bark - The Time Has Come
 
-Das kanadische Experimental-Trio mit einem Konzeptalbum, das einiges auf den Kopf stellt. Dieses Album ist ein Soundtrack zu einem Film, welcher (noch) nicht existiert. Experimental, Dark-Cinematic, Minimal-Instrumental-Rock.
+tbd
 
-::genre::experimental rock, cine rock, instrumental
+::genre::
+
+## Beach Bunny - Tunnel Vision
+
+tbd
+
+::genre::
+
+## Behölder - In The Temple Of The Tyrant
+
+tbd
+
+::genre::
+
+## Big Boy - Love Songs
+
+tbd
+
+::genre::
 
 ## Billow Observatory - The Glass Curtain
 
@@ -28,7 +140,47 @@ Das transatlantische Duo mit ihrem neuen Werk. Pure Ambient-Kompositionen, ohne 
 
 ::genre::cine ambient
 
-<!-- more -->
+## Billy Idol - Dream Into It
+
+tbd
+
+::genre::
+
+## Black Mamba - Spiritual Complexity
+
+tbd
+
+::genre::
+
+## Black Sword Thunder Attack - Black Sword Thunder Attack
+
+tbd
+
+::genre::
+
+## Blax - Certesia
+
+tbd
+
+::genre::
+
+## Blister Brigade - A Rioting New Breed
+
+tbd
+
+::genre::
+
+## BLOT OUT THE SUN - INTERDIMENSIONAL
+
+tbd
+
+::genre::
+
+## Brick By Brick - Collapse
+
+tbd
+
+::genre::
 
 ## BRONCHO - Natural Pleasure
 
@@ -36,17 +188,11 @@ Die Psychedelic Indie Rocker aus Oklahoma mit ihrem neuesten Output. American In
 
 ::genre::indie rock
 
-## Conan - Violence Dimension
+## Bruit - The Age Of Ephemerality
 
-Die britischen Doom-/Sludge-Metaller mit ihrem aktuellen Werk. Nichts was man nicht schon gehört hat, was in diesem Genre ja auch nicht wirklich etwas Neues ist. Wenn man das Genre mag und verfolgt, dann ist dieses Release sicherlich etwas “frisches”.
+tbd
 
-::genre::doom metal, sludge metal
-
-## Cosmic Cathedral - Deep Water *
-
-Das Debüt der britischen Kapelle um Neal Morse, Chester Thompson und Phil Keaggy. Was passiert, wenn sich Menschen von Transatlantic, Genesis und Glass Harp zusammen tun? Genau das hier. Classic Progressive Rock, welcher gern mal bei Queen anklopft.
-
-::genre::prog rock
+::genre::
 
 ## Cadaver - Hymns of Misanthropy
 
@@ -54,17 +200,119 @@ Die norwegischen Death Metaller veröffentlichen ein “verloren gegangenes" Alb
 
 ::genre::old school death metal, thrash metal
 
-## Bryan Ferry, Amelia Barratt - Loose Talk (Instrumental)
-
-Die Instrumental-Version des diesjährigen Releases um das Roxy Music Mastermind. Mir gefällt die Spoken-Words-Version besser.
-
-::genre::art rock, avant jazz, instrumental
-
 ## Caliban - Back From Hell
 
-Die deutschen Metalcorer mit ihrem neuen Output. Manchmal wünsche ich mir, dass ich von den Releases noch überrascht werde, aber am Ende sagt mein Kopf: “Ah … ein neues Caliban Release." "Punkt." - Für die neue Generation an Metalcore-Kids sicherlich ein Meisterwerk. 
+Die deutschen Metalcorer mit ihrem neuen Output. Manchmal wünsche ich mir, dass ich von den Releases noch überrascht werde, aber am Ende sagt mein Kopf: “Ah … ein neues Caliban Release." "Punkt." - Für die neue Generation an Metalcore-Kids sicherlich ein Meisterwerk.
 
 ::genre::metalcore
+
+## Cancer - Inverted World
+
+tbd
+
+::genre::
+
+## Candice Night - Sea Glass
+
+tbd
+
+::genre::
+
+## Captain Planet - Reste
+
+tbd
+
+::genre::
+
+## CARA - Sous Vide
+
+tbd
+
+::genre::
+
+## Carl Winther, Jeff "Tain" Watts, Richard Andersson - Steep Steps
+
+tbd
+
+::genre::
+
+## Caustic Wound - Grinding Mechanism Of Torment
+
+tbd
+
+::genre::
+
+## Cecil McBee - Mutima
+
+tbd
+
+::genre::
+
+## Changeling - Changeling
+
+tbd
+
+::genre::
+
+## Charles Tolliver, Music Inc - Compassion
+
+tbd
+
+::genre::
+
+## Cloth - Pink Silence
+
+tbd
+
+::genre::
+
+## Coco Jones - Why Not More?
+
+tbd
+
+::genre::
+
+## Coffin Feeder - Big Trouble
+
+tbd
+
+::genre::
+
+## COLDSTATE - The Lovely
+
+tbd
+
+::genre::
+
+## Colin Miller - Losin'
+
+tbd
+
+::genre::
+
+## Conan - Violence Dimension
+
+Die britischen Doom-/Sludge-Metaller mit ihrem aktuellen Werk. Nichts was man nicht schon gehört hat, was in diesem Genre ja auch nicht wirklich etwas Neues ist. Wenn man das Genre mag und verfolgt, dann ist dieses Release sicherlich etwas “frisches”.
+
+::genre::doom metal, sludge metal
+
+## Conflict - This Much Remains
+
+tbd
+
+::genre::
+
+## Cosmic Cathedral - Deep Water *
+
+Das Debüt der britischen Kapelle um Neal Morse, Chester Thompson und Phil Keaggy. Was passiert, wenn sich Menschen von Transatlantic, Genesis und Glass Harp zusammen tun? Genau das hier. Classic Progressive Rock, welcher gern mal bei Queen anklopft.
+
+::genre::prog rock
+
+## Craig Urquhart - Emergence
+
+tbd
+
+::genre::
 
 ## d4vd - Withered
 
@@ -78,11 +326,35 @@ Der schwedische Komponist und Multi-Instrumentalist mit seinem Neuen Werk. Neo-K
 
 ::genre::neo classic, ambient
 
+## Daniel Biro, Sara Minelli - The Difficulty of Being
+
+tbd
+
+::genre::
+
 ## Daniel Herskedal, Eyolf Dale, Helge Andreas Norbakken - Movements of Air
 
 Die norwegische Kollaboration um Daniel Herskedal (Brass), Eyolf Dale (Piano) und Helge Andreas Norbakken (Drums, Percussions) begeistert mit ihrem Output. Nordic Modern Jazz, welchen man nicht verpassen sollte, meine ich.
 
 ::genre::nordic jazz
+
+## Das Aus der Jugend - Für immer niemals sein wie ihr
+
+tbd
+
+::genre::
+
+## Datadyr - This We Know
+
+tbd
+
+::genre::
+
+## David Eugene Edwards, Al Cisneros - Pillar of Fire / Capernaum
+
+tbd
+
+::genre::
 
 ## David Helpling, Eric “the” Taylor - The Precious Dark
 
@@ -90,11 +362,23 @@ Kollaboration der beiden amerikanischen Electronica Ambient Künstler. Cinematic
 
 ::genre::cine ambient, synth ambient, electronica
 
+## DeathbyRomy - Hollywood Forever
+
+tbd
+
+::genre::
+
 ## Deerhoof - Noble and Godlike in Ruin *
 
 Die kalifornischen Indie-Rocker mit ihrem neuesten Output. In ihrer progressiven Art, des Indie Rocks, begeistern sie mich immer. Abgefahrenes Werk.
 
 ::genre::indie rock, prog rock
+
+## Delilah's Dance - Pain-O-Meter
+
+tbd
+
+::genre::
 
 ## Deserted Fear - Veins Of Fire
 
@@ -102,11 +386,59 @@ Die Thüringer Melodic Death Metaller mit ihren neuen Output. Melodic Death der 
 
 ::genre::melodic death metal
 
+## DGMA - SOMETHING TO DANCE TO
+
+tbd
+
+::genre::
+
+## Digging Graves - United in a State of Lunacy
+
+tbd
+
+::genre::
+
+## Disfuneral - In Horror, Reborn
+
+tbd
+
+::genre::
+
+## Dissentor - Flagella
+
+tbd
+
+::genre::
+
+## Djrum - Under Tangled Silence
+
+tbd
+
+::genre::
+
+## Earl Of Hell - Earl Of Hell
+
+tbd
+
+::genre::
+
+## Echoes of the Extinct - Era of Darkness
+
+tbd
+
+::genre::
+
 ## Elita - Hell Hill
 
 Debüt der kanadischen “Influencerin”. Indie Electro-Punk, welcher wohl ein Carsten-Only-Pick bleibt.
 
 ::genre::indie rock, electropunk
+
+## Eluveitie - Ànv
+
+tbd
+
+::genre::
 
 ## Emma-Jean Thackray - Weirdo
 
@@ -114,29 +446,137 @@ Aktuelles Werk der britischen Komponistin und Multi-Instrumentalistin. Soul-isch
 
 ::genre::jazz fusion, neo soul
 
+## Employed To Serve - Fallen Star
+
+tbd
+
+::genre::
+
+## EverChanger - Reflections
+
+tbd
+
+::genre::
+
+## EYES - SPINNER
+
+tbd
+
+::genre::
+
+## Felgrave - Otherlike Darknesses
+
+tbd
+
+::genre::
+
+## Femi Kuti - Journey Through Life
+
+tbd
+
+::genre::
+
 ## Fib - Heavy Lifting
 
 Die progressiven Indie Rocker aus Philadelphia mit ihrem neuesten Werk. Ich kann damit etwas anfangen.
 
 ::genre::indie rock, prog rock
 
-## Ghost - Skeletá
+## Floral Image - Gone Down Meadowland
 
-Die schwedische Heavy Metal/Arena Rock Kapelle mit einem neuen Output. Wenn man mit Ghost bisher etwas anfangen konnte, so kann man auch mit diesem Werk wieder etwas anfangen.
+tbd
 
-::genre::heavy metal, hard rock, arena rock
+::genre::
 
-## Gilad Hekselman, Larry Grenadier, Marcus Gilmore - Downhill From Here
+## Fluido Rosa - Abaton
 
-Kollaboration um den Jazz Gitarristen Gilad Hekselman, den Jazz Bassisten Larry Grenadier und den Jazz Drummer Marcus Gilmore. Guitar-Jazz/Post-Bop der amerikanischen Art.
+tbd
 
-::genre::contemporary jazz, post bop
+::genre::
+
+## Fly Anakin - The Forever Dream
+
+tbd
+
+::genre::
+
+## Game Over - Face The End
+
+tbd
+
+::genre::
+
+## Ghost - Skeleta
+
+tbd
+
+::genre::
+
+## GhostSeeker - Divergence
+
+tbd
+
+::genre::
+
+## Gigi Perez - At the Beach, in Every Life
+
+tbd
+
+::genre::
+
+## Gilad Hekselman - Downhill From Here
+
+tbd
+
+::genre::
+
+## Glasswaves - It Was Always Meant To End
+
+tbd
+
+::genre::
+
+## Goose - Everything Must Go
+
+tbd
+
+::genre::
+
+## Green Diesel - Onward the Sun
+
+tbd
+
+::genre::
 
 ## Gregory Paul Mineeff - Exhumed
 
 Der australische Komponist und Multiinstrumentalist mit seinem neuesten Werk. Ambient Electronica der gemütlichen Art und Weise. Wenn die Stimmung gerade auf Ambient steht, dann kann man hier ein Ohr lassen.
 
 ::genre::ambient, electronica
+
+## Guru - Revel in the End of the World
+
+tbd
+
+::genre::
+
+## H.E.A.T - Welcome to the Future
+
+tbd
+
+::genre::
+
+## Harald Grosskopf, Ümit Han - Magnetfeld
+
+tbd
+
+::genre::
+
+## Harem Scarem - Chasing Euphoria
+
+tbd
+
+::genre::
 
 ## Heart Attack Man - Joyride The Pale Horse
 
@@ -150,11 +590,89 @@ Neuester Solo-Output vom schwedischen Kashmir Keyboardists. Cinematic-Neo-Classi
 
 ::genre::cine modern classic, neo classic
 
-## Sotvorishi, Heavenchord, Infinity Dots - Moments Are Forever
+## Higher Walls - No End
 
-Die Kollaboration zwischen Heavenchord und Infinity Dots reißt nicht ab, diesmal mit Unterstützung von Sotvorishi. Ambient/Field Recordings.
+tbd
 
-::genre::ambient, field recordings
+::genre::
+
+## Himalayas - Bad Star
+
+tbd
+
+::genre::
+
+## His Kingdom Suffers - Lord Have Mercy
+
+tbd
+
+::genre::
+
+## Hollow Construct - Habitual Backbreaker
+
+tbd
+
+::genre::
+
+## Hyena - About Rock And Roll
+
+tbd
+
+::genre::
+
+## I Am Your God - △
+
+tbd
+
+::genre::
+
+## Idris Ackamoor, Rhodessa Jones, Danny Glover - Artistic Being
+
+tbd
+
+::genre::
+
+## Ignasi Terraza, Ulf Wakenius, Pierre Boussaguet - With Respect to Oscar and Niels
+
+tbd
+
+::genre::
+
+## Imminent Sonic Destruction - Floodgate
+
+tbd
+
+::genre::
+
+## Imogen Whitehead, Britten Sinfonia, Jennifer Walsh - Connection
+
+tbd
+
+::genre::
+
+## Inhuman Nature - Greater Than Death
+
+tbd
+
+::genre::
+
+## Initial Condition - Disconnection
+
+tbd
+
+::genre::
+
+## Insineratehymn - Irreverence Of The Divine
+
+tbd
+
+::genre::
+
+## James and the Cold Gun - Face In The Mirror
+
+tbd
+
+::genre::
 
 ## James Arthur - Pisces
 
@@ -162,23 +680,35 @@ Der britische Singer & Songwriter und X Factor Gewinner aus 2012?, mit seinem ne
 
 ::genre::folk rock, pop rock, alt pop
 
-## Carl Winther, Jeff “Tain” Watts, Richard Andersson - Steep Steps
+## Jeff Goldblum - Still Blooming
 
-Kollaboration um den dänischen Jazz-Pianisten Carl Winther, den amerikanischen Jazz Drummer Jeff “Tain” Watts und den dänischen Jazz Bassisten Richard Andersson. Bewegt sich zwischen Modern Jazz und Post-Bop.
+tbd
 
-::genre::modern jazz, post bop
+::genre::
 
-## Jensen McRae - I don’t know how but they found me!
+## Jensen McRae - I Don't Know How But They Found Me!
 
-Die kalifornische Singer & Songwriterin mit ihrem aktuellen Output. Ja. Carsten-Only-Pick.
+tbd
 
-::genre::indie folk, bedroom pop
+::genre::
 
-## Joe Lovano, Marcin Wasilewski Trio - Homage
+## Jimi Tenor, Cold Diamond & Mink - July Blue Skies
 
-Kollaboration um den amerikanischen Jazz Saxophonisten und des polnischen Piano-Jazz-Trios um den Jazz Pianisten Marcin Wasilewski. Eine Tour vom Europäischen Free-Jazz, nach amerikanischem Jazz, zum Post-Bop.
+tbd
 
-::genre::free jazz, contemporary jazz, post bop
+::genre::
+
+## Joe Lovano - Homage
+
+tbd
+
+::genre::
+
+## Jordsjø, Breidablik - Kontraster
+
+tbd
+
+::genre::
 
 ## Josh Rouse - Streets of your Town
 
@@ -186,35 +716,227 @@ Neuester Output des amerikanischen folk-y Pop Singer & Songwriters. Amerikanisch
 
 ::genre::americana, indie rock
 
-## Kardashev - Alinea *
+## Kardashev - Alunea
 
-Die “Deathgazer” aus Arizona mit ihrem neuesten Output. Progressiver Death Metal, welcher mit orchestral-catchy Refrains kommt. Irgendwas finde ich an dem Album Interessant, was aber auch wieder verfliegen kann.
+tbd
 
-::genre::deathgaze, prog death metal
+::genre::
 
-## Landmvrks - The Darkest Place I’ve Ever Been
+## Karneef - It's How You Say It
 
-Neuester Output der französischen Metalcorer. Deren Alben haben immer einen kurzweiligen Aufenthalt in meinem Herzen.
+tbd
 
-::genre::modern metalcore
+::genre::
 
-## Machine Head - Unatøned
+## Kodder - Da! So seid ihr!
 
-Die kalifornischen Groove Metaller mit einem neuen Output. Man verpasst absolut nichts, wenn man keine Note davon hört.
+tbd
 
-::genre::groove metal
+::genre::
 
-## Mauger - Look, A Howlin’ Preachin’ Sun
+## Lagartija Nick - El perro andaluz
 
-Der Belgier mit seinem aktuellen Output. Psychedelic Indie Rock der europäischen Art.
+tbd
 
-::genre::psych rock, indie rock
+::genre::
 
-## Piano Hands - Air on a G String
+## Landmvrks - The Darkest Place I've Ever Been
 
-Das Piano Duo mit ihrem neuesten Werk. Ambient Neo-Classic.
+tbd
 
-::genre::ambient, neo classic
+::genre::
+
+## Le Tour de Force - Le Tour de Force
+
+tbd
+
+::genre::
+
+## Light-Space Modulator, Shackleton, Marlene Ribeiro - The Rising Wave
+
+tbd
+
+::genre::
+
+## Like Heaven - Hope In Hell
+
+tbd
+
+::genre::
+
+## Listless - Selftitled
+
+tbd
+
+::genre::
+
+## Liv Kristine - Amor Vincit Omnia
+
+tbd
+
+::genre::
+
+## Lives Lost - Home
+
+tbd
+
+::genre::
+
+## Loess - Battens
+
+tbd
+
+::genre::
+
+## Lost For Life - Unless One of Us Dies First
+
+tbd
+
+::genre::
+
+## Luke Stewart / Silt Remembrance Ensemble - The Order
+
+tbd
+
+::genre::
+
+## Lyn Lapid - Buzzkill
+
+tbd
+
+::genre::
+
+## Machine Head - Unatoned
+
+tbd
+
+::genre::
+
+## Malforce - Force du Mal
+
+tbd
+
+::genre::
+
+## Maria Somerville - Luster
+
+tbd
+
+::genre::
+
+## Marina Satti - Pop Too
+
+tbd
+
+::genre::
+
+## Martoriator - Bloodpainted Visions Of Perpetual Conflict
+
+tbd
+
+::genre::
+
+## Masayo Koketsu, Nava Dunkelman, Tim Berne - Poiēsis
+
+tbd
+
+::genre::
+
+## Massimo Pieretti - The Next Dream
+
+tbd
+
+::genre::
+
+## Matthew Kiichi Heafy - True Believers
+
+tbd
+
+::genre::
+
+## MAUGER - Look, A Howlin' Preachin' Sun
+
+tbd
+
+::genre::
+
+## Melanie - Lullabies From Heaven - Melanie's Children's Album
+
+tbd
+
+::genre::
+
+## Michael Sarian - Esquina
+
+tbd
+
+::genre::
+
+## MIRNA RAY - THô
+
+tbd
+
+::genre::
+
+## Monhell - A Last Sigh Of Pain
+
+tbd
+
+::genre::
+
+## Monk - Dark Side Of The Mind
+
+tbd
+
+::genre::
+
+## Mooshu - Chin Up Kid*
+
+tbd
+
+::genre::
+
+## Mutualism - Ruminations
+
+tbd
+
+::genre::
+
+## Natural Information Society and Bitchin Bajas - Totality
+
+tbd
+
+::genre::
+
+## Necropoet - Exorcisms
+
+tbd
+
+::genre::
+
+## Neopera - Eternal Source
+
+tbd
+
+::genre::
+
+## Night Move - Double Life
+
+tbd
+
+::genre::
+
+## Nikolija - Sila
+
+tbd
+
+::genre::
+
+## Northvoid - Ember Remains
+
+tbd
+
+::genre::
 
 ## Oak - The Third Sleep *
 
@@ -222,11 +944,29 @@ Die norwegische Progressive Rock Band mit ihrem aktuellen Werk. Mich hat es in s
 
 ::genre::prog rock
 
-## Of The Muses - Underheavens-Of Blood, Ghosts and Saltwater
+## Of The Muses - Underheavens— of Blood, Ghosts and Saltwater
 
-Sophomore Release des Projekts um die Italienerin Cristina Rombi. Nichts mehr von dem Black Metal Influenced Erstling übrig. Dream-y Pop/Goth-Rock ist die Richtung für dieses Werk.
+tbd
 
-::genre::pop rock, gothic rock, dreampop
+::genre::
+
+## Opia - I Welcome Thee, Eternal Sleep
+
+tbd
+
+::genre::
+
+## Oracle Hands - Dirge For The Doomed
+
+tbd
+
+::genre::
+
+## Orax - Blame
+
+tbd
+
+::genre::
 
 ## Orchid Mantis - Possession Pact
 
@@ -234,11 +974,71 @@ Das Projekt um Thomas Howard aus Atlanta. Dieser Output widmet sich dem 90’s S
 
 ::genre::slowcore, alt pop, dreampop
 
+## Oria - This Future Wants Us Dead
+
+tbd
+
+::genre::
+
+## Pagan Altar - Never Quite Dead
+
+tbd
+
+::genre::
+
 ## Palace Winter - Confessions of Mr. Nowhere
 
 Das australisch-dänische Duo mit seinem neuesten Output. Es wird ein Fangnetz um Indie-Pop und Krautrock gespannt, mit einem Alt-Rock Twist.
 
 ::genre::indie rock, krautrock, alt rock
+
+## Panzerballett - Übercode Œuvre
+
+tbd
+
+::genre::
+
+## Percipient - Apparitions
+
+tbd
+
+::genre::
+
+## Phantom - Tyrants Of Wrath
+
+tbd
+
+::genre::
+
+## PLQ MRX - Cumgitsum
+
+tbd
+
+::genre::
+
+## Power Surge - Shadows Warning
+
+tbd
+
+::genre::
+
+## Prima Queen - The Prize
+
+tbd
+
+::genre::
+
+## Profanatica - Wreathed In Dead Angels
+
+tbd
+
+::genre::
+
+## Ral Donner - All Alone And In Love
+
+tbd
+
+::genre::
 
 ## Rashad Becker - The Incident
 
@@ -246,11 +1046,65 @@ Der Berliner Elektroniker mit seinem neuen Output. Experimenteller Art-/Kraut-El
 
 ::genre::art electronica, krautronica
 
+## Rebekka Karijord - The Bell Tower
+
+tbd
+
+::genre::
+
+## Retri - Shattered Chains
+
+tbd
+
+::genre::
+
+## Rialto - Neon & Ghost Signs
+
+tbd
+
+::genre::
+
+## Robyn Rocket - Robyn Rocket And People You May Of Heard Of
+
+tbd
+
+::genre::
+
+## Romano - Güle Güle
+
+tbd
+
+::genre::
+
+## Sacred Steel - Ritual Supremacy
+
+tbd
+
+::genre::
+
+## Saetia - Tendrils
+
+tbd
+
+::genre::
+
+## Saint Vayu - Eternal Returns
+
+tbd
+
+::genre::
+
 ## Salami Rose Joe Louis - Lorings
 
 Das Projekt um die kalifornische Multi-Instrumentalistin. Ich nenne es mal Fusion-Electronica.
 
 ::genre::fusion, electronica
+
+## Samantha Fish - Paper Doll
+
+tbd
+
+::genre::
 
 ## Samia - Bloodless
 
@@ -258,11 +1112,23 @@ Die kalifornische Singer & Songwriterin mit ihrem aktuellen Output. Carsten-Only
 
 ::genre::indie folk, alt folk, bedroom pop
 
+## Samiarus - Reign Destroyer
+
+tbd
+
+::genre::
+
 ## Satomimagae - Taba
 
 Neuester Output der japanischen Künstlerin. Acid-Folk wird dieses Genre, meiner Meinung nach, genannt.
 
 ::genre::acid folk
+
+## SB19 - Simula at Wakas
+
+tbd
+
+::genre::
 
 ## Self Esteem - A Complicated Woman
 
@@ -270,23 +1136,113 @@ Das neueste Werk der britischen Multi-Instrumentalistin. Sie hat sich mit diesem
 
 ::genre::introspective pop, indie pop, alt pop
 
-## Light-Space Modulator - The Rising Wave
+## Shamek Farrah - First Impressions
 
-Kollaboration zwischen Marlene Ribeiro (GNOD) und dem Producer (Sam) Shackleton. Psychedelic Electronica, welche, auf mich, eine anziehende Art hat.
+tbd
 
-::genre::psych electronica
+::genre::
 
-## Stereophonics - Make ‘em laugh, Make ‘em Cry, Make ‘em Wait
+## Shamek Farrah, Sonelius Smith - The World of the Children
 
-Die walisischen Alt-Popper/Arena-Rocker mit ihrem neuesten Output. Zu der Band muss ich nicht viel schreiben. Mit dem Release, so meine ich, erfüllen sie die Vorstellungen der Fans.
+tbd
 
-::genre::alt pop, hard rock, arena rock
+::genre::
 
-## Sumac, Moor Mother - The Film *
+## Sijjin - Helljjin Combat
 
-Kollaboration um Sumac, die “Supagroup” um Aaron Turner (Isis), Nick Yacyshyn (Baptists) und Brian Cook (Russian Circles) und den Poeten/Sound-Artist Moor Mother. Spoken Words Post/Experimental-Metal. Experimentell, interessantes Output.
+tbd
 
-::genre::post metal, experimental metal
+::genre::
+
+## Simple Minds - Live in the City of Diamonds
+
+tbd
+
+::genre::
+
+## Sky Cries Mary - Immortal Jellyfish
+
+tbd
+
+::genre::
+
+## Slow Leaves - In Solitude, For Company
+
+tbd
+
+::genre::
+
+## Smokey Robinson - What the World Needs Now
+
+tbd
+
+::genre::
+
+## Snow White Blood - A Spark of Truth
+
+tbd
+
+::genre::
+
+## Solitaris - Nahar
+
+tbd
+
+::genre::
+
+## Sotvorishi, Heavenchord, Infinity Dots - Moments Are Forever
+
+Die Kollaboration zwischen Heavenchord und Infinity Dots reißt nicht ab, diesmal mit Unterstützung von Sotvorishi. Ambient/Field Recordings.
+
+::genre::ambient, field recordings
+
+## Southern Avenue - Family
+
+tbd
+
+::genre::
+
+## Spiritcaller - TYRANT
+
+tbd
+
+::genre::
+
+## Stanley Cowell - Musa: Ancestral Streams
+
+tbd
+
+::genre::
+
+## Steffi X Virginia: Patterns Of Vibration - Patterns Of Vibration
+
+tbd
+
+::genre::
+
+## Stereophonics - Make 'Em Laugh, Make 'Em Cry, Make 'Em Wait
+
+tbd
+
+::genre::
+
+## Structure - Heritage
+
+tbd
+
+::genre::
+
+## Subtle Monster - The Phantom Code
+
+tbd
+
+::genre::
+
+## Sumac - Sumac & Moor Mother: The Film
+
+tbd
+
+::genre::
 
 ## Sunflower Bean - Mortal Primetime
 
@@ -294,17 +1250,83 @@ Die New Yorker Alternative Rocker mit ihrem aktuellen Release. Catchy und dennoc
 
 ::genre::alt rock
 
+## Supreme Void - Towards Oblivion
+
+tbd
+
+::genre::
+
+## Sutej Singh - Restless | Relentless
+
+tbd
+
+::genre::
+
+## Sweeping Death - Devotion To The Absurd
+
+tbd
+
+::genre::
+
+## Takers - Bitter Pill
+
+tbd
+
+::genre::
+
+## Teaser Sweet - Night Stalker
+
+tbd
+
+::genre::
+
+## Technicolor Blood - Evolution Now
+
+tbd
+
+::genre::
+
+## Temple Fang - Lifted From The Wind
+
+tbd
+
+::genre::
+
 ## Tennis - Face Down In The Garden
 
 Die Indie Popper aus Denver mit ihrem aktuellen Release. Sie haben sich den 70er Soft Rock verschrieben und genau diesen bekommt man hier auch, im modernen Gewand und mit starken Indie-Einflüssen.
 
 ::genre::soft rock, indie pop
 
-## The Besnard Lakes - The Besnard Lakes are a Live
+## Terra Infinita - Zeitenwende
 
-Die Kanadier mit ihrem neuesten Output. Hunting Psych Rock. Ich kann damit etwas anfangen.
+tbd
 
-::genre::psych rock
+::genre::
+
+## The  Riven - Visions Of Tomorrow
+
+tbd
+
+::genre::
+
+## The Burning Flags - Pathways
+
+tbd
+
+::genre::
+
+## The Descendants of Mike and Phoebe, Bill Lee - A Spirit Speaks
+
+tbd
+
+::genre::
+
+## The Dirty Guv'nahs - Promises
+
+tbd
+
+::genre::
 
 ## The Golden Dregs - Godspeed
 
@@ -312,35 +1334,107 @@ Die Briten mit ihrem aktuellen Output. Ich liebe die Stimme von Benjamin Woods. 
 
 ::genre::alt folk, fusion
 
+## The Great Sea - Noble Art of Desolation
+
+tbd
+
+::genre::
+
+## The Heath Brothers - Marchin' On!
+
+tbd
+
+::genre::
+
+## The Howling Void - The Glow of a Distant Fire
+
+tbd
+
+::genre::
+
+## The Mello-Kings - Be Faithful And True
+
+tbd
+
+::genre::
+
 ## The Moonlandingz - No Rocket Required
 
 Die englischen Krautrocker mit ihrem neuesten Output. Neben Krautrock, kommen auch 80s Dark Wave zum Einsatz. Ich meine, dass es das Sophomore Release ist. Ich kann damit etwas anfangen, bisher.
 
 ::genre::dark wave, krautrock
 
-## The Raveonettes - Pe’ahi II
+## The Paris Sisters - The Dreamy & The Suspended
 
-Das dänische Indie Rock Duo mit seinem neuesten Output. Wenn der Titeltrack nicht von Pixies beeinflusst ist, dann weiss ich auch nicht weiter. Indie Rock, der an die erste Progressive Welle des Indie Rock erinnert. Ich kann dem Release etwas abgewinnen.
+tbd
 
-::genre::indie rock, prog pop
+::genre::
 
-## The Wldlfe - Make Me Cry
+## The Raveonettes - PE'AHI II
 
-Die Tik Tok Post Punker aus Indianapolis mit ihrem neuen Output. Muss man kein Gehör schenken. Der Versuch, aus College Rock, Angels & Airwaves zu machen.
+tbd
 
-::genre::college rock, pop punk, alt rock
+::genre::
 
-## Tomasz Bednarczyk - Catbient 2.0
+## The Riven - Visions Of Tomorrow
 
-Reinterpretation von seinem Werk “Catbient”. Minimalistic Synth-Ambient. Nicht nur für Kater und Katze, auch Mensch kann Gefallen daran finden.
+tbd
 
-::genre::synth ambient
+::genre::
 
-## Ignasi Terraza, Pierre Boussaguet, Ulf Wakenius - With Respect To Oscar And Niels
+## The Shattered Mind Machine - Achilles Heel
 
-Kollaboration zwischen dem Jazz Pianisten Ignasi Terraza, dem Jazz Bassisten Pierre Boussaguet und dem Jazz Gitarristen Ulf Wakenius. Post-Bop mit klassischen Ausflüchten.
+tbd
 
-::genre::post bop, contemporary jazz
+::genre::
+
+## The Storyteller - The Final Stand
+
+tbd
+
+::genre::
+
+## The Yagas - Midnight Minuet
+
+tbd
+
+::genre::
+
+## Traverse the Abyss - Memento Mori
+
+tbd
+
+::genre::
+
+## Trick Or Treat - Ghosted
+
+tbd
+
+::genre::
+
+## Uitwaaien - Beneath The Surface
+
+tbd
+
+::genre::
+
+## Urisk - Shrivelling Lights
+
+tbd
+
+::genre::
+
+## Uwade - Florilegium
+
+tbd
+
+::genre::
+
+## Venator - Psychodrome
+
+tbd
+
+::genre::
 
 ## Viagra Boys - Viagr Aboys
 
@@ -354,11 +1448,35 @@ Die Dream-y Shoegazer aus New York mit ihrem neuesten Release.
 
 ::genre::shoegaze, dreampop
 
+## Void King - The Hidden Hymnal: Chapter II
+
+tbd
+
+::genre::
+
+## Watch Me Rise - A decade full of setbacks and mistakes
+
+tbd
+
+::genre::
+
 ## Web Web - Plexus Plexus
 
 Die deutschen Krautrocker mit ihrem aktuellsten Werk. Psychedelic. Kraut-y. Fusion Jazz-y. Besitzen, was das progressive Herz begeehrt.
 
 ::genre::psych rock, krautrock, jazz fusion
+
+## Wednesday 13 - Mid Death Crisis
+
+tbd
+
+::genre::
+
+## When Plagues Collide - Kingmaker
+
+tbd
+
+::genre::
 
 ## William Tyler - Time Indefinite
 
@@ -366,7 +1484,57 @@ Neuester Output des Künstlers und Neu-Kalifornias. Brillante, instrumentale Sym
 
 ::genre::ambient folk
 
-# Earlier this week
+## Willie Nelson - Oh What A Beautiful World
+
+tbd
+
+::genre::
+
+## Wire - Nine Sevens
+
+tbd
+
+::genre::
+
+## Wishy - Planet Popstar
+
+tbd
+
+::genre::
+
+## Wu-Tang Clan, Mathematics - Black Samson, the Bastard Swordsman
+
+tbd
+
+::genre::
+
+## XENIA REAPER - Gambling
+
+tbd
+
+::genre::
+
+## YHWH - Tetragrammaton
+
+tbd
+
+::genre::
+
+---
+
+# Earlier the week ...
+
+## A Tear Beyond - Afterthought
+
+tbd
+
+::genre::
+
+## Alex L. Thaler - Abstrakt und Experimentell
+
+tbd
+
+::genre::
 
 ## Ancst - Dominion
 
@@ -374,14 +1542,308 @@ Die Berliner Metalcorer mit ihrem aktuellsten Werk. Erinnert mich stark an alte 
 
 ::genre::metalcore
 
+## Andriana-Yaroslava Saienko - Atlantis
+
+tbd
+
+::genre::
+
+## Aortes - Carrion
+
+tbd
+
+::genre::
+
+## Ave Mujica - Completeness
+
+tbd
+
+::genre::
+
+## Bachar Mar-Khalifé - L'amour c'est surcoté (Bande originale du film)
+
+tbd
+
+::genre::
+
+## Beleriand - The Tempest
+
+tbd
+
+::genre::
+
+## BRUIT ≤ - The Age of Ephemerality
+
+tbd
+
+::genre::
+
+## Census Of Hallucinations - Paradocical Hallucinations
+
+tbd
+
+::genre::
+
+## Christopher Hamilton - Euthermia
+
+tbd
+
+::genre::
+
+## Crossface - Crossface
+
+tbd
+
+::genre::
+
+## Cryptic Witch - Eons of Chaos
+
+tbd
+
+::genre::
+
+## Digital Life Project - Digital Life
+
+tbd
+
+::genre::
+
+## Eden Return - Out of Eden
+
+tbd
+
+::genre::
+
+## Evan Shornstein, Will Epstein - Frog Raag
+
+tbd
+
+::genre::
+
 ## Flawed Mangoes - Anomaly III
 
 Der Bostoner Gitarrist mit seinem neuesten Output. Hunting Instrumental Acoustic Post Rock. Er selbst beschreibt seine Musik als “Hopecore”.
 
 ::genre::post rock, instrumental
 
+## Gritando HC - Libertariamente
+
+tbd
+
+::genre::
+
+## Half Dome - Samhain
+
+tbd
+
+::genre::
+
+## Heavy Heavy Low Low - Pain Olympics
+
+tbd
+
+::genre::
+
+## Hélène Vogelsinger - Reappearance
+
+tbd
+
+::genre::
+
+## Idris Ackamoor - Artistic Being
+
+tbd
+
+::genre::
+
 ## Immortal Onion - Technaturalism
 
 Die polnischen Instrumental-Nu-Jazzer mit ihrem aktuellsten Werk. I like.
 
 ::genre::nu jazz, instrumental
+
+## Innesti - Fragility and Circumstance
+
+tbd
+
+::genre::
+
+## Insineratehymn - Irreverence Of The Divine
+
+tbd
+
+::genre::
+
+## Javiera Mena - Inmersión
+
+tbd
+
+::genre::
+
+## life - my heart the dreaming memory
+
+tbd
+
+::genre::
+
+## Like Wendy - The Kites
+
+tbd
+
+::genre::
+
+## Lila Tirando a Violeta - Dream of Snakes
+
+tbd
+
+::genre::
+
+## Líom - Gan Tú
+
+tbd
+
+::genre::
+
+## Manon McCoy & Alice Brookes - objects aligned out of time
+
+tbd
+
+::genre::
+
+## Morbific - Bloom Of The Abnormal Flesh
+
+tbd
+
+::genre::
+
+## Nankai Trio - Antarctica
+
+tbd
+
+::genre::
+
+## Natalia Lafourcade - Cancionera
+
+tbd
+
+::genre::
+
+## Neil Young - Coastal Soundtrack
+
+tbd
+
+::genre::
+
+## Nova Cascade - Box Man
+
+tbd
+
+::genre::
+
+## Parity - Zero-Sum Game
+
+tbd
+
+::genre::
+
+## Psicolorama - Explorers
+
+tbd
+
+::genre::
+
+## Sault - 10
+
+tbd
+
+::genre::
+
+## Shmulikraut - Guts Voyage
+
+tbd
+
+::genre::
+
+## Sign Of The Wolf - Sign of the Wolf
+
+tbd
+
+::genre::
+
+## Silver Knife - Silver Knife
+
+tbd
+
+::genre::
+
+## Strange Pop - Ghost in the Old Tape
+
+tbd
+
+::genre::
+
+## Tangerine - A Mind Full of Love
+
+tbd
+
+::genre::
+
+## Teeth - I Am The Way To Oblivion
+
+tbd
+
+::genre::
+
+## Temple Fang - Lifted from the Wind
+
+tbd
+
+::genre::
+
+## TesseracT - Lost Transmissions
+
+tbd
+
+::genre::
+
+## The Hypersonic Factor - Benevolent Beasts
+
+tbd
+
+::genre::
+
+## The Miffs - The Miffs
+
+tbd
+
+::genre::
+
+## timelines - All we left behind
+
+tbd
+
+::genre::
+
+## Widetrack - Galatea
+
+tbd
+
+::genre::
+
+## Will Ashby - Beyond the Horizon
+
+tbd
+
+::genre::
+
+## William Tyler - Time Indefinite
+
+Neuester Output des Künstlers und Neu-Kalifornias. Brillante, instrumentale Symbiose von Ambient und Folk. Ich mag es.
+
+::genre::ambient folk
+
+## Øresund Space Collective - Alotta Hella Down In Estrela
+
+tbd
+
+::genre::
