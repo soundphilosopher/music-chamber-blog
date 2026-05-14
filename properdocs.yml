@@ -53,8 +53,8 @@ plugins:
       post_date_format: full
       post_url_date_format: yyyy/MM/dd
       draft: false
-      draft_on_serve: true
-      draft_if_future_date: true
+      draft_on_serve: false
+      draft_if_future_date: false
   - gen-files:
       scripts:
         - scripts/generators/monthly_recap_draft.py
@@ -110,6 +110,7 @@ markdown_extensions:
   - pymdownx.tilde
 
 hooks:
+  - scripts/hooks/hide_autogen_pages.py
   - scripts/hooks/change_toc_for_releases.py
   - scripts/hooks/mark_top_picks.py
   - scripts/hooks/add_bandcamp_player.py

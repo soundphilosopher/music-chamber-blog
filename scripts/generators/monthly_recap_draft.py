@@ -121,7 +121,6 @@ def _build_recap_markdown(
     lines: list[str] = [
         "---",
         f"date: {year}-{month_number}-01",
-        "draft: true",
         "categories:",
         "    - Autogen",
         "authors:",

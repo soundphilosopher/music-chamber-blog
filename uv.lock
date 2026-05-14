@@ -685,7 +685,6 @@ dependencies = [
 
 [package.dev-dependencies]
 dev = [
-    { name = "mkdocs" },
     { name = "properdocs" },
     { name = "pyright" },
     { name = "ruff" },
@@ -709,7 +708,6 @@ requires-dist = [
 
 [package.metadata.requires-dev]
 dev = [
-    { name = "mkdocs", specifier = ">=1.6.1" },
     { name = "properdocs", specifier = ">=1.6.7" },
     { name = "pyright", specifier = ">=1.1.408" },
     { name = "ruff", specifier = ">=0.15.10" },
