@@ -8,6 +8,944 @@ categories:
 
 # Releases! Releases! Releases!
 
+## 49 Winchester - Change of Plans
+
+tbd
+
+::genre::
+
+## A Box of Stars - Walnut Street
+
+tbd
+
+::genre::
+
+## A Static Lullaby - ...And Don't Forget To Breathe
+
+tbd
+
+::genre::
+
+<!-- more -->
+
+## Acid Reign - Daze Of The Week
+
+tbd
+
+::genre::
+
+## Advent Horizon - Falling Together
+
+tbd
+
+::genre::
+
+## Alex Henry Foster - From The City To The Ocean
+
+tbd
+
+::genre::
+
+## Alexis Martin Ensemble - Les pôles Volume 1
+
+tbd
+
+::genre::
+
+## All-American Rejects - Sandbox
+
+tbd
+
+::genre::
+
+## Alt. - Nevermoree
+
+tbd
+
+::genre::
+
+## Altin Sencalar - Natural Rhythm
+
+tbd
+
+::genre::
+
+## Angellore - Nocturnes
+
+tbd
+
+::genre::
+
+## Antimozdebeast - The Vagrant Unkempt Grave
+
+tbd
+
+::genre::
+
+## Arroganz - Death Doom Punks
+
+tbd
+
+::genre::
+
+## Artillery - Made In Hell
+
+tbd
+
+::genre::
+
+## Aspetuck - Immersion
+
+tbd
+
+::genre::
+
+## Atavistia - Old Gods Awaken
+
+tbd
+
+::genre::
+
+## Brooke Fraser - Eat
+
+tbd
+
+::genre::
+
+## Bruce Soord - Ghosts in the Park
+
+tbd
+
+::genre::
+
+## Carlos Henrique Pereira - Northern Readings
+
+tbd
+
+::genre::
+
+## Chris Abrahams, Dave Symes - Distant Birds, Vol. 01 & 02
+
+tbd
+
+::genre::
+
+## Christian Dillingham - As It Relates to Now
+
+tbd
+
+::genre::
+
+## Civil Disobedience - Blue Note In The Progressive Sixties
+
+tbd
+
+::genre::
+
+## Confess - Metalmorphosis
+
+tbd
+
+::genre::
+
+## Constellations - It Comes In Waves
+
+tbd
+
+::genre::
+
+## Crown Lands - Apocalypse
+
+tbd
+
+::genre::
+
+## Crown The Beast - Judgement
+
+tbd
+
+::genre::
+
+## culfre - Other People’s Pictures
+
+tbd
+
+::genre::
+
+## Daisy Grenade - So Much to Say
+
+tbd
+
+::genre::
+
+## David Ambrosio - Civil Disobedience
+
+tbd
+
+::genre::
+
+## David Bird - Hinterlands
+
+tbd
+
+::genre::
+
+## David Kirkland Garner, Stephen Jaffe, Eric Moe, Melinda Wagner - A Forest Unfolding
+
+tbd
+
+::genre::
+
+## Dead Pony - Eat My Dust!
+
+tbd
+
+::genre::
+
+## Defect Designer - Depressants
+
+tbd
+
+::genre::
+
+## Desiccation - Legatum Mortuorum
+
+tbd
+
+::genre::
+
+## Desolus - Dwellers Of The Twilight Void
+
+tbd
+
+::genre::
+
+## Discovery Zone - Library Copy Do Not Remove
+
+tbd
+
+::genre::
+
+## DJ Saliva - URTIGA
+
+tbd
+
+::genre::
+
+## Doppler - Pourquoi Ce Disque?
+
+tbd
+
+::genre::
+
+## Drake - Iceman
+
+tbd
+
+::genre::
+
+## Dromos - Failing Light
+
+tbd
+
+::genre::
+
+## Dua Saleh - Of Earth & Wires
+
+tbd
+
+::genre::
+
+## Eluvium - Virga III
+
+tbd
+
+::genre::
+
+## Empire Of None - Keepsake
+
+tbd
+
+::genre::
+
+## ETA IVtet - Happy Today
+
+tbd
+
+::genre::
+
+## Faded Remembrance - The Blessing Of Downfall
+
+tbd
+
+::genre::
+
+## Federico Balducci, nobuka - Depth is Not a Place
+
+tbd
+
+::genre::
+
+## Fir Cone Children - Vs. The Real World
+
+tbd
+
+::genre::
+
+## For Breakfast - Longer Than Spring
+
+tbd
+
+::genre::
+
+## Frontline - Rebirth
+
+tbd
+
+::genre::
+
+## Frozen Sand - Fractals: A Light Among Shadows
+
+tbd
+
+::genre::
+
+## Fumction, Nastia Reigel - Devocion
+
+tbd
+
+::genre::
+
+## Genesis Owusu - REDSTAR WU & THE WORLDWIDE SCOURGE
+
+tbd
+
+::genre::
+
+## Goldfish Kaseem - For A Bryter Future
+
+tbd
+
+::genre::
+
+## Gozu - Gozu VI
+
+tbd
+
+::genre::
+
+## Gravery - Purified In Blood
+
+tbd
+
+::genre::
+
+## Heavenfall - Thorn
+
+tbd
+
+::genre::
+
+## Held. - Grey
+
+tbd
+
+::genre::
+
+## Ibrahim Alfa Jr. - Infinite Black Inside
+
+tbd
+
+::genre::
+
+## Ikkimel - Poppstar
+
+tbd
+
+::genre::
+
+## Inthraced - Constellation Zero
+
+tbd
+
+::genre::
+
+## Intrusive - Die On That Hill
+
+tbd
+
+::genre::
+
+## Jack Johnson - SURFILMUSIC
+
+tbd
+
+::genre::
+
+## Jean-Pascal Boffo - Inner World
+
+tbd
+
+::genre::
+
+## Jeff Parker ETA IVtet - Happy Today
+
+tbd
+
+::genre::
+
+## John Pachnos - John Pachnos
+
+tbd
+
+::genre::
+
+## Johnny Dynamite - Helpline
+
+tbd
+
+::genre::
+
+## Jungle Rot - Cruel Face Of War
+
+tbd
+
+::genre::
+
+## Junon - The Golden Citadel Of The Astral Sphere
+
+tbd
+
+::genre::
+
+## KADAPAT, Nova Ruth, Siko Sedyanto - Ocean Cage
+
+tbd
+
+::genre::
+
+## Kelley Stoltz - If You Don’t Know Me, Buy Now
+
+tbd
+
+::genre::
+
+## Kemuel Roig - Both Side Now
+
+tbd
+
+::genre::
+
+## Kevin Morby - Litte Wide Open
+
+tbd
+
+::genre::
+
+## Kokomo - Whip
+
+tbd
+
+::genre::
+
+## Kreidler - Schemes
+
+tbd
+
+::genre::
+
+## Kulusé Souriant - Douvan
+
+tbd
+
+::genre::
+
+## Lawrence English, Werner Dafeldecker - Fathom Tides
+
+tbd
+
+::genre::
+
+## Lea Bertucci - The Days Pass Quickly Immersed in the Shadow of Eternity
+
+tbd
+
+::genre::
+
+## Lorn - Searing Blood
+
+tbd
+
+::genre::
+
+## Louder - Devil’s Night
+
+tbd
+
+::genre::
+
+## LUCKI - DR*GS R BAD
+
+tbd
+
+::genre::
+
+## Mad Honey - Bridge Over Cumberland
+
+tbd
+
+::genre::
+
+## Maisie Peters - Florescence
+
+tbd
+
+::genre::
+
+## Makkmat - Syke Fantasier
+
+tbd
+
+::genre::
+
+## Maluma - Loco x Volver
+
+tbd
+
+::genre::
+
+## Mangled Recrement - Demo 2026
+
+tbd
+
+::genre::
+
+## Martyn - Music for Existing
+
+tbd
+
+::genre::
+
+## Martyna Basta - Winged in Collapse
+
+tbd
+
+::genre::
+
+## Matt White - Matt White's Dolly
+
+tbd
+
+::genre::
+
+## Matthew Wright - Cracked Glaze
+
+tbd
+
+::genre::
+
+## Maximum Robot - Away With The Fairies
+
+tbd
+
+::genre::
+
+## Maya J’an - blindfaith county
+
+tbd
+
+::genre::
+
+## Mei Honeycomb - Clairvoyant Dimensions
+
+tbd
+
+::genre::
+
+## Melancholost - Tales From The Poisoned Apple
+
+tbd
+
+::genre::
+
+## Mirador - The Gathering at Badon Hill
+
+tbd
+
+::genre::
+
+## Molosser - Molosser
+
+tbd
+
+::genre::
+
+## MUNA - Dancing on the Wall
+
+tbd
+
+::genre::
+
+## My Heart, An Inverted Flame - My Death Is More Beautiful Than Your Life
+
+tbd
+
+::genre::
+
+## Mýa - Restrospect
+
+tbd
+
+::genre::
+
+## New Idea Society - Fire On The Hill
+
+tbd
+
+::genre::
+
+## Noosed - Misery
+
+tbd
+
+::genre::
+
+## Nymphlord - Shedding Velvet
+
+tbd
+
+::genre::
+
+## Opensight - The Outfit
+
+tbd
+
+::genre::
+
+## Orphan Donor - Ailments
+
+tbd
+
+::genre::
+
+## Partyof2 - MERIKA’S NEXT TOP PARTY!
+
+tbd
+
+::genre::
+
+## Periphery - A Pale White Dot
+
+tbd
+
+::genre::
+
+## Peter Frampton - Carry the Light
+
+tbd
+
+::genre::
+
+## Phillip Golub - Partisan Ship
+
+tbd
+
+::genre::
+
+## Phoschydeux - 4 Days Of Bliss In Hell
+
+tbd
+
+::genre::
+
+## Planetary Assault Systems - Planetary People
+
+tbd
+
+::genre::
+
+## Port Noir - The Dark We Keep
+
+tbd
+
+::genre::
+
+## Primitive Ring - Primitive Ring
+
+tbd
+
+::genre::
+
+## Pro-Pain - Stone Cold Anger
+
+tbd
+
+::genre::
+
+## Profaned - The Human Condition
+
+tbd
+
+::genre::
+
+## Pvrgatorii - Profane Rites For Cursed Times
+
+tbd
+
+::genre::
+
+## R. Schappert - LOLOSTST
+
+tbd
+
+::genre::
+
+## Rafa Ramos Sania - A Broadcast of Your Silence
+
+tbd
+
+::genre::
+
+## Revenge Ritual - Arbitrary Punishment
+
+tbd
+
+::genre::
+
+## Rhododendron - Ascent Effort
+
+tbd
+
+::genre::
+
+## Robin Beck - Living Proof
+
+tbd
+
+::genre::
+
+## Rostam - American Stories
+
+tbd
+
+::genre::
+
+## Ryan Bingham - They Call Us The Lucky Ones
+
+tbd
+
+::genre::
+
+## Savage Mania - Demonic Assault
+
+tbd
+
+::genre::
+
+## See You Next Tuesday, Chop7x - Brothers
+
+tbd
+
+::genre::
+
+## Self Deception - One Of Us
+
+tbd
+
+::genre::
+
+## Shaggy - Lottery
+
+tbd
+
+::genre::
+
+## Shakey Graves - Fondness, Etc.
+
+tbd
+
+::genre::
+
+## SHHE - THALASSA
+
+tbd
+
+::genre::
+
+## Smerz - Easy
+
+tbd
+
+::genre::
+
+## Solemnity - Opus Barbaricum
+
+tbd
+
+::genre::
+
+## Speedy J - Walkman
+
+tbd
+
+::genre::
+
+## Spencer Krug - Same Fangs
+
+tbd
+
+::genre::
+
+## Stardust Multiplier - Convergence
+
+tbd
+
+::genre::
+
+## Stefano Panunzi - Caravaggio
+
+tbd
+
+::genre::
+
+## Sum Of Seven - Echoes Of The Hypermind
+
+tbd
+
+::genre::
+
+## Super Sometimes - Show The World What's Underneath
+
+tbd
+
+::genre::
+
+## SUSS - Counting Sunsets
+
+tbd
+
+::genre::
+
+## Tamikrest - Assikel
+
+tbd
+
+::genre::
+
+## Tank and the Bangas - The Last Balloon
+
+tbd
+
+::genre::
+
+## Teddy Thompson - Never Be The Same
+
+tbd
+
+::genre::
+
+## Telehealth - Green World Image
+
+tbd
+
+::genre::
+
+## The All-American Rejects - Sandbox
+
+tbd
+
+::genre::
+
+## The Field - Now You Exist
+
+tbd
+
+::genre::
+
+## The Ghoulstars - The Dark Overlords Of The Universe
+
+tbd
+
+::genre::
+
+## The Karma Effect - Cruel Intentions
+
+tbd
+
+::genre::
+
+## The Virginmarys - Beyond the House of Fires
+
+tbd
+
+::genre::
+
+## The Wavebirds - In All Their 2.4 GHz Glory
+
+tbd
+
+::genre::
+
+## Touch Girl Apple Blossom - Graceful
+
+tbd
+
+::genre::
+
+## Towa Bird - Gentleman
+
+tbd
+
+::genre::
+
+## Tyrannus - Mournhold
+
+tbd
+
+::genre::
+
+## Unzucht - Neon Dom
+
+tbd
+
+::genre::
+
+## V0LAND - PLÜSCH
+
+tbd
+
+::genre::
+
+## Vera V Almgren - I Det Vassa Ljuset
+
+tbd
+
+::genre::
+
+## Verba - Torchbearers
+
+tbd
+
+::genre::
+
+## Von Groove - Born To Rock
+
+tbd
+
+::genre::
+
+## We Follow The Earth - Foamdrinker
+
+tbd
+
+::genre::
+
+## Yulseus - Nothing Under Heaven
+
+tbd
+
+::genre::
+
 ---
 
 # Earlier the week ...
