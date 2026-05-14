@@ -18,11 +18,23 @@ categories:
 
 ::genre::atmo black metal, post black metal, avant black metal
 
+## Immanu El - Woven Light *
+
+*Immanu El* wurde 2004 in Jönköping, Schweden, gegründet und wird von den Zwillingsbrüdern Claes und Per Strängberg sowie David Lillberg und Jonatan Josefsson geleitet. Sie gehören zu den beständigsten und angesehensten Post-Rock-Bands Skandinaviens. Klassischer **Post-Rock**, **Ambient**-Rock und **Dream-Pop**. Stark beeinflusst von der sich langsam aufbauenden, filmischen Dynamik des wegweisenden Post-Rock, vermischt mit skandinavischer melodischer Gelassenheit. Wenn du emotionale Reinigung brauchst, ist "Woven Light" dein musikalischer Zufluchtsort. Immanu El hat ein absolutes Meisterwerk an klanglicher Geduld geschaffen. Das Album bewegt sich mühelos zwischen zarten, schimmernden Gitarrenklängen und massiven, explosiven instrumentalen Crescendos und ist eine warme Umarmung für die Seele. Songs wie "Ascension" und "Ghost" bieten beruhigende, heitere Klanglandschaften, die sich anfühlen, als würde man den ersten Sonnenaufgang des Frühlings durch dichten Waldnebel beobachten. Es behandelt schwere, existenzielle Themen wie Transzendenz und den Sinn des Lebens, tut dies jedoch mit einer glückseligen Melodie, die einem das Gefühl gibt, vollkommen geborgen zu sein. Setz dir gute Kopfhörer auf, schließe die Augen und lass dich von den schwedischen Königen der sanften Klänge umhüllen.
+
+::genre::post rock, dreampop, ambient
+
 ## Kal-El - KRYPTON
 
 Das 2012 gegründete norwegische Powerhouse hat sich über ein Jahrzehnt lang als eine der führenden Größen der europäischen Heavy-Underground-Szene etabliert. Ihre donnernden Riffs weckten sogar das Interesse von Tony Iommi von Black Sabbath und Ozzy Osbournes Bassisten Blasko. **Stoner Rock**, **Space Metal**, **Doom Metal** und psychedelischer **Bluesrock**. Ihr klanglicher Entwurf verschmilzt die schwere, verstimmte Riff-Verehrung von *Black Sabbath* mit der Desert-Rock-Hitze von *Kyuss*, eingehüllt in eine Sci-Fi-Atmosphäre. Wenn du schon immer einmal ein Raumschiff entführen, den Bass aufdrehen, bis die Fenster zerbrechen, und direkt in ein Schwarzes Loch fliegen wolltest, hat *Kal-El* deine Startsequenz bereitgestellt. "Astral Voyager Vol. 2" ist eine absolute Wand aus Fuzz. Die Gitarren spielen nicht nur Riffs; sie simulieren tektonische Verschiebungen im tiefen Weltraum. Angetrieben von massiven, basslastigen Grooves und hochfliegenden, jenseitigen Vocals balanciert das Album die erdrückende Schwerkraft des Doom Metal mit eingängigen Desert-Rock-Refrains aus. Es ist ein spannendes, verzerrtes, interstellares Comic-Abenteuer, das durch Marshall-Stacks zum Leben erweckt wird - speziell dafür konzipiert, mit maximal möglicher Lautstärke gespielt zu werden.
 
 ::genre::stoner rock, doom metal, desert rock
+
+## Kartas - LADO H
+
+*Kartas* ist ein experimentelles Duo, bestehend aus Marcela Mara und Zozio, mit Sitz in São Paulo, Brasilien. Sie sind fest in der brasilianischen Underground-Szene für experimentelle und elektronische Musik verwurzelt. Elektro-organische Erkundungen, **Ambient**, Tonbandmusik, **Noise** und konkrete elektronische Klänge. Inspiriert von Geografie, Umweltgedächtnis und den physischen Landschaften Brasiliens. Schnall dich an, denn "LADO H" ist ein wilder klanglicher Roadtrip, der aktives Zuhören erfordert. Das Album ist ein brillantes, trippiges Konzeptwerk, das die schwere, fließende Geschichte des Gebiets zwischen der Serra das Araras und der chaotischen Via Dutra reflektiert - und dabei insbesondere die von Geistern beladene Erinnerung an die gewaltigen Überschwemmungen von 1967 heraufbeschwört. Musikalisch ist es eine faszinierende Kollision zwischen Natur und industriellen Schwingungen. Tracks wie "um rio cheyou" und "anfíbios" vermischen tiefe, elektro-organische Synth-Patches mit wässrigen Texturen und Field Recordings. Es fühlt sich an, als stünde man in einem nebligen, uralten brasilianischen Wald, während das entfernte Dröhnen einer modernen Autobahn durch den Schlamm unter den Füßen summt. Zu gleichen Teilen unheimlich, wunderschön und zutiefst hypnotisch.
+
+::genre::ambient, field recordings, noise, drone, experimental electronica
 
 ## Kenny Mason - BULLDAWG
 
@@ -53,6 +65,12 @@ Diese wegweisende Band, die ursprünglich unter dem Namen *Lloth* gegründet wur
 *Matteo Stella* ist ein italienischer elektroakustischer Klangkünstler und Produzent. Stella hat sich auf die Erfassung räumlicher Geometrien und klangliche Anthropologie spezialisiert. Um dem Album eine klassische Würde zu verleihen, integrierte er Kompositionen und Gedichte in regionalem Dialekt von historischen Persönlichkeiten der Region wie Giovanni Ginobili und seinem Mitwirkenden Massimiliano Luciani. **Elektroakustischer Minimalismus**, **Dark Folk**, **avantgardistische Klassik** und Klanglandschaften aus Umgebungsaufnahmen. Die Instrumentierung konzentriert sich stark auf das Zusammenspiel von Pfeifenorgeln, traurigen Celli, E-Gitarren und urzeitlichen Reibegeräuschen. Wenn Sie glauben, das ländliche Leben in Italien bestehe nur aus sonnigen Weinbergen und lockerer Akkordeonmusik, ist Radeche Fonne hier, um diese Postkartenfantasie zu zerschlagen. Stella vermeidet die gemütliche Idylle gänzlich. Stattdessen widmet er sich der angespannten, stillen Reibung und den isolierten Stillephasen, die in einsamen Bergtälern verborgen sind. Der herausragende Track "Cagnara Muta" übersetzt das Konzept eines stillen Streits - Fehden, die ausschließlich durch kühle Gesten statt durch Worte ausgetragen werden - in ein unbehagliches, kratzendes Duell zwischen einem Cello und einer E-Gitarre, während eine gewaltige Kirchenorgel unbeholfen versucht, den Frieden zu wahren. Es klingt wie eine Geistergeschichte, die in einer verlassenen Steinkapelle geflüstert wird. Es ist spärlich, intellektuell tiefgründig, wunderschön barock und absolut eindringlich.
 
 ::genre::dark folk, avant classic, ambient acoustic
+
+## Porches - MASK
+
+*Porches* ist das bekannte Indie-/Alternative-Projekt von Aaron Maine mit Sitz in New York City, USA. Maine ist seit über einem Jahrzehnt eine feste Größe in der Indie-Pop- und Synth-Pop-Szene und dafür bekannt, dass er sich vom Lo-Fi-Bedroom-Folk hin zu elegantem, elektronischem Synth-Pop entwickelt hat. **Left-Field-Pop**, **Lo-Fi-Indie-Rock**, **Alternative** und **Synth-Pop**. Stark beeinflusst von der rohen, unberechenbaren Natur analoger Bandaufnahmen und der Bedroom-Indie-Kultur der frühen 90er Jahre. Stell dir vor, du schleichst dich in einen schummrigen Keller in der Wooster Street, öffnest eine lauwarme Mountain Dew und findest Aaron Maine, wie er Geheimnisse direkt in einen staubigen 4-Spur-Kassettenrekorder flüstert. Das ist MASK. Nach Jahren polierter, tonhöhenkorrigierter Synth-Brillanz zerbricht Porches hier absichtlich sein eigenes Spielzeug. Es ist herrlich zerklüftet, herrlich instabil und völlig ungefiltert. Die Single "HABIT" tuckert mit einer Live-Energie dahin, die an einen falschen Master erinnert, wodurch es sich weniger wie ein klinisches Studioalbum anfühlt, sondern eher so, als würde die Maschine direkt vor deinen Augen heißlaufen. Es ist eine wunderschön chaotische Feier klanglicher Unvollkommenheiten, romantischer Reibung und roher Nostalgie.
+
+::genre::leftfield pop, indie pop, bedroom pop, synth pop, alt pop, indie rock
 
 ## Ptastvo - The Grit
 
