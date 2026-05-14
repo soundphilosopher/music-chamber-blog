@@ -11,10 +11,9 @@ pip install -e "."
 
 # Build and serve documentation
 echo "󱥊 Building documentation..."
-mkdocs build
+properdocs build
 
 echo "󰖟 Starting documentation server..."
 echo "  Documentation will be available at: http://127.0.0.1:8000"
 echo "󱉊 Press Ctrl+C to stop the server"
-
-mkdocs serve -w .
+properdocs serve -w .
