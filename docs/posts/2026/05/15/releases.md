@@ -714,183 +714,153 @@ tbd
 
 ## Noosed - Misery
 
-tbd
+*Noosed*, ein äußerst politisches Underground-Power-Trio, hat sich über Jahre hinweg in der intensiven irischen Extreme-Metal-Szene hochgearbeitet und sich einen Ruf für rohe, provokative Katharsis erarbeitet. **Crust-Punk**, **Sludge-Metal** und **Blackened Doom**. Stark beeinflusst von frühem britischen Hardcore-Punk, schwedischem Death Metal und düsterem, feedbackgetränktem Heavy Sludge. Wenn du einen fantastischen Tag hast und ihn sofort auf die bestmögliche Weise ruinieren willst, leg "Misery" auf. Diese Platte trifft mit der subtilen Anmut eines außer Kontrolle geratenen Güterzugs. Sie ist vollgepackt mit vernichtenden Midtempo-Sludge-Beats, knurrenden Vocals und Gitarrentönen, die so dreckig sind, dass sie praktisch eine Dusche brauchen. Es ist ein düsteres, wütendes und brillant kompromissloses Stück purer Klangkriegsführung.
 
-::genre::
+::genre::death metal, sludge metal, blackened doom metal, crust
 
 ## Nymphlord - Shedding Velvet
 
-tbd
+*Nymphlord* ist das stimmungsvolle Soloprojekt der Multi-Instrumentalistin und Songwriterin Maya "Nymphlord" Bon, die für ihren verträumten, melancholischen Ansatz bei der Instrumentierung von Alternative Rock bekannt ist. **Indie-Rock**, **Dark Pop** und **Alternative**. Inspiriert von stimmungsvollen Lo-Fi-Texturen, Songstrukturen des Indie-Alternative der frühen 2000er Jahre und zutiefst persönlicher lyrischer Poesie. "Shedding Velvet" ist ein wunderschön stimmungsvolles Indie-Album, das sich um einen legt wie eine abgetragene Lederjacke. Die Tracks balancieren sanfte, flüsternde, emotionale Strophen mit plötzlichen, befriedigenden Explosionen verzerrter Gitarren aus. Es fühlt sich an, als säße man an der Theke eines einsamen Nachtlokals, während eine Jukebox die tiefsten Geheimnisse laut abspielt. Es ist roh, eingängig und zutiefst hypnotisch.
 
-::genre::
+::genre::indie rock, alt pop, indie pop
 
 ## Opensight - The Outfit
 
-tbd
+Die seit 2002 aktive Band hat sich eine einzigartige theatralische Nische geschaffen, indem sie harte Musik komponiert, die wie der Soundtrack zu einem Kult-B-Movie klingen soll. **Progressive Metal**, **Cinematic Rock** und Grindhouse Metal. Beeinflusst von Spionage-Themen der 1970er Jahre, Spaghetti-Western-Dramen, Vintage-Horror-Soundtracks und klassischen Bands wie *Opeth* und *Faith No More*. Hast du dich jemals gefragt, was passieren würde, wenn Quentin Tarantino eine Progressive-Metal-Band inszenieren würde? "The Outfit" ist die Antwort. Dieses Album ist ein absoluter Knaller und kombiniert harte Gitarrenriffs mit Retro-Blasinstrumenten aus Spionagefilmen, der dramatischen Energie eines Western-Showdowns und gruseligen Horror-Synthesizern. Es fühlt sich weniger wie eine traditionelle Metal-Platte an, sondern eher so, als würdest du von einem Elite-Killer in einem maßgeschneiderten Anzug durch ein verrauchtes Kino der 1970er Jahre gejagt.
 
-::genre::
-
-## Orphan Donor - Ailments
-
-tbd
-
-::genre::
+::genre::prog metal, cine metal
 
 ## Partyof2 - MERIKA’S NEXT TOP PARTY!
 
-tbd
+Ein energiegeladenes Underground-Projekt aus dem Bereich Electronic-Punk, das dafür bekannt ist, rasante Synthesizer-Hooks mit chaotischen, äußerst sarkastischen Spoken-Word-Kommentaren zur modernen Influencer- und Partykultur zu kombinieren. **Synth-Punk**, **Electro-Pop** und satirischer **Dance-Punk**. Beeinflusst von Blog House der frühen 2000er Jahre, Hyperpop und der Reality-TV-Subkultur. Wenn du die Zeiten der neonfarbenen Plastik-Shutter-Shades und schweißtreibenden Low-Budget-Club-Raves vermisst, ist dieses Album eine direkte Zeitreise zurück ins Jahr 2007. "MERIKA’S NEXT TOP PARTY!" fühlt sich an wie ein Zuckerschock in einem kaputten Spielautomaten. Die Beats sind trashig, laut und unglaublich süchtig machend und servieren eine urkomische Satire auf das amerikanische Nachtleben. Es ist der perfekte Soundtrack, um in deinem Wohnzimmer wie ein absoluter Verrückter zu tanzen.
 
-::genre::
+::genre::dance punk, synth pop, electro pop
 
 ## Periphery - A Pale White Dot
 
-tbd
+Unter der Leitung des Gitarristen und Produzenten Misha Mansoor ist Periphery eine wegweisende Kraft, die den modernen Djent praktisch begründet hat. Auf diesem achten Album lotet ihre Tourbesetzung technische Grenzen aus. Zum ersten Mal haben sie mit 30-Zoll-6-Saiten-Baritongitarren aufgenommen, die im Einklang mit dem Bass auf Drop A#0 heruntergestimmt sind. **Progressive Metalcore** und **Djent**. Beeinflusst von Polyrhythmen im Meshuggah-Stil, klassischen Metalcore-Melodien und ambienten elektronischen Schichten. Die Könige des Gitarren-Nerd-Metal sind zurück, aber sie haben den Ballast abgeworfen! Anstelle ihrer üblichen 15-minütigen, mehrteiligen Epen verdichtet "A Pale White Dot" ihre hyperkomplexe technische Zauberei zu knackigen, leicht verdaulichen Fünf-Minuten-Songs. Du bekommst mitreißende, massive, radiotaugliche Refrains, die direkt neben weltbewegenden Breakdowns platziert sind - plus einen Gastauftritt von Will Ramos von Lorna Shore, der deine Lautsprecher zum Bersten bringt. Es ist heavy, straff und absolut spektakulär.
 
-::genre::
+::genre::prog metalcore, djent, modern metalcore
 
 ## Peter Frampton - Carry the Light
 
-tbd
+Eine Legende der Rock & Roll Hall of Fame, Grammy-Gewinner und Gitarrenvirtuose, bekannt für das historische Live-Meisterwerk "Frampton Comes Alive!" aus dem Jahr 1976. Trotz seines Kampfes gegen die Inclusion-Body-Myositis komponiert er weiterhin auf höchstem Niveau. **Classic Rock**, **Blues-Rock** und **Hard Rock**. Stark beeinflusst von seiner eigenen Blütezeit in den späten 70ern, *Tom Pettys* Songwriting-Katalog und traditionellen Akustikgitarren-Arrangements. Der absolute König der Talkbox-Gitarre ist zurück - und er hat Verstärkung mitgebracht! "Carry the Light", gemeinsam mit seinem Sohn Julian geschrieben und produziert, ist eine herzerwärmende, mit Stars gespickte Siegesrunde. Frampton spielt mit der feurigen Energie eines Zwanzigjährigen, während er eine verrückte Gartenparty mit Gaststars veranstaltet. *Sheryl Crow* schaut vorbei, um ein wunderschönes Duett zu singen, *Tom Morello* spielt ein feuriges Solo, und *Benmont Tench* spielt Keyboard auf einem Track, der ausschließlich aus Tom-Petty-Songtiteln besteht. Es ist ein gefühlvolles, triumphales Rockalbum, das beweist, dass man mit Anmut zu altern nicht bedeutet, dass man die Lautstärke herunterdrehen muss.
 
-::genre::
+::genre::hard rock, heavy rock, blues
 
 ## Phillip Golub - Partisan Ship
 
-tbd
+*Golub* ist ein technisch gewagter Pianist, Improvisator, Komponist und prominenter Aktivist der Music Workers Alliance. Er ist dafür bekannt, die Grenzen der Akustik im zeitgenössischen Jazz zu erweitern. **Avantgarde-Jazz**, mikrotonale elektronische Fusion und kreative Neue Musik. Inspiriert von experimenteller Kammermusik, Klezmer-Jazz-Rhythmen und politischem Kollektivismus. Schnall dich an, denn Golub spielt auf einem hochgradig maßgeschneiderten MIDI-Keyboard mit 22 Tönen pro Oktave, das Flexichord genannt wird. Das Ergebnis? Stücke wie "Loyalty Oath" klingen genau wie ein traditioneller Zirkuskarneval, der von einer rebellischen Jazz-Fusion-Band gekapert wurde. Es zwingt Ihr Gehirn dazu, Musiknoten zu verarbeiten, die auf einem normalen Klavier buchstäblich nicht existieren. Es ist schwindelerregend, zutiefst intellektuell und eine fantastische, wilde Fahrt für Jazzfans, die glauben, schon alles gehört zu haben.
 
-::genre::
+::genre::jazz fusion, avant jazz, experimental electronica, chamber jazz, improvisation
 
 ## Phoschydeux - 4 Days Of Bliss In Hell
 
-tbd
+Die Band wurde von erfahrenen Veteranen verschiedener ungarischer Black- und Death-Metal-Bands gegründet. Die Besetzung besteht aus Jim Jones (raue Stimme), Csanád (Gitarre), Feka (Bass) und Daux (Schlagzeug). **Blackened Doom**, **Stoner-Blues** und rauer **Hardrock**. Beeinflusst von Desert Rock, Old-School-Extreme-Metal und der langsamen, bedrückenden Schwere des Sludge. Wenn du dich jemals gefragt hast, wie *Jim Morrison* klingen würde, wenn er in einem trostlosen, grauen osteuropäischen Wohnblock aufgewachsen wäre und dabei Schwarzgebranntes getrunken hätte, dann ist *Phoschydeux* die Antwort. Dieses Album ist ein schweres, träges, bluesgetränktes Monster, das sich anfühlt, als würde man durch tiefen Schlamm waten. Es tauscht sonnige Stoner-Rock-Klischees gegen eine düstere, nihilistische Betonatmosphäre ein. Es ist düster, erdrückend und absolut brillant für alle, die ihre Rockmusik gerne in reinem radioaktivem Sludge getränkt haben.
 
-::genre::
+::genre::sludge rock, blackened doom metal, hard rock, stoner rock, desert rock
 
 ## Planetary Assault Systems - Planetary People
 
-tbd
+*Planetary Assault Systems* ist das legendäre Alter Ego des Elektronik-Pioniers Luke Slater. Als einer der dienstältesten Resident-DJs im berühmten Berliner Nachtclub Berghain prägt Slater seit über drei Jahrzehnten den dunklen, kompromisslosen Sound des Underground-Club-Techno. Hypnotischer Loop-**Techno**, elektronische Musik von industrieller Wucht und polyrhythmischer **experimenteller Techno**. Beeinflusst von der analogen Synthese der 1990er Jahre, früher Sci-Fi-Konzeptkunst und strukturellem Minimalismus. "Planetary People" will dir nicht die Hand halten; es will dich in ein dunkles, betoniertes Lagerhaus werfen und deine Trommelfelle zum Bersten bringen. Dieses Album ist vollgepackt mit industriell-kraftvollen Betonmischer-Loops, knirschenden Sci-Fi-Soundeffekten und Beats, die dich wie eine Eisenstange treffen. Es klingt genau wie der defekte Antrieb eines Raumschiffs auf einer überfüllten interstellaren Tanzfläche.
 
-::genre::
+::genre::experimental techno, minimal techno
 
 ## Port Noir - The Dark We Keep
 
-tbd
+Das seit 2011 aktive, äußerst dynamische Trio besteht aus Love Andersson, Andreas Hollstrand und AW Wiberg. Sie haben sich international einen hervorragenden Ruf erarbeitet, indem sie extrem präzise rhythmische Metal-Grooves mit mitreißenden, radiotauglichen melodischen Gesangshooks verbinden. **Alternative Metal**, **Progressive Rock** und düsterer **Synth-Pop**. Beeinflusst von zeitgenössischen Größen des Progressive Rock, groovigen Darkwave-Beats und cineastischem Alternative Metal. "The Dark We Keep" ist eine Meisterklasse in musikalischen Stimmungsschwankungen - und das meinen wir im besten Sinne. In einem Moment wird man von einem engelhaften, klaren Gesangshook mitgerissen, im nächsten wird man von einem schweren, donnernden Gitarrenriff regelrecht umgehauen. Es ist stimmungsvoll, elektronisch und herrlich heavy und schafft den perfekten Soundtrack, um grüblerisch aus einem regennassen Autofenster zu blicken.
 
-::genre::
-
-## Primitive Ring - Primitive Ring
-
-tbd
-
-::genre::
-
-## Primus - A Handful Of Nuggs
-
-tbd
-
-::genre::
+::genre::alt metal, prog metal, synth pop, modern metal
 
 ## Pro-Pain - Stone Cold Anger
 
-tbd
+Unter der Leitung des Bassisten und Sängers Gary Meskil ist Pro-Pain seit 1991 eine unerschütterliche Säule der Hardcore-Szene. Die Band ist legendär für ihre Kombination aus metallischen Riffs und direkter, bodenständiger Aggression. **New York Hardcore** und **Groove Metal**. Beeinflusst vom rauen, aggressiven Crossover-Thrash der 1980er Jahre und der urbanen Street-Punk-Szene. *Pro-Pain* sind nach ihrer jahrzehntelangen Pause zurück und unglaublich gereizt. "Stone Cold Anger" ist ein klanglicher Betonklotz direkt ins Gesicht. Es liefert genau das, was der Titel verspricht: purer, unverfälschter Midtempo-Groove-Stomp, der dich dazu bringt, deinen Küchentisch umzuwerfen. Gary Meskil schreit wie ein Drill-Sergeant, der gerade auf ein Lego-Steinchen getreten ist, was das Album zum perfekten Soundtrack für das Heben schwerer Gewichte im Fitnessstudio macht.
 
-::genre::
+::genre::metallic hardcore, hardcore punk
 
 ## Profaned - The Human Condition
 
-tbd
+Die 2020 gegründete Underground-Band verfeinerte ihr Handwerk jahrelang in der lokalen schwedischen Szene, bevor sie die Aufmerksamkeit der europäischen Traditional-Metal-Puristen auf sich zog. **Heavy/Power Metal**. Stark beeinflusst von traditionellem, melodischem NWOBHM und klassischem schwedischem Power Metal. Wenn du die Zeiten vermisst, in denen Metal-Alben wie Fantasy-Romane aussahen und wie ein Gewitter über einer Burg klangen, ist "The Human Condition" genau das Richtige für dich. Es ist randvoll mit Twin-Gitarren-Harmonien, hochfliegendem Gesang und Refrains, die so gewaltig sind, dass man einen Reisepass braucht, um sie anzuhören. Es versucht nicht, das Rad neu zu erfinden - es zündet das Rad einfach an und rollt es einen Berg hinunter.
 
-::genre::
+::genre::heavy metal, power metal
 
 ## Pvrgatorii - Profane Rites For Cursed Times
 
-tbd
+Eine feste Größe der spanischen Underground-Musikszene, bekannt für ihre rohe, kompromisslose Aufnahmephilosophie und frühere, aufrührerische Alben wie "Con las uñas clavadas en la cara de Dios". **Black Metal**, **Death Metal** und **Crust Punk**. Beeinflusst von der Underground-Extremität der alten Schule, dem rohen Metal der 1980er Jahre und der rauen, politischen Punk-Szene Barcelonas. Verschließt eure Türen und versteckt euer Weihwasser! "Profane Rites For Cursed Times" ist ein wilder, 24-minütiger akustischer Kettensägenkampf. Die Band vermischt die kreischenden Gitarrenriffs des rohen Punk direkt mit den dämonischen, knurrenden Vocals des klassischen Black Metal. Es klingt genau wie ein Gewitter auf einem Friedhof und wird euch schon vor dem Ende des ersten Tracks vom Headbangen einen steifen Nacken bescheren.
 
-::genre::
+::genre::blackened death metal, d-beat, crust
 
 ## R. Schappert - LOLOSTST
 
-tbd
+*Roland Schappert* ist ein hoch angesehener deutscher bildender Künstler, Maler und Autor. Musik dient ihm als Erweiterung seiner bildnerischen Installationen, wobei er gesprochene Texte, konzeptuelle Brüche und analoge/digitale Audiobearbeitung einsetzt, um poetische Irritationen zu erzeugen. **Downbeat**, **Minimal Electronica**, **Ambient Techno** und Klangpoesie. Stark beeinflusst vom Dadaismus, der Cadavre Exquis Methode (exquisiter Leichnam), algorithmischen Mustern in sozialen Medien und der deutschen zeitgenössischen Kunst. Dies ist weniger ein Album als vielmehr ein nächtlicher Einbruch in ein Museum für zeitgenössische Kunst. Schappert liefert glitchige elektronische Beats, gemischt mit Worten, die sich anfühlen wie kryptische WhatsApp-Nachrichten, gesendet von einer abtrünnigen KI. "LOLOSTST" spielt mit Sprache und Wiederholung wie eine Katze mit einem Wollknäuel, was zu einem herrlich verwirrenden, intellektuellen Dance-Track für Menschen führt, die ihre Beats gerne mit einer Prise Philosophie genießen.
 
-::genre::
+::genre::ambient, minimal electronica, downbeat
 
 ## Rafa Ramos Sania - A Broadcast of Your Silence
 
-tbd
+Ein äußerst vielseitiger, größtenteils autodidaktischer Multi-Instrumentalist, der sich seit 2003 auf den Kontrabass spezialisiert hat. Er arbeitet regelmäßig mit bildenden Künstlern zusammen, produziert Filmmusik und tritt bei experimentellen Kunstfestivals im Mittelmeerraum auf. Minimalistischer **Ambient**, texturreiche, filmische Klanglandschaften, **experimentelle und neoklassische Musik**. Beeinflusst von organischer Improvisation und dem Wechselspiel von Stille und Leerräumen. Stellen Sie sich vor, Sie sitzen in einem leeren, sonnendurchfluteten Raum in Spanien, während jemand sanft einen Kontrabass ausrollt und ihn mit digitalem Feenstaub bestreut. "A Broadcast of Your Silence" ist genau das, was der Titel verspricht - es ist der Klang stiller Gedanken, die sich in Musik verwandeln. Es bewegt sich auf dem schmalen Grat zwischen filmischer Schönheit und unheimlicher Isolation und hüllt Sie in eine warme Decke, gewebt aus wunderschönen Improvisationen und tiefer existenzieller Kontemplation.
 
-::genre::
+::genre::minimal ambient, experimental classic, neo classic, improvisation
 
 ## Revenge Ritual - Arbitrary Punishment
 
-tbd
+Die Band, die an der absoluten Spitze des extremen Heavy-Underground-Szenes agiert, hat kürzlich einen Vertrag bei einem namhaften Label unterzeichnet, um ihren klanglichen Krieg noch weiter zu eskalieren. Erstickender, dreckiger **Blackened Sludge**, **Hardcore-Punk** und **Doom Metal**. Stellt euch eine ranzige Klangmischung vor, die sich stark an *Acid Bath*, *Eyehategod*, *Celtic Frost* und *Darkthrone* anlehnt. Wenn ihr ein Album sucht, das sich wie ein regelrechter klanglicher Betonstein auf der Brust anfühlt, seid ihr hier genau richtig. "Arbitrary Punishment" suhlt sich genüsslich in einem Sumpf aus Verzerrung, trüben Tempi und ohrenbetäubenden Schreien. Mit Titeln wie "Centuries Of Pain", "Razorwire" und "A Passion For Murder" beschäftigt sich das Album ausschließlich mit düsteren Themen wie Überleben, Verrat und dunkler Aggression. Es wechselt von schneckengemächten Doom-Sludge-Passagen zu manischen Hardcore-Blastbeats, ohne auch nur einen Hauch von Gnade. Es ist furchterregend, hässlich und wunderschön schwerer Moshpit-Treibstoff.
 
-::genre::
+::genre::doom metal, blackened sludge metal, crust
 
 ## Rhododendron - Ascent Effort
 
-tbd
+Das eingespielte Trio aus dem Pazifischen Nordwesten, bestehend aus Ezra Chong, Gage Walker und Noah Mortola, fand schon während der Highschool-Zeit zusammen und baute sich eine treue lokale Fangemeinde auf. Rasender **Post-Hardcore**, **Noise-Rock** und **Math-Rock** mit subtilen Anklängen an Ambient und Jazz. Die Einflüsse stammen von kantigen Underground-Helden der 80er und 90er Jahre wie *Drive Like Jehu*, *Shellac* und *Slint*. "Ascent Effort" ist weniger wie ein typisches Rockalbum, sondern eher wie der Versuch, IKEA-Möbel mitten in einem regelrechten Sturm zusammenzubauen. Das Album beschäftigt sich bewusst mit Themen wie Reibung, persönlicher Instabilität und unbeholfenem Erwachsenwerden. In ausufernden Stücken wie "Firmament" und dem rasanten "Like Spitting Out Copper" findet die Band einen schweren Groove, nur um ihn eine Sekunde später mit zerklüfteten Gitarrenfrakturen komplett zu zerschmettern. Es ist wunderbar spannend, brillant ungeschliffen und völlig unbeeindruckt von den Regeln der Mainstream-Musik.
 
-::genre::
+::genre::post hardcore, noise rock, math rock
 
 ## Robin Beck - Living Proof
 
-tbd
+*Robin Beck* ist eine legendäre Gesangskraft, die vor allem für ihren weltweiten Chartstürmer "First Time" aus dem Jahr 1988 bekannt ist. "Living Proof" ist ihr triumphales elftes Studioalbum. Es entstand in Zusammenarbeit mit dem bekannten Szene-Veteranen Tommy Denander und ihrem Ehemann, dem Frontmann von *House of Lords*, James Christian. Hochkarätiger **Melodic Rock**, **AOR** und **Hard Rock**. Zieh deine beste Jeansjacke an und schnapp dir das Haarspray, denn Robin Beck ist zurück, um alle daran zu erinnern, wer auf dem Spielfeld des Melodic Rock das Sagen hat! "Living Proof" ist eine absolute Meisterklasse in Sachen ausgefeilter, gewaltiger Hymnen. Zwischen dem Titeltrack und der mitreißenden Single "Let It Rain" liefert Beck Gesangspassagen, die so scharf und kraftvoll sind, dass sie kugelsicheres Glas zerbrechen könnten. Das Album behandelt Themen wie Authentizität, Durchhaltevermögen und die verrückte Reise des Lebens. Es ist gewaltig, voller Ohrwürmer, kompromisslos radiotauglich und ein riesiger Gewinn für Fans der grandiosen Arena-Rock-Szene.
 
-::genre::
+::genre::melo rock, arena rock, hard rock, heavy rock
 
 ## Rostam - American Stories
 
-tbd
+Als Gründungsmitglied und leitender Co-Produzent von *Vampire Weekend* ist Rostam Batmanglij ein legendärer Architekt der zeitgenössischen Indie-Szene, der bereits für Stars wie *Clairo* und *Frank Ocean* produziert hat. Dies ist sein mit Spannung erwartetes drittes Soloalbum. Vielschichtiger **Alt-Pop**, **Indie-Rock** und **Barock-Folk**. Es verbindet meisterhaft traditionelle amerikanische Country-/Folk-Instrumentierung mit klassischen Streicharrangements und persischen modalen Elementen. Mit einer auffälligen, auf dem Kopf stehenden amerikanischen Flagge auf dem Cover ist "American Stories" eine ruhige, brillante Subversion des klassischen amerikanischen Road-Trip-Albums. Rostam führt dich mit seiner sanften, luftigen Stimme durch wunderschöne, komplexe Klangteppiche aus akustischem Fingerpicking, spiralförmigen Cello-Sequenzen und präzisen elektronischen Drumbeats. Herausragende Stücke wie "Like a Spark" und "Forgive Is To Know" beschäftigen sich mit Identität, Freiheit und dem Leben als iranisch-amerikanischer Einwanderer der ersten Generation. Es ist ein wunderschöner, klanglicher Tagtraum, der beweist, dass eine ruhige Melodie eine unglaublich kraftvolle Form kultureller Rebellion sein kann.
 
-::genre::
+::genre::alt pop, country folk, baroque pop, indie folk, indie rock
 
 ## Ryan Bingham - They Call Us The Lucky Ones
 
-tbd
+Als Grammy- und Oscar-gekrönter Country-Veteran – und beliebter Darsteller der Fernsehserie „Yellowstone“ - ist Bingham bekannt für seine whiskeygetränkte Stimme und seine Wanderer-Perspektive. Dieses Projekt ist sein erstes Studioalbum in voller Länge seit über sieben Jahren und sein erstes seit der Hochzeit mit seiner Yellowstone-Kollegin Hassie Harrison. Rauer, atmosphärischer **Americana**, **Country** und **Roots Rock**. Zwei Jahrzehnte lang schrieb Ryan Bingham Musik, die klang, als würde ein einsamer Cowboy einem Staubsturm davonreiten - doch auf "They Call Us The Lucky Ones" hat er endlich sein Pferd angehalten, um die Aussicht zu genießen. Unterstützt von der mitreißenden, bluesigen Instrumentierung von The Texas Gentlemen, verbinden Titel wie "Let the Big Dog Eat" und "Americana" seine markante, von der Straße gezeichnete Rauheit mit einem wunderschönen Gefühl von hart erkämpfter Dankbarkeit und romantischer Ruhe. Es ist ein warmes, wunderschön arrangiertes Album, das einen wie eine abgetragene Jeansjacke einhüllt.
 
-::genre::
-
-## Savage Mania - Demonic Assault
-
-tbd
-
-::genre::
+::genre::country folk, roots rock, americana
 
 ## See You Next Tuesday, Chop7x - Brothers
 
-tbd
+*See You Next Tuesday* sind Legenden der Ferret-Music-Szene der 2000er Jahre, die die frühe Deathcore-/Grindcore-Szene mitgeprägt haben. *Chop7x* (Abkürzung für CHOP CHOP CHOP CHOP CHOP CHOP CHOP) ist ein berüchtigter, überaus produktiver Ein-Mann-Noisegrind-Act, der dafür bekannt ist, digitale Drum-Wahnsinnigkeit mit aggressiven Klangwänden zu vermischen. Hyperchaotischer **Grindcore**, **Noisegrind** und **Mathcore**. Erwartet einen schwindelerregenden Wirbelsturm aus digitalen Blastbeats, Wänden aus harschem Industrial-Rauschen und unberechenbaren, zerklüfteten Taktarten. Dies ist zweifellos die nerdigste, verrückteste Metal-Veröffentlichung des Jahres. Die beiden Acts haben diese Split-EP buchstäblich als direkte musikalische Adaption des 1998 erschienenen Magic: The Gathering Fantasyromans *The Brothers’ War* strukturiert. Auf Seite A schreit Chris Fox von See You Next Tuesday aus der Perspektive des Zauberers Urza, während auf Seite B Chop7x aus der Perspektive seines Bruders Mishra kreischt. Es ist ein kurzes, mechanisches und völlig psychotisches auditives Wettrüsten, bei dem Tracks wie "Old Thoughts, and Regrets" mit Lichtgeschwindigkeit vorbeirauschen. Es klingt weniger wie eine gewöhnliche Platte, sondern eher wie ein Einwahlmodem, das von einem gewalttätigen Dämon besessen ist - und es ist ein absoluter Knaller.
 
-::genre::
-
-## Seek Misery - Everyone You Love Will Leave
-
-tbd
-
-::genre::
+::genre::grindcore, noisecore, digicore, mathcore
 
 ## Self Deception - One Of Us
 
-tbd
+Als eine der führenden Modern-Rock-Bands Schwedens hat sich Self Deception durch die Kombination von erstklassiger Studioproduktion mit extrem eingängigen Hooks ein riesiges weltweites Streaming-Publikum aufgebaut. Für dieses Album haben sie sich mit dem Heavy-Metal-Label Napalm Records zusammengetan. Energiegeladener **Modern Metal**, **Metalcore** und **Alternative Rock**. Sie schlagen gekonnt eine Brücke zwischen schweren, tief gestimmten Gitarrenriffs und gewaltigen, radiotauglichen Stadionhymnen. "One Of Us" ist das musikalische Äquivalent dazu, in einer neonfarbenen Lederjacke aus einer Kanone geschossen zu werden. Angeführt von fulminanten, cineastischen Singles wie "The Wedding" und "Don't B E L O N G" beschäftigt sich das Album intensiv mit Themen wie Gemeinschaft, Entfremdung und dem Durchkämpfen durch persönliche Dunkelheit. Es ist eine absolute Meisterleistung in Sachen Balance zwischen Heavy und Pop-Metal. Die Refrains sind so mitreißend gewaltig, dass man schon beim zweiten Vers mitsingt, selbst wenn ein Breakdown gerade aktiv versucht, das Haus einzureißen.
 
-::genre::
+::genre::modern metalcore, modern metal, alt metal
 
 ## Shaggy - Lottery
 
-tbd
+*Shaggy* ist eine mit mehreren Grammys ausgezeichnete weltweite Ikone, die weltweit über 40 Millionen Tonträger verkauft hat und sich damit als König des Crossover-Dancehall-Pop etabliert hat. Energiegeladene Crossover-Hits aus den Bereichen **Dancehall**, **Reggae-Pop** und Urban **R&B**. Wenn du den Sommer schon früh einläuten möchtest, ist dieses Album buchstäblich ein Gewinnlos! "Lottery" ist ein wahres Star-Festival auf einer einzigen CD, mit hochkarätigen Gastbeiträgen von Jeremih, Akon, Robin Thicke und sogar seinem legendären langjährigen Kollaborateur Sting. Shaggy erklärte, er habe das Album "Lottery" genannt, weil es immer ein großes Risiko ist, auf sich selbst zu setzen - aber diese Platte knackt den Jackpot. Zwischen den knisternden Dancehall-Basslines, den urkomischen charakteristischen Vocal-Ad-libs und den massiven, radiotauglichen Hooks ist es unglaublich eingängig, selbstbewusst und darauf ausgelegt, den ganzen Sommer lang aus den Autofenster zu dröhnen.
 
-::genre::
+::genre::dancehall, reggae, alt r&b
 
 ## Shakey Graves - Fondness, Etc.
 
-tbd
+*Alejandro Rose-Garcia* (Shakey Graves) ist in der Indie-Folk-Szene legendär für sein rustikales Ein-Mann-Band-Setup, bei dem er Gitarre spielt, während er auf eine umgebaute Kofferschlagzeug trommelt. Intime **Americana**, **Lo-Fi-Folk**, **Indie-Rock** und **Roots**-Singer-Songwriter. Zieh dir einen Schaukelstuhl heran und schnapp dir ein warmes Getränk, denn dieses Album ist ein absoluter emotionaler Veranda-Jam. "Fondness, Etc." lässt die schweren, verzerrten Rock-Experimente seiner jüngsten Arbeiten hinter sich und liefert sein reduziertestes, ehrlichstes Songwriting seit Jahren. Es klingt unglaublich roh, gemütlich und heimelig - als säße Shakey dir direkt gegenüber in einem alten, staubigen Dachboden und würde dir seine tiefsten Geheimnisse anvertrauen. Es schafft eine Balance zwischen nostalgischem Folk-Picking und unerwarteten, mitreißenden Orchester-Streichern und sorgt so für eine herrlich bittersüße Reise.
 
-::genre::
+::genre::americana, indie folk, lofi, indie rock, roots rock
 
 ## SHHE - THALASSA
 
-tbd
+*Su Shaw* (SHHE) ist eine hoch angesehene Klangkünstlerin, Produzentin und Umweltschützerin. Ihr Schaffen konzentriert sich stark auf Bereiche der ökologischen Resonanz. Dieses konzeptionelle, sechsteilige Album wurde gemeinsam mit dem schottischen Produzenten Ben Chatwin produziert und aufgenommen. Unberührter **Ambient**, **moderner Minimalismus** und elektroakustische Klangkunst. Tauchen Sie kopfüber ein, denn "THALASSA" ist eine absolute Meisterleistung in Sachen klanglicher Immersion. Su Shaw hat im Wesentlichen Monate damit verbracht, Unterwassergeräusche aufzunehmen, um den Ozean seine eigene tragische Geschichte erzählen zu lassen. Es gibt keine massiven Pop-Beats. Stattdessen hüllt es dein Gehirn in wunderschöne, eindringliche Rauschen, eiskalte Synth-Pads und gespenstische Ambient-Echos. Es ist wunderschön, zutiefst ernst und dient als perfekter Soundtrack für die späte Nacht mit Kopfhörern, um sich unglaublich klug und mit dem Planeten verbunden zu fühlen.
 
-::genre::
+::genre::ambient, field recordings, minimal electronica
 
 ## silverlake murder - Impurity
 
@@ -1123,6 +1093,12 @@ Diese wegweisende Band, die ursprünglich unter dem Namen *Lloth* gegründet wur
 *Matteo Stella* ist ein italienischer elektroakustischer Klangkünstler und Produzent. Stella hat sich auf die Erfassung räumlicher Geometrien und klangliche Anthropologie spezialisiert. Um dem Album eine klassische Würde zu verleihen, integrierte er Kompositionen und Gedichte in regionalem Dialekt von historischen Persönlichkeiten der Region wie Giovanni Ginobili und seinem Mitwirkenden Massimiliano Luciani. **Elektroakustischer Minimalismus**, **Dark Folk**, **avantgardistische Klassik** und Klanglandschaften aus Umgebungsaufnahmen. Die Instrumentierung konzentriert sich stark auf das Zusammenspiel von Pfeifenorgeln, traurigen Celli, E-Gitarren und urzeitlichen Reibegeräuschen. Wenn Sie glauben, das ländliche Leben in Italien bestehe nur aus sonnigen Weinbergen und lockerer Akkordeonmusik, ist Radeche Fonne hier, um diese Postkartenfantasie zu zerschlagen. Stella vermeidet die gemütliche Idylle gänzlich. Stattdessen widmet er sich der angespannten, stillen Reibung und den isolierten Stillephasen, die in einsamen Bergtälern verborgen sind. Der herausragende Track "Cagnara Muta" übersetzt das Konzept eines stillen Streits - Fehden, die ausschließlich durch kühle Gesten statt durch Worte ausgetragen werden - in ein unbehagliches, kratzendes Duell zwischen einem Cello und einer E-Gitarre, während eine gewaltige Kirchenorgel unbeholfen versucht, den Frieden zu wahren. Es klingt wie eine Geistergeschichte, die in einer verlassenen Steinkapelle geflüstert wird. Es ist spärlich, intellektuell tiefgründig, wunderschön barock und absolut eindringlich.
 
 ::genre::dark folk, avant classic, ambient acoustic
+
+## Orphan Donor - Ailments
+
+Ein wildes Studiokollektiv, bestehend aus Veteranen von Underground-Größen wie Secret Cutter, Oktober Skyline und Motel Bible. **Mathcore**, **Grindcore** und 90er-Jahre-**Screamo**. Beeinflusst von legendären Bands wie *Pg.99*, *Ken Mode* und *Meth*. Findest du normale Musik viel zu entspannend? "Ailments" ist hier, um das zu ändern, indem sie dich für 17 Minuten in einen metaphorischen Industriemixer werfen. Dieses Album ist ein Wirbelwind aus unberechenbaren, kantigen Taktarten, kreischendem Feedback und Mathcore-Drumming, das sich völlig unvorhersehbar anfühlt. Es ist absolut roh, gnadenlos hart und wunderschön chaotisch - was es zu einem absoluten Muss für jeden macht, der seinen Metal kernerschütternd und wild unberechenbar mag.
+
+::genre::mathcore, screamo, post hardcore
 
 ## Porches - MASK
 
