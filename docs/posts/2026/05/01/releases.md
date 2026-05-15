@@ -795,6 +795,12 @@ Eine hypnotische Heavy-Metal-Band, die sich für dieses Album von einem Duo zu e
 
 ::genre::hard rock, heavy rock, goth metal, goth rock, ritual music
 
+## Stefano Panunzi - Caravaggio
+
+Stefano Panunzi, ein erfahrener italienischer Multi-Instrumentalist und Komponist, war 1997 Mitbegründer der Band *FJIERI*. Seit Jahrzehnten arbeitet er mit Größen des Progressive Rock und Art Rock zusammen. Dieses gewaltige Doppelalbum besticht durch Beiträge einer virtuosen Besetzung, darunter David Torn, Theo Travis, Tim Bowness, Markus Reuter und Colin Edwin. Kinoartiger **Art-Rock**, **Ambient-Jazz** und moderner **Progressive Rock**. Holen Sie Ihre Staffelei und eine schwere Leinwand hervor, denn diese Platte ist eine wunderschöne, akustisch-sinnliche Kunstgalerie. Benannt nach dem legendären, jähzornigen italienischen Maler, übersetzt "Caravaggio" den dramatischen Chiaroscuro-Stil (Licht-und-Schatten-Technik) des Meisters perfekt in Musik. Die Stücke bewegen sich von wunderschönen, weitläufigen Ambient-Jazz-Klanglandschaften direkt hin zu düsterer, bedrückender Progressive-Rock-Spannung. Das Album greift Themen wie verzweifelte Liebe, innerer Konflikt und Selbstfindung auf. Es ist tiefgründig, äußerst theatralisch und fühlt sich genau so an, als würde man zusehen, wie ein Ölgemälde in einem dunklen, von Kerzen beleuchteten Museum zum Leben erwacht.
+
+::genre::art rock, cine rock, neo prog rock, ambient jazz
+
 ## Stephan Thelen - Fractal Guitar 4
 
 Ein Solokünstler und Komponist (Leader der Band *Sonar Stephan Thelen*), bekannt für seine Fractal-Guitar-Reihe, in der er mithilfe innovativer Technologie komplexe, rhythmische Klangschichten erzeugt. **Avant-Prog**, **Jazz-Fusion** und **Ambient-Rock**. Stark beeinflusst von Robert Fripps "Guitar Craft". Wenn Sie sich jemals gefragt haben, wie eine mathematische Gleichung klingt, wenn sie durch eine Reihe von Delay-Pedalen geleitet wird, dann ist dies die Antwort. Es ist hypnotische, intelligente und vielschichtige Musik, die sich anfühlt, als würde man durch einen digitalen Wald aus geometrischen Mustern wandern. Perfekt für eine intensive Hörsession, bei der man die Zeit vergessen möchte.
