@@ -136,6 +136,12 @@ tbd
 
 ::genre::
 
+## BÁL - Csapás
+
+tbd
+
+::genre::
+
 ## Carlos Henrique Pereira - Northern Readings
 
 tbd
@@ -382,6 +388,12 @@ tbd
 
 ::genre::
 
+## Golden Brown - Amethyst Deceiver
+
+tbd
+
+::genre::
+
 ## Goldfish Kaseem - For A Bryter Future
 
 tbd
@@ -419,6 +431,24 @@ tbd
 ::genre::
 
 ## Held. - Grey
+
+tbd
+
+::genre::
+
+## HERTA - The Illusion Alive
+
+tbd
+
+::genre::
+
+## Hike The Peak - Elements
+
+tbd
+
+::genre::
+
+## Hildegunn Øiseth - Meandering
 
 tbd
 
@@ -970,6 +1000,12 @@ Angeführt vom kraftvollen Sänger Henry Gottelier etablierte sich die Band schn
 
 ::genre::hard rock, blues, melo rock
 
+## The MerKaBa Brotherhood - The MerKaBa Brotherhood
+
+Ein herausragendes Avantgarde-Duo, bestehend aus den Multi-Instrumentalisten Roman Norfleet (vom *The Cosmic Tones Research Trio*) und Andre Raiah (alias Brown Calvin von der Neo-Soul-Gruppe *Brown Calculus*). **Spiritual Jazz**, elektroakustische Musik, **Ambient** und elektronisch angereicherter Jazz. Stark inspiriert von sakraler Geometrie, alter Mystik und esoterischen Texten. Schnappt euch eure Kristalle und atmet tief durch, denn dieses Album ist ein direktes Portal zu einer höheren räumlichen Ebene. Aufgebaut aus nichts als Saxophon, spärlichen Keyboards und zarter Percussion, nutzt dieser selbstbetitelte Trip Klang als Blaupause für kosmische Meditation. Er ist geometrisch, luftig und zutiefst beruhigend und klingt genau wie eine nächtliche Jam-Session an Bord eines ägyptischen Raumschiffs, das durch das Raum-Zeit-Kontinuum reist.
+
+::genre::spiritual jazz, ambient acoustic
+
 ## The Wavebirds - In All Their 2.4 GHz Glory
 
 Die 2019 gegründete fünfköpfige Band fand durch ihre gemeinsame Leidenschaft für Old-School-Ska-Musik und Retro-Gaming zusammen. Zu den Höhepunkten der Band zählt das herausragende Posaunenspiel des Musikers Mike Dorval. Energiegeladener **Ska-Punk** und Videospiel-Ska. Sie verschmelzen mühelos brasslastige Third-Wave-Ska-Rhythmen mit nerdigen, nostalgischen Chip-Tune-Vibes und von Videospielen inspirierten Geschichten. Hol deine alte Konsole raus, denn dieses Album ist buchstäblich ein Cheat-Code für gute Laune. Benannt nach Nintendos berühmtem kabellosem GameCube-Controller, klingt die Platte wie ein pixeliger Moshpit. Mit Titeln wie "Blue Shell Breakup" und "The Raid Boss Killed All My Friends" verwandeln sie den absoluten Herzschmerz, ein Multiplayer-Match zu verlieren, in skankige Hymnen. Die physische CD-Version wird sogar in einer maßgeschneiderten GameCube-Replikverpackung geliefert! Es ist schnell, genial nerdig und wird euch dazu bringen, eine Plastikgitarre in die Hand zu nehmen.
@@ -1087,6 +1123,12 @@ Kwes Darko (geb. Kwesi Darko) ist ein erfahrener britischer Komponist, Songwrite
 Diese wegweisende Band, die ursprünglich unter dem Namen *Lloth* gegründet wurde, ist eng mit der Geschichte der legendären griechischen Band *Astarte* verflochten. Das Projekt wurde von der ikonischen Frontfrau Maria "Tristessa" Kolokouri (die 2014 tragischerweise an Leukämie verstarb) ins Leben gerufen und von ihrem Ehemann und Gitarristen Nicolas Maiis wiederbelebt, um ihr Andenken und ihr Vermächtnis zu ehren. **Hellenic Black Metal**, **Melodic Death Metal** und **Thrash Metal**. Die Band verbindet rasante Thrash-Tempi mit den majestätischen, hochmelodischen Gitarrenriffs, die für den klassischen griechischen Extreme Metal der 90er Jahre charakteristisch sind. Schnappt euch eure Schilde und macht euch bereit zum Marsch, denn "Archees Legeones" fühlt sich an, als würde man unter einem pechschwarzen griechischen Himmel direkt in ein blutiges, uraltes Schlachtfeld stürmen. Lloth spielt nicht nur Extreme Metal; sie schmieden Waffen aus Klang. Tracks wie "Angel Wings" versetzen dir einen Dropkick in die Brust mit einer wilden Mischung aus Old-School-Thrash und blackened Blastbeats, bevor sie sich zu atemberaubenden, epischen Gitarrenharmonien entfalten. Das Album wechselt brillant von antiken Kriegsliedern zu tief traurigen, persönlichen Elegien wie "Mother". Es ist grandios, wild territorial, unglaublich energiegeladen und fungiert als wunderschönes, dröhnendes Denkmal in Form eines Schlachtrufs für Tristessas ewige Flamme.
 
 ::genre::hellenic black metal, melo death metal, thrash metal
+
+## Marvatten - Wayward Ceremonies
+
+*Marvatten* wurde 2022 gegründet und ist ein kreatives Kollektiv, das für seine mehrteilige Albumreihe "Unscripted Moments" bekannt ist. Die Gruppe ist dafür berühmt, vollständig improvisierte Songs live in einem einzigen Durchgang aufzunehmen. Urwüchsiger, ritualistischer akustischer **Post-Rock** und **Post-Metal**. Stark geprägt von organischer Improvisation, Intuition und atmosphärischen Crescendos. Wenn eine Gruppe schwedischer Wikinger ihre Streitäxte gegen akustische Instrumente eintauschen und mitten in einem tiefen skandinavischen Wald eine Mitternachts-Séance abhalten würde, würde es genau so klingen. "Wayward Ceremonies" enthält vier gewaltige Tracks - wie "The Shaman" und "The Witch" -, die in einzelnen, unbearbeiteten Takes aufgenommen wurden. Es ist hypnotischer, akustischer Post-Rock, der sich langsam zu einer atmosphärischen Lagerfeuer-Jam steigert und damit den perfekten Soundtrack für Streifzüge durch den Wald oder das Sternegucken in einer kühlen Nacht bildet.
+
+::genre::post rock, post metal, improvisation
 
 ## Matteo Stella - Radeche Fonne
 
