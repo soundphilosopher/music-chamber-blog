@@ -360,9 +360,9 @@ tbd
 
 ## Frontline - Rebirth
 
-tbd
+*Frontline* war in den 1990er Jahren ein absoluter Fixpunkt der europäischen Melodic-Rock-Szene, bevor die Band eine fast zwanzigjährige Pause einlegte. Leider verstarb ihr Mitbegründer, Gitarrist und Hauptsongwriter Robby Böbel im Jahr 2022. Um diese Trauer in eine Hommage an sein Vermächtnis zu verwandeln, tat sich der ursprüngliche Power-Sänger Stephan Kämmerer mit dem neuen Gitarristen und Produzenten Christian Mühlroth zusammen, um die Band wieder zum Leben zu erwecken. Gewaltiger, hymnischer **Melodic Rock** / **AOR**, vollgepackt mit hochfliegenden, arena-tauglichen Gesangshooks, funkelnden Synthesizern und der treibenden Energie des klassischen Hardrocks. Zündet die Feuerwerke, denn der Old-School-Arena-Rock ist offiziell von den Toten auferstanden! "Rebirth" ist ein meisterhaft umgesetztes, ohrenbetäubendes Comeback, das moderne Musiktrends komplett meidet. Stattdessen setzt Frontline voll und ganz auf das, was sie am besten können: gewaltige Gitarrenriffs im Stil der 80er und 90er Jahre, emotionale Darbietungen und massive Refrains, die dazu gedacht sind, von Tausenden von Menschen mitgeschrien zu werden. Tracks wie "Two Tickets To The Afterglow" beweisen, dass diese deutschen Rock-Veteranen in den letzten 20 Jahren kein bisschen von ihrer Leidenschaft oder Kraft eingebüßt haben.
 
-::genre::
+::genre::heavy rock, melo rock, arena rock, hard rock
 
 ## Frozen Sand - Fractals: A Light Among Shadows
 
@@ -472,13 +472,19 @@ Die Band besteht aus Jacob Barna (Gesang), Ian Bennett (Gitarre), Noah Sautner (
 
 ::genre::metallic hardcore, beatdown
 
+## Jasmine Myra - Where Light Settles
+
+*Jasmine Myra* ist eine phänomenale Saxophonistin, Komponistin und Bandleaderin. Für ihr drittes Studioalbum versammelte sie ihr 13-köpfiges Live-Ensemble (unter der Leitung von Ozzy Moysey vom *Ancient Infinity Orchestra*) in den The Nave Studios in Leeds, um alles live in einem Raum aufzunehmen. Eleganter **zeitgenössischer Jazz** / **Spiritual Jazz**, der sich stark auf majestätische Streicharrangements, tiefe Holzbläser und äußerst melodische Saxophone stützt. Schnappen Sie sich eine warme Tasse Tee und lassen Sie den Stress der Woche vollständig von sich abfallen. "Where Light Settles" ist reine Klangarchitektur, die darauf ausgelegt ist, die Seele zu trösten. Myra komponiert Jazz, der weniger wie technisches Gezeige wirkt, sondern eher wie wunderschönes, großformatiges instrumentales Geschichtenerzählen. Ihr Altsaxophon führt Sie sanft durch üppige Wälder aus akustischem Klavier, warmem Kontrabass und cineastischen Live-Streichersätzen. Es ist ergreifend, zutiefst erhebend und ein Meisterwerk darin, wie man menschliche Verletzlichkeit in reine Kunst verwandelt.
+
+::genre::contemporary jazz, spiritual jazz
+
 ## Jean-Pascal Boffo - Inner World
 
 *Boffo* ist ein legendärer französischer Gitarrenveteran und Komponist, der seit den späten 1970er Jahren aktiv ist. Er war 1985 der erste Künstler, der bei Musea Records unter Vertrag genommen wurde, und wird hoch geschätzt für seine Verschmelzung von kraftvollen Gitarrenklängen mit üppigen elektronischen und visuellen Animationen. **Instrumentaler Progressive Rock**, symphonische **Fusion**, cineastische **Avantgarde** und **World Music**. Stark inspiriert von klassischen Prog-Rock-Konzeptalben der 1970er Jahre, Fantasy-Kunst und Traumpsychologie. Schnall dich an für eine Reise ins Unterbewusstsein! "Inner World" ist Boffos 16. Studioalbum und klingt wie ein wunderschöner, kaleidoskopischer Soundtrack zu einem unveröffentlichten Science-Fiction-Zeichentrickfilm. Zwölf Instrumentalstücke wie "Robotown" und "Parallel World" führen Sie durch die sich wandelnden Landschaften einer nächtlichen Traumwelt. Boffos makellose akustische und elektrische Gitarrenmelodien tanzen mühelos über synthetische Sci-Fi-Streicher und tickende Uhrenrhythmen und bieten eine wunderbar skurrile und zutiefst künstlerische Reise für alle, die ihre Rockmusik mit einer Prise hochkonzeptioneller visueller Fantasie mögen.
 
 ::genre::prog rock, neo prog rock, fusion, avant rock, world music, instrumental
 
-## Jeff Parker ETA IVtet - Happy Today
+## Jeff Parker, ETA IVtet - Happy Today
 
 Jeff Parker, vor allem bekannt als virtuoser Gitarrist der Post-Rock-Größen Tortoise, ist eine tragende Säule der modernen kreativen Musik. Sein seit langem bestehendes ETA IVtet besticht durch eine herausragende Besetzung mit dem Schlagzeuger Jay Bellerose, der Bassistin Anna Butterss und dem Saxophonisten Josh Johnson. Minimalistischer **Soul-Jazz**, **avantgardistische Improvisation** und **Post-Rock**. Beeinflusst von hypnotischer Groove-Architektur, loopartigen Live-Synkopen und formbrechendem **Ambient-Jazz**. Wenn du deine Gehirnwellen komplett glätten lassen willst, hat Jeff Parker die ultimative Klangmassage für dich parat. Bestehend aus nur zwei ausufernden, seitenlangen Improvisationsstücken, begleitet "Happy Today" die Band auf ihrem Weg von einem winzigen Mikro-Club in einen Saal mit 500 Plätzen, ohne auch nur einen Hauch ihrer dichten, telepathischen Intimität zu verlieren. Es klingt wie eine Jazzband, die zufällig herausgefunden hat, wie man die Zeit verlangsamt, und dich in einer beruhigenden Schleife aus warmen Basslinien und butterweichen Gitarrenakkorden gefangen hält, aus der du niemals entkommen möchtest.
 
@@ -675,6 +681,12 @@ Als aufstrebende Größe der New Yorker Underground-Szene wird dieses Indie-Quar
 Dies ist ein brillantes Herzensprojekt, bei dem die Heavy-Metal-Legende Stephen Brodsky (Frontmann von *Cave In*, *Mutoid Man* und *Old Man Gloom*) mit Mike Law zusammenarbeitet. Dieses Album markiert ihre spektakuläre Rückkehr zu diesem Projekt nach einer 15-jährigen kreativen Pause. Melancholischer **Indie-Folk** und **Alternative Rock**. Stark beeinflusst vom harmonienreichen Songwriting der *Beatles*, der rohen Erzählstruktur von *Bob Dylan* und den Indie-Folk-Revival-Acts der 2000er Jahre. Man nehme zwei Hardcore-Punk- und Metal-Musiker, nehme ihnen ihre Verzerrerpedale weg, gebe ihnen Akustikgitarren und sage ihnen, sie sollen Lieder über die Liebe schreiben. Das Ergebnis ist "Fire On The Hill" - ein wunderschönes, bittersüßes Album, das wie ein warmer Frühsommerabend auf der Veranda klingt. Es schafft einen Ausgleich zwischen hellen, schönen, Beatles-artigen Gesangsduetten und einem anhaltenden Gefühl von düsterer, atmosphärischer Melancholie. Es ist Indie-Folk-Komfortnahrung für genesende Metalheads.
 
 ::genre::alt rock, alt folk, mellow folk, indie folk
+
+## No You - No You
+
+*No You* ist das gemeinsame Projekt von Diego Herrera (besser bekannt als das Ambient-/Elektro-Chamäleon Suzanne Kraft) und Davy Kehoe (dem angesehenen Multi-Instrumentalisten vom irischen Label Wah Wah Wino). Das Duo nahm das Album in LA während unauffälliger wöchentlicher Sessions mit einem minimalistischen 4-Spur-Band-Setup auf. Verschwommener **Scuzz Pop** / **Dream Pop** / **Shoegaze**, aufgebaut auf einem motorischen Puls, klirrenden Akustikgitarren, 4-Spur-Bandrauschen und knackigen Drumcomputern. Kurbel die Fenster herunter und sieh zu, wie der smogverhangene Sonnenuntergang verblasst. No You ist ein herrlich ungeschliffener, sonnenverwöhnter Trip. Es klingt, als hätten sich zwei brillante Studio-Experimentatoren entschlossen, sich in einer Garage einzuschließen, den schillernden Hollywood-Glanz zu ignorieren und zu sehen, wie viel Emotion sie aus billigen Drumcomputern und staubigen Gitarren herausholen können. Es ist locker, mitreißend, wunderschön traurig und fängt perfekt diese unverwechselbare Stimmung ein, einsam zu sein, während man im langsamen Autobahnverkehr feststeckt.
+
+::genre::dreampop, alt pop, shoegaze
 
 ## Noosed - Misery
 
@@ -928,6 +940,12 @@ Die Band, die als finnische Horror-Punk-Supergroup auftritt, besteht aus Markus 
 
 ::genre::horror punk, heavy metal
 
+## The Hoosiers - Compassion
+
+Angeführt vom dynamischen Duo Irwin Sparkes und Alan Sharland eroberten The Hoosiers 2007 mit großen Hits wie "Goodbye Mr A" und "Worried About Ray" die Charts im Sturm. Im Laufe der Jahre haben sie sich von schrulligen, chartstürmenden Pop-Exzentrikern zu einer reifen, selbstbewussten Indie-Größe entwickelt. Lebhafter, eingängiger **Indie-Pop** / **Alternative Rock** mit Fokus auf großen, melodischen Refrains, witzigen Texten und theatralischer Pop-Rock-Energie. Von der Band als - eine große, stinkende Umarmung von einem Album - bezeichnet, ist "Compassion" genau die musikalische Medizin, die die Welt gerade jetzt braucht. Es setzt sich mit dem verwirrenden, überwältigenden Chaos des modernen Lebens und der Angst vor den sozialen Medien auseinander, weigert sich aber rundweg, den Zynismus gewinnen zu lassen. Stattdessen bekommt man 12 Tracks mit unglaublich schwungvollen Basslines, hochfliegenden Gesangsharmonien und unwiderstehlichen Pop-Hooks. Es ist ein farbenfrohes, offenherziges Album, das daran erinnert, freundlich zu sich selbst zu sein - und es gleichzeitig physisch unmöglich macht, nicht mitzutanzen.
+
+::genre::power pop, indie pop, alt rock, indie rock
+
 ## The Karma Effect - Cruel Intentions
 
 Angeführt vom kraftvollen Sänger Henry Gottelier etablierte sich die Band schnell als aufstrebender Star, nachdem ihr zweites Album "Promised Land" den Sprung in die britischen Top-20-Albumcharts geschafft hatte. Für diese Platte holten sie den legendären Rock-Toningenieur Romesh Dodangoda an Bord, der den finalen Mix übernahm. **Moderner Vintage-Rock**, **Hard Rock** und **Melodic Soul**. Stellt euch eine elegante, zeitgemäße Weiterentwicklung des klassischen Stadion-Rocks der 70er und 80er Jahre vor - eine Mischung aus dem bluesigen Selbstbewusstsein von *Aerosmith* und *The Black Crowes* mit einem massiven, ausgefeilten, modernen Radio-Punch. "Cruel Intentions" strotzt nur so vor Lederjacken-Attitüde und Selbstbewusstsein, dass es wahrscheinlich mit einem Warnhinweis versehen werden sollte. Vollgepackt mit Songs, die sich mit Liebe, Lust und Gefahr auseinandersetzen, klingt die Band lauter, straffer und kompromissloser massiv als je zuvor. Angeführt von der mitreißenden Hymne "Waiting On A Miracle" bietet das Album hochfliegende Gesangshooks und Gitarrensoli, die dafür gemacht sind, von 50.000 Menschen in einer Arena mitgeschrien zu werden. Es ist witzig, unglaublich groovig und perfekt, um mit komplett heruntergelassenen Fenstern die Autobahn entlangzufahren.
@@ -1093,6 +1111,12 @@ Seit 2018 ist diese fleißige Independent-Band aktiv und hat sich in der Metal-S
 Ein wildes Studiokollektiv, bestehend aus Veteranen von Underground-Größen wie Secret Cutter, Oktober Skyline und Motel Bible. **Mathcore**, **Grindcore** und 90er-Jahre-**Screamo**. Beeinflusst von legendären Bands wie *Pg.99*, *Ken Mode* und *Meth*. Findest du normale Musik viel zu entspannend? "Ailments" ist hier, um das zu ändern, indem sie dich für 17 Minuten in einen metaphorischen Industriemixer werfen. Dieses Album ist ein Wirbelwind aus unberechenbaren, kantigen Taktarten, kreischendem Feedback und Mathcore-Drumming, das sich völlig unvorhersehbar anfühlt. Es ist absolut roh, gnadenlos hart und wunderschön chaotisch - was es zu einem absoluten Muss für jeden macht, der seinen Metal kernerschütternd und wild unberechenbar mag.
 
 ::genre::mathcore, screamo, post hardcore
+
+## PINK MEXICO - what movie ends like this?
+
+*Pink Mexico* ist in erster Linie das geistige Kind des Multi-Instrumentalisten Grady Walker. Walker, der dafür bekannt ist, auf Aufnahmen fast alles selbst zu spielen, ist eine feste Größe der DIY-Underground-Szene in Brooklyn/Queens und bringt seine Punk-Energie bekanntlich auch in Nebenprojekte wie die Doom-Band *Pants Exploder* ein. Rauer **Garage-Rock** / **Psych-Punk** / Fuzzy-**Indie-Rock** mit einer undergroundigen, astral-stompigen Attitüde. "What movie ends like this?" ist genau die Art von rohem, fuzzy Garage-Rock, die Lust macht, eine Wand mit Sprühfarbe zu besprühen oder mit dem Skateboard durch einen Supermarkt zu fahren. Der Song ist randvoll mit dicken, summenden Gitarrenverzerrungen, spöttischem, aber mitreißendem Gesang und Rhythmen, die hart genug stampfen, um deine Lautsprecher zum Wackeln zu bringen. Die Tracks wirken wunderbar ungeschliffen und fangen die perfekt chaotische Energie eines vollgepackten, schweißtreibenden Kellerkonzerts ein, bei dem die Band mit maximaler Lautstärke spielt.
+
+::genre::garage rock, psych punk, indie rock
 
 ## Porches - MASK
 
