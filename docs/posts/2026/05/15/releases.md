@@ -8,235 +8,175 @@ categories:
 
 # Releases! Releases! Releases!
 
-## 49 Winchester - Change of Plans
-
-tbd
-
-::genre::
-
 ## A Box of Stars - Walnut Street
 
-tbd
+*A Box of Stars* ist das musikalische Alter Ego des multidisziplinären Künstlers Macaulay Lerman, der sich selbst als Schöpfer von Liedern, Gedichten und Bildern bezeichnet. Lerman, der ursprünglich 2018 in Erscheinung trat, legte nach seinem 2023 erschienenen Album "Somethinghood" bewusst eine dreijährige Pause ein, um tiefgreifende Veränderungen in seinem Leben zu verarbeiten, darunter das schmerzhafte Ende einer langjährigen Beziehung. Stimmungsvoller **Indie-Folk** / **Slow-Core** / Singer-Songwriter, getragen von akustischem Fingerpicking, anschwellenden Hintergrundtexturen und einem zutiefst emotionalen, resonanten Gesang. Schnapp dir eine dicke Decke und beobachte, wie der Regen an deiner Fensterscheibe herunterläuft. "Walnut Street" ist ein atemberaubend schönes Stück purer, ungefilterter Nostalgie und Trauer um eine imaginäre Zukunft. Lermans tiefe, dröhnende Baritonstimme erinnert an die düstere, raue Poesie von Leonard Cohen oder Bill Callahan. Titel wie das bewegende "Haydn’s Song" - geschrieben als wunderschönes Andenken an einen verstorbenen Freund - werden dich absolut in ihren Bann ziehen. Es ist unglaublich warm, geisterhaft und der ultimative Mitternachts-Hörgenuss, um den Sinn deiner eigenen Erinnerungen zu hinterfragen.
 
-::genre::
-
-## A Static Lullaby - ...And Don't Forget To Breathe
-
-tbd
-
-::genre::
-
-<!-- more -->
+::genre::indie folk, slowcore
 
 ## Acid Reign - Daze Of The Week
 
-tbd
+Die Band, die 1985 als Pioniere der britischen Thrash-Bewegung gegründet wurde, wird von ihrem charismatischen Howard "H" Smith angeführt, dem einzigen verbliebenen Gründungsmitglied. Unterstützt von einer neu formierten Besetzung aus dem Jahr 2025 kehrten sie ins Studio zurück, um die rohe Old-School-Energie ihres klassischen Repertoires einzufangen. Hochgeschwindigkeits-**Thrash Metal** / **Speed Metal** voller Energie, angetrieben von scharfen, rasanten Gitarren-Leads, stampfenden Mosh-Parts und unglaublich eingängigen, hymnischen Refrains. Hol deine High-Top-Sneaker aus dem Schrank und mach Platz in deinem Wohnzimmer, denn die britischen Thrash-Könige sind zurück, um einen ordentlichen Circle Pit zu starten! "Daze Of The Week" ignoriert modernen Radio-Pop komplett und serviert stattdessen zehn Tracks voller purer, unverfälschter Geschwindigkeit. Es trägt stolz den rebellischen Cool-Guys-Spirit des Street-Thrash der 1980er Jahre in sich, ohne sich selbst zu ernst zu nehmen. Songs wie "Alonely" und "Conniption King" treffen dich mit einer unerbittlichen Wand aus dröhnenden Gitarren und rasenden Drum-Tempos und beweisen, dass die alte Garde des britischen Metal kein bisschen von ihrer Schärfe eingebüßt hat.
 
-::genre::
+::genre::thrash metal, speed metal
 
 ## Advent Horizon - Falling Together
 
-tbd
+Zur Besetzung gehören Rylee McDonald (Gesang/Gitarre/Keyboard), Mike Lofgreen (Schlagzeug), Cason Wood (Bass/Synthesizer) und Grant Matheson (Gesang/Gitarre). Nach ihrem Durchbruchalbum "A Cell To Call Home" aus dem Jahr 2023 nahmen sie dieses Nachfolgealbum in den Cold House Studios auf und beauftragten den Progressive-Rock-Giganten Jens Bogren (Opeth, Haken, Leprous) mit dem Mastering. Komplexer, emotional dichter **Progressive Rock** / **Progressive Metal**, unterlegt mit schwebenden Gesangsharmonien, dichten Keyboardklängen und hochdynamischen Gitarrenläufen. Setzen Sie Ihre Denkmütze auf, denn Advent Horizon schickt Ihr Gehirn auf eine wilde Achterbahnfahrt. "Falling Together" ist eine gewaltige konzeptionelle Reise, bei der die Überzeugungen Ihrer Kindheit unter die Lupe genommen werden. Das absolute Herzstück ist ein kolossaler, 19-minütiger Eröffnungstrack, der wie eine Miniatur-Sinfonie wirkt. Er wechselt mühelos von intimen, wehmütigen Melodien zu gewaltigen Wänden komplexer Metal-Instrumentierung. Er ist tiefgründig, wunderschön orchestriert und ein Muss für jeden, der episches musikalisches Storytelling liebt.
 
-::genre::
+::genre::prog rock, prog metal
 
-## Alex Henry Foster - From The City To The Ocean
-
-tbd
-
-::genre::
+<!-- more -->
 
 ## Alexis Martin Ensemble - Les pôles Volume 1
 
-tbd
+Alexis Martin ist ein erfahrener Veteran mit 30 Jahren Erfahrung als Schlagzeuger, Perkussionist und Komponist für Film und Fernsehen. Um seine erste formelle Ensemble-Vision zum Leben zu erwecken, stellte er ein Dreamteam aus kanadischen Jazz-Talenten zusammen, darunter die Pianistin Emie R. Roussel und der Kontrabassist Mathieu Désy. Samtiger **Contemporary Jazz** / **Jazz-Noir** / **Instrumental**, geprägt von filmischen Klangtexturen, zarten Klaviermotiven und tiefen Holzbläsern. Schenken Sie sich einen heißen Kaffee ein und beobachten Sie den Regen draußen, denn diese Platte ist ein wortloser Film für Ihre Ohren. "Les pôles Volume 1" ist eine unglaublich sanfte, texturreiche Jazzreise, die sich elegant und zutiefst menschlich anfühlt. Martin behandelt Stille und Raum wie echte Instrumente und lässt die Klavierakkorde und wehmütigen Cellomelodien in einem fortwährenden Mitternachtsdialog atmen. Sie ist stimmungsvoll, äußerst raffiniert und fungiert als perfekter Soundtrack für die späten Abendstunden, um der lauten modernen Welt zu entfliehen.
 
-::genre::
+::genre::contemporary jazz, jazz noir, instrumental
 
-## All-American Rejects - Sandbox
+## alt. - Nevermoree
 
-tbd
+Die aufstrebende fünfköpfige Alternative-Band hat sich schnell zu einer festen Größe in der hart umkämpften australischen Heavy-Metal-Szene entwickelt. Bekannt für ihr dramatisches Sounddesign und ihre technische Präzision, haben sie dieses konzeptionelle Album um schwere Themen wie die Bewältigung innerer Trauer und existenzielle Angst herum aufgebaut. Dunkler, cineastischer **Alternative Metal** / **Nu-Metalcore** / **Post-Hardcore**, geprägt von schweren, atmosphärischen Elektronikklängen, aggressiven Gitarrenriffs und hochfliegenden melodischen Refrains. "Nevermore" ist eine wunderschön düstere, adrenalingeladene Achterbahnfahrt, die einem direkt in die Brust trifft. Die Band verbindet meisterhaft die erdrückende Wucht moderner Metalcore-Breakdowns mit einer raffinierten, neongetränkten Atmosphäre, die einen völlig in ihren Bann zieht. Frontmann Daniel Cullen-Richards wechselt nahtlos von tiefen, markerschütternden Schreien zu radiotauglichen Pop-Hooks. Es ist theatralisch, brillant laut und das absolut perfekte Album, um in einem dunklen Raum aus voller Kehle mitzuschreien.
 
-::genre::
-
-## Alt. - Nevermoree
-
-tbd
-
-::genre::
+::genre::modern metalcore, nu metalcore, modern post metalcore
 
 ## Altin Sencalar - Natural Rhythm
 
-tbd
+*Altin Sencalar* ist ein preisgekrönter, virtuoser Posaunist und Komponist. Für sein siebtes Album als Bandleader hat er ein absolutes Jazz-Dreamteam zusammengestellt, bestehend aus Sharel Cassity am Saxophon, Michael Dease am Baritonsaxophon und dem erfahrenen Percussion-Star Alex Acuña. Hochkarätiger **Latin Jazz** / **Afro-Cuban Jazz** / **Hard Bop**, geprägt von feurigen Tempi, brillanten synkopierten Bläsern und tanzbarer Percussion. Versuchen Sie mal, diese Platte anzuhören, ohne mit den Füßen mitzuwippen - das ist physisch unmöglich! "Natural Rhythm" ist eine wunderschöne Explosion aus warmen Blechbläsern, tanzenden Klavierakkorden und komplexen, blitzschnellen Polyrhythmen. Sencalar lässt seine Posaune voll zur Geltung kommen und gleitet mühelos durch feurige Tempospitzen und mitreißende Jazzballaden. Es fühlt sich weniger wie eine Studioaufnahme an, sondern eher so, als würde man mitten in der Nacht direkt in ein pulsierendes Straßenfest im Freien versetzt.
 
-::genre::
+::genre::afro jazz, hard bop, latin jazz
 
 ## Andrés - Purgatoryland
 
-tbd
+Andrés (*Andres Aparicio*) ist eine feste Größe in der Underground-Szene und eng mit dem Progressive Rock und der Swancore-Szene verbunden. Er hat intensiv mit Ikonen der Szene wie *Kurt Travis* zusammengearbeitet. Dieses mit Spannung erwartete Album markiert sein offizielles Label-Debüt bei Blue Swan Records. **Alternative Hip-Hop** / **Progressive Rap**, nahtlos verwoben mit R&B-Melodien, hellen Akustikgitarren und theatralischem, erzählerischem Songwriting. Setzt eure Theater-Hüte auf, denn Andrés hat sein neues Meisterwerk scherzhaft als Lin-Manuel Miranda-core bezeichnet! "Purgatoryland" nimmt all die mitreißenden rhythmischen Grooves des Alternative Hip-Hop und stellt sie mit brillantem Storytelling, farbenfrohen Gesangsmelodien und großartigem Humor auf den Kopf. Tracks wie "Pest Control" und "Ride Share Driver" behandeln alltägliche Herausforderungen mit witziger, selbstbewusster Lyrik. Es ist groovig, unglaublich einzigartig und der ultimative Muntermacher für eine sonnige Autofahrt.
 
-::genre::
+::genre::alt hip hop, alt r&b, prog r&b
 
 ## Angellore - Nocturnes
 
-tbd
+*Angellore* wurde 2007 von zwei gleichgesinnten Underground-Musikern gegründet und prägt seit fast zwei Jahrzehnten die französische Atmospheric-Metal-Szene. "Nocturnes" markiert ihr großes Comeback nach einer langen, schwierigen kreativen Pause seit ihrem von der Kritik gefeierten Album "Rien Ne Devait Mourir" aus dem Jahr 2020. Majestätischer, stark symphonischer **Gothic-Doom-Metal**, der Romantik, Melancholie und klassische Folk-Instrumentierung miteinander verwebt. Entstaube deinen Samtumhang und zünde ein paar Kerzen an, denn die französischen Könige der Melancholie sind zurückgekehrt, um dir auf die bestmögliche Weise das Herz zu brechen. "Nocturnes" ist ein wunderschön theatralisches Meisterwerk mit fünf Tracks, das sich weniger wie ein Metal-Album anfühlt, sondern eher wie eine Opern-Tragödie. Es schwebt wunderschön zwischen mitreißenden orchestralen Streichern, wehmütigen akustischen Folk-Passagen und schweren, langsam zermalmenden Doom-Riffs. Tracks wie "Black Sun River" verbinden engelsgleiche, klare Melodien mit tiefen, traurigen Growls, um eine bezaubernde Flucht in die Dämmerung zu schaffen, die man nicht mehr verlassen möchte.
 
-::genre::
+::genre::gothic metal, doom metal
 
-## Antimozdebeast - The Vagrant Unkempt Grave
+## AntiMozdeBeast - The Vagrant Unkempt Grave
 
-tbd
+AntiMozdeBeast ist das höchst einzigartige, avantgardistische Soloprojekt des Multi-Instrumentalisten und Produzenten Gabriel Palacio. Unter diesem Namen erschafft Palacio eine chaotische digitale Klanglandschaft, in der mechanische Rhythmen und traditionelle Black-Metal-Themen aufeinanderprallen. Extreme **Industrial Metal** / Electronic **Black Metal**, geprägt von aggressiver Glitch-Elektronik, verzerrten Synthesizerklängen und rauen Vocals. Stellt euch vor, eine Computerplatine fängt in einer Spukkirche Feuer, und ihr habt eine ziemlich gute Vorstellung davon, was Palacio hier ausgeheckt hat. "The Vagrant Unkempt Grave" ist ein düsterer, glitchlastiger Albtraum, der elektronische Beats wie eine absolute Waffe einsetzt. Prominente Singles wie "Torn Mentality" und "Corridor of Admiration" liefern einen immensen akustischen Angriff, der eisige Black-Metal-Schreie mit abrasiven, pulsierenden Industrial-Fabrikgeräuschen verbindet. Es ist hektisch, kybernetisch, zutiefst beunruhigend und perfekt, wenn man sich wie ein Bösewicht in einem futuristischen Sci-Fi-Horrorfilm fühlen möchte.
 
-::genre::
+::genre::industrial metal, black metal
 
 ## Arroganz - Death Doom Punks
 
-tbd
+Das seit 2008 aktive, erfahrene Power-Trio zeichnet sich durch die flinken, hämmernden Bassläufe von "-K-" sowie tiefe, bissige Growls aus, untermalt von der messerscharfen, knackigen Gitarrenarbeit von "-B-". Mit 15 Jahren Bühnen- und Studioerfahrung im Rücken haben sie dieses Projekt aufgenommen, um den Schwerpunkt auf einen organischen, kraftvollen Produktionsmix zu legen. **Old-School-Death-Metal** / **Blackened Doom**, durchdrungen von roher, ungeschliffener Punk-Rock-Aggression und einer direkten Attitüde. Schließt eure Wertsachen weg und öffnet den Moshpit, denn der Titel dieses Albums ist kein Vorschlag - es ist eine Drohung. Death Doom Punks zerschmettern nahtlos Old-School-Death-Metal zu einer Wand aus verrotteter, den Mittelfinger reckender Punkrock-Energie. Tracks wie "Arsenic Breath" springen mühelos zwischen knurrenden, verlangsamten Breakdowns und blitzschnellen Thrash-Stampeden hin und her. Es ist tiefgründig, aggressiv, kompromisslos ehrlich und maßgeschneidert für alle, die ihre Heavy-Musik mit Lederjacken und einer ernsthaften Attitüde mögen.
 
-::genre::
-
-## Artillery - Made In Hell
-
-tbd
-
-::genre::
+::genre::osdm, blackened doom metal
 
 ## Aspetuck - Immersion
 
-tbd
+Aspetuck ist das Künstlername des Produzenten Griff für seine elektronischen Aufnahmen. Anstatt sich hinzusetzen, um ein formelhaftes Club-Album zu schreiben, verbrachte Griff einige prägende Jahre damit, einschneidende persönliche Ereignisse - darunter den plötzlichen Verlust seines Bruders und den benommenen, schlaflosen Strudel des frischgebackenen Vaterseins - direkt in modulare Synthesizer zu übertragen. Hypnotischer, emotional schwerer **Deep Ambient** / **Leftfield Techno** / **Modular Electronica**, geschaffen durch rohe Live-Jam-Sessions, Mixer aus den 1980er Jahren und verzerrte Drum Machines. Schlüpfe in deine allerbeste Hörausrüstung und lass deine Gedanken langsam davonschweben. "Immersion" fühlt sich weniger wie eine traditionelle Platte an, sondern eher wie ein äußerst intimes akustisches Fotoalbum. Es ist vollgepackt mit wunderschönen, bittersüßen Details, wie dem Track "Hit Me With Your Pet Shark", der Studioausrüstung verwendet, die Griff von seinem verstorbenen Bruder geerbt hat, und "Under, Under The Tree", der auf einer körnigen iPhone-Sprachmemo-Aufnahme seiner kleinen Tochter basiert, die am Hudson River singt. Es ist eine warme, tief bewegende Balance aus Feier und Trauer, verpackt in makellosen elektronischen Texturen.
 
-::genre::
+::genre::minimal techno, deep ambient
 
 ## Atavistia - Old Gods Awaken
 
-tbd
+Die von dem visionären Multi-Instrumentalisten Mattias Sippola gegründete Band besticht durch Max Sepulvedas makelloses, temporeiches Schlagzeugspiel, das ihre gewaltigen Songs perfekt zusammenhält. Sie haben Jahre damit verbracht, einen frostigen Sound zu verfeinern, der stark von der goldenen Ära des europäischen Folk Metal der frühen 2000er Jahre inspiriert ist. Majestätischer **Symphonic / Melodic Death Metal** / **Folk Metal**, vollgepackt mit mitreißenden Orchesterpartien, blitzschnellen Gitarrensoli, Blast Beats und traditionellen mittelalterlichen Taverne-Tanzinstrumenten. Schnapp dir einen Krug Met und mach dich bereit, auf das Schlachtfeld zu stürmen! "Old Gods Awaken" ist eine glorreiche, 11-minütige, epische Reise in die gefrorene Wildnis des Nordens. Der Track springt mühelos hin und her zwischen cineastischen, akustischen Tavernen-Mitgrölern wie "Mystic Tavern" und rasenden Winterstürmen aus purer symphonischer Extreme-Metal-Aggression. Er wirkt wie eine wunderschöne Mischung aus Wintersun und Old-School-Ensiferum, die ein hochkarätiges Set in einer mittelalterlichen Burg spielen.
 
-::genre::
-
-## Born Through Death - Lonely Season
-
-tbd
-
-::genre::
+::genre::symphonic black metal, blackened death metal, melo death metal, folk metal
 
 ## Broadway Showdown - Let the Showdown Begin!
 
-tbd
+Entstanden als kompromissloses, energiegeladenes Gemeinschaftsprojekt mit namhaften Underground-Alternative-Sängern und Produzenten. Die Band machte sich daran, die genaue, polarisierende Electronicore-Explosion, die um 2009 die Alternative-Musikfestivals beherrschte, akribisch nachzubilden. Neon Crabcore / 2000er-**Metalcore** / **Electronicore** mit lebhaften Synth-Pop-Breaks, stark pitchkorrigierten Auto-Tune-Vocals und plötzlichen, erderschütternden Breakdowns. Nimm eine tiefe, breite Beinstellung ein und hol das Neon-Haarspray raus, denn Crabcore ist offiziell zurück! "Broadway Showdown Presents: Let the Showdown Begin!" ist eine herrlich chaotische Zeitmaschine, die moderne, ernsthafte Metal-Trends komplett ablehnt. Songs wie "I Think Coolsville Sucks" und "Bwahaha Blast" vermischen auf glorreiche Weise zuckersüße, fröhliche Euro-Dance-Synths mit schweren Gitarrenriffs und kehlenschneidenden Schreien. Es ist laut, unverhohlen albern und ein unglaublich unterhaltsamer Rückblick für alle, die sich daran erinnern, als Metalcore-Musikvideos noch von übergroßen Sonnenbrillen und Primärfarben geprägt waren.
 
-::genre::
-
-## Brooke Fraser - Eat
-
-tbd
-
-::genre::
+::genre::electronicore, metalcore
 
 ## Bruce Soord - Ghosts in the Park
 
-tbd
+Bruce Soord ist das gefeierte Gründungsmitglied, der Frontmann und der Hauptsongwriter der Progressive-Rock-Größen *The Pineapple Thief*. Er schrieb und nahm einen Großteil dieses zutiefst zerbrechlichen Soloalbums unterwegs in Hotelzimmern in Chile, Hamburg und Oberhausen auf, während er mit der nachlassenden Gesundheit und dem späteren Tod seiner Eltern zu kämpfen hatte. Zerbrechlicher, verletzlicher akustischer **Progressive Rock** / **Indie-Folk** mit rauen Akustikgitarren, melancholischen Streichertexturen und zutiefst nachdenklichen Gesangsdarbietungen. Halten Sie eine Schachtel Taschentücher bereit, denn Bruce Soord schüttet für dieses Album sein Herz vollständig aus. "Ghosts in the Park" legt die polierte, hochglänzende Rockperfektion seiner Hauptband ab, um etwas Rohes und unglaublich Intimes zu liefern. Aufgebaut auf den Grundzügen von Akustikgitarren-Tracks, die in stillen Hotelzimmern aufgenommen wurden, verarbeitet das Album Trauer, Erinnerung und Verlust mit erstaunlicher Schönheit. Es schafft einen eindringlich stillen Raum, in dem alles andere vollkommen stillsteht, während die Musik einen zu Tränen rührt. Es ist elegant, bittersüß und eine tröstende, warme Umarmung für eine trauernde Seele.
 
-::genre::
+::genre::mellow folk, indie folk, prog folk
 
 ## BÁL - Csapás
 
-tbd
+*BÁL* ist ein äußerst produktives, vollkommen unabhängiges Ein-Mann-Projekt, das seit 2017 von einem multi-instrumentalistischen Mastermind namens Valent geleitet wird. Weit draußen im Underground-Metal-Spektrum angesiedelt, verarbeitet BÁL mit seiner Musik schwere psychologische Themen, Isolation und existenzielle Verfall. **Atmosphärischer Black Metal** / **Depressiver Black Metal** / **Avantgarde-Metal**, unterlegt mit rohen, durchdringenden Gitarrentönen, verzweifeltem Kreischen und schwerer, bedrückender Atmosphäre. Der Albumtitel bedeutet auf Ungarisch "Schlag" oder "Hieb" - und genau das tut diese Platte deinem Nervensystem an. "Csapás" ist ein pechschwarzes Klanggewitter, das sich anfühlt, als würde man während einer totalen Sonnenfinsternis allein durch einen eiskalten ungarischen Wald wandern. Anstatt auf eine ausgefeilte Radioproduktion zu setzen, verwöhnt es dich mit einer Wand aus rohen, brummenden Gitarren und Gesangsschreien, die so qualvoll sind, dass sie klingen, als wären sie in einem mittelalterlichen Folterkeller aufgenommen worden. Es ist schwer, kompromisslos düster und eine perfekte akustische Katharsis für den Moment, in dem man es völlig satt hat, sich mit der Außenwelt auseinanderzusetzen.
 
-::genre::
+::genre::atmo black metal, dsbm, avant black metal
 
 ## Carlos Henrique Pereira - Northern Readings
 
-tbd
+Der Multi-Instrumentalist Carlos Henrique Pereira genießt großes Ansehen für seine volltönenden, fließenden Melodien auf der Nylonsaitengitarre und dem akustischen Klavier. Für dieses vielschichtige Album hat er ein brillantes Chamber-Jazz-Ensemble zusammengestellt: den Grammy-Gewinner Mads Tolling (Violine), den Cellisten Rubin Kodheli, den Bassisten Itaiguara Brandão und den Schlagzeuger Mauricio Zottarelli. Eine raffinierte Fusion aus **Chamber Jazz**, **Post-Bop** und brasilianischer Folk, die eine Brücke zwischen der Welt klassischer Sonaten und traditionellen Bossa-Nova-/Samba-Rhythmen schlägt. Schnappen Sie sich ein Glas guten Wein und lassen Sie sich von "Northern Readings" entführen. Dieses Album ist ein atemberaubender musikalischer Höhenflug, der einen warmen brasilianischen Sonnenuntergang mit einem erstklassigen europäischen Klassikkonzert verbindet. Pereiras Nylon-Akustikgitarre tanzt wunderschön neben den satten Klangfarben eines echten Cellos und einer Violine. Sie wechselt mühelos zwischen feurigen, vom Flamenco inspirierten Grooves in Stücken wie "Fall Of Us" und sanften, beschwingten Klavierläufen im Titeltrack. Es ist intim, zutiefst persönlich und eine Meisterklasse in elegantem Jazz-Fusion von Weltklasse.
 
-::genre::
+::genre::chamber jazz, post bop, world music, samba, bossa nova
 
 ## Centralia - Vol 2: Hereafter
 
-tbd
+Angeführt von ihrem charismatischen, kraftvollen Sänger Charlie Onyx hat sich Centralia in der australischen Heavy-Metal-Szene eine treue Fangemeinde aufgebaut. Dieses neue Album ist die direkte konzeptionelle Fortsetzung ihres Vorgängers "Vol 1: Cut The Cord". Reduzierter **Alternative Metal** / **Heavy Rock** / **Emo**, der die typische Heavy-Metal-Verzerrung gegen himmlische Melodien und mitreißende Gesangshooks eintauscht. Halten Sie eine Schachtel Taschentücher bereit, denn dieses Album geht direkt unter die Haut. Auch wenn Centralia es mit den Besten aufnehmen kann, ist "Vol 2: Hereafter" ein reduzierter, unglaublich roher Einblick in den Kampf geliebter Menschen gegen unheilbare Krankheiten. Die drei Tracks - darunter die überwältigenden Singles "Ghost" und "Done & Dusted" - wirken wie intime, erschütternde Grabreden. Sie verbinden himmlische Gitarrentiefe und hochfliegende Refrains mit einer emotionalen Verletzlichkeit, die im modernen Alternative Metal selten zu finden ist. Es ist heavy, herzzerreißend und absolut wunderschön.
 
-::genre::
+::genre::alt metal, heavy rock
 
 ## Chris Abrahams, Dave Symes - Distant Birds, Vol. 01 & 02
 
-tbd
+Ein außergewöhnliches Super-Duo. Der Keyboarder Chris Abrahams ist eine der tragenden Säulen der legendären australischen Minimal-Jazz-Experimentalband *The Necks*, während der Bassist Dave Symes als der maßgebliche Rhythmusmotor der mit mehreren Platin-Auszeichnungen geehrten Indie-Rock-Ikonen *Boy & Bear* bekannt ist. Unterstützt werden sie von Evan Mannell am Schlagzeug, Ellen Kirkwood an der Trompete und Matt Ottignon am Baritonsaxophon. Hypnotischer, langatmiger **Psychedelic Soul-Jazz** / **Afrobeat** / **Dub-Reggae**, geprägt von tiefen, repetitiven und meditativen Bassline-Grooves. Dimmt das Licht und lasst diese großartige Platte euch vollkommen umhüllen. "Distant Birds" besteht aus nur vier epischen Jams von jeweils 15 bis 18 Minuten Länge und lässt sich von Herbie Hancocks legendärer Headhunters-Ära inspirieren, um diese vollständig in eine Ambient-Meditation zu verwandeln. Wirbelnde Hammond-Orgeln und Vintage-Moog-Synthesizer schweben mühelos über einer Bassline, die so mitreißend ist, dass sie eigentlich verboten sein müsste. Das Album ist stimmungsvoll, außergewöhnlich tiefgründig und wie geschaffen für nächtliche Autofahrten oder um sich völlig in seinen Kopfhörern zu verlieren.
 
-::genre::
+::genre::psych jazz, jazz fusion, afrobeat, dub, neo soul
 
 ## Christian Dillingham - As It Relates to Now
 
-tbd
+Christian Dillingham ist ein mit dem Grammy ausgezeichneter Bassist, der sich sowohl in der Welt der klassischen Orchester als auch an der Spitze des modernen Jazz bewegt. Für diese Aufnahme reduziert er die Besetzung auf ein messerscharfes, pianoloses Trio mit Greg Ward am Altsaxophon und Jeremy Cunningham am Schlagzeug. Groove-getriebener, emotionsgeladener **Modern Jazz** / **Post-Bop**, dessen Schwerpunkt auf einem suchenden, komplexen und zutiefst menschlichen akustischen Zusammenspiel liegt. Wenn Sie wissen möchten, wie es klingt, wenn man schwerwiegende Ereignisse der realen Welt durch reine musikalische Chemie verarbeitet, ist dies Ihr Soundtrack. Entstanden aus tiefen sozialen Spannungen, versetzt Sie "As It Relates to Now" in einen engen, intimen Raum mit drei Meistern ihres Fachs. Dillinghams Kontrabass gibt dem Sturm Halt, während das Saxophon mit feuriger, suchender Energie durch Stücke wie "Delusional Grandeur" fliegt. Es ist intensiv, raffiniert und eine eindringliche Erinnerung daran, dass Instrumental-Jazz moderne Ängste genauso laut einfangen kann wie eine Punkrock-Band.
 
-::genre::
-
-## Civil Disobedience - Blue Note In The Progressive Sixties
-
-tbd
-
-::genre::
+::genre::modern jazz, post bop
 
 ## Confess - Metalmorphosis
 
-tbd
+Die Band, die sich neben Gruppen wie *Crashdïet* und *H.E.A.T.* zu einer tragenden Säule der aktuellen schwedischen Hardrock-Revival-Szene entwickelt hat, besteht aus John Elliot (Gesang), Ludwig Nordlander (Gitarre), Asser Hakala (Gitarre), Lucky (Bass) und Samuel Samael (Schlagzeug). Hochspannungs-**Sleaze-Metal** / **Melodic Hard Rock**, vollgepackt mit dröhnenden, arena-tauglichen Refrains, rasanten Gitarrensoli und der rauen Street-Attitüde der 1980er Jahre. Holen Sie Ihre Lederjacken aus dem Schrank, schnappen Sie sich das Haarspray und drehen Sie Ihre Lautsprecher auf, bis sie zu rauchen beginnen! "Metalmorphosis" ist eine absolute Abrissbirne aus 80er-Jahre-Metal-Nostalgie, die mit moderner, makelloser Produktionskraft hart zuschlägt. Frontmann John Elliot liefert eine beeindruckende Performance, unterstützt von einem Twin-Gitarren-Angriff, der sich mit vollendeter, unverfälschter Selbstsicherheit durch Tracks wie Colorvision pflügt. Es ist ungeniert laut, extrem eingängig und ganz darauf ausgelegt, aus voller Kehle mitzuschreien.
 
-::genre::
+::genre::sleaze metal, melo rock, hard rock
 
 ## Constellations - It Comes In Waves
 
-tbd
+Die musikalische Zusammenarbeit der Kindheitsfreunde Harlee Case (Gesang) und Josh Smith (Produktion/Gitarre) begann im Alter von 14 Jahren in einem Schlafzimmerstudio. Nach getrennten Lebenswegen fanden sie wieder zusammen und schafften mit ihrem bahnbrechenden Debüt-Track "Hot Blooded" den Durchbruch in der Indie-Szene. Schimmernder **Dream-Pop**/**Indie-Pop**, unterlegt mit nostalgischen Ambient-Klanglandschaften, Soul-/R&B-Gesangselementen und lebendigen elektronischen Texturen. Zieh dir bequeme Kleidung an und mach dich bereit, auf einer Wolke absoluter musikalischer Glückseligkeit davonzuschweben. "It Comes In Waves" ist ein wunderschönes Klang-Kaleidoskop, das nahtlos zwischen nächtlichen Chill-Vibes und unmittelbaren, tanzbaren Pop-Hooks hin- und herspringt. Cases rauchige, ausdrucksstarke Stimme schwebt wunderschön über Smiths glitzernden Synthesizern und luftigen Gitarrenrhythmen. Es ist ein Album, das das Gefühl perfekt einfängt, mit heruntergelassenen Fenstern eine Küstenstraße entlangzufahren und dabei schwere emotionale Themen mit einem strahlenden, sonnenverwöhnten Lächeln zu behandeln.
 
-::genre::
+::genre::indie pop, dreampop
 
 ## Crown Lands - Apocalypse
 
-tbd
+Das kraftvolle, mit dem JUNO Award ausgezeichnete Duo Cody Bowles (Gesang/Schlagzeug) und Kevin Comeau (Gitarre/Keyboard) hat sich zu einer der visionärsten Bands des modernen Progressive Rock entwickelt. Für dieses gewaltige Konzeptalbum nahmen sie die einzelnen Elemente zunächst in ihrem Heimstudio auf, bevor sie die legendären Produzenten Nick Raskulinecz und David Bottrill (beide bekannt für ihre Arbeit an ikonischen Classic-Rock-Alben) hinzuzogen, um den Mix über InsideOutMusic zu perfektionieren. Monumentaler **Progressive Rock** / **Hard Rock** / **Space Rock**, der strukturell stark von den Giganten des Genres der 1970er Jahre wie *Rush*, *Genesis* und *Pink Floyd* inspiriert ist. Entstaube deinen Samtumhang und steig ins Raumschiff, denn Crown Lands haben ein makelloses Prog-Rock-Meisterwerk abgeliefert. Das unbestrittene Herzstück ist hier der 19-minütige Titeltrack, eine epische, mehrteilige Reise, die auf einem Whiteboard entworfen wurde und nahtlos von dröhnenden, verzerrten Space-Rock-Riffs zu hochfliegenden, opernhaften Gesangshöhen wechselt. Er schafft einen Ausgleich zwischen konzeptionellem Science-Fiction-Storytelling und zutiefst realen Themen wie kultureller Wiedergeburt und Umweltschutz. Es ist laut, brillant theatralisch und ein absoluter Triumph für alle, die die goldene Ära der Vinyl-Gatefolds und kosmischen Konzeptalben vermissen.
 
-::genre::
+::genre::prog rock, space rock, hard rock
 
 ## Crown The Beast - Judgement
 
-tbd
+Die Band feiert ihr zehnjähriges Jubiläum als tödliche Kraft in der dänischen Metal-Underground-Szene und besticht durch einen intensiven Angriff dreier Gitarren, der eine immense klangliche Wucht erzeugt. Als Nachfolger ihres 2022 erschienenen Albums haben sie dieses neue Projekt selbst aufgenommen und sich mit Horde Echo Sound Production zusammengetan - eine Zusammenarbeit, die während einer Tournee durch die Ukraine entstand -, um über Crown The Beast’s Bandcamp einen gewaltigen, weltuntergangsartigen Mix zu veröffentlichen. Zermalmender, groove-getriebener **Modern Death Metal**, stark durchdrungen von der Brutalität des europäischen Old-School-Death-Metal, massiven Breakdowns und apokalyptischen Riffs. Stellt sicher, dass eure Krankenversicherung bezahlt ist, bevor ihr auf Play drückt. "Judgement" ist ein 3-Track-Album, das wie ein Vorschlaghammer wirkt und als hasserfüllter letzter Blick auf die Menschheit vor dem Ende der Tage konzipiert ist. Die Produktion schlägt ein wie eine regelrechte Betonwand, dank dieser drei Gitarren, die in perfekter, synchronisierter Feindseligkeit vor sich hin stampfen. Sie tauscht auffällige, übertechnische Show gegen rohe Grooves im Höhlenmenschen-Stil, die dich dazu bringen, deine Möbel aus dem Fenster zu werfen.
 
-::genre::
+::genre::modern metalcore
 
 ## culfre - Other People’s Pictures
 
-tbd
+Als äußerst kreative Stimme im Bereich der experimentellen DIY-Elektronik konzentriert sich culfre auf die Kombination von analoger Synthesizer-Hardware mit digitaler Glitch-Bearbeitung. Das Projekt wurde von Trendsettern wie dem Our Culture Magazine für seinen avantgardistischen Ansatz beim melodischen Storytelling stillschweigend gelobt. **Leftfield Electronica** / **Ambient Pop** / **IDM**, aufgebaut auf warmen Synth-Texturen, Bandrauschen, fragmentierten Beats und traumhaften Gesangsbearbeitungen. Setz deine guten Kopfhörer auf und lass deine Gedanken schweifen. "Other People’s Pictures" fühlt sich an, als würde man nach Feierabend durch ein Museum voller fremder Erinnerungen schlendern. Die Tracks verschmelzen zu einem verschwommenen, nostalgischen Brei und wechseln nahtlos von staubigen, langsam fließenden Lo-Fi-Beats aus dem Schlafzimmer zu funkelnden elektronischen Klanglandschaften. Es ist wunderschön, herrlich beruhigend und genau die Art von atmosphärischem Late-Night-Soundtrack, die man braucht, wenn man sein Gehirn vom Internet abschalten möchte.
 
-::genre::
+::genre::bedroom pop, leftfield electronica, idm
 
 ## Daisy Grenade - So Much to Say
 
-tbd
+Das energiegeladene Alt-Pop-Duo besteht aus Dani Nigro und Keaton Whittaker. Nachdem sie mit ihrer 2023 erschienenen EP "Cult Classic" die Underground-Szene im Sturm erobert und als Vorband für Größen wie *Pierce the Veil* gespielt hatten, taten sie sich mit dem Grammy-Gewinner Jake Sinclair (Fall Out Boy, Panic! At The Disco) zusammen, um ihren Sound weiter zu verfeinern. Hochoktaniger **Pop-Punk** / **Bubblegrunge** / **Alternative Rock**, geprägt von massiven, eingängigen Gesangsharmonien, messerscharfem Sarkasmus und explosiver Gitarrenenergie. Schnürt eure Converse fest, denn Daisy Grenade ist da, um das Patriarchat mit einer Prise Neon-Glitzer zu zerschmettern! "So Much to Say" ist eine wilde, urkomisch kleinliche und brillant geschriebene Pop-Punk-Meisterleistung. Die EP wurde direkt auf Band in einer umgebauten Kirche in New York City aufgenommen und verzichtet auf übertrieben höflichen Radio-Glanz zugunsten eines rauen, Keller-Show-Punchs. Tracks wie die Single "Girls Are So Lucky" servieren eine bissige, urkomische Satire darüber, wie es wirklich ist, als Frau in einem Minivan auf Tour zu sein und sich gleichzeitig mit der Frauenfeindlichkeit der Musikindustrie auseinanderzusetzen - komplett mit einem zufälligen Dubstep-Breakdown aus dem Jahr 2012, einfach nur, weil sie es können. Es ist eingängig, kompromisslos und wie geschaffen dafür, im Auto laut mitzusingen.
 
-::genre::
-
-## David Ambrosio - Civil Disobedience
-
-tbd
-
-::genre::
+::genre::pop punk, power pop, alt rock
 
 ## David Bird - Hinterlands
 
-tbd
+David Bird ist ein äußerst versierter moderner Komponist und Multimedia-Künstler. Nach seinen gefeierten früheren Werken "Iron Orchid" und "Wire Hums" ist "Hinterlands" sein erstes echtes Porträtalbum. Die Platte enthält vier komplexe Kompositionen, die von herausragenden zeitgenössischen Ensembles zum Leben erweckt werden: lovemusic, das Grossman Ensemble, das Mivos Quartett sowie das Duo Ben Roidl-Ward und Isidora Nojkovic. **Avantgarde** / **Zeitgenössische Chamber Music** / **Leftfield-Elektronik**, die mikrotonale Texturen, akustische Instrumente und mechanische Geräusche als klangliche Metallurgie behandelt. Setzen Sie Ihre besten Studio-Kopfhörer auf und machen Sie sich bereit, Ihr Gehirn neu zu verdrahten. "Hinterlands" ist eine brillante, unheimliche Erkundung unseres technologischen Zeitalters. Es verbindet die dramatische Spannung einer klassischen Science-Fiction-Thriller-Filmmusik mit dichten, klirrenden Texturen, die klingen wie eine Fabrik, die langsam zum Leben erwacht, oder ein Raumschiff, das im Weltraum eine Fehlfunktion hat. Es ist düster, metallisch, zutiefst atmosphärisch und der absolut perfekte Hörgenuss für die späten Abendstunden für alle, die der Meinung sind, dass klassische Musik ein bisschen dystopischer klingen sollte.
 
-::genre::
-
-## David Kirkland Garner, Stephen Jaffe, Eric Moe, Melinda Wagner - A Forest Unfolding
-
-tbd
-
-::genre::
+::genre::modern classic, avant classic, chamber music, leftfield electronica
 
 ## Dead Pony - Eat My Dust!
 
-tbd
+Unter der Leitung der dynamischen Sängerin Anna Shields und des Gitarristen Blair Crichton hat sich Dead Pony schnell zu einer der gefeiertsten jungen Alternative-Bands Schottlands entwickelt. Nach dem Erfolg ihres Debütalbums "IGNORE YOUTH" bei den Kritikern haben sie einen Sound verfeinert, der die raue Energie des Punk mit einer eleganten, modernen Alternative-Produktion verbindet. Hochoktaniger **Alternative Rock** / **Post-Punk** / Riot-Grrrl-**Grunge**, geprägt von summendem Gitarrenfuzz, scharfen melodischen Hooks und einer trotzigen, elektronisch angehauchten Alternative-Attitüde. Dead Pony behandelt Musik wie eine rasante Verfolgungsjagd, bei der Bremsen völlig optional sind. "Eat My Dust!" ist eine Sammlung feuriger Rockhymnen, die vor filmischer Selbstsicherheit nur so strotzen. Der Titeltrack besticht durch mitreißende, spöttische Vocals und schwere, summende Gitarrenriffs, die klingen, als wären sie über eine unbefestigte Piste geschleift worden. Neben extrem eingängigen Tracks wie "Boom!" ist es ein theatralischer, energiegeladener Ausbruch von Post-Punk-Trotzigkeit, der eine wunderschöne Rauchspur hinterlässt. Es ist die perfekte Musik für die Autofahrt, wenn man zu etwas Wichtigem zu spät kommt.
 
-::genre::
+::genre::post punk, post grunge, alt rock
 
 ## DeadWax - Nu-K
 
-tbd
+Angeführt vom charismatischen Sänger Jake Milburn hat sich dieses energiegeladene Quartett über Jahre hinweg auf den britischen Tourneebühnen einen Namen gemacht. Mit ihrer Mischung aus klassischen Nu-Metal-Synkopen und einem unverwechselbaren nordenglischen Flair sind sie aus der Underground-Szene des Alternative Rock und der Drum’n’Bass-Crossover-Bewegung nicht mehr wegzudenken. Aggressiver, treibender **Nu-Metal** / **UK-Rap-Rock**, der vernichtende Hardcore-Gitarrenriffs, unterirdische Bass-Drops und rasante, spuckende Grime- und Hip-Hop-Rhythmen miteinander verbindet. Schnapp dir deinen Trainingsanzug und dehne deine Nackenmuskeln, denn DeadWax ist da, um dein Wohnzimmer in einen schweißtreibenden Moshpit zu verwandeln. "Nu-K" fühlt sich weniger wie eine traditionelle EP an, sondern eher wie eine Spritze mit purem Adrenalin. Stolz kombiniert es massive, knackige Gitarren-Grooves mit einem dicken, rauen nordischen Akzent, der rasante Bars liefert. Tracks wie "Bang On" und "Shook" bewegen sich in einem halsbrecherischen Drum’n’Bass-Tempo, das es unmöglich macht, still zu stehen. Es ist wild, macht unglaublich viel Spaß und ist maßgeschneidert für alle, die finden, dass Rockmusik mehr Bass-Drops braucht.
 
-::genre::
+::genre::nu metal, alt metal, modern metalcore
 
 ## Defect Designer - Depressants
 
@@ -916,6 +856,12 @@ Bekannt für ihren hochintellektuellen, sarkastischen und unabtrennbar mit dem I
 
 ::genre::art rock, art punk, new wave, post punk, synth pop
 
+## The All-American Rejects - Sandbox
+
+Eine der absoluten Säulen des Pop-Punk-Booms der 2000er Jahre (bekannt für Megahits wie "Gives You Hell" und "Dirty Little Secret"). Frontmann Tyson Ritter und Leadgitarrist Nick Wheeler haben nach einem Jahrzehnt der Stille wieder zueinandergefunden, um ihr erstes Album seit 14 Jahren in Eigenregie zu produzieren. **Pop-Rock** / **Alternative Rock**, der ihre charakteristischen, hymnischen Hooks der 2000er Jahre mit einem schärferen, kreativ ungefilterten Indie-Pop-Touch verbindet. Schnapp dir deinen alten Eyeliner und entstaube deine Jugend, denn die Rejects sind aus einem 14-jährigen Dornröschenschlaf erwacht, um zu beweisen, dass sie nicht nur eine Zeitkapsel sind! "Sandbox" ist ein bemerkenswert selbstbewusstes Comeback, das sich mit dem absoluten Chaos des Erwachsenwerdens, des Älterwerdens und der Konfrontation mit der modernen Welt auseinandersetzt. Es tauscht billige Nostalgie-Loops gegen cleveres, ausgereiftes Songwriting ein, behält dabei aber jene gewaltigen, sonnendurchfluteten Melodien bei, die dich dazu bringen, im Auto mitzusingen. Es ist emotional, eingängig und der absolute Beweis dafür, dass das Erwachsenenleben genauso rocken kann wie deine Teenagerjahre.
+
+::genre::emocore, power pop, alt rock
+
 ## The Field - Now You Exist
 
 Dies ist das Soloprojekt des renommierten schwedischen Produzenten Axel Willner. Er ist dafür bekannt, eine äußerst einflussreiche Sprache der Wiederholung in der elektronischen Musik etabliert zu haben, und diese Platte ist sein erstes Solomaterial seit acht Jahren. **Ambient Techno** und **Microhouse**. Aufgebaut auf einem hypnotischen Gerüst aus rhythmischen Wiederholungen, nahtlosen Loops und allmählichen, mikrotonalen Verschiebungen in der Klangarchitektur. "Now You Exist" ist das musikalische Äquivalent dazu, in ein wunderschönes Kaleidoskop zu blicken, während man in einem langsam fahrenden Zug sitzt. Axel Willner hüllt dein Gehirn in eine unendliche, unausweichliche sensorische Schleife - aber auf die wohlbehaglichste Art und Weise, die man sich vorstellen kann. Tracks wie "In Our Dreams" bewegen sich mit einer subtilen, zurückhaltenden Euphorie, während "Another Day" mit einem sanften, geisterhaften Vocal-Chop einsetzt, um dich zu verankern. Es schreit nicht nach deiner Aufmerksamkeit; es zieht dich einfach still in eine meditative Tanzmatrix hinein und weigert sich, dich wieder loszulassen.
@@ -1021,6 +967,12 @@ Hinter dem Künstlernamen verbirgt sich *Niall Gahagan*, ein Multi-Instrumentali
 *Ara* ist ein spezialisiertes, zurückgezogenes Black-Metal-Soloprojekt, das vollständig von einem unabhängigen österreichischen Multi-Instrumentalisten ins Leben gerufen wurde. Es ist tief in der mitteleuropäischen Underground-Szene für Kassetten und Vinyl verwurzelt. **Atmosphärischer Black Metal**, **Pagan Metal** und roher Natur-**Black Metal**. Das Projekt tauscht rasante urbane Aggression gegen kalte, weite und mystische Naturklanglandschaften ein und schöpft dabei stark aus klassischer Folklore, der Abgeschiedenheit der Wälder und europäischen Bergmythen. Zieh deinen dicksten Wintermantel an, denn „Hohe Tannen“ versetzt dich um Mitternacht auf einen eisigen, schneebedeckten österreichischen Berggipfel. Diese Platte ist pure, unverfälschte Atmosphäre. Ara verzichtet auf moderne Produktionstricks und setzt stattdessen auf massive, hallende Wände aus Gitarrenfuzz, die den Klang heulender Bergwinde imitieren, die durch immergrüne Wälder fegen. Tracks wie „Weit voraus“ balancieren düstere, zitternde Gesangsschreie mit atemberaubend schönen, mitreißenden Melodien aus, die die Isolation der alpinen Wildnis spürbar machen. Es ist laut, zutiefst spirituell und fängt die majestätische, leicht furchteinflößende Weite von Mutter Natur perfekt ein.
 
 ::genre::atmo black metal, post black metal, avant black metal
+
+## Born Through Death - Lonely Season
+
+Die Band hat sich als kraftvolle, überaus produktive Stimme in der Independent-Szene der modernen Heavy-Musik etabliert und sich durch die Veröffentlichung einer Reihe emotional unverfälschter, konzeptioneller Tracks rasch eine treue Underground-Anhängerschaft aufgebaut. Stimmungsvoller, knallharter **Modern Metalcore** / **Post-Hardcore**, der vernichtende metallische Breakdowns mit düsteren, atmosphärisch dichten Refrains in klarer Gesangstechnik in Einklang bringt. Stellt sicher, dass ihr Nacken bereit ist und ihr ein paar Taschentücher griffbereit habt, denn dieses Album besteht ausschließlich aus schweren Riffs und schweren Gefühlen. "Lonely Season" wirkt wie eine wunderschön düstere auditive Therapiesitzung. Es verbindet die rohe, viszerale Aggression von rasenden Drums und magenumdrehenden Schreien mit schwebenden, melancholischen Melodien, die wie Rauch über dich hinwegziehen. Neben herausragenden Tracks wie "Flowers At Your Grave" bietet es den ultimativen adrenalingeladenen Soundtrack für eine nächtliche Fahrt auf einer leeren Autobahn oder einfach nur, um in deinem Schlafzimmer Dampf abzulassen.
+
+::genre::modern metalcore, modern post hardcore
 
 ## Immanu El - Woven Light *
 
