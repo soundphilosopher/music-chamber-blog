@@ -240,123 +240,111 @@ tbd
 
 ## Defect Designer - Depressants
 
-tbd
+Seit über 20 Jahren in der extremen Underground-Szene aktiv, hat dieses Projekt immer wieder die Grenzen des Metal-Genres aufgebrochen. Gemeinsam mit dem legendären Künstler Ian Miller schufen sie das chaotische, farbenfrohe Cover des Albums, das perfekt zu ihrer bizarren musikalischen Identität passt. Wild exzentrischer **Progressive Death Metal** / **Experimental Metal**, der absurde parallele Einflüsse von *Frank Zappa*, *Mr. Bungle*, *Primus* und *Voivod* aufgreift. Obwohl sie sich Depressants nennen, ist dieses Album alles andere als deprimierend - es ist eine augenzwinkernde, unvorhersehbare Achterbahnfahrt! *Defect Designer* verhalten sich wie verrückte Wissenschaftler, die Death Metal in einen Topf geworfen und ihn mit Avantgarde-Jazz und Punk-Attitüde gewürzt haben. Songs wie "Butterfly Juice Straws" halten einen ständig auf Trab, indem sie einem völlig zusammenhangslose Stile direkt ins Gesicht schleudern, wenn man es am wenigsten erwartet. Es ist chaotisch, komplex und urkomisch schräg, was es zu einem Muss für Fans macht, die finden, dass moderner Death Metal zu vorhersehbar geworden ist.
 
-::genre::
+::genre::prog death metal, experimental metal
 
 ## Desiccation - Legatum Mortuorum
 
-tbd
+Das beeindruckende Trio knüpfte direkt an die Erfolge ihres Debütalbums "Cold Dead Earth" aus dem Jahr 2022 an. Für dieses Album nahmen sie das Material in Kalifornien auf, komponierten und arrangierten es dort und sorgten dafür, dass alle drei Bandmitglieder mit ihren unverwechselbaren Gesangsstilen zum Songwriting beitrugen. Wuchtiger **Blackened Doom Metal** / **Sludge** **Death-Doom**, der eiszeitlich langsame Riffs, rasante Drums und atmosphärische Synth-Einlagen miteinander verbindet. Akustische Erstickung ist wahrscheinlich die beste Beschreibung für diesen wunderschönen Albtraum von einem Album. "Legatum Mortuorum" behandelt Musik als eine intensive emotionale Last und verwebt tiefe Trauer und Hoffnungslosigkeit mit plötzlichen Ausbrüchen von rasendem Black-Metal-Tempo. Das Album gipfelt in dem monströsen, 11-minütigen Abschluss-Epos "Lamentations Beyond the Veil", das es irgendwie schafft, wie primitiver Death Metal zu klingen, der sich in eine engelhafte Synth-Beerdigung verwandelt. Es ist ein düsteres, isoliertes und unglaublich dichtes Kunstwerk, das perfekt ist, wenn man mit der physischen Welt endgültig fertig ist.
 
-::genre::
+::genre::death metal, blackened doom metal, sludge metal
 
 ## Desolus - Dwellers Of The Twilight Void
 
-tbd
+Nach ihrem hochgelobten Debütalbum "System Shock" aus dem Jahr 2024 hat sich die Band zu einer kraftvollen vierköpfigen Besetzung entwickelt. Sie nahmen dieses zweite Album bewusst so auf, dass es die dreckige, von Bandrauschen geprägte Ästhetik des Underground-Extreme-Metal der frühen 90er Jahre einfängt. **Blackened Thrash Metal** / Old-School **Speed Metal**, geprägt von einer rohen, dungeonartigen Klarheit, rasanten Doppelgitarren-Riffs und rasend schnellen, spuckenden Vocals. Wenn deine alte Jeans-Kampfweste und dein Patronengürtel auf magische Weise zum Leben erweckt würden, würde es genau so klingen wie diese Platte! "Dwellers Of The Twilight Void" beginnt mit einem Lo-Fi-Intro im Stil eines VHS-Horrorfilms, bevor es dich augenblicklich kopfüber in einen Mixer aus Riffs der frühen *Sepultura*, *Slayer* und *Bathory* wirft. Es sind 36 Minuten purer, unverfälschter Metal-Thrash-Wahnsinn, der sich mit halsbrecherischer Geschwindigkeit entfaltet. Es wird keinen Weltfrieden herbeiführen, aber es ist ein absolutes Meisterwerk für jeden, der hochoktanige Gitarrensoli und Speed-Metal-Chaos liebt!
 
-::genre::
+::genre::speed metal, blackened thrash metal
 
 ## Discovery Zone - Library Copy Do Not Remove
 
-tbd
+*Discovery Zone* ist das beeindruckende Multimedia-Soloprojekt des in Berlin lebenden Musikers JJ Weihl. Dieses Album dient als offizielles klangliches Dokument eines umfangreichen, immersiven Multimedia-Programms, das Weihl ursprünglich für die riesige, historische Kuppel des Zeiss-Groß-Planetariums in Berlin komponiert und dort live aufgeführt hat. **Cosmic Ambient** / **Dream-Pop** / **New-Age**-Electronica mit spröden Vintage-Digitalsynthesizern, märchenhaften Gesangsharmonien und warmen elektronischen 4/4-Beats. Schnall dich an, denn du bist dabei, direkt aus der Erdatmosphäre zu schießen. "Library Copy Do Not Remove" lädt dich in eine konzeptionelle, holografische kreisförmige Bibliothek ein, die alles enthält, was jemals im Universum war oder sein wird. Meisterhaft verwebt es schimmernde Synth-Klanglandschaften mit natürlichen Umgebungsaufnahmen in Tracks wie "Habitat", bevor es in "Arp Angels" zu einem kosmischen, tanzbaren Berlin-Style-Stomp eskaliert. Es ist eine wunderschöne, glänzende und jenseitige digitale Mythologie, die sich anfühlt, als würde man durch einen unendlichen Spiegel am Rande des Weltraums treiben.
 
-::genre::
+::genre::ambient, dreampop, new age
 
 ## Dispraised - Dispraised
 
-tbd
+Das 2017 gegründete Power-Trio - bestehend aus Tom Dispraised (Gesang), Don Dispraised (Gitarre/Bass) und Eliseo Dispraised (Schlagzeug) - hat sich fast zehn Jahre lang in der Independent-Heavy-Szene einen Namen gemacht. Bekannt für ihre pointierten gesellschaftskritischen Texte und ihre mitreißenden Live-Auftritte, veröffentlichen sie ihre Musik über das renommierte Underground-Label Thumper Punk Records. Aggressiver christlicher **Hardcore-Punk** und Street-Level-Punkrock. Wenn du acht Minuten Zeit hast und mal richtig Dampf ablassen musst, leg dieses Album sofort auf! "Dispraised" ist ein absolut unerbittlicher, blitzschneller Ansturm klassischer Street-Punk-Energie, der jeglichen Komfort ablehnt und den modernen gesellschaftspolitischen Verfall frontal angeht. Es tauscht überpolierte Studiotricks gegen rohes, primitives Schlagzeugspiel, drängende Schreie und kreischende Gitarren ein. Es ist kurz, unglaublich wütend, zutiefst gläubig und hinterlässt eine wunderschöne Spur akustischer Verwüstung.
 
-::genre::
+::genre::hardcore punk
 
 ## DJ Saliva - URTIGA
 
-tbd
+Unter dem Künstlernamen DJ Saliva ist Mauro Ventura eine feste Größe in der europäischen Left-Field-Elektro-Underground-Szene. Bekannt dafür, dass er scharfe Techno-Dynamik mit organischen, unheimlichen Atmosphären verschmilzt, hat er sich in den Underground-Club-Netzwerken eine fesselnde klangliche Identität aufgebaut. Dunkler **Dance/Electronic**, mutierter **Techno** und experimentelle Clubmusik, die sich industrieller Echos und aquatischer **Breakbeats** bedient. Zieh deine robustesten Kampfstiefel an und mach dich bereit für eine Rave-Party in einem verlassenen Lagerhaus. "URTIGA" schert sich nicht um sanften Radio-Pop; stattdessen ist es eine 6-Track-Überflutung der Sinne. Tracks wie "THE HATCH" verweben schwere, rhythmische Industrial-Beats mit hallenden, gespenstischen Melodien, die sich anfühlen wie ein Neon-Lasertag-Spiel in absoluter Dunkelheit. Es ist hypnotisch, rau und maßgeschneidert für alle, die ihre elektronische Tanzmusik schnell, bedrohlich und zutiefst viszeral mögen.
 
-::genre::
+::genre::techno, breakbeat, dance, edm, ebm
 
-## Doppler - Pourquoi Ce Disque?
+## Drake - MAID OF HONOUR
 
-tbd
+Das große Finale der unerwarteten Dreifach-Album-Trilogie. Während "ICEMAN" für die Straßen und "HABIBTI" für die Clubs gemacht war, beschließt "MAID OF HONOUR" die Nacht mit einem Blick nach innen - Drake arbeitet erneut mit seinem langjährigen Produktionsgenie Noah "40" Shebib zusammen, um jenen klassischen, emotionalen OVO-Sound zu liefern, der seine frühe Karriere geprägt hat. Nostalgischer, sample-lastiger **Moody R&B** / **Soulquarian Hip-Hop** / **introspektiver Rap**, unterlegt mit warmem Vinyl-Knistern, pitch-verschobenen Vocal-Samples und Downtempo-Rhythmen. Das ist genau das Album, das man um 3:00 Uhr morgens hört, wenn man ausdruckslos auf sein Handy starrt und sich fragt, ob man seinem Ex eine SMS schreiben soll. "MAID OF HONOUR" ist eine Meisterklasse in introspektivem, emotionalem Luxus-Rap. Unterstützt von wunderschönen, hochgestimmten Soul-Samples und vernebelten, unterwasserartig klingenden Basslines liefert Drake lange, ununterbrochene Verse, in denen er Ruhm, den Preis des Erfolgs und gebrochenes Vertrauen seziert. Es ist langsam gereift, zutiefst persönlich und eine kraftvolle Erinnerung daran, dass niemand eine klangliche Mitleidsorgie so wunderschön inszeniert wie Drake.
 
-::genre::
+::genre::alt r&b, mellow r&b, neo soul, hip hop
 
-## Drake - Iceman
+## Drake - HABIBTI
 
-tbd
+Als zweiter Teil von Drakes historischem, unangekündigtem Dreifachalbum mit 43 Titeln, das am 15. Mai 2026 erschien, entfernt sich "HABIBTI" gänzlich von den eiskalten Rap-Battles von "ICEMAN". Stattdessen taucht Drake wieder voll und ganz in die atmosphärischen, international inspirierten Club-Sounds ein, die Projekte wie "More Life" und "Honestly, Nevermind" zu riesigen Streaming-Hits gemacht haben. Sanfter, verführerischer **Afrorave** / **Dancehall** / **Melodic R&B** / **Global Pop** mit Fokus auf Midtempo-Dance-Grooves und romantischer, nächtlicher Lyrik. Zieh dein bestes Seidenhemd an und schenk dir einen Drink ein, denn Drake ist offiziell in Stimmung und bereit zum Tanzen. HABIBTI ist der ultimative Soundtrack für warmes Wetter, maßgeschneidert für Sommer-Blockpartys oder Fahrten die Küste entlang mit offenem Verdeck. Es tauscht schwere Trap-Drums gegen luftige Global-Pop-Strukturen ein und wechselt mühelos zwischen berauschenden Dancehall-Rhythmen und sanften Afrobeat-Loops. Es zeigt Drake von seiner charismatischsten Seite, wie er sanft von internationalen Romanzen und Jetset-Urlauben croont.
 
-::genre::
+::genre::afrorave, dancehall, melo r&b
+
+## Drake - ICEMAN
+
+Das mit Spannung erwartete neunte Solo-Studioalbum von The 6 God ist sein erstes Solo-Projekt seit "For All the Dogs" aus dem Jahr 2023. Das Album erscheint nach einer turbulenten Phase und einer viel beachteten Rap-Fehde, was Drake dazu veranlasste, eine epische, fesselnde 297-tägige Veröffentlichungskampagne zu starten, die mehrteilige Kurzfilme sowie eine riesige Eispyramiden-Installation in Toronto umfasste, um das Veröffentlichungsdatum zu verbergen. Kalter, kalkulierter **Hip-Hop** / **Luxury Rap** / **Dark R&B**, der scharfe lyrische Zeilen mit melodischer, introspektiver Produktion in Einklang bringt. Schnapp dir deinen dicksten Wintermantel, denn Drake hat die Temperatur offiziell auf null Grad heruntergedreht. "ICEMAN" ist eine emotional distanzierte, eiskalte Siegesrunde, in der Drake sich mit der Politik der Branche, Verrat und dem Leben an der Spitze der Nahrungskette auseinandersetzt. Tracks wie die Single "What Did I Miss?" und "Which One" (featuring Central Cee) tauschen radiotaugliche Pop-Traps gegen düstere, luxuriöse Rap-Beats und messerscharfe Lyrik ein. Es zeigt eine ruhige, laserfokussierte Version von Drake, der mit rein taktischer Absicht agiert und keinen Zweifel daran lässt, wer immer noch das Hip-Hop-Königreich beherrscht.
+
+::genre::alt hip hop, alt r&b, trap
 
 ## Dream Drop - blackcastle
 
-tbd
+Bekannt für ihren theatralischen ultramodernen Alternative Ansatz, hat sich die Band durch ihre fortlaufende blackcastle Erzählsaga eine treue Fangemeinde aufgebaut und im vergangenen Jahr episodische EPs veröffentlicht, darunter "blackcastle: pt.1" im Jahr 2025 und "pt.2" Anfang 2026. Dynamischer **Alternative Rock** / **Post-Hardcore** / **Emo-Metalcore**, der aggressive Screams, Electronica und massive moderne Pop-Hooks miteinander verschmilzt. "blackcastle" ist eine glorreiche, hochspannende emotionale Achterbahnfahrt, die sich weigert, auf einer Spur zu bleiben. Die Band wechselt meisterhaft die Gänge, von herzzerreißenden, kehligen Metalcore-Schreien bis hin zu neongetränkten elektronischen Synth-Breakdowns, die einen durch den Raum hüpfen lassen. Es klingt wie eine wunderschön chaotische Mischung aus der Emo-Kultur der frühen 2000er, die frontal in einen futuristischen Rave prallt. Es ist dramatisch, laut, unapologetisch eingängig und maßgeschneidert für alle, die gleichzeitig weinen und moshen wollen.
 
-::genre::
+::genre::post hardcore, alt rock, emocore, modern metalcore
 
 ## Dromos - Failing Light
 
-tbd
+Die Band ist ein auf Heavy Metal spezialisiertes Kollektiv, bestehend aus Sami (Gesang), Patrick (Gitarre), Amadeus (Gitarre) und Matt (Bass). Entstanden in einem fünfjährigen, zermürbenden Schreibprozess zwischen 2020 und 2025, tat sich die Band mit dem renommierten Underground-Mix-Ingenieur Greg Chandler (Priory Studios) zusammen, um ein Album zu schaffen, das auf totale, körperliche Immersion ausgelegt ist. Vernichtender, monolithischer **Funeral Doom Metal** kombiniert mit weitläufigen, atmosphärischen und progressiven Elementen. Hoffentlich hast du für heute nichts anderes vor, denn "Failing Light" wird dich in seinen Bann ziehen und dich komplett verschlingen. Dieses Album kennt keine Geschwindigkeitsbegrenzungen; stattdessen schreitet es in einem tektonischen, prähistorischen Tempo voran, bei dem sich jeder Schlag der Trommel wie ein herabstürzender Meteor anfühlt. Zwischen den tiefen, höhlenartigen Growls und den massiven Wänden aus übereinandergeschichteten Gitarren entsteht eine wunderschön düstere, zeremonielle Schwere. Es ist der ultimative Soundtrack, um durch eine neblige antike Ruine zu wandern oder einfach nur über die absolute Weite des Universums nachzudenken.
 
-::genre::
+::genre::funeral doom
 
 ## Drosera - Outlier
 
-tbd
+Aufgenommen, abgemischt und gemastert vom erfahrenen Underground-Toningenieur John Howard, hat sich Drosera schnell einen Ruf als Lieferant von ungezügelter musikalischer Gewalt erarbeitet, die ganz auf Fans von Genre-Ikonen wie *Converge*, *Botch* und *End* zugeschnitten ist. Chaotischer, messerscharfer **Mathcore** / **Metallic Hardcore**, der sich auf zerklüftete Rhythmen, rasante Tempi und überwältigende Dissonanzen stützt. Benannt nach einer Gattung fleischfressender Sonnentau-Pflanzen, tut Droseras Musik genau das, was ihr Name andeutet: Sie fängt dich in einem klebrigen Netz ein und löst dich vollständig auf. "Outlier" ist ein schwindelerregender, fünf Tonnen schwerer Block aus purem akustischem Adrenalin. Hier gibt es keine freundlichen Refrains zum Mitsingen; nur wild unvorhersehbare Gitarrenstiche, rasende Drum-Fills und kehlenschneidende Schreie, die dir das Gefühl geben, durch ein brennendes Labyrinth gejagt zu werden. Wenn du deine Heavy-Musik gefährlich und brillant chaotisch magst, schnall dich an.
 
-::genre::
+::genre::mathcore, metallic hardcore
 
 ## Dua Saleh - Of Earth & Wires
 
-tbd
+*Dua Saleh* ist ein von der Kritik gefeierter Dichter, Musiker und Schauspieler, der vor allem durch seine Rolle als Cal Bowman in der Netflix-Serie "Sex Education" bekannt wurde. Ihr zweites Album besticht durch brillante Kollaborationen mit dem Indie-Star Justin Vernon (Bon Iver), aja monet und Gaidaa. Eine wandlungsreiche Mischung aus **Electronic Pop**, **Alternative R&B** und **Spoken Word**, akzentuiert durch sudanesische Folk-, UK-Dance- und Reggaeton-Rhythmen. "Of Earth & Wires" ist ein schillernder, futuristischer Science-Fiction-Mythos, erzählt durch eine unwiderstehliche Pop-Linse. Saleh nutzt das Album, um sich eine postapokalyptische Zukunft vorzustellen, in der die moderne Gesellschaft zusammenbricht und der Planet seine Macht mit aller Kraft zurückerobert. Statt Verzweiflung erhält man einen wunderschönen, rhythmischen Entwurf für das Überleben. Die Tracks bewegen sich mühelos zwischen raffinierten UK-Club-Beats und tief gefühlvollen Folk-Melodien, zusammengehalten von Salehs unglaublich vielseitiger, messerscharfer Stimme. Es ist intelligent, tanzbar und absolut magnetisch.
 
-::genre::
+::genre::alt r&b, electropop, spoken words, world music
 
 ## Eluvium - Virga III
 
-tbd
+*Eluvium* ist das langjährige Ambient-Projekt von Matthew Robert Cooper. Für diesen dritten Teil seiner gefeierten Virga-Reihe beschreibt Cooper den Aufnahmeprozess als ein einzigartiges, geduldiges Duett mit seinem früheren Ich, bei dem er ältere Aufnahmen und Systeme bearbeitet, um neue, unbekannte Empfindungen einzufangen. Immersiver **Ambient** / **Post-Rock** / **Leftfield Electronica** mit minimalistischen, schwebenden Klaviermelodien, langsam fließenden Klangwellen und tiefem, sprödem Hall. Machen Sie sich Zeit und bereiten Sie sich darauf vor, mit dem Boden zu verschmelzen. "Virga III" ist die ultimative akustische Dekompressionskammer. Während frühere Alben der Serie mit schweren, bedrohlichen Schatten spielten, bietet dieses ein wunderschönes, fast göttliches Gefühl der Erleichterung. Es gibt nur dich, ein Klavier und gewaltige Wellen gespenstischer Klänge, die sich anfühlen, als würdest du einen Sonnenuntergang in Zeitlupe in einer ausgehöhlten Wolke beobachten. Es ist unglaublich schön, ein wenig melancholisch und ganz darauf ausgelegt, dein überaktives Gehirn abzuschalten.
 
-::genre::
+::genre::post rock, ambient, leftfield electronica
 
 ## Empire Of None - Keepsake
 
-tbd
+*Empire Of None* wurde 2018 gegründet und hat sich über Jahre hinweg eine treue regionale Fangemeinde aufgebaut. Die Band ist dafür bekannt, die emotionalen, sehr persönlichen Texte des amerikanischen Emo der frühen 2000er Jahre mit den klaren, makellosen Songwriting-Strukturen des modernen skandinavischen Alternative Rock zu verbinden. **Alternative Rock** / **Emo-Punk** / **Pop-Rock**, angetrieben von massiven Pop-Hooks, klarem, hochfliegendem Gesang und elektronischen rhythmischen Untertönen. "Keepsake" ist eine gigantische, glitzernde Explosion von Gefühlen, die sich einfach nicht aus dem Kopf vertreiben lässt. Sie nehmen all diese klassische Indie-Scream-Angst der Teenager und verpacken sie in ein gewaltiges, ausgefeiltes Radio-Rock-Paket. Tracks wie "Lost Kids" haben Refrains, die so eingängig und gewaltig sind, dass man sich dabei ertappt, im Auto mitzusingen, noch bevor man überhaupt richtig bemerkt hat, dass der Song schon vorbei ist. Es ist theatralisch, wunderschön dramatisch und maßgeschneidert für alle, die energiegeladene Hymnen lieben, die dazu gedacht sind, auf der Tanzfläche zu weinen.
 
-::genre::
-
-## ETA IVtet - Happy Today
-
-tbd
-
-::genre::
-
-## Exhumed + Iron Reagan - Split
-
-tbd
-
-::genre::
+::genre::alt rock, power pop, emocore, pop rock
 
 ## Faded Remembrance - The Blessing Of A Downfall
 
-tbd
+*Faded Remembrance* wurde 2020 von Mastermind Tamás Géza Albert gegründet und ist ein Underground-Projekt, das sich der Nachbildung der düsteren, künstlerischen Atmosphäre des europäischen Gothic-Doom der 90er Jahre verschrieben hat. Die Band stützt sich stark auf philosophische Poesie über Glauben, menschliches Leid und die Erhabenheit der Natur. **Melodic Gothic** / **Atmospheric Doom** / **Death Metal**, der vernichtende Metal-Tempos, melancholische Synth-Pads, klare Gitarren und eine überraschend düstere Einlage von Blechbläsern miteinander verbindet. Zieh dir einen langen schwarzen Trenchcoat an und such dir einen regnerischen Friedhof, auf den du hinausblicken kannst. "The Blessing Of A Downfall" ist eine wunderschön traurige Reise durch die Tiefen menschlichen Elends - aber mit einer Wendung! Neben den quälend schweren Riffs und den kehligen, tiefen Death-Metal-Growls webt die Band eine echte Posaune, eine Trompete und Vintage-Synthesizer aus den 90ern ein. Das Ergebnis klingt wie eine klassische Gothic-Funeral-Band, die eine majestätische Jazz-Totenwache spielt. Es ist majestätisch, eindringlich langsam und der perfekte akustische Begleiter, um im Dunkeln düstere Poesie zu lesen.
 
-::genre::
+::genre::gothic metal, melo death metal, atmo doom metal
 
 ## Federico Balducci, nobuka - Depth is Not a Place
 
-tbd
+*Balducci* und nobuka sind beide Meister der avantgardistischen, forschungsorientierten Klanglandschaften. Dieses gewaltige, 70-minütige Doppelalbum mit 30 Titeln ist vollständig von den historischen Tauchgängen des Meeresbiologen William Beebe im Jahr 1930 inspiriert, bei denen er mit seiner Bathysphäre in die absolute Finsternis der Tiefsee hinabtauchte. Konzeptuelle **Ambient**-/**Drone**-/Klangkunst unter Einsatz experimenteller Gitarrenbearbeitung, düsterer Elektronik und dichter atmosphärischer Texturen. Hoffentlich leidest du nicht unter Klaustrophobie, denn dieses Album versetzt dich in eine winzige Metallkugel und stürzt dich direkt in die tiefsten Gräben des Ozeans. "Depth is Not a Place" behandelt Klang wie einen unumkehrbaren Abstieg in eine wässrige Leere. Die Tracks bewegen sich von tiefen, dröhnenden Unterwasser-Maschinengeräuschen hin zu unheimlichen, glitzernden Synth-Anomalien, die klingen wie leuchtende außerirdische Meereskreaturen, die an deinem Bullauge vorbeischweben. Es behandelt Tiefe als einen psychologischen Zustand der Isolation und verwandelt eine Meeresbiografie in ein verwirrendes, zutiefst immersives Dark-Ambient-Meisterwerk.
 
-::genre::
+::genre::ambient, drone, experimental ambient, experimental electronica
 
 ## Fir Cone Children - Vs. The Real World
 
-tbd
+*Fir Cone Children* ist das überaus produktive Soloprojekt von Alexander Leonard Donat. Seit über einem Jahrzehnt dienen seine beiden Töchter als konzeptionelle Musen für das Projekt. Auf diesem wegweisenden zwölften Album wirken seine Töchter (die nun ins Teenageralter kommen) aktiv an der Musik mit, wobei Tochter Liisu bei Titeln wie dem Album-Opener "St. Vincent" wunderschöne Hintergrundgesangspassagen beisteuert. **Dreampunk** / **Noise-Pop** / **Shoegaze**, der rasante, mitreißende Punkrock-Tempi mit verträumten **Bedroom-Pop**-Melodien verbindet. Stell dir vor, eine Shoegaze-Band der 90er hätte viel zu viel Espresso getrunken und versucht, ein Pop-Punk-Set zu spielen - das ist das herrliche Chaos von "Vs. The Real World". Donat fängt meisterhaft den hektischen, verwirrenden Übergang seiner Kinder von der Unschuld der Kindheit in die harte Realität des Teenagerlebens, der sozialen Medien und des Schulstresses ein. Die Gitarren dröhnen mit adrenalingeladener Geschwindigkeit, während die süßen Vater-Tochter-Gesangsharmonien dem gesamten Album einen warmen, wohlig-emotionalen Kern verleihen. Es ist schnell, laut, zutiefst sentimental und absolut süchtig machend.
 
-::genre::
-
-## For Breakfast - Longer Than Spring
-
-tbd
-
-::genre::
+::genre::dreampop, shoegaze, pop punk, noise pop, bedroom pop
 
 ## Frontline - Rebirth
 
