@@ -524,7 +524,7 @@ Beide Künstler sind Giganten der modernen Ambient-Szene und dafür bekannt, das
 
 ::genre::ambient, field recordings, minimal electronica
 
-## Iatt - Etheric Realms Of The Night
+## IATT - Etheric Realms Of The Night *
 
 Ursprünglich unter dem Namen *I am the Trireme* gegründet, kürzte die Band ihren Namen und schärfte ihren Sound. Sie ist bekannt für eine hochintellektuelle Herangehensweise an extreme Musik, in die oft progressive Elemente und klassische Motive einfließen. **Progressive Blackened Death Metal**. Als Einflüsse nennen sie die blackened Eleganz von *Emperor* bis hin zur technischen Virtuosität von *Between the Buried and Me*. Dieses Album ist ein blackened Labyrinth. Sie ist dicht, schnell und unglaublich raffiniert - es ist die Art von Metal, für deren Erkundung man eine Karte und eine Taschenlampe benötigt. Zwischen den hochfliegenden Saxophonsoli und den rasanten Blastbeats fühlt es sich an wie eine Reise durch ein verwunschenes viktorianisches Herrenhaus, das zufällig im Weltraum schwebt.
 
@@ -769,6 +769,12 @@ Das seit 2014 aktive fünfköpfige Kollektiv hat acht Jahre lang an diesem Nachf
 Sie sind ein neuer Name in der norwegischen Szene und geben mit diesem Album ihr Debütalbum heraus. **Heavy Rock** / **Stoner** / **Psychedelia**. Während ihr Label sie einst frech als deprimierte *Thin Lizzy* bezeichnete, stellen Kritiker fest, dass sie sich viel stärker auf stimmungsvolle, von Stoner-Rock geprägte psychedelische Klangwelten konzentrieren als auf klassischen irischen Rock. Wenn du schon immer einmal hören wolltest, wie ein regnerischer Nachmittag in einem norwegischen Wald klingt, wenn er durch eine Wand aus verzerrten Verstärkern gespielt wird, dann ist dies genau das Richtige. Es ist heavy, introspektiv und herrlich staubig. Es klingt zwar nicht wirklich nach Thin Lizzy, aber es klingt wie der perfekte Soundtrack, um eine Lavalampe anzustarren, während man über das Universum nachdenkt.
 
 ::genre::psych rock, stoner rock, heavy rock
+
+## MUNA - Dancing on the Wall
+
+*MUNA*, bestehend aus Katie Gavin, Naomi McPherson und Josette Maskin, hat sich von einem Kritikerliebling zu einer globalen Größe entwickelt. Bekannt für ihre Tourneen an der Seite von Taylor Swift und Phoebe Bridgers, werden sie für ihren komplexen, eigenständigen Produktionsstil hoch geschätzt. **Indie-Pop**, **Electro-Pop** und **Synth-Pop**. Beeinflusst von New-Wave-Rhythmen der 1980er Jahre, clubtauglichen elektronischen Basslines und zeitgenössischen Pop-Hymnen. Wenn sich dein Leben chaotisch anfühlt, möchte MUNA, dass du dich durch das Chaos hindurch tanzt. "Dancing on the Wall" ist ein absolutes Kraftpaket von einem Album, das funkelnde, von Hitze durchtränkte Sommer-Elektronik mit zutiefst verletzlichem Songwriting verbindet. Tracks wie "It Gets So Hot" stecken voller eleganter, pulsierender Electro-Pop-Energie, die dein Wohnzimmer in eine überfüllte Mitternachts-Festivalbühne verwandelt. Es ist brillant, unverhohlen hooklastig und ganz und gar darauf ausgelegt, die Welt zu erobern.
+
+::genre::electropop, synth pop, indie pop
 
 ## Namasenda - Limbo
 
