@@ -1,7 +1,5 @@
 ---
 date: 2026-05-08
-pin: true
-bandcamp: true
 categories:
   - Releases
 ---
@@ -382,6 +380,12 @@ Seit 2011 aktiv, wurden sie 2023 zum Thrash-Newcomer des Jahres gekürt. Dies is
 
 ::genre::thrash metal, heavy metal
 
+## Fir Cone Children - Vs. The Real World
+
+*Fir Cone Children* ist das überaus produktive Soloprojekt von Alexander Leonard Donat. Seit über einem Jahrzehnt dienen seine beiden Töchter als konzeptionelle Musen für das Projekt. Auf diesem wegweisenden zwölften Album wirken seine Töchter (die nun ins Teenageralter kommen) aktiv an der Musik mit, wobei Tochter Liisu bei Titeln wie dem Album-Opener "St. Vincent" wunderschöne Hintergrundgesangspassagen beisteuert. **Dreampunk** / **Noise-Pop** / **Shoegaze**, der rasante, mitreißende Punkrock-Tempi mit verträumten **Bedroom-Pop**-Melodien verbindet. Stell dir vor, eine Shoegaze-Band der 90er hätte viel zu viel Espresso getrunken und versucht, ein Pop-Punk-Set zu spielen - das ist das herrliche Chaos von "Vs. The Real World". Donat fängt meisterhaft den hektischen, verwirrenden Übergang seiner Kinder von der Unschuld der Kindheit in die harte Realität des Teenagerlebens, der sozialen Medien und des Schulstresses ein. Die Gitarren dröhnen mit adrenalingeladener Geschwindigkeit, während die süßen Vater-Tochter-Gesangsharmonien dem gesamten Album einen warmen, wohlig-emotionalen Kern verleihen. Es ist schnell, laut, zutiefst sentimental und absolut süchtig machend.
+
+::genre::dreampop, shoegaze, pop punk, noise pop, bedroom pop
+
 ## Fire-Toolz - Lavender Networks
 
 Das experimentelle Projekt des Produzenten und Nu-Age-Pioniers *Angel Marcloid*, der sich eine erfolgreiche Karriere aufgebaut hat, indem er extreme Genres mit New-Age-Ästhetik verbindet. **Avantgarde-Metal** / **IDM** / **Vaporwave** / **Cybergrind**. Erwarte eine maximalistische Kollision aus Smooth-Jazz-Fusion, Death-Metal-Schreien und glitchigen elektronischen Texturen. Dieses Album ist eine stroboskopbeleuchtete Reise durch einen digitalen Fiebertraum. Es ist emotionale Wahrheit durch Absurdität - ein Wechsel von ruhigen Harfenmelodien zu rasanten Blastbeats innerhalb von Sekunden. Es ist wunderschön, überwältigend und klingt, als hätte das Internet einen Moment der Erleuchtung.
@@ -526,7 +530,7 @@ Beide Künstler sind Giganten der modernen Ambient-Szene und dafür bekannt, das
 
 ::genre::ambient, field recordings, minimal electronica
 
-## Iatt - Etheric Realms Of The Night
+## IATT - Etheric Realms Of The Night *
 
 Ursprünglich unter dem Namen *I am the Trireme* gegründet, kürzte die Band ihren Namen und schärfte ihren Sound. Sie ist bekannt für eine hochintellektuelle Herangehensweise an extreme Musik, in die oft progressive Elemente und klassische Motive einfließen. **Progressive Blackened Death Metal**. Als Einflüsse nennen sie die blackened Eleganz von *Emperor* bis hin zur technischen Virtuosität von *Between the Buried and Me*. Dieses Album ist ein blackened Labyrinth. Sie ist dicht, schnell und unglaublich raffiniert - es ist die Art von Metal, für deren Erkundung man eine Karte und eine Taschenlampe benötigt. Zwischen den hochfliegenden Saxophonsoli und den rasanten Blastbeats fühlt es sich an wie eine Reise durch ein verwunschenes viktorianisches Herrenhaus, das zufällig im Weltraum schwebt.
 
@@ -771,6 +775,12 @@ Das seit 2014 aktive fünfköpfige Kollektiv hat acht Jahre lang an diesem Nachf
 Sie sind ein neuer Name in der norwegischen Szene und geben mit diesem Album ihr Debütalbum heraus. **Heavy Rock** / **Stoner** / **Psychedelia**. Während ihr Label sie einst frech als deprimierte *Thin Lizzy* bezeichnete, stellen Kritiker fest, dass sie sich viel stärker auf stimmungsvolle, von Stoner-Rock geprägte psychedelische Klangwelten konzentrieren als auf klassischen irischen Rock. Wenn du schon immer einmal hören wolltest, wie ein regnerischer Nachmittag in einem norwegischen Wald klingt, wenn er durch eine Wand aus verzerrten Verstärkern gespielt wird, dann ist dies genau das Richtige. Es ist heavy, introspektiv und herrlich staubig. Es klingt zwar nicht wirklich nach Thin Lizzy, aber es klingt wie der perfekte Soundtrack, um eine Lavalampe anzustarren, während man über das Universum nachdenkt.
 
 ::genre::psych rock, stoner rock, heavy rock
+
+## MUNA - Dancing on the Wall
+
+*MUNA*, bestehend aus Katie Gavin, Naomi McPherson und Josette Maskin, hat sich von einem Kritikerliebling zu einer globalen Größe entwickelt. Bekannt für ihre Tourneen an der Seite von Taylor Swift und Phoebe Bridgers, werden sie für ihren komplexen, eigenständigen Produktionsstil hoch geschätzt. **Indie-Pop**, **Electro-Pop** und **Synth-Pop**. Beeinflusst von New-Wave-Rhythmen der 1980er Jahre, clubtauglichen elektronischen Basslines und zeitgenössischen Pop-Hymnen. Wenn sich dein Leben chaotisch anfühlt, möchte MUNA, dass du dich durch das Chaos hindurch tanzt. "Dancing on the Wall" ist ein absolutes Kraftpaket von einem Album, das funkelnde, von Hitze durchtränkte Sommer-Elektronik mit zutiefst verletzlichem Songwriting verbindet. Tracks wie "It Gets So Hot" stecken voller eleganter, pulsierender Electro-Pop-Energie, die dein Wohnzimmer in eine überfüllte Mitternachts-Festivalbühne verwandelt. Es ist brillant, unverhohlen hooklastig und ganz und gar darauf ausgelegt, die Welt zu erobern.
+
+::genre::electropop, synth pop, indie pop
 
 ## Namasenda - Limbo
 

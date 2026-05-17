@@ -12,11 +12,55 @@ Die New Jersey Nu-Metaller mit neuem Material nach 10 Jahren. Mit ihrer recht ag
 
 ::genre::modern metalcore, nu metal
 
+## A Perfect Circle - Mer de Noms
+
+tbd
+
+::genre::
+
 ## A Sense Of Purpose - The Wounds we Share
 
 Neues von der Band aus Cleveland. Recht modern produzierter Metalcore, welcher mit seinen Melo-Death- und Progressive-Elementen für Freunde von Killswitch Engage sicherlich eine Freude darstellen könnte.
 
 ::genre::melo death metal, metalcore
+
+<!-- more -->
+
+## abriction - Forbidden Bounds
+
+tbd
+
+::genre::
+
+## After Hour Animals - Total Disconnect
+
+tbd
+
+::genre::
+
+## AITIS BAND - AITIS BAND - IV
+
+tbd
+
+::genre::
+
+## All Good Things - Ascend
+
+tbd
+
+::genre::
+
+## All Hell - Sunsetter
+
+tbd
+
+::genre::
+
+## All Time Low - Everyone's Talking!
+
+tbd
+
+::genre::
 
 ## Amber Mark - Pretty Idea
 
@@ -24,13 +68,29 @@ Die amerikanische Singer & Songwriterin mit ihrem neuesten Werk. Ein sehr fluide
 
 ::genre::r&b, neo soul, alt pop
 
-<!-- more -->
-
 ## Andrea Vanzo - Intimacy Vol. 2
 
 Eine Menage aus Modern-Classic und Post-Minimalism bietet der italienische Composer und Pianist mit seiner Fortführung der Intimacy-Serie.
 
 ::genre::modern classic
+
+## Angel Face - Out In The Street
+
+tbd
+
+::genre::
+
+## Angrrsth - Złudnia
+
+tbd
+
+::genre::
+
+## Antonija Pacek - Heartwarming Christmas Selection
+
+tbd
+
+::genre::
 
 ## April Rain - Aperture
 
@@ -38,23 +98,119 @@ Die russischen Instrumental-Post-Rocker mit ihrem neuesten Release. Wieder schaf
 
 ::genre::post rock, instrumental
 
+## Assemble the Chariots - World Architects: Integration
+
+tbd
+
+::genre::
+
+## Atomic Rooster - Circle The Sun
+
+tbd
+
+::genre::
+
+## Avery Tucker - PAW
+
+tbd
+
+::genre::
+
+## Bachratten - Rockmusik
+
+tbd
+
+::genre::
+
+## Backthroe - Backthroe
+
+tbd
+
+::genre::
+
+## Badlands - Nobody Dies
+
+tbd
+
+::genre::
+
+## Baker Boy - Djandjay
+
+tbd
+
+::genre::
+
+## Beatie Wolfe, Brian Eno - Liminal
+
+tbd
+
+::genre::
+
 ## Befell - To Mourn the Living
 
 Das Debüt Full-Length der amerikanischen Combo. Metalcore, welcher seine Wurzeln klar im Sound der 2000er Welle hat. Thrash-y Hooks, Melo-Death Riffing und Clear Singalong Passages. Alles verpackt in der passenden 2000er Production.
 
 ::genre::metalcore, thrash metal, melo death metal
 
-## Beyries - Reprise
+## Bernie Leadon - Too Late to Be Cool
 
-Die kanadische Singer & Songwriterin mit ihren neuesten Kompositionen, welche das Spektrum des Melo-Indie-Folk gut abdecken.
+tbd
 
-::genre::mellow folk, indie folk
+::genre::
+
+## Beyries - REPRISES
+
+tbd
+
+::genre::
+
+## Bia - Bianca
+
+tbd
+
+::genre::
+
+## Black Eyes - Hostile Design
+
+tbd
+
+::genre::
+
+## Blastromen - Robot Aggression + Blasteroids
+
+tbd
+
+::genre::
+
+## Blawan - SickElixir
+
+tbd
+
+::genre::
 
 ## Blindfolded And Led To The Woods - The hardest Thing about being God is that no one Believes me
 
 Das neuseeländische Outfit mit seinem neuesten Release. Eine Symphonie des Progressive-Technical-Death-Metal mit Avantgarden und symphonischen Strukturen.
 
 ::genre::tech death metal, prog death metal
+
+## Blue Heron - Emulations
+
+tbd
+
+::genre::
+
+## Blutgott - Legions Of Metal
+
+tbd
+
+::genre::
+
+## BOLTCUTTER - Still Broke
+
+tbd
+
+::genre::
 
 ## Brian Eno, Beatie Wolfe - Liminal *
 
@@ -74,6 +230,24 @@ Die Schweizer Combo mit ihrem neuesten Werk. Eine meisterliche Inszenierung des 
 
 ::genre::post rock, instrumental
 
+## Cemican - U k’u’uk’ankil Mayakaaj
+
+tbd
+
+::genre::
+
+## Charles Lloyd - Figure In Blue
+
+tbd
+
+::genre::
+
+## Charlie Kaplan - A Hat Upon the Bed
+
+tbd
+
+::genre::
+
 ## Christopher Willits - New Moon
 
 Der Künstler, Producer und Gitarrist aus San Francisco mit seinen neuesten Kompositionen. Cinematic-Ambient-Acoustic beschreibt das Werk vermutlich am besten, wenn man in das Genre eintauchen möchte. Effektreiche Gitarren-Teppiche werden über ambienter Atmosphäre ausgerollt.
@@ -86,11 +260,53 @@ Die amerikanischen Christ-Rocker aus Seattle mit ihrem neuesten Output. Texte �
 
 ::genre::christ rock, country folk, folk rock
 
+## Club 8 - Seasonal Echoes
+
+tbd
+
+::genre::
+
 ## Coastlands - Coastlands *
 
 Das Trio aus dem Kriegsgebiet Portland, Oregon, mit frischer Musik zum Erkunden. Kompositionen des Post-Metal vereinen sich auf wundervoller Art und Weise mit Shoegaze, Screamo und Post-Hardcore.
 
 ::genre::post metal, post hardcore, shoegaze, screamo
+
+## Coroner - Dissonance Theory
+
+tbd
+
+::genre::
+
+## Crematory - Revolution
+
+tbd
+
+::genre::
+
+## Cyan Kicks - Come Hell, Come High Water
+
+tbd
+
+::genre::
+
+## Dark Chapel - Spirit In The Glass
+
+tbd
+
+::genre::
+
+## Dave Pen - Life Inside The Feeder Mind
+
+tbd
+
+::genre::
+
+## Dead Eyes - Black Hole Heart
+
+tbd
+
+::genre::
 
 ## Dead Heat - Process of Elimination
 
@@ -98,11 +314,59 @@ Die Kalifornier mit ihrem neuesten Release. EIn gekonnter Crossover von Thrash M
 
 ::genre::thrash metal, metallic hardcore
 
+## Delayed Departure - Monochrome
+
+tbd
+
+::genre::
+
 ## Der Plan - Take it Easy!
 
 Die Düsseldorfer mit nicht Neuen, aber Neu-Interpretierten aus der eigenen Feder. Die Avantgard-Synth-Popper der Alten-Tage gehen einen recht mood-y folk-y Weg mit diesen alten Kompositionen, welcher auch gern jazz-y Töne annimmt.
 
 ::genre::avant pop, synth pop, art pop
+
+## DEXDBELL - Sport Metal
+
+tbd
+
+::genre::
+
+## Die The Rackelhans - Es ist wirklich immer schlimm!
+
+tbd
+
+::genre::
+
+## Don Was, The Pan-Detroit Ensemble - Groove in the Face of Adversity
+
+tbd
+
+::genre::
+
+## Dropkick Murphys - For The People
+
+tbd
+
+::genre::
+
+## dust - Sky Is Falling
+
+tbd
+
+::genre::
+
+## dying in designer - LimeWire
+
+tbd
+
+::genre::
+
+## Earshot - Humaning
+
+tbd
+
+::genre::
 
 ## Electric Guest - 10K
 
@@ -122,17 +386,65 @@ Die amerikanische Sound-Designerin mit einer Collection von Live-Interpretatione
 
 ::genre::ambient, field recordings, synth ambient
 
+## Ergot Project - A Family Secret
+
+tbd
+
+::genre::
+
 ## Eusebeia - The wyrding Way
 
 Der britische Producer Seb Uncles aka Eusebeia mit seinen neuesten Klang-Experimenten. Modulare Töne werden in avantgarde Ambient-Felder entlassen und erzeugen ein gewisses Gefühl des Gejagt-Seins der Vergangenheit.
 
 ::genre::avant ambient
 
-## Eydis Evensen - Oceanic Mirror
+## Extortionist - Stare Into The Seething Wounds
 
-Die isländische Composerin und Pianistin mit ihrem neuesten Werk. Post-Classic trifft auf Ambient trifft auf Drone trifft auf Smooth-Jazz. Alles Abhängig von der jeweiligen Komposition, welche sich ausbreitet.
+tbd
 
-::genre::modern classic, ambient, chamber jazz
+::genre::
+
+## Eydís Evensen - Oceanic Mirror
+
+tbd
+
+::genre::
+
+## Eyedress - Committing Crimes
+
+tbd
+
+::genre::
+
+## Fading Signal - Only An Echo
+
+tbd
+
+::genre::
+
+## Featherfoot - Featherfoot
+
+tbd
+
+::genre::
+
+## First Draft - An Instant Before The Promise Of Dawn
+
+tbd
+
+::genre::
+
+## Flagman - Before The Blast
+
+tbd
+
+::genre::
+
+## Flaming Row - Keeper of the Scriptures
+
+tbd
+
+::genre::
 
 ## Flock Of Dimes - The Life you Save
 
@@ -140,17 +452,41 @@ Das Solo-Projekt um Jenn Wasner (Wye Oak) mit neuen Kompositionen. Eine Menage a
 
 ::genre::dark pop, folk pop, indie folk
 
+## Forrest Day - Right On Time
+
+tbd
+
+::genre::
+
+## Frayle - Heretics & Lullabies
+
+tbd
+
+::genre::
+
+## Friendship Commanders - BEAR
+
+tbd
+
+::genre::
+
 ## Geier Sturzflug - Schicht
 
 Der Abschluss der Tetralogie und der mögliche Abschluss von Geier Sturzflug. Die ehemaligen NDW-One-Hit-Wunderkinder, welche im Grunde nur noch aus Friedel Geratsch bestehen, konzentrierten sich im wachsenden Alter eher auf Ska-Rock, welcher auch gern lediglich Formen des Hard-Rock annimmt.
 
 ::genre::hard rock, ska rock
 
-## Goat - The Human Language ‘Goat’ Tape *
+## Giant Day - Alarm
 
-Das schwedische Psych-Rock-Outfit mit einem, technisch gesehen, Remix ihres letzten Werks. Sie gaben dem schwedischen Producer, der unter dem Pseudonym “Human Language” auftritt, freie Hand zur Neu-Interpretation ihres Werks. Entstanden ist ein psychedelischer Mix aus Dub, Loop-Electronica und Psych-Rock. Irgendwie gibt mir der Remix mehr als das grundlegende Werk.
+tbd
 
-::genre::psych pop, dub, electronica, psych rock
+::genre::
+
+## Goad - Dusketha
+
+tbd
+
+::genre::
 
 ## God Alone - The Beep Test **
 
@@ -170,11 +506,89 @@ Das kanadische Trio mit seinem neuesten Output. Kompositionen des Folk-Rock und 
 
 ::genre::indie folk, folk rock
 
-## Hans Zimmer - Eden (OST)
+## Greg Maroney, Brenda J Johnson - Hymns for the Heart
 
-Der deutsche Composer mit seinem Beitrag zu Ron Howard’s Thriller Eden (2024). Zimmer und Howard scheint mittlerweile eine Einheit zu sein. Sieht man einen Howard Film, hört man Hans Zimmer.
+tbd
 
-::genre::cine modern classic
+::genre::
+
+## Greyhaven - Keep It Quiet
+
+tbd
+
+::genre::
+
+## Guitar - We’re Headed to the Lake
+
+tbd
+
+::genre::
+
+## HAAi - HUMANiSE
+
+tbd
+
+::genre::
+
+## Haeresis - Si Vis Pacem Para Bellum
+
+tbd
+
+::genre::
+
+## Hannah Frances - Nested in Tangles
+
+tbd
+
+::genre::
+
+## Harkon - Love And Vore
+
+tbd
+
+::genre::
+
+## Harvey Sutherland - Debt
+
+tbd
+
+::genre::
+
+## Heads For The Dead - Never Ending Night Of Terror
+
+tbd
+
+::genre::
+
+## Heartlay - The Alteration
+
+tbd
+
+::genre::
+
+## Heavy//Hitter - Coming To Terms
+
+tbd
+
+::genre::
+
+## HEDMARK - Hedmark
+
+tbd
+
+::genre::
+
+## Herbst - Keine Liebe
+
+tbd
+
+::genre::
+
+## Huntdown - This Is War
+
+tbd
+
+::genre::
 
 ## Hyphen Dash - Late **
 
@@ -188,11 +602,41 @@ Das deutsche Outfit mit seinem neuesten Release. Atmospheric-Black-Metal, dargeb
 
 ::genre::atmo black metal, melo black metal
 
+## I Saw Daylight - Smilingisoverrated
+
+tbd
+
+::genre::
+
+## IMU, Jack J, © Linda Fox - IMU present The Ultra Hidden (Cryptic) Doctrine
+
+tbd
+
+::genre::
+
+## Increased Decay - Frozen Heart
+
+tbd
+
+::genre::
+
+## Intimidation - Cheap & American
+
+tbd
+
+::genre::
+
 ## Jack Ladder - Separation Rock
 
 Der australische Singer & Songwriter Timothy Rogers aka Jack Ladder mit seinem neuesten Solo-Werk. Moody (Folk-)Rock-Kompositionen, welche psychedelische Elemente in sich tragen. Das Duett mit Shanon Van Etten ist erstklassig.
 
 ::genre::folk rock, psych folk
+
+## Jacob Collier - The Light for Days
+
+tbd
+
+::genre::
 
 ## Jarrod Morris - Day Money
 
@@ -206,11 +650,41 @@ Die amerikanische Singer & Songwriterin Melina Duterte aka Jay Som mit ihren neu
 
 ::genre::indie pop, indie rock, post grunge
 
-## John Lemke - Electric Malady (OST)
+## Jay Worthy - Once Upon A Time Vol. 2
 
-Der Berlin-Born, Schottland-Based Composer und Producer mit seinem Beitrag zu Marie Lidén’s Documentation Electric Malady (2022). Die Klangbilder beschreiben die isolierten Welten, welche die Dokumentation versucht intelligent einzufangen.
+tbd
 
-::genre::cine modern classic, cine ambient
+::genre::
+
+## Jerskin Fendrix - Once Upon A Time... In Shropshire
+
+tbd
+
+::genre::
+
+## Joachim Pastor - PHANTOMGRID
+
+tbd
+
+::genre::
+
+## John 5 - Ghost
+
+tbd
+
+::genre::
+
+## John Lemke - Electric Malady
+
+tbd
+
+::genre::
+
+## Josh Levi - Hydraulic
+
+tbd
+
+::genre::
 
 ## Jukebox The Ghost - Phantasmagorical Vol. 1 *
 
@@ -218,11 +692,35 @@ Das Trio aus Washington, D.C. mit seinem neuesten Release, welches die Tür für
 
 ::genre::power pop
 
+## Junkbreed - Sick Of The Scene
+
+tbd
+
+::genre::
+
+## Katakomba - The Second Death
+
+tbd
+
+::genre::
+
 ## KAU - Unknown Waveforms *
 
 Das belgische Instrumental-Trio mit seinem neuesten Werk. Nu-Jazz, welcher die Beatwelten von Hip Hop und Modern Jazz in ein instrumentales Gewand verpackt und geschmackvoll auf Welt und Mensch entlässt.
 
 ::genre::nu jazz, modern jazz, hip hop, trip hop, instrumental
+
+## Khalid - After the Sun Goes Down
+
+tbd
+
+::genre::
+
+## Kochkraft Durch KMA - Hardcore Never Dies Dazzz
+
+tbd
+
+::genre::
 
 ## Lack Of Afro - Love Dealer
 
@@ -236,11 +734,59 @@ Die LA-Based Band mit ihrem neuesten Release. Pop-Rock, welcher mit jedem neuen 
 
 ::genre::pop rock
 
+## Leaving Jericho - Tear It All Down
+
+tbd
+
+::genre::
+
+## Linx - Annihilation
+
+tbd
+
+::genre::
+
+## Litania - Litania
+
+tbd
+
+::genre::
+
+## Living Dead Girl - Conspiracy
+
+tbd
+
+::genre::
+
+## Lomond Campbell - Transmission Loss
+
+tbd
+
+::genre::
+
+## Long Fling - Long Fling
+
+tbd
+
+::genre::
+
 ## Lorelle Meets The Obsolete - Corporal *
 
 Das mexikanische Duo mit seinem neuesten Werk. Psychedelic-Rock meets Synth-Pop meets Dreampop meets Krautrock. So lässt es sich am Besten beschreiben.
 
 ::genre::psych rock, synth pop, dreampop, krautrock
+
+## Lucy Dacus - Forever Is A Feeling: The Archives
+
+tbd
+
+::genre::
+
+## Madebygrey - Music for the Deprived
+
+tbd
+
+::genre::
 
 ## Madi Diaz - Fatal Optimist
 
@@ -248,11 +794,41 @@ Die amerikanische Singer & Songwriterin mit ihrem neuesten Output. Moody und per
 
 ::genre::mellow folk, bedroom pop
 
+## Madison Cunningham - Ace
+
+tbd
+
+::genre::
+
+## Malota - Scapegoat
+
+tbd
+
+::genre::
+
+## Mansionair - Some Kind of Alchemy
+
+tbd
+
+::genre::
+
 ## Maria Kannegaard, Thomas Strønen - Time to Crystallize *
 
 Die Kollaboration zwischen der norwegischen Jazz-Pianistin und dem norwegischen Jazz-Drummer hält bereits seit mehr als 10 Jahren. Mit diesem Release können sie sicherlich überraschen. Ein Werk aus Drum, Percussions, Synth-Wave und Art-Pop ist das Ergebnis des letzten Zusammentreffens der beiden Jazz-Talente.
 
 ::genre::synth wave, art pop, jazz fusion
+
+## Mariposa - Cozy Tapes
+
+tbd
+
+::genre::
+
+## Mark Trueack - Journeys Groove-An Adventure in Life
+
+tbd
+
+::genre::
 
 ## Massage - Coaster
 
@@ -260,17 +836,59 @@ Das neueste Album des LA-Based Quintetts. Power-Pop, welcher Züge des Dream-Pop
 
 ::genre::dreampop, indie pop, synth pop, power pop
 
+## Mella - Or So I’ve Been Told...
+
+tbd
+
+::genre::
+
+## Mesita - Fabric & Tape
+
+tbd
+
+::genre::
+
 ## Mobb Deep - Infinite
 
 Das (im Grunde) aufgelöste Eastcoast-Rap-Duo, mit dem “offiziellen” Abschluss. Irgendwie kennt man es aus der Rap-Szene, dass nach dem Tod oder nach ein paar Jahren nach dem Tod eines Künstlers Kompositionen dessen auftauchen. 2017 ist “Prodigy” verstorben und somit wurde auch Mobb Deep beerdigt. Da Prodigy die Rhymes nicht selbst in das Mikro “spitten” konnte, wurden allerhand Rap-Künstler wie NAS, Ghostface Killah und The Alchemist an Bord geholt. Abgesehen von der (seltsamen) Release-Technik, wird solider Eastcoast-Hip-Hop geboten.
 
 ::genre::hip hop
 
-## Morke - To Carry On
+## MORGXN - HEARTLAND: PART II
 
-Das Projekt um den amerikanischen Multi-Instrumentalisten Eric Wing mit seinem neuesten Release. Melodic-Black-Metal, welcher auch gern in den Dark-Metal abschweift.
+tbd
 
-::genre::melo black metal, dark metal
+::genre::
+
+## Müde - Therapie
+
+tbd
+
+::genre::
+
+## Nemo - Arthouse
+
+tbd
+
+::genre::
+
+## Nightbus - Passenger
+
+tbd
+
+::genre::
+
+## Niia - V
+
+tbd
+
+::genre::
+
+## Nils Patrik Johansson - War And Peace
+
+tbd
+
+::genre::
 
 ## Niños Del Cerro - Alma Tadema
 
@@ -278,11 +896,71 @@ Die chilenische Band mit ihrem neuesten Output. Ein Werk, welches Neo-Psychedeli
 
 ::genre::indie rock, psych indie, psych rock
 
+## no - BIANCA
+
+tbd
+
+::genre::
+
+## No Kings Allowed - Dark Reign
+
+tbd
+
+::genre::
+
+## NoSo - When Are You Leaving?
+
+tbd
+
+::genre::
+
+## Not for Radio - Melt
+
+tbd
+
+::genre::
+
 ## NYOS - Growl **
 
 Das reine Gitarre-Drum-Duo aus Finnland mit seinem neuesten Streich. Ein wahrlich meisterhaft inszeniertes Werk aus Noise-, Math- und Prog-Strukturen, welche in Rock und Metal verpackt und dabei Instrumental vorgetragen werden.
 
 ::genre::noise rock, math rock, prog rock, prog metal, mathcore, instrumental
+
+## OFFICER! - Dead Right
+
+tbd
+
+::genre::
+
+## Olgoj - A Place To Rest
+
+tbd
+
+::genre::
+
+## Olvo - Continuum
+
+tbd
+
+::genre::
+
+## Omnivide - Arise
+
+tbd
+
+::genre::
+
+## Orient Fall - Catechism of Higher Chemistry
+
+tbd
+
+::genre::
+
+## OsamaSon - Psykotic
+
+tbd
+
+::genre::
 
 ## Other Lives - Volume V
 
@@ -295,6 +973,12 @@ Die amerikanische Formation mit einem weiteren Kapitel in einer musikalischen Ge
 Der französische DJ und Producer mit neuen Kompositionen. Ein Akt des Minimal-Techno mit Einfluss des Trance und House.
 
 ::genre::minimal electronica, techno, trance, house
+
+## Parky Jobbins - Who Is Parky Jobbins?
+
+tbd
+
+::genre::
 
 ## Paul Kalkbrenner - The Essence
 
@@ -320,17 +1004,101 @@ Der schwedische Jazz-Bassist und Producer mit seiner Fortsetzung zu “Projekt D
 
 ::genre::neo jazz, nu jazz, uk jazz, improvisation
 
+## PinkPantheress - Fancy Some More?
+
+tbd
+
+::genre::
+
+## Pogendroblem - Great Resignation
+
+tbd
+
+::genre::
+
+## Poor Genetic Material - Pastoral
+
+tbd
+
+::genre::
+
+## Poor Soul - Ill With It
+
+tbd
+
+::genre::
+
+## Power Of Fear - Where The Sun Don’t Shine
+
+tbd
+
+::genre::
+
+## Princess Nokia - Girls
+
+tbd
+
+::genre::
+
+## Priscilla Block - Things You Didn’t See
+
+tbd
+
+::genre::
+
+## Prison Of Hope - Question Your Privileges
+
+tbd
+
+::genre::
+
+## Public Service Broadcasting - Night Flight - The Last Flight Remixes
+
+tbd
+
+::genre::
+
+## Purpendicular - Banned
+
+tbd
+
+::genre::
+
+## Ratgod - Goodbye, My Son In Pain
+
+tbd
+
+::genre::
+
+## Reaping Flesh - Death Creeps
+
+tbd
+
+::genre::
+
 ## Rhett Miller - A Lifetime of Riding by Night
 
 Ein neues Solo-Release des Old 97’s Frontman. Der Amerikaner bringt klaren Country-Folk unter die Massen.
 
 ::genre::country folk, americana
 
-## Richard Ashcroft - Lovin’ You
+## Rich Amiri - Grit & Grace
 
-Der britische Singer & Songwriter, Producer und Gründer von “The Verve” mit seinen neuen Solo-Release. Irgendwo zwischen Folk- und Pop-Rock angesiedelt, entwickelt er nichts Neues in seinem Songwriting, sondern bleibt dem treu, was er schon immer macht.
+tbd
 
-::genre::folk rock, pop rock
+::genre::
+
+## Richard Ashcroft - Lovin' You
+
+tbd
+
+::genre::
+
+## Robert Finley - Hallelujah! Don't Let The Devil Fool Ya
+
+tbd
+
+::genre::
 
 ## Robert Glasper - Keys to the City Volume One *
 
@@ -350,6 +1118,12 @@ Das UK-Based Jazz-Quartett mit seinem neuesten Release. Eine instrumentale Reise
 
 ::genre::uk jazz, neo soul, jazz fusion, instrumental
 
+## Ryan Keberle, Frank Woeste, Vincent Courtois - Reverso Suite Ravel
+
+tbd
+
+::genre::
+
 ## Saint Motel - Afterglow
 
 Die LA-Based Band mit ihrem neuesten Werk. Sie verstanden es schon immer Alt-Pop, Indie-Pop, Alt-Rock und Indie-Rock progressiv zu vereinen. Was mir immer fehlte, bis heute, ist die Eigenständigkeit. Selbst der Falsetto-Gesang hebt sich nicht wirklich von anderen “Größen” ab.
@@ -361,6 +1135,36 @@ Die LA-Based Band mit ihrem neuesten Werk. Sie verstanden es schon immer Alt-Pop
 Die amerikanische Death-Metal-Combo mit ihrem neuesten Release. Old-School-Death mit dem Sound und der Thematik von Gore und ein paar modernen Technical-Death-Elementen in eine Komposition verpackt.
 
 ::genre::osdm, tech death metal
+
+## Seoi Nage - No Retreat, No Surrender
+
+tbd
+
+::genre::
+
+## Serpent God - Denial
+
+tbd
+
+::genre::
+
+## Silly Goose - Keys to the City
+
+tbd
+
+::genre::
+
+## Sirenia - An Elixer For Existence
+
+tbd
+
+::genre::
+
+## Skold - Caught In The Throes
+
+tbd
+
+::genre::
 
 ## Slow Joy - A Joy even Slower
 
@@ -380,6 +1184,12 @@ Der britische Producer Christopher Taylor aka SOHN mit seinen neuesten Klangexpe
 
 ::genre::experimental electronica, ambient, drone
 
+## Souillé - L’odeur du mépris
+
+tbd
+
+::genre::
+
 ## Soul Blind - Red Sky Mourning
 
 Das New-Yorker Outfit mit seinem neuesten Werk. Dem Ohr wird eine recht End-90er Komposition aus Post-Grunge und Alt-Rock angeboten. Wenn man wieder Lust hat in diese Zeit zu reisen, dann sollte man zu dem Werk nicht Nein sagen.
@@ -392,23 +1202,53 @@ Die Band aus Arizona mit ihrem Sophomore Release. Modern-Jazz, welcher seinen Ha
 
 ::genre::prog rock, jazz rock, jazz fusion
 
+## Squeaky Feet - Overview Effect
+
+tbd
+
+::genre::
+
 ## St. Paul & The Broken Bones - St. Paul & The Broken Bones
 
 Die Acht-Menschen-Band aus Alabama mit ihrem neuesten Release, welches auch das erste Release auf ihrem eigenen Label Oasis Pizza darstellt. Produziert wurde eine energiereiche Form des Soul und R&B.
 
 ::genre::neo soul, r&b
 
-## Stain The Canvas - Vultures
-
-Die italienische Band mit ihrem neuesten Release. Modern Metalcore, welcher mit dem üblichen Anteil von Trap, Pop, Symphonica und Progressivität vorgetragen wird. Dem Genre-Fan wird es sicherlich gefallen.
-
-::genre::modern metalcore
-
 ## Starer - Ancient Monuments & Modern Sadness
 
 Die amerikanische Formation mit ihrem neuesten Werk. Melodic-Black-Metal trifft auf Symphonic-Black-Metal und wird mit Elementen des Blackgaze verfeinert. Gutes Songwriting und eine passend elegante Produktion.
 
 ::genre::melo black metal, symphonic black metal, post black metal
+
+## Stonebirds - Perpetual Wasteland
+
+tbd
+
+::genre::
+
+## T.S. Warspite - Trauma Stage
+
+tbd
+
+::genre::
+
+## Tanita Tikaram - Love Isn’t A Right
+
+tbd
+
+::genre::
+
+## Tempest Veins - Birth of Noise
+
+tbd
+
+::genre::
+
+## Terjiz de Horde - Our Breath Is Not Ours Alone
+
+tbd
+
+::genre::
 
 ## Testament - Para Bellum *
 
@@ -418,15 +1258,39 @@ Die Bay-Area-Thrasher mit ihrem neuesten Release. Bereits seit 42 Jahren aktiv u
 
 ## The Antlers - Blight
 
-Das Duo Silberman & Lerner aka The Antlers mit ihren neuesten Klangfusionen. Indie-Pop-Kreationen, welche den Verfall “der Natur” in Wort und Ton einfangen. Auch wenn ich eine andere Form der Philosophie verfolge, so fand ich eine Aussage doch recht treffend: “_Der Mensch ist ein zerstörerisches Wesen. Nicht zwingend grausam, aber ignorant rollt er in seiner ständigen Expansion über andere Formen von Leben hinweg._”
+Das Duo Silberman & Lerner aka The Antlers mit ihren neuesten Klangfusionen. Indie-Pop-Kreationen, welche den Verfall “der Natur” in Wort und Ton einfangen. Auch wenn ich eine andere Form der Philosophie verfolge, so fand ich eine Aussage doch recht treffend: “*Der Mensch ist ein zerstörerisches Wesen. Nicht zwingend grausam, aber ignorant rollt er in seiner ständigen Expansion über andere Formen von Leben hinweg.*”
 
 ::genre::indie pop
 
-## The Besnard Lakes - The Besnard Lakes are the Ghost Nation *
+## The Autumn Defense - Here and Nowhere
 
-Das kanadische Quintett mit einem neuen Album. Ich mag, dass sie ihren Bandnamen auch immer in die Titel ihrer Alben verpacken. Eine psychedelische Reise durch Indie-Rock, Alt-Rock und Art-Pop wird am Ende geboten, mit einer Art melancholischen Dynamik.
+tbd
 
-::genre::indie rock, alt rock, psych rock
+::genre::
+
+## The Besnard Lakes - Are The Ghost Nation
+
+tbd
+
+::genre::
+
+## The Family Battenberg - Spider Rock Forever
+
+tbd
+
+::genre::
+
+## The Grahams - The Bridge
+
+tbd
+
+::genre::
+
+## The Growlers, Magnus V. Östergren - The Growlers vs Mau
+
+tbd
+
+::genre::
 
 ## The Necks - Disquiet *
 
@@ -440,11 +1304,23 @@ Das UK-Based Producer-Duo Alex Paterson und Jimmy Cauty formen ihren musikalisch
 
 ::genre::acid house, jungle
 
+## The Raging Nathans - Bad Timing: Sordid Youth Vol. 3
+
+tbd
+
+::genre::
+
 ## The Telephone Numbers - Scarecrow II *
 
 Die Band aus San Francisco, welche den Indie-Sound um San Francisco etablierte und weiterführt, mit einem neuen Release. Anspruchsvoller Power Pop wird dem Hörer oder der Hörerin geboten, welcher den Sound der Bay-Area wunderbar widerspiegelt.
 
 ::genre::power pop, indie rock, alt rock
+
+## The Utopia Strong - Doperider
+
+tbd
+
+::genre::
 
 ## The Wytches - Talking Machine
 
@@ -452,11 +1328,77 @@ Die UK-Based Band mit ihrem neuesten Output. Psychedelic-Rock wird mit Elementen
 
 ::genre::surf rock, power pop, psych rock
 
+## Tom Odell - A Wonderful Life (Epilogue)
+
+tbd
+
+::genre::
+
+## Tommy Emanuel - Living In The Light
+
+tbd
+
+::genre::
+
 ## Trella - Expired
 
 Die amerikanische Singer & Songwriterin Lindsey Sweat aka Trella mit ihrem neuesten Werk. Eine energiereiche Mixtur aus Synth-Pop, Alt-Pop und Indie-Pop mit einer sehr melancholischen Stimme.
 
 ::genre::synth pop, alt pop, indie pop
+
+## TV Cult - Industry
+
+tbd
+
+::genre::
+
+## Twice - Ten: The Story Goes On
+
+tbd
+
+::genre::
+
+## Typhus - Fate Weaver
+
+tbd
+
+::genre::
+
+## Undersave - Merged In Abstract Perdition
+
+tbd
+
+::genre::
+
+## Ungoliath - Shadows Of The Eclipse
+
+tbd
+
+::genre::
+
+## Vanessa Mai - Traumfabrik
+
+tbd
+
+::genre::
+
+## Vantre - Clonocracy
+
+tbd
+
+::genre::
+
+## Vatican Shadow - 20th Hijacker
+
+tbd
+
+::genre::
+
+## Vile Apparition - Malignity
+
+tbd
+
+::genre::
 
 ## Vincent Courtois, Colin Vallon - A Simple Fall
 
@@ -464,11 +1406,47 @@ Die Kollaboration zwischen dem schweizer Jazz Pianisten Colin Vallon und dem fra
 
 ::genre::neo classic, noir jazz
 
+## VOID AWAKEN - Martyrs
+
+tbd
+
+::genre::
+
+## Vulnificus - Inclination
+
+tbd
+
+::genre::
+
+## Warrant - The Speed Of Metal
+
+tbd
+
+::genre::
+
 ## Weakened Friends - Feels like Hell *
 
 Das amerikanische Trio mit seinem neuesten Release. Eine Menage des Post-Grunge und Alt-Rock wird geboten. Von Zeit zu Zeit erinnert mich das Songwriting an eine Art Collage-Rock und Emo mit der Zerbrechlichkeit von Sonia’s Stimme.
 
 ::genre::college rock, emocore, alt rock, post grunge
+
+## Wilby - Center of Affection
+
+tbd
+
+::genre::
+
+## Wolfbrigade - Hostile Wasteland
+
+tbd
+
+::genre::
+
+## Wyndfall - The Void Between
+
+tbd
+
+::genre::
 
 ## Yara Asmar - Everyone I love is Sleeping and I love them so so much
 
@@ -482,11 +1460,17 @@ Das erste Release nach der Trennung (2017) und der Reunion (2022). Die Pop-Punke
 
 ::genre::pop punk, synth pop, power pop
 
-## Yom X Ceccaldi - Le Rythme du Silence
+## Yom, Théo Ceccaldi, Valentin Ceccaldi - LE RYTHME DU SILENCE
 
-Die Kollaboration zwischen dem israelischen Multi-Instrumentalisten Yom, dem französischen Violinisten Théo Ceccaldi und den französischen Cellisten Valentin Ceccaldi birgt eine wahrhaftig meisterliche Symphonie des Noir-Jazz, Oriental-Jazz mit traditioneller Instrumentalisierung.
+tbd
 
-::genre::noir jazz, oriental jazz, contemporary jazz
+::genre::
+
+## Youth Group - Big Whoop
+
+tbd
+
+::genre::
 
 ## Zero Boys - Playback is Hell
 
@@ -494,21 +1478,69 @@ Die Punks aus Indianapolis mit ihrem neuesten Release. Kompositionen des klassis
 
 ::genre::garage rock, glam punk, punk rock
 
+## Ültra Raptör - Fossilized
+
+tbd
+
+::genre::
+
 ---
 
-# Earlier the week …
+# Earlier the week ...
 
-## Car Culture - Rest Here
+## Akolyth - Ecstatic Kingdom
 
-Neues aus der Feder des amerikanischen Producers Daniel Fisher, welcher alle seine Aliase und seinem Label Allergy Season bündelt, außer Car Culture. Fragmentale Kompositionen aus Electronica, Folk und Dream Pop  werden hier für die Ohren bereitgestellt.
+tbd
 
-::genre::experimental electronica, avant folk, dreampop
+::genre::
 
-## Igor Dyachenko - Remnants of Noise
+## Armoured Knight - The Quest For The Sacred Melody
 
-Mit seinem neuesten Output schlängelt sich der russische Producer und DJ durch fragmentelle Arbeiten des Ambient, Drone, Field-Recordings und Noise.
+tbd
 
-::genre::ambient, drone, field recordings, noise
+::genre::
+
+## Bryan Senti - La Marea
+
+tbd
+
+::genre::
+
+## Car Culture, Physical Therapy - Rest Here
+
+tbd
+
+::genre::
+
+## Czyszy - Secret Clockwork
+
+tbd
+
+::genre::
+
+## Half Dome - Romancing the Throne
+
+tbd
+
+::genre::
+
+## Himberg, Wintergrau - Vergänglichkeit, Erinnerung, Vergessen
+
+tbd
+
+::genre::
+
+## Huis - À Huis Clos *
+
+Die kanadischen Neo-Progger mit ihrem neuesten Release. Ambitionierter Neo-Prog, welche auch mit klassischen Elementen des Prog-Rock und Psychedelica spielt.
+
+::genre::neo prog rock, psych rock
+
+## Igor Dyachenko, Offret - Remnants of Noise
+
+tbd
+
+::genre::
 
 ## Jason Bieler And The Baron Von Bielski Orchestra - The Baroness Sessions
 
@@ -516,23 +1548,71 @@ Das imaginäre Projekt des amerikanischen Sängers, Gitarristen und Songwriters 
 
 ::genre::neo classic, gothic rock, bossa nova, synth rock
 
-## Solomon Fox - Sweettooth
+## Menace Ruine - The Color Of The Grave Is Green
 
-Der amerikanische Singer & Songwriter bringt mit seinem neuesten Werk eine Mixtur aus Indie-Pop, Hip-Hop, Trip-Hop, Acid-Jazz und Soul unter die Menschen.
+tbd
 
-::genre::indie pop, acid jazz, neo soul, hip hop, trip hop
+::genre::
 
-## Vier - IIII
+## Midori Komachi - Chashitsu: Auditory Tea Room
 
-Das Debüt der Kollaboration zwischen den amerikanischen Producern Thys, Machinedrum, Holly und Salvador Breed. In Beat werden Jungle, Drum & Bass, Breakbeat und Dub gebracht.
+tbd
 
-::genre::jungle, d&b, breakbeat, dub
+::genre::
 
-## Worakls - From one Blink to another
+## Mietke - Moonlight
 
-Der französische DJ und Producer Kevin Rodrigues bildet mit Orchester das Projekt Worakls. Cinematic-Techno-House beschreibt das Endergebnis am besten.
+tbd
 
-::genre::cine electronica, techno, house
+::genre::
+
+## Mike McCready - Farewell to Seasons
+
+tbd
+
+::genre::
+
+## Nick Fletcher - The Mask of Sanity
+
+tbd
+
+::genre::
+
+## Occult Kenji - Of Gods And Ancestors
+
+tbd
+
+::genre::
+
+## Primaluce - Metamors
+
+tbd
+
+::genre::
+
+## Psychedelic Source Records, Diablo in Alpujarras - Diablo in Alpujarras
+
+tbd
+
+::genre::
+
+## Radwimps - Anew
+
+tbd
+
+::genre::
+
+## Salt Beef Reuben - At Location 9
+
+tbd
+
+::genre::
+
+## Serge Serna - Albamundo
+
+tbd
+
+::genre::
 
 ## Sock Drawer - Chop Shop
 
@@ -540,14 +1620,92 @@ Das UK-Based Duo mit seinem neuesten Werk. Eine dream-like Menage aus Dream- und
 
 ::genre::dreampop, synth pop, indie pop, indietronica
 
+## Solomon Fox - Sweettooth
+
+Der amerikanische Singer & Songwriter bringt mit seinem neuesten Werk eine Mixtur aus Indie-Pop, Hip-Hop, Trip-Hop, Acid-Jazz und Soul unter die Menschen.
+
+::genre::indie pop, acid jazz, neo soul, hip hop, trip hop
+
+## Susan DiBona, Salvatore Sangiovanni, Paolo Vivaldi, I Solisti Aquilani, Paolo Carlini - Crossover Bassoon
+
+tbd
+
+::genre::
+
+## Synaesthesis, Dominykas Digimas - Čiurlionis. Slowed and Reverb
+
+tbd
+
+::genre::
+
+## The Emerald Dawn - The Land, The Sea, The Air (Volume I)
+
+tbd
+
+::genre::
+
+## The Lilacs - Keeping Up with the Joneses
+
+tbd
+
+::genre::
+
+## Thorondir - Wächter Des Waldes
+
+tbd
+
+::genre::
+
+## U - ARCHENFIELD
+
+tbd
+
+::genre::
+
+## Venesis - Until We Fade
+
+tbd
+
+::genre::
+
 ## Vials Of Wrath - Remnants for Remembrance
 
 Das Solo-Projekt um den amerikanischen Multi-Instrumentalisten Dempsey Mills. Melodischer und folk-inspirierter Post-Black-Metal, welcher klassische Elemente des Heavy-Metal in sich vereinigt und mit konservativ christlicher Thematik besungen wird.
 
 ::genre::melo black metal, post black metal, heavy metal
 
-## Huis - À Huis Clos *
+## VIER, Thys, Machinedrum, Holly - IIII
 
-Die kanadischen Neo-Progger mit ihrem neuesten Release. Ambitionierter Neo-Prog, welche auch mit klassischen Elementen des Prog-Rock und Psychedelica spielt.
+tbd
 
-::genre::neo prog rock, psych rock
+::genre::
+
+## Worakls - From one Blink to another
+
+Der französische DJ und Producer Kevin Rodrigues bildet mit Orchester das Projekt Worakls. Cinematic-Techno-House beschreibt das Endergebnis am besten.
+
+::genre::cine electronica, techno, house
+
+## Wouter Veldhuis - Figuration 1
+
+tbd
+
+::genre::
+
+## Xavier Boscher - La Cité Séraphine
+
+tbd
+
+::genre::
+
+## Yara Asmar - Everyone I love is Sleeping and I love them so so much
+
+Die libanesische Multi-Instrumentalistin mit ihren neuesten Klang-Experimenten. Eine dunkle Ambient-Atmosphäre mit eine Nebel von akustischen Instrumentalisierungen durchsetzt. “From Title to Body” ein recht nachdenkliches Werk.
+
+::genre::ambient acoustic
+
+## Ültra Raptör - Fossilized
+
+tbd
+
+::genre::

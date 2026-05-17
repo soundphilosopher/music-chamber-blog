@@ -135,6 +135,28 @@ conda deactivate
 conda env remove -n music-chamber
 ```
 
+### Using uv
+
+You can also use [uv](https://docs.astral.sh/uv/) to manage the environment and dependencies:
+
+1. **Install suitable Python version**
+
+   ```bash
+   uv python install 3.14
+   ```
+
+2. **Sync dependencies**
+
+   ```bash
+   uv sync
+   ```
+
+3. **Run the application**
+
+   ```bash
+   uvx mkdocs serve -w .
+   ```
+
 ---
 
 ## 🎨 Theming

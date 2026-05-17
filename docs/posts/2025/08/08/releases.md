@@ -1,11 +1,7 @@
 ---
 date: 2025-08-08
-pin: false
-draft: false
 categories:
   - Releases
-authors:
-  - vuellosoph
 ---
 
 # Releases! Releases! Releases!
@@ -16,11 +12,19 @@ Die Schwedischen Prog-Rocker mit ihrem neuesten Werk zum mittlerweile 30 Jährig
 
 ::genre::prog rock
 
-## Ada Lea - Moon Blossom
+## Ada Lea - when i paint my masterpiece
 
-Die Singer & Songwriterin aus Kanada mit ihrem neuesten Output. Akustische Klänge werden im Indie-Folk dargeboten.
+tbd
 
-::genre::indie folk
+::genre::
+
+## alice does computer music - Bliss
+
+tbd
+
+::genre::
+
+<!-- more -->
 
 ## Almost An Island - Almost An Island
 
@@ -28,15 +32,55 @@ Die Kollaboration um den Producer Kenneth James Gibson und das Multitalent-Pärc
 
 ::genre::post rock, ambient
 
-<!-- more -->
+## Amaarae - Black Star
 
-## Attack Attack! - Attack Attack II
+tbd
 
-Die Amerikaner mit ihrem neuesten Output. Modern Metalcore, welcher die jüngste Welle des Tik-Tok-Metalcore zu feiern scheint. Der übliche moderne Mix aus Electronica und Metalcore.
+::genre::
 
-::genre::metalcore, electronica
+## Anamanaguchi - Anyway
 
-## Babymetal  - Metal Forth *
+tbd
+
+::genre::
+
+## Anchor & Burden - Sunken Fleet
+
+tbd
+
+::genre::
+
+## Anthares - Espetáculo Sangrento
+
+tbd
+
+::genre::
+
+## As December Falls - Everything’s On Fire But I’m Fine
+
+tbd
+
+::genre::
+
+## Ashley Monroe - Tennessee Lightning
+
+tbd
+
+::genre::
+
+## Attack Attack! - Attack Attack! II
+
+tbd
+
+::genre::
+
+## Aversions Crown - A Voice From The Outer Dark
+
+tbd
+
+::genre::
+
+## Babymetal - Metal Forth *
 
 Die japanische Kawaii-Metal-Formation mit ihrem neuesten Album. Die Kollaborationen reichen von Poppy bis Slaughter To Prevail. Für Fans sicherlich ein Fest. Für Kawaii-Metal eine ausgesprochen super Produktion, mit passenden und schnörkellosen Songwriting.
 
@@ -48,23 +92,125 @@ Die kalifornische Kapelle mit ihrem neuesten Release. Sonniger Indie-Rock bis In
 
 ::genre::indie rock, indie pop
 
+## Bailey Zimmerman - Different Night Same Rodeo
+
+tbd
+
+::genre::
+
+## Beyond Deviation - KANASHIMI
+
+tbd
+
+::genre::
+
+## Big Freedia - Pressing Onward
+
+tbd
+
+::genre::
+
 ## Blackbraid - Blackbraid III
 
 Das atmosphärische Black-Metal Solo-Projekt um den New Yorker Jon Krieger mit einem neuen Release. In Atmosphäre versetzter folkiger Black-Metal.
 
 ::genre::atmo black metal, folk metal
 
-## Boy George - SE18
+## Borracho - Ouroboros
 
-Ja, die britische Pop-Legende mit einem neuen Werk. Wer schon immer mal neue Tunes von Boy George hören wollte, bitte.
+tbd
 
-::genre::introspective pop
+::genre::
+
+## BRCDS - Slither
+
+tbd
+
+::genre::
+
+## Bryson Tiller - Solace & The Vices
+
+tbd
+
+::genre::
+
+## Bunny Blood - Was It Me?
+
+tbd
+
+::genre::
+
+## Cemetery - Thoughts On Life ... And Death
+
+tbd
+
+::genre::
+
+## Challenger Deep - Point of No Return
+
+tbd
+
+::genre::
+
+## Charley Crockett - Dollar A Day
+
+tbd
+
+::genre::
+
+## Circling Over - Amends
+
+tbd
+
+::genre::
+
+## Cobalt Wave - Men. Mind. Machine
+
+tbd
+
+::genre::
+
+## Craig David - Commitment
+
+tbd
+
+::genre::
+
+## Crash Adams - Crashing Into Your Living Room Vol. 2 EP
+
+tbd
+
+::genre::
 
 ## Curbside - A Lifetime to Outgrow *
 
 Die kanadische Skate-/Pop-Punk Band mit einem neuen Output. Singalong Punk der kalifornischen Art und Weise. Ich habe immer noch ein Herz für diesen Shit.
 
 ::genre::pop punk, skatepunk
+
+## Cytolysis - Surge Of Cruelty
+
+tbd
+
+::genre::
+
+## deprived of - AFTERGLOW
+
+tbd
+
+::genre::
+
+## Distress - Under Pressure Of Reality
+
+tbd
+
+::genre::
+
+## DONEFOR - DONEFOR
+
+tbd
+
+::genre::
 
 ## Dreamwake - The Lost Years
 
@@ -78,11 +224,35 @@ Die amerikanischen Rap-Metalcorer mit ihrem neuesten Output. Ohne Breakdowns hä
 
 ::genre::rap metal, nu metal
 
-## Ethel Cain - Willoughby Tucker, I’ll always Love you **
+## Eddy Grant - Walking On Sunshine
 
-Die zauberhafte Ethel mit ihrem neuesten Machwerk. Die amerikanische Singer & Songwriterin verpackt ihre zauberhafte Stimme in einen Mix aus Alt-Indie, Drone und Dark-Folk.
+tbd
 
-::genre::alt indie, drone, dark folk
+::genre::
+
+## Else Marie Pade - EMP 11
+
+tbd
+
+::genre::
+
+## ena mori - rOe
+
+tbd
+
+::genre::
+
+## Ethel Cain - Willoughby Tucker, I'll Always Love You
+
+tbd
+
+::genre::
+
+## Fairport Convention - Gladys' Leap
+
+tbd
+
+::genre::
 
 ## Field Medic - Surrender Instead
 
@@ -90,11 +260,17 @@ Der amerikanische Singer & Songwriter Kevin Patrick Sullivan mit seinem neuesten
 
 ::genre::indie folk
 
-## Garreth Broke - You’re in Everything I do
+## For Those I Love - Carving the Stone
 
-Der britische Composer mit seinem neuesten Werk der Trauerbewältigung. Moderne Rhythmen werden mit dem klassischen Piano in Komposition gebracht.
+tbd
 
-::genre::modern classic
+::genre::
+
+## Garreth Broke - You're in Everything I Do
+
+tbd
+
+::genre::
 
 ## Good Charlotte - Motel Du Cap
 
@@ -102,11 +278,29 @@ Ja, die Amerikaner mit einem neuen Werk. Ich würde es weiter als Pop-Punk bezei
 
 ::genre::pop punk, alt rock
 
+## Gordi - Like Plasticine
+
+tbd
+
+::genre::
+
 ## Gungor - Magnificat
 
 Das amerikanische Pärchen Michael Gungor und Lisa Gungor mit ihrer neuesten Komposition. Dem Pop verpflichteten Indie-Folk mit experimentellen Rock-Einlagen.
 
 ::genre::indie folk
+
+## Gunna - The Last Wun
+
+tbd
+
+::genre::
+
+## Guy Sebastian - 100 Times Around the Sun
+
+tbd
+
+::genre::
 
 ## Halestorm - Everest
 
@@ -114,11 +308,23 @@ Die Amerikaner mit ihrem neuesten Output. Das Ohr erwartet eine Mischung aus kla
 
 ::genre::heavy metal, alt metal, hard rock
 
-## Hannah Grace - Why can’t I cry about it?
+## Harpo Jarvi - Toadstradamus
 
-Die walisische Singer & Songwriterin mit ihrem neuesten Release. Es wird eine popp-y Art des Indie-Folk in die Welt getragen.
+tbd
 
-::genre::art pop, indie folk
+::genre::
+
+## Hayes Carll - We're Only Human
+
+tbd
+
+::genre::
+
+## HEAT CHECK - LP1
+
+tbd
+
+::genre::
 
 ## Humour - Learning Greek
 
@@ -126,23 +332,95 @@ Die Briten mit ihrem neuesten Streich. Mit ihrem Mix aus Post-Hardcore, Screamo 
 
 ::genre::post hardcore, screamo, alt rock
 
-## Infinite Scale - Vanishing
+## I.F.A - Tiimalasi
 
-Der britische Producer und DJ mit einem neuen Werk. Electronica wird in einen Pool mit Ambient und Trip-Hop geworfen und zum Schwimmen gebracht.
+tbd
 
-::genre::electronica, trip hop
+::genre::
 
-## Infinite Dots - ELV
+## Inbar Fridman - Still Raining
 
-Ich weiss gar nicht mehr, wer sich hinter diesem Pseudonym versteckt. Ich weiss aber, was ich hier erwarte und auch bekomme. Experimentelle Soundscapes und Field-Recordings eingebettet in ein Klangbild des Electronica-Ambient.
+tbd
 
-::genre::ambient, field recordings
+::genre::
 
-## Rachel Baiman, Viv & Riley - Kissing other ppl
+## Infinite Scale - Not Complex
 
-Die Kollaboration zwischen dem amerikanischen Folk-Duo und dem amerikanischen Singer & Songwriter bringt genau das ans Tageslicht, was man erwarten könnte. Nashville-Folk mit Bluegrass Versätzen.
+tbd
 
-::genre::country folk, indie folk, americana
+::genre::
+
+## Infinity Dots - ELV
+
+tbd
+
+::genre::
+
+## iyla - WEEPING ANGEL
+
+tbd
+
+::genre::
+
+## J.I.D - God Does Like Ugly
+
+tbd
+
+::genre::
+
+## Janek Gwizdala - Found
+
+tbd
+
+::genre::
+
+## Jenevieve - CRYSALIS
+
+tbd
+
+::genre::
+
+## JID - God Does Like Ugly
+
+tbd
+
+::genre::
+
+## John Also Bennett - Ston Elaióna
+
+tbd
+
+::genre::
+
+## Jonas Brothers - Greetings From Your Hometown
+
+tbd
+
+::genre::
+
+## Kaash Paige - KAASHMYCHECKS
+
+tbd
+
+::genre::
+
+## Kaizen - Kaizen (Ao Vivo)
+
+tbd
+
+::genre::
+
+## Kissing Other ppl - Kissing Other ppl
+
+tbd
+
+::genre::
+
+## La Dispute - IV
+
+tbd
+
+::genre::
 
 ## Liv Sin - Close your Eyes
 
@@ -156,17 +434,47 @@ Die deutsche Goth-Metal-Formation mit ihrem neuesten Release. Trotzdem ich dem G
 
 ::genre::gothic metal
 
+## Lucifers Beard - Welcome To Loveland
+
+tbd
+
+::genre::
+
+## Lydia Night - Parody of Pleasure
+
+tbd
+
+::genre::
+
+## Machine Gun Kelly - lost americana
+
+tbd
+
+::genre::
+
 ## Madeleine Cocolas - Syndesis
 
 Die australische Producerin und Komponistin mit einem neuen Klangwerk. Ambient, Field-Recordings, Drone und Modern Classic werden hier hervorragend kombiniert und in den Raum der Klänge hineinversetzt.
 
 ::genre::ambient, field recordings, drone, modern classic
 
-## Malthusian - Red, Waiting
+## Malcolm Todd - Malcolm Todd (Still)
 
-Die irischen Death-Metaller mit ihrem neuesten Werk. Old-School-Death-Metal der schwedischen Art.
+tbd
 
-::genre::osdm
+::genre::
+
+## Malthusian - The Summoning Bell
+
+tbd
+
+::genre::
+
+## Mechatok - Wide Awake
+
+tbd
+
+::genre::
 
 ## Meg Washington - Gem
 
@@ -174,17 +482,119 @@ Die australische Künstlerin mit ihrem neuesten Release. Eine schmeichelnde Komp
 
 ::genre::indie pop, indie folk, alt indie
 
+## Melpomene - A Body Is A Suggestion
+
+tbd
+
+::genre::
+
+## Memory of Jane - Unsinking The Cypress
+
+tbd
+
+::genre::
+
+## Memphis Slim - Lonesome Blues
+
+tbd
+
+::genre::
+
+## MGK - Lost Americana
+
+tbd
+
+::genre::
+
+## Miss Fortune - Miss Fortune
+
+tbd
+
+::genre::
+
+## Morgan James - Soul Remains The Same
+
+tbd
+
+::genre::
+
+## Mozzy - Intrusive Thoughts 2
+
+tbd
+
+::genre::
+
+## Mudi Sama - Will I Make It Out Alive?
+
+tbd
+
+::genre::
+
+## Newmen - Terminal Beach
+
+tbd
+
+::genre::
+
+## Ninajirachi - I Love My Computer
+
+tbd
+
+::genre::
+
 ## No Joy - Bugland
 
 Die kanadische Band mit ihrem neuesten Output. Shoegaze, welcher sich an die Post-Punk-Generation richtet. Experimentell und noise-y, genau so liebt man No Joy.
 
 ::genre::shoegaze, post punk, noise rock
 
-## Not Enough Space - Don’t let go
+## Osees - Abomination revealed at Last
 
-Die amerikanische Formation mit ihrem neuesten Release. Modern Metal, welcher sich auch Ab und An am Metalcore versucht. Gute Produktion, langweiliges Songwriting.
+Die Psych-Punker aus LA mit einem neuen Werk. Psychedelic-Rock und 70s Punk werden in Klang gebracht.
 
-::genre::modern metalcore
+::genre::psych rock
+
+## Outdeth - Colossus
+
+tbd
+
+::genre::
+
+## Overbud - Syn
+
+tbd
+
+::genre::
+
+## Phil ElverumandArrington de Dionyso - Giant Opening Mouth on the Ground
+
+tbd
+
+::genre::
+
+## Protect This City - Heavenly Realm
+
+tbd
+
+::genre::
+
+## Pustulant Flesh - Gurgling Pustulence
+
+tbd
+
+::genre::
+
+## Remble - Juco
+
+tbd
+
+::genre::
+
+## Roc MarcianoandDJ Premier - The Coldest Profession
+
+tbd
+
+::genre::
 
 ## Shadow Academy - Prisms
 
@@ -198,11 +608,41 @@ Die multinationale Band mit einem neuen Werk nach sieben Jahren, was verständli
 
 ::genre::blackened death metal, melo death metal
 
+## Stick Men - Brutal
+
+tbd
+
+::genre::
+
+## Striborg - Hate Makes the World Go Round
+
+tbd
+
+::genre::
+
+## Summer Fades Away - Endless
+
+tbd
+
+::genre::
+
+## Sweet - Sweet Fanny Adams Revisited
+
+tbd
+
+::genre::
+
 ## T. Hardy Morris - Artificial Tears
 
 Das Projekt um den Amerikaner Thomas Hardy Morris mit einem neuen Release. Psychedelic-Indie-Folk trifft es vermutlich am Besten.
 
 ::genre::psych folk, indie folk
+
+## Talaqat - Talaqat
+
+tbd
+
+::genre::
 
 ## Teethe - Magic of the Sale
 
@@ -210,23 +650,107 @@ Die LoFi-Indie-Band aus Texas mit ihrem neuesten Output. Ein space-y Mix aus Bed
 
 ::genre::lofi, bedroom pop, indie rock, slowcore, psych rock
 
+## Temtris - Queen Of Crows
+
+tbd
+
+::genre::
+
+## The Apotheosis - Hidden Inventory
+
+tbd
+
+::genre::
+
+## The Audacity - Entry Wounds
+
+tbd
+
+::genre::
+
 ## The Black Keys - No Rain, No Flowers
 
 Die Grammy-winning Band, um das Duo Auerbach und Carney, mit einem neuen Werk. Indie-Rock mit aktiven Songwriting.
 
 ::genre::indie rock
 
-## Osees - Abomination revealed at Last
+## The Demensions - Demensions' Gold
 
-Die Psych-Punker aus LA mit einem neuen Werk. Psychedelic-Rock und 70s Punk werden in Klang gebracht.
+tbd
 
-::genre::psych rock
+::genre::
+
+## The Missing Peace - THE VOID
+
+tbd
+
+::genre::
+
+## The Nudge Unit - The Nudge Unit
+
+tbd
+
+::genre::
+
+## The Royston Club - Songs For the Spine
+
+tbd
+
+::genre::
+
+## Thee Oh Sees, Osees - ABOMINATION REVEALED AT LAST
+
+tbd
+
+::genre::
+
+## Theurgion - All Under Heaven
+
+tbd
+
+::genre::
 
 ## Thousand Below - Buried in Jade
 
 Die Post-Hardcore-Garnison aus San Diego mit ihrem neuesten Klangwerk. Ziemlich modern ausgelegter Post-Hardcore, welcher oft das Modern-Metal-Feld durchquert.
 
 ::genre::modern metalcore, post hardcore
+
+## TITVN - The Death Experience
+
+tbd
+
+::genre::
+
+## Trainer - Oh, Mandy!
+
+tbd
+
+::genre::
+
+## uponbrokenapologies - Silence and Sorrow
+
+tbd
+
+::genre::
+
+## Valfreyja - The Rose of Rebirth
+
+tbd
+
+::genre::
+
+## Variant - My Body, You’ll Alter
+
+tbd
+
+::genre::
+
+## Virtues - ODE
+
+tbd
+
+::genre::
 
 ## Vvarp - Power held in Stone
 
@@ -240,15 +764,111 @@ Das kanadische Doom-Metal-Trio kollaboriert mit dem Sound-Engineer James Beardmo
 
 ::genre::doom metal, spiritual jazz, oriental jazz, ambient, experimental rock, prog rock
 
+## We Came From Wolves - In Another Life
+
+tbd
+
+::genre::
+
+## Westside Cowboy - This Better Be Something Great
+
+tbd
+
+::genre::
+
+## Wombo - Danger in Fives
+
+tbd
+
+::genre::
+
+## Young Nudy - Paradise
+
+tbd
+
+::genre::
+
+## Yukno - Gute Nachtmusik
+
+tbd
+
+::genre::
+
 ---
 
-# Earlier the week …
+# Earlier the week ...
 
-## Astronauts, etc. - Professional Void
+## Alio Die - Between the End and the Beginning
 
-Der kalifornische Künstler Anthony Ferraro mit einem neuen Werk unter seinem Projekt-Pseudonym. Ich würde es dem Alt-Indie zurechnen.
+tbd
 
-::genre::alt indie
+::genre::
+
+## Aterra - Where the Light Cannot Reach
+
+tbd
+
+::genre::
+
+## Aversions Crown - A Voice From The Outer Dark
+
+tbd
+
+::genre::
+
+## Babal - Running In The Gutter
+
+tbd
+
+::genre::
+
+## Bobby Nystrom - Conatus
+
+tbd
+
+::genre::
+
+## Brainly - Calmed Out
+
+Der Producer und Sound-Engineer Brandon Muller mit einem Experiment des Ambient in 432 Hz. Eine meditative Ambient-Reise? Ich weiss es nicht.
+
+::genre::ambient
+
+## Chris Staples - Don't Worry
+
+tbd
+
+::genre::
+
+## Citizen - Halcyon Blues
+
+tbd
+
+::genre::
+
+## David Boulter - Whitby
+
+tbd
+
+::genre::
+
+## Die-Band - Nautikus
+
+tbd
+
+::genre::
+
+## Dionne Warwick - Dwuets
+
+tbd
+
+::genre::
+
+## Domesticatrix - Magistra
+
+tbd
+
+::genre::
 
 ## Foot - The Hammer
 
@@ -256,11 +876,23 @@ Die australische Desert-Rock-Kapelle mit einem neuen Release. Desert-/Stoner-Roc
 
 ::genre::desert rock, stoner rock, psych rock
 
-## Chris Staples - Don’t Worry
+## From Another Life - My Escape
 
-Der Indie-Bedroom-Folker mit seinen neuesten Kompositionen.
+tbd
 
-::genre::indie folk, bedroom pop
+::genre::
+
+## Glinca - Tament
+
+tbd
+
+::genre::
+
+## Half Dome - Other Tides, Other Shores
+
+tbd
+
+::genre::
 
 ## Horror Of Pestilence - Surviving
 
@@ -268,11 +900,71 @@ Die chinesische Band mit einem neuen Output. Moderner Deathcore der technischen 
 
 ::genre::deathcore, modern metalcore, symphonic black metal
 
-## Scape One - A certain Interupt
+## Lawrence English - The Rest Is My Ghost
 
-Der britische Producer Kurt Baggaley hier mal im Alleingang und ohne seinen Producer-Partner Tau Sagittarii. Electronica der Krautrock-Generation, mit minimal Sound-Experimentent.
+tbd
 
-::genre::krautrock, experimental electronica
+::genre::
+
+## Loula Yorke - Time is a Succession of Such Shapes
+
+tbd
+
+::genre::
+
+## Matteo Pagamici, Michael Künstle - DIMENSIONS
+
+tbd
+
+::genre::
+
+## Mindistry - Bloodline
+
+tbd
+
+::genre::
+
+## Nao Kuroda - Stillness (Zen Gardens in Summertime)
+
+tbd
+
+::genre::
+
+## Orkestrafria - Erosion/Disappearance
+
+tbd
+
+::genre::
+
+## Overcast Harbor - Danger Zones
+
+tbd
+
+::genre::
+
+## Overmono - Pure Devotion
+
+tbd
+
+::genre::
+
+## Public Opinion - The Curse of Public Opinion
+
+tbd
+
+::genre::
+
+## Rodgrigo San Martin - Otro Día en la Distopía
+
+tbd
+
+::genre::
+
+## Rudenya - A Spark Of Light
+
+tbd
+
+::genre::
 
 ## RXM Reality - Free Party
 
@@ -280,8 +972,62 @@ Der amerikanische Producer mit einem neuen Werk der Zerstörung. Breakbeat, Danc
 
 ::genre::breakbeat, dance, jungle, techno, electronica
 
-## Brainly - Calmed Out
+## Scape One - A certain Interupt
 
-Der Producer und Sound-Engineer Brandon Muller mit einem Experiment des Ambient in 432 Hz. Eine meditative Ambient-Reise? Ich weiss es nicht.
+Der britische Producer Kurt Baggaley hier mal im Alleingang und ohne seinen Producer-Partner Tau Sagittarii. Electronica der Krautrock-Generation, mit minimal Sound-Experimentent.
 
-::genre::ambient
+::genre::krautrock, experimental electronica
+
+## ShiveringFit - Die Welt Durch Die Du Rennst
+
+tbd
+
+::genre::
+
+## Spanform - Spanforge
+
+tbd
+
+::genre::
+
+## Sunset - The Brain and I
+
+tbd
+
+::genre::
+
+## Tadashi Goto - Echoes
+
+tbd
+
+::genre::
+
+## Telepathic Moon Dance - The Portal
+
+tbd
+
+::genre::
+
+## Tempest Veins - Last Voyage
+
+tbd
+
+::genre::
+
+## TodoMal - Graveyards of Joy
+
+tbd
+
+::genre::
+
+## Until Zen - The Grip
+
+tbd
+
+::genre::
+
+## XANDRIA - Eclipse
+
+tbd
+
+::genre::

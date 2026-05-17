@@ -8,7 +8,6 @@ version = "0.1.0"
 description = "Static content generator for music chamber sessions"
 requires-python = ">=3.14"
 dependencies = [
-    "mkdocs",
     "mkdocs-material",
     "mkdocstrings[python]",
     "mkdocs-gen-files",
@@ -33,6 +32,7 @@ include = ["scripts/**/*.py"]
 
 [dependency-groups]
 dev = [
+    "properdocs>=1.6.7",
     "pyright>=1.1.408",
     "ruff>=0.15.10",
 ]
