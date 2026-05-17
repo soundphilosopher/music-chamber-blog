@@ -420,7 +420,7 @@ Gegründet 2021 von Veteranen der Szene, darunter Greg Falchetto (ehemals *The M
 
 Die 2024 gegründete Band war zuvor unter dem Namen *R3VO* bekannt. Die Besetzung besteht aus Mitgliedern aus Frankreich und Finnland, was sie zu einer wahrhaft internationalen **Alt-Prog**-Kraft macht. **Alternativer Progressive Metal/Rock**. Die Band beschreibt diesen speziellen Track als Treuebekundung an klassische Rockhymnen, die Pop-Hooks mit metallischer Technik verbindet. Das ist kein gewöhnlicher Prog - es ist raffiniert-verrückt. Es gelingt ihnen, technisch beeindruckend zu sein, ohne dabei zu vergessen, dass ein Song eigentlich eingängig sein sollte. Es ist für alle, die headbangen wollen, aber auch den 7/8-Takt halten möchten.
 
-::genre::alt prog rock, prog metal
+::genre::prog rock, prog metal
 
 ## Holywatr - Deo Gratias
 
