@@ -22,7 +22,7 @@ Die deutsche Formation mit ihrem neuesten Output. Sie spielen eine Mischung aus 
 
 Der amerikanische Producer und Komponist Adrian Walther mit seinem neuesten Longplayer. Das Projekt ist stark von **Ambient**, **New Age** und **Acoustic-Folk** geprägt. Es zeichnet sich durch beruhigende Gitarrenmelodien und friedliche atmosphärische Klänge aus. Wenn du schon immer einmal auf einem Blatt einen Fluss hinuntertreiben wolltest, während ein kleines Orchester aus Waldtieren Gitarre spielt, dann ist dies dein Soundtrack. Es ist pure Glückseligkeit für die Ohren - die Art von Musik, die einen hektischen Montagmorgen wie ein Sonntagsschläfchen in einem Sonnenstrahl erscheinen lässt.
 
-::genre::ambient, cine ambient, acoustic ambient, new age, alt folk
+::genre::ambient, cine ambient, ambient acoustic, new age, alt folk
 
 <!-- more -->
 
