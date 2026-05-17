@@ -380,6 +380,12 @@ Seit 2011 aktiv, wurden sie 2023 zum Thrash-Newcomer des Jahres gekürt. Dies is
 
 ::genre::thrash metal, heavy metal
 
+## Fir Cone Children - Vs. The Real World
+
+*Fir Cone Children* ist das überaus produktive Soloprojekt von Alexander Leonard Donat. Seit über einem Jahrzehnt dienen seine beiden Töchter als konzeptionelle Musen für das Projekt. Auf diesem wegweisenden zwölften Album wirken seine Töchter (die nun ins Teenageralter kommen) aktiv an der Musik mit, wobei Tochter Liisu bei Titeln wie dem Album-Opener "St. Vincent" wunderschöne Hintergrundgesangspassagen beisteuert. **Dreampunk** / **Noise-Pop** / **Shoegaze**, der rasante, mitreißende Punkrock-Tempi mit verträumten **Bedroom-Pop**-Melodien verbindet. Stell dir vor, eine Shoegaze-Band der 90er hätte viel zu viel Espresso getrunken und versucht, ein Pop-Punk-Set zu spielen - das ist das herrliche Chaos von "Vs. The Real World". Donat fängt meisterhaft den hektischen, verwirrenden Übergang seiner Kinder von der Unschuld der Kindheit in die harte Realität des Teenagerlebens, der sozialen Medien und des Schulstresses ein. Die Gitarren dröhnen mit adrenalingeladener Geschwindigkeit, während die süßen Vater-Tochter-Gesangsharmonien dem gesamten Album einen warmen, wohlig-emotionalen Kern verleihen. Es ist schnell, laut, zutiefst sentimental und absolut süchtig machend.
+
+::genre::dreampop, shoegaze, pop punk, noise pop, bedroom pop
+
 ## Fire-Toolz - Lavender Networks
 
 Das experimentelle Projekt des Produzenten und Nu-Age-Pioniers *Angel Marcloid*, der sich eine erfolgreiche Karriere aufgebaut hat, indem er extreme Genres mit New-Age-Ästhetik verbindet. **Avantgarde-Metal** / **IDM** / **Vaporwave** / **Cybergrind**. Erwarte eine maximalistische Kollision aus Smooth-Jazz-Fusion, Death-Metal-Schreien und glitchigen elektronischen Texturen. Dieses Album ist eine stroboskopbeleuchtete Reise durch einen digitalen Fiebertraum. Es ist emotionale Wahrheit durch Absurdität - ein Wechsel von ruhigen Harfenmelodien zu rasanten Blastbeats innerhalb von Sekunden. Es ist wunderschön, überwältigend und klingt, als hätte das Internet einen Moment der Erleuchtung.
