@@ -20,13 +20,19 @@ Die Band, die 1985 als Pioniere der britischen Thrash-Bewegung gegründet wurde,
 
 ::genre::thrash metal, speed metal
 
+## Active Child - Active Child
+
+Active Child ist das Soloprojekt von *Patrick Grossi*, einem ehemaligen Chorknaben, der sich zum klassisch ausgebildeten Harfenisten und Elektronikproduzenten weiterentwickelt hat. Seit seinem bahnbrechenden Album "You Are All I See" aus dem Jahr 2011 ist Grossi ein Liebling der Indie-Pop-Szene und bekannt für sein überirdisches Falsett und seine herzzerreißenden Arrangements. **Art Pop**, **Synth-Pop**, **Indie-R&B** und **Ethereal Wave**. Er verbindet auf wunderschöne Weise die synthetische Chorkraft von *James Blake* oder *How to Dress Well* mit klassischen Harfenarrangements und grandioser, kaskadenartiger Kathedralen-Elektronik. Patrick Grossi hat uns selbst gewarnt: Dieses selbstbetitelte Album wurde maßgeschneidert, um dein Herz völlig zu zerbrechen, und Mann, hält es, was es verspricht! *Active Child* ist ein herrlicher, maximalistischer emotionaler Spielplatz. Grossis Stimme steigt in die Stratosphäre empor wie ein digitaler Engel, der über massiven, dröhnenden 808-Subbass-Hits und eleganten Harfenklängen singt. Das Thema ist reines, filmisches Melodram - es geht um Sehnsucht, Verletzlichkeit und spirituelle Heilung. Es klingt, als wäre ein Kirchenchor in einem futuristischen Neon-Raumschiff gefangen, und es ist atemberaubend schön.
+
+::genre::art pop, synth pop, indie pop, mellow pop
+
+<!-- more -->
+
 ## Advent Horizon - Falling Together
 
 Zur Besetzung gehören Rylee McDonald (Gesang/Gitarre/Keyboard), Mike Lofgreen (Schlagzeug), Cason Wood (Bass/Synthesizer) und Grant Matheson (Gesang/Gitarre). Nach ihrem Durchbruchalbum "A Cell To Call Home" aus dem Jahr 2023 nahmen sie dieses Nachfolgealbum in den Cold House Studios auf und beauftragten den Progressive-Rock-Giganten Jens Bogren (Opeth, Haken, Leprous) mit dem Mastering. Komplexer, emotional dichter **Progressive Rock** / **Progressive Metal**, unterlegt mit schwebenden Gesangsharmonien, dichten Keyboardklängen und hochdynamischen Gitarrenläufen. Setzen Sie Ihre Denkmütze auf, denn Advent Horizon schickt Ihr Gehirn auf eine wilde Achterbahnfahrt. "Falling Together" ist eine gewaltige konzeptionelle Reise, bei der die Überzeugungen Ihrer Kindheit unter die Lupe genommen werden. Das absolute Herzstück ist ein kolossaler, 19-minütiger Eröffnungstrack, der wie eine Miniatur-Sinfonie wirkt. Er wechselt mühelos von intimen, wehmütigen Melodien zu gewaltigen Wänden komplexer Metal-Instrumentierung. Er ist tiefgründig, wunderschön orchestriert und ein Muss für jeden, der episches musikalisches Storytelling liebt.
 
 ::genre::prog rock, prog metal
-
-<!-- more -->
 
 ## Alexis Martin Ensemble - Les pôles Volume 1 *
 
@@ -249,6 +255,12 @@ Aufgenommen, abgemischt und gemastert vom erfahrenen Underground-Toningenieur Jo
 *Empire Of None* wurde 2018 gegründet und hat sich über Jahre hinweg eine treue regionale Fangemeinde aufgebaut. Die Band ist dafür bekannt, die emotionalen, sehr persönlichen Texte des amerikanischen Emo der frühen 2000er Jahre mit den klaren, makellosen Songwriting-Strukturen des modernen skandinavischen Alternative Rock zu verbinden. **Alternative Rock** / **Emo-Punk** / **Pop-Rock**, angetrieben von massiven Pop-Hooks, klarem, hochfliegendem Gesang und elektronischen rhythmischen Untertönen. "Keepsake" ist eine gigantische, glitzernde Explosion von Gefühlen, die sich einfach nicht aus dem Kopf vertreiben lässt. Sie nehmen all diese klassische Indie-Scream-Angst der Teenager und verpacken sie in ein gewaltiges, ausgefeiltes Radio-Rock-Paket. Tracks wie "Lost Kids" haben Refrains, die so eingängig und gewaltig sind, dass man sich dabei ertappt, im Auto mitzusingen, noch bevor man überhaupt richtig bemerkt hat, dass der Song schon vorbei ist. Es ist theatralisch, wunderschön dramatisch und maßgeschneidert für alle, die energiegeladene Hymnen lieben, die dazu gedacht sind, auf der Tanzfläche zu weinen.
 
 ::genre::alt rock, power pop, emocore, pop rock, modern metal
+
+## Enam, Ashra, Dhyāna One - Temple Winds of Varanasi
+
+*Enam* ist eine von der Kritik gefeierte ghanaische Musikerin, die dafür bekannt ist, einen einzigartigen, traditionellen Afro-Spiritual-Sound geprägt zu haben. Hier verbindet sie sich mit dem elektronischen kosmischen Erbe von Ashra und dem tiefmeditativen Konzept von Dhyāna One, wobei die Kompositionen von Santiago Morales geleitet werden. Instrumentaler **New Age**, **Afrosounds** und **neoklassischer Ambient**. Stark inspiriert von der traditionellen indischen spirituellen Geografie (insbesondere der heiligen Stadt Varanasi), altertümlicher Prana-Atmung und hypnotischen, schwebenden Klanglandschaften. Möchten Sie Ihren Blutdruck drastisch senken? Schalten Sie Ihr Handy auf Nicht stören und lassen Sie sich von "Temple Winds of Varanasi" umhüllen. Das Album stützt sich auf eine wunderschöne, mäandernde Flöte, die sich anfühlt, als würde sie im Morgengrauen sicher den Ganges hinuntertreiben. Hier gibt es keine hektischen Beats - nur schimmernde, hallende synthetische Pads und organische Holzblasinstrumente, die tiefe innere Stille hervorrufen. Es ist spirituell, ruhig und wirkt wie ein direkter, akustischer Pass zu einem Tempel auf einem Berggipfel.
+
+::genre::ambient, new age, world music, neo classic
 
 ## Faded Remembrance - The Blessing Of A Downfall
 
@@ -538,6 +550,12 @@ Melancholost ist das mit Spannung erwartete neue Nebenprojekt des Bandchefs Sven
 
 ::genre::goth rock, melo rock, heavy rock
 
+## Mrs Magician - Spiritual Hangover
+
+Die Band wurde Anfang der 2010er Jahre von Frontmann und Hauptsongwriter Jacob Turnbloom gegründet. Mit ihren ersten beiden Alben, die maßgeblich von John Reis von *Rocket From the Crypt* unterstützt und produziert wurden, erlangten sie in der Underground-Szene Südkaliforniens schnell Kultstatus. Dieses Album markiert ihre triumphale Rückkehr nach einer zehnjährigen Pause. **Garage Rock**, **Surf Punk** und hooklastiger **Power Pop**. Sie verbinden meisterhaft die sonnenverwöhnte, strandige Ästhetik von Bands wie *Wavves* oder *The Beach Boys* mit einem stimmungsvollen, dunklen Halloween-Pop-Touch und frechem lyrischem Nihilismus. Stell dir vor, du wachst an einem kalifornischen Strand auf, mit Sand in den Schuhen, pochenden Kopfschmerzen und dem plötzlichen Verlangen, einen klassischen Horrorfilm aus den 1960er Jahren anzuschauen. "Spiritual Hangover" ist genau dieses Gefühl, eingehüllt in pures Gold. Es sprudelt vor unglaublich eingängigen, verzerrten Gitarren-Hooks und sonnigen Melodien, doch die Texte konzentrieren sich ganz auf die dunklen Unterströmungen des Lebens und öffentliche Zusammenbrüche. Es fühlt sich an, als hätte *Blue Öyster Cult* versucht, ein Surf-Rock-Album zu schreiben. Es ist laut, kompromisslos und der perfekte Soundtrack, um mit dem Hund spazieren zu gehen, während man über die Apokalypse nachdenkt.
+
+::genre::power pop, surf punk, garage rock, indie rock
+
 ## My Heart, An Inverted Flame - My Death Is More Beautiful Than Your Life
 
 Ein kraftvolles experimentelles Duo, bestehend aus dem Schlagzeuger Andee Connors (von *A Minor Forest*) und dem Synthesizer-Spieler und Sänger Marc Kate (von *I Am Spoonbender*). **Experimenteller Synth-Doom**, apokalyptischer **Industrial**, **Ambient-Drone** und psychedelischer **Noise**. Beeinflusst von düsterer kosmischer Zerstörung und Dark-Ambient-Klanglandschaften. Wenn du glaubst, dass Doom Metal laute E-Gitarren erfordert, wird dieses Album deine Realität komplett erschüttern. Das Duo tauscht traditionelle Metal-Waffen gegen übersteuerte, wall-of-sound-artige Synthesizer und urwüchsiges, krachendes Schlagzeug aus. Tracks wie "Whispers In Dead Languages" fühlen sich an wie eine Fahrt im Zeitlupen-Aufzug direkt hinab in ein Schwarzes Loch. Es ist ein unglaublich schweres, kunstvoll-verzerrtes und wunderschön-erschreckendes Stück apokalyptischen Noises, das deine Lautsprecher an ihre absoluten Grenzen bringen wird.
@@ -717,6 +735,12 @@ Als eine der führenden Modern-Rock-Bands Schwedens hat sich Self Deception durc
 *Niamh McShane* tritt unter ihrem Künstlernamen Sióg (was auf Irisch "Fee" bedeutet) auf. Sie hat sich als prominente DJane und Selectorin in der Berliner Underground-Clubszene etabliert und ist Mitbegründerin des SWOON-Kollektivs und -Plattenlabels. Eine mitreißende Mischung aus verspieltem **Techno**, spritzigem Hardcore, euphorischer Clubmusik und **elektronischen Breaks**. Ihr Sound vereint schwere, treibende Rhythmen mit einer luftigen, traumhaften Ästhetik. Getreu ihrem Namen zaubert Sióg auf "wish u were here!" pure, unverfälschte Club-Magie! Der Titel mag wie eine traurige Postkarte klingen, doch die Musik ist ein wunderschönes, sich wandelndes Wesen, das dich in Bewegung halten soll. Es fühlt sich weniger wie ein steriles Lagerhaus an, sondern eher wie ein verzauberter, neonbeleuchteter Wald-Rave. In einem Moment schwebst du durch einen hauchdünnen Ambient-Nebel, und im nächsten wirst du von explosiven, hüpfenden Hardcore-Drum-Patterns getroffen, die dein Herz höher schlagen lassen. Es ist schnell, unverhohlen sexy und herrlich skurril - der ultimative Soundtrack, um deine Sehnsucht wegzutanzen, bis die Sonne aufgeht.
 
 ::genre::techno, breakbeat
+
+## Sleeping At Last - Atlas: Shape
+
+Unter der Leitung des Singer-Songwriters und Multi-Instrumentalisten *Ryan O'Neal* begannen Sleeping At Last Ende der 90er Jahre als Indie-Rock-Band, bevor sie sich zu einem äußerst erfolgreichen orchestralen Soloprojekt entwickelten, das für seine tief emotionalen, konzeptorientierten Liederzyklen bekannt ist. **Chamber Pop**, **Indie Folk** und **New Age**. Stark beeinflusst von klassischen Arrangements, filmischer Erzählkunst, minimalistischem Klavier und tiefer menschlicher Psychologie (wie dem Enneagramm-Persönlichkeitssystem). Warnung: Halte eine Schachtel Taschentücher griffbereit. "Atlas: Shape" ist ein atemberaubendes, 7-Track-Album voller emotionaler Kraft. Als Teil der Atlas: III Reihe - die sich auf menschliche Entscheidungen und freiwillige persönliche Entwicklung konzentriert - beleuchtet dieses spezielle Kapitel, wie wir unsere eigenen Grenzen, Identitäten und Wünsche definieren, durch Titel wie "Have" und "Want". O'Neal setzt auf mitreißende Streicher, atemberaubend zarte Klavierakkorde und seinen charakteristischen, flüsterleisen Gesang. Das Thema ist zutiefst introspektiv und fühlt sich an wie eine existenzielle, sanfte Umarmung, die dir sagt, dass es in Ordnung ist, herauszufinden, wer du bist. Es ist umwerfend schön.
+
+::genre::indie folk, chamber pop, new age
 
 ## Slim To No Chance - Cause
 
@@ -898,6 +922,12 @@ Eine Underground-Extreme-Metal-Band, deren Schwerpunkt auf Esoterik, Schlangensy
 
 ::genre::melo black metal
 
+## Vinyl Williams - Star Harmony
+
+Dies ist das überaus kreative Soloprojekt von *Lionel Williams*. Er ist nicht nur ein brillanter Multi-Instrumentalist, der seit 2010 psychedelische Meisterwerke veröffentlicht, sondern auch ein international gefeierter bildender Künstler, der interaktive 360-Grad-Musikvideos inszeniert und komplexe, erkundbare Webumgebungen schafft. **Neo-Psychedelia**, **Dream Pop**, **Shoegaze** und **Space Pop**. Stark beeinflusst von den üppigen, maximalistischen Texturen von *Toro Y Moi*, der sonnigen Pop-Sensibilität der *Beach Boys*, den schwebenden Klangwänden von *My Bloody Valentine* und esoterischer Astrologie. "Star Harmony" zu hören ist, als würde man aus einer Kanone in eine pastellfarbene, utopische Galaxie geschossen, in der es keine Schwerkraft gibt. Lionel Williams hat sich darauf spezialisiert, Traumwelten der Harmonie zu erschaffen, um dem Chaos des realen Lebens zu entfliehen, und dieses Album untermauert das noch einmal. Tracks wie "Bluephoria" und "Crystal Helix" sprudeln nur so vor wirbelnden Lo-Fi-Delay-Effekten, jazzigen Akkordfolgen und engelsgleichen Vocals, die in einem wunderschönen Nebel verborgen sind. Das zugrunde liegende Thema ist pure kosmische Einheit. Es ist der ultimative Wohlfühl-Soundtrack, der einem den Kopf verdreht - perfekt für einen faulen Sommernachmittag.
+
+::genre::neo psych rock, space rock, indie rock, shoegaze, dreampop
+
 ## Von Groove - Born To Rock
 
 Ein klassisches Hardrock-Trio mit Mladen (Gitarre), Michael Shotton (Gesang/Schlagzeug) und Matthew Gerrard (Bass). Nach einer 25-jährigen Studio-Pause seit ihrem letzten Album im Jahr 2001 hat sich die ursprüngliche klassische Besetzung wieder zusammengefunden, um ihren Sound wiederzubeleben. **Arena-Rock** im Stil der 90er Jahre, melodischer **Hardrock** und **AOR**. Holt eure Lederjacken aus dem Schrank und holt das Haarspray raus, denn Von Groove hat eine vollwertige Rock-Wiedergeburt hingelegt! "Born To Rock" ignoriert die musikalischen Trends des letzten Vierteljahrhunderts völlig und explodiert vor Luftgitarren-Drang, gewaltigen Gesangs-Hooks und hochfliegender, kompromissloser Stadion-Energie. Die Chemie stimmt sofort wieder. Songs wie "Fearless" und "Adrenaline" wirken, als wären sie in einer Zeitkapsel von einer Arena-Tournee aus dem Jahr 1992 konserviert worden - das ist hochoktanige, gute Laune verbreitende Rock’n’Roll-Sucht vom Feinsten.
@@ -931,6 +961,12 @@ Burch, die eine klassische Ausbildung an der renommierten Guildhall School of Mu
 Die Band hat sich als kraftvolle, überaus produktive Stimme in der Independent-Szene der modernen Heavy-Musik etabliert und sich durch die Veröffentlichung einer Reihe emotional unverfälschter, konzeptioneller Tracks rasch eine treue Underground-Anhängerschaft aufgebaut. Stimmungsvoller, knallharter **Modern Metalcore** / **Post-Hardcore**, der vernichtende metallische Breakdowns mit düsteren, atmosphärisch dichten Refrains in klarer Gesangstechnik in Einklang bringt. Stellt sicher, dass ihr Nacken bereit ist und ihr ein paar Taschentücher griffbereit habt, denn dieses Album besteht ausschließlich aus schweren Riffs und schweren Gefühlen. "Lonely Season" wirkt wie eine wunderschön düstere auditive Therapiesitzung. Es verbindet die rohe, viszerale Aggression von rasenden Drums und magenumdrehenden Schreien mit schwebenden, melancholischen Melodien, die wie Rauch über dich hinwegziehen. Neben herausragenden Tracks wie "Flowers At Your Grave" bietet es den ultimativen adrenalingeladenen Soundtrack für eine nächtliche Fahrt auf einer leeren Autobahn oder einfach nur, um in deinem Schlafzimmer Dampf abzulassen.
 
 ::genre::modern metalcore, modern post hardcore
+
+## Cusco, Ashra, Kai Franz - Fortune Awakens Tonight
+
+Ein Zusammentreffen generationsübergreifender Giganten. Cusco ist seit den späten 1970er Jahren ein fester Bestandteil der melodischen New-Age- und panflötenorientierten Instrumentalmusik. Ashra ebnete den Weg für den frühen elektronischen Space Rock. Kai Franz fungiert als moderne Brücke, die diese traditionellen Klangwelten miteinander verbindet. **New Age**, **neoklassischer Ambient** und **Electronica** der Berliner Schule. Stark beeinflusst von präkolumbianischer Mythologie, frühen deutschen Synthesizer-Experimenten und modernem meditativem Sounddesign. Wolltest du dich schon immer einmal wie ein alter Aztekenherrscher fühlen, der eine Laserlichtshow über einem digitalen Regenwald beobachtet? Genau diesen Raum nimmt "Fortune Awakens Tonight" ein. Es verbindet die charakteristischen, fröhlichen Panflöten-Synth-Melodien von Cusco mit den hypnotischen, sich wiederholenden elektronischen Impulsen von Ashra. Das Thema dreht sich ganz um Wiedergeburt, Wohlstand und spirituellen Aufbruch. Es fühlt sich weniger wie ein Song an, sondern eher wie eine goldene, klangliche Spa-Behandlung für dein Gehirn. Es ist äußerst filmisch, unglaublich entspannend und unverhohlen mystisch!
+
+::genre::new age, krautrock, neo classic, ambient, experimental electronica
 
 ## Immanu El - Woven Light *
 
@@ -1027,6 +1063,12 @@ Ein wildes Studiokollektiv, bestehend aus Veteranen von Underground-Größen wie
 Zwei Jahre lang veröffentlichten sie Singles in Eigenregie, die sie 2025 auf einer Compilation namens "Fragments" zusammenfassten. Dieses neue Album wurde im No Studio aufgenommen und von Joe Clayton abgemischt. Ein gewaltiger, düsterer Mix aus **Darkwave**, **Gothic Rock**, **Doom Metal** und **Post-Punk**, vermischt mit Elementen aus **Chanson**, **atmosphärischem Black Metal** und **Dark Ambient**. Stellt euch eine Mischung aus *The Cure*, *Paradise Lost*, *Amenra* und *Clan of Xymox* vor. Das Album bricht mit baritonalen Gesängen herein, die nahtlos in kehlenschneidende Metal-Schreie übergehen. Tracks wie "Give" wirken wie ein unwiderstehlicher Hexentanz in Zeitlupe unter dem Sternenhimmel. Die Produktion ist dicht, vielschichtig und unglaublich atmosphärisch - von Joe Clayton akribisch ausgearbeitet, damit man jedes Gramm ihrer wunderschönen, melancholischen Furcht spürt. Es ist Gothic-Storytelling vom Feinsten, perfekt für alle, die den dunklen, einsamen Weg des Lebens romantisieren wollen.
 
 ::genre::post black metal, post metal, goth rock, dark wave, doom metal, post punk
+
+## Rick Miller - Temporal Illusion
+
+Ein erfahrener Multi-Instrumentalist und Komponist, der seit über zwei Jahrzehnten Musik veröffentlicht und eine umfangreiche Diskografie mit 18 Studioalben vorweisen kann. Atmosphärischer **Progressive Rock** und **Symphonic Prog**. Stark beeinflusst von der Blütezeit der Prog-Größen wie *Pink Floyd* (insbesondere David Gilmours Gitarrenspiel), *Genesis*, *The Moody Blues* und *The Alan Parsons Project*. Stellen Sie sich vor, Sie schlüpfen in einen samtigen Smoking, schenken sich ein Glas edlen Wein ein und lassen sich in eine himmlische Wolke treiben. "Temporal Illusion" ist eine Meisterklasse in melancholischem Prog. Es drängt dich nicht; es hüllt dich in reichhaltige, filmische Texturen, schwungvolle Flöten und wehmütige Celli. Das Thema wirkt wie eine Meditation in der Dämmerung über die Zeit, die dir durch die Finger rinnt. Wenn David Gilmour auf einem Raumschiff Gitarre spielen würde, das durch eine wunderschöne, traurige Nebelwolke fliegt, würde es genau so klingen. Perfekt für nächtliches Grübeln!
+
+::genre::neo prog rock, prog rock
 
 ## Simone Cozzetto - Glass Cradle
 
