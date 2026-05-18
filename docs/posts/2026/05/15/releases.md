@@ -274,6 +274,12 @@ Aufgenommen, abgemischt und gemastert vom erfahrenen Underground-Toningenieur Jo
 
 ::genre::ambient, drone, experimental ambient, experimental electronica
 
+## For Breakfast - Longer than Spring **
+
+*For Breakfast* ist ein dynamisches 7-köpfiges Musikkollektiv, das seit 2020 aktiv ist. Angeführt von der markanten, samtigen Stimme von Maya Harrison besteht die Band aus den Multi-Instrumentalisten Sam Birkett, Joe Thompson, Omar Zaghouani, Gail Tasker, Eden Harrison und Will Eckersley. Sie sind dafür bekannt, traditionelle Blech- und Holzblasinstrumente sowie jazzige Klangtexturen mit tosenden Gitarren-Freakouts zu kombinieren. **Folk-Rock**, experimenteller **Art-Rock**, **Jazz-Noir** und **Post-Rock**. Man stelle sich eine Frontalkollision zwischen *Black Country*, *New Road*, dem Improvisationsgeist von *Wilco* und der melancholischen Schönheit von *Portishead* vor. "Longer than Spring" anzuhören ist wie die Teilnahme an einer sehr eleganten Dinnerparty, die langsam in eine wunderschön chaotische Kissenschlacht ausartet. In einem Moment schwebt Maya Harrisons wunderschöner, rauchiger Gesang träge über sanften Jazz-Bläserklängen und sanftem Kammerpop; im nächsten drückt die gesamte 7-köpfige Band ihre Verzerrerpedale durch und stürzt einen in eine glorreiche Wand aus lauter, postrockiger Raserei. Das gesamte Album spielt ein brillantes Spiel des emotionalen Tauziehens zwischen absoluter Ruhe und purer Panik. Es ist unvorhersehbar, atemberaubend und wird einen auf die bestmögliche Weise benommen zurücklassen.
+
+::genre::psych rock, prog rock, art rock, jazz noir, post rock
+
 ## Frontline - Rebirth
 
 *Frontline* war in den 1990er Jahren ein absoluter Fixpunkt der europäischen Melodic-Rock-Szene, bevor die Band eine fast zwanzigjährige Pause einlegte. Leider verstarb ihr Mitbegründer, Gitarrist und Hauptsongwriter Robby Böbel im Jahr 2022. Um diese Trauer in eine Hommage an sein Vermächtnis zu verwandeln, tat sich der ursprüngliche Power-Sänger Stephan Kämmerer mit dem neuen Gitarristen und Produzenten Christian Mühlroth zusammen, um die Band wieder zum Leben zu erwecken. Gewaltiger, hymnischer **Melodic Rock** / **AOR**, vollgepackt mit hochfliegenden, arena-tauglichen Gesangshooks, funkelnden Synthesizern und der treibenden Energie des klassischen Hardrocks. Zündet die Feuerwerke, denn der Old-School-Arena-Rock ist offiziell von den Toten auferstanden! "Rebirth" ist ein meisterhaft umgesetztes, ohrenbetäubendes Comeback, das moderne Musiktrends komplett meidet. Stattdessen setzt Frontline voll und ganz auf das, was sie am besten können: gewaltige Gitarrenriffs im Stil der 80er und 90er Jahre, emotionale Darbietungen und massive Refrains, die dazu gedacht sind, von Tausenden von Menschen mitgeschrien zu werden. Tracks wie "Two Tickets To The Afterglow" beweisen, dass diese deutschen Rock-Veteranen in den letzten 20 Jahren kein bisschen von ihrer Leidenschaft oder Kraft eingebüßt haben.
@@ -357,6 +363,12 @@ Die Band, die im leidenschaftlichen griechischen Metal-Underground rasant an Pop
 *Hildegunn Øiseth* ist eine weithin gefeierte norwegische Trompeterin, die für ihre einzigartige Fähigkeit bekannt ist, alte nordische Musikwurzeln mit modernen Jazzklängen zu verbinden. Neben ihrer traditionellen Trompete spielt sie bekanntlich auch das Bukkehorn - ein uraltes Instrument, das aus einem Ziegenhorn gefertigt ist. Auf dieser Platte leitet sie ihr erstklassiges Quartett, bestehend aus dem Pianisten Espen Berg, dem Bassisten Magne Thormodsæter und dem Schlagzeuger Per Oddvar Johansen. **Zeitgenössischer Jazz** / **nordische Folk-Fusion** gemischt mit roher, völlig spontaner **Avantgarde-Improvisation**. Schnapp dir eine warme Decke und mach dich bereit, dich in der Wildnis zu verlieren. "Meandering" ist das musikalische Äquivalent zu einem Streifzug durch einen nebligen skandinavischen Wald ohne Karte - und genau darum geht es. Das Quartett betrat das Studio ohne auch nur einen einzigen vorab komponierten Song und entschied sich stattdessen, sich von der Intuition leiten zu lassen. Es wechselt fließend zwischen zerbrechlichen, stillen Momenten von purer Schönheit und intensiven Ausbrüchen kollektiver Energie. Der absolute Star der Show ist der ursprüngliche, erdige Klang des Bukkehorns, der die Luft durchschneidet. Er ist meditativ, zutiefst ausdrucksstark und unglaublich faszinierend.
 
 ::genre::contemporary jazz, nordic jazz, avant jazz, improvisation
+
+## Humanbody - Vessels
+
+Unter dem Künstlernamen Humanbody (stilisiert als HUMANBODY oder human.body916) kreiert dieser schwer fassbare Elektronik-Produzent hochmechanische und zugleich zutiefst organische Beats. Bekannt für die Bearbeitung von Vocal-Samples und industriellen Field Recordings, schafft er eine dichte, klaustrophobische Atmosphäre. **Experimentelle Electronica**, **Ambient Techno**, **IDM** und **Darkwave**. Beeinflusst von den skelettartigen Rhythmen von *Burial*, den glitchigen Texturen von *Aphex Twin* und Underground-UK-Garage-Edits. Getreu seinem Namen klingt "Vessels" genau wie eine abtrünnige künstliche Intelligenz, die versucht, den Rhythmus eines menschlichen Pulses in einem kalten, verlassenen Lagerhaus nachzuahmen. Es ist zuckend, hypnotisch und wunderbar unheilvoll. Die Beats huschen durch deine Kopfhörer wie Elektrizität, die durch Kupferdrähte springt, während der Subbass wie ein schwerer, mechanischer Herzschlag wirkt. Das Thema fühlt sich an wie eine tiefgehende Erkundung unserer digitalen Nervenenden - es ist der ideale Soundtrack, um um 3:00 Uhr morgens auf einen Computerbildschirm zu starren und sich zu fragen, ob dein Smartphone heimlich gegen dich intrigiert.
+
+::genre::ambient, experimental electronica, minimal techno, idm, dark wave
 
 ## Ibrahim Alfa Jr. - Infinite Black Inside
 
@@ -730,6 +742,12 @@ Als eine der führenden Modern-Rock-Bands Schwedens hat sich Self Deception durc
 
 ::genre::ambient, field recordings, minimal electronica
 
+## six by seven - Bitte, Bitte, Bitte, Lass Mich
+
+tbd
+
+::genre::
+
 ## Sióg - which u were here
 
 *Niamh McShane* tritt unter ihrem Künstlernamen Sióg (was auf Irisch "Fee" bedeutet) auf. Sie hat sich als prominente DJane und Selectorin in der Berliner Underground-Clubszene etabliert und ist Mitbegründerin des SWOON-Kollektivs und -Plattenlabels. Eine mitreißende Mischung aus verspieltem **Techno**, spritzigem Hardcore, euphorischer Clubmusik und **elektronischen Breaks**. Ihr Sound vereint schwere, treibende Rhythmen mit einer luftigen, traumhaften Ästhetik. Getreu ihrem Namen zaubert Sióg auf "wish u were here!" pure, unverfälschte Club-Magie! Der Titel mag wie eine traurige Postkarte klingen, doch die Musik ist ein wunderschönes, sich wandelndes Wesen, das dich in Bewegung halten soll. Es fühlt sich weniger wie ein steriles Lagerhaus an, sondern eher wie ein verzauberter, neonbeleuchteter Wald-Rave. In einem Moment schwebst du durch einen hauchdünnen Ambient-Nebel, und im nächsten wirst du von explosiven, hüpfenden Hardcore-Drum-Patterns getroffen, die dein Herz höher schlagen lassen. Es ist schnell, unverhohlen sexy und herrlich skurril - der ultimative Soundtrack, um deine Sehnsucht wegzutanzen, bis die Sonne aufgeht.
@@ -886,6 +904,12 @@ Das Quartett besteht aus Olivia Garner, John Morales, Dustin Pilkington und Dani
 
 ::genre::indie rock, alt pop, disco punk
 
+## Twelve - Be careful what you don't wish for
+
+*Twelve* ist das elektronische Nebenprojekt von Chris Olley, dem Frontmann und kreativen Kopf hinter der legendären britischen Indie-Rock-Band *Six by Seven*. **Electronica**, **Ambient**, **IDM** und experimentelle Musik. Stark beeinflusst von den Pionieren der frühen Elektronik, dem Krautrock und nächtlicher Glitch-Musik. Bei Titeln wie "Walking Drunk With Murray Wilson" und "The Anal Gunshot" weiß man schon, dass man sich hier nicht auf eine gewöhnliche Pop-Reise begibt. "Be Careful What You Don’t Wish For" ist Chris Olley, losgelöst von seinen Gitarrenpedalen und eingeschlossen in einem Raum mit einer Reihe flackernder Synthesizer. Es ist glitchig, paranoid und fängt die digitale Angst der frühen 2000er Jahre perfekt ein. Die Musik fühlt sich an wie ein alter Computer, der versucht, von menschlichen Erinnerungen zu träumen. Sie ist seltsam, ein wenig unbehaglich und ein faszinierender Spielplatz für alle, die ihre Musik gerne herrlich schräg mögen.
+
+::genre::ambient, post rock, experimental electronica, idm
+
 ## Tyrannus - Mournhold
 
 *Tyrannus*, bekannt für ihre technischen Riffs und ihre unerbittlichen, hämmernden Drums, sind tief in der Underground-Szene des Extreme Metal verwurzelt. Schwerer, aggressiver **Blackened Death/Thrash Metal**. Ihre Inspiration beziehen sie aus dem Old-School-Extreme-Metal, mythologischer Erhabenheit und der Welt der Dark Fantasy. Stell dir vor, du betrittst eine mittelalterliche Taverne, wirfst einen Tisch um und verlangst, gegen einen Drachen zu kämpfen - genau diese Energie vermittelt Mournhold. Benannt nach der legendären Stadt aus dem The Elder Scrolls Universum, wirken der Titeltrack und begleitende Songs wie "Seize the Stars" wie eine klangliche Streitaxt. Es ist schnell, kompromisslos brutal und perfekt, wenn du deinen inneren Kriegsherrn entfesseln willst.
@@ -967,6 +991,12 @@ Die Band hat sich als kraftvolle, überaus produktive Stimme in der Independent-
 Ein Zusammentreffen generationsübergreifender Giganten. Cusco ist seit den späten 1970er Jahren ein fester Bestandteil der melodischen New-Age- und panflötenorientierten Instrumentalmusik. Ashra ebnete den Weg für den frühen elektronischen Space Rock. Kai Franz fungiert als moderne Brücke, die diese traditionellen Klangwelten miteinander verbindet. **New Age**, **neoklassischer Ambient** und **Electronica** der Berliner Schule. Stark beeinflusst von präkolumbianischer Mythologie, frühen deutschen Synthesizer-Experimenten und modernem meditativem Sounddesign. Wolltest du dich schon immer einmal wie ein alter Aztekenherrscher fühlen, der eine Laserlichtshow über einem digitalen Regenwald beobachtet? Genau diesen Raum nimmt "Fortune Awakens Tonight" ein. Es verbindet die charakteristischen, fröhlichen Panflöten-Synth-Melodien von Cusco mit den hypnotischen, sich wiederholenden elektronischen Impulsen von Ashra. Das Thema dreht sich ganz um Wiedergeburt, Wohlstand und spirituellen Aufbruch. Es fühlt sich weniger wie ein Song an, sondern eher wie eine goldene, klangliche Spa-Behandlung für dein Gehirn. Es ist äußerst filmisch, unglaublich entspannend und unverhohlen mystisch!
 
 ::genre::new age, krautrock, neo classic, ambient, experimental electronica
+
+## El Altar del Holocausto - Ecos
+
+Die 2012 gegründete Kult-Instrumentalband zeichnet sich durch eine geheimnisvolle, theatralische Ästhetik aus (auf der Bühne tragen die Musiker oft weiße Gewänder). Zur Band gehören Reaper Model, Weasel Joe, Reverb Myles und Skybite. **Instrumentaler Post-Rock**, **Doom Metal** und **Ambient Rock**. Sie verbinden die filmischen Crescendos von *Explosions in the Sky* mit der erdrückenden Wucht des traditionellen Doom Metal. Stellt euch eine Gruppe spanischer Mönche vor, die ihre Gebetsbücher gegen stark heruntergestimmte Gibson-Gitarren eintauschen, und ihr seid schon auf halbem Weg, Ecos zu verstehen. Dieses Album ist komplett instrumental und tauscht Stimmbänder gegen rein emotionale Gewalt ein. Es bewegt sich mühelos zwischen aus einem regnerischen Fenster starren und über das Leben nachdenken und von einem prähistorischen Mammut zertrampelt werden. Das Thema fühlt sich wie eine spirituelle Wiedergeburt an - ein hochfliegender, kathartischer Flug, der es schafft, einen emporzuheben, kurz bevor er einen schweren Block aus purem Doom Metal direkt auf den Schädel fallen lässt. Es ist wunderschön, schwer und herrlich intensiv.
+
+::genre::post rock, post metal, doom metal, instrumental
 
 ## Immanu El - Woven Light *
 
