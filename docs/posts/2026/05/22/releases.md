@@ -54,7 +54,7 @@ Spheruleus ist das Soloprojekt von *Harry Towell*, einem hoch angesehenen Vetera
 
 ::genre::lofi, ambient, field recordings, drone
 
-## Taeyong - Wyld
+## Taeyang - Quintessence
 
 Taeyong (*Lee Tae-yong*) ist eine Größe in der K-Pop-Branche. Er debütierte 2016 als charismatischer Hauptrapper, Tänzer und Frontmann der aus mehreren Einheiten bestehenden Megagruppe *NCT* von SM Entertainment (insbesondere NCT U und NCT 127). Er wird vor allem für seine explosive Bühnenpräsenz, seinen unverwechselbaren rauen Gesangsstil und sein intensives Engagement beim Songwriting gefeiert. Eine chaotische, aber brillante Verschmelzung von Neo-**K-Pop**, **experimentellem Hip-Hop**, **Industrial-Elektro**, **Pop-Punk** und **alternativem R&B**. Musikalisch bedient er sich westlicher Hip-Hop-/R&B-Elemente (unterstrichen durch seine Zusammenarbeit mit Anderson .Paak im Jahr 2026) und verbindet diese mit dem unverwechselbaren, chaotischen Neo-Produktionsstil von NCT. Stell dir vor, du steigst mit Lederjacke, Neon-Leuchtstäben und purer Adrenalinladung nach dem Militärdienst in einen Mixer - das ist WYLD. Als Akronym für "Wild, Yell, Loud, Dance" ist dieses Album Taeyongs Gelegenheit, seinen musikalischen Instinkten völlig freien Lauf zu lassen. In den Teaser-Videos zerstört er buchstäblich eine Statue seines früheren Ichs, um das Chaos zu signalisieren. Der Titelsong und Songs wie "Storm" treffen einen mit massiven Bässen und rasender Choreografie mitten in die Brust, während Tracks wie "Run" ihn unerwartet in eine angstgeladene Pop-Punk-Fantasie versetzen. Es ist laut, es ist unverhohlen schräg, und es beweist, dass er keine 23 anderen NCT-Mitglieder hinter sich braucht, um ein Klangimperium zu beherrschen.
 
