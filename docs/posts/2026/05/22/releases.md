@@ -124,6 +124,12 @@ tbd
 
 ::genre::
 
+## ANR - Alive In 25
+
+tbd
+
+::genre::
+
 ## anthéne - Air Signs
 
 tbd
@@ -149,6 +155,12 @@ tbd
 ::genre::
 
 ## Ataraxia - Sylfaera The Fair
+
+tbd
+
+::genre::
+
+## Ava Mendoza - Alive Alone, Alive Together
 
 tbd
 
@@ -245,6 +257,12 @@ tbd
 ::genre::
 
 ## Cabaret Voltaire - But What Time Is It Really?
+
+tbd
+
+::genre::
+
+## Cat Traffic - Cat Traffic
 
 tbd
 
@@ -478,6 +496,12 @@ tbd
 
 ::genre::
 
+## Fito Paez - Shine
+
+tbd
+
+::genre::
+
 ## FLOCKS - Lagoon
 
 tbd
@@ -592,6 +616,12 @@ tbd
 
 ::genre::
 
+## Hex A.D. - Surgical Cuts in the Cosmos
+
+tbd
+
+::genre::
+
 ## Hexenaltar - Descending Curse
 
 tbd
@@ -599,6 +629,12 @@ tbd
 ::genre::
 
 ## Horrific Visions - Remnants Of Atrophy
+
+tbd
+
+::genre::
+
+## HOTH - Combat
 
 tbd
 
@@ -653,6 +689,12 @@ tbd
 ::genre::
 
 ## James McGowan - Threads of Fate
+
+tbd
+
+::genre::
+
+## Joe Webb - Neath Beat
 
 tbd
 
@@ -814,6 +856,12 @@ tbd
 
 ::genre::
 
+## MUSViT - SUKKER
+
+tbd
+
+::genre::
+
 ## Mécréant - Déchéance
 
 tbd
@@ -898,35 +946,35 @@ tbd
 
 ::genre::
 
+## Polis - Pilger
+
+tbd
+
+::genre::
+
 ## Pénitent - Te Veut Ivre
 
-tbd
+Die Gruppe, die Ende 2022 aus einer gemeinsamen Liebe zum Leben, zum Tod und zur Kunst heraus gegründet wurde, hat ihren Namen von der historischen Bruderschaft der Büßer. Nachdem eine raue Debüt-Demo im Jahr 2025 in der Underground-Szene für Aufsehen gesorgt hatte, verfeinerten sie ihren poetischen und zugleich aggressiven Sound, um ihren grandiosen, theatralischen Einstieg bei einem Label zu feiern. Sie bezeichnen sich selbst als Hard Rock Éméché (beschwipster Hard Rock) und verbinden traditionellen **Heavy Metal**, Old-School-**Hard-Rock** und progressiven **Art-Rock**. Übersetzt man den Titel, schreit die Band buchstäblich: "Pénitent will, dass du betrunken bist!". "Te Veut Ivre" ist eine Flasche billigen französischen Absinths, getrunken in einem schummrigen, rauchgefüllten Keller. Pénitent bedient sich einer wunderbar schrägen, theatralischen und poetischen Art des klassischen Heavy Metal. Vollkommen mit feuriger Leidenschaft auf Französisch gesungen, galoppieren Tracks wie "Broucolaque" und "Fils De Lucifer" mit einer dunklen, progressiven Note voran, die sich wie eine Kreuzung aus Iron Maiden der 1980er Jahre und einer gotischen Straßenoper anfühlt. Es ist stimmungsvoll, ein wenig verstört, wild ausdrucksstark und fantastisch für jeden, der seinen klassischen Metal mit einem künstlerischen französischen Stirnrunzeln serviert haben möchte.
 
-::genre::
-
-## Rachelle Garniez - Born in Time
-
-tbd
-
-::genre::
+::genre::heavy metal, heavy rock, hard rock, art rock
 
 ## Ratsalad. - Pests from the West
 
-tbd
+Weit entfernt von den großen Musikmetropolen betrachtet diese energiegeladene, mehrfach preisgekrönte Band (angeführt von der akrobatischen Sängerin und Bassistin Jaz, dem Gitarristen Ken und der Schlagzeugerin Erica) Musik als puren, chaotischen Spaß. Sie wurden zu lokalen Legenden, indem sie mehrere Jahre in Folge den WA Music Song of the Year Preis gewannen, und ihr Aufstieg von der Basis hat ihnen schnell eine weltweite Fangemeinde beschert. Energiegeladener **Pub-Punk**, **Pop-Punk**, **Skatepunk** und **Alternative Rock**. Man stelle sich die massiven, gitarrenlastigen Soundtracks der US-Skatevideos der 1990er Jahre vor, gemischt mit einzigartig australischem Storytelling. RATSALAD.s "Pest From The West" ist die ultimative, sonnenverwöhnte Strandparty, zu der jemand zu viele Feuerwerkskörper mitgebracht hat. Getreu seinem Titel wirkt dieses Album wie ein grandioser, lauter Export vom Ende der Welt. Jaz’ Gesang wechselt mühelos zwischen unglaublich mitreißenden melodischen Pop-Punk-Hooks und rohen, rotzigen Pub-Rock-Schreien. Tracks wie "Bike Beach Pub" sind pures, rasantes Adrenalin und fühlen sich an wie genau der Moment, in dem man 2004 den Familiencomputer zum Absturz bringt, indem man dubiose Musikdateien aus dem Internet herunterlädt. Es ist schweißtreibend, unbeschwert, brillant laut und ganz klar auf Leute zugeschnitten, die schnelle Gitarren, kalte Getränke und gute Zeiten lieben.
 
-::genre::
+::genre::pop punk, skatepunk, power pop
 
 ## Raw Peace - To Dust
 
-tbd
+Raw Peace ist ein absolutes Underground-Kraftpaket, das aus erfahrenen Veteranen der legendären belgischen Heavy-Metal-Szene besteht und aktuelle sowie ehemalige Mitglieder von *Agathocles*, *Reproach*, *Rise And Fall* und *Blind To Faith* in seinen Reihen vereint. Um "To Dust" zum Leben zu erwecken, nahmen sie das Album zusammen mit Gilles Demolder im Jetson Studio auf und mischten es dort ab, bevor sie es dem legendären Jack Shirley im The Atomic Garden zum Mastering übergaben, um maximale analoge Wucht zu gewährleisten. Ein unerbittlicher, knallharter Cocktail aus **D-Beat**, **Hardcore-Punk** und japanischem **Crust-Punk**, gemischt mit Old-School-Thrash und Death Metal. "To Dust" anzuhören fühlt sich genau so an, als würde man in einen rasanten Steinschlag geraten - nur dass die Steine aus knirschender Verzerrung und kriegsfeindlicher Panik bestehen. Raw Peace machen keine höfliche Musik. Sie sperren sich in einen hyperschnellen, nackenbrechenden D-Beat-Groove ein und reiten ihn geradewegs ins Nichts. Das Doppelgitarrenwerk kracht zwischen metallischem Thrash-Shredding und dreckigen Punk-Riffs hin und her, während der Gesang klingt wie ein Drill-Sergeant, der während eines aktiven Vulkanausbruchs durch ein Megafon brüllt. Es ist düster, hyperaktiv, völlig ungeschliffen und der absolut perfekte Hintergrundlärm, wenn man seinen Schreibtisch umwerfen und in seinem Schlafzimmer einen Ein-Mann-Moshpit starten will.
 
-::genre::
+::genre::d-beat, osdm, crust
 
 ## remst8 - Coalescence
 
-tbd
+Carlson ist ein auf den ersten Blick unscheinbarer Ingenieur, der seit Anfang der 1990er Jahre mit Tracker-Programmen experimentiert, um experimentelle Computermusik zu schaffen. Ursprünglich schuf er Klanglandschaften für Indie-PC-Spiele und Underground-Filme und verbrachte Jahre damit, sein Software-Setup zu verfeinern. "Coalescence" ist sein absolutes Meisterwerk - ein gewaltiges, vierstündiges Projekt, das in mühevoller Arbeit mittels quadrophoner Komposition zusammengestellt und anschließend in moderne, dynamische Formate abgemischt wurde. Eine kolossale, langatmige Reise durch **Dark Ambient**, **Drone**, elektronischen Minimalismus, **Noise** und **Field Recordings**. Vier Stunden. Lass das auf dich wirken. remst8 hat nicht einfach nur ein Album veröffentlicht; er hat ein gewaltiges, unterirdisches digitales Ökosystem erschaffen und dich darin eingeschlossen. "Coalescence" ist das absolute Gegenteil der modernen, schnelllebigen Aufmerksamkeitsspanne im Internet. Carlsons Musik belohnt extreme Geduld und schwebt mit einem warmen, langsam aufblühenden Klang aus modularen Tönen, tiefem statischem Rauschen und eindringlichen Field Recordings vorwärts. Sie oszilliert meisterhaft zwischen dem Gefühl, sich in einem gemütlichen, leuchtenden elektronischen Mutterleib zu befinden, und dem Dahintreiben durch eine kalte, vergessene fremde Landschaft. Sie ist hypnotisch, zutiefst trippig und mit Abstand der ambitionierteste Hintergrund-Soundtrack, den man sich für eine Marathon-Programmiersitzung oder eine lange Nacht der Meditation auflegen könnte.
 
-::genre::
+::genre::dark ambient, noise, drone, field recordings
 
 ## Sandstorm - Dungeon Of Death
 
@@ -981,6 +1029,12 @@ Angetrieben von einer nostalgischen Sehnsucht nach dem Amerika vor der Trump-Är
 Skylar Grey ist eine absolute Größe der Musikbranche. Die fünfmal für den Grammy nominierte Sängerin, Songwriterin und Multi-Instrumentalistin ist bekannt dafür, den Megahit "Love the Way You Lie" von Eminem und Rihanna geschrieben zu haben und mit Legenden wie Dr. Dre, Macklemore und Zedd zusammengearbeitet zu haben. Für "WASTED POTENTIAL" unterschrieb sie bei Casual Media Partners und tat sich mit dem Produzenten Danny Majic zusammen, um ein Album zu produzieren, auf dem sie ihre ganz eigene Stimme voll zur Geltung bringt. Ein intimer, melodischer Mix aus **Pop**, **Alternative Pop** und **Indie Pop**, getragen von eindrucksvollen, melancholischen Geschichten. Wenn du jemals auf deine peinlichen Teenagerjahre zurückgeschaut und dabei zusammengezuckt bist, dann hat Skylar Grey genau dieses Gefühl in ein Kunstwerk verwandelt. "WASTED POTENTIAL" ist im Grunde ein aufgeschlagenes Tagebuch, unterlegt mit wunderschönen Melodien. Es ist ein Konzeptalbum, das ihre Reise von ihrer Kindheit in der Arbeiterklasse des Mittleren Westens über chaotische, tabuisierte Romanzen bis hin zur inneren Ruhe begleitet. Grey hat eine Stimme, die klingt, als würde ein Engel in einer Kathedrale singen, doch ihre Texte schneiden wie ein unerwarteter blauer Fleck. Es ist erschütternd, zutiefst nachvollziehbar und perfekt zum Anhören an einem ruhigen Abend, an dem man aus dem Fenster schauen und ein wenig Nostalgie verspüren möchte.
 
 ::genre::alt pop, indie pop, introspective pop
+
+## Sleepless Nights - Moments Lost In Time
+
+Sleepless Nights ist ein absoluter Liebling der modernen Underground-Synthwave-Szene und bekannt dafür, cineastische Produktionen mit ausdrucksstarken Gesangseinlagen zu verbinden. Für dieses Album haben sie sich mit Synth-Pop-Sängern wie Sandor Gavin und Thought Beings sowie mit Produzenten der Szene wie Horizons 1982 und Sun City zusammengetan, um ihr bislang stimmigstes Studioalbum zu verwirklichen. Hochglänzender **Synthwave**, **Retrowave**, Outrun und 1980er-Jahre-**Dream-Pop**. Wenn du dich schon immer einmal rückwirkend in eine Filmmontage mit neonbeleuchtetem Sonnenuntergang im Miami von 1985 versetzen wolltest, während du einen Ferrari Testarossa fährst, dann ist "Moments Lost In Time" genau das Richtige für dich. Sleepless Nights haben im Grunde genommen pure Nostalgie in Flaschen abgefüllt. Das Album ist randvoll mit glitzernden Arpeggio-Synths, treibenden elektronischen Drum-Pads und Vocals, die so sehnsüchtig klingen, dass sie deine Stereoanlage zum Schmelzen bringen könnten. Tracks wie der Titeltrack (featuring Sandor Gavin) fühlen sich an wie eine warme Sommerbrise auf deiner Haut, während "Windowless" mit einem spätnächtlichen Club-Puls überzeugt. Es ist geschmeidig, unglaublich eingängig und der ultimative Soundtrack für eine Mitternachtsfahrt durch die Stadt, ohne ein bestimmtes Ziel vor Augen zu haben.
+
+::genre::synth wave, new retro wave, synth pop, dreampop
 
 ## Sotolo - Chateau
 
@@ -1177,6 +1231,18 @@ Bentley Robles hat sich in den letzten Jahren in der modernen Queer-Pop-Szene du
 Bladee ist der unangefochtene CEO und Mitbegründer von *Drain Gang*, dem äußerst einflussreichen Internet-Kollektiv, das er 2013 gemeinsam mit Produzenten wie Whitearmor und dem Rapper Ecco2k ins Leben gerufen hat. Nach seinem erfolgreichen Album "Cold Visions" aus dem Jahr 2024 hat sich Bladee eine riesige Fangemeinde aufgebaut, indem er den alternativen Hip-Hop in seltsame, ätherische und oft aggressive Gefilde vorstößt. **Cloud Rap**, **Hyperpop**, **Avantgarde-Hip-Hop**, **Emo-Rap**, **Doom Folk**. Er verbindet den digitalisierten Rap des Internetzeitalters mit stark autotune-bearbeiteten Vocals und plötzlichen experimentellen Abstechern. Dieses Album verschmilzt auf einzigartige Weise seinen digitalen Sound mit dem dunklen, apokalyptischen Folk-Stil der legendären britischen Band Current 93. Musikalisch ist es ein glorreicher, chaotischer Balanceakt zwischen totaler Euphorie und digitalem Wahnsinn. Whitearmors Produktion liefert dröhnende, eisige Trap-Beats, die wunderschön mit den dunklen, apokalyptischen Folk-Elementen von Current 93 kontrastieren. Bladees Stimme ist von seinem charakteristischen starken Auto-Tune durchdrungen, was ihn wie einen kybernetischen Engel klingen lässt, der aus einem unterirdischen Hacker-Bunker eine Predigt hält. Es ist laut, provokativ, zutiefst seltsam und mühelos cool.
 
 ::genre::experimental hip hop, avant r&b, hyperpop
+
+## Brainly - Nueral Drift
+
+Während "Midnight Calm" (Siehe nächstes Review) darauf ausgelegt ist, Sie in den Schlaf zu wiegen, stammt "Neural Drift" aus Brainlys schnell wachsendem Katalog an Klanglandschaften zur Steigerung der Produktivität und kognitiven Leistungsfähigkeit. Das Projekt arbeitet direkt mit Digitalkünstlern zusammen, um repetitive, nicht ablenkende Frequenzen mit einem äußerst präzisen Sounddesign zu kombinieren, das den Hörer in einen psychologischen Flow-Zustand versetzen soll. Ein intellektueller, fokussierter Mix aus binauralen Beats, **Ambient Techno**, Klangtherapie und tiefen Alpha-Wellen-**Drones**. Das Hören von "Neural Drift" fühlt sich an, als würde man einen futuristischen Cyber-Helm aufsetzen, der jede einzelne Ablenkung im bekannten Universum herausfiltert. Dies ist nicht nur passive Hintergrundmusik; es ist eine hochgradig kalkulierte, trippige Klangautobahn. Die Tracks nutzen panning-binaurale Frequenzen, die sanft von deinem linken zum rechten Ohr springen und einen hypnotischen Rhythmus imitieren, der deinen Blick auf die Aufgabe fixiert, die du gerade zu erledigen versuchst. Es ist steril und doch seltsam schön, voller klarer digitaler Synthesizer, glitchiger Mikrorhythmen und endloser Echos aus dem Weltraum. Es ist der ultimative Soundtrack zum Programmieren, zum Pauken für eine schwierige Prüfung oder um sich selbst davon zu überzeugen, dass das Erledigen der Steuererklärung ein großes Science-Fiction-Abenteuer ist.
+
+::genre::ambient, ebm, minimal techno, drone
+
+## Brainly - Midnight Calm
+
+Brainly ist Teil einer äußerst erfolgreichen neuen Welle spezialisierter Streaming-Künstler, die funktionale Musik dem traditionellen Radio-Pop-Ruhm vorziehen. Sie stellen Musik zusammen, die speziell darauf ausgelegt ist, die Herzfrequenz zu senken und überreizte Gemüter zu beruhigen, wobei sie sanfte analoge Synthesizer, Field Recordings von nächtlichem Regen und Subbass-Rhythmen einsetzen. Eine ultra-beruhigende Mischung aus **Ambient**, **Lo-Fi**-**Chillhop**, Lullaby-**Drone** und Sleep-Wave. Wenn sich dein Gehirn wie ein Browser mit 47 geöffneten Tabs anfühlt und du nicht herausfinden kannst, woher die Musik kommt, ist "Midnight Calm" der ultimative digitale Reset-Knopf. Es überfällt dich nicht mit lauten, schrillen Gitarrensoli oder dramatischen Gesangshooks. Stattdessen hüllen dich Tracks wie "Answering the Void" in eine massive, flauschige akustische Decke. Die Lo-Fi-Jazz-Akkorde rollen heran wie Zeitlupen-Gezeitenwellen, und das leise, nach Vinyl-Knistern klingende Rauschen fühlt sich unglaublich gemütlich an. Es ist wunderschön, zutiefst entspannend und der absolut perfekte Hintergrundsound, um einzuschlafen oder deine unbeantworteten E-Mails um 1:00 Uhr morgens aggressiv zu ignorieren.
+
+::genre::lofi, ambient, field recordings, drone
 
 ## Brand New Companion - Brand New Companion
 
@@ -1429,6 +1495,12 @@ Die Crimson Armada wurde mit ihrem bahnbrechenden Album "Guardians" zu einem leg
 Die 2004 gegründete Band The Hydrant war Wegbereiter des indonesischen Rockabilly-Revivals. Im Laufe von mehr als zwei Jahrzehnten wurden sie zu Underground-Ikonen und brachten den Kontrabass-Slapping und die Ästhetik der gegelten Haare auf große internationale Festivals (darunter legendäre Auftritte beim SXSW). **Neo-Rockabilly**, **Psychobilly**, Punk-angehauchter Rock'n'Roll und **Surf-Rock**. Sie verschmelzen den rauen Swing der 1950er Jahre von Eddie Cochran und Elvis Presley mit der aggressiven, rasanten Intensität von The Stray Cats und The Clash. Schnallt euch an, denn "Requiem" ist ein hochoktaniger, in Leder gehüllter Hot Rod, der die Küstenstraße hinunterbraust. Trotz des düsteren, an eine Beerdigung erinnernden Titels ist dieses Album eine absolute, unerbittliche Party. The Hydrant nimmt traditionelle Rockabilly-Akkorde der 1950er Jahre und versetzt ihnen einen schnellen, verzerrungslastigen Tritt in die Rippen. Der Kontrabass schlägt so hart, dass es sich strukturell anfühlt, Vincents Gitarrensoli sprühen wie defekte Kabel, und Marsellos heulender Gesang bringt eine unbestreitbare, gefährliche Prahlerei mit sich. Es ist wild, laut, macht total Spaß und dient als definitiver Beweis dafür, dass die Rock-’n’-Roll-Rebellion in Südostasien lebendig, wohlauf und voller Tatendrang ist.
 
 ::genre::psychobilly, garage rock, surf rock
+
+## The Leftards - Bread and Circuses
+
+The Leftards sind absolute Szenestörenfriede, die in den letzten acht Jahren trotz elf Besetzungswechseln pures musikalisches Chaos verbreitet haben. Sie sind stolz darauf, kurze, knackige Punk-Sticheleien zu schreiben, gespickt mit Barré-Akkord-Chaos und derben Bühnenauftritten. Diese Platte markiert ihre allerletzte gemeinsame EP und bildet einen endgültigen, donnernden Abschluss ihres Vermächtnisses. Hochoktaniger **Garage-Punk**, **Street-Punk** und **Hardcore-Punk**. Ihr Sound ist stark geprägt vom rasanten Chaos des Old-School-Punkrocks aus Australien und enthält klare, klassische stilistische Anspielungen auf Jello Biafra. Wenn ihr schon immer mal hören wolltet, wie es klingt, wenn eine Gruppe wütender Australier ein Politiklehrbuch anzündet und in einen Mixer wirft, dann seid ihr bei "Bread and Circuses" genau richtig. Diese letzte EP ist ein absolutes Durcheinander aus schnellem, rotzigem und aggressivem Garage-Punk. Tracks wie "Cult of Ziontology" und "Punks in the Cunt Scene" zeichnen sich durch kreischende Gitarren und kehlenschneidende Vocals aus, die mit einem Stinkefinger-Gruß vorgetragen werden. Es ist laut, zutiefst antiautoritär und auf die bestmögliche Art und Weise ungeschliffen. Es ist die ultimative Platte, die man auflegt, wenn man lautstark ein Getränk verschütten, einen Sessel umwerfen und die Abendnachrichten anschreien will.
+
+::genre::hardcore punk, garage punk
 
 ## Tiê - Esgotada
 
