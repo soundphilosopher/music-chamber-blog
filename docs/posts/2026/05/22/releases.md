@@ -8,6 +8,1118 @@ categories:
 
 # Releases! Releases! Releases!
 
+## 6LACK - Love Is The New Gangsta
+
+tbd
+
+::genre::
+
+## A - Prang
+
+tbd
+
+::genre::
+
+## A Good Year - Play
+
+tbd
+
+::genre::
+
+<!-- more -->
+
+## Abandon Agony - Endbringer
+
+tbd
+
+::genre::
+
+## Abramowicz - Joy Of Missing Out
+
+tbd
+
+::genre::
+
+## Acidez - La Ley De La Calle
+
+tbd
+
+::genre::
+
+## Aeverius - Imminence
+
+tbd
+
+::genre::
+
+## Aexylium - Myth Of Mankind
+
+tbd
+
+::genre::
+
+## Against The World - Demo
+
+tbd
+
+::genre::
+
+## Agusa - Panacea
+
+tbd
+
+::genre::
+
+## Aho Ssan - The Sun Turned Black
+
+tbd
+
+::genre::
+
+## Aja Monet - The Color of Rain
+
+tbd
+
+::genre::
+
+## Alela Diane - Who's Keeping Time?
+
+tbd
+
+::genre::
+
+## Ali Sethi & Gregory Rogove - Room Jhoom
+
+tbd
+
+::genre::
+
+## Alon Near - Names, Places
+
+tbd
+
+::genre::
+
+## Alt Blk Era - Our World
+
+tbd
+
+::genre::
+
+## Andrew Moorhead - Mirage
+
+tbd
+
+::genre::
+
+## Angora Club - Herz voran
+
+tbd
+
+::genre::
+
+## Annie Taylor - Out Of Scale
+
+tbd
+
+::genre::
+
+## anthéne - Air Signs
+
+tbd
+
+::genre::
+
+## Arc Iris - iTMRW
+
+tbd
+
+::genre::
+
+## Armored Saint - Emotion Factory Reset
+
+tbd
+
+::genre::
+
+## As The Sun Falls - Songs From The Veil
+
+tbd
+
+::genre::
+
+## Ataraxia - Sylfaera The Fair
+
+tbd
+
+::genre::
+
+## Babygoat - BIRTH OF THE SCENE
+
+tbd
+
+::genre::
+
+## BAG - This House is a Body
+
+tbd
+
+::genre::
+
+## Barren Canyon - A Virulent Stream
+
+tbd
+
+::genre::
+
+## Bear - Anhedonia
+
+tbd
+
+::genre::
+
+## Beck Zegans - Engraving of Armor
+
+tbd
+
+::genre::
+
+## Bill Orcutt & Mabe Fratti - Almost Waking
+
+tbd
+
+::genre::
+
+## Bleachers - everyone for ten minutes
+
+tbd
+
+::genre::
+
+## Bleeding - Dispersed Blood Sustenance
+
+tbd
+
+::genre::
+
+## Blindead 23 - Deuterium
+
+tbd
+
+::genre::
+
+## Blke - Blke
+
+tbd
+
+::genre::
+
+## Blossom Death - Spirit
+
+tbd
+
+::genre::
+
+## Boys From Heaven - The Wanderer
+
+tbd
+
+::genre::
+
+## Brunhild Ferrari, Eiko Ishibashi, Jim O’Rourke - L’oreille Voleuse
+
+tbd
+
+::genre::
+
+## Burial Clouds - Burn Holy
+
+tbd
+
+::genre::
+
+## Buy Jupiter - Earth
+
+tbd
+
+::genre::
+
+## Cabaret Voltaire - But What Time Is It Really?
+
+tbd
+
+::genre::
+
+## Caught In A Mirror - Neoncore
+
+tbd
+
+::genre::
+
+## Cellar Noise - Panic Loves Telling Lies
+
+tbd
+
+::genre::
+
+## Chris Lippincott - Angel in a Jetstream
+
+tbd
+
+::genre::
+
+## Corpse Water - ...Something In The Water
+
+tbd
+
+::genre::
+
+## Crash of Rhinos - Logbook
+
+tbd
+
+::genre::
+
+## Crimson Day - Dark Dimension
+
+tbd
+
+::genre::
+
+## Criteria - Seize!
+
+tbd
+
+::genre::
+
+## Curveless - A Place I Never Left
+
+tbd
+
+::genre::
+
+## Dan Byrne - This Is Where The Show Begins
+
+tbd
+
+::genre::
+
+## Dance Gavin Dance - Tree City Sessions 3
+
+tbd
+
+::genre::
+
+## Dark Millennium - Come
+
+tbd
+
+::genre::
+
+## David Eugene Edwards - Mercurial Silence
+
+tbd
+
+::genre::
+
+## David J - Tracks From the Attic Revisited
+
+tbd
+
+::genre::
+
+## Dawn Clement - Dear Ms. Dearie
+
+tbd
+
+::genre::
+
+## Deathstorm - Cascophonies
+
+tbd
+
+::genre::
+
+## Debo Ray - Echos & Embers
+
+tbd
+
+::genre::
+
+## Deliverance - The Voyager Golden Banquet
+
+tbd
+
+::genre::
+
+## Dimhav - Ondine
+
+tbd
+
+::genre::
+
+## Dimmu Borgir - Grand Serpent Rising
+
+tbd
+
+::genre::
+
+## Downfall Of Nur - And The Firmament Will Burn To Quench The Pain Of This Earth
+
+tbd
+
+::genre::
+
+## Du Cane - Veil Of The Abyss
+
+tbd
+
+::genre::
+
+## Ecca Vandal - LOOKING FOR PEOPLE TO UNFOLLOW
+
+tbd
+
+::genre::
+
+## Ed O'Brien - Blue Morpho
+
+tbd
+
+::genre::
+
+## Ekmeles - Nonsong
+
+tbd
+
+::genre::
+
+## Elder - Through Zero
+
+tbd
+
+::genre::
+
+## Elvenking - Rites Of Disclosure
+
+tbd
+
+::genre::
+
+## Embrace Of Souls - The Battle Of The Dead
+
+tbd
+
+::genre::
+
+## Endless Floods - Passages
+
+tbd
+
+::genre::
+
+## ENGRAVED - Hymns For The Hollow
+
+tbd
+
+::genre::
+
+## Erik Grönwall - Bad Bones
+
+tbd
+
+::genre::
+
+## Ersedu - Gore
+
+tbd
+
+::genre::
+
+## Escaping Aghartha - Lurkers Of Languid Waters
+
+tbd
+
+::genre::
+
+## Etienne Nillesen - TWEE
+
+tbd
+
+::genre::
+
+## Fable - Long Hath The Night Dwelt
+
+tbd
+
+::genre::
+
+## fakemink - Terrified
+
+tbd
+
+::genre::
+
+## Fatal Vision - Four Sides To Every Story
+
+tbd
+
+::genre::
+
+## Fear, and Loathing in Las Vegas - StandBy
+
+tbd
+
+::genre::
+
+## Federico Durand - La Manzana Mágica
+
+tbd
+
+::genre::
+
+## FLOCKS - Lagoon
+
+tbd
+
+::genre::
+
+## Fugue State - After Nothing Comes
+
+tbd
+
+::genre::
+
+## Funfacts - Komm doch mit
+
+tbd
+
+::genre::
+
+## Future Islands - From a Hole in the Floor to a Fountain of Youth
+
+tbd
+
+::genre::
+
+## Gabriel Espinosa - The Brazilian Project
+
+tbd
+
+::genre::
+
+## gamut inc - radiating
+
+tbd
+
+::genre::
+
+## Garden Of Mercy - Days In Reverse
+
+tbd
+
+::genre::
+
+## George Cotsirilos - In the Wee Hours
+
+tbd
+
+::genre::
+
+## Get Well Soon - Minus The Magic
+
+tbd
+
+::genre::
+
+## Goddess - Ritual Of The Cloven Hoof
+
+tbd
+
+::genre::
+
+## Greg Surmacz - Voices through the Wall
+
+tbd
+
+::genre::
+
+## Gridiron - Lights Out
+
+tbd
+
+::genre::
+
+## Haemoth - Black Dust
+
+tbd
+
+::genre::
+
+## Hammock - The Second Coming Was a Moonrise
+
+tbd
+
+::genre::
+
+## Hands Like Houses - Lotus
+
+tbd
+
+::genre::
+
+## Hannah Horton - Stories On The Wind
+
+tbd
+
+::genre::
+
+## Hannah Peel - The Endless Dance
+
+tbd
+
+::genre::
+
+## Harboured - We’re Only The Love That We Lead
+
+tbd
+
+::genre::
+
+## Hellevate - Killicon Valley
+
+tbd
+
+::genre::
+
+## Hexenaltar - Descending Curse
+
+tbd
+
+::genre::
+
+## Horrific Visions - Remnants Of Atrophy
+
+tbd
+
+::genre::
+
+## Hyd - Hold Onto Me Infinity
+
+tbd
+
+::genre::
+
+## Hysterese - Hysterese
+
+tbd
+
+::genre::
+
+## Ian Harrison - Jealous
+
+tbd
+
+::genre::
+
+## Impure Wilhelmina - Le Sanglot
+
+tbd
+
+::genre::
+
+## Indication, Watch You Fall, Seasons End - Forver Yours
+
+tbd
+
+::genre::
+
+## Ingeborg Gravem Sollid - The Aftermath
+
+tbd
+
+::genre::
+
+## Ivo Perelman and Damon Smith - Duologue: Core of Existence
+
+tbd
+
+::genre::
+
+## I’A’V - Volatile Poem
+
+tbd
+
+::genre::
+
+## James McGowan - Threads of Fate
+
+tbd
+
+::genre::
+
+## Joshua Mastel & Alec Goldfarb - Firmament
+
+tbd
+
+::genre::
+
+## Karfagen - OMNI II Act I: The Glass of Time
+
+tbd
+
+::genre::
+
+## Keops - Bitter Story For Humanity
+
+tbd
+
+::genre::
+
+## Kevian Kraemer - only if it matters
+
+tbd
+
+::genre::
+
+## Kottonmouth Kings - California Burning
+
+tbd
+
+::genre::
+
+## Kreftich - Keine Angst
+
+tbd
+
+::genre::
+
+## Kur.Nu.Gi.A - Carmina Inferorum
+
+tbd
+
+::genre::
+
+## Le Sserafim - Pureflow Pt. 1
+
+tbd
+
+::genre::
+
+## Little Barrie - Gravity Freeze
+
+tbd
+
+::genre::
+
+## Lore - Psychotic Trance Of The Black Nights
+
+tbd
+
+::genre::
+
+## Lowertown - Ugly Duckling Union
+
+tbd
+
+::genre::
+
+## Lua Jungck - Chase
+
+tbd
+
+::genre::
+
+## Luise Volkmann - Canto de Olho
+
+tbd
+
+::genre::
+
+## Maebe - Brain Paint
+
+tbd
+
+::genre::
+
+## Magic Tuber Stringband - Heavy Water
+
+tbd
+
+::genre::
+
+## Maisie Peters - Florescence
+
+tbd
+
+::genre::
+
+## Make It Right - Make It Right
+
+tbd
+
+::genre::
+
+## Malfeitor - The Smell Of Death
+
+tbd
+
+::genre::
+
+## Maliciouz - Sympathypnotic Intercession
+
+tbd
+
+::genre::
+
+## Mansvara - Sable Odes To Nihility
+
+tbd
+
+::genre::
+
+## Marisa Anderson - The Anthology of Unamerican Folk Music
+
+tbd
+
+::genre::
+
+## Marmozets - CO.WAR.DICE.
+
+tbd
+
+::genre::
+
+## Martin Kohlstedt - Kluft
+
+tbd
+
+::genre::
+
+## Moonlight Haze - Interstellar Madness
+
+tbd
+
+::genre::
+
+## Mott - Best Is Yet To Come
+
+tbd
+
+::genre::
+
+## Musth - Jollysad
+
+tbd
+
+::genre::
+
+## Mécréant - Déchéance
+
+tbd
+
+::genre::
+
+## Necrotesque - Et Mortui Resurgent
+
+tbd
+
+::genre::
+
+## newshapes - somehow i still believe
+
+tbd
+
+::genre::
+
+## Night Spectre - Night Spectre
+
+tbd
+
+::genre::
+
+## Nora Kelly Band - So Wrong For So Long
+
+tbd
+
+::genre::
+
+## Not Richard & Her Majesty - Success & Fulfillment
+
+tbd
+
+::genre::
+
+## Opera IX - Veneficium
+
+tbd
+
+::genre::
+
+## Oracle Of Worms - Cult Of Suffering
+
+tbd
+
+::genre::
+
+## Park - The Anagram
+
+tbd
+
+::genre::
+
+## Peach - Soak Vol. 1
+
+tbd
+
+::genre::
+
+## Peggy Lee, Julien Wilson, Theo Carbo, Dylan Van Der Schyff - Waiting Music
+
+tbd
+
+::genre::
+
+## PIG - Hurt People Hurt
+
+tbd
+
+::genre::
+
+## Piolun - Exolvuntur
+
+tbd
+
+::genre::
+
+## Poise - Iron Foot
+
+tbd
+
+::genre::
+
+## Pénitent - Te Veut Ivre
+
+tbd
+
+::genre::
+
+## Rachelle Garniez - Born in Time
+
+tbd
+
+::genre::
+
+## Ratsalad. - Pests from the West
+
+tbd
+
+::genre::
+
+## Raw Peace - To Dust
+
+tbd
+
+::genre::
+
+## remst8 - Coalescence
+
+tbd
+
+::genre::
+
+## Sandstorm - Dungeon Of Death
+
+Sandstorm ist ein erfahrenes Power-Trio, das sich bereits 2017 gegründet hat. Mit ihren Kult-EPs "Time to Strike" (2019) und "Desert Warrior" (2021) haben sie sich eine fanatische Underground-Anhängerschaft aufgebaut. Sie lehnen den sauberen, sterilen und überproduzierten Charakter moderner digitaler Aufnahmen ab und bevorzugen einen analogen, warmen und Vintage-Produktionsstil, der klingt, als wäre er direkt aus dem Jahr 1982 hergereist. Purer, unverfälschter Traditional **Heavy Metal**, **Speed Metal**, **NWOBHM** und klassischer 1980er-Jahre-**Hardrock**. Sandstorm ist eine glorreiche mittelalterliche Kellerparty auf die Beine gestellt, angeheizt von schwarzem Leder, glänzenden Nieten und billigem Bier. "Dungeon Of Death" ist eine 20-minütige, rasante Fahrt voller purer Vintage-Nostalgie. Anstelle ihrer üblichen langen, epischen Marschstücke kommt die Band hier direkt auf den Punkt mit kurzen, druckvollen Tracks, die auf mitreißende, galoppierende Gitarrenriffs und stampfende Hard-Rock-Hooks setzen. Bei Tracks wie "Slave to Sin" und "Close Combat" wirst du instinktiv die Teufelshörner in die Luft recken und deinen Kopf gegen die nächste Wand schlagen. Es ist ungeschliffen, schnell, unglaublich wild und die perfekte Musik, um in einem klapprigen Auto die Autobahn entlang zu rasen.
+
+::genre::heavy metal, heavy rock, hard rock, nwobhm
+
+## Sauvageoness - A Maze Deep In
+
+Nach der leichteren, folkigen Introspektion einer früheren poetischen Ära namens PHOEBE hat Sauvageoness eine massive klangliche Metamorphose durchlaufen. Dieses Album steht für einen bewussten Abstieg in dunklere, ritualistische Gefilde, in denen organische Instrumentierung auf wunderschöne Weise zerbricht. Eine radikale, zutiefst atmosphärische Verschmelzung von **Post-Punk**, **Shoegaze**, **Industrial**, **Indie Noise** und **Dark Dream Pop** - alles durchzogen von der rohen, emotionalen Intensität blackmetallischer Grundlagen. Die Künstlerin beschreibt ihre einzigartige Ästhetik frech als Doomed Industrial Dream Pop. Das Anhören von "A Maze Deep In" fühlt sich an, als würde man um Mitternacht in ein gotisches, neonbeleuchtetes Waldlabyrinth wandern, in dem die Bäume Synthesizer summen und der Wind Black-Metal-Gesang schreit. Dieses Album ist eine wunderschön intensive emotionale Pilgerreise. Tracks wie „Rather In Harmony“ beginnen mit unschuldigen, geisterhaften, schwebenden Vocals, bevor sie einen in einen tribal-psychedelischen Post-Punk-Groove einhüllen, der sich wie eine hypnotische Trance anfühlt. Sauvageoness verwebt meisterhaft kontrollierten Industrial-Noise und beruhigenden Shoegaze-Dunst zu einem Klangteppich, der komplex und auf reizvolle Weise unheimlich ist. Es ist das ultimative Album, um mit übergroßen Kopfhörern in einem dunklen Raum zu sitzen und den Bezug zur Realität völlig zu verlieren.
+
+::genre::industrial, post punk, dreampop, dark folk
+
+## Schütze - Erfolg
+
+Das Duo, das von den Cousins Hermann Bunde (Gesang) und Felix Müller (Produzent/Gitarrist) aus Norddeutschland gegründet wurde, hat sich einen Namen damit gemacht, zutiefst persönliche, alkoholgetränkte Skizzen über Jugend, Liebe und Ängste zu schreiben. Obwohl sie häufig Synthesizer einsetzen, brechen sie aktiv aus dem Trend der Neuen Neuen Deutschen Welle aus, um sich eine eigenständige, gitarrenlastige Indie-Punk-Identität zu schaffen. Ein raffinierter, bittersüßer Cocktail aus **Indie-Rock**, **Emo-Pop**, **Post-Punk** und **Indie-Punk**. Das Album mit dem Titel "Erfolg" hat einen wunderbaren, ironischen Biss und nutzt seine größte Single, "Erfolglo", um die Stimmung zu setzen. Schütze hat im Grunde den ultimativen Soundtrack dafür geschaffen, nach einer verschwommenen Nacht in einer ruhigen Provinzstadt bei Sonnenaufgang nach Hause zu laufen. Ausgestattet mit treibenden Basslinien, knackigen Gitarren, scharfen Synthesizern und jeder Menge dramatischer Ahs und Ohs sorgen Tracks wie "Friedhöfe voll" und "Stimmen" für wunderschöne Reibung. Das Album balanciert überwältigende Freude mit scharfem emotionalem Schmerz aus und beweist, dass der Rückblick auf die chaotischen Zwanziger unglaublich kunstvoll klingen kann. Es ist cooler, stimmungsvoller und mühelos eingängiger Indie-Rock.
+
+::genre::indie rock, power pop
+
+## Sendeschluss - Ira
+
+Die Band, die für ihre rohe Punk-Energie bekannt ist, hat mit diesem Album einen wichtigen Meilenstein erreicht. Sie hat eigens ihr eigenes Independent-Label, Ninecastle Records, gegründet, um den Vertrieb und die Produktion des Albums zu übernehmen. Kraftvoller **Streetpunk**, **Punkrock** und **Deutschpunk**. Getreu ihrem lateinischen Titel (Ira bedeutet Zorn) hat SENDESCHLUSS im Grunde den Klang einer Faust aufgenommen, die auf eine Mauer trifft - allerdings mit einem überraschend großartigen Gespür für Melodie. Der Eröffnungstrack hält sich nicht zurück und schlägt eine aggressivere, düsterere und viel härtere klangliche Richtung ein als ihre früheren Werke. Songs wie "Die Esel reiten wieder" und "Und Action" sind randvoll mit rauer, zum Mitsingen einladender Streetpunk-Energie. Doch anstatt nur gedankenlos politische Parolen ins Mikrofon zu brüllen, verwebt die Band echte Reflexion und gesellschaftliche Kommentare. Es ist schnell, druckvoll und perfekt für den Moment, in dem man am liebsten einen Tisch umwerfen würde, sich aber trotzdem einen eingängigen Refrain zum Mitsingen wünscht.
+
+::genre::streetpunk, punk rock
+
+## Sergio Di Gennaro - Blind Spots - Still Looking
+
+Der Pianist und Komponist Sergio Di Gennaro ist eine hoch angesehene Persönlichkeit der europäischen Jazzszene und künstlerischer Leiter der OGR Jazz Night. Für sein zweites Album als Bandleader hat er ein erstklassiges Akustik-Trio mit dem legendären Kontrabassisten Ares Tavolazzi und dem weltbekannten Schlagzeuger Enzo Zirilli zusammengestellt, wobei der renommierte italienische Saxophonist Emanuele Cisi als Special Guest mitwirkt. Komplexer **Modern Jazz**, **Post-Bop** und **zeitgenössischer Trio-Jazz**, durchdrungen von reichhaltiger mediterraner Lyrik. Nach dem metallischen Rauschen von "The Serpent" ist Sergio Di Gennaro nun da, um Ihnen ein warmes Glas Rotwein zu reichen und Ihre Seele zu beruhigen. "Blind Spots – Still Looking" ist ein wunderschönes Late-Night-Jazz-Album, das die stillen, unsichtbaren Randbereiche der menschlichen Intuition erkundet. Di Gennaro versucht nicht, mit hyperschnellen, aggressiven Klaviersoli anzugeben; stattdessen spielt er mit einer ausgeglichenen, ruhigen Souveränität, bei der die Stille genauso viel Gewicht hat wie die Noten selbst. Stücke wie "Just Breathe!" und "Modern Blindness" bewegen sich mit einem essentiellen, tiefen Groove und einer schwebenden Chemie, die das Trio so klingen lässt, als würden sie sich gegenseitig die Gedanken lesen. Es ist raffiniert, zutiefst filmisch und der ultimative Soundtrack, um eine hektische Woche ausklingen zu lassen.
+
+::genre::modern jazz, contemporary jazz, post bop
+
+## Shewolff - We're All Gonna Fukkin' Die
+
+Entstanden aus einem rauen, fünf Songs umfassenden digitalen Proben-Demo aus dem Jahr 2023, präsentiert sich die Band als wildes, blutverschmiertes Trio. Sie lehnen überpolierte moderne Produktionen ab und setzen stattdessen voll und ganz auf einen rauen Garagen-Sound, eine atemberaubende Selbstsicherheit und ungefilterte Leidenschaft. Frontfrau K. Von Shewolff führt die Truppe mit wilden, furchteinflößenden Vocals an, die speziell darauf ausgelegt sind, einem direkt an die Gurgel zu gehen. Eine bösartige, asoziale und primitive Mischung aus **Blackened Metal-Punk**, **Horror-Punk** und **Old-School-Black-Metal**. Man stelle sich einen teuflischen Cocktail vor, der sich von den frühen *Venom*, *Hellhammer*, *Bathory* vor ihrer Viking-Phase und *Darkthrones* Crust-Punk-Ära inspirieren lässt. Shewolffs "We're All Gonna Fukkin' Die" ist eine ausgelassene Friedhofsparty in Leder und Nieten, bei der jemand versehentlich einen Dämon beschworen hat. Getreu seinem kompromisslosen Titel ist diese Platte pures, unverfälschtes musikalisches Chaos. Hier gibt es keine ausgefallenen Gitarrensoli oder theatralischen Symphonien - nur mitreißende Punk-Beats, dröhnende Old-School-Riffs und kreischende Vocals, die deine Nachbarn in Angst und Schrecken versetzen werden. Tracks wie "Nail + Burn" zeichnen sich durch den fernen Klang klirrender Ketten und Schreie aus den Tiefen des Verlieses aus und verpacken Horror-Themen und pechschwarzen Speed Metal in einen berauschenden, rasanten Punch. Es ist wild, unsozial und unglaublich unterhaltsam für alle, die ihren Rock’n’Roll lieber mit einem aggressiven, satanischen Grinsen serviert bekommen.
+
+::genre::speed metal, blackened thrash metal, horror punk
+
+## Skellig - Abasement Through Reverence
+
+Skellig ist ein Meister des klanglichen Isolationismus und der existenziellen Angst. Nach dem Underground-Erfolg des 2024 erschienenen Albums "Resonance of Our Dolmen" erweitert diese mit Spannung erwartete Veröffentlichung die Grenzen des sich langsam aufbauenden, minimalistischen Sounds. Die Texte tauchen tief in weltliche Themen ein und setzen sich mit menschlicher Ignoranz, der Angst vor dem Unbekannten und der Frage auseinander, wie blinder Glaube als Zuflucht vor der kosmischen Bedeutungslosigkeit genutzt wird. Eine vernichtende, unnachgiebige Kombination aus **Ambient Sludge**, **Drone Metal**, **Drone Doom** und **Dungeon Sludge**. "Abasement Through Reverence" anzuhören fühlt sich an, als würde man langsam von einem Kontinentalschelf plattgedrückt, während man in einer feuchten mittelalterlichen Krypta gefangen ist. Das gesamte Album umfasst nur vier Tracks, doch diese sind kolossal - allein der Eröffnungstrack "A Future Ordained By Spilling Entrails" dauert fast 14 Minuten! Skellig scheren sich nicht um eingängige Radio-Hooks oder darum, alles ordentlich zu halten. Stattdessen treffen sie einen mit einer unerbittlichen, verzerrten Flut aus verzerrten, verlangsamten Gitarren-Drones und qualvollen Brüllen, die sich wie eine kakophone Befreiung von der Realität anfühlen. Es ist düster, hypnotisch, völlig reuelos und das ultimative Album für den Moment, in dem man das Licht ausschalten und sich in absolutem klanglichem Nihilismus suhlen möchte.
+
+::genre::drone, funeral doom, post sludge metal
+
+## Skip Danko B-Movie Road Club - Trippin On A Chinese Market
+
+Angetrieben von einer nostalgischen Sehnsucht nach dem Amerika vor der Trump-Ära begab sich Skip Danko mit seinem unglaublich talentierten Ensemble in die kalifornische Wüste, um unter der Leitung von Dave Catching im legendären Rancho de la Luna Studio aufzunehmen. In zwei Jahren voller Sessions nahmen sie Stücke auf, die ganz aus dem Herzen kamen - und sogar Rockikone Peter Buck von R.E.M. schaute ganz spontan im Studio vorbei, um bei den Aufnahmen mitzuspielen. Eine wild exzentrische, weitläufige Mischung aus **Indie-Rock**, **Krautrock**, **Psychedelic Rock** und **Desert Rock/Stoner Rock**. Sie schöpft Inspiration aus 60 Jahren Rock'n'Roll - von den *Beatles* und *Pink Floyd* bis hin zu *Iggy & the Stooges*. Getreu seinem Namen ist das Anhören von "Trippin' On A Chinese Market" wie ein Streifzug durch einen neonbeleuchteten Basar, nachdem man drei Tassen Tankstellenkaffee getrunken hat. Diese Platte ist herrlich rau, verzerrt und auf wunderbare Weise aus den Fugen geraten. Tracks wie "No Bum" spielen mit purer Garage-Punk-Energie, während der gewaltige, neunminütige Titeltrack einen direkt in einen hypnotischen, wirbelnden psychedelischen Untergrund versetzt. Da sie in der Wüste aufgenommen wurden, haben Tracks wie "Desert Donkey" diesen gewaltigen, endlosen Klanghorizont. Es ist kunstvoll, rauchig, mühelos retro und mit Sicherheit der coolste musikalische Roadtrip, den man das ganze Wochenende über erleben wird.
+
+::genre::indie rock, psych rock, krautrock, desert rock, stoner rock
+
+## Skylar Grey - WASTED POTENTIAL
+
+Skylar Grey ist eine absolute Größe der Musikbranche. Die fünfmal für den Grammy nominierte Sängerin, Songwriterin und Multi-Instrumentalistin ist bekannt dafür, den Megahit "Love the Way You Lie" von Eminem und Rihanna geschrieben zu haben und mit Legenden wie Dr. Dre, Macklemore und Zedd zusammengearbeitet zu haben. Für "WASTED POTENTIAL" unterschrieb sie bei Casual Media Partners und tat sich mit dem Produzenten Danny Majic zusammen, um ein Album zu produzieren, auf dem sie ihre ganz eigene Stimme voll zur Geltung bringt. Ein intimer, melodischer Mix aus **Pop**, **Alternative Pop** und **Indie Pop**, getragen von eindrucksvollen, melancholischen Geschichten. Wenn du jemals auf deine peinlichen Teenagerjahre zurückgeschaut und dabei zusammengezuckt bist, dann hat Skylar Grey genau dieses Gefühl in ein Kunstwerk verwandelt. "WASTED POTENTIAL" ist im Grunde ein aufgeschlagenes Tagebuch, unterlegt mit wunderschönen Melodien. Es ist ein Konzeptalbum, das ihre Reise von ihrer Kindheit in der Arbeiterklasse des Mittleren Westens über chaotische, tabuisierte Romanzen bis hin zur inneren Ruhe begleitet. Grey hat eine Stimme, die klingt, als würde ein Engel in einer Kathedrale singen, doch ihre Texte schneiden wie ein unerwarteter blauer Fleck. Es ist erschütternd, zutiefst nachvollziehbar und perfekt zum Anhören an einem ruhigen Abend, an dem man aus dem Fenster schauen und ein wenig Nostalgie verspüren möchte.
+
+::genre::alt pop, indie pop, introspective pop
+
+## Sotolo - Chateau
+
+Sotolo genießt in der mexikanischen Underground-Elektronikszene hohes Ansehen für seine subtile, sich langsam entfaltende Musik, die sich stark auf Textur und Wiederholung konzentriert. "Chateau", erschienen beim visionären Label Ineffable aus Mexiko-Stadt, ist ein tiefgründiges klangarchitektonisches Projekt, das sich als minimalistische Studie über physische Räume, Erinnerung und emotionale Übergänge entfaltet. Eine immersive, unkonventionelle Mischung aus atmosphärischer Bassmusik, **Ambient-Electronica** und ungewöhnlichen Klangtexturen. Getreu seinem Namen fühlt sich das Hören von "Chateau" an, als würde man eine leere, sonnenbeschienene Betonvilla in einem virtuellen Simulator erkunden. Sotolo macht keine aggressive, clubtaugliche Dance-Musik; stattdessen erschafft er komplexe Klangwelten, die dazu gedacht sind, bewohnt und nicht nur konsumiert zu werden. Tracks wie "Lamento" ziehen einen mit flüsterleisen, introspektiven Ambient-Pads in ihren Bann, bevor sie einen sanft in einen hypnotischen Subbass-Groove einhüllen. Es ist verspielt und doch nachdenklich, bietet gerade genug rhythmische Bewegung, um mit dem Kopf zu nicken, während man sich gleichzeitig völlig in den Wolken verliert. Es ist der ultimative Soundtrack für konzentriertes Programmieren, nächtliche Autofahrten durch die Stadt oder das Entwerfen anspruchsvoller Architektur im eigenen Kopf.
+
+::genre::ambient, edm, ebm
+
+## Spleen - Gush
+
+Dieses italienische Quartett, das aus der eng verbundenen, äußerst künstlerischen Florentiner Underground-Szene hervorgegangen ist, verkörpert den düsteren, wütenden und gitarrenlastigen Geist der späten 80er und frühen 90er Jahre. Sie zeichnen sich durch energiegeladene Rhythmen, stimmungsvollen Gesang und Wände aus verzerrtem Fuzz-Pedal-Feedback aus, wobei sie den rohen emotionalen Eindruck deutlich über den polierten Mainstream-Pop stellen. Rauer **Alternative Rock**, **Grunge**, **Indie-Rock** und **Post-Punk**. Getreu ihrem Namen ist "GUSH" ein regelrechtes emotionales Blutbad. Spleen hat es geschafft, jene ganz besondere Art von Mitternachtsangst einzufangen, die einen dazu bringt, zu schnell Auto zu fahren oder in einem Underground-Clubkeller herumzustampfen. Die Gitarren sind dick, schlammig und wunderbar laut und beschwören den Geist der frühen Sonic Youth oder Pixies herauf. Die Lead-Single "W.Y.E.D.F.M." beginnt wie ein nervöser Herzschlag, bevor sie in eine Flutwelle aus verzerrtem Bass und rauen, verzweifelten Vocals explodiert, die einige ernsthaft schwere existenzielle Fragen stellen. Es ist angstgeladene, wunderbar chaotische und höchst süchtig machende Musik für Momente, in denen die Stimmung etwas trüb ist und man seine Gedanken einfach in einer glorreichen Wand aus Lärm ertränken möchte.
+
+::genre::power pop, alt rock, indie rock, post grunge
+
+## Steep Canyon Rangers - Next Act
+
+Die Rangers gehören zweifellos zum Bluegrass-Adel. Sie sind seit über zwei Jahrzehnten aktiv, haben einen Grammy gewonnen und sind vor allem als die Band bekannt, die regelmäßig mit der Comedy-Ikone und dem außergewöhnlichen Banjo-Spieler Steve Martin auf Tournee geht und Alben aufnimmt. "Next Act" ist ihr unglaubliches 15. Studioalbum und markiert mit der Aufnahme des gefeierten Singer-Songwriters Aaron Burdett den Beginn ihres neuesten kreativen Kapitels. **Bluegrass**, **Folk** und **Progressive Country Rock** von Weltklasse. Wenn eure Ohren genug haben von überproduziertem, roboterhaftem Radio-Pop und ihr einfach nur die Wärme echter menschlicher Hände spüren wollt, die gemeinsam in einem Raum auf akustischen Instrumenten spielen, dann ist "Next Act" ein Meisterwerk. Die Platte fühlt sich an wie ein sonniger Wochenendnachmittag bei einer Gartenparty, bei der zufällig jeder ein musikalisches Genie ist. Die Gesangsharmonien wirken wie ein sanfter Schluck süßer Tee, die Fiddle-Soli von Nicky Sanders hüpfen herum wie eine hyperaktive Heuschrecke, und wenn Steve Martin mit seinem Banjo bei Titeln wie "Heart’s the Only Compass" vorbeischaut, ist das pure akustische Glückseligkeit. Es ist erhebend, tief erdend und der perfekte Soundtrack, um in einem Schaukelstuhl auf der Veranda zu sitzen und die Welt vorbeiziehen zu sehen.
+
+::genre::prog folk, alt folk, bluegrass, country folk
+
+## Steppin‘ Razor Blades - Stay Sharp
+
+Als wichtige neue Stimme aus der DIY-Punk-Szene des Nordostens betrachtet die Band das klassische Two-Tone-Konzept nicht als verstaubtes Relikt, sondern als wirksames Mittel für gesellschaftliche Kritik. Sie kreieren äußerst mitreißende, tanzbare Rhythmen, hinter denen sich scharfsinnige, witzige und zutiefst kritische politische Botschaften verbergen. Energiegeladener **Ska-Punk**, **Street-Punk** und klassischer **Two-Tone**. Stellt euch ein mitreißendes musikalisches Rezept vor, das die schwungvollen Bläsersätze von *The Specials* mit der rauen, rotzigen Street-Punk-Attitüde von *River City Rebels* vermischt. Wenn ihr denkt, Ska-Punk sei nur albernes Geplapper über karierte Sneakers und Limonade, dann ist Steppin' Razor Blades hier, um euch einen Ziegelstein durch das Fenster zu werfen - mit Bläsersatz. "Stay Sharp" ist ein absoluter Knaller von einem Debütalbum. Es schafft es, mitreißende, zynische Kritik an allem zu liefern, von der Internet-Klatschkultur ("Shooting Daggers") bis zum Albtraum der amerikanischen Gesundheitsindustrie ("True Drug Lords"), und zwingt dich dabei gleichzeitig dazu, aggressiv durch dein Wohnzimmer zu skanken. Die Produktion ist herrlich roh und druckvoll, die Bläser treffen mit absoluter Laserpräzision, und die treibenden Street-Punk-Refrains werden sich wochenlang in deinem Gehirn festsetzen. Es ist schnell, aktuell, laut und mit Abstand die lustigste Protestkundgebung, an der du das ganze Jahr über teilnehmen wirst.
+
+::genre::ska punk
+
+## Sönus - Planes Of Torment
+
+SÖNUS ist das geistige Kind des Multi-Instrumentalisten und Masterminds David Wachsman. Nach dem enormen Underground-Erfolg ihres 2022 erschienenen Albums "Usurper of the Universe" durchlebte Wachsman drei brutale Jahre, die von Verletzungen, Operationen und finanziellen Rückschlägen geprägt waren. Um diesen Schmerz in puren Metal zu kanalisieren, stellte er eine Live-Studio-Band zusammen - darunter Bassist Dave Reno und der donnernde Schlagzeuger Colin Jaramillo -, um jeden einzelnen Track live im Studio ohne jegliche digitale Nachbearbeitung aufzunehmen. Ein katastrophaler, genreübergreifender Mix aus traditionellem **Heavy Metal**, psychedelischem **Heavy Rock**, **Stoner Rock** und **Doom Metal**. Ihre DNA ist stark von klassischen Rockgöttern wie *Judas Priest*, *Motörhead*, *The Cult* und *AC/DC* geprägt. SÖNUS' "Planes of Torment" ist ein unterirdischer Kerker, in dem ein Zauberer über einem See aus Feuer stehend eine E-Gitarre zerfetzt. Diese Platte ist eine wunderschön wilde, teuflische Reise durch absoluten Wahnsinn und Überleben. Da sie komplett live aufgenommen wurde, hat sie einen rohen, ungezähmten Punch, der einem direkt in die Brust trifft. Tracks wie "Sisyphus Stomp" liefern einen rasanten, blue-collar Heavy-Metal-Groove, der Lust macht, etwas Schweres zu heben, während der epische Track "Scorpio" ein völlig unerwartetes, wild-geniales Gastflötensolo einstreut. Es ist rauchig, trippig, wild triumphierend und laut genug, um Tote zu wecken.
+
+::genre::heavy metal, heavy rock, stoner rock, doom metal
+
+## Tegh & Adel Poursamadi - Bayal بیل
+
+*Shahin Entezami* (der unter dem Namen Tegh auftritt) ist ein etablierter Klangkünstler aus Teheran, der sich auf dichte Drone- und Glitch-Kompositionen spezialisiert hat. *Adel Poursamadi* ist ein äußerst versierter klassischer Geiger und Meister der Streichinstrumente. "Bayal" ist ihr drittes gemeinsames Album, das aus intensiven Improvisationssitzungen hervorgegangen ist, bei denen Poursamadis akustische Instrumentierung durch Entezamis modulare Synthesizer verarbeitet wird. Eine stimmungsvolle, in Grautönen gehaltene Mischung aus **experimenteller Elektronik**, **Drone**, **Glitch** und **iranischer klassischer/traditioneller Musik**. Wolltest du schon immer einmal in einem wunderschönen, kargen Schwarz-Weiß-Film sitzen, während um dich herum ein digitales Gewitter tobt? Das ist "Bayal". Tegh und Adel Poursamadi nehmen jahrhundertealte iranische akustische Traditionen und katapultieren sie direkt in eine dystopische Cyber-Zukunft. Tracks wie "Toward The Vast Mountain" beginnen mit wunderschönen, wehmütigen Violinenmelodien, die sich zutiefst uralt anfühlen - nur damit Tegh sie mit glitchigen, metallischen Percussions, zeitdehnten Signalen und Wänden aus wunderschönem Rauschen überzieht. Es ist eindringlich, leicht angespannt und zutiefst filmisch. Es ist der ultimative Soundtrack für den Moment, in dem man sich unglaublich künstlerisch fühlen möchte, während man in einem dunklen Rollkragenpullover Espresso trinkt.
+
+::genre::experimental electronica, drone, ambient, glitch, modern classic, world music, iranian folk
+
+## Terje Evensen - Reclusive Mountain
+
+Evensen ist ein außergewöhnlich versierter norwegischer Komponist, Schlagzeuger und Elektronikmusiker. Er versteht es meisterhaft, zarte, organische akustische Improvisationen mühelos in eine futuristische digitale Klangwelt einzubinden. Für "Reclusive Mountain" stellte er ein absolutes Powerhouse-Ensemble aus Jazz-Größen zusammen, darunter den visionären Trompeter Nils Petter Molvær, den legendären Bassisten Tim Harries und Michel Godard an der Serpent (einem seltenen, unheimlichen, jahrhundertealten tiefstimmigen Blechblasinstrument). Ein herausragender Crossover aus **NuJazz**, **Elektroakustik**, **Ambient Electronica** und **Avantgarde-Jazz**. "Reclusive Mountain" ist im Wesentlichen der Soundtrack zu einem Science-Fiction-Noir-Krimi, der in einer gefrorenen nordischen Landschaft spielt. Evensens Schlagzeug legt stetige, nomadische und hypnotische Rhythmen vor, während seine Weltklasse-Mitwirkenden sich in die Schatten ein- und wieder herausweben. Nils Petter Molværs Trompetenlinien klingen wie Eiskristalle, die in Zeitlupe schmelzen, während Michel Godards uraltes Serpent-Horn aus der Tiefe brüllt wie ein sanftes unterirdisches Monster. Das Album beweist auf wunderschöne Weise, dass musikalische Kraft keine Heavy-Metal-Gitarren benötigt; stattdessen nutzt es geschmackvolles Sounddesign, zerbrechliche Pausen und unermesslichen Raum, um einem das Gefühl zu geben, auf einem einsamen Gipfel zu stehen und in einen weiten, sternenklaren Abgrund zu blicken. Es ist brillant, filmisch und von tiefer Tiefe.
+
+::genre::nu jazz, avant electronica, avant jazz, ambient acoustic, improvisation
+
+## Tewksbury - rust/wave
+
+Doug Tewksbury ist Wissenschaftler, Musiker und Toningenieur, der Klang wie physische Kunst behandelt. In den letzten Jahren hat er sich einen Namen als Schöpfer atemberaubender Klanginstallationen und Verleger cineastischer Ambient-Alben gemacht. Er setzt konsequent auf haptische Geräte der alten Schule, um die Schönheit akustischer Unvollkommenheiten zu entdecken. Für "rust/wave" hat er bewusst Stücke mit Vintage-Hardware-Samplern wie dem Akai Riff-o-matic (einem alten Lo-Fi-Gitarrentrainer) und einem Korg MS-1 komponiert. Sehr strukturierte **Ambient**-, Klangkunst-, **Drone**- und **Lo-Fi-Experimental-Electronica**. Wenn du schon immer wissen wolltest, wie es klingt, wenn ein Stück Vintage-Audioausrüstung langsam und anmutig radioaktiv zerfällt, ist "rust/wave" die Antwort. Tewksbury erzeugt keine flachen, langweiligen Hintergrundgeräusche; er webt lebendige, atmende Klangteppiche. Tracks wie "Cascadia" und "Attractor" bestehen vollständig aus Tonbandschleifen, Trillern, Verzerrungen und reizenden kleinen klanglichen Unvollkommenheiten. Es fühlt sich weniger wie digitale Musik an, sondern eher wie ein Spaziergang durch eine sonnenbeschienene, verlassene Fabrik, in der Staubkörnchen zu einer wunderschönen Synthesizer-Melodie tanzen. Es ist warm, einladend, unglaublich gemütlich und der ultimative Begleiter, um ein Buch zu lesen, während ein Gewitter vor deinem Fenster vorbeizieht.
+
+::genre::ambient, drone, experimental electronica, lofi
+
+## The Band CAMINO - NeverAlways Vol. 2
+
+Das Trio aus Jeffrey Jordan, Spencer Stewart und Garrison Burgess, das auf Spotify als - Your Mom’s Favorite Band - bezeichnet wird, hat weltweit über 1 Milliarde Streams gesammelt. Diese Sammlung mit 11 Titeln ist das mit Spannung erwartete zweite Kapitel ihres im Sommer 2025 erschienenen Albums "NeverAlways" und rundet eine unglaublich produktive, zweiteilige Ära ab. Eine mitreißende, stadiontaugliche Mischung aus **Alternative Rock**, **Pop-Rock** und **Indie-Pop** mit üppigen Synthesizern und massiven, emotionalen Gesangshooks. Wenn du schon immer einmal beim Fahren mit 145 km/h auf der Autobahn wegen einer schlimmen Trennung an dein Lenkrad schreien wolltest, dann ist "NeverAlways Vol. 2" dein Heiliger Gral. The Band CAMINO hat die absolute Kunst gemeistert, chronisches emotionales Chaos wie eine unglaublich spaßige Zeit klingen zu lassen. Es ist randvoll mit dem, was Kritiker als sehnsüchtige Boyband-Energie beschreiben, wo knackige Gitarren und glänzende 80er-Jahre-Synthesizer Hand in Hand gehen mit zutiefst ehrlichen Texten über chaotische moderne Romantik. Songs wie "Holly!" zaubern dir sofort ein flirtendes Grinsen ins Gesicht, während "Afterthought" genau die Art von hochfliegendem, dramatischem Refrain liefert, der dazu bestimmt ist, von einem ausverkauften Stadionpublikum mitgeschrien zu werden. Es ist ausgefeilt, macht süchtig und ist der ultimative Soundtrack, um eine emotionale Krise im späten Frühling zu überstehen.
+
+::genre::indie rock, alt rock, indie pop, alt pop
+
+## The Brink - Demo
+
+Weit ab vom Glanz der Major-Label-Popmusik haben sich The Brink monatelang in schweißtreibenden lokalen Kellern und bei Independent-Gigs in VFW-Hallen ihre Sporen verdient. Sie nähern sich der Heavy-Musik mit der drängenden, schützenden Mentalität historischer Underground-Szenen und ziehen analogen Rauheit eine makellose, überbearbeitete Studioproduktion vor. Eine rasante, schnörkellose Fusion aus **Hardcore-Punk**, **Metallic Hardcore** und **Crossover-Thrash**. Nimm all deine vornehmen, höflichen Manieren, wirf sie in den Müllschlucker und drück auf Start. Das ist die Stimmung auf The Brinks Demo. Es ist ein kurzer, scharfer Schock aus roher menschlicher Panik und der Gewalt der Heavy-Musik. Die Gitarren klingen, als wären sie in einer rostigen Mülltonne aufgenommen worden, während sie vom Blitz getroffen wurden, die Basslinien rütteln direkt durch dein Skelettsystem, und der Sänger klingt gleichzeitig aufrichtig verängstigt und wütend. Es ist schnell, aggressiv und völlig ungeschliffen. Es ist der absolut perfekte Hintergrundlärm, wenn du lächerlich schwere Gewichte stemmen, einen alten Fernseher mit einem Baseballschläger zerschlagen oder deinen Körper aggressiv in einem überfüllten Keller-Moshpit herumwirbeln willst.
+
+::genre::metallic hardcore, crossover, thrash metal
+
+## The Circle Of The Elect - Kaoskarma
+
+Dies ist eine geheimnisvolle, anonyme Supergroup. Die Band besteht aus erfahrenen Veteranen bekannter Bands der berühmten Black-Metal-Szene von Charkiw, doch sie halten ihre individuellen Identitäten streng geheim, um ein Maximum an Mystik zu bewahren. Wütender, düsterer **Atmospheric Black Metal** und Orthodoxy Black Metal. Wenn du schon immer einmal hören wolltest, wie es klingt, wenn sich das Universum in sich selbst zusammenfaltet, ist "Kaoskarma" die Antwort. Diese Veteranen der ukrainischen Szene liefern eine Meisterleistung düsterer, eisiger Klangkriegsführung. Das Album basiert auf einer Schicht aus rohen, brummenden Gitarren und primitiven Drums, die sich wie eine Flutwelle aus Lava bewegen. Doch gerade wenn man glaubt, vom absoluten Nihilismus überwältigt zu werden, verweben sie diese eindringlich schönen, kalten Melodien, die die Apokalypse seltsam majestätisch klingen lassen. Tracks wie "V" treffen mit einer viszeralen, verzweifelten Emotion, die nur der osteuropäische Underground wirklich nachbilden kann. Es ist düster, hypnotisch und eignet sich hervorragend, um es in einem stockdunklen Raum zu hören, während man über das kosmische Chaos nachsinnt.
+
+::genre::atmo black metal
+
+## The Early Years - Modern Moonlight **
+
+The Early Years sind die unangefochtenen Meister der Langsamkeit. Sie haben wohl den geduldigsten Veröffentlichungsplan der Rockgeschichte und bringen ihre Alben im Abstand von genau zehn Jahren heraus: ihr Debüt 2006, "II" 2016 und nun ihr drittes Album im Jahr 2026. Frontmann Dave Malkinson führt die Entstehung dieser neuen Musik bekanntlich auf geliebte Menschen, italienischen Rotwein und Brian Enos ‚Oblique Strategies‘-Karten zurück. Eine üppige, weitläufige Mischung aus **Art-Rock**, **Krautrock**, **Space Rock** und Kosmische **Indie** mit einem Hauch von nächtlicher Elektronik. Stellt euch eine klangliche Blaupause vor, die Anleihen bei *David Bowie*s Berliner Ära, den *Talking Heads*, *Brian Eno* und der späten Phase von *Talk Talk* nimmt. Wenn man ein ganzes Jahrzehnt auf ein neues Album gewartet hat, sollte es besser spektakulär sein - und "Modern Moonlight" liefert absolut ab. Dieses Album ist ein glorreicher, großformatiger Audio-Trip, der dazu gedacht ist, in einem nächtlichen, vom Handylicht erhellten Dunst erlebt zu werden. Es beginnt mit Tracks wie "A New Way Of Living", das einen eiskalten, retro-futuristischen Groove vermittelt, der einem das Gefühl gibt, als Undercover-Spion durch eine regnerische Stadt zu schlendern. Dann bringen Tracks wie "Get Up Get Out" eine fieberhafte, funkige Bassline ins Spiel, die klingt, als würden The Stooges eine Synth-Disco der späten 70er-Jahre stürmen. Es ist elegante, hypnotisch-rhythmische, kunstvolle und mühelos coole Musik für Menschen, die der Meinung sind, dass moderner Popmusik das Gefühl eines großen Abenteuers fehlt.
+
+::genre::art rock, indie rock, space rock, krautrock
+
+## Thomas Dollbaum - Birds Of Paradise
+
+Dollbaum hat einen Master of Fine Arts in Lyrik, was sich direkt in seinem lebhaften, erzählerischen Stil widerspiegelt. Nach seinem Durchbruchalbum "Wellswood" aus dem Jahr 2022 hat er diese neuen Songs aufgrund von Verzögerungen bei den Aufnahmen tatsächlich drei lange Jahre lang auf Eis gelegt und sie mit einer hochkarätigen Begleitband verfeinert, in der auch der Indie-Liebling MJ Lenderman als Backgroundsänger mitwirkt. **Indie-Rock**, Heartland-Rock und **Americana**/**Alt-Country**. Sein roher, erzählerischer Ansatz lässt Vergleiche mit dem düsteren, stimmungsvollen Songwriting von Townes Van Zandt, Jason Molina (Songs: "Ohia") und Bobby Charles aufkommen. "Birds of Paradise" anzuhören fühlt sich an, als würde man um Mitternacht eine schummrig beleuchtete, leicht stickige Spelunke in Florida betreten, während ein brillanter, müder Poet genau erklärt, warum sein Leben gerade aus den Fugen geraten ist. Dollbaum singt weniger, als dass er einen rauen, gesprächigen Südstaaten-Slang über kräftige, sonnenverbrannte Gitarren legt. Songs wie "Coyote" (mit den unverwechselbaren, trägen Harmonien von MJ Lenderman) zeichnen wunderschöne, melancholische Bilder von vergänglichen Nebenstraßen, verlorenen Lieben und Geistern kleiner Städte. Es ist staubig, es ist wunderschön ehrlich, und es ist der perfekte Soundtrack, um mit heruntergelassenen Fenstern eine leere Autobahn entlangzufahren und dabei all seine wichtigen Lebensentscheidungen zu hinterfragen.
+
+::genre::indie folk, country folk, americana, alt country
+
+## Tim Kasher's Home Phone - Sponges of Experience
+
+Kasher ist bekannt als Frontmann der legendären Indie-/Emo-Bands Cursive und The Good Life. Er hat diesen speziellen Künstlernamen - *Tim Kasher's home phone* - ins Leben gerufen, um eine tiefe Verbindung zu seiner treuen Community auf Patreon aufzubauen. Verspielter, poetischer und äußerst literarischer **Indie-Rock**, **Emo** und **Art-Rock**. Wenn Tommy Lees Album eine Strandparty im Stadionformat ist, dann ist Tim Kachers "Sponges of Experience" das witzige, leicht ängstliche Indie-Rock-Äquivalent eines koffeinhaltigen Tagebucheintrags. Zwölf Songs in vier Tagen zu schreiben, klingt nach einem Rezept für einen Nervenzusammenbruch, aber Kasher meistert das wie ein absoluter Profi. Tracks wie der treibende Opener "The Dying Animal" und das zerbrechliche, akustisch geprägte "The Collapse" tragen diese typische Kasher-Magie in sich - offen zur Schau getragene existenzielle Angst, verpackt in brillantem Storytelling und höchst süchtig machenden Indie-Melodien. Es fühlt sich dringlich, ungeschliffen und herrlich spontan an. Es ist die perfekte Platte, die man auflegt, während man an einem Cold-Brew-Kaffee nippt, aus dem Fenster starrt und über die wunderschön chaotische Natur der menschlichen Existenz nachsinnt.
+
+::genre::indie rock, art rock, emocore
+
+## Visible Cloaks - Paradessence
+
+Visible Cloaks haben über ein Jahrzehnt damit verbracht, die seltsame, verschwommene Grenze zwischen natürlichen Instrumenten und digitaler Simulation auszuloten. Spencer Doran ist so tief in der Szene verwurzelt, dass er sogar die für den Grammy nominierte Compilation "Kankyō Ongaku" kuratiert hat. Dieses Album markiert ihr großartiges, mit Spannung erwartetes Comeback nach einer langen Pause seit 2019. Der Albumtitel selbst ist ein cooler Wortschatz aus "paradoxical essence" und untersucht, wie das moderne Leben in widersprüchliche Richtungen gezogen wird. Tiefgründiger, komplexer **Ambient**, **Electronica** und **Avantgarde-New-Age**. Ihre klangliche DNA ist stark von der japanischen Kankyō-Ongaku (Umwelt-/Ambient-Musik) der 1980er Jahre, dem frühen elektronischen Minimalismus und glitchiger Digitalkunst geprägt. "Paradessence" zu hören fühlt sich an, als würde man in einem japanischen Showroom für High-End-Architektur ein Nickerchen machen, während einem ein KI-gesteuertes Gewächshaus ein Schlaflied vorsingt. Es ist wunderschön, zutiefst entspannend und auf entzückende Weise seltsam. Das Duo hat sich auf die Erzeugung hyperrealistischer Klänge spezialisiert - man hört Dinge, die wie synthetischer Wind klingen, wie Glas, das kopfüber zerbricht, wie ultraschallartige Roboterinsekten und wie Satie-artige Klavierklänge, die durch ein digitales Prisma gebrochen werden. Anstatt dir langweilige, flache Hintergrund-Drone-Musik zu bieten, verändern sich Tracks wie "Apsis" und "Skylight" ständig, glitchen und entfalten sich um dich herum wie eine lebendige virtuelle Welt. Es ist der ultimative Soundtrack zum Programmieren, Meditieren oder um dich selbst davon zu überzeugen, dass das Leben in einer hypervernetzten digitalen Matrix eigentlich super friedlich ist.
+
+::genre::ambient, avant electronica, new age
+
+## Vision Divine - A Clockwork Reverie
+
+Vision Divine wurde 1998 vom Gitarristen Olaf Thorsen gegründet und ist seitdem ein Eckpfeiler des italienischen Metal. Diese brandneue EP ist ein bedeutender Meilenstein, denn sie markiert die monumentale Wiedervereinigung bzw. das Comeback des legendären Sängers Michele Luppi (ehemaliger Backgroundsänger und Keyboarder von Whitesnake) an der Seite des Keyboard-Virtuosen Oleg Smirnoff. Dieses legendäre Duo prägte ursprünglich die ikonische Ära der Band Mitte der 2000er Jahre. Hochkarätiger **Progressive Power Metal**. Stellt euch einen schnellen, treibenden Sound vor, der die theatralischen Hooks von *Sabaton* mit den blitzschnellen, technischen Sweeps von *Rhapsody* in Einklang bringt. Wenn ihr schon immer einmal auf einem kybernetischen Pegasus durch ein Gewitter reiten wolltet, während ein Engelschor auf E-Gitarren rockt, dann seid ihr bei Vision Divine genau richtig. "A Clockwork Reverie" ist ein absoluter Triumph eines Reunion-Albums. Michele Luppi klingt, als wäre er keinen einzigen Tag gealtert, und trifft schwebende hohe Töne, die dir das Kleingeld aus den Taschen rütteln. Songs wie "18 (It Feels Like Heaven)" und der Titeltrack entwickeln sich nicht nur weiter; sie nehmen dich mit auf eine filmreife Reise voller rasender Gitarren- und Keyboard-Duelle, rasender Double-Bass-Drums und Refrains, die so gewaltig sind, dass sie ihre eigenen Postleitzahlen benötigen. Es ist dramatisch, es ist schnell, und es ist herrlich würdevoller Power Metal vom Allerfeinsten.
+
+::genre::power metal, prog metal
+
+## Wasted - The Future Is On Fire
+
+*Wasted* feiern einen bedeutenden Meilenstein - ihr 30-jähriges Bandjubiläum. Sie haben sich bereits 1996 gegründet, und statt zu einer abgestandenen Nostalgie-Band zu verkommen, spielen sie heute schneller und tighter als in ihren Zwanzigern. Sie sind bekannt für ihre kompromisslosen, unverblümten, ausdrücklich antifaschistischen und gesellschaftspolitischen Texte. Rauer, melodischer **Melodic Punk Rock** und **Old-School-HC-Punk**. Ihre DNA ist untrennbar mit Anklängen an klassische Acts wie die *Dead Kennedys*, *The Clash*, *Against Me!* und sogar der filmischen Spannung von Ennio Morricone verbunden. Nach dreißig Jahren im Geschäft schreiben Wasted immer noch Musik, die wie eine aktive Protestkundgebung klingt. "The Future Is On Fire" vermittelt dieses unglaublich warme, nostalgische, raue Punk-Feeling der späten 80er/frühen 90er, bei dem markante, knackige Basslinien und treibende Midtempo-Drums die Hauptarbeit leisten. Was dieses Album jedoch so besonders macht, ist, wie wahnsinnig eingängig die Refrains trotz der düsteren, politisch aufgeladenen Themen sind. Songs wie "The Voiceless" gehen die gesellschaftliche Apathie frontal an und liefern einen mitreißenden Weckruf für alle, die am Steuer eingeschlafen sind. Es ist geradliniger, schnörkelloser Punkrock mit großer Überzeugung, der die Apokalypse irgendwie wie eine fantastische Mitsingparty klingen lässt.
+
+::genre::hardcore punk, melodic hardcore
+
+## Western Addiction - Psychedelic Munitions
+
+Western Addiction sind echte Szene-Veteranen, die nichts von ihrer alten Stärke eingebüßt haben. Nach ihrem hochgelobten 2020er-Album "Frail Bray" begaben sie sich mit Produzent Scott Evans in die Sharkbite Studios, um dieses neue Monster live im Raum aufzunehmen. Das Mastering übernahm Brad Boatright bei Audiosiege, um einen massiven, ungeschliffenen, umwerfenden Sound zu garantieren. Hochoktaniger **Hardcore-Punk** und **Skate-Punk**. Ihr Stil fängt die rohe, energiegeladene Leidenschaft der historischen Gilman-Street-Szene perfekt ein und verbindet sie gleichzeitig mit scharfer technischer Präzision. Lasst euch nicht vom Wort psychedelic im Titel täuschen - hier gibt es keine sanften Sitar-Soli oder Hippie-Trommelkreise. Western Addiction hat im Grunde einen Schwarm wütender Hornissen in eine 30-minütige Platte gepackt. "Psychedelic Munitions" klingt wie eine glorreiche Live-in-the-Room-Keller-Schlägerei. Der Gesang ist herrlich roh und kehlenschneidend, das Schlagzeug knallt wie ein Feuerwerkskörper, und der Leadgitarrist schleicht kurze, extrem süchtig machende, blitzschnelle Soli ein, die alles frisch klingen lassen. Tracks wie "Let’s Keep the Circle Small" und "Sevilla Midnight" sind wie geschaffen dafür, einen Festival-Pit zu zerreißen. Es ist hyperaktive, gesellschaftskritische und wunderbar laute Musik für den Moment, in dem man durch eine Mauer rennen möchte.
+
+::genre::melodic hardcore, skatepunk
+
+## Witching Hour - Descending... Where Time Has Ceased To Exist
+
+Dies ist das vierte Studioalbum der Band, das nach einer langen sechsjährigen Pause seit ihrem 2018 erschienenen Album "...and Silent Grief Shadows the Passing Moon" erscheint. Das Trio, das für seine gewaltigen, epischen Klanglandschaften bekannt ist, behandelt das Songwriting wie eine fließende Erzählung und schafft großartige Stücke, die oft zwischen sechs und elf Minuten lang sind. Eine finstere, weitläufige Mischung aus **Black Metal**, **Thrash Metal**, **Speed Metal** und traditionellem **NWOBHM**. Die Band bezeichnet ihren unverwechselbaren Stil offiziell als Ancient Black Metal. Witching Hour ist aus einem sechsjährigen Dornröschenschlaf zurückgekehrt, um uns alle in eine dunkle, mittelalterliche Leere zu ziehen, in der die Zeit tatsächlich aufhört zu existieren. Wenn ihr Metal mögt, der in das gehüllt ist, was Kritiker als ätherisches Kettenhemd bezeichnen, braucht ihr nicht weiterzusuchen. Diese Platte ist ein totales Paradoxon: Sie besitzt die rohe, blasphemische, kreissägenartige Energie des frühen deutschen Thrash, wird aber mit den komplexen, galoppierenden Melodien des klassischen *Iron Maiden* der 80er Jahre gespielt. Songs wie "The Graves Yearn for the Dead" entwickeln sich nicht einfach weiter; sie schlängeln sich wie eine gefährliche Suche durch einen verwunschenen Wald. Es ist theatralisch, düster, wild triumphierend und stillt perfekt das Verlangen nach dynamischem, langatmigem Metal, der sich weigert, langweilig zu sein.
+
+::genre::black metal, thrash metal, speed metal, nwobhm
+
+## XCIII - In Puncto Ad Inferna Descendunt
+
+Guillaume Beringer ist seit langem ein Vertreter düsterer, konzeptioneller, von Poesie durchdrungener Klanglandschaften (schon der Bandname selbst ist eine Anspielung auf Charles Baudelaires Gedicht "Sonett XCIII"). Diese Maxi-EP stellt eine kreative Weiterentwicklung dar und verbindet Old-School-Black-Metal-Growls mit tiefgehenden elektronischen Experimenten. Sogar Beringers kleine Tochter Louison ist als Gastsängerin zu hören. Ein wild-exzentrischer Cocktail aus **Avantgarde-Metal**, **Post-Rock**, **Coldwave**, **Shoegaze**, **Dark Ambient** und **Prog-Rock** - mit gelegentlichen Spritzern von Black-Metal-Growls und unerwarteten Rap-Elementen. Stellt euch einen musikalischen Raum vor, inspiriert von *Ulver*, *Massive Attack*, *Porcupine Tree*, *Anathema* und *Lunatic Soul*. Übersetzt man den lateinischen Titel, bedeutet er - In einem Augenblick steigen sie hinab in die Hölle. Klingt fröhlich, oder? XCIII hat im Grunde den ultimativen Soundtrack geschaffen, um um 3:00 Uhr morgens durch eine neblige, gespenstische Pariser Gasse zu schlendern und dabei über die eigenen Lebensentscheidungen nachzudenken. Es ist eine wunderschöne, zutiefst beunruhigende Audio-Reise. In einem Moment treibt man auf einer sanften, hypnotischen, traumhaften elektronischen Welle mit unschuldigen, geisterhaften Kinderstimmen dahin, und im nächsten zieht Guillaume einem mit einer Flut von Black-Metal-Growls und glitchigen Industrial-Noise-Klängen den Boden unter den Füßen weg. Es hat eine körperlose Gewalt, die fast schon süß ist, was es zum perfekten Hörerlebnis für alle macht, die normale Musik einfach viel zu vorhersehbar finden.
+
+::genre::avant metal, post metal, dark wave, post punk, dark ambient, prog rock
+
+## Xcomm - Time To Burn
+
+Obwohl sie noch jung sind, können sie auf eine beeindruckende Erfolgsgeschichte und die Unterstützung der Branche zurückblicken. Das Album wurde von dem legendären Ross Robinson (bekannt für seine Zusammenarbeit mit Korn, Slipknot und Sepultura) produziert, der sie dazu motivierte, ihre Emotionen in musikalische Waffen zu verwandeln. Sie standen bereits als Vorgruppe der Foo Fighters auf großen Bühnen und sind für die legendäre Vans Warped Tour gebucht. Hochoktaniger **Hardcore-Punk**, **Rock** und **Metal**. Ihre rohe Energie schlägt eine Brücke zwischen der klassischen Hardcore-Wut der 80er und moderner, heavy Produktion. Stell dir vor, du wirst von einem Ziegelstein aus purem Adrenalin ins Gesicht getroffen, aber seltsamerweise möchtest du der Person danken, die ihn geworfen hat. Das ist "Time to Burn". XCOMM stürmen aus den Startlöchern, als läge ein aktiver Haftbefehl gegen sie vor. Songs wie „Fake ID“ und der Titeltrack verlangen nicht nur deine Aufmerksamkeit; sie treten deine Haustür ein, plündern deinen Kühlschrank und zünden deine Couch an. Es ist ein unerbittlicher, 30-minütiger Moshpit-Marathon, vollgepackt mit ungefilterter Wut, knallharten Riffs und Drums, die wie ein taktischer Luftangriff klingen. Perfekt, wenn du schwere Gegenstände heben musst oder einfach nur aggressiv dein Zimmer aufräumen willst.
+
+::genre::hardcore punk, metallic hardcore
+
+## Your Spirit Dies - It Is Well...
+
+Die Band besteht aus Brandon Byars (Gesang), Tyler Dorman (Gitarre), Keagan McChesney (Bass), Brannon Crumpton (Schlagzeug) und Holden Hall (Gitarre). Sie haben sich ihren Weg durch die raue amerikanische Underground-DIY-Szene erkämpft. Diese EP wurde unter der Aufsicht des Heavy-Metal-Produzenten Randy LeBoeuf (bekannt für seine Arbeit mit Kublai Khan TX und The Acacia Strain) aufgenommen. **Metallic Hardcore** / **Metalcore**. Sie orientieren sich stark am aggressiven, melodischen und zugleich brutalen Metalcore-Boom der späten 90er und frühen 2000er Jahre (man denke an Bands wie *Zao*, *Poison the Well* oder *Misery Signals*). Das Thema dieser EP ist ein rasender, roher und heftiger Sprung in emotionales Chaos und Katharsis. Auf nur drei Tracks - darunter die Single "Starless" - entfesselt die Band eine Welle aus panischen Akkorden, donnernden Drum-Breakdowns und Gesang, der klingt, als würde ein Mann in die Leere schreien. Es ist kurz, heftig und perfekt, wenn man schwere Gewichte stemmen oder seinen Ängsten direkt ins Gesicht schlagen will.
+
+::genre::metallic hardcore, metalcore
+
+## Zela Margossian Quintet - Remedy
+
+Die Bandleaderin Zela Margossian ist eine klassisch ausgebildete Virtuosin. Sie absolvierte das Libanesische Staatliche Konservatorium und erwarb einen Master-Abschluss in Klavier am Staatlichen Komitas-Konservatorium in Eriwan, Armenien, wo sie sich in den lokalen Jazz verliebte. Eine wunderschöne Mischung aus **Ethno-Jazz**, **Folk** und klassischer Musik. Dabei werden traditionelle armenische Volksrhythmen und Melodiestrukturen intensiv mit moderner, progressiver Jazzimprovisation verbunden. Stellen Sie sich Remedy wie ein luxuriöses First-Class-Flugticket vor, das Sie von einem stimmungsvollen Jazzclub in Sydney direkt zu einem pulsierenden Bergfestival in Eriwan fliegt - ganz ohne Jetlag. Margossian spielt nicht nur Klavier; sie hält eine Meisterklasse in musikalischer Geometrie ab und nutzt dabei Stop-and-Go-Techniken sowie unglaublich präzise Rhythmen, die Ihr Gehirn vor Freude Saltos schlagen lassen.
+
+::genre::ethno jazz, alt folk, prog folk, world music
+
 ---
 
 # Earlier the week ...
@@ -284,7 +1396,7 @@ Sheep hat sich vor allem auf Plattformen wie Bandcamp und SoundCloud eine treue 
 
 ## Spheruleus - The Lost Catalogue
 
-Spheruleus ist das Soloprojekt von *Harry Towell*, einem hoch angesehenen Veteranen der Ambient-Musikszene, der seit fast zwei Jahrzehnten Klanglandschaften kreiert. Er ist zudem weithin als Gründer des experimentellen Labels Whitelabrecs bekannt. Seine Musik ist tief verwurzelt in **Ambient**, elektroakustischem **Drone**, Klangkunst, **Lo-Fi-Folk** und **Field Recordings**. Sie ist stark von den stillen, rustikalen und ländlichen Klangwelten der englischen Landschaft geprägt. Wenn Taeyongs Album eine Rave-Party in einem einstürzenden Wolkenkratzer ist, dann ist "The Lost Catalogue" das genaue Gegenteil: Es ist der Klang von Staubkörnchen, die auf einem verlassenen Dachboden tanzen. Spheruleus nimmt wörtliche Fehler und kaputte Hardware und verwandelt sie in reine Audio-Poesie. Mit Titeln wie "Olympus Days" und "Dust Days" klingt das Album wie eine vergessene Kassette, die man in einer Schublade eines Secondhand-Ladens gefunden hat. Es ist voller Bandrauschen, wunderschöner Akustikgitarrenfragmente, die klingen, als würden sie schmelzen, und knisternder Störgeräusche. Es ist gespenstisch, unglaublich gemütlich und ein wunderschöner Abschiedsbrief an den Lauf der Zeit. Perfekte Musik, um aus einem regnerischen Fenster zu starren und dabei so zu tun, als wäre man eine geheimnisvolle Figur in einem britischen Drama.
+Spheruleus ist das Soloprojekt von *Harry Towell*, einem hoch angesehenen Veteranen der Ambient-Musikszene, der seit fast zwei Jahrzehnten Klanglandschaften kreiert. Er ist zudem weithin als Gründer des experimentellen Labels Whitelabrecs bekannt. Seine Musik ist tief verwurzelt in **Ambient**, elektroakustischem **Drone**, Klangkunst, **Lo-Fi-Folk** und **Field Recordings**. Sie ist stark von den stillen, rustikalen und ländlichen Klangwelten der englischen Landschaft geprägt. "The Lost Catalogue" ist der Klang von Staubkörnchen, die auf einem verlassenen Dachboden tanzen. Spheruleus nimmt wörtliche Fehler und kaputte Hardware und verwandelt sie in reine Audio-Poesie. Mit Titeln wie "Olympus Days" und "Dust Days" klingt das Album wie eine vergessene Kassette, die man in einer Schublade eines Secondhand-Ladens gefunden hat. Es ist voller Bandrauschen, wunderschöner Akustikgitarrenfragmente, die klingen, als würden sie schmelzen, und knisternder Störgeräusche. Es ist gespenstisch, unglaublich gemütlich und ein wunderschöner Abschiedsbrief an den Lauf der Zeit. Perfekte Musik, um aus einem regnerischen Fenster zu starren und dabei so zu tun, als wäre man eine geheimnisvolle Figur in einem britischen Drama.
 
 ::genre::lofi, ambient, field recordings, drone
 
@@ -306,6 +1418,12 @@ Taeyong (*Lee Tae-yong*) ist eine Größe in der K-Pop-Branche. Er debütierte 2
 
 ::genre::alt r&b, experimental hip hop, k-pop, idm, power pop
 
+## The Crimson Armada - Elements Volume I: The Abyssal Depths
+
+Die Crimson Armada wurde mit ihrem bahnbrechenden Album "Guardians" zu einem legendären Namen im Deathcore-Boom der frühen 2010er Jahre. Nach einer langen, ruhigen Phase sind Frontmann Saud Ahmed und die Band nun in eine äußerst produktive Renaissancephase eingetreten. Die Produktion dieser Veröffentlichung erfolgt eigenständig unter ihrem eigenen Label TCA Empire. Kraftvoller **Deathcore** und **symphonischer Death Metal**. Sie nehmen die technischen Riffs des europäischen Melodic Death Metal und verschmelzen sie mit vernichtenden, modernen amerikanischen Breakdowns. Packt eure Tauchausrüstung ein, denn The Crimson Armada zieht uns direkt auf den Grund des Marianengrabens. "The Abyssal Depths" fühlt sich weniger wie eine traditionelle Metal-EP an, sondern eher so, als würde man von einem riesigen prähistorischen Seeungeheuer verfolgt. Tracks wie "I. The Anchor" entfesseln einen unerbittlichen Sturm aus rasanten Blastbeats, hochfliegenden symphonischen Keyboards und doppelten Gesangsstimmen, die zwischen dämonischen tiefen Growls und hohen Schreien wechseln. Es ist schwindelerregend, theatralisch und absurd heavy. Es ist die perfekte Musik, wenn man sich wie ein Superschurke fühlen möchte, der eine Armee wütender Haie befehligt.
+
+::genre::modern deathcore, deathcore
+
 ## The Hydrant - Requiem
 
 Die 2004 gegründete Band The Hydrant war Wegbereiter des indonesischen Rockabilly-Revivals. Im Laufe von mehr als zwei Jahrzehnten wurden sie zu Underground-Ikonen und brachten den Kontrabass-Slapping und die Ästhetik der gegelten Haare auf große internationale Festivals (darunter legendäre Auftritte beim SXSW). **Neo-Rockabilly**, **Psychobilly**, Punk-angehauchter Rock'n'Roll und **Surf-Rock**. Sie verschmelzen den rauen Swing der 1950er Jahre von Eddie Cochran und Elvis Presley mit der aggressiven, rasanten Intensität von The Stray Cats und The Clash. Schnallt euch an, denn "Requiem" ist ein hochoktaniger, in Leder gehüllter Hot Rod, der die Küstenstraße hinunterbraust. Trotz des düsteren, an eine Beerdigung erinnernden Titels ist dieses Album eine absolute, unerbittliche Party. The Hydrant nimmt traditionelle Rockabilly-Akkorde der 1950er Jahre und versetzt ihnen einen schnellen, verzerrungslastigen Tritt in die Rippen. Der Kontrabass schlägt so hart, dass es sich strukturell anfühlt, Vincents Gitarrensoli sprühen wie defekte Kabel, und Marsellos heulender Gesang bringt eine unbestreitbare, gefährliche Prahlerei mit sich. Es ist wild, laut, macht total Spaß und dient als definitiver Beweis dafür, dass die Rock-’n’-Roll-Rebellion in Südostasien lebendig, wohlauf und voller Tatendrang ist.
@@ -323,6 +1441,12 @@ Tiê, die Enkelin der berühmten Schauspielerin Vida Alves, arbeitete früher al
 Unter der Leitung der Sängerin Diana Studenberg und des Gitarristen und Produzenten Moonhead genießt Trope in Prog-Kreisen hohes Ansehen. Die Band tourte jahrelang mit namhaften Acts wie The Pineapple Thief, Haken, Symphony X, Soen und King’s X. Auf "DYAD" sind hochkarätige Gastbeiträge weltbekannter Schlagzeuger zu hören, darunter Gavin Harrison (Porcupine Tree) und Gunnar Olsen (Puscifer). Moderner **Progressive Rock**, **Alternative Rock**, Riff Rock. Ihr cineastischer, technisch präziser Sound zieht starke Vergleiche mit Größen wie *Tool*, *A Perfect Circle*, *Porcupine Tree* und *Karnivool* nach sich. Diana Studenbergs Gesang schwebt wie ein majestätischer Falke über Moonheads messerscharfen, hypnotischen Gitarrenriffs. Mit legendären Schlagzeugern, die die Rhythmusgruppe antreiben, massieren die Basslinien nicht nur dein Trommelfell - sie lassen deine inneren Organe regelrecht vibrieren. Es ist heavy, atmosphärisch und äußerst raffiniert. Wenn du Musik liebst, die dich dazu bringt, über das Universum nachzudenken, während du aggressiv headbangst, ist "DYAD" dein neuer heiliger Gral!
 
 ::genre::prog rock, alt rock, cine rock
+
+## Wrex - Sadworld
+
+Das Projekt begann ursprünglich ganz im Kleinen, mit nur zwei Leuten und einem Laptop. Doch nachdem das Duo auf Tour gegangen war, entwickelte es sich rasant weiter: Es spielte 54 Konzerte in einem einzigen Jahr und arbeitete auf sein mit Spannung erwartetes Debüt beim Bloodstock Festival im Jahr 2026 hin. In ihren Texten wandten sie sich von hyperpersönlicher Selbstreflexion ab und widmeten sich stattdessen allgemeineren gesellschaftlichen Ängsten und Neurodiversität. Eine energiegeladene, chaotische Mischung aus **Alternative Rock**, **Punk**, **Nu-Metal** und **Electronic Rock**. Wenn du jemals eine Woche hattest, in der du auf die Nachrichten gestarrt, auf dein Handy geschaut und gedacht hast: Ja, alles ist völlig aus den Fugen geraten, dann hat WREX genau den richtigen Soundtrack für dich geschaffen. "SADWORLD" fühlt sich an wie eine Panikattacke, zu der man tatsächlich tanzen kann. Mae Seatons Gesang liefert sich ein Schlagabtausch mit glitchigen, dröhnenden Gitarren, wie ein Kampf auf dem Spielplatz zwischen modernen Pop-Hooks und klassischer Nu-Metal-Angst der 90er. Es ist kraftvoll, kathartisch und schmerzlich nachvollziehbar. Der Track "111" ist im Grunde eine klangliche Interpretation eines ADHS-Juckreizes, den man nicht stillen kann, und darauf ausgelegt, in einem Live-Publikum pures Chaos auszulösen. Leg das auf, wenn dir die moderne Welt etwas zu schwer erscheint und du einfach nur in deinem Wohnzimmer herumhüpfen musst, um Dampf abzulassen.
+
+::genre::alt rock, power pop, nu metal
 
 ## Xavi - Dosis
 
