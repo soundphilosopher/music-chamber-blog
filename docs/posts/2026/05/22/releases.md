@@ -438,267 +438,237 @@ tbd
 
 ## ENGRAVED - Hymns For The Hollow
 
-tbd
+Als aufstrebende Kraft in der hart umkämpften australischen Heavy-Metal-Szene erlangte die Band mit einer Reihe intensiver Independent-Singles wie "Bleed", "NCB" und "The Fallen" erhebliche Aufmerksamkeit in der Underground-Szene. Ihre rohe Kraft und ihr mitreißender Sound weckten sofort das Interesse des auf Metal spezialisierten Independent-Labels XMusic. Das Album ist eine explosive Manifestation des **Modern Metalcore**. Ihr Stil lebt stark vom aggressiven Wechselspiel zwischen rasanten, chaotischen Gitarrenriffs, rasendem Schlagzeugspiel und einer hochfliegenden Gesangsdynamik, die nahtlos zwischen roher Qual und hymnischen Melodien wechselt. Macht euch bereit, eure Wohnzimmermöbel aus dem Weg zu räumen, denn ENGRAVED haben ein Album abgeliefert, das buchstäblich wie ein Hurrikan wirkt und euch das Dach vom Kopf reißen will. "Hymns For The Hollow" behandelt modernen Metalcore wie einen hochintensiven Kampfsport. Von der ersten Sekunde an, in der Tracks wie "Pressure" loslegen, wirst du von einer unerbittlichen Wand aus rasanten Gitarrenläufen und donnernden Blastbeats überrollt, die sich wie ein regelrechter Adrenalinstoß in die Brust anfühlen. Was diese Reise so fesselnd macht, ist die unglaubliche emotionale Turbulenz - die Band balanciert gekonnt Abschnitte purer, knallharter Wut mit wunderschön melodischen, eindringlichen Brücken aus, die dir tagelang im Kopf bleiben. Es ist ein wunderschön monströses, kathartisches Rock-Experiment, das beweist, dass sie eine gewaltige neue Kraft sind, mit der man in der globalen Metal-Landschaft rechnen muss.
 
-::genre::
+::genre::modern metalcore
 
 ## Erik Grönwall - Bad Bones
 
-tbd
+Grönwall gilt allgemein als einer der energiegeladensten Frontmänner des modernen Heavy Rock. Bekannt ist er dafür, dass er Bands wie *H.E.A.T.* und *Skid Row* mit seiner kraftvollen Stimme bereichert hat und weltweit mit der Gitarrenikone Michael Schenker auf Tournee war. Neben seiner Karriere auf den großen Bühnen hat er mit seinem äußerst erfolgreichen YouTube-Kanal Millionen von Aufrufen erzielt. Das Album ist ganz klar im Bereich **Heavy Hard Rock**, **Glam Rock** und **Heavy Metal** angesiedelt. Es kanalisiert die kompromisslose, gitarrengetriebene Energie des klassischen **Arena-Rock** der 1980er Jahre, kombiniert mit massiven, modernen Rock-Produktionswerten. Wenn ihr auf ein Album gewartet habt, das klassischen Hard Rock wie ein hochoktaniges Drag Race behandelt, hat Erik Grönwall euch gerade die Schlüssel dazu gegeben. "Bad Bones" ist eine absolute Meisterklasse in stadiontauglicher Rock-Bravado. Grönwall klingt wie ein Mann, der völlig losgelöst ist, und liefert eine Gesangsleistung ab, die von rauen, bluesigen Growls bis hin zu schrillen Höhen reicht, die Glas zerbrechen könnten. Tracks wie "Who’s The Winner" treffen mit einer wilden Wand aus treibenden Gitarren, hämmernden Drums und massiven, mitreißenden Hooks, die sich mühelos heavy anfühlen. Es ist ein wunderschön lautes, trotziges und feierliches Album, das die ganze Prahlerei des klassischen Sunset-Strip-Rocks aufgreift und sie mit einem eisernen, modernen Punch aufwertet.
 
-::genre::
+::genre::heavy rock, hard rock, arena rock
 
 ## Ersedu - Gore
 
-tbd
+Ersedu, die seit Ende der 2010er Jahre in der Underground-Szene aktiv sind, haben sich zuvor mit konzeptionell anspruchsvollen Singles einen Namen gemacht und 2021 gemeinsam mit ihren langjährigen Bandkollegen von Ignea die vielbeachtete Split-EP "Bestia" veröffentlicht. Die Aufnahmen zu diesem Meilenstein-Projekt erforderten es, die extremen Herausforderungen zu meistern, die die Arbeit inmitten des andauernden Krieges in ihrer Heimat mit sich brachte. Die EP ist eine grandiose, mitreißende Darbietung von **Cinomatic Symphonic Death Metal**. Die Band lässt sich strukturell stark von symphonischen Extreme-Metal-Größen wie *Septicflesh* und *Dimmu Borgir* inspirieren und integriert gleichzeitig das cineastische Wall-of-Sound-Flair von Hollywood-Filmkomponisten wie Howard Shore, Alan Silvestri und Jerry Goldsmith. Willkommen zu einem absoluten Blockbuster-Weltuntergangsfilm für eure Trommelfelle. Ersedu’s "Gore" spielt nicht einfach nur Death Metal; sie entfalten ein gewaltiges, erschreckend schönes Orchester und hämmern euch mit einem cineastischen Vorschlaghammer. Die vier Tracks bewegen sich anmutig auf einem Drahtseil zwischen absoluter struktureller Gewalt und majestätischer, opernhafter Eleganz. Zermalmende, heruntergestimmte Gitarrenriffs und unterirdische Growls prallen frontal auf hochfliegende symphonische Arrangements und dramatische, hornlastige Spannungsschleifen, die dir die Haare zu Berge stehen lassen. Es behandelt die Farbe Rot nicht nur als Blut auf einem Teppich, sondern als absolutes emotionales Schlachtfeld aus Wut, Überleben und Wiedergeburt. Es ist ein kurzes, atemberaubendes und brutal schweres Meisterwerk, das dich völlig verzweifelt nach der nächsten Farbe im Regenbogen suchen lässt.
 
-::genre::
+::genre::symphonic death metal, cine death metal, blackened death metal
 
 ## Escaping Aghartha - Lurkers Of Languid Waters
 
-tbd
+Dart nutzt *Escaping Aghartha* als extremes musikalisches Mittel, das speziell darauf ausgerichtet ist, die Zuhörer über die anhaltenden Umweltkrisen und die Zerstörung der Natur aufzuklären. Frühere Alben befassten sich mit der Notlage von Vögeln und Fröschen sowie der Meeresverschmutzung, während dieses gewaltige, 74-minütige Album als direkter Mechanismus zur Spendensammlung und Sensibilisierung für den Tierschutz dient. Das Album ist ein formwandelnder Monolith, der **Blackened Doom Metal**, **Progressive Black Metal**, **Ambient**, **Drone** und **Industrial** miteinander verbindet. Es schöpft stilistische Merkmale aus dissonanten Klanglandschaften und der Dringlichkeit des Extreme Metal, um das reale Verhalten seines Themas nachzuahmen. Wenn ihr schon immer einen Soundtrack gesucht habt, der euch dazu bringt, tief über das ökologische Trauma von Süßwasser-Aalen nachzudenken, während ihr einer Flut von Blastbeats ausweicht, dann hat Avery Dart euer definitives Manifest geschrieben. "Lurkers Of Languid Waters" ist ein absoluter Gigant von einem Album, das genauso schlüpfrig, unvorhersehbar und wandelbar ist wie der mysteriöse Fisch, den es verteidigt. Tracks wie "Eel Black Market" erstrecken sich über 16 Minuten und entwickeln sich von düsterem, höhlenartigem Dungeon-Synth und zitterndem Ambient-Drone zu vulkanischen Explosionen aus Blackened Doom Metal. Es ist eine wild leidenschaftliche, wunderbar exzentrische und atemberaubend schwere klangliche Lektion, die Naturschutzbiologie irgendwie in ein absolutes Headbanging-Erlebnis verwandelt.
 
-::genre::
+::genre::blackened doom metal, drone, prog black metal, ambient, industrial
 
 ## Etienne Nillesen - TWEE
 
-tbd
+Nillesen definiert moderne Percussion-Architekturen neu und wird für seine bahnbrechende Forschung im Bereich erweiterter Techniken akustischer Instrumente hochgelobt. "TWEE" (das niederländische Wort für "Zwei") ist sein monumentales zweites offizielles Solo-Studioalbum und fungiert als direkter Nachfolger seines von der Kritik gefeierten Solo-Debütalbums "en". Das Album bewegt sich an den äußeren Grenzen der **Avantgarde** zwischen **Minimalismus**, mikrotonaler Akustikkunst und **elektroakustischem Drone**. Nillesen behandelt Percussion nicht als traditionellen, den Takt vorgebenden Rhythmusmotor, sondern als eine intensiv resonante, räumliche und harmonische Klangskulptur. Vergessen Sie alles, was Sie über Schlagzeugsoli zu wissen glauben, denn Etienne Nillesen hat die bescheidene Snare-Drum gekapert und sie in ein intergalaktisches Drone-Synthesizer-Labor verwandelt. "TWEE" ist eine verwirrende, hochverdichtete Übung in absolutem klanglichem Minimalismus, die Ihre Wahrnehmung von Klang völlig neu gestalten wird. Indem er zwei Snare-Drums sorgfältig nebeneinander platziert und hochpräzise kreisförmige Reibungs- und Anschlagvariationen anwendet, entlockt Nillesen lange, zitternde akustische Obertöne, die wie physische Objekte im Raum schweben. Das Ergebnis ist ein wunderschön zerbrechliches, überirdisches Summen, bei dem winzige mikroskopische Druckveränderungen hypnotische Schwingungen, rhythmische Pulsationen und unheimliche, verborgene Melodien erzeugen. Es ist eine intensiv fokussierte, therapeutische und zutiefst immersive Klangumgebung, die Zuhörer belohnt, die ihre Handys ausschalten, die Augen schließen und sich ganz in den verborgenen Frequenzen des Universums auflösen lassen.
 
-::genre::
+::genre::avant electronica, experimental electronica, minimal electronica, drone
 
 ## Fable - Long Hath The Night Dwelt
 
-tbd
+Das Projekt entstand ursprünglich als kreatives Soloprojekt des Gitarristen Jose Solar, der sein musikalisches Talent auch in der britischen Heavy-Metal-Band *Phantom Spell* unter Beweis stellt. Um seine künstlerische Vision vollständig umzusetzen, baute Solar das Konzept zu einer dreiköpfigen Besetzung aus. "Long Hath The Night Dwelt" ist die mit Spannung erwartete Debüt-EP der Band. Die EP ist eine klare Mischung aus **Proto-Metal**, 1970er-Jahre-**Hardrock** und **Retro-Rock**. Ihr Stil spiegelt stark die Harmonien zweier Gitarren, rhythmische Grooves und die mystische Atmosphäre legendärer Vintage-Meister wie *Thin Lizzy*, *Wishbone Ash* und *Ashbury* wider. Entstaube deine Vintage-Lederstiefel und mach dich bereit für ein wunderschön rustikales, zeitreisendes Rock-Abenteuer. "Long Hath The Night Dwelt" lehnt moderne digitale Computertrends vollständig ab und setzt stattdessen auf einen warmen, analogen Kaminfeuer-Glanz, der sich jahrhundertealt anfühlt. Die EP beginnt mit einem wunderbar theatralischen Sprechgesang-Prelude, das eine spannungsgeladene, düstere Märchenstimmung schafft, bevor sie mit treibenden Gitarren-Hooks im Stil der 70er Jahre den Fehdehandschuh hinwirft. Während der Gesang sich in eine weise, zurückhaltende Darbietung einfügt, liegt die wahre Magie im wunderschön gewundenen instrumentalen Zusammenspiel, besonders bei Titeln wie "The Oak" und dem progressiven, versifizierten Instrumentalstück "The Funeral". Es ist ein außergewöhnlich charmantes, atmosphärisches und ungeschliffenes Retro-Rock-Fest, das explizit auf Sammler von obskurem, charaktervollem Gitarren-Steel zugeschnitten ist.
 
-::genre::
+::genre::hard rock, proto metal, heavy rock
 
 ## fakemink - Terrified
 
-tbd
+Als unberechenbarer, schnell aufsteigender Star der britischen Digital-Underground-Szene hat sich fakemink durch virale Musikvideos und sein 2023 erschienenes Tape "London’s Saviour" im Internet einen enormen Hype verschafft. Er gab bereits Anfang des Jahres einen Vorgeschmack auf diese wichtige Phase seiner Karriere, als er eine vorläufige EP mit dem Titel "The Boy who Cried Terrified" veröffentlichte. Das Album ist ein avantgardistischer Mix aus **Hyperpop**, **Cloud Rap** und **Leftfield-Underground-Hip-Hop**. Sein chaotischer, selbst produzierter Stil greift ästhetische Elemente des frühen *Yung Lean* und *A$AP Rocky* auf und verzerrt traditionelle Rap-Loops durch stark verzerrte Stimmmanipulationen und tiefe, intergalaktische Synthesizer-Basslines. Schnall dich an und mach dich bereit, dass dein Gleichgewicht komplett durcheinandergewirbelt wird, denn das Anhören von "Terrified" fühlt sich genau so an, als würde man einen stroboskopbeleuchteten Nachtclub in einer glitchigen Sci-Fi-Simulation betreten. fakemink agiert wie ein verrückter Audio-Wissenschaftler, der seine eigene Stimme absichtlich in digitalem Sirup und robotischer Stimmverzerrung ertränkt, während er auf einer Flutwelle aus übersteuerten, basslastigen Lautsprecher-Rasslern reitet. Das Album ist wunderschön chaotisch und völlig unvorhersehbar und wechselt mühelos von glamourösem Fünf-Sterne-Hotel-Gehabe zu unheimlichen Spoken-Word-Poetry-Pausen, die wie ein Mitternachts-Horrorfilm erzählt werden. Es ist ein wunderbar schräger, regelbrechender und berauschend chaotischer Trip, der beweist, dass er viel mehr daran interessiert ist, eine wilde, unvergessliche Atmosphäre zu schaffen, als auf Nummer sicher zu gehen.
 
-::genre::
+::genre::hyperpop, leftfield hip hop, cloud rap
 
 ## Fatal Vision - Four Sides To Every Story
 
-tbd
+Die Band sorgte ursprünglich in der AOR-Szene mit ihrem gefeierten Album "Three Times Lucky" für Aufsehen. Um dieses gewaltige, vielschichtige Projekt zu verwirklichen, holten die Hauptsongwriter Simon Marwood und Juan Miguel Gomez Montant eine ganze Reihe von Größen des Melodic Rock an Bord, darunter Gastbeiträge von Harry Hess (Harem Scarem), Jeff Scott Soto (Journey), Phil X (Bon Jovi) und dem stimmgewaltigen Michael Shotton (Von Groove). Das Album reiht sich stolz in die Genres **Melodic Rock**, **AOR** und **Hard Rock** ein. Klanglich ist es eine direkte Hommage an die glorreiche Stadion-Ära der 1980er Jahre und orientiert sich strukturell stark an legendären Acts wie *Survivor*, *Heart*, *Journey* und *Bad English*. Wenn du dich schon immer einmal in einem Raum einschließen, eine ganze Flasche Haarspray in die Luft sprühen und eine dramatische Stadionhymne aus voller Kehle schreien wolltest, dann hat Fatal Vision dein absolutes Traumparadies geschaffen. "Four Sides To Every Story" schert sich nicht um moderne, minimalistische Radio-Trends - es will dich zurück in eine Zeit versetzen, als Gitarrensoli noch rasend schnell waren und Refrains groß genug, um durch ein Fußballstadion zu hallen. Die Produktion ist so glatt und poliert wie ein frisch gewachster Sportwagen und legt makellose Gesangsharmonien über eine donnernde Rock-Rhythmusgruppe. Sie behandelt alltägliche Beziehungsdramen wie einen Actionfilm und verwandelt einfachen Herzschmerz in grandioses, mitreißendes Arena-Rock-Feuerwerk.
 
-::genre::
+::genre::hard rock, melo rock, arena rock
 
 ## Fear, and Loathing in Las Vegas - StandBy
 
-tbd
+Die 2008 gegründete Band entwickelte sich durch ihre bombastischen Live-Auftritte und vielbeachteten Titelsongs für legendäre Anime-Serien wie Hunter x Hunter, Kaiji und Parasyte zu absoluten Schwergewichten der japanischen Alternative-Szene. "StandBy" stellt einen bedeutenden Meilenstein für die Band dar und ist ihr erstes Studioalbum in voller Länge seit fast vier Jahren, nachdem 2022 "Cocoon for the Golden Future" erschienen war. Das Album ist ein Lehrbuchbeispiel für einen energiegeladenen Ansturm aus **Electronicore**, **Post-Hardcore**, **Dance-Metal** und **J-Pop**. Ihr chaotischer, charakteristischer Stil verbindet auf gewaltsame Weise heavy Metalcore-Gitarren-Breakdowns und harte Scream-Vocals mit autotune-bearbeiteten J-Pop-Melodien, Synthesizern und rasenden Techno-Rave-Beats. Zieh deine knalligsten Neonklamotten an, kipp einen Energy-Drink runter und mach dich bereit, denn Fear, and Loathing in Las Vegas ist zurück, um deine Gehirnzellen auf die bestmögliche Art und Weise komplett durcheinanderzubringen. "StandBy" verhält sich wie ein wilder Spielautomat, der zum Leben erwacht ist, Bewusstsein erlangt hat und beschlossen hat, eine Heavy-Metal-Band zu gründen. Das Album weigert sich, auch nur eine Millisekunde stillzustehen, und lässt frenetische, rave-taugliche Synthesizer-Loops fröhlich frontal auf welterschütternde Metalcore-Gitarrenriffs und rasante Drum-Blast-Beats prallen. Autotune-Pop-Vocals schweben über dem Chaos und erzeugen ein herrlich hyperaktives akustisches Feuerwerk. Es ist ein unverschämt lautes, brillant absurdes und rasantes Party-Album, das ausdrücklich darauf ausgelegt ist, dein Wohnzimmer in einen absoluten Moshpit zu verwandeln.
 
-::genre::
+::genre::electronicore, modern post hardcore, j-pop
 
 ## Federico Durand - La Manzana Mágica
 
-tbd
+Durand ist seit 2010 in der internationalen Avantgarde-Szene aktiv und hat sich ein hoch angesehenes Werk aufgebaut. Er ist bekannt dafür, vielschichtige Musik auf führenden Minimal-Labels wie Home Normal, Spekk und Taylor Deuprees 12k zu veröffentlichen. Das Album ist ganz klar den Genres **Ambient**, **Tape Music** und **Modern Classical** zuzuordnen. Sein Stil ist stark von seinen persönlichen Hobbys geprägt, zu denen biologischer Gartenbau, Poesie des 19. Jahrhunderts und das Sammeln antiker Briefmarken gehören. Wenn Sie schon immer einmal in einem staubigen, sonnendurchfluteten Dachboden sitzen, alte Briefe von vor einem Jahrhundert durchsehen und den Staubpartikeln zusehen wollten, wie sie durch die Luft schweben, dann hat Durand Ihren ultimativen Rückzugsort geschaffen. "La Manzana Mágica" behandelt Stille und Zurückhaltung wie eine olympische Disziplin. Er lehnt laute Drops und massive Arrangements ab und entscheidet sich stattdessen für eine zerbrechliche, wunderschön karge Palette aus sanften analogen Synthesizer-Linien, mechanischen Spieluhren und echtem Kassettenrauschen. Die Songs bewegen sich langsam, wie ein Stein, der sanft von einer Flussströmung geschliffen wird. Es ist ein wunderbar gemütliches, geisterhaftes und zutiefst beruhigendes Ambient-Album, das beweist, dass oft die leisesten Klänge die größten Spuren in der Seele hinterlassen.
 
-::genre::
+::genre::modern classic, ambient, experimental electronica
 
 ## Fito Paez - Shine
 
-tbd
+Als eine der meistausgezeichneten und angesehensten Persönlichkeiten der lateinamerikanischen Rockgeschichte prägt Paez seit über vier Jahrzehnten das musikalische Leben Südamerikas. Dieses ehrgeizige Projekt stellt einen bedeutenden persönlichen Meilenstein dar und symbolisiert seine künstlerische Wiedergeburt nach einem fast tödlichen Sturz auf einer Treppe in seiner Madrider Wohnung im September 2024, bei dem er sich elf Brüche an neun Rippen zuzog. Das Album ist ein kraftvoller Mix aus klassischem **Rock’n’Roll**, **Symphonic Rock** und **Latin Pop**. Klanglich ist es eine Hommage an den Wall of Sound Produktionsstil von Phil Spector und die rohe, nostalgische Songwriting-Ästhetik von John Lennon, gespickt mit delay-lastigen Gitarren und cineastischen Orchestrierungen. Fito Paez ist nicht aufzuhalten, und "Shine" ist der endgültige, triumphale Beweis dafür. Nachdem er nach einem schrecklichen Unfall dem Abgrund ins Auge geblickt hatte, hat der argentinische Maestro sein Überleben in einen blendenden Blitz purer Rockenergie kanalisiert. Die Platte fühlt sich wunderbar roh, groß und ungeniert emotional an. Tracks wie der Titeltrack brechen mit klassischer, vintage Rock’n’Roll Attitüde aus den Lautsprechern hervor, bewaffnet mit glorreichen Gitarrenechos, die wie eine riesige Feier des bloßen Lebens klingen. Das Album wechselt mühelos von intimen, tränenreichen Stadionballaden wie "Universo" (geschrieben für den verstorbenen Pablo Milanés) zu feurigen, trotzigen Rockhymnen. Es ist ein wunderschön lautes, lebensbejahendes und energiegeladenes Meisterwerk, das beweist, dass wahre kreative Genies nicht verblassen - sie strahlen nur noch heller.
 
-::genre::
+::genre::symphonic rock, latin pop
 
 ## FLOCKS - Lagoon
 
-tbd
+Das Projekt vereint den Drone-Spezialisten Werner Durand und den Perkussionisten und Instrumentenbauer Uli Hohmann. Durand verfügt über eine legendäre Laufbahn in der experimentellen Musikszene und spielte bereits mit Urban Sax, Arnold Dreyblatt und den Tonaliens. Hohmann, von Haus aus Tischler, baut seine eigenen Saiteninstrumente und studierte bei dem ghanaischen Meistertrommler Mustapha Tettey Addy. Die beiden Freunde gründeten FLOCKS ursprünglich 2018 als Duo. Das Album ist eine hypnotische Mischung aus Fourth-World-Ästhetik, **Ambient Drone**, **Krautrock** und **World Fusion**. Es lehnt sich stark an die stilistischen Vorlagen von Jon Hassell an und verbindet traditionelle akustische Instrumentierung mit avantgardistischem elektronischem Sounddesign. Packt eure Koffer und macht euch bereit für einen Ausflug in einen unerforschten Dschungel, der ausschließlich in der Zukunft existiert. Lagoon klingt nicht so, als wäre es in einem Studio aufgenommen worden; es klingt, als wäre es von einer Zivilisation, die alte modulare Synthesizer verehrt, aus einer Unterwasserhöhle herübergesendet worden. Werner Durands Blasinstrumente summen, hupen und seufzen wie seltsame mechanische Tiere, während Uli Hohmanns maßgefertigte Saiteninstrumente und Handpercussion einen stetigen, tranceartigen Krautrock-Groove legen. Es ist eine wunderschön gemächliche, texturreiche Reise, die es schafft, sich gleichzeitig unglaublich primitiv und unglaublich futuristisch anzufühlen. Es ist der ultimative Soundtrack, wenn du möchtest, dass sich dein Wohnzimmer wie ein Science-Fiction-Botanischer Garten anfühlt.
 
-::genre::
+::genre::ambient, drone, krautrock, world music
 
 ## Fugue State - After Nothing Comes
 
-tbd
+Langa ist ein äußerst versierter, multidisziplinärer Künstler, der regelmäßig Musik für Projekte aus den Bereichen zeitgenössischer Tanz, Film und Medienkunstinstallationen komponiert. Er fungiert als kreativer Leiter von Fugue State und stellt ein hochkarätiges, wechselndes Kollektiv erstklassiger Musiker zusammen - darunter Maia Friedman von den *Dirty Projectors*, der Grammy-nominierte Multi-Instrumentalist Shahzad Ismaily, die Pianistin Erika Dohi und die javanische Komponistin Peni Candra Rini. Das Album erstreckt sich über die äußeren Grenzen von experimenteller **Elektronik**, **Leftfield Art Song**, **Ambient** und elektroakustischem Minimalismus. Das Projekt fungiert als buchstäbliches hörbares Wettersystem und orientiert sich strukturell und visuell an dem gleichnamigen, gefeierten Comicroman des Künstlers Aidan Koch. Setzen Sie Ihre absolut hochwertigsten Kopfhörer auf, schalten Sie jedes einzelne Licht in Ihrem Zimmer aus und machen Sie sich bereit, Ihre Realität vollständig in der Dunkelheit verschwinden zu lassen. "After Nothing Comes" funktioniert weniger wie ein Album, sondern eher wie ein unheimlicher, gespenstischer Traum-Palast, in dem menschliche Stimmen und akustische Instrumente langsam von einem komplexen Computeralgorithmus verdaut werden. Klaviermuster lösen sich in Luft auf, während bearbeitete Saxophone über den Köpfen zittern und nahtlos von tiefer, tröstlicher Schönheit zu plötzlichen Wellen aggressiver elektronischer Störgeräusche schweben. Die Einbindung von Peni Candra Rinis hypnotischen javanischen Gesängen wirkt wie ein atemberaubender spiritueller Anker inmitten des wunderschönen Chaos. Es ist ein atemberaubendes, hochkünstlerisches, schwindelerregendes und zutiefst filmisches Meisterwerk, das den Hörer dafür belohnt, dass er sich vollständig von normaler Zeit und Struktur löst.
 
-::genre::
+::genre::experimental electronica, leftfield electronica, art pop, ambient
 
 ## Funfacts - Komm doch mit
 
-tbd
+Funfacts sind eine frische, aufstrebende Kraft in der deutschen Underground-DIY-Szene. Die Band, deren musikalische Wurzeln amüsanterweise auf Proben in einem umgebauten Kuhstall zurückgehen, hat monatelang ihre rohe Live-Chemie auf den lokalen Bühnen verfeinert, bevor sie ihre ersten offiziellen Studiotracks aufgenommen hat. Die EP ist eindeutig dem **Deutschpunk** und **Hardcore-Punk** zuzuordnen. Ihr Stil lehnt sich stark an die rasante, melodische und dennoch aggressive Ästhetik des deutschen Punkrocks an und vermittelt treibende Gitarrenriffs sowie die energiegeladene Live-Atmosphäre eines Proberaums. Wenn du schon immer mal ein kaltes Getränk hinunterkippen, in einen wilden Moshpit in einer chaotischen Scheune auf dem Land springen und dir die Stimmbänder komplett heiser schreien wolltest, dann hat Funfacts die ultimative Einladung für dein Wochenende parat. "Komm doch mit" hält sich nicht mit übertriebener künstlerischer Anmaßung oder langsamen Ambient-Intros auf; es schaltet einfach den höchsten Gang ein und rast mit halsbrecherischer Geschwindigkeit aus den Startlöchern. Die Gitarren schlagen mit einem wunderbar kantigen, knackigen Ton zu, der sofort an klassische lokale Punk-Shows erinnert, unterstützt von einer Rhythmusgruppe, die wie ein herannahender Güterzug klingt. Es ist laut, roh, wunderschön ungeschliffen und voller ansteckender, ausgelassener Energie, die dich genau daran erinnert, wie befreiend sich einfacher, schneller Punkrock anfühlen soll.
 
-::genre::
-
-## Future Islands - From a Hole in the Floor to a Fountain of Youth
-
-tbd
-
-::genre::
+::genre::hardcore punk
 
 ## Gabriel Espinosa - The Brazilian Project
 
-tbd
+Espinosa ist seit über fünfzig Jahren eine tragende Kraft in der Jazzszene und wurde in die Iowa Jazz Hall of Fame aufgenommen. Als langjähriger Professor und Leiter lateinamerikanischer Ensembles am Central College und am Grinnell College hat er eine Reihe hochgelobter Soloalben aufgenommen, auf denen eine ganze Reihe internationaler Jazzgrößen mitwirkte. Das Album ist eine wunderschöne Hommage an **brasilianischen Jazz**, **Bossa Nova** und **Latin Jazz**. Es stützt sich stark auf die raffinierten Akkordfolgen, eleganten akustischen Rhythmen und reichhaltigen Gesangsarrangements, die für die klassische brasilianische Popmusik charakteristisch sind, und verbindet diese mit Mainstream-Jazz-Improvisation. Wenn Sie sich schon immer gewünscht haben, dass sich Ihr Leben wie ein sonnenverwöhnter Nachmittag bei einem Spaziergang am Strand von Rio de Janeiro anfühlt, hat Gabriel Espinosa genau den richtigen Cocktail für Sie gemixt. "The Brazilian Project" vermeidet elegant akademische Steifheit und setzt stattdessen auf pure Wärme, fließenden Rhythmus und absolute Klasse. Espinosas Basslinien wirken wie ein sanfter, erdender Anker, der es funkelnden Klavierakkorden und weichen, samtigen Jazz-Gesangspassagen ermöglicht, spielerisch durch die höheren Register zu tanzen. Es fühlt sich wunderbar gemächlich, unglaublich melodisch und zutiefst romantisch an. Es ist die perfekte musikalische Begleitung, um die Fenster zu öffnen, eine Sommerbrise durch das Haus wehen zu lassen und den ganzen Stress der Woche komplett hinter sich zu lassen.
 
-::genre::
+::genre::latin jazz, bossa nova, alt pop
 
 ## gamut inc - radiating
 
-tbd
+Das 2010 gegründete Duo gilt als weltbekannter Vorreiter der New Organ Movement. Sie sind die Köpfe hinter der hochgelobten Berliner Konzertreihe Aggregate, die sich auf automatisierte Instrumentierung spezialisiert hat. Für diese bahnbrechende Aufnahme haben sie die gewaltige historische Schuke-Orgel in der Berliner Auenkirche in Beschlag genommen, um die Grenzen des akustischen Klangs zu erweitern. Das Album ist eine atemberaubende Darbietung von **Avantgarde-Klassik**, **Drone**, **Leftfield-Electronica** und computergesteuerter Orgelkomposition. Mithilfe hochkomplexer, millisekundengenauer MIDI-Algorithmen manipulieren sie echte Orgelpfeifen, um Glissandi und rhythmische Überlagerungen zu erzeugen, die für menschliche Hände völlig unmöglich zu spielen sind. Vergessen Sie alles, was Sie über Kirchenorgeln zu wissen glauben, denn *gamut inc* hat Berlins zweitgrößte Pfeifenorgel gekapert, sie an ein komplexes Computergehirn angeschlossen und sie direkt in eine psychedelische Zwielichtzone geschleudert. "Radiating" ist ein wunderschön schwindelerregendes, erderschütterndes Klangmeisterwerk. Die sieben Tracks kümmern sich nicht um höfliche Kirchenhymnen; stattdessen knurren, zischen und vibrieren die Pfeifen wie ein riesiger analoger Synthesizer, der kurz davor steht, vor Überlastung zu schmelzen. Es bewegt sich von massiven, symphonischen Wänden physischen Klangs hin zu unberechenbaren, wechselnden Rhythmen, die einen direkt in die Brust treffen. Es ist ein wunderbar wilder, hypnotischer und profan-ekstatischer Trip, der eine uralte akustische Maschine in pures, physisches Audio-Gold verwandelt.
 
-::genre::
+::genre::leftfield electronica, avant classic, drone, ambient
 
 ## Garden Of Mercy - Days In Reverse
 
-tbd
+Die Gruppe, bestehend aus erfahrenen Musikern der deutschen Underground-Szene, sorgte ursprünglich mit ihrer Debütsingle "For Us" aus dem Jahr 2026 für Aufsehen. Sie schlossen sich mit dem unabhängigen Vorreiterlabel Collective Memory zusammen, um diesen mit Spannung erwarteten Meilenstein zu veröffentlichen. Die EP ist ganz klar im Bereich des **Alternative Rock**, **Shoegaze** und **Post-Hardcore** der 90er Jahre angesiedelt. Ihr Stil spiegelt stark die vernebelte, gitarrenlastige Ästhetik des Indie der Mitte der 90er Jahre wider und nutzt dabei eine Wall of Sound Verzerrung in Verbindung mit hochmelodischen Gesangsarrangements. Wenn du schon immer mal ein übergroßes Flanellhemd anziehen, auf deine Schuhe starren und eine massive Welle von verschwommener 90er-Jahre-Nostalgie dein Gehirn komplett reinwaschen lassen wolltest, dann hat Garden Of Mercy deinen neuen Lieblingsort geschaffen. "Days In Reverse" wirkt wie ein wunderschöner, melodischer Sturm. Die Band wechselt geschickt zwischen warmen, verträumten Gesangshooks und plötzlichen, krachenden Wänden aus schweren Gitarrenklängen, die sich wie eine riesige emotionale Befreiung anfühlen. Es ist wunderschön ungeschliffen, brillant roh und wirkt wie eine kuschelige Audio-Decke für nächtliche Autofahrten, bei denen man sich einfach nur im Lärm verlieren möchte.
 
-::genre::
-
-## George Cotsirilos - In the Wee Hours
-
-tbd
-
-::genre::
-
-## Get Well Soon - Minus The Magic
-
-tbd
-
-::genre::
+::genre::post hardcore, alt rock, post punk, shoegaze
 
 ## Goddess - Ritual Of The Cloven Hoof
 
-tbd
+Auch wenn *Goddess* technisch gesehen ein neuer Name ist, der sein Debüt unter diesem Namen veröffentlicht, handelt es sich bei der Band tatsächlich um die kraftvolle Neuauflage der in Schweden hochgeschätzten Stoner-/Doom-Band *Goatess*. Nach dem Ausscheiden ihres Gründungsgitarristen Niklas beschlossen die verbleibenden erfahrenen Mitglieder (die zudem über langjährige Erfahrung in Underground-Bands wie Crucifyre verfügen), sich neu zu positionieren und eine kühne neue Ära einzuläuten. Das Album ist ein absolutes Lehrbuchbeispiel für traditionellen **Doom Metal** und **Stoner Rock**. Die Gruppe trägt stolz die Fackel des unverkennbaren schwedischen Doom-Swags weiter, stark beeinflusst vom monolithischen, fuzzgetränkten Erbe von *Electric Wizard*, *Sleep*, *Saint Vitus* und den klassischen *Black Sabbath*. Zieh deine Samt-Zaubererrobe an und stell sicher, dass deine Lautsprecher fest am Boden verankert sind, denn Goddess ist da, um deinen Schädel langsam mit purer, in Fuzz getränkter Lautstärke plattzumachen. "Ritual Of The Cloven Hoof" nimmt klassischen Old-School-Doom-Metal und injiziert ihm eine massive, knallharte Dosis modernen psychologischen Adrenalins. Die Riffs bewegen sich nicht schnell; stattdessen kriechen sie vorwärts wie abkühlende tektonische Vulkanlava und lassen massive, erderschütternde Töne fallen, die endlos in eine dunkle, rauchige Leere hallen. Untermalt von unglaublichen, hochfliegenden Vocals, die weit über den Fuzz hinausragen, ist es ein wunderbar hypnotisches, donnerndes und wunderschön bedrohliches Meisterwerk, das einen Abstieg in Zeitlupe in die Heavy-Metal-Unterwelt absolut glorreich erscheinen lässt.
 
-::genre::
+::genre::doom metal, stoner rock
 
 ## Greg Surmacz - Voices through the Wall
 
-tbd
+Surmacz ist als wichtiges Mitglied der gefeierten britischen Elektro-Jazz-Hybrid-Gruppe *The Physics House Band* bekannt. Abgesehen von seinen Gemeinschaftsprojekten hat er sich stetig einen Ruf für hochkomplexe, klanglich vielschichtige Solo-Produktionen erarbeitet und arbeitet dabei häufig mit namhaften unabhängigen Elektro-Labels zusammen. Das Projekt verbindet **Leftfield Electronic**, **Wonky**, **Nu-Jazz** und **IDM**. Sein charakteristischer Stil ist stark von den rasanten Rhythmussequenzen von Flying Lotus und der sanften, harmonischen Instrumentierung des zeitgenössischen Jazz geprägt, wobei er eine reichhaltige Palette an modularen Synthesizern und Live-Percussion einsetzt. Wenn Ihre neugierigen Nachbarn beschließen würden, das traditionelle Lauschen aufzugeben und stattdessen ausschließlich über avantgardistische modulare Synthesizer-Patches mit Ihnen zu kommunizieren, würde das wie "Voices through the Wall" klingen. Diese EP behandelt Sounddesign wie einen weitläufigen, wunderschönen Spielplatz, auf dem reguläre Rhythmen komplett über Bord geworfen werden. Surmacz nimmt luftige, sonnendurchflutete Jazz-Klänge und verwebt sie gezielt mit schwindelerregenden elektronischen Glitches und wandernden Basslines im Stil von Thundercat. Es fühlt sich wunderbar locker, unvorhersehbar und brillant clever an - und fungiert als der perfekte, hochwirksame Soundtrack für einen Nachmittag, an dem man abstrakte Kunst betrachtet oder über seinen Nachmittagskaffee nachgrübelt.
 
-::genre::
+::genre::leftfield electronica, nu jazz, idm
 
 ## Gridiron - Lights Out
 
-tbd
+Gridiron wurde ursprünglich 2020 als kreatives Nebenprojekt während der Pandemie gegründet und entwickelte sich schnell zu einer großen, vollwertigen Live-Band. Die kampferprobte Besetzung besteht aus Matt Karll (Gesang), Will Kaelin (Gitarre/Gesang), Xavier Wilson (Gitarre), Lennon Livesay (Bass) und Tyler Mullen (Schlagzeug). Die Mitglieder verfügen über einen unglaublich starken Underground-Hintergrund und schöpfen aus ihren Erfahrungen in parallelen Rollen bei prominenten modernen Hardcore-Bands wie Never Ending Game, Simulakra und Scarab. Das Projekt ist eine hochoktanige Explosion aus **Hardcore-Punk**, **Beatdown-Hardcore** und **Nu-Metal-Crossover**. Ihr Stil stützt sich stark auf massive Midtempo-Groove-Metal-Riffs, aggressive Hip-Hop-Gesangskadenzen und plötzliche, knochenbrechende Breakdowns. Räumt die Möbel aus dem Wohnzimmer und stellt sicher, dass eure Krankenversicherung bezahlt ist, denn Gridiron hat eine EP abgeliefert, die wie ein echter Vorschlaghammer wirkt. "Lights Out" behandelt Heavy-Musik wie einen hochintensiven Kampfsport. Der Titeltrack trifft mit einem sofortigen, unbestreitbaren Schwung und wirft massive, metallische Gitarrenriffs hin, die sich mühelos mit einem rasanten, street-smarten Gesang verbinden. Er lehnt jedes Konzept subtiler Indie-Experimente zugunsten absoluter, maximaler physischer Wucht ab. Es ist ein wunderbar kurzes, energiegeladenes und kampfbereites Hardcore-Workout, das speziell darauf ausgelegt ist, jedes Schlafzimmer oder jeden Veranstaltungssaal in einen absoluten Moshpit zu verwandeln.
 
-::genre::
+::genre::beatdown, metallic hardcore
 
 ## Haemoth - Black Dust
 
-tbd
+Die 1999 gegründete Band besteht aus den Mitgliedern Haemoth (Gesang, Gitarre) und Sycomore (Bass). Sie erwarben sich in der Underground-Szene einen Ruf für ihre kompromisslose, rohe Ästhetik, fielen jedoch nach ihrem 2014 erschienenen Material in eine längere Ruhephase. "Black Dust" ist ihr mit Spannung erwartetes viertes Studioalbum und ihr monumentales Comeback nach mehr als einem Jahrzehnt absoluter Stille. Das Album ist fest in den Grenzen des traditionellen französischen **Black Metal**, des dissonanten Black Metal und des **Okkult-Metal** verankert. Es ist stark von den feindseligen, strengen und Low-Fidelity-Aufnahmephilosophien der klassischen französischen Underground-Szene der 1990er Jahre beeinflusst. Wenn du dich schon immer einmal in einer alten, ungeheizten mittelalterlichen Krypta einschließen wolltest, während draußen ein eisiger Wintersturm heult, dann hat Haemoth den Soundtrack deiner Träume geschaffen. "Black Dust" ignoriert moderne digitale Aufnahmetrends völlig und setzt stattdessen auf einen Sound, der sich anfühlt, als wäre er mit Asche und purem Vitriol überzogen. Die Gitarrenarbeit trifft wie ein Schwarm messerscharfer, sich bewegender Kreissägen, während der Gesang als qualvolles, hallendes Zischen daherkommt, das zutiefst beunruhigend wirkt. Tracks wie "When The Dust Finally Settles" weigern sich, Kompromisse einzugehen oder einen radiotauglichen Ohrwurm zu liefern. Es ist ein wunderschön düsteres, rituell-dunkles und unerbittlich strenges Stück Old-School-Extreme-Metal, das beweist, dass die tiefsten Schatten des Undergrounds immer noch die furchterregendsten sind.
 
-::genre::
+::genre::atmo black metal, dissonant black metal, occult metal
 
 ## Hammock - The Second Coming Was a Moonrise
 
-tbd
+Das Duo, bestehend aus Marc Byrd und Andrew Thompson, prägt seit unglaublichen zweiundzwanzig Jahren die Landschaft der unabhängigen Instrumentalmusik. "The Second Coming Was a Moonrise" markiert einen monumentalen Meilenstein in ihrer traditionsreichen Karriere und ist ihr vierzehntes offizielles Studioalbum. Das Album ist eine meisterhafte Darbietung von **Cinematic Post-Rock**, **Ambient**, **Shoegaze** und **Neoklassik**. Es schafft einen eleganten Ausgleich zwischen ruhigen, schwerelosen Drones und weltbewegenden Wänden aus lauten Hammock-Gitarrenklängen. Schnapp dir eine Decke, schalte deine Handy-Benachrichtigungen aus und lass dich in Hammocks neuestes Breitbild-Universum entführen. "The Second Coming Was a Moonrise" ist eine absolute Meisterklasse in grandioser, majestätischer Erzählkunst, ohne dass es einer Fülle von Worten bedarf. Es verhält sich wie eine lebendige Flut, die sich mühelos von zerbrechlichen, sternenbeleuchteten Ambient-Atempausen zu massiven, vulkanischen Post-Rock-Gitarrenwellen bewegt, die sich wunderbar hoffnungsvoll anfühlen. Eine große, erfreuliche Überraschung ist "Chemicals Make You Small", das einen unglaublich euphorischen, vokalbetonten Gastauftritt von *The Flaming Lips* enthält. Es ist ein ungemein tiefgründiges, hypnotisches und emotional mitreißendes Album, das das Sternegucken wie eine monumentale, heilige und lebensverändernde Erfahrung wirken lässt.
 
-::genre::
+::genre::cine post rock, cine ambient, shoegaze, neo classic
 
-## Hands Like Houses - Lotus
+## Hands Like Houses - Lótus
 
-tbd
+Die 2008 gegründete Band hat sich durch eine Reihe äußerst erfolgreicher Alben zu einer festen Größe im internationalen Post-Hardcore- und Alternative-Rock-Szene entwickelt. Die aktuelle Besetzung besteht aus den kampferprobten Mitgliedern Matt Cooper, Alexander Pearson, Joel Tyrrell, Matt Parkitny und dem Leadsänger Josh Raven. "Lótus" ist ein kreativer Nachfolger ihres umfangreichen, mehrteiligen Albums "A T M O S P H E R I C S" aus dem Jahr 2025. Das Album hat seine Wurzeln im **Alternative Rock**, **Melodic Post-Hardcore** und **Dark Indie Rock**. Im Vergleich zu ihren älteren, temporeichen Radio-Rock-Songs tendiert es zu einem deutlich dunkleren, langsameren und atmosphärischeren Sound. Wenn dein emotionaler Motor aufgrund des modernen Alltags-Burnouts gerade auf Reserve läuft, hat Hands Like Houses genau den Raum geschaffen, in dem du dich hinsetzen und das alles verarbeiten kannst. "Lótus" entfernt sich von lauter, explosiver Stadion-Pyrotechnik und liefert stattdessen ein stimmungsvolles, langsam brennendes Alternative-Rock-Bekenntnis. Tracks wie "DEAD" treffen mit einer wunderschön düsteren, dysphorischen Schwere, in der Josh Ravens Gesang thematisiert, wie oft Menschen ihre Zweifel verbergen, nur um den Tag zu überstehen. Die Instrumentierung setzt Stille und Zurückhaltung ebenso effektiv ein wie schwere Gitarrenriffs. Es ist ein wunderbar reifes, rohes und tröstliches Stück Rock-’n’-Roll-Therapie, das dich auffordert, dich ganz auf deinen Weg durch die Schatten einzulassen, anstatt vor ihnen davonzulaufen.
 
-::genre::
+::genre::alt rock, post hardcore, melo hardcore, indie rock, dark rock
 
 ## Hannah Horton - Stories On The Wind
 
-tbd
+Als erfahrene Veteranin der britischen Jazzszene ist Horton eine der wenigen Multi-Instrumentalistinnen, die sowohl das Tenorsaxophon als auch das imposante Baritonsaxophon mit gleicher Eleganz beherrscht. "Stories on the Wind" ist ihr viertes offizielles Studioalbum als Bandleaderin und damit ein Meilenstein. Um eine intime, lebendige Energie einzufangen, brachte sie ihr perfekt aufeinander eingespieltes Kernquartett - Sam Leak (Klavier/Orgel), Rob Statham (Bass) und Steve Taylor (Schlagzeug) - mit, um gemeinsam über mehrere Tage hinweg in einem einzigen Raum, versteckt in den Hügeln von Wales, aufzunehmen. Die Platte ist ein Lehrbuchbeispiel für **Contemporary Jazz** und **Modal Jazz**. Klanglich lässt ihr raffinierter Kompositionsstil Vergleiche mit Meistern wie Gerry Mulligan und Horace Silver zu, wobei sie mühelos von kühlem, kontrolliertem Swing zu tiefgründigen, offenen Jazz-Texturen wechselt. Wenn Sie einen musikalischen Rückzugsort brauchen, um dem lauten, hektischen Trubel des modernen Lebens vollständig zu entfliehen, ziehen Sie sich einen Stuhl heran und lassen Sie sich von Hannah Horton eine Geschichte erzählen. "Stories on the Wind" verzichtet auf übertriebene, auffällige Effekthascherei zugunsten absoluter Wärme, seelenbewegender Melodien und atemberaubender emotionaler Klarheit. Hortons Hornspiel ist außergewöhnlich lyrisch und leitet die Rhythmusgruppe wie eine meisterhafte Erzählerin, die genau weiß, wann sie flüstern und wann sie einen Moment purer Stille in der Luft schweben lassen muss. Während Titel wie "Chasing Daisies" mit einem wunderbar verspielten, selbstbeherrschten Swing pulsieren, liegt das wahre Herzstück der Platte in ihren ruhigen, meditativen Balladen. Es fühlt sich weniger wie ein kommerzielles Studioalbum an, sondern eher wie ein warmes, spätnächtliches Gespräch unter engen Freunden, das noch lange, nachdem der Plattenteller aufgehört hat zu drehen, ein sanftes, tröstliches Summen in der Brust hinterlässt.
 
-::genre::
+::genre::contemporary jazz, modern jazz, jazz fusion
 
 ## Hannah Peel - The Endless Dance
 
-tbd
+Hannah Peel ist eine für den Emmy nominierte und für den Mercury Prize nominierte Elektronik-Komponistin, die für ihre filmischen Synthesizer-Landschaften und orchestralen Arrangements bekannt ist. Beibei Wang ist eine weltbekannte, klassisch ausgebildete Perkussionistin mit beeindruckender Kraft. Die beiden lernten sich bei der Arbeit an dem 2023 erschienenen Album "Neon" von Manchester Collective kennen. Nach einem völlig spontanen, komplett improvisierten Live-Auftritt in London schlossen sie sich für fünf Tage in den Real World Studios ein, um in gemeinsamen Jam-Sessions dieses Album aufzunehmen. Das Album ist eindeutig den Genres **Dance/Electronic**, **Experimental** und **Avant-Garde World Fusion** zuzuordnen. Es ist stark von der alten chinesischen Philosophie des Taoismus beeinflusst und nutzt die 24 Sonnenstände des traditionellen chinesischen Kalenders als Leitfaden für sein strukturelles Tempo. Werft eure gewöhnlichen Kalender und Uhren weg, denn Hannah Peel und Beibei Wang haben ein klangliches Raumschiff konstruiert, das dafür ausgelegt ist, direkt durch die natürlichen Jahreszeiten des Geistes zu reisen. "The Endless Dance" fühlt sich an wie ein wunderschön chaotischer, hypermoderner Spielplatz, auf dem alte Traditionen frontal mit einem Synthesizer-Labor kollidieren. Der Eröffnungstrack "Wild Geese Arrive" schafft eine einzigartige Stimmung, indem er echte, spritzende Percussion- und Marimba-Muster mit spacigen, trippigen Delay-Effekten und traditionellen koreanischen Bambusflötenmelodien vermischt. In einem Moment schwebt man durch eine atmosphärische Ambient-Wolke, im nächsten wird man von einem galoppierenden elektronischen Techno-Workout mitgerissen. Es ist ein unglaublich verspielter, rhythmisch schillernder Dialog zwischen zwei musikalischen Genies, die nicht einmal dieselbe Sprache sprechen müssen, um eine absolute Party für eure Ohren zu veranstalten.
 
-::genre::
-
-## Harboured - We’re Only The Love That We Lead
-
-tbd
-
-::genre::
+::genre::ambient, experimental electronica, avant electronica, world music
 
 ## Hellevate - Killicon Valley
 
-tbd
+Hellevate wurde Ende der 2000er Jahre vom Gitarristen Dan Whitmer gegründet und hat sich über Jahrzehnte hinweg als Meister der Underground-Szene im Mittleren Westen etabliert. "Killicon Valley" ist ihr sechstes Major-Album und ein triumphaler Nachfolger ihrer hochgelobten EP "The Purpose is Cruelty" aus dem Jahr 2023. Das Album ist eine explosive Manifestation von **Thrash Metal**, **Speed Metal** und **Power Metal**. Es verbindet Old-School-Thrash-Riffs aus der Bay Area der 1980er Jahre mit hochfliegenden, melodischen Power-Metal-Gesangshooks und plötzlicher, aggressiver Death-Metal-Wucht. Wenn du schon immer einmal einen defekten Computerserver mit einer Flying-V-Gitarre zerschlagen wolltest, während dich ein prähistorisches Reptil durch das Büro jagt, dann hat Hellevate den Soundtrack deiner Träume geschaffen. "Killicon Valley" spielt nicht nur Thrash Metal; es erklärt den Hype-Zyklen der Tech-Milliardäre aggressiv den Krieg. Der Titeltrack kommt mit purer Warp-Geschwindigkeit daher und liefert einen fiesen, messerscharfen Blitz aus zerklüfteten Gitarren und hämmernden Percussions. Er balanciert elegant auf dem Drahtseil zwischen Old-School-Geschwindigkeit, die zum Fäustepumpen einlädt, und massiven, melodischen Hooks und beweist, dass der effektivste Weg, mit modernem digitalem Burnout umzugehen, einfach darin besteht, die Lautsprecher auf elf aufzudrehen und durch den Lärm zu headbangen.
 
-::genre::
+::genre::thrash metal, speed metal, power metal
 
 ## Hex A.D. - Surgical Cuts in the Cosmos
 
-tbd
+Hex A.D., die als erfahrene Veteranen der europäischen Heavy-Metal-Szene gelten, werden vom Multi-Instrumentalisten Rick Hagan angeführt. "Surgical Cuts in the Cosmos" markiert einen bedeutenden Meilenstein in ihrer traditionsreichen Diskografie und ist das siebte Studioalbum der Band sowie der direkte Nachfolger ihres Meisterwerks "Delightful Sharp Edges" aus dem Jahr 2023. Das Album ist eine weitläufige, düstere Fusion aus **Progressive Rock**, klassischem **Heavy Metal**, **Stoner Rock** und Old-School-**Doom-Metal**. Es schafft eine ausgewogene Balance zwischen Hammond-Orgel-getränkten Vintage-Hard-Rock-Melodien, schweren, heruntergestimmten Stoner-Grooves und einer unheimlichen, filmischen Atmosphäre. Hex A.D. sind zurückgekehrt, um den Schleier der Realität zu lüften, und sie haben einen Angriff mit zwei Schlagzeugen und eine massive Dosis Düsternis mitgebracht. "Surgical Cuts in the Cosmos" wirkt wie ein gut platzierter linker Haken eines Heavy-Metal-Profiboxers - es streift jeglichen überflüssigen Schnickschnack ab, um einen dunkleren, raueren und dreckigeren Sound zu liefern als alles, was sie bisher gemacht haben. Von dem Moment an, in dem "Reintroducing a Bit of Heat" loslegt, dröhnen die Basslinien mit einer unterirdischen Tiefe, während die Gitarren rasante Classic-Rock-Soli und eine von Horror-Soundtracks inspirierte Atmosphäre liefern. Es ist ein unglaublich stilvoller, texturreicher und wunderschön bedrohlicher Heavy-Rock-Trip, der eine erfahrene Band in der absoluten Form ihres Lebens einfängt, bereit, den Nachthimmel aufzureißen.
 
-::genre::
+::genre::prog rock, heavy metal, doom metal, stoner rock
 
 ## Hexenaltar - Descending Curse
 
-tbd
+Hexenaltar wurde ursprünglich 2021 als Soloprojekt des Multi-Instrumentalisten Marc Butcher (bekannt für seine Arbeit bei Underground-Bands wie *Abominated* und *Infiltrator*) gegründet und wuchs schnell zu einer vierköpfigen Besetzung heran. Nachdem die Band mit einigen rauen, heiß begehrten Demo- und EP-Kassettenveröffentlichungen erste Erfahrungen gesammelt hatte, ist "Descending Curse" nun das bahnbrechende Debüt-Studioalbum der Band. Das Album ist ein wilder Mix aus **Blackened Thrash Metal**, **Speed Metal** und **Death Metal**. Es knüpft ästhetisch stark an den extremen Underground der mittleren bis späten 1980er Jahre an und ist eine direkte Hommage an die rohe Aggression des frühen deutschen "Witching Metal" (wie die frühen *Sodom* und *Kreator*) sowie an frühe südamerikanische und skandinavische Kultbands. Wenn du dich schon immer einmal in einer undichten, ungeheizten Garage einschließen, die Verstärker aufdrehen, bis sie rauchen, und uraltes Höllenfeuer heraufbeschwören wolltest, dann hat Hexenaltar deinen neuen Soundtrack geschrieben. "Descending Curse" ignoriert die letzten dreißig Jahre der Aufnahmetechnik und technischen Perfektion völlig und liefert einen kurzen, scharfen Schlag purer, schlammverkrusteter Speed-Metal-Aggression. Die Gitarrenarbeit setzt auf blitzschnelles, rhythmisches Thrash-Geklimper, und der Gesang klingt, als wäre er direkt aus den Tiefen einer Inquisitionsgrube in ein verrostetes Mikrofon gekratzt worden. Das Album rollt mit einer kompromisslosen, wunderschön primitiven 1985er-Attitüde voran, die schieren Schwung und blasphemischen Spaß über radiotaugliche Aufpolierungen stellt.
 
-::genre::
+::genre::blackened thrash metal, speed metal, osdm
 
 ## Horrific Visions - Remnants Of Atrophy
 
-tbd
+Auch wenn Horrific Visions auf der internationalen Bühne noch relativ neu sind, handelt es sich bei den Mitgliedern um erfahrene, messerscharfe Veteranen, die sich in der berüchtigt harten texanischen Brutal-Death-Metal-Szene ihre Sporen verdient haben. Ihre schiere Effizienz weckte sofort das Interesse des legendären Extreme-Metal-Labels Comatose Music, das die Band unter Vertrag nahm, um ihre erste Vision in Form eines Albums der breiten Masse zugänglich zu machen. Das Album ist eine Meisterklasse in **Brutal Death Metal** und **Technical Death Metal**. Es lässt sich stilistisch von den Schwergewichten des Genres wie *Suffocation*, *Disgorge* und *Deeds of Flesh* inspirieren und stützt sich stark auf komplexe, knochenbrechende Slam-Grooves, schwindelerregende Gitarren-Sweeps und unterirdische Gesangsmuster. Macht euch bereit, eure Subwoofer-Einstellungen bis zum Äußersten aufzudrehen, denn Horrific Visions haben ein absolut urzeitlich-schweres Monster von einem Album abgeliefert. "Remnants Of Atrophy" wirkt weniger wie Musik, sondern eher wie eine hydraulische Presse in Industriegröße, die langsam euren Schädel plattdrückt. Die Gitarrenriffs sind unglaublich dicht und wechseln fließend von schwindelerregenden, blitzschnellen technischen Läufen zu massiven, verlangsamten Breakdowns, die sich wie ein simuliertes Erdbeben anfühlen. Die kehligen Growls sind so tief, dass sie klingen, als wären sie in einer aktiven Klärgrube aufgenommen worden, doch die Band bewahrt eine chirurgische, mechanische Präzision, die das Chaos unglaublich rhythmisch hält. Es ist ein wunderschön monströses, schlammverkrustetes Horror-Spektakel von einem Album, das ihnen mühelos ihren Platz als bedeutender neuer Titan im brutalen Underground sichert.
 
-::genre::
+::genre::brutal death metal, tech death metal
 
 ## HOTH - Combat
 
-tbd
+HOTH besteht aus einer engagierten Gruppe von Musikern, die sich in der DIY-Heavy-Metal-Szene einen rauen, messerscharfen Sound erarbeitet haben. Nachdem sie mit frühen Demos die Lage sondiert und sich eine treue Underground-Anhängerschaft aufgebaut hatten, schloss sich die Band monatelang im Studio ein, um sich ganz auf die Arbeit an einem monumentalen Debütalbum zu konzentrieren. Das Album ist eine explosive Manifestation von **Grindcore**, **Powerviolence** und **Blackened Hardcore Punk**. Es leitet sich klanglich von der rasenden Geschwindigkeit des Old-School-Grinds und der rohen, ungeschliffenen Aggression des modernen Powerviolence ab und stellt rasante Tempi und schiere physische Wucht über glatte Melodien. Wenn du schon immer einmal deinen Rasenmäher eine Treppe hinunterwerfen wolltest, während in deiner Küche ein Aufstand ausbricht, dann hat HOTH den ultimativen Soundtrack für dein Chaos geschaffen. "Combat" gibt dir keine höfliche Warnung; es reißt die Tür mit einer Blendgranate auf und lässt in der nächsten halben Stunde nicht nach. Der Gitarrensound ist herrlich knorrig und zerklüftet, während die Blastbeats mit einer peitschenden Geschwindigkeit einschlagen, die sich wie eine Koffeinüberdosis anfühlt. Der Gesang wird mit einer kehlenschneidenden, rasenden Dringlichkeit vorgetragen, die wunderschön verstört klingt. Es ist ein kurzer, intensiver und herrlich ungeschliffener Brocken puren Adrenalins, der dich dazu bringen wird, durch eine Wand zu sprinten.
 
-::genre::
+::genre::grindcore, powerviolence, hardcore punk, crust, d-beat
 
 ## Hyd - Hold Onto Me Infinity
 
-tbd
+Dunham verfügt über einen umfangreichen Hintergrund in der Avantgarde-Pop-Szene, arbeitete zuvor eng mit Pionieren der elektronischen Musik wie SOPHIE und A.G. Cook zusammen und stellte seine bildenden Kunstwerke in bedeutenden Institutionen wie dem MoMA PS1 aus. "Hold Onto Me Infinity" ist sein zweites Studioalbum und der direkte Nachfolger seines hochgelobten Debüts "CLEARING" aus dem Jahr 2022. Das Album ist eine atemberaubende Darbietung von **Leftfield Pop**, **Glitch Pop**, **Ambient** und **Dance/Electronic**. Die Klangpalette ist stark von Hyperpop-Einflüssen geprägt und verbindet kristallklare elektronische Strukturen mit fließenden, organischen akustischen Räumen. Das Anhören von "Hold Onto Me Infinity" kommt dem Gefühl am nächsten, einen Palast aus Flüssigkristallen zu betreten, der in einer digitalen Dämmerzone schwebt. Hyd agiert wie ein brillanter Klangbildhauer und setzt Beats zusammen, die wie zerbrechendes Glas, schimmernde Spiegel und synthetische Wellen klingen. Was diese elektronische Reise so einzigartig schön macht, ist ihre unglaubliche, zerbrechliche Menschlichkeit - unter all den glitchigen, fremdartigen Produktionsloops verbirgt sich ein warmer, zutiefst verletzlicher Gesang, der Themen absoluter kosmischer Verbundenheit erkundet. Das Album schafft einen nahtlosen Ausgleich zwischen tanzbaren Bass-Schlägen und ruhigen, sternenbeleuchteten Ambient-Atempausen. Es ist ein therapeutisches, hypnotisches und wild fantasievolles Pop-Album, das körperliche Verletzlichkeit in reines akustisches Gold verwandelt.
 
-::genre::
+::genre::leftfield pop, ambient, glitch, edm
 
-## Hysterese - Hysterese
+## Hysterese - Hysterese (5)
 
-tbd
+Die Band wurde ursprünglich 2009 gegründet und besteht aus Helen Runge-Kehle (Gitarre, Gesang), Moritz Kehle (Gitarre, Gesang), Lukas Anderer (Bass, Gesang) und Kai Hirt (Schlagzeug). In der europäischen Underground-Szene genießen sie legendären Kultstatus. Getreu ihrer Anti-Hype-Philosophie verzichten sie auf werbewirksames Posieren in den sozialen Medien und betiteln jedes einzelne ihrer Alben in voller Länge schlicht und einfach "Hysterese" (Bände I bis V). Das Album ist eindeutig dem **Punkrock**, dem **Melodic Punk** und dem Dark **Alternative Rock** zuzuordnen. Ihr Stil schlägt eine Brücke zwischen der rauen, treibenden Energie des klassischen Punk der 1980er Jahre aus dem Pazifischen Nordwesten und dunkleren, melancholischen Indie- und Metal-Anklängen. Wenn du der Meinung bist, dass moderne Rockmusik viel zu glatt, unecht und verzweifelt nach Internet-Aufmerksamkeit giert, ist Hysterese hier, um deine Lautsprecher mit einer gehörigen Portion purer Realität zu zertrümmern. Ihr fünftes, selbstbetiteltes Album fühlt sich weniger wie ein Produkt an, sondern eher wie ein vulkanischer Ausbruch live in deinem Wohnzimmer. Zwei Gesangslinien verflechten sich und schreien über eine Wand aus zerklüfteten, blitzschnellen Gitarrenriffs, die absolut keine Rücksicht nehmen. Songs wie "Love Hurts" schaffen es, wunderbar düster, stimmungsvoll und intensiv zu wirken, tragen doch einen unbestreitbaren, melodischen Herzschlag in sich, der einen völlig in ihren Bann zieht. Es ist ein drängendes, rohes und wunderschön lautes Punkrock-Meisterwerk, das beweist, dass das Festhalten an den eigenen Wurzeln die ultimative Form der Rebellion ist.
 
-::genre::
+::genre::punk rock, power pop, melo punk
 
 ## Ian Harrison - Jealous
 
-tbd
+Harrison hat in den letzten Jahren auf dem amerikanischen Tournee-Parcours stetig an Dynamik gewonnen und eine Reihe erfolgreicher Independent-Singles wie "Cigarette" und "Games" veröffentlicht. "Jealous" markiert einen bedeutenden Meilenstein in seiner jungen Karriere und ist seine mit Spannung erwartete erste Studio-EP. Um seinen Sound zu verfeinern, arbeitete er eng mit dem renommierten Produzenten und Songwriter AJ Pruis aus Nashville zusammen. Die EP ist eine grandiose klangliche Kollision aus **Pop-Rock**, **Indie-Folk** und **Modern Country**. Sie verbindet die introspektive, akustisch geprägte emotionale Verletzlichkeit des Singer-Songwriter-Pops mit gewaltigen, stadiontauglichen Produktionswerten. Wenn du jemals in den Ferien nach Hause gefahren bist, dich in den sozialen Medien eingeloggt hast und plötzlich eine schreckliche Panikattacke bekommen hast, weil dir der Eindruck kam, dass jeder aus deiner Highschool im Leben besser abschneidet als du, dann hat Ian Harrison deine neue Lieblingshymne komponiert. Der geniale Trick von "Jealous" besteht darin, dass Harrison zutiefst peinliche, höchst private Ängste aufgreift und sie zu gigantischen, stadiontauglichen Pop-Mitgrölern aufbläst. Der Titeltrack verfügt über einen absoluten Killer-Hook, in dem er zugibt, dass er Todesangst davor hat, den Anschluss zu verlieren, und diese Zeile mit einer Ehrlichkeit vorträgt, die unglaublich erfrischend ist. Untermalt von fröhlichen Akustikgitarrenklängen, stampfenden Pop-Beats und mitreißenden Indie-Rock-Refrains ist es ein wunderbar eingängiges, zum Mitstampfen einladendes und therapeutisches Album, das deine tiefsten Unsicherheiten in eine absolute Party verwandelt.
 
-::genre::
+::genre::pop rock, indie folk, alt country
 
 ## Impure Wilhelmina - Le Sanglot
 
-tbd
+Das Quartett ist seit drei Jahrzehnten aktiv und hat sich in diesen 30 Jahren in der europäischen Heavy-Underground-Szene weiterentwickelt. Diese Platte ist ihr siebtes Studioalbum in voller Länge. Sie markiert zudem einen stilistischen Wendepunkt für die Band: Mit dem neuen Gitarristen Edouard Nicod und einer düsteren Gesangskooperation mit dem französischen Industrial-/Avantgarde-Künstler Mütterlein auf dem Titel "Train mort" präsentiert sie sich in einem neuen Licht. Das Album bewegt sich elegant an den Grenzen von **Post-Metal**, **Progressive Dark Rock** und **Alternative Metal**. Ihr Sound dreht sich um texturreiches, schweres Gitarrenspiel, düstere Bassdynamik und eine starke Tradition melancholischen, melodischen Progressive Rock. "Le Sanglot" bedeutet "Der Schluchzer", und die Musik wirkt genau wie eine wunderschön gewaltige, 50-minütige Übung in kathartischem Weinen. Durch den vollständigen Wechsel zu französischem Gesang hat die Band alle emotionalen Filter abgelegt und hinterlässt einen rohen, quecksilberartigen Sound, der direkt aus den Lautsprechern strömt. Tracks wie "Électricité noire" schlagen mit absolutem Post-Metal-Donner ein und lassen verzerrte, schwere Gitarrentöne erklingen, die sich wie ein aufziehender Sturm anfühlen. Dennoch handhabt die Band dieses schiere Gewicht mit chirurgischer Präzision und fügt eindringlichen, klaren Gesang sowie Momente zerbrechlicher, stiller Anmut hinzu. Es ist eine wunderbar dramatische, dunkle und zutiefst filmische Reise, die das Schwelgen in hochkünstlerischer existentieller Trauer unglaublich kraftvoll und majestätisch erscheinen lässt.
 
-::genre::
+::genre::post metal, prog metal, alt metal, prog rock
 
-## Indication, Watch You Fall, Seasons End - Forver Yours
+## Indication, Watch You Fall, Seasons End - Forever Yours
 
-tbd
+Alle drei teilnehmenden Bands - Indication, Watch You Fall und Seasons End - sind hoch angesehene Größen der internationalen Independent-Szene, die sich jeweils durch energiegeladene Live-Auftritte und eine äußerst leidenschaftliche Fangemeinde auszeichnen. Anstatt separate Kurzveröffentlichungen herauszubringen, haben sich die drei Acts zusammengetan, um ein einheitliches, kraftvolles Split-Album zu produzieren. Das Album ist eine unerbittliche Explosion aus **Melodic Hardcore**, **Screamo/Emo**-Violence und **Post-Hardcore**. Stilistisch knüpft es stark an die rohen, emotionalen Hardcore-Bewegungen der 1990er und frühen 2000er Jahre an, wobei rasante Tempi, kantige Gitarrenriffs und eine Dynamik aus klarem Gesang und Shouts im Vordergrund stehen. Macht euch bereit, eure Wohnzimmermöbel beiseite zu räumen und eure Oberschenkel zu dehnen, denn dieses Dreier-Split-Album ist ein absoluter Blitzschlag aus purem Underground-Adrenalin. "Forever Yours" verschwendet keine Sekunde damit, höflich zu sein; es packt euch sofort am Kragen und wirft euch kopfüber in einen leidenschaftlichen Moshpit. Die Gitarren wechseln mühelos zwischen wunderschönen, kristallklaren Emo-Melodien und massiven Wänden aus donnernder, metallischer Verzerrung, alles untermalt von einer Rhythmusgruppe, die wie ein Güterzug zuschlägt. Der Gesang aller drei Acts wird mit einer rohen, adrenalingeladenen Intensität vorgetragen, die sich unglaublich therapeutisch anfühlt. Es ist eine wunderbar kurze, hochoktanige und wild rebellische Hardcore-Party, bei der du deinen Finger in die Luft strecken und in deinem Schlafzimmer mitsingen wirst.
 
-::genre::
+::genre::melo hardcore, post hardcore, screamo
 
 ## Ingeborg Gravem Sollid - The Aftermath
 
-tbd
+Sollid, geboren im Jahr 2001, hat sich in der wettbewerbsintensiven nordischen Jazzszene schnell zu einem vielbeachteten aufstrebenden Star entwickelt. Als Leiterin des Ingeborg Sollid Kvartett hat sie bereits mit herausragenden Live-Auftritten bei Großveranstaltungen wie dem Oslojazz und dem renommierten Jazzintro-Launch-Programm im Stavanger Jazzforum für Aufsehen gesorgt. "The Aftermath" markiert als ihr Debüt-Studioalbum einen bedeutenden Meilenstein. Das Album ist eine wunderschöne Mischung aus **Akustik-Jazz**, nordischem Klang und **Synth-Pop**. Es verbindet auf elegante Weise klassische, traditionelle Jazz-Harmonien und **Swing** mit schwebenden Pop-Melodien und warmen, atmosphärischen modernen Klanglandschaften. Wenn Sie schon immer einmal einen kuscheligen Wollpullover anziehen, über einen nebligen norwegischen Fjord blicken und über die grandiose, sich ausbreitende Natur des Universums nachdenken wollten, hat Ingeborg Gravem Sollid den perfekten Soundtrack dafür geschaffen. "The Aftermath" behandelt emotionale Verarbeitung wie hochkarätiges Kino. Sollids samtige Stimme schwebt mühelos über den Instrumenten, doch was diese Jazz-Pop-Mischung so einzigartig und bezaubernd macht, ist die Kombination ihrer Stimme mit einem zitternden, wunderschönen Vibrafon und sanften Synthesizer-Klängen. Es bewegt sich nahtlos von einem leisen, zerbrechlichen Flüstern zu massiven, dynamischen Klangwellen. Es ist ein wunderbar warmes, zutiefst intimes und tröstliches Debüt, das beweist, dass das Auflesen der Scherben nach einem persönlichen Sturm eine atemberaubend schöne Erfahrung sein kann.
 
-::genre::
+::genre::acoustic jazz, synth pop, swing
 
 ## Ivo Perelman and Damon Smith - Duologue: Core of Existence
 
-tbd
+Beide Künstler sind legendäre Größen der weltweiten kreativen Musikszene. Perelman gilt als einer der produktivsten und experimentierfreudigsten Vertreter des zeitgenössischen Saxophons. Gemeinsam mit Damon Smith - einem Meister erweiterter Bass-Techniken und furchtlosen Improvisator - hat er den sechsten Teil von Perelmans hochgelobtem Aufnahmeprojekt "Duologue" veröffentlicht. Das Album ist ein Lehrbuchbeispiel für **Free Jazz** und zeitgenössische freie Improvisation. Es verzichtet auf starre Kompositionen zugunsten roher körperlicher Unmittelbarkeit und tauscht rasante, registerübergreifende Bläser-Erkundungen gegen tiefe, meditative, gestrichene Bassreflexionen ein. Willkommen zum ultimativen Hochseilakt der Jazzwelt. "Duologue: Core of Existence" verlässt sich nicht auf Noten, Proben oder vorhersehbare Melodien - stattdessen zeigt es zwei musikalische Genies, die einen Raum betreten und ein intensives, telepathisches Gespräch führen, wobei sie nichts als Holz, Messing und reinen Instinkt einsetzen. Ivo Perelmans Saxophon agiert wie ein unberechenbarer, leidenschaftlicher Sänger, der von rasanten hohen Tönen zu plötzlichen, jubelnden Sprüngen fliegt. Damon Smiths Bass bildet derweil einen massiven, dröhnenden Anker und nutzt erweiterte Spieltechniken, die von schweren, perkussiven Schlägen bis hin zu tiefen, höhlenartigen Drones reichen. Es ist ein aufregend rohes, ungeschliffenes und wunderschön unberechenbares Album, das einem genau vor Augen führt, wie spannend Musik sein kann, wenn man die Stützräder komplett wegwirft.
 
-::genre::
+::genre::contemporary jazz, free jazz, improvisation
 
 ## I’A’V - Volatile Poem
 
-tbd
+Die Band entstand aus einer Einladung zu einem Kreativaufenthalt durch das Kulturzentrum gnration in Braga. Sie vereint drei unumgängliche Größen der portugiesischen Independent-Musikszene: die Klangkünstlerin Inês Malheiro, die Multi-Instrumentalistin Arianna Casellas und die Flötistin Violeta Azevedo. Jede von ihnen hat sich im Underground einen hervorragenden Ruf dafür erarbeitet, die Grenzen von Gesang und Instrumentalmusik zu erweitern. Das Projekt fügt sich nahtlos in die Genres **Deconstructed Electronic**, **Ambient Pop**, **Leftfield Avant-Garde** und **Experimental Folk** ein. Es verbindet auf intensive Weise gläserne elektronische Arpeggios, experimentelle akustische Brüche, dynamische Cellolinien und bearbeitete Blasinstrumente, alles verankert durch sich wandelnde Gesangsharmonien. Wenn Sie schon immer einmal an einer Avantgarde-Séance in einem hypermodernen Serverraum teilnehmen wollten, hat i'A'V den perfekten Soundtrack dafür geschaffen. "Volatile Poem" verhält sich genau wie ein luzider Traum - in einem Moment schweben Sie durch sanfte, selige Gesangsharmonien, und im nächsten werden Sie von einer plötzlichen Welle posthumaner elektronischer Glitches und zitternder akustischer Störungen erfasst. Arianna Casellas’ Cellopassagen weinen wunderschön durch den Nebel, während Violeta Azevedos Flöte sich wie ein unberechenbares Windmuster darüber bewegt. Es ist ein unglaublich intimes, schwindelerregendes und zutiefst hypnotisches Hörerlebnis, das avantgardistisches Sounddesign in ein hoch emotionales, jenseitiges Ritual verwandelt.
 
-::genre::
+::genre::avant folk, experimental folk, leftfield electronica, ambient
 
 ## James McGowan - Threads of Fate
 
-tbd
+McGowan ist ein erfahrener Veteran, der mit "Threads of Fate" einen bedeutenden Meilenstein erreicht hat: Es ist sein zehntes offizielles Album als Bandleader. Er leitet das James McGowan Ensemble, ein ambitioniertes, vielschichtiges Kammerensemble, das die typische Struktur eines Jazz-Trios erweitert, indem es eine komplette Bläsersektion (Trompeten, Posaunen, Saxophone) und ein klassisches Streichquartett (Violinen, Viola, Cello) integriert. Das Projekt bewegt sich elegant zwischen **Chamber Jazz**, **avantgardistischer Klassik**, **Modern Jazz** und **Spoken Word**. Es bezieht strukturelle Anleihen aus Modern-Jazz-Kompositionen, symphonischer Orchestermusik und avantgardistischem Tango und nutzt eine reichhaltige instrumentale Textur, um eine filmische Erzählung zu transportieren. "Threads of Fate" entfaltet sich wie ein ausufernder, einstündiger Kinofilm für die Ohren, in dem die Musiker die Darsteller sind. James McGowan agiert wie ein absoluter musikalischer Architekt und webt ein gewaltiges, komplexes Klanggeflecht, in dem klagende klassische Violinen wunderschön mit rauchigen Jazz-Saxophonen und plötzlichen, dramatischen Tango-Rhythmen zusammenprallen. Das Album ist nicht dazu da, Hintergrundmusik für den Aufzug zu liefern; es setzt sich mit gewaltigen, schweren Themen wie persönlicher Identität, Suche und Akzeptanz auseinander. Die Einbindung von roher, zerbrechlicher Spoken-Word-Poesie internationaler Jugendstimmen verleiht der Musik eine eindringlich menschliche Ebene. Es ist ein intensiv emotionales, tief atmosphärisches und brillant filmisches Erlebnis, das den Verstand ebenso herausfordert, wie es die Seele bewegt.
 
-::genre::
-
-## Joe Webb - Neath Beat
-
-tbd
-
-::genre::
+::genre::avant classic, modern jazz, chamber jazz, spoken words
 
 ## Joshua Mastel & Alec Goldfarb - Firmament
 
