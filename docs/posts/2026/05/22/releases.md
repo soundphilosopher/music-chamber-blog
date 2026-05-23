@@ -198,243 +198,189 @@ tbd
 
 ## Bill Orcutt & Mabe Fratti - Almost Waking
 
-tbd
+Bill Orcutt ist ein 64-jähriger Underground-Veteran, der für sein aggressives, abgehacktes Gitarrenspiel bekannt ist, das bis in die 90er Jahre zurückreicht, als er bei der Noise-Rock-Band Harry Pussy spielte. Mabe Fratti ist ein 34-jähriger Shootingstar der zeitgenössischen experimentellen Musikszene, der allseits dafür gelobt wird, Cello und Gesang zu experimentellen Stücken zu verschmelzen. Das Duo schloss im Internet Freundschaft, nachdem Fratti in einem Interview Orcutts Arbeit gelobt hatte, was zu einem Fernaustausch von Dateien führte. Das Album bewegt sich elegant an den äußeren Grenzen von **Chamber Folk**, **Avantgarde-Minimalismus** und freier **Improvisation**. Es knüpft stilistisch an den rohen, intimen akustischen Dualismus von Ikonen wie *Arthur Russell*, *Loren Connors* und *John Cale* an. Setzen Sie Ihre hochwertigsten Kopfhörer auf, suchen Sie sich einen völlig ruhigen Raum und machen Sie sich bereit, Ihre Realität sanft loszulassen. "Almost Waking" ist eine traumhafte, intensiv intime Meisterklasse in musikalischer Telepathie. Die Platte funktioniert als wunderschöner, spannungsgeladener Dialog zwischen zwei völlig unterschiedlichen Klangwelten. Orcutts Gitarre kündigt sich mit einer stacheligen, zerklüfteten und unkonventionellen rhythmischen Signatur an, die Noten wie Sternschnuppen in die Luft sprengt. Dicht auf den Fersen folgt Fratti, deren geschmeidiger, schwungvoller Legato-Cello-Bogen und eindringlicher, leise gesungener Gesang sich durch die Brüche schlängeln, um wunderschöne, unerwartete Muster purer Wärme zu enthüllen. Es ist eine außergewöhnlich raffinierte, ruhige und zutiefst gefühlvolle instrumentale Reise, die genau die Magie zweier wahrer Originale einfängt, die gemeinsam einer Melodie in das Tal der Dämmerung nachjagen.
 
-::genre::
+::genre::chamber folk, avant folk, avant ambient, improvisation
 
 ## Bleachers - everyone for ten minutes
 
-tbd
+Frontmann Jack Antonoff ist ein elfmaliger Grammy-Gewinner, Sänger, Songwriter und Mega-Produzent, der vor allem für seine umfangreiche Zusammenarbeit mit Superstars wie Taylor Swift und Lana Del Rey bekannt ist. Nach mehr als einem Jahrzehnt der Weiterentwicklung ist "everyone for ten minutes" das fünfte Studioalbum von Bleachers. In dieser Phase festigt sich die nun fest etablierte sechsköpfige Besetzung, wodurch das Projekt zu einer echten kollektiven Bandidentität wird. Das Album ist eine klare Mischung aus hymnischem **Pop-Rock**, **Indie-Rock** und **Alternative**. Es vermittelt großformatige, filmische und lebensbejahende Pop-Stimmungen, beeinflusst von klassischen Heartland-Rock- und Indie-Pop-Traditionen der 1980er Jahre. Wenn du schon immer einmal um Mitternacht eine regennasse Stadtstraße entlangsprinten wolltest, völlig durchnässt, aber vor purer, unverfälschter Freude jubelnd, dann haben Bleachers den ultimativen Soundtrack dafür geschaffen. Zehn Minuten lang behandelt jeder Pop-Rock wie eine hochwirksame Injektion von purem Dopamin. Jack Antonoff und seine Crew legen jeglichen Zynismus ab und setzen voll auf gewaltige, kinoartige Gitarren-Hooks, treibende Rhythmen und schwebende Saxophone, die sich anhören, als wären sie nur dafür gemacht, durch ein ausverkauftes Stadion zu hallen. Es hüllt den Hörer in eine berauschende Welle aus verliebtem Optimismus und Kleinstadt-Nostalgie und verwandelt alltägliche menschliche Momente in großartige, mitreißende Feste. Es ist ein unwiderstehlich eingängiges, energiegeladenes Party-Album, das ausdrücklich darauf ausgelegt ist, dass man den Lautstärkeregler bis zum Anschlag aufdreht.
 
-::genre::
+::genre::indie pop, indie rock, pop rock, alt rock, alt pop
 
 ## Bleeding - Dispersed Blood Sustenance
 
-tbd
+Die Band, die sich als äußerst geheimnisvolle, im Untergrund agierende Formation herausgebildet hat, entscheidet sich bewusst dafür, völlig anonym zu bleiben, um den Fokus ganz auf ihre klangliche Verwüstung zu richten. Dies ist ihr mit Spannung erwartetes zweites Studioalbum, das als monumentaler Nachfolger ihres bahnbrechenden Debütalbums "Depulsing Epidermal Perforations" fungiert. Das Album ist ein hyperkonzentrierter Ansturm von **Brutal Death Metal**. Es orientiert sich stark am schnellen, knochenbrechenden Slam-Underground und präsentiert rasante Blastbeats, gigantische Chugs und kehlige Vocals, ohne auch nur ein einziges digitales Pitch-Shifting- oder Vocal-Editing-Programm zu verwenden. Stellt bitte sicher, dass eure Krankenversicherung voll bezahlt ist und euer Schädel verstärkt ist, denn Bleeding haben einen 19-minütigen Audio-Vorschlaghammer abgeliefert, der eure Lautsprecher plattmachen will. "Dispersed Blood Sustenance" bietet euch keine höfliche Einleitung oder eine atmosphärische Verschnaufpause - es trifft euch von der allerersten Millisekunde an direkt ins Gesicht und schaut nicht zurück. Die Gitarrenriffs klingen wie eine industrielle Kettensäge, die sich durch Kies frisst, untermalt von einem rasanten Schlagzeugspiel, das mit der Geschwindigkeit einer Maschinenpistole zuschlägt. Die unterirdischen Growls sind herrlich monströs und schaffen eine ungeschliffene, wunderschön rohe Horrorshow. Es ist ein kurzer, intensiver und herrlich gewalttätiger Ausbruch von purem Slam-Adrenalin, der speziell darauf ausgelegt ist, jedes Schlafzimmer in einen absoluten Moshpit zu verwandeln.
 
-::genre::
+::genre::brutal death metal, slamcore
 
 ## Blindead 23 - Deuterium
 
-tbd
+Blindead 23 ist eine weiterentwickelte, mit Spannung erwartete Neuauflage der legendären polnischen Post-Metal-Band *Blindead*. Nach einer zermürbenden, mehrjährigen Wartezeit seit den ersten Aufnahmen im Frühjahr 2023 unterzeichnete die Band einen Major-Vertrag mit dem führenden Experimental-Metal-Label Peaceville Records. Das Album wurde von dem renommierten Toningenieur David Castillo (bekannt für seine Arbeit mit Opeth, Katatonia und Leprous) im Studio Gröndahl in Stockholm produziert. Das Album bewegt sich mühelos über die Grenzen von **Progressive Metal**, **Sludge**, **Post-Metal** und **Doom/Death** hinweg. Es verbindet meisterhaft die schweren, fuzzgetränkten Gitarrenriffs des klassischen Sludge Metal mit weitläufigen, atmosphärischen Texturen und hypnotischen elektronischen Klanglandschaften. Wenn du schon immer einmal still in einer majestätischen, nebelverhangenen gotischen Kathedrale sitzen wolltest, während draußen ein gewaltiger Sturm langsam die Landschaft umgestaltet, dann hat Blindead 23 dein ultimatives Ziel geschaffen. "Deuterium" behandelt Progressive Metal wie Hochkunst-Kino für deine Trommelfelle. Die Platte ist ständig in Bewegung und weigert sich, sich auf langweilige oder einfache Strukturen zu stützen. Stattdessen lässt sie massive, erdrückende Wände aus Gitarrendissonanzen und schweren Post-Metal-Riffs wunderschön mit sternenklarem elektronischem Rauschen duellieren. Die wahre Magie liegt in ihrer emotionalen Wirkung; die Tracks gleiten mühelos von rasender, schwindelerregender Wut in atemberaubend schöne, friedliche Klavier-Coda. Es ist ein wunderschön gemächliches, texturreiches und tief bewegendes Meisterwerk, das seelensuchende Traurigkeit unglaublich luxuriös und majestätisch anmuten lässt.
 
-::genre::
+::genre::prog metal, post sludge metal, post metal, doom metal, death metal
 
-## Blke - Blke
+## BLKE - BLKE
 
-tbd
+Unter der Führung des deutschen Sängers und Gitarristen Jakob Buraczewski hat sich die Band über Jahre hinweg in ganz Großbritannien und Europa einen kompromisslosen Ruf für ihre energiegeladenen, hochintensiven Live-Auftritte erarbeitet. Mit ihrer aktuellen Besetzung - bestehend aus Steffen Kahles, Alex Kozmidi und Michael Drummer - sowie der Bestätigung durch Auftritte bei bedeutenden Festivals wie dem Desertfest Berlin ist dieses selbstbetitelte Projekt ihr mit Spannung erwartetes Debüt-Studioalbum. Das Album ist eine fesselnde, vielschichtige Mischung aus **Krautrock**, **Psych-Rock**, **Noise-Rock** und **Shoegaze**. Ihr charakteristischer Sound speist sich stark aus hypnotischen, repetitiven Motorik-Rhythmusmustern, aggressiven Gitarrenklängen und einer tiefen, viszeralen Klangfülle. Dreht die Lautstärke eurer Verstärker bis zum Anschlag auf und macht euch darauf gefasst, dass euer Gleichgewicht völlig durcheinandergebracht wird, denn BLKE haben eine absolute Meisterklasse in kontrolliertem Klangchaos abgeliefert. Ihr selbstbetiteltes Debüt fängt die rohe, schweißgetränkte Energie eines Keller-Warehouse-Gigs ein und bündelt sie zu einem schwindelerregenden, hypnotischen Trip. Angetrieben von einem unerbittlichen, rhythmischen, motorischen Schlagzeug-Herzschlag fesseln Tracks wie "Satellite" dich augenblicklich an deinen Sitz, während ein dichter, wunderschöner Sturm aus verzerrten, rauen Gitarrentexturen und Synthesizern um deinen Kopf herumwirbelt. Es schafft mühelos ein Gleichgewicht zwischen immenser physischer Wucht und einer luftigen, immersiven Dark-Room-Atmosphäre. Es ist ein lauter, brillant roher Alternative-Rock-Moloch, der explizit auf späte Nächte und lange, bewusstseinsverändernde Klangreisen zugeschnitten ist.
 
-::genre::
-
-## Blossom Death - Spirit
-
-tbd
-
-::genre::
+::genre::krautrock, psych rock, noise rock, shoegaze, krautgaze
 
 ## Boys From Heaven - The Wanderer
 
-tbd
+Das Septett, bestehend aus Chris Catton (Gesang), Mads Schaumann (Gitarre), Søren Viig Mathiesen (Schlagzeug), Jonas Klintström Larsen (Saxophon) und Mads Noyé (Keyboard), hat fast ein Jahrzehnt damit verbracht, seinen Status als Virtuosen des Underground-Pop-Rock zu festigen. "The Wanderer" markiert einen wichtigen Meilenstein als ihr drittes Studioalbum und ihr mit Spannung erwartetes Debüt beim globalen Powerhouse-Label Frontiers Music. Das Album ist ein Musterbeispiel für erstklassigen **AOR**, **Melodic Rock** und Smooth West Coast Rock. Ihr charakteristischer Sound ist stark von der glanzvollen, vielschichtigen Studio-Perfektion der 1980er Jahre à la *Toto* und der Soft-Rock-Szene von Los Angeles geprägt, gemischt mit unverkennbaren skandinavischen Melodien. Zieh deinen schicksten weißen Blazer an, steig in ein Vintage-Cabrio und mach dich bereit, direkt in einen neonfarbenen Sonnenuntergang zu fahren. "The Wanderer" ist eine absolute Meisterklasse in purer, unverfälschter Arena-Rock-Glückseligkeit der 1980er Jahre. Boys From Heaven ahmen die Vergangenheit nicht einfach nach; sie präsentieren sie mit einem unglaublich luxuriösen, kristallklaren, modernen Punch. Frontmann Chris Catton schmettert Hymnen mit einer samtweichen Stimme, untermalt von einer atemberaubenden Wand aus schimmernden Synthesizern, hochfliegenden Gitarrensoli und einem majestätischen, gefühlvollen Saxophon, das einem direkt ins Herz trifft. Tracks wie "I'll Wait" sprühen vor der explosiven, mitreißenden Energie einer filmischen Montage. Es ist eine wunderbar ausgefeilte, fröhliche und unerbittlich eingängige Rockfahrt, die ausdrücklich darauf ausgelegt ist, dein Wohnzimmer in ein ausverkauftes Stadion zu verwandeln.
 
-::genre::
-
-## Brunhild Ferrari, Eiko Ishibashi, Jim O’Rourke - L’oreille Voleuse
-
-tbd
-
-::genre::
+::genre::melo rock, arena rock, hard rock
 
 ## Burial Clouds - Burn Holy
 
-tbd
+Die Band, die ursprünglich als Underground-Instrumentalgruppe begann, bevor sie mit ihrem Gesangsdebüt "Last Days of a Dying World" aus dem Jahr 2023 ihren Durchbruch feierte, hat kürzlich eine umfassende Umbesetzung vorgenommen. Für diesen Albumzyklus hat der Hauptgitarrist Matt Mitchell neben der neuen Frontfrau Marina Lavell eine kraftvolle Rhythmusgruppe zusammengestellt und damit die Dynamik im Studio völlig neu belebt. Das Album ist eine weitreichende Darbietung von **Post-Doom-Metal**, **Sludge** und **Psychedelic Grunge**. Es bezieht seine düstere Inspiration aus den schweren, langatmigen Songwriting-Vorlagen von Schwergewichten des Pacific Northwest wie *YOB* und *Pallbearer* und mischt diese mit den melancholischen Gesangsharmonien von *Alice In Chains*. Willkommen zu einer absoluten Meisterklasse in wunderschöner, schlammbedeckter emotionaler Verwüstung. "Burn Holy" eilt nicht darauf zu, auf den Punkt zu kommen; stattdessen kriecht es mit der langsamen, furchterregenden Schwere abkühlender Vulkanlava vorwärts und lässt erderschütternde Sludge-Riffs fallen, die den Staub von euren Dielen schütteln werden. Das wahre Kronjuwel dieser neuen Ära ist Sängerin Marina Lavell, die die schweren Tracks beherrscht, indem sie nahtlos von zarten, tränenreichen akustischen Flüstern zu rohen, kehlenschneidenden Schreien absoluter Wut wechselt. Tracks wie "Windflower" verbinden massive Wände psychedelischer Verzerrung mit einer intensiv menschlichen, traurigen Wärme, die einen von Anfang bis Ende völlig hypnotisiert. Es ist ein wunderbar schwerer, unprätentiöser und wunderschön kathartischer Doom-Metal-Marsch, der dafür gemacht ist, in einer sehr dunklen Nacht die Sterne zu betrachten.
 
-::genre::
+::genre::post doom metal, sludge metal, psych rock, post grunge
 
 ## Buy Jupiter - Earth
 
-tbd
+Die Band, die sich Mitte der 2010er Jahre gründete, schuf sich durch technisch anspruchsvolle, von Science-Fiction inspirierte Konzeptalben wie "Departure" und "Crossworlds" eine solide Basis in der europäischen Underground-Szene. "EARTH" ist ihr mit Spannung erwartetes Comeback und ihr kompositorisch bisher umfangreichstes Studioalbum in voller Länge. Das Album ist eindeutig dem **Modern Metalcore**, **Djent** und Progressive Extreme Metal zuzuordnen. Ihr charakteristischer Sound verbindet vernichtende rhythmische Präzision und technische Polyrhythmen mit cineastischen, spacigen Atmosphären und steht stilistisch in der Tradition von Ikonen wie *Meshuggah*, *Textures* und *Between The Buried And Me*. Wenn du dich schon immer einmal in ein Hightech-Raumschiff einschließen, direkt in ein Schwarzes Loch fliegen und dem Rattern des Triebwerks unter purer, mechanischer Schwerkraft lauschen wolltest, dann hat Buy Jupiter genau den richtigen Soundtrack für dich geschaffen. EARTH bietet keine sanften, radiotauglichen Pop-Hooks; es trifft dich mitten ins Gleichgewicht mit messerscharfen, mathematischen Gitarrenriffs und einem Double-Bass-Drum-Ansturm, der sich wie die Simulation eines Meteoritenschauers anfühlt. Tracks wie "Embrace Of The Serpent God" schichten nahtlos massives, erdrückendes Gewicht unter eine kalte, ausufernde Sci-Fi-Atmosphäre, die dir die Haare zu Berge stehen lässt. Es ist ein wunderschön lautes, komplexes und rasantes progressives Workout, das Metalcore wie einen hochintensiven Kampfsport behandelt.
 
-::genre::
-
-## Cabaret Voltaire - But What Time Is It Really?
-
-tbd
-
-::genre::
+::genre::modern metalcore, djent, modern prog metal
 
 ## Cat Traffic - Cat Traffic
 
-tbd
+Scott Welch verbrachte Jahre damit, sein Handwerk Schritt für Schritt zu verfeinern, während er im Studio der R&B-Ikone Raphael Saadiq arbeitete. Mit Produktionsarbeiten, die insgesamt über 200 Millionen digitale Streams verzeichnen, sicherte er sich eine Grammy-Nominierung für seine Toningenieursarbeit an Tank and the Bangas’ Durchbruchsalbum "Green Balloon". "Cat Traffic" markiert als sein selbstbetiteltes Debüt-Studioalbum einen wichtigen persönlichen Meilenstein. Das Album ist ein eklektischer Mix aus **Psych-Funk**, **Soul**, **Progressive Jam** Band und **Downtempo**. Es verbindet groovige Improvisationen und die Retro-Ästhetik der 1970er Jahre mit einer gesunden Prise futuristischer digitaler Produktion und subtiler, verspielter Katzenmystik. Wenn du schon immer mal in einen Velours-Jumpsuit schlüpfen und ein düsteres Krimidrama der 1970er-Jahre anschauen wolltest, in dem alle Polizisten von hyperintelligenten Hauskatzen gespielt werden, ist dein Traum-Soundtrack nun offiziell da. "Cat Traffic" ist eine wunderbar verspielte, basslastige und unverhohlen groovige Reise. Eröffnungstracks wie "Many Mini Kitties" treffen einen sofort mit einem warmen, sonnendurchfluteten Cocktail aus Vintage-Soul-Rhythmussektionen und einer trippigen, psychedelischen Atmosphäre. Anstatt sich in prätentiöse, überdachte Jams zu flüchten, setzt Welch meisterhaft auf absoluten Spaß und Ohrwürmer, die zum Mitwippen einladen. Es ist ein cineastisches, brillant strukturiertes und loop-lastiges Album, das skurrile katzenhafte Inspiration mühelos in eine absolute Party für deine Autolautsprecher verwandelt.
 
-::genre::
+::genre::acid funk, psych soul, jam band, downtempo
 
 ## Caught In A Mirror - Neoncore
 
-tbd
+Die 2016 gegründete Band besteht aus einer engagierten, praxisorientierten Besetzung, zu der Giu (Gesang), Dario und Hendrik (Gitarren), Fabian (Bass) sowie Kris (Schlagzeug) gehören. Bekannt für ihre grandiosen audiovisuellen Live-Spektakel mit synchronisierten Lichtshows und Konfettiregen, haben sie im vergangenen Jahr unermüdlich jeden Monat eine neue Single veröffentlicht, um die Vorfreude zu steigern. Dieses Projekt ist ihr mit Spannung erwartetes Debüt-Studioalbum in voller Länge. Die Band hat eigens ein eigenes Genre geprägt: Neoncore (eine rasante Mischung aus **Metalcore**, **EDM** und **Hardstyle**). Ihr charakteristischer Sound ist stark von Party-Metal-Größen wie *Electric Callboy*, der visuell geprägten Härte von *Bring Me The Horizon* und Hyperpop-Einflüssen geprägt. Räumt die Wohnzimmermöbel beiseite, dreht eure Subwoofer voll auf und macht euch bereit, dass euer Gleichgewicht völlig durcheinandergebracht wird. Neoncore zu hören fühlt sich genau so an, als würde man eine wilde, schweißgetränkte Underground-Rave-Party betreten, die plötzlich von einer aggressiven Heavy-Metal-Core-Band gekapert wurde. Dieses Debütalbum wirkt wie ein absoluter Blitzschlag aus kinetischer Energie, der sich weigert, auch nur eine Millisekunde stillzustehen. Die Band lässt knochenbrechende Metalcore-Breakdowns fröhlich frontal auf glühend heiße Hardstyle-Kick-Drums, hyperaktive EDM-Drops und unverhohlen massive Pop-Hooks prallen. Tracks wie "Tornado" treffen mit einem sofortigen, rasanten Bounce, der existenziellen Stress in eine absolute Rave-Party verwandelt. Es ist ein wunderschön lauter, lebenslustiger und rasender Adrenalinstoß, der explizit darauf ausgelegt ist, die Menge in Bewegung zu bringen.
 
-::genre::
+::genre::modern metalcore, edm, hardstyle
 
 ## Cellar Noise - Panic Loves Telling Lies
 
-tbd
+Die Band wurde ursprünglich 2013 vom Hauptkomponisten Niccolò Gallani (Keyboards) und Alessandro Palmisano (Gitarre) gegründet und später um den Texter und Sänger Francesco Lovari sowie die Rhythmusgruppe der Brüder Eric und Loris Bersan erweitert. Nachdem sie sich mit ihren früheren konzeptionellen Alben "Alight" und "Nautilus" in der europäischen Szene einen Namen gemacht hatten, stellt "Panic Loves Telling Lies" als ihr drittes Studioalbum einen bedeutenden Meilenstein dar. Das Album ist ein reichhaltiges Spektakel aus symphonischem italienischem **Progressive Rock** und **Progressive Metal**. Klanglich verwebt die Band nahtlos die strukturelle DNA des klassischen Rock Progressivo Italiano der 1970er Jahre und der frühen Genesis mit den modernen, düstereren atmosphärischen Einflüssen von *Steven Wilson*, *Porcupine Tree* und *Opeth*. Wenn Sie schon immer einmal in einem prächtigen, schattengetauchten Theater Platz nehmen wollten, während ein italienischer Maestro psychische Ängste in einen hochdramatischen Keyboard-Kampf übersetzt, dann hat Cellar Noise Ihren neuen Lieblingsraum geschaffen. "Panic Loves Telling Lies" behandelt symphonischen Prog-Rock wie hochkarätiges Kino. Die Band vermeidet gekonnt abgestandene Instrumentationsschleifen und lässt schimmernde Vintage-Synth-Hooks und klagende klassische Gitarren nahtlos gegeneinander antreten, bevor sie in schwere, treibende Progressive-Metal-Crescendos ausbrechen. Frontmann Francesco Lovari singt mit einem ungehemmten, dramatischen Flair, das das Grübeln über deine inneren Unsicherheiten unglaublich grandios, majestätisch und wunderschön theatralisch wirken lässt. Es ist eine wunderbar gemächliche, texturreiche Reise, die explizit auf Hörer zugeschnitten ist, die sich in komplexen Klangteppichen verlieren wollen.
 
-::genre::
+::genre::symphonic prog rock, symphonic prog metal
 
 ## Chris Lippincott - Angel in a Jetstream
 
-tbd
+Als hoch angesehene Persönlichkeit in der Szene des atmosphärischen Indie und Folk hat Lippincott jahrelang komplexe Klanglandschaften gewoben. "Angel in a Jetstream" ist ein bedeutendes künstlerisches Statement in seiner wachsenden Independent-Diskografie und vereint erstklassige akustische Orchestrierung, um eine äußerst einheitliche Stimmung einzufangen. Das Album ist eine atemberaubende Darbietung von **New Classical**, **atmosphärischem Ambient** und **Folk/Neofolk**. Sein charakteristischer Stil verbindet mühelos die zerbrechlichen, filmischen Texturen moderner Kammerarrangements mit den tiefen, schwebenden Melodien einer Leftfield-Ambient-Instrumentierung. Machen Sie es sich in einem gemütlichen Sessel bequem, schalten Sie Ihre Handy-Benachrichtigungen aus und lassen Sie sich vollständig in Chris Lippincotts neuestes Breitbild-Universum entführen. "Angel in a Jetstream" wirkt wie ein wunderschönes, spätnächtliches Wetterphänomen, das sanft durch Ihren Raum zieht. Lippincott behandelt das instrumentale Geschichtenerzählen mit atemberaubender, geduldiger Zurückhaltung und lässt weinende Celli und elegante Streichquartette tief ernste und kontemplative emotionale Bilder malen. Tracks wie "When Something Turns to Peace" gleiten nahtlos über einen Sternenhimmel aus üppiger, natürlicher akustischer Resonanz. Es ist ein außergewöhnlich raffinierter, ruhiger und zutiefst gefühlvoller musikalischer Zufluchtsort, der wie eine warme, tröstende Decke für stille Nächte und frühe Morgenstunden wirkt.
 
-::genre::
+::genre::ambient, leftfield electronica, neo classic, neo folk
 
 ## Corpse Water - ...Something In The Water
 
-tbd
+Das Projekt dient als kreatives Vehikel unter der Leitung des Musikers Pete Clarke. Clarke, der auch für seine Arbeit in der düsteren, psychologischen Death-Metal-Band *Stranglewire* bekannt ist, gründete Corpse Water eigens, um einen Musikstil zu entwickeln, der nicht in die strukturellen Rahmenbedingungen seiner Hauptband passte. Dieses wegweisende Projekt markiert das offizielle Debüt der Band mit einem Studioalbum in voller Länge. Das Album ist eindeutig dem **Old-School-Death-Metal** und dem **Brutal-Groove-Metal** zuzuordnen. Es steht in direkter Tradition der schlammigen, groovigen Midtempo-Ära des klassischen Death Metal der frühen 90er Jahre und lehnt zeitgenössische digitale Überproduktion vollständig ab. Wenn du dich schon immer einmal in einem feuchten Keller einschließen, eine verrostete Kettensäge aufheulen lassen und einen B-Horrorfilm aus den 1980ern bei maximaler Lautstärke anschauen wolltest, hat Corpse Water den perfekten Audio-Cocktail für dich gemixt. "...Something In The Water" ist ein kurzer, scharfer und wunderschön grotesker Schlag gegen das Gleichgewicht. Die Gitarren spucken massive, schleimtriefende Riffs aus, die sich mit der schweren Wucht eines Bulldozers vorwärtsbewegen, während der Gesang als absolut unterirdisches Knurren daherkommt. Klassische, blutige Themen werden mit einer ungeschliffenen, rohen Haltung behandelt, die schiere, nackenbrechende Rhythmen über radiotaugliche Glättungen stellt. Es ist ein ansteckendes, knallhartes Monster von einem Album, das speziell darauf ausgelegt ist, den Staub von deinen Autolautsprechern zu schütteln.
 
-::genre::
+::genre::osdm, groove metal
 
 ## Crash of Rhinos - Logbook
 
-tbd
+Die Band, die sich Anfang der 2010er Jahre gründete und mit ihrem Meisterwerk "Distal" die absolute Verehrung der Independent-Szene erlangte, löste sich 2014 unerwartet auf. Über ein Jahrzehnt später kam die Kerngruppe still und leise wieder zusammen, um gemeinsam neue Songs zu schreiben. "Logbook" stellt einen unglaublichen Meilenstein dar und ist ihr mit Spannung erwartetes erstes neues Album seit 13 Jahren. Die Platte ist ein weitreichendes Mosaik aus **Midwest Emo**, **Post-Hardcore**, **Math Rock** und **Indie Rock**. Sie greift stark die rohen, gemeinschaftlichen Gesangs-Shout-Alongs, komplexen, sich überlagernden Gitarren-Tapping-Techniken und massiven rhythmischen Schwankungen auf, die für den Emotional Rock der späten 90er und frühen 2000er Jahre charakteristisch sind. Räumt die Möbel aus dem Wohnzimmer und macht euch bereit für eine konzentrierte Dosis purer emotionaler Katharsis, denn eure liebsten Emo-Rock-Helden sind zurückgekehrt, um eure Playlist zu retten. "Logbook" fühlt sich weniger wie ein kommerzielles Produkt an, sondern eher wie ein riesiges, tränenreiches Wiedersehen mit euren ältesten Freunden. Die Band hat kein bisschen von ihrer legendären Magie verloren; Tracks wie "Figures of Light" und "Recurring" wechseln mühelos zwischen komplizierten, schwindelerregenden Math-Rock-Gitarrenverflechtungen und explosiven Wänden aus donnerndem Post-Hardcore-Lärm. Die charakteristischen mehrstimmigen Shouts wirken wunderbar roh, ehrlich und absolut überwältigend. Es ist ein außergewöhnlich leidenschaftliches, klanglich reichhaltiges und triumphales Rockalbum, das den Lauf der Zeit in ein absolutes Ehrenabzeichen verwandelt.
 
-::genre::
+::genre::midwest emo, post hardcore, indie rock, math rock
 
 ## Crimson Day - Dark Dimension
 
-tbd
+Die 2013 gegründete Band schuf sich mit drei Alben in voller Länge eine solide Basis in der finnischen Underground-Szene. Eine bedeutende stilistische Weiterentwicklung erfolgte im Jahr 2020, als sie die beeindruckende Clean-Sängerin Milka Uusitalo in ihre Reihen aufnahmen und die Band damit in eine härtere, deutlich melodischere Richtung lenkten. "Dark Dimension" markiert als viertes Studioalbum der Band einen monumentalen Meilenstein. Das Album reiht sich stolz in die Genres Traditional **Heavy Metal**, **Melodic Power Metal** und **Speed Metal** ein. Ihr Stil lässt sich strukturell von der klassischen NWOBHM-Bewegung und modernen finnischen Melodic-Größen wie *Battle Beast* inspirieren. Zieht eure mit Nieten besetzte Lederrüstung an und macht euch bereit, denn Crimson Day hat ein Album veröffentlicht, das wie eine regelrechte Dampfwalze über euch hinwegrollt. "Dark Dimension" behandelt klassischen Heavy Metal wie ein hochoktaniges Battle Royale. Von der halsbrecherischen Geschwindigkeit von Tracks wie "Black Wolves' Night" bis hin zur apokalyptischen, endzeitlichen Spannung von "Song Of Fire" bietet das Album ein furioses Feuerwerk aus blitzschnellen Gitarrensoli und donnernden Rhythmusparts. Frontfrau Milka Uusitalo beherrscht den Sturm mühelos und liefert massive, hymnische Hooks, die problemlos durch ein Fußballstadion hallen könnten. Es ist ein wunderschön lauter, dramatischer und wild-energetischer Heavy-Metal-Trip, getränkt in einer wunderbar dunklen, filmischen nordischen Atmosphäre.
 
-::genre::
+::genre::melo metal, nwothm, power metal, speed metal
 
 ## Criteria - Seize!
 
-tbd
+Criteria wurde Anfang der 2000er Jahre von Sänger und Gitarrist Stephen Pedersen gegründet, nachdem er die wegweisende Indie-Band Cursive verlassen hatte, und entwickelte sich zu absoluten Kultfavoriten der Rock-Szene im Mittleren Westen. Zur Besetzung gehören neben Pedersen auch Mike Sweeney, Aaron Druery und A.J. Mogis. "SEIZE!" markiert einen bedeutenden Meilenstein in ihrer Diskografie und ist das mit Spannung erwartete vierte Studioalbum der Band sowie ihr Debüt bei Spartan Records. Das Album bewegt sich mühelos zwischen **Alternative Rock**, **Indie Rock**, **Grunge-Pop** und **Post-Hardcore**. Pedersen bezeichnet ihren Stil als pristinely heavy rock und knüpft dabei stark an die dichten, symphonischen Gitarrenklänge der Smashing Pumpkins aus der Siamese-Dream-Ära, die rhythmischen Synkopen von Battles und die kantige Spannung von Quicksand an. Wer sagt, dass man mit zunehmendem Alter die Lautstärke herunterdrehen muss? Stephen Pedersen und Co. sind zurückgekehrt, um zu beweisen, dass schwerer, gitarrenlastiger Indie-Rock ein absoluter Jungbrunnen ist. "SEIZE!" gibt sich nicht die Mühe, wie ein ruhiges Comeback-Album zu klingen; es bricht aggressiv aus den Lautsprechern hervor - als massive, knirschende Wand aus Alternative-Rock-Donner im Stil der 1990er Jahre. Das Album, das in einem siebentägigen Winter-Marathon mit Produzent Matt Bayles aufgenommen wurde, verbindet mühelos massive, stadiontaugliche Gitarren-Hooks mit unglaublich süchtig machenden, ohrwurmartigen Pop-Refrains. Es behandelt schwere existenzielle Themen wie das Älterwerden, das Ausklingen von Lebensabschnitten und persönlichen Verlust mit brillant scharfsinniger Energie und trotzigem Optimismus. Es ist ein triumphales, hochoktaniges Gitarrenfest, das speziell darauf ausgelegt ist, dich dazu zu bringen, die Faust in die Luft zu recken.
 
-::genre::
+::genre::alt rock, indie rock, post grunge, alt pop, post hardcore
 
 ## Curveless - A Place I Never Left
 
-tbd
+Als äußerst ambitionierter neuer Impulsgeber in der südamerikanischen Underground-Szene hat sich die Band mit frühen EPs wie "Distance" und "Drowned Eyes" nach und nach eine treue Online-Fangemeinde aufgebaut. "A Place I Never Left" stellt für die Gruppe einen bedeutenden persönlichen Meilenstein dar und ist ihr offizielles Debüt-Studioalbum in voller Länge. Das Album ist eindeutig im **Alternative Metal** und **Modern Metalcore** angesiedelt. Ihr charakteristischer Stil basiert auf dem aggressiven Wechselspiel zwischen djent-angehauchten Gitarren-Breakdowns, atmosphärischen elektronischen Backing-Tracks und einem dynamischen Gesang, der nahtlos zwischen kehlenschneidenden Schreien und hochfliegenden melodischen Hooks wechselt. Räumt die Möbel aus dem Wohnzimmer und macht eure Trommelfelle bereit, denn Curveless ist da, um ein Debüt zu liefern, das wie ein echter Vorschlaghammer wirkt. "A Place I Never Left" behandelt modernen Alternative Metal wie einen hochintensiven Kampfsport. Von der ersten Millisekunde an, in der Tracks wie "DOOMDANCE" losbrechen, wirst du von einer unerbittlichen Wand aus rasanten Gitarrenriffs und donnernden Percussions überrollt, die sich wie ein purer Adrenalinstoß in die Brust anfühlen. Was diesen akustischen Angriff so herrlich unterhaltsam macht, ist die brillante Atmosphäre - die Band webt gekonnt glitchige, spacige elektronische Texturen unter das Chaos und verleiht den schweren Breakdowns eine fast futuristische, filmische Dimension. Es ist ein lautes, wild selbstbewusstes und wunderschön unberechenbares Debüt, das sie als massive neue Kraft in der globalen Heavy-Underground-Szene etabliert.
 
-::genre::
+::genre::modern metalcore, alt metal
 
 ## Dan Byrne - This Is Where The Show Begins
 
-tbd
+Byrne machte sich ursprünglich in der britischen Rockszene einen Namen als charismatischer Frontmann der Hardrock-Band *Revival Black*. Nachdem er seine Fans mit einem unerwarteten Ausstieg aus der Band überrascht hatte, startete er seine Solokarriere mit der erfolgreichen Debüt-EP "Beginnings". Dieses mit Spannung erwartete Projekt stellt einen bedeutenden persönlichen Meilenstein dar und ist zugleich sein erstes Solo-Studioalbum in voller Länge. Das Album ist eine atemberaubende Darbietung von **Modern Hard Rock**, **Blues Rock** und **Alternative Rock**. Es knüpft direkt an das klassische britische Melodic-Hard-Rock-Flair an und verbindet dies mit massiver, zeitgenössischer Rockkraft und einem weitläufigen, kinoreifen Sinn für theatralisches Drama. Zieh deine Lieblingslederjacke an und mach dich bereit, den Lautstärkeregler voll aufzudrehen, denn Dan Byrne ist da, um im Alleingang zu beweisen, dass Rock’n’Roll Attitüde lebendig und wohlauf ist. "This Is Where The Show Begins" eröffnet mit einer absoluten Hammer-Hymne namens "Saviour", die mit schweren, hämmernden Gitarrenriffs und knallharten Stabs aufwartet, die dich sofort in deinen Sitz fesseln. Doch das absolute Kronjuwel hier ist Byrnes atemberaubende, kolossale Stimme - ein Instrument voller Rauheit, souliger Wärme und schierer, stadionfüllender Kraft, die dir die Haare zu Berge stehen lässt. Sie wechselt nahtlos von rauen, gitarrenlastigen Grooves wie "She’s The Devil" zu verletzlichen, bluesigen Rock-Bekenntnissen, die von Reue durchdrungen sind. Es ist ein außergewöhnlich selbstbewusstes, abwechslungsreiches und triumphales Debüt, das ihn als eine der führenden Gesangskräfte in der modernen Rocklandschaft etabliert.
 
-::genre::
-
-## Dance Gavin Dance - Tree City Sessions 3
-
-tbd
-
-::genre::
+::genre::hard rock, modern rock, alt rock, blues
 
 ## Dark Millennium - Come
 
-tbd
+Dark Millennium, ursprünglich 1989 gegründet, gilt als absolute Institution in der europäischen Underground-Szene und ist dafür bekannt, als frühe Pioniere der experimentellen Extremmusik neue Wege beschritten zu haben. "Come" markiert einen bedeutenden Meilenstein auf ihrem langjährigen Weg und ist das sechste offizielle Studioalbum der Band. Das Album ist eine weitläufige, vielschichtige Darbietung von **Avantgarde-Death-Metal** und **Doom-Metal**. Es bricht mit den strukturellen Konventionen des traditionellen Metal und verbindet progressive Wendungen, extreme emotionale Intensität und einen rohen, retro-orientierten analogen Sound. Mach dich bereit, deine üblichen Erwartungen komplett über Bord zu werfen, denn Dark Millennium ist zurückgekehrt, um deinen Geist in ein halluzinogenes Labyrinth zu entführen. "Come" bietet keine leicht verdauliche Hintergrundmusik; es wirkt wie ein dichter, formwandelnder Trip in die dunkelsten Winkel der menschlichen Wahrnehmung. Verankert in einem wunderbar warmen, organischen analogen Soundmix verweben Tracks wie "Amber" und "Witchcraft Island" mühelos progressive rhythmische Strukturen und extreme, knurrende Death-Metal-Gesangspassagen mit schwebenden, schwindelerregenden Aura-Breaks. Es behandelt das Konzept eines psychologischen Trips wie hochkarätiges Theater - und wechselt dabei fließend von zutiefst beunruhigenden Albträumen zu Momenten purer, überwältigender Schönheit. Es ist eine intensive, brillant kompromisslose Metal-Meisterklasse.
 
-::genre::
+::genre::avant death metal, doom metal
 
 ## David Eugene Edwards - Mercurial Silence
 
-tbd
+Edwards, der allgemein als kreativer Kopf und prägende Stimme hinter den wegweisenden Alt-Country-/Gothic-Folk-Bands *16 Horsepower* und *Wovenhand* verehrt wird, hat über Jahrzehnte hinweg ein unverwechselbar intensives, spirituelles musikalisches Werk geschaffen. Nach seinem 2023 erschienenen Soloalbum "Hyacinth" ist dies sein zweites offizielles Studioalbum unter eigenem Namen. Das Album ist ein fesselndes Geflecht aus **Gothic Americana**, **Neofolk** und **Dark Ambient**. Sein unverkennbarer Stil verbindet mühelos akustische Instrumente wie das Banjo mit reichhaltigen elektronischen Texturen, Streicharrangements, perkussiven Drones und unheimlichen, atmosphärischen Synthesizern. Wenn du schon immer einmal um ein Mitternachtslagerfeuer in einer verwunschenen Wüste sitzen wolltest, während ein feuriger, apokalyptischer Prediger Hymnen direkt zu deiner Seele singt, dann hat David Eugene Edwards dein ultimatives Ritual geschaffen. Auf "Mercurial Silence" agiert die Indie-Rock-Ikone mit atemberaubender, hypnotischer Kontrolle. Seine unverwechselbare Stimme - ein Instrument, das pure existenzielle Ehrfurcht hervorrufen kann - gleitet anmutig über eine karge Landschaft, in der traditionelles Banjo-Picking plötzlich auf spaciges elektronisches Rauschen und gespenstische Streicharrangements trifft. Tracks wie "Flaxstaff" starten in einem galoppierenden 16-Horsepower-Tempo, während andere sich zu weiten, sonnenbeschienenen Teichen dunkler Melancholie ausdehnen. Es ist ein wunderschön gemächliches, atmosphärisches und zutiefst filmisches Erlebnis, das alte Folklore zu einer absoluten spirituellen Notwendigkeit macht.
 
-::genre::
-
-## David J - Tracks From the Attic Revisited
-
-tbd
-
-::genre::
-
-## Dawn Clement - Dear Ms. Dearie
-
-tbd
-
-::genre::
+::genre::neo folk, alt folk, americana, dark ambient, desert noir
 
 ## Deathstorm - Cascophonies
 
-tbd
+Die Band, die ursprünglich 2007 unter dem Namen Damage gegründet wurde, besteht aus erfahrenen Underground-Veteranen, die seit fast zwei Jahrzehnten die Fackel der kompromisslosen Old-School-Geschwindigkeit hochhalten. "Cascophonies" stellt einen monumentalen Meilenstein in ihrer traditionsreichen Diskografie dar und ist das mit Spannung erwartete fünfte Studioalbum der Band. Das Album ist ein absoluter Lehrbuch-Blitz aus Old-School-**Thrash-Metal** und **Death-Thrash**. Ihr charakteristischer Angriff wirkt wie ein Liebesbrief an *Slayer*, *Dark Angel* und *Massacra* um 1986 sowie an die rasende, messerscharfe germanische Perspektive der frühen *Kreator*. Zieht eure mit Nieten besetzte Lederrüstung an und dehnt eure Nackenmuskeln ordentlich durch, denn Deathstorm haben einen 29-minütigen Knall aus purer, unverfälschter Audio-Gewalt abgeliefert. "Cascophonies" bewegt sich mit absoluter Hypergeschwindigkeit und packt eine rasende Salve messerscharfer, kreissägenartiger Gitarrenriffs und donnernder Schlagzeugangriffe, die absolut keine Gefangenen machen. Was diese kurze, schockierende Platte so herrlich unterhaltsam macht, ist, dass die Band unter dem rasenden, schlammverkrusteten Underground-Chaos geschickt hochfliegende Heavy-Metal-Gitarrenhooks, schwindelerregende Marschrhythmen und klassische Moshpit-Energie einbaut, die dich völlig in ihren Bann ziehen. Es ist eine wunderschön wilde Old-School-Thrash-Meisterklasse, die explizit darauf ausgelegt ist, deine Autolautsprecher vom Armaturenbrett zu sprengen.
 
-::genre::
+::genre::thrash metal, death metal
 
 ## Debo Ray - Echos & Embers
 
-tbd
+Ray gilt in der Bostoner Musikszene weithin als außergewöhnlich vielseitige, eigenständige Künstlerin und hat sich ihren Ruf durch die Fähigkeit erarbeitet, unterschiedliche Genres nahtlos miteinander zu verbinden. Nach hochgelobten früheren Veröffentlichungen und zahlreichen Live-Auftritten markiert dieses Album einen bedeutenden Meilenstein als ihr bislang offenstes und persönlichstes Studioalbum. Das Projekt bewegt sich anmutig durch die Bereiche des **zeitgenössischen R&B**, **Soul** und **zeitgenössischen Jazz**. Geleitet von stimmungsvollen, kontemplativen Vibes und einer dynamischen Gesangsleistung verbindet es jazzige Instrumentierung mit sanften R&B-Arrangements und satten, schwebenden Hooks. Wenn du einen sicheren musikalischen Zufluchtsort brauchst, um die tiefsten, dunkelsten Ängste deines Geistes vollständig zu entpacken und sie in reine, triumphale Kunst zu verwandeln, hat Debo Ray deine absolute Seelenmedizin gemixt. "Echoes and Embers" scheut sich nicht vor der schweren Last psychischer Kämpfe; stattdessen blickt es ihnen direkt in die Augen und hüllt sie in eine samtige Decke atemberaubend wunderschönen R&B. Tracks wie "A Flicker" gleiten sanft durch verträumte, nächtliche Jazz-Texturen, bevor sie in absolute Feuerstürme vokaler Leidenschaft explodieren. Es ist ein unglaublich intimes, kathartisches und die Seele berührendes Album, das einem das Gefühl gibt, wunderbar verstanden, gestärkt und leichter zu sein.
 
-::genre::
+::genre::contemporary jazz, r&b, soul
 
 ## Deliverance - The Voyager Golden Banquet
 
-tbd
+Die Band wurde ursprünglich 2013 von Gitarrist Etienne Sarthou und Sänger/Keyboarder Pierre Duneau gegründet; die Besetzung wird durch Bassist Sacha Février und Schlagzeuger Viken Poulain vervollständigt. Nachdem sie große Bühnen wie das Hellfest und das Motocultor erobert hatten, unterschrieben sie einen Vertrag bei dem angesehenen Underground-Label Les Acteurs de l'Ombre, um dieses wegweisende vierte Studioalbum zu veröffentlichen. Das Album ist eine weitläufige, Grenzen sprengende Fusion aus **Blackened Sludge Metal**, **Post-Metal**, **Psychedelic Rock** und **Leftfield Electro**. Es verbindet die rohen, tektonischen Riffs von Acts wie *Neurosis* oder *Cult of Luna* mit spacigen, hypnotischen Texturen, die direkt von der psychedelischen Musik der *Pink Floyd* inspiriert sind. Macht euch bereit, euer Gehirn direkt in eine stroboskopisch beleuchtete Kapsel zu schießen und es in einen kalten, kosmischen Abgrund zu schleudern. "The Voyager Golden Banquet" zerreißt das traditionelle Regelwerk des Extreme Metal vollständig und liefert ein Album, das sich weniger wie eine Sammlung von Songs anfühlt, sondern eher wie ein Fiebertraum in einem zusammenbrechenden Raumschiff. Eröffnungstracks wie "Hellisual" hauen dich mit einer massiven Wand aus Sludge-Verzerrung und verzweifelten, blackened Schreien um, bevor sie dir einen massiven Curveball zuwerfen. Aus dem Nichts lässt die Band einen ambienten elektronischen Puls oder eine schwebende Space-Rock-Gitarrenmelodie fallen, die dich schwerelos fühlen lässt. Es ist eine wunderbar unvorhersehbare, wunderschön intensive und höchst filmische kosmische Reise, die Hörer belohnt, die das Licht ausschalten, Kopfhörer aufsetzen und sich ganz der Leere hingeben.
 
-::genre::
-
-## Dimhav - Ondine
-
-tbd
-
-::genre::
+::genre::blackened sludge metal, post metal, psych rock, space rock
 
 ## Dimmu Borgir - Grand Serpent Rising
 
-tbd
+Die 1993 gegründete Band wird von den Gründungsmitgliedern Silenoz (Gitarre) und Shagrath (Gesang) getragen. "Grand Serpent Rising" stellt einen bedeutenden Meilenstein dar: Es ist das zehnte offizielle Studioalbum der Band und markiert ihre triumphale Rückkehr nach einer langen Studio-Pause. Das Album ist eine definitive Meisterklasse im **Symphonic Black Metal**. Es schöpft aus dem gesamten Erbe der Band und wurde im Studio Fredman in Göteborg zusammen mit dem legendären Produzenten Fredrik Nordström aufgenommen, um bewusst die klangliche Kraft der frühen 2000er Jahre von Meilensteinen wie "Puritanical Euphoric Misanthropia" einzufangen. Die norwegische Darkness Machine hat offiziell ihre alte Haut abgelegt und bringt eine wahre Flutwelle an orchestraler Dynamik mit. "Grand Serpent Rising" fühlt sich an, als würde man direkt in eine majestätische, von Flammen erhellte Kathedrale schreiten, während ein gewaltiger, dämonischer Chor einem direkt ins Ohr schreit. Tracks wie "The Qryptfarer" und "Gjǫll" zeigen eine erfahrene Band, die auf dem absoluten Höhepunkt ihrer theatralischen Bösewicht-Energie agiert und mühelos rasante, hyper-schnelle Blastbeats und messerscharfe Gitarrenriffs frontal in massive, filmische Bläserarrangements verwebt. Es wirft jegliche Radiofreundlichkeit komplett über Bord zugunsten riesiger, vielschichtiger Dark-Fantasy-Klanglandschaften, die dich dazu zwingen, dich hinzusetzen, den Mund zu halten und dich von der Klangwelle überrollen zu lassen. Es ist ein unverschämt grandioser, bombastischer und wunderschön finsterer Heavy-Metal-Triumph.
 
-::genre::
+::genre::symphonic black metal
 
 ## Downfall Of Nur - And The Firmament Will Burn To Quench The Pain Of This Earth
 
-tbd
+Sanna, die 2015 mit ihrem von der Kritik gefeierten Meisterwerk "Umbras de Barbagia" in der internationalen Underground-Szene für Aufsehen sorgte, hat über ein Jahrzehnt damit verbracht, ihr ganz eigenes, zutiefst spirituelles Handwerk zu perfektionieren. Diese Platte wurde von Sanna in den Atlantic Aurora Studios aufgenommen und abgemischt und von Gabriele Gramaglia im Crepuscular Sound Studio gemastert. Das Album ist eine atemberaubende Darbietung von **Atmospheric Black Metal**, **Avantgarde Black Metal** und **Folk/Ambient**. Es schöpft seine Inspiration aus der antiken Kultur Sardiniens, prähistorischer Symbolik und der Geschichte der Nuraghen und bedient sich dabei langer, gemächlicher Instrumentalpassagen. Wenn du dir jemals gewünscht hast, dass dein Geist vollständig in der uralten, sonnenverbrannten Erde einer Mittelmeerinsel versinkt, während du um die Geschichte der Menschheit trauerst, hat Downfall Of Nur das ultimative Rezept für dich geschrieben. Dieses Album trifft dich nicht mit den hektischen, unmittelbaren Blitzen des typischen Metal; es wirkt wie ein gewaltiges, langsam brennendes rituelles Feuer. In atemberaubenden, weitläufigen Sätzen wie "Beyond The Transcendent Darkness" gleitet die Musik nahtlos von unheimlichen, hallenden Folk-Klängen und uralten Ambient-Atempausen hin zu plötzlichen, monolithischen Flutwellen der Black-Metal-Katharsis. Sie behandelt historisches Leid wie Hochkunst im Kino und lässt einen 20-minütigen Abstieg in prähistorische Mythologien wie eine absolute spirituelle Notwendigkeit anmuten.
 
-::genre::
+::genre::avant black metal, atmo black metal, dark ambient, dark folk
 
 ## Du Cane - Veil Of The Abyss
 
-tbd
+Als äußerst ehrgeiziges neues Projekt in der australischen Heavy-Metal-Szene sorgte die Band mit kraftvollen Vorab-Singles wie "Glass Crown" für große Vorfreude in der Underground-Szene. "Veil Of The Abyss" ist das offizielle Debüt-Studioalbum der Band. Das Album ist eine umfassende Darbietung von **Progressive Metal**, **Sludge Metal**, **Post-Metal** und **Thrash**. Ihr Sound ist tief verwurzelt in den dichten, tektonischen Riffs und dem cineastischen, langatmigen Songwriting-Stil von Genre-Größen wie *Mastodon*, *Opeth* und *The Ocean*. Macht euch bereit, eure Lautsprecher so laut aufzudrehen, dass eure unmittelbaren Nachbarn deutlich alarmiert werden, denn Du Cane ist da, um eine regelrechte Lawine progressiven Donners loszulassen. "Veil Of The Abyss" fängt die exakte Atmosphäre der gleichnamigen Bergkette ein - es ist gewaltig, brutal hart und wunderbar unvorhersehbar. Die Band schafft einen gekonnten Ausgleich zwischen vernichtenden, tektonischen Sludge-Metal-Gitarrenriffs und weitläufigen, atmosphärischen akustischen Atempausen, die einen völlig in ihren Bann ziehen. Sie wechselt mühelos von halsbrecherischen Thrash-Tempos zu cineastischen, vielschichtigen Metal-Passagen, die sich unglaublich schwer und zutiefst einnehmend anfühlen. Es ist ein spektakuläres, kompromissloses und zum Headbangen verleitendes Debüt, das die Band sofort als bedeutende neue Kraft in der Progressive-Metal-Underground-Szene etabliert.
 
-::genre::
+::genre::prog metal, post metal, sludge metal, thrash metal
 
 ## Ecca Vandal - LOOKING FOR PEOPLE TO UNFOLLOW
 
-tbd
+Ecca Vandal hat sich in der Alternative-Musikszene einen Namen gemacht und sich in den letzten Jahren auf großen Bühnen weltweit einen Ruf für explosive Live-Auftritte erarbeitet, darunter ihr Debüt beim Coachella-Festival und hochkarätige Auftritte als Vorband bei Stadiontourneen von Limp Bizkit und Deftones. Dieses Projekt ist ihr mit Spannung erwartetes zweites Studioalbum in voller Länge. Das Album ist ein wilder Mix aus **Alternative Rock**, **Punk**, **Hip-Hop** und **R&B**. Ihre stilistischen Einflüsse reichen vom rohen, konfrontativen Punk-Grit von *Fugazi* bis hin zum klassischen Soul und der stimmlichen Kraft von *Nina Simone*. Wenn du schon immer mal deine Social-Media-Konten löschen, dein Handy mit einem schweren Ziegelstein zerschlagen und in den Trümmern eine absolute Tanzparty schmeißen wolltest, hat Ecca Vandal den ultimativen Plan dafür geschrieben. "LOOKING FOR PEOPLE TO UNFOLLOW" behandelt die digitale Reizüberflutung wie einen Kampf, den es unbedingt gewinnen will. Es vermeidet jegliche vorhersehbaren Genregrenzen; in einem Moment liefert sie in "BLEACH" einen rauen, kehlenschneidenden Punk-Schrei über einer Wand aus zerklüfteten Gitarren, und im nächsten gleitet sie mühelos in samtweiche, synthgetriebene R&B-Hooks. Es ist ein unglaublich kühnes, ungeschliffenes und wunderschön unberechenbares Album, das wie ein Schuss reines Adrenalin für deinen unabhängigen Geist wirkt.
 
-::genre::
+::genre::alt r&b, punk rap, alt rock, hip hop
 
-## Ed O'Brien - Blue Morpho
+## Ed O'Brien - Blue Morpho **
 
-tbd
+Als langjähriger Gitarrist und Klangarchitekt der Alternative-Rock-Ikonen *Radiohead* hat O'Brien jahrzehntelang die atmosphärische, klangliche Grundlage für einige der berühmtesten Alben der Rockmusik geschaffen. Während sein Solo-Debüt aus dem Jahr 2020 (Earth) unter dem Pseudonym EOB erschien, markiert dieses mit Spannung erwartete Meilenstein-Album einen bedeutenden persönlichen Wandel, da es sein allererstes Album ist, das unter seinem richtigen Namen veröffentlicht wird. Das Album ist ein wunderschönes Geflecht aus **Art Rock**, **Psychedelic Folk**, **Ambient** und **Progressive Pop**. Stark beeinflusst von der Poesie Wendell Berrys und aufgenommen bei der speziellen Frequenz von 432 Hz statt der üblichen Konzertstimmung, entfernt sich der Stil von konventionellen Rock-Strukturen, um natürliche Resonanz und leuchtende Stille zu betonen. Der "Blue Morpho" ist ein prächtiger brasilianischer Schmetterling, der in der pechschwarzen Geborgenheit eines Kokons eine gewaltige, stille Verwandlung durchläuft - und genau das ist die emotionale Reise dieser spektakulären Platte. Entstanden aus einer Phase schwerer persönlicher Depression während der Lockdown-Jahre, hat O’Brien seinen Heilungsprozess in einen gewaltigen, großformatigen Psych-Folk-Trip kanalisiert. Die Tracks gleiten anmutig zwischen betörenden, von Trip-Hop durchdrungenen Rhythmen und leuchtenden Wänden aus akustischer Ambient-Gitarre hin und her. Begleitet von den atemberaubenden, an Scott Walker erinnernden cineastischen Klängen des Tallinn Chamber Orchestra singt O’Brien mit einer ungehemmten, verletzlichen Wärme, die seine alten Unsicherheiten vollständig ablegt. Es ist ein wunderbar therapeutisches, hypnotisches und wahrhaft schönes Rock-Meisterwerk, das beweist, dass der direkte Schritt in die Dunkelheit zu einem wahrhaft schillernden Höhenflug führen kann.
 
-::genre::
+::genre::trip hop, psych folk, prog pop, ambient, art rock
 
 ## Ekmeles - Nonsong
 
-tbd
+Unter der Leitung des Baritons Jeffrey Gavett besteht dieses hochspezialisierte Vokalsextett aus Charlotte Mundy, Elisa Sutherland, Timothy Parsons, Tomás Cruz und Steven Hrycelak. In Kreisen der zeitgenössischen klassischen Musik werden sie weithin dafür gefeiert, dass sie die Grenzen der stimmlichen Möglichkeiten erweitern und sich an mathematisch anspruchsvolle mikrotonale Strukturen wagen. Das Album ist ein definitives Beispiel für **avantgardistische Vokalmusik**, Mikrotonalismus und **zeitgenössische Klassik**. Sein stilistischer Titel ist inspiriert von einer Zeile des amerikanischen Dichters Nathaniel Mackey: "the nonsong we sang, the song we nonsang". Die Platte entfernt sich radikal von traditionellen Chorformaten, um Vokalstrukturen als reine Klanglandschaften zu präsentieren. Werft eure traditionellen Gesangbücher weg, denn Ekmeles hat die menschlichen Stimmbänder genommen und sie in einen entzückend bizarren, fremdartigen Spielplatz verwandelt. Nonsongs behandelt das Singen nicht als Mittel, um angenehme Reime zu vermitteln, sondern als ein klangliches Abenteuer mit hohem Einsatz. Auf Wolfgang von Schweinitz’ gewaltigem Eröffnungsstück spielt das Sextett mikrotonale Harmonien, die so präzise sind, dass sie zur Aufführung Stimmgabeln erfordern, und entwirft ein mehrsprachiges Klanglabyrinth, das dein Gehirn in Kreisen drehen lässt. Währenddessen lassen die Sänger in Katherine Balchs "Forgetting" ihre Stimmen spielerisch durch das hektische, perkussive Klappern von Spielzeugratschen weben. Es ist ein wunderbar seltsames, intellektuell schillerndes und äußerst hypnotisches Hörerlebnis, das vokale Abstraktion in eine absolute Meisterleistung verwandelt.
 
-::genre::
-
-## Elder - Through Zero
-
-tbd
-
-::genre::
-
-## Elvenking - Rites Of Disclosure
-
-tbd
-
-::genre::
+::genre::avant classic, modern classic
 
 ## Embrace Of Souls - The Battle Of The Dead
 
-tbd
+Embrace Of Souls, gegründet von engagierten Veteranen der europäischen Power-Metal-Szene, hat sich über Jahre hinweg einen hervorragenden Ruf für konzeptionell anspruchsvolles symphonisches Storytelling erarbeitet. "The Battle Of The Dead" stellt ein bedeutendes neues Kapitel in ihrer Diskografie dar und ist ihr drittes offizielles Studioalbum in voller Länge. Das Album ist ein Lehrbuchbeispiel für bombastischen **Symphonic Power Metal**, **Speed Metal** und **Orchestral Metal**. Ihr rasantes, theatralisches Konzept knüpft eng an Genre-Pioniere wie *Rhapsody Of Fire*, *Stratovarius* und *Vision Divine* an. Erhebt eure leuchtenden Schwerter, entstaubt eure samtenen Zauberermäntel und taucht ein in die ultimative High-Fantasy-Rockoper! "The Battle Of The Dead" verschwendet keine Sekunde mit höflichen Einleitungen; es tritt die Burgtore sofort ein - mit einem tosenden Blitz aus galoppierenden Gitarrenriffs, blitzschnellem Double-Bass-Drumming und einer massiven Wand aus cineastischen Orchesterbläsern. Die wahre Magie hinter diesem schweren Battle Royale ist das phänomenale Gesangs-Tag-Team zwischen Giacomo Rossi und Martina Mazzeo. Rossis kraftvoller, theatralischer Hardrock-Gesang kontrastiert wunderbar mit Mazzeos majestätischen, opernhaften Höhen und verwandelt einen Track nach dem anderen in ein packendes Duell zwischen reinem Licht und herannahenden Schatten. Es ist ein unverhohlen grandioser, rasant voranschreitender und herrlich dramatischer Heavy-Metal-Sturm, der speziell darauf ausgelegt ist, dein Wohnzimmer in ein absolutes Schlachtfeld zu verwandeln.
 
-::genre::
+::genre::power metal, symphonic metal, speed metal
 
-## Endless Floods - Passages
+## Endless Floods - Passages *
 
-tbd
+Die Band, die sich Ende der 2010er Jahre formierte und die Aufmerksamkeit der Underground-Szene auf sich zog, überstand eine fünfjährigen Pause, bevor sie mit einer stark veränderten Besetzung zurückkehrte. Das Kernteam hinter diesem Studiozyklus besteht aus Louise Dehaye, Benjamin Sablon, Stéphane Miollan und Xavier Godart. "Passages" stellt einen wichtigen kreativen Meilenstein für die Gruppe dar und ist ihr viertes offizielles Studioalbum in voller Länge. Das Album ist eine immersive, vielschichtige Mischung aus **Doomgaze**, **Post-Metal**, **Post-Rock**, **Dark Folk** und **Progressive Doom**. Sie orientieren sich stark an den überwältigenden, texturreichen Klangentwürfen von Acts wie *Amenra*, *Neurosis* und *BIG|BRAVE*. Zieh deinen dicksten, wärmsten Mantel an und mach dich bereit, in eine wunderschön dichte, nebelverhangene Zwielichtzone zu wandern. "Passages" behandelt das auditive Geschichtenerzählen weniger wie eine Sammlung radiotauglicher Singles, sondern eher wie einen intensiven, emotionalen Marathon im Breitbildformat. Über vier ausufernde Tracks hinweg lässt die Band massive, schwerfällige Wände aus Shoegaze-Verzerrung frontal auf ruhige, gespenstische akustische Atempausen prallen. Verzweifelte Gesangsschreie durchdringen einen zitternden Sturm aus hallenden Gitarren und bewegen sich nahtlos von der kollektiven Panik einer dunklen Landschaft hin zu einer intimen, zerbrechlichen Konfrontation mit den eigenen inneren Dämonen. Es ist eine außergewöhnlich schwere, wunderschön tragische und zutiefst kathartische Klangreise, die speziell für Hörer konzipiert wurde, die sich vollständig in der dunklen Leere verlieren wollen.
 
-::genre::
+::genre::doomgaze, post metal, prog metal, post rock, dark folk
 
 ## ENGRAVED - Hymns For The Hollow
 
@@ -1184,6 +1130,12 @@ Bladee ist der unangefochtene CEO und Mitbegründer von *Drain Gang*, dem äuße
 
 ::genre::experimental hip hop, avant r&b, hyperpop
 
+## Blossom Death - Spirit
+
+Die Band wurde Ende 2018 gegründet und entstand aus einer Idee des Frontmanns und Texter Kostas "Corax" Katoikos, der zuvor als Frontmann der Band Sorrowful Angels bekannt war. Nach der Veröffentlichung ihrer ersten EP "Mistaken" im Jahr 2019 und der Teilnahme an einem gemeinsamen Split-Projekt im Jahr 2023 wuchs die Gruppe zu einer soliden sechsköpfigen Besetzung heran, um dieses Material vollständig aufzunehmen. "Spirit" markiert als ihr offizielles Debüt-Studioalbum einen wichtigen Meilenstein. Das Album bewegt sich im Bereich des Heavy **Gothic Rock** und **Gothic Metal**. Ihre charakteristische Klangformel verbindet kraftvolle, schwere Gitarrenriffs intensiv mit dramatischen, atmosphärischen Arrangements. Sie stützt sich stark auf emotionale Schwankungen und eine eindrucksvolle Balance zwischen Klarheit und Härte. Zieh deine Samtkleidung an und mach dich bereit für eine wunderschön dramatische Reise durch dunkle, mondbeschienene Korridore. "Spirit" behandelt Gothic Metal nicht wie ein veraltetes, vorhersehbares Relikt, sondern präsentiert ihn mit einer unglaublichen, frischen Intensität. Das absolute Kronjuwel ist hier das beeindruckende Gesangsduett zwischen Kostas Katoikos und Marita Makaronidi, deren kontrastreiche Stimmen elegant über einer donnernden Wand aus vernichtenden Gitarrenriffs schweben. Tracks wie "Morning After" führen einen direkt an einen emotionalen Bruchpunkt, indem sie Themen wie innere Konflikte, Sucht und die zerbrechliche Suche nach Erlösung in grandiose, filmische Metal-Hymnen übersetzen. Es ist ein außergewöhnlich leidenschaftliches, texturreiches und wunderschön düsteres Erlebnis, in dem die Dunkelheit triumphierend erblüht.
+
+::genre::heavy rock, goth rock, goth metal
+
 ## Brainly - Nueral Drift
 
 Während "Midnight Calm" (Siehe nächstes Review) darauf ausgelegt ist, Sie in den Schlaf zu wiegen, stammt "Neural Drift" aus Brainlys schnell wachsendem Katalog an Klanglandschaften zur Steigerung der Produktivität und kognitiven Leistungsfähigkeit. Das Projekt arbeitet direkt mit Digitalkünstlern zusammen, um repetitive, nicht ablenkende Frequenzen mit einem äußerst präzisen Sounddesign zu kombinieren, das den Hörer in einen psychologischen Flow-Zustand versetzen soll. Ein intellektueller, fokussierter Mix aus binauralen Beats, **Ambient Techno**, Klangtherapie und tiefen Alpha-Wellen-**Drones**. Das Hören von "Neural Drift" fühlt sich an, als würde man einen futuristischen Cyber-Helm aufsetzen, der jede einzelne Ablenkung im bekannten Universum herausfiltert. Dies ist nicht nur passive Hintergrundmusik; es ist eine hochgradig kalkulierte, trippige Klangautobahn. Die Tracks nutzen panning-binaurale Frequenzen, die sanft von deinem linken zum rechten Ohr springen und einen hypnotischen Rhythmus imitieren, der deinen Blick auf die Aufgabe fixiert, die du gerade zu erledigen versuchst. Es ist steril und doch seltsam schön, voller klarer digitaler Synthesizer, glitchiger Mikrorhythmen und endloser Echos aus dem Weltraum. Es ist der ultimative Soundtrack zum Programmieren, zum Pauken für eine schwierige Prüfung oder um sich selbst davon zu überzeugen, dass das Erledigen der Steuererklärung ein großes Science-Fiction-Abenteuer ist.
@@ -1225,6 +1177,12 @@ De Cet war ein Jahrzehnt lang als Resident-DJ in der Warehouse-Szene von Bristol
 Desecresy ist ein faszinierendes, völlig eigenständiges Soloprojekt. Der Multi-Instrumentalist Tommi Grönqvist schreibt jedes Riff, spielt alle Instrumente ein, übernimmt den tiefen, höhlenartigen Gesang, produziert die Musik und malt sogar das unheimliche Album-Artwork. Finnischer **Death Metal**, Death-**Doom** und **Old-School-Death-Metal**. Stark beeinflusst von der langsamen, erdrückenden Schwere von *Bolt Thrower*, *Incantation*, *Rippikoulu* und *Abhorrence*. Das Anhören von "The Secret Of Death" fühlt sich an, als wäre man versehentlich in einer uralten, feuchten Steinkrypta eingeschlossen, während sich die Wände langsam um einen herum schließen. Tommi Grönqvist schreibt keinen schnellen, hyperpolierten Tech-Death; stattdessen erschafft er massive, brodelnde, hypnotische Wände aus Gitarren-Fuzz und langsamen, wirbelnden Rhythmen. Sein Gesang klingt weniger wie ein menschlicher Sänger, sondern eher wie ein unterirdisches Monster, das vom Grund eines Brunnens heraufbrummt. Das Thema des Albums dreht sich um reine, gespenstische Mystik - nekrolunare Telepathie, verschwindende Existenzen und uralte Untergänge. Es ist wunderbar schwerer, atmosphärischer und unheiliger Doom-Metal-Gnaden.
 
 ::genre::osdm, death metal, doom metal
+
+## Dimhav - Ondine
+
+Dimhav, gegründet von den außergewöhnlich talentierten Brüdern Staffan Österlind (Gitarre, Bass, Keyboards) und Olle Österlind (Schlagzeug), sorgten mit ihrem winterlichen Debütalbum "The Boreal Flame" aus dem Jahr 2019 für großes Aufsehen in der Underground-Szene. Für dieses mit Spannung erwartete zweite Album holten sie erneut den legendären schwedischen Gesangs-Powerhouse Daniel Heiman (bekannt für seine legendäre Arbeit mit Lost Horizon) an das Mikrofon. Das Album ist eine beeindruckende Demonstration von **Symphonic Progressive Metal** und **Power Metal**. Es knüpft an die epischen, langatmigen Songstrukturen von Meistern wie *Symphony X* an (wobei es insbesondere an die nautische Dimension von "The Odyssey" erinnert) und wird durch majestätische klassische Arrangements mit Oboen-Soli und cineastischer Orchestrierung ergänzt. Wenn ihr schon immer einmal an Bord eines grandiosen Wikinger-Flaggschiffs gehen, direkt in einen furchterregenden ozeanischen Strudel segeln und gegen elementare Seeungeheuer kämpfen wolltet, während ein Opernsänger über euren Köpfen hohe Töne anschlägt, dann hat Dimhav den ultimativen Soundtrack für euch geschrieben. "Ondine" ist ein absoluter Titan des progressiven Power Metal, der sich unglaublich gewaltig anfühlt. Die Österlind-Brüder weben ein Labyrinth aus nichtlinearen Songstrukturen, die mühelos von rasanten, rasanten Gitarrenduelle zu eleganten, filmischen Holzbläsersätzen übergehen. Doch die wahre Geheimwaffe ist Daniel Heiman, dessen himmelhoher Gesang mit atemberaubender, glaszerbrechender Kraft über den symphonischen Sturm schwebt. Es ist eine wunderschön theatralische, rhythmisch komplexe und rasante Seereise, die die existenzielle Wut der Tiefsee als glorreichen Triumph erscheinen lässt.
+
+::genre::symphonic prog metal, power metal
 
 ## Duller - Evil Duller
 
