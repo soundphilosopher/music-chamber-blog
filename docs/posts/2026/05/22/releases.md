@@ -1,7 +1,7 @@
 ---
 date: 2026-05-22
 pin: true
-bandcamp: false
+bandcamp: true
 categories:
   - Releases
 ---
