@@ -1452,6 +1452,12 @@ Das letzte Werk der britischen Prog-Rocker. Neben ihrem Mix aus Prog- und Psych-
 
 ::genre::prog rock, psych rock, proto punk rock, alt rock
 
+## Careus - In Aethere
+
+Die treibende Kraft hinter Careus, Victoria Carmilla Hazemaze, ist fest im internationalen Underground-Metal-Netzwerk verankert. Bekannt dafür, mehrere unterschiedliche musikalische Projekte zu leiten (darunter *Luna Pythonissam*), schreibt, spielt und nimmt sie für Careus eigenhändig Gitarren, Bass, Keyboards und Gesang auf und nutzt diesen Künstlernamen als spezielles Ventil für ihre rauesten Black-Metal-Neigungen. **Raw Black Metal**, **Atmospheric Black Metal** und **Ambient/Cosmic Metal**. Der Sound stützt sich auf traditionelle, harte Lo-Fi-Gitarrenproduktion, rasantes Tremolo-Picking und durchdringende Schreie. Diese aggressiven Texturen werden jedoch stark mit weitläufigen, kalten Synth-Linien und hallenden Melodien vermischt, um ein weitläufiges, sternenklares Vakuum zu evozieren. Victorias Gesangsleistung ist hier erschütternd - ihre Schreie klingen weniger wie die eines Menschen, sondern eher wie ein sterbender Stern, der in sich zusammenfällt. Es ist düster, es ist einsam und es ist wunderschön tragisch. "In Aethere" vermeidet erfolgreich die typische schlammige Falle des rohen Black Metal, indem die Tracks mit gerade genug verträumter Melodie angereichert werden, um dich in ihren Bann zu ziehen. Hol ein Teleskop hervor, mach das Licht aus und lass dich von diesem stellaren Chaos überwältigen.
+
+::genre::post black metal, stmo black metal, dsbm
+
 ## closing. - VI
 
 tbd

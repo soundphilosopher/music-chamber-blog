@@ -1105,6 +1105,12 @@ Eine Multi-Instrumentalistin (Trompete, Streichinstrumente, Percussion), die im 
 
 ::genre::bolero, reggaeton, hip hop, salsa
 
+## Luna Pythonissam - Ausencia
+
+Luna Pythonissam ist ein internationales Studioprojekt, das eine Brücke zwischen Australien und Mexiko schlägt. Seine treibende Kraft, Victoria Carmilla Hazemaze (die unter dem Pseudonym Nox Victoria auftritt), ist in Mexiko ansässig und leitet das unabhängige Underground-Label V.C.H. Music. **Post-Black Metal**, **Blackgaze** und **Atmospheric Black Metal**. Die Band kombiniert aggressive, verzerrte Lo-Fi-Gitarrenwände und traditionelle Black-Metal-Schreie mit unerwartet schönen, verträumten und melancholischen Ambient-Passagen. Anstatt gänzlich deprimierend zu wirken, verleiht die Anspielung auf Gabriela Mistrals folkige Wurzeln der Musik eine seltsam tröstliche, erdige Seele. Sie ist chaotisch, zutiefst emotional und fängt das Gefühl der "Abwesenheit" (Ausencia) perfekt ein, indem sie deine Kopfhörer mit einer überwältigenden, berauschenden Leere füllt. Wenn du deinen Metal tragisch, poetisch und wild unabhängig magst, ist dies ein Zauber, dem du dich gerne hingeben wirst.
+
+::genre::post black metal, dsbm, blackgaze, atmo black metal
+
 ## Malhkebre - B.A.M.N.
 
 Als einer der Eckpfeiler der "Satanic Resistance"-Szene kehrt diese französische Band mit ihrem ersten richtigen Album seit 2019 zurück. Dissonanter, ritualistischer **Black Metal**. Diese Platte ist ein düsterer, unheilvoller Schauer, der einem den Nacken hinunterläuft. Es ist klassischer französischer Black Metal: unheimliche Melodien, schleppende Rhythmen und beschwörende Vocals, die klingen, als würden sie aus einer anderen Dimension herabgeschrien. Es ist auf die bestmögliche Art beunruhigend und bedrückend - perfekt, wenn man sich Musik wünscht, die sich anfühlt wie ein dunkler, staubiger Flur in einem Spukschloss.

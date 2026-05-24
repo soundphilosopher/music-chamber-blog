@@ -1,7 +1,5 @@
 ---
 date: 2026-05-15
-pin: true
-bandcamp: true
 categories:
   - Releases
 ---
@@ -585,6 +583,12 @@ Mýa ist eine Grammy-gekrönte R&B-Ikone und Tänzerin, deren Karriere bis in di
 Als aufstrebende Größe der New Yorker Underground-Szene wird dieses Indie-Quartett von der Songwriterin Nara Avakian (*they/them*) angeführt. Mit ihrem 2024 erschienenen Debütalbum "Glassy Star" und einem herausragenden Auftritt beim SXSW-Festival sorgten sie für großes Aufsehen in der Underground-Szene. **Alternative Indie**, **Dream-Pop** und verträumter Y2K-Pop. Stark beeinflusst von glitchigen digitalen Texturen, Sehnsucht nach der Heimat und den melancholischen Familienharmonien einer Linda-Ronstadt-Dokumentation. "Tearless, Thoughtless" fühlt sich an, als würde man das Tagebuch einer anderen Person lesen, während man in einem Raum voller flackernder Fernsehbildschirme sitzt. Der herausragende siebenminütige Track "Tucson" hüllt einen in einen langsamen, hypnotischen Traum, in dem intimes akustisches Gitarrenspiel sanft mit seltsamen, glitchigen elektronischen Schichten kollidiert. Es ist ein wunderschön verwirrendes Indie-Pop-Album, das Themen wie Erinnerung und Herkunft wie eine zerbrechliche Glasskulptur behandelt.
 
 ::genre::alt pop, indie pop, dreampop
+
+## Natural Crystals - Mountains
+
+In den frühen 2020er Jahren arbeitete Vance hinter den Kulissen an modularen Synth-Patches und komponierte Musik für Indie-Filme, bevor er Natural Crystals gründete, um gitarrenlastige, hallgetränkte melodische Experimente zu verwirklichen. **Dreampop**, **Neo-Psychedelia**, **Shoegaze** und **Ambient Rock**. Ihr massiver Wall of Sound Stil ist stark von Bands wie *Beach House*, *Slowdive* und *Cocteau Twins* beeinflusst, gemischt mit den weitläufigen, cineastischen Texturen von *Explosions in the Sky*. "Mountains" ist das ultimative musikalische Äquivalent dazu, am Rande einer nebligen Klippe zu stehen und dabei sein dickstes Flanellhemd zu tragen. Es ist ein herrlich verschwommener Klangtrip. Natural Crystals beherrschen die Kunst, schwere, verzerrte Gitarren so leicht und luftig wie eine Wolke klingen zu lassen, voll und ganz. Wirbelnde Synthesizer ziehen wie Bergnebel über die Tracks, während der Gesang so wunderschön tief im Mix vergraben ist, dass er wie ein hallendes Flüstern klingt, das von einer Canyonwand zurückgeworfen wird. Es ist ein langsam entflammendes, intensiv atmosphärisches Album, das es nicht eilig hat, irgendwohin zu gelangen - stattdessen lädt es dich ein, dich einfach auf den Rücken zu legen und dich von den majestätischen, verzerrten Klanglandschaften vollständig verschlingen zu lassen.
+
+::genre::dreampop, neo psych rock, shoegaze, ambient
 
 ## Neurotech - In Delta Negative
 

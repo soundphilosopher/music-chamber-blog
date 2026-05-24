@@ -468,7 +468,7 @@ Die amerikanische Formation mit dem Nachfolger ihrer 2023 EP "Torture Portrait".
 
 Das Sophomore Release der niederländischen "Straßenkapelle". Eine nostalgische Mixtur aus Punk Rock, Street Rock und Power Pop. Dabei werden 70s Pub Rock und 80s OI zu einer schnellen und klassischen Rock-Mixtur.
 
-::genre::punk rock, street rock, power pop
+::genre::punk rock, streetpunk, power pop
 
 ## Seamus Fogarty - Ships **
 
