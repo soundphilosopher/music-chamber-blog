@@ -22,7 +22,7 @@ Die Band wurde 2009 gegründet und war bis etwa 2014 aktiv, bevor sie eine Pause
 
 *Aarp* ist bekannt für konzeptionelle elektronische Musik, die städtische Umgebungen als Instrumente behandelt. **Ambient** / **IDM** / **Musique Concrète**. Das Album stützt sich stark auf **Field Recordings** aus dem Istanbuler Stadtteil Kadıköy, die zu glitchigen, rhythmischen Texturen verarbeitet wurden. Ein Liebesbrief an das urbane Chaos. Anstelle typischer Synthesizer hört man den rhythmischen Puls von Fähren, das Klirren von Teegläsern und Straßenlärm - alles zu einem hypnotischen digitalen Traum zerhackt. Es ist der perfekte Soundtrack für eine Reise in eine Stadt, ohne den Sessel zu verlassen.
 
-::genre::idm, ambient, musique concréte, field recordings
+::genre::idm, ambient, musique concrète, field recordings
 
 <!-- more -->
 
@@ -186,7 +186,7 @@ Ihr drittes Studioalbum, das auf "Waiting For Your Colours" aus dem Jahr 2022 fo
 
 Seit den 1970er Jahren eine legendäre Figur der europäischen Klangkunstszene. Sie erforscht die verborgenen Klänge der Technik, die für den Menschen normalerweise nicht hörbar sind. **Sound Art** / **Field Recordings** / **Experimentelle Musik**. Kubisch ist eine Pionierin der "Electrical Walks" und nutzt eigens angefertigte Induktionskopfhörer, um die unsichtbaren elektromagnetischen Felder städtischer Umgebungen aufzunehmen. Das ist keine Musik im herkömmlichen Sinne; es ist eine akustische Röntgenaufnahme der Welt. Es ist faszinierend, summend und rhythmisch auf eine Weise, die einem bewusst macht, dass die Luft um uns herum tatsächlich vor Daten schreit. Es ist für den Hörer, der hinter den Vorhang der Realität blicken möchte.
 
-::genre::musique concréte, experimental electronica, field recordings, ambient
+::genre::musique concrète, experimental electronica, field recordings, ambient
 
 ## Class Traitor - The Images Aren't Mine
 
@@ -594,7 +594,7 @@ Ein Elektronik-Duo, bestehend aus dem peruanischen Produzenten Felipe Salmon (*D
 
 Eine transdisziplinäre Klangkünstlerin, die ihr halbautobiografisches Theaterstück "Mister Cobra" in dieses erschütternde Album umsetzt. **Experimentelle Elektronik**, **Musique concrète** und koreanische Volksoper (**Pansori**) vermischt mit **Pop** der 2000er Jahre. Ein Musique-concrète-Spukhaus. Es ist eine revisionistische Nacherzählung von Highschool-Traumata, die abwechselnd erschreckend, komisch und zutiefst menschlich ist. Es klingt wie ein glitchiger, wunderschöner Albtraum, aus dem man nicht aufwachen kann.
 
-::genre::experimental electronica, musique concréte, j-pop, prog pop, avant electronica
+::genre::experimental electronica, musique concrète, j-pop, prog pop, avant electronica
 
 ## Lungburner - Dogma
 
