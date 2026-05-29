@@ -648,75 +648,57 @@ tbd
 
 ## Labrinth - Cosmic Opera Act II
 
-tbd
+Labrinth ist ein weltweit gefeierter Sänger, Songwriter und visionärer Produzent, der vor allem für seine mehrfach für den Grammy nominierte Filmmusik zur HBO-Serie *Euphoria* bekannt ist. Als Nachfolger seines hochkonzeptionellen, rasanten Projekts "COSMIC OPERA ACT I" vom Januar 2026 erweitert dieses neue Album sein experimentelles Theaterformat und schafft so eine weitaus geschlosseneres, klareres klangliches Gesamtbild. Eine bewusstseinserweiternde, formwandelnde Mischung aus **Experimental Pop**, **Electronic Soul**, **Avantgarde-R&B** und futuristischem **Funk**. Seine Klanglandschaft balanciert massive orchestrale Streicharrangements und elektronische Glitches mit sakralen Gospel-Chor-Echos aus. "COSMIC OPERA ACT II" spielt sich genau wie ein hyperfuturistisches, visuell spektakuläres Theaterstück ab, das in einer schwebenden Weltraumkathedrale stattfindet. Labrinth sprengt die Grenzen der üblichen Popmusik-Logik völlig und entfesselt eine 12-Track-Achterbahnfahrt, die wild zwischen karikaturhaften elektronischen Instrumental-Freakouts und vernichtenden, markerschütternden Gesangsdarbietungen hin und her springt. Die zugrunde liegenden Themen tauchen tief in schweres, philosophisches Terrain ein - sie navigieren durch systemische Gier, Erlösung, Selbstbewusstsein und spirituelle Rettung. Das absolute Kronjuwel des Albums ist "VERY GOOD BOY", ein verzweifeltes, herzzerreißendes Gebet, vorgetragen als traurige Klavierklage, die wunderschön in völliger Stille nachhallt. Es ist ein atemberaubend mutiges, ungezügeltes und filmisches Meisterwerk, das beweist, dass Labrinth auf einem völlig anderen künstlerischen Planeten agiert.
 
-::genre::
+::genre::soultronica, experimental pop, avant r&b, acid funk
 
 ## Latto - Big Mama
 
-tbd
+Latto erlangte unter ihrem früheren Künstlernamen weltweite Berühmtheit, bevor sie sich 2021 offiziell einen neuen Namen gab. Nach ihrem bahnbrechenden, die Charts anführenden Album "Sugar Honey Iced Tea" aus dem Jahr 2024 stellt "Big Mama" einen unglaublich wichtigen Meilenstein dar. Bemerkenswerterweise entstand das 18 Titel umfassende Projekt, während sie mit ihrem ersten Kind mit dem Rapper 21 Savage schwanger war; ihre Tochter kam nur wenige Wochen vor der Veröffentlichung zur Welt. Zur Überraschung der Branche kündigte sie in den sozialen Medien an, dass dieses Projekt ihr endgültiges Abschiedsalbum sein würde. Tief verwurzelt in **Southern Rap**, **Trap** und **melodischem R&B**. Klanglich verbindet sie aggressive, kraftvolle Flows mit gefühlvollen, melodischen Hooks. Strukturell lässt sie sich von historischen Ikonen wie Aaliyah inspirieren - wobei sie klassische 90er-Jahre-Vibes explizit aufgreift - und bewahrt dabei eine selbstbewusste, rohe Street-Präsenz. Wenn "Big Mama" tatsächlich Lattos großer, letzter Vorhang im Rap-Game ist, verlässt sie die Bühne, während das Stadion vollständig in Flammen steht. Das Album wirkt wie eine Meisterklasse in Dualität und wechselt mühelos zwischen wildem, die Lautsprecher zum Beben bringendem Club-Druck und zutiefst intimer, verletzlicher Romantik hin und her. Unterstützt von einer spektakulären Gästeliste - darunter Doja Cat, GloRilla und Sexyy Red - schwebt Latto mit einer unvergleichlichen, schwerfälligen Selbstsicherheit über erstklassigen Southern-Produktionen. Tracks wie "Hostage" (featuring 21 Savage) legen ihre kugelsichere Rüstung ab und offenbaren einen rohen, wunderschönen emotionalen Kern, während "GOMF" pure, ungezähmte Energie ist, die darauf ausgelegt ist, einen Moshpit in Bewegung zu bringen. Es ist eine kühne, triumphale und wunderschön menschliche Abschiedsbotschaft, die beweist, dass sie sich auf dem absoluten Höhepunkt ihrer Kräfte vom Thron zurückzieht.
 
-::genre::
+::genre::hip hop, trap, alt r&b
 
 ## Laurence Pike - Possible Utopias for Jazz Quintet
 
-tbd
+Laurence Pike ist ein hochgeschätzter Schlagzeuger, Komponist und Produzent. Neben einer umfangreichen Solo-Diskografie mit vier Alben für das Label "The Leaf" umfasst sein beeindruckender internationaler Werdegang wegweisende Tätigkeiten beim experimentellen Ensemble Triosk, bei den Warp-Records-Veteranen PVT, der Jazz-Prog-Band *Szun Waves* und den Avant-Punk-Größen *Liars*. Eine bewusstseinserweiternde, elektroakustische Fusion aus **Spiritual Jazz**, **Post-Rock**, **Leftfield Electronica** und **Ambient Minimal-Tech**. Sein Konzept bricht mit den üblichen traditionellen Jazzformeln und orientiert sich strukturell an ECM-Aufnahmen der späten 70er Jahre, looporientierten Samplern und rhythmischen Improvisationsarchitekturen. Ungeachtet dessen, was der clevere Titel vermuten lässt, findet sich auf "Possible Utopias for Jazz Quintet" keine mehrköpfige Band - stattdessen ist es eine atemberaubende Darbietung eines Meister-Percussionisten, der ein psychologisches Spiel mit hohem Einsatz mit seinem Equipment spielt. Pike erschafft einen faszinierenden künstlerischen Spielplatz, der auf einer einfachen Prämisse basiert: Wie würde eine Jazzplatte klingen, wenn die starren Erwartungen des modernen Spätkapitalismus vollständig aus der menschlichen Gleichung herausgenommen würden? Das Ergebnis wirkt wie ein luzider Traum, der sanfte, sich wiederholende E-Piano-Loops und mikrotonale elektronische Kratzer unter äußerst geduldige, huschende akustische Drum-Patterns webt. Mit dem realen Keyboarder Novak Manojlovic und dem Altsaxophonisten Ben Lerner für ausgewählte strukturelle Klangausbrüche schwebt das Album wunderschön zwischen stimmungsvollen, filmischen Klanglandschaften und kinetischen Rhythmusmatrizen. Es ist ein brillantes, intellektuell tiefgründiges und beruhigendes Audioexperiment, maßgeschneidert für Mitternachtshörer, die ihr Gehirn zur Ruhe bringen möchten.
 
-::genre::
-
-## Lazara - Lazara
-
-tbd
-
-::genre::
+::genre::leftfield electronica, ambient, minimal techno, spiritual jazz, ambient jazz, post rock
 
 ## LEATHERWITCH - First Spell
 
-tbd
+LEATHERWITCH ist das explosive, brandneue kreative Projekt der Sängerin und Multi-Instrumentalistin Marta Gabriel, das nach der Auflösung ihrer langjährigen Heavy-Metal-Institution Crystal Viper ins Leben gerufen wurde. Gabriel hat sich vollständig von den Strukturen ihrer früheren Band gelöst und alle Instrumente sowie den Gesang auf einzigartige Weise selbst eingespielt. Das fertige Material wurde von Olof Wikstrand von Enforcer meisterhaft abgemischt. Eine rasante, triumphale Mischung aus **traditionellem Heavy Metal**, **Speed Metal** und Old-School-**Power-Metal**. Ihr klassischer Stil orientiert sich direkt an den galoppierenden Riffs und der lederbekleideten Selbstsicherheit von Retro-Szene-Ikonen wie *Enforcer*, *Running Wild* und *Skull Fist*. Falls deine Battle-Weste im Schrank verstaubt, ist "First Spell" der perfekte, hochoktanige Vorwand, sie wieder überzuziehen und mit dem Headbangen loszulegen. Das Album besticht durch eine kompromisslose, von Leder und Nieten geprägte Energie und entfesselt einen unerbittlichen Ansturm aus funkelnden Gitarrensoli, halsbrecherischen Speed-Metal-Riffs und gewaltigen Gesangshooks. Textlich führt Marta Gabriel durch eine wild-unterhaltsame Tour durch Kurzgeschichten, die stark an Gothic-Horror-Erzählungen, Lebensreflexionen und nächtliche Dungeons & Dragons-Kampagnen angelehnt sind. Bei einer wunderschön klaren und raffinierten Studioproduktion behält das Album eine wunderbar rohe, mitreißende Geschwindigkeit bei, die dich geradezu dazu schreit, es mit voller Lautstärke aufzudrehen.
 
-::genre::
+::genre::nwothm, speed metal, power metal
 
-## Lenka - Good Days
+## Lenka - Good Days *
 
-tbd
+Lenka erlangte weltweite Bekanntheit mit ihren skurrilen, mehrfach mit Platin ausgezeichneten Durchbruchshits wie "The Show" und "Everything At Once". Sie arbeitet weitgehend über ihr eigenes unabhängiges Label, und "Good Days" ist ihr siebtes Studioalbum in voller Länge. Um ein authentisches Gefühl von menschlicher Wärme und Unvollkommenheit einzufangen, zog sie nach Sydney, um das Material gemeinsam mit dem renommierten Produzenten Tony Buchen aufzunehmen. Eine nostalgische Rückkehr zu **Vintage-Soul-Pop**, **Barock-Pop** und **Indie-Pop** der 1960er Jahre. Ihr aktueller Sound stützt sich stark auf organische Instrumentierung - dabei lässt sie sich direkt von den reichhaltigen Harmonien und der Songwriting-Logik legendärer Acts wie *The Beatles* und *The Zombies* inspirieren. "Good Days" wirkt wie ein strahlender Sonnenstrahl, der direkt durch eine dicke Schicht grauen Morgennebels dringt. Anstatt sich auf überbearbeitete, roboterhafte moderne Digital-Pop-Formeln zu verlassen, liefert Lenka ein wunderschön warmes, organisches Heilmittel für eine chaotische Welt. Über zehn Tracks hinweg webt das Album ein beruhigendes klangliches Sicherheitsnetz aus wehmütigen Bläsersätzen, schwungvollen Retro-Rhythmen und üppigen, vielschichtigen Gesangsharmonien, die mühelos durch den Kopf schweben. Es ist eine bewusste Manifestation von Freude und trotzigem Optimismus, die moderne Ängste mit einer sanften, Vintage-Soul-Perspektive behandelt und Lust macht, die Fenster herunterzukurbeln und eine friedliche Autofahrt zu unternehmen.
 
-::genre::
+::genre::soul, prog pop, baroque pop, indie pop
 
 ## Leonardo Barbierato - ]ex(s)it(u)[
 
-tbd
+Leonardo Barbierato ist ein äußerst intuitiver Komponist und Klangkünstler, der sich auf die Erforschung instabiler Systeme und der Klangwahrnehmung spezialisiert hat. Der Tonstoff dieser Aufnahme besteht aus sorgfältig ausgewählten Ausschnitten aus elektroakustischen Live-Improvisationen vor Ort - ursprünglich unter dem Titel "[in situ]" -, die zwischen 2023 und 2025 in unbeständigen Ökosystemen der realen Welt aufgeführt wurden, die sich inmitten ökologischer, sozialer oder akustischer Spannungen befanden. Eine herausfordernde, immersive Schnittstelle aus **Field Recordings**, Live-**Electronica**, elektroakustischer **Improvisation** und **Noise**-Kunst. Das Projekt verzichtet bewusst auf traditionelle Songstrukturen und nutzt Instrumente, um direkt mit zufälligen, ungewöhnlichen Umwelteinflüssen, architektonischem Verfall und akustischen Phänomenen zu interagieren. Wenn deine Gehirnzellen von den glatten, vorhersehbaren Hintergrundgeräuschen moderner Streaming-Popmusik völlig erschöpft sind, bietet "]ex(s)it(u)[" einen radikalen, bewusstseinserweiternden kognitiven Gaumenreiniger. Das Anhören dieser Platte gleicht einem blinden Streifzug durch eine verlassene, postindustrielle Betonwüste in der Abenddämmerung, während die lokalen Windmuster, zirpende Insekten und zufällige rostige Objekte langsam lernen, einen analogen Synthesizer zu kapern. Barbierato webt ein langsames, äußerst geduldiges Netz aus kratzigen Gitarrentexturen, pochenden Bassdrones und geisterhaften elektronischen Frequenzen, die direkt auf die sich verändernde Umgebung um ihn herum reagieren. Es vermeidet es gänzlich, auf traditionelle melodische Höhepunkte hinzuarbeiten, und lädt dich stattdessen dazu ein, vollkommen still auf dem Boden zu liegen und der verborgenen Reibung einer sich wandelnden Welt zu lauschen. Es ist ein wunderschönes, Gänsehaut erzeugendes und zutiefst faszinierendes Stück Klangarchitektur, das Umweltangst in hohe Kunst verwandelt.
 
-::genre::
+::genre::experimental electronica, ambient, field recordings, noise, improvisation
 
-## Liva - Ecce Mundus
+## Lonely Crowd - By The Time You Read This **
 
-tbd
+Nachdem die Band 2012 mit ihrem brillanten Album "The-Not-So-Great-Britain" erstmals die Aufmerksamkeit der Indie-Underground-Szene auf sich gezogen hatte, legte sie eine lange, mehrjährige kreative Pause ein. "By The Time You Read This" markiert ihr triumphales und mit Spannung erwartetes Comeback auf der internationalen Bühne nach einer vierzehnjährigen Album-Pause. Eine fesselnde, melancholische Mischung aus **Art-Rock**, **Psychedelic Rock**, **Pop-Rock** und **Indie-Folk**. Klanglich tauschen sie die üblichen Radio-Pop-Strukturen gegen gefühlvolles akustisches Fingerpicking, mehrstimmigen Gesang und üppige, ungewöhnliche Arrangements ein. "By The Time You Read This" anzuhören, fühlt sich genau so an, als würde man eine wunderschöne, verstaubte Kapsel voller alter Briefe öffnen, die man an sein Kindheits-Ich geschrieben und längst vergessen hatte. Dieses Album ist eine absolute Meisterklasse in langsam entflammender, wunderschöner Art-Rock-Melancholie, die sich alle Zeit der Welt nimmt, um weitläufige Klanglandschaften aufzubauen. Anstatt einen mit rasanten digitalen Schnitzereien zu überhäufen, setzt die Band auf geduldige, schimmernde Gitarrenklänge, zerbrechliche Melodien und plötzliche, gefühlvolle orchestrale Details, die einem das Herz schwer machen. Von der wunderschönen Erzählung in "Not on My Watch" bis zur tröstlichen Wärme von "So Tired of Waiting" wirkt es wie ein unglaublich reichhaltiger, filmischer Zufluchtsort vor dem lauten Hintergrundlärm des modernen Alltags. Es ist ein eindringliches, tief bewegendes und zeitloses Musikstück, das perfekt auf nächtliche Träumer zugeschnitten ist.
 
-::genre::
+::genre::prog pop, psych rock, art rock, indie folk, prog folk
 
-## Lock Up - Brethren Of The Pentagram
+## Lowcard De La Morte / Killseduction - Kill De La Morte Split
 
-tbd
+Beide Gruppen sind hoch angesehene Vorreiter der unabhängigen japanischen Street-Metal-Subkultur. Um ein definitives, rohes Klangbild einzufangen, das ihre chaotische Live-Energie widerspiegelt, haben sie sich zusammengetan und eine durchgängige, architektonisch anmutende Waffe mit elf Titeln geschaffen. Eine rasante, rasante Explosion aus **Crossover-Thrash-Metal** und **Hardcore-Punk**. Ihr gemeinsamer Entwurf knüpft direkt an die klassische, freche und aggressive Skate-Thrash-Energie von Pionieren wie *Suicidal Tendencies*, *Nuclear Assault* und den frühen *Napalm Death* an. Falls eure Lautsprecher in letzter Zeit noch keinen ordentlichen Schlag ins Gesicht abbekommen haben, ist die Kill De La Morte Split hier, um das mit einem mit Ledernägeln besetzten Baseballschläger zu beheben. Mit elf kurzen, scharfen und völlig durchgedrehten Tracks fühlt sich diese Platte an, als würde man mitten in einem wilden Circle Pit in einem Tokioter Kellerclub landen. Lowcard De La Morte eröffnet die Party mit urkomischen, rotzigen und halsbrecherischen Hymnen wie "Satan With The Pink Handle" und "Cock Rock Shock" und feuert dabei eine Salve messerscharfer Thrash-Riffs ab. Dann übernimmt Killseduction das Ruder und sprintet mit Lichtgeschwindigkeit davon - mit vulkanischen Blastbeats und kehlenschneidenden Gesangsausbrüchen auf Tracks wie "Social Dust". Es ist ein herrlich rohes, wunderschön aggressives und wunderschön asoziales Stück Crossover-Thrash, das maximale Lautstärke verlangt.
 
-::genre::
-
-## Lonely Crowd - By The Time You Read This
-
-tbd
-
-::genre::
-
-## Lowcard De La Morte/Killseduction - Kill De La Morte Split
-
-tbd
-
-::genre::
+::genre::crossover, thrash metal, hardcore punk
 
 ## Lufeh - Overwhelmed
 
-tbd
+Die Band, die sich um einen technisch präzisen Kern herum formiert hat, sorgte zunächst mit ihrem Debütalbum "Luggage Falling Down" aus dem Jahr 2020 für Aufsehen. Um ihre Klangpalette für dieses nächste Kapitel zu erweitern, holten sie die Gastmusikerin Ginny Luke mit ins Boot, die das Album durchgehend mit schwungvollen, theatralischen Violinenklängen und stimmlicher Dynamik bereichert. Das gesamte Produktionslayout wurde von dem renommierten Sounddesigner Adair Daufembach fachmännisch abgemischt und gemastert. Eine äußerst melodische, emotionale Mischung aus **Progressive Metal** und **Progressive Rock**. Klanglich verbinden sie scharfe, synkopierte Rhythmen und knackige, gitarrenlastige Klangwände mit hochfliegenden, klassisch-akustisch-elektrischen Klangschichten - inspiriert von modernem symphonischem Prog und komplexem Alternative Rock. "Overwhelmed" spielt sich genau wie eine hochoktanige, theatralische Space-Opera ab, die in deinen Kopfhörern abläuft, während deine Gehirnzellen versuchen, ungerade Taktarten zu verarbeiten. Das Album wirkt wie ein wunderschöner Seiltanz über ein Gewitter - es wirft nahtlos explosive, die Lautsprecher zum Beben bringende progressive Riffs direkt auf eine üppige, wunderschöne Matrix aus klassischen Violinen und hochfliegenden Refrains. Tracks wie "He Commands the Sun and Stars" und "War of Emotions" sind ein wahres Fest für Rhythmus-Nerds, vollgepackt mit hyperkinetischem Schlagzeugspiel und Tempowechseln, die dennoch irgendwie absolut eingängig bleiben. Es ist ein strahlendes, leidenschaftliches und wunderschön ausgefeiltes Epos, das dir das Gefühl geben soll, als würdest du ein Raketenschiff in eine Supernova steuern.
 
-::genre::
+::genre::prog rock, alt rock, prog metal
 
 ## Mad Iris - Mad Iris
 
