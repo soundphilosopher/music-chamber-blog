@@ -1060,12 +1060,6 @@ The Hands Free ist ein hochkarätiges Akustik-Quartett, bestehend aus der Pulitz
 
 ::genre::prog folk, chamber music, leftfield jazz, avant jazz
 
-## The Real McKenzies - On Yer Bike
-
-tbd
-
-::genre::
-
 ## The Scalar Process - Agnomysticism
 
 Die Band, die sich zu einem der beeindruckendsten Extreme-Metal-Exporte Frankreichs entwickelt hat, sorgte mit ihrem 2021 erschienenen Debütalbum "Coagulative Matter" für Aufsehen. Nach einer fünfjährigen, sorgfältig geplanten Studio-Pause kehrte die Band zurück und erweiterte für dieses Album ihr musikalisches Spektrum, indem sie hochkarätige Extreme-Metal-Gäste wie den Gitarristen Justin McKinney (The Zenith Passage, ex-The Faceless) und den Sänger Andy Thomas (Rivers of Nihil, Black Crown Initiate) mit ins Boot holte. Eine rasante, avantgardistische Fusion aus **Technical Death Metal** und **Progressive Metal**. Klanglich verbinden sie die zerklüftete, rhythmische Komplexität moderner Tech-Death-Architektur mit dem cineastischen, melodischen Schwung des Progressive Rock und erinnern dabei an die technische Brillanz von *Edge of Sanity* und *The Zenith Passage*. Wenn dein Gehirn eine gründliche Hochdruckreinigung braucht, ist "Agnomysticism" der industriell starke Feuerwehrschlauch, nach dem du gesucht hast. Das Album entfaltet sich wie ein ausuferndes Sci-Fi-Battle-Royale aus hyper-ruckartigen Rhythmusparts, vulkanischen Blastbeats und messerscharfen Gitarrenläufen, die an mathematische Zauberei grenzen. Doch gerade wenn man denkt, der Kopf würde einem davonfliegen, zaubert die Band brillante, der Schwerkraft trotzende Kunststücke - sie gleitet in ätherische, von Trip-Hop beeinflusste Zwischenspiele, eindringliche Akustikpassagen und majestätische Monologe mit klarem Gesang, die einem gerade genug Luft zum Atmen geben, bevor sie einen wieder in den metallischen Sog ziehen. Es ist eine atemberaubend gewalttätige, wunderschön ausgefeilte und umwerfend komplexe Achterbahnfahrt, die extremen Tech-Death wie hohe Kunst behandelt.
