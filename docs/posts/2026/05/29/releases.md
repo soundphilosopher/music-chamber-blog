@@ -718,329 +718,257 @@ tbd
 
 ::genre::
 
-## Lynch Mob - The Final Ride
-
-tbd
-
-::genre::
-
 ## Mad Iris - Mad Iris
 
-tbd
+Mad Iris, die seit 2023 als vierköpfige Band auftreten, wurden schnell zu einem unverzichtbaren Bestandteil der Underground-Live-Szene Torontos. Das Quartett besticht durch ein äußerst flexibles, demokratisches Live-Setup, bei dem die Mitglieder auf der Bühne häufig die Instrumente tauschen. Die Frontfrauen Kaiya Rosie und Ela Hinatsu teilen sich den Gesang über Patrick Muldoons verzerrten Gitarrenklängen und Josh Pryces dröhnenden Percussions. Eine wunderschön raue Mischung aus **Noise Rock**, **Grunge**, **Shoegaze** und **Indie-Alternative-Rock**. Sie lassen sich klanglich deutlich von den Garagen-Pionieren der 1990er Jahre wie *Sonic Youth*, *Swirlies*, *Pixies* und den *Breeders* inspirieren. Das Anhören des selbstbetitelten Debüts von Mad Iris fühlt sich genau so an, als würde man spätnachts in einen Stadtbus steigen und dabei eine Packung billigen Kaugummis mit seinem liebsten, leicht theatralischen Freund teilen. Die 7-Track-Platte spielt sich wie eine wunderschön schlampige, durch Tonbandverzerrungen geprägte 90er-Jahre-Garage-Collage, in der freche Gesangsschreie nahtlos mit gedämpften, melancholischen Seufzern kollidieren. Textlich behandelt sie chaotische menschliche Schwächen - wie Kleinlichkeit, romantische Besessenheit und überwältigendes Selbstmitleid - mit ultimativem Charme und hüllt sie in riesige Wellen aus verzerrtem Gitarren-Feedback und Basslinien, die mit absoluter Leichtigkeit emporklettern. Es ist eine Meisterklasse darin, Spannung aufzubauen, bis die Wellenform schreit, und bietet einen tröstlichen und doch brillant chaotischen Soundtrack für alle, die die ungeschliffene Wärme einer abgenutzten VHS-Kassette vermissen.
 
-::genre::
-
-## Madsen - Smile
-
-tbd
-
-::genre::
+::genre::indie rock, alt rock, noise rock, post grunge, shoegaze, grungegaze
 
 ## Maladie - The Dance Of Tragedies
 
-tbd
+Das von Mastermind Björn Köppler gegründete Multi-Instrumental-Kollektiv trotzt seit Jahren der Mainstream-Logik. Sie haben ein umfangreiches, dichtes Werk an von der Kritik gefeierten, konzeptionellen Alben geschaffen . wie beispielsweise ihre Symptoms-Albumreihe. "The Dance Of Tragedies" ist ein zusammenhängendes, fließendes Studioalbum, das darauf ausgelegt ist, ihren charakteristischen, kalkulierten Wahnsinn zu präsentieren. Eine hochkomplexe, experimentelle Form des **Avantgarde-Black-Metal**, die die Band offiziell als Plague Metal bezeichnet. Ihre Klangarchitektur lässt sich nicht leicht in Schubladen stecken und verbindet progressive Rockmuster, die technische Komplexität des Extreme Metal und mitreißende Jazz-Arrangements. "The Dance Of Tragedies" anzuhören ist genau so, als würde man um Mitternacht in ein dunkles, prächtiges Opernhaus einbrechen, nur um festzustellen, dass die Hausband eine manische Gruppe von Black-Metal-Musikern ist, die sich die Bühne mit einem rebellischen Avantgarde-Jazz-Saxophonisten teilt. Dieses Album ist völlig wild und unverschämt anspruchsvoll und reiht Blast-Beat-Stürme, beunruhigende Spoken-Word-Poesie und unheimliche Ambient-Intervalle aneinander. Tracks wie "Behind All Suns" überraschen mit knackigen, klaren Progressive-Rock-Grooves, kurz bevor Hauke Peters' rasende, hypnotische Saxophonlinien außer Kontrolle geraten und deine Erwartungen völlig durcheinander bringen. Es ist ein intensives, wunderschön groteskes Theaterstück für deine Ohren, das Chaos wie eine Kunstform behandelt.
 
-::genre::
-
-## Malebeste - Monestherou
-
-tbd
-
-::genre::
-
-## Malummeh - Malummeh
-
-tbd
-
-::genre::
+::genre::avant black metal, post black metal, prog metal
 
 ## Mandy Manala - Something Wicked
 
-tbd
+Die Band wurde 2021 von Veteranen der lokalen Szene gegründet, die auf über zwei Jahrzehnte Erfahrung zurückblicken können. Ihr Name ist eine Mischung aus der Abstammung der Großmutter und dem finnischen Wort für die Unterwelt (Manala). Angeführt von der bezaubernden Stimme der Frontfrau Christa Nedergård eroberten sie die Szene mit ihrem selbstbetitelten Debütalbum aus dem Jahr 2025. "Something Wicked" ist ihr mit Spannung erwartetes zweites Studioalbum, das sich in deutlich härtere Gefilde vorwagt. Ein cineastischer, düsterer Mix aus **Dark Heavy Rock**, **Stoner Rock** und **Occult Rock**. Sie verbinden vernichtende, fuzzgetränkte Stoner-Grooves mit gotischen Atmosphären und lassen sich dabei strukturell von der dunklen Theatralik von *Ghost*, der schweren Vintage-Rauheit von *Black Sabbath* und der melodischen, mystischen Pop-Sensibilität von *Fleetwood Mac* inspirieren. Getreu seinem Titel fühlt sich "Something Wicked" genau so an, als würde man in ein elegantes, nächtliches Hexenzirkel-Ritual in einer von Kerzen beleuchteten Waldkapelle hineinstürzen. Das Album ist eine absolute Meisterklasse in schwerer, rauchgefüllter Atmosphäre - es balanciert mühelos knochenerschütternde Stoner-Riffs mit wunderschöner, langsam aufbauender Spannung und hypnotischen Rhythmen, die einen direkt an der Brust packen. Nedergårds spektakulärer, geisterhafter Gesang gleitet mit magnetischer Anmut über Tracks wie "Nocturnal Bites" und "Shoebox" und lässt Themen wie dunkles Verlangen, Mystik und emotionale Zerbrechlichkeit absolut berauschend klingen. Es ist ein stimmungsvoller, filmischer und wunderschön düsterer Rock'n'Roll-Trip, der perfekt ist, um nach Mitternacht eine unbeleuchtete Autobahn entlangzufahren.
 
-::genre::
+::genre::heavy rock, stoner rock, occult rock
 
 ## Masquerage - Atomic Spies
 
-tbd
+Die Band, die ursprünglich 1998 unter dem Namen *The Unchained* gegründet wurde, firmiert seit 2000 offiziell unter dem Namen Masquerage. Unter der Leitung des erfahrenen Bandleaders, Produzenten und Multi-Instrumentalisten Kimmo Perämäki (bekannt für seine Arbeit mit Spiritus Mortis und Spellwitch) ist die Gruppe seit Jahrzehnten eine feste Größe in der Underground-Szene. "Atomic Spies" ist ihr mit Spannung erwartetes sechstes Studioalbum, mit dem sie eine achtjährige Schaffenspause beenden. Eine äußerst melodische Mischung aus **Melodic Metal**, **Heavy Metal**, **Power Metal** und 80er-Jahre-**AOR**. Ihr charakteristischer Sound verbindet treibende, im NWOBHM-Stil gehaltene Twin-Gitarren-Riffs mit Keyboard-Texturen, schwungvollen Soli und eingängigen Refrains, die an den europäischen Melodic Metal der späten 90er Jahre erinnern. "Atomic Spies" wirkt wie das Aufspüren einer verlorenen Kassette von einem europäischen Metal-Festival der späten 90er Jahre und das Aufdrehen der Lautstärke, bis die Lautsprecher rauchen. Das Album verzichtet auf modernen digitalen Studioglanz und setzt stattdessen auf einen authentischen, mittelschnellen Hard-Rock-Metal-Rhythmus, der sich auf große, helle melodische Hooks und hochfliegende Gitarrensoli stützt. Tracks wie "In The Vault" und "The Devil To Pay" setzen direkt auf dramatisches Storytelling und balancieren knirschende Rhythmusparts mit eingängigen, mitreißenden Refrains aus, die im Kopf hängen bleiben. Es ist eine herrlich retro-nostalgische und unendlich unterhaltsame Reise für alle, die sich eine Battle-Weste überziehen und zu epischen Metal-Geschichten mitsingen wollen.
 
-::genre::
+::genre::melo metal, heavy metal, power metal, arena rock
 
 ## Meltification - Meltification
 
-tbd
+Meltification ist ein Studio-Duo unter der Leitung des bildenden Künstlers und Musikers Tue Sprogø, der vor allem für seine Arbeit in der Hardcore-Punk-Band Death Token bekannt ist. Um die präzise, unerbittliche Dynamik des Projekts einzufangen, hat Sprogø alle Gitarren-, Bass- und Gesangsparts selbst eingespielt und den kraftvollen Schlagzeuger Thomas Rindom (ehemals bei der Brutal-Death-Metal-Band Imperious Mortality) engagiert, um den Rhythmus zu sichern. Eine rasante, hochgeschwindigkeitsgeladene Fusion aus Old-School-**Grindcore** und **Deathgrind**. Ihr architektonischer Entwurf greift auf die riffgeladenen, unternehmensfeindlichen Grundlagen des klassischen Metalpunk-verfestigten Death Metals zurück und meidet sterile moderne Trends zugunsten puren klanglichen Verfalls. Wenn ihr einen klanglichen Hintergrund für eine buchstäbliche Apokalypse der Unternehmenswüste oder einen Zusammenbruch des Wirtschaftssystems braucht, hat das selbstbetitelte Debüt von Meltification den passenden Soundtrack parat. Das Album verhält sich wie ein unerbittlicher, knallharter Fleischwolf, der sich mit nichts als authentischen, rostbedeckten Metalpunk-Riffs und vulkanischen Drums fröhlich durch den korporativen Hirnverfall schneidet. Sprogø und Rindom liefern eine absolute Meisterklasse in kathartischem Chaos und feuern eine wütende Salve aus halsbrecherischen Blastbeats und kehlenschneidenden Grunts ab, die sich völlig entfesselt anfühlen. Es ist ein rohes, brillant kalkuliertes und köstlich verfaultes Stück Grindcore-Geschichte, das danach verlangt, bei maximaler Lautstärke abgefeuert zu werden.
 
-::genre::
+::genre::grindcore, deathgrind
 
 ## Melting - A Pathetic Excuse For A Life
 
-tbd
+"A Pathetic Excuse For A Life" ist die mit Spannung erwartete zweite Studio-EP der Band, die sich in der hart umkämpften australischen Heavy-Szene rasch einen Namen gemacht hat. Sie folgt auf ihr vielbeachtetes Debüt "You Only Exist Because We Allow You To" aus dem Jahr 2025. Ein knochenbrecherisch harter Mix aus **atmosphärischem Metalcore** und **Metallic Hardcore**. Ihr Sound wechselt von lautem, feedbackgeladenem Chaos zu pechschwarzen, quälenden Grooves, wobei sie sich an dunklen, modernen Metalcore-Größen orientieren und gleichzeitig unheimliche, langsam brennende Elemente des Funeral Doom einfließen lassen. "A Pathetic Excuse For A Life" spielt sich genau wie ein in Klang übersetztes Demolition Derby. Mit einer intensiven Laufzeit von nur 14 Minuten verschwendet die EP keine Zeit mit höflichen Einleitungen, sondern startet gewaltsam mit einem regelrechten Verprügelungsmarathon aus kettensägenartigen Gitarren, brüllenden Vokalschreien und perfekt getimten Two-Step-Abschnitten. Gerade wenn man glaubt, in Sicherheit zu sein, führt die Band tiefgestimmte Sprechgesänge und völlig unerwartete, Gänsehaut verursachende Pianoklänge ein, die die Musik in einen pechschwarzen, theatralischen Sumpf der Verzweiflung ziehen. Es ist ein brillanter, hyperaggressiver und wunderschön ausgereifter Metal-Schlag ins Gesicht, der einen völlig atemlos zurücklässt.
 
-::genre::
+::genre::metallic hardcore, modern metalcore, atmo metal
 
 ## Monolord - Neverending
 
-tbd
+Seit weit über einem Jahrzehnt zählt das Trio – bestehend aus dem Gitarristen und Sänger Thomas Jäger, dem Bassisten Mika Häkki und dem Schlagzeuger Esben Willems - zu den zuverlässigsten und beliebtesten Größen der internationalen Heavy-Metal-Szene. "Neverending" ist ihr beeindruckendes sechstes Studioalbum, das nach einem lockeren, entspannten Aufnahmestay im Massy’s Studio in Ashland, Oregon, entstanden ist. Eine kolossale, kraterbildende Mischung aus **Doom Metal** und **Stoner Rock**. Sie schöpfen massive strukturelle Blaupausen aus der fuzzgetränkten, repetitiven Riff-Hypnose von *Black Sabbath*, *Electric Wizard* und *Sleep*. Falls deine Lautsprecher in letzter Zeit nicht gründlich auf die Probe gestellt wurden, ist "Neverending" hier, um sie mit der Wucht eines regelrechten Vorschlaghammers zu treffen. Das Album ist eine atemberaubende, stadiongroße Meisterklasse in schwerfälligen, heruntergestimmten Grooves, die schwer genug sind, um die Dielen unter deinen Füßen zu verziehen. Monolord schafft es, eine brillante Menge eingängiger Hooks und überraschend persönlicher Lyrik direkt in ihre massive Rüstung aus Verzerrung zu injizieren und so düstere existenzielle Themen zu absoluten Hymnen zu erheben. Jägers sanfte, dröhnende Gesangsmelodien schweben wie eine Warnsirene darüber, bis hin zum abschließenden Titeltrack, in dem sie dank Entombed-Veteran Jörgen Sandström eine verheerende, kehlenschneidende Death-Metal-Growl-Überraschung entfesseln. Es ist eine wilde, süchtig machende und vollkommen monolithische Metal-Fahrt, die maximale Lautstärke verlangt.
 
-::genre::
+::genre::doom metal, stoner rock
 
 ## Morgan Evans-Weiler & J.P.A. Falzone - Grid and Gradient
 
-tbd
+Der Geiger Morgan Evans-Weiler und der Pianist und Komponist J.P.A. Falzone arbeiten seit einem Jahrzehnt gemeinsam an akustischen Langformkompositionen. Beide sind etablierte Größen der europäischen und amerikanischen Improvisationsszene und genießen hohes Ansehen für ihre Arbeit mit dem renommierten experimentellen Kammermusikkollektiv *Ordinary Affects*. Sie sind tief verwurzelt in der **modernen Klassik**, im **Minimalismus**, im **Ambient Drone** und im **avantgardistischen Experimentalismus**. Ihre Ästhetik schöpft strukturelle Vorlagen aus der Langzeit-Performancekunst, spektralem akustischem Verhalten und weitläufigen mathematischen Kompositionen. "Grid and Gradient" wirkt wie ein tiefer, therapeutischer kognitiver Reset-Knopf für ein Gehirn, das vom lauten Hintergrundlärm des modernen Alltags überreizt ist. Es anzuhören fühlt sich an, als säße man vollkommen still in einer makellosen, sonnenüberfluteten Kunstgalerie aus Beton, während sich die physikalischen Gesetze der Zeit sanft bis zum Stillstand verlangsamen. Anstatt zu versuchen, die Aufmerksamkeit mit auffälligen, dramatischen Höhepunkten zu erregen, setzt das Duo auf äußerst geduldige Violinenklänge und spärliche, klingende Pianotöne, die wie Geister durch den Raum schweben. Es entwirft eine architektonische Welt, in der Stille genauso wichtig ist wie die gespielten Noten. Es ist eine atemberaubende, zutiefst beruhigende und texturreiche Klanglandschaft, die perfekt auf jeden zugeschnitten ist, der sich auf den Wohnzimmerboden legen und einfach nur atmen muss.
 
-::genre::
+::genre::modern classic, ambient, drone, avant electronica
 
 ## Moses Yoofee Trio - CHASING LIGHT
 
-tbd
+Die Gruppe, bestehend aus dem Pianisten Moses Yoofee, dem Bassisten Roman Klobe und dem Schlagzeuger Noah Fürbringer, hat sich rasch zu einer der beeindruckendsten Live-Bands Europas entwickelt und nach ihrem gefeierten Debütalbum "MYT" aus dem Jahr 2025 den renommierten Deutschen Jazzpreis gewonnen. Eine bewusstseinserweiternde, virtuose Mischung aus **Neo-Jazz**, **Hip-Hop**-Instrumentals, **Afrobeat** und **R&B**. Ihr Stil speist sich direkt aus den fließenden, rhythmischen Improvisationen moderner Jazz-Ikonen, gepaart mit den tiefen Grooves des Hip-Hop im Stil von J Dilla. "CHASING LIGHT" zu hören fühlt sich an, als säße man mitten in einer verrauchten, nächtlichen Jazz-Lounge, in der die Musiker auf subtile Weise einen Weg gefunden haben, die Gesetze der Zeit zu beugen. Die EP ist eine Meisterklasse in musikalischer Chemie, in der die drei Musiker Melodien mit einer atemberaubenden, fast gedankenlesenden Präzision hin und her werfen. Die Tracks verwandeln sich mühelos von trägen, zum Mitwippen einladenden Hip-Hop-Swagger in hektische, Breakbeat-getriebene House-Rhythmen und fesseln einen vollkommen, ohne dass auch nur eine einzige Gesangslinie nötig wäre. Es schafft eine perfekte Balance zwischen Momenten üppiger, streichergeladener Ruhe und plötzlichen, explosiven Ausbrüchen von Synthesizern und synkopiertem Schlagzeugspiel, die sich unglaublich lebendig anfühlen. Es ist eine mitreißende, brillante und zutiefst atmosphärische Reise, die perfekt auf eine nächtliche Fahrt durch die Stadt zugeschnitten ist.
 
-::genre::
+::genre::neo jazz, neo soul, afrobeat, alt r&b, hip hop
 
 ## Muell - Arbeit
 
-tbd
+Das Duo, das unter dem Namen MUELL aus purer Basis-Adrenalin-Energie heraus agiert, hat sich mit intensiven, unberechenbaren Auftritten in Berliner Underground-Locations wie dem Kotti Shop und der Neuen Zukunft einen Namen gemacht. In den letzten Jahren haben sie gemeinsam mit zeitgenössischen Noise-Acts die lokalen DIY-Subkulturen aufgemischt. Ein chaotischer, rasender Mix aus DIY-**Hardcore-Punk** und **Powerviolence**. Ihr Klangbild greift rohe, kompromisslose strukturelle Elemente aus dem europäischen Street-Punk der 1980er Jahre, Fastcore und rotzigem, verzerrungsgetränktem Garage-Metal auf. "Arbeit" fühlt sich genau so an, als würde man seinen Wecker in einen dröhnenden Industriemixer werfen und den daraus resultierenden Lärm als Blaupause nutzen, um seinen Job zu kündigen. Die EP ist ein kurzer, scharfer Schock roher Wut, der rotzige antikapitalistische Themen in halsbrecherische Tracks packt, die mit der Geschwindigkeit eines Espressos einschlagen. Die Gitarren summen wie ein Schwarm wütender Hornissen durch ein Paar absichtlich kaputter Verstärker, während das Schlagzeug höfliche Rhythmen gegen ein ununterbrochenes Maschinengewehrfeuer aus Blastbeats eintauscht. Es ist eine wunderbar dreckige, aggressive und schweißgetränkte Punk-Achterbahn, die speziell für alle gebaut wurde, die die Monotonie des Unternehmensalltags niederreißen und einen Moshpit im Keller zertrümmern wollen.
 
-::genre::
+::genre::hardcore punk, powerviolence, crust
 
 ## Mull Historical Society - In My Mind There’s A Photograph
 
-tbd
+MacIntyre, der seit dem Jahr 2000 als beliebter Eckpfeiler der schottischen Indie-Musik gilt, ist ein hochgelobter Songwriter und Romanautor. "In My Mind There's A Photograph" ist der zweite Teil einer brillanten, fortlaufenden kreativen Albumreihe. Für dieses Album arbeitete MacIntyre direkt mit 12 weltweit führenden Autoren zusammen - darunter Pulitzer-, Booker- und Women's-Prize-Preisträger wie Irvine Welsh, Ali Smith und Paul Lynch - und bat jeden von ihnen, einen Text beizusteuern, der auf einem einzigen Foto basiert, das für ihn von monumentaler persönlicher Bedeutung ist. Eine exquisite, bittersüße Mischung aus **Chamber Pop**, **Indie Pop** und schottischem **Folk Rock**. Das Projekt besticht durch melodische Gitarrenklänge, reichhaltige Arrangements und einen warmen, unverwechselbaren Gesangsstil der Hebriden, unterlegt mit treibenden Pop-Rhythmen. "In My Mind There's A Photograph" fühlt sich genau so an, als würde man einen gemütlichen, regnerischen Nachmittag in einem Cottage auf den Hebriden verbringen, durch eine staubige Schachtel mit Polaroids von Fremden blättern und darin sein eigenes Herz wiederfinden. MacIntyre vollführt einen unglaublichen künstlerischen Balanceakt, indem er zutiefst literarische, emotionale Texte von einer riesigen, weltweiten Riege von Autoren nimmt und sie mit mitreißenden, erhebenden Pop-Rock-Melodien verschmilzt. Die Songs fungieren als intime Fenster in verschiedene Lebenswelten - mit Erinnerungen, die von Gaza und New York bis nach Botswana und Glasgow reichen - und enthüllen tiefgründige Themen wie Hoffnung, Trauma, Altern und Kindheit. Es ist ein großartiger, intensiv bewegender und wunderschön produzierter erzählerischer Triumph, der einem noch lange nachklingt, nachdem die letzte Note verklungen ist.
 
-::genre::
+::genre::chamber pop, indie pop, folk rock
 
 ## Mzztr - Pronounced Mis-Ter
 
-tbd
+MZZTR treten als geheimnisvolle, maskierte Horde in Erscheinung und setzen auf gezieltes Chaos, theatralisches Spektakel und pure Absurdität. Ihre Live-Sets wirken wie unberechenbare Noise-Art-Rituale, die der Heavy-Metal-Szene wieder rohe Showmanship und Glam-Camp einhauchen. Eine explosive, theatralische Mischung aus **Alternative Metal**, **Nu-Metal**, **Shock Rock** und **Progressive Metal**. Ihr genreübergreifender Entwurf verbindet aggressive, knackige Gitarren und rotzige Punk-Energie mit komplexen Taktarten, Thrash-Beats und einem überraschenden Schuss Oper. "Pronounced Mis-Ter" ist eine fünf-Track-Apokalypse-Party, die sich genau wie eine perfekt gelungene Halluzination anfühlt. MZZTR streift höfliche, überproduzierte moderne Metal-Formeln ab und ersetzt sie durch einen wilden, Grenzen sprengenden Cocktail aus Blut, Spucke und purer theatralischer Verrücktheit. Von den Lautsprecher-erschütternden Hymnen von "Silence Won’t Protect You" bis zum rasenden, halsbrecherischen Thrasher "Olivegarchy-Feverdream" ist die Musik ein ununterbrochener, hyperaktiver Schlagabtausch aus schweren Riffs und roher Attitüde. Sie schafft es, gleichzeitig echt heavy, zutiefst schräg und zum Totlachen komisch zu sein.
 
-::genre::
+::genre::nu metal, alt metal, prog metal
 
 ## Narnia - X
 
-tbd
+Narnia wurde 1996 von Sänger Christian Liljegren und dem Gitarrenvirtuosen CJ Grimmark gegründet und zählt zu den beständigsten und angesehensten Vertretern des Melodic Metal in Skandinavien. Das passend mit "X" betitelte, monumentale Album ist das zehnte Studioalbum der Band und erscheint pünktlich als krönender Abschluss der Feierlichkeiten zu ihrem 30-jährigen Jubiläum auf der internationalen Bühne. Das Album wurde von CJ Grimmark selbst im The Lighthouse Studio in Norwegen produziert und abgemischt. Eine majestätische, stadiontaugliche Mischung aus **Melodic Metal**, **Power Metal** und **Progressive Metal** mit einer charakteristischen, von christlichen Werten und Glauben geprägten lyrischen Grundlage. Ihr charakteristischer Sound stützt sich stark auf schwebende Gesangsharmonien, neoklassische Gitarrenläufe und mitreißende melodische Hooks, die an die klassische Architektur des europäischen Power Metal erinnern. Narnia bläst dreißig Kerzen auf ihrer Jubiläumstorte aus und nutzt die Funken sofort, um einen regelrechten Feuersturm aus majestätischem, arena-tauglichem Metal zu entfachen. "X" ist eine Meisterklasse in triumphaler, wohlfühlender Härte, die düstere oder deprimierende Klischees komplett überspringt und stattdessen auf hochfliegende Refrains und komplexe, der Schwerkraft trotzende Gitarrenkunst setzt. Christian Liljegrens unverwechselbare Stimme verankert die symphonische Kraft mit unglaublicher Wucht, während die Band die Dinge herrlich frisch hält, indem sie den Gesangspart in ausgewählten Strophen an andere Mitglieder übergibt. Vom halsbrecherischen Speed-Metal-Blitz von "Remedy (SOS)" bis hin zur massiven, langsam entflammenden epischen Erzählung von "The Man From Nazareth Pt. II" ist jeder einzelne Track so konzipiert, dass er dir tagelang im Kopf bleibt. Es ist eine strahlende, leidenschaftliche und brillant produzierte Feier des Glaubens und des musikalischen Erbes, die jeden Fan des klassischen melodischen Metals von Ohr zu Ohr strahlen lässt.
 
-::genre::
+::genre::melo metal, power metal, prog metal
 
-## Necrobeast - Iron Baphomet
+## Nidelgret - Trauerlärm
 
-tbd
+Nidelgret wurde Anfang 2024 von ehemaligen Mitgliedern der antifaschistischen Black-Metal-Band Gravpel gegründet. Der Name der Band leitet sich von einer alten Schweizer Alpenlegende über ein gieriges Wesen ab, das in den Bergen haust. Ein roher, äußerst eigenständiger **Post-Black-Metal**. Die Gruppe meidet bewusst standardisierte dogmatische Formeln und lehnt übermäßig ausgefeilte melodische, symphonische oder traditionelle atmosphärische Black-Metal-Klischees gänzlich ab. Stattdessen schmieden sie einen reduzierten, aggressiven Sound, der stark von Punk, Hardcore, klassischer Architektur und subtiler experimenteller Elektronik beeinflusst ist. Getreu seiner wörtlichen Übersetzung fühlt sich "Trauerlärm" genau so an, als würde man mit dem Gesicht voran durch ein zerklüftetes Feld gefrorener Brombeersträucher in den Schweizer Alpen geschleift. Dieses Debütalbum wirft das Regelwerk des höflichen Metal über Bord und ersetzt den sicheren Studio-Glanz durch einen absoluten Wirbelwind aus rohen, kratzenden Gitarren, atemlosen Hardcore-Punk-Tempos und kreischendem Gesangs-Chaos. Dennoch verankert Nidelgret diese klangliche Gewalt auf wunderschöne Weise mit einer Unterströmung echter emotionaler Tiefe, wodurch sich die Songs weniger wie sinnloses Rauschen anfühlen, sondern eher wie ein theatralischer, kathartischer Exorzismus. Es ist ein gnadenloser, zutiefst unangenehmer und wunderbar entfesselter Post-Black-Metal-Sturm, der speziell darauf ausgelegt ist, dich aus deiner Komfortzone zu reißen.
 
-::genre::
+::genre::post black metal, atmo black metal
 
-## Neil Young and the Chrome Hearts - as time explodes
+## On Borrowed Time - In The Dark Before The Dawn **
 
-tbd
+Die Band hat seit 2018 in der britischen Underground-Szene an ihrem Sound gefeilt. Die fünfköpfige Gruppe besteht aus erfahrenen lokalen Musikern, darunter Frontmann James Leatherbarrow (ehemals Death Of An Artist), Leadgitarrist Damien Carter (ehemals Fort Vallance) und Schlagzeuger James Davies (ehemals Rapids!). Ein strahlender, frecher und kraftvoller Mix aus **Melodic Hardcore** und **Post-Hardcore**. Ihr Stil stützt sich auf eine Grundlage aus schneller Skate-Punk-Geschwindigkeit und Old-School-Hardcore. Klanglich lassen sie sich strukturell von Vorzeigebands wie *Have Heart*, *Defeater*, *Bane* und *Comeback Kid* inspirieren. "In The Dark Before The Dawn" trifft einen wie ein Eimer kaltes Wasser an einem verschlafenen Morgen und fordert sofort die volle Aufmerksamkeit. Das Album entfaltet eine unglaubliche Menge an kinetischer, mitreißender Energie - es springt geschmeidig von schweren, kantigen Two-Step-Beats zu dröhnenden, explosiven Shouts im Gang-Style. Tracks wie "Burden" fangen das Gefühl von anhaltendem Druck und dem hartnäckigen Streben nach persönlichem Wachstum perfekt ein. Das Album umgeht den überproduzierten Glanz des modernen Radios komplett und liefert stattdessen pure, kraftvolle emotionale Entladung. Es ist eine aufregende, schweißgetränkte Achterbahnfahrt für alle, die ihre Musik laut, eindringlich und voller ungefilterter Seele lieben.
 
-::genre::
-
-## Nidelgret - Traüerlarm
-
-tbd
-
-::genre::
-
-## OK Kid - Komm, wir bleiben stehen
-
-tbd
-
-::genre::
-
-## On Borrowed Time - In The Dark Before The Dawn
-
-tbd
-
-::genre::
+::genre::melo hardcore, post hardcore
 
 ## Opal Mag - Goodbye Lavender
 
-tbd
+Als brandneues kreatives Projekt einer aufstrebenden Singer-Songwriterin hat Opal Mag das vergangene Jahr damit verbracht, einen zutiefst intimen, gitarrenlastigen Sound zu verfeinern. Um ihr definitives Debütalbum aufzunehmen, begab sie sich in die Bam Bam Studios in Norfolk, um das Material gemeinsam mit dem renommierten Produzenten Harry Jordan aufzunehmen. Eine wunderschöne, nostalgische Mischung aus 90er-Jahre-**Indie-Rock**, **Dream Pop** und **Shoegaze**. Ihr musikalischer Stil ist stark von den verträumten, texturreichen Klängen und dem Schimmer von Legenden wie *Mazzy Star*, *The Sundays*, *The Breeders* und den frühen *Smashing Pumpkins* geprägt. "Goodbye Lavender" zu hören fühlt sich genau so an, als säße man um drei Uhr morgens auf dem Boden eines schummrig beleuchteten Schlafzimmers und würde bei einem Glas billigem Wein jemandem tiefe Geheimnisse anvertrauen, während ein verzerrter Gitarrenklang leise durch den Raum hallt. Opal Mag verbindet eine wunderbar ungezwungene, unverblümte lyrische Verletzlichkeit mit weitläufigen, atmosphärischen Gitarrentexturen, die sich zugleich schmerzhaft traurig und wunderschön warm anfühlen. In Stücken wie "Try Not To Hate Everything" und "World End" meistert die Musik die heikle, chaotische Aufgabe des Erwachsenwerdens perfekt, ohne jemals aufgesetzt oder übertrieben glatt zu wirken. Sie schafft einen Ausgleich zwischen sanfter, schläfriger Schlafzimmerintimität und plötzlichen, tosenden Ausbrüchen authentischer 90er-Jahre-Rock-Refrains und erschafft so einen atemberaubend beruhigenden, filmischen Soundtrack, der perfekt auf lebenslange Träumer und Nachtschwärmer zugeschnitten ist.
 
-::genre::
-
-## Orphan Donor - Ailments
-
-tbd
-
-::genre::
+::genre::indie rock, dreampop, shoegaze
 
 ## Paul McCartney - The Boys of Dungeon Lane
 
-tbd
+Als ehemaliges Mitglied der Beatles und von Wings ist McCartney ein unbestrittener Wegbereiter der modernen Popkultur. "The Boys of Dungeon Lane" ist sein monumentales 18. Solo-Studioalbum. Um dieses besondere Material einzufangen, arbeitete er über einen Zeitraum von fünf Jahren hinweg in lockeren, entspannten Studio-Sessions mit dem mehrfach mit Platin ausgezeichneten Produzenten Andrew Watt zusammen. Eine jugendlich energiegeladene, breit gefächerte Mischung aus **Alternative Rock**, Beatles-ähnlichem **Pop-Rock**, Stadionhymnen im Wings-Stil und intimem britischem **Folk**. Mit 83 Jahren hat Paul McCartney absolut kein Interesse daran, einen Gang zurückzuschalten oder still und leise in den Hintergrund zu treten. "The Boys of Dungeon Lane" ist eine spektakuläre, staunende Zeitmaschine zurück in die Nachkriegsstraßen von Liverpool, geschrieben mit einer atemberaubenden Wärme, roher Ehrlichkeit und ungezügeltem Rock'n'Roll-Geist. Anstatt sich in einen sirupartigen, langsamen akustischen Trauermarsch zu flüchten, spielt Paul fast jedes einzelne Instrument selbst und lässt verzerrte Gitarren schreien und Basslinien mit unglaublicher, jugendlicher Energie hüpfen. Das absolute Kronjuwel des Albums ist "Home to Us" - ein wunderschön sentimentales, mitreißendes Duett mit seinem alten Partner Ringo Starr, das ihrer unspektakulären Heimatstadt mit größtem Stolz huldigt. Es ist ein eindringliches, unglaublich berührendes und brillant eingängiges Meisterwerk, das beweist, dass Macca im Herzen immer noch ein wilder Mann ist.
 
-::genre::
-
-## Penelope Trappes - Opvs Novum: A Requiem Reworked
-
-tbd
-
-::genre::
+::genre::beat, alt rock, pop rock, prog pop, alt folk
 
 ## Pharmacist - Vertebrae After Vertebrae
 
-tbd
+Nachdem das Duo 2022 mit seinem gefeierten Album "Flourishing Extremities" auf Unspoiled Mental Grounds erstmals für Aufsehen in der Metal-Underground-Szene gesorgt hatte, brach es sein mehrjähriges Schweigen, um dieses Projekt zu veröffentlichen. Um ihre gewaltige, knochenbrechende Präzision einzufangen, nahmen sie das Album vor Ort im VoidLab in Tokio auf, mischten es dort ab und masterten es. Eine vernichtende, chirurgisch präzise Fusion aus **Goregrind** und **Melodic Death Metal**. Sie schöpfen ihre architektonischen Blaupausen aus den frühen Pionieren des Extreme Metal mit medizinischen Themen - vor allem aus den Soundscapes der goldenen Ära von *Carcass* -, während sie klassische Thrash- und Death-Metal-Hooks von Acts wie *Kreator* und *Death* einflechten. "Vertebrae After Vertebrae" ist ein spektakulär ekelhafter, knochenzerreißender Meisterwerk, das die Leichenhalle wie ein progressives Theater mit hohem Einsatz behandelt. Die Band verzichtet auf kurze, repetitive Grind-Noise-Passagen und wagt es, ihre Tracks zu massiven, vielschichtigen Epen auszudehnen, die auf irgendeine Weise stinkende, die Eingeweide reinigende Deathgrind-Slams mit schockierend schönen, hochfliegenden Gitarrensoli in Einklang bringen. Es fühlt sich an, als würde man einem verrückten Wissenschaftler dabei zusehen, wie er genüsslich eine Autopsie durchführt, während im Hintergrund Old-School-Thrash-Riffs dröhnen. Umhüllt von einem wunderbar surrealen, Gänsehaut verursachenden Cover von Adam Medford ist es eine gnadenlos schwere, komplex strukturierte und absurd unterhaltsame Fahrt, die einem genau wie der Titel verspricht unter die Haut geht.
 
-::genre::
+::genre::goregrind, melo death metal, death metal
 
 ## Poise - Iron Foot
 
-tbd
+Poise haben sich in den letzten Jahren mit kompakten, intensiven Veröffentlichungen wie ihrer selbstbetitelten EP aus dem Jahr 2025 und der Single "Toxic Pi$$" einen Ruf als aggressive Band erarbeitet. Sie haben einen schnellen, kompromisslosen DIY-Stil entwickelt, der für explosive Kellerkonzerte und unmittelbare klangliche Wirkung konzipiert ist. Eine rasante, hochgeschwindigkeitsgeladene Explosion aus **Hardcore-Punk** und **D-Beat**. Ihr Sound basiert auf halsbrecherischen Tempi, aggressivem Gitarrenlärm und einem unerbittlichen rhythmischen Angriff, der stark von traditionellen, rohen Underground-Punk-Vorlagen beeinflusst ist. Wenn deine Gehirnzellen nach einem kurzen, scharfen Adrenalinstoß schreien, verhält sich Iron Foot genau wie ein außer Kontrolle geratener Güterzug, der direkt in eine Betonbarriere kracht. Mit einer wunderbar schlanken, rotzigen und erschöpfenden Spielzeit von neun Minuten, verteilt auf sechs explosive Tracks, lässt diese EP absolut keinen Raum für Füllmaterial oder höfliche Einleitungen. Die Gitarren summen wie ein Schwarm wütender Hornissen durch einen durchgebrannten Verstärker, während das Maschinengewehr-Drumming ein halsbrecherisches Tempo erzwingt, das dich sofort dazu bringt, in einen verschwitzten Moshpit springen zu wollen. Songs wie "Ill Anguish" und "Snake Oil" sind pure, unverfälschte Hardcore-Punk-Wut, die als glorreicher, hyperaktiver Weckruf für alle dient, die von sicherer, glatter Musik gelangweilt sind.
 
-::genre::
+::genre::hardcore punk, d-beat
 
 ## Pvrgatorii - Profane Rites For Cursed Times
 
-tbd
+Das Projekt, das seit 2018 als geheimnisvolles, kompromissloses Studioduo aktiv ist, besteht aus dem Multi-Instrumentalisten Darth Dvnkel (Gitarre und Gesang) und dem Schlagzeuger L'Ombra (Kriegstrommeln und Todesglocken). "Profane Rites For Cursed Times" markiert nach ihren bisherigen rohen Albumveröffentlichungen ein bedeutendes neues Kapitel in ihrer musikalischen Entwicklung. Eine wütende, rasante Explosion aus **Black Metal**, **Death Metal** und **Blackened Crust Punk**. Klanglich verbinden sie die halsbrecherische Dringlichkeit des modernen Hardcore-Punks mit eisigen Black-Metal-Tremolo-Tornados und schaffen so einen Stil, den sie stolz als Black Metal ov Death bezeichnen. Wenn deine Gehirnzellen eine gründliche Power-Wäsche mit geschmolzener Lava und purem Adrenalin brauchen, hat "Profane Rites For Cursed Times" die Waffe für dich bereit. Mit vier Tracks absoluter, rotziger Verwüstung fühlt sich die EP genau wie eine rasante Verfolgungsjagd durch eine brennende dystopische Stadtwüste an. Darth Dvnkel liefert eine absolute Meisterleistung an furchterregenden, vielschichtigen Gesangsschreien, die weniger nach einem Menschen klingen als vielmehr nach einer Pilzwolke aus chaotischen Zaubersprüchen der schwarzen Magie. Die Musik weigert sich, dich an die Hand zu nehmen, und stürzt sich genüsslich von direkten, knochenbrechenden Punk-Grooves direkt in einen blendenden Schneesturm aus Maschinengewehr-Blastbeats und rohem Gitarrenlärm. Es ist aggressive, gnadenlose und wunderschön verstörende extreme Kunst, die maximale Lautstärke verlangt.
 
-::genre::
+::genre::d-beat, crust, blackened death metal
 
 ## Rakinua, Esi Um Nina - Heal Us, Mother
 
-tbd
+Rakinua ist ein stark auf Zusammenarbeit ausgerichtes Projekt, das die tiefgründigen musikalischen Ideen der Hauptmitglieder Velis und Madame Noctinebra mit einer erlesenen Gruppe von Begleitmusikern verbindet - darunter Fabio D'Amore (Bassist bei Serenity und Perchta) und die Harfenistin Anna Eggersberger. Inspiriert von der historischen Archäologie entwerfen sie Klangarchitekturen unter Verwendung alter, längst vergessener Sprachen und historischer rätischer Symbole. Eine zutiefst spirituelle, mitreißende Mischung aus **Dark Progressive Folk** und **Atmospheric Rock**. Klanglich beschreiten sie einen Weg, der den ursprünglichen, rhythmischen Puls von Neo-Folk-Meistern wie Heilung und Wardruna würdigt, kombiniert mit der stimmungsvollen Introspektion von Myrkur und den cineastischen, schweren Progressive-Rock-Tiefen von Opeth und Porcupine Tree. "Esi Um Ninu - Heal Us, Mother" funktioniert wie ein akustisches Zeitportal, das einen 3.000 Jahre in die Vergangenheit katapultiert, mitten in ein stürmisches Bergritual. Anstatt typische akustische Lagerfeuerlieder zu spielen, verwandelt das Ensemble die alte Geschichte in einen spannenden, großformatigen Progressive-Film voller donnernder Percussion, wunderschöner Harfenklänge und schwebender zweistimmiger Harmonien. Es wechselt mühelos zwischen leisen, Gänsehaut erzeugenden Sprechgesang-Erzählungen und massiven, explosiven Ausbrüchen von schweren Gitarren und verzweifelten Gesangsgesängen. Es ist eine intensive, brillant ausgefeilte und zutiefst mystische Reise, perfekt zugeschnitten auf jeden, der sich hinlegen, das Licht ausschalten und eine vergessene Zivilisation über seinen Schlafzimmerboden hallen lassen möchte.
 
-::genre::
+::genre::prog folk, neo folk, dark rock, atmo rock
 
 ## Red Sky - Nostalgia del Futuro
 
-tbd
+Red Sky, der seit 2011 als geheimnisvoller, maskierter Rapper und Gitarrist auftritt, hat 15 Jahre lang aktiv musikalische Grenzen überschritten - ganz im Sinne seiner selbst entwickelten künstlerischen Philosophie, die er als Kintsugi Music bezeichnet. "Nostalgia del Futuro" (Nostalgie für die Zukunft) ist sein 14. Solo-Studioalbum. Eine äußerst experimentelle Fusion aus **Alternative Metal**, Conscious **Italian Rap** und **Electronic Rock**. Klanglich schöpft das Projekt aus einer äußerst vielfältigen Palette, die von der direkten, Grenzen sprengenden Metal-Rap-Aggression von *Linkin Park* und *Falling in Reverse* über die intellektuellen Rap-Flows von *Caparezza* und *Rancore* bis hin zu einer kräftigen Dosis traditioneller japanischer und elektronischer Ästhetik reicht. Wenn du schon immer einmal eine tiefe, existenzielle Krise erleben wolltest, während du mitten im Moshpit eines futuristischen Tokioter Nachtclubs herumhüpfst, hat "Nostalgia del Futuro" dein Ticket parat. Auf 15 cineastischen Tracks konstruiert Red Sky eine verwirrende Achterbahnfahrt, die messerscharfe italienische Rap-Verses nahtlos direkt mit vernichtenden Metal-Gitarrenriffs, glitchiger Elektronik und wunderschönen traditionellen östlichen Melodien verschmilzt. Textlich ist das Album eine tiefgründige, wunderschöne Suche nach dem Sinn des Lebens, die schwere Themen wie psychische Angst und gesellschaftlichen Verfall mit ultimativer Anmut behandelt. Es ist eine aggressive, brillant theatralische und unendlich kreative Reise, die absolut stolz darauf ist, jede einzelne Regel der Mainstream-Musik zu brechen.
 
-::genre::
+::genre::nu metal, alt metal, rap metal
 
 ## Redshift - Down The Wire
 
-tbd
+Redshift wurde 2017 von Jack Camp, Liam Fear und Joshua Boniface aus den Überresten einer Melodic-Death-Metal-Band gegründet und hat sich eine bedeutende Nische für chaotische, sich ständig wandelnde Rhythmen erobert. "Down The Wire" ist das dritte Studioalbum des Trios und besticht dank des Neuzugangs Tiago Martins durch eine neu belebte Chemie. Ein mitreißender, genreübergreifender Mix aus **Progressive Metal** und **Technical Metal**. Ihre musikalische Struktur ist stark von Meistern der klanglichen Komplexität wie *Dream Theater*, *Rush* und *Opeth* inspiriert und bewegt sich gekonnt auf dem schmalen Grat zwischen technischer Verrücktheit und selbstbewusster Ironie. "Down The Wire" spielt sich wie ein hyperschneller, dystopischer Thriller ab, der einen Rebellenwiderstand im Kampf gegen ein totalitäres Regime verfolgt. Angesiedelt in einer trostlosen Zukunft, in der von Menschen geschaffene Kunst zugunsten beruhigender, KI-generierter Propagandasendungen vollständig verboten wurde, ist das Album eine absolute Meisterklasse in narrativer Spannung. "Redshift" feuert eine unerbittliche Flut von Noten ab - und enthüllt dabei hektische, sich wandelnde Drumbeats, zerklüftete Taktarten und schwindelerregende progressive Riffs, die nahtlos in epische Gesangssoli übergehen. Es schafft es, atemberaubend komplex und heavy zu sein, während es gerade genug selbstbewusste, theatralische Ironie einstreut, um dein Gehirn vom Eröffnungstrack bis zum explosiven Finale völlig in seinen Bann zu ziehen.
 
-::genre::
-
-## Renée Fleming and Béla Fleck - The Fiddle and the Drum
-
-tbd
-
-::genre::
+::genre::prog metal, tech metal
 
 ## Robin Katz - Hypnos
 
-tbd
+Robin Katz ist ein gefeierter Jazzgitarrenvirtuose und Komponist. Nachdem er die Musik für "Hypnos" ursprünglich als eine Reihe von Etüden für Sologitarre entworfen hatte, beschloss er, den Klangraum vollständig zu erweitern. Um seinen Saitenklängen ein ätherisches Gegenstück zu schaffen, holte er den Gastmusiker Nathaniel Ledwidge mit ins Boot, der auf einer Vintage-Hammondorgel stimmungsvolle, spirituelle Klangwellen überlagerte. Eine zutiefst nachdenkliche Mischung aus **minimalistischem Jazz**, **Avantgarde-Gitarre** und **Ambient-Chamber-Music**. Klanglich strukturiert Katz seine Phrasierung um die zarten Fingerpicking-Stile auf Nylonsaiten des Gypsy-Jazz-Pioniers Django Reinhardt, kombiniert mit den rollenden, repetitiven Strukturen des Minimalismus-Meisters Philip Glass. "Hypnos" wirkt wie eine klangliche Gewichtsdecke für das Gehirn. Beim Hören dieser wunderschönen Platte fühlt man sich, als würde man in einem Boot aus Akustikgitarrensaiten durch den Weltraum treiben, während der Mond langsam die Gezeiten des Ozeans unter einem steuert. Katz verzichtet auf schnelles, protziges Jazz-Shredding und nutzt stattdessen seine Nylonsaiten, um unglaublich geduldige, ruhige und gefühlvolle Melodien zu zeichnen. Der absolute Glanzpunkt des Albums ist der eindringliche Einsatz der Hammondorgel, die sich wie ein warmer, spiritueller Nebel um das zarte akustische Picking legt. Es ist ein atemberaubend ruhiges, meditatives und wunderschönes Album, das perfekt auf alle zugeschnitten ist, die den lauten Hintergrundlärm der modernen Welt ausblenden und tief durchatmen möchten.
 
-::genre::
+::genre::avant jazz, ambient jazz, chamber music
 
 ## Rodney Atkins - True South
 
-tbd
+Atkins ist ein gigantisches, mehrfach mit Platin ausgezeichnetes Kraftpaket des Country-Radios, das sechs Nummer-1-Hits und weit über 4 Milliarden Streams weltweit vorweisen kann. "True South" stellt einen monumentalen Meilenstein für den erfahrenen Geschichtenerzähler dar und ist sein mit Spannung erwartetes erstes Studioalbum in voller Länge seit sieben langen Jahren. Das 12 Titel umfassende Album, das ganz im Zeichen der Heimat steht, enthält intime Co-Kompositionen seiner Frau Rose Falcon. Herzlicher, bodenständiger Traditional **Country** und **Southern Rock**. Aufgeschichtet auf bäuerlicher Weisheit und ländlicher Authentizität, setzt sein Stil auf klagende Pedal-Steel-Gitarren, akustische Gitarrenklänge und mitreißende, zum Mitstampfen einladende Rhythmen. "True South" fühlt sich an, als würde man mit dem Truck zu einer warmen, ausgelassenen Scheunenparty im Hinterhof irgendwo im Cumberland Gap fahren, wo das Brisket auf dem Grill räuchert und die Longnecks eiskalt sind. Atkins liefert eine absolute Meisterklasse in unprätentiösem, wohlfühlendem Country-Leben, das niemals den Eindruck erweckt, sich zu sehr anzustrengen, um modernen Radiotrends zu gefallen. Vom energiegeladenen, zum Mitsingen einladenden Stadion-Hit "All Y'all" bis hin zu den wunderschön rührseligen, sentimentalen Reflexionen über das Vatersein in "The Years Are Short" fängt das Album die schwindelerregende Geschwindigkeit ein, mit der man seine Kinder aufwachsen sieht. Es ist ein unglaublich ehrlicher, tröstlicher und authentischer Soundtrack des Südens, der die Familienwerte kleiner Städte mit größtem Stolz feiert.
 
-::genre::
+::genre::southern rock, country folk, americana
 
-## Rosie Carney - Doomsday… Don’t Leave Me Here
+## Rosie Carney - Doomsday... Don’t Leave Me Here
 
-tbd
+Carney erntete 2019 mit ihrem makellosen, minimalistischen Folk-Debüt "Bare" breite Anerkennung, gefolgt von ihrer allseits gelobten Neuinterpretation des Radiohead-Albums "The Bends" als Cover-Album im Jahr 2020. Nachdem sie auf "i wanna feel happy" aus dem Jahr 2022 grungigere Gefilde erkundet hatte, entstand dieses vierte Meilenstein-Projekt (das auch unter dem Titel "doomsday night tapes" bekannt ist) in London in sorgfältiger Zusammenarbeit mit den Produzenten MacDonald und Thomas. Eine immersive klangliche Erweiterung von **Shoegaze**, **Alt-Pop** und elektronischem **Indie-Rock**. Ihr aktuelles Klangbild umfasst gewaltige, verzerrte Klänge und cineastische Synth-Drones, womit sie sich von ihren akustischen Wurzeln entfernt und gleichzeitig ästhetische Anleihen bei Pionieren des atmosphärischen Rocks nimmt. "Doomsday... Don’t Leave Me Here" verhält sich genau wie ein wunderschöner Technicolor-Traum, der allmählich in einen schrecklichen Mitternachtsalptraum versinkt - bevor er sich wieder wunderschön in einen Traum auflöst. Carney nutzt massive, die Lautsprecher zum Beben bringende Wände aus Shoegaze-Fuzz und dunklen elektronischen Impulsen als buchstäbliche Rüstung, die einen unglaublich sanften, intimen Gesangskern sicher schützt, der im Lärm verborgen liegt. Die Tracks explodieren mit einer brillanten, kalkulierten Schicht aus roher weiblicher Wut, existenzieller Angst und tiefem Herzschmerz, wodurch Isolation einzigartig filmisch klingt. Es ist ein atemberaubendes, wunderschön lautes und kathartisches Musikerlebnis, das sich um deine Sinne legt und sich absolut weigert, loszulassen.
 
-::genre::
+::genre::indie rock, alt pop, indietronica, shoegaze
 
 ## Saint Agnes - Your God Fearing Days Are About To Begin
 
-tbd
+Die Band, die von der Sängerin und Multi-Instrumentalistin Kitty A. Austen und dem Gitarristen Jon James Tufnell gemeinsam gegründet wurde, hat sich weltweit einen Ruf für ihre schweißtreibenden, energiegeladenen Live-Auftritte erarbeitet. Als Nachfolger ihres kraftvollen Albums "Bloodsuckers" aus dem Jahr 2023 ist dieses brandneue Album als direkte Umsetzung von intensiver Trauer, Wut und Überlebenswillen aus dem realen Leben in rohe Club-Hymnen konzipiert. Eine chaotische, zum Tanzen animierende Fusion aus **Industrial Rock**, **Goth Rock**, **Nu-Metal** und **Dark Alternative**. Klanglich verbinden sie messerscharfe Synthesizer-Impulse und militärisch anmutende Beats mit wildem Gitarren-Crunch und orientieren sich dabei direkt an *Nine Inch Nails* und *Rob Zombie*. Wenn du einen klanglichen Hintergrund brauchst, um mit Vollgas auf einem Motorrad durch eine futuristische Cyberpunk-Stadtwüste zu rasen, ist "Your God Fearing Days Are About To Begin" die perfekte Waffe deiner Wahl. Das Album ist ein absolutes Monster aus dichten, summenden Industrial-Metal-Texturen, lautsprechererschütternden Basslinien und hedonistischen Grooves, maßgeschneidert für schweißgetränkte Goth-Club-Tanzflächen. Frontfrau Kitty A. Austen liefert eine herausragende, vulkanische Performance ab, die mühelos von nostalgischen, süßen Kindheitserinnerungen in "Song For Mia" zu kehlenschneidenden, furchterregenden Banshee-Schreien in "The Beast" wechselt. Es ist eine wild kraftvolle, theatralische und wunderschön gefährliche Fahrt, die einen fest an der Kehle packt und nicht loslässt, bis der letzte Ton verklungen ist.
 
-::genre::
+::genre::goth rock, industrial, alt metal, dark metal
 
 ## Saint Harison - Ghosted
 
-tbd
+Saint Harison sorgte zunächst im Internet mit seinen atemberaubend kraftvollen Akustik-Performance-Videos für Aufsehen, bevor er 2023 sein gefeiertes Debütprojekt "AIMS" veröffentlichte. Anfang 2026 trat er als Vorprogramm an der Seite von Sam Smith im Castro Theatre in San Francisco auf. Um seine Produktionspalette für dieses zweite Projekt zu erweitern, arbeitete er direkt mit dem Grammy-nominierten Produktions-Powerhouse NovaWav zusammen. Geschmeidiger, **moderner R&B**, **Soul** und **Alt-Pop**. Sein Klangstil legt großen Wert auf makellose, vielseitige Gesangsakrobatik, Neo-Soul-Akkordfolgen und einen akustisch-elektronischen rhythmischen Hintergrund, der von traditionellen britischen und amerikanischen Soul-Künstlern wie Sam Smith beeinflusst ist. Die EP "Ghosted" fühlt sich genau so an, als hätte man spät in der Nacht ein emotional offenes, tiefes Gespräch in einem warmen Raum, während ein Regenschauer gegen die Fenster prasselt. Saint Harison nutzt seine atemberaubende, der Schwerkraft trotzende Falsettstimme als buchstäbliche Superkraft und schwebt mit absoluter Leichtigkeit über sanften, samtigen R&B-Beats und akustischen Klaviertönen. In Tracks wie dem rachsüchtigen Durchbruchshit "bad" und dem zerbrechlichen "glass houses" wirkt das Album wie eine brillante emotionale Reinigung - es verwandelt chaotische Trennungen, Manipulation in Beziehungen und private Selbstzweifel in unglaublich ausgefeilte Ohrwürmer. Es umgeht künstliche, übermäßig roboterhafte Popformeln komplett und bietet dir pure, unverfälschte Soulmusik, die sich unglaublich intim, tröstlich und gnadenlos ehrlich anfühlt.
 
-::genre::
+::genre::alt pop, alt r&b, alt soul
 
 ## Sarcasm - Lifeforce Omnibound
 
-tbd
+Sarcasm blickt auf eine faszinierende Geschichte zurück: Die Band begann in den frühen 1990er Jahren als Kult-Demo-Band, bevor sie sich für Jahrzehnte auflöste. 2015 kam es zu einer Wiedervereinigung, um ihr historisches Material offiziell der Welt zu präsentieren. Unter der Leitung der Gründungssängerin und einzigen Gründungsmitglied Heval Bozarslan ist "Lifeforce Omnibound" das beeindruckende sechste Studioalbum der aktuellen vierköpfigen Besetzung. Eine komplexe, rasante Mischung aus **Blackened Death Metal**, atmosphärischem **Melodic Death Metal** und klassischem Extreme Metal der 90er Jahre. Die Band vermeidet aktiv die üblichen Klischees des Swedeath-Genres und kombiniert komplexe, vielschichtige Riff-Arrangements mit rasender Geschwindigkeit und überraschend eingängigen melodischen Hooks. Wenn ihr nach einem klanglichen Portal sucht, das euch kopfüber in eine alternative, furchterregende Dimension katapultiert, ist „Lifeforce Omnibound“ der kosmische Schlüssel, auf den ihr gewartet habt. Mit einer wunderschön kalkulierten Spielzeit von 40 Minuten ist das Album eine Meisterklasse in messerscharfer, jenseitiger Komplexität – mühelos wechselt es von direkten, nackenbrechenden Thrash-Beats zu weitläufigen, metaphysischen Klanglandschaften. Bozarslan trägt seine Texte mit einer furchterregenden, kehlenschneidenden Dringlichkeit vor und behauptet, dass ihm das poetische, von kosmischer Angst geprägte Storytelling buchstäblich von einer höheren Macht in sein Gehirn gechannelt wurde. Von Soundzauberer Lawrence Mackrory zur absoluten Perfektion poliert, ist es eine atemberaubend explosive, vielschichtige und wild theatralische Metal-Achterbahnfahrt, die wie eine buchstäbliche Tonne Ziegelsteine einschlägt.
 
-::genre::
+::genre::melo death metal, blackened death metal
 
 ## Se, Josta Ei Puhuta - Syvyyden Portit On Saatava Auki
 
-tbd
+Die Band wurde 2007 von Frontmann Samu Männikkö gegründet und erlangte mit ihren ersten Alben eine treue Underground-Anhängerschaft, bevor sie in eine jahrzehntelange Pause ging. Mit ihrem 2022 erschienenen Album "Gehenna" feierten sie ein triumphales Comeback. "Syvyyden Portit On Saatava Auki" (was so viel bedeutet wie "Die Tore der Tiefe müssen geöffnet werden") ist ihr mit Spannung erwartetes viertes Studioalbum in voller Länge. Eine gnadenlos harte, eisige Mischung aus **Melodic Death Metal**, **Black Metal** und **Thrash Metal**. Ihr charakteristischer Stil ist stark von der traditionellen, düsteren finnischen Metal-Ethik geprägt und verwebt hämmernde Extreme-Metal-Tempos mit dramatischen, melancholischen Akkordfolgen und grimmigen, knurrenden Vocals, die ausschließlich in ihrer Muttersprache Finnisch vorgetragen werden. "Syvyyden Portit On Saatava Auki" fühlt sich genau so an, als würde man mitten in der finnischen Mitternachtsschneesturm draußen festsitzen, während die lokalen Waldgeister aus den Kiefern heraus einen anschreien. Dieses Album ist ein bemerkenswert selbstbewusster, stoischer und unerbittlicher Marsch in die kalte Dunkelheit, der oberflächliche moderne Pop-Arrangements gegen vernichtende Gitarrenwände und eine Lawine aus Maschinengewehr-Drumming eintauscht. Anstatt sich in sinnlosen Lärm zu flüchten, webt das Quintett unter dem Chaos ein unglaublich reichhaltiges, düsteres Gefühl aus traurigen Melodien und schweren symphonischen Chören ein. Es ist ein straffer, befriedigend trostloser und wunderschön düsterer Extreme-Metal-Trip, perfekt zugeschnitten auf alle, die ihren Melodic Death Metal mit einer extragroßen Portion grimmiger, eisiger Atmosphäre serviert bekommen möchten.
 
-::genre::
+::genre::melo death metal, blackened death metal, blackened thrash metal
 
 ## Serpent Lord - The Once Forgotten Ways of Old
 
-tbd
+Serpent Lord ist ein engagiertes, äußerst atmosphärisches Black-Metal-Soloprojekt. Obwohl das Projekt bereits vor Jahrzehnten frühes Demomaterial aufgenommen hatte, bevor es in völliges Schweigen versank, wurde das Material zwischen 2022 und 2025 sorgfältig neu aufgenommen und erweitert. Die endgültigen Studioaufnahmen wurden von Jake Superchi (der enge Verbindungen zu Mitgliedern von Uada und Ceremonial Castings unterhält) produziert und vom renommierten Heavy-Metal-Produzenten Arthur Rizk gemastert. Eine grandiose, triumphale Wiederbelebung des **Pagan Black Metal** der 90er Jahre. Ihr charakteristischer Stil setzt auf blutdrucksteigernde, melodische, ohrwurmverdächtige Gitarrenläufe, galoppierende Kampfrhythmen und rohe, ritualistische, kratzige Vocals. Wenn du einen klanglichen Hintergrund brauchst, um dir eine Rüstung anzulegen, ein Lagerfeuer zu entzünden und direkt in eine neblige Waldschlacht zu marschieren, ist "The Once Forgotten Ways of Old" genau das Richtige für dich. Das Album spielt auf einer gewaltigen Ebene und besticht durch ausufernde, epische Metal-Passagen, die munter die Acht-Minuten-Marke überschreiten. Serpent Lord leistet spektakuläre Arbeit, indem er wunderschön triumphale, hochfliegende Gitarrenmelodien direkt inmitten eiskalter Blastbeats und kalter, blackened-metal-artiger Stürme verwebt. Doch Tracks wie "Constrictor" beweisen, dass das Projekt auch knackigere, betonharte Groove-Hooks liefern kann, die mit der schieren, vernichtenden Kraft eines Flächenbombardements einschlagen. Es ist eine theatralische, uralt anmutende und wild-energetische Extreme-Metal-Reise, die den rohen Geist des Old-School-Pagan-Metal mit größtem Respekt ehrt.
 
-::genre::
+::genre::atmo black metal, melo black metal
 
 ## Seven Crowns - Haunted Head
 
-tbd
+Das DIY-Punk-Kollektiv hat sich mit seinen bisherigen drei Alben still und leise eine Underground-Fangemeinde aufgebaut. Um dieses besondere Projekt einzufangen, tat man sich mit dem Produzenten Josh Gallop in den Stage 2 Studios in Bath zusammen. Ein mitreißender, genreübergreifender Mix aus **Psychedelic Punk**, **Hardcore** und klassischem **Alternative Rock**. Klanglich verzerren sie traditionelle Punk-Strukturen mit komplexen Gitarrenriffs, einer kraftvollen, melodischen Instrumentierung und aggressivem, zutiefst emotionalem Gesang. "Haunted Head" ist ein gewaltiger, höllisch schwerer Garage-Punk-Wake, der sich absolut weigert, in Verzweiflung zu versinken. Entstanden aus einer unglaublich harten vierjährigen Phase, in der die Band eine alarmierende Anzahl enger Freunde und Familienmitglieder verlor, wirkt das Album weniger wie ein düsterer Trauermarsch, sondern eher wie eine ausgelassene, biergetränkte Feier des Lebens. Die Musik verbindet nahtlos halsbrecherische, schweißtreibende Punk-Rhythmen mit wirbelnden, halluzinatorischen psychedelischen Gitarrenlagen. Sie schaffen es sogar, atemberaubende, ins Mark gehende kreative Einfälle umzusetzen - wie zum Beispiel das Einfügen eines echten, rohen Ausschnitts aus einer Familien-Voicemail direkt in den Track "Headstone". Es ist ein kathartischer, wunderschöner und wahnsinnig lauter Rock’n’Roll-Liebesbrief an die Verstorbenen, der einen direkt in der Seele trifft.
 
-::genre::
+::genre::psych punk, hardcore punk, alt rock
 
 ## SeventhString - An Ocean Laced With Glass
 
-tbd
+Nachdem sie sich in der kanadischen Underground-Szene einen Namen gemacht und ihre Stammbesetzung erweitert haben, ist "An Ocean Laced With Glass" das lang erwartete, definitive Debüt-Studioalbum von SeventhString. Ein rasantes, temporeiches Werk aus **Melodic Metalcore** und **Nu-Metal**. Ihr Sound zeichnet sich durch ein intensives Zusammenspiel aus schweren, technischen Gitarrenriffs, kraftvollem Schlagzeugspiel und einem dramatischen Wechsel zwischen aggressivem Screaming und klaren, mitreißenden Gesangspassagen aus. "An Ocean Laced With Glass" zu hören, fühlt sich genau so an, als würde man während eines heftigen Mitternachtssturms auf dem Deck eines Holzschiffs gefangen sein. Dieses Album ist eine wunderschön zerklüftete, emotional rohe Achterbahnfahrt, die Metalcore wie ein Musical mit hohem Einsatz behandelt. Tracks wie "Systematic Sickness" und "Angel Of Apathy" schaffen eine phänomenale Balance zwischen chaotischen, kehlenschneidenden Breakdowns und massiven, wunderschön klaren Gesangshooks, die wie ein Leuchtturmstrahl durch den klanglichen Donner schneiden. Die zugrunde liegenden Themen des Kampfes gegen innere Dämonen und gesellschaftlichen Lärm treffen hart, verpackt in einer dunklen, atmosphärischen Produktion, die einem völlig den Atem raubt. Es ist aggressiver, scharfer und wild leidenschaftlicher Metal, der einen dazu zwingt, direkt ins kalte Wasser zu springen.
 
-::genre::
+::genre::modern metalcore, nu metal, alt metal
 
 ## Shinedown - EI8HT
 
-tbd
+Shinedown gelten als eine der kommerziell erfolgreichsten Bands der modernen Rockgeschichte und halten den Rekord für die meisten Nummer-1-Singles in den Billboard Mainstream Rock Airplay Charts. Angeführt von dem kraftvollen Sänger Brent Smith ist "EI8HT" ihr mit Spannung erwartetes achtes Studioalbum. Das umfangreiche, 18 Titel umfassende Projekt wurde vom Bassisten der Band, Eric Bass, im Big Animal Studio selbst produziert. Arena-tauglicher **Hard Rock**, **Alternative Metal** und **Post-Grunge**. Ihr charakteristischer Sound verbindet massive, gitarrenlastige Klangwände mit mitreißenden melodischen Hooks. Für dieses Album erweitern sie ihre klangliche Palette durch die Einbindung von Elementen aus Americana, Outlaw Country und Bluegrass. "EI8HT" ist ein absolutes Kraftpaket von einem Rockalbum, das sich anfühlt, als stünde man mitten in einem vollbesetzten Football-Stadion, wenn das Feuerwerk losgeht. Shinedown legt mit einer gewaltigen, die Lautsprecher zum Beben bringenden Produktion los, die keine Zeit damit verschwendet, höflich um deine Aufmerksamkeit zu bitten. Brent Smiths Gesang ist so hochfliegend und wild wie eh und je und hebt Hymnen empor, die darauf basieren, die schwersten Hindernisse des Lebens zu überwinden und sie direkt zurück ins Universum zu schreien. Die brillante Einbindung staubiger, urwüchsiger Akustikinstrumente in ihre massive Metal-Rüstung sorgt dafür, dass sich die 18-Track-Reise wunderbar dynamisch und frisch anfühlt. Es ist laute, kompromisslos ambitionierte und zutiefst menschliche Rockmusik, die darauf ausgelegt ist, dass man die Faust in die Luft recken und aus voller Kehle mitsingen will.
 
-::genre::
-
-## Sierra Spirit - Rodeo Clown
-
-tbd
-
-::genre::
+::genre::post grunge, hard rock, alt rock, alt metal
 
 ## Simon Steensland - Explosion of Bad Music
 
-tbd
+Steensland ist ein autodidaktischer Multi-Instrumentalist, der seit über 30 Jahren seine Zeit zwischen experimentellen Solo-Avant-Rock-Alben und dem Komponieren von Musik für professionelle europäische Theaterstücke aufteilt. Als abschließender Teil einer sorgfältig durchdachten Trilogie präsentiert diese Aufnahme ein erweitertes Ensemble aus Sängern und technischen Musikern, darunter der legendäre schwedische Meistertrommler Morgan Ågren. Eine dichte, theatralische und komplexe Mischung aus **Avant-Prog** und **Rock in Opposition** (RIO). Seine Kompositionen sind stark architektonisch inspiriert von dunklen, anspruchsvollen Kammerrock-Pionieren wie *Univers Zero*, *Art Zoyd* und *Present*. Trotz seines urkomisch selbstironischen Titels ist "Explosion of Bad Music" eine atemberaubende Meisterklasse in herrlich unberechenbarem, kalkuliertem instrumentalen Chaos. Das Album spielt sich wie ein düsterer, hyperkomplexer theatralischer Thriller ab, in dem die Bühne ständig zusammenbricht und sich in ungeraden Taktarten wieder aufbaut. Bestehend aus nur zwei gewaltigen, erschöpfenden Klangrätseln mit den Titeln "Dragon" und "Not Dragon", verbindet das Album vulkanisches, schweres Schlagzeugspiel mit dichten Geflechten aus zerklüfteten Gitarren, Keyboards und geisterhaften Gesangsstrukturen. Es bewegt sich mühelos zwischen stiller, unter die Haut gehender Avantgarde-Spannung und massiven, furchteinflößenden Wänden symphonischer Dissonanz. Es ist eine aufregende, filmische und wunderschön verwirrende Achterbahnfahrt, die speziell für Hörer geschaffen wurde, die ihre Musik völlig unvorhersehbar, zutiefst dramatisch und äußerst herausfordernd mögen.
 
-::genre::
+::genre::avant prog rock
 
 ## Siyahkal - Corrupt
 
-tbd
+Mit ihrem chaotischen, unerbittlichen Sound fängt die Band die harten Widersprüche des Lebens, den politischen Verfall und Konflikte ein. Als Nachfolger ihrer bisherigen großartigen Werke ist "Corrupt" ein Studioalbum mit fünf Titeln, das während einer risikoreichen, turbulenten Wintersession Anfang 2026 aufgenommen wurde. Eine wilde, rasend schnelle Fusion aus **Hardcore-Punk**, **D-Beat** und **Screamo**. Benannt nach einem historischen Guerilla-Aufstand im Iran von 1971, verbinden sie intensive, rasante Beats mit der rohen kulturellen Schwere Persiens und singen ausschließlich auf Farsi. "Corrupt" anzuhören fühlt sich genau so an wie eine rasante Motorradfahrt im strömenden Regen mit kaputten Bremsen, trockener Kehle und ausgeschlagenen Zähnen. Mit einer knappen und knallharten Spielzeit von 12 Minuten schießt die EP wie ein außer Kontrolle geratener Güterzug vorwärts, angetrieben von nichts als Adrenalin und gerechter Wut. Kasra Goodarznezhads Gesang zerreißt die Luft mit einer furchterregenden, kehlenschneidenden Dringlichkeit und brüllt über einen regelrechten Ansturm aus dröhnenden Gitarren und rasenden, maschinengewehrartigen Drum-Patterns hinweg. Es ist eine straffe, gnadenlose und völlig entgleiste Punk-Explosion, die dich dazu bringen wird, sofort einen Moshpit anzuzetteln.
 
-::genre::
+::genre::hardcore punk, d-beat, crust, screamo
 
 ## Somnia Finem - Desassossego
 
-tbd
+"Desassossego" wurde zwischen 2022 und 2025 mit großer Sorgfalt aufgenommen und ist das mit Spannung erwartete Debüt-Album der Band. Konzeptionell basiert das Album vollständig auf dem berühmten portugiesischen Meisterwerk Livro do Desassossego (Das Buch der Unruhe) des legendären Dichters Fernando Pessoa. Eine sehnsüchtige, rohe und düstere Art von **Atmospheric Black Metal**. Klanglich verbinden sie kalte Gitarrenriffs und eine raue Schattenwelt-Atmosphäre mit einem tiefen Gefühl von Trostlosigkeit und Trauer. "Desassossego" ist ein spektakulärer Soundtrack für schlaflose Nächte oder einen düsteren Streifzug durch dichten Nebel mit leerem Handy-Akku. Es überspringt den überproduzierten, modernen Metal-Glanz komplett und versetzt den Hörer direkt in einen eisigen Wirbelwind aus rohen Gitarrentremoli und verzweifelten, hallenden Schreien. Anstatt sich in sinnlosen Lärm zu flüchten, gelingt es der Band hervorragend, ein Gefühl tiefer, poetischer Trostlosigkeit unter das Chaos zu weben - wodurch sich die Musik wie ein uraltes, düsteres Theaterstück anfühlt. Es ist eine von Anfang bis Ende intensiv unangenehme, karge und wunderschön schattenhafte Reise.
 
-::genre::
+::genre::atmo black metal
 
 ## Sparta - Cut a Silhouette
 
-tbd
+Sparta, die vor einem Vierteljahrhundert aus den Überresten der wegweisenden Post-Hardcore-Größen At The Drive-In hervorgingen, werden von dem legendären Sänger und Gitarristen Jim Ward angeführt. "Cut a Silhouette" ist das sechste Studioalbum der Band. Um ihre charakteristische Energie einzufangen, nahm Ward das Album mit 10 Songs in nur sieben intensiven Tagen zusammen mit dem legendären Underground-Produzenten J. Robbins (Jawbox, Burning Airlines) im Magpie Cage Recording Studio auf. Eine viszerale, drängende Mischung aus **Post-Hardcore** und **Alternative Rock**. Klanglich stützt sich die Band auf ein schlankes, rohes, dreidimensionales Zusammenspiel der Instrumente, bei dem bissige, kantige Overdrive-Gitarren, treibende Basslinien und vorantreibende Drum-Rhythmen als absolut gleichberechtigte Partner agieren. Wenn du ein Album suchst, das wie ein rohes, ehrliches Herz-zu-Herz-Gespräch in einem rasenden Muscle-Car klingt, ist "Cut a Silhouette" genau das, wonach du suchst. Das Album verzichtet auf alle künstlichen, glänzenden modernen digitalen Studiobearbeitungen und schießt mit einer atemberaubenden analogen Wärme und purer, viszeraler Kraft nach vorne. Gleich vom ersten Moment an, in dem der Opener "Split Lip" aus den Startlöchern explodiert, liefert Jim Ward eine absolute Meisterleistung an scharfen, kantigen Gitarrenriffs und leidenschaftlichem Gesang, der mit echter, ungefilterter Energie in die Luft beißt. Der Titel selbst ist eine berührende, prophetische Anspielung auf den bleibenden visuellen Eindruck, den der verstorbene, großartige Schauspieler John Candy hinterlassen hat - und die Musik trägt genau dieselbe unvergessliche Kraft in sich. Es ist ein drängender, unglaublich bewegender und wunderschön menschlicher Rock’n’Roll-Neustart, der beweist, dass diese texanischen Veteranen auf allen Zylindern laufen.
 
-::genre::
+::genre::post hardcore, alt rock
 
 ## Stairway To Violet - Invictus
 
-tbd
+*Stairway To Violet* ist das audiovisuelle Herzensprojekt des deutschen Schauspielers und Musikers Béla Klentze. Bekannt durch seine zahlreichen Fernsehrollen (Tatort, Alles was zählt) und seine Teilnahme an "Let’s Dance", gründete Klentze die Band im Jahr 2021, um eine tiefere emotionale Bandbreite zum Ausdruck zu bringen. Nach mehreren Teaser-Singles ist "Invictus" nun das mit Spannung erwartete Debütalbum des Projekts. Eine ambitionierte, groß angelegte Fusion aus **Cinematic Rock**, **Modern Metal** und **Symphonic Rock**. Das Projekt verwebt nahtlos schwere, gitarrenlastige elektronische Strukturen und orchestrale Streicher zu dramatischen, erzählerischen Klanglandschaften, die an die Erhabenheit moderner Filmmusik erinnern. "Invictus" fühlt sich weniger wie ein traditionelles Rockalbum an, sondern eher wie ein actiongeladener IMAX-Blockbuster, der sich in deinen Kopfhörern abspielt. Getreu seinem Titel fungiert das Album als gewaltiger Soundtrack, um dein inneres Feuer wiederzufinden, nachdem du einen regelrechten emotionalen Wirbelsturm durchlebt hast. Es ist unverhohlen theatralisch und randvoll mit epischen orchestralen Schwüngen, Heavy-Metal-Riffs und dröhnendem Gesang, der sich nichts vorenthält. Die Tracks geraten fröhlich außer Kontrolle - sie tauchen direkt in halluzinatorische, drogenbefeuerte Psych-Rock-Verzerrungen ein, bevor sie augenblicklich wieder in hochfliegende, erlösende Arena-Hymnen übergehen. Es ist großartige, höchst dramatische und wunderbar übertriebene Musik, maßgeschneidert für jeden, der sich wie die Hauptfigur eines epischen Überlebensfilms fühlen möchte.
 
-::genre::
+::genre::symphonic rock, cine rock, modern metal
 
 ## Stardust Multiplier - Convergence
 
-tbd
+Stardust Multiplier agiert als ein gemächliches, äußerst intuitives Studio-Kollektiv und versteht sich weniger als traditionelle Band, sondern vielmehr als eine offene Auseinandersetzung mit der Klangwahrnehmung. Sie betrachten das Musizieren als Mittel der Kommunikation zwischen menschlicher Absicht, der Umgebung und außergewöhnlichen Bewusstseinszuständen. Eine hypnotische, tief konzentrierte Schnittstelle aus Minimalismus, **Ambient**-Elektronik und spektral-akustischer Musik. Ihr Klang bildet eine klangliche Konstellation aus kontinuierlicher Wiederholung und Signalmodulation ab und bezieht strukturelle Anlehnungen aus alter zeremonieller Musik und moderner avantgardistischer Klangkunst. Wenn deine Gehirnzellen von den lauten, überstimulierenden Hintergrundgeräuschen des modernen Alltags völlig überlastet sind, ist "Convergence" der perfekte kognitive Reset-Knopf. Das Album entfaltet sich wie ein langsames, schwebendes kosmisches Ritual, in dem die Zeit jegliche reguläre Bedeutung verliert. Mit einer zurückhaltenden Palette aus Glasmarimbas, Flöten und Vintage-Analogsynthesizern zerlegt die Musik sanfte Melodien nach und nach durch hypnotische, sich wiederholende Loops und subtile klangliche Variationen. Anstatt auf ein explosives, dramatisches Finale hinzuarbeiten, lädt das Album dazu ein, sich auf den Boden zu legen und aufmerksam zuzuhören, während die Töne langsam durch den Raum schweben und widerhallen. Es ist ein wunderschönes, zutiefst beruhigendes und meditatives Klangerlebnis, das sich weniger wie ein Musikstück anfühlt, sondern eher wie ein sanftes Gespräch zwischen akustischen Signalen.
 
-::genre::
+::genre::ambient, ambient acoustic
 
 ## Static Dress - Injury Episode
 
-tbd
+Static Dress, gegründet und geleitet von Kreativdirektor und Sänger Olli Appleyard, sorgten mit ihrem atemberaubenden Debütalbum "Rouge Carpet Disaster" aus dem Jahr 2022 für Aufsehen in der Heavy-Metal-Szene. Seitdem haben sie gemeinsam mit Bands wie *Loathe* und *Bring Me The Horizon* ausgiebige Tourneen rund um den Globus absolviert und seit 2023 mit geheimen CD-Veröffentlichungen nach und nach einen Vorgeschmack auf diese neue Ära gegeben. Ein mitreißender, kathartischer Mix aus **Post-Hardcore**, **Screamo** und **Alternative Rock** der frühen 2000er Jahre. Sie lassen sich klanglich stark von der rohen emotionalen Kraft von *My Chemical Romance*, *Underoath* und *Glassjaw* inspirieren und verbinden rasante Gitarrenwände mit eingängigen Pop-Hooks. "Injury Episode" wirkt wie ein Sturz in einen dunklen, rauchgefüllten Kellerclub aus dem Jahr 2004, wo die Lautsprecher bis an ihre absoluten Grenzen getrieben werden und alles von Schweiß und Neonlicht überzogen ist. Das Album ist eine atemberaubende Meisterklasse in kalkuliertem Schock, die mühelos im Handumdrehen von kehlenschneidenden Screamo-Breakdowns zu massiven, hochfliegenden Refrains wechselt, die einem tagelang im Kopf bleiben. Mit hochkarätigem Gesangsfeuerwerk - darunter ein mitreißender Gastauftritt von Underoath bei "Nostalgia Kills" - verzichtet das Album auf glänzende, roboterhafte moderne Studio-Polierungen zugunsten einer unberechenbaren, wunderschön unvollkommenen und intensiv menschlichen Darbietung. Es ist aggressiver, theatralischer und brillant chaotischer Art-Punk, der einen direkt in die Brust trifft.
 
-::genre::
+::genre::post hardcore, emocore, screamo, alt rock
 
 ## Sue Cahill - Evanstonia
 
-tbd
+Susan Cahill ist eine äußerst versierte, hochkarätige klassische Musikerin, die jahrelang als eine der tragenden Kontrabassistinnen des Colorado Symphony Orchestra auftrat. Um sich vollständig von den einengenden Routinen des Orchestergrabens zu befreien, wagte sie den Sprung in die Welt des Jazz, um dieses persönliche Projekt aufzunehmen. Für ihr Begleittrio holte sie die renommierte Pianistin Dawn Clement und den kraftvollen Schlagzeuger Dru Heller an Bord. Eine raffinierte, wandlungsfähige Mischung aus **Modern Jazz**, orchestraler **Chamber Music** und freier **Improvisation**. Sie bricht mit traditionellen, standardisierten Formaten und stützt ihren Sound auf eine reichhaltige Kontrabass-Technik sowie einen fließenden, offenen strukturellen Dialog. "Evanstonia" ist ein atemberaubend fließendes Stück musikalischer Architektur, das die Regeln dessen, was ein Bassist leisten kann, völlig neu definiert. Es anzuhören fühlt sich an wie ein Spaziergang durch eine geschäftige, nächtliche Stadtlandschaft, in der die Neonlichter ständig ihre Muster wechseln. Cahill spielt ihren Kontrabass mit einer atemberaubenden Sensibilität - sie lässt das Instrument mit tiefen Jazz-Grooves grollen, bevor sie den Bogen über die Saiten zieht, um eindringliche, klassische Klänge zu erzeugen, die einem direkt ins Herz gehen. Songs wie das verspielte "Unpresidented" bieten dem gesamten Trio einen Spielraum, in dem sie Melodien wie bei einem rasanten Fangspiel hin und her werfen können. Es ist ein aufregendes, intellektuell anspruchsvolles und unglaublich gefühlvolles Debüt, das sich vollständig aus dem Schatten der Klassik löst.
 
-::genre::
-
-## SUSTO - Susto Stringband (Volume 2)
-
-tbd
-
-::genre::
+::genre::modern jazz, chamber music, improvisation
 
 ## The Alarm - Transformation
 
@@ -1328,6 +1256,12 @@ Killah Priest trat Mitte der 1990er Jahre in Erscheinung und war zunächst vor a
 
 ::genre::boom bap, hip hop
 
+## Malebeste - Monestherou
+
+Die Band wurde 2024 als eng verbundenes fünfköpfiges Kollektiv gegründet und ist tief in der Underground-Black-Metal-Szene verwurzelt. Ihre Texte konzentrieren sich ganz auf regionale französische Legenden und erkunden die Folklore der Charente und der Vendée. Ein majestätischer, mitreißender **Epic Medieval Black Metal**. Klanglich verweben sie die aggressiven, eisigen Twin-Gitarren-Tremolo-Strukturen der schwedischen und französischen Black-Metal-Szene und integrieren nahtlos melodische, folk-beeinflusste Phrasierungen und historische Themen. Monestherou spielt sich genau wie ein Mitternachtsspaziergang durch eine verwunschene mittelalterliche französische Burg, während dichter Nebel über den Burggraben rollt und lokale Geister versuchen, deine Seele zu rauben. Das Album, das vollständig in französischer Muttersprache gesungen wird, wirkt wie eine filmische historische Saga, die mühelos zwischen blendenden, eisigen Black-Metal-Schneestürmen und überraschend üppigen, heroischen Melodien wechselt. Malebeste leisten phänomenale Arbeit, indem sie ihre Gitarren mit markanten, perkussiven Riffs und galoppierenden Drum-Patterns füllen, die verhindern, dass die Dunkelheit jemals langweilig oder repetitiv wirkt. Sie gehen mit einer uralten, mythischen Atmosphäre vollkommen aufrichtig um und hüllen den Hörer in ein grandioses, wunderschön dramatisches und wild-energetisches Stück extremer Kunst. Es ist der absolut perfekte Hintergrundsound, um eine Fackel anzuzünden, eine Kettenweste anzuziehen und unter dem Vollmond zu headbangen.
+
+::genre::melo black metal
+
 ## Mr. Cardoso - Leaving My Soul Alone
 
 An der Schnittstelle der modernen digitalen Underground-Szene agiert Mr. Cardoso als Schlafzimmerproduzent, der vollkommen eigenständige Klangwelten erschafft. Sein Werk zeichnet sich durch düstere, minimalistische Rhythmusmuster und rohe Demoaufnahmen wie "Damn" und "Deathless" aus. Das Projekt bewegt sich ausschließlich im Bereich der instrumentalen **Electronica**, des **experimentellen Lo-Fi** und des **Ambient Tech-House**. Es lässt sich stark von atmosphärischen Beat-Tapes, nächtlichen synthetischen Klangtexturen und rohem DIY-Software-Sequencing inspirieren. Wenn Sie jemals einen klanglichen Hintergrund für Meditation in einem abgeschlossenen Raum oder einfach nur zum Vor-sich-hin-Träumen vor dem Computerbildschirm gebraucht haben, trifft "Leaving My Soul Alone" genau die richtige Stimmung. Das Album ist eine Meisterklasse in reduzierter elektronischer Minimalismus, die sich ganz auf Instrumentalmusik konzentriert und brillant roh bleibt. Schwere Subbässe verankern hypnotische Synth-Loops, die sich anfühlen, als würden sie sich stetig in einem leeren Lagerhaus ausbreiten. Es verzichtet auf die dröhnenden, den Club erschütternden Drops zugunsten eines einsamen, nächtlichen Grooves, der sich perfekt unvollständig anfühlt. Es ist eine melancholische elektronische Reise, die sich um deine Kopfhörer legt und sich weigert, deine Gedanken zu überfrachten.
@@ -1339,6 +1273,12 @@ An der Schnittstelle der modernen digitalen Underground-Szene agiert Mr. Cardoso
 Mudimbi ist seit Anfang der 2010er Jahre eine unverwechselbare Stimme der italienischen Urban-Musik und erlangte landesweite Bekanntheit, nachdem er 2018 beim renommierten Sanremo-Musikfestival den dritten Platz in der Kategorie Newcomer belegte. Er wird für seine cleveren, temporeichen Texte, sein komödiantisches Gespür und seine Bereitschaft, Genrekonventionen zu durchbrechen, gefeiert. Dieses Album bricht aus den üblichen Rap-Schubladen aus und präsentiert sich als elegante Mischung aus **Alternative Hip-Hop**, **bluesigem Pop** und glitzerndem **Indie-Rock**. Er integriert stark live eingespielte, schimmernde Gitarrenelemente neben rhythmischen urbanen Kadenz. "MIKKEL" ist eine wunderbar theatralische Variante des modernen Hip-Hop, die düstere Straßenatmosphäre gegen schimmernde, bluesige Gitarren und alltägliche existenzielle Ängste eintauscht. Mudimbi agiert wie ein chaotischer Reiseführer durch die Neurosen der modernen Gesellschaft und liefert blitzschnelle Bars über Grooves, die mit Indie-Rock-Eleganz funkeln und schwingen. Es ist kraftvoll, unvorhersehbar und unglaublich energiegeladen. Das Album strömt mit einer ansteckenden Selbstsicherheit dahin und schafft es, die schwere Erschöpfung anzusprechen, die entsteht, wenn man alles hat und sich dennoch leer fühlt - und das alles, während deine Füße nie aufhören zu tanzen.
 
 ::genre::alt hip hop, indie pop, indie rock
+
+## Necrobeast - Iron Baphomet
+
+Necrobeast wurde 2005 als Duo vom Mastermind Seb Kings gegründet und entwickelte sich schnell zu einem reinen Soloprojekt. Im Laufe von zwei Jahrzehnten in der Extreme-Metal-Underground-Szene baute sich das Projekt durch rohe Demos und Split-EPs still und leise eine treue Fangemeinde auf. "Iron Baphomet" ist das monumentale, mit Spannung erwartete Debüt-Studioalbum des Projekts. Ein chaotischer, rasender Angriff aus Old-School-**Blackened-Thrash-Metal**. Klanglich lässt sich das Projekt massiv von aggressiven südamerikanischen, deutschen und japanischen Thrash-Legenden wie *Sarcófago*, *Desaster* und *Sabbat* inspirieren, kombiniert mit den eisigen, glühenden Atmosphären nordischer Black-Metal-Ikonen wie *Bathory* und *Nifelheim*. "Iron Baphomet" fühlt sich genau so an, als würde man in einen Sturm der Kategorie 5 aus Rasierklingen, Ledernägeln und purem, ungefiltertem Schwefel geraten. Mit einer knappen und knallharten Spielzeit von 35 Minuten verschwendet dieses Album absolut keine Zeit mit höflichen Einleitungen oder modernen, überpolierten Studio-Click-Tracks. Stattdessen trifft es dich direkt ins Gesicht mit einer Salve aus primitiven, nackenbrechenden Thrash-Tempos, zerklüfteten Gitarrenriffs und Vocals, die klingen, als wären sie buchstäblich direkt aus der endlosen Leere der Hölle gespuckt worden. In Stücken wie "Promethean Flame" und "Blood Gods" liefert die Musik eine absolute Meisterklasse in roher, dreckiger und triumphaler Underground-Extremität. Es ist der ultimative Soundtrack, um sich einen Patronengürtel umzuschnallen, die Faust gen Himmel zu recken und die Lautsprecher im Wohnzimmer komplett zu zerstören.
+
+::genre::blackened thrash metal
 
 ## Pat Strawser - Another Record
 
