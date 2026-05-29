@@ -82,6 +82,12 @@ tbd
 
 ::genre::
 
+## Azaghal - Nekrohelios
+
+tbd
+
+::genre::
+
 ## Balmora - These Graven Halls
 
 tbd
@@ -125,6 +131,12 @@ tbd
 ::genre::
 
 ## Bleeth - Lazara
+
+tbd
+
+::genre::
+
+## Bloodred Hourglass - After the Burial
 
 tbd
 
@@ -329,6 +341,12 @@ Eleni Mandell ist eine erfahrene Singer-Songwriterin und eine tragende Säule de
 ::genre::alt folk, indie rock, ambient, jazz noir
 
 ## Eli & Fur - Dreams At Dusk Pt. II
+
+tbd
+
+::genre::
+
+## Embryonic Autopsy - Rise of the Mutated
 
 tbd
 
@@ -838,6 +856,12 @@ tbd
 
 ::genre::
 
+## Orphan Donor - Ailments
+
+tbd
+
+::genre::
+
 ## Paul McCartney - The Boys of Dungeon Lane
 
 tbd
@@ -1150,12 +1174,6 @@ Als äußerst produktives Underground-Projekt ist "Carousel" Scotts fünftes Alb
 
 ::genre::midwest emo, slowcore, indie rock, bedroom pop, alt folk
 
-## Vimbullnat - Der Dunklen Tugenden; Echos
-
-tbd
-
-::genre::
-
 ## Vintregal - Назустріч Останньому Світанку
 
 Als brandneues Underground-Projekt bringt Vintregal die Widerstandskraft, den Geist und die weiten Naturlandschaften ihrer Heimat in ihre Musik ein. Die Tracks zeichnen sich durch eine organische, kühle Produktion aus, bei der der Schwerpunkt ganz klar darauf liegt, eine karge, uralte Atmosphäre einzufangen. Ein rauer, atmosphärischer **Pagan Black Metal**. Die Musik stützt sich stark auf epische, frostige Gitarrenriffs, kalte Rhythmusmuster und harte, unnachgiebige Gesangsdarbietungen, die an klassische griechische und osteuropäische Black-Metal-Größen erinnern. Wenn man "Назустріч Останньому Світанку" hört, fühlt es sich an, als stünde man mitten im Winter auf einem verschneiten Bergrücken, während ein eisiger Wind versucht, einem den Mantel vom Leib zu reißen. Diese EP ist ein brillant rohes, kompromissloses Stück Black Metal, das wunderschön ungeschliffen und zutiefst menschlich klingt. Die Musik schreitet voran durch eiskalte Blastbeats und heroische, hochfliegende Gitarrentremoli, die die Ausdauer des Landes und seiner Menschen feiern. Sie balanciert ihre unerbittlichen, metallischen Stürme mit kurzen, filmischen Atempausen aus - untermalt vom tatsächlichen Klang heulender Winterwinde und Akustikgitarren, die durch den Frost klimpern. Es ist ein kraftvolles, düsteres und absolut majestätisches Debüt, das die wilde Seele des Undergrounds einfängt.
@@ -1375,6 +1393,12 @@ TARAB Machine ist ein Jazz-Avantgarde-Ensemble, das Mitte 2025 gegründet wurde.
 Die Band wurde um das Jahr 2004 gegründet und blickt auf über 20 Jahre Erfahrung zurück. "Sins" ist ihr siebtes Studioalbum und markiert ihr Comeback nach einer achtjährigen Pause. Es wurde live in den legendären Electrical Audio Studios in Chicago auf Band aufgenommen, um dem analogen Produktionsethos des verstorbenen Steve Albini Tribut zu zollen. Eine kraftvolle Fusion aus **Classic Rock**, **Psychedelia**, **Folk** und **Alternative Rock/Grunge** der 90er Jahre, gewürzt mit dunklen Untertönen von **Stoner Rock** und **Sludge Metal**. Packt eure Koffer, denn "Sins" ist ein One-Way-Ticket in ein raues, schweißgetränktes Rock’n’Roll Refugium! Das ist kein polierter, computer-quantisierter Modern Rock; es ist ein lebendiges, atmendes Wesen, live eingefangen in einem Raum, in dem man die Röhren in den Verstärkern förmlich um Gnade schreien hört. Das Album fühlt sich an wie ein wunderschön zerschlagenes Tagebuch. Es wechselt zwischen kolossalen, rauchgefüllten Wüstenriffs, die in der Brust dröhnen, und eindringlichen, keyboardlastigen Passagen, die einen durchatmen lassen, bevor die nächste Adrenalinwelle zuschlägt. Der Gesang wirkt wunderbar unverhüllt - er handelt von emotionalen Kampfnarben und absolutem Trotz. Er ist reif, er ist unapologetisch laut, und es klingt, als würde eine Band spielen, als hinge ihr Leben davon ab.
 
 ::genre::hard rock, stoner rock, sludge metal, alt rock, post grunge, psych rock, prog folk
+
+## Vimbulnatt - Der Dunklen Tugenden; Echos
+
+Vimbulnatt, ein seit 2018 als zurückgezogenes, menschenfeindliches Duo auftretendes Projekt, knüpft direkt an sein vorheriges Album "Der Urgrund" aus dem Jahr 2024 an. Sie haben dieses Nachfolgealbum als eine äußerst durchdachte, autobiografische Leinwand für düstere Philosophien konzipiert. Eine rasante Mischung aus melodischem, temporeichem **Melodic Black Metal** mit Old-School-Sensibilität. Klanglich lassen sie sich strukturell stark von Vorreitern der schwedischen und norwegischen Szene wie Dissection, Naglfar, Dark Funeral und Watain inspirieren. "Der Dunklen Tugenden; Echos" spielt sich genau wie ein Mitternachtsspaziergang durch einen verwunschenen mittelalterlichen Kiefernwald ab, während um einen herum ein gewaltiger Schneesturm tobt. Das Album stützt sich auf spektakuläre, erschauernde Gitarrentremoli und eine blitzschnelle Wand aus Blastbeats, die unglaublich eisig und kalkuliert klingen. Anstatt sich rein auf sinnlosen Lärm zu verlassen, verwebt die Band ein wunderschönes, trauerndes Gefühl von Melodie unter ihre düsteren Schreie. Es fühlt sich zutiefst atmosphärisch, grandios und unverhohlen dramatisch an – das klangliche Äquivalent zum Lesen alter, düsterer Poesie unter einem Blutmond, während man viel zu viel Leder trägt.
+
+::genre::melo black metal
 
 ## Voidmaker - A Cold, Unyielding Universe
 
