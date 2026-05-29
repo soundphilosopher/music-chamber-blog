@@ -1020,45 +1020,45 @@ tbd
 
 ## The Alarm - Transformation
 
-tbd
+Unter der Führung des visionären Frontmanns und Songwriters Mike Peters, der die Band über vier Jahrzehnte hinweg prägte, erlangte The Alarm mit großen Rock-Klassikern der 80er Jahre wie "68 Guns" und "Spirit of '76" weltweite Bekanntheit. "Transformation" ist ein monumentaler, emotional bewegender Meilenstein im Werk der Band; das Album entstand während Peters’ mutigem, letztem Kampf gegen eine aggressive Krebserkrankung, das sogenannte Richter-Syndrom. Spontan aufgenommen während einiger intensiver Monate bis hin zur Nacht vor seiner Einweisung ins Krankenhaus, dient dieses Album tragischerweise als sein endgültiges, posthumes musikalisches Vermächtnis. Eine bewegende, stadiontaugliche Mischung aus **Alternative Rock**, **New Wave** und gefühlvollem **Punkrock**. Ihr charakteristischer Sound basiert auf akustisch-elektrischen Gitarrenüberlagerungen, treibenden Rhythmen und hochfliegenden, politisch aufgeladenen, mitreißenden Gesangshooks, die Themen wie Liebe, Hoffnung und Stärke verherrlichen. "Transformation" ist ein atemberaubender Akt roher Rock’n’Roll-Trotzigkeit, der sich absolut weigert, sich Traurigkeit, Dunkelheit oder Selbstmitleid zu beugen. Das Wissen um den erschütternden Kontext hinter seiner Entstehung lässt jeden hochfliegenden Gesang und jeden treibenden Gitarrenakkord mit der Wucht einer Flutwelle einschlagen. Anstelle eines düsteren Abschieds explodiert das Album aus den Lautsprechern mit einer atemberaubenden Dringlichkeit, einem Optimismus und einer unerschütterlichen Leidenschaft. Die Tracks marschieren mit demselben stadiontauglichen, mitreißenden Geist voran, der die Gruppe auf ihrem absoluten Höhepunkt auszeichnete, und dienen als aktive Warnung an die Welt, während sie mit jedem einzelnen Atemzug um das Leben kämpft. Das Album erreicht einen triumphalen, zu Tränen rührenden emotionalen Höhepunkt in der abschließenden Hymne "Love Makes Love", die sich zu einer gewaltigen Erklärung über menschliche Verbundenheit steigert, die noch lange nach dem Ende der Musik in der Luft hängt. Es ist ein inspirierendes, wunderschön produziertes Kunstwerk, das sich als glorreiche Siegesrunde behauptet.
 
-::genre::
+::genre::alt rock, power pop, new wave
 
 ## The Bug Club - Every Single Muscle
 
-tbd
+Das Duo, bestehend aus Sam Willmett und Tilly Harris, hat sich einen Ruf als absolutes Indie-Kraftpaket erarbeitet. Nach ihrem 2025 erschienenen Album "Very Human Features" ist "Every Single Muscle" bereits ihr fünftes Studioalbum in voller Länge. Diese rasante Schaffensphase führte schließlich dazu, dass sie vom legendären Independent-Label Sub Pop Records aus Seattle unter Vertrag genommen wurden. Ein atemloser, kraftvoller Mix aus **Garage Rock**, **Indie-Pop** und **Post-Punk**. Ihre Ästhetik basiert auf messerscharfem Witz, äußerst beobachtungsstarken Texten und mitreißenden, schwungvollen Gesangsparts im Duett. Klanglich beschwören sie die rasende Energie von Garagenbands der 1960er Jahre herauf, vermischt mit den druckvollen, ungeschliffenen Gitarrenriffs des Indie-Rock der frühen 2000er Jahre. "Every Single Muscle" ist ein wunderschön hektischer, leicht verstörender Rock’n’Roll-Check-up, der die conditio humana mit einer riesigen Lupe und einem gewaltigen Sinn für Humor unter die Lupe nimmt. Das gesamte Album spielt sich wie ein atemloser, hyperaktiver Garage-Rock-Marathon ab, bei dem die Band den physischen Körper wie eine buchstäbliche Einkaufsliste behandelt - und dabei innere Organe über chaotischen, summenden Gitarrenriffs auflistet. Songs wie "Look Like Me" und "How Can We Be Friends" zeichnen sich durch eine existenzielle, selbstironische Unbeholfenheit aus, die sofort nachvollziehbar und wunderbar komisch ist. Die Band umgeht die Gefahr, zu einer bloßen Kuriosität zu werden, indem sie ihre albernen, surrealen Konzepte mit unglaublich präziser, mitreißender Instrumentierung untermauert. Es ist eine strahlende, schweißtreibende und brillant knackige Sammlung kurzer, prägnanter Hymnen für alle, die es gelegentlich leid sind, ein Mensch zu sein.
 
-::genre::
+::genre::indie pop, garage rock, post punk
 
 ## The Cruel Intentions - All Hail Hypocrisy
 
-tbd
+Die Band wurde 2015 von der charismatischen Frontfrau Lizzy DeVine (ehemals Vains of Jenna) gegründet und hat sich als führende Vertreterin des modernen Retro-Rock etabliert. Unterstützt von Gitarrist Kristian Solhaug, Bassist Mats Wernerson und dem kraftvollen Schlagzeuger Robin Nilsson ist dieses Album ihr mit Spannung erwartetes drittes Studioalbum in voller Länge. Der Titelsong wurde von DeVine gemeinsam mit dem renommierten Melodic-Rock-Produzenten Erik Mårtensson von der Band Eclipse geschrieben. Eine gefährliche, hochoktanige Mischung aus **Sleaze-Rock**, **Hard-Rock** und **Pop-Punk**. Sie verbinden nahtlos die kompromisslose, stadiontaugliche Gitarrenpräsenz von 80er-Jahre-Legenden wie *Mötley Crüe* und *Guns N’ Roses* mit dem rasanten, melodischen Dreck des Punk der frühen 2000er Jahre. "All Hail Hypocrisy" ist ein dröhnender, in Lederjacken gehüllter Tritt in die Brust, der den Rückspiegel komplett zerbricht und das Gaspedal bis zum Anschlag durchdrückt. Das Album ist vollgepackt mit elf unerbittlichen Tracks und spielt sich wie eine wilde, ungezähmte Feier rücksichtsloser Nächte, chaotischer Fehler und eines unerschütterlichen Glaubens an die Kraft lauter Gitarren. Lizzy DeVine spuckt seine Texte mit einer herrlich rotzigen, raue-Stimme-Attitüde heraus, während die Rhythmusgruppe dich mit einer schieren Wucht trifft, die dich sofort dazu bringt, die Hände in die Luft zu werfen. Mit "Wasteland" - einem eindrucksvollen akustischen Highlight am Lagerfeuer - bieten sie sogar eine fantastische Überraschung, bevor sie direkt wieder in flammende, hymnenlastige Soli einsteigen. Es ist eine ausgelassene, süchtig machende und unglaublich spaßige Rockparty, die nach maximaler Lautstärke verlangt.
 
-::genre::
+::genre::power pop, hard rock, sleaze rock
 
 ## The Echo Veils - Roses are Dreams
 
-tbd
+Unter der Leitung des Songwriters Guillermo haben sich The Echo Veils über Jahre hinweg in der Indie-Underground-Szene etabliert. Sie knüpften an das Konzept ihres vorherigen Albums "The Calm Beneath The Noise" an. Für dieses neue Kapitel tat sich der kreative Kern der Band mit dem renommierten Produzenten, Toningenieur und Mixer Poli Elizondo im Poli Audio Studio zusammen. An den Sessions wirkten die langjährigen Freunde Andrew, Scott und Marco als Gastmusiker mit. Eine üppige, texturreiche Mischung aus **Dream Pop**, **Ambient Indie** und atmosphärischem **Shoegaze**. Ihr klanglicher Handschrift zeichnet sich durch weitläufige, hallende Gitarren, vielschichtige Gesangsproduktion und einen unverkennbar sanften rhythmischen Puls aus, der zwischen melancholischer Schwere und ruhigen, dahinfließenden Popmelodien wechselt. "Roses are Dreams" anzuhören fühlt sich an, als würde man um vier Uhr morgens durch eine leere, neonbeleuchtete Stadtstraße treiben, während langsam ein warmer Sommerregen zu fallen beginnt. Das Album ist eine unglaublich beruhigende und atmosphärische Reise, die einen vollständig in eine dichte Decke aus hallgetränkten Gitarrentexturen und geisterhaften, flüsternden Gesangsschichten hüllt. Es konzentriert sich stark auf Themen wie stille Selbstbeobachtung, flüchtige Erinnerungen und das Finden von Frieden inmitten des Hintergrundlärms des Alltags. Die Produktion ist bemerkenswert geschmeidig und schafft eine perfekte Balance zwischen sanftem, akustischem Fingerpicking und hochfliegenden, kosmischen Klangwänden. Es ist ein wunderschöner, wunderbar geduldiger Soundtrack, der perfekt auf alle zugeschnitten ist, die ihre Welt verlangsamen und sich ganz in einem Tagtraum verlieren möchten.
 
-::genre::
+::genre::shoegaze, indie rock, dreampop
 
 ## The Fifth Alliance - Stenahoria
 
-tbd
+Seit 2013 sind die niederländischen Veteranen aktiv und haben sich durch wegweisende Alben wie "Death Poems" und "The Depth Of The Darkness" als eine der führenden Kräfte der europäischen Underground-Szene etabliert. "Stenahoria" läutet ein brandneues Kapitel für die Band ein und präsentiert eine neu formierte Rhythmusgruppe sowie die neue Sängerin Natalya, die dem musikalischen Gefüge eine emotionsgeladene, vielseitige Klangpalette verleiht. Eine düstere, monolithische Verschmelzung aus **Blackened Doom**, **Post-Black Metal** und **Sludge**. Klanglich verbinden sie langatmige, progressive Steigerungen und schwere, apokalyptische Riffs mit einem äußerst theatralischen Gesang. "Stenahoria" zu hören fühlt sich an, als würde man einem gewaltigen Gewitter zusehen, das langsam über einen pechschwarzen Horizont zieht, während man völlig den Elementen ausgesetzt steht. Die Band schafft eine schwere, erstickende Atmosphäre, die auf doomlastigen Gitarrengeweben aufbaut, die sich in aller Ruhe und bedrohlich aufbauen, bevor sie einen mit Wellen purer metallischer Kraft erdrücken. Der absolute Star der Show ist der Gesang, der mühelos von zerbrechlichem, unter die Haut gehendem Flüstern zu absoluten, herzzerreißenden Banshee-Schreien springt, die über den Sludge hinwegschweben. Es ist ein grandioses, düsteres und wunderschön dramatisches Stück extremer Kunst, das einem tief unter die Haut geht und sich weigert, loszulassen.
 
-::genre::
+::genre::post black metal, post doom metal, sludge metal
 
-## The Freqs - No God On The Gold Coast
+## The Frēqs - No God On The Gold Coast
 
-tbd
+Das Power-Trio - bestehend aus Seth Crowell (Gitarre/Gesang), Ian Mandly (Bass/Gesang) und Zack Fierman (Schlagzeug) - hat sich seit seiner Gründung im Jahr 2019 mit vier EPs einen Namen gemacht und wurde bei den Boston Music Awards als bester Rock-Künstler nominiert. Um ihr erstes offizielles Album aufzunehmen, schlossen sie sich mit Produzent Alex Allinson im Studio "The Bridge Sound & Stage" ein. Eine chaotische, riffgeladene Mischung aus **Noise Rock**, **Indie Rock** und **Stoner Punk**. Ihr Stil orientiert sich direkt an der verzerrten, aggressiven Attitüde von Underground-Größen wie *The Jesus Lizard*, *Melvins* und *Queens Of The Stone Age*. "No God On The Gold Coast" ist ein 26-minütiger, rasender Panikanfall aus ungeschöntem Feedback und betonharten Riffs, der einem die Zahnfüllungen aus dem Mund rüttelt. Das Trio kanalisiert pure, unverfälschte Garage-Wahnsinn und spielt mit einer rasenden Energie, die an völlige Verrücktheit grenzt. Tracks wie "Chainsawman" wechseln zwischen knurrendem, statisch-getränktem Indie-Punk und kolossalen, basslastigen Stoner-Grooves, die sich anhören, als wären sie mit absichtlich kaputten Verstärkern aufgenommen worden. Es ist aggressiver, rotziger und wild unterhaltsamer Noise-Rock, der speziell darauf ausgelegt ist, deine Nachbarn zu erschrecken und deine Autolautsprecher zum Bersten zu bringen.
 
-::genre::
+::genre::desert rock, noise rock, indie rock, stoner rock
 
 ## The Hands Free - Unturned Cup
 
-tbd
+The Hands Free ist ein hochkarätiges Akustik-Quartett, bestehend aus der Pulitzer-Preisträgerin Caroline Shaw (Violine), James Moore (Gitarre/Banjo), Nathan Koci (Akkordeon) und Eleonore Oppenheim (Kontrabass). Ursprünglich aus spontanen, informellen nächtlichen Folk-Jams unter Freunden entstanden, ist "Upturned Cup" ihr mit Spannung erwartetes zweites Studioalbum, das auf ihr selbstbetiteltes Debüt aus dem Jahr 2018 folgt. Eine wunderschöne, nicht in eine Schublade zu steckende Mischung aus **Chamber Music**, **Progressive Folk** und avantgardistischer freier Improvisation. Sie greifen Elemente aus zeitgenössischen klassischen Arrangements, traditionellen Americana-/englischen Folk-Formen und Left-Field-Jazz auf. "Upturned Cup" anzuhören fühlt sich an, als würde man in eine geheime Gartenparty im Hinterhof schlendern, wo die Zeit sich sanft verlangsamt hat. Das Album verzichtet gänzlich auf schwere Elektronik oder überproduzierten Studio-Glanz und verlässt sich ganz auf das warme, organische Zusammenspiel von akustischen Saiten und tanzenden Akkordeonmelodien. Songs wie "Chrysalis" und "Roommate of the Year" winden und biegen sich mit einer wunderbar verspielten, traumhaften Physik - und bewegen sich nahtlos von komplexen, uhrwerkartigen klassischen Melodien zu weitläufigen, filmischen Folk-Klanglandschaften, die zutiefst beruhigend wirken. Es ist eine entzückend skurrile, texturreich-üppige und atemberaubende Darbietung musikalischer Kunstfertigkeit, die sich weniger wie eine steife Aufführung anfühlt, sondern eher wie ein intimes, fröhliches Gespräch zwischen lebenslangen Freunden.
 
-::genre::
+::genre::prog folk, chamber music, leftfield jazz, avant jazz
 
 ## The Real McKenzies - On Yer Bike
 
@@ -1068,75 +1068,63 @@ tbd
 
 ## The Scalar Process - Agnomysticism
 
-tbd
+Die Band, die sich zu einem der beeindruckendsten Extreme-Metal-Exporte Frankreichs entwickelt hat, sorgte mit ihrem 2021 erschienenen Debütalbum "Coagulative Matter" für Aufsehen. Nach einer fünfjährigen, sorgfältig geplanten Studio-Pause kehrte die Band zurück und erweiterte für dieses Album ihr musikalisches Spektrum, indem sie hochkarätige Extreme-Metal-Gäste wie den Gitarristen Justin McKinney (The Zenith Passage, ex-The Faceless) und den Sänger Andy Thomas (Rivers of Nihil, Black Crown Initiate) mit ins Boot holte. Eine rasante, avantgardistische Fusion aus **Technical Death Metal** und **Progressive Metal**. Klanglich verbinden sie die zerklüftete, rhythmische Komplexität moderner Tech-Death-Architektur mit dem cineastischen, melodischen Schwung des Progressive Rock und erinnern dabei an die technische Brillanz von *Edge of Sanity* und *The Zenith Passage*. Wenn dein Gehirn eine gründliche Hochdruckreinigung braucht, ist "Agnomysticism" der industriell starke Feuerwehrschlauch, nach dem du gesucht hast. Das Album entfaltet sich wie ein ausuferndes Sci-Fi-Battle-Royale aus hyper-ruckartigen Rhythmusparts, vulkanischen Blastbeats und messerscharfen Gitarrenläufen, die an mathematische Zauberei grenzen. Doch gerade wenn man denkt, der Kopf würde einem davonfliegen, zaubert die Band brillante, der Schwerkraft trotzende Kunststücke - sie gleitet in ätherische, von Trip-Hop beeinflusste Zwischenspiele, eindringliche Akustikpassagen und majestätische Monologe mit klarem Gesang, die einem gerade genug Luft zum Atmen geben, bevor sie einen wieder in den metallischen Sog ziehen. Es ist eine atemberaubend gewalttätige, wunderschön ausgefeilte und umwerfend komplexe Achterbahnfahrt, die extremen Tech-Death wie hohe Kunst behandelt.
 
-::genre::
+::genre::tech death metal, prog metal, avant death metal
 
 ## thistle. - backflip
 
-tbd
+Das junge Trio, bestehend aus Frontmann Cameron Godfrey und seinen Bandkollegen, hat sich über Jahre hinweg in der Underground-DIY-Szene einen Namen gemacht, bevor es eine ausverkaufte Headliner-Tour durch Großbritannien absolvierte, deren Höhepunkt ein ausverkaufter Auftritt im legendären Londoner Moth Club war. Im REX Studio des Produzenten Macks Faulkron hinter der U-Bahn-Station Highbury & Islington nahmen sie dieses Projekt auf, das ihre reale Balance zwischen Beruf, psychischer Gesundheit und künstlerischer Entwicklung widerspiegelt. Eine dynamische Mischung aus **Lo-Fi-Noise-Rock**, **Grunge** und **Shoegaze**, gewürzt mit unerwarteter, Hardcore-angehauchter Intensität. Sie lassen sich von einer breiten Klangpalette inspirieren - die von den fragmentierten, dramatischen Post-Hardcore-Strukturen von *Slint* über die chaotischen, nostalgischen Grunge-Hooks von *Nirvana* bis hin zur vokalen Angst moderner britischer Indie-Acts reicht. "backflip" ist ein herrlich unberechenbarer, emotionaler Schlagabtausch aus sechs Songs, der sich anfühlt, als würde man über die eigenen Füße stolpern und irgendwie perfekt auf einem Skateboard landen. Die EP verbringt ihre knappen 13 Minuten Laufzeit damit, sich aktiv zu weigern, einen Weg einzuschlagen, und hüpft fröhlich von zarten, funkelnden Gitarren-Pedal-Texturen zu massiven, ohrenbetäubenden Wänden aus schmutzigem Fuzz. Tracks wie "pieces" und "mean eye" bieten eine Meisterklasse in kalkuliertem Chaos und wechseln blitzschnell von sanften, intimen Schlafzimmerflüstern zu kreischenden, schreienden Gesangsexplosionen, die sich wunderbar aus den Fugen geraten anfühlen. Sie fangen eine wunderschön rohe In-Echtzeit-herausfinden-Energie ein, die zu gleichen Teilen aus eingängigem Indie-Rock-Ohrwurm und lautem Keller-Meltdown besteht.
 
-::genre::
-
-## Till Lindemann - Es brennt...
-
-tbd
-
-::genre::
-
-## Tired Of Fighting - And Then Suddenly It Hits You
-
-tbd
-
-::genre::
+::genre::post grunge, noise rock, shoegaze, post hardcore
 
 ## Tom Penaguin - Tom Penaguin II
 
-tbd
+Penaguin ist ein gefeierter Multi-Instrumentalist, der als Gitarrist der Psych-Rock-Band Djiin auftritt. Nachdem er mit seinem selbstbetitelten Debütalbum aus dem Jahr 2024 - auf dem er jedes einzelne Instrument selbst einspielte und dabei ausschließlich auf Vintage-Analog-Studioausrüstung setzte - für Furore sorgte, machte er sich daran, ein brandneues Heimstudio einzurichten, um sein klangliches Spektrum zu erweitern. Eine virtuose Wiederbelebung des **Progressive Rock** der Canterbury-Szene und der **Avant-Jazz-Fusion**. Seine Kompositionen greifen direkt auf klangliche Vorlagen von Legenden der 1970er Jahre wie *Egg*, *National Health* und *Soft Machine* zurück, gemischt mit der rhythmischen, mathematischen Komplexität von *Igor Strawinsky* und *Olivier Messiaen*. "Tom Penaguin II" fühlt sich an, als würde man ein verlorenes, makelloses Masterband aus dem Jahr 1973 entdecken, das von einem verrückten Jazz-Rock-Wissenschaftler aufgenommen wurde. Das gesamte Album bewegt sich mit einer verspielten, den Geist anregenden Energie und nutzt eine wunderschöne Armee von Vintage-Hammond-Orgeln, elastische Basslinien und knackige, komplexe Drums. In mehrsätzigen Stücken wie "The Ornamental Hermit Suite" verwebt Penaguin mathematisch präzise Taktarten mit ungeraden Takten, die das Gehirn auf Trab halten, während er gleichzeitig eine sonnige, ländliche Wärme bewahrt, die verhindert, dass die Musik jemals kalt wirkt. Es ist eine unglaublich reichhaltige, skurrile und atemberaubende Darbietung solistischer Musikalität, die jedem Progressive-Rock-Fan sofort ein Lächeln ins Gesicht zaubern wird.
 
-::genre::
+::genre::prog rock, neo prog rock, jazz fusion, avant rock, avant jazz
 
 ## Tooms - Karst
 
-tbd
+Die Underground Sludge Sorcerers verbrachten die Jahre 2024 und 2025 damit, auf irischen Festivals aufzutreten und gemeinsam mit Sludge-Metal-Ikonen auf der Bühne zu stehen. Anschließend zogen sie sich still und leise in die Wälder der The Meadow Studios zurück, um dieses Album gemeinsam mit Toningenieur Chris Quigley aufzunehmen. Um eine maximale Wirkung zu erzielen, wurde das Album vom legendären Produzenten Matt Bayles (Mastodon, Russian Circles) abgemischt und von Chris Fielding (Electric Wizard, Conan) gemastert. Ein schwerer, gnadenloser Cocktail aus **Sludge Metal**, **Stoner Doom** und **Hardcore Punk**, gemischt mit aggressiven Death-Metal-Untertönen. Sie verbinden die dicken, verzerrten Low-End-Klänge von Bands wie *Crowbar* und *Weedeater* mit progressiver und experimenteller Struktur. "Karst" ist ein absolutes, knochenbrechendes Monster von einem Album, das klingt, als wäre es gewaltsam aus der tiefsten, feuchtesten Höhle Irlands herausgezerrt worden. Die Platte ist randvoll mit gigantischen Riffs im Höhlenmenschen-Stil und massiven Wänden aus dreckiger Sludge-Verzerrung, die schwer genug wirken, um einen ganzen Stadtblock plattzumachen. Doch unter all dem Schlamm und der rohen, knurrenden Metal-Rüstung verbirgt sich eine seltsam menschliche und progressive Verletzlichkeit im Songwriting. Die Songs kriechen mit erstickender Doom-Intensität voran, bevor sie in rasende Hardcore-Punk-Sprints explodieren und eine bedrückende, pechschwarze Atmosphäre in eine unglaublich aufregende Headbanging-Fahrt verwandeln.
 
-::genre::
+::genre::sludge metal, doom metal, stoner metal, hardcore punk
 
 ## Treacher - Hibernation Of Death
 
-tbd
+Treacher, eine neue, kraftvolle Band, hat in den letzten Jahren eine Atmosphäre des Verfalls und des Verrats geschaffen. Um die präzise, giftige Essenz ihres musikalischen Stils einzufangen, haben sie sich mit dem hoch angesehenen Metal-Underground-Künstler Jean-Philippe Sonnet von Threadbare Artwork zusammengetan, um die visuelle Welt des Albums zu gestalten. Eine giftige, äußerst aggressive Mischung aus modernem **melodischem Death Metal** und **Dark Extreme Metal**. Ihr Stil verwebt messerscharfe, technische Gitarrenmelodien mit treibenden, groovigen Death-Metal-Riffs im Midtempo und einem dunklen, bösartigen lyrischen Ton. Wenn ihr auf der Suche nach einer tödlichen Dosis purer klanglicher Boshaftigkeit seid, liefert "Hibernation Of Death" genug Gift, um ein Pferd zu Fall zu bringen. Das Album schleicht sich wie eine aufgerollte Schlange aus einem verfaulten Graben hervor und schlägt mit seinem vernichtenden, breakdown-lastigen Titeltrack sofort einen dunklen und schweren Ton an. Treacher schafft es auf fantastische Weise, pure, knochenbrechende Aggression mit überraschend eingängigen, traurigen Gitarrenmelodien in Einklang zu bringen, die über dem Chaos schweben. Die lyrischen Themen tauchen tief in eine Welt ein, in der Vertrauen zu Staub zerfallen ist und die menschliche Natur ihr hässlichstes, betrügerischstes Gesicht zeigt. Es ist ein straffes, gnadenloses und wunderschön düsteres Debüt, das dich dazu bringen wird, dir eine Battle-Weste überzuziehen und sofort einen Moshpit zu zerstören.
 
-::genre::
+::genre::melo death metal, blackened death metal, dark metal
 
 ## Trelldom - ...by the word...
 
-tbd
+Trelldom wurde 1992 gegründet und ist das historische Projekt des legendären Sängers Kristian Eivind Espedal, allgemein bekannt als Gaahl (ehemals bei Gorgoroth und Gaahls Wyrd). Nach einer 17-jährigen Pause kehrte die Band 2024 mit dem Album "...by the shadows..." zurück. Für dieses Album kehrte Gaahl in die legendären Grieghallen Studios in Bergen zurück, um dort mit dem wegweisenden Black-Metal-Produzenten Eirik "Pytten" Hundvin zusammenzuarbeiten, unterstützt von erstklassigen Musikern verschiedener Genres wie dem Meister-Schlagzeuger Kenneth Kapstad. Eine unberechenbare, weitläufige Fusion aus **Avantgarde-Black-Metal**, **dissonantem Jazz** und **Progressive Rock**. Obwohl im traditionellen, rohen norwegischen Black Metal verwurzelt, bezieht ihr aktueller Sound massive stilistische Anleihen aus den multi-instrumentalen Exzentrizitäten und seltsamen Zeitstrukturen von *King Crimson*, gepaart mit chaotischer Free-Jazz-Instrumentierung. "...by the word..." ist ein völlig durchgeknalltes, gehirnschädigendes Stück hoher Kunst, das aktiv versucht, deine Gehirnzellen durcheinanderzubringen. Es anzuhören fühlt sich an, als wäre man in einem dunklen, schmuddeligen Underground-Jazzclub eingesperrt, der von einer Horde aggressiver Waldwesen übernommen wurde. Gaahl wirft die üblichen Regeln des Metal komplett über Bord und kombiniert seinen eindringlichen klaren Gesang und seine harschen Schreie mit einer regelrechten Lawine aus kreischenden Saxophonen, jammernden Holzbläsern und avantgardistischen Klarinettenlinien. Die Basslinien pulsieren mit erschreckender Kraft, während das Schlagzeug unvorhersehbare, jazzige Rhythmen abfeuert, die jegliches Gleichgewicht völlig zerstören. Es ist ein intensiver, erstickender und wunderschön verstörender Albtraum, der diejenigen belohnt, die mutig genug sind, sich in die Dunkelheit zu begeben.
 
-::genre::
+::genre::avant black metal, prog rock, avant jazz, jazz fusion
 
 ## Trueandtrue - Nosedive
 
-tbd
+Nachdem sich Trueandtrue durch schweißtreibende, energiegeladene Live-Auftritte und gemeinsame Auftritte in der Underground-Szene einen hervorragenden Ruf in der lokalen Szene erarbeitet hatten, verbrachten sie das letzte Jahr damit, akribisch an einem gewaltigen musikalischen Statement zu arbeiten. Sie schlossen sich mit großen unabhängigen Kanälen zusammen, um sicherzustellen, dass sich ihre explosive Energie perfekt auf ein breiteres Publikum übertragen lässt. Eine umwerfend harte, explosive Mischung aus **Hardcore-Punk**, **Post-Hardcore** und **Noise-Rock**. Klanglich kanalisieren sie eine unerbittliche, messerscharfe Aggression, die rasante, metallische Riffs mit chaotischen, unvorhersehbaren rhythmischen Breaks in Einklang bringt - stark inspiriert von der kompromisslosen, rohen Underground-Punk-Architektur. Wenn du schon immer einmal das klangliche Äquivalent eines außer Kontrolle geratenen Güterzugs erleben wolltest, der durch eine Betonwand kracht, dann ist "Nosedive" hier, um deine Träume wahr werden zu lassen. Trueandtrues Debütalbum weigert sich, nach sicheren Regeln zu spielen; es ist ein unerbittlicher, schwindelerregender Ansturm aus zerklüftetem Gitarren-Feedback, hämmernden Drum-Patterns und rohem, kehlenschneidendem Gesang, der sich anfühlt, als stünde er ständig am Rande des völligen Chaos. Tracks wie "The Director’s Cut" unterstreichen ihre brillante Fähigkeit, von purem, erstickendem Lärm zu schweren, groovigen Breakdowns zu wechseln, die dich sofort dazu bringen, in einen Moshpit zu springen. Es ist ein aggressives, erschöpfendes und völlig unberechenbares Album, das beweist, dass der europäische Heavy-Underground ein aufregendes neues Biest in seinen Reihen hat.
 
-::genre::
+::genre::hardcore punk, post hardcore, metallic hardcore, noise rock
 
 ## Turnover - Down On Earth
 
-tbd
+Turnover genießt in der alternativen Szene große Anerkennung, vor allem für ihr bahnbrechendes Dream-Pop-/Shoegaze-Meisterwerk "Peripheral Vision" aus dem Jahr 2015. Mit dem Schritt weg von großen institutionellen Strukturen läutet "Down On Earth" eine Ära der radikalen Unabhängigkeit für die Band ein. Das Album mit zehn Titeln wurde in mehreren Sessions zwischen 2024 und 2025 im Earth Analog Studio aufgenommen, in Zusammenarbeit mit dem langjährigen Partner und Produzenten Zac Montez. Eine luftige, meditative Weiterentwicklung von **Dream Pop**, **Indie Rock** und **Emo**. Ihr Stil baut auf klaren, schimmernden Gitarrenklängen, treibenden, aber luftigen Arrangements und einem äußerst zurückhaltenden Gesang auf. Strukturell lassen sie sich von den introspektiven Räumen des Indie-Emo der Mitte der 2010er Jahre und von leichtem, organischem Alternative-Pop beeinflussen. "Down On Earth" fühlt sich genau so an, als würde man zusehen, wie sich die Schatten der Nachmittagssonne langsam über den Boden eines leeren Schlafzimmers ausbreiten. Anstatt auf ein gewaltiges, dramatisches Finale hinzuarbeiten, entführt Turnover den Hörer in eine wunderschön geduldige, hypnotische Welt, in der die Gitarren wie sanftes Glas klingen und die Basslinien sich mit einem sanften, ungestörten Schwung bewegen. Austin Getz’ Gesang schwebt direkt am Rande der Wahrnehmung und erzählt entspannte, tiefgründige Geschichten über Vergänglichkeit, Liebe und die alltägliche Aufgabe, sich im Erwachsenenleben zurechtzufinden, ohne sofort alle Antworten zu brauchen. Es ist ein unglaublich angenehmer, luftiger und atmosphärischer Soundtrack für alle, die die Autofenster herunterkurbeln, ihre Gedanken zur Ruhe kommen lassen und einfach durch einen dunstigen Nachmittag treiben möchten.
 
-::genre::
+::genre::dreampop, shoegaze, indie rock, emocore
 
 ## Tyrann - Tyrann Forever
 
-tbd
+Tyrann wurde 2018 gegründet und ist eine Heavy-Metal-Supergroup, die sich aus Underground-Veteranen zusammensetzt, die in hoch angesehenen Bands wie *Enforcer* und *Tribulation* spielen oder gespielt haben. "Tyrann Forever" ist ihr triumphales drittes Studioalbum, das auf ihre Underground-Erfolgsalben "Djävulens musik" (2021) und "Besatt" (2023) folgt. Eine nostalgische, messerscharfe Fusion aus traditionellem **Heavy Metal**, **Hard Rock** der frühen 80er Jahre und stimmungsvollem **AOR**. Ihr Stil baut auf dem galoppierenden Twin-Gitarren-Angriff der frühen *Iron Maiden* auf, gemischt mit primitivem Proto-Metal, Garage-Rock-Ethos und traditionellen schwedischen Metal-Melodien. "Tyrann Forever" fühlt sich an wie eine rasante, in Denim und Leder gehüllte Zeitreise direkt zurück nach London oder Stockholm im Jahr 1981. Mit einer Laufzeit von unglaublich straffen und explosiven 30 Minuten verschwendet das Album absolut keine Zeit mit Schnickschnack und liefert acht geradlinige, hämmernde Tracks voller purer metallischer Leidenschaft. Die Produktion ist herrlich roh, aber brillant eingängig und verwebt galoppierende Rhythmen, heulende Vocals und fantastische, harmonische Twin-Gitarren-Leads miteinander. Tyrann wirft sogar ein paar unerwartete kreative Überraschungen ein, wie zum Beispiel einen kurzen, rasenden Black-Metal-Rhythmus, der direkt in ein feuriges Classic-Rock-Solo übergeht. Es ist eine wild-lustige, teuflische und völlig entfesselte Hommage an den traditionellen Heavy Metal, die danach verlangt, bei maximaler Lautstärke aufgedreht zu werden.
 
-::genre::
+::genre::heavy metal, hard rock, arena rock
 
 ## Unplugged System - Absolut kein Punk
 
-tbd
+Das junge Trio wurde 2021 von Frontmann und Sänger/Gitarrist Kev gegründet und hat sich in den letzten Jahren rasch in der Underground-DIY-Punkszene einen Namen gemacht. Nachdem sie mit ihren ersten Singles große Aufmerksamkeit erregt hatten, unterschrieben sie Ende 2025 einen Vertrag beim Lüneburger Independent-Label Rock Zone Records. 100 % kompromissloser **Deutschpunk** und moderner **Punkrock** der 2000er Jahre. Ihr Sound ist stark von der Energie des traditionellen deutschen Punks und melodischen Hooks geprägt und erinnert an legendäre Acts wie *Die Ärzte*, *Tocotronic* und klassischen **Street-Punk**. Ungeachtet dessen, was der freche Titel "Absolut kein Punk" behauptet, ist dieses Album ein wunderschön lauter, rotziger und energiegeladener Liebesbrief an den klassischen deutschen Punkrock. Das Trio rockt sich durch 13 hochoktanige Hymnen, gefüllt mit knackigen, verzerrten Gitarrenriffs, blitzschnellen Drumbeats und wild mitreißenden Hooks zum Mitsingen. Textlich ist das Album herrlich unprätentiös und verwandelt alltägliche Teenager-Langeweile, das Abhängen mit Freunden und belanglose kleine Lebenskrisen in gewaltige, die Lautsprecher zum Beben bringende Hymnen. Es ist der perfekte Soundtrack, um in einem unaufgeräumten Zimmer herumzutanzen, mit Freunden ein kühles Getränk zu genießen und sich zu weigern, die Last der Welt allzu ernst zu nehmen.
 
-::genre::
+::genre::punk rock, streetpunk
 
 ## Upupayāma - Honesty Flowers
 
