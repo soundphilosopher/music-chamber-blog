@@ -8,17 +8,1219 @@ categories:
 
 # Releases! Releases! Releases!
 
+## A Liquid Landscape - Rogue Planet
+
+tbd
+
+::genre::
+
+## Abrasive Trees - Light Remaining
+
+tbd
+
+::genre::
+
+## Acacia Avenue - Chapter V
+
+tbd
+
+::genre::
+
+<!-- more -->
+
+## aespa - LEMONADE
+
+tbd
+
+::genre::
+
+## AfterWinter - Boundless
+
+tbd
+
+::genre::
+
+## Alana Springsteen - I Hope This Helps
+
+tbd
+
+::genre::
+
+## Albion - It Was In The Month Of May
+
+tbd
+
+::genre::
+
+## All Them Witches - House of Mirrors
+
+tbd
+
+::genre::
+
+## Amelia Ya’el - Voices I
+
+tbd
+
+::genre::
+
+## Ana - Motivated By Death
+
+tbd
+
+::genre::
+
+## Ater Era - Sinistria
+
+tbd
+
+::genre::
+
+## Avertat - Dead End Life
+
+tbd
+
+::genre::
+
+## Balmora - These Graven Halls
+
+tbd
+
+::genre::
+
+## Belialed - The Echoless Chasm
+
+tbd
+
+::genre::
+
+## Between Bodies - Hands To Hold Each Other
+
+tbd
+
+::genre::
+
+## Big Iron - Demo
+
+tbd
+
+::genre::
+
+## Bjørn Riis - Lifandi
+
+tbd
+
+::genre::
+
+## Black Rose Rebellion - Hail The Rebel Queen
+
+tbd
+
+::genre::
+
+## BlackMarket - Radical Views
+
+tbd
+
+::genre::
+
+## Bleeth - Lazara
+
+tbd
+
+::genre::
+
 ## Boards of Canada - Inferno
 
 Das von dem Geschwisterpaar Michael Sandison und Marcus Eoin gegründete Duo Boards of Canada gilt als einer der mythischsten und einflussreichsten Meilensteine in der Geschichte der zeitgenössischen elektronischen Musik. In den 1990er Jahren traten sie über ihr eigenes Label Music70 in Erscheinung und fanden später bei Warp Records eine feste Heimat. Mit wegweisenden Alben wie "Music Has the Right to Children" und "Geogaddi" prägten sie den Stil von IDM und ambienter elektronischer Musik. "Inferno" ist ihr monumentales fünftes Studioalbum, das eine quälend lange 13-jährige Phase fast völliger Funkstille seit "Tomorrow’s Harvest" aus dem Jahr 2013 beendet. Das Album ist eine düstere, komplexe Weiterentwicklung von **IDM**, **Ambient Techno**, Sound Design und **Hauntology**. Das Duo stützt sich stark auf seine charakteristischen analogen Bandverzerrungen, Samples aus alten Bildungsdokumentationen und mathematisch-geometrische Konzepte, versetzt diese Platte jedoch mit vermehrten akustischen Live-Instrumenten und starken kosmischen Elementen. War ihr vorheriges Album der Klang einer trostlosen, postapokalyptischen Wüste, so ist "Inferno" der Klang des Weltraums, der sich langsam in sich selbst zusammenfaltet. Getreu seinem Titel wirkt das Album deutlich bedrohlicher, intensiver und klanglich kraftvoller als die gemütliche Nostalgie ihrer frühen Werke. Die Eröffnungsstücke täuschen einem ein falsches Gefühl klassischer, warmer Geborgenheit vor, bevor Tracks wie "Prophecy At 1420 MHz" eine schwere, metallische Bassline direkt auf die Brust fallen lassen, begleitet von verzerrten, robotischen Übertragungen, die sich anfühlen wie ein gestörter Satellitenfeed aus einem Horrorfilm. Die Themen erkunden die Tiefen der Zeit, mathematische Philosophie, kosmische Angst und existenzielle Furcht. Es ist eine herausfordernde, zutiefst surreale und unglaublich kraftvolle Klangreise, die beweist, dass die zurückgezogen lebenden Brüder während ihres Jahrzehnts im Verborgenen keinen Deut ihrer Magie eingebüßt haben.
 
 ::genre::idm, ambient, minimal electronica, hauntology
 
+## Bushman's Revenge - Ah, Les Vaches!
+
+tbd
+
+::genre::
+
+## Cambrian - Oceans Away
+
+tbd
+
+::genre::
+
+## Camille Camille - Enchanted Sea
+
+tbd
+
+::genre::
+
+## Chloe Luna - Hidden Reverse
+
+tbd
+
+::genre::
+
+## Chris Coull Quartet With Imogen Ryall - Songs From Porgy And Bess
+
+tbd
+
+::genre::
+
+## Chroma - 25 Forever
+
+tbd
+
+::genre::
+
+## Chronic Hate - Defeating The Oblivion Of Life
+
+tbd
+
+::genre::
+
+## Columbia Icefield - A Silence Opens
+
+tbd
+
+::genre::
+
+## Consecration - Exanimis
+
+tbd
+
+::genre::
+
+## Crocell - Swarm Of Insects
+
+tbd
+
+::genre::
+
+## Crushing - Voice Chat
+
+tbd
+
+::genre::
+
+## Dalia Valanciute - One or Two Things
+
+tbd
+
+::genre::
+
+## Dark Divine - Undead Melody
+
+tbd
+
+::genre::
+
+## Dark Millennium - Come
+
+tbd
+
+::genre::
+
+## Dauþuz - Todeswerk: Uranium II
+
+tbd
+
+::genre::
+
+## David Giesel - Echoes of the Unknown
+
+tbd
+
+::genre::
+
+## David Torn - now i imagine a place not the same
+
+tbd
+
+::genre::
+
+## Deafkids - Cicatrizes Do Futuro
+
+tbd
+
+::genre::
+
+## Decanon - Planet Decanon
+
+tbd
+
+::genre::
+
+## Deus Saboath - Distortion Of Lies
+
+tbd
+
+::genre::
+
+## Devin Townsend - The Moth
+
+tbd
+
+::genre::
+
+## Die Toten Hosen - Trink aus, wir müssen gehen!
+
+tbd
+
+::genre::
+
+## Digitalism - Optimism
+
+tbd
+
+::genre::
+
+## Diminishing - The Outcome
+
+tbd
+
+::genre::
+
+## Dogstar - All In Now
+
+tbd
+
+::genre::
+
+## Don Williams - EPILOGUE: THE CELLAR TAPES
+
+tbd
+
+::genre::
+
+## Doublespeak - Doublespeak
+
+tbd
+
+::genre::
+
+## Duchamp - On With The Show
+
+tbd
+
+::genre::
+
+## ear - Rumspringa
+
+tbd
+
+::genre::
+
+## Eaten By Sharks - The Undertow Of Hate
+
+tbd
+
+::genre::
+
+## Elder - Through Zero
+
+tbd
+
+::genre::
+
 ## Eleni Mandell - Tailspin
 
 Eleni Mandell ist eine erfahrene Singer-Songwriterin und eine tragende Säule der Indie-Musikszene in Los Angeles. Seit Ende der 1990er Jahre ist sie aktiv und hat eine hoch angesehene Solodiskografie mit über einem Dutzend Alben aufgebaut (darunter "Miracle of Five" und "I Can See the Future"). Außerdem ist sie Gründungsmitglied des Indie-Pop-Harmonie-Quartetts "The Living Sisters" an der Seite von Inara George, Alex Lilly und Becky Stark. "Tailspin" markiert ihr mit Spannung erwartetes Comeback nach einer bemerkenswerten siebenjährigen Pause bei der Veröffentlichung von Soloalben. Ihre Musik bewegt sich an der Schnittstelle von **Folk**, **Indie-Rock**, **Lounge**, **Alt-Country** und **Noir-Jazz**. Stark beeinflusst vom zeitlosen Songwriting von Tom Waits, PJ Harvey und Lucinda Williams, ist sie dafür bekannt, rauchige Gesangsdarbietungen mit komplexen, alltäglichen Geschichten zu verbinden. Wenn Sie schon immer einmal in der Ecknische einer schummrigen, neonbeleuchteten Lounge in Los Angeles sitzen wollten, während Ihnen jemand bei einem Glas Whiskey unglaublich witzige, wunderschön tragische Geheimnisse anvertraut, dann ist "Tailspin" Ihr Traumalbum. Mandell nutzt ihre charakteristische Westküsten-Coolness und ihren rauchigen, jazzigen Gesang, um durch die chaotischen Verwicklungen von Romantik, Familie und dem Älterwerden in einer weitläufigen Metropole zu navigieren. Songs wie "How Will I Know" und "Teardrop Ghost" schwingen geschmeidig zwischen melancholischem Folk und stimmungsvollem Indie-Rock. Es ist filmisch, elegant und zutiefst intim und beweist, dass der beste Weg, mit einem persönlichen Absturz umzugehen, manchmal darin besteht, ihn in eine wunderschöne Melodie zu verwandeln.
 
 ::genre::alt folk, indie rock, ambient, jazz noir
+
+## Eli & Fur - Dreams At Dusk Pt. II
+
+tbd
+
+::genre::
+
+## Emi Fe Ensemble - Tales of the Realm of Wishes
+
+tbd
+
+::genre::
+
+## Emmet Cohen - Universal Truth
+
+tbd
+
+::genre::
+
+## Erdve - Epigrama
+
+tbd
+
+::genre::
+
+## eric arn - Over Maribor
+
+tbd
+
+::genre::
+
+## Eternal Evil - Forever Feared
+
+tbd
+
+::genre::
+
+## Europe - Come This Madness
+
+tbd
+
+::genre::
+
+## Federico Perotti - Quadro
+
+tbd
+
+::genre::
+
+## Feon - Darkness Within Darkness
+
+tbd
+
+::genre::
+
+## Foxblood - Patchwork & Standby
+
+tbd
+
+::genre::
+
+## Francis of Delirium - Run, Run Pure Beauty
+
+tbd
+
+::genre::
+
+## Friday Night Plans - Blue Hour
+
+tbd
+
+::genre::
+
+## Friends Don’t Lie - Zenit der Dramaturgie
+
+tbd
+
+::genre::
+
+## Funebrarum - Beckoning The Void Of Eternal Silence
+
+tbd
+
+::genre::
+
+## Furnace - Echoes Of A Distant Future
+
+tbd
+
+::genre::
+
+## Galvanist - The Silence Between Stars
+
+tbd
+
+::genre::
+
+## Ghinzu - W.O.W.A
+
+tbd
+
+::genre::
+
+## Gigi Masin - Movement
+
+tbd
+
+::genre::
+
+## Gipsy Kings - Historia
+
+tbd
+
+::genre::
+
+## Go Mahhh - Doppelgänger
+
+tbd
+
+::genre::
+
+## Godthrymm - Projections
+
+tbd
+
+::genre::
+
+## Gouge - Pure Deathfuck
+
+tbd
+
+::genre::
+
+## Graveir - The Festering Triad
+
+tbd
+
+::genre::
+
+## Greg Mendez - Beauty Land
+
+tbd
+
+::genre::
+
+## Grenzkontrolle - Piraten
+
+tbd
+
+::genre::
+
+## Grice - Filter
+
+tbd
+
+::genre::
+
+## Guided By Voices - Crawlspace Of The Pantheon
+
+tbd
+
+::genre::
+
+## Gutrectomy - Slamdown Is Not A Phase, Mom
+
+tbd
+
+::genre::
+
+## Haircut 100 - Boxing the Compass
+
+tbd
+
+::genre::
+
+## Hanry - What Came From Silence
+
+tbd
+
+::genre::
+
+## Harboured - We’re Only The Love That We Lead
+
+tbd
+
+::genre::
+
+## Hecate Enthroned - The Corpse of A Titan, A Lament Long Buried
+
+tbd
+
+::genre::
+
+## Horizon Of Aeons - Timeless Forms Of Desolation
+
+tbd
+
+::genre::
+
+## Hunx and the Punk - The Punkettes
+
+tbd
+
+::genre::
+
+## Hypnosaur - Afterlife
+
+tbd
+
+::genre::
+
+## I Will Destroy You - Dead Before Dawn
+
+tbd
+
+::genre::
+
+## Iceage - For Love of Grace & the Hereafter
+
+tbd
+
+::genre::
+
+## James Wengrow - Emissary
+
+tbd
+
+::genre::
+
+## Jayler - Voices Unheard
+
+tbd
+
+::genre::
+
+## John Gallagher Jr. - Almost OK
+
+tbd
+
+::genre::
+
+## Joshua Ray Walker - Ain’t Dead Yet
+
+tbd
+
+::genre::
+
+## Kid Feral - 2019
+
+tbd
+
+::genre::
+
+## Kiefer Sutherland - Grey
+
+tbd
+
+::genre::
+
+## Kikù Hibino & Merzbow - Rococo ∞ Echomatter
+
+tbd
+
+::genre::
+
+## Kill ‚Em All - Kill ‚Em All
+
+tbd
+
+::genre::
+
+## Kris Toner & Cathlene Pineda - Sung
+
+tbd
+
+::genre::
+
+## Kristoffer Gildenlöw - [Humanised]
+
+tbd
+
+::genre::
+
+## Kurt Vile - Philadelphia's Been Good To Me
+
+tbd
+
+::genre::
+
+## Kyp Moore - Reason To Believe
+
+tbd
+
+::genre::
+
+## Káryyn - Physics Universal Love Language (Pull)
+
+tbd
+
+::genre::
+
+## Labrinth - Cosmic Opera Act II
+
+tbd
+
+::genre::
+
+## Latto - Big Mama
+
+tbd
+
+::genre::
+
+## Laurence Pike - Possible Utopias for Jazz Quintet
+
+tbd
+
+::genre::
+
+## Lazara - Lazara
+
+tbd
+
+::genre::
+
+## LEATHERWITCH - First Spell
+
+tbd
+
+::genre::
+
+## Lenka - Good Days
+
+tbd
+
+::genre::
+
+## Leonardo Barbierato - ]ex(s)it(u)[
+
+tbd
+
+::genre::
+
+## Liva - Ecce Mundus
+
+tbd
+
+::genre::
+
+## Lock Up - Brethren Of The Pentagram
+
+tbd
+
+::genre::
+
+## Lonely Crowd - By The Time You Read This
+
+tbd
+
+::genre::
+
+## Lowcard De La Morte/Killseduction - Kill De La Morte Split
+
+tbd
+
+::genre::
+
+## Lufeh - Overwhelmed
+
+tbd
+
+::genre::
+
+## Lynch Mob - The Final Ride
+
+tbd
+
+::genre::
+
+## Mad Iris - Mad Iris
+
+tbd
+
+::genre::
+
+## Madsen - Smile
+
+tbd
+
+::genre::
+
+## Maladie - The Dance Of Tragedies
+
+tbd
+
+::genre::
+
+## Malebeste - Monestherou
+
+tbd
+
+::genre::
+
+## Malummeh - Malummeh
+
+tbd
+
+::genre::
+
+## Mandy Manala - Something Wicked
+
+tbd
+
+::genre::
+
+## Masquerage - Atomic Spies
+
+tbd
+
+::genre::
+
+## Meltification - Meltification
+
+tbd
+
+::genre::
+
+## Melting - A Pathetic Excuse For A Life
+
+tbd
+
+::genre::
+
+## Monolord - Neverending
+
+tbd
+
+::genre::
+
+## Morgan Evans-Weiler & J.P.A. Falzone - Grid and Gradient
+
+tbd
+
+::genre::
+
+## Moses Yoofee Trio - CHASING LIGHT
+
+tbd
+
+::genre::
+
+## Muell - Arbeit
+
+tbd
+
+::genre::
+
+## Mull Historical Society - In My Mind There’s A Photograph
+
+tbd
+
+::genre::
+
+## Mzztr - Pronounced Mis-Ter
+
+tbd
+
+::genre::
+
+## Narnia - X
+
+tbd
+
+::genre::
+
+## Necrobeast - Iron Baphomet
+
+tbd
+
+::genre::
+
+## Neil Young and the Chrome Hearts - as time explodes
+
+tbd
+
+::genre::
+
+## Nidelgret - Traüerlarm
+
+tbd
+
+::genre::
+
+## OK Kid - Komm, wir bleiben stehen
+
+tbd
+
+::genre::
+
+## On Borrowed Time - In The Dark Before The Dawn
+
+tbd
+
+::genre::
+
+## Opal Mag - Goodbye Lavender
+
+tbd
+
+::genre::
+
+## Paul McCartney - The Boys of Dungeon Lane
+
+tbd
+
+::genre::
+
+## Penelope Trappes - Opvs Novum: A Requiem Reworked
+
+tbd
+
+::genre::
+
+## Pharmacist - Vertebrae After Vertebrae
+
+tbd
+
+::genre::
+
+## Poise - Iron Foot
+
+tbd
+
+::genre::
+
+## Pvrgatorii - Profane Rites For Cursed Times
+
+tbd
+
+::genre::
+
+## Rakinua, Esi Um Nina - Heal Us, Mother
+
+tbd
+
+::genre::
+
+## Red Sky - Nostalgia del Futuro
+
+tbd
+
+::genre::
+
+## Redshift - Down The Wire
+
+tbd
+
+::genre::
+
+## Renée Fleming and Béla Fleck - The Fiddle and the Drum
+
+tbd
+
+::genre::
+
+## Robin Katz - Hypnos
+
+tbd
+
+::genre::
+
+## Rodney Atkins - True South
+
+tbd
+
+::genre::
+
+## Rosie Carney - Doomsday… Don’t Leave Me Here
+
+tbd
+
+::genre::
+
+## Saint Agnes - Your God Fearing Days Are About To Begin
+
+tbd
+
+::genre::
+
+## Saint Harison - Ghosted
+
+tbd
+
+::genre::
+
+## Sarcasm - Lifeforce Omnibound
+
+tbd
+
+::genre::
+
+## Se, Josta Ei Puhuta - Syvyyden Portit On Saatava Auki
+
+tbd
+
+::genre::
+
+## Serpent Lord - The Once Forgotten Ways of Old
+
+tbd
+
+::genre::
+
+## Seven Crowns - Haunted Head
+
+tbd
+
+::genre::
+
+## SeventhString - An Ocean Laced With Glass
+
+tbd
+
+::genre::
+
+## Shinedown - EI8HT
+
+tbd
+
+::genre::
+
+## Sierra Spirit - Rodeo Clown
+
+tbd
+
+::genre::
+
+## Simon Steensland - Explosion of Bad Music
+
+tbd
+
+::genre::
+
+## Siyahkal - Corrupt
+
+tbd
+
+::genre::
+
+## Somnia Finem - Desassossego
+
+tbd
+
+::genre::
+
+## Sparta - Cut a Silhouette
+
+tbd
+
+::genre::
+
+## Stairway To Violet - Invictus
+
+tbd
+
+::genre::
+
+## Stardust Multiplier - Convergence
+
+tbd
+
+::genre::
+
+## Static Dress - Injury Episode
+
+tbd
+
+::genre::
+
+## Sue Cahill - Evanstonia
+
+tbd
+
+::genre::
+
+## SUSTO - Susto Stringband (Volume 2)
+
+tbd
+
+::genre::
+
+## The Alarm - Transformation
+
+tbd
+
+::genre::
+
+## The Bug Club - Every Single Muscle
+
+tbd
+
+::genre::
+
+## The Cruel Intentions - All Hail Hypocrisy
+
+tbd
+
+::genre::
+
+## The Echo Veils - Roses are Dreams
+
+tbd
+
+::genre::
+
+## The Fifth Alliance - Stenahoria
+
+tbd
+
+::genre::
+
+## The Freqs - No God On The Gold Coast
+
+tbd
+
+::genre::
+
+## The Hands Free - Unturned Cup
+
+tbd
+
+::genre::
+
+## The Real McKenzies - On Yer Bike
+
+tbd
+
+::genre::
+
+## The Scalar Process - Agnomysticism
+
+tbd
+
+::genre::
+
+## thistle. - backflip
+
+tbd
+
+::genre::
+
+## Till Lindemann - Es brennt...
+
+tbd
+
+::genre::
+
+## Tired Of Fighting - And Then Suddenly It Hits You
+
+tbd
+
+::genre::
+
+## Tom Penaguin - Tom Penaguin II
+
+tbd
+
+::genre::
+
+## Tooms - Karst
+
+tbd
+
+::genre::
+
+## Treacher - Hibernation Of Death
+
+tbd
+
+::genre::
+
+## Trelldom - ...by the word...
+
+tbd
+
+::genre::
+
+## Trueandtrue - Nosedive
+
+tbd
+
+::genre::
+
+## Turnover - Down On Earth
+
+tbd
+
+::genre::
+
+## Tyrann - Tyrann Forever
+
+tbd
+
+::genre::
+
+## Unplugged System - Absolut kein Punk
+
+tbd
+
+::genre::
+
+## Upupayāma - Honesty Flowers
+
+Während Upupayāma als energiegeladene sechsköpfige Live-Band auf Tournee ist, ist das Studio Ferraris persönlicher Spielplatz. Er komponiert, spielt und nimmt fast jedes einzelne Instrument selbst auf - darunter Flöten, Sitar, Keyboards und ein riesiges Arsenal an Percussion-Instrumenten. "Honesty Flowers" ist sein viertes Studioalbum in voller Länge, das in seinem Heimstudio in der Scheune aufgenommen und von Chris Smith bei Kluster Sounds abgemischt wurde. Eine bewusstseinserweiternde Mischung aus organischem **Psychedelic Rock**, Global Grooves und pastoralem **Acid-Folk**. Der Sound ist stark beeinflusst von den hypnotischen Motorik-Rhythmen des **Krautrock**, östlichen, von Sitar geprägten Klanglandschaften und den verzerrten, fuzzigen Jams von Bands wie *Kikagaku Moyo*. Wenn du schon immer einmal in eine Wiese versinken wolltest, während sich der Horizont in Neonfarben verwandelt, ist "Honesty Flowers" dein goldenes Ticket. Mit einer Spielzeit von über einer Stunde ist dieses Doppelalbum ein weitläufiges, feierliches Kaleidoskop aus schweren Fuzz-Gitarrenriffs, rasender Handpercussion und traumhaften Flötenklängen, die sich gleichzeitig uralt und futuristisch anfühlen. Ferrari baut tiefe, repetitive Grooves auf, die einen in Trance versetzen, bevor er eine wahre Lawine aus versengter, psychedelischer Verzerrung entfesselt. Es fühlt sich wunderbar lebendig, ungezähmt und zutiefst spirituell an - wie ein wildes, feierliches Lagerfeuerritual tief in den italienischen Bergen unter einem Himmel voller Sternschnuppen. Es ist eine anstrengende, aufregende und vollkommen entführende musikalische Reise.
+
+::genre::psych rock, krautrock, acid folk, prog folk
+
+## Veps - ChurchyardStreet 8B
+
+Die Bandmitglieder Helena, Laura, June und Maja kennen sich schon seit der Grundschule und gründeten die Band im Alter von gerade einmal 14 Jahren. Obwohl sie alle erst 22 Jahre alt sind, ist "ChurchyardStreet 8B" bereits ihr drittes Studioalbum in voller Länge, nach ihrer von der Kritik gefeierten Debüt-EP "Open The Door" aus dem Jahr 2021 und den nachfolgenden Alben "Oslo Park" und "Dedicated To". Fesselnder **Indie-Pop** und **Elektropop**. Ihre Musik ist stilistisch deutlich von den eingängigen Hooks des **Alternative-Pop** der 90er Jahre, verzerrten Gitarren und der bittersüßen, melodischen Sensibilität nordischer Indie-Acts geprägt, gemischt mit klassischen britischen Indie-Pop-Elementen. "ChurchyardStreet 8B" fühlt sich an, als blättere man durch eine Schachtel alter Polaroids, die während eines Roadtrips im Spätsommer aufgenommen wurden. Veps fängt eine wunderbare Art jugendlicher Nostalgie ein und verwebt schimmernde Synth-Texturen, luftige Rhythmen und eingängige Gitarren-Hooks, die einem tagelang im Kopf bleiben. Das Album schwebt mühelos zwischen sonnigen, tanzbaren Electropop-Momenten und leicht melancholischen, verträumten Bedroom-Pop-Hymnen, die sich mit dem Erwachsenwerden und dem Einfinden ins junge Erwachsenenalter beschäftigen. Die zweistimmigen Gesangsharmonien sind unglaublich lieblich und hüllen einen in eine beruhigende Klangdecke, selbst wenn die Texte persönliche Herzschmerzen thematisieren. Es ist ein entzückend charmantes, hochpoliertes und absolut mitreißendes Indie-Album, das beweist, dass dieses Quartett mit den Jahren nur noch besser wird.
+
+::genre::indie pop, alt pop, electropop
+
+## Victory Kid - Catalyst
+
+Unter der Leitung von Sänger und Gitarrist Harrison Nida eroberten Victory Kid 2018 mit ihrer viralen, systemkritischen Hymne "Tuck Frump" die internationale Szene. Nachdem sie mit ihrem 2021er Album "Discernation" kontinuierlich an Fahrt gewonnen hatten, stellt "Catalyst" nun ihre definitive, stadiontaugliche Weiterentwicklung dar. Eine rasante, treibende Mischung aus **Ska-Punk**, **Pop-Punk** und **Alternative Rock**. Sie verbinden die fröhliche, tanzbare Energie von Bläsern und Upstrokes von Bands wie *Less Than Jake* und *Reel Big Fish* mit den knackigen, direkten Gitarrenriffs und dem aggressiven politischen Biss von *Green Day* oder *Anti-Flag*. "Catalyst" ist ein absoluter Blitzschlag sommerlicher Energie, der absolut keinen Platz für langweilige, graue Tage lässt. Das Album schießt wie eine außer Kontrolle geratene Achterbahn nach vorne und verbindet rasend schnelle Drumbeats, explosive Bläsermuster und unglaublich eingängige, mitsingbare Refrains, die darauf ausgelegt sind, die Menge in Bewegung zu bringen. Trotz des sonnigen, hochoktanigen musikalischen Hintergrunds packt der Text eine ernsthaft scharfe, sarkastische Schärfe, die alles von Generationsängsten bis hin zu politischem Wahnsinn thematisiert. Die Band wirft sogar einen brillanten Überraschungsball mit einem unerwarteten, wunderschönen orchestralen Streicharrangement in der Mitte des Albums ein, bevor sie direkt wieder in ihre halsbrecherischen Skank-Beats zurückkehrt. Es ist eine unmittelbare, mitreißende und wild-lustige Punkrock-Party von Anfang bis Ende.
+
+::genre::ska punk, pop punk, power pop
+
+## Vilhelm Bromander and Fredrik Rasten - Astral Twins
+
+Beide Künstler sind hoch angesehene Größen der europäischen Improvisations- und Experimentalmusikszene. In Anknüpfung an ihre früheren experimentellen Arbeiten nahmen sie "Astral Twins" in Echtzeit und ohne jegliche Studio-Overdubs im temporären unterirdischen Aufnahmestudio von Fylkingen in Bredäng, Stockholm, auf. Eine hypnotische Schnittstelle aus **avantgardistischem Experimentalismus**, **Spektralmusik** und **skandinavischen Folk**-Traditionen. Klanglich lehnen sie sich stark an die psychoaktiven akustischen Phänomene der reinen Intonation (mikrotonale Stimmungssysteme) an und beziehen kompositorische strukturelle Anhaltspunkte aus Drone-Texturen und minimalistischen Meistern wie *Steve Lacy*. "Astral Twins" wirkt wie ein akustisches wissenschaftliches Experiment, das versehentlich einen empfindungsfähigen kosmischen Geist hervorgebracht hat. Das Anhören dieses Albums fühlt sich an, als betrete man einen hölzernen Raum, in dem die physikalischen Gesetze der musikalischen Stimmung komplett neu geschrieben wurden. Das Duo webt ein langsames, wellenförmiges Netz aus vibrierenden Saitentönen, in dem Gitarren subtil im Lauf der Zeit neu gestimmt werden und der Kontrabass unter wunderschön seltsamen Obertönen stöhnt. Es oszilliert zwischen Momenten stiller, meditativer Hyperkonzentration und plötzlichen, überraschenden Ausbrüchen akustischer Bewegung mit gestrichenen Gitarren, Stimmpfeifen und geisterhaften Gesangssummen. Es ist ein wunderschönes, intensiv intimes Hörerlebnis, das einfache akustische Saiten in etwas verwandelt, das absolut jenseitig klingt.
+
+::genre::experimental electronica, avant ambient, nordic folk
+
+## villagerrr - Carousel
+
+Als äußerst produktives Underground-Projekt ist "Carousel" Scotts fünftes Album in voller Länge unter dem Namen villagerrr. Begleitet wurde die Produktion des Albums von einer mehrteiligen Video-Tagebuch-Dokumentarserie mit dem Titel "Merry Go Round", die seinen Arbeitsprozess im Studio detailliert beleuchtet. Eine abwechslungsreiche, weitreichende Mischung aus **Slowcore**, **Midwestern Indie Rock** und **Bedroom Folk**. Das Projekt orientiert sich stilistisch an den leise-laut-leise-Strukturen von Bands wie *Duster* und *Pinback*, kombiniert mit der akustischen Wärme klassischer Alternative-Folk-Storyteller. "Carousel" zu hören fühlt sich an, als säße man in der Abenddämmerung auf einer abgenutzten Verandacouch, blickte auf eine ruhige Vorstadtstraße hinunter und grübelte über sein ganzes Leben nach. Das Album ist unglaublich süß und zart, stützt sich auf warme, leicht verzerrte Akustikgitarrenklänge und träge, schlurfende Rhythmen, die sofort Nostalgie aufkommen lassen. Mark Scotts Gesang hat einen wunderbar staubigen, ungeschliffenen Charme, der Songs darüber untermalt, wie man in einer zunehmend chaotischen und seltsamen Welt echte, authentische Bedeutung findet. Es bewegt sich fließend zwischen gemütlichem, intimem Folk-Rock und weitläufigen Indie-Klanglandschaften und schafft so einen wunderschönen, tröstlichen Soundtrack für alle, die mal einen Gang zurückschalten und tief durchatmen müssen.
+
+::genre::midwest emo, slowcore, indie rock, bedroom pop, alt folk
+
+## Vimbullnat - Der Dunklen Tugenden; Echos
+
+tbd
+
+::genre::
+
+## Vintregal - Назустріч Останньому Світанку
+
+Als brandneues Underground-Projekt bringt Vintregal die Widerstandskraft, den Geist und die weiten Naturlandschaften ihrer Heimat in ihre Musik ein. Die Tracks zeichnen sich durch eine organische, kühle Produktion aus, bei der der Schwerpunkt ganz klar darauf liegt, eine karge, uralte Atmosphäre einzufangen. Ein rauer, atmosphärischer **Pagan Black Metal**. Die Musik stützt sich stark auf epische, frostige Gitarrenriffs, kalte Rhythmusmuster und harte, unnachgiebige Gesangsdarbietungen, die an klassische griechische und osteuropäische Black-Metal-Größen erinnern. Wenn man "Назустріч Останньому Світанку" hört, fühlt es sich an, als stünde man mitten im Winter auf einem verschneiten Bergrücken, während ein eisiger Wind versucht, einem den Mantel vom Leib zu reißen. Diese EP ist ein brillant rohes, kompromissloses Stück Black Metal, das wunderschön ungeschliffen und zutiefst menschlich klingt. Die Musik schreitet voran durch eiskalte Blastbeats und heroische, hochfliegende Gitarrentremoli, die die Ausdauer des Landes und seiner Menschen feiern. Sie balanciert ihre unerbittlichen, metallischen Stürme mit kurzen, filmischen Atempausen aus - untermalt vom tatsächlichen Klang heulender Winterwinde und Akustikgitarren, die durch den Frost klimpern. Es ist ein kraftvolles, düsteres und absolut majestätisches Debüt, das die wilde Seele des Undergrounds einfängt.
+
+::genre::atmo black metal
+
+## Violet Grohl - Be Sweet to Me
+
+Als Tochter des Alternative-Rock-Stars Dave Grohl hat Violet ihre unverwechselbare, kraftvolle Stimme über Jahre hinweg bei Live-Gastauftritten verfeinert. Um ihren unverwechselbaren Sound zu entwickeln, tat sie sich mit dem renommierten Produzenten Justin Raisen zusammen und sorgte zuvor mit herausragenden Streaming-Singles wie "THUM", "Applefish" und "595" für Aufsehen. Eine mitreißende Mischung aus 90er-Jahre-**Grunge**, **Indie-Alternative** und **Heavy Rock**. Klanglich verbindet sie rohes, verzerrtes Gitarrenfeedback mit melodischem, geschmeidigem Songwriting - inspiriert von klassischen Alternative-Bands, während sie gleichzeitig eine selbst kreierte, verträumte Ästhetik einfließen lässt, die sie als Farm Goth bezeichnet. "Be Sweet to Me" ist eine spektakuläre, verzerrungsreiche Einladung in eine Dämmerwelt, in der Schmutz, Verfall und hochglänzende Melodien Hand in Hand gehen. Das Album schafft eine perfekte Balance zwischen massiven Wänden aus verzerrten, summenden Chorus-Gitarren und einem eindringlich schönen, fast gespenstischen Gesang. Es fängt eine ganz besondere Atmosphäre der Spannung ein - als würde man durch einen nebligen, überwucherten Wald gehen, während jemand eine Meile entfernt eine Kettensäge aufheulen lässt. Die Texte sind zutiefst persönlich und balancieren Verletzlichkeit mit einer wilden, unabhängigen Schärfe aus. Die Tracks wechseln mühelos von ruhigen, verträumten Wiegenliedern zu dröhnenden, explosiven Heavy-Rock-Refrains und schaffen so eine aufregende musikalische Achterbahnfahrt, die beweist, dass Violet eine gewaltige, unverwechselbare Kraft ist, die ganz für sich steht.
+
+::genre::post grunge, alt rock, indie rock
+
+## Widemouth - No Gasoline
+
+Widemouth haben zwei Jahre lang ihre Live-Auftritte in der hart umkämpften DIY-Szene von Chicago perfektioniert. Nachdem sie mit ihrer selbst produzierten, harmonielastigen Demo-EP "Well" aus dem Jahr 2024 für Aufsehen gesorgt hatten, fuhren sie gemeinsam in die regnerischen Wälder, um als unzertrennliche Einheit ein wärmeres, stimmigeres Projekt live aufzunehmen. Eine üppige Mischung aus **Indie-Rock**, sanftem **Alternative-Country** und **Indie-Folk**. Ihr Sound ist geprägt vom filigranen Fingerpicking und dem gemeinschaftlichen Songwriting-Stil von *Paul Simon* und *Big Thief* sowie vom stimmungsvollen, atmosphärischen Indie von *Phoebe Bridgers* und den lokalen Chicagoer Größen *Ratboys*. "No Gasoline" fühlt sich an wie ein kuscheliges Wohlgefühl an einem eiskalten Winterabend. Getragen von den unglaublich wunderschönen, ineinander verwobenen Gesangsduetten von Makena Carnahan und Jamie Eder, entfaltet sich das Album wie eine mündlich überlieferte Geschichte einer eng verbundenen Gruppe von Freunden, die gemeinsam einen sicheren Hafen schaffen. Die Instrumentierung ist wunderschön sanft - aufgebaut auf melancholischem akustischem Fingerpicking und gemütlichen, ländlich angehauchten Rhythmen, die wie ein sanftes Wiegenlied mäandern. Es taucht tief in Nostalgie, Wachstumsschmerzen und die bittersüße Aufgabe ein, die Liebe weiterzutragen, nachdem man einen nahestehenden Menschen verloren hat. Es ist ein sanftes, emotional offenes und tief bewegendes Album, das einen mit weit geöffneten Armen willkommen heißt.
+
+::genre::alt folk, indie folk, indie rock
+
+## Willie Nelson - Dream Chaser
+
+Willie Nelson ist eine unbestrittene Säule der amerikanischen Musikgeschichte. "Dream Chaser", das nur einen Monat nach seinem 93. Geburtstag erschien, ist sein beeindruckendes 79. Solo-Studioalbum und sein 156. Album insgesamt. Das Projekt setzt seine 13-jährige kreative Zusammenarbeit mit dem Produzenten und Co-Autor Buddy Cannon fort und enthält sogar einen hochkarätigen Co-Autor-Eintrag mit seinem Tourpartner von 2025, Bob Dylan, auf dem Titel "I Can't Read Your Mind". Traditioneller **Country**, **Americana** und **Roots Rock**. Aufgebaut auf klassischem amerikanischem Songwriting, stützt sich sein Stil stark auf das Zupfen der Akustikgitarre (auf seiner treuen Gitarre "Trigger"), die klagende Steel-Gitarre und erzählerische Poesie. Mit 93 Jahren hat Willie Nelson absolut kein Recht, so vital und scharfsinnig zu klingen, wie er es auf "Dream Chaser" tut. Dieses Album ist ein wunderschöner, sonnenbeschienener Rückblick durch den Rückspiegel eines unglaublich gut gelebten Lebens. Die Atmosphäre ist intim und warm, man hat das Gefühl, Willie säße einem direkt gegenüber auf einer staubigen Veranda und erzählte bei einem Glas Whiskey Geschichten von unterwegs. Über 10 erzählerische Tracks gleitet seine unverwechselbare, vom Leben gezeichnete Stimme mühelos über wunderschöne akustische Arrangements, die über Beziehungen, das Älterwerden und die unerbittliche Anziehungskraft der Straße nachdenken. Die Zusammenarbeit mit Bob Dylan ist ein rauchiges, cleveres Highlight, doch der wahre Star ist Willies beständige Weisheit. Es ist eine ergreifende, wunderschön gestaltete Erinnerung daran, dass man nie zu alt ist, um einen neuen Horizont zu verfolgen.
+
+::genre::country folk, roots rock, americana
+
+## Worthington's Law - Funnier! Punkier! Bandier!
+
+Worthington's Law, die sich selbst als angeblich lustige Punkband bezeichnen, haben in den letzten Jahren die lokalen DIY-Szenen und regionalen Festivals aufgemischt. Dieses ambitionierte Projekt wurde von der Band selbst produziert, von ihrem eigenen Scott Sandwich abgemischt und von Mike Westbrook bei Material Mastering gemastert. Eine nostalgische Explosion aus 90er-Jahre-**Punk**-Compilations, Old-School-Fast-Core und energiegeladenem **Ska-Punk**. Klanglich lassen sie sich von klassischen, energiegeladenen Punkbands des späten 20. Jahrhunderts inspirieren und setzen auf schnelle Tempi, laute Gitarren und einen unverwechselbaren Sitcom-Punk-Humor. "Funnier! Punkier! Bandier!" ist eine glorreiche, hyperaktive Zeitmaschine zurück in die goldene Ära der weiten Cargoshorts und Skatepark-Compilation-CDs. Das Album rast mit 17 Tracks wie ein außer Kontrolle geratener Güterzug dahin, der ausschließlich von Energy-Drinks und Vorstadt-Angst angetrieben wird. Mit urkomischen Textthemen rund um den alltäglichen Chaos - exemplarisch dargestellt durch ihre Lead-Single "Binaca!" - fängt es perfekt das Gefühl eines chaotischen, schweißtreibenden Kellerkonzerts ein, bei dem das Publikum jedes Wort der Band zurückschreit. Die Instrumentierung ist unglaublich tight und springt zwischen halsbrecherischen Thrash-Beats und knackigen Ska-Upstrokes hin und her. Es ist eine mitreißende, unbeschwerte und unerbittlich schnelle Fahrt, die genau das hält, was sie verspricht: Sie bleibt laut, witzig und absolut unprätentiös.
+
+::genre::hardcore punk, ska punk, punk rock, pop punk
+
+## Wyrmhaven - Seasons Of Gloom
+
+Nachdem sich die Band mit früheren Singles einen Namen gemacht und ihre Live-Präsenz verfeinert hat, markiert "Seasons Of Gloom" das mit Spannung erwartete Debütalbum der Band. Um ihren kraftvollen Sound einzufangen, tat sich die Band mit dem renommierten Produzenten Ryan Bram (bekannt für seine Arbeit mit *Gatecreeper* und *Spirit Adrift*) und dem legendären Toningenieur Zack Ohren (*Machine Head*, *Fallujah*) zusammen. Eine vernichtend harte Mischung aus **Melodic Death Metal** und **Metalcore** der frühen 2000er Jahre. Klanglich lassen sie sich stark von modernen Progressive-Metal-Größen wie *Gojira*, der präzisen Technik von *Arsis* und dem rohen, rhythmischen Chugging früher Pioniere der Szene wie *Burnt By The Sun* und *Glass Casket* inspirieren. Wenn du schon immer wissen wolltest, wie ein emotionaler Zusammenbruch während eines Gewitters klingt, serviert "Seasons Of Gloom" dir das auf einem silbernen, mit Stacheln übersäten Tablett. Das Album ist ein absolutes Kraftpaket aus präzisen, messerscharfen Riffs und erderschütternden Chugs, die dich dazu bringen werden, ein Loch in eine Trockenbauwand zu schlagen. Doch unter all dieser wilden, metallischen Rüstung verbirgt sich eine überraschende Menge an trauriger Melodie und schmerzlicher Verletzlichkeit. Die Tracks wechseln zwischen rasendem, technischem Death-Metal-Chaos und mitreißenden, kathartischen Passagen, die die Trostlosigkeit einer buchstäblichen Winterapokalypse heraufbeschwören. Umhüllt von einem atemberaubenden, dunklen Cover von Adam Burke ist es von Anfang bis Ende eine aggressive, erschöpfende und wunderschön düstere Reise.
+
+::genre::melo death metal, metalcore
+
+## Yawning Balch - Volume Four
+
+Die Band ist ein Gemeinschaftsprojekt, bei dem Bob Balch (Leadgitarrist von *Fu Manchu*) gemeinsam mit den Kernmusikern der Desert-Rock-Pioniere Yawning Man auftritt, darunter Gary Arce (Gitarre), Billy Cordell (Bass) und Bill Stinson (Schlagzeug). Die Musik auf "Volume Four" entstand während einer unglaublich produktiven, vollständig improvisierten fünfstündigen Jam-Session im Gatos Trail Studio in Joshua Tree. Tief verwurzelt in **Stoner Rock**, **Desert Rock** und **Heavy Psych**. Das Projekt lehnt sich stark an den weitläufigen, instrumentalen Landschaftsstil von Yawning Man an, kombiniert mit dem verzerrten, pedalintensiven, basslastigen Sound von Fu Manchu. "Volume Four" fühlt sich weniger wie ein Album an, sondern eher wie ein Portal in eine sonnenverbrannte Wüstenfata Morgana, in der die Zeit völlig ihre Bedeutung verliert. Die Musik besteht aus nur zwei massiven, mitreißenden Tracks und stützt sich auf kolossale, dröhnende Basslinien und ein Geflecht aus schwindelerregenden, psychedelischen Gitarrenpedal-Experimenten. Das Anhören ist eine unglaublich hypnotische Erfahrung; es entsteht ein langsam aufbauender, kosmischer Groove, der zwischen meditativer Post-Rock-Ruhe und massiven, verzerrten Klangwänden schwebt. Es ist der ultimative Soundtrack für eine Fahrt auf einer leeren Autobahn in einen neonfarbenen Sonnenuntergang, der die rohe, unvorhersehbare Magie einer Gruppe von Veteranen perfekt einfängt, die einfach ihre Instrumente anschließen und die Wüstenluft die Riffs bestimmen lassen.
+
+::genre::psych rock, desert rock, stoner rock, instrumental
+
+## You, Me, + the Whales - You are in a Kitchen Filled with Plants as the Sun Streams Inwards
+
+Ursprünglich als Klangkunstprojekt der Brüder Zac Burgenbauch (Gitarre) und Devin Burgenbauch (Bass) ins Leben gerufen. Für die Aufnahmen zu diesem Material erweiterten sie sich zu einem sechsköpfigen Kollektiv mit David Otis (Saxophone), Elif Dinçer (Harfe/Elektronik), M A Harms (Vibraphon/Percussion) und Lucas Lenny (Schlagzeug). Eine eklektische Fusion aus **Spiritual Jazz**, American Primitive Guitar und **experimenteller Avantgarde**. Ihr Stil speist sich direkt aus den kaskadenartigen, zarten Harfen- und Drone-Texturen von *Alice Coltrane*, gemischt mit den rasenden, explosiven Free-Jazz-Improvisationen der *Cecil Taylor Unit* und den sehnsuchtsvollen Folk-Melodien von *John Fahey*. Diese Platte hält genau das, was sie verspricht - und katapultiert es dann in ein Paralleluniversum. Wenn man "You are in a Kitchen Filled with Plants as the Sun Streams Inwards" hört, fühlt es sich an, als würde man in einem sonnenüberfluteten Raum aufwachen, in dem die lokale Flora plötzlich gelernt hat, Vibraphon zu spielen. Die Musik atmet durch eine wunderschöne, texturreiche Traumlandschaft, in der organisches, erdiges Akustikgitarrengezupfe auf mikrotonale Drones und eine regelrechte Lawine von Glocken trifft. Sie schafft einen perfekten Ausgleich zwischen Momenten völliger, meditativer Stille und Ausbrüchen chaotischer, kinetischer Energie, in denen Saxophon und Schlagzeug außer Kontrolle geraten. Es ist eine atemberaubende, filmische Reise für das Gehirn, die sich zugleich zutiefst beruhigend und völlig unvorhersehbar anfühlt.
+
+::genre::spiritual jazz, avant jazz, avant folk, experimental folk, improvisation
 
 ---
 
@@ -191,3 +1393,9 @@ TARAB Machine ist ein Jazz-Avantgarde-Ensemble, das Mitte 2025 gegründet wurde.
 Die Band wurde um das Jahr 2004 gegründet und blickt auf über 20 Jahre Erfahrung zurück. "Sins" ist ihr siebtes Studioalbum und markiert ihr Comeback nach einer achtjährigen Pause. Es wurde live in den legendären Electrical Audio Studios in Chicago auf Band aufgenommen, um dem analogen Produktionsethos des verstorbenen Steve Albini Tribut zu zollen. Eine kraftvolle Fusion aus **Classic Rock**, **Psychedelia**, **Folk** und **Alternative Rock/Grunge** der 90er Jahre, gewürzt mit dunklen Untertönen von **Stoner Rock** und **Sludge Metal**. Packt eure Koffer, denn "Sins" ist ein One-Way-Ticket in ein raues, schweißgetränktes Rock’n’Roll Refugium! Das ist kein polierter, computer-quantisierter Modern Rock; es ist ein lebendiges, atmendes Wesen, live eingefangen in einem Raum, in dem man die Röhren in den Verstärkern förmlich um Gnade schreien hört. Das Album fühlt sich an wie ein wunderschön zerschlagenes Tagebuch. Es wechselt zwischen kolossalen, rauchgefüllten Wüstenriffs, die in der Brust dröhnen, und eindringlichen, keyboardlastigen Passagen, die einen durchatmen lassen, bevor die nächste Adrenalinwelle zuschlägt. Der Gesang wirkt wunderbar unverhüllt - er handelt von emotionalen Kampfnarben und absolutem Trotz. Er ist reif, er ist unapologetisch laut, und es klingt, als würde eine Band spielen, als hinge ihr Leben davon ab.
 
 ::genre::hard rock, stoner rock, sludge metal, alt rock, post grunge, psych rock, prog folk
+
+## Voidmaker - A Cold, Unyielding Universe
+
+Voidmaker ist ein zielstrebiges Zweimann-Studio-Projekt. Der Multi-Instrumentalist Joe McAnaney baut die gesamte dichte musikalische Grundlage auf - er übernimmt alle Gitarren, den Bass und das Schlagzeug -, während Sänger Tom McRann die brutale, eindringliche Erzählung liefert, die das Konzept zusammenhält. Eine vernichtende, rasante Mischung aus **Blackened Thrash** und **Technical Death Metal** mit progressiven Strukturen. Klanglich orientieren sie sich an der erdrückenden Präzision und dem intellektuellen Gewicht moderner Extreme-Metal-Titanen wie *Gojira*, *Decapitated* und *Behemoth*. Wenn du einen klanglichen Hintergrund für einen Rumpfbruch eines Raumschiffs oder eine existenzielle Konfrontation mit einer abtrünnigen künstlichen Intelligenz brauchst, ist "A Cold, Unyielding Universe" dein perfekter Soundtrack. Das Album ist eine absolute Explosion hyperfokussierter Riff-Konstruktion und unerbittlicher Blastbeats, die darauf ausgelegt sind, dich das eisige Gewicht des Kosmos spüren zu lassen. Es führt durch zehn Tracks purer kosmischer Furcht und malt eine düstere, aber Ehrfurcht gebietende Zukunft, in der abtrünnige KIs, labile Planetenforscher und uralte, in den Sternen wohnende Wesen drohen, die Menschheit vollständig auszulöschen. Es ist unglaublich scharfsinniger, intelligenter und gnadenlos harter Metal, der seine Sci-Fi-Geschichte mit größtem Respekt behandelt.
+
+::genre::blackened thrash metal, tech death metal
