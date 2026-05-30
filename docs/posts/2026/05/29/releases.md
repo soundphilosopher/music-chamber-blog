@@ -84,63 +84,45 @@ tbd
 
 ## Azaghal - Nekrohelios
 
-tbd
+Azaghal wurde 1995 von Mastermind Narqath gemeinsam mit Schlagzeuger Lima gegründet und zählt zu den produktivsten und angesehensten Größen der internationalen Black-Metal-Underground-Szene. "Nekrohelios" ist das bemerkenswerte 13. Studioalbum der Band, das sie im Laufe ihres dreißigjährigen Bestehens veröffentlicht hat. Ein kalter, unheiliger Blitz aus echtem finnischem **Black Metal**. Im Gegensatz zu ihrem jüngsten Material reduziert dieses Album bewusst ihren Sound, um die rohe, düstere und geradlinige Wucht ihrer ikonischen Wurzeln aus den späten 90er Jahren (wie beispielsweise ihr wegweisendes Album "Mustamaa") wieder aufzugreifen, wobei treibende Blastbeats, eisige Gitarrenmelodien und finstere Keyboard-Texturen im Stil der frühen *Emperor* nahtlos zum Einsatz kommen. Falls eure Lautsprecher in letzter Zeit noch nicht gründlich auf die Probe gestellt wurden, wirkt "Nekrohelios" wie ein arktischer Schneesturm der Kategorie 5, der euer gesamtes Wohnzimmer augenblicklich mit einer dicken Schicht aus Frost und Schwefel bedeckt. Das Album verschwendet absolut keine Zeit mit höflichen Anweisungen, sondern tritt die Tür mit einem eindringlichen Ambient-Keyboard-Intro ein, bevor es sofort in ein ununterbrochenes, hyperschnelles Sperrfeuer aus Maschinengewehr-Drumming und messerscharfen Gitarrenriffs übergeht. Frontmann Thirteen führt über die 11 Tracks hinweg einen spektakulären Gesangskrieg und wechselt mühelos von Gänsehaut verursachenden, kehlenschneidenden Schreien und tiefen Growls zu unerwarteten, hochfliegenden, klaren Chorgesängen, die wie Geistergeschichten widerhallen, die von einer Höhlenwand abprallen. Es ist eine straffe, befriedigend unheimliche und wunderschön ungeschliffene Extreme-Metal-Predigt, die stolz beweist, dass diese finnischen Veteranen noch lange nicht am Ende sind.
 
-::genre::
+::genre::atmo black metal, symphonic black metal
 
 ## Balmora - These Graven Halls
 
-tbd
+Die Band, deren Name sich auf die legendäre Stadt der Dunkelelfen aus „The Elder Scrolls: Morrowind“ bezieht, hat drei Jahre lang akribisch an diesem Meisterwerk gearbeitet. Sie hat sich schnell zu einer der führenden Vertretern des Underground-Metallic-Hardcore-Revivals in der Region entwickelt. Die Platte wurde vor Ort im The Source Studio von den Bandmitgliedern Chaz Torok und Jay Torblaa selbst produziert, aufgenommen und abgemischt, während das finale Mastering von Brad Boatright bei Audiosiege übernommen wurde. Eine dramatische, rasante Mischung aus **Metalcore** der späten 90er/frühen 2000er Jahre, **Melodic Death Metal** und **Blackened Hardcore**. Ihr architektonischer Klangentwurf schlägt eine explizite Brücke zwischen traditionellen Breakdown-Schwergewichten der frühen 2000er Jahre wie *On Broken Wings* und *The Black Dahlia Murder* und einem cineastischen Hauch von Dungeon-Synth, klassischer Komposition und modernen Cloud-Rap-Texturen (inspiriert von *Philip Glass* und *Bladee*). "These Graven Halls" fühlt sich genau so an, als würde man um Mitternacht in eine majestätische gotische Kathedrale einbrechen, um dort einen hochbrisanten Moshpit zu veranstalten, nur um festzustellen, dass die Kirchenorgel komplett neu verkabelt wurde - mit Dial-up-Internet-Effekten und Breakdown-Verzerrungen der frühen 2000er. Balmora sprengt die sicheren, vorhersehbaren Grenzen des Standard-Nostalgia-Core komplett. Auf 13 Tracks wunderschön chaotischen Melodramas schwingen sie sich fröhlich hin und her zwischen mitreißenden, schwertschwingenden schwedischen Metal-Melodien und rotzigen, raumzerstörenden Breakdowns, die mit der Wucht einer Betonabrisskugel einschlagen. Textlich folgen sie dunklen Kreisläufen aus Selbstreflexion, Qual und Täuschung - ein intensives, theatralisches und wild entfesseltes Debüt, das die Metalcore-Geschichte wie einen riesigen, kompromisslosen Spielplatz behandelt.
 
-::genre::
+::genre::melo death metal, metalcore, blackened death metal
 
 ## Belialed - The Echoless Chasm
 
-tbd
+Die Band wurde 2021 mit der klaren Vision gegründet, die äußerst stimmungsvolle und atmosphärische Seite des klassischen Black Metal zu zelebrieren, und erntete mit ihrem 2023 erschienenen Debütalbum "Beyond Resigned" in der Underground-Szene großes Lob. "The Echoless Chasm" ist ihr zweites Album, das sich durch eine prägnantere Klangwelt und eine ausgefeiltere Struktur auszeichnet. Ein majestätischer, mitreißender **Melodic Black Metal**. Ihr unverwechselbarer Stil lehnt klare, moderne Pop-Elektronik oder dominante symphonische Bombastik ab und setzt stattdessen auf eine eisige, dichte Klangwand aus verzerrten Gitarren, treibenden Midtempo-Rhythmen und kraftvollen, fließenden Basslinien, die ein subtiles Black-Death-Flair versprühen. "The Echoless Chasm" spielt sich genau wie eine filmische Mitternachtsreise durch einen gefrorenen, schattengetränkten Gebirgspass ab, wo uralte Geister historische Geistergeschichten direkt in deine Ohren flüstern. Das Album umgeht völlig sichere, überpolierte Trends und nutzt eine absolute Meisterleistung an dunklen, texturreichen Gitarrenmelodien, um dich tief in einen Abgrund purer, immersiver Atmosphäre zu entführen. Vom gewaltigen, erdrückenden Auftakt von "Monolith" bis hin zur unerbittlichen, eisigen Beschleunigung des Titeltracks webt die Band massive Spannungsgeflechte, ohne sich jemals hinter künstlichen Synthesizern verstecken zu müssen. Sie behandelt Themen wie tiefe Mystik, Trauer und unerbittliche emotionale Kraft mit absolutem Stolz und liefert eine befriedigende, zum Headbangen einladende Metal-Katarsis, die dich dazu zwingt, sie mit maximaler Lautstärke aufzudrehen.
 
-::genre::
+::genre::melo black metal
 
 ## Between Bodies - Hands To Hold Each Other
 
-tbd
+Nach ihrem hochgelobten Debütalbum aus dem Jahr 2022 stand die Band gemeinsam mit Größen des Genres wie The Hotelier, The Get Up Kids und Touché Amoré auf großen Bühnen. Für die Aufnahmen zu diesem wegweisenden zweiten Album zogen sie sich ins Studio zurück, um intensiv mit dem renommierten britischen Produzenten Lewis Johns (bekannt für seine Arbeit mit Svalbard und Rolo Tomassi) zusammenzuarbeiten. Eine äußerst leidenschaftliche, emotionsgeladene Mischung aus **Indie-Rock**, **Emo** und **Punk-Rock**. Ihr Konzept schafft massive, treibende Indie-Emo-Hymnen, die schimmernde Gitarren, subtile Keyboards und kraftvolle rhythmische Strukturen nahtlos unter hochfliegenden Arrangements mit zwei Gesangsstimmen vereinen. Wenn dein Herz völlig erschöpft ist vom Versuch, mit der kalten, rasanten Fragmentierung des modernen Alltags Schritt zu halten, wirkt "Hands To Hold Each Other" wie eine massive, warme Umarmung von einer vertrauten Gruppe von Freunden. Das Album ist eine absolute Meisterklasse in kathartischer emotionaler Dynamik, die schwere Themen der realen Welt wie mentale Erschöpfung und sozialen Druck aufgreift und sie in explosive, die Fäuste in die Luft reckende Hymnen übersetzt. Frontmann Benni, Gitarristin Susan und Bassist Chris tauschen wunderschöne, offenherzige Gesangsphrasen in herausragenden Tracks wie "Annie (21st Century Working Class)" und "Waves" aus und bauen dabei eine immense, melodische Spannung auf, die es dir ermöglicht, deine Ängste wegzutanzen. Es ist eine strahlende, intensiv drängende und zutiefst verbindende Rock’n’Roll-Predigt, die menschliche Verbundenheit perfekt als einen glorreichen Akt wunderschönen Widerstands behandelt.
 
-::genre::
+::genre::emocore, pop punk, indie rock
 
 ## Big Iron - Demo
 
-tbd
+Big Iron, eine neue, unerbittliche Kraft in der deutschen Independent-Underground-Punk-Szene, besteht aus erfahrenen Szene-Veteranen, die ihre Musik mit einer kompromisslosen, schnörkellosen Haltung angehen. Das Projekt ist eine Erweiterung der eng verbundenen Rhineline-Hardcore-Community, die sich ganz auf die Basis-Mosh-Identität und unabhängige Underground-Netzwerke stützt. Ein wütender, rasender Angriff aus **Hardcore-Punk**, **Straight-Edge-Hardcore** und Heavy-Metallic-Mosh. Klanglich verbinden sie den Old-School-Bounce der 90er-Jahre-Youth-Crew mit der muskelbepackten Breakdown-Wucht des klassischen New Yorker Hardcore. Wenn dein Nervensystem von den harmlosen, überoptimierten Hintergrundgeräuschen des Mainstream-Popradios völlig überlastet ist, wirkt das Debüt-Demo von Big Iron wie ein regelrechter Vorschlaghammer, der direkt durch deinen Computerbildschirm geschleudert wird. Diese Veröffentlichung ist eine entfesselte, schweißgetränkte Explosion von purem Mosh-Pit-Adrenalin, die sich weigert, deine Hand zu halten oder höflich um deine Erlaubnis zu bitten. Die E-Gitarren brummen und kratzen mit einer unglaublichen Menge an rohem, analogem Overdrive-Punch, während die Rhythmusgruppe wie eine Beton-Abrisskugel knallt, um dein Herz zum Rasen zu bringen. Sie geht mit alltäglicher Frustration und Straßen-Trotzigkeit mit ultimativem, rotzfrechem Stolz um. Es ist ein intensiver, brillant explosiver Rock’n’Roll-Schlag ins Gesicht, der ausschließlich dafür gemacht ist, sich in die Menge zu stürzen und sich die Lunge aus dem Leib zu schreien.
 
-::genre::
-
-## Bjørn Riis - Lifandi
-
-tbd
-
-::genre::
+::genre::metallic hardcore, hardcore punk
 
 ## Black Rose Rebellion - Hail The Rebel Queen
 
-tbd
+Die Band besteht aus der Sängerin Bri (künstlerisch bekannt als Trybe), dem Gitarristen Dave "The RockDoc" und der Schlagzeugerin Karen "The Rose". Nach einer äußerst erfolgreichen Reihe rauer, schweißtreibender Live-Auftritte zog sich die Gruppe ins Studio zurück, um ihre Songwriting-Chemie sorgfältig zu verfeinern und zu einem definitiven Statement zu formen: ein energiegeladener, kraftvoller **Modern Hard Rock**. Ihr charakteristischer Sound verbindet klassische Rock-Hooks und Heavy-Metal-Fundamente mit einem eleganten, stadiontauglichen Alternative-Touch. "Hail The Rebel Queen" ist eine donnernde, von Leder und Nieten geprägte Hardrock-Siegesrunde, die als sofortiges Gegenmittel gegen alltägliche Konformität und Selbstzweifel wirkt. Angeführt von Trybes hochfliegendem, leidenschaftlichem Rockgesang setzt das Album auf gewaltige, die Lautsprecher zum Beben bringende Gitarren-Hooks und stadiontaugliche Rhythmen, die darauf ausgelegt sind, das Publikum zum Mitsingen zu bringen. Das Album wechselt wunderschön von der Vollgas-Energie des Titelsongs, bei dem man die Fäuste in die Luft reckt, zu den tieferen, eindringlichen Texturen von Rockballaden wie "Affliction" und behandelt Themen der persönlichen Freiheit mit größtem Stolz. Es ist eine strahlende, mitreißende und kraftvolle Predigt, die dich dazu ermutigt, zu schnell zu fahren und genau das, was du bist, voll und ganz anzunehmen.
 
-::genre::
+::genre::hard rock, heavy rock, melo rock, arena rock
 
 ## BlackMarket - Radical Views
 
-tbd
+Unter der Führung von Sänger Fraser Burrow hat sich BlackMarket in der Underground-Szene einen Namen gemacht, indem sie ihre intensive, explosive Live-Energie direkt in die Tonbandgeräte im Studio einfließen lassen. "Radical Views" stellt eine härtere, dynamischere Weiterentwicklung ihrer früheren Singles wie "Asphyxiate" dar. Ein schwerer, grooviger Mix aus **Nu-Metal** und **Metallic Hardcore**. Klanglich verbinden sie den rohen Schwung und die genreübergreifenden Elemente des klassischen Nu-Metal mit einem scharfen, aggressiven Hardcore-Punch, der an *Stray From The Path* erinnert. Wenn dein Nervensystem nach einer aggressiven Power-Welle aus purem Adrenalin schreit, wirkt "Radical Views" genau wie ein Ziegelstein, der bei einer korrupten politischen Kundgebung direkt durch einen Fernsehbildschirm geworfen wird. Der Titeltrack fungiert als spannendes, schwerfälliges Statement der Frustration, das druckvolle, hüpfende Gitarrenriffs mit einer Rhythmusgruppe verbindet, die mit betonbrechender Präzision zuschlägt. Burrow spuckt seine Texte mit einer absoluten Meisterleistung an roher, ungefilterter stimmlicher Aggression heraus. Er verzichtet komplett auf höfliche Radiotricks, um einen dunklen, chaotischen Moshpit-Soundtrack für alle zu liefern, die ihre alltägliche Erschöpfung herausschreien müssen.
 
-::genre::
-
-## Bleeth - Lazara
-
-tbd
-
-::genre::
-
-## Bloodred Hourglass - After the Burial
-
-tbd
-
-::genre::
+::genre::metallic hardcore, nu metal, alt metal
 
 ## Boards of Canada - Inferno
 
@@ -150,159 +132,129 @@ Das von dem Geschwisterpaar Michael Sandison und Marcus Eoin gegründete Duo Boa
 
 ## Bushman's Revenge - Ah, Les Vaches!
 
-tbd
+Die Band, die seit 2003 als Aushängeschild der norwegischen Progressive-Underground-Szene gilt, blickt auf über zwei Jahrzehnte Studioarbeit zurück. Für "Ah, Les Vaches!" - ihr monumentales zwölftes Studioalbum - begrüßten Gründungsgitarrist Even Helte Hermansen und Schlagzeuger Gard Nilssen den neuen Bassisten Tor Egil Kreken in ihren Reihen, ergänzt durch den Gastmusiker Johan Lindström, der mit seiner Pedal-Steel-Gitarre für magische Klänge sorgt. Eine wilde, genreübergreifende Explosion aus **Jazz-Fusion**, **Progressive Rock**, **Country Rock** und **Rockabilly** der 1950er Jahre. Ihr Konzept verbindet summende, bluesig verzerrte Gitarren und komplexe Jazzrhythmen mit unerwarteten, skurrilen Pop-Texturen. Der bizarre Titel, der sich aus der französischen Übersetzung von "Ah, die Kühe!" ableitet - angeblich die allerletzten Worte des exzentrischen impressionistischen Komponisten Erik Satie -, macht dieses Album zu einer herrlich verrückten Achterbahnfahrt. Bushman’s Revenge behauptet frech, sie hätten dieses Mal versucht, ein Mainstream-Pop-Album zu machen, aber da sie alte Knacker sind, die keine Ahnung haben, was die Kids so hören, verhält sich das Ergebnis wie ein Düsentrieb, der mit 800 Meilen pro Stunde durch einen Jazzclub fliegt. Die 10 Tracks sind ein nonstop, schweißgetränktes Buffet aus twangigen Gitarren, weinerlichen Pedal-Steel-Loops und respektlosem Humor, der ganz und gar von ihren echten Haustieren und Freunden inspiriert ist. Es ist ein ansteckender, wunderschön schräger und völlig unprätentiöser Klangwirbel, der einen geradezu herausfordert, mitzutanzen.
 
-::genre::
+::genre::jazz fusion, prog rock, prog folk
 
 ## Cambrian - Oceans Away
 
-tbd
+Nach Jahren mühevoller Songschreib-Sessions, interner Veränderungen und Besetzungswechseln hat die Progressive-Metal-Band einen beachtlichen Schwung entwickelt, um ihr endgültiges künstlerisches Statement zu verwirklichen. Um die Veröffentlichung zu feiern, haben sie einen kompletten Live-Auftritt gebucht, um die gesamte Trackliste vor heimischem Publikum erstmals zu präsentieren. Eine grandiose, mitreißende Mischung aus **Progressive Metal** und **Progressive Rock**. Klanglich verbinden sie technische Gitarrenriffs, komplexe Tempowechsel und gewaltige Melodielinien, die eine dramatische, filmreife Atmosphäre schaffen. "Oceans Away" spielt sich genau wie ein spannender Agatha-Christie-Krimi auf hoher See, der in eine gewaltige Wand aus progressivem Metal-Donner übersetzt wurde. Das Album spielt auf einem luxuriösen Kreuzfahrtschiff, auf dem eine unmögliche Mordserie zehn Menschen das Leben gekostet hat, einer kaum noch atmet und ein pensionierter Detektiv als Hauptverdächtiger auf der Spur ist. Cambrian meistert dieses düstere, maritime Rätsel mit absoluter struktureller Brillanz - die Tracks wandeln sich mühelos von hektischen, elfminütigen Math-Metal-Labyrinthen wie - Locked Room Murder Mysteries - zu hochfliegenden, epischen Melodic-Rock-Refrains. Es verzichtet vollständig auf einfache Radiostrukturen, um dir ein intensives, brillant geschriebenes Rätsel zu präsentieren, das deine volle, ungeteilte Aufmerksamkeit fordert.
 
-::genre::
+::genre::prog metal, prog rock
 
 ## Camille Camille - Enchanted Sea
 
-tbd
+Camille Camille ist das kreative Soloprojekt der belgischen Multikünstlerin Camille Willemart. Nach ihrem hochgelobten Debütalbum "Could You Lend Me Your Eyes" aus dem Jahr 2021 verbrachte sie Jahre damit, auf ihrem Boot zu beobachten, zu reisen und Archivaufnahmen aus dem realen Leben einzufangen. "Enchanted Sea" ist ihr mit Spannung erwartetes zweites Studioalbum, das sorgfältig zusammen mit den Begleitmusikern Felix Baele und Vincent Leroi aufgenommen wurde, um ein Gefühl von roher, körperlicher Intimität einzufangen. Ein leiser, texturreicher Mix aus atmosphärischem **Folk**, **Indie-Pop** und akustischer **Americana**. Ihr charakteristischer Stil verbindet komplexe Fingerpicking-Arrangements auf der Akustikgitarre, sanfte Klarinettenklänge und zarte Melodien mit ihrer unverwechselbaren Stimme. "Enchanted Sea" anzuhören fühlt sich genau so an, als würde man um Mitternacht an Bord eines kleinen Holzsegelboots steigen, sich eine warme Strickdecke über die Schultern ziehen und hinaus in einen völlig ruhigen, nebelverhangenen Hafen treiben. Das Album fungiert als wunderschönes, unglaublich beruhigendes Gegenmittel zum rasanten Hintergrundlärm des modernen digitalen Lebens und konzentriert sich ganz auf Themen wie Verbundenheit, Natur und die ruhige Geschwindigkeit des Lebens. In atemberaubenden Höhepunkten wie "Bottle Song", "Le Vent" und dem herzzerreißend zarten "Saga's Lullaby" schwebt Willemarts samtige Stimme wie sanfter Meeresnebel über akustischen Gitarrenklängen. Das Album schafft nahtlos eine wunderschöne, fragile Balance zwischen tiefer Melancholie und hartnäckiger Hoffnung und versetzt den Hörer in einen zeitlosen Bann, der jeden Nachtschwärmer dazu bringt, tief durchzuatmen und ganz im Moment zu verweilen.
 
-::genre::
+::genre::indie folk, indie pop, americana, alt folk
 
 ## Chloe Luna - Hidden Reverse
 
-tbd
+Chloe Lula ist eine äußerst versierte Kuratorin und Multi-Instrumentalistin, die weithin als Resident-DJ im legendären Berliner Club Tresor, als Redakteurin bei Resident Advisor und als ausgebildete klassische Cellistin bekannt ist. "Hidden Reverse" markiert einen bedeutenden Meilenstein in ihrer Karriere und ist die offizielle Debütveröffentlichung ihres brandneuen Plattenlabels Syntax. Um das strukturelle Fundament der EP zu schaffen, nutzte Lula auf einzigartige Weise Tonmaterial der Schweizer Elektroakustik-Komponistin Alexandra Bellon als kreativen Ausgangspunkt. Eine treibende, bewusstseinsverändernde Darbietung von hypnotischem **Techno** und **experimenteller Industrial-Elektronik**. Das Layout tauscht vorhersehbare, kommerzielle EDM-Formeln gegen einen rauen, tief atmosphärischen Fokus auf rohe Dancefloor-Mechanik und räumliche Immersion ein. "Hidden Reverse" fühlt sich genau so an, als wäre man um drei Uhr morgens in einer riesigen, vollautomatisierten unterirdischen Stahlfabrik gefangen, während das Hauptcomputernetz zusammenbricht und Rhythmen abfeuert. Die 6-Track-Platte ist eine spektakuläre Darbietung von industrieller Wucht und uhrwerkartiger Spannung, die deine Trommelfelle mit betonerschütternden Bass-Kicks und scharfen Percussion-Schichten regelrecht überflutet. Tracks wie "Morphology" und "Observer" gehen mit struktureller Spannung absolut messerscharf um und lassen sich wiederholende mechanische Frequenzen wie ein lebendes Wesen ausdehnen und atmen. Sie verzichten komplett auf billige Pop-Melodien, um pure, unverfälschte Mitternachtsenergie zu liefern, die darauf ausgelegt ist, einen Moshpit in einem Lagerhaus zu hypnotisieren.
 
-::genre::
-
-## Chris Coull Quartet With Imogen Ryall - Songs From Porgy And Bess
-
-tbd
-
-::genre::
+::genre::deep techno, experimental electronica, edm, industrial
 
 ## Chroma - 25 Forever
 
-tbd
+Das Trio, bestehend aus Sängerin KT Hall, Gitarrist Liam Bevan und Schlagzeuger Zac Mather, erlangte mit seinem Debütalbum "Ask For Angela" - das 2024 für den Welsh Music Prize nominiert wurde - schlagartig Bekanntheit und sicherte sich damit einen begehrten Platz als Vorgruppe der Foo Fighters. Für ihr zweites Album haben sie ihren Sound verfeinert, um die Energie ihrer Live-Auftritte und die intensiven klanglichen Kontraste noch stärker zur Geltung zu bringen. Eine rasante, hochoktanige Kollision aus **Skate-Punk**, **Grunge**, **Emo** und **Indie-Rock**. Ihr struktureller Entwurf balanciert zerklüftete, verzerrte Gitarrenriffs und heftige, thrashige Drum-Loops mit Momenten roher, reduzierter Midwestern-Emo-Intimität aus. "25 Forever" fühlt sich genau so an wie eine wilde, tränenreiche Mitternachtsfahrt durch die Heimatstadt nach einer absolut katastrophalen Partynacht. Das Album fungiert als spektakuläres, wunderschön lautes Denkmal für die chaotische Quarter-Life-Crisis und zeichnet die blauen Flecken, zerbrochenen Freundschaften und plötzlichen Erkenntnisse nach, die mit dem Stolpern durch die Mitte der Zwanziger einhergehen. KT Hall liefert eine absolute Meisterklasse in vokaler Wucht und wechselt von einem zerbrechlichen, Gänsehaut verursachenden Flüstern im eindringlichen Titeltrack zu einem kehlenschneidenden, rasenden Banshee-Schrei in der Vollgas-Hymne "Straight Men". Unterstützt von betonharten Drums und Gitarrenverzerrungen, die einem direkt in die Brust schlagen, ist es eine laute, brillant freche und äußerst nachvollziehbare Punkrock-Therapiesitzung, die danach verlangt, mit maximaler Lautstärke aufgedreht zu werden.
 
-::genre::
+::genre::power pop, post grunge, skatepunk, indie rock
 
 ## Chronic Hate - Defeating The Oblivion Of Life
 
-tbd
+Das italienische Powerhouse, das 2016 von den Gitarristen Riccardo D'Angelo und Roberto Simonetti gegründet wurde, hat sich mit früheren Alben wie "Dawn of Fury" nach und nach einen brutalen Underground-Ruf erarbeitet. Um die rohe Kraft und maximale Wirkung dieses Projekts einzufangen, entschied sich das Quartett, auf sterile digitale Studiotricks vollständig zu verzichten - das gesamte Album wurde zu 100% mit akustischem Schlagzeug und echten Verstärkern aufgenommen. Ein rasender, rasender Angriff von Extreme **Death Metal**. Ihr charakteristischer Stil verbindet die knochenbrechenden, groovigen Riffs des Old-School-European-Death-Metal mit modernem, aggressivem, technischem **Metalcore**-Tempo. Wenn deine Trommelfelle nach einer hochoktanigen, mit Leder und Spikes gespickten Power-Wäsche aus purem Adrenalin schreien, ist "Defeating The Oblivion Of Life" bereit, deine Lautsprecher komplett zu demolieren. Das Album wirkt wie ein wütender, herrlich rotziger Akt musikalischer Rebellion gegen erzwungene soziale Konformität, Bildschirmabhängigkeit und die alltägliche Generationsabstumpfung. Tracks wie die Eröffnungs-Single "The Wrong" verschwenden absolut keine Zeit mit höflichen Einleitungen und starten eine ununterbrochene, betonbrechende Salve aus rohen Gitarrenriffs und kehlenschneidenden Gesangsausbrüchen. Es ist eine ausgelassene, herrlich verstörte und wild leidenschaftliche Metal-Predigt, die speziell darauf ausgelegt ist, dich dazu zu bringen, die Faust in die Luft zu reißen und einen Moshpit im Keller zu zerstören.
 
-::genre::
+::genre::death metal, metalcore, deathcore
 
 ## Columbia Icefield - A Silence Opens
 
-tbd
+Columbia Icefield ist das hochgelobte Avantgarde-Jazz-Projekt unter der Leitung des Meistertrompeters und Komponisten Nate Wooley. Das Quartett besticht durch eine phänomenale Besetzung aus Improvisationsgrößen: Susan Alcorn an der Pedal Steel, Ava Mendoza an der Gitarre und Ryan Sawyer am Schlagzeug. Leider enthält diese bahnbrechende Aufnahme einige der letzten, bewegendsten musikalischen Aussagen, die Susan Alcorn vor ihrem Tod jemals eingespielt hat, sowie eine ergreifende Widmung an den verstorbenen Jazz-Koryphäen Ron Miles. Eine zutiefst elegische, weitreichende Fusion aus **Spiritual Jazz**, **moderner Klassik** und **avantgardistischer freier Improvisation**. Die Instrumentierung zeichnet sich durch weitläufige akustisch-elektrische Räume aus und stützt sich stark auf einen eindringlichen Balanceakt zwischen Trompete, Pedal-Steel-Gitarre und rohen Vokal-Drones. "A Silence Opens" ist ein atemberaubend schönes, der Schwerkraft trotzendes Klangmonument, das menschliche Trauer wie ein lebendiges architektonisches Werk behandelt. Die Platte umgeht billige, vorhersehbare Pop-Standardisierung vollständig, um Noten wie sich verschiebende Geister durch den Raum schweben zu lassen und so einen unglaublich tröstlichen Zufluchtsort fernab vom erschöpfenden Hintergrundlärm des modernen Alltags zu schaffen. Nate Wooleys Trompete verhält sich wie eine heulende Warnsirene im Nebel und schwebt perfekt um die weinenden, majestätischen Slides von Alcorns Pedal-Steel-Gitarre und Mendozas texturreichen Gitarrenloops. Es ist ein atemberaubendes, intensiv geduldiges und zutiefst emotionales Avant-Jazz-Requiem, das einen dazu zwingt, sich auf den Boden zu legen, das Licht auszuschalten und einfach nur zu atmen.
 
-::genre::
+::genre::avant jazz, modern jazz, spiritual jazz, modern classic, improvisation
 
 ## Consecration - Exanimis
 
-tbd
+Als aktive Vorreiter einer düsteren, stoischen Rockarchitektur hat das Quintett jahrelang daran gearbeitet, einen schweren, tief gestimmten Rhythmus zu perfektionieren. "Exanimis" ist das mit Spannung erwartete vierte Studioalbum der Band. Um die erdrückende klangliche Wucht des Albums optimal zur Geltung zu bringen, haben sie es in den Priory Studios gemeinsam mit dem Produzenten Greg Chandler von der Funeral-Doom-Legende Esoteric aufgenommen und abgemischt. Eine majestätische, langsam entflammende Meisterklasse im 1.3.90er-Style **Death-Doom-Metal**. Ihr charakteristischer Sound schöpft tiefe, traurige Inspiration aus der klassischen britischen Tradition des Genres - vor allem aus den frühen *Paradise Lost*, *My Dying Bride* und *Enchantment*. "Exanimis" zu hören fühlt sich genau so an, als stünde man vollkommen still in einem unterirdischen Betongrab, während eine dunkle, schwere Wand aus nassem Zement langsam über den Kopf gegossen wird. Consecration lehnt sichere, schnelle Pop-Arrangements ab und zieht es vor, eine unglaublich geduldige, erstickende Welt aus purem Elend und stoischer Romantik zu erschaffen. Tracks wie "Herald of Darkness" und "Submerged in Sand" schaffen eine phänomenale Balance zwischen tiefen, dröhnenden und höhlenartigen Gesangsgrowls und weinenden, wunderschönen Gitarrenharmonien, die wie ein Phantom im Schädel hängen bleiben. Sie behandeln das erdrückende Gewicht von Trauer und endlosem Kummer mit absolut höchstem künstlerischem Respekt und legen einen dunklen, majestätischen Bann über den Hörer, der einen dazu zwingt, die Lautstärkeregler bis auf elf aufzudrehen.
 
-::genre::
+::genre::death metal, doom metal
 
 ## Crocell - Swarm Of Insects
 
-tbd
+Crocell, die seit fast 20 Jahren eine feste Größe in der dänischen Extreme-Underground-Szene sind, erlitten 2023 mit dem Tod des Gitarristen Rasmus "Hexen" Henriksen einen tragischen Verlust. Mit dem neuen Gitarristen Mads Bertram in ihren Reihen ist "Swarm Of Insects" ihr siebtes Studioalbum in voller Länge. Zum ersten Mal in ihrer langen Karriere übernahm die Band die vollständige kreative Kontrolle, indem sie das gesamte Album selbst aufnahm. Eine bissige, kompromisslose Mischung aus **Black Metal** und **Death Metal**. Ihre Klangwelt konzentriert sich auf schroffe, kalte Gitarrenlinien, aggressive Blastbeats und eine dichte, apokalyptische Atmosphäre. "Swarm Of Insects" fühlt sich an, als würde man während einer biblischen Plage im Freien gefangen sein, bei der die Heuschrecken aus Rasierklingen bestehen und der Himmel ein blutunterlaufenes, unheiliges Purpur ist. Das Album weicht sicheren, ausgefeilten modernen Studiotrends gänzlich aus und liefert einen unerbittlichen Sturm extremer Metal-Bösartigkeit, der die Menschheit wie eine geistlose Horde behandelt, die sich von den Abfällen der Konzerne ernährt. Vom gewaltigen Eröffnungsstampfer "Sarcophagus" bis zum vulkanischen, rauchverhangenen Finale von "Volcano" weben die Gitarren ein rasendes, schwindelerregendes Netz aus dunkler Energie. Es behandelt Themen wie Tyrannei, Verrat und absoluten gesellschaftlichen Verfall ohne jede Gnade und bietet eine wunderschön verstörende, headbangtaugliche Entrüstung, die deine Lautsprecher gründlich zum Schmelzen bringen wird.
 
-::genre::
+::genre::blackened death metal
 
 ## Crushing - Voice Chat
 
-tbd
+Als bewusstes Gegenmittel zur starren Optimierung und überkalkulierten Perfektion der modernen digitalen Gesellschaft setzt die Band auf pure Unmittelbarkeit und Intuition. Sie nahmen das Material mit bewusst wenig Selbstzweifeln auf und übertrugen eine rohe, risikofreudige Live-Chemie direkt auf die Tonbandgeräte im Studio. Eine explosive, rasante Mischung aus **Indie-Rock**, **Midwest-Emo**, **Post-Rock** und **No Wave**. Ihr charakteristischer Sound hüllt chaotische, drängende Rhythmen in Schichten aus rotzigem 90er-Jahre-Gitarrenrock und Lou-Reed-artiger Gesangsattitüde. Wenn deine Sinne von der rasanten Geschwindigkeit und den erschöpfenden Hintergrundgeräuschen des digitalen Alltags völlig überfordert sind, kommt "Voice Chat" wie ein Ziegelstein, der direkt durch einen Flachbildfernseher geworfen wird. Mit sechs Tracks absoluter, ungeschliffener Gitarrenbrillanz wirkt die EP wie eine schweißtreibende, adrenalingeladene Kellerparty, bei der Apathie und pure Ekstase heftig aufeinanderprallen. Die Gitarren summen, dröhnen und klirren mit spektakulärer analoger Overdrive-Kraft, während Songs wie "clothes 2 deaf" und "family" dich komplett in eine risikofreudige klangliche Sandkiste einschließen. Sie behandelt reale Themen wie psychische Überforderung und moderne Lähmung mit einer wunderbar unprätentiösen, trotzigen Haltung. Es ist eine laute, wild-vitale und köstlich chaotische Alternative-Rock-Predigt, die speziell darauf ausgelegt ist, dich dazu zu bringen, die Lautstärkeregler bis auf zehn aufzudrehen.
 
-::genre::
-
-## Dalia Valanciute - One or Two Things
-
-tbd
-
-::genre::
+::genre::midwest emo, indie rock, no wave
 
 ## Dark Divine - Undead Melody
 
-tbd
+Die Band hat sich mit ihrem explosiven, emotional unverfälschten Ansatz in der modernen Heavy-Musik rasch einen Namen gemacht und sich weltweit einen Namen gemacht. "Undead Melody" ist ihr mit Spannung erwartetes zweites Studioalbum, das einen radikalen musikalischen Neuanfang darstellt und darauf abzielt, die technischen Grenzen ihres Instrumentariums zu erweitern. Eine rasante, temporeiche Fusion aus **Gothic Metalcore**, **Hard Rock** und **Industrial Metal**. Ihr charakteristischer Sound zeichnet sich durch massive, dröhnende Gitarren-Breakdowns und frenetische Elektronik unter theatralischer Gesangsdynamik aus, wobei sie ästhetische Anspielungen auf die Horror- und Gothic-Traditionen der dunklen Popkultur aufgreifen. Wenn ihr auf der Suche nach einem Album seid, das sich genau wie eine adrenalingeladene Maskenparty in einem verwunschenen gotischen Schloss anfühlt, das von Industrial-Synthesizern komplett übernommen wurde, dann ist "Undead Melody" eure Eintrittskarte. Als kraftvolle, triumphale konzeptionelle Feier der persönlichen Wiederauferstehung und der Überwindung der eigenen inneren Dämonen konzipiert, schießt das Album wie ein außer Kontrolle geratener Güterzug voran. Tracks wie "Make Me Disappear", "Better Start Digging" und "Halloweentown II: Welcome Home" schaffen eine phänomenale Balance zwischen schweren, die Lautsprecher zum Beben bringenden Breakdowns und massiven, wunderschön klaren Gesangshooks, die wie ein Blitz durch die Stille schneiden. Es ist eine energiegeladene, wunderbar theatralische und extrem süchtig machende Metalcore-Fahrt, die dich dazu zwingt, die Lautsprecher voll aufdrehen.
 
-::genre::
-
-## Dark Millennium - Come
-
-tbd
-
-::genre::
+::genre::industrial metal, gothic metal, modern metalcore, hard rock
 
 ## Dauþuz - Todeswerk: Uranium II
 
-tbd
+Als äußerst engagiertes Underground-Duo, bestehend aus den Musikern Syderyn und Aragorn, hat sich Dauþuz über Jahre hinweg eine ganz eigene, von Kritikern hochgelobte Nische im europäischen Extreme Metal erobert. Getreu ihrem einzigartigen Konzept ist "Todeswerk: Uranium II" die direkte thematische und erzählerische Fortsetzung ihres vorherigen Konzeptalbums, das sich mit historischen Untergrundarbeitern, gefährlichen unterirdischen Elementen und geologischer Trostlosigkeit befasst. Eine grandiose, konzeptionell messerscharfe Mischung aus Mining **Black Metal** und traditionellem Extreme Metal. Klanglich verbinden sie eisige Gitarrentremoli und rasende Blastbeats mit komplexen Melodien und theatralischen Atmosphären, wobei sie ihre gesamte ästhetische Identität auf historische Bergbaubetriebe, unterirdische Folklore und industrielle Tragödien ausrichten. Wenn deine Trommelfelle nach einer hochspannenden, filmreifen Reise durch einen pechschwarzen, rostbedeckten Minenschacht schreien, der direkt in einen Blizzard bei Minusgraden führt, hat "Todeswerk: Uranium II" den passenden Soundtrack für dich parat. Das Album ist eine absolute Meisterklasse in extremer Atmosphäre, die die sichere Sauberkeit des modernen Metal komplett hinter sich lässt zugunsten einer schweren, erstickenden Klangwand, die wie sich verschiebendes Grundgestein ächzt. Das Duo leistet phänomenale Arbeit, indem es Tracks wie "Joachimsthal – Jáchymov" und "Der Turm des Todes" mit markanten Gitarrenharmonien und galoppierenden Kampfrhythmen füllt, die verhindern, dass sich die Dunkelheit jemals repetitiv oder langweilig anfühlt. Die Gesangsdarbietungen sind wahrhaft furchteinflößend - sie wechseln mühelos von Gänsehaut erzeugenden, kehlenschneidenden Schreien zu majestätischen, klar gesungenen Gesängen, die wie uralte Geistergeschichten widerhallen, die von Höhlenwänden zurückschallen. Es ist eine wilde, brillant kalkulierte und intensiv leidenschaftliche Extreme-Metal-Predigt, die verlangt, auf volle Lautstärke gedreht zu werden.
 
-::genre::
+::genre::atmo black metal, melo black metal, folk metal
 
 ## David Giesel - Echoes of the Unknown
 
-tbd
+David Giesel ist ein renommierter deutscher Schlagzeuger, Komponist und Pädagoge. Nachdem er sein Handwerk an der Hochschule für Musik und darstellende Kunst Stuttgart (HMDK) verfeinert hatte, erregte sein immenses Talent die Aufmerksamkeit der heimischen Musikszene. Er wurde offiziell in das renommierte Showcase-Programm *Jazz Thing – Next Generation* aufgenommen und zum Stipendiaten der Kunststiftung Baden-Württemberg ernannt. Für die Aufnahmen zu seinem definitiven Debüt stellte Giesel ein internationales Quartett zusammen, bestehend aus Albin Ormegard (Gitarre), Moritz Langmaier (Klavier/Keyboards) und Thomas Fuller (Bass), und nahm das gesamte Album live in einem einzigen Raum im berühmten Jazzcampus Studio Basel auf. Ein fließender, emotional ausdrucksstarker Mix aus **Modern Jazz**, **Contemporary Jazz** und **Improvisation**smusik. Das Album konzentriert sich auf tiefe, natürliche Grooves und weitläufige melodische Strukturen und bewegt sich dabei anmutig an der Grenze zu subtilen Indie- und Alternative-Rock-Territorien. "Echoes of the Unknown" wirkt genau so, als betrete man eine elegante, schummrig beleuchtete Mitternachts-Jazzlounge, in der die Luft wunderbar dünn ist und die Musiker die Kunst der Kommunikation vollkommen beherrschen. Anstatt mit blitzschnellen, überkomplizierten technischen Soli zu prahlen, agiert Giesel als unglaublich geduldiger Wegweiser - er nutzt sein Schlagzeug, um weitläufige, atmende Klanglandschaften zu erschaffen, in denen jede Note echtes Gewicht hat. Die Musik bewegt sich mühelos von warmer, akustischer Vertrautheit wie auf der Veranda hin zu plötzlichen, explosiven Ausbrüchen moderner Rock-Energie und vertraut dabei ganz auf den Instinkt statt auf starre Kontrolle. Das emotionale Kronjuwel des Albums ist der Track "Moods", der eine eindringliche, hoffnungsvolle Ebene von Spoken-Word-Poesie von Dae Bryant mitten in den Klangnebel einführt. Es ist ein wunderschönes, zutiefst beruhigendes und intelligentes Debüt, das perfekt auf Nachtschwärmer zugeschnitten ist, die dem Lärm des Universums entfliehen wollen.
 
-::genre::
+::genre::modern jazz, contemporary jazz, improvisation
 
 ## David Torn - now i imagine a place not the same
 
-tbd
+David Torn ist ein weltweit geschätzter Gitarrenvirtuose, Produzent und Filmkomponist, der für seine Zusammenarbeit mit legendären Größen wie David Bowie, Tim Berne, Madonna und Ryuichi Sakamoto bekannt ist. Um diesen speziellen Abschnitt an improvisiertem Material einzufangen, begab er sich zusammen mit den Toningenieuren Randall Dunn und Chris Bittner ins Applehead Recording Studio. Dunn übernahm anschließend die Abmischung und die räumliche Gestaltung bei Circular Ruin. Eine makellose, cineastische Mischung aus freier **Improvisation**, **Avantgarde-Gitarre**, **Ambient** und **experimenteller elektronischer Musik**. Sein Konzept bricht vollständig mit traditionellen Rockmustern und nutzt stattdessen texturreiche Gitarrenloops, sich wiederholende mikrotonale Texturen und weitreichende akustisch-elektronische Transformationen. Wenn deine Sinne von den lauten Hintergrundgeräuschen des modernen Alltags völlig überfordert sind, stelle ich mir diesen Ort vor als eine Art tiefen, therapeutischen kognitiven Reset-Knopf. Das Album wirkt wie eine langsame, schwebende Reise durch eine großartige, sonnenüberflutete Kunstgalerie, in der die Gesetze der Zeit vollständig außer Kraft gesetzt sind. Anstatt mit schnellen, vorhersehbaren Jazz-Soli anzugeben, behandelt Torn seine E-Gitarre wie einen absoluten orchestralen Spielplatz - und webt ein wunderschönes, Gänsehaut erzeugendes Netz aus klingenden Noten, geisterhaften Synthesizer-Anschwüngen und mikrotonalen Scratches. Es ist ein atemberaubend mutiges, texturreiches und beruhigendes Stück Ambient-Klangkunst, das pure musikalische Unmittelbarkeit in hohe Kunst verwandelt.
 
-::genre::
+::genre::avant ambient, experimental rock, experimental electronica, improvisation
 
 ## Deafkids - Cicatrizes Do Futuro
 
-tbd
+Als einer der originellsten und kompromisslosesten Musikacts Südamerikas begann das Duo Anfang 2023 mit der Komposition der Grundzüge dieses Materials. Für die Fertigstellung des Projekts nahmen sie zu Hause eine dichte Schicht elektronischer Synthesizer-Klänge auf, bevor sie in ihrem langjährigen Partnerstudio, dem Estúdio Jukebox, die Live-Instrumentierung, den Gesang und die endgültigen Arrangements einspielten. Ein explosiver, kraftvoller Mix aus **D-Beat-Punk**, **Avantgarde-Noise** und hypnotischem psychedelischem Tribalismus. Klanglich verbinden sie rasende, fieberhafte lateinamerikanische Percussion mit dröhnenden Gitarrenloops, schrillen Synthesizern und verzerrtem Vocal-Delay. "Cicatrizes Do Futuro" ("Narben der Zukunft") spielt sich genau wie ein nächtlicher Straßenaufstand ab, der in einem futuristischen Cyberpunk-Dschungel stattfindet, während eine massive Wand aus zerbrochenen Industriemaschinen langsam um einen herum zusammenbricht. Das Album umgeht gänzlich die sicheren, traditionellen Strophe-Refrain-Formeln des Punkrocks und setzt stattdessen auf eine absolute Meisterklasse in knochenbrechender rhythmischer Spannung und psychedelischer Desorientierung. Während der Gesang unter Schichten aus elektronischem Schmutz und hallendem Delay begraben ist, zielen die zugrunde liegenden Themen auf den tiefen politischen, sozialen und moralischen Verfall einer Welt ab, die blindlings ins Chaos steuert. Es ist ein straffes, gnadenloses und wunderschön ungezähmtes Audiodokument, das deine Trommelfelle dauerhaft klingeln lässt.
 
-::genre::
-
-## Decanon - Planet Decanon
-
-tbd
-
-::genre::
+::genre::avant noise, d-beat, electropunk, psych punk
 
 ## Deus Saboath - Distortion Of Lies
 
-tbd
+Die Band, die im Underground der extrem harten Musik zu Hause ist, hat ihren düsteren, unerbittlichen Songwriting-Stil stetig weiterentwickelt. "Distortion Of Lies" stellt einen wichtigen Meilenstein in der Entwicklung der Gruppe dar und zeichnet sich durch eine verstärkte Betonung auf kalkulierte technische Präzision und strukturelle Komplexität aus. Eine rasante, rasante Mischung aus **Black Metal** und **Death Metal**. Ihr klanglicher Stil baut auf eisigem Tremolo-Picking, chaotischen Blast-Beats und aggressiven Gitarrenarrangements auf, die eine dichte, gnadenlose Klangwand erzeugen. "Distortion Of Lies" wirkt genau so, als würde man mitten in einem donnernden Mitternachtssturm draußen festsitzen, wo der Regen zu Rasierklingen wird und der Wind vor lauter Bosheit heult. Das Album verzichtet gänzlich auf höfliche, radiotaugliche Bearbeitungen oder moderne, sterilisierte Pop-Metal-Tricks und entscheidet sich stattdessen dafür, dich mit einer Salve primitiver Blastbeats und höhlenartiger Growls direkt ins Gesicht zu schlagen. Die Gitarren summen wie ein Schwarm wütender Hornissen durch eine absolute Wand aus Overdrive und weben ein hektisches, schwindelerregendes Netz aus dunkler Energie, das deine Gehirnzellen völlig auf Trab hält. Es ist ein straffes, gnadenloses und wunderschön verstörendes Stück extremer Kunst, das maximale Lautsprecherlautstärke verlangt.
 
-::genre::
+::genre::blackened death metal
 
-## Devin Townsend - The Moth
+## Devin Townsend - The Moth *
 
-tbd
+Devin Townsend ist ein allseits geschätzter, exzentrischer Multi-Instrumentalist und Produzent, der für seinen enormen Stimmumfang und seine jahrzehntelange, sich ständig wandelnde Meisterschaft in den Bereichen Extreme Metal, Ambient und Industrial bekannt ist. "The Moth" ist das absolut ambitionierteste Projekt seiner legendären Karriere und das Ergebnis einer atemberaubenden zehnjährigen kreativen Entstehungsphase. Um die komplexe Partitur zu untermauern, brachte sich Townsend klassische Harmonielehre und Kontrapunkt von Grund auf neu bei und nahm das Werk in zehn Ländern zusammen mit dem North Netherlands Orchestra and Choir sowie hochkarätigen Gaststars wie Steve Vai und Anneke van Giersbergen auf. Eine kolossale, den Horizont erweiternde Mischung aus symphonischer Rockoper, **Avantgarde-Metal** und **Progressive Rock**. Klanglich bricht das Projekt mit seinen üblichen Solo-Setups und setzt stattdessen auf eine voll orchestrierte, filmische Erzählung, geprägt von gewaltigen Chören und vielschichtigen, theatralischen Klangwänden. The Moth entfaltet sich wie eine hyperfuturistische, visuell spektakuläre filmische Explosion, die sich in einer schwebenden Weltraumkathedrale abspielt. Devin Townsend bricht die üblichen Regeln der kurzen Aufmerksamkeitsspanne im modernen Streaming komplett, um den Hörern eine atemlose, 24-Track-Achterbahnfahrt purer klanglicher Transformation zu bieten. Das Album wirkt wie ein brillantes, hochkarätiges Musiktheaterstück, in dem schwerfällige, furchteinflößende orchestrale Schlachtrufe in Tracks wie "Prepare For War" mühelos in die zerbrechliche, herzzerreißende Schönheit von "Home At Night" übergehen. Es behandelt schwere, zutiefst menschliche Themen wie Selbstakzeptanz, Angst und persönliche Entwicklung mit höchstem künstlerischem Respekt. Es ist ein atemberaubendes, leidenschaftliches Meisterwerk, das deine volle, ungeteilte Aufmerksamkeit verlangt.
 
-::genre::
+::genre::avant metal, prog metal, symphonic metal, prog rock
 
 ## Die Toten Hosen - Trink aus, wir müssen gehen!
 
-tbd
+Seit fast 45 Jahren zählen Die Toten Hosen zu den kommerziell erfolgreichsten und beständigsten Größen der deutschen Rockgeschichte und haben zwölf Nummer-1-Alben vorzuweisen. Unter der Leitung ihres legendären Frontmanns Campino sowie Andi, Breiti, Kuddel und Vom Ritchie erscheint nun ihr bedeutendes siebzehntes Studioalbum. Hymnischer **Punkrock** und **Alternative Rock**. Ihr charakteristischer Sound verbindet energiegeladene, rasante, gitarrenlastige Tempi mit äußerst mitreißenden, zum Mitsingen einladenden Refrains und selbstreflexiven deutschen Texten. "Trink aus, wir müssen gehen!" fungiert wie der ultimative, bittersüße letzte Aufruf in deiner liebsten, rauchgeschwängerten Kneipe um die Ecke. Anstatt sich in einem langsamen, deprimierenden Akustikmarsch à la Altenheim zu suhlen, nutzen die Düsseldorfer Veteranen ihr letztes Studioalbum, um eine absolut krasse Stadion-Rockparty zu schmeißen. Die E-Gitarren brummen mit spektakulärer Punkrock-Autorität, während Tracks wie "Lass mal nicht machen" Campino mit seinen schärfsten, selbstbewusstesten und zum Schreien komischen Texten seit Jahren präsentieren - wobei er spielerisch alles verspottet, von Rammstein-Shirts bis hin zu sich selbst. Es ist ein strahlender, frischer und wunderschön lebendiger Abschiedsbrief, der jegliches übertriebene Pathos fallen lässt, um auf dem absoluten Höhepunkt ihrer Kräfte abzutreten.
 
-::genre::
+::genre::punk rock, alt rock
 
 ## Digitalism - Optimism
 
-tbd
+Digitalism, bestehend aus İsmail "Isi" Tüfekçi und Jens Moelle, ist seit über zwei Jahrzehnten eine tragende Säule der weltweiten elektronischen Musik und wird allseits für seine Remixe von Größen wie Daft Punk, Depeche Mode und The White Stripes gefeiert. Die beiden Pioniere der elektronischen Musik, die ihre Tracks bekanntermaßen in einem Studio in einem Bunker aus dem Zweiten Weltkrieg produzieren, legen mit "Optimism" ihr mit Spannung erwartetes fünftes Studioalbum vor. Eine mitreißende, energiegeladene Mischung aus **Indie-Dance**, **Electro-House**, **Nu-Disco** und **Synthpop**. Ihr unverkennbarer Stil schlägt nahtlos eine Brücke zwischen roher, kraftvoller Rock-Energie und der Dynamik elektronischer Clubmusik und fängt dabei einen wild-kinetischen DIY-Spirit ein. Wenn deine Gehirnzellen von den langweiligen Hintergrundgeräuschen des modernen Radio-Pops völlig erschöpft sind, kommt „Optimism“ wie ein spektakuläres, neongetränktes Feuerwerk direkt in dein Wohnzimmer. Das Album ist ein nonstop, schweißgetränkter Tanzmarathon, der Farben, mitreißende Akkorde und treibende Synthesizer-Patches mit atemberaubender Dringlichkeit direkt aus deinen Lautsprechern schießt. Über eine Matrix aus 12 Songs, die Highlights wie das von Videospielen inspirierte „Space Invaders“ und den Vollgas-Kracher „House Alarm“ umfasst, kanalisiert das Duo eine unglaublich warme, unbeschwerte und jugendliche Club-Energie. Es ist ein strahlender, wild-leidenschaftlicher Pop-Elektro-Neustart, der dich dazu zwingt, den Bass voll aufzudrehen, die Fenster herunterzukurbeln und direkt auf die nächste Tanzfläche zu sprinten.
 
-::genre::
+::genre::minimal techno, indietronica, nu disco, synth pop
 
 ## Diminishing - The Outcome
 
-tbd
+Das 2019 gegründete Projekt ist ein Duo, das sich aus dem in Texas lebenden Lane Oliver (ehemals Mitglied der Mathcore-Band Yatsu) und dem in New York ansässigen Dave Brenner zusammensetzt, dem visuellen Künstler und Komponisten hinter Gridfailure. Nach ihrem hochgelobten Debütalbum "The Unnamable" aus dem Jahr 2023 haben sie sich erneut zusammengetan, um persönliche Schwierigkeiten in eine architektonische Erkundung des reinen Klangs zu verwandeln. Eine spannungsgeladene, emotional erschütternde Mischung aus **Dark Ambient**, **Drone**, Harsh **Noise** und **Post-Industrial**. Klanglich verzichten sie auf polierte, kommerzielle Strukturen, um mit semi-improvisierten Texturen, mechanischen Rhythmen und erstickender, basslastiger Gitarrenreibung ein düsteres Klangbild zu entwerfen. "The Outcome" wirkt genau wie ein langsames, klaustrophobisches Kriechen durch einen eiskalten, toten Waldweg mitten im Winter, gerade als dich dichter Nebel einhüllt und dich vollständig einschließt. Das Album lehnt sichere Melodien oder beruhigende Hooks gänzlich ab und versenkt deine Trommelfelle stattdessen in Wellen aus betonhartem Drone-Rauschen und unheimlichen, mechanischen Klängen. Textlich liefert die Band eine pechschwarze, zutiefst psychologische Predigt, die sich mit der erdrückenden Last vorweggenommener Trauer, Selbstvorwürfen und familiären Spannungen befasst, wenn ein geliebter Mensch seinem Ende entgegengeht. Es ist ein intensiver, wunderschön grausamer und unerbittlich roher klanglicher Exorzismus, geschaffen für mutige Hörer, die pure atmosphärische Qual erleben wollen.
 
-::genre::
+::genre::industrial, dark ambient, drone, noise
 
 ## Dogstar - All In Now
 
-tbd
+Das Trio, das ursprünglich in den frühen 1990er Jahren gegründet wurde, besteht aus dem Sänger und Gitarristen Bret Domrose, dem Schlagzeuger Robert Mailhouse und dem Bassisten und Filmstar Keanu Reeves. Obwohl sie von Kritikern vor ihrer Trennung im Jahr 2002 zunächst als Promi-Nebenprojekt abgetan wurden, löste ihre triumphale Wiedervereinigung im Jahr 2020 eine äußerst ernstzunehmende kreative Ära aus. Nach "Somewhere Between the Power Lines and Palm Trees" aus dem Jahr 2023 begaben sie sich ins Studio, um ihr viertes Studioalbum aufzunehmen. Um ihren Sound zu verfeinern, holten sie den legendären Produzenten Nick Launay an Bord (bekannt für seine Arbeit mit IDLES, Nick Cave und Amyl and the Sniffers). Eine treibende, melodische Mischung aus **Alternative Rock** der 90er, **Post-Punk** und **Grunge-Pop**. Ihr neu belebter charakteristischer Sound verbindet dichte Gitarrenriffs mit einer schweren, treibenden Bassenergie, die an *R.E.M.*, *Gin Blossoms* und *Echo & the Bunnymen* erinnert. "All In Now" spielt sich genau wie eine in Lederjacken gekleidete, hochoktanige Siegesrunde, die den Rückspiegel zersplittert auf dem Asphalt zurücklässt. Diese Platte wirkt wie eine glorreiche, schweißgetränkte Rückblende auf die absolute Blütezeit des Alternative-Radios und schaltet mit einer rohen, post-punkigen Kraft in den Overdrive, die deine volle Aufmerksamkeit vollständig in Anspruch nimmt. Keanu Reeves und Robert Mailhouse sorgen für einen schweren, felsenfesten Rhythmus, der Bret Domroses zerklüftete E-Gitarren-Loops und klagende Gesangsmelodien direkt durch den klanglichen Donner aufsteigen lässt. Tracks wie das dramatische Highlight "The Whisper" brechen mit einer wilden, jugendlichen Dringlichkeit aus den Lautsprechern, die nach maximaler Lautstärke verlangt.
 
-::genre::
-
-## Don Williams - EPILOGUE: THE CELLAR TAPES
-
-tbd
-
-::genre::
+::genre::alt rock, post punk, post grunge
 
 ## Duchamp - On With The Show
 
