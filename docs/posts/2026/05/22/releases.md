@@ -1,7 +1,5 @@
 ---
 date: 2026-05-22
-pin: true
-bandcamp: true
 categories:
   - Releases
 ---
@@ -1236,7 +1234,7 @@ Die Gruppe, bestehend aus erfahrenen Musikern der deutschen Underground-Szene, s
 
 Sowohl McGee als auch Surak verfügen über jahrzehntelange Erfahrung darin, den Kassettenrekorder als lebendiges, chaotisches Instrument zu behandeln. Sie sind Puristen der physischen Analog-Underground-Szene und dafür bekannt, aus elektronischem Schrott und Fundstücken strukturreiche, unbearbeitete Klanglandschaften zu erschaffen. Harsh **Noise**, Klangcollagen, Tonbandmanipulation, abstrakte **Avantgarde** und Early **Industrial**. Das Projekt knüpft strukturell und ästhetisch an legendäre experimentelle Kollektive wie *Kluster* und *Conrad Schnitzler* an. Dark Holes zu hören ist, als würde man sein Gehirn sanft in einem alten, glitchenden Videorekorder pürieren, der ein Jahrzehnt lang in feuchter Erde vergraben war. Es ist wunderschöner, analoger Wahnsinn! Das Album ist ein unvorhersehbares Gewebe aus harschen statischen Ausbrüchen, unheimlichen akustischen Geräuschen, Fragmenten vorbeiziehender Gespräche und magnetischem Rauschen. Da die beiden Künstler ihre Parts völlig unabhängig voneinander aufgenommen haben, wirken die Momente, in denen die Klänge perfekt ineinandergreifen, wie erschreckende, zufällige Fügungen des Schicksals. Es ist herausfordernd, aggressiv und dient als herrliche Erinnerung daran, dass Musik nicht immer eine Melodie braucht, um die Fantasie vollständig zu fesseln.
 
-::genre::noise, experimental electronica, musique concréte, avant electronica, idm
+::genre::noise, experimental electronica, musique concrète, avant electronica, idm
 
 ## HERE - Acceptance
 
@@ -1326,7 +1324,7 @@ Marcy Firelife, der sich mit Kurz-EPs wie "october first" und Kollaborations-Sin
 
 *Metastasis* ist ein elektroakustisches Quartett, das 2018 inmitten heftiger regierungskritischer Demonstrationen in Tiflis gegründet wurde. Die Gruppe besteht aus den Musikern Kuji Davituliani, Alexander Khkhiashvili, Nasi Chavchavadze und David Dkikabidze. Sie sind zentrale Persönlichkeiten der georgischen Underground-Szene für experimentelle und elektronische Musik. Eine fließende Kombination aus elektroakustischer **Improvisation**, **Ambient-Drone**, **Noise** und avantgardistischer **Musique concrète**. Sie setzen intensiv auf Field Recordings, Trompete, Schlagzeug, Cello und elektronische Klangmanipulation in Echtzeit. Wenn du schon immer einmal in einer riesigen, sich wandelnden Wolke aus kosmischem Staub sitzen wolltest, während dir jemand französische Geheimnisse ins Ohr flüstert, dann ist "Dineba" genau das Richtige für dich. Der Titel lässt sich frei mit Fluss oder Strömung übersetzen, und genau das tut das Album - es fließt. Der Eröffnungstrack "The Kármán Line" verwendet ein gespenstisches Sample eines französischen Kindes, das durch dichten Klangnebel treibt. Gerade wenn man sich in den dunklen Trost des Drones einrichtet, explodieren Tracks wie "Coronal Mass" mit chaotischen Trompeten- und Cellolinien, die klingen, als versuche eine Jazzband, eine Sonneneruption zu überleben. Es ist unvorhersehbar, völlig wild und wunderbar therapeutisch, wenn man seine Ambient-Musik mit einer kräftigen Prise Industrial-Rauheit mag.
 
-::genre::musique concréte, ambient, avant electronica, drone, noise, improvisation
+::genre::musique concrète, ambient, avant electronica, drone, noise, improvisation
 
 ## Mirar - Gradus Ad Parnassum
 
