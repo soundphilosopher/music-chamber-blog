@@ -1,86 +1,56 @@
 ---
 date: 2026-05-29
 pin: true
-bandcamp: false
+bandcamp: true
 categories:
   - Releases
 ---
 
 # Releases! Releases! Releases!
 
-## A Liquid Landscape - Rogue Planet
-
-tbd
-
-::genre::
-
 ## Abrasive Trees - Light Remaining
 
-tbd
+Das Kernteam der Band besteht aus Matthew Rochford (Gesang/Gitarre), Jay Newton (Gitarre) und Will Tyler (Schlagzeug/Bass). Rochford verfügt über einen namhaften Hintergrund in der Indie-Prog-Szene, da er zuvor im Art-Rock-Kollektiv Silver Moth (zusammen mit Evi Vine) und im Projekt RISE tätig war. Zur Gestaltung ihrer Klanglandschaften wird das Kern-Trio durch eine Reihe spezialisierter Gastmusiker ergänzt, darunter der Cellist Ben Roberts und die Sängerin Yunala Songweaver von Gravity Machine. Eine schwere, melancholische Mischung aus **Dark Post-Punk**, **Post-Rock** und **Alternative Rock**. Ihr architektonischer Entwurf lebt von atmosphärischen, delay-geladenen Gitarren, eindringlichen Drone-Strukturen und einer tiefen, düsteren **Spoken-Word**-Gesangsdynamik. Ästhetisch lassen sich subtile Vergleiche mit dem mitreißenden, dramatischen Tempo von *Swans* und *Crippled Black Phoenix* ziehen. "Light Remaining" wirkt genau so, als würde man in der Dämmerung blind durch einen kalten, nebelverhangenen Friedhof wandern, während eine unsichtbare apokalyptische Rundfunkübertragung über den Horizont hallt. Das Album umgeht den höflichen Glanz des modernen Radios vollständig und bevorzugt stattdessen eine unglaublich geduldige, filmische Meisterklasse in psychologischer Spannung, die gewichtige Themen wie Traumaverarbeitung, existenzielle Isolation und gesellschaftliche Zerrissenheit behandelt. Der Opener "No Solace" schafft eine brillant eindringliche Stimmung, indem er unheilvolle Drone-Loops um intensive Spoken-Word-Poesie wirbeln lässt, bevor Tracks wie "Star Sapphire" in zerklüftete, kantige Post-Punk-Gitarren explodieren. Mit "Tao To Earth" wirft es sogar einen großartigen Überraschungsball, indem es orientalisch angehauchte Gitarrentexturen einsetzt, die wie elektrische Sitaren über einem stampfenden Rhythmus schwirren. Es ist ein befriedigend grauer, atmosphärischer und tief bewegender Klangspielplatz, der speziell für nächtliche Introvertierte geschaffen wurde, die ihr Gehirn zur Ruhe bringen wollen.
 
-::genre::
+::genre::post punk, post rock, dark rock, alt rock, spoken words
 
 ## Acacia Avenue - Chapter V
 
-tbd
+Acacia Avenue ist das hoch angesehene Melodic-Rock-Studio-Projekt, das vom dänischen Multi-Instrumentalisten, Songwriter und Produzenten Torben Enevoldsen (bekannt für seine Arbeit bei Fate, Fatal Force und Section A) ins Leben gerufen wurde. Enevoldsen startete das Kollektiv-Konzept im Jahr 2008, um Songs zu schreiben, die speziell auf eine wechselnde, internationale Besetzung von Elite-Gastsängern zugeschnitten sind. Passend betitelt mit "Chapter V" markiert diese Veröffentlichung das fünfte Studioalbum des Projekts in voller Länge. Um die Klangwelten zum Leben zu erwecken, spielte Enevoldsen selbst Gitarre, Bass und Keyboard an der Seite von Fatal-Force-Schlagzeuger Dennis Hansen und rekrutierte eine All-Star-Besetzung an Sängern, darunter Peer Johansson (Fate), Peter Sundell (Decoy), Dagfinn Joensen und der verstorbene, legendäre Hardrock-Sänger Tony Mills (Shy, TNT). Eine makellose, handgefertigte Mischung aus klassischem **Hard Rock**, **Melodic Rock** und 80er-Jahre-**AOR**. Ihr Konzept verzichtet bewusst auf moderne digitale Verzerrung und künstlichen Hochglanz, und setzt stattdessen auf klare Hooklines, warme Gitarrenharmonien und imposante Gesangsarrangements. Wenn dein Rock’n’Roll-Herz von modernen, überproduzierten Studiotrends völlig erschöpft ist, kommt "Chapter V" wie ein wunderschön unbekümmertes, in Lederjacken gekleidetes Fahrzeug daher, das dafür gebaut ist, direkt in einen Sonnenuntergang der 80er zu fahren. Das 11-Track-Album präsentiert sich als absolute Meisterklasse in klassischer, mitreißender Melodic-Rock-Struktur und stellt unglaubliche Gesangsdarbietungen und hochfliegende Gitarrenläufe in den Mittelpunkt des Geschehens. Songs wie "No Use Running" und "Stand Your Ground" durchbrechen die statische Atmosphäre mit klaren, mitreißenden Refrains, die einen sofort dazu zwingen, die Autofenster herunterzukurbeln und mitzusingen. Das Album geht mit seinem Retro-Rock-Erbe absolut aufrichtig und mit handwerklichem Stolz um und beweist, dass wahre melodische Handwerkskunst niemals auch nur einen Tag altert.
 
-::genre::
-
-<!-- more -->
-
-## aespa - LEMONADE
-
-tbd
-
-::genre::
-
-## AfterWinter - Boundless
-
-tbd
-
-::genre::
+::genre::melo rock, heavy rock, hard rock, arena rock
 
 ## Alana Springsteen - I Hope This Helps
 
-tbd
+Seit ihrem von der Kritik gefeierten Debütalbum „Twenty Something“ aus dem Jahr 2023 hat Springsteen in der Nashville-Szene rasant Karriere gemacht. Für dieses mit Spannung erwartete nächste Kapitel fungierte sie gemeinsam mit den etablierten Hitproduzenten Chris LaCorte und Sam Martinez als Co-Produzentin. Eine wunderschön ausgefeilte, elegante Mischung aus **Country-Pop** und **Contemporary Americana**. Ihr unverkennbarer Stil verbindet sehr persönliche, tagebuchartige Erzählungen mit reichhaltigen Gesangsharmonien und funkelnden Pop-Hooks, die an Taylor Swift erinnern. "I HOPE THIS HELPS" spielt sich genau wie eine emotional intensive Therapiesitzung für Mittzwanziger ab, die es irgendwie schafft, tiefe psychologische Durchbrüche in stadiontaugliche Pop-Refrains zu übersetzen. Springsteen legt ihr unerschütterliches Selbstbewusstsein komplett ab und eröffnet das Album mit einer wörtlichen Kindheitsaufnahme von sich selbst, bevor sie sich kopfüber in das schwere Gepäck aus generationenübergreifendem Trauma, religiöser Scham und chronischem Menschengefälligkeit stürzt. Dennoch wirkt die Musik niemals anstrengend; sie gleitet auf makellosen akustisch-elektrischen Gitarrenklängen und wunderschönen, vielstimmigen Gesangspassagen dahin, die das Zurückgewinnen des Selbst wie einen feierlichen Akt puren Trotzes wirken lassen. Vom schmerzhaften Realitätscheck von "note to self" bis zur unbeschwerten Freiheit von "selfish" funktioniert das Album als ein wunderbar menschliches Country-Pop-Meisterwerk, das perfekt auf jeden zugeschnitten ist, der an seinem eigenen Scheideweg steht.
 
-::genre::
+::genre::country folk, alt pop, americana
 
-## Albion - It Was In The Month Of May
-
-tbd
-
-::genre::
+<!-- more -->
 
 ## All Them Witches - House of Mirrors
 
-tbd
+Seit ihrer Gründung im Jahr 2012 hat sich das Quartett als unangefochtener Vorreiter der modernen amerikanischen Psychedelia etabliert. "House of Mirrors" ist ihr siebtes Studioalbum und ihr mit Spannung erwartetes Comeback nach dem bahnbrechenden Album "Nothing As The Ideal" aus dem Jahr 2020. Bemerkenswert ist, dass die Band für dieses Album einen ungewöhnlichen kreativen Prozess gewählt hat: Sie testete und verfeinerte den Großteil der neuen Tracks akribisch live auf einer fast einjährigen, ausgedehnten Welttournee, bevor sie diese überhaupt im Studio auf Band nahm. Eine schwere, rauchige und hypnotische Mischung aus **Psychedelic Rock**, **Blues Rock**, **Stoner Rock** und **Acid/Classic Rock**. Ihr klanglicher Fingerabdruck basiert auf langsam aufbauender Dynamik, verzerrten Gitarrenloops und einem tiefen Roots-Rock-Groove. "House of Mirrors" fühlt sich genau so an wie eine nächtliche Langstreckenfahrt über eine Wüstenautobahn, bei der die Sterne etwas zu groß wirken und das Autoradio direkt Signale von einem außerirdischen Satelliten empfängt. All Them Witches lassen Hypergeschwindigkeit und modernen digitalen Studioglanz komplett links liegen und bevorzugen stattdessen eine äußerst geduldige Meisterklasse in dunkler, texturreicher Gitarrenhypnose. Tracks wie die herausragende Durchbruch-Single "Red Rocking Chair" und "Aethernet" dehnen sich meisterhaft aus und atmen - lassen träge, heruntergestimmte Stoner-Blues-Rhythmen sanft unter coolen Gesangsphrasierungen dahinrollen. Bei "Hold Up, Say What" werfen sie sogar einen spektakulären Überraschungsball, indem sie eine schwebende, eindringliche Violinenebene einführen, die der schweren Verzerrung einen grandiosen, kinoreifen Schwung verleiht. Es ist eine atemberaubend geschlossene, beruhigende und unglaublich lebendige Rockpredigt, die speziell darauf ausgelegt ist, dass man die Lautstärkeregler bis auf zehn aufdreht.
 
-::genre::
+::genre::psych rock, stoner rock, blues, acid rock
 
 ## Amelia Ya’el - Voices I
 
-tbd
+Amelia Ya'el ist eine äußerst virtuose Newcomerin, die ihr Instrument als ungefiltertes Werkzeug für tiefe emotionale Resonanz einsetzt. Ihre beeindruckende Beherrschung des Saxophons hat in der zeitgenössischen Improvisationsszene schnell für Aufsehen gesorgt und ihr Lob der Kritiker eingebracht, da sie rohe technische Ausführung mit poetischer Lyrik in Einklang bringt. Eine den Horizont erweiternde, zutiefst ausdrucksstarke Darbietung von **Free Jazz**, **Avantgarde-Jazz** und abstrakter elektroakustischer **Improvisation**. Die Instrumentierung verzichtet bewusst auf traditionelle Bandformate, um ein kompromissloses Solo-Album in LP-Länge zu liefern, das sich ganz auf erweiterte Saxophontechniken konzentriert. Wenn Ihre Gehirnzellen von den vorhersehbaren Hintergrundgeräuschen des modernen Radio-Pops völlig überfordert sind, wirkt "Voices I" wie ein radikaler, faszinierender kognitiver Gaumenreiniger. Das Anhören dieses Debütalbums fühlt sich genau so an, als stünde man um Mitternacht in einem riesigen, hohlen Betonsilo, während ein einsamer Musikwissenschaftler mit einem Saxophon versucht, mit einem vorbeifliegenden außerirdischen Raumschiff zu kommunizieren. Ya’el behandelt ihr Instrument wie einen absoluten strukturellen Sandkasten - sie überspringt höfliche Jazz-Standards komplett, um Klicks, Atemzüge, mikrotonale Kratzer und donnernde Wellen von Hornresonanz von den Wänden abprallen zu lassen. Tracks wie "Mechanics of Anger" und "Song of Peace" gleiten wunderschön zwischen hautnaher, intensiver abstrakter Reibung und plötzlichen, herrlichen Momenten purer, stiller Melodie hin und her. Es ist ein atemberaubend mutiges, texturreiches und äußerst ehrliches Audio-Experiment, das pure musikalische Unmittelbarkeit in hohe Kunst verwandelt.
 
-::genre::
+::genre::avant jazz, free jazz, improvisation
 
 ## Ana - Motivated By Death
 
-tbd
+Angeführt von der opernhaften, kraftvollen Stimme der Frontfrau Anna Khristenko präsentieren sich die Bandmitglieder als maskierte, übermenschliche Wesen. Für die Produktion ihres definitiven Debütalbums übernahmen Khristenko und Gitarrist Josh Mak die Leitung als Co-Produzenten und begaben sich gemeinsam mit dem renommierten Toningenieur Chris Themelco in die Monolith Studios. Eine raffinierte, filmische Weiterentwicklung von **Symphonic Metal**, **Melodic Metal** und **Alternative Hard Rock**. Die Gruppe lehnt traditionelle Fantasy-Klischees ab und beschreitet neue Wege mit einer dunklen, modernen Ästhetik, die sie als Couture Metal bezeichnen. Klanglich verbinden sie die wuchtige Gitarrenpower und die dramatischen Gesangspassagen von *Epica*, *Nightwish* und *Evanescence*. "Motivated By Death" fühlt sich genau so an, als würde eine High-Fashion-Modenschau plötzlich von einem stadiongroßen Heavy-Metal-Orchester gewaltsam gekapert. Mit einer Laufzeit von knappen 34 Minuten behandelt das Album Symphonic Rock mit absoluter dramatischer Präzision. Tracks wie "Hate Me" und das tosende "Eyes Of A Child" treffen einen mitten in die Brust mit einem wilden Cocktail aus massiven Gitarrenriffs, komplexen progressiven Breakdowns und Khristenkos mitreißenden Gesangsakrobatik. Dennoch weiß die Band genau, wie man dem Sturm Raum zum Atmen lässt; "Sick Love" wirft einen brillanten Curveball, schwebt als zerbrechliche, tränenreiche Ballade aus Klavier und Streichern, bevor die volle elektrische Rüstung im Finale detoniert. Es ist ein strahlendes, wild leidenschaftliches und wunderschön ausgefeiltes Debüt, das danach verlangt, mit maximaler Lautstärke aufgedreht zu werden.
 
-::genre::
+::genre::alt rock, melo metal, symphonic metal
 
 ## Ater Era - Sinistria
 
-tbd
+Das Projekt entstand ursprünglich im Jahr 2006 als Soloprojekt des Masterminds S.S. (Samuel Simonovič) nach dem Zerfall seiner früheren Black-Metal-Band Torka und entwickelte sich schnell zu einem experimentellen Power-Trio. Unterstützt von der Bassistin Eva Hreščak und dem Schlagzeuger Jure Svarog Gams verwebt die Band regionale Folklore und Identität zu Heavy Art und bedient sich dabei eines mehrsprachigen Gesangs, der Englisch, Slowenisch und den lokalen istrischen Dialekt umfasst. Ein heruntergestimmter, beklemmender Mix aus **Psychedelic Black Metal**, **Doom Metal** und avantgardistischer Klangkunst. Ihr Konzept umhüllt unnachgiebige, primitive Black-Metal-Tremoli mit unheimlichen Ambient-Interferenzen, langsamen Doom-Rhythmen und unkonventioneller regionaler Instrumentierung. Mit ihrem cleveren, düsteren Titel, der aus einer direkten sprachlichen Vermischung der Wörter "sinister" und "Istria" entsteht, spielt sich Sinistria genau wie ein furchterregender Mitternachts-Fiebertraum an, in dem der eigentliche Dreck unter deinen Füßen zu verrotten beginnt und dich in die Hölle hinabzieht. Ater Era schafft einen brillanten, unter die Haut gehenden, unbehaglichen Spielplatz, auf dem schwerfällige, höhlenmenschenhafte Black-Metal-Riffs vollständig von trippigem psychedelischem Noise gekapert werden. Das absolute Kronjuwel dieses klanglichen Wahnsinns ist das bewusstseinserweiternde Highlight "Terra Rossa", in dem die Band buchstäblich eine Posaune mitten in einen blendenden Metal-Sturm fallen lässt, wie ein abtrünniges, jazzbesessenes Phantom. Das Album behandelt regionale Mythen, Umweltzerstörung und pechschwarze Leere ohne jegliche kommerzielle Kompromisse und liefert eine entfesselte, avantgardistische Extreme-Metal-Predigt, die maximale Lautstärke verlangt.
 
-::genre::
-
-## Avertat - Dead End Life
-
-tbd
-
-::genre::
+::genre::psych metal, avant black metal, doom metal
 
 ## Azaghal - Nekrohelios
 
@@ -1052,17 +1022,23 @@ Gegründet im Jahr 2013 von Frontmann Josh Scogin unmittelbar nach der Auflösun
 
 ::genre::art rock, prog rock, indie folk
 
+## A Liquid Landscape - Rogue Planet
+
+Die Band wurde bereits 1999 von den Brüdern van Dam (Niels an der Leadgitarre und Robert am Bass) zusammen mit Sänger Fons Herder gegründet; ihre Besetzung festigte sich später, als 2007 Schlagzeuger Coen Speelman hinzukam. Im Laufe ihrer Karriere unterschrieben sie einen Vertrag bei Glassville Records und erwarben sich einen hervorragenden Ruf in der Underground-Live-Szene, indem sie internationale Größen wie *Thrice*, *Anathema*, *Marillion*, *Soen* und *Karnivool* supporteten. Nach einer fast zehnjährigen Pause, bedingt durch einschneidende Lebensveränderungen und die Lockdowns während der Pandemie, fand das Quartett still und leise wieder zusammen, um seine Live-Chemie wieder aufleben zu lassen. Eine stimmungsvolle, weitreichende Fusion aus **Art Rock** und **Alternative Rock**. Während sie ihren progressiven Kern beibehalten, lehnt sich ihr aktueller Sound stark an die rauen, melodischen Alternative-Rock-Texturen der späten 1990er und frühen 2000er Jahre an. Seinen wissenschaftlichen Namen hat "Rogue Planet" von einem frei schwebenden astronomischen Körper, der ziellos durch den tiefen Kosmos treibt, ohne gravitativ an einen einzelnen Stern gebunden zu sein. Das Album ist eine wunderschöne, kraftvolle Rockpredigt. Es dient als scharfsinniger, zeitlich perfekt abgestimmter sozialer Kommentar, der eine hyperdigitalisierte Zivilisation beleuchtet, in der die ganze Welt buchstäblich zum Greifen nah ist, doch jeder völlig von jedem anderen abgekoppelt ist. Fons Herder vollführt einen atemberaubenden künstlerischen Balanceakt, indem er mit seiner sanften, luftigen Stimme massive, windgepeitschte Stürme aus zerklüfteten Gitarrenriffs und donnernden Drum-Einlagen verankert. Von der turbulenten, mehrteiligen Eröffnungssuite "Few and Far Between" bis hin zu Momenten zerbrechlicher, hochfliegender Hoffnung wirkt das Album wie ein spannendes, ballistisches Gegenmittel gegen die alltägliche Taubheit. Es ist eine strahlende, wild leidenschaftliche und wunderschön ausgereifte Rock’n’Roll-Entladung, die danach verlangt, bei maximaler Lautstärke abgespielt zu werden.
+
+::genre::art rock, alt rock
+
 ## Akira Uchida - Nusa
 
 Akira Uchida schloss sein Studium am Senzoku Gakuen College of Music mit einem Abschluss im Fach Saxophon ab. Er beschäftigt sich intensiv mit Instrumentenphysik und arbeitet hauptberuflich als Klavierstimmer für Jazzmusiker sowie als selbstständiger Clavichordbauer (er fertigte sogar maßgeschneiderte Instrumente für den legendären Komponisten Ryuichi Sakamoto an). Seine Musik zeichnet sich durch Klänge aus den Bereichen **Ambient**, **Drone**, **moderne Klassik** und traditionelle japanische Noh-Musik aus, die stark mit **Field Recordings** verwoben sind. Nimm dir einen Stuhl und lass die Schultern sinken, denn Nusa ist Klangmeditation vom Allerfeinsten. Entstanden nach einer Winterreise in die eisigen Landschaften Hokkaidos, ist dieses Album ein atemberaubender Balanceakt zwischen Licht und Dunkelheit. Uchida beherrscht das Clavichord und das Saxophon mit der Zurückhaltung eines Meisters und lässt zerbrechliche, hallende Töne neben den buchstäblichen Klängen der eisigen Umgebung in der Luft schweben. Dies zu hören ist, als würde man zusehen, wie sich Tinte langsam in einem Glas Milch auflöst. Es ist sparsam, filmisch und zutiefst menschlich. Wenn sich dein Geist von der chaotischen modernen Welt überfordert fühlt, ist das Anhören dieser Platte gleichbedeutend mit dem Betreten eines stillen, schneebedeckten Waldes, in dem die Zeit völlig stillsteht.
 
 ::genre::ambient, drone, modern classic, field recordings
 
-## Albion - It Was In The Month of May I
+## Albion - It Was In The Month of May
 
-Albion ist eine britische Folk-Rock-Größe unter der Leitung des Multi-Instrumentalisten Joe Parrish-James (Gesang, Flöte, Mandoline, Gitarre). Bemerkenswert ist, dass die Band aus einer Elite von Musikern besteht, die in direkter Verbindung zur legendären Prog-Rock-Institution Jethro Tull stehen; Joe ist ein ehemaliger Tull-Gitarrist, während Albions zweiter Gitarrist, Jack Clark, derzeit als Tourmitglied bei Jethro Tull tätig ist. **Progressiver Folk-Rock**, **keltischer Folk** und traditionelle britische Folk-Erzählstile, stark beeinflusst vom Mittelalter-Rock der 1970er Jahre und klassischer Fantasy-Überlieferung. Das thematische Herzstück dieses Albums ist purer High-Fantasy-Eskapismus, gespickt mit Anspielungen auf J.R.R. Tolkien und die Artus-Sagen. Titel wie "Eldest (Tom Bombadil)" und "The Green Knight" sind absolute Höhepunkte, die schwindelerregende, komplexe Flötensoli mit satten, vielschichtigen Männer-Frauen-Gesangsharmonien verbinden, die mühelos den Soundtrack zu einem Mitternachtsfestmahl in einer Taverne bilden könnten. Es ist theatralisch, zutiefst atmosphärisch und fängt eine makellose Balance zwischen traditioneller, rustikaler Erzählkunst und grandioser, progressiver Rockenergie ein.
+Die Band wurde 2019 mit dem klaren Ziel gegründet, uralte Volksüberlieferungen und den Artus-Mythos zu bewahren und bekannt zu machen, und begeisterte die Kritiker mit ihrem beeindruckenden Debütalbum "Lakesongs of Elbid" aus dem Jahr 2024. Mastermind, Sänger und Multi-Instrumentalist Joe Parrish-James (bekannt als ehemaliger Gitarrist von Jethro Tull) ist für das Songwriting verantwortlich, unterstützt von seiner Schwester Rhiannon am zweiten Gesang und dem aktuellen Jethro-Tull-Gitarristen Jack Clark. Eine majestätische, mitreißende Fusion aus **Progressive Folk**, **Folk Rock** und keltischen Melodien. Ihr klassischer Stil verbindet galoppierende E-Gitarren und heavy Rock-Rhythmusgruppen mit makellosen, traditionellen Flötenmelodien und üppigen Gesangskontrapunkten zwischen Mann und Frau. Sie stehen in einer klaren kreativen Tradition von Prog-Folk-Titanen der 1970er Jahre wie *Jethro Tull*. "It Was In The Month Of May" zu hören, fühlt sich genau so an, als würde man durch einen verborgenen Steinbogen zurück in eine lebendige, sonnenbeschienene mittelalterliche Waldlichtung treten, während eine Eliteband moderner wandernder Barden direkt für die Seele spielt. Das Album ist ein absoluter, handgefertigter Triumph, der die perfekte Balance zwischen bescheidener akustischer Intimität und stadionfüllender Progressive-Rock-Power findet. Es beginnt wunderschön mit "Mis Mai", einer atmosphärischen Akustikballade, die vollständig in der walisischen Muttersprache gesungen wird, bevor es einen kopfüber in den Vollgas-Blitzangriff der Gitarren und die flatternde Flötenzauberei von "The Green Knight" stürzt. Von der mitreißenden, an Seemannslieder erinnernden Energie von "Down With The Hero" bis hin zum atemberaubenden Tolkien-Tribut "Eldest (Tom Bombadil)" behandelt das Album Fantasy und Kulturgeschichte mit ultimativem, tief empfundener Stolz. Es ist eine süchtig machende, wunderschön abenteuerliche und wahrhaft magische Folk-Predigt, die jeden Fan von Vintage-Prog-Rock von einem Ohr zum anderen strahlen lässt.
 
-::genre::prog folk, prog rock, hard rock, heavy rock
+::genre::prog rock, prog folk, folk rock
 
 ## Blacktop Youth - Pathetic's Subconscious
 
