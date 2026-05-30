@@ -304,35 +304,29 @@ tbd
 
 ::genre::
 
-## Doublespeak - Doublespeak
-
-tbd
-
-::genre::
-
 ## Duchamp - On With The Show
 
-tbd
+Duchamp ist ein hochkarätiges Punk-Projekt unter der Leitung von Ingo Knollmann (Gesang, von den deutschen Punk-Urgesteinen Donots) und Christian Kruse, unterstützt von namhaften US-Musikern wie Peter "Pee-Wee" Adam Ang Angst und Ernie Parada (die seit jeher mit Bands wie Token Entry und Grey Area verbunden sind). Nach ihrem gefeierten Debüt "Slingshot Anthems" aus dem Jahr 2021 begaben sie sich ins Studio, um die raue Realität, die Live-Energie und ihre charakteristische kompromisslose DIY-Ethik einzufangen. Schneller, hooklastiger Classic **Punk Rock** und **Melodic Hardcore**. Sie verbinden die messerscharfen, energiegeladenen Tempi der *Descendents* und der frühen *Green Day* mit einem hochmelodischen East-Coast-Punk-Rock-Touch. "On With The Show" wirkt wie ein Schuss reines, unverfälschtes Adrenalin, direkt aus einem schweißgetränkten Keller-Moshpit. Mit atemlosem, rasendem Schwung durchläuft die EP ihr Layout und verschwendet keine Sekunde mit höflichen Einleitungen oder glattpolierten, roboterhaften Radiobearbeitungen. Die E-Gitarren brummen mit spektakulärer Overdrive-Kraft, während die Rhythmusgruppe mit der Geschwindigkeit eines Expresszugs zuschlägt, um deine Gehirnzellen voll und ganz zu fesseln. Textlich spuckt Ingo Knollmann seine Zeilen mit einer absoluten Meisterleistung an frechem, von Attitüde durchtränktem Gesangs-Charme heraus und verwandelt alltägliche Frustration und Trotz in hochfliegende, faustschwingende Hymnen. Es ist eine laute, unglaublich eingängige und wild leidenschaftliche Punkrock-Party, die maximale Lautstärke verlangt.
 
-::genre::
+::genre::post hardcore, melo hardcore, power pop, punk rock
 
 ## ear - Rumspringa
 
-tbd
+Das Duo, bestehend aus den Musikern Jonah Paz und Yaelle Avtan, lernte sich ursprünglich am Bard College kennen und nahm seine ersten Entwürfe mit einem iPhone in der Campusbibliothek auf. Nach ihrem von der Kritik gefeierten Debütalbum "The Most Dear and The Future" aus dem Jahr 2025 verbrachten sie ein ereignisreiches Jahr als Vorgruppe von Yung Lean und spielten ihre ersten internationalen Headliner-Tourneen vor ausverkauften Häusern, wodurch ihr Underground-Status rasch an Bedeutung gewann. Eine verschwommene, texturreiche Schnittstelle aus **Glitch Pop**, **IDM**, **Folktronica**, **Ambient Pop** und Sound Collage. Klanglich werden sie liebevoll als wegweisende Vorreiter des Laptop Twee bezeichnet, wobei sie flüsternde Doppelgesänge und schwerelose akustische Loops unter abrupte, schwarz beleuchtete Bass-Synths und Found-Audio-Chaos schichten. Rumspringa wirkt genau wie ein wunderschön verzerrter, farbenprächtiger Tagtraum, der einen dabei erwischt, wie man aus einer nächtlichen Indie-Tanzparty in einen ruhigen, nebligen Morgen stolpert. Das Album fungiert als wunderschöne, unglaublich tröstliche Choose-Life-Platte, die meisterhaft die metaphorische Blaupause jugendlicher Freiheit nutzt, um zu ergründen, was es bedeutet, sich wirklich auf den eigenen Weg einzulassen. Paz und Avtan vollführen über die 10 Tracks hinweg einen atemberaubenden künstlerischen Balanceakt - sie enthüllen in "Ne Plus Ultra" huppige, eingängige Synth-Patches, bevor sie die Instrumentierung in zerbrechliche, flüsternde Folktronica-Loops und Field Recordings auflösen lassen, die anmutig durch den Raum schweben. Es ist ein kluger, skurril-seltsamer und intensiv intimer elektronischer Spielplatz, perfekt zugeschnitten auf Nachtschwärmer, die den Hintergrundlärm des Universums zum Schweigen bringen wollen.
 
-::genre::
+::genre::glitch, alt pop, idm, folktronica, ambient pop
 
 ## Eaten By Sharks - The Undertow Of Hate
 
-tbd
+Die Band, die 2022 mit ihrem Debütalbum "Eradication" - das sich thematisch an der Seefahrt orientiert - erstmals in der Underground-Szene für Aufsehen sorgte, hat sich einen Ruf als unerbittliche, mit der Präzision eines Spitzenprädators agierende Truppe erarbeitet. Um die technische Wucht von "The Undertow Of Hate" voll zur Geltung zu bringen, zog sich die Gruppe ins Studio zurück, um dort intensiv mit dem legendären Heavy-Metal-Produzenten Christian Donaldson (Cryptopsy) zusammenzuarbeiten. Eine vernichtende, rasante Fusion aus **Technical Death Metal**, **Progressive Extreme Metal** und **Groove-Heavy Deathcore**. Ihr charakteristischer Sound besticht durch messerscharfe, mathematische Taktarten, vernichtende Breakdowns und aggressive, rasende Rhythmen, die eine filmische, tiefseetiefe Ästhetik widerspiegeln sollen. Wenn ihr auf der Suche nach einem klanglichen Hintergrund seid, der sich genau so anfühlt, als würdet ihr von einer wilden Flutwelle aggressiv unter Wasser gezogen, während ein riesiger Schwarm von Tiefseeraubtieren eure Rettungsinsel umkreist, dann ist das Material von "The Undertow Of Hate" bereit, eure Lautsprecher komplett zu demolieren. Die Band verzichtet gänzlich auf sichere, radiotaugliche Extreme-Metal-Klischees und setzt stattdessen auf eine absolute Meisterklasse in knochenbrechender technischer Präzision und groove-lastiger Boshaftigkeit. Die Durchbruch-Single "Capsized" schlägt mit einer furchterregenden, schwerfälligen Geschwindigkeit zu - und verschmilzt knochenerschütternde Blastbeats direkt mit einer dichten Matrix aus zerklüfteten Gitarrenloops und unterirdischen Gesangsgrowls, die direkt vom Meeresgrund heraufdröhnen. Es ist ein straffer, gnadenloser und wunderschön chaotischer Albtraum, der ausschließlich dafür geschaffen wurde, einen Moshpit auf den Kopf zu stellen.
 
-::genre::
+::genre::tech death metal, prog death metal
 
 ## Elder - Through Zero
 
-tbd
+Unter der Leitung des visionären Gitarristen und Sängers Nick DiSalvo hat sich Elder über zwei Jahrzehnte hinweg als unangefochtene Vorreiterkraft im Kosmos des modernen Psychedelic Rock etabliert. Für die Aufnahmen zu "Through Zero" schloss sich die langjährige Besetzung zwischen intensiven weltweiten Tourneen über mehrere Monate hinweg in den Berliner Big Snuff Studios ein und entschied sich dafür, das endgültige analoge Klangspektrum gemeinsam mit ihrem Partner Richard Behrens abzumischen. Eine monumentale, bewusstseinserweiternde Mischung aus Heavy **Psychedelic Rock**, **Progressive Rock**, **Stoner Rock** und **Doom Metal**. Ihr komplexer architektonischer Entwurf verbindet vernichtende, heruntergestimmte Gitarrenriffs mit hypnotischen Motorik-Loops, kosmischen Synth-Teppichen und sich verschiebenden, ungeradzahligen strukturellen Bewegungen. Falls man dachte, diese Progressive-Rock-Zauberer würden sich bequem auf ihren Lorbeeren ausruhen: "Through Zero" wirkt wie ein gewaltiges kosmisches Portal, das einen augenblicklich in eine völlig andere Realitätsebene zieht. Der technische Titel leitet sich von einem ingenieurwissenschaftlichen Begriff ab, bei dem eine Frequenz direkt durch den Nullpunkt in einen verborgenen, negativen Bereich übergeht. Das 53-minütige Album wirkt wie eine brillante klangliche Reise durch Leben, Tod und menschliche Beharrlichkeit. Die Musik weigert sich, brav zu spielen oder dir kurze, faule Hooks zu liefern; stattdessen weben massive Tracks wie das elfminütige Meisterwerk "Strata" ein absolutes Labyrinth aus perkussiven Grooves, kristallklaren Doppelgitarren-Verflechtungen und hochfliegenden Gesangsharmonien. Es lässt elektronische Sequenzen und Krautrock-Rhythmen nahtlos in seiner Metal-Rüstung Wurzeln schlagen, was zu ihrer bisher unmittelbarsten, fesselndsten und wildesten Heavy-Rock-Predigt führt. Es verlangt nach maximaler Lautstärke.
 
-::genre::
+::genre::psych rock, stoner rock, prog rock, doom metal
 
 ## Eleni Mandell - Tailspin
 
@@ -342,177 +336,147 @@ Eleni Mandell ist eine erfahrene Singer-Songwriterin und eine tragende Säule de
 
 ## Eli & Fur - Dreams At Dusk Pt. II
 
-tbd
+Das kraftvolle Elektronik-Duo, bestehend aus den Kindheitsfreundinnen Eliza Noble und Jennifer Skillman, dominiert seit über einem Jahrzehnt die weltweite Dance-Szene. Sie sind dafür bekannt, dass sie ihre eigenen DJ-Sets live mit Gesang untermalen, und haben bereits auf renommierten Festivalbühnen von Coachella bis Tomorrowland überzeugt. Dieses Projekt ist eine Erweiterung ihrer mehrteiligen, konzeptionellen Elektronik-Suite Dreams At Dusk". Eine üppige, hypnotische Mischung aus **Melodic House**, **Deep House** und **Melodic Techno**. Ihre Klangmuster verschmelzen schwebende elektronische Klanglandschaften, tiefe, brodelnde Bassline-Arrangements und hauchige, texturreiche Gesangsschichten zu einem nächtlichen Club-Puls. "Dreams At Dusk Pt. II" funktioniert genau wie ein luzider Traum, der einen auf einer Open-Air-Tanzfläche in der Wüste einfängt, gerade als das letzte Licht eines tiefvioletten Sonnenuntergangs zu verblassen beginnt. Das Duo verzichtet gänzlich auf billige, hyperaktive EDM-Drops und konzentriert sich stattdessen ganz auf raffinierte, langsam aufbauende Spannung und wunderschön geschmeidige, nächtliche Club-Grooves. Die Musik gleitet sanft durch hypnotische, kaskadenartige Synth-Patterns und samtige Vocals, die wie warmer Nebel in der Luft schweben, und wirkt dabei unglaublich intim, ist aber gleichzeitig darauf ausgelegt, einen riesigen Raum zu füllen. Sie behandelt Themen wie tiefe romantische Sehnsucht, das Entfliehen aus dem Tagesablauf und das völlige Verlieren im Rhythmus mit ultimativer Anmut. Es ist ein atemberaubender, texturreicher und wunderschöner elektronischer Zufluchtsort, perfekt zugeschnitten auf Nachtschwärmer, die ihre Ängste unter dem Sternenhimmel weg tanzen wollen.
 
-::genre::
+::genre::deep house, edm, deep techno
 
 ## Embryonic Autopsy - Rise of the Mutated
 
-tbd
+Die Band wurde 2020 von Größen der Metal-Szene gegründet - darunter Sänger Tim King (von SOiL und Oppressor) und Gitarrist Scott Roberts (ehemals Otep) - und hat sich eine eigene Nische für primitiven, gnadenlosen Heavy Metal erobert. Um die technische Zerstörungskraft auf diesem Album zu maximieren, holten sie sich Gast-Gitarrensoli von absoluten Death-Metal-Legenden wie James Murphy (Death, Obituary, Testament) und Terrance Hobbs (Suffocation). Eine wilde, hypergewalttätige Explosion aus **Brutal Death Metal** im Stil der 1990er Jahre und **Old-School-Death-Metal**. Sie orientieren sich direkt an den architektonischen Blaupausen früherer Genre-Titanen wie *Suffocation* und *Broken Hope* und vermischen halsbrecherische Blastbeats mit betonharten Grooves und grotesken, von medizinischem Horror inspirierten Texten. Falls eure Lautsprecher in letzter Zeit noch nicht gründlich gequält wurden: "Rise of the Mutated" verhält sich wie ein außer Kontrolle geratener Fleischwolf, der eure Trommelfelle zum Mittagessen verarbeiten will. Das Album ist ein nonstop, blutgetränktes Demolition Derby aus brodelnden, kettensägenartigen Gitarrenriffs und unterirdischen Growls, die direkt aus den Tiefen eines Sumpfes dröhnen. Tracks mit herrlich abstoßenden Namen wie "Feasting Upon The Rotted Uterus" verschwenden keine Zeit mit höflichen Anweisungen, sondern hauen dir die pure, unverfälschte Boshaftigkeit des Death Metal der frühen 90er direkt ins Gesicht. Es ist ein intensiver, brillant präziser und herrlich grotesker Sci-Fi-Albtraum, der dich dazu bringen wird, sofort eine Battle-Weste anzuziehen und einen Moshpit zu zerstören.
 
-::genre::
+::genre::osdm, brutal death metal
 
 ## Emi Fe Ensemble - Tales of the Realm of Wishes
 
-tbd
+Das Ensemble fungiert als kreativer Raum für Kammermusiker und elektronische Sounddesigner. Die Kompositionen sind stark von Themen wie Trauerbewältigung und stiller Selbstbeobachtung geprägt und nutzen die musikalische Struktur als sanftes Mittel zur emotionalen Katharsis. Ein unverfälschter, emotional bewegender Stil aus **moderner Klassik**, **elektroakustischem Minimalismus** und **Ambient**-Klanglandschaften. Ihr Stil zeichnet sich durch äußerst geduldige Klaviermelodien, klagende Violinenpassagen und subtile elektronische Klangwellen aus, die mühelos durch den Raum schweben. "Tales of the Realm of Wishes" wirkt genau wie eine weiche, tröstende Decke, die sich um vier Uhr morgens um deine Sinne legt, während ein leiser Regen gegen dein Fenster prasselt. Das Album entfernt sich vollständig vom rasanten Lärm der modernen digitalen Landschaft und lässt stattdessen Klavierakkorde in absoluter Stille erklingen, bevor sie in einen wunderschönen Schleier aus Streichern übergehen. Es behandelt schwere menschliche Emotionen mit einer unglaublich seltsamen, stillen Anmut und lässt helle Violinenstiche allmählich aus zaghaften Tönen zu einer triumphalen Welle der Akzeptanz anschwellen. Es ist ein wunderschönes, äußerst geduldiges und cineastisches Meisterwerk, das perfekt auf Nachtschwärmer zugeschnitten ist, die ihren Geist zur Ruhe bringen und einfach nur atmen möchten.
 
-::genre::
-
-## Emmet Cohen - Universal Truth
-
-tbd
-
-::genre::
+::genre::modern classic, ambient acoustic, minimal electronica
 
 ## Erdve - Epigrama
 
-tbd
+Erdve, die 2016 aus Litauen hervorgingen, erwarben sich schnell einen Ruf in der Underground-Szene für ihre architektonische Extremität. Nach zwei hochgelobten Alben bei Season of Mist steht "Epigrama" für eine Phase völliger kreativer Freiheit und Unabhängigkeit. Mit maximaler interner Eigenverantwortung hat die Band das gesamte Album komplett selbst produziert, aufgenommen, gemischt und gemastert, um dessen künstlerische Kohäsion zu stärken. Eine dichte, erdrückende Kombination aus **Experimental Sludge Metal**, **Post-Hardcore** und **Drone**. Ihr charakteristischer Sound verwandelt rohe Unberechenbarkeit in sorgfältig kontrollierte Spannung, indem er schwere Gitarrenklänge, langsam aufkeimende Ambient-Dissonanzen und erdrückende rhythmische Wucht einsetzt. Epigrama fühlt sich genau so an, als würde man zusehen, wie ein massives Betongebäude langsam zerbricht und in extremer Zeitlupe über dem eigenen Kopf zusammenstürzt. Erdve wendet sich vollständig vom billigen Glanz moderner Digitalstudios ab und liefert eine absolute Meisterklasse in reinem, schlammüberzogenem, atmosphärischem Doom-Gewicht. Anstatt die Ohren mit sinnlosem, schnellem Lärm zu verbrennen, wirkt das Album wie eine zutiefst geduldige, erschreckend kontrollierte Reise durch menschliche Schuld und psychischen Verfall. Die Gitarrenstrukturen pochen wie ein schwerer Industriemotor, während das verzweifelte Knurren des Gesangs direkt in einen dichten Nebel beunruhigender Klanglandschaften übergeht. Es ist ein straffes, gnadenloses und wunderschön düsteres Stück baltischer Extremität, das darauf ausgelegt ist, deine Sinne vollständig zu überwältigen.
 
-::genre::
+::genre::post hardcore, post sludge metal
 
 ## eric arn - Over Maribor
 
-tbd
+Eric Arn ist ein gefeierter Sologitarrist und vielseitiger Multi-Instrumentalist, der seit Jahrzehnten die Grenzen unkonventioneller Klangerzeugung erweitert, insbesondere durch seine Zusammenarbeit mit dem Soft Power Ensemble aus Wien. "Over Maribor" ist ein Live-Dokument, das seine ungefilterte Chemie auf Tour festhält. Eine äußerst immersive, suchende Mischung aus freier **Improvisation**, **Avantgarde-Jazz** und experimenteller E-Gitarre. Sein fließender Stil balanciert zerbrechliche melodische Fragmente und rasante rhythmische Dichte mit verzögerten Lautstärkeschwankungen, sich wiederholenden Texturen und erweiterten Grenzen der akustisch-elektrischen Spieltechnik aus. "Over Maribor" zu hören fühlt sich genau so an, als stünde man vollkommen still in einer nächtlichen Kunstgalerie aus Beton, während ein einsamer musikalischer verrückter Wissenschaftler an einer E-Gitarre langsam lernt, das Gewebe der Zeit zu verzerren. Das Album besteht aus nur zwei gewaltigen, langatmigen Klangteppichen mit den Titeln "Graz" und "Zagreb" und umgeht dabei vollständig die traditionellen Strophe-Refrain-Strukturen des Radios, um Noten wie Geister durch den Raum schweben zu lassen. Arn behandelt sein Griffbrett wie einen absoluten Spielplatz - er baut nach und nach komplexe Klanggeflechte aus Stahl auf, die mühelos von zerbrechlicher, stiller Schönheit in vulkanische, schwindelerregende Noise-Ausbrüche übergehen. Es ist ein atemberaubend mutiges, texturreiches und beruhigendes Stück experimenteller Musik, das pure musikalische Unmittelbarkeit in hohe Kunst verwandelt.
 
-::genre::
+::genre::avant jazz, jazz fusion, improvisation
 
 ## Eternal Evil - Forever Feared
 
-tbd
+Die 2019 gegründete Band - bestehend aus Adrian Tobar (Gesang/Gitarre), Tobias Lindström (Gitarre), Adam Sjö (Bass) und Felix Wahlund (Schlagzeug) - wurde schnell zu einer festen Größe in der skandinavischen Underground-Szene. Nach ihrem rauen Debütalbum "The Warriors Awakening" aus dem Jahr 2021... und dem rasenden "The Gates Beyond Mortality" aus dem Jahr 2023 verschwendeten sie keine Zeit und stürzten sich direkt in ihren nächsten Studiozyklus. Eine giftige, hochoktanige Mischung aus klassischem **Thrash Metal**, **Black Metal** und traditionellem **Heavy Metal**. Ihr klanglicher Entwurf lässt sich von Old-School-Thrash-Größen wie *Slayer*, *Kreator*, *Destruction* und *Exodus* inspirieren, gepaart mit dem eisigen Wahnsinn von *Dissection*. "Forever Feared" ist eine dröhnende Metal-Achterbahnfahrt aus Leder und Nieten, die sich freudig von starren Subgenre-Regeln löst, um eine riesige Headbanging-Party zu feiern. Das Album wirkt wie ein wunderschön chaotisches Patchwork der Metal-Geschichte und wechselt mühelos von rohen, blackened Thrash-Speed-Runs auf "The Darkened Sphere" zu hochfliegenden, traditionellen Heavy-Metal-Stadion-Hooks auf dem Titeltrack. Adrian Tobar spuckt seine Zeilen mit einer absoluten Meisterleistung an aggressiver Gesangsattitüde heraus, während die beiden Gitarren ein ununterbrochenes Sperrfeuer aus messerscharfen Riffs und rasanten Soli entfesseln. Es behandelt Themen wie tiefe persönliche Kämpfe, Verrat und hartnäckige Widerstandskraft mit ultimativem Stolz - wunderschön symbolisiert durch das Cover des Albums, auf dem eine Schlange erwürgt wird. Es ist eine straffe, intensiv vitale und wild leidenschaftliche Metal-Predigt, die verlangt, dass man seine Verstärker voll aufdreht.
 
-::genre::
-
-## Europe - Come This Madness
-
-tbd
-
-::genre::
-
-## Federico Perotti - Quadro
-
-tbd
-
-::genre::
+::genre::blackened thrash metal, heavy metal
 
 ## Feon - Darkness Within Darkness
 
-tbd
+Obwohl MacDonagh in der elektronischen Subkultur allgemein dafür bekannt ist, extrem kraftvolle psychedelische Dancefloor-Kracher zu produzieren, hat er dieses Album um eine zutiefst persönliche, intime Geschichte herum aufgebaut. Um den gespenstischen akustisch-elektronischen Klangteppichen eine Grundlage zu geben, widmete er das Album direkt dem Andenken eines verstorbenen Freundes. Eine bewusstseinserweiternde, tiefgründige Schnittstelle aus **Ambient**, **Leftfield Electronics**, kosmischer **Psychedelia** und **experimentellem Folk**. Das Projekt weicht bewusst seinen üblichen energiegeladenen Dancefloor-Vorlagen aus, um äußerst geduldige, atmosphärische Klangteppiche zu erschaffen. Wenn deine Sinne durch den lauten, überstimulierenden Hintergrundlärm des modernen Alltags völlig überfordert sind, ist "Darkness Within Darkness" der ultimative kognitive Reset-Knopf. Das Anhören dieser Platte fühlt sich an, als würde man völlig ungestört in einer Traumkapsel durch einen weiten, sternenklaren Himmel schweben. Mit einer stark zurückhaltenden Palette aus treibenden Synth-Pads, mikrotonalen elektronischen Kratzgeräuschen und eindringlich schönen Gesangshymnen wie "Cosmic Cathedral" löst die Musik nach und nach die üblichen Songstrukturen auf, um der Stille Raum zum Atmen zu geben. Es ist ein wunderschönes, intensiv intimes und tröstliches Klangrefugium, das perfekt auf Mitternachtshörer zugeschnitten ist, die ihr Gehirn zur Ruhe bringen möchten.
 
-::genre::
+::genre::ambient, leftfield electronica, experimental folk, psych folk
 
 ## Foxblood - Patchwork & Standby
 
-tbd
+Foxblood haben sich still und leise einen Ruf als einer der kreativ widerstandsfähigsten und unterschätzten Vorreiter der australischen Heavy-Metal-Szene erarbeitet. Mit ungebrochenem kreativen Tatendrang präsentieren sie mit "Patchwork & Standby" ihr neuestes, straff komponiertes Studioalbum - eine dynamische, emotionsgeladene Mischung aus **Metalcore**, **Hard Rock** und **Post-Hardcore**. Ihr Konzept beruht auf einem komplexen Gleichgewicht zwischen schweren, verzerrten Gitarrenwänden, druckvollen Rhythmusmustern und einem äußerst fließenden Wechsel zwischen aggressivem Gesang und hochfliegenden melodischen Hooks. "Patchwork & Standby" trifft einen wie eine unerwartete Windböe, die augenblicklich den Nebel aus den Gehirnzellen vertreibt. Die Sammlung aus acht Songs spielt sich wie ein unglaublich selbstbewusster Seiltanz über ein Gewitter unter freiem Himmel und weigert sich, sich hinter sicheren, übermäßig sterilen Studiotricks zu verstecken. Vom zerklüfteten, schwerfälligen Schwung von "Limerence" bis hin zur mitreißenden, hymnischen Strömung von "Paper Glaciers" steckt in der Instrumentierung eine spektakuläre Menge an echter physischer Kraft und kalkulierter Dringlichkeit. Sie behandelt Themen wie persönliche Zerrissenheit, hartnäckige Widerstandskraft und alltägliches emotionales Chaos mit absoluter Aufrichtigkeit und bietet eine wunderschön vitale Rock’n’Roll-Entladung, die danach verlangt, voll aufgedreht zu werden.
 
-::genre::
+::genre::modern metalcore, hard rock, post hardcore
 
 ## Francis of Delirium - Run, Run Pure Beauty
 
-tbd
+Francis of Delirium ist der Künstlername der 24-jährigen Songwriterin Jana Bahrich. Nach drei hochgelobten EPs und ihrem bahnbrechenden Debütalbum "Lighthouse, Run, Run" aus dem Jahr 2024 ist "Pure Beauty" ihr mit Spannung erwartetes zweites Album. Bahrich hat das Album gemeinsam mit ihrem langjährigen Mitstreiter Chris Hewett komplett selbst produziert und später Nicolas Vernhes mit dem finalen, cineastischen Mix beauftragt. Eine lebendige, mitreißende Mischung aus Gitarren-**Indie-Rock**, **Alternative Rock** und 90er-Jahre-**Grunge**, getaucht in akustische Laurel-Canyon-Farbtöne. Ihr dynamischer Stil basiert auf laut-leise-laut-Gitarrenausbrüchen, theatralischem Pathos und emotionaler Spannung und kanalisiert die rohe stimmliche Energie von *Pearl Jam*, gemischt mit den schwungvollen Instrumentalformen von *Sufjan Stevens*. Wenn dein emotionales Armaturenbrett eine gründliche, rasante Überholung braucht, ist "Run, Run Pure Beauty" ein absolutes Meisterwerk von Rock-Dringlichkeit, bei dem das Herz auf der Zunge liegt. Das Album wirkt wie ein offener Wunsch, der mit zerklüfteten Gitarrenriffs, schwungvollen Violinenlinien und Waldhörnern voranstürmt, die den Songs ein majestätisches, großformatiges Kino-Feeling verleihen. Jana Bahrich beherrscht den Raum vollkommen und wechselt mühelos von einem zerbrechlichen, verletzten Flüstern zu vollem Gesang, während sie Themen wie alltägliche Isolation, Beziehungsnarben und das Erwachsenwerden behandelt. Vom rasanten, adrenalingeladenen Titelsong bis zum triumphalen, tränenreichen Sonnenuntergangsfinale von "It’s a Beautiful Life" behandelt das Album Hoffnung wie einen hart erkämpften Sieg. Es ist eine wunderschöne, leidenschaftliche und lebensbejahende Indie-Rock-Predigt, die dich dazu zwingt, sie auf voller Lautstärke zu hören.
 
-::genre::
+::genre::indie rock, alt rock, post grunge
 
 ## Friday Night Plans - Blue Hour
 
-tbd
+*Friday Night Plans* ist ein Projekt, das vollständig von der Singer-Songwriterin Masumi ins Leben gerufen wurde. Nachdem sie seit 2018 in der japanischen Indie-Szene für großes Aufsehen gesorgt hatte, unterschrieb sie einen Vertrag beim in Barcelona ansässigen Label Modern Obscure Music. Für die Entstehung von "Blue Hour" schloss sich Masumi gemeinsam mit der renommierten Underground-Elektro-Produzentin Ena in improvisierten Studio-Sessions ein. Das Ergebnis ist ein sparsamer, texturreicher Ausflug in **elektroakustischen Ambient**, minimalistische Klanglandschaften und **Leftfield-Pop**. Klanglich entfernt sich das Projekt von seinen historischen Urban-Pop-Wurzeln und lässt sich architektonisch und ästhetisch von modernen elektronischen Minimalisten wie Burial inspirieren. "Blue Hour" wirkt wie ein stiller, traumhafter Spaziergang durch eine neonbeleuchtete U-Bahn-Station in Tokio um vier Uhr morgens, genau dann, wenn die Stadt völlig in Stille erstarrt ist. Masumi verzichtet gänzlich auf laute, vorhersehbare Radio-Pop-Strukturen zugunsten äußerst geduldiger, flüsterleiser Klangskizzen, in denen die Songs wie Rauch dahinschweben. Unterstützt von Enas genialen, glitchigen elektronischen Texturen malt ihre samtige Stimme abstrakte Bilder von flüchtigen Erinnerungen, Liebe und Kindheitsnostalgie. Es ist ein unglaublich beruhigender, texturreicher und atmosphärischer Soundtrack, der perfekt auf alle zugeschnitten ist, die sich auf den Boden legen, das Licht ausschalten und dem lauten Geschwätz der modernen Welt entfliehen möchten.
 
-::genre::
+::genre::ambient acoustic, leftfield pop, lofi, minimal electronica
 
 ## Friends Don’t Lie - Zenit der Dramaturgie
 
-tbd
+Durch eine rasante Abfolge von einem Dutzend eigenständiger Singles eroberten die Newcomer die heimische Szene im Sturm und bauten eine beachtliche Basis-Dynamik auf - was schließlich zu Auftritten bei großen Festivals wie Rock am Ring führte. Ursprünglich nahmen sie ihre Songs auf Englisch auf, doch ihr anschließender Wechsel zum deutschen Songwriting eröffnete ihnen eine viel direktere, emotional offenere Kommunikationsweise. Eine energiegeladene, äußerst mitreißende Mischung aus **Alternative Rock**, **Pop-Punk** und **Indie-Rock**, deren Texte vollständig auf Deutsch gesungen werden. Ihr unverwechselbarer Stil verbindet treibende Gitarren und gewaltige melodische Hooks und schafft so eine Balance zwischen den stadiontauglichen Power-Pop-Hymnen der *Donots* und dem scharfen, rhythmischen Rap-Rock-Einschlag von *Kraftklub* oder *Casper*. "Zenit der Dramaturgie" fühlt sich genau wie ein rasender, adrenalingeladener Kickstart an, der einem direkt ins Herz schießt, ohne auf die Bremse zu treten. Das gesamte 10-Track-Album fungiert als brillantes, kathartisches Tagebuch, das meisterhaft mit den überwältigenden Ängsten, Selbstzweifeln und der emotionalen Überlastung einer hyperdynamischen modernen Welt umgeht. Anstatt in einer langsamen, deprimierenden Ecke zu versinken, verwandelt die Band alltägliche Kämpfe in explosive, faustschwingende Hymnen, vollgepackt mit dröhnenden Gitarren und massiven, mitsingbaren Refrains, die darauf ausgelegt sind, ein Festivalpublikum zum Toben zu bringen. Hinter dem hellen, sonnigen Pop-Punk-Rahmen verbergen die Texte eine scharfe, wunderbar bewusste politische Schärfe, die sich vehement gegen soziale Ressentiments und Hass wendet. Es ist ein strahlender, bemerkenswert vitaler und verbindender Rock’n’Roll-Neustart, der dich völlig mit neuer Energie erfüllt.
 
-::genre::
+::genre::indie rock, alt rock, power pop
 
 ## Funebrarum - Beckoning The Void Of Eternal Silence
 
-tbd
+Seit ihrer Gründung im Jahr 1999 gilt Funebrarum als hochgeschätzte Kultgröße der Extreme-Underground-Szene. Nach 16 Jahren Studio-Stille seit ihrem bahnbrechenden Album "The Sleep of Morbid Dreams" aus dem Jahr 2009 hat Gründungsmitglied, Sänger und Gitarrist Daryl Kahan die Band wiederbelebt, um ihr endgültiges Statement zu setzen. Für dieses neue Kapitel holten sie den multi-instrumentalen Gitarrenvirtuosen Phil Tougas (von Worm und First Fragment) an Bord, um das technische Chaos auf dem Griffbrett zu verstärken. Das Album wurde im Elektric City Recording von Charles Koryn aufgenommen und von Stephen DeAcutis in den Sound Spa Studios abgemischt. Eine pure, hallende Meisterklasse in klassischem **Death-Doom** und Abyssal **Death Metal**. Ihr klanglicher Entwurf lässt sich von den wegweisenden Extreme-Metal-Bands der späten 1980er und frühen 1990er Jahre inspirieren und verbindet weltuntergangsartige, langsame Doom-Passagen mit rasanten, frenetischen Death-Metal-Tempos. "Beckoning The Void Of Eternal Silence" spielt sich genau so ab, als würde man in einer uralten, vergessenen unterirdischen Grabstätte erwachen, wo die Wände Schleim schwitzen und die Decke aktiv auf die eigene Brust einstürzt. Funebrarum verzichtet gänzlich auf saubere, sterilisierte moderne digitale Studiobearbeitung zugunsten einer erstickenden, blutgefrierenden Atmosphäre, die sich wie dicke Melasse bewegt. Das Album baut eine fantastische narrative Spannung auf - es beginnt mit einer unheilvollen, symphonischen Einleitung, bevor es einen direkt in einen Wirbelwind aus Maschinengewehr-Blastbeats und unterirdischen Growls stürzt, die direkt aus den Tiefen der Erde dröhnen. Majestätische, trauernde Gitarrenharmonien vermischen sich mit unerbittlichen Tempowechseln und lassen extremen Old-School-Death-Doom absolut massiv und filmisch klingen. Es ist ein straffer, gnadenloser und wunderschön verfallener Klangteppich, geschaffen für alle, die ihre schweren Riffs mit einer extragroßen Dosis purer, unverfälschter kosmischer Angst mögen.
 
-::genre::
+::genre::doom metal, death metal
 
 ## Furnace - Echoes Of A Distant Future
 
-tbd
+Furnace ist eine äußerst produktive Underground-Band, die aufwendige Sci-Fi-Konzeptalben hervorbringt. Angeführt von den ikonischen, facettenreichen Growls des Metal-Veteranen Rogga Johansson und den sich in die Höhe schraubenden Gitarrenläufen von Kjetil Lynghaug markiert "Echoes Of A Distant Future" bemerkenswerterweise das siebte Studioalbum der Band. Eine hämmernde, storygetriebene Kombination aus **Melodic Death Metal** und klassischem **Progressive Death Metal**. Ihr Konzept verbindet schwere, galoppierende Dual-Gitarren-Hooks und tiefe, vielstimmige Death-Metal-Growls mit markanten Melodien, die an Hard-Rock-Arrangements der 1970er Jahre erinnern. Wenn ihr auf der Suche nach einem hochoktanigen Soundtrack für eine interstellare Weltraumrebellion gegen eine verborgene Clique bösartiger außerirdischer Herrscher seid, hat Furnace genau den richtigen Soundtrack für euch parat. "Echoes Of A Distant Future" wirkt wie ein schneller, wunderschön ausgefeilter Sci-Fi-Comic, der in Klang umgesetzt wurde, und folgt einem zeitreisenden Protagonisten, der der Hölle entkommt, nur um in einem dystopischen technologischen Albtraum aufzuwachen. Riffs schießen mit einer glorreichen Geschwindigkeit à la Bruce Lee aus den Lautsprechern und springen fröhlich von den halsbrecherischen Thrash-Sprints von "Betrayal" zu den retro-angehauchten, synthlastigen Gitarrenklängen von "Cathedral Gates". Es ist eine ansteckende, hyperfokussierte und endlos unterhaltsame Death-Metal-Party, die nach maximaler Lautstärke verlangt.
 
-::genre::
-
-## Galvanist - The Silence Between Stars
-
-tbd
-
-::genre::
+::genre::melo death metal, prog death metal
 
 ## Ghinzu - W.O.W.A
 
-tbd
+Unter der Leitung ihres charismatischen Frontmanns und Keyboarders John Stargasm (John Descamps) entwickelten sich Ghinzu Anfang der 2000er Jahre mit ihrem Platin-Durchbruchalbum „Blow“ zu einem absoluten europäischen Alternative-Rock-Phänomen. Nach einer quälenden, anderthalb Jahrzehnte währenden Auszeit vom Aufnahmestudio fand die Band offiziell wieder zusammen, um Jahre voller Zufälle, Obsessionen und unvollendeter Studioträume sorgfältig zu einem definitiven Comeback-Statement zu verdichten. Eine rasante, hochoktanige Mischung aus **Alternative Rock**, **Electro-Punk**, **Noise Rock** und **Post-Punk**-Revival. Klanglich stellen sie rohe, gewalttätige Garage-Rock-Energie und schwere Synth-Beats raffinierten, zutiefst dramatischen Piano-Hooks und filmischer emotionaler Spannung gegenüber. Wenn du auf der Suche nach einer Rock’n’Roll-Platte bist, die sich anfühlt wie ein wunderschön geschneiderter, raffinierter Samtanzug, der gründlich durch eine chaotische Kneipenschlägerei geschleift wurde, dann ist "W.O.W.A." dein ultimativer Gewinn. Ghinzu kehrt mit einer wahren Lawine an selbstbewusster Energie zurück und lässt messerscharfe E-Gitarren und hämmernde Klaviere direkt in dunkle Club-Grooves krachen. Die zugrunde liegenden lyrischen Themen erforschen die dunklen, hypnotischen Kreisläufe moderner Sucht - von der Abhängigkeit vom Social-Media-Bildschirm bis hin zur Drogenfixierung in Tracks wie der spannungsgeladenen Auskopplung "Snow White". Es ist eine ausgelassene, theatralische und leidenschaftliche Rock’n’Roll-Entladung, die beweist, dass diese belgischen Legenden immer noch genug Biss haben, um das System aufzurütteln.
 
-::genre::
+::genre::alt rock, electropunk, noise rock, post punk
 
 ## Gigi Masin - Movement
 
-tbd
+Gigi Masin gilt als unbestrittener Pionier der modernen Ambient-Musik. Sein 1986 in Eigenregie veröffentlichtes Debüt-Meisterwerk "Wind" wurde bekanntlich von Björk und To Rococo Rot gesampelt und löste eine massive Renaissance seiner Karriere in der Lebensmitte aus. Trotz schwerer Schicksalsschläge in jüngster Zeit - darunter eine Überschwemmung, die sein lebenslanges physisches Musikarchiv zerstörte, und der Tod seiner Frau nach langer Krankheit - kehrte er ins Studio zurück, um ein sinnliches, den Körper anregendes Soloprojekt zu entwickeln. Eine fließende, rhythmisch geprägte Weiterentwicklung von **Ambient**, **Downtempo**, Balearic House und **Kosmischer Musik**. Er hat sich von streng beatlosen Klanglandschaften verabschiedet und fügt in seinem aktuellen Rahmen kinetische 120-bpm-Grooves, Jazz-Fusion-Blasinstrumente und frühe Industrial-Glitch-Texturen in seine charakteristischen warmen, nostalgischen Synth-Pads ein. "Movement" wirkt wie eine Einladung, um fünf Uhr morgens eine rauchgefüllte Open-Air-Tanzfläche zu betreten, gerade als die ersten Strahlen eines Mars-Sonnenaufgangs den Horizont durchbrechen. Masin schreibt die alten, starren Regeln der Ambient-Musik als kalte, akademische Erfahrung mutig neu und zieht ein wunderschönes, schlagendes Herz voller Liebe und körperlicher Dynamik vor. Tracks wie "Lost" verbinden wunderschöne, elastische synthetische Bläserlinien mit schwungvollen Downtempo-Grooves, während sich das atemberaubende "Deception Dance" wie ein zappeliger, himmlischer Techno-Funk-Spielplatz anhört. Es behandelt Themen wie Beharrlichkeit und eine erneute Neugier auf das Leben mit ultimativer Anmut und bietet einen zutiefst beruhigenden, körperlichen Zufluchtsort für Nachtschwärmer, die den Lärm des Universums zum Schweigen bringen wollen.
 
-::genre::
-
-## Gipsy Kings - Historia
-
-tbd
-
-::genre::
+::genre::ambient, downtempo, deep house, acid house
 
 ## Go Mahhh - Doppelgänger
 
-tbd
+Die Band spielte drei Jahre lang die Berliner Indie-Live-Szene unsicher und musste dabei massive Besetzungswechsel bewältigen. Sänger und Gitarrist Leonard Traynor bildete ursprünglich den Songwriting-Kern, aus dem sich später eine eigenständige Viererbesetzung mit Max, Ben und Cash entwickelte. Um ihr definitives Statement aufzunehmen, schlossen sie sich in den Berliner Monoton Studios ein, um eine analoge, echoreiche Live-Chemie einzufangen. Eine vernebelte, tanzbare Fusion aus **Psychedelic Rock**, **Krautrock**, **Fuzz Rock** und **Garage Rock**. Ihr charakteristischer Sound stützt sich stark auf hypnotische Motorik-Loops, schwere Fuzz-Gitarren sowie orientalisch angehauchte Sitar- und Flötenpassagen und lässt sich strukturell vom Psych-Rock der 1960er Jahre und der Madchester-Elektronik der 1990er Jahre inspirieren. "Doppelgänger" spielt sich genau so an, als würde man einen langen Roadtrip in einen neonfarbenen Wüstensonnenuntergang unternehmen, während das Soundsystem des Fahrzeugs stark mit Vintage-Delay-Pedalen und verzerrten Verstärkern modifiziert ist. Die Platte wirkt wie ein herrlich unbeschwerter, sonnenverwöhnter Fiebertraum, der sanft zwischen tiefen, schweren Stoner-Rock-Grooves und hypnotischen, mantrahaften Rhythmen hin und her pendelt. Tracks wie "Anatoliosis" weben einen wunderschönen, schimmernden Teppich aus nahöstlichen Flötenklängen und summenden Fuzz-Linien, während "BBSBBQ" einen süchtig machenden, mit dem Kopf wippenden Groove liefert, der perfekt für Abende im Garten zugeschnitten ist. Traynor’s cooler, halb geflüsterter Gesang schwebt wie eine Fata Morgana darüber, was zu einem fröhlichen, unprätentiösen Garage-Rock-Trip führt, der dazu einlädt, sich eine Sonnenbrille aufzusetzen und den Alltag komplett zu vergessen.
 
-::genre::
+::genre::garage rock, psych rock, krautrock
 
 ## Godthrymm - Projections
 
-tbd
+Godthrymm wurde vor fast einem Jahrzehnt vom legendären Gitarristen und Sänger Hamish Glencross gegründet und gilt heute allgemein als eine Institution des britischen Heavy Metal, in der insbesondere ehemalige langjährige Mitglieder der Doom-Metal-Legenden *My Dying Bride* und Anathema mitwirken. "Projections" bildet den triumphalen Abschluss einer groß angelegten konzeptionellen Trilogie, die 2020 mit "Reflections" begann und 2023 mit dem von Kritikern hochgelobten Album "Distortions" fortgesetzt wurde. Eine monumentale, stadiontaugliche Mischung aus **Epic Doom Metal** und 1990er-Jahre-**Death-Doom**. Klanglich verbinden sie schwere Gitarrenarrangements und erdrückende, tragische Melodien mit mitreißenden Gothic-Gesangsstimmen. "Projections" spielt sich genau so an, als würde man zusehen, wie ein gewaltiges, düsteres Gewitter langsam über einen mittelalterlichen Burgberg hinwegrollt, gemalt in einer erdrückenden Klangwand. Dieses Album ist ein atemberaubendes, wunderschön tragisches Meisterwerk, das kopfüber in die Tiefen von Liebe, Wut und persönlichem Leid eintaucht. Glencross und die Band lassen sich ihre süße, bedrohliche Zeit, während sich gewaltige Tracks wie "The Sun Never Fell" zu massiven Wänden aus heruntergestimmten Gitarrenklängen aufbauen. Das Album erreicht einen grandiosen, tränenreichen Höhepunkt bei "Endure My Skin", bei dem der ehemalige My-Dying-Bride-Frontmann Aaron Stainthorpe als Gastsänger auftritt und einen gespenstischen Zauber über die Instrumentierung legt. Es ist eine intensive, zutiefst emotionale und majestätische Doom-Predigt, die nach maximaler Lautstärke verlangt.
 
-::genre::
+::genre::doom metal, death metal
 
 ## Gouge - Pure Deathfuck
 
-tbd
+Gouge ist ein seit langem bestehendes Kult-Underground-Duo, bestehend aus Rock-Veteranen, die ursprünglich mit ihrer 2012 erschienenen EP "Doomed to Death" und ihrem 2015 veröffentlichten Album "Beyond Death" für Aufsehen sorgten. Nach einer quälend langen, elfjährigen Pause ohne Neuigkeiten haben sie sich offiziell wieder zusammengefunden, um ihren charakteristischen rohen, von Blutorgien besessenen Stil zu entfesseln. Eine primitive, extrem regressive Explosion aus **Old-School-Death-Metal**, **Death/Thrash** und **Grindcore**. Ihre explizite strukturelle Blaupause beziehen sie von den Pionieren des Extreme Metal der späten 1980er Jahre wie Repulsion, Autopsy, TERRORIZER und den frühen Death. "Pure Deathfuck" verhält sich genau wie ein tollwütiges Tier, das ein Jahrzehnt lang in einem dunklen Keller eingesperrt war, nur um auszubrechen und sofort seine Zähne in deine Stereolautsprecher zu versenken. Mit fünf chaotischen, knochenharten Tracks in nur 10 teuflischen Minuten ist diese EP eine absolute Meisterklasse in Sachen Dreck und roher Geschwindigkeit, die moderne, sterile Studiobearbeitung komplett umgeht. Tracks wie "Sadist" und "Maggoteyes" entfesseln einen furchterregenden Wirbelwind aus Kettensägen-Gitarrenriffs, rotzigen Thrash-Beats und kotgetränkten Gesangsausbrüchen. Sie kriechen mit vollem Stolz durch den urzeitlichen Schlamm des frühen Deathgrind und bieten eine aggressive, blutgetränkte und wunderbar verstörende Fahrt, die perfekt ist, um einen Keller-Moshpit zu zerstören.
 
-::genre::
+::genre::osdm, thrash metal, grindcore
 
 ## Graveir - The Festering Triad
 
-tbd
+Die 2014 gegründete australische Truppe hat sich einen Ruf für ihre extrem unberechenbaren, von Boshaftigkeit geprägten Underground-Live-Auftritte erarbeitet. "The Festering Triad" ist das atemberaubende dritte Studioalbum der Band, das vor Ort gemeinsam mit dem renommierten Heavy-Metal-Produzenten Brendan Auld aufgenommen und ausgefeilt wurde. Eine äußerst aggressive, unorthodoxe Variante des **Dissonant Black Metal**. Ihr charakteristischer Sound verbindet chaotische, tremolo-lastige Gitarrengewebe und Blast Beats mit verzerrten, von Unbehagen durchtränkten Melodien. Wenn ihr auf der Suche nach einem Soundtrack seid, der den absoluten Zusammenbruch der modernen Gesellschaft begleitet, ist "The Festering Triad" bereit, eure Lautsprecher in Brand zu setzen. Dieses Album wirkt wie eine unerbittliche, erstickende Lawine aus purer Black-Metal-Boshaftigkeit, die euch in eine pechschwarze Grube apokalyptischer Verwesung hinabzieht. Die beiden Gitarren weben über dir ein rasendes, schwindelerregendes Netz aus Dissonanzen, während das Maschinengewehr-Drumming einen andauernden Zustand purer, adrenalingeladener Panik erzeugt. Textlich führt es auf eine furchterregende Reise durch Themen wie korrupte Macht und gesellschaftlichen Verfall und zeichnet ein düsteres Bild archaischer Endzeit-Dynastien. Es ist ein intensives, wunderschön grausames und entfesseltes Stück extremer Kunst, das deine vollständige, ungeteilte Aufmerksamkeit fordert.
 
-::genre::
+::genre::dissonant black metal
 
 ## Greg Mendez - Beauty Land
 
-tbd
+Mendez verbrachte fünfzehn Jahre damit, zwischen Philadelphia und New York relativ unbekannt Musik zu schreiben, aufzunehmen und zu veröffentlichen, bevor ihn sein unerwartetes, sich langsam entwickelndes, selbstbetiteltes Meisterwerk aus dem Jahr 2023 zum Indie-Star machte. "Beauty Land" ist sein mit Spannung erwartetes Nachfolgealbum und sein offizielles Debüt beim renommierten Label Dead Oceans. Der Großteil des Materials wurde ganz allein auf analoges Tonband in einem fensterlosen, provisorischen Kellerstudio aufgenommen. Intimer, bittersüßer **Indie-Folk** und alternativer **Indie-Rock**. Stark inspiriert von den ungeschliffenen, Lo-Fi- und zutiefst rohen akustischen Heimaufnahme-Techniken von *Elliott Smith*. "Beauty Land" zu hören fühlt sich genau so an, als säße man auf einer knarrenden Diele in einem schummrigen Schrank, während jemand am Ende des Flurs sanft seine Seele über eine Akustikgitarre ausschüttet. Greg Mendez nutzt absolute Einfachheit als Superkraft und umgeht den makellosen Glanz des modernen Radios, um zerbrechliche Popmelodien zu liefern, die einen mit schneidenden, emotionalen Wahrheiten direkt ins Herz treffen. Textlich wirkt das Album wie ein ironischer, aber nachsichtiger Tagebucheintrag, der die chaotische Last von Sucht, Liebe und Trauer ohne einen Hauch von Selbstmitleid erforscht. Glückliche Studio-Zufälle - wie eine tatsächlich auf Band aufgenommene vorbeifahrende Ambulanzsirene oder eine verspielte, mitreißende kleine Pfeifmelodie - verstärken den rohen, hausgemachten Charme. Es ist ein atemberaubend ruhiges, melancholisches und zutiefst tröstliches Meisterwerk für alle, die den Hintergrundlärm des Universums leiser stellen möchten.
 
-::genre::
+::genre::indie folk, indie rock, alt rock
 
 ## Grenzkontrolle - Piraten
 
-tbd
+Unter der Leitung des Dichters und charismatischen Sängers Don L. Gaspár Ali sowie der Schlagzeugerin Roza Rot eroberte die vierköpfige Band im Jahr 2025 die Szene wie ein außer Kontrolle geratener Güterzug. Dank ihrer kompromisslosen, lautstarken Haltung zu aktuellen gesellschaftspolitischen Themen erlangten sie schnell große Popularität in der Underground-Szene und erhielten landesweite Fernsehpräsenz. Als Nachfolger ihrer bahnbrechenden Debüt-EP "Edelweiß" präsentiert dieses Meilenstein-Projekt die neu formierte Besetzung mit dem Bassisten Schuttland. Eine rohe, freche und rasante Explosion aus **Post-Punk**, **Art-Punk** und **Neuer Deutscher Welle**. Klanglich verbinden sie die kalte, rhythmisch-mechanische Energie deutscher Underground-Ikonen der 1980er Jahre wie *Grauzone* und *Fehlfarben* mit der aggressiven, beißenden lyrischen Dringlichkeit des modernen Rap. Wenn deine Gehirnzellen nach einer Dosis reinen, unverfälschten Adrenalins schreien, um dem zeitraubenden Hintergrundlärm der modernen Gesellschaft entgegenzuwirken, hat Piraten deinen chemischen Cocktail bereits gemixt und bereit zum Abfeuern. Mit einer schlanken, atemlosen und wunderschön explosiven Laufzeit von 8 Minuten wirkt diese EP wie ein grandioser, kehlenschneidender Schlag in die Magengrube. Der textliche Rahmen nutzt historische Rebellion als scharfe Waffe - und zollt den Edelweißpiraten (den mutigen, nonkonformistischen Jugendwiderstandsgruppen, die während des Dritten Reiches alles riskierten, um aktiv gegen das Nazi-Regime zu kämpfen) eine unglaublich leidenschaftliche, tosende Hommage. Die Musik weigert sich, brav mitzuspielen; Basslinien hämmern wie ein schwerer industrieller Herzschlag, das Schlagzeug knallt mit militärischer Präzision, und Gaspár Ali spuckt rotzige, brillante Zeilen über unbezahlbare Mieten und alltägliche Frustration. Es ist eine raue, wunderschön gefährliche und absolut unverzichtbare Punk-Predigt, die maximale Lautstärke verlangt.
 
-::genre::
+::genre::art punk, post punk, ndw
 
 ## Grice - Filter
 
-tbd
+Grice Peters, der einfach unter seinem Vornamen auftritt, wird von Underground-Musikfans seit langem als moderner Titan des Independent-Art-Rock verehrt. Um sein sorgfältig durchdachtes Klanguniversum zu erweitern, hat er eine absolute All-Star-Gästeliste aus der Crème de la Crème der progressiven Musikszene zusammengestellt. Das Album besticht durch die klanglich reichhaltige elektronische Produktion von Richard Barbieri und Steve Jansen (beide legendäre ehemalige Mitglieder der Art-Pop-Band Japan), die experimentelle Loop-Gitarrenkunst von David Torn und die eindringlichen Holzbläserklänge von Theo Travis. Eine unglaublich facettenreiche, cineastische Mischung aus **Art-Rock**, **Progressive Rock** und **Avantgarde-Folk**. Das Projekt erforscht akribisch Klangfrequenzen - und wechselt dabei fließend zwischen mikrotonalen Wellenband-Glitches und üppigen akustischen Räumen. "Filter" verhält sich genau wie eine wunderschöne, zum Nachdenken anregende Übertragung, die direkt von einem Satelliten ausgestrahlt wird, der langsam am Rand der Atmosphäre vorbeigleitet. Das gesamte 14-Track-Album fungiert als zutiefst intelligenter Zufluchtsort fernab vom erschöpfenden, sinnlosen Hintergrundlärm der modernen Alltagsgesellschaft. Es behandelt das Wort "Filter" wie ein faszinierendes, vielschichtiges Rätsel - es reflektiert über die kalten Unternehmensalgorithmen, die digitale Medien endlos manipulieren, und feiert gleichzeitig die zerbrechlichen, natürlichen Filter wie Algen und Korallen, die unsere physische Welt aktiv am Leben erhalten. Die Musik ist eine atemberaubende, äußerst geduldige Meisterklasse in filmischer Spannung, die zartes akustisches Fingerpicking, rauchige Avantgarde-Trompetenlinien und fremdartige Synthesizer-Texturen zu einem atemberaubend schönen Klangteppich verwebt. Es ist ein dringliches, tief bewegendes Meisterwerk, das die Menschheit auf anmutige Weise dazu auffordert, gemeinsam tief durchzuatmen und sich wieder um den Planeten zu kümmern.
 
-::genre::
+::genre::art rock, prog rock, avant folk
 
 ## Guided By Voices - Crawlspace Of The Pantheon
 
-tbd
+Unter der Federführung des zeitlosen, unglaublich produktiven 68-jährigen Songwriting-Genies Robert Pollard ist GBV ein unbestrittenes Monument der alternativen Musikgeschichte. "Crawlspace Of The Pantheon" sprengt alle logischen Grenzen menschlichen Schaffens und markiert bemerkenswerterweise das insgesamt 44. Studioalbum der Band. Das Album unterstreicht die fest eingespielte, langjährige moderne Besetzung mit den Gitarrengrößen Doug Gillard und Bobby Bare Jr. Eine gewaltige, stadiontaugliche Meisterleistung in Sachen **Indie-Rock** und **Power-Pop**-Crunch. Ihr Stil ist stark von der klassischen, lauten Gitarrenverstärkung von *The Who*, *Cheap Trick* und *Big Star* geprägt, gespickt mit skurrilen, an *The Pepper* erinnernden psychedelischen Popmelodien. Falls Sie dachten, Robert Pollard würden bei seinem 44. Album die ohrenschmeichelnden Hooks oder die stimmliche Feuerkraft ausgehen, ist "Crawlspace Of The Pantheon" hier, um Ihnen freudig zu beweisen, dass Sie völlig falsch liegen. Diese 37-minütige Platte fühlt sich wie eine absolute Feier von großem, lautem, stolzem Rock an, bei der die E-Gitarren über einer Lawine aus krachenden Rhythmen die Spielwiese völlig dominieren. Die großartige erste Singleauskopplung "We Outlast Them All" schimmert und schwingt mit einer ansteckenden, stadiontauglichen Energie, die Old-School-Power-Pop in eine glorreiche Hymne mit erhobener Faust für alle verwandelt, die durchhalten. Mühelos wechselnd von akustischer Veranda-Poesie zu plötzlichen, chaotischen Ausbrüchen von Mellotrons und Zirkusglocken ist es eine unterhaltsame, wunderschön lebendige Reise von einer der ultimativen Legenden des Indie-Rock.
 
-::genre::
+::genre::indie rock, power pop
 
 ## Gutrectomy - Slamdown Is Not A Phase, Mom
 
-tbd
+Die deutsche Band zählt seit genau anderthalb Jahrzehnten zu Europas zuverlässigsten und unerbittlichsten Heavy-Demolition-Crews. Um ihr 15-jähriges Bandjubiläum gebührend zu feiern, haben sie sich entschieden, von ihren jüngsten experimentellen Ausflügen in den Progressive Deathcore Abstand zu nehmen und stattdessen eine ungefilterte Hommage an ihre rohesten, slammigsten Underground-Wurzeln zu kreieren. Ein knochenbrechender, schwerelose Cocktail aus **Brutal Deathcore** und **Slam Death Metal**. Ihr charakteristischer Stil wirft alle musikalischen Konventionen über Bord und kanalisiert eine Flut aus rostigen Death-Metal-Riffs, Maschinengewehr-Blastbeats und betonharten, tektonischen Breakdowns. Getreu seinem urkomisch frechen Titel "Slamdown Is Not A Phase, Mom" klingt das Album genau so, als hätte jemand einen handelsüblichen Presslufthammer auf eine strenge Diät aus Energy-Drinks und rohen Tierkadavern gesetzt und ihn dann in deinem Wohnzimmer losgelassen. Mit einer Laufzeit von intensiven, atemlosen 11 Minuten wirft die EP tiefgründige philosophische Konzepte oder gesungene Texte komplett über Bord zugunsten purer, ungeschnittener kehliger Gewalt und prähistorischer, groovelastiger Riffs. Tracks mit spektakulären Namen wie "Stepdad Slamfight", "Forklift Facelift" und "Chainsaw Vasectomy" schlagen dir gnadenlos mitten ins Gesicht. Es ist ein rauer, herrlich asozialer Soundtrack, der ausschließlich dafür gemacht ist, in einem verschwitzten Keller-Moshpit durch die Luft zu fliegen.
 
-::genre::
+::genre::brutal death metal, slamcore, deathcore
 
 ## Haircut 100 - Boxing the Compass
 
@@ -1195,6 +1159,12 @@ FearDorian ist ein unglaublich produktiver junger Künstler und Produzent, der u
 Das 2021 gegründete Quartett hat sich mit seiner unverwechselbaren Mischung aus Lo-Fi-Ästhetik und explosiven Arrangements eine riesige Fangemeinde im Underground und bei Kritikern aufgebaut. Die Band besteht aus der Sängerin und Bassistin Lydia Slocum, den Gitarristen Sebastian Kinsler (der auch die Hauptproduktion übernimmt) und Ryan Walchonski sowie dem Schlagzeuger Jake Kelley. Nach dem großen Erfolg ihres Durchbruchalbums "Girl With Fish" aus dem Jahr 2023 mussten sie eine Phase mit abgesagten Tourneen und sporadischer Online-Präsenz durchstehen, bevor sie mit diesem Material wieder auftauchten. Ihr Sound bewegt sich genau an der Schnittstelle von **Noise Pop**, **Shoegaze**, **Slacker Rock** und **Indietronica**. Sie lassen sich stark von den Lo-Fi-Indie-Rock-Legenden der 90er Jahre inspirieren und vermischen süße, trockene Pop-Hooks mit plötzlichen Ausbrüchen von aggressivem Gitarren-Feedback. "bitknot" fühlt sich genau so an, als würde ein spätnächtliches Computerbetriebssystem mitten in einer Bedroom-Pop-Aufnahmesession zusammenbrechen. Es ist ein spannendes Experiment in klanglichem Kontrast: In einem Moment wird man sanft von süßen, leisen, fast beiläufigen Gesangsmelodien eingelullt, und im nächsten werden die Kopfhörer von einer Wand aus kreischendem, verzerrtem Gitarrenfuzz und schrägen Rhythmen regelrecht weggeblasen. Theatralisch fängt es die rohen, unbeholfenen und hyperspezifischen Ängste des Navigierens durch die moderne Jugend ein und erfasst Beziehungen, die sich so zerfranst und kompliziert anfühlen wie ein Wirrwarr aus alten Ladekabeln. Es ist laut, wunderbar chaotisch, brillant eingängig und völlig unbeeindruckt davon, sauber oder sicher klingen zu wollen.
 
 ::genre::indietronica, noise, alt pop, indie pop, slacker rock
+
+## Galvanist - The Silence Between Stars
+
+Als geheimnisvoller kreativer Zweig des Künstlerkollektivs Naós Khrúseos Oneiros (N∴K∴O∴) verbreitet Galvanist seit 2009 vernichtende, schwere Klänge. Dieses 5-Track-Album mit einer Spielzeit von 39 Minuten entstand in den eisigen Wintermonaten des Jahres 2025, wurde im The Alembic Home Studio aufgenommen und in den Executioner213 Studios gemastert. Eine dichte, atmosphärische Fusion aus **Blackened Doom Metal**, **Progressive Death Metal** und experimentellen Texturen. Klanglich verbinden sie pure Heavy-Metal-Extremität mit langen, geduldigen Passagen zerbrechlicher akustischer Kontemplation und spaciger, ambienter Dissonanz. "The Silence Between Stars" spielt sich genau so an, als würde man völlig allein in einer pechschwarzen, gefrorenen kosmischen Leere treiben, während riesige, gespenstische Anomalien langsam an deinem Beobachtungsfenster vorbeischweben. Galvanist verwöhnt den Hörer mit einer spektakulären Meisterklasse in struktureller Schockwirkung - mühelos stürzt man in vulkanische Stürme aus Maschinengewehr-Blastbeats und schreienden Blackened-Chugs auf Tracks wie "Bornless", bevor die Instrumentierung in eine wunderschöne, Gänsehaut verursachende Stille zusammenbricht. Es weigert sich, nach den sicheren, vorhersehbaren Regeln des Mainstreams zu spielen, und hält deine Gehirnzellen mit technischen Gitarrenloops und massiven Wänden statischer Doom-Reibung völlig auf Trab. Es ist eine intensive, wunderschön grausame und unerbittlich atmosphärische Metal-Reise, die dich direkt in der Seele trifft.
+
+::genre::blackened doom metal, prog death metal
 
 ## Goh Lee Kwang - Memory Preferring To Hold Things Still
 
