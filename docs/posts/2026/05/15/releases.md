@@ -816,7 +816,7 @@ Ein kraftvolles 6-köpfiges Ensemble, bestehend aus Ari Lempinen, Esa Lempinen, 
 
 Unter der Leitung von Dylan Guzman sammelte dieses energiegeladene junge Trio in seinen Teenagerjahren und frühen Zwanzigern erste Erfahrungen auf der Independent-DIY-Tournee-Szene, bevor es einen Vertrag bei dem renommierten Punk-Label Pure Noise Records abschloss. **Pop-Punk**, **Skate-Punk** und **Alternative Rock**. Sie lassen sich stark von Skate-Helden der späten 90er und frühen 2000er wie *blink-182* und *New Found Glory* sowie von Ikonen der Mitte der 2010er wie *State Champs* inspirieren. Dieses Album fühlt sich an wie eine absolute Zeitkapsel aus der Ära der verkehrt herum getragenen Baseballkappen, Energy-Drinks und Neon-Armbänder. Vollgepackt mit hochoktanigen Gitarrenriffs und beschwingten, sonnendurchfluteten Hooks thematisiert "Show The World What’s Underneath" das chaotische Durcheinander, wenn man die Jugend hinter sich lässt und das Leben in Echtzeit herausfindet. Es ist laut, unglaublich offen und schafft einen Ausgleich zwischen Herzschmerz und gewaltigen, mitreißenden Refrains, die dich dazu bringen werden, aus der Haustür zu sprinten und mit einem Sprung vom Bürgersteig abzuspringen.
 
-::genre::pop punk, skate punk, power pop
+::genre::pop punk, skatepunk, power pop
 
 ## SUSS - Counting Sunsets
 
