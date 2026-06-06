@@ -1044,33 +1044,27 @@ tbd
 
 ## Medusa’s Wrath - The Seventh Plague Of Babylon
 
-tbd
+Ein donnerndes, kompromisslos traditionelles Heavy-Metal-Kollektiv aus Athen, Griechenland. Die im Sommer 2019 von den Gitarristen Petros und Kristina gegründete fünfköpfige Band eroberte die Athener Underground-Szene mit legendären Live-Auftritten, bevor sie bei einem internationalen Label unter Vertrag genommen wurde. Traditioneller **Heavy Metal**, New Wave of Traditional Heavy Metal und **Melodic Power Metal**. Packt eure Rüstung und euer Schwert ein, denn dieses Album spielt sich wie ein weitläufiger, zum Leben erweckter Dark-Fantasy-Comic. "The Seventh Plague Of Babylon" entfesselt einen glorreichen Sturm aus blitzschnellen Twin-Gitarren-Harmonien, theatralischem, opernhaftem Gesang und galoppierenden Drumbeats. Die Themen tauchen ein in alte Mythologien, verfluchte Ruinen und Kämpfe mit inneren Dämonen. Es ist majestätischer, ungezügelter, epischer Metal-Spaß, der dich dazu bringen wird, direkt in deinem Wohnzimmer gegen ein legendäres Ungeheuer kämpfen zu wollen.
 
-::genre::
+::genre::nwothm, melo metal, power metal
 
 ## Merikan - Nightreign
 
-tbd
+Merikan ist ein einflussreicher Elektronik-Produzent und eine feste Größe der Heavy-Club-Szene mit Sitz in Italien. Als absolutes Schwergewicht der internationalen Bassmusik-Szene hat sich Merikan über Jahre hinweg einen Ruf als Schöpfer düsterer, hochintensiver Club-Hits erarbeitet und dabei mit den größten Namen des Genres zusammengearbeitet. **Neurofunk**, Heavy **Drum & Bass** und aggressive Elektronik. Stellt sicher, dass ihr genug Platz zum Tanzen habt, denn "Nightreign" trifft eure Trommelfelle wie ein mechanischer Güterzug mit Höchstgeschwindigkeit. Das Album ist ein ununterbrochener Ansturm aus erderschütternden, verzerrten Basslines, maschinengewehrartigen Drum-Tempos und futuristischen Synthesizer-Klanglandschaften, die sich unerbittlich industriell anfühlen. Getreu apokalyptischen Titeln wie "Ragnarok" und "Reaper" entfaltet sich das Thema wie eine intensive Sci-Fi-Verfolgungsjagd um Mitternacht. Es ist schnell, wunderschön chaotisch und voller atemberaubender klanglicher Adrenalin.
 
-::genre::
+::genre::d&b, neurofunk
 
 ## Midnight Rider - Limited Infinity
 
-tbd
+Eine kompromisslos altmodische, traditionelle Metal-Band aus Koblenz. Unter der Leitung des erfahrenen Underground-Gitarristen Jochen "Blumi" Blumenthal (ex-Metal Inquisitor) hat die Band jahrelang die Flamme des Classic Rock am Leben erhalten. Für dieses wegweisende dritte Album haben sie ihren Sound auf ein neues Niveau gehoben, indem sie High-Spirits-Frontmann Chris Black als Sänger gewonnen haben. **Heavy Metal**, 1970er-Jahre-**Hardrock** und **Classic Doom**. Staubt eure Lieblings-Jeansweste mit Aufnähern ab und schnappt euch eine Luftgitarre. "Limited Infinity" ist ein herrlich unprätentiöser Liebesbrief an die goldene Ära des Rock'n'Roll der späten 1970er Jahre. Die Band serviert ein wahres Festmahl aus doppelten Gitarren-Hooks, galoppierenden Basslinien und hochfliegendem, melodischem Gesang, der die Decke durchbricht. Sie meidet moderne, überpolierte Radio-Trends und liefert stattdessen echte, selbstbewusste Energie, die nach reinem Stadionrauch und Vintage-Leder duftet.
 
-::genre::
+::genre::heavy metal, hard rock, doom metal
 
 ## Midrift - Silhouette
 
-tbd
+Ein rasant aufsteigendes, äußerst beliebtes Alternative-Trio aus der Bay Area, Kalifornien, USA. Die Band besteht aus Gus Mehrkam, Manoa Neukermans und Kai Neukermans, drei Freunden aus Kindertagen, die gemeinsam mit dem Skaten aufgewachsen sind, bevor sie 2023 die Band gründeten. Sie haben sich eine riesige weltweite Fangemeinde im Internet aufgebaut und mit ihren frühen viralen Durchbruch-Tracks über 200 Millionen Streams in ihrem Gesamtkatalog erzielt. **Shoegaze**, **Alternative Rock** und emotionaler **Indie-Rock**. Dreh die Lautstärke so hoch, dass die Wände deines Zimmers vibrieren. Silhouette fängt die rohe, melancholische Magie der Jugend perfekt ein und verbindet verzerrte, betonerschütternde Gitarrenwände mit tiefen, treibenden Basslinien und sanften, schwebenden Gesangsmelodien. Die Themen drehen sich um unerwiderte Liebe, Identitätskrisen und Teenager-Tagträume. Die Band meistert das Genre mit einer so coolen, mühelosen Energie, dass man sich nach einem Ort sehnt, an dem man noch nie gewesen ist.
 
-::genre::
-
-## Mike Cooper - The Dream Island of Birds
-
-tbd
-
-::genre::
+::genre::alt rock, indie rock, shoegaze, post punk
 
 ## Mike Lorenz - I'm Not There
 
