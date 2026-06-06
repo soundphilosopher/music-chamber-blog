@@ -1224,183 +1224,105 @@ tbd
 
 ## Perfecto Miserable - Acabará Fatal
 
-tbd
+Ein äußerst talentiertes Alternative-Rock- und Noise-Pop-Quartett aus Castellón de la Plana, Spanien. Mit Singles wie "Termonuclear" hat die Band in ganz Spanien eine riesige Fangemeinde aufgebaut und sich damit prestigeträchtige Live-Auftritte bei großen internationalen Veranstaltungen wie dem Primavera Sound 2026 in Barcelona gesichert. **Electropop**, **Noise Pop**, **Indie-Rock** und **Shoegaze**. Übersetzt man den Titel mit "Es wird böse enden", erhält man sofort einen Einblick in die wunderbar sarkastische Seele dieses Albums. "Acabará Fatal" fühlt sich genau so an, als würde man die Schule schwänzen, um zuzusehen, wie die eigene Welt auseinanderfällt, während man zu knackigen, beschwingten Electropop-Rhythmen herumhüpft. Die Band liefert eine mitreißende Wand aus klirrenden, sonnenverwöhnten Gitarren und raffinierten Synthesizern, die zutiefst zynische, witzige Texte über die Ängste der Generation Z, romantisches Unheil und Quarter-Life-Krisen überdecken. Es ist lebhaft, temporeich und dient als absoluter Rausch an Wohlfühl-Serotonin für den modernen Pessimisten.
 
-::genre::
-
-## Perry Maysun - PATHETIC BEASTS
-
-tbd
-
-::genre::
-
-## Philippe Kalfon - My Co0nnection
-
-tbd
-
-::genre::
-
-## Pil - Ikk Gi Dig Selv Væk Før Du Føler Dig Hjemme
-
-tbd
-
-::genre::
+::genre::indie rock, shoegaze, noise, electropop
 
 ## Pleasure Systems - Leave It in the Sand
 
-tbd
+Pleasure Systems ist das Soloprojekt des in den Vereinigten Staaten lebenden unabhängigen Singer-Songwriters und Produzenten Clarke. Als kompromisslos unabhängiger DIY-Multiinstrumentalist produziert Clarke seit Jahren mit viel Sorgfalt selbst ruhige, intime Musikstücke, die sich nach und nach eine treue digitale Underground-Anhängerschaft aufbauen. **Alternative/Indie**, **Bedroom Pop** und **Indie Folk**. Wenn sich dein Geist vom Chaos der Außenwelt erschöpft anfühlt, wirkt "Leave It in the Sand" wie ein warmer, akustischer Zufluchtsort. Clarke baut eine wunderbar sanfte Klangarchitektur auf, bestehend aus sanftem Akustikgitarrenspiel, Vintage-Drumcomputern und zerbrechlichen, gesprächigen Gesangslinien. Das Thema ist eine offenherzige, tröstende Übung, bei der versucht wird, Hoffnung in einer zunehmend feindseligen Umgebung einzufangen. Es fühlt sich an, als würde man den Sonnenaufgang von einer Stranddecke aus beobachten und dabei erkennen, dass die eigenen Probleme vielleicht einfach mit der Flut davongespült werden.
 
-::genre::
+::genre::indie folk, alt rock, indie rock, bedroom pop
 
 ## Poppy Ackroyd - Liminal
 
-tbd
+Poppy Ackroyd ist eine von der Kritik gefeierte Pianistin, Geigerin, Komponistin und Multi-Instrumentalistin, die ursprünglich aus London stammt und derzeit in Brighton, Großbritannien, lebt. Mit klassischer Ausbildung und ausgeprägtem experimentellem Gespür hat sich Ackroyd über Jahre hinweg einen hervorragenden Ruf für ihre Soloalben (darunter "Paused") und ihre Zusammenarbeit mit dem *Hidden Orchestra* erarbeitet. Dieses fünfte Studioalbum markiert nach einer Phase tiefgreifender familiärer Veränderungen eine Rückkehr zu ihren instrumentalen Wurzeln. **Moderne Klassik**, **Ambient**-Instrumental, **Post-Rock**-Minimalismus und **cineastische Neoklassik**. Diese Platte ist ein atemberaubend naher, intimer Rückzugsort, der sich anfühlt, als säße man an einem nebligen Morgen direkt neben der Klavierbank. "Liminal" erkundet auf wunderschöne Weise die Schwellenerfahrung - den zarten, flüchtigen Raum zwischen tiefer Trauer, Verlust und neu gefundener euphorischer Freude. Anstatt massiven, auffälligen Hollywood-Streichern nachzujagen, verwendet Ackroyd komplexe, ineinandergreifende Klaviermotive und weinende, langgezogene Violinenlinien, die wie leise Atemzüge in der Luft schweben. Es ist ein unglaublich nachdenklicher, zärtlicher und bittersüßer Begleiter für leise Stunden (die stillsten Stunden des Lebens).
 
-::genre::
+::genre::modern classic, ambient, neo classic, post rock, alt rock
 
 ## Pretext - Riot Of The Ruined
 
-tbd
+Eine äußerst filmische, kraftvolle Metal-Band aus Kopenhagen, Dänemark. Die 2016 gegründete Band hat über Jahre hinweg ihren intensiven Live-Auftritt bei großen skandinavischen Events wie dem Roskilde Festival verfeinert. Angetrieben von politisch aufgeladenen Texten, konzentriert sich ihr charakteristischer Sound stark auf den markanten Kontrast zwischen männlichem und weiblichem Gesang. **Groove Metal**, **Modern Melodic Metal** und **Post-Hardcore**. Vergewissere dich, dass deine Wohnzimmermöbel fest verankert sind, bevor du auf Play drückst, denn "Riot Of The Ruined" ist eine regelrechte akustische Dampfwalze. Pretext verbindet vulkanische, betonbrechende Drop-Tunings der Gitarren und treibende Basslinien mit einer brillanten theatralischen Struktur, die Themen wie den Zusammenbruch der modernen Gesellschaft und die Widerstandsfähigkeit des Menschen behandelt. Das Zusammenspiel der beiden Stimmen wirkt wie ein dringender Aufruf zum Kampf und liefert eine aggressive, rohe und wunderbar unprätentiöse Metal-Achterbahnfahrt, die dich dafür belohnt, dass du deine volle Aufmerksamkeit darauf richtest.
 
-::genre::
+::genre::modern metalcore, modern post hardcore, groove metal, alt metal
 
-## Prospa - Free Your Mind
+## Purbayan Chatterjee, Mark Lettieri - Feathered Creatures
 
-tbd
+Eine brillante, kontinentübergreifende Zusammenarbeit, die den legendären Sitar-Virtuosen Purbayan Chatterjee aus Mumbai, Indien, mit dem fünffachen Grammy-Gewinner und Gitarristen Mark Lettieri aus Fort Worth, Texas, USA, vereint. Chatterjee ist einer der führenden Meister der klassischen Sitar in Indien, während Lettieri weltweit für sein virtuoses Funk-Gitarrenspiel mit Snarky Puppy und The Fearless Flyers verehrt wird. Ausgelöst durch eine gemeinsame Vorstellung durch Michael League verbrachten die beiden Jahre damit, sich über 9.000 Meilen hinweg musikalische Ideen per E-Mail auszutauschen, um eine vollwertige Co-Writing-Partnerschaft aufzubauen. **Global Fusion**, **Raga**-basierter **Jazz-Funk**, **Progressive Rock** und **Psytrance**. Dieses Album fühlt sich genau wie eine rasante Raketenfahrt an, die von einem traditionellen indischen Tempel startet und direkt in einem futuristischen, neonbeleuchteten Funk-Club landet. "Feathered Creatures" verwöhnt die Zuhörer mit einem atemberaubenden musikalischen Dialog, in dem Chatterjees blitzschnelle Sitar um Lettieris ultraklaren, groovigen Gitarrenriffs und ungewöhnlichen Taktarten wie 15/8 herumwirbelt und sich mit ihnen verflechtet. Es ist feierlich, technisch atemberaubend und voller strahlender, sonniger Energie, die Ihre Ohren völlig verzaubern wird.
 
-::genre::
-
-## Purbayan Chatterjee and Mark Lettieri - Feathered Creatures
-
-tbd
-
-::genre::
+::genre::prog rock, jazz fusion, world music, psytrance
 
 ## Riena - Miekka ja Varjo
 
-tbd
+Ein raues, eiskaltes Alternative-Metal-Duo aus den Tiefen des finnischen Undergrounds. Gegründet von den Multi-Instrumentalisten Draghn und Woewrb Korpinsiipi (die auch in finnischen Kult-Underground-Bands wie Hatespirit und serpentfyre aktiv sind), hat das Duo dieses Projekt ins Leben gerufen, um die aggressive, kompromisslose nordische Musikgeschichte zu würdigen. **Black Metal**, **Lo-Fi**-Tremolo-Speed und traditioneller Extreme Metal der zweiten Welle. "Miekka ja Varjo" bedeutet wörtlich übersetzt "Das Schwert und der Schatten", und die Musik klingt genau wie eine rasende Mitternachtsschlacht in einem gefrorenen Kiefernwald. Riena verzichtet auf moderne, hyperpolierte Studioproduktion und stürzt dich stattdessen direkt in einen Sumpf aus eisiger, hyperschneller Gitarrenverzerrung, hämmernden Blastbeats und einem gespenstischen Vokalschrei, der klingt, als würde er von Betonwänden abprallen. Es ist gnadenlos heavy und herrlich old-school, perfekt für Extreme-Metal-Puristen, die ihre Musik wunderbar düster und roh mögen.
 
-::genre::
-
-## Roger Sanchez - Spectrum
-
-tbd
-
-::genre::
+::genre::raw black metal, lofi
 
 ## Rogue Traders - Midnight Alarms
 
-tbd
+Ein äußerst erfolgreiches, in den Charts ganz oben platziertes Electronic-Rock-Kollektiv aus Melbourne, Australien. Die 2002 vom Produzenten James Ash gegründete Gruppe entwickelte sich Mitte der 2000er Jahre unter der Führung ihrer Frontfrau Natalie Bassingthwaighte zu einem absoluten Multi-Platin-Phänomen. "Midnight Alarms" markiert einen bedeutenden, historischen Meilenstein als erstes neues Studioalbum der Band seit fast zwei Jahrzehnten. **Electro-Punk**, **Dance-Rock**, **Synth-Pop** und **Eurodance**. Hol deine Leuchtstäbe aus dem Schrank und mach dich bereit für absolute Höchstlautstärke, denn die Rogue Traders sind zurück, um die Tanzfläche zurückzuerobern. "Midnight Alarms" fängt genau die hochoktanige Energie eines vollgepackten, schweißgetränkten Nachtclubs um 2:00 Uhr morgens ein. Das Album explodiert mit massiven, summenden Synthesizer-Basslines, druckvollen Rock-Drums und Bassingthwaightes charakteristischem, wild selbstbewusstem Gesang, der deine Füße zum Tanzen zwingt. Die Themen tauchen ein in nächtliche zwischenmenschliche Verbindungen, Eskapismus und das Überstehen des Chaos des Lebens mit einem Lächeln - es ist ein spektakuläres, unprätentiöses Party-Album.
 
-::genre::
+::genre::edm, idm, electropunk, disco punk, synth pop
 
 ## Rosa Walton - Tell Me It's A Dream
 
-tbd
+Rosa Walton ist eine außergewöhnlich talentierte, unabhängige Pop-Experimentalistin aus London, Großbritannien. Weltweit bekannt als eine Hälfte des begnadeten, von Kritikern gefeierten Indie-Pop-Duos *Let's Eat Grandma*, landete Walton mit ihrem Solo-Track "I Really Want to Stay at Your House" für den Soundtrack zu Cyberpunk 2077. Dies ist ihr offizielles Solo-Studio-Debütalbum. **Synth-Pop**, **New-Wave**-Revival der 1980er und **Indie-Rock**. Wenn dein Gehirn eine sofortige Dosis puren Sonnenschein braucht, ist "Tell Me It's A Dream" das ultimative musikalische Gegenmittel. Diese Platte ist eine funkelnde, neonfarbene Vergnügungsfahrt, die klingt, als wäre die poppigere Seite von The Cure in einer Glitzerkanone gefangen. Walton verwebt mühelos schimmernde 80er-Jahre-Synthesizer, treibende Indie-Gitarren und euphorische Gesangshooks mit zutiefst optimistischen Themen wie Selbstständigkeit, Freiheit und emotionaler Wiedergeburt. Es ist ein strahlendes, offenherziges und unglaublich mitreißendes Meisterwerk, das Lust macht, direkt durch eine Mittsommernacht zu tanzen.
 
-::genre::
-
-## Rotten Tomb - Vestiges Of Tortured Souls
-
-tbd
-
-::genre::
+::genre::synth pop, new wave, indie rock
 
 ## Samavayo - Embers Of Belief
 
-tbd
+Ein rockiges, seit langem bestehendes Trio aus Berlin. Seit ihrer Gründung im Jahr 2000 haben sich Samavayo über mehr als zwei Jahrzehnte hinweg fest als eine der zuverlässigsten und tourfreudigsten Größen der europäischen Underground-Rockszene etabliert. Für dieses besondere Projekt haben sie sich mit den britischen Doom-Urgesteinen Alunah zusammengetan, um ein gemeinsames Split-Album zu präsentieren. **Stoner Rock**, **Heavy Psych**, **Desert Rock** und **Progressive Rock**. Schnall dich an und gib Gas, denn Samavayos Seite von "Embers Of Belief" ist ein sonnenverbranntes Wüsten-Drag-Race. Die Band entfesselt massive Wände aus verzerrten, übersteuerten Gitarrenriffs, die so hart grooven, dass sie den Staub von euren Deckenventilatoren schütteln könnten. Sie verbinden diese donnernde Wucht mit einem unglaublich knackigen, modernen progressiven Touch und melodischem Gesang, der sich direkt durch den Klangnebel schneidet. Es ist rauer, hochoktaniger Rock ’n’ Roll, der Lust macht, ein kaltes Getränk zu öffnen und die offene Autobahn hinunter zu rasen.
 
-::genre::
-
-## Samuel Ball - Grounding Techniques
-
-tbd
-
-::genre::
-
-## San Holo - TRUE LOVE IN A MADE UP WORLD
-
-tbd
-
-::genre::
-
-## Satya - Yellow House
-
-tbd
-
-::genre::
-
-## Scarlxrd - All Fxr Nxthing
-
-tbd
-
-::genre::
+::genre::stoner rock, psych rock, desert rock, prog rock
 
 ## Seahaven - Seahaven
 
-tbd
+Eine hoch angesehene Alternative-/Emo-Rock-Band aus Torrance, Kalifornien, USA. Seit ihren Anfängen im Jahr 2009 hat sich die Band mit ihren introspektiven, emotional unverfälschten Werken eine äußerst treue Fangemeinde aufgebaut. Dieses selbstbetitelte Album ist ihr viertes Studioalbum und ihr erstes Album in voller Länge seit sechs Jahren, nach dem von Kritikern gefeierten "Halo of Hurt" aus dem Jahr 2020. Es wurde vollständig von der Band selbst in Zusammenarbeit mit dem Toningenieur Alex Estrada produziert. **Alternative Rock**, **Emo**, **Post-Hardcore** und **Indie-Rock**. Dieses Album fühlt sich genau so an, als würde man ein wunderschön geschriebenes Tagebuch lesen, das versehentlich in einem Regenguss liegen gelassen wurde. "Seahaven" wirft einen brillanten, nostalgischen Blick auf nächtliche Ängste, emotionale Scheidewege und die Bewältigung großer Lebensübergänge. Musikalisch lässt die Band die schweren, aggressiven Post-Hardcore-Elemente ihrer Anfänge hinter sich und widmet sich stattdessen einer wunderschön vielschichtigen, langsam aufbauenden Indie-Atmosphäre mit schimmernden Gitarrentönen und eindringlichem Gesang. Es ist der ultimative Soundtrack für eine lange, nachdenkliche Fahrt auf einer nebligen Küstenstraße, während man in den Rückspiegel blickt.
 
-::genre::
+::genre::post hardcore, emocore, alt rock, indie rock
 
 ## Second Youth - Can’t Call It Home When No One’s Waiting
 
-tbd
+Eine äußerst melodische, emotional unverfälschte Indie-Rock-Band aus der internationalen Underground-Szene. Durch kontinuierliche digitale Veröffentlichungen und EPs in den letzten zwei Jahren (darunter Alben wie "While I Fall" und "Family Burden") hat sich die Gruppe einen ganz eigenen Weg gebahnt und sich mit ihren ehrlichen, offenherzigen Texten eine treue Fangemeinde aufgebaut. **Melodic Hardcore**, **Post-Hardcore**, **Indie-Punk** und **Emo**. Dieses Album ist ein absoluter Schlag in die Magengrube, eine reine emotionale Katharsis, die dafür gedacht ist, in einem dunklen Raum mit guten Kopfhörern gehört zu werden. "Can't Call It Home When No One's Waiting" beschäftigt sich intensiv mit dem bittersüßen Gefühl der Isolation, den Wachstumsschmerzen und der Suche nach dem eigenen Platz in der Welt. Die Band treibt diese schweren Gefühle mit schwebenden Gitarrenlinien, krachendem Schlagzeugspiel und eindringlichem Gesang voran, der klingt, als würde er dem Sänger direkt aus der Kehle reißen. Es ist intensiv schön, roh und ein spektakulärer Begleiter für jeden, der mit ein wenig nächtlicher Einsamkeit zu kämpfen hat.
 
-::genre::
+::genre::post hardcore, melo hardcore, emocore
 
 ## Seven Metal Sins - Legacy Of Chaos
 
-tbd
+Ein kraftvolles Heavy-/Power-Metal-Kollektiv, das in Oloron-Sainte-Marie, Frankreich, gegründet wurde. Ursprünglich 2024 von den ehemaligen Manigance-Veteranen Stéphane Lacoude (Bass) und Patrick Soria (Schlagzeug) ins Leben gerufen, fand die fünfköpfige Besetzung schnell zusammen, um die legendären, kraftvollen Riff-Traditionen der 1980er Jahre von Bands wie *Gravedigger* und *Accept* weiterzuführen. Klassischer **Heavy Metal**, moderner **Power Metal** und traditioneller germanischer Metal. Zieh deine beste Nietenweste an und dreh die Lautstärke voll auf, denn "Legacy Of Chaos" ist eine unverfälschte, headbangende Achterbahnfahrt. Angeführt von einem Frontmann, dessen raue, brüllende Stimme Glas zerbrechen könnte, entfesselt die Band eine Non-Stop-Parade aus Twin-Gitarren-Harmonien und stadiontauglichen Battle-Hooks. Textlich spielt sich das Album wie ein düsterer Science-Fiction-Dystopie-Comic ab und behandelt Themen wie Machtentgleisung und eine Welt in der Krise. Es ist hirnloser, mitreißender Metal-Spaß, der nach Leder und reinem Vintage-Benzin riecht.
 
-::genre::
+::genre::nwobhm, thrash metal, power metal
 
 ## Shane Embury - Bridge To Resolution
 
-tbd
+Shane Embury ist ein legendärer, weltbekannter Extreme-Metal-Multiinstrumentalist und Songwriter aus Großbritannien. Als langjähriger, ikonischer Bassist der Grindcore-Pioniere Napalm Death gilt Embury als Titan der schnellen Musik. Dieses bahnbrechende Projekt, das während der strengen Ausgangssperren der Pandemie geschrieben und aufgenommen wurde, markiert sein mit Spannung erwartetes Debüt-Soloalbum unter eigenem Namen. **Atmosphärischer Goth-Rock**, düsterer **Post-Punk** und melancholischer **Ambient**. Wenn Sie die halsbrecherische, betonzerreißende Geschwindigkeit von Emburys Hauptbeschäftigung erwarten, machen Sie sich darauf gefasst, dass Ihre Vorstellungskraft völlig auf den Kopf gestellt wird. Auf "Bridge To Resolution" tauscht die Metal-Legende schwere Verzerrung gegen eine atemberaubend stimmungsvolle, langsam entflammende Reise in die Ästhetik des Goth und Post-Punk der 1980er Jahre ein. Das Album erkundet das psychologische Konzept der Schattenintegration - sich den tiefsten persönlichen Ängsten zu stellen, um inneren Frieden zu finden - und ist eine wunderschöne, von der Dämmerung erhellte Landschaft. Es ist filmisch, düster und voller schöner Echos, die einem das Gefühl geben, nachts durch eine regennasse Londoner Straße zu wandern.
 
-::genre::
+::genre::goth rock, post punk, new wave
 
 ## Shooting Daggers - The Real Life Thing
 
-tbd
+Eine äußerst experimentierfreudige, äußerst eigenwillige Queercore-Punk-Band aus London, Großbritannien. Nach ihrem von der Kritik gefeierten Debütalbum "Love & Rage" aus dem Jahr 2024 kehrt das genreübergreifende Trio zurück, um seine musikalischen Grenzen mit einem mit Spannung erwarteten Mini-Album in Zusammenarbeit mit Punk-Ikonen wie Dennis Lyxzén von Refused weiter zu erweitern. **Hardcore-Punk**, **Riot Grrrl**, **Shoegaze** und **Post-Hardcore**. "The Real Life Thing" ist ein absoluter Blitzschlag aus purem, unverfälschtem musikalischem Adrenalin. Innerhalb der kurzen, raketenartigen 20-minütigen Laufzeit wechselt die Band nahtlos von betonbrechenden, wütenden Hardcore-Punk-Drops zu überraschend schönen, verträumten Shoegaze-Räumen. Das übergeordnete Thema ist ein emotionaler Appell, aufzuwachen, den Internetbildschirm auszuschalten und echte Gemeinschaft, Liebe und ökologisches Mitgefühl zu finden. Es ist chaotisch, unglaublich cool und wird dich dazu bringen, Combat-Boots anzuziehen und in deiner Garage eine Revolution zu starten.
 
-::genre::
+::genre::post hardcore, hardcore punk, shoegaze
 
 ## Shroud - Pax Nocturna
 
-tbd
+Eine rasante, hochenergetische Extreme-Metal-Band aus Montreal, Quebec, Kanada. Gegründet wurde sie in der Isolation der COVID-19-Pandemie von Gitarrist und Sänger Matteo Conti sowie Schlagzeuger Zack Osiris (von Warsenal); die Besetzung vervollständigten später Bassist Justin Cournoyer und Gitarrist Jordan Barillaro. Sie erwarben sich im Underground von Quebec schnell einen Ruf als knallharte Band, indem sie gemeinsam mit Legenden wie Exciter und Midnight auf der Bühne standen. **Blackened Thrash Metal**, **Death Metal** und **Melodic Metal**. Hüllen Sie sich in einen samtenen Mantel des Chaos, denn "Pax Nocturna" ("Frieden in der Nacht") ist eine wilde Achterbahnfahrt durch die Unterwelt. Shroud schafft es, die rohe, eiskalte Ästhetik des Black Metal mit einer gewaltigen Dosis blitzschneller Thrash-Gitarrenriffs und der tiefen Durchschlagskraft des Death Metal zu verbinden. Die Musik, die Themen wie satanischen Gnostizismus, Philosophie und persönliche Meisterschaft behandelt, ist ebenso intellektuell wie gnadenlos. Sie klingt wie eine Armee aggressiver Schattenbestien, die durch eine wunderschön surreale Horrorkulisse rasen.
 
-::genre::
-
-## siempre no - el campamento de futbol y actuatión del rey Pelé
-
-tbd
-
-::genre::
-
-## Silla - SBM
-
-tbd
-
-::genre::
+::genre::blackened thrash metal, death metal, melo metal
 
 ## Simon Phillips - Protocol 6
 
-tbd
+Simon Phillips ist ein legendärer, weltbekannter Virtuosen-Schlagzeuger, Produzent und Komponist, geboren in London, Großbritannien. Phillips kann auf eine herausragende musikalische Laufbahn zurückblicken und ist weltweit bekannt für seine langjährige Zusammenarbeit mit Rock-Ikonen wie Toto und The Who sowie den Fusion-Größen Jeff Beck und Hiromi. "Protocol 6" markiert das spannende nächste Kapitel seines gefeierten, langjährigen Instrumental-Fusion-Projekts. **Jazz-Rock-Fusion**, **Progressive Rock** und **Technical Jazz**. Schnall dich gedanklich an, denn dieses Album ist eine Meisterklasse in musikalischer Geometrie. "Protocol 6" verbindet mühelos die kraftvolle Energie des Rock'n'Roll mit atemberaubenden Jazz-Fusion-Taktarten, die blitzschnell die Richtung wechseln. Getragen von Phillips' donnernden, komplexen Drumfills und seiner fulminanten Saxophonkunst nehmen dich Titel wie "Andromeda" mit auf eine kosmische Reise. Es ist dicht, anspruchsvoll und ein intensiver Genuss für alle, die Musik lieben, die wie ein wunderschön kalkuliertes Feuerwerk klingt.
 
-::genre::
-
-## Simone Dinnerstein - Hours
-
-tbd
-
-::genre::
+::genre::prog rock, jazz fusion, avant jazz
 
 ## Sin - Confronted By Ignorance
 
-tbd
+Eine rohe, aggressive Underground-Hardcore-Band, die aus der globalen D.I.Y.-Punkszene hervorgegangen ist. Diese unabhängige Truppe agiert völlig außerhalb der Mainstream-Musikindustrie und hat jahrelang kleine Kellerclubs bereist sowie intensive Demo-EPs in Eigenregie veröffentlicht, die von gesellschaftlicher Frustration angetrieben sind. **Hardcore-Punk**, **Beatdown** und **Metallic Hardcore**. Schließt eure zerbrechlichen Wertsachen sicher weg, bevor ihr auf Play drückt. "Confronted By Ignorance" ist eine absolute Abrissbirne aus purer klanglicher Wut, die euch mit kreissägeartigen Gitarren, betonharten Bass-Drops und vor Gift triefendem, bellendem Gesang attackiert. Getreu dem Titel ist das lyrische Thema ein Stinkefinger-Takedown gegen moderne Internet-Echokammern und vorsätzliche Blindheit. Hier gibt es keine Höflichkeit - es ist ein kurzer, hochoktaniger Adrenalinstoß, der speziell für den Moshpit entwickelt wurde.
 
-::genre::
+::genre::metallic hardcore, beatdown
 
 ## Sleepbomb - Songs In The Key Of Conan
 
@@ -1491,12 +1413,6 @@ Eine berüchtigte, seit langem bestehende Garage-Punk-Institution, die ursprüng
 Thomas Bangalter ist ein weltberühmter, wegweisender Elektronikproduzent, Komponist und Klangkünstler mit Wohnsitz in Paris, Frankreich. Weltweit bekannt und verehrt als eine Hälfte des legendären, mehrfach mit Platin ausgezeichneten Elektronik-Duos Daft Punk, hat Bangalter seine Zeit nach der Roboter-Ära damit verbracht, radikal experimentelle avantgardistische Wege zu beschreiten. "Mirage" wurde speziell als maßgeschneiderte elektronische Partitur für ein zeitgenössisches Ballett mit 16 Tänzern komponiert, das vom Choreografen Damien Jalet und dem Künstler Kōhei Nawa konzipiert wurde. **Elektronischer Minimalismus**, **Avantgarde-Ambient**, experimentelles Sounddesign und dekonstruierte Percussion. Wenn Sie Roboterhelme und clubtaugliche Pop-Hymnen erwarten, machen Sie sich darauf gefasst, dass Ihre Vorstellungskraft völlig auf den Kopf gestellt wird. "Mirage" ist ein weitläufiger, hypnotischer und skulpturaler Ozean minimalistischer elektronischer Kunst, der klingt, als wäre er in einer Echokammer auf dem Mars aufgenommen worden. Bangalter ignoriert traditionelle Pop-Beats und setzt stattdessen auf komplexe, tickende Percussion-Loops, unheimliche Synthesizer-Drones und elementare Klangtexturen, die sich wie heißer Wüstensand verschieben. Es spielt sich wie ein surreales, schwebendes Ritual ab, das zutiefst experimentell und doch vollkommen zugänglich ist, wenn man das Licht dimmt und sein Gehirn in den Mainframe treiben lässt.
 
 ::genre::ambient, avant electronica, minimal electronica
-
-## Thorium - Suburban Rot
-
-Eine seit langem etablierte, brutale Extreme-Metal-Institution aus Dänemark. Die erfahrene fünfköpfige Band, die auf unglaubliche 30 Jahre zurückblicken kann, in denen sie die Underground-Metal-Szene terrorisiert hat, hat drei Jahrzehnte damit verbracht, einen kompromisslosen Sound zu verfeinern, der vorübergehende Trends ignoriert und sich ganz auf klassische Brutalität konzentriert. **Old-School-Death-Metal**, traditioneller skandinavischer **Death-Metal** und **Groove-Metal**. Willkommen zu einem herrlich grotesken Horrorfilm, der exklusiv für eure Trommelfelle konzipiert wurde. "Suburban Rot" verzichtet gänzlich auf moderne Produktionsglättung und stürzt euch direkt in einen Sumpf aus klassischen, kreissägenartigen Gitarrenriffs und höhlenartigen, monsterhaften Kehlkopfbrüllen. Der thematische Fokus schlägt für die Band eine viel dunklere, unglaublich persönliche Note an und verbindet rohe, authentische Underground-Wut mit unerbittlicher, zum Headbangen verleitender Groove-Dynamik. Es ist brutaler, gnadenloser Old-School-Death-Metal, der beweist, dass diese dänischen Veteranen noch immer jede Menge Gift in ihren Reißzähnen haben.
-
-::genre::osdm, death metal, groove metal
 
 ## Tidal Wave - Volume Tree
 
