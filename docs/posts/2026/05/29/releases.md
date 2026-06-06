@@ -438,7 +438,7 @@ Ins Leben gerufen vom extravaganten Frontmann und bildenden Künstler Seth Bogar
 
 Die Band stammt direkt aus der Underground-Szene von San Diego in Südkalifornien. Es handelt sich nicht um frischgebackene Newcomer, sondern um eine Supergroup aus erfahrenen lokalen Musikveteranen. Das Projekt vereint Mitglieder aus mehreren namhaften Bands verschiedener Szenen, darunter Amenity, Ilya, Crushed on You, B-Side Players, Hauntu und Audio Addiction. Eine harte Fusion aus **Darkwave**, **Synthwave**, **Industrial und Metal**. Ihr Sound lehnt sich stark an elektronische Tanzmusik der 1980er Jahre, Retro-Horrorfilm-Soundtracks und aggressive Metal-Musik an. Stell dir vor, du fährst mit einem gestohlenen Muscle-Car durch eine neonbeleuchtete, postapokalyptische Einöde, während du von kybernetischen Zombies verfolgt wirst - genau das ist die Stimmung von Dead Before Dawn. Die EP weigert sich, sich festzulegen, und genau darin liegt ihre größte Stärke. Sie beginnt mit unheimlicher, filmischer Spannung, führt körperlose Horror-Dialoge ein und schlägt dir dann plötzlich mit vernichtenden, stampfenden Metal-Gitarrenriffs über einem Techno-Club-Beat der 1980er Jahre ins Gesicht. Tracks wie "Nekromantik" klingen, als würde Mad Max in eine Goth-Rave-Party krachen, komplett mit schrillen, eindringlichen Synthesizern und schweren Breakdowns. "Terror Vision" hingegen baut ein Gefühl purer Paranoia auf, bevor es die Mauern mit einem rasanten Gitarrensolo komplett zum Einsturz bringt.
 
-::genre::darkwave, synth wave, industrial metal, industrial
+::genre::dark wave, synth wave, industrial metal, industrial
 
 ## Iceage - For Love of Grace & the Hereafter
 

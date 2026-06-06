@@ -1354,7 +1354,7 @@ Newshapes haben sich schnell als aufstrebende Größe in der modernen britischen
 
 Nick Dan hat sich von seinen klaren, zugänglichen Synth-Pop-Anfängen entfernt und sich zu einem Meister düsterer, unmittelbarer und strukturreicher Lo-Fi-Klanglandschaften entwickelt, deren Alben er über kleine Avantgarde-Labels veröffentlicht. **Post-Punk**, **Ambient Darkwave**, Tonbandmanipulation und **Lo-Fi**-**Synth-Pop**. Sein Stil bewegt sich zwischen der melancholischen Spannung der frühen *Joy Division* und der verzerrten, unvorhersehbaren Atmosphäre der Experimente der Kassettenkultur. Trotz des entspannenden Titels ist "Sit Back and Look at the Sky" kein gewöhnlicher, friedlicher Soundtrack zum Sternegucken - es sei denn, man hält Ausschau nach UFOs oder einem herannahenden Sturm. Mit ihren gewaltigen 19 Tracks ist die Platte eine schwindelerregende, einstündige Reise durch unheimliche Synth-Melodien, treibende Basslinien und rohes Bandrauschen. Songs wie "Watery Mile" und das atemberaubende, 10-minütige Epos "Garbled Tenyr" klingen auf wunderschöne Weise unvorhersehbar und balancieren intensive musikalische Spannung mit kalten, beruhigenden Atmosphären aus. Es fühlt sich an, als würde man eine staubige, geheimnisvolle Kassette auf einem verwunschenen Dachboden finden, sie in einen alten Walkman stecken und sich von der analogen Seltsamkeit völlig einhüllen lassen.
 
-::genre::post punk, darkwave, synth pop, lofi, ambient
+::genre::post punk, dark wave, synth pop, lofi, ambient
 
 ## Patrick Paige II - Love You, Mean It
 
@@ -1390,7 +1390,7 @@ Sekigahara ist eine äußerst aktive Größe in der Underground-Szene des Intern
 
 An der Spitze der Band stehen der Multi-Instrumentalist, Songwriter und Produzent Eric „Doc“ Hammer (der später als Mitbegründer der Adult-Swim-Serie *The Venture Bros.* bekannt wurde) und die Opernsängerin Lisa Stockton-Wilson (Lisa Hammer). Sie beherrschten legendäre Underground-Locations wie das CBGB und das Limelight, bis sie sich 1994 trennten. **Gothic Rock**, **Darkwave**, **Post-Punk** und Gothic Opera. Ihr Stil ist historisch geprägt von düsterer, romantischer Literatur, liturgischer Intensität und den frühen Pionieren des Post-Punk. Holt eure Samtumhänge hervor und zündet die schwarzen Kerzen an: Die Monarchen des Underground-Goth der 90er sind zurückgekehrt. "The Visible Heaven" klingt wie eine direkte Übertragung aus einem rauchgefüllten, in Leder gehüllten Nachtclub im Jahr 1994. Doc Hammer hat die Produktion bewusst auf rohe Gitarren, hämmernden Bass, schwere Drums und eine eindringliche Pfeifenorgel reduziert. Über dieser klanglichen Wand des Untergangs schwebt Lisas hochfliegender, opernhafter Gesang, der keinen einzigen Tag gealtert ist. Das Thema ist majestätisch, unheimlich und zutiefst poetisch - es navigiert durch menschliches Elend, spirituelle Schatten und den schönen Trost, den man in der Dunkelheit findet. Es ist schwer, theatralisch und herrlich gruselig.
 
-::genre::goth rock, darkwave, post punk
+::genre::goth rock, dark wave, post punk
 
 ## Rival Cults - Our Gods Need Blood
 
