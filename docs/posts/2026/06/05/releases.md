@@ -1074,153 +1074,93 @@ tbd
 
 ## Mike Lorenz - I'm Not There
 
-tbd
+Mike Lorenz ist ein äußerst raffinierter, technisch brillanter Jazzgitarrist und Komponist aus Bethlehem, Pennsylvania, USA. Seit fast zwei Jahrzehnten ist er als angesehener Bandleader, Pädagoge und vielseitiger Studiomusiker tätig und wird für seinen unverwechselbaren, organischen Klangstil gefeiert. Mit dieser sehr persönlichen Trio-Besetzung kehrt er nach mehrjähriger Pause zurück, um ein reduziertes Statement zu Wandel und Erneuerung abzugeben. **Modern Jazz**, Akustikgitarrentrio, improvisierte Musik und **Cool Jazz**. Treten Sie ein in eine schummrig beleuchtete, bläulich getönte Manhattan-Lounge der 1960er Jahre und schenken Sie sich ein kühles Getränk ein, denn diese Platte ist purer akustischer Luxus. "I'm Not There" verzichtet auf komplexe elektronische Produktionstricks und lässt stattdessen warme, fließende Gitarrenlinien mühelos über swingende Akustikbass-Patterns und lebendige, atmende Percussion tanzen. Das Thema dreht sich um stille Selbstreflexion, notwendige Umwege und die Verarbeitung des realen Lebens in den Lücken zwischen den Noten. Es ist ein unglaublich geschmeidiges, elegantes und zeitloses Stück Musikalität, das den mentalen Alltagsstress augenblicklich vertreibt.
 
-::genre::
+::genre::coffee jazz, modern jazz
 
 ## Modest Mouse - An Eraser and A Maze
 
-tbd
+Eine legendäre, äußerst einflussreiche Indie-Rock-Institution, die ursprünglich aus Issaquah, Washington, USA, stammt. Modest Mouse wurde vor über 30 Jahren gegründet und ist seit langem ein prägender Vorreiter des eigenwilligen, energiegeladenen College-Rock. "An Eraser and A Maze" markiert ein wichtiges Kapitel: Es ist ihr erstes Album seit dem Weggang von Epic Records und der Rückkehr zu ihren vollständig unabhängigen Wurzeln sowie ihre erste vollständige Veröffentlichung nach dem tragischen Tod des Gründungsschlagzeugers Jeremiah Green im Jahr 2022. **Indie-Rock**, **Post-Punk**, **Alternative Art-Rock** und **psychedelischer Garage-Pop**. Dieses Album spielt sich wie ein hyperaktiver Computer ab, der versucht, sich durch ein weitläufiges Labyrinth zu navigieren, während er eine wunderschöne Midlife-Crisis durchlebt. Frontmann Isaac Brock liefert eine glorreiche, zerzauste Explosion aus nervösen, klirrenden Gitarren, klickenden Percussion-Arrangements und seinem charakteristischen, jaulenden, sarkastischen Gesangsstil. Das Kernthema dreht sich um die Bewältigung tiefer Trauer, persönlicher Übergänge und das Vorankommen, selbst wenn der Weg zurück in ungelöste Schleifen führt. Es ist völlig unprätentiös, unglaublich eingängig und strotzt vor einer wilden, authentischen Indie-Pop-Energie.
 
-::genre::
-
-## moé - Geschichten die wir niemandem erzählen
-
-tbd
-
-::genre::
+::genre::alt rock, indie rock, post punk, art rock, psych pop, prog pop
 
 ## Mustafa Stefan Dill - Hidden Promises In Joined Terrains, Apex Emerging
 
-tbd
+Mustafa Stefan Dill ist ein interkultureller Virtuose, der in New Mexico, USA, als Sohn einer mexikanischen Mutter und eines deutsch-irischen Vaters geboren wurde. Als Gitarrist, Komponist und seit über 30 Jahren Meister der traditionellen Oud verfügt Dill über einen Master-Abschluss des renommierten New England Conservatory. Er tourte ausgiebig durch Europa und spielte alles von traditionellen Flamenco-Festivals bis hin zu grenzüberschreitenden Avantgarde-Kreisen; sogar Metal-Ikonen wie Karl Sanders von Nile profitierten von seinem atemberaubenden Talent auf der fretless Gitarre. Oud-**Fusion** aus dem Nahen Osten, **Free Jazz**, avantgardistische Gitarrenimprovisation und **Progressive Rock**. Dieses Album klingt wie ein verrückter Wissenschaftler, der versucht, aus traditionellen akustischen Weltinstrumenten und avantgardistischen Jazztheorien ein Raumschiff zu bauen. Mit "Hidden Promises In Joined Terrains" entführt Apex Emerging die Zuhörer in eine schwindelerregende, wunderschöne Klanglandschaft, in der mikrotonale Oud-Saiten und fretless Gitarren sich durch unregelmäßige, wechselnde Taktarten schlängeln. Das Thema wirkt durch und durch filmisch, explorativ und uralt und zieht einen in ein tiefes musikalisches Labyrinth, in dem jede Wendung einen unerwarteten Rhythmus offenbart. Es ist eine dichte, intellektuelle und höchst befriedigende Reise für alle, die Musik lieben, die absolut einzigartig klingt.
 
-::genre::
+::genre::free jazz, prog rock, jazz fusion, world music, improvisation
 
 ## My Own Will - Misery
 
-tbd
+Ein kraftvolles, knochenbrechendes Metal-Kollektiv aus Michigan, USA. Nach ihrem von der Kritik gefeierten Debütalbum "Left To The Flies", das ihnen einen Platz auf großen internationalen Streaming-Playlists sicherte, etablierte sich die Band als eine beeindruckende, unabhängige Tour-Größe. Das Album wurde unter der Leitung von Produzent Cody Stewart aufgenommen und von Christian Donaldson gemischt und gemastert. **Deathcore**, **Brutal Metalcore** und aggressiver Downtuned Metal. Schnallt euch an und stellt sicher, dass eure Wohnzimmermöbel fest verankert sind, denn "Misery" ist eine regelrechte akustische Dampfwalze. Die EP entfesselt eine unerbittliche Wand aus betonzerbrechenden, heruntergestimmten Gitarren, Maschinengewehr-Drumming und höhlenartigen, kehligen Brüllen, die direkt aus der Unterwelt zu kommen scheinen. Sie verzichtet komplett auf ausgefeilte kommerzielle Radiotricks, um eine intensive, chaotische und wunderbar ungezügelte Metal-Achterbahnfahrt zu liefern. Es ist ein purer, 12-minütiger Adrenalinstoß, der dein Schlafzimmer in einen Ein-Personen-Moshpit verwandelt.
 
-::genre::
+::genre::deathcore, brutal death metal
 
 ## Nachtheem - Waan Van De Leegte
 
-tbd
+Ein düsteres, atmosphärisches Underground-Musikprojekt aus den Niederlanden bzw. Flandern. Das Projekt agiert ausschließlich im Schatten der extremen Underground-Szene der Niederlande und stützt sich stark auf die traditionelle Geschwindigkeit des Black Metal, erweitert seine Strukturen jedoch um massive, bedrückende Klanglandschaften. **Atmosphärischer Black Metal**, **Depressive Rock** und **Ambient Extreme Metal**. Zieh deinen dicksten Wintermantel an und mach dich bereit, in eine trostlose, nebelverhangene Wildnis zu wandern. "Waan Van De Leegte" (was grob übersetzt "Illusion der Leere" bedeutet) ist ein gewaltiges, schweres Monument purer klanglicher Trauer. Das Album wirkt wie ein emotionaler Sturm, der rasend schnelle Tremolo-Gitarren und marschierende Drumbeats mit einem rauen, geisterhaften Gesangsschrei verbindet, der klingt, als würde er aus den Tiefen einer Schlucht widerhallen. Das Thema beschäftigt sich mit Isolation, kosmischer Bedeutungslosigkeit und der absoluten Schönheit, die in der kahlen Einsamkeit zu finden ist. Es ist düster-schöner Extreme Metal für einen dunklen Raum und gute Kopfhörer.
 
-::genre::
+::genre::dsbm, atmo black metal
 
-## Navy Blue - Sir Render
+## NEW LORE & Barbie Almalbis - GOOD GOOD JUJU
 
-tbd
+Ein kraftvolles alternatives Gemeinschaftsprojekt aus den Philippinen. Dieser spannende Crossover verbindet die technisch ausgefeilten elektronischen Klangwelten der Gruppe NEW LORE mit der legendären Stimme von Barbie Almalbis, einer beliebten Ikone der philippinischen Alternative-Rock- und Pop-Szene. **Electropop**, **New Wave**, **Post-Punk** und **Alternative Pop**. Diese Platte ist ein rasender, farbenfroher Schuss puren, unverfälschten Wohlfühl-Serotonins. "GOOD GOOD JUJU" schafft die perfekte Balance zwischen neonfarbenen Synthesizer-Klängen und treibenden Post-Punk-Basslines einerseits und wunderschön süßen, mitreißenden Gesangsmelodien andererseits. Getreu den witzigen und augenzwinkernden Titeln der Tracks - wie "my crush" und "i will crush the system baby" - dreht sich das thematische Rahmenwerk ganz um jugendliches Selbstbewusstsein, darum, den Kopf hochzuhalten trotz struktureller Störgeräusche, und darum, dass gute Vibes den Tag gewinnen. Es ist ein strahlendes, energiegeladenes Party-Album, das man die ganze Woche lang auf Repeat hören möchte.
 
-::genre::
-
-## NEW LORE - GOOD GOOD JUJU
-
-tbd
-
-::genre::
-
-## Nicolas Debade - Fragments of Soaring Vessels
-
-tbd
-
-::genre::
+::genre::post punk, new wave, electropop, alt pop
 
 ## Nile Rivers & Truant Kids - Black Shrouds
 
-tbd
+Ein unabhängiges Alternative-Rock-Projekt aus den Vereinigten Staaten. Aus den digitalen Underground-DIY-Szenen hervorgegangen, haben sich Nile Rivers und Truant Kids zusammengetan, um einen rauen, gitarrenlastigen Sound zu liefern, der den klassischen College-Rock-Klischees huldigt und gleichzeitig einen modernen Fußabdruck hinterlässt. **Alternative Rock**, **Post-Punk** und **Indie-Rock**. "Black Shrouds" trifft deine Ohren wie ein regelrechter Adrenalinstoß aus purem Garage-Rock. Es entfernt sich komplett von den glattpolierten kommerziellen Trends des modernen Radios und bietet verzerrte, übersteuerte Gitarrentöne, drängendes Schlagzeugspiel und freche, schnörkellose Rock-Vocals. Mit Titeln wie "New Sound of Depression" und "Highlife Cowboy" erkundet das Album Themen wie jugendliche Rebellion, den Umgang mit dem Blues und das Navigieren durch chaotische moderne Landschaften. Es ist laut, wunderbar wild und perfekt, um es auf einer rasanten Autobahnfahrt voll aufzudrehen.
 
-::genre::
+::genre::alt rock, indie rock, post punk
 
-## No Vale Nada - Quidam
+## No Vale Nada - Quidam *
 
-tbd
+Ein kraftvolles, äußerst eigenständiges Musikkollektiv aus Ostfrankreich. Als einer der Eckpfeiler der europäischen Heavy-Underground-Szene kehrte die Band ins legendäre Apiary Studio zurück, um dort gemeinsam mit dem Spitzenproduzenten Amaury Sauvé (bekannt für seine Arbeit mit *Birds in Row*) neue Songs aufzunehmen. Dabei erweiterte sie ihre Besetzung zu einem Quartett mit zwei Gitarristen, um ihre Live-Präsenz zu maximieren. **Chaotischer Hardcore**, **Post-Metal**, **Post-Hardcore** und **Screamo**. Stellt sicher, dass eure Wohnzimmermöbel fest am Boden verankert sind, bevor ihr die Lautstärke aufdreht, denn "Quidam" ist eine absolute Flutwelle purer klanglicher Wut. Die Band entfesselt ein apokalyptisches Feuerwerk aus betonbrechenden Drop-Tunings, rasendem Schlagzeugspiel und qualvollen Gesangsschreien. Das Album behandelt ein gewaltiges, danteskes Thema über die Menschheit, die in ihre tiefsten Schrecken versinkt, und verbindet dabei pure Metal-Gewalt mit wunderschönen, weitläufigen atmosphärischen Post-Rock-Räumen. Es ist heavy, poetisch und wunderschön intensiv.
 
-::genre::
-
-## No.1 - TÖVBE
-
-tbd
-
-::genre::
+::genre::post hardcore, screamo, post metal
 
 ## Noah Levine - Leaver
 
-tbd
+Ein außergewöhnlich talentierter 23-jähriger Multi-Instrumentalist und Singer-Songwriter, der ursprünglich aus Austin, Texas, stammt und heute in Nashville, USA, lebt. Levine war jahrelang als erster Leadgitarrist auf Tournee für den Multi-Platin-Star Noah Kahan tätig. Nachdem er an weltweiten Hits wie Kahans "Dial Drunk" mitgeschrieben hatte, wandte sich Levine seiner beeindruckenden Solostimme zu und baute auf seiner 2025 erschienenen Debüt-EP "Deceiver" auf. **Indie-Folk**, **Alternative-Pop**, Singer-Songwriter und **Americana**. Dieses Album fühlt sich genau so an, als würde man eine Sammlung verblasster Polaroids in einer alten Klavierbank entdecken. Angetrieben von zarten, gezupften Gitarrenklängen, schwungvollen Streichern und schmerzlich schönen, intimen Vocals dokumentiert Levine meisterhaft, wie es sich anfühlt, seine Heimatstadt zu verlassen, zu beobachten, wie sich Kindheitsfreundschaften wandeln, und in einer rasanten Welt erwachsen zu werden. Es ist warmherziges, verletzliches Folk-Storytelling vom Feinsten, das sich wie eine riesige, tröstende Decke um die Ohren legt.
 
-::genre::
-
-## Nolan Hildebrand - Noise Trip Explosion
-
-tbd
-
-::genre::
+::genre::indie folk, indie pop, alt pop, americana
 
 ## Normans - Faust Demonica
 
-tbd
+Eine elegante, düster-melodische Elektro-Band aus Los Angeles, Kalifornien, USA. Nach ihrem hochgelobten, selbstbetitelten Album aus dem Jahr 2024 haben NORMANS die vergangenen Jahre damit verbracht, ihre Studio-Hooks zu verfeinern, sich von den üblichen Garage-Punk-Klischees abzuwenden und sich stattdessen auf hochwertige elektronische Produktionen und nächtliche Atmosphären zu konzentrieren. **Post-Punk**, **Darkwave**, **Synth-Pop** und Electronic **Goth Rock**. "Faust Demonica" fühlt sich an, als würde man um 3:00 Uhr morgens in einem schwarzen Sportwagen durch eine regnerische, neonbeleuchtete Stadt rasen und dabei versuchen, einer schattenhaften Gestalt zu entkommen. Das Album liefert eine mitreißende Mischung aus tiefen Synth-Basslines, knackigen Drum-Machine-Clips und stimmungsvollen, distanzierten Vocals, die unter einer dunklen Discokugel genau richtig klingen. Es fängt eine brillant filmische Gothic-Dringlichkeit ein, die Lust macht, nachts eine schwarze Sonnenbrille aufzusetzen und die existenzielle Angst wegzutanzen.
 
-::genre::
+::genre::goth rock, post punk, dark wave, synth pop
 
 ## of Montreal - Aethermead
 
-tbd
+Das überaus produktive, wandlungsfähige Indie-Projekt unter der Leitung des Singer-Songwriters Kevin Barnes aus Athens, Georgia / Brooklyn, New York, USA. Anlässlich seines 30-jährigen Jubiläums als unerschütterlich unabhängige Alternative-Ikone kehrte Barnes für sein wegweisendes 20. Studioalbum zu einem rohen, organischen Ansatz zurück. Barnes wandte sich von elektronischen Solo-Setups ab und rekrutierte eine komplette Live-Begleitband für eine rasante, chaotische fünftägige Studio-Aufnahmesession in Brooklyn. **Psychedelic Pop**, **Glam Rock**, **Lo-Fi Indie Pop** und **Avant-Pop**. Diese Platte spielt sich genau wie ein neonfarbener, glitzernder Tagebucheintrag nach einem massiven emotionalen Zusammenbruch. Geschrieben unmittelbar nach dem Ende einer schweren, langjährigen Beziehung, verbirgt "Aethermead" tiefes Elend, romantische Sehnsucht und existenzielle Verwirrung hinter einem Schutzschild aus sprudelnden, fröhlichen Pop-Rhythmen im Stil der Beatles und trippigen Harmonien. Es ist wunderbar schräg, bodenständig und sarkastisch und liefert ausgeflippte Hooks über Neppos und modernes Dating. Es ist ein süchtig machender Rausch aus purem Indie-Pop-Serotonin für die wunderschön gebrochenen Herzen.
 
-::genre::
+::genre::psych pop, alt rock, indie pop, avant pop
 
 ## Oh Hiroshima - And The Dead Tree Gives No Shelter
 
-tbd
+Eine von Kritikern gefeierte, äußerst cineastische Post-Rock-Band aus Schweden. Als einer der Eckpfeiler der europäischen Atmospheric-Szene hat die Band jahrelang daran gearbeitet, ihren gewaltigen, gitarrenlastigen Sound zu perfektionieren. Gemeinsam mit dem führenden Post-Metal-Label Pelagic Records haben sie ihre bislang umfangreichste Klangarchitektur verwirklicht. **Post-Rock**, atmosphärischer **Shoegaze** und **progressiver Indie-Rock**. Setzt eure hochwertigsten Kopfhörer auf und macht euch bereit, euch treiben zu lassen, denn dieses Album ist ein wahrer Sturm filmischer Erhabenheit. "And The Dead Tree Gives No Shelter" lehnt typische, vorhersehbare Ambient-Formeln ab und liefert stattdessen eine aufregende Achterbahnfahrt aus langsam aufkeimender Spannung und massiven, dröhnenden Gitarren-Crescendos. Die Themen schlängeln sich durch trostlose Dark-Fantasy-Landschaften und erforschen Isolation, innere Dämonen und den natürlichen Verfall. Es hüllt deine Ohren in eine wunderschöne, melancholische Klangwand, die es schafft, gleichzeitig tröstlich und apokalyptisch zu wirken.
 
-::genre::
-
-## Old Crow Medicine Show - Union Made
-
-tbd
-
-::genre::
+::genre::post rock, prog rock, shoegaze, art rock, indie rock
 
 ## Olivier Alary - Vestiges
 
-tbd
+Ein außerordentlich raffinierter, avantgardistischer Komponist und Multi-Instrumentalist aus Montréal, Québec, Kanada. Alary ist seit Jahrzehnten an der Spitze der Klangkunst tätig und bekannt dafür, akustische Instrumentierung mit digitalen Klangtexturen für das renommierte Label Line zu verbinden. Für diese Aufführung versammelte er ein riesiges, 12-köpfiges akustisches Kammerensemble, um in der historischen, stark hallenden Église Saint-Denis eine reine Live-Aufnahme zu realisieren. **Moderne Klassik**, minimalistischer **Ambient** und experimentelles akustisches Sounddesign. Das Anhören von "Vestiges" fühlt sich genau so an, als würde man um Mitternacht durch eine riesige, verlassene Steinkathedrale wandern, während geisterhafte Musiknoten in der kühlen Luft schweben. Alary verzichtet gänzlich auf elektronische Manipulationen, um klassischen Streichern, Blechbläsern und seltenen Percussion-Instrumenten Raum zu geben, ganz für sich selbst zu atmen. Das übergeordnete Thema ist eine emotionale Meditation über Verfall, Erinnerung und die Fragmente, die die Zeit hinterlassen hat. Es ist ein atemberaubend intimes, ruhiges und hypnotisches Meisterwerk, das den geistigen Ballast eines hektischen Tages vollständig beseitigen wird.
 
-::genre::
-
-## Omit All - Lights Up On The End Stage
-
-tbd
-
-::genre::
+::genre::modern classic, experimental electronica, ambient, minimal electronica
 
 ## Organic Produce - Vegetal
 
-tbd
+Organic Produce ist das experimentelle kreative Soloprojekt des Multi-Instrumentalisten, Improvisators und Leiters eines Independent-Labels Emmet Martin aus Portland, Oregon, USA. Als eine der zentralen Figuren der florierenden Underground-Improvisationsszene im pazifischen Nordwesten nutzt Martin dieses spezielle Musikprojekt, um akustische, analoge und digitale Medien als einen einzigen, lebendigen Organismus zu behandeln. Cosmic Freak **Drone**, **New Age**, freie **Improvisation** und **Ambient**-Klanglandschaften. Wenn sich dein Gehirn wie ein geöffneter Webbrowser anfühlt, in dem fünfzig verschiedene Tabs gleichzeitig geladen werden, ist "Vegetal" der unmittelbare, meditative Reset-Knopf, den du brauchst. Diese Platte entfaltet sich wie ein weitläufiger akustischer Wald, der sanfte Wellen von Holzklarinette und atmenden Flöten durch brodelnde Synthesizer-Loops und winzige Risse statisch-elektronischen Knirschens webt. Getreu seinem erdverbundenen Namen dreht sich das Thema darum, zu entschleunigen, sich auf natürliche Zyklen einzustimmen und die im Chaos verborgene Schönheit zu würdigen. Es ist eine warme, hypnotische und zutiefst friedliche Klangdecke, die dir das Gefühl gibt, vollkommen geerdet zu sein.
 
-::genre::
+::genre::ambient, drone, new age, improvisation
 
 ## overpass - Elsewhere, Always
 
-tbd
+Eine schnell aufsteigende, mit Spannung erwartete vierköpfige Indie-Rockband aus Birmingham, Großbritannien. Die Gruppe, bestehend aus Max Newbold, India Fraser, Joe Sgrizzi und Jake Robbins, hat sich über Jahre hinweg in ganz Europa einen hervorragenden Ruf erarbeitet, indem sie ausverkaufte Headliner-Tourneen absolvierte und auf großen Festivals auftrat. Für die Produktion dieses bahnbrechenden Debütalbums haben sie sich mit dem erfolgreichen Produzenten Rich Turvey und dem renommierten Toningenieur Cenzo Townshend zusammengetan. **Indie-Rock**, **Alternative-Pop** und emotionaler **Stadion-Rock**. Setzt für dieses Album eure hochwertigste Sonnenbrille auf, denn es ist eine glorreiche, sonnenverwöhnte Explosion puren Adrenalins. "Elsewhere, Always" verwöhnt die Zuhörer mit einer Non-Stop-Parade aus gewaltigen, klirrenden Gitarren-Hooks, treibenden Basslines und hochfliegenden, herzlichen Gruppen-Refrains, die darauf ausgelegt sind, von Tausenden von Menschen auf einem Musikfestival mitgeschrien zu werden. Das zugrunde liegende Thema lehnt sich wunderbar an die chaotische, nostalgische Magie der frühen Zwanziger an - es geht um Identitätswandel, plötzlichen Herzschmerz und alltägliche Wachstumsschmerzen. Es ist völlig unprätentiös, unglaublich eingängig und erfüllt einen mit einem plötzlichen Gefühl jugendlichen Optimismus.
 
-::genre::
-
-## Paluch & Chris Carson - PCC 3.0
-
-tbd
-
-::genre::
-
-## Paul Wall - Fortune & Glory
-
-tbd
-
-::genre::
-
-## PEDRABOY$ - $CHIZOSOULUTION$
-
-tbd
-
-::genre::
+::genre::indie rock, indie pop, alt pop, arena rock, hard rock
 
 ## Perfecto Miserable - Acabará Fatal
 
@@ -1422,7 +1362,7 @@ Ein donnerndes, riffverliebtes Rockquartett aus Sundsvall, Schweden. Die 2019 ge
 
 ## Together To The Stars - Iridescence *
 
-Ein äußerst melancholisches, atmosphärisches Musikprojekt aus Stockholm, Schweden. Gegründet von Hauptkomponist David Steinmarck und Sänger Franco Fuentes, hat sich die Gruppe einen einzigartigen Platz im skandinavischen Underground-Metal-Ökosystem erobert. Sie sind dafür bekannt, intensive, eisige Extreme-Metal-Grundlagen mit schimmernden, emotionalen Post-Rock-Melodien zu verbinden. **Atmosphärischer Black Metal**, **Post-Metal** und **Post-Black Metal**. "Iridescence" ist das akustische Äquivalent dazu, um Mitternacht allein auf einem Gletscher zu stehen und zu beobachten, wie die Nordlichter den Himmel bemalen. Das Album verbindet Blast-Beat-Drumming und qualvoll rohe, gespenstische Schreie mit bemerkenswert wunderschönen, schwebenden Gitarrenmelodien, die die schwere Statik durchdringen. Das Kernthema ist ein emotionaler Kampf durch innere Qualen, existenzielle Last und das Finden von Schönheit in einer trostlosen Winterlandschaft. Es ist aggressiv heavy, doch so mitreißend und filmisch, dass man sich seltsam friedlich fühlt.
+Ein äußerst melancholisches, atmosphärisches Musikprojekt aus Stockholm, Schweden. Gegründet von Hauptkomponist David Steinmarck und Sänger Franco Fuentes, hat sich die Gruppe einen einzigartigen Platz im skandinavischen Underground-Metal-Ökosystem erobert. Sie sind dafür bekannt, intensive, eisige Extreme-Metal-Grundlagen mit schimmernden, emotionalen Post-Rock-Melodien zu verbinden. **Atmosphärischer Black Metal**, **Post-Metal**, **Blackgaze** und **Post-Black Metal**. "Iridescence" ist das akustische Äquivalent dazu, um Mitternacht allein auf einem Gletscher zu stehen und zu beobachten, wie die Nordlichter den Himmel bemalen. Das Album verbindet Blast-Beat-Drumming und qualvoll rohe, gespenstische Schreie mit bemerkenswert wunderschönen, schwebenden Gitarrenmelodien, die die schwere Statik durchdringen. Das Kernthema ist ein emotionaler Kampf durch innere Qualen, existenzielle Last und das Finden von Schönheit in einer trostlosen Winterlandschaft. Es ist aggressiv heavy, doch so mitreißend und filmisch, dass man sich seltsam friedlich fühlt.
 
 ::genre::blackgaze, post black metal, post metal, atmo black metal
 
