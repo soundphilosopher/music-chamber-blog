@@ -1012,12 +1012,6 @@ tbd
 
 ::genre::
 
-## Malcolm Todd - Do That Again
-
-tbd
-
-::genre::
-
 ## Maneating Orchid - Cold Logic
 
 tbd
@@ -1090,19 +1084,7 @@ tbd
 
 ::genre::
 
-## MOSSBACK & TWENTYTHREE - PALLBEARER
-
-tbd
-
-::genre::
-
 ## moé - Geschichten die wir niemandem erzählen
-
-tbd
-
-::genre::
-
-## MR BAST4RD - Shrine For The Døgg
 
 tbd
 
@@ -1114,31 +1096,13 @@ tbd
 
 ::genre::
 
-## MXKA - Xclusiva
-
-tbd
-
-::genre::
-
 ## My Own Will - Misery
 
 tbd
 
 ::genre::
 
-## Mystic State - Threads
-
-tbd
-
-::genre::
-
 ## Nachtheem - Waan Van De Leegte
-
-tbd
-
-::genre::
-
-## nate sib - reborn
 
 tbd
 
@@ -1156,19 +1120,7 @@ tbd
 
 ::genre::
 
-## Niall Horan - Dinner Party
-
-tbd
-
-::genre::
-
 ## Nicolas Debade - Fragments of Soaring Vessels
-
-tbd
-
-::genre::
-
-## Nights Of Malice - Chaos Exordium<
 
 tbd
 
@@ -1452,351 +1404,195 @@ tbd
 
 ## Sleepbomb - Songs In The Key Of Conan
 
-tbd
+Ein äußerst einfallsreiches, multi-instrumentales Cinematic-Doom-Ensemble mit Sitz in San Francisco, Kalifornien, USA. Seit 2003 hat sich dieses Kollektiv von der Westküste darauf spezialisiert, gewaltige, mitreißende Live-Alternativsoundtracks für klassische Kult- und Genrefilme wie "Metropolis" und "Nosferatu" zu komponieren. **Drone**, **Doom Metal**, **Post-Metal**, **Ambient** und cineastische Klanglandschaften. Werft euch einen dicken Pelzmantel über und erhebt euer Breitschwert, denn dieses Album ist ein gewaltiges, 76-minütiges Barbaren-Epos. "Songs In The Key Of Conan" legt den Hollywood-Glanz ab und liefert eine wahre Flut aus langsamen, erdrückenden Drone-Riffs und ritualistischer Percussion, die wie eine Kriegstrommel dröhnt. Untermalt von ätherischen, geisterhaften Frauenstimmen und dröhnenden Bläsersätzen malt das Album riesige, öde Ebenen und rauchende Schlachtfelder. Es ist ein grandios schweres, tiefes und majestätisches Hörerlebnis, das sich unglaublich tribal und filmisch anfühlt.
 
-::genre::
+::genre::cine metal, post metal, doom metal, drone, cine ambient
 
 ## Sleeping Pulse - Dreams & Limitations
 
-tbd
+Ein äußerst melancholisches, internationales Duo, das Künstler aus Großbritannien und Portugal vereint. Durch die Verbindung der musikalischen Talente Nordenglands mit der traditionellen portugiesischen Sehnsucht (Saudade) hat das Duo im Laufe seiner Diskografie einen unglaublich bittersüßen, atmosphärischen Rock-Stil perfektioniert. Melancholischer **Progressive Rock**, **Post-Rock** und **Dark Wave**. "Dreams & Limitations" zu hören, fühlt sich genau so an, als stünde man in der Abenddämmerung auf einer nebligen Klippe an der Küste, während ein leichter Nieselregen die Sorgen wegspült. Das Album stützt sich auf eine wunderschöne, sich langsam entfaltende Struktur aus traurigen Gitarrenklängen, tickenden Percussion-Klängen und intimen, warmen Gesangspassagen, die wie tiefe Atemzüge im Raum schweben. Die Kernthemen drehen sich um persönliche Grenzen, die Last des Älterwerdens und das Finden eines winzigen, leuchtenden Hoffnungsschimmers in dunklen Momenten. Es ist elegant, tröstlich und dient als spektakuläre emotionale Flucht für einen ruhigen Abend.
 
-::genre::
+::genre::prog rock, dark wave, post rock
 
 ## SLIFT - Fantasia
 
-tbd
+Ein atemberaubendes, Grenzen sprengendes Rock-Trio aus Toulouse, Frankreich. Die Band gilt als absoluter Titan des modernen europäischen Psych-Undergrounds und hat sich weltweit einen Namen gemacht, indem sie gewaltige, weitläufige Klangodysseen komponiert, die lineare Strukturen in Frage stellen. **Space Rock**, **Psychedelic Garage Rock**, **Stoner** und **Krautrock**. Schnall dich gut an, denn Fantasia ist ein Hochgeschwindigkeitsraketenschiff, das direkt in ein Schwarzes Loch rast. Die Band verpackt fortgeschrittene technische Musikalität in eine prägnantere, druckvollere Präsentation als ihre üblichen Epen, doch das Ergebnis ist nach wie vor absolut nicht von dieser Welt. Es haut dich um mit verzerrten, dröhnenden Stoner-Gitarren, hyperaktivem Schlagzeugspiel und außerirdischen Gesangsfiltern, die sich wie Sternschnuppen winden und springen. Das Thema ist eine wilde galaktische Reise durch sorgfältig konstruiertes Chaos, was es zu einem absoluten Traum für jeden macht, der seinen Rock ’n’ Roll wunderschön hektisch klingen lassen will.
 
-::genre::
-
-## Slim - THE FINAL CALL
-
-tbd
-
-::genre::
-
-## Slippers - Slippers 08
-
-tbd
-
-::genre::
-
-## Smack One - Smack One
-
-tbd
-
-::genre::
-
-## SMIRKZYS - STRONT
-
-tbd
-
-::genre::
-
-## SNVRK - SNVRKOLEPSY
-
-tbd
-
-::genre::
+::genre::garage rock, space rock, krautrock, psych rock, stoner rock
 
 ## Sons Of Ghidorah - Raining Fire
 
-tbd
+Ein donnerndes, kraftvolles fünfköpfiges Metal-Kollektiv aus New York, USA. Die 2014 gegründete Band, deren Kernbesetzung aus Mark Giuliano, Christopher Konys und Michael Lillard besteht, hat sich kürzlich zu einer Formation mit zwei Gitarristen erweitert. Seit über einem Jahrzehnt bewegen sie sich an den Rändern der Doom-Rock-Underground-Szene und sind bekannt für ihre schwere, kosmische Energie. **Stoner Metal**, **Doom Metal**, **Heavy Rock** und **Punk**. Macht euch bereit für eine wahre Lawine klanglicher Wucht. "Raining Fire" ist eine gewaltige, fuzzgetränkte Weltraumreise, die sich anfühlt, als würde man versuchen, durch Melasse zu laufen, während um einen herum Asteroiden einschlagen. Die Band setzt donnernde Grooves, gewaltige Wände aus massiver Gitarrenverzerrung und eine raue, apokalyptische Haltung ein, die ihren schweren Sludge in galaktische Gefilde treibt. Es ist herrlich laut, wunderbar bedrohlich und der ultimative Triumph für jeden eingefleischten Riff-Verehrer.
 
-::genre::
-
-## Soul Exchange - Slow Descent
-
-tbd
-
-::genre::
+::genre::stoner metal, doom metal, heavy rock
 
 ## Space Parasites - Make Me Evil
 
-tbd
+Eine wilde, energiegeladene Heavy-Metal-Band aus Deutschland. Die Band hat sich im europäischen Metal-Underground einen Namen für ihre rohen, intensiven Live-Auftritte gemacht und wird von den messerscharfen Gitarrenattacken von Iron Daschke und Matti Massaker angetrieben, die von einer unerbittlichen Rhythmusgruppe gestützt werden. **Thrash Metal** und **Speed Metal**. Vergewissere dich, dass deine Wohnzimmermöbel fest am Boden verankert sind, bevor du die Nadel auf diese Platte setzt. "Make Me Evil" stürzt dich direkt in einen blutigen Horrorfilm voller aggressiver, halsbrecherischer Riffs und Double-Bass-Drumming, das dir keinen Atemzug lässt. Der Gesang der Frontfrau schwebt wie ein furchterregender, gnadenloser Fluch über dem Chaos und webt dunkle Parabeln über Wahnsinn, Rache und inneren Verfall. Es ist ein Old-School-Headbanger-Paradies, vollgepackt mit genug rasender Energie, um eine kleine Stadt mit Strom zu versorgen.
 
-::genre::
+::genre::thrash metal, speed metal
 
-## Sparklmami - in this body
+## Steven Bernstein - ResoNation Trip / Ultra Resonance
 
-tbd
+Steven Bernstein ist ein hochgelobter, visionärer Trompeter, Komponist und Arrangeur, der seit Jahrzehnten eine feste Größe in der Downtown-Jazzszene von New York City ist. Bekannt als Leiter der wilden Avantgarde-Jazz-Band *Sex Mob* und als Kollaborateur mit Legenden wie den *Lounge Lizards*, tat sich Bernstein für die Trio-Stücke mit den Meisterimprovisatoren Scott Colley (Bass) und Nasheet Waits (Schlagzeug) zusammen und übergab die Aufnahmen anschließend dem legendären Produzenten und Instrumentalisten Scotty Hard. **Avantgarde-Jazz**, akustischer **Folk-Jazz**, harmolodische Abstraktion, **Trip-Hop** und **Acid Jazz**. Diese Veröffentlichung wirkt wie ein verrückter Wissenschaftler, der eine makellose, wunderschön gespielte akustische Jazz-Session nimmt, sie in einen Mixer mit einer Zeitmaschine wirft und die Teile ins Jahr 3000 schickt. Die erste Hälfte verwöhnt dich mit sanftem, melancholischem Zusammenspiel von Trompete und Schlagzeug, das sich anfühlt, als säße man auf einer Veranda und würde Geistergeschichten erzählen. Plötzlich schlägt die zweite Hälfte ein wie ein neonfarbener Acid-Trip und verwandelt genau dieselben Klänge in glitchige, tiefe Trip-Hop-Klanglandschaften. Es ist eine umwerfende, zweiseitige Meisterklasse darüber, wie man traditionelle Musikalität komplett zerlegt und neu aufbaut.
 
-::genre::
-
-## SPIRIT LINK - The Sky Dimension
-
-tbd
-
-::genre::
-
-## Steven Bernstein - ResoNation Trio/Ultra Resonance
-
-tbd
-
-::genre::
+::genre::trip hop, avant jazz, acid jazz
 
 ## Stranded By Choice - Marooned In Stone
 
-tbd
+Eine donnernde, kraftvolle vierköpfige Rockband aus Billings, Montana, USA. Gegründet von Rich Feeley, Sean Young, Adam Rutt und Stefan Flores, hat sich die Gruppe über Jahre hinweg ein starkes Grassroots-Imperium im amerikanischen Nordwesten aufgebaut. "Marooned In Stone" markiert stolz ihr wegweisendes fünftes Independent-Album in voller Länge. **Stoner Rock**, **Hard Rock** und lauter **Garage Rock'n'Roll**. Schnürt eure Stiefel fest und haltet euch gut fest, denn dieses Album ist eine massive, Betonmauern erschütternde Wand aus purer Gitarrenkraft. Marooned In Stone verzichtet auf moderne kommerzielle Pop-Tricks und setzt stattdessen auf rasante, verzerrte Riffs, dröhnende Drums und raue, kehlige Vocals, die euch direkt in die Brust treffen. Die Tracks erzählen rohe, epische Parabeln über das Überleben der Arbeiterklasse, raue Landschaften und Old-School-Rock-Unabhängigkeit. Es ist laut, wunderbar wild und der ultimative Soundtrack zum Headbangen in deinem Schlafzimmer.
 
-::genre::
-
-## Sweatson Klank - Super Stuff
-
-tbd
-
-::genre::
+::genre::stoner rock, garage rock, hard rock
 
 ## Sylvain Chauveau - The Complexity of the Simple
 
-tbd
+Ein hochkomplexer, avantgardistischer Komponist und Minimalismus-Musiker aus Frankreich, der stark von seinen ausgedehnten Reisen nach Kyoto, Japan, inspiriert ist. Chauveau ist seit Ende der 1990er Jahre aktiv und wird für seinen hyperminimalistischen Umgang mit akustischen Instrumenten gefeiert. Dieses besondere Werk entstand über einen Zeitraum von zehn Jahren (2016–2025) in akribischer Arbeit, nachdem eine Begegnung mit einem stillen Zen-Garten sein Leben grundlegend verändert hatte. **Moderne Klassik**, **Ambient-Minimalismus** und akustischer **Drone**. Wenn Sie wissen möchten, wie sich ultimative Stille anhört, ist diese Platte Ihr privater Rückzugsort. "The Complexity of the Simple" verwendet unverstärkte, wunderschön spärliche Akustikklavierklänge und langgezogene Streichertöne, die wie leise, tiefe Atemzüge in der Luft schweben. Das zugrunde liegende Thema ist eine tiefgründige Aussage zur ökologischen Nachhaltigkeit, die darauf ausgelegt ist, ohne aufwendige Infrastruktur oder elektronische Manipulation zu bestehen. Es ist hypnotisierend, zutiefst kontemplativ und zwingt Sie dazu, sich auf die Räume zwischen den Noten zu konzentrieren.
 
-::genre::
+::genre::modern classic, ambient, drone
 
-## TAFF & Toro - TNT
+## Tara Clerkin Trio - Somewhere Good *
 
-tbd
+Ein äußerst einfallsreiches Avant-Pop-Ensemble aus Bristol, Großbritannien. Das Trio, das 2020 aus den Überresten einer größeren Folk-Pop-Band hervorging, besteht aus Tara Clerkin, ihrem Partner Sunny-Joe Paradiso und dessen Stiefbruder Patrick Benjamin. Sie haben sich einen hervorragenden Ruf dafür erarbeitet, die klassische Bristol-Trip-Hop-Tradition mit abstraktem, jazzigem Minimalismus zu verbinden. **Chamber Jazz**, **Lo-Fi-Elektronica**, **experimenteller Pop** und **Downtempo**. "Somewhere Good" zu hören, fühlt sich an, als würde man durch eine ruhige, sonnendurchflutete Bibliothek schlendern, in deren Keller jemand eine Jazzplatte laufen lässt. Das Album besticht durch wunderschöne, rauchige Holzbläser, träge Klavierakkorde und leicht fragmentierte elektronische Glitches, die wie Staubkörner in der Luft schweben. Das übergeordnete Thema ist eine beruhigende, verträumte Meditation darüber, Frieden in kleinen, alltäglichen Räumen zu finden. Es ist wunderbar locker und abstrakt und damit der ultimative akustische Balsam für einen gemächlichen Sonntagnachmittag.
 
-::genre::
-
-## Tara Clerkin Trio - Somewhere Good
-
-tbd
-
-::genre::
+::genre::trip hop, chamber jazz, lofi, experimental electronica, avant pop
 
 ## Tarfödd - Skyfall
 
-tbd
+Eine äußerst atmosphärische Underground-Extreme-Metal-Band aus Schweden. Entstanden aus der dichten, kompromisslosen schwedischen Black-Metal-Szene, setzt Tarfödd stark auf epische, vielschichtige Songstrukturen und düstere Gesangsdynamik, um dichte, erdrückende Klangwände zu erzeugen. **Atmosphärischer Black Metal**, **melodischer Black Metal** und **Depressive Rock**. Zieh deine robusteste Rüstung an und behalte den Horizont im Auge, denn dieses Album ist ein dunkler, gewaltiger Sturm von düsterer, filmischer Erhabenheit. "Skyfall" bietet ausufernde, neunminütige Epen, die sich mit eisiger, majestätischer Wucht entfalten und rasend schnelle Tremolo-Gitarrenläufe und unerbittliches Schlagzeugspiel mit eindringlich rohen, gespenstischen Gesangsschreien vermischen. Die apokalyptischen Texte spinnen dunkle Parabeln über den Untergang der Umwelt, zusammenbrechende Imperien und uraltes Chaos, das vom Himmel herabregnet. Es ist brutal heavy, düster-schön und perfekt für Extreme-Metal-Puristen, die tiefe, düstere Atmosphären suchen.
 
-::genre::
-
-## Teiku - Klang
-
-tbd
-
-::genre::
-
-## Terry Waldo & The Gotham City Band - Treasury Volume 3
-
-tbd
-
-::genre::
-
-## That Kid - So Famous
-
-tbd
-
-::genre::
-
-## The 69 Eyes - I Survive
-
-tbd
-
-::genre::
-
-## The Aggrolites - Super Atomic
-
-tbd
-
-::genre::
-
-## The Carter Sisters - Voice from the Ridge: The Final Sessions
-
-tbd
-
-::genre::
+::genre::dsbm, atmo black metal, melo black metal
 
 ## The Creem - A Taste of Cherry
 
-tbd
+Ein herausragendes Indie-Superduo, bestehend aus dem Sänger Nick Thorburn (Frontmann von Islands und The Unicorns) und dem Multi-Instrumentalisten Mike Stroud (eine Hälfte der Electronic-Rock-Band Ratatat) mit Sitz in den Vereinigten Staaten. Obwohl sich die beiden Freunde bereits 2004 kennengelernt hatten, passten ihre Terminkalender nie zusammen, bis ein zufälliges Treffen in Los Angeles im Jahr 2019 den Anstoß zu einer lockeren, mehrjährigen gemeinsamen Aufnahmesession gab. Das Projekt verbindet auf brillante Weise Strouds charakteristische, herzzerreißende Gitarrenakrobatik mit Thorburns witziger, erschütternd persönlicher Lyrik. **Glam-Pop**, 1970er-Jahre-**Art-Rock**, **Indie-Pop** und **Psychedelic-Pop**. Zieh deine hochhackigsten Plateaustiefel an, denn dieses Album ist ein glitzernder Technicolor-Traum im Breitbildformat. "A Taste of Cherry" umgeht gängige moderne Indie-Trends und entscheidet sich stattdessen für einen üppigen, an die Mitte der 1790er Jahre erinnernden Vaseline-Schleier auf der Linse. Stroud füllt die Produktion mit glänzenden Vocodern, schwebenden Harmonien und Celli, während Thorburns trockener Humor die Songs wunderschön verankert. Die Themen gleiten durch nostalgische Sommererinnerungen, Identitätsfragen und romantische Tagträume. Es klingt wie ein unglaublich unterhaltsamer, sonnenverwöhnter Jukebox-Klassiker, den man die ganze Woche lang auf Repeat laufen lassen möchte.
 
-::genre::
+::genre::alt pop, prog pop, psych pop, indie pop, art rock, indie rock
 
-## The Dharma Chain - Some Kind Of Pure State
+## The Dharma Chain - Some Kind Of Pure State *
 
-tbd
+Ein Grenzen sprengendes, unabhängiges Rockkollektiv, das ursprünglich aus Byron Bay, Australien, stammt und derzeit von Berlin aus tätig ist. Bekannt für ihre düstere, atmosphärische Live-Präsenz, hat die Band ihren Sound entscheidend weiterentwickelt, indem sie sich von ihren alten DIY-Aufnahmetechniken verabschiedete. Sie buchten Studiozeit bei Stare Crazy - einem Studio im historischen Rundfunkkomplex der DDR - und holten den klassischen Pianisten Jonathan Dreyfus als externen Produzenten hinzu, um ihr Songwriting zu verfeinern. **Neo-Psychedelia**, **Krautrock**, **Shoegaze** und **Post-Punk**. Dieses Album fühlt sich genau so an, als würde man um 4:00 Uhr morgens durch einen nebligen Underground-Nachtclub in Berlin schlendern. "Some Kind Of Pure State" hüllt einen in hypnotische, mechanische Motorik-Drum-Beats und ein dichtes Meer aus wirbelndem, spacigem Gitarrenhall. Der zweistimmige Gesang schwankt zwischen trippigen, distanzierten Flüstern und luftigen, ätherischen Melodien, die Themen wie nächtliche Sucht, Romantik und politische Unruhe einfangen. Es ist ein brillant spannungsgeladenes, psychedelisches Kaninchenloch, das danach verlangt, in stockfinsterer Nacht angehört zu werden.
 
-::genre::
+::genre::krautrock, neo psych rock, shoegaze, space rock
 
-## The Dredge - Down The Beach
+## The Dredge - Down The Beach *
 
-tbd
+Eine kraftvolle Progressive-Rock- und Alternative-Metal-Band aus Bergen, Norwegen. Als eingespieltes musikalisches Kollektiv in der florierenden norwegischen Rock-Szene nahm die Band dieses Album im berühmten Solslottet Studio zusammen mit dem renommierten Co-Produzenten Iver Sandøy (bekannt für seine umfangreiche Zusammenarbeit mit Enslaved) auf. **Progressive Metal**, **Alternative Rock**, **Post Punk** und **Art Rock**. Lass dich nicht vom entspannten Titel täuschen; "Down The Beach" ist eine gewaltige, vernichtende Welle cineastischer Verzerrung. Das Album stützt sich auf komplexe, synkopierte Taktarten und gewaltige Gitarrenwände, die mit der Wucht einer Meeresflut einschlagen. Doch direkt unter der schweren Oberfläche fügt die Band unglaublich klare, schwebende melodische Vocals und atmosphärische Keyboards ein, die einen über Wasser halten. Es spielt sich wie eine stimmungsvolle, spannende Seereise ab und ist damit der perfekte Hörgenuss für Metalheads, die neben ihren schweren Riffs auch tiefgehende Musikalität suchen.
 
-::genre::
+::genre::prog metal, jazz fusion, alt rock, post punk, art rock
 
 ## The Dwarves - JENKEM
 
-tbd
+Eine berüchtigte, seit langem bestehende Garage-Punk-Institution, die ursprünglich aus Chicago, Illinois, USA, stammt. Die Mitte der 1980er Jahre gegründete Band schuf ein äußerst chaotisches Shock-Rock-Erbe, das durch kurze, hyperaggressive Live-Sets und kontroverse Bildsprache geprägt ist. Angeführt vom geheimnisvollen Frontmann Blag Dahlia haben sie vier Jahrzehnte lang völlig unbeeindruckt von politischer Korrektheit oder den Regeln der Mainstream-Musikindustrie verbracht. **Hardcore-Punk**, **Noise-Rock**, **Punk-Rock** und **Garage-Surf**. Schnürt eure Turnschuhe fest und macht euch bereit für Höchstgeschwindigkeit, denn "JENKEM" ist ein 15-minütiger Non-Stop-Schuss puren musikalischen Adrenalins. Die Band orientiert sich explizit an dem rasanten, rohen, bremsenlosen Klangangriff ihrer legendären Ära der frühen 90er Jahre. Das Album ist vollgepackt mit kreischenden Gitarrentönen, rasendem Schlagzeugspiel und frechem, satirischem Gesang, der sich über so ziemlich alles unter der Sonne lustig macht. Es ist wunderbar provokativ, völlig außer Kontrolle und perfekt, um dein Wohnzimmer in einen wilden Ein-Personen-Moshpit zu verwandeln.
 
-::genre::
-
-## The Huntress and Holder of Hands - Babylon
-
-tbd
-
-::genre::
-
-## The Red Clay Strays - Grateful
-
-tbd
-
-::genre::
+::genre::hardcore punk, noise rock, post hardcore, garage punk, surf punk
 
 ## Thomas Bangalter - Mirage
 
-tbd
+Thomas Bangalter ist ein weltberühmter, wegweisender Elektronikproduzent, Komponist und Klangkünstler mit Wohnsitz in Paris, Frankreich. Weltweit bekannt und verehrt als eine Hälfte des legendären, mehrfach mit Platin ausgezeichneten Elektronik-Duos Daft Punk, hat Bangalter seine Zeit nach der Roboter-Ära damit verbracht, radikal experimentelle avantgardistische Wege zu beschreiten. "Mirage" wurde speziell als maßgeschneiderte elektronische Partitur für ein zeitgenössisches Ballett mit 16 Tänzern komponiert, das vom Choreografen Damien Jalet und dem Künstler Kōhei Nawa konzipiert wurde. **Elektronischer Minimalismus**, **Avantgarde-Ambient**, experimentelles Sounddesign und dekonstruierte Percussion. Wenn Sie Roboterhelme und clubtaugliche Pop-Hymnen erwarten, machen Sie sich darauf gefasst, dass Ihre Vorstellungskraft völlig auf den Kopf gestellt wird. "Mirage" ist ein weitläufiger, hypnotischer und skulpturaler Ozean minimalistischer elektronischer Kunst, der klingt, als wäre er in einer Echokammer auf dem Mars aufgenommen worden. Bangalter ignoriert traditionelle Pop-Beats und setzt stattdessen auf komplexe, tickende Percussion-Loops, unheimliche Synthesizer-Drones und elementare Klangtexturen, die sich wie heißer Wüstensand verschieben. Es spielt sich wie ein surreales, schwebendes Ritual ab, das zutiefst experimentell und doch vollkommen zugänglich ist, wenn man das Licht dimmt und sein Gehirn in den Mainframe treiben lässt.
 
-::genre::
+::genre::ambient, avant electronica, minimal electronica
 
 ## Thorium - Suburban Rot
 
-tbd
+Eine seit langem etablierte, brutale Extreme-Metal-Institution aus Dänemark. Die erfahrene fünfköpfige Band, die auf unglaubliche 30 Jahre zurückblicken kann, in denen sie die Underground-Metal-Szene terrorisiert hat, hat drei Jahrzehnte damit verbracht, einen kompromisslosen Sound zu verfeinern, der vorübergehende Trends ignoriert und sich ganz auf klassische Brutalität konzentriert. **Old-School-Death-Metal**, traditioneller skandinavischer **Death-Metal** und **Groove-Metal**. Willkommen zu einem herrlich grotesken Horrorfilm, der exklusiv für eure Trommelfelle konzipiert wurde. "Suburban Rot" verzichtet gänzlich auf moderne Produktionsglättung und stürzt euch direkt in einen Sumpf aus klassischen, kreissägenartigen Gitarrenriffs und höhlenartigen, monsterhaften Kehlkopfbrüllen. Der thematische Fokus schlägt für die Band eine viel dunklere, unglaublich persönliche Note an und verbindet rohe, authentische Underground-Wut mit unerbittlicher, zum Headbangen verleitender Groove-Dynamik. Es ist brutaler, gnadenloser Old-School-Death-Metal, der beweist, dass diese dänischen Veteranen noch immer jede Menge Gift in ihren Reißzähnen haben.
 
-::genre::
+::genre::osdm, death metal, groove metal
 
 ## Tidal Wave - Volume Tree
 
-tbd
+Ein donnerndes, riffverliebtes Rockquartett aus Sundsvall, Schweden. Die 2019 gegründete Band (bestehend aus Jesper Sjödin, Adam Nordin, Rasmus Sundberg und dem kraftvollen Sänger Alexander Sundqvist) hat sich mit hochgelobten, fuzzgetränkten Alben wie "Blueberry Muffin" und "The Lord Knows" eine treue internationale Fangemeinde aufgebaut. **Stoner Rock**, **Desert Rock**, **Grunge** und klassischer **Heavy Metal**. Vergewissert euch, dass eure Hausfundamente solide sind, bevor ihr die Lautstärke aufdreht, denn "Volume Tree" tritt die Tür mit absoluter, betonzerbrechender Wucht ein. Das Album ist eine gewaltige, sonnenverbrannte Fahrt über die Wüstenautobahn, angetrieben von der Grunge-Attitüde des Seattle der 1990er Jahre und der absoluten Verehrung der Black-Sabbath-Gitarren. Sundqvists atemberaubender, hochfliegender Gesang beherrscht mühelos das Chaos über einem Berg aus dröhnenden, verzerrten Gitarrenriffs. Mit Themen, die von Geschichten persönlicher Erlösung bis hin zu dunklen, progressiven musikalischen Reisen reichen, fühlt es sich schwer, druckvoll und wunderbar wild an.
 
-::genre::
+::genre::stoner rock, desert rock, post grunge, alt rock
 
-## Together To The Stars - Iridescence
+## Together To The Stars - Iridescence *
 
-tbd
+Ein äußerst melancholisches, atmosphärisches Musikprojekt aus Stockholm, Schweden. Gegründet von Hauptkomponist David Steinmarck und Sänger Franco Fuentes, hat sich die Gruppe einen einzigartigen Platz im skandinavischen Underground-Metal-Ökosystem erobert. Sie sind dafür bekannt, intensive, eisige Extreme-Metal-Grundlagen mit schimmernden, emotionalen Post-Rock-Melodien zu verbinden. **Atmosphärischer Black Metal**, **Post-Metal** und **Post-Black Metal**. "Iridescence" ist das akustische Äquivalent dazu, um Mitternacht allein auf einem Gletscher zu stehen und zu beobachten, wie die Nordlichter den Himmel bemalen. Das Album verbindet Blast-Beat-Drumming und qualvoll rohe, gespenstische Schreie mit bemerkenswert wunderschönen, schwebenden Gitarrenmelodien, die die schwere Statik durchdringen. Das Kernthema ist ein emotionaler Kampf durch innere Qualen, existenzielle Last und das Finden von Schönheit in einer trostlosen Winterlandschaft. Es ist aggressiv heavy, doch so mitreißend und filmisch, dass man sich seltsam friedlich fühlt.
 
-::genre::
-
-## Trippie Redd - NDA
-
-tbd
-
-::genre::
+::genre::blackgaze, post black metal, post metal, atmo black metal
 
 ## Urkraft - Naturens Skrik
 
-tbd
+Ein düsteres, mythologisches Underground-Musikprojekt, das vollständig als Ein-Mann-Projekt in Norwegen ins Leben gerufen wurde. Tief verwurzelt in den rauen, kühlen Traditionen der legendären norwegischen Black-Metal-Szene betrachtet Urkraft Musik als spirituelles Medium und nutzt ausladende Kompositionen und natürliche Klangtexturen, um dichte, düstere Klanglandschaften zu erschaffen. **Atmosphärischer Black Metal**, Old-School-**Black-Metal** und **Folk-Metal**. Zieh dir einen dicken Wintermantel über und mach dich bereit, in die gefrorene skandinavische Wildnis zu wandern, denn "Naturens Skrik" (was übersetzt "Der Schrei der Natur" bedeutet) ist eine gewaltige, einstündige Saga. Das Album bewegt sich mit einer furchteinflößenden, eisigen Erhabenheit und verbindet rasante Tremolo-Gitarrenläufe und raue, geisterhafte Gesangsschreie mit uralten, weitläufigen Folk-Dynamiken. Das übergeordnete Thema vermittelt das Gefühl, als würde sich die Erde selbst erheben, um die moderne Welt zurückzuerobern. Es ist unglaublich schwer, düster-schön und perfekt für die kalte Extreme-Metal-Seele.
 
-::genre::
+::genre::atmo black metal, folk metal
 
 ## Vansire - Taking Solace
 
-tbd
+Das brillante Bedroom-Pop-Kreativduo Josh Augustin und Samuel Winemiller aus Minnesota, USA. Seit ihrer Studienzeit aktiv, hat sich Vansire eine riesige weltweite Fangemeinde von Millionen von Menschen aufgebaut, indem sie einen nostalgischen, sanft-verträumten und äußerst literarischen Ambient-Pop-Stil perfektioniert haben. Sie sind bekannt für ihren geschmeidigen, kollaborativen Stil, der einzigartige Underground-Hip-Hop- und Indie-Künstler mit einbezieht. **Dream Pop**, **Indie Rock**, **Chillwave** und Sentimental Pop. "Taking Solace" ist das akustische Äquivalent dazu, während einer warmen Sommersonnenwende in der Abenddämmerung auf einer Veranda zu sitzen und zu beobachten, wie die Sterne am Himmel aufblitzen. Das Album besticht durch helle, schimmernde Gitarren, geschmeidige Funk-Basslinien und verträumte, lässige Gesangslinien, die mühelos dahinfließen. Als positiver, politischer Trost gegen eine harte Gesellschaft konzipiert, dreht sich das Thema ganz um das Streben nach Liebe und menschlichem Trost. Es ist ein wunderschönes, entspanntes Album, das sofort den Blutdruck senkt und dazu verleitet, in Tagträume abzudriften.
 
-::genre::
+::genre::alt pop, dreampop, indie pop, indie rock, synthwave
 
 ## Veins - A New Forever
 
-tbd
+Ein äußerst filmisches, mitreißendes Rock-Trio aus Corby, Northamptonshire, England. Das Trio, bestehend aus Stevie Rees, Scott Warner und Dan Appleyard, erlangte schon früh landesweite Bekanntheit bei BBC Radio 1. Sie verbrachten Jahre damit, ihre beeindruckende Live-Präsenz zu verfeinern, indem sie gemeinsam mit Underground-Größen wie Holding Absence auf der Bühne standen. **Alternative Rock**, **Post-Rock**, **Modern Metal** und atmosphärischer Widescreen-Rock. Setzt für dieses Album eure hochwertigsten Kopfhörer auf, denn es ist ein absolutes Meisterwerk purer Atmosphäre. "A New Forever" hüllt euch in dunkle, langsam aufbauende Synth-Texturen, bevor es mit gewaltigen, hymnischen Gitarren-Crescendos das Dach sprengt. Das Album setzt sich mit schweren Themen wie Depressionen und dunklen inneren Kämpfen auseinander und lässt dabei meisterhaft ein blendendes Gefühl von Hoffnung und Widerstandskraft durch die Ritzen schimmern. Es entfaltet sich wie der epische, emotionale Soundtrack zu einem wunderschönen Indie-Film.
 
-::genre::
-
-## Vika And Linda - Where Do You Come From?
-
-tbd
-
-::genre::
-
-## Vince Staples - Cry Baby
-
-tbd
-
-::genre::
+::genre::alt rock, post rock, cine rock, modern metal
 
 ## Vithial - Awakened Ancient Spirits
 
-tbd
+Ein düsteres, mythologisches Extreme-Metal-Soloprojekt, das vollständig vom Musiker David Dwayne in Pensacola, Florida, USA, ins Leben gerufen und umgesetzt wurde. Entstanden aus experimentellen Bandbesetzungen Ende 2023, übernahm Dwayne die alleinige Kontrolle über das Projekt, um eine einzigartige, hyperfokussierte kreative Vision zu verwirklichen, die die klassischen Wurzeln des europäischen Extreme Metal ehrt. **Melodischer Black Metal**, Second-Wave-**Black-Metal** der 1990er Jahre und **Death/Thrash**-Elemente. Hüllt euch in einen schwarzen Umhang, denn "Awakened Ancient Spirits" ist eine glorreiche, frostige Reise durch dunkle Fantasie und kosmische Folklore. Das Album beginnt mit einem unheimlichen, dungeonartigen Synth-Ambient-Nebel, bevor es in einen Sturm aus eisigen Gitarrenmelodien, thrashigen Galopprhythmen und einem rauen, theatralischen Knurren übergeht, das klingt, als würde ein Geist von den Dachsparren herabfluchen. Die Themen tauchen ein in Naturkatastrophen, alte Götter, die die Erde zurückerobern, und okkulte Geschichte. Es ist wunderschön theatralisch, wunderbar aggressiv und trägt eine herrlich kühle Atmosphäre in sich.
 
-::genre::
+::genre::melo black metal, blackened thrash metal
 
-## Vladimir Redzic - First Time Around
+## Vølus - Grim Dark Execution
 
-tbd
+Ein gnadenloses, äußerst einfallsreiches Ein-Mann-Extreme-Metal-Projekt, das vom Multi-Instrumentalisten Justin Vølus in den Vereinigten Staaten ins Leben gerufen wurde. Seit 2018 arbeitet Vølus in rasendem Tempo und hat sich im Extreme-Underground einen legendären Ruf für die Schaffung dichter, höhlenartiger und furchteinflößender Wände aus dissonanten Klängen erarbeitet. **Dissonanter Death Metal**, **Blackened Death Metal** und technischer **Old-School-Death-Metal**. Dieses Album fühlt sich an, als wäre man in einem Science-Fiction-Horrorfilm gefangen, in dem außerirdische Dämonen eine nukleare Ödnis erobert haben. "Grim Dark Execution" ist eine absolute akustische Dampfwalze, die höhlenartige, monsterhafte Kehlkopfgesänge mit chaotischen, schwindelerregenden Gitarrenklängen verbindet, die klingen, als wären sie von einem abtrünnigen Supercomputer berechnet worden. Die Themen bewegen sich durch Lovecraftsche postapokalyptische Albträume und spekulative Evolution. Es ist brutal heavy, unverschämt hässlich und das absolute Paradies für Fans von erstklassigem, furchterregendem Death Metal.
 
-::genre::
-
-## Voivod - Symphonique
-
-tbd
-
-::genre::
-
-## Volus - Grim Dark Execution
-
-tbd
-
-::genre::
+::genre::osdm, dissonant death metal, blackened death metal
 
 ## W.M.D. - Against All Warnings
 
-tbd
+Ein rasantes, temporeiches Thrash-Quartett aus Vancouver, British Columbia, Kanada. W.M.D., kurz für "When Minds Develop", wurde ursprünglich 2014 gegründet. Nachdem die Band 2018 mit ihrem Album "Lethal Revenge" in der kanadischen Underground-Szene für Aufsehen gesorgt hatte, legte sie eine achtjährigen Pause bei größeren Veröffentlichungen ein, um ihren aggressiven, rhythmisch komplexen Songwriting-Stil weiter zu verfeinern. **Thrash Metal**, **Speed Metal** und **Crossover**. Bitte stellt sicher, dass eure Wohnzimmermöbel festgeschraubt sind, bevor ihr auf "Play" drückt, denn "Against All Warnings" wird sofort einen Ein-Personen-Moshpit auslösen. Die Band verbindet die massive Gitarrenwucht der Bay Area der 1980er Jahre mit einem gewaltigen, modernen Schlagkraft. Sie weigert sich, nur eine hirnlose Speed-Maschine zu sein, und liefert fantastische Drum-Solo-Momente sowie groovige Tempowechsel, die unglaublich befriedigend wirken. Es ist Headbanging-Perfektion für alle, die die rohe Geschwindigkeit des klassischen Thrash Metal vermissen.
 
-::genre::
+::genre::thrash metal, speed metal, crossover
 
 ## Wallis Bird - I Can See Your House From Here
 
-tbd
+Eine außergewöhnlich talentierte, ausdrucksstarke Singer-Songwriterin, geboren in der Grafschaft Wexford, Irland, und derzeit in Berlin, Deutschland, ansässig. Seit zwei Jahrzehnten im Geschäft, hat sich Bird einen hervorragenden internationalen Ruf für ihre feurigen, emotional explosiven Live-Auftritte und ihren cleveren Spielstil auf der Gitarre als Linkshänderin erarbeitet. Dieses Projekt markiert ihren weiteren Weg als selbstproduzierte Künstlerin, die die vollständige kreative Kontrolle innehat. **Indie-Folk**, **Avant-Pop**, **Akustik-Rock** und zeitgenössische Singer-Songwriterin. Wenn du in unserer rasanten digitalen Welt mal die Pause-Taste drücken musst, ist "I Can See Your House From Here" die perfekte akustische Hängematte. Wallis Bird behandelt tiefgründige, schwere Themen wie Trauer, gesellschaftliche Wut und innere Heilung, verpackt diese jedoch in üppige, behagliche Akustikarrangements und wunderschöne Gesangsharmonien, die einen sofort beruhigen. Es fühlt sich an, als säße man mit einem warmen Getränk in einem ruhigen Sommergarten und atme tief aus - ohne zu merken, dass man den Atem angehalten hatte. Es ist intimer, wunderschöner und therapeutischer Pop-Folk für den unruhigen Geist.
 
-::genre::
-
-## Wax & DJ Hoppa - Highway Hotel
-
-tbd
-
-::genre::
+::genre::avant pop, indie pop, indie folk, folk rock
 
 ## Wedding Songs - Sensitive Skin
 
-tbd
+Ein düsteres Underground-Cowboy-Punk-Duo aus dem deutschen Rheinland. Das Duo, das in der aktiven deutschen DIY-Post-Punk-Szene aktiv ist, sorgte mit seinem 2022 erschienenen Album "Hard To Find" für Aufsehen. Bekannt für ihre kargen, atmosphärischen Live-Auftritte, nahmen sie dieses Folgeprojekt im Tonstudio 45 auf, mit Gastauftritten von Underground-Ikonen wie Hendrik Otremba. **Goth Country**, Western **Post-Punk**, **Darkwave** und **Dub**. Dieses Album fühlt sich genau so an, als würde man mitten im kalten europäischen Winter durch eine verlassene Geisterstadt wandern. "Sensitive Skin" verbindet bedrohliche, treibende Post-Punk-Basslinien mit hallenden Surf-Gitarren, die klingen, als würden sie aus einem fernen Canyon herabtönen. Das Thema ist unglaublich düster, stimmungsvoll und theatralisch, gelegentlich mit experimentellen Dub-Echos und unerwarteten Saxophon-Einlagen, die einen völlig unvorbereitet treffen. Es ist ein brillanter Soundtrack aus Schatten und Staub für deinen inneren Goth-Cowboy.
 
-::genre::
+::genre::goth rock, alt folk, country rock, dark wave, dub, post punk
 
 ## Wes Parker - Super Rare
 
-tbd
+Ein unabhängiger Multi-Instrumentalist und Singer-Songwriter, der ursprünglich aus Richmond, Virginia, USA, stammt. Parker war zuvor jahrelang ein prominentes Mitglied der beliebten Indie-Rock-Band *Camp Howard* aus Virginia, bevor sich die Gruppe *2021* einvernehmlich auflöste. In den folgenden Jahren sammelte er still und leise persönliche Momentaufnahmen und Charaktergeschichten, um sich als Solokünstler neu zu orientieren. **Indie-Rock**, **Art-Rock**, **Americana** und **Alternative Folk**. "Super Rare" wirkt wie ein wunderbar exzentrisches Sammelalbum mit Kurzgeschichten, die auf einer Reise quer durch das Land gesammelt wurden. Auf beeindruckenden 20 Tracks verwöhnt Parker die Zuhörer mit einer Galerie farbenfroher Charaktere und personifizierter Emotionen, die mühelos von akustischen Folk-Parabeln zu schwebenden, komplexen Art-Rock-Instrumentierungen übergehen. Seine Darbietung strahlt eine wunderschöne, entspannte Zen-Energie aus, die einem das Gefühl gibt, vollkommen im Reinen mit der chaotischen, unvorhersehbaren Natur des Menschseins zu sein. Es ist ein reichhaltiges, weitläufiges Hörerlebnis, das sich auch bei wiederholtem Hören lohnt.
 
-::genre::
-
-## WHO SHOT SCOTT - HAIRY
-
-tbd
-
-::genre::
+::genre::alt folk, indie rock, art rock, americana
 
 ## Widowspeak - Roses
 
-tbd
+Das in Brooklyn, New York, gegründete Singer-Songwriter-Duo Molly Hamilton und Robert Earl Thomas stammt ursprünglich aus Tacoma, Washington, USA. Widowspeak hat sechzehn Jahre damit verbracht, still und leise eine unverwechselbare Mischung aus verzerrtem, nostalgischem und gitarrenlastigem Indie-Pop zu perfektionieren. "Roses" ist ihr beeindruckendes siebtes Studioalbum in voller Länge und knüpft an ein äußerst beständiges Werk an, zu dem gefeierte LPs wie "Plum" und "The Jacket" gehören. **Dream Pop**, **Indie Rock**, **Slowcore** und **Neo-Psychedelia**. Dieses Album fühlt sich genau so an, als würde man aus einem regennassen Fenster starren und dabei einen Super-8-Film von einem alten Sommerurlaub ansehen. "Roses" greift die winzigen, alltäglichen Details eines ganz normalen Tages auf - wie das Einschenken von Wassergläsern bei der Arbeit im Restaurant oder eine Erkältung am freien Nachmittag - und hüllt sie in Schichten aus warmem, vernebelten Gitarrenhall und sanften, samtigen Vocals. Es ist romantisch, aber tief im realen Leben verwurzelt und bietet eine tröstliche Klangdecke, die gewöhnliche Alltagsroutinen in filmische Kunstwerke verwandelt.
 
-::genre::
-
-## WKDAIZ - ONSRA
-
-tbd
-
-::genre::
+::genre::indie rock, indie pop, dreampop, slowcore, neo psych rock
 
 ## Women In Peril - Don’t Lose Heart
 
-tbd
+Ein Underground-Indie-Alternative-Projekt aus den Vereinigten Staaten. Women In Peril hat sich still und leise eine treue Online-Fangemeinde aufgebaut, indem sie hochgradig authentische, nostalgische und rohe Indie-Gitarrenalben herausbringt, bei denen emotionale Direktheit Vorrang vor auffälligen, hochbudgetierten kommerziellen Produktionen hat. **Indie-Rock**, **Post-Punk**, **Bedroom Pop** und **Lo-Fi-Noise-Rock**. Dieses Album ist ein absolutes Juwel für alle, die ihren Indie-Rock gerne wie eine warme, kuschelige Decke mit ein paar losen Fäden mögen. "Don't Lose Heart" liefert eine wunderbar nostalgische Mischung aus klirrenden Gitarren, treibenden Basslinien und leicht ungeschliffenen Vocals, die einen direkt ins Herz treffen. Das übergreifende Thema ist eine ehrliche, tröstliche Erinnerung daran, den Kopf hochzuhalten inmitten der chaotischen, anstrengenden Prüfungen des Alltags. Es ist rau, völlig unprätentiös und besitzt einen ansteckenden Indie-Charme, der Lust macht, mit ganz heruntergelassenen Fenstern durch die Heimatstadt zu fahren.
 
-::genre::
+::genre::indie rock, post punk, bedroom pop, lofi, noise rock
 
-## Wu-Luand Poison Anna - Bakerz Dozen
+## Wu-Lu & Poison Anna - Bakerz Dozen *
 
-tbd
+Eine kraftvolle Zusammenarbeit zwischen dem Multi-Instrumentalisten und Produzenten Wu-Lu (Miles Romans-Hopcraft) und der Avantgarde-Sängerin POiSON ANNA, die beide aus London, Großbritannien, stammen. Wu-Lu ist bekannt für sein Grenzen sprengendes Punk-meets-Hip-Hop-Album "Loggerhead" auf Warp Records, während sich POiSON ANNA mit ihren düsteren, hypnotischen Gesangsdarbietungen und Dub-beeinflussten Klanglandschaften einen Namen gemacht hat. **Trip-Hop**, **Alternative Hip-Hop**, **Experimental R&B**, **Dub** und **UK Rap**. "Bakerz Dozen" fühlt sich genau so an, als würde man um 2:00 Uhr morgens durch eine neblige, regennasse Londoner Gasse schlendern, während eine schwere Bassline den Asphalt unter den Füßen zum Vibrieren bringt. Das Duo zeigt eine absolut unglaubliche klangliche Chemie und gleitet mühelos zwischen dunklen elektronischen Glitches, stimmungsvollen akustischen Streichern und rauen Drum-and-Bass-Tempos hin und her. Das Thema entfaltet sich im Kontrast zwischen Spannung und Klarheit und verbindet rauchige, distanzierte Flüstern mit intensiven Underground-Grooves. Es ist geheimnisvoll, wunderschön geschmeidig und trägt eine coole, filmische Atmosphäre in sich, die deine volle Aufmerksamkeit fordert.
 
-::genre::
+::genre::trip hop, alt hip hop, experimental r&b, dub
 
 ## Xenosis - Hermetic Transmutation
 
-tbd
+Eine hochtechnische und progressive Extreme-Metal-Band aus New Haven, Connecticut, USA. Seit über einem Jahrzehnt aktiv, hat das fünfköpfige Ensemble jahrelang akribisch an einem Sound gefeilt, der pure Brutalität mit komplexer musikalischer Mathematik in Einklang bringt. In der Underground-Metal-Szene genießen sie hohes Ansehen für ihre beharrlichen Grooves und unvorhersehbaren Strukturen. **Technischer Death Metal**, **progressiver Death Metal** und dissonanter Metal. Setzt euren Weltraumhelm auf und spannt eure Nackenmuskeln an, denn "Hermetic Transmutation" ist eine wilde, sci-fi-artige Achterbahnfahrt aus purem Chaos. Dieses Album verbindet die schweren, urzeitlich-kraftvollen Gurgelgeräusche des brutalen Death Metals mit atemberaubenden Gitarrensoli, die klingen, als wären sie von einem bösen Supercomputer berechnet worden. Das Thema wirkt durch und durch kosmisch und außerirdisch und entfaltet sich wie ein Horrorfilm, der auf einem verlassenen Raumschiff spielt. Es ist chaotisch, unglaublich hektisch und perfekt für Tech-Metal-Fans, die headbangen wollen, während sie einen Zauberwürfel lösen.
 
-::genre::
+::genre::dissonant death metal, prog death metal, tech death metal
 
 ## Xeuphoria - Playing Piano For You
 
-tbd
+Xeuphoria ist ein unabhängiger, vielseitiger Produzent von elektronischer und neoklassischer Musik mit Sitz in den Vereinigten Staaten. Ursprünglich erlangte er in Internet-Subkulturen Bekanntheit durch seine üppigen elektronischen Beats, Lo-Fi-Texturen und melodischen Klanglandschaften; mittlerweile konzentriert sich Xeuphoria vor allem auf emotionale Klavierkompositionen, die ohne Worte eine Geschichte erzählen. **Moderne Klassik**, neoklassisches Klavier, **Ambient-Instrumental** und cineastischer Minimalismus. Wenn sich dein Kopf wie ein geöffneter Browser-Tab anfühlt, auf dem fünfzig Dinge gleichzeitig geladen werden, ist "Playing Piano For You" buchstäblich der Stummschaltknopf, den du brauchst. Dieses Album ist eine atemberaubend schöne Sammlung von Solo-Klavierstücken, die sich wie ein sanftes Gespräch mit einem alten Freund anfühlen. Das übergeordnete Thema dreht sich darum, Trost in stillen Momenten zu finden und zu lernen, verletzlich zu sein. Die Tasten werden mit einer so sanften, atmenden Berührung gespielt, dass sich Ihr Wohnzimmer beim Hören wie ein friedlicher Zufluchtsort anfühlt, versteckt vor einer lauten Welt.
 
-::genre::
+::genre::solo piano, modern classic, neo classic, ambient
 
 ## Zoh Amba - Eyes Full
 
