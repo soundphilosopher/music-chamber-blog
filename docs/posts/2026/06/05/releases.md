@@ -558,489 +558,273 @@ tbd
 
 ## Eternal Struggle - Wartime Love Affair
 
-tbd
+Eine aggressive, äußerst politische Metal-Hardcore-Band aus Tel Aviv, Israel. Entstanden aus der explosiven Underground-D.I.Y.-Punkszene, erlangte die Band internationale Anerkennung für ihr bahnbrechendes Debütalbum "Year of the Bullet" aus dem Jahr 2021, das von Brian "Mitts" Daniels (ex-Madball) produziert wurde. Sie haben sich einen Ruf als unerbittliche, unabhängige Tourmaschine in ganz Europa und Großbritannien erarbeitet und sind bekannt für ihre kompromisslose Street-Level-Autorität. **Hardcore-Punk**, **Thrash-Crossover** und aggressiver **Metalcore**. Klebt eure Sneaker fest mit Klebeband zusammen, bevor ihr auf Play drückt, denn diese Platte ist ein Non-Stop-Adrenalinstoß bei Höchstgeschwindigkeit. Trotz des trügerisch romantischen Titels liefert "Wartime Love Affair" einen brutalen, kehlenschneidenden lyrischen Schlag gegen gesellschaftliche Korruption, Straßenpolitik und das Überleben in einer Welt in ständiger Krise. Die Band entfesselt einen unheiligen Schneesturm aus kreissägeartigen Thrash-Gitarrenriffs, betonharten Breakdowns und gebellten Vocals, die vor purem Gift nur so triefen. Es ist eine rohe, headbangende Achterbahnfahrt, die mit der stumpfen Wucht von Asphalt einschlägt und ausschließlich dafür gemacht ist, dein Schlafzimmer in einen wilden Moshpit zu verwandeln.
 
-::genre::
+::genre::hardcore punk, metalcore, crossover
 
 ## Evanescence - Sanctuary
 
-tbd
+Eine mit mehreren Platin-Auszeichnungen und Grammys gekrönte Alternative-Rock-Größe, die ursprünglich in Little Rock, Arkansas, USA, gegründet wurde. Angeführt von der legendären, klassisch ausgebildeten Singer-Songwriterin und Pianistin Amy Lee dominiert Evanescence seit ihrem 2003 erschienenen Debütalbum "Fallen", das mit Diamant ausgezeichnet wurde, seit über zwei Jahrzehnten die weltweiten Rock-Charts. Die Band ist nach wie vor ein unangefochtener Vorreiter, wenn es darum geht, düstere, klassische Orchesterarrangements mit schweren Industrial-Gitarrenriffs zu verbinden. **Alternative Metal**, **Symphonic Rock**, **Gothic Pop** und **Electronic Rock**. Amy Lee wirft die Regeln des höflichen Rocks direkt in eine Gewitterwolke und übernimmt die volle, atemberaubende Kontrolle über ihre Erzählung. Getreu seinem Namen fungiert "Sanctuary" als warmer, akustisch-elektronischer Zufluchtsort, der sich wie ein schützender Samtmantel um deine Ohren legt. Die Musik meistert einen wunderschönen Kontrast, indem sie gewaltige Wände aus verzerrten Gothic-Gitarren und dröhnenden Industrial-Subbass-Kicks mit weinenden Live-Streichern und Lees atemberaubendem, opernhaftem Gesang verbindet. Ohne Details über den Kampf gegen innere Dämonen und das Finden emotionaler Widerstandskraft zu verschweigen, ist es eine großartige, offenherzige Rockoper, die einem das Gefühl gibt, völlig unverwundbar zu sein.
 
-::genre::
+::genre::alt metal, symphonic metal, pop rock, dark rock
 
 ## Evergrey - Architects of A New Weave
 
-tbd
+Eine legendäre, äußerst einflussreiche Institution des dunklen, melodischen Metals aus Göteborg, Schweden. Die 1995 gegründete Band, deren kreativer Kopf Frontmann, Gitarrist und Hauptsongwriter Tom S. Englund ist, beherrscht seit über drei Jahrzehnten die europäische Progressive-Metal-Szene. Sie wird weltweit für ihre hochkomplexen Konzepte, melancholischen Themen und die technische Virtuosität ihrer beiden Gitarristen verehrt. **Progressive Metal**, **Power Metal** und **Dark Symphonic Metal**. Setzt eure hochwertigsten Kopfhörer auf und macht euch bereit, euch davontragen zu lassen, denn dieses Album ist ein gewaltiger Berg cineastischer Dark Fantasy. "Architects of A New Weave" bietet ein gewaltiges Festmahl aus mitreißenden orchestralen Keyboard-Pads, komplexen, wechselnden progressiven Taktarten und hochfliegenden Gitarrensoli, die die schwere Atmosphäre durchdringen. Englunds charakteristischer, emotional roher Gesang schlängelt sich durch eine düstere, dystopische Erzählung über psychologische Transformation. Es ist eine dichte, intellektuelle und höchst befriedigende Reise, die deinen Geist völlig in Trance versetzt.
 
-::genre::
+::genre::prog metal, power metal, symphonic metal, dark metal
 
 ## Execution Day - Misery Loves Company
 
-tbd
+Eine unglaublich energiegeladene, kraftvolle Metalcore-Band aus Pittsburgh, Pennsylvania, USA. Die Band hat sich in der hart umkämpften amerikanischen Independent-Rock-Szene durchgesetzt und sich mit ihrer unverwechselbaren Mischung aus erstklassigen Pop-Hooks und brutalen, tief gestimmten Breakdowns eine riesige digitale Fangemeinde aufgebaut. Sie haben jahrelang gemeinsam mit Underground-Größen getourt, um ihren kraftvollen Live-Sound zu perfektionieren. **Metalcore**, **Post-Hardcore**, **Pop-Punk**-Elemente und moderner aggressiver Rock. Bitte stellt sicher, dass eure Wohnzimmermöbel fest am Boden verankert sind, bevor ihr die Lautstärke aufdreht, denn "Misery Loves Company" trifft euch wie ein Betonblock direkt in die Brust. Die Band nimmt die rohe Frustration des alltäglichen Burnouts und verwandelt sie in gnadenlose Thrash-Riffs, explosives Schlagzeugspiel und eine dynamische Doppelstimme, die nahtlos von hymnischen, stadiontauglichen Refrains zu kehlenschneidenden Brüllen wechselt. Sie verzichtet komplett auf generische Rock-Klischees und liefert stattdessen ein wildes, kompromissloses und chaotisches Meisterwerk, das für einen Ein-Mann-Moshpit geschaffen ist.
 
-::genre::
-
-## Fatoumata Diawara - Massa
-
-tbd
-
-::genre::
+::genre::post hardcore, metalcore
 
 ## Fightmaster - Tolerance
 
-tbd
+Fightmaster ist ein aufstrebender, äußerst unabhängiger Multi-Instrumentalist, Singer-Songwriter und Vertreter des Alternative Rock, der aus der DIY-Rockszene der Vereinigten Staaten stammt. Durch das Abklappern lokaler Live-Locations und die Eigenproduktion früher Audioaufnahmen hat Fightmaster eine treue Fangemeinde aufgebaut, indem er rohe, emotionale Direktheit und authentische Live-Energie über glattpolierte kommerzielle Formate stellte. **Alternative Rock**, **Grunge**-Revival, **Post-Punk** und **Indie-Pop**. Dieses Album fühlt sich genau so an, als würde man eine längst verloren geglaubte Kassette aus den 1990ern hinten in der Garage finden und feststellen, dass es dein neues Lieblingsalbum ist. "Tolerance" entfesselt einen glorreichen Sturm aus treibenden Garage-Rock-Basslines, klirrenden Gitarren-Hooks und rohem, rauem Gesang, der dich direkt in die Brust trifft. Ohne Details über jugendliche Ängste, Identitätswandel und alltägliche menschliche Reibereien zu verschweigen, geht der lyrische Rahmen mit roher Verletzlichkeit um - mit einem unbekümmerten, leicht sarkastischen Lächeln. Es ist ein absoluter Schuss puren Rock ’n’ Roll-Adrenalins, der danach verlangt, während einer langen Sommerfahrt aus der Autoradioanlage zu dröhnen.
 
-::genre::
+::genre::post grunge, alt rock, post punk, indie pop
 
 ## Fink - The City Is Coming To Erase It All
 
-tbd
+Fin Greenall, bekannt unter seinem Künstlernamen Fink, ist ein gefeierter, weltbekannter Singer-Songwriter, Gitarrist und Produzent, der ursprünglich aus Cornwall/Bristol im Vereinigten Königreich stammt und derzeit in Berlin lebt. Er begann seine Karriere als bekannter Elektronik-DJ und Produzent beim legendären Label Ninja Tune, wandte sich dann jedoch bekanntlich einem rauen, von der Akustikgitarre geprägten Blues-Folk-Stil zu. Seit über zwei Jahrzehnten veröffentlicht er von Kritikern hochgelobtes Solomaterial und arbeitet weltweit mit Spitzenkünstlern zusammen. **Indie-Folk**, Akustik-Blues, **Post-Trip-Hop** und alternativer Singer-Songwriter. Stellen Sie sich vor, Sie treten aus einem plötzlichen, kalten Regenguss direkt in eine gemütliche, schummrig beleuchtete Taverne, wo ein weiser reisender Barde seine Seele auf einer Akustikgitarre ausschüttet. "The City Is Coming To Erase It All" dreht sich um ein unglaublich fesselndes, offenes Thema: die Gentrifizierung der Städte, den Verlust lokaler Gemeinschaftsräume und den hohen emotionalen Preis des modernen Fortschritts. Fink bedient sich einer wunderschön reduzierten Klangarchitektur und legt seine rauchige, raue Stimme über warmes Akustikgitarrenspiel und gemächliche, rhythmische Percussion. Es ist ein unglaublich nachdenkliches, zeitloses und heilendes Meisterwerk, das einen zutiefst getröstet zurücklässt.
 
-::genre::
-
-## Flesh Produce - Hyper Chasm
-
-tbd
-
-::genre::
+::genre::indie folk, alt folk, trip hop
 
 ## Forest Drive West - Mantis 1920
 
-tbd
+Forest Drive West (Joe Baker) ist ein außergewöhnlich talentierter und von Kritikern gefeierter Produzent elektronischer Musik mit Sitz in London, Großbritannien. Baker hat sich über Jahre hinweg im weltweiten Underground-Club-Szene einen hervorragenden Ruf für seine hyperpräzise Drum-Programmierung und atmosphärische Tiefe erarbeitet und veröffentlichte erstklassige Veröffentlichungen bei legendären Labels wie Livity Sound und Ilian Tape. **Techno**, **Leftfield Drum & Bass**, **Jungle**, **IDM** und **Deep Ambient**. Diese Platte fühlt sich genau so an, als würde man um 3:00 Uhr morgens eine riskante Stealth-Mission in einem futuristischen, neonbeleuchteten unterirdischen Großrechnerzentrum absolvieren. "Mantis 1920" fungiert als meisterhafter Spielplatz für deine Gehirnzellen und serviert eine unglaublich raffinierte Kombination aus tickenden, komplexen Polyrhythmen, tiefen Subbass-Frequenzen und dunklen elektronischen Glitch-Patches, die mit chirurgischer Präzision abrollen. Das übergreifende Thema spielt wunderschön mit Spannung, sensorischer Navigation und der Architektur des digitalen Zeitalters. Es ist eine mühelos coole, hypnotische Rave-Waffe, die deine Füße in Bewegung hält, während dein Geist völlig abdriftet.
 
-::genre::
+::genre::leftfield techno, deep ambient, idm, jungle, d&b
 
 ## Frusen Sorg - Smärtpunkter
 
-tbd
+Ein düsteres, atmosphärisches Underground-Extreme-Metal-Projekt aus Schweden. Die Band ist tief in der skandinavischen Independent-Extreme-Metal-Szene verwurzelt und schafft vielschichtige Klanglandschaften, bei denen rohe menschliche Emotionen und eine karge, bedrückende Atmosphäre gegenüber kommerziellen Konventionen im Vordergrund stehen. **Atmosphärischer Black Metal**, **Depressiver Black Metal** und melancholischer **Post-Rock**. Hüllt euch in einen schweren Wintermantel, denn "Smärtpunkter" (was so viel wie "Schmerzpunkte" bedeutet) ist ein wahrer Schneesturm aus klanglicher Trauer. Das Album tauscht die typische Speed-Metal-Aggression gegen massive, langsam brennende Wände aus frostigem Tremolo-Gitarrenpicking, traurigen Akustik-Saiten und einem verzweifelten, qualvoll rohen Gesangsschrei ein. Das Thema schleicht sich durch intensive persönliche Isolation, die Aufarbeitung emotionaler Narben und das Finden eines seltsamen, tröstlichen Friedens inmitten absoluter Einsamkeit. Es ist ein wunderschön düsteres und therapeutisches Meisterwerk, das einen dunklen Raum und ein großartiges Paar Kopfhörer verlangt.
 
-::genre::
+::genre::atmo black metal, dsbm, post black metal
 
 ## Futurebirds - Far Out Country
 
-tbd
+Ein fest zusammengewachsenes, energiegeladenes Rock- und Roots-Kollektiv aus Athens, Georgia, USA. Seit über fünfzehn Jahren aktiv, hat die Gruppe Millionen von Streams generiert, indem sie einen tourerprobten, psychedelischen Stil der Southern-Roots-Musik perfektioniert hat. Dieser einzigartige Track dient als besondere Vorschau auf ihre kommende massive Doppel-LP. **Cosmic Americana**, **Indie-Rock**, **Psych-Country** und Heartland-Rock. Fahr auf den Parkplatz, kurbel die Fenster ganz herunter und lass diesen langsam rollenden, den Kofferraum zum Vibrieren bringenden Track die Kontrolle übernehmen. Auf "Far Out Country" wirft die Band polierte, radiotaugliche Formeln über Bord und entscheidet sich stattdessen für ein glorreiches Fest aus klagenden Pedal-Steel-Gitarren, summenden Fuzz-Pedalen und gefühlvollen Gruppenstimmen. Das Kernthema ist ein unprätentiöser, sonnenverwöhnter Roadtrip, der das Überleben, lange Nächte und weite Landschaften feiert. Es ist cool, mühelos charismatisch und weckt die Lust, mit Freunden eine unbefestigte Straße entlangzufahren.
 
-::genre::
+::genre::psych folk, country folk, alt folk, americana, indie rock, indie folk
 
-## gabi belle - CITY GIRL
+## Goad - Song Of Four Fairies *
 
-tbd
+Ein äußerst theatralisches, erfahrenes Progressive-Rock-Kollektiv aus Florenz, Italien. Unter der Leitung des Hauptkomponisten Maurilio Rossi bewegt sich Goad seit Jahrzehnten an den künstlerischen Rändern des europäischen Prog-Undergrounds. Nur sieben Monate nach ihrem gefeierten Album "Dusketha" erscheint diese konzeptionelle Suite, die ihre tiefe Verbundenheit mit der klassischen Literatur verdeutlicht. **Progressive Rock**, **Dark Symphonic Rock** und **Gothic Art-Rock**. Treten Sie ein in ein schummrig beleuchtetes, von der Zeit gezeichnetes Samttheater und machen Sie sich bereit für eine wunderschön dramatische Reise. "Song Of Four Fairies" greift die romantische Poesie von John Keats auf und verwandelt sie vollständig in eine gotische Progressive-Rock-Oper. Die Musik verbindet schwungvolle, stimmungsvolle symphonische Synthesizer-Streicher mit klagenden Gitarren-Soli, tiefen Orgelklängen und opernhaften Gesängen. Es ist ein wunderbar dichtes, intellektuelles und poetisches Labyrinth, das einem das Gefühl gibt, um Mitternacht durch einen verzauberten, regennassen Wald zu wandern.
 
-::genre::
-
-## Galán, Spieth, Guentner - Obreel
-
-tbd
-
-::genre::
-
-## Goad - Song Of Four Fairies
-
-tbd
-
-::genre::
-
-## Godless - Adversus Parousia
-
-tbd
-
-::genre::
+::genre::prog rock, symphonic rock, dark rock, art rock
 
 ## Grabunhold - Frostheim
 
-tbd
+Eine kompromisslos traditionelle, rohe vierköpfige Black-Metal-Band aus Dortmund. Entstanden aus der aktiven deutschen Underground-Szene, erlangte Grabunhold mit ihrem bahnbrechenden Debütalbum "Heldentod" aus dem Jahr 2021 eine treue Kult-Anhängerschaft. Das Album perfektionierte eine neue alte Ästhetik, die die düstere Atmosphäre alter Verliese, Schlösser und stiller Festungen einfängt. Medieval **Black Metal**, Second-Wave Black Metal und Teutonic Metal. Stellt sicher, dass eure Hausfundamente baulich solide sind, denn diese Platte ist ein absoluter Vorschlaghammer purer klanglicher Wut. "Frostheim" zielt auf den rasanten, rohen, bremsenlosen Klangangriff des Extreme Metal der 1990er Jahre ab und vermeidet dabei vollständig überpolierte moderne kommerzielle Formeln. Die Band entfesselt einen unheiligen Sturm aus kreissägenartigen Gitarrenriffs, unerbittlichen Blastbeats und verzweifelten, qualvollen Gesangsbrüllen. Der thematische Fokus versetzt dich direkt in eine dunkle, vom Winter eingeschlossene Festung, in der Schlachten toben. Es ist heavy, wunderbar roh und Headbanging-Perfektion.
 
-::genre::
+::genre::melo black metal
 
 ## Gravety - Of Cults And Chaos
 
-tbd
+Eine donnernde, kraftvolle fünfköpfige Metal-Band aus Deutschland. Unter dem Leitmotiv Cryptor hat sich dieses untote Quintett auf einen massiven Sound spezialisiert, der treibende Riffs mit dramatischen Doppelgitarren-Soli verbindet. Dieses Projekt markiert ihr wegweisendes drittes Album in voller Länge, das von ihrem eigenen Gitarristen, Gernot Gebhard, aufgenommen, abgemischt und gemastert wurde. Epischer **Doom Metal**, **Heavy Metal** und cineastischer **Horror-Rock**. Willkommen zu einem glorreichen, blutigen Horrorfilm, der exklusiv für eure Trommelfelle konzipiert wurde. "Of Cults And Chaos" stürzt sich kopfüber in eine weniger heroische, weitaus bedrohlichere Richtung als das bisherige Material der Band und schöpft seine lyrische Inspiration aus der kosmischen Angst von H.P. Lovecraft und John Carpenters Film - Prince of Darkness. Musikalisch bietet das Album eine wahre Flut an fuzzgetränkten, tief gestimmten Gitarren, langsamen Doom-Tempos und eingängigen, hochfliegenden Refrains. Es ist eine herrlich gruselige, atemberaubende Achterbahnfahrt, die dich dazu bringt, die Fäuste zu erheben und in deinem Wohnzimmer an einem uralten Ritual teilzunehmen.
 
-::genre::
+::genre::doom metal, heavy metal, dark metal
 
 ## Gravvålnad - Dreams Of Evernight
 
-tbd
+Ein Underground-Extreme-Metal-Projekt, das vollständig von einer einzigen Person in Schweden ins Leben gerufen wurde. In Anlehnung an die führenden Vertreter der Extreme-Metal-Szene im physischen Format widmet sich der Solokünstler seit Jahren der Erarbeitung vielschichtiger Klangwände, die tief in den Wurzeln des skandinavischen Metal der 1990er Jahre verwurzelt sind. Epischer **Black Metal**, **atmosphärischer Black Metal** und melodischer Extreme Metal. Setzt einen schweren Eisenhelm auf und blickt zum Horizont, denn "Dreams Of Evernight" ist ein gewaltiger Berg aus klangvoller dunkler Fantasie. Die Musik umgeht moderne, überpolierte Radio-Hooks vollständig und entfesselt stattdessen einen eisigen Sturm aus rasanten Gitarrenläufen, donnerndem Schlagzeugspiel und einem heiseren, gespenstischen Schrei, der klingt, als hallte er aus einer vergessenen Steinkrypta wider. Getreu dem Titel schlängelt sich die lyrische Landschaft durch Träume von ewigen Schatten und kosmischer Isolation. Es ist brutal heavy, wunderbar grandios und ein absoluter Triumph für die Old-School-Extreme-Seele.
 
-::genre::
-
-## Grey DeLisle & Les Greene - Grey & Greene
-
-tbd
-
-::genre::
+::genre::melo black metal, atmo black metal
 
 ## Grimveil - Beneath the Veil of Silent Woods
 
-tbd
+Ein äußerst atmosphärisches, kontinentübergreifendes Projekt, das Musiker aus Schweden und Deutschland vereint. Grimveil bewegt sich ausschließlich in der unabhängigen Underground-Szene des Extreme Metal und konzentriert sich auf eindringliche, langatmige Stücke, die die Umgebung als zentrales Instrument behandeln. **Atmosphärischer Black Metal**, **Folk Metal** und **Nature Ambient**. Packt einen dicken Wintermantel ein und lasst euer GPS zu Hause, denn dieses Album versetzt euch augenblicklich in einen dichten, nebelverhangenen Kiefernwald in der Dämmerung. "Beneath the Veil of Silent Woods" setzt auf gewaltige, achtminütige Klanglandschaften, die frostiges Tremolo-Gitarrenpicking mit traditionellen Folk-Instrumenten und eindringlichen, rauen Gesangsschreien verbinden. Es ist wunderschön düster und filmisch und fängt perfekt das unheimliche Gefühl ein, dass die Bäume um dich herum leise Geheimnisse flüstern, wenn du ihnen den Rücken zudrehst. Es ist das absolute Paradies für Extreme-Metal-Puristen, die ein großartiges Stück atmosphärisches Outdoor-Drama lieben.
 
-::genre::
-
-## Guguhstuff - NEUROCHAOS
-
-tbd
-
-::genre::
+::genre::atmo black metal
 
 ## Guilt Trip - Armour Of Angels
 
-tbd
+Eine energiegeladene, schnell aufstrebende fünfköpfige Metallic-Hardcore-Band aus Manchester, Großbritannien. Die Band hat sich im Laufe des letzten Jahrzehnts durch endlose Tourneen eine riesige Kult-Anhängerschaft aufgebaut und drei Jahre lang an diesem Projekt gearbeitet. Das Album erweitert ihre Hardcore-Wurzeln um einen explosiven Gastauftritt von Sonny Sandoval von der Rocklegende **P.O.D**. **Metallic Hardcore**, **Thrash Crossover** und Aggressive **Metalcore**. Klebt eure Sneaker gut fest, bevor ihr auf Play drückt, denn die Two-Steps auf dieser Platte sind gefährlich genug, um eure Schuhe durch die Luft fliegen zu lassen. "Armour Of Angels" entfesselt einen vernichtenden Sturm aus gnadenlosen Thrash-Gitarrenriffs, rasenden Soli und kreischenden Obertönen, die sich wie ein direkter Schlag ins Gesicht anfühlen. Indem sie ihre schiere Brutalität in ein wunderschön theatralisches, apokalyptisches und biblisches Thema hüllen, klingen Tracks wie "The Banner of Heaven" wie Paradies und Verdammnis, die gerade zu einem gewaltigen Groove verschmolzen sind. Es ist ein makelloser, mit Höchstgeschwindigkeit abgefeuerter Schuss puren Adrenalins.
 
-::genre::
-
-## Gurt - Survival Of The Shittest
-
-tbd
-
-::genre::
-
-## Gustavo Cortiñas - The Drum Also Sings
-
-tbd
-
-::genre::
+::genre::metallic hardcore, metalcore, crossover
 
 ## Halcyon Days - Nothing To No One // Something To Someone
 
-tbd
+Eine intensive, fein abgestimmte Melodic-Metalcore-Band aus Oslo, Norwegen. Oft als Pioniere des True Norwegian Metalcore bezeichnet, hat die Band jahrelang an einem unverwechselbaren Sound gefeilt, der die Elemente des Old-School-Core respektiert. Dieses bahnbrechende Studioalbum enthält kraftvolle Kollaborationsstücke, darunter Gastgesang von Jonas Hansen von der Band Fixation. **Metalcore**, **Post-Hardcore** und Modern Aggressive Rock. Diese Platte fühlt sich genau so an, als würde ein heftiger innerer Boxkampf in deinen Trommelfellen stattfinden. "Nothing To No One // Something To Someone" weigert sich, sich auf vorhersehbare Genre-Schablonen zu stützen, und stürzt die Hörer stattdessen in eine wilde Achterbahnfahrt emotionaler Zerrissenheit (innerer Konflikt). Die Band wechselt nahtlos von massiven, den Raum erschütternden Breakdowns zu überraschend schönen, zerbrechlichen, klaren Melodien und klaustrophobischen Synth-Elementen. Es ist hart, zutiefst kathartisch und perfekt, um dein Schlafzimmer in einen hochoktanigen Ein-Personen-Moshpit zu verwandeln.
 
-::genre::
+::genre::post hardcore, metalcore, crust
 
-## halftimeshow - Soft Spot
+## halftimeshow - Soft Spot *
 
-tbd
+Ein energiegeladenes, äußerst eigenständiges vierköpfiges Rock-Kollektiv aus Joplin, Missouri, USA. Gegründet von den Kernmitgliedern Bryce Howell und AJ Maggio, baute sich die Gruppe über Jahre hinweg eine treue digitale Fangemeinde auf - ihr Durchbruchshit "Hero of Roku City" erzielte über 300.000 Streams, noch bevor sie ihr erstes Album aufnahmen. **Midwest Emo**, **Math Rock**, **Punk** und **Indie-Rock**. "Soft Spot" ist ein wahres Feuerwerk aus purer emotionaler Katharsis und jugendlicher Überheblichkeit. Das Album besticht durch eine rasante Kombination aus nervösen, klirrenden Math-Rock-Gitarrenlinien, treibenden Bass-Tempos und wunderbar rauen Vocals. Die Themen drehen sich um die urkomische, zynische und chaotische Realität des Erwachsenwerdens, der Entfremdung von Freunden und der Bewältigung der Zwanzigerjahre. Es ist schnell, herrlich ungeschliffen und der perfekte Soundtrack für einen chaotischen nächtlichen Roadtrip.
 
-::genre::
+::genre::midwest emo, math rock, hardcore punk, indie rock
 
-## Hammock - When Does This Place Become Our Scene
+## Hammok - When Does This Place Become Our Scene
 
-tbd
+Ein mitreißendes, energiegeladenes Post-Hardcore- und Noise-Trio aus Oslo, Norwegen. Die Gruppe, bestehend aus Tobias Osland, Ferdinand Aasheim und Ole Benjamin Thomassen, hat jahrelang die europäische Rock-Underground-Szene aufgemischt, bevor sie als neuester Star-Neuzugang beim legendären Independent-Label Sargent House unter Vertrag genommen wurde. **Hardcore-Punk**, **Post-Hardcore**, **Noise-Rock** und **Screamo**. Bitte stellt sicher, dass eure Wohnzimmermöbel fest am Boden verankert sind, bevor ihr auf Play drückt. "When Does This Place Become Our Scene" ist eine ununterbrochene Lawine aus purem, unverfälschtem musikalischem Adrenalin. Hammok kombiniert vulkanische, betonbrechende Gitarrenwucht mit Maschinengewehr-Drum-Tempos und kehlenschneidenden Brüllen, die dich direkt in die Brust treffen. Die Band verzichtet komplett auf generische Rock-Klischees und liefert stattdessen ein wildes, kompromissloses und chaotisches Meisterwerk, das wie geschaffen für den Moshpit ist.
 
-::genre::
+::genre::post hardcore, noise rock, screamo, hardcore punk
 
 ## Haylie Davis - Wandering Star
 
-tbd
+Eine außergewöhnlich talentierte Indie-Folk-Sängerin und Songwriterin, die ursprünglich aus Nordkalifornien stammt und derzeit in Los Angeles, USA, lebt. Davis machte zuvor unter ihrem Solokünstlernamen Lady Apple Tree auf sich aufmerksam und arbeitete intensiv mit Größen der Underground-Folk-Szene wie Drugdealer und Sam Burton zusammen. Sie nahm dieses Soloalbum teilweise in den berühmten Valentine Recording Studios auf. Laurel-Canyon-**Indie-Folk**, **Cosmic Americana** der 1970er Jahre und **Soft Rock/Folk-Pop**. Dieses Album fühlt sich genau so an, als würde man sich in eine handgewebte Vintage-Decke hüllen, während man einen goldenen Sonnenuntergang über den Wüstenhügeln beobachtet. "Wandering Star" schafft aus sanften, vom Klavier getragenen Meditationen, akustischem Gitarrenspiel und Davis' atemberaubendem, samtigem Gesang einen wunderschönen, intimen Rückzugsort. Die Themen tauchen ein in menschliche Sehnsüchte, die Suche nach Sinn und den Weg vorwärts in die Dunkelheit. Das Album behandelt Folk-Pop mit einer so warmen, rustikalen Authentizität, dass es dein Nervensystem sofort zur Ruhe bringt.
 
-::genre::
-
-## Horn - Apokalyps 1618
-
-tbd
-
-::genre::
-
-## horsegiirL - NATURE IS HEALING
-
-tbd
-
-::genre::
+::genre::folk pop, indie folk, americana, psych folk
 
 ## Human Issue - In Flesh
 
-tbd
+Ein wildes, energiegeladenes Hardcore-Punk-Quartett aus Südkalifornien, USA. Angeführt vom Songwriter-Duo Hunter Watkins und Luis Martinez, spielte sich die Band jahrelang durch schweißgetränkte Underground-Keller. Gemeinsam mit Smartpunk Records haben sie ihren blitzschnellen Live-Sound eingefangen. **Hardcore-Punk**, **Riot Rock** und **Post-Hardcore**. Vergewissere dich, dass deine Wohnzimmermöbel fest am Boden verankert sind, bevor du die Lautstärke aufdrehst, denn "In Flesh" ist eine regelrechte akustische Dampfwalze. Das Album packt zehn rasante Tracks in einen blendenden, neunminütigen Sturm aus betonbrechenden Drop-Tunings, unerbittlichem Schlagzeugspiel und drängendem Gesang. Ohne Details darüber zu verschweigen, wie man mit den mentalen Störgeräuschen des Alltags umgeht, ist das lyrische Thema durch und durch konfrontativ und roh. Es ist ein kurzer, mit maximaler Geschwindigkeit abgefeuerter Schuss purer Punk-Power, der ausschließlich für den Moshpit gemacht ist.
 
-::genre::
-
-## humpty - mermaid
-
-tbd
-
-::genre::
-
-## Hurricane Wisdom - Weather The World
-
-tbd
-
-::genre::
-
-## Inayah - Therapy Wasn't Enough
-
-tbd
-
-::genre::
+::genre::post hardcore, hardcore punk
 
 ## Iron Kingdom - Shadows And Dust
 
-tbd
+Eine kraftvolle Traditional-Metal-Band aus Vancouver, British Columbia, Kanada. Das 2011 gegründete Quartett hält seit über einem Jahrzehnt die Flamme des klassischen 80er-Jahre-Metals am Leben. "Shadows And Dust" ist ihr stolzes sechstes Studioalbum, das gemeinsam mit ihrem Partnerlabel Steel Shark Records aufgenommen wurde, um exklusive physische Ausgaben zu gewährleisten. **New Wave of Traditional Heavy Metal**, **Speed Metal** und Classic **Heavy Metal**. Hol deine Lieblings-Jeansweste mit Aufnähern aus dem Schrank und schnapp dir eine Luftgitarre. "Shadows And Dust" ist ein herrlich unprätentiöser Liebesbrief an die goldene Ära des Rock'n'Roll und serviert ein wahres Festmahl aus galoppierenden Basslines, Twin-Gitarren-Hooks und hochfliegendem Gesang. Songs wie "Defenders" tauchen kopfüber in historische Schlachtparabeln ein und setzen diese mit maximaler theatralischer Kraft um. Das Album vermeidet moderne, radiofreundliche Formeln gänzlich und liefert stattdessen eine unerbittliche, mitreißende Metal-Achterbahnfahrt.
 
-::genre::
-
-## Isabel LaRosa - Promising New Woman
-
-tbd
-
-::genre::
-
-## Iselder - The 38th Division
-
-tbd
-
-::genre::
+::genre::heavy metal, nwothm, speed metal
 
 ## JabFung - In Real Life
 
-tbd
+Eine kraftvolle kanadische Jazz-Kooperation, bei der der Bassist Julian Anderson-Bowes (JAB) und der Schlagzeuger und Komponist Anthony Fung (FUNG) ihre Kräfte bündeln. Beide Künstler sind hoch angesehene Größen der modernen nordamerikanischen Jazzszene. Im Anschluss an ihre gefeierten frühen Aufnahmen stellte das Duo ein hochkarätiges Akustik-Quintett zusammen - darunter der Saxophonist Luis Deniz und der Trompeter Adam O'Farrill -, um ein unverfälschtes, spontanes Album aufzunehmen. **Modern Jazz**, **Post-Bop** und **zeitgenössischer Akustik-Jazz**. Wenn Sie zu viel Zeit damit verbracht haben, auf Handybildschirme zu starren, ist diese Platte das unmittelbare, lebensbejahende Gegenmittel, das Sie brauchen. Komplett live an einem einzigen Tag in einem Studio in Toronto aufgenommen, ist "In Real Life" eine sonnige, lebendige Hommage an echte menschliche Interaktion und Zusammenarbeit durch Blickkontakt. Die Musik wechselt nahtlos den Gang und schwenkt von explosiven Drum-Synkopen zu hochfliegenden Saxophon-Duellen und sanften, walking-artigen Akustikbasslinien. Sie wirkt wunderbar organisch, komplex und versetzt einen mit einer gewaltigen Dosis purer, unverfälschter musikalischer Freude.
 
-::genre::
-
-## Jake Muir - Pareidolia
-
-tbd
-
-::genre::
+::genre::modern jazz, contemporary jazz, post bop
 
 ## Jalen Ngonda - Doctrine of Love
 
-tbd
+Jalen Ngonda ist ein außerordentlich talentierter Soul-Sänger und Songwriter, der ursprünglich aus Maryland, USA, stammt und später nach Großbritannien zog. Nachdem er mit seinem von Kritikern hochgelobten Debütalbum "Come Around and Love Me" aus dem Jahr 2023 die internationale Szene im Sturm erobert hatte, wurde Ngonda zu einem prominenten Verfechter zeitloser analoger Musik. Dieses wegweisende Projekt ist sein mit Spannung erwartetes zweites Studioalbum in voller Länge, das von der legendären Hausband von Daptone Records begleitet wird. **Vintage Soul**, **Deep Funk** und **Retro-R&B**. Steigen Sie in eine Zeitmaschine und stellen Sie den Zeiger direkt auf 1968. "Doctrine of Love" ist eine wahre Goldgrube warmer, knisternder Grooves, die Ihre Autoradioanlage wie eine makellose alte Jukebox klingen lassen. Ngonda lässt seinen mühelosen Falsettgesang über eine Leinwand aus knackenden Drumbeats, treibenden Basslines und unglaublich geschmeidigen Bläserakzenten gleiten. Das zugrunde liegende Thema spielt mit der bittersüßen Natur der Liebe - dem Gleichgewicht zwischen totaler Ekstase und absolutem Herzschmerz. Es ist stilvolle, unprätentiöse Musik, die die Wolken eines regnerischen Tages augenblicklich vertreibt.
 
-::genre::
+::genre::prog r&b, soul, r&b, funk
 
-## Jammin' Sam Miller - A Link To The Past Tribute
+## Jared Mattson & Ruban Nielson - Fear *
 
-tbd
+Eine kraftvolle interkulturelle Zusammenarbeit, die den Gitarristen Jared Mattson (vom Jazz-Rock-Duo *The Mattson 2*) aus Kalifornien, USA, mit dem Multi-Instrumentalisten Ruban Nielson (Frontmann von *Unknown Mortal Orchestra*) aus Neuseeland vereint. Nachdem sie die Musik des jeweils anderen schon lange online bewundert hatten, traf sich das Duo im Juni 2024 persönlich. Während ihrer allerersten improvisierten Jam-Session in Palm Springs drückte Nielson auf die Aufnahmetaste und hielt das gesamte Projekt in nur wenigen Tagen fest. Instrumentaler **Psych-Rock**, experimenteller **Jazz-Fusion** und **Lo-Fi-Indie-Rock**. Dieses Album klingt genau wie der Soundtrack zu einem alten Late-Night-Film, der in einer verlassenen, neonbeleuchteten Wüsten-Tankstelle in der Abenddämmerung spielt. "FEAR" verzichtet auf eingängige Radio-Hooks und liefert stattdessen ein rohes, hypnotisches Labyrinth aus ineinander verwobenen Gitarrenmelodien und summenden analogen Texturen. Die Musik fängt mühelos ein Gefühl moderner Isolation und stiller Wanderschaft ein und hält einen mit ihren unkonventionellen Rhythmusstrukturen ständig auf Trab. Es ist eine coole, herrlich trippige und wunderschöne instrumentale Reise, die dazu gedacht ist, den Geist in die Ferne schweifen zu lassen.
 
-::genre::
-
-## Jared James Nichols - Louder Than Fate
-
-tbd
-
-::genre::
-
-## Jared Mattson andRuban Nielson - Fear
-
-tbd
-
-::genre::
+::genre::psych rock, jazz fusion, lofi, indie rock
 
 ## Jasmine Jethwa - Girl Who Cried Wolf
 
-tbd
+Jasmine Jethwa ist eine außergewöhnlich talentierte, aufstrebende Singer-Songwriterin, die in London, Großbritannien, lebt. Mit einer Reihe hochgelobter EPs (darunter "Same Streets But I Don't See You Around") hat sich Jethwa einen leidenschaftlichen Fanstamm aufgebaut, der sie für ihre unverfälschte emotionale Ehrlichkeit und ihre zarten akustischen Melodien schätzt. **Indie-Pop**, **Akustik-Folk**, atmosphärischer **Indie** und sentimentaler **Pop**. Stell dir vor, du trittst aus einem plötzlichen Regenguss direkt in einen kerzenbeleuchteten Raum, in dem jemand sein Herz auf einer Akustikgitarre ausschüttet. "Girl Who Cried Wolf" ist ein atemberaubend intimes Porträt über das Navigieren durch das Leben, die Jugend und die Last der Liebe. Jethwas durchdringende, samtige Stimme schwebt mühelos über einer zerbrechlichen, minimalistischen Architektur aus akustischem Gitarrenspiel und warmen Streicherschwellen. Es ist ein unglaublich nachdenkliches und tröstliches Album, das mit intensiver persönlicher Verletzlichkeit mit absoluter Anmut umgeht.
 
-::genre::
-
-## Jason Eady - Tulsa Turnaround
-
-tbd
-
-::genre::
-
-## Jeff Goldblum & The Mildred Snitzer Orchestra - Night Blooms
-
-tbd
-
-::genre::
-
-## Jim O'Rourke & Jos Smolders - Albumin
-
-tbd
-
-::genre::
-
-## Jo Dee Messina - Bridges
-
-tbd
-
-::genre::
-
-## joedirtdvd - joedirtdvd
-
-tbd
-
-::genre::
-
-## Jolly Mare - La Luce dell'Alba
-
-tbd
-
-::genre::
+::genre::indie pop, alt folk, indie folk
 
 ## Joon - What's A Bluff
 
-tbd
+Ein aufstrebender, technikaffiner, unabhängiger Singer-Songwriter und Melodienschmied, der in der modernen DIY-Szene der Vereinigten Staaten aktiv ist. Joon hat auf digitalen Independent-Plattformen (dank früher viraler Singles wie "nervousness" und "hypocritical") große Popularität an der Basis erlangt und eine äußerst begeisterte Online-Fangemeinde aufgebaut. Er wird für seine Vielseitigkeit bei der Zusammenarbeit mit Internetstars wie bixby und starfall gefeiert. **Indie-Pop**, **Bedroom-Pop**, **Glitch-Pop** und **Alt-R&B**. Dieses Album hört sich an, als würde man an einem sonnigen Nachmittag in einem streng geheimen, verschlossenen digitalen Tagebuch blättern, während man im Zimmer herumhüpft. "What's A Bluff" verbindet wunderschön knackige Bedroom-Pop-Beats, klirrende Akustikgitarrenlinien und luftige Gesangsharmonien mit einer unglaublich coolen, lässigen Energie. Ohne Details über den Umgang mit jugendlichem Druck, Social-Media-Angst und Identitätswandel zu verschweigen, ist das Thema vollkommen ehrlich, unverfälscht und tröstlich. Es ist ein süchtig machender Rausch aus purem Indie-Serotonin, der als perfekte musikalische Begleitung für einen entspannten Roadtrip dient.
 
-::genre::
-
-## Kabza de Small - Tutu
-
-tbd
-
-::genre::
-
-## Kai Angel - Shh...
-
-tbd
-
-::genre::
+::genre::indie pop, bedroom pop, glitch, alt r&b
 
 ## Kind - You Help My Misery
 
-tbd
+Eine knallharte, rohe Underground-Band aus den Vereinigten Staaten. Die unabhängige Truppe hat sich im modernen D.I.Y.-Szene der Heavy-Musik einen unverwechselbaren, aggressiven Sound erarbeitet und sich durch ihre kraftvollen, emotional mitreißenden Auftritte einen Namen in der Szene gemacht. **Hardcore-Punk**, **Metallic Hardcore** und **Beatdown**. Schließt eure zerbrechlichen Wertsachen weg und macht Platz auf dem Boden, bevor ihr auf Play drückt. "You Help My Misery" ist eine absolute Abrissbirne aus purer klanglicher Frustration, die euch mit übersteuerten, kreissägenartigen Gitarrenriffs und betonharten Breakdown-Tempos direkt in die Brust trifft. Der Sänger liefert rotzige, kehlenschneidende Zeilen mit einer kompromisslosen Autorität, die sich anhört wie ein buchstäblicher Straßenkampf, der zum Leben erweckt wurde. Es verzichtet komplett auf radiotaugliche Formeln und liefert stattdessen einen hochoktanigen Schuss reinen, unverfälschten musikalischen Adrenalins, der ausschließlich für den Moshpit gemacht ist.
 
-::genre::
-
-## KITSCHKRIEG - KITSCHKRIEG ZWEI
-
-tbd
-
-::genre::
-
-## kleff - PERSONAL MEDITATION F*CK HESITATION
-
-tbd
-
-::genre::
+::genre::metallic hardcore, beatdown
 
 ## Klez.E - Einmal mehr mit dir gegen die Furcht
 
-tbd
+Ein legendäres, seit langem bestehendes Alternative-Post-Punk-Trio aus Berlin. Das vor fast 25 Jahren gegründete Trio besteht aus Tobias Siebert, Daniel Moheit und Filip Pampuch. Mit ihren düster-melancholischen Meilensteinen wie dem 2017 erschienenen Album "Desintegration" haben sie sich in Europa eine treue Kult-Anhängerschaft aufgebaut. **Gothic Rock**, Deutschpunk, **Post-Punk** und atmosphärischer **Darkwave**. Willkommen in einer gewaltigen, kathedralenartigen Wand aus purer Post-Punk-Atmosphäre. Das Album tauscht die düstersten, hoffnungslosen dunklen Leere ihrer früheren Werke gegen ein überraschendes, wunderschön offenes musikalisches Layout ein. Frontmann Siebert liefert rohen, kristallklaren deutschen Gesang über einem dichten Meer aus verhallten Gitarren, kühlen Synthesizern und treibenden Beats. Das übergeordnete Thema dreht sich darum, den Menschen, die man liebt, näherzukommen, wenn die Gesellschaft um einen herum auseinanderfällt. Es ist eine wunderschöne, von der Dämmerung erhellte Gothic-Hymne für die moderne Seele.
 
-::genre::
+::genre::goth rock, dark wave, post punk
 
 ## Kybalion - Make The World Bleed
 
-tbd
+Ein äußerst bedrohliches Black-Metal-Quartett aus der italienischen Underground-Szene. Mit ihrem rauen Demo "Through Violence" aus dem Jahr 2022 gelang dem Quartett der Durchbruch; in den folgenden Jahren veröffentlichte sie mehrere Live- und Studioalben sowie Split-Alben und erwarben sich so einen Ruf als kompromisslose Band in der Underground-Szene. **Dissonanter Black Metal**, melodischer Extreme Metal der zweiten Welle und **atmosphärischer Doom**. Zieh dir einen dicken schwarzen Umhang über und schließ deine zerbrechlichen Wertsachen weg, denn diese EP ist ein absoluter Albtraum für deine Ohren. "Make The World Bleed" packt eine atemberaubende Menge an Bösem in eine kurze, rasante Laufzeit von 12 Minuten. Kybalion verbindet rasende, eisige Gitarrenriffs und Blast-Beat-Drumming mit eindringlichen Spoken-Word-Passagen und einem trockenen, rauen Schrei, der klingt, als würde ein Geist aus einer Gruft fluchen. Das Thema ist ein düsterer, philosophischer Blick auf absolute Macht und existenzielle Angst. Es ist gnadenlos heavy, düster-schön und perfekt für die Extreme-Metal-Seele.
 
-::genre::
+::genre::dissonant black metal, atmo doom metal
 
 ## Labrador - The Rosy Red World
 
-tbd
+Eine intensive, politisch engagierte Indie-Rock-Band unter der Leitung des Songwriters Pat King, die von Philadelphia, Pennsylvania, USA, aus agiert. King und seine Kernbesetzung (darunter Gitarrist Hayes, Bassist Hochgertel und Schlagzeuger Kurtz) spielten sich durch regionale DIY-Locations und nahmen dieses stimmige, facettenreiche Album in Philadelphia und den Pocono Mountains auf. **Indie-Rock**, **Post-Punk**, Heartland-**Alternative** und **Noise-Pop**. Wenn du Gitarrenrock mit intellektuellem Tiefgang und messerscharfer Schärfe suchst, ist "The Rosy Red World" genau das Richtige für dich. Das Album behandelt schwere gesellschaftliche Themen - wie moderne Arbeitsbedingungen, Ausbeutung und Vertreibung -, ohne dabei jemals seinen ausgeprägten Sinn für Melodie oder menschliche Wärme zu verlieren. Die Band kombiniert aggressive, bissige Gitarrenriffs mit einer kraftvollen, treibenden Basslinie, die einem direkt in die Brust schlägt. Es ist völlig unprätentiös, unglaublich unmittelbar und dient als dringende Erinnerung daran, seine Freunde nah bei sich zu halten, während die Außenwelt außer Kontrolle gerät.
 
-::genre::
+::genre::indie rock, post punk, alt rock, noise rock
 
-## Lakecia Benjamin - WE DREAM
+## Lakecia Benjamin - WE DREAM *
 
-tbd
+Lakecia Benjamin ist eine gefeierte, dreimal für den Grammy nominierte Altsaxophonistin, Komponistin und Bandleaderin, die in New York City, USA, geboren und aufgewachsen ist. Benjamin verfeinerte ihr Können, indem sie gemeinsam mit Legenden wie Prince, Stevie Wonder und Alicia Keys auf der Bühne stand. Mit ihrem 2020 erschienenen Tributalbum "Pursuance: The Coltranes" und dem 2023 erschienenen Album "Phoenix" hat sie ihren Weg als kraftvolle Solokünstlerin neu definiert. Dieses Meilenstein-Album markiert ihr offizielles Studio-Debüt bei Artwork Records. **Modern Jazz**, **Post-Bop**, **Avantgarde-Jazz**, **R&B** und **Hip-Hop**-Fusion. "WE DREAM" entfaltet sich wie eine filmische, die Seele berührende Parade durch einen neonbeleuchteten Jazzclub. Als helles Licht in einem dunklen Raum konzipiert, setzt das Album dem globalen Chaos mit einem wahren Vulkan brillanter Instrumentierung explizit entgegen. Benjamin lenkt die Tracks wie eine musikalische Zauberin und zieht eine mit Stars gespickte Armee von Gästen an - darunter Terence Blanchard, Black Thought und Hiromi. Ihr Saxophon klagt, gleitet und tanzt über satte Akustikklaviere und schwere Hip-Hop-Grooves. Es ist eine kühne, theatralische und zutiefst hoffnungsvolle Feier der Gemeinschaft, die Ihre Gehirnzellen gründlich verzaubert.
 
-::genre::
+::genre::modern jazz, post bop, avant jazz, r&b, hip hop
 
 ## Laura Misch - Lithic
 
-tbd
+Laura Misch ist eine außergewöhnlich talentierte Saxophonistin, Singer-Songwriterin, Elektronik-Produzentin und Field-Recorderin mit Wohnsitz in London, Großbritannien. Klassisch im Jazz ausgebildet, aber der Natur zutiefst verbunden, hat sich Misch (die Schwester des beliebten Jazz-Pop-Stars Tom Misch) einen hervorragenden Ruf für die Vertonung (Musikalisierung) unseres Planeten erarbeitet. Dieses zweite Album ist ein eindringliches, bodenständiges Gegenstück zu ihrem gefeierten, luftigen Debüt "Sample The Sky". **Folktronica**, **zeitgenössischer Jazz**, düsterer **Dream-Pop** und **Öko-Akustik**. Zieh deine robustesten Stiefel an, denn Laura Misch hat sich für dieses Album im Grunde genommen in eine musikalische Geologin verwandelt. "Lithic" bedeutet mit Stein verbunden, und das gesamte Album wurde physisch in echten Höhlen, Steinbrüchen und Kieswüsten in ganz Europa aufgenommen. Misch legt luftige Pop-Strukturen ab, um eine schwere, tiefe und wunderschön dunkle Klanghöhle zu erschaffen. Sie nutzt das buchstäbliche Kratzen von Steinen als rhythmische Loops, fängt natürliche Höhlenechos für ihr weinendes Saxophon ein und lässt ihre rauchige Stimme über tiefe Bass-Synthesizer und Trommeln aus Ziegenhaut schweben. Es ist ein atemberaubendes, tief bewegendes Stück prähistorischen Art-Pop, das einen völlig in seinen Bann zieht.
 
-::genre::
+::genre::art pop, folktronica, contemporary jazz, dreampop, ambient acoustic
 
 ## Lee "Scratch" Perry & Mouse on Mars - Spatial, No Problem.
 
-tbd
+Eine kraftvolle interkulturelle Zusammenarbeit, die den legendären, verstorbenen Dub-/Reggae-Pionier Lee "Scratch" Perry aus Jamaika mit dem hochkarätigen Elektronik-Produzentenduo Mouse on Mars (Jan St. Werner und Andi Toma) aus Deutschland vereint. Perry war ein wegweisender Vorreiter des Reggae und der Dub-Studiotechnik, der jahrzehntelang Genregrenzen sprengte. Mouse on Mars sind absolute Titanen des experimentellen europäischen IDM. Dieses Projekt ist Perrys offizielles letztes Studioalbum, das während einer historischen, manischen dreitägigen Marathonsession im Paraverse Studio in Berlin kurz vor seinem Tod aufgenommen wurde. **Dub**/Reggae-Revival, **Krautrock**, **Glitch-Electronica** und **Avantgarde-Jazz**. Als Mouse on Mars Lee Perry zunächst fragten, ob er mit komplexen räumlichen Audio-Setups aufnehmen könne, grinste die Ikone nur und antwortete: Räumlich, kein Problem. Das daraus resultierende Album ist eine wilde, farbenprächtige Explosion puren Genies. Perry bestand ausdrücklich darauf, dass dies keine gewöhnliche Reggae-Platte werden sollte, was zu einem aufregenden Mix führte, der New-Orleans-Blasinstrumente, loopende Ambient-Synths und schwere Krautrock-Basslines miteinander vermischt. Perrys raue, prophetische Gesangsechos gleiten darüber hinweg wie ein gütiger Zauberer, der eine Party im Weltraum leitet. Es ist wunderschön, völlig unberechenbar und ein triumphales großes Finale für eine Legende.
 
-::genre::
+::genre::dub, krautrock, glitch, idm, avant jazz
 
-## Les Big Byrd - Ruin Everything
+## Les Big Byrd - Ruin Everything *
 
-tbd
+Eine hochgelobte, wegweisende vierköpfige Psychedelic-Rock-Band aus Stockholm, Schweden. Die Gruppe wurde 2011 vom erfahrenen Songwriter und Produzenten Jocke Åhlund gegründet und hat in den letzten fünfzehn Jahren abwechselnd die schwedischen Mainstream-Rockcharts angeführt und sich eine treue internationale Underground-Fangemeinde aufgebaut. **Krautrock**, **Neo-Psychedelia**, **Space Rock** und **Alternative Rock**. Stellt sicher, dass eure Hausfundamente baulich in Ordnung sind, bevor ihr die Lautstärke aufdreht, denn "Ruin Everything" entfesselt eine gewaltige, Beton erschütternde Wand aus purer kosmischer Freude. Die Band entfernt sich von den langen instrumentalen Space-Jams ihres jüngsten Repertoires und konzentriert sich stattdessen auf fokussierte, rasante Rocksongs, die einem direkt in die Brust treffen. Sie entfesselt einen glorreichen Sturm aus treibenden Motorik-Drum-Patterns, Vollgas-Space-Gitarren und summenden Synthesizern, die wie Sternschnuppen vorbeischießen. Es ist eine wilde, elegante und wunderbar mitreißende Meisterklasse in Sachen Gitarren-Swagger, die danach verlangt, bei maximaler Lautstärke gespielt zu werden.
 
-::genre::
+::genre::space rock, krautrock, neo psych rock, alt rock
 
-## Li Song - toppe bianche
+## Lifted - Movie *
 
-tbd
+Ein avantgardistisches Elektronik- und Jazz-Kollektiv unter der gemeinsamen Leitung der Produzenten Max D (Andrew Field-Pickering) und Co La (Matt Papich) mit Sitz in den Vereinigten Staaten. Lifted agiert als lockeres, stark auf Zusammenarbeit ausgerichtetes experimentelles Projekt unter dem Label Outside Time und stützt sich auf improvisierte Sessions, bei denen vielseitige Underground-Musiker zusammenkommen, darunter namhafte Gastbeiträge von Künstlern wie more eaze und Motion Graphics. **IDM**, **Post-Rock**, **Ambient Jazz**, **Dub** und **Musique Concrète**. Setzt eure besten Kopfhörer auf, denn "Movie" ist buchstäblich ein Kinoerlebnis, das vollständig mit Mikrofonen statt mit Kameras aufgenommen wurde. Das Album funktioniert wie ein brillantes Klangpuzzle, das echte Foley-Soundeffekte - wie Schritte, raschelnde Gegenstände und Umgebungsgeräusche - direkt über langsame, sich windende Jazz-Trompeten-Loops und spacige Dub-Echokammern legt. Es geht so unvorhersehbar und abstrakt mit Klang um, dass es deine Gehirnzellen auf Hochtouren hält. Es spielt sich wie der ultimative, geheimnisvolle Soundtrack zu einem Schwarz-Weiß-Noir-Film, der nur in deinem Kopf existiert.
 
-::genre::
-
-## Lifted - Movie
-
-tbd
-
-::genre::
+::genre::idm, coffee jazz, post rock, ambient, dub, musique concrète
 
 ## Light Bird - See Her
 
-tbd
+Light Bird (Danny Hoshino) ist eine brillante unabhängige Singer-Songwriterin und Folk-Rockerin, die ursprünglich aus Boston stammt und heute in Brooklyn, New York, USA, lebt. Hoshino, die Live-Auftritte mit gemeinnütziger Arbeit an Einrichtungen wie dem Brooklyn Conservatory of Music in Einklang bringt, verbrachte drei Jahre damit, ihren charakteristischen analogen Sound akribisch zu verfeinern. Dieses mit Spannung erwartete Projekt markiert stolz ihr offizielles Debütalbum als Künstlerin. **Folk-Rock**, **Indie-Rock** und atmosphärischer **Chamber Folk**. Dimmen Sie das Licht und setzen Sie sich für dieses Album ein gutes Paar Kopfhörer auf. "See Her" ist ein atemberaubend intimes, die Seele offenlegendes Porträt persönlicher Entwicklung, Identitätswandel und eines ehrlichen Lebens, selbst wenn dies mit einem Preis verbunden ist. Hoshino nutzt ein unglaublich reichhaltiges, warmes Vintage-Röhrenverstärker-Setup, um klingende Gitarren und wehmütige Streicherakzente unter ihre Stimme gleiten zu lassen. Das Album taucht in filmische Momentaufnahmen ein, wie das Weinen in der U-Bahn oder das Finden von Frieden durch die selbst gewählte Familie, und bewegt sich mit einer unvergesslichen, zerbrechlichen Wärme, die sich wie ein stiller Triumph anfühlt.
 
-::genre::
+::genre::indie rock, alt folk, indie folk, chamber music
 
 ## Liz Lawrence - Vespers
 
-tbd
+Liz Lawrence ist eine außergewöhnlich versierte und hochgelobte Indie-Künstlerin, Produzentin und Multi-Instrumentalistin aus Großbritannien. Lawrence gilt als eine der faszinierendsten musikalischen Geschichtenerzählerinnen Großbritanniens und veröffentlicht seit über einem Jahrzehnt von Kritikern gefeiertes Solomaterial (darunter "Peanuts" und "Pity Party") sowie vielbeachtete Kollaborationen. **Indie-Pop**, **Indie-Folk**, **Dark Synth-Pop** und Alt-Electro. Treten Sie ein in einen schummrig beleuchteten Zufluchtsort, denn "Vespers" ist ein atemberaubend schöner Akt musikalischer Hingabe. Das Album, das vollständig in der Asche einer tiefgreifenden persönlichen Tragödie geschrieben und ihrer Schwester gewidmet ist, navigiert meisterhaft durch tiefe Trauer und Herzschmerz, ohne dabei das Gefühl für Rhythmus zu verlieren. Lawrence bedient sich einer schlichten, reduzierten Instrumentierung und kombiniert pulsierende, stimmungsvolle elektronische Bassloops mit klagenden Akustikgitarren und eleganten, eindringlichen Vocals. Es ist ein unglaublich nachdenkliches, therapeutisches und elegisches Meisterwerk, das eine enorme Menge an Trost und emotionaler Katharsis bietet.
 
-::genre::
-
-## Lizzo - BITCH
-
-tbd
-
-::genre::
+::genre::electropop, indie pop, indie folk, synth pop
 
 ## Lovelost - Picking Petals By Your Graveside
 
-tbd
+Ein äußerst melodisches, emotional unverfälschtes Alternative-Rock-Quartett aus dem Südwesten Großbritanniens. Entstanden aus der gemeinsamen Liebe zu Gitarrenstrukturen der frühen 2000er Jahre, sorgte das Quartett mit seiner Debüt-EP "COLLAPSE" aus dem Jahr 2024 schon früh für Aufsehen in der Underground-Szene. Als stolze Markenbotschafter für Fender und Zildjian sind sie darauf spezialisiert, düstere Texte mit energiegeladener Instrumentierung zu verbinden. Old-School-**Emo**-Musik, nostalgischer Emo-Pop und moderner **Alternative-Rock**. Zieh deine besten Skinny-Jeans an und mach dich bereit, in deinem Zimmer herumzuspringen, denn trotz des unglaublich morbiden Titels ist dieses Album ein absoluter Energieschub. "Picking Petals By Your Graveside" ist ein brillanter klanglicher Widerspruch. Es verbindet die ängstlichen, pessimistischen Tagebucheinträge von jemandem, der mit seinen inneren Gedanken kämpft, mit äußerst optimistischen, rasanten Gitarrenriffs und treibenden Punk-Drumbeats. Es ist schnell, brillant eingängig und dient als hochoktaniger Schuss nostalgischen Serotonins für jeden, der mit einem Hauch von alltäglicher existenzieller Angst zu kämpfen hat.
 
-::genre::
+::genre::sad pop punk, alt rock, emocore
 
 ## Lucas Molnar - Dream Waster
 
-tbd
+Ein aufstrebender, technikaffiner unabhängiger Singer-Songwriter und Produzent, der in der digitalen DIY-Szene tätig ist. Molnar ist in erster Linie als Grassroots-Internetmusiker tätig und hat jahrelang kurze, intime Klanglandschaften selbst aufgenommen und produziert. "Dream Waster" ist sein zweites Album in voller Länge, das auf eine Reihe von Online-Demos folgt. **Indie-Folk**, **Alternative-Pop**, **Bedroom-Pop** und **Lo-Fi**-Akustik. Dieses Album fühlt sich genau so an, als würde man eine Schuhschachtel voller handgeschriebener Briefe ganz hinten im Schrank entdecken. "Dream Waster" besticht durch eine wunderschön sparsame Klangarchitektur aus sanftem Akustikgitarrenspiel, zurückhaltenden Keyboardklängen und rohem, gesprächigem Gesang. Das übergreifende Thema taucht kopfüber in das wunderschön komplizierte Durcheinander ein, das entsteht, wenn man großen Erwartungen nachjagt, mit Isolation umgeht und erkennt, dass das Traumland, in das man gezogen ist, nicht ganz dem entspricht, was man sich vorgestellt hat. Es ist ein wunderbar zerzaustes, gemütliches Stück hausgemachter Indie-Folk, das sich wie eine warme Decke um die Ohren legt.
 
-::genre::
-
-## Luh Tyler - Destined For Greatness
-
-tbd
-
-::genre::
-
-## Luna Day - Hostage of the Heart
-
-tbd
-
-::genre::
+::genre::indie folk, alt folk, alt pop, bedroom pop, lofi
 
 ## madfolk - madfolk
 
-tbd
+Eine energiegeladene Indie- und Punk-Band aus Toronto, Ontario, Kanada. Die Band hat sich schnell zu einer spannenden neuen Stimme in der kanadischen Alternative-Szene entwickelt und einen Vertrag bei dem renommierten Label Royal Mountain Records unterzeichnet, um ihre nostalgische Gitarrenästhetik einzufangen. **Power-Pop**, **Indie-Rock** der 1990er und **Alternative Rock**. Dieses Album ist ein rasender, verzerrter und farbenfroher Adrenalinstoß, der klingt, als würde eine Gruppe von Freunden aus Kindertagen um 2 Uhr morgens versuchen, das Erwachsensein zu entschlüsseln. "madfolk" webt ein wunderschönes Klanggewebe aus nervösen, klirrenden Gitarrenlinien, treibenden Bass-Tempos und mehrstimmigem Gesang, der voller jugendlicher Unsicherheit steckt. Das Album betrachtet das schöne Chaos des Erwachsenwerdens und verwandelt existenzielle Angst in eine aufregende Party. Es ist wild, energiegeladen und stillt perfekt das Verlangen nach dem nostalgischen Indie der 90er.
 
-::genre::
+::genre::power pop, indie rock, alt rock
 
 ## Madsen - Smile
 
-tbd
+Eine hochgelobte, seit langem bestehende Rock-Institution aus dem Wendland in Niedersachsen. Die 2004 gegründete Band blickt auf zwei Jahrzehnte ungebrochenen kommerziellen Erfolgs zurück und erreichte mit ihrem 2023 erschienenen Album "Hollywood" bekanntlich Platz 1 der deutschen Charts. "Smile" markiert stolz den Meilenstein des zehnten Studioalbums ihrer Karriere. Deutscher **Indie-Rock**, **Alternative-Pop-Rock** und Deutschrock. Getreu seinem fröhlichen Titel fühlt sich dieses Album genau so an, als würde man mit einem breiten Grinsen in ein sonniges Sommerfestival-Wochenende starten. Die zwölf Tracks verbinden mühelos kraftvolle Rock-Gitarrenakkorde und stadiontaugliche Melodien mit einem zarten Hauch norddeutscher Melancholie. Die Themen tauchen ein in persönliche Interaktionen, sich wandelnde kulturelle Zeiten und den Kampf um die eigene geistige Gesundheit. Es ist völlig unprätentiös, unglaublich eingängig und liefert einen spektakulären Schuss musikalischen Optimismus.
 
-::genre::
+::genre::indie rock, alt rock, alt pop, indie pop
 
-## Magefa - Legion
+## Maneating Orchid - Cold Logic *
 
-tbd
+Ein rasantes, hochtechnisches Extreme-Metal-Kraftpaket aus Bangalore, Indien. Die vierköpfige Band hat sich über Jahre hinweg in der globalen Underground-Rockszene einen Namen für ihre rasanten, kantigen und unvorhersehbaren Musikstrukturen gemacht. Unterstützt vom neuen, blitzschnellen Schlagzeuger Vishnu Reddy markiert dieses Projekt ihr wegweisendes drittes Album in voller Länge. **Dissonanter Death Metal**, **Progressive Metal** und **Metallic Hardcore**. Vergewissere dich, dass die Fundamente deines Hauses unglaublich stabil sind, bevor du auf Play drückst, denn "Cold Logic" ist eine unerbittliche Bulldozermaschine aus purem akustischem Chaos. Das Album verzichtet komplett auf die üblichen Radioformeln und liefert stattdessen ein 34-minütiges Labyrinth aus zerklüfteten Gitarren-Math-Riffs, betonbrechenden Blastbeats und höllischen Brüllen, die direkt aus der Unterwelt zu kommen scheinen. Das Thema zieht dich direkt in einen dunklen Science-Fiction-Horrorfilm, in dessen Mittelpunkt Isolation im Weltraum und kosmische Angst stehen. Es ist wunderschön unberechenbar, intensiv heavy und ein absolutes Paradies für Tech-Metal-Fans, die zu einem Puzzle headbangen wollen.
 
-::genre::
-
-## Makes My Blood Dance - Z3r0 2 LGHT $p33d!
-
-tbd
-
-::genre::
-
-## Maneating Orchid - Cold Logic
-
-tbd
-
-::genre::
-
-## Manja Ristić - Devet
-
-tbd
-
-::genre::
+::genre::dissonant death metal, prog metal, metelcore
 
 ## Manuela - Ultraviolet
 
-tbd
+Die kollaborative Art-Pop-Vision der Sängerin und Songwriterin Manuela Gernedel, die zwischen London (Großbritannien) und München (Deutschland) pendelt. Acht Jahre nach ihrem gefeierten Debüt von 2017 kehrt Gernedel mit ihrem lang erwarteten zweiten Album zurück, das sie in Bayern aufgenommen hat. Produziert wurde es gemeinsam mit ihrem langjährigen Partner Nick McCarthy (ehemaliger Gitarrist von Franz Ferdinand) und Polina Lapkovskaya, wobei Laetitia Sadier von Stereolab als Gast mitwirkt. **Art-Pop**, schimmernder **Elektropop**, französischer **Chanson** der 1960er Jahre und **Indie-Pop**. Diese Platte fühlt sich genau so an, als würde man um Mitternacht eine neblige Stadtstraße entlanghüpfen, während man eine Sammlung surrealer Märchen liest. "Ultraviolet" umrahmt seine verspielten und doch leicht düsteren Popsongs mit dem, was Manuela als radikale Zärtlichkeit und Optimismus bezeichnet. Musikalisch erwartet einen eine herrlich eklektische Mischung aus kratzigen Gitarrenriffs, retro-analogen Synthie-Klängen und sanften, nonchalanten Vocals, die durch Geschichten von leeren Kirchen und nächtlichen Spielern gleiten. Es ist ein unglaublich charmantes, witziges und mühelos cooles Pop-Album, in dem man sich vollkommen verlieren kann.
 
-::genre::
+::genre::art pop, electropop, chanson, indie pop
 
-## Marco Ragni - The Radical Act
+## Marco Ragni - The Radical Act *
 
-tbd
+Marco Ragni ist ein Multi-Instrumentalist, Singer-Songwriter und produktiver Komponist psychedelischer Musik aus Italien. Mit einem über zwei Jahrzehnte umfassenden Solowerk ist Ragni für seine üppigen, weitläufigen Kompositionen bekannt. Für dieses ambitionierte Rockprojekt tat er sich mit dem norwegischen Gitarristen Bjørn Riis (bekannt durch Airbag) zusammen, um die Trackliste um gewaltige, schwungvolle Gitarrenparts zu bereichern. **Psychedelic Rock**, **Modern Progressive Rock** und **Space Rock**. Schnallt euch an und setzt eure Lieblings-Vintage-Kopfhörer auf, denn dieses Album ist eine rasante Raketenreise durch eine Neon-Galaxie. "The Radical Act" bietet ein wahres Festmahl aus klassischen Mellotron-Synthesizer-Layern, wechselnden progressiven Taktarten und klagenden Gitarren-Leads, die hoch über die Wolken schweben. Die Gesamtstimmung wirkt wunderbar theatralisch und retro und verbindet die Space-Attitüde von Pink Floyd aus den 1970er Jahren mit einem eleganten, modernen Produktions-Punch. Es ist der ultimative Audio-Begleiter, um ein kühles Getränk zu öffnen und zuzusehen, wie die Sterne zum Leben erwachen.
 
-::genre::
+::genre::prog rock, space rock, psych rock
 
 ## Maya Dunietz & Solistenensemble Kaleidoskop - The Sound of Difference and Connection
 
-tbd
+Maya Dunietz ist eine renommierte Avantgarde-Komponistin, Performerin und Klangforscherin aus Israel, die mit dem Solistenensemble Kaleidoskop zusammenarbeitet, einem Grenzen überschreitenden Streichensemble mit Sitz in Berlin. Dunietz genießt hohes Ansehen für ihre experimentelle künstlerische Forschung zu Frequenzen und Klangphysik. Für dieses ganz besondere Projekt tat sie sich mit dem renommierten Berliner Kammerensemble zusammen, um die musikalische Oktave in 15 ungleiche Teile zu unterteilen und dabei die standardmäßige feste Stimmung aufzugeben. **Avantgarde-Jazz**, **moderne Klassik**, mikrotonaler akustischer **Drone** und Minimalismus. Dieses Album fühlt sich genau so an, als betrete man ein Hightech-Wissenschaftslabor, in dem eine Gruppe von Streichern versucht, den Klang eines menschlichen Gedankens einzufangen. "The Sound of Difference and Connection" basiert auf einem unglaublich coolen Konzept: Die Musiker stimmen nicht auf Standardtöne ab; stattdessen verändern sie buchstäblich ihren physischen Abstand auf der Bühne, um akustische Schwingungen zu verlangsamen oder zu beschleunigen. Das Ergebnis ist eine sich langsam bewegende, atmende Welle wunderschöner Störgeräusche, die menschliche Alphawellen nachahmt. Es ist eine zutiefst meditative, intellektuelle Erfahrung, die einen zwingt, völlig zur Ruhe zu kommen und einfach nur zuzuhören.
 
-::genre::
+::genre::avant jazz, experimental electronica, modern classic
 
 ## Medusa’s Wrath - The Seventh Plague Of Babylon
 
@@ -1072,13 +856,13 @@ Mike Lorenz ist ein äußerst raffinierter, technisch brillanter Jazzgitarrist u
 
 ::genre::coffee jazz, modern jazz
 
-## Modest Mouse - An Eraser and A Maze
+## Modest Mouse - An Eraser and A Maze *
 
 Eine legendäre, äußerst einflussreiche Indie-Rock-Institution, die ursprünglich aus Issaquah, Washington, USA, stammt. Modest Mouse wurde vor über 30 Jahren gegründet und ist seit langem ein prägender Vorreiter des eigenwilligen, energiegeladenen College-Rock. "An Eraser and A Maze" markiert ein wichtiges Kapitel: Es ist ihr erstes Album seit dem Weggang von Epic Records und der Rückkehr zu ihren vollständig unabhängigen Wurzeln sowie ihre erste vollständige Veröffentlichung nach dem tragischen Tod des Gründungsschlagzeugers Jeremiah Green im Jahr 2022. **Indie-Rock**, **Post-Punk**, **Alternative Art-Rock** und **psychedelischer Garage-Pop**. Dieses Album spielt sich wie ein hyperaktiver Computer ab, der versucht, sich durch ein weitläufiges Labyrinth zu navigieren, während er eine wunderschöne Midlife-Crisis durchlebt. Frontmann Isaac Brock liefert eine glorreiche, zerzauste Explosion aus nervösen, klirrenden Gitarren, klickenden Percussion-Arrangements und seinem charakteristischen, jaulenden, sarkastischen Gesangsstil. Das Kernthema dreht sich um die Bewältigung tiefer Trauer, persönlicher Übergänge und das Vorankommen, selbst wenn der Weg zurück in ungelöste Schleifen führt. Es ist völlig unprätentiös, unglaublich eingängig und strotzt vor einer wilden, authentischen Indie-Pop-Energie.
 
 ::genre::alt rock, indie rock, post punk, art rock, psych pop, prog pop
 
-## Mustafa Stefan Dill - Hidden Promises In Joined Terrains, Apex Emerging
+## Mustafa Stefan Dill - Hidden Promises In Joined Terrains, Apex Emerging *
 
 Mustafa Stefan Dill ist ein interkultureller Virtuose, der in New Mexico, USA, als Sohn einer mexikanischen Mutter und eines deutsch-irischen Vaters geboren wurde. Als Gitarrist, Komponist und seit über 30 Jahren Meister der traditionellen Oud verfügt Dill über einen Master-Abschluss des renommierten New England Conservatory. Er tourte ausgiebig durch Europa und spielte alles von traditionellen Flamenco-Festivals bis hin zu grenzüberschreitenden Avantgarde-Kreisen; sogar Metal-Ikonen wie Karl Sanders von Nile profitierten von seinem atemberaubenden Talent auf der fretless Gitarre. Oud-**Fusion** aus dem Nahen Osten, **Free Jazz**, avantgardistische Gitarrenimprovisation und **Progressive Rock**. Dieses Album klingt wie ein verrückter Wissenschaftler, der versucht, aus traditionellen akustischen Weltinstrumenten und avantgardistischen Jazztheorien ein Raumschiff zu bauen. Mit "Hidden Promises In Joined Terrains" entführt Apex Emerging die Zuhörer in eine schwindelerregende, wunderschöne Klanglandschaft, in der mikrotonale Oud-Saiten und fretless Gitarren sich durch unregelmäßige, wechselnde Taktarten schlängeln. Das Thema wirkt durch und durch filmisch, explorativ und uralt und zieht einen in ein tiefes musikalisches Labyrinth, in dem jede Wendung einen unerwarteten Rhythmus offenbart. Es ist eine dichte, intellektuelle und höchst befriedigende Reise für alle, die Musik lieben, die absolut einzigartig klingt.
 
