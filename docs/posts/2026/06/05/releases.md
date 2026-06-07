@@ -1,7 +1,7 @@
 ---
 date: 2026-06-05
 pin: true
-bandcamp: false
+bandcamp: true
 categories:
   - Releases
 ---
@@ -10,551 +10,347 @@ categories:
 
 ## 100 Demons - Embrace The Black Light
 
-tbd
+Ein legendäres, kraftvolles fünfköpfiges Metalcore-Kollektiv aus Waterbury, Connecticut, USA. Die Mitte der 1990er Jahre gegründete Band hat sich ein wild-chaotisches, kompromissloses Vermächtnis aufgebaut, das von betonharten Breakdowns und roher sozialer Frustration geprägt ist. In der weltweiten Underground-D.I.Y.-Heavy-Szene werden sie für ihre kompromisslose Straßenpräsenz und ihren knallharten Live-Sound allseits verehrt. **Metallic Hardcore**, **Beatdown** und **Crossover Thrash**. Schließt eure zerbrechlichen Haushaltsgegenstände weg und klebt eure Sneakers fest mit Klebeband ab, bevor ihr auf Play drückt, denn diese Platte ist eine absolute akustische Dampfwalze. "Embrace The Black Light" trifft euch wie ein massiver Ziegelstein aus ungefiltertem Punk-Muskelkraft und packt einen verheerenden Sturm aus gnadenlosen, überverzerrten Thrash-Gitarrenriffs, Maschinengewehr-Blastbeats und kehlenschneidenden Brüllen. Textlich ist das Album ein kompromissloser Stinkefinger gegen institutionelle Korruption, Straßenpolitik und das Überleben gegen alle Widrigkeiten. Es ist ein roher, mit Höchstgeschwindigkeit abgefeuerter Schuss reinen Adrenalins, der ausschließlich dafür gemacht ist, dein Schlafzimmer in einen wilden Moshpit zu verwandeln.
 
-::genre::
+::genre::metallic hardcore, beatdown, crossover
 
-## A.A. Williams - Solstice
+## A.A. Williams - Solstice *
 
-tbd
+Eine außergewöhnlich versierte und hochgelobte Sängerin, Songwriterin und Multi-Instrumentalistin aus Großbritannien. Williams, die eine klassische Ausbildung in Klavier und Cello genossen hat, erlangte mit ihren Alben "Forever Blue" und "As The Moon Rests" große Anerkennung bei den Kritikern. In der Heavy- und Alternative-Szene wird sie allseits für ihren herzzerreißenden Gesang mit der Stimme einer alten Seele und ihre Verschmelzung von reichhaltigen Orchesterarrangements mit Heavy-Rock-Klängen verehrt. **Gothic Folk**, **Post-Rock**, **Dark Classical** und atmosphärischer **Alternative**. Stell dir vor, du trittst aus einem plötzlichen Regenguss direkt in einen von Kerzen beleuchteten Steinraum, wo jemand auf einer Akustikgitarre sein Herz ausschüttet. "Solstice" steigert persönliche Verletzlichkeit auf maximale Intensität und überlagert zarte, vom Klavier getragene Meditationen, weinende Streicheraufschwünge und langsam aufbauende Gitarren-Crescendos mit ihrer durchdringenden, samtigen Stimmlage. Ohne Details über persönliche Isolation, Beziehungskonflikte und das Bewältigen der chaotischen Hürden tiefer Trauer zu verschweigen, bewegt das Album mit einer unvergesslichen, zerbrechlichen Wärme. Es ist ein atemberaubend reifes, bittersüßes Meisterwerk, das dein Nervensystem augenblicklich zurücksetzt.
 
-::genre::
+::genre::alt folk, dark folk, alt rock, post grunge, post rock
 
 ## A.L.I.S.O.N - A.E.R.O
 
-tbd
+Ein außergewöhnlich talentierter unabhängiger Produzent elektronischer Musik und Multi-Instrumentalist, der in der digitalen Synthwave-Szene tätig ist. Der Künstler hat sich ein riesiges Online-Imperium mit Millionen von Streams aufgebaut, das ausschließlich auf Internet-Subkulturen und DIY-Portalen basiert. Er hat sich darauf spezialisiert, nostalgische Y2K-Synthesizer-Strukturen zu nutzen und sie zu hypermodernen, panoramischen digitalen Landschaften zu erweitern. **Synthwave**, **Chillwave**, **Dreamwave** und **Cinematic Electronica**. Wenn sich dein Gehirn von hundert gleichzeitig geladenen Webbrowser-Tabs völlig überfordert fühlt, ist "A.E.R.O." der sofortige, beruhigende Reset-Knopf, den du brauchst. Das Album schichtet wunderschön knackige, leuchtende Synthesizer-Pads, summende Vocal-Loops und beschwingte elektronische Loops mit absoluter Präzision. Das Kernthema wirkt wie eine schöne, optimistische Meditation darüber, wie man mit moderner Bildschirmmüdigkeit umgeht und im täglichen technologischen Chaos sein mentales Gleichgewicht findet. Es geht mit seinen Arrangements so mühelos cool und lässig um, dass es deinen Geist völlig in Trance versetzt.
 
-::genre::
+::genre::vapor wave, synth wave, synth pop, new retro wave
 
 <!-- more -->
 
-## Above & Beyond - Anjunabeats Volume 17
-
-tbd
-
-::genre::
-
-## absent - MISERY
-
-tbd
-
-::genre::
-
 ## Abysmal Growls Of Despair - Torn
 
-tbd
+Ein gnadenloses, äußerst einfallsreiches Ein-Mann-Projekt aus den Bereichen Extreme Funeral Doom und Drone Metal, das vollständig vom Multi-Instrumentalisten Hangsvart in Toulouse, Frankreich, geleitet wird. Seit über einem Jahrzehnt arbeitet Hangsvart in einem unglaublich produktiven Tempo und wird als absoluter Titan der internationalen Dark-Ambient- und Funeral-Metal-Szene hochgeschätzt. Er ist bekannt dafür, dichte, klaustrophobische und wahrhaft furchteinflößende Klangwände zu erschaffen, die wie Filmmusik wirken. Extreme **Funeral-Doom-Metal**, **Dark Ambient** und Orchestral **Drone**. Willkommen zu einem grandiosen, pechschwarzen Horrorfilm, der exklusiv für deine Trommelfelle konzipiert wurde. "Torn" zerreißt das höfliche Regelwerk der Musik vollständig und stürzt dich kopfüber in eine unterirdische Höhle, gefüllt mit sub-bassigen Synthesizer-Brummen, rasselnden rituellen Percussions und höhlenartigen, kehligen Growls, die klingen wie ein buchstäblicher Dämon, der aus der Unterwelt brüllt. Das übergeordnete Thema behandelt rohe existenzielle Angst, kosmische Bedeutungslosigkeit und psychologische Last ohne jeglichen Kompromiss. Es ist ein dichter, intellektueller und atemberaubend schwerer akustischer Albtraum, der dich zwingt, völlig zur Ruhe zu kommen und deinen Geist in eine dunkle Leere entschweben zu lassen.
 
-::genre::
+::genre::funeral doom, dark ambient, drone
 
 ## Acid Ghost - Once Upon a Time, There Was a Ghost
 
-tbd
+Acid Ghost ist das Soloprojekt des unabhängigen Singer-Songwriters und Lo-Fi-Produzenten Mikey aus San Francisco, Kalifornien, USA. Seit einem Jahrzehnt ist Acid Ghost in der DIY-Underground-Szene der Bay Area aktiv und hat sich mit seinen charakteristischen, vernebelten Tape-Delay-Texturen, strandigen Gitarrenloops und seinem entspannten, nonchalanten Gesangsstil eine riesige internationale Kult-Anhängerschaft aufgebaut. **Lo-Fi-Indie-Rock**, **Bedroom Pop**, **Surf-Punk** und **Dream Pop**. Dieses Album fühlt sich genau so an, als würde man ein staubiges, verblasstes Polaroid aus einem Schuhkarton ganz hinten im Schrank ziehen und über eine alte Sommererinnerung lächeln. "Once Upon a Time, There Was a Ghost" steigert persönliche Verletzlichkeit auf maximale Intensität und überlagert Mikeys charakteristischen rauchigen Gesang mit klirrenden E-Gitarren-Akkorden, treibenden Basslinien und knackigen Drum-Machines. Ohne Details über Teenager-Tagträume, Social-Media-Burnout und das Navigieren durch die chaotischen Hürden der frühen Zwanziger zu verschweigen, ist das Thema vollkommen ehrlich, roh und tröstlich. Es ist ein mitreißendes, raues Gitarrenalbum, das als ultimativer Soundtrack für eine nächtliche Fahrt auf einer neonbeleuchteten Küstenstraße dient.
 
-::genre::
+::genre::indie rock, dreampop, bedroom pop, surf punk
 
 ## Aeger Anima - The Falling Leaves
 
-tbd
+Ein zutiefst melancholisches, atmosphärisches Doom-Projekt aus der europäischen Underground-Metal-Szene. An den Rändern unabhängiger Kassetten-Tauschbörsen und digitaler Musikplattformen angesiedelt, betrachten die Musiker hinter Aeger Anima Musik als rein therapeutisches und spirituelles Medium und ziehen erdrückende Klangwände, langsame Tempowechsel und rohe Raumakustik radiotauglichen Strukturen vor. **Funeral Doom Metal**, **Depressive Rock** und **Ambient Drone**. Bitte stellt sicher, dass die Fundamente eures Wohnzimmers strukturell solide sind, denn "The Falling Leaves" trifft euch mit der ganzen Wucht einer einstürzenden Bergkette in die Brust. Das Album verzichtet gänzlich auf schnelle Hooks und setzt stattdessen auf einen gnadenlosen Sumpf aus kreissägeartigen Drop-Tunings und tiefen, monsterhaften Kehlgrunzen, die sich im Tempo eines Gletschers vorwärtsschleppen. Das übergeordnete Thema zeichnet ein psychologisches Bild des Verfalls im Herbst, des Wechsel der Jahreszeiten und der natürlichen Schönheit, die in absoluter Isolation verborgen liegt. Es ist ein dichtes, wunderschönes Rock-Monument, geschaffen, um in stockfinsterer Dunkelheit gehört zu werden.
 
-::genre::
+::genre::funeral doom, ambient, drone
 
 ## Aetere - Theogonie
 
-tbd
+Ein äußerst atmosphärisches, cineastisches Black-Metal-Studio-Projekt aus Deutschland. Als äußerst eigenständige Kraft innerhalb der europäischen Extreme-Metal-Szene hat sich Aetere auf lange, vielschichtige Stücke spezialisiert, die weitläufige melodische Aufbauten und historische Mythologien gegenüber dem üblichen Kurzformat bevorzugen. **Atmosphärischer Black Metal**, Pagan Metal und **Post-Black Metal**. Hüllt euch in einen schweren Wintermantel und lasst eure modernen Landkarten zurück, denn "Theogonie" versetzt euer Bewusstsein augenblicklich direkt in die Antike. Getreu seinem epischen, klassischen Titel entfaltet sich das Album wie ein zum Leben erweckter, weitläufiger Dark-Fantasy-Comic, der frostige Tremolo-Gitarren, marschierende Trommeln und akustische Folk-Streicher miteinander verbindet. Der Gesang wechselt zwischen verzweifelten, rauen Schreien und dramatischen Sprechpassagen, die klingen, als würde ein Zauberer am Lagerfeuer Geistergeschichten erzählen. Es ist majestätisch, wunderschön düster und ein absolutes Paradies für Extreme-Metal-Puristen, die sich in tiefer Folklore verlieren wollen.
 
-::genre::
-
-## Agassi - Arcade Melodies
-
-tbd
-
-::genre::
-
-## Alex Dowling - Breathers
-
-tbd
-
-::genre::
-
-## Alexandra King - Across the Pond
-
-tbd
-
-::genre::
+::genre::atmo black metal, post black metal
 
 ## Alunah & Samavayo - Embers Of Belief
 
-tbd
+Eine schlagkräftige europäische Metal-Allianz, die die Doom-Rock-Band Alunah aus Birmingham, Großbritannien, mit dem Stoner-Prog-Trio Samavayo aus Berlin, Deutschland, zusammenbringt. Alunah ist ein Eckpfeiler der britischen, von Black Sabbath inspirierten Doom-Szene, angeführt von der bezaubernden Stimme von Siân Greenaway. Samavayo ist seit mehr als zwei Jahrzehnten fest als unermüdlich tourende Größe der kontinentalen Underground-Rock-Szene etabliert. Die beiden Kräfte haben sich zusammengetan, um diese besondere Split-Platte zu veröffentlichen. **Doom Metal**, **Stoner Rock**, **Heavy Psych** und **Desert Rock**. Schnallt euch an und macht euch bereit für eine Lawine absoluter Gitarrenpower, denn "Embers Of Belief" ist eine Non-Stop-Achterbahnfahrt mit Vollgas. Alunah eröffnet die Platte mit einem rauchigen, ritualistischen Sludge-Groove, gekrönt von hochfliegendem, majestätischem Gesang, der wie ein Fluch vom Gipfel eines Berges klingt. Dann übernimmt Samavayo das Steuer und schaltet in blitzschnelle, progressive Desert-Rock-Riffs, die den Staub direkt von euren Deckenventilatoren rütteln werden. Es ist eine unprätentiöse, atemberaubende Feier der Heavy-Musik, die eure Seele gründlich mit Energie auflädt.
 
-::genre::
+::genre::doom metal, stoner rock, desert rock, psych rock
 
-## American Cream Band - Twin
+## American Cream Band - Twin *
 
-tbd
+Ein höchst experimentelles, frei gestaltetes Psychedelic-Rock-Kollektiv mit Sitz in Minneapolis, Minnesota, USA. Unter der Leitung des produktiven Multi-Instrumentalisten Nathan Nelson agiert die American Cream Band als wechselndes Kollektiv, in dem Veteranen der Indie-, Punk- und Jazz-Szene des Mittleren Westens mitwirken. Sie haben sich im Underground einen Namen für ausufernde, hypnotische Aufnahmen gemacht, die sich ganz auf rohe Raumenergie und spontane Klangcollagen konzentrieren. **Psychedelic Rock**, **Krautrock**, **Avantgarde-Jazz-Rock** und experimenteller **Drone**. "Twin" fühlt sich genau so an, als würde man einen schummrig beleuchteten, rauchgefüllten Keller betreten, in dem seit drei Tagen ununterbrochen eine Underground-Jam-Session läuft. Das Album stützt sich auf eine fantastische, schwindelerregende Kombination aus motorischen Krautrock-Drum-Patterns, lockeren Saxophonklängen und überverzerrten Gitarren, die einem um den Kopf wirbeln. Das übergreifende Thema spielt wunderbar mit Dualität und psychischen Verbindungen. Es ist ein wunderbar zotteliges, ungeschliffenes Art-Rock-Puzzle, das deine Gehirnzellen voll und ganz auf Trab hält.
 
-::genre::
+::genre::krautrock, psych rock, avant rock, avant jazz, jazz fusion, drone
 
 ## Ancient Rivalry - What Lives Beneath
 
-tbd
+Ein donnerndes, kraftvolles Metal-Kollektiv, das aus der unabhängigen globalen Heavy-Metal-Szene hervorgegangen ist. Diese eingespielte fünfköpfige Band hat sich über Jahre hinweg in lokalen Live-Locations und unabhängigen digitalen Plattformen einen Namen gemacht - dank mathematischer Präzision, technischer Perfektion und der Bewahrung des dunklen, ungeschliffenen Geistes der alten Metal-Tradition. **Melodic Death Metal**, **Thrash Metal** und dissonanter Extreme Metal. Sichert eure zerbrechlichen Haushaltsgegenstände und spannt eure Nackenmuskeln an, bevor ihr auf Play drückt, denn "What Lives Beneath" ist eine regelrechte akustische Dampfwalze. Getreu seinem bedrohlichen, apokalyptischen Titel verzichtet das Album gänzlich auf radiotaugliche Formeln und stürzt euch kopfüber in einen unerbittlichen Schneesturm aus betonbrechenden Drop-Tunings, Maschinengewehr-Blastbeats und höhlenartigen, kehligen Brüllen, die direkt aus der Unterwelt zu kommen scheinen. Die lyrischen Themen bewegen sich zwischen Tiefsee-Horror, antiker Mythologie und psychologischem Terror und schaffen einen Ausgleich zwischen purer Härte und wunderschönen, weitläufigen atmosphärischen Räumen. Es ist eine intelligente, majestätische und höchst befriedigende Reise für jeden engagierten Metal-Puristen.
 
-::genre::
-
-## Anna Lola - TIEMPO
-
-tbd
-
-::genre::
-
-## anotherspace - SUPERNOVA
-
-tbd
-
-::genre::
+::genre::melo death metal, thrash metal
 
 ## Any Young Mechanic - The Modern Shoe Is Ruining The Foot
 
-tbd
+Ein äußerst exzentrisches, äußerst eigenständiges Alternative-Rock-Kollektiv, das aus der Underground-DIY-Musikszene hervorgegangen ist. Diese eng verbundene Band, die aus aktiven lokalen Live-Locations hervorgegangen ist, hat jahrelang rohe Aufnahmen aus dem Proberaum selbst produziert und dabei authentische Live-Energie sowie pointierte, ungeschliffene Texte gegenüber glattem kommerziellem Format vorgezogen. Ein Crossover aus **Post-Punk**, **Indie-Rock**, **Slacker-Pop** und **Garage-Punk**. Dieses Album fühlt sich genau so an, als würde man eine längst verloren geglaubte College-Rock-Kassette aus den 1990ern ganz hinten in der Garage entdecken und feststellen, dass es dein absoluter neuer Lieblingsalbum ist. Mit dem urkomisch-bizarren Titel "The Modern Shoe Is Ruining The Foot" entfesselt das Album einen glorreichen Sturm aus treibenden Post-Punk-Basslines, klirrenden Gitarren-Hooks und rotzfrechen Vocals, die vor trockenem Sarkasmus nur so triefen. Die Texte nehmen den anstrengenden Alltag moderner Erwachsener, soziale Konformität und Quarter-Life-Angst scharfsinnig und witzig aufs Korn. Das Album ist völlig unprätentiös, unglaublich eingängig und der perfekte Soundtrack, um mit einem unbekümmerten Lächeln in deinem Schlafzimmer zu headbangen.
 
-::genre::
-
-## ApolloRed1 - Demon Heart Radio
-
-tbd
-
-::genre::
+::genre::indie rock, post punk, slacker rock, garage punk
 
 ## Apostle - A Splinter In The Infinite Noumenon
 
-tbd
+Ein äußerst avantgardistisches, Grenzen sprengendes Extreme-Metal-Studio-Projekt aus der Underground-Metal-Szene. Diese rätselhafte Formation, die an den Randbereichen unabhängiger Heavy-Metal-Portale anzutreffen ist, hat sich über Jahre hinweg einen elitären Ruf für mathematische Präzision, technische Perfektion und die Behandlung von Musik als fließende, unvorhersehbare akustische Skulptur erarbeitet. **Dissonanter Black Metal**, **Progressive Death Metal** und **Avantgarde-Metal**. Diese Platte entfaltet sich wie ein tiefgründiger, mysteriöser Science-Fiction-Film, der einen abtrünnigen Satelliten verfolgt, der durch ein Schwarzes Loch driftet und dabei eine absolute existenzielle Krise durchlebt. "A Splinter In The Infinite Noumenon" wirft die traditionellen Regeln des Pop-Rhythmus komplett über Bord und setzt stattdessen auf ein spannendes, rätselhaftes Labyrinth aus klickenden Percussion-Edits, unerwarteten elektronischen Drones und einem trockenen, rauen Gesangsschrei, der klingt, als würde ein Geist von den Dachsparren herabfluchen. Das Thema befasst sich mit rohen philosophischen Berechnungen, kosmischer Irrelevanz und dem Blick auf die Unendlichkeit des Geistes. Es ist eine intellektuelle, majestätische und höchst befriedigende Klangreise, die für abenteuerlustiges Hören mit Kopfhörern konzipiert ist.
 
-::genre::
+::genre::dissonant black metal, prog death metal, avant metal
 
 ## Archivist - Summertime, Never End
 
-tbd
+Ein aufstrebender, technikaffiner unabhängiger Produzent elektronischer Musik, Songwriter und Multi-Instrumentalist, der in der globalen DIY-Pop-Szene der Schlafzimmer-Musik aktiv ist. Der Künstler baut sich über alternative Internet-Audio-Portale eine treue Basis-Community von Hörern auf und hat sich darauf spezialisiert, Vintage-Analogsynthesizer zu nutzen und diese zu hypermodernen, sonnendurchfluteten Klangskizzen zu verarbeiten. **Indie-Pop**, **Chillwave**, **Synth-Pop** und **Dream-Pop**. Stell dir vor, du trittst aus einem plötzlichen Sommergewitter direkt in einen gemütlichen, kerzenbeleuchteten Strandbungalow, wo eine sanfte Brise die Vorhänge umweht. Getreu seinem nostalgischen Titel "Summertime, Never End" steigert das Album persönliche Verletzlichkeit auf maximale Intensität und überlagert träge Synthesizer-Klänge, summende Gesangsechos und leuchtende Bedroom-Pop-Loops mit einer wunderschönen, ungezwungenen Energie. Ohne Details darüber zu verschweigen, wie man der Jugend nachjagt, mit vorübergehender Isolation umgeht und sich in wechselnden Freundschaften zurechtfindet, sorgt es für einen absoluten Rausch an Wohlfühl-Serotonin, der als ultimativer Begleiter für einen nächtlichen Roadtrip dient.
 
-::genre::
+::genre::indie pop, synth wave, synth pop, dreampop
 
 ## Armen Donelian - Inquiry
 
-tbd
+Armen Donelian ist ein äußerst versierter Jazzpianist, Komponist und Autor von Weltklasse, der in New York City, New York, USA, lebt. Mit einem musikalischen Stammbaum der Extraklasse blickt Donelian auf jahrzehntelange Auftritte an der Seite von Jazzgrößen (darunter Sonny Rollins und Mongo Santamaria) zurück und war als angesehener Dozent an der New School und der William Paterson University tätig. Er ist bekannt für seine reichhaltigen harmonischen Texturen und die Verschmelzung seiner nahöstlichen Wurzeln mit dem traditionellen amerikanischen Jazz. **Post-Bop**, **Modern Jazz**, akustische **Improvisation** und **Chamber Jazz**. Treten Sie direkt ein in eine schummrig beleuchtete, bläulich getönte Lounge im Greenwich Village der 1960er Jahre und schenken Sie sich ein kühles Getränk ein, denn dieses Album ist purer akustischer Luxus. "Inquiry" verzichtet auf auffällige moderne digitale Produktionstricks und lässt stattdessen warme, fließende Klaviermelodien mühelos über Walking-Bass-Muster und lebendige, atmende Percussion tanzen. Das übergeordnete Thema wirkt wie ein tiefgründiges, philosophisches Gespräch unter Freunden, das Tempo, Raum und klangliche Geduld erforscht. Es ist ein unglaublich geschmeidiges, elegantes und zeitloses Stück Musikalität, das den mentalen Ballast des Alltags augenblicklich vertreibt.
 
-::genre::
+::genre::modern jazz, post bop, chamber jazz, improvisation
 
 ## Art|est - Evil Embodiment
 
-tbd
+Ein wildes, energiegeladenes Heavy-Metal-Projekt, das aus der unabhängigen globalen Heavy-Metal-Szene hervorgegangen ist. Dieses eng verbundene Kollektiv, das sich durch lokale Live-Locations und digitale Underground-Netzwerke kämpft, setzt auf rasende Live-Energie, vernichtende Drop-Tunings und rohe Aggression statt auf glattpolierte kommerzielle Formate. **Deathcore**, **Brutal Metalcore** und dissonanter Extreme Metal. Willkommen zu einem glorreichen, blutigen Horrorfilm, der exklusiv für eure Trommelfelle konzipiert wurde. "Evil Embodiment" wirft die höflichen Regeln des Radioformats komplett über Bord und ersetzt sie durch eine absolute Lawine aus überverzerrten, kreissägenartigen Gitarrenklängen, Maschinengewehr-Drum-Fills und tiefen, monsterartigen Kehlkopfbrüllen, die direkt aus der Unterwelt zu kommen scheinen. Die lyrische Landschaft schlängelt sich durch eine dunkle Science-Fiction-Dystopie, in deren Mittelpunkt psychologischer Terror und uralte Albträume stehen. Es ist roh, völlig ungeschliffen und Headbanging-Perfektion für jeden, der seinen Metal gerne herrlich unheimlich klingen lässt.
 
-::genre::
+::genre::deathcore, brutal death metal, metalcore
 
-## August Burns Red - Season of Surrender
+## August Burns Red - Season of Surrender *
 
-tbd
+Eine äußerst einflussreiche, für den Grammy nominierte Metalcore-Band aus Lancaster, Pennsylvania, USA. Die 2003 gegründete fünfköpfige Band ist ein absoluter Eckpfeiler der modernen Heavy-Musik und wird weltweit für ihre komplexen Breakdown-Taktarten, dröhnenden Gitarrenriffs und positiven, aufbauenden Textkonzepte verehrt. Melodic **Metalcore**, **Technical Metal** und **Progressive Metalcore**. Schließt eure zerbrechlichen Haushaltsgegenstände weg und spannt eure Nackenmuskeln an, denn "Season of Surrender" trifft euch wie ein Güterzug mitten in die Brust. Die Band dreht die technische Intensität auf elf und liefert einen unerbittlichen Sturm aus betonzerbrechenden Blastbeats, kompliziertem Sweep-Picking an der Gitarre und schreienden, kehlenschneidenden Vocals. Ohne Details über den Kampf gegen innere Dämonen und das Finden emotionaler Widerstandskraft zu verschweigen, schafft es das Album, sowohl wunderschön melodisch als auch erschreckend heavy zu klingen. Es ist ein makelloser Schuss puren Adrenalins, der dich sofort dazu bringen wird, direkt in deinem Wohnzimmer einen Ein-Personen-Moshpit zu starten.
 
-::genre::
+::genre::metalcore, prog metal, tech metal
 
 ## Aural Imbalance - Fragile Shapes
 
-tbd
+Simon Huxtable, der unter dem legendären Künstlernamen Aural Imbalance auftritt, ist ein wegweisender Veteran der elektronischen Musik aus Großbritannien. Seit Ende der 1990er Jahre ist Huxtable eine absolute Säule der Renaissance des Intelligent Drum & Bass und hat über erstklassige Labels wie Spatial und Cadence Recordings Hunderte von maßgeblichen, äußerst atmosphärischen Club-Hits veröffentlicht. Er wird allseits für seine hyperpräzisen Drum-Edits und seine Deep-Space-Ästhetik verehrt. **Atmosphärischer Drum & Bass**, Intelligent **Jungle**, Ambient Drum & Bass und **Deep Techno**. Setzt eure hochauflösendsten Kopfhörer auf und macht euch bereit, in den Orbit zu schweben, denn "Fragile Shapes" ist eine absolute Meisterklasse in balearischem Luxus. Huxtable kombiniert blitzschnelle, knackige Jungle-Breakbeats mit massiven, tiefen Basslines und eleganten, klagenden, cineastischen Streicherakorden, die wie Staubkörner in der Schwerelosigkeit in der Luft schweben. Das Thema fängt das präzise Gefühl ein, durch eine stille, tiefraumartige Landschaft zu schweben, während man die Planeten unter sich rotieren sieht. Es ist eine atemberaubende, zutiefst hypnotische und therapeutische Rave-Waffe, die deine Seele gründlich mit Energie auflädt.
 
-::genre::
-
-## Auscultation - IV
-
-tbd
-
-::genre::
-
-## AUXEMPEROR - Potluck
-
-tbd
-
-::genre::
-
-## Ayreon - 30th Anniversary - An Amazing Flight Through Time
-
-tbd
-
-::genre::
-
-## Azaad - Origins
-
-tbd
-
-::genre::
+::genre::dark d&b, ambient, jungle, deep techno
 
 ## B-Movie Millionaires - It Made Sense at the Time
 
-tbd
+Eine äußerst energiegeladene, unabhängige Alternative-Rock- und Pop-Punk-Band aus Großbritannien. Entstanden aus der lebendigen DIY-Grassroots-Tournee-Szene, füllt die Gruppe seit Jahren schweißgetränkte Independent-Musikclubs. Sie hat sich auf einen klassischen, gitarrenlastigen Sound spezialisiert, der authentische Live-Energie und rasante Tempi über überbearbeitete kommerzielle Radioformeln stellt. **Pop-Punk**, **Emo-Rock**, **Indie-Rock** und **Alternative-Pop**. Getreu seinem urkomisch sarkastischen Titel trifft "It Made Sense at the Time" dich wie ein blendender Schub puren Alternative-Adrenalins mitten ins Herz. Das Album wirkt wie eine wunderbare Zeitmaschine zurück in die goldene Ära des Skate-Punk der 2000er Jahre und verbindet knackige, klirrende Gitarrenwände mit treibenden Basslinien und schreienden, herzlichen Vocals. Die Texte werfen einen scharfsinnigen, witzigen Blick auf die chaotischen Hürden der frühen Zwanziger - den Umgang mit Identitätskrisen, plötzlichem Liebeskummer und dem anstrengenden Alltag. Es ist ein wildes, herrlich ausgelassenes Gitarrenalbum, das dich sofort dazu bringen wird, in deinem Zimmer herumzuspringen.
 
-::genre::
+::genre::alt rock, power pop, sad pop punk, indie rock
 
 ## Baalzagoth - No God, No Savior
 
-tbd
+Ein donnerndes, wildes Extreme-Metal-Kraftpaket aus Polen. Entstanden aus der notorisch wilden und kompromisslosen osteuropäischen Heavy-Metal-Underground-Szene, hat sich die Band über Jahre hinweg einen hervorragenden Ruf für mathematische Präzision, technische Perfektion und die Bewahrung des dunklen, ungeschliffenen Geistes der alten Metal-Tradition erarbeitet. **Old-School-Death-Metal**, **Blackened Death Metal** und **Doom**-Elemente. Sichert eure zerbrechlichen Haushaltsgegenstände und spannt eure Nackenmuskeln an, denn "No God, No Savior" ist eine regelrechte akustische Dampfwalze. Getreu seinem unheiligen, apokalyptischen Titel verzichtet das Album gänzlich auf radiotaugliche Formeln und stürzt euch kopfüber in einen unerbittlichen Schneesturm aus betonbrechenden Drop-Tunings, Maschinengewehr-Blastbeats und höhlenartigen, kehligen Brüllen, die direkt aus der Unterwelt zu kommen scheinen. Die Themen bewegen sich zwischen düsterem Science-Fiction-Horror und kosmischer Angst und sind ein absolutes Stinkefinger-Statement gegen Konformität. Es ist wunderschön explosiv, intensiv heavy und ein absolutes Headbanging-Paradies für Metal-Puristen.
 
-::genre::
+::genre::osdm, blackened death metal, doom metal
 
 ## Baby Cool - Infinity Baby
 
-tbd
+Grace Kneebone, bekannt unter ihrem Künstlernamen Baby Cool, ist eine außergewöhnlich talentierte Psych-Folk-Sängerin, Songwriterin und Multi-Instrumentalistin aus Brisbane, Australien. Kneebone erntete zunächst große Anerkennung bei Kritikern mit ihrem Solo-Country-Indie-Projekt, bevor sie Baby Cool gründete, um tief hypnotische, spacige Klanglandschaften zu erkunden. Dank ihrer Fähigkeit, analoge Bandfilter im Vintage-Stil der 1970er Jahre mit ätherischen Arrangements zu verbinden, hat sie sich weltweit eine elitäre Underground-Fangemeinde aufgebaut. **Psychedelic Folk**, **Dream Pop**, **Indie Rock** und **Ambient Pop**. Stellen Sie sich vor, Sie treten aus einem plötzlichen Sommergewitter direkt in einen gemütlichen, kerzenbeleuchteten Bungalow, wo eine sanfte Brise die Vorhänge umweht. "Infinity Baby" steigert persönliche Verletzlichkeit auf maximale Intensität und überlagert Kneebones durchdringenden, samtigen Stimmumfang mit trägen Akustikgitarrenklängen, warmen Bassgrooves und eleganten, klagenden Pedal-Steel-Akzenten. Ohne Details über mütterliche Liebe, Identitätswandel und tiefes spirituelles Wachstum zu verschweigen, bewegt das Album mit einer unvergesslichen, zerbrechlichen Wärme. Es ist ein atemberaubend reifer, bittersüßer Klangrefugium, das einen völlig in seinen Bann zieht.
 
-::genre::
+::genre::psych folk, psych pop, prog pop, dreampop, indie rock, alt pop
 
 ## Bad Stuff - Bad Stuff
 
-tbd
+Ein wildes, energiegeladenes Hardcore-Punk-Projekt, das aus der globalen DIY-Rock-Szene hervorgegangen ist. Dieses eng verbundene Kollektiv, das sich durch lokale Live-Locations und unabhängige digitale Plattformen spielt, setzt auf rasende Live-Energie, die knallharte Akustik von Probenbändern und rohe gesellschaftliche Frustration statt auf polierte kommerzielle Studio-Vorlagen. Ein Crossover aus **Hardcore-Punk**, **Skate-Punk** und **Garage-Punk**. Bitte stellt sicher, dass eure Wohnzimmermöbel fest am Boden verankert sind, bevor ihr die Lautstärke aufdreht. Dieses selbstbetitelte Debüt trifft eure Trommelfelle wie ein regelrechter Ziegelstein aus purem, ungefiltertem Garage-Adrenalin und packt euch mit einem blendenden Sturm aus überverzerrten Gitarrenmassen, rasendem Schlagzeug und gebelltem Gesang, der vor purem Gift nur so trieft. Das übergreifende lyrische Thema versetzt dem modernen Burnout der Erwachsenen, falschen Internetpersönlichkeiten und alltäglichen menschlichen Reibereien einen wunderbar scharfen, rotzigen und sarkastischen Seitenhieb. Es ist roh, wunderbar wild und ausschließlich darauf ausgelegt, dein Schlafzimmer in einen hochintensiven Ein-Personen-Moshpit zu verwandeln.
 
-::genre::
+::genre::melo hardcore, skatepunk
 
 ## Barry Manilow - What A Time
 
-tbd
+Barry Manilow (Barry Alan Pincus) ist ein legendärer, mehrfach mit Platin ausgezeichneter und Grammy-gekrönter Pop-Sänger, Songwriter, Produzent und Arrangeur aus Brooklyn, New York, USA. Mit einer atemberaubend langen Karriere, die sich über ein halbes Jahrhundert erstreckt, ist Manilow eine absolute Größe in der globalen Unterhaltungsindustrie und weltweit für seine ikonischen, stadiontauglichen Balladenarrangements und seine theatralische Bühnenpräsenz verehrt. Traditioneller **Pop**, Adult Contemporary und orchestraler Show-Pop. Ziehen Sie Ihre allerbeste Abendgarderobe an und dämpfen Sie das Licht der Kronleuchter, denn "What A Time" ist eine Meisterklasse in klassischer Pop-Showkunst. Manilow ignoriert vorübergehende moderne Radiotrends völlig und entscheidet sich stattdessen dafür, ein glorreiches, großartiges Fest aus schwebenden Live-Blasinstrumenten, mitreißenden orchestralen Streicharrangements und seinem Markenzeichen, dem emotionsgeladenen Gesang, zu entfesseln. Getreu seinem nachdenklichen Titel ist das übergreifende Thema eine wehmütige, offenherzige Feier der Langlebigkeit, der Romantik und der Aufarbeitung eines wunderschönen Lebens voller Erinnerungen mit einem sanften Lächeln. Es ist ein elegantes, zeitloses Stück akustischen Luxus, das Ihre Seele zutiefst tröstet.
 
-::genre::
-
-## Basboi - Kasablanka
-
-tbd
-
-::genre::
-
-## Beatrice M. - Sinking
-
-tbd
-
-::genre::
-
-## Beatriz Ferreyra - A Distracted God
-
-tbd
-
-::genre::
+::genre::introspective pop
 
 ## Bedouine - Neon Summer Skin
 
-tbd
+Azniv Korkejian, die unter dem Solokünstlernamen Bedouine auftritt, ist eine von Kritikern hochgelobte Singer-Songwriterin, die als Tochter armenischer Eltern in Aleppo, Syrien, geboren wurde, in Saudi-Arabien aufwuchs und derzeit in Los Angeles, Kalifornien, USA, lebt. Bedouine hat sich in der Indie-Folk-Szene von LA einen Namen gemacht und mit ihrem selbstbetitelten Debütalbum von 2017 sowie dem 2021 erschienenen Album "Waysides" eine riesige internationale Kult-Anhängerschaft gewonnen. Sie zeichnet sich durch einen hochgradig raffinierten, flüsterleisen Akustik-Sound aus, der stark auf analogen Bandaufnahmen aus den 1960er- und 1970er-Jahren sowie auf komplexen Holzbläserarrangements basiert. Sixties **Folk** Revival, **Baroque Pop** und Cosmopolitan **Americana**. Stellen Sie sich vor, Sie treten aus einem plötzlichen Sommergewitter direkt in einen gemütlichen, sonnendurchfluteten kalifornischen Bungalow, wo eine sanfte Brise die hauchdünnen Vorhänge umweht. "Neon Summer Skin" steigert persönliche Verletzlichkeit auf maximale Intensität und überlagert ihren rauchigen, samtigen Gesang mitträgen Akustikgitarrenklängen, warmen Bassgrooves und eleganten, schwungvollen Orchester-Streichern. Das übergeordnete Thema ist eine wunderschöne, langsam entflammende Meditation über Selbstfürsorge, Identitätswandel und das Genießen der Sonne nach einem langen emotionalen Winter. Es ist ein unglaublich nachdenkliches, zartes akustisches Refugium, das einen zutiefst getröstet zurücklässt.
 
-::genre::
-
-## Bella White - A Sign In The Weather
-
-tbd
-
-::genre::
+::genre::prog folk, baroque pop, americana
 
 ## Belushi Speed Ball - Toxic Waste Was Everywhere in the '80s
 
-tbd
+Eine äußerst exzentrische, theatralische Crossover-Thrash-Band aus Louisville, Kentucky, USA. Bekannt als die unangefochtenen Könige des gimmickreichen Merchandisings (sie haben ihre Musik bereits auf Disketten, Game-Boy-Kassetten und echten Pizzakartons veröffentlicht), verbindet diese Band rasante Thrash-Geschwindigkeit mit Satire auf die Nerd-Kultur und chaotischen Live-Shows, komplett mit Kostümen und Schaumstoffgruben. **Crossover-Thrash**, **Hardcore-Punk** und Comedy-Metal. Schließt eure zerbrechlichen Haushaltsgegenstände weg und sucht euch ein neongrünes Stirnband. "Toxic Waste Was Everywhere in the '80s" trifft euch wie ein blendender Schuss purer Nostalgie und Adrenalin, der sich mit etwa einer Million Meilen pro Stunde bewegt. Die Band entfesselt einen unheiligen Schneesturm aus hyperschnellen Bay-Area-Thrash-Gitarrenriffs, treibenden Punk-Drumbeats und rotzfrechen, urkomischen Vocals, die sich über klassische Cartoon-Klischees und Retro-Warnhinweise zur öffentlichen Sicherheit lustig machen. Es ist wild, wunderbar durchgeknallt und der ultimative Soundtrack, um mitten im eigenen Wohnzimmer einen Ein-Personen-Moshpit zu starten.
 
-::genre::
+::genre::crossover, thrash metal, hardcore punk
 
 ## Ben Ferrell - Sextet
 
-tbd
+Ben Ferrell ist ein äußerst versierter, technisch brillanter Jazztrompeter, Bandleader und Komponist für akustische Musik, der in den Vereinigten Staaten lebt. Ferrell bewegt sich in den höchsten Kreisen der modernen nordamerikanischen Akustik-Jazzszene und ist seit Jahren als zuverlässiger Session-Musiker und Pädagoge tätig. Für dieses sehr persönliche Meilenstein-Projekt stellte er eine sechsköpfige All-Star-Besetzung für akustische Musik zusammen, um rohe, spontane Arrangements komplett live in einem einzigen Raum aufzunehmen. **Hard Bop**, **Modern Jazz**, **Post-Bop** und traditioneller akustischer Jazz. Treten Sie direkt ein in eine schummrig beleuchtete, bläulich getönte Manhattan-Lounge der 1960er Jahre und schenken Sie sich ein kühles Getränk ein, denn dieses Album ist purer akustischer Luxus. "Sextett" verzichtet auf auffällige moderne digitale Produktionstricks und lässt stattdessen warme, fließende Trompetenmelodien und klagende Saxophon-Duette mühelos über swingende Akustikbass-Patterns und lebendige, atmende Percussion tanzen. Das übergeordnete Thema ist die zeitlose, organische Freude am musikalischen Dialog, am Tempo und an klanglicher Geduld. Es ist ein unglaublich geschmeidiges, elegantes und zeitloses Stück Musikalität, das den mentalen Alltagsstress augenblicklich vertreibt.
 
-::genre::
-
-## Berner & Nava - Cartel Symphony
-
-tbd
-
-::genre::
+::genre::modern jazz, contemporary jazz, hard bop, post bop
 
 ## Big Nothing - Big Nothing
 
-tbd
+Eine äußerst melodische, emotional unverfälschte vierköpfige Indie-Rock- und Punk-Band aus Philadelphia, Pennsylvania, USA. Die aus erfahrenen Veteranen der aktiven DIY-Szene der Ostküste bestehende, eng verbundene Band hat sich eine leidenschaftliche Fangemeinde aufgebaut. Sie legen Wert auf authentische Gitarrenklänge, knackige zweistimmige Hooks und ehrliche Bedroom-Produktionen statt auf kommerzielle Studioaufnahmen mit großem Budget. **Indie-Pop**, **Melodic Punk**, 1990er-**College-Rock** und **Slacker-Rock**. Dieses Album fühlt sich genau so an, als würde man eine verstaubte Schuhschachtel voller alter handgeschriebener Briefe und verblasster Polaroids ganz hinten im Schrank entdecken. Diese selbstbetitelte Platte verbindet einen rasenden, wunderschönen Sturm aus klirrenden E-Gitarren-Schichten mit einer treibenden Basskadenz und ungeschliffenen, warmen Vocals, die einen direkt in die Brust treffen. Ohne Details über sich verändernde Freundschaften, jugendliche Isolation und das Navigieren durch die chaotischen Hürden des Erwachsenwerdens zu verschweigen, ist das Thema vollkommen ehrlich, unverfälscht und tröstlich. Es ist ein raues, energiegeladenes Gitarrenalbum, das sich als ultimativer Begleiter für einen langen Sommer-Roadtrip eignet.
 
-::genre::
+::genre::power pop, indie pop, slacker rock
 
 ## Big Space - The Pendulum Effect
 
-tbd
+Ein äußerst einfallsreiches, Grenzen sprengendes zeitgenössisches Jazz-Rock-Trio aus St. John’s, Neufundland, Kanada. Das Trio (bestehend aus dem Gitarristen Grant King, dem Bassisten Harrison und dem Schlagzeuger MacLeod) hat sich über Jahre hinweg in der abgelegenen, aber äußerst kreativen Underground-Szene der kanadischen Ostküste einen exzellenten Ruf für mathematische Präzision erarbeitet. Sie sind dafür bekannt, Live-Improvisation als eine fließende, kraftvolle und unvorhersehbare Klangmaschine zu behandeln. **Jazz-Fusion**, **Post-Rock**, **Progressive Jazz** und instrumentale **Improvisation**. Schnall dich an und setz deine Lieblings-HiFi-Kopfhörer auf, denn dieses Album ist ein absoluter Spielplatz für deine Gehirnzellen. Getreu seinem hypnotischen Titel zeichnet "The Pendulum Effect" einen makellosen musikalischen Dialog nach, in dem klingende, komplexe Gitarrentöne wunderschön über walking-artige Akustikbass-Loops und knackige, unkonventionelle Drum-Synkopen hin und her schwingen. Es meistert seine technische Jazz-Rock-Mathematik mit einer unglaublich coolen, lässigen Energie, die deinen Geist völlig in den Bann zieht. Es ist ein dichtes, intelligentes und höchst befriedigendes Puzzle, das dich auf die bestmögliche Weise aus dem Gleichgewicht bringt.
 
-::genre::
+::genre::jazz fusion, post rock, prog jazz, improvisation
 
 ## Big Special - O'Joy!
 
-tbd
+Ein raues, scharfsinniges Post-Punk- und Spoken-Word-Duo aus dem Black Country / den West Midlands, Großbritannien. Das Duo, das von den Jugendfreunden Joe Hicklin und Callum Moloney gegründet wurde, hat durch eine Reihe von kraftvollen, sozialkritischen Singles europaweit eine enorme Underground-Bewegung ausgelöst. Ihre Spezialität ist die Kombination von rasanten Punk-Klängen mit dröhnendem, gefühlvollem Gospelgesang und bissiger, sozialpolitischer Prosa aus der Perspektive der Arbeiterklasse. **Post-Punk**, **Spoken Word**, **Soul-Punk** und **Alternative Rock**. "O'Joy!" fühlt sich genau wie eine nächtliche Straßenecke-Debatte an, die plötzlich in eine tosende, die Seele berührende Stadionhymne ausbricht. Das Album verwandelt institutionelle Frustration und alltägliche britische wirtschaftliche Erschöpfung in einen spektakulären Klangspielplatz. Hicklin wechselt nahtlos von blitzschneller, zynischer Spoken-Word-Poesie zu einem massiven, markerschütternden Gesangsbrüllen, das über Moloneys treibende, industrielle Drumbeats hüpft. Es ist ein kühnes, theatralisches und triumphales Rockalbum, das einen fest am Kragen packt und nicht mehr loslässt.
 
-::genre::
+::genre::post punk, spoken words, alt rock
 
 ## Binary Creed - The Madness From Within
 
-tbd
+Ein äußerst raffiniertes, erfahrenes Progressive-Metal-Kollektiv aus Umeå, Schweden. Die Band, die sich aus erfahrenen Musikern der schwedischen Heavy-Rock-Szene zusammensetzt, hat sich mit ihren grandiosen, konzeptionellen Alben wie "Restoration", die ganze Welten erschaffen, eine prestigeträchtige europäische Kult-Anhängerschaft erobert. Sie wird allseits dafür verehrt, wie sie weitläufige Keyboard-Klänge mit schweren, komplexen Gitarren-Drop-Stimmungen verbindet. **Progressive Metal**, **Power Metal** und **Dark Symphonic Metal**. Setzt eure hochwertigsten Kopfhörer auf und macht eure Gehirnzellen bereit, denn "The Madness From Within" entfaltet sich wie ein hochkarätiger Psychothriller, der zum Leben erweckt wurde. Die Band entführt euch vollständig in ein weitläufiges Labyrinth aus tickenden Synthesizer-Patterns, maschinengewehrartigem Schlagzeugspiel und gewaltigen Gesangsrefrains, die bis unter die Decke schweben. Die Tracks erkunden eine dichte, theatralische Erzählung über innere Kämpfe, systemische Angst und menschliche Widerstandsfähigkeit und schaffen dabei einen Ausgleich zwischen purer Härte und wunderschönen, weitläufigen atmosphärischen Räumen. Es ist eine intellektuelle, majestätische und höchst befriedigende Reise für jeden, der tiefgründige Musikalität liebt.
 
-::genre::
-
-## Blaga - Nostalgia
-
-tbd
-
-::genre::
+::genre::prog metal, power metal, symphonic metal, dark metal
 
 ## Bloodhound J Boogie - King Snake
 
-tbd
+Ein aufstrebender, technikaffiner unabhängiger Produzent elektronischer Musik und Multi-Instrumentalist, der in der globalen digitalen Underground-DIY-Szene aktiv ist. Dieser kreative Solokünstler, der sich durch SoundCloud-Subkulturen und Internetforen bewegt, hat sich darauf spezialisiert, mit Vintage-Analoggeräten und Rhythmusarrangements der alten Schule hypermoderne, groovige elektronische Tracks zu kreieren. **Funktronica**, **G-Funk**, **Leftfield Hip-Hop** und **Synth-Funk**. Halte dein Auto am Straßenrand an, kurbele die Fenster ganz herunter und mach dich bereit für eine Fahrt den Boulevard hinunter. "King Snake" fängt mühelos den langsam dahinrollenden, den Kofferraum zum Vibrieren bringenden West-Coast-Charme ein, der dich sofort cooler fühlen lässt, sobald du auf Play drückst. Das Album besticht durch ein fantastisches Feuerwerk aus sprudelnden Synthesizer-Basslines, knackigen Hi-Hats und gefühlvollen Old-School-Keyboard-Loops, die mit absoluter, ansteckender Selbstsicherheit mitschwingen. Es präsentiert seine unprätentiösen, sonnenverwöhnten Arrangements mit einem so geschmeidigen Charisma, dass es der ultimative Begleiter für eine lange Sommerfahrt auf der Autobahn ist.
 
-::genre::
+::genre::acid funk, funktronica, leftfield hip hop
 
 ## Bloody Falls - IV
 
-tbd
+Eine äußerst energiegeladene, kraftvolle Melodic-Death-Metal-Band aus Valkeakoski, Finnland. Gegründet im Jahr 2017 vom Multi-Instrumentalisten Stavros Mathios, hat sich die eingeschweißte Truppe über Jahre hinweg mit Alben wie "Burn the Shrines" und "Dying Is Easy" einen Namen in der hart umkämpften europäischen Heavy-Szene gemacht. **Melodic Death Metal**, **Thrash Metal** und **Groove Metal**. Vergewissere dich, dass dein Hausfundament stabil ist, bevor du die Lautstärke aufdreht, denn "IV" ist eine absolute Dampfwalze purer Klanggewalt. Die Band entfesselt einen explosiven Sturm aus gnadenlosen Thrash-Gitarrenriffs, komplexen Drum-Fills in ungeraden Taktarten und doppelten Brüllen, die mit der Wucht einer Lawine auf deine Brust prallen. Doch direkt unter der schweren Oberfläche verweben sie meisterhaft weinerliche melodische Hooks und gewaltige Gitarrensoli, die sich wunderschön durch das Chaos schneiden. Es ist eine rohe, headbangende und höchst befriedigende Metal-Achterbahnfahrt, die dich dafür belohnt, dass du deine volle Aufmerksamkeit darauf richtest.
 
-::genre::
+::genre::melo death metal, thrash metal, groove metal
 
 ## Blüdwyrm - The Blissful Sleep Of Ignorance
 
-tbd
+Ein düsteres, kompromissloses Ein-Mann-Projekt aus der internationalen DIY-Metal-Szene. An den Rändern von Underground-Tape-Tauschnetzwerken und unabhängigen digitalen Portalen angesiedelt, konzentriert sich der hinter Blüdwyrm stehende Solo-Multi-Instrumentalist auf extrem raue Raumakustik und Lo-Fi-Texturen, um eine authentische, ungeschliffene Extreme-Metal-Atmosphäre einzufangen, die sich von handelsüblichen Studioaufnahmen abhebt. **Raw Black Metal**, Dungeon-Synth-Elemente und **Crust-Punk**. Hülle dich in einen zerfetzten schwarzen Umhang und halte dich von gut beleuchteten Straßen fern, denn diese Platte ist ein eisiger Sturm aus absolutem Lärm. "The Blissful Sleep Of Ignorance" wirkt wie ein vernichtend intensiver Audioangriff, der einen hyperschnellen Schneesturm aus überverzerrten, kreissägeartigen Gitarrenriffs mit marschierenden Drum-Tempos und einem rauen, kehlenschneidenden Schrei paart, der klingt, als würde er vom Grund eines verlassenen Brunnens widerhallen. Ohne Details über kosmische Isolation, gesellschaftlichen Zusammenbruch und den dunklen Trost des Versinkens im Nichts zu verschonen, ist dies ein kompromisslos rohes, zum Headbangen einladendes Stück klassischer Heavy-Grit, das ausschließlich für Extreme-Metal-Puristen geschaffen wurde.
 
-::genre::
-
-## Bolka - schwarzkopf
-
-tbd
-
-::genre::
-
-## Born Hanged - Left To Rot
-
-tbd
-
-::genre::
-
-## Boulevard Depo - UNhappy Meal
-
-tbd
-
-::genre::
+::genre::raw black metal, crust
 
 ## Braden Deckert - TITLEWAVE
 
-tbd
+Ein aufstrebender, technikaffiner, unabhängiger Produzent elektronischer Musik und Multi-Instrumentalist, der im globalen DIY-Digitalnetzwerk tätig ist. Deckert durchforstet SoundCloud-Subkulturen und Internetforen und hat sich darauf spezialisiert, nostalgische Y2K-Synthesizer-Strukturen zu nutzen und sie zu hypermodernen, panoramischen digitalen Landschaften zu erweitern, die für das Hören mit Kopfhörern mitten in der Nacht konzipiert sind. Wave, **Chillwave**, **Synthwave** und Melodic **Ambient**. Wenn sich dein Gehirn von hundert gleichzeitig geladenen Browser-Tabs völlig überfordert fühlt, ist TITLEWAVE der sofortige, flüssige „Reset-Knopf“, den du brauchst. Getreu seinem wortspielreichen Titel trifft dich das Album wie eine riesige Welle aus purem Internet-Dopamin, die helle Synthesizer-Klänge mit summenden Gesangsechos und knackigen, hüpfenden Percussion-Linien verbindet. Das Kernthema wirkt wie eine wunderschöne, optimistische Meditation darüber, wie man mit moderner Bildschirmmüdigkeit umgeht und im täglichen technologischen Chaos sein Gleichgewicht findet. Es ist eine sanfte, rasante Klangreise, die deinen Geist völlig in Trance versetzt.
 
-::genre::
+::genre::ambient, synth wave, synth pop
 
 ## Brocarde - Good Attendance At Sunday School
 
-tbd
+Brocarde ist eine exzentrische, äußerst theatralische Singer-Songwriterin und Multimedia-Künstlerin, die im Vereinigten Königreich lebt. Ursprünglich erlangte sie durch ihre avantgardistische konzeptuelle Performancekunst und ihre einzigartige öffentliche Präsenz große mediale Bekanntheit. Brocarde ist eine klassisch ausgebildete Sängerin, deren Schwerpunkt stark auf filmischem Storytelling liegt. Sie gestaltet ihre Musik so, dass sie sich wie ein hochkonzeptionelles viktorianisches Drama anfühlt, gemischt mit einer kraftvollen, modernen Studioproduktion. **Dark Pop**, **Gothic Rock**, Orchestral Pop und **Avantgarde-Pop**. Dieses Album fühlt sich genau so an, als würde man einen wunderschön unheimlichen Maskenball in einer verwunschenen Kathedrale stürmen. "Good Attendance At Sunday School" lehnt sich stark an ein zutiefst sarkastisches, theatralisches Thema an, das religiöse und gesellschaftliche Schuldgefühle in einen spektakulären Spielplatz verwandelt. Brocarde überlagert massive opernhafte Gesangspassagen und weinerliche Violinenarrangements mit schweren Gothic-Gitarrenriffs und dröhnenden elektronischen Subbass-Kicks. Es ist dramatisch, auf wunderschöne Weise verstörend und ein absoluter Triumph für alle, die ihre Popmusik gerne in Samt, Schatten und einer gesunden Dosis purer Ironie gehüllt mögen.
 
-::genre::
+::genre::avant pop, alt pop, goth rock
 
-## BROCKHOFF - Easy Peeler
+## Built For The Future - Empire *
 
-tbd
+Ein äußerst anspruchsvolles Progressive-Rock-Studio-Projekt aus Texas, USA. Unter der Leitung des Multi-Instrumentalisten-Duos Kenny Bissett und Patric Cohen hat sich die Band über Jahre hinweg in internationalen Prog-Kreisen einen hervorragenden Ruf erarbeitet - dank ihrer gewaltigen, groß angelegten Weltentwürfe und ihrer äußerst komplexen Songarrangements. **Progressive Rock**, **Neo-Prog**, atmosphärischer **Art-Rock** und Sci-Fi-Konzeptrock. Setzt eure hochwertigsten Kopfhörer auf und macht eure Gehirnzellen bereit, denn "Empire" entfaltet sich wie ein hochkarätiger, filmischer Sci-Fi-Film, der den Zusammenbruch einer Galaxie nachzeichnet. Die Band entführt euch vollständig in ein weitläufiges Labyrinth aus tickenden Synthesizer-Patterns, komplexen Drum-Fills in ungeraden Taktarten und gewaltigen Gitarren-Crescendos. Das Album erkundet dichte, theatralische Themen wie politische Macht, historische Gier und digitale Kriegsführung und schafft es, sowohl wunderschön majestätisch als auch zutiefst intensiv zu klingen. Es ist ein reines, intellektuelles Paradies für Fans, die sich Rock mit einem hochkonzeptionellen Konzept wünschen.
 
-::genre::
-
-## Brye - Cycle Breaker
-
-tbd
-
-::genre::
-
-## Built For The Future - Empire
-
-tbd
-
-::genre::
+::genre::prog rock, neo prog rock, art rock
 
 ## Bushy Field - BF
 
-tbd
+Eine äußerst energiegeladene, äußerst unabhängige Alternative-Rock-Band aus der europäischen DIY-Musikszene. Entstanden aus aktiven lokalen Live-Szenen, verbrachte dieses eng verbundene Kollektiv zwei Jahre damit, rohe Proberaum-Sessions selbst zu produzieren, um eine äußerst authentische, schweißtreibende Banddynamik einzufangen - ganz im Gegensatz zum Hochglanz-Finish kommerzieller Großstudios. **Indie-Rock**, **Post-Punk**, **Noise-Pop** und **Lo-Fi-Rock**. Schließt eure zerbrechlichen Haushaltsgegenstände weg und macht Platz auf dem Boden, bevor ihr die Lautstärke aufdreht. Dieses selbstbetitelte Debüt ist ein Non-Stop-Schuss puren Garage-Adrenalins mit Höchstgeschwindigkeit, der treibende Bass-Loops, übersteuerte Gitarrenriffs und rotzige Vocals direkt auf eure Trommelfelle schießt. Das übergreifende Thema nimmt auf urkomische Weise moderne soziale Ängste, Bildschirmmüdigkeit und die Hürden des frühen Erwachsenenalters mit einem völlig unbekümmerten, sarkastischen Lächeln aufs Korn. Es ist rau, herrlich ungeschliffen und der perfekte Soundtrack zum Headbangen in deinem Schlafzimmer.
 
-::genre::
-
-## Caleb Caudle - Heavy Thrill
-
-tbd
-
-::genre::
+::genre::indie rock, post punk, noise, lofi
 
 ## Callous Faulter - Callous Faulter
 
-tbd
+Ein intensives, tiefgründiges Alternative-Rock-Trio aus der US-amerikanischen Independent-Szene. Durch eine Reihe von kurzen digitalen Veröffentlichungen im Internet hat sich die eingeschworene Band einen unverwechselbaren Sound erarbeitet. Sie setzt auf eindringliche thematische Spannung und den rauen Klang von Heimproduktionen, um einen emotionalen Schlag in die Magengrube zu versetzen. **Goth Rock**, **Slowcore**, **Darkwave** und **Alternative Metal**. Diese EP verhält sich genau wie ein langer, düsterer Schatten, der dir um Mitternacht durch eine regennasse Stadtstraße folgt. Dieses selbstbetitelte Album dreht die atmosphärische Spannung voll auf, indem es langsam brennende, tiefe Basslinien unter zerklüfteten, hallenden Surf-Gitarren und distanzierten, drängenden Vocals looped, die dir direkt in die Kehle schlagen. Ohne Details über persönliche Isolation, schlechte Gewohnheiten und toxische Umgebungen zu verschweigen, ist das Thema durch und durch konfrontativ und düster. Es ist ein kurzes, wunderschön trostloses und kraftvolles Audio-Refugium, das perfekt dafür geschaffen ist, in einem dunklen Raum mit großartigen Kopfhörern gehört zu werden.
 
-::genre::
+::genre::dark wave, modern metal, alt metal, slowcore
 
-## Callum Au - Sing Seven Seas
+## Chip Away - Doing Great *
 
-tbd
+Ein wildes, energiegeladenes Hardcore-Punk-Quartett aus der britischen Independent-Underground-Szene. Chip Away hat sich durch lokale, schweißgetränkte Keller und lokale Skateparks gekämpft und sich eine leidenschaftliche Fangemeinde aufgebaut. Sie setzen auf rohe, emotionale Live-Energie, schnelle Tempi und Refrains im Gang-Gesang-Stil statt auf glattpolierte kommerzielle Formate. **Melodic Hardcore**, **Skate Punk**, **Post-Hardcore** und **Emo-Punk**. Schnür deine Sneaker fest und mach dich bereit für Höchstgeschwindigkeit, denn "Doing Great" ist ein Non-Stop-Adrenalinstoß mit maximaler Wucht. Getreu seinem urkomisch sarkastischen Titel wirft das Album einen unverblümten, scharfzüngigen Blick auf die tägliche Erschöpfung, die entsteht, wenn man versucht, perfekt in Ordnung zu wirken, während man mit dem modernen Burnout des Erwachsenenlebens zu kämpfen hat. Die Band liefert einen glorreichen Sturm aus treibenden Post-Punk-Basslines, rasendem Schlagzeugspiel und schreienden, herzlichen Vocals, die dich direkt in die Brust treffen. Es ist schnell, herrlich roh und dient als ansteckender Rausch aus Wohlfühl-Serotonin für die wunderschön Gestressten.
 
-::genre::
-
-## Chip Away - Doing Great
-
-tbd
-
-::genre::
+::genre::melo hardcore, skatepunk, hardcore punk
 
 ## Chullachaqui - Epiphanic Perdition
 
-tbd
+Ein gewaltiges, gnadenloses Ein-Mann-Extreme-Metal-Projekt aus Peru. Benannt nach dem legendären, trügerischen, Gestaltwandler-Waldgeist aus der amazonischen Folklore, verbrachte der hinter Chullachaqui stehende Solo-Multi-Instrumentalist Jahre damit, rohe Underground-Kassetten-Demos aufzunehmen, bevor er dieses gewaltige Langspielprojekt ins Leben rief. **Atmosphärischer Black Metal**, **Death/Doom** und mythologischer Extreme Metal. Hüllen Sie sich in schwere Rüstung und verlassen Sie die ausgetretenen Pfade, denn dieses Album stürzt Sie kopfüber in einen gnadenlosen, pechschwarzen Dschungel. "Epiphanic Perdition" lässt moderne, ausgefeilte Radio-Trends komplett außer Acht, um einen apokalyptischen Sturm aus dichten, tief gestimmten, kreischenden Gitarrenriffs, marschierenden Drumbeats und tiefen, furchterregenden Brüllen zu entfesseln. Das übergeordnete Thema zeichnet einen psychologischen Abstieg in antike Ruinen, Illusionen und spirituellen Zusammenbruch nach. Es ist gnadenlos heavy, düster-schön und perfekt für Extreme-Metal-Puristen, die massive Klangwände lieben.
 
-::genre::
+::genre::atmo black metal, doom metal, blackened death metal
 
-## Cicada Circus - Cicada Circus
+## Cicada Circus - Cicada Circus *
 
-tbd
+Eine äußerst fantasievolle, theatralische Alternative-Band aus der US-amerikanischen Independent-Underground-Szene. Am Rande der DIY-Kreativzentren angesiedelt, betrachtet Cicada Circus Musik als ein lebendiges, atmendes Performance-Stück. Das Projekt hat sich auf Multi-Instrumental-Aufnahmen spezialisiert und nutzt alles von akustischen Orgeln bis hin zu zitternden Saiten, um das organische Summen seines Namensgebers nachzuahmen. **Avantgarde-Pop**, Dark Cabaret, psychedelischer **Indie-Rock** und **Art-Rock**. Diese Platte fühlt sich genau so an, als würde man in ein schattiges, spätnächtliches Karnevalszelt wandern, das tief in einem dichten Wald versteckt liegt. Das selbstbetitelte Debüt überlagert mühelos klirrende, schräge Akustikakkorde mit wirbelnden Synthesizern und exzentrischen, theatralischen Gesangsdarbietungen. Getreu dem insektoiden Thema der Band baut die Musik ein hektisches, tickendes Gefühl der Dringlichkeit auf, das buchstäblich das Hervorkommen aus dem Untergrund nachahmt. Es ist zottelig, wunderschön bizarr und ein absolutes Paradies für Hörer, die ihren Indie-Rock mit einer kräftigen Dosis künstlerischer Verrücktheit genießen wollen.
 
-::genre::
+::genre::avant pop, art rock, indie rock, psych rock
 
-## Cinna Peyghamy - Music for Tombak & Synth
+## Converge - Hum of Hurt *
 
-tbd
+Eine äußerst einflussreiche, wegweisende vierköpfige Extreme-Metal-Band, die ihren Ursprung in Salem, Massachusetts, USA, hat. Angeführt vom brillanten kreativen Duo aus Sänger Jacob Bannon und Gitarrist/Produzent Kurt Ballou, ist Converge seit über drei Jahrzehnten eine prägende und tragende Säule der weltweiten Heavy-Metal-Underground-Szene. Sie werden allseits für ihre chaotischen Taktarten, ihre hyperkomplexen Songstrukturen und ihre rohe, tagebuchartige Verletzlichkeit verehrt. **Mathcore**, **Metallic Hardcore**, **Post-Hardcore** und **Noise Rock**. Schließt eure zerbrechlichen Wertsachen weg und spannt eure Nackenmuskeln an, bevor ihr auf Play drückt, denn diese Platte ist eine regelrechte akustische Dampfwalze. "Hum of Hurt" dreht die Spannung auf elf und entfesselt einen unerbittlichen Schneesturm aus zerklüftetem Gitarren-Math, betonbrechenden Blastbeats und kehlenschneidenden Brüllen, die klingen, als würden sie dem Sänger direkt aus der Brust gerissen. Ohne Details über den Umgang mit tiefer Trauer, psychischem Lärm und alltäglichen menschlichen Reibereien zu verschonen, schafft es die Platte, sowohl erschreckend chaotisch als auch wunderschön kathartisch zu klingen. Es ist ein kurzer, mit maximaler Geschwindigkeit abgefeuerter Schuss reinen Adrenalins, der ausschließlich für einen wilden Moshpit geschaffen wurde.
 
-::genre::
-
-## Comboplanet - Project: Lofi
-
-tbd
-
-::genre::
-
-## Converge - Hum of Hurt
-
-tbd
-
-::genre::
-
-## Crowbar - Sonic Excess In It's Purest Form
-
-tbd
-
-::genre::
+::genre::mathcore, metalcore, noisecore
 
 ## CyHra - Requiem For A Pipe Dream
 
-tbd
+Eine Heavy-Metal-Supergroup mit Sitz in Göteborg, Schweden. CyHra kann auf eine hochkarätige Besetzung verweisen und wurde von Sänger Jake E (ex-Amaranthe) und dem Gitarrenvirtuosen Jesper Strömblad (Gründer von In Flames) gegründet. Die Band genießt weltweit Anerkennung dafür, dass sie die donnernde, tief gestimmte Aggressivität des melodischen Death Metals aus Göteborg mit zuckersüßen, stadiontauglichen Pop-Hooks und makellos ausgefeilten Synthesizer-Arrangements verbindet. **Moderner Melodic Metal**, **Power Metal** und **Alternative Rock**. Dieses Album fühlt sich genau wie ein hochkarätiger, extrem intensiver Anime-Bosskampf an, der in einem futuristischen Neon-Nachtclub stattfindet. "Requiem For A Pipe Dream" füllt deine Ohren mit einer atemberaubenden Menge an melodischem Dopamin und kombiniert blitzschnelle Twin-Gitarren-Soli mit explosiven elektronischen Keyboard-Hintergründen. Das thematische Rückgrat wirft einen äußerst selbstbewussten, unverblümten Blick darauf, wie man seine geistige Gesundheit wiederherstellt, nachdem die größten Lebenspläne in sich zusammengebrochen sind. Es ist eine kühne, theatralische und triumphale Metal-Spaßfahrt, die dich dazu bringen wird, um 3:00 Uhr morgens einen Marathon sprinten zu wollen.
 
-::genre::
+::genre::modern metal, power metal, alt metal, alt rock
 
-## Damian Lewis - Mission Creep
+## daresay - daresay *
 
-tbd
+Eine äußerst melodische, emotional unverfälschte vierköpfige Indie-Alternative-Band aus den Vereinigten Staaten. Die eng verbundene Truppe hat sich durch lokale Live-Locations und unabhängige digitale Plattformen einen Namen gemacht und eine leidenschaftliche Fangemeinde aufgebaut, indem sie authentischen Gitarrenklängen und einem Tagebuch-ähnlichen Songwriting den Vorzug vor kommerziellen Formaten mit großem Budget gab. **Midwest Emo**, **Indie-Pop**, **Math Rock** und **Emo-Punk**. Dieses Album fühlt sich genau so an, als würde man eine verstaubte Schuhschachtel voller verblasster Polaroids und alter Highschool-Notizen ganz hinten im Schrank entdecken. Diese selbstbetitelte Platte besticht durch eine rasante, wunderschöne Kombination aus nervösen, ineinandergreifenden Math-Rock-Gitarrenlinien, treibenden Bass-Tempos und mehrstimmigem Gesang, der von ehrlicher Verletzlichkeit geprägt ist. Es erkundet die schöne, verwirrende Realität der frühen Zwanziger - den Umgang mit sich verändernden Freundschaften, Umzügen und den alltäglichen Wachstumsschmerzen - und das Thema ist durch und durch tröstlich und echt. Es ist ein raues, energiegeladenes Gitarrenalbum, das sich als ultimativer Begleiter für einen nächtlichen Sommer-Roadtrip eignet.
 
-::genre::
-
-## daresay - daresay
-
-tbd
-
-::genre::
+::genre::math rock, midwest emo, indie pop, power pop
 
 ## Dea Matrona - Hate That I Care
 
-tbd
+Ein energiegeladenes, äußerst eigenständiges Rock-Duo, bestehend aus den Kindheitsfreundinnen Orlaith Forsythe und Mollie McGinn aus Belfast, Nordirland. Nachdem sie sich zunächst als Straßenmusikerinnen in den Straßen von Belfast ihre Sporen verdient hatten, gelang dem Duo der nationale Durchbruch, indem es die klassische Rockgitarren-Attitüde der 1970er Jahre (inspiriert von Fleetwood Mac und Led Zeppelin) mit modernen Indie-Hooks verband. Dieses Projekt knüpft an ihr gefeiertes Debütalbum "For You" an. **Indie-Rock**, **Garage-Rock**, **Pop-Rock** und **Alternative-Rock**. Setz deine beste Sonnenbrille auf und mach dich bereit, in deinem Schlafzimmer herumzuspringen. "Hate That I Care" ist ein absoluter Kick an purem Indie-Rock-Dopamin, der einen brillant knackigen, klirrenden Gitarren-Hook mit einer treibenden Bassline und einem stadiontauglichen Refrain verbindet, der sich sofort in deinem Kopf festsetzt und dich tagelang nicht mehr loslässt. Die Texte werfen einen wunderbar scharfsinnigen, nachvollziehbaren und leicht sarkastischen Blick auf das frustrierende Durcheinander einer einseitigen Beziehung - man gibt zu, dass man Textnachrichten völlig überanalysiert, während man versucht, so zu tun, als wäre es einem egal. Der Song ist schnell, makellos eingängig und strotzt vor coolem, mühelosem Charisma.
 
-::genre::
+::genre::indie rock, garage rock, pop rock, alt rock
 
 ## Dead Void - Cranial Devastation
 
-tbd
+Ein gewaltiges, brutal schweres Extreme-Metal-Trio aus Kopenhagen, Dänemark / Großbritannien. Entstanden aus der europäischen Underground-Heavy-Szene, hat sich die Band (die für ihre vernichtenden früheren Alben bei Me Saco Un Ojo Records verehrt wird) einen wilden Ruf erarbeitet, indem sie den dunklen, ungeschliffenen Geist der alten Metal-Tradition bewahrt. Sie sind darauf spezialisiert, das Publikum durch einen schlammigen Sumpf aus langsamen Tempowechseln und roher Raumakustik zu schleifen. **Old-School-Death-Metal** und Heavy **Death/Doom**. Schließt eure zerbrechlichen Wertsachen weg und spannt eure Nackenmuskeln an, bevor ihr auf Play drückt, denn dieses Album ist eine regelrechte akustische Dampfwalze. Getreu ihrem brutalen Titel schert sich "Cranial Devastation" nicht um modernen, radiotauglichen Studio-Glanz; sie stürzt euch direkt in eine dunkle Höhle voller dichter, kreissägenartiger Drop-Tunings, Maschinengewehr-Drumming und tiefer, monsterhafter Kehlkopfbrüllerei. Der thematische Fokus fühlt sich an wie ein zum Leben erweckter klassischer Horrorfilm der 1980er Jahre, der alte Ruinen, psychische Zusammenbrüche und absoluten Verfall nachzeichnet. Es ist gnadenlos heavy, düster-schön und ein reines Headbanging-Paradies für Extreme-Metal-Puristen.
 
-::genre::
+::genre::osdm, doom metal
 
-## Deaf Beat Vanguard - Libido-Induced Anabasis
+## Death Cab for Cutie - I Built You a Tower *
 
-tbd
+Eine legendäre, mit mehreren Platin-Auszeichnungen geehrte und für den Grammy nominierte Indie-Rock-Institution, die bekanntermaßen aus Bellingham, Washington, USA, stammt. Angeführt vom ikonischen, brillanten Singer-Songwriter Ben Gibbard, ist die Band seit fast drei Jahrzehnten eine prägende und tragende Säule der globalen Alternative-Rock-Szene. Sie wird allseits für ihre literarisch anspruchsvollen, tagebuchartigen Texte und ihre Fähigkeit verehrt, scharfsinnige persönliche Verletzlichkeit in gewaltige, schwebende Melodien zu hüllen. **Indie-Rock**, **Emo-Pop**, **Post-Punk**-Revival und melancholischer **Alternative-Rock**. Ben Gibbard wirft das Handbuch des höflichen modernen Pop komplett über Bord und übernimmt die atemberaubende, vollständige Kontrolle über seine Erzählung. "I Built You a Tower" meistert einen wunderschönen, sich langsam entfaltenden Kontrast, indem es gewaltige Wände aus treibenden Indie-Rock-Basslinien und schimmernden Gitarrentexturen mit Gibbards sofort wiedererkennbarem, intimem Gesang verbindet. Getreu seinem Titel dreht sich die thematische Architektur um den Aufbau einer tief emotionalen Welt, die Aufarbeitung vergangener Isolation und den Blick auf die Strukturen, die wir errichten, um unsere Herzen zu schützen. Es ist ein atemberaubend reifes, bittersüßes und panoramisches Meisterwerk, das sich wie eine riesige, schützende Decke um deine Ohren legt.
 
-::genre::
-
-## Death Cab for Cutie - I Built You a Tower
-
-tbd
-
-::genre::
-
-## Deer Tick - Coin-O-Matic
-
-tbd
-
-::genre::
+::genre::indie rock, post punk, alt rock
 
 ## Devilz By Definition - Devilz Knight
 
-tbd
+Eine unglaublich energiegeladene, kraftvolle Groove-Metal-Vierer-Band aus Windsor, Ontario, Kanada. Die Band hat sich durch die hart umkämpfte kanadische Independent-Rock-Szene gekämpft und jahrelang in schweißgetränkten Underground-Kellern gespielt. Mit ihrer unverwechselbaren Mischung aus erstklassigen Thrash-Riffs und knallharten Breakdown-Tempos haben sie sich eine leidenschaftliche Fangemeinde aufgebaut. **Groove Metal**, **Thrash Metal** und **Hardcore-Crossover**. Bitte stellt sicher, dass eure Wohnzimmermöbel fest am Boden verankert sind, bevor ihr die Lautstärke aufdreht, denn "Devilz Knight" schlagen mit der Wucht von Asphalt zu. Das Album wirft die höflichen Regeln des kommerziellen Radios komplett über Bord und ersetzt sie durch eine wütende Lawine aus überverzerrten Gitarren, rasendem Schlagzeug und drängendem Gesang, der klingt, als würde er dem Sänger direkt aus der Kehle gerissen. Das lyrische Thema ist durch und durch konfrontativ und behandelt innere Dämonen, Straßenrebellion und persönliches Überleben mit einer kompromisslosen Haltung. Es ist ein kurzer, rasender Adrenalinstoß, der ausschließlich für einen wilden Ein-Mann-Moshpit gemacht ist.
 
-::genre::
+::genre::groove metal, alt metal, crossover, thrash metal
 
 ## Diabolic Oath - Unholy Barbaric Hymns
 
-tbd
+Ein wildes, einzigartig kompromissloses dreiköpfiges Extreme-Metal-Kraftpaket aus Portland, Oregon, USA. Das 2017 gegründete Underground-Trio hat in der Heavy-Szene für Aufsehen gesorgt - dank seiner unglaublich unorthodoxen Instrumentenwahl: Mit ausschließlich bundlosen Gitarren und Bässen erzeugen sie eine wirbelnde, einzigartig verstörende mikrotonale Dissonanz, die sie völlig von traditionellen Metal-Bands abhebt. Fretless **Black/Death Metal**, **War Metal** und Bestial Metal. Schließt eure zerbrechlichen Haushaltsgegenstände weg und macht euch eine riesige Menge an Platz auf dem Boden frei, bevor ihr auf Play drückt, denn diese Platte ist eine regelrechte akustische Dampfwalze. "Unholy Barbaric Hymns" fühlt sich genau so an, als würde eine mittelalterliche Armee durch eine Wand aus purem Feuer stürmen. Da die Saiteninstrumente keine Bünde haben, verformen sich die Riffs, hüpfen und gleiten um eure Ohren herum auf eine Weise, die sich wunderbar ekelerregend und erschreckend schwer anfühlt. Die Themen entfalten sich wie ein pechschwarzes okkultes Ritual und verbinden höhlenartige Monster-Growls mit einem ununterbrochenen, rasanten Angriff auf eure Trommelfelle. Es ist roh, völlig ungeschliffen und Headbanging-Perfektion für die Extreme-Metal-Seele.
 
-::genre::
+::genre::war metal, blackened death metal
 
-## Ditheist - Cosmic Liar
+## Ditheist - Cosmic Liar *
 
-tbd
+Eine knallharte, hochtechnische Extreme-Metal-Band, die in der internationalen Underground-Metal-Szene aktiv ist. An den Rändern der unabhängigen Extreme-Metal-Zentren angesiedelt, hat sich Ditheist auf hyperkomplexe Rhythmuskonstruktionen und kosmische Horror-Themen spezialisiert und entfernt sich weit von traditionellen Radiostrukturen, um sich ganz auf ultimative klangliche Wucht zu konzentrieren. **Technical Death Metal**, **progressiver Death Metal** und dissonanter Extreme Metal. "Cosmic Liar" spielt sich genau wie ein rasender Science-Fiction-Film, in dem eine abtrünnige KI die Kontrolle über ein Raumschiff übernimmt, das in ein Schwarzes Loch driftet. Das Album trifft einen mitten in die Brust mit einer unerbittlichen Lawine aus betonbrechenden Drop-Tunings, Maschinengewehr-Blastbeats und höhlenartigen, kehligen Brüllen, die direkt aus der Unterwelt zu kommen scheinen. Das Thema schleicht sich durch existenzielle Angst, außerirdische Täuschungen und die absolute Bedeutungslosigkeit der Menschheit im großen kosmischen Schema. Es ist wunderschön chaotisch, schwindelerregend hektisch und ein absolutes Paradies für Tech-Metal-Fans, die headbangen wollen, während sie versuchen, einen Zauberwürfel zu lösen.
 
-::genre::
-
-## DJ Koncept - Pacific Perception
-
-tbd
-
-::genre::
-
-## DJ Seinfeld - If This Is It
-
-tbd
-
-::genre::
+::genre::dissonant death metal, prog death metal, tech death metal
 
 ## Dreams In Fragments - Shadows From Afar
 
-tbd
+Eine äußerst dramatische, beeindruckende Symphonic-Metal-Band aus der Schweiz. Das 2017 gegründete Quartett (angeführt von der opernhaften Lead-Sängerin Vanessa T.) hat sich mit Alben wie "Reflections of a Dark Soul" einen Namen in der europäischen Underground-Szene gemacht. Sie sind dafür bekannt, dass sie meisterhaft klaren, ätherischen Gesang mit schweren Drop-Tunings der Gitarren kontrastieren. **Symphonic Metal**, **Melodic Death Metal** und **Gothic Metal**. Hüllt euch in einen schweren Samtumhang, denn "Shadows From Afar" ist ein glorreicher, theatralischer Sturm dunkler Fantasie. Das Album stützt sich auf eine gewaltige Klanglandschaft aus mitreißenden orchestralen Synthesizern, treibenden Metal-Percussions und rasanten Gitarrensoli, die die dunkle Atmosphäre durchschneiden. Vanessas durchdringender, engelsgleicher Gesang schwebt anmutig über intensiven, kehligen Metal-Brüllen, um schwere Themen wie innere Dämonen, alte Folklore und persönliche Widerstandskraft anzugehen. Es ist eine majestätische, wunderschön dramatische Rockoper, die einen vollkommen in ihren Bann zieht.
 
-::genre::
-
-## Drew Wesely, Camilo Ángeles, Laura Cocks, Lester St. Louis, and Carlo Costa - A Fine Chance for Permanence
-
-tbd
-
-::genre::
+::genre::gothic metal, melo death metal
 
 ## Dutch Elm - Dutch Elm
 
-tbd
+Ein äußerst atmosphärisches Indie-Folk-/Slowcore-Ensemble aus Großbritannien. Entstanden aus der fruchtbaren europäischen DIY-Alternativszene, konzentriert sich "Dutch Elm" auf akustische Texturen, zarte Gesangsräume und ein langsam aufbauendes instrumentales Tempo. Sie haben sich bereits vor der Aufnahme dieses Projekts stetig eine Basis im Internet aufgebaut. **Slowcore**, **Ambient Folk**, **Indie Rock** und **Dream Pop**. Wenn sich dein Geist vom Lärm der modernen Welt völlig erschöpft anfühlt, wirkt dieses selbstbetitelte Album wie ein warmer, akustischer Zufluchtsort. Die Band schafft eine wunderbar sanfte, atmende Klangarchitektur aus spärlichem Gitarrengezupfe, trägen Brush-Drums und doppelten Gesangsharmonien, die wie Morgennebel vorbeiziehen. Das zentrale Thema erkundet stille Abgeschiedenheit, Naturlandschaften und die Verarbeitung von Erinnerungen in den langsamen Pausen zwischen den Noten. Es fühlt sich an, als würde man einem leichten Nieselregen vor dem Fenster zusehen, während man sicher unter einer dicken Decke liegt.
 
-::genre::
+::genre::slowcore, ambient folk, indie rock, dreampop
 
-## Dwarves - Jenkem
+## Dwarves - Jenkem *
 
-tbd
+Eine berüchtigte, seit langem bestehende Garage-Punk-Institution, die ursprünglich aus Chicago, Illinois, USA, stammt und später in San Francisco tief verwurzelt war. Die Mitte der 1980er Jahre gegründete Band schuf ein wild-chaotisches Shock-Rock-Erbe, das durch kurze, hyperaggressive Live-Sets und kontroverse Bildsprache geprägt ist. Angeführt vom geheimnisvollen Frontmann Blag Dahlia haben sie vier Jahrzehnte lang völlig unbeeindruckt von politischer Korrektheit oder den Regeln der Mainstream-Musikindustrie verbracht. **Hardcore-Punk**, **Noise-Rock**, **Punk-Rock** und **Garage-Surf**. Schnürt eure Turnschuhe fest und macht euch bereit für Höchstgeschwindigkeit, denn "JENKEM" ist ein 15-minütiger Non-Stop-Schuss puren musikalischen Adrenalins. Die Band orientiert sich explizit an dem rasanten, rohen, bremsenlosen Klangangriff ihrer legendären Ära der frühen 90er Jahre. Das Album ist vollgepackt mit kreischenden Gitarrentönen, rasendem Schlagzeugspiel und frechem, satirischem Gesang, der sich über so ziemlich alles unter der Sonne lustig macht. Es ist wunderbar provokativ, völlig außer Kontrolle und perfekt, um dein Wohnzimmer in einen wilden Ein-Personen-Moshpit zu verwandeln.
 
-::genre::
+::genre::noise rock, hardcore punk, surf punk, garage rock
 
 ## Edging - Unload Your Shame
 
-tbd
+Ein wildes, energiegeladenes Hardcore-Punk-Quartett aus der Independent-Underground-Szene der Vereinigten Staaten. Diese kompromisslose vierköpfige Band hat sich durch chaotische Live-Auftritte und kurze, im Internet veröffentlichte Aufnahmen einen unverwechselbaren Stil erarbeitet und setzt auf rasende Live-Energie und politische Frustration statt auf kommerzielle Musikformate. **Hardcore-Punk**, **Powerviolence**, **Crossover-Thrash** und D.I.Y.-Punk. Bitte stellt sicher, dass eure Wohnzimmermöbel fest am Boden verankert sind, bevor ihr die Lautstärke aufdreht, denn "Unload Your Shame" ist eine wütende Lawine aus purem Adrenalin. Das Album trifft euch wie ein massiver Ziegelstein aus ungefiltertem Punk-Muskelkraft und packt sieben rasante Tracks in einen blendenden, rasanten Sturm aus überverzerrten Gitarrenmassen, rasenden Blastbeats und kehlenschneidenden Gesangsschreien. Textlich ist das Album ein kompromissloser Stinkefinger gegen gesellschaftliche Korruption und moderne Schuldgefühle. Es ist roh, wunderbar wild und ausschließlich für einen wilden Moshpit gemacht.
 
-::genre::
+::genre::hardcore punk, crossover, powerviolence
 
 ## Ella Hunt - Blindspot
 
-tbd
+Ella Hunt ist eine außergewöhnlich talentierte Sängerin, Songwriterin und hochgelobte Schauspielerin, die ursprünglich aus Devon, England, Vereinigtes Königreich, stammt. Hunt, die für ihre Durchbruchrolle als Sue Gilbert in der Apple TV+-Serie "Dickinson" weltweit gefeiert wird, hat erfolgreich ihren eigenen musikalischen Weg eingeschlagen und erntet Lob für ihre sinnliche Stimmlage und ihren hochliterarischen, tagebuchartigen Schreibstil. **Indie-Pop**, **Dark Dream-Pop**, **Alternative R&B** und **Chamber-Pop**. Stell dir vor, du trittst aus einem plötzlichen, kalten Regenguss direkt in einen kerzenbeleuchteten Raum, in dem dir jemand seine tiefsten Geheimnisse direkt ins Ohr flüstert. "Blindspot" ist ein atemberaubendes, bläulich getöntes Porträt emotionaler Verletzlichkeit, das Hunts durchdringende, samtige Stimme mit einer reichhaltigen, sich wandelnden Architektur aus stimmungsvollen Synthesizern und knackigen elektronischen Percussions verbindet. Ohne Details über Beziehungsdynamiken, Identitätswandel und unverfälschte weibliche Autonomie zu verschweigen, bewegt das Album mit einer unvergesslichen, zerbrechlichen Wärme. Es ist ein wunderschön dramatisches, raffiniertes Pop-Meisterwerk, in dem man sich vollkommen verlieren kann.
 
-::genre::
+::genre::alt r&b, dreampop, dark pop, indie pop, chamber music
 
 ## Embryonic Autopsy - Rise Of The Mutated
 
-tbd
+Ein donnerndes, wildes Death-Metal-Kraftpaket aus Chicago, Illinois, USA. Angeführt vom erfahrenen Extreme-Metal-Sänger Tim King (Oppressor) und dem blitzschnellen Gitarristen Scott Wischmeyer hat sich die Band in der weltweiten Underground-Szene massiven Beifall der Kritiker verdient, da sie die klassischen Strukturen des Death Metals aus Florida und dem Mittleren Westen der 1990er Jahre würdigt. **Old-School-Death-Metal**, **Brutal-Death-Metal** und technischer Extreme-Metal. Sichert eure zerbrechlichen Haushaltsgegenstände und spannt eure Nackenmuskeln an, bevor ihr auf Play drückt, denn diese Platte ist eine regelrechte akustische Dampfwalze. "Rise Of The Mutated" verzichtet komplett auf ausgefeilte Radio-Tricks, um euch kopfüber in einen unerbittlichen Schneesturm aus kreissägenartigen Gitarrenriffs, Maschinengewehr-Drum-Tempos und höhlenartigen, kehligen Brüllen zu stürzen. Getreu dem Titel schlängelt sich die lyrische Landschaft durch einen düsteren Science-Fiction-Horrorfilm, in dessen Mittelpunkt Genmanipulation und apokalyptischer Zusammenbruch stehen. Es ist brutal heavy, wunderbar aggressiv und ein absolutes Headbanging-Paradies für Metal-Puristen.
 
-::genre::
+::genre::osdm, brutal death metal, tech death metal
 
 ## Ephraim - Radiant Reflections
 
-tbd
+Ephraim ist ein außerordentlich talentierter Produzent elektronischer Musik und Multi-Instrumentalist, der aus dem digitalen Underground heraus agiert. Ephraim hat sich eine leidenschaftliche Online-Fangemeinde aufgebaut, indem er nostalgische Y2K-Synthesizer und knackige Garage-Breakbeats meisterhaft zu tiefgründigen, filmischen und emotionalen Hörerlebnissen verwebt, die speziell für Kopfhörer-Liebhaber konzipiert sind. **Chillwave**, **Progressive House**, **Synth-Pop** und Melodic **Ambient**. Wenn sich dein Gehirn wie ein geöffneter Webbrowser anfühlt, in dem fünfzig verschiedene Tabs gleichzeitig geladen werden, ist diese Platte der sofortige Reset-Knopf, den du brauchst. "Radiant Reflections" wirkt wie eine großartige, leuchtende Dosis reinen Internet-Dopamins, die helle Synthesizer-Squelches, summende Vocal-Loops und lebhafte elektronische Drops mit absoluter Präzision übereinanderschichtet. Das Kernthema ist eine optimistische Meditation über geistige Klarheit, Eskapismus im digitalen Zeitalter und das Finden eines Stückchens Frieden im täglichen Chaos. Es ist eine rasante, farbenfrohe Klangreise, die dich durch und durch mit Energie versorgen wird.
 
-::genre::
+::genre::synth wave, synth pop, deep house, ambient
 
 ## Eric Demuro - Eric Demuro
 
-tbd
+Eric Demuro ist ein aufstrebender unabhängiger Singer-Songwriter und Multi-Instrumentalist aus den Vereinigten Staaten. Er hat sich in der digitalen DIY-Szene hochgearbeitet und über Jahre hinweg ein treues Internetpublikum aufgebaut, indem er seine eigenen intimen Klangwelten aufnahm und selbst produzierte, wobei er rohe Raumakustik gegenüber makellosem kommerziellem Sound bevorzugte. **Indie-Rock**, **Alternative Pop**, **Lo-Fi-Bedroom-Pop** und **Indie-Folk**. Dieses Album fühlt sich genau so an, als würde man eine verstaubte Schuhschachtel voller alter handgeschriebener Briefe ganz hinten im Schrank entdecken. "Eric Demuro" gestaltet sein Songwriting mit einem wunderschön sparsamen und ehrlichen Setup, bei dem lässiges Akustikgitarrenspiel und sanfte Klavierklänge unter ungeschliffenen, warmen Gesangspassagen gleiten. Die Themen drehen sich um nächtliche Selbstreflexion, das Beobachten, wie sich die Heimatstadt verändert, und das Finden von Frieden mit den Schmerzen des persönlichen Wachstums. Es ist ein wunderbar gemütliches, bodenständiges Album, das sich wie eine riesige, tröstende Decke um die Ohren legt.
 
-::genre::
+::genre::indie folk, indie rock, indie pop, bedroom pop, lofi
 
 ## Eternal Struggle - Wartime Love Affair
 
@@ -568,7 +364,7 @@ Eine mit mehreren Platin-Auszeichnungen und Grammys gekrönte Alternative-Rock-G
 
 ::genre::alt metal, symphonic metal, pop rock, dark rock
 
-## Evergrey - Architects of A New Weave
+## Evergrey - Architects of A New Weave *
 
 Eine legendäre, äußerst einflussreiche Institution des dunklen, melodischen Metals aus Göteborg, Schweden. Die 1995 gegründete Band, deren kreativer Kopf Frontmann, Gitarrist und Hauptsongwriter Tom S. Englund ist, beherrscht seit über drei Jahrzehnten die europäische Progressive-Metal-Szene. Sie wird weltweit für ihre hochkomplexen Konzepte, melancholischen Themen und die technische Virtuosität ihrer beiden Gitarristen verehrt. **Progressive Metal**, **Power Metal** und **Dark Symphonic Metal**. Setzt eure hochwertigsten Kopfhörer auf und macht euch bereit, euch davontragen zu lassen, denn dieses Album ist ein gewaltiger Berg cineastischer Dark Fantasy. "Architects of A New Weave" bietet ein gewaltiges Festmahl aus mitreißenden orchestralen Keyboard-Pads, komplexen, wechselnden progressiven Taktarten und hochfliegenden Gitarrensoli, die die schwere Atmosphäre durchdringen. Englunds charakteristischer, emotional roher Gesang schlängelt sich durch eine düstere, dystopische Erzählung über psychologische Transformation. Es ist eine dichte, intellektuelle und höchst befriedigende Reise, die deinen Geist völlig in Trance versetzt.
 
