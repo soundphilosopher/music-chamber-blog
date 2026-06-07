@@ -1,7 +1,5 @@
 ---
 date: 2026-05-29
-pin: true
-bandcamp: true
 categories:
   - Releases
 ---
@@ -440,7 +438,7 @@ Ins Leben gerufen vom extravaganten Frontmann und bildenden Künstler Seth Bogar
 
 Die Band stammt direkt aus der Underground-Szene von San Diego in Südkalifornien. Es handelt sich nicht um frischgebackene Newcomer, sondern um eine Supergroup aus erfahrenen lokalen Musikveteranen. Das Projekt vereint Mitglieder aus mehreren namhaften Bands verschiedener Szenen, darunter Amenity, Ilya, Crushed on You, B-Side Players, Hauntu und Audio Addiction. Eine harte Fusion aus **Darkwave**, **Synthwave**, **Industrial und Metal**. Ihr Sound lehnt sich stark an elektronische Tanzmusik der 1980er Jahre, Retro-Horrorfilm-Soundtracks und aggressive Metal-Musik an. Stell dir vor, du fährst mit einem gestohlenen Muscle-Car durch eine neonbeleuchtete, postapokalyptische Einöde, während du von kybernetischen Zombies verfolgt wirst - genau das ist die Stimmung von Dead Before Dawn. Die EP weigert sich, sich festzulegen, und genau darin liegt ihre größte Stärke. Sie beginnt mit unheimlicher, filmischer Spannung, führt körperlose Horror-Dialoge ein und schlägt dir dann plötzlich mit vernichtenden, stampfenden Metal-Gitarrenriffs über einem Techno-Club-Beat der 1980er Jahre ins Gesicht. Tracks wie "Nekromantik" klingen, als würde Mad Max in eine Goth-Rave-Party krachen, komplett mit schrillen, eindringlichen Synthesizern und schweren Breakdowns. "Terror Vision" hingegen baut ein Gefühl purer Paranoia auf, bevor es die Mauern mit einem rasanten Gitarrensolo komplett zum Einsturz bringt.
 
-::genre::darkwave, synth wave, industrial metal, industrial
+::genre::dark wave, synth wave, industrial metal, industrial
 
 ## Iceage - For Love of Grace & the Hereafter
 
@@ -501,6 +499,12 @@ Der Trompeter Kris Tiner (Leiter des Fachbereichs Darstellende Künste am Bakers
 Gildenlöw ist ein äußerst versierter Multi-Instrumentalist, der vor allem durch seine Zeit als ehemaliger Bassist der Progressive-Metal-Größen Pain of Salvation bekannt ist. Weit über den Rahmen seiner ursprünglichen Band hinausgehend, ist "Humanised" sein sechstes Solo-Studioalbum. Um das technische Spektrum der Rhythmusgruppe zu maximieren, holte er den Meister-Schlagzeuger Leo Margarit mit ins Boot. Auf dem Album sind zudem Gastsoli von Daniel Magdič von Prehistorical Animals zu hören. Eine schwere, düstere und komplexe Fusion aus **Progressive Rock**, **Progressive Metal**, **Gothic Rock**, **Doom Metal** und **Electronica**. Klanglich verwebt sein Konzept dichte, knirschende Verzerrungen der siebensaitigen Gitarre und dominante Basslinien unter mitreißenden, komplexen und cineastischen Melodien. Wenn ihr euch schon immer einmal hinsetzen und ein tiefgründiges, philosophisches Gespräch mit einem Außerirdischen darüber führen wolltet, wie bizarr kompliziert es ist, ein Mensch zu sein, dann ist "Humanised" euer perfektes Übersetzungsgerät. Gildenlöw bricht mit seiner sanfteren, ambienten Vergangenheit und liefert eine wunderschön düstere, muskelbepackte progressive Achterbahnfahrt, die euch mit schweren Siebensaiten-Gitarrenriffs und einer massiven Goth-Metal-Atmosphäre direkt ins Gesicht schlägt. Der absolute Star der Show ist die atemberaubende Rhythmusgruppe; Leo Margarits vulkanisches, komplexes Schlagzeugspiel erzwingt ein atemloses Tempo, das Musiknerds völlig in seinen Bann ziehen wird. Die Tracks wandeln sich sanft von knirschender Industrial-Schwere zu mitreißenden, melancholischen Refrains, die einem im Kopf hängen bleiben. Es ist eine kluge, kraftvolle und wunderschön dramatische Metal-Predigt, die wunderbar eindringlich und völlig entfesselt klingt.
 
 ::genre::prog rock, prog metal, goth rock, doom metal, avant electronica
+
+## Kronstad 23 - Dødehavet
+
+Die Band wurde im Herbst 2023 im Stadtteil Kronstad in Bergen, Norwegen, gegründet. Die Bandmitglieder sind alte Freunde und arbeiten schon seit langem musikalisch zusammen. Vor der Gründung von Kronstad 23 entfachten sie einen kreativen Funken neu, der über 10 Jahre lang geschlummert hatte. Auf diesem Album werden sie von den Gast-Saxophonisten Inge Weatherhead Breistein und Håvar Skaugen sowie dem Schlagzeuger Ivar Thormodsæter unterstützt. **Cinematic-Jazz**, **Psychedelic Rock**, **Progressive Rock** und modaler **Jazz-Rock**. Hypnotisch, analog geprägt, improvisiert und zutiefst atmosphärisch. Die Band meidet sterile moderne Produktion zugunsten eines rohen Live-to-Tape-Feeling. Die wörtliche Übersetzung des Titels ("Das Tote Meer") schafft eine wunderschön ironische Klanglandschaft. Das Album ist keineswegs stagnierend oder tot; es wogt und pulsiert vor unmittelbarem, organischem Leben. Titel wie "Menigheten" (Die Gemeinde) und "Stratosfæren" (Die Stratosphäre) beschreiben den Erzählbogen des Albums perfekt. Man beginnt geerdet in schweren, hypnotischen Rhythmen und langsam brennenden Basslinien, nur um dann von einer hochfliegenden, psychedelisch angehauchten Gitarre oder einem unerwarteten Sitar-Riff direkt in den Orbit katapultiert zu werden. Die Einbeziehung von Gast-Saxophonen verleiht der Musik eine wunderschöne Wärme. Sie durchdringen die Vintage-Keyboard-Schichten wie ein plötzlicher Sonnenaufgang, der den dichten Morgennebel durchbricht. Es ist eine brillante, mitreißende instrumentale Reise, die dich dazu verleitet, dein Handy auszuschalten, dir einen hochwertigen Kopfhörer aufzusetzen und einfach davonzutreiben.
+
+::genre::psych rock, jazz fusion, prog rock, cine jazz
 
 ## Kurt Vile - Philadelphia's Been Good To Me
 
