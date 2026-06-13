@@ -934,125 +934,71 @@ tbd
 
 ::genre::
 
-## Oki - REKLAMACJA'47
-
-tbd
-
-::genre::
-
-## Olaf Rupp - Fuzzy Logic
-
-tbd
-
-::genre::
-
 ## Olivia Rodrigo - you seem pretty sad for a girl so in love
 
-tbd
+Die mit mehreren Grammys ausgezeichnete Pop-Superstar, die sich von einer Disney-Fernsehschauspielerin zu einer prägenden Stimme des Gen-Z-Pop entwickelte - dank ihrer erfolgreichen Alben "Sour" und "Guts". **Avant-Pop**, **Alternative** und experimenteller **Indie-Pop**. Sie entfernt sich von ihren charakteristischen Pop-Punk-Explosionen und erkundet sanftere, düsterere Klangwelten, die von britischer Alternativmusik und Gothic Rock inspiriert sind. Olivia Rodrigo ist offiziell in ihre "reife Indie-Film-Soundtrack"-Ära eingetreten und hat Robert Smith von The Cure mit auf die Reise genommen. Das Album ist klar in zwei Hälften geteilt und fungiert als theatralische Landkarte einer Beziehung: Die Schmetterlinge auf Seite A, die das Verlieben symbolisieren, weichen auf Seite B einem schleichenden, unheimlichen Zerfall. Anstatt ihre Ex-Freunde mit heavy Rock-Drums zu übertönen, bedient sie sich beunruhigender Bilder - wie dem Vergleich von Trennungsangst nach einer Trennung mit schimmligem Obst im Kühlschrank. Es ist scharfsinniges, witziges, gelegentlich niederschmetterndes und brillantes Storytelling, das beweist, dass sie viel mehr ist als nur ein flüchtiges Pop-Phänomen.
 
-::genre::
+::genre::alt rock, power pop, alt pop, indie pop
 
 ## Paycheque - Paycheque
 
-tbd
+Ein Synth-Pop-Duo, bestehend aus der Filmemacherin und Musikerin Allison Goldfarb (ursprünglich aus St. Louis) und Jackson MacIntosh (einem Indie-Veteranen aus Montreal, bekannt für seine Arbeit mit TOPS und Drugdealer). Sie trafen sich zufällig auf einer Terrasse in LA kurz vor den Lockdowns im Jahr 2020. **Synth-Pop**, **New Wave**, Sophisti-Pop und **Italo-Disco**. Man denke an den vintage, hallgetränkten Jangle von *OMD*, New Musik und den Captured-Tracks-Bands der frühen 2010er Jahre. Zieh deinen besten Oversize-Blazer an und mach dich bereit, sehnsüchtig aus einem regennassen Fenster zu starren. Dieses selbstbetitelte Debüt ist eine herrlich verschwommene Reise in die Retro-Nostalgie, ein Wirbel aus Vintage-Hardware-Synths, knackigen Drum-Machines und traumhaften Gesangswechseln zwischen Mann und Frau. Es erzählt die Geschichte vom Versuch, am Rande von Hollywood zu überleben - mit knappen Finanzen, vorübergehenden Wohnungen und flüchtiger Liebe. Es ist der ultimative Soundtrack für eine Fahrt durch eine neonbeleuchtete Stadt um 2:00 Uhr morgens, während man jede Karriereentscheidung hinterfragt, die man jemals getroffen hat.
 
-::genre::
+::genre::new wave, synth pop, ebm
 
 ## Piebald - Tales for the Rage
 
-tbd
+Piebald wurden 1994 gegründet und entwickelten sich zu einer festen Größe des Indie-/Emo-Booms der späten 90er und frühen 2000er Jahre, bevor sie sich 2008 auflösten und 2016 offiziell wieder zusammenkamen. **Emo**, **Indie-Rock** und **Post-Hardcore**. Sie verbinden massive Gitarrenriffs mit Indie-Sensibilität und treibenden Rhythmen. Dieses Album fühlt sich an, als würde man einen alten College-Kumpel wiedertreffen, der immer noch zu viel Kaffee trinkt, aber mittlerweile tiefgründige, existenzielle Tiraden über den Spätkapitalismus hält. Es ist randvoll mit gewaltigen, schweißtreibenden Hooks zum Mitsingen, druckvollen Gitarrenläufen und augenzwinkerndem Humor. Der Band gelingt es, alltägliche Frustrationen - wie auf der Couch zu sitzen und mit Werbung bombardiert zu werden - in mitreißende Indie-Punk-Hymnen zu verwandeln. Es ist laut, selbstbewusst, unglaublich unterhaltsam und hat gerade genug graue Haare, damit ihre scharfsinnigen sozialen Kommentare auf die bestmögliche Art und Weise ins Schwarze treffen.
 
-::genre::
+::genre::indie rock, post hardcore
 
 ## Pluralone - A Drop In The Ocean
 
-tbd
+Pluralone ist das gefeierte Soloprojekt des legendären Multi-Instrumentalisten und Songwriters Josh Klinghoffer, der durch seine Zeit bei den Red Hot Chili Peppers, Pearl Jam und Dot Hacker bekannt wurde. Er nahm dieses vierte Soloalbum gemeinsam mit dem Produzenten Eric Palmquist und der Backgroundsängerin Chelsea Hodson auf. Akustisch geprägter **Alternative Rock**, **Indie-Pop** und atmosphärischer **Folk**. Der Schwerpunkt liegt auf sparsamen, intimen Gesangsarrangements unter Einsatz von Gitarren in Nashville-Stimmung. "A Drop In The Ocean" wirkt wie ein ruhiger, von Kerzenlicht erhellter Rückzugsort, sicher versteckt vor dem dröhnenden Lärm von Stadiontourneen. Klinghoffer verzichtet auf aufwendige Computerbearbeitung, um seinen sanften, schwebenden Gesang über einfachen, schimmernden Akustikakkorden völlig unverfälscht zur Geltung zu bringen. Mit schweren Themen wie plötzlichem Verlust, Trauer und dem Vergehen der Zeit befassen sich Titel wie „Feels Like I've Done Wrong“ und „Give“, die eine wunderschön zerbrechliche, gelebte Wärme ausstrahlen. Das Album endet mit einer wunderbar menschlichen Note: Eine unbearbeitete iPhone-Sprachmemo bleibt unverändert, damit man hören kann, wie ein Song in Echtzeit entsteht.
 
-::genre::
+::genre::alt rock, indie pop, indie folk
 
-## Preppers - Guest Room
+## Preppers - Guest Room *
 
-tbd
+Seit 2022 sind sie als äußerst einfallsreiches Trio - bestehend aus Pio Schürmann, Samuel Tschudin und Miro Widmer - aktiv und haben sich mit ihrem Debütalbum "Ripples" aus dem Jahr 2023 einen hervorragenden Ruf erarbeitet. Für diese Platte holten sie die Saxophonistin Eva-Maria Karbacher und den Elektronik-Künstler Yanik Soland als Gastmusiker mit ins Boot. Instrumentaler **Noise-Rock**, **Math-Rock**, **Punk** und freie **Improvisation**. Das Album überlagert repetitive Grooves und scharfe Gitarrenriffs mit plötzlichen, verspielten elektronischen Techno-Loops. "Guest Room" anzuhören ist, als hätte man sich versehentlich in einer verspielten Hightech-Hüpfburg eingeschlossen, die von einem exzentrischen Avantgarde-Jazz-Ensemble neu verkabelt wurde. In rasanten Stücken wie "Jura" und "Cache Cache" lösen sich die Instrumente vollständig von typischen Pop-Formeln. Kreischende Saxophone und kreissägeartige Gitarren jagen sich im Kreis über rasante, tickende Rhythmen, während hyperbearbeitetes Kichern an den Ohren vorbeirauscht wie kleine, hektische Feldmäuse. Es ist chaotisch, wunderbar humorvoll und lotet die absoluten Grenzen der alternativen Rockmusik aus.
 
-::genre::
+::genre::noise rock, math rock, instrumental, improvisation
 
-## Prophetic Justice Ministry - Key to World Peace
+## Prophetic Justice Ministry - Key to World Peace *
 
-tbd
+Prophetic Justice Ministry ist das einzigartige, selbst produzierte Musikprojekt des australischen Multi-Instrumentalisten und Produzenten Sam Perry. Dieses Album markiert sein offizielles Vinyl- und internationales Debüt. **Psychedelischer Indie-Pop**, **Lo-Fi-Rock** und abstraktes Songwriting. Stilistisch lässt er sich von den stimmungsvollen, verschwommenen Gesangspassagen und der mitreißenden Instrumentierung des Psych-Rock der späten 1960er Jahre inspirieren. Wenn man "Key to World Peace" abspielt, fühlt es sich genau so an, als würde man um 2 Uhr morgens ein dunkles, rauchgefülltes Wohnzimmer betreten, um den Schatten beim Tanzen über einen Samtvorhang zuzusehen. In Tracks wie "Psyop" und "Spirit House Party" lässt Perry seinen Gesang tief unter einem nebligen Geflecht aus knisternden Tonbandschleifen, rauem Gitarrenspiel und fließender Percussion verborgen. Das Album behandelt Themen wie verschwommene Isolation und emotionale Verletzlichkeit mit einem unglaublich charmanten, lockeren und leicht mysteriösen Bedroom-Rock-Ansatz, der einen völlig hypnotisiert.
 
-::genre::
+::genre::psych rock, psych pop, indie pop, lofi
 
 ## Przebiśniegi - Sen Multiplayer
 
-tbd
+Das 2023 beim Songwriting-Camp „TekstMisja“ gegründete Quartett – bestehend aus Joanna Jewuła, Markus Żamojda, Jan Bąk und Jan Borys - ist stark von legendären polnischen Sängern wie Marek Grechuta und Andrzej Zaucha beeinflusst. **Avantgarde-Indie-Pop**, **Synth-Pop** und Elemente des polnischen Retro-Pop der 1960er Jahre. Sie integrieren nahtlos frische Texturen aus House-Musik und Afrobeat in ihre traditionellen Grundlagen. "Sen Multiplayer" (was so viel wie "Multiplayer-Traum" bedeutet) fühlt sich an, als würde man durch eine sonnenverwöhnte marokkanische Wüste spazieren, während ein sanfter Neonnebel über den Dünen schwebt. Getreu ihrer filmischen Philosophie schafft die Gruppe eine ätherische Audio-Collage, in der schimmernde Synthesizer und luftige, tanzbare Rhythmen mit hochpoetischen, melancholischen polnischen Gesangslinien abwechseln. Die Tracks springen mühelos von beschwingten, clubtauglichen Momenten zu nachdenklichen Einschlafmelodien, die ein wunderschönes, leuchtendes Bild vor deinen Augen hinterlassen. Es ist ein wunderschönes, höchst künstlerisches Stück moderner Pop-Architektur.
 
-::genre::
+::genre::synth pop, indie pop, avant pop, prog pop
 
 ## Public House - Future
 
-tbd
+Public House hat sich auf der internationalen DIY-Szene einen Namen gemacht und sich auf die Produktion energiegeladener Tracks spezialisiert. Für diese Aufnahme haben sie sich mit dem schlagkräftigen Independent-Label Beast Records zusammengetan. Roher, unerbittlicher **Garage-Punk** und aggressiver **Post-Punk**. Stark beeinflusst von den druckvollen Rhythmen und der ungeschliffenen Rauheit des klassischen Lo-Fi-Underground-Rocks. "Future" ist das klangliche Äquivalent dazu, einen tollwütigen Hund in einem überfüllten, engen Flur loszulassen. Das Album haut einen sofort um mit Tracks wie "Police State" und "Society Says", die jeglichen radiotauglichen, kommerziellen Glanz über Bord werfen zugunsten von summenden, stakkatoartigen Gitarrenriffs und hämmernden, ununterbrochenen Trommelwirbeln. Der Gesang klingt, als würde er durch ein defektes Megafon in einem fahrenden Fahrzeug gebellt, und vermittelt perfekt eine intensive Unzufriedenheit mit dem modernen gesellschaftlichen Rauschen. Es ist laut, ungeschliffen, wunderschön aggressiv und eignet sich hervorragend als Treibstoff für das Headbangen.
 
-::genre::
-
-## Puce Moment - O.R.G. II
-
-tbd
-
-::genre::
+::genre::garage punk, post punk
 
 ## Pussy Riot - CYKA
 
-tbd
+Die Gruppe, die 2011 als feministisches Underground-Guerilla-Performance-Kollektiv gegründet wurde, erlangte weltweite Bekanntheit und historische Anerkennung für ihre provokativen, systemkritischen Proteste. **Avantgarde-Industrial-Punk**, **Electro-Punk** und **Alternative Rock**. Sie setzen verzerrte, glitchige Synthesizer, aggressive Drum-Loops und konfrontative Spoken-Word-Poesie als Mittel ein. Willkommen zum ultimativen, neonfarbenen musikalischen Aufstand. "CYKA" ist ein absoluter Feuerwerk aus roher politischer Wut und kreativer Anarchie, das keine Kompromisse macht. Das gesamte Album fungiert als elektronisches Schlachtfeld, hervorgehoben durch explosive Kollaborationstracks wie „Candy Dopamine“ mit der Metal-Größe Avaged Sevenfold und einem höchst provokativen Stück mit gesampelten Audioaufnahmen von Wladimir Putin. Es wechselt rücksichtslos von hektischen, kreischenden Club-Beats zu langsamen, tief eindringlichen Industrial-Klangwänden. Es ist eine gefährliche, brillant künstlerische und völlig unberechenbare Rebellion.
 
-::genre::
+::genre::avant punk, industrial, electropunk, alt rock
 
 ## Rachel Bolan - Gargoyle of the Garden State
 
-tbd
+Bolan ist eine Rocklegende, die seit über 40 Jahren weltweit als Mitbegründer, Hauptsongwriter und Meisterbassist der mit mehreren Platin-Auszeichnungen gekrönten Glam-Metal-Ikonen Skid Row gefeiert wird. **Punkrock**, **Hardrock** und **Arena-Rock**. Ganz geprägt von rohen, rasanten Gitarrenriffs, vor Attitüde strotzendem Gesang und gewaltigen, stadiontauglichen Refrains. "Gargoyle of the Garden State" fühlt sich an wie eine Blockparty mit High-Top-Sneakers und Lederjacken, bei der eine Gruppe legendärer Rock-Größen beschlossen hat, die Bühne zu stürmen. Produziert vom mehrfachen Grammy-Gewinner Nick Raskulinecz, verzichtet das Album komplett auf kommerziellen Schnickschnack und entfesselt stattdessen einen rohen, wilden und kraftvollen Punkrock-Sturm. Unterstützt von einer tödlichen Crew von Freunden - darunter Corey Taylor, Danko Jones und Nuno Bettencourt - liefert Bolan eine absolute Meisterleistung an energiegeladenem, kompromisslosem Songwriting. Es ist direkt, herrlich laut und passt wunderbar zu einem vollgepackten, schweißtreibenden Rock-Konzertort.
 
-::genre::
-
-## Redferrin - Been There Done That
-
-tbd
-
-::genre::
-
-## Redwood - Hyperspace
-
-tbd
-
-::genre::
+::genre::power pop, hard rock, arena rock, glam rock
 
 ## Rhucle - The Water
 
-tbd
+Rhucle ist ein außergewöhnlich produktiver unabhängiger Sounddesigner und japanischer Ambient-Pionier, der Field Recordings, die Ästhetik des warmen Bandrauschens und filigrane elektronische Hardware nutzt, um ruhige musikalische Texturen zu schaffen. Minimalistischer **Ambient**, **Drone** und Klangkunst. Stark inspiriert von der natürlichen Ökologie, dem Zustand der Hydratation und sich wiederholenden Umgebungsgeräuschschichten. "Putting on The Water" fühlt sich genau so an, als würde man im Morgengrauen in einem vollkommen stillen Schwimmbecken treiben und beobachten, wie das erste Tageslicht durch die kräuselnde Oberfläche dringt. Ohne aggressive Percussion, schnelle Tempi oder traditionellen Gesang schafft das Album einen unglaublich gemütlichen, friedlichen Rückzugsort für ein überreiztes Gehirn. Die Tracks entwickeln sich durch lange, ausklingende Synthesizer-Loops und sanftes Hintergrundrauschen und fangen den rhythmischen Fluss und die friedliche Reinheit natürlicher Landschaften ein. Es fungiert als wunderschön zerbrechlicher, tief meditativer Hintergrundsoundtrack zum Entspannen oder um dem Stadtlärm nach einer anstrengenden Woche vollständig zu entfliehen.
 
-::genre::
-
-## Rick Ross - Set In Stone
-
-tbd
-
-::genre::
-
-## Riff Raiders - Welcome To Mars
-
-tbd
-
-::genre::
-
-## Rob Cope - Phoenix Vol. 1
-
-tbd
-
-::genre::
-
-## Robert Aiki Aubrey Lowe - Manifestations in the Shadow of an Unknown Land
-
-tbd
-
-::genre::
+::genre::ambient, field recordings, drone
 
 ## RUDEDOG - target practice
 
