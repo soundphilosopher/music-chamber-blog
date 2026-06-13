@@ -846,93 +846,63 @@ tbd
 
 ## Mike Campbell and The Dirty Knobs - Mission of Mercy
 
-tbd
+Angeführt vom legendären Rock and Roll Hall of Fame-Gitarristen Mike Campbell, der jahrzehntelang als Hauptsongwriter und Leadgitarrist von Tom Petty and the Heartbreakers bekannt war. **Heartland-Rock**, **Americana**, **Bluesrock** und rauer **Southern Rock**. Dieses Album ist eine absolute Lehrstunde darin, wie man eine E-Gitarre zum Knurren, Schnurren und regelrecht Abheben bringt. Campbell und seine Band tauschen überpolierte Studiotricks gegen die rohe Wärme von Röhrenverstärkern und massive, treibende Rhythmen ein, die einen dazu bringen, sofort das Verdeck eines Cabriolets zu öffnen. Es führt durch stadiontaugliche Rockhymnen und bluesige Grooves mit der lockeren, lässigen Selbstsicherheit wahrer Rock-Könige. Es ist druckvoll, hochoktanig, unglaublich unterhaltsam und beweist, dass echter, ungefilterter amerikanischer Gitarrenrock noch immer quicklebendig ist.
 
-::genre::
+::genre::southern rock, folk rock, americana, blues
 
 ## Mike Richmond - Without an Audience
 
-tbd
+Als legendäre Figur des Alternative Rock erlangte Richmond zunächst Bekanntheit als Mitbegründer der wegweisenden Post-Punk-/Indie-Band Love Tractor. Sie trugen maßgeblich dazu bei, die ikonische College-Stadt-Szene von Athens zu prägen, aus der R.E.M. und The B-52s hervorgingen. **Folk-Rock**, **Americana** und **Jangle-Pop**. Richmond stellt auf diesem Album ein wunderbar klassisches künstlerisches Dilemma dar: Was passiert, wenn das Schaffen von Kunst unendlich viel wichtiger ist als der Applaus? Die daraus resultierenden Stücke wirken unglaublich geerdet, voller warmer Akustikgitarrenklänge, gelebter südstaatlicher Weisheit und Hooks, die sich so angenehm anfühlen wie eine alte Lieblingsjeansjacke. Das Album hat ein wunderschönes, gemächliches Tempo, das auf modernen Pop-Glanz verzichtet und stattdessen auf die pure, ehrliche Songwriting-Art einer Veranda setzt. Es ist die ideale Begleitmusik für einen gemächlichen Roadtrip durch kleine ländliche Städte.
 
-::genre::
+::genre::jangle pop, folk rock, americana
 
 ## Mirror Of My Soul - October Is Rising
 
-tbd
+Eine faszinierende Supergroup, bestehend aus erfahrenen Veteranen der schwedischen Underground-Szene. Die Gruppe arbeitete jahrelang still und leise zusammen, bevor sie sich zusammenschloss, um ein komplettes Studioalbum zu produzieren. **Gothic Country**, **Dark Folk**, **Bluesrock** und grooviger Punk. Man stelle sich die raue, sparsame Erzählweise von *Dax Riggs* vor, vermischt mit exzentrischen Elementen wie einer Prog-Flöte im Stil von *Jethro Tull*. Dieses Album wirkt wie ein wunderbar nachdenklicher, tief melancholischer Herbstspaziergang durch einen verwunschenen Wald. Entgegen den üblichen Rockklischees setzt die Band auf eine unglaublich sparsame, minimalistische Instrumentierung - mit einfachen Banjos und leisen Akustikgitarren -, um ihren stimmlichen Geschichtenerzählern die Hauptrolle zu überlassen. Gerade wenn man glaubt, den Dreh raus zu haben, springt das Album in überraschende Progressive-Rock-Flötensoli über. Es ist unheimlich, atmosphärisch dicht und trägt eine wunderschön düstere Seele in sich, die sich an einen heranschleicht, bis sie sich zu einer gewaltigen Kraft entfaltet.
 
-::genre::
-
-## Modis - Capsule
-
-tbd
-
-::genre::
-
-## Mon Laferte - FEMME FATALE VOL. 2
-
-tbd
-
-::genre::
+::genre::country folk, dark folk, alt folk
 
 ## MONO - Snowdrop
 
-tbd
+Das 1999 gegründete Instrumentalquartett hat sich über mehr als zwei Jahrzehnte hinweg als einer der herausragenden internationalen Vorreiter des orchestralen Post-Rock etabliert und ist bekannt für seine gewaltigen Klangwände aus verzerrten Tönen. **Post-Rock**, cineastischer Instrumentalrock, **moderne Klassik** und **Shoegaze**. Dieses Album ist ein mitreißender, cineastischer Sturm aus tiefer Trauer und hart erkämpfter Hoffnung. Jeder Track ist nach Blumen strukturiert, um eine eigene emotionale Sprache zu vermitteln. Die Band schichtet zarte, weinende Streicharrangements, die langsam zu vulkanischen Explosionen aus Gitarren-Feedback anschwellen. Es ist dynamisch, unglaublich intensiv und umwerfend schön – die absolute musikalische Definition davon, direkt in ein Gewitter zu blicken und dabei vollkommenen Frieden zu finden.
 
-::genre::
+::genre::post rock, cine rock, instrumental
 
 ## Moontowers - Lethal Messiah
 
-tbd
+Gegründet 2017 von erfahrenen Musikern der Metal-Szene, die aus wegweisenden Underground-Bands wie Desaster und Metal Inquisitor stammen. Epischer **Doom Metal** und klassischer, traditioneller **Heavy Metal**. Entstaube dein mittelalterliches Breitschwert und poliere dein Kettenhemd auf Hochglanz, denn dieses Album ist eine monumentale, donnernde Reise durch eine vom Krieg zerrüttete Fantasielandschaft. Die Band kocht gekonnt schwere, monolithische Doom-Strukturen auf kleiner Flamme und würzt sie mit massiven, unvergesslichen Heavy-Metal-Hooks und hochfliegenden epischen Gitarren-Leads. Es ist triumphierend, wunderbar laut und trägt eine rohe, dunkle Gesangsdarbietung in sich, die dich dazu bringen wird, ein Horn mit Met hoch in die Luft zu recken.
 
-::genre::
+::genre::doom metal, heavy metal
 
 ## Mukqs - Juckport
 
-tbd
+Max Allison ist ein Produzent experimenteller Elektronikmusik, Multi-Instrumentalist und Mitbegründer des einflussreichen Independent-Labels Hausu Mountain. **Vaporwave**, **IDM**, **Avantgarde-Electronica**, Footwork und experimenteller **Noise**. Wenn man sich das anhört, fühlt man sich, als würde man sich in einer fehlerhaften Simulation eines japanischen Import-Videospiels aus den frühen 2000er Jahren verlieren. Da die Musik komplett live auf einem Sampler aufgenommen wurde, strahlt sie eine schwindelerregende, atemlose Energie aus, in der durcheinandergewürfelte Klaviertasten, glitchige Percussion-Tracks und plötzliche Ausbrüche rhythmischen Lärms in einem wunderschönen Chaos übereinanderloopen. Es ist brillant, klaustrophobisch und fühlt sich wunderbar locker an - ein wahrer digitaler Spielplatz für Fans völlig unkonventioneller elektronischer Musik.
 
-::genre::
-
-## Myles Smith - My Mess, My Heart, My Life
-
-tbd
-
-::genre::
-
-## nelward - Stone Bogus
-
-tbd
-
-::genre::
-
-## Niblock Hooker Soldier First - Paiva River Songs
-
-tbd
-
-::genre::
+::genre::experimental electronica, avant electronica, idm, vaporwave
 
 ## Non Serviam - La Lune Dont Mon Âme Est Pleine
 
-tbd
+Ein anonymes, radikal antifaschistisches und anarchistisches Musikkollektiv, das seit Jahren eine Vielzahl provokativer Underground-Splits, EPs und Alben veröffentlicht. **Industrial Black Metal**, avantgardistische Elektronik, **Crust-Punk** und psychedelischer **Noise-Rock**. Diese Platte anzuhören ist das akustische Äquivalent dazu, einer außer Kontrolle geratenen KI die Kontrolle über dein Gehirn zu überlassen, während du in einer illegalen Underground-Rave-Party gefangen bist. Das Album, dessen Titel übersetzt "Der Mond, der meine Seele erfüllt" bedeutet, lehnt traditionelle Kohäsion bewusst ab, um einen wunderschönen, furchterregenden Albtraum zu erschaffen. Verwirrendes elektronisches Rauschen fesselt deine Aufmerksamkeit, während sich melodische, unheimliche Clean-Vocals plötzlich in Black-Metal-Schreie verwandeln, die wie verbrannte Erde klingen. Es ist chaotische, politisch wütende und höchst experimentelle Kunst, die darauf ausgelegt ist, dir ein tiefes Unbehagen zu bereiten, während du im Dunkeln tanzt.
 
-::genre::
+::genre::industrial metal, crust, noise rock, psych rock, avant black metal
 
 ## Nuclear Tomb - Epoch Inhumane
 
-tbd
+Entstanden aus der rauen Metal-Underground-Szene der Mid-Atlantic-Region, hat sich die Band mit ihrem Debütalbum "Terror Labyrinthian" aus dem Jahr 2024 einen Namen für komplexes Songwriting gemacht. **Technical Death Metal**, **progressiver Thrash Metal** und avantgardistischer Extreme Metal. Zieh deine robustesten Kampfstiefel an, denn dieses Album ist ein dystopisches Klang-Kriegsgebiet. Die Band tauscht standardmäßige, repetitive Metal-Riffs gegen ein unvorhersehbares Labyrinth aus dissonanten Akkorden, schwindelerregenden Tempowechseln und knurrenden Gesangstiraden ein. Textlich spielt sich das Album wie ein düsteres Science-Fiction-Drehbuch ab und seziert eine Welt, die durch institutionelle Täuschung und gesellschaftlichen Verfall korrumpiert ist. Es ist klaustrophobisch, kompromisslos heavy und technisch atemberaubend - perfekt zum Aufdrehen, wenn man zusehen will, wie die metaphorische Welt stilvoll in Flammen aufgeht.
 
-::genre::
+::genre::tech death metal, prog thrash metal, avant metal
 
 ## Oddfellows - Oddfellows
 
-tbd
+Die legendäre texanische Band, die ursprünglich Ende 1994 gegründet wurde, eroberte kurzzeitig die lokale Szene, bevor sie sich auflöste. Ihre Mitglieder waren in den folgenden drei Jahrzehnten federführend an unzähligen wegweisenden Underground-Punk-Projekten beteiligt. Im Dezember 2024 kam es zu einer unerwarteten Wiedervereinigung, um ihr lang erwartetes Debütalbum aufzunehmen. **Power-Pop**, **Garage-Punk** und **New Wave** der frühen 1980er Jahre. Man denke an die hochoktanige, melodische Geschwindigkeit von Bands wie *The Marked Men*, *High Tension Wires* und *Mind Spiders*. Diese Platte ist eine wunderschön rohe Blaupause für melodischen Punk, der klingt, als wäre er dreißig Jahre lang in einer Zeitkapsel eingeschlossen gewesen, um dann völlig unberührt vom Alter wieder aufzutauchen. Fast jeder einzelne Track ist weniger als zwei Minuten lang und liefert einen kompromisslosen Ansturm aus kantigen Gitarren-Hooks und präzisem, perfekt abgestimmtem Schlagzeugspiel. Der Gesang zeichnet sich durch eine wunderbar charismatische, ungeschliffene Schärfe aus, die dem gesamten Album die ansteckende Energie eines Keller-Gigs verleiht. Es ist kurz, schweißtreibend, absolut unprätentiös und dient als absolute Meisterklasse im Schreiben von Power-Pop-Hymnen.
 
-::genre::
+::genre::power pop, garage punk, new wave
 
 ## Ok Goodnight - stop/go
 
-tbd
+Die Band entstand, als die Mitglieder noch am renommierten Berklee College of Music studierten. Mit ihrem brillanten, 2023 in Eigenregie veröffentlichten progressiven Konzeptalbum "The Fox and the Bird" erlangten sie weltweit eine riesige Fangemeinde. **Progressive Rock**, **Art Rock** und moderner **Alternative Metal**. Sie verbinden gekonnt komplexes Sounddesign, vielseitige Samples und Live-Instrumentierung. Wenn Sie schon immer einmal eine Rockband hören wollten, die eine musikalische Leinwand in Echtzeit aktiv zerlegt und wieder aufbaut, dann sind Sie hier genau richtig. Das Album wirkt wie eine selbstbewusste Mixed-Media-Kunstgalerie, in der jazznahe Klavierläufe auf vernichtende Metal-Riffs und neonfarbene Elektronik treffen. Sänger Casey Lee Williams schwebt mühelos über einem dichten Rhythmuslabyrinth und singt von der lähmenden Angst vor der modernen Wahlfreiheit. Es ist unberechenbar, wunderschön überwältigend und hinterlässt das Gefühl, gerade eine wunderschön untermalte Hochgeschwindigkeitsjagd durch ein urbanes Kunstviertel überstanden zu haben.
 
-::genre::
+::genre::alt metal, prog rock, prog metal, art rock
 
 ## Olivia Rodrigo - you seem pretty sad for a girl so in love
 
