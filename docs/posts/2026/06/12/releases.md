@@ -94,12 +94,6 @@ tbd
 
 ::genre::
 
-## Baauer - U
-
-Baauer, mit bürgerlichem Namen Harrison Rodrigues, ist ein weltweit bekannter Pionier der elektronischen Musik, der mit seinem Durchbruchshit "Harlem Shake" aus dem Jahr 2012 zu großem Ruhm gelangte. Dieses Projekt markiert sein mit Spannung erwartetes Comeback und ist sein erstes Studioalbum seit sechs Jahren. Es entstand live während interaktiver Produktionssitzungen, die auf Twitch gestreamt wurden. Avantgardistische **EDM**, **Bloghouse**, **Trap** und **UK Garage**. Stark beeinflusst von den Dance-Shows von BBC Radio 1 aus der Mitte der 2000er Jahre und energiegeladenen elektronischen Club-Mixes. "U" ist so konzipiert, dass es den nahtlosen, atemlosen Fluss einer nächtlichen Piratenradiosendung perfekt nachahmt. Das Album stürzt dich kopfüber in eine schweißtreibende, neongetränkte Rave-Party, die sich weigert, das Tempo zu drosseln. Vollgepackt mit schweren Bass-Schlägen, schwindelerregenden Synth-Lasern und brillanten Gastbeiträgen von Sängerinnen wie Aluna und KUČKA wandelt sich die Musik rücksichtslos von lebhaften Garage-Rhythmen zu futuristischen Club-Hymnen. Es ist ein wild-kreatives, meisterhaft abgemischtes elektronisches Kaleidoskop, das jeden daran erinnert, warum Baauer nach wie vor ein herausragender Architekt der modernen Dance-Musik ist.
-
-::genre::uk garage, edm, trap
-
 ## BabyChiefDoit - RAMBO
 
 tbd
@@ -1060,341 +1054,185 @@ tbd
 
 ::genre::
 
-## Rone - Megaptera
-
-tbd
-
-::genre::
-
 ## RUDEDOG - target practice
 
-tbd
+Als unabhängiges, äußerst produktives DIY-Internetprojekt auf Plattformen wie Bandcamp hat sich RUDEDOG eine leidenschaftliche Kult-Anhängerschaft aufgebaut, indem es rohe, texturreiche Gitarrenalben wie "Celestial Flesh" und "trailcam blues" herausbringt. Underground-**Shoegaze**, **Neo-Psychedelia** und **Dream Pop**. Stark geprägt von dichten, verzerrten Gitarren-Fuzz-Hintergründen und ungeschliffenen Lo-Fi-Gesangsmischungen. "Target Practice" ist ein gewaltiges Wall of Sound Monster, das sich anfühlt, als würde man in eine schwere, samtige Decke gehüllt, die in warmem Motoröl getränkt wurde. Der Künstler verzichtet auf knackige, kommerzielle Studioaufnahmen und lässt stattdessen eine Parade stark verzerrter, summender Gitarren den Raum vollständig einnehmen, während träge, hallende Vocals unter dem Klanglärm dahinschweben wie ein Geist, der in einer Windkraftanlage gefangen ist. Das Album greift Themen des Kleinstadt-Arbeiterblues auf und betrachtet sie durch eine wunderbar filmische, spacige Linse. Es ist laut, unapologetisch ungeschliffen und passt wunderbar dazu, auf eine Popcorn-Decke zu starren.
 
-::genre::
-
-## Ruel - Kicking & Screaming
-
-tbd
-
-::genre::
+::genre::indie rock, psych rock, shoegaze, dreampop
 
 ## Ruth Garbus - Profound
 
-tbd
+Als erfahrene Größe der experimentellen Szene Neuenglands sorgte Garbus zuvor in Bands wie Feathers und Happy Birthday sowie in der Avantgarde-Supergroup Earth Flower für Aufsehen, bevor sie ihre gefeierte Solokarriere fortsetzte. **Avantgarde-Accoustic-Folk**, **Indie-Rock** und **Chamber-Folk**. Der Stil lässt ihre jüngsten intensiven Studien französischer Romantiker wie Gabriel Fauré elegant einfließen. Wenn man "Profound" abspielt, ist es, als säße man auf einer Veranda im ländlichen Vermont, während eine Sommerbrise hereinweht, und lauschte jemandem, der eine Geschichte erzählt, die einen gleichzeitig zum Lachen bringt und erröten lässt. Unterstützt von subtilen, live aufgenommenen Keyboard- und Gitarrenläufen eröffnet Garbus das Album mit völlig gewagten Texten über körperliche Intimität und Hunde, bevor sie sich kopfüber in eine exquisite, leicht angespannte Betrachtung darüber stürzt, was es bedeutet, eine Frau in den Vierzigern zu sein. Ihr Gesang ist atemberaubend roh und tanzt über lockere akustische Muster wie reife Früchte, die die Sonne einfangen. Es ist brillant, gemütlich und wunderbar exzentrisch.
 
-::genre::
-
-## s4khi - 1056
-
-tbd
-
-::genre::
+::genre::avant folk, alt folk, indie rock, indie folk, chamber folk
 
 ## Sad Lovers & Giants - The Weight of Forgotten Dreams
 
-tbd
+Die 1980 gegründete Band zählt zu den absoluten Veteranen und Kultlegenden der ursprünglichen britischen Post-Punk-/Darkwave-Bewegung. Diese Platte stellt einen bedeutenden Meilenstein dar, da es sich um ihre erste große Studio-Sammlung mit neuem Material seit Jahren handelt. Kultiger **Post-Punk**, **Gothic Rock** und wandlungsreicher **Indie-Rock**. Stark geprägt von idyllischen, atmosphärischen Gitarrenstrukturen, wirbelnden Synthesizern und stimmungsvollen, melancholischen Gesangstexturen. "The Weight of Forgotten Dreams" ist eine wunderschöne, bittersüße Meisterleistung, die beweist, dass die Architekten des melodischen Darkwave kein bisschen von ihrer Magie verloren haben. Mit 10 sorgfältig ausgearbeiteten Tracks - darunter Höhepunkte wie "Asylum Town", "Awoken" und "Think Like a Roman" - strahlt das Album eine zutiefst beruhigende, filmische Wärme aus. Garces Leadgesang schwebt wie ein sanftes Phantom über Tony McGuinness' klirrenden, hallenden Gitarrenlinien und Will Hicks' mitreißenden, atmosphärischen Keyboards. Es verzichtet gänzlich auf aggressive Klänge und liefert stattdessen ein üppiges, traumhaftes Rock-Tagebuch, das einen vollkommen in seinen Bann zieht.
 
-::genre::
-
-## sage - 1817
-
-tbd
-
-::genre::
-
-## Sahhar - Migja ta Mohh Mignun
-
-tbd
-
-::genre::
-
-## Satanic Steakhouse - A Night 2 Dismember
-
-tbd
-
-::genre::
+::genre::indie rock, post punk, goth rock
 
 ## Scatter - Tech Hell Cyber Thrash
 
-tbd
+Entstanden aus Hacker-Filmmarathons während der Pandemie und langen Nächten, in denen selbstgebaute Gitarrenpedale gelötet wurden. Eine Idee des Multi-Instrumentalisten Spenser Hodge, der den texanischen Gitarrenvirtuosen Ruben Cantu und den aus Alaska stammenden Mitstreiter Justin Rodda für das Trio gewinnen konnte. Hyperenergetischer Cyber-**Thrash-Metal**, **Crossover** und Old-School-Thrash. Stark beeinflusst von 90er-Jahre-Cyberpunk, 80er-Jahre-Speed-Metal aus der Bay Area und der frühen Hacker-Kultur. "Tech Hell Cyber Thrash" fühlt sich an, als würde man sein Gehirn gewaltsam in ein glitchiges Windows-98-Betriebssystem hochladen, während ein wütender Mob versucht, den Computertisch zu demolieren. Mit einer Spielzeit von unter 19 Minuten verteilt auf 5 rasante Tracks - mit großartigen Titeln wie "Punching Deck" und "Y2K Killer" - trifft die EP wie ein absoluter Blitzschlag. Die Gitarren galoppieren mit traditionellen, wütenden Speed-Metal-Zweiharmonien, während die derben Death-Grunts und Old-School-Growls absolute kampfbereite Paranoia vermitteln. Es werden sogar Soundscapes von Einwahlmodems eingeflochten, bevor es in vernichtende Mosh-Riffs übergeht. Es ist kurz, intensiv aggressiv und wunderbar geekiger Retro-Thrash-Spaß.
 
-::genre::
-
-## Shawn James - Passage
-
-tbd
-
-::genre::
-
-## SIDDIOUS - ALTREG0
-
-tbd
-
-::genre::
+::genre::thrash metal, crossover, speed metal
 
 ## Sleeping with Sirens - An Ending In Itself
 
-tbd
+Das 2009 gegründete Chart-Powerhouse ist seit fast zwei Jahrzehnten eine feste Größe in der Heavy-Szene. Dieses Album markiert einen bedeutenden Meilenstein, da die Band offiziell zu ihrem langjährigen Label Rise Records zurückkehrt. **Moderner Post-Hardcore** und **Alternative Rock**. Der Stil verbindet ihre klassischen, kraftvollen, stampfenden Gitarrenriffs mit faszinierenden Elementen von leichterem, melodischem Alternative-Pop. Dieses Album fühlt sich an, als stünde man mitten in einem riesigen Festival-Moshpit mit einer Menge verschwitzter Fremder, während über einem ein Neon-Feuerwerk explodiert. Kellin Quinns charakteristischer, himmelhoher Gesang schwebt mit spektakulärer Klarheit und wechselt mühelos zwischen zarter Introspektion und kathartischen, energiegeladenen Rockhymnen. "An Ending In Itself" vollführt einen brillanten Balanceakt: Es gibt mehr als genug vernichtende Gitarrenwucht, um die Old-School-Hardcore-Fans zu befriedigen, doch die geschmeidigen, eingängigen Pop-Hooks ziehen einen direkt zurück ins Licht. Es ist grandios, wunderschön abgemischt und markiert einen spannenden Wendepunkt für die erfahrene Band.
 
-::genre::
+::genre::modern post hardcore, alt rock
 
 ## So Much Hope, Buried. - Wither | Grow
 
-tbd
+Entstanden in der DIY-Szene von Pennsylvania, haben sie sich den Ruf erarbeitet, ihr Herz offen auf der Zunge zu tragen. Dieses Projekt ist ihr mit Spannung erwartetes zweites Studioalbum in voller Länge, das auf ihr 2022 erschienenes Album "Sentiment" folgt. Melodischer **Post-Hardcore**, **Emo** und Piano-Rock. Sie verbinden emotional unverfälschten Gesang mit einem sanfteren, atmosphärischeren Ansatz für Heavy-Musik als ihre Zeitgenossen. "Wither | Grow" klingt genau so, als würde man sich durch die gewundenen emotionalen Nachwehen eines großen Lebenssturms navigieren, beginnend im totalen Chaos und langsam in einen Zustand wunderschöner Akzeptanz einfindend. Das Album ist wie ein bewusster Erzählbogen aufgebaut, der seine aggressivsten, kehlenschneidenden Post-Hardcore-Tracks an den Anfang stellt, bevor es allmählich abklingt. Am Ende tauschen die Gitarren den Platz mit hochfliegenden Piano-Rock-Balladenarrangements. Es ist zutiefst theatralisch, intensiv verletzlich und dient als eine höchst tröstliche 40-minütige Reise, die Schmerz als notwendigen Bestandteil des persönlichen Wachstums behandelt.
 
-::genre::
+::genre::modern metalcore, post hardcore, emocore, alt rock
 
 ## Soft Curse - Liminal Ritual
 
-tbd
+Die Band, bestehend aus einer eingespielten vierköpfigen Truppe von Underground-Veteranen, verbrachte zehn Monate damit, ihr Material akribisch auszuarbeiten und zu proben, bevor sie ins Studio ging. Sie tat sich mit dem renommierten Produzenten Jack Shirley zusammen, um ihre rohe Chemie einzufangen. Schwerer **Stoner-Doom-Metal** und atmosphärischer **Sludge**. Ihre stilistische Inspiration beziehen sie direkt aus den verzerrten, heruntergestimmten und eindringlich melodischen Welten von Acts wie *Windhand*, *King Woman* und *Daevar*. Stell dir vor, du versuchst, eine zutiefst spirituelle Séance in einer Garage abzuhalten, während eine monolithische, verzerrte Verstärkerwand direkt vor deinen Augen schmilzt. Komplett live auf 2-Zoll-Analogband an einem einzigen, hyperfokussierten Tag aufgenommen, fühlt sich "Liminal Ritual" wunderbar massiv und wild unmittelbar an. Das Album verzichtet gänzlich auf makellose moderne Computerbearbeitung und lässt stattdessen riesige Orange-Verstärker über donnernde, pulsierende Drum-Grooves lodern. Der Gesang schwebt wie ein unheimliches, wunderschönes Phantom durch einen dichten Nebel aus verlangsamter Gitarrenverzerrung. Es ist dicht, hypnotisch und ein absoluter Genuss für alle, die ihren Metal gerne wunderschön ungeschliffen und heavy mögen.
 
-::genre::
-
-## Sonny Fodera - can we do it all again?
-
-tbd
-
-::genre::
-
-## Sorrow Sphere - The Wizard Of Doom
-
-tbd
-
-::genre::
+::genre::stoner metal, sludge metal, doom metal
 
 ## Soulburn - Quantifying Cosmic Doom
 
-tbd
+Soulburn entstand bekanntlich 1996 aus der Asche der niederländischen Death-Metal-Giganten Asphyx. Die aus erfahrenen Underground-Veteranen bestehende Band widmet sich seit Jahrzehnten der Schaffung äußerst atmosphärischer, zerstörerischer Extremmusik: extremer **Blackened Death Metal** und langsamer, erdrückender **Doom Metal**. Sie verbinden typische skandinavische Black-Metal-Schreie mit den massiven, schleppenden Riffs des klassischen Old-School-Death-Doom. "Quantifying Cosmic Doom" ist eine ambitionierte, ausufernde einstündige Audio-Reise, bei der man sich fühlt, als würde man direkt in ein pechschwarzes interstellares Wurmloch gesogen. Die Band vermeidet vorhersehbare Muster gänzlich und wechselt mühelos von wütenden, von Blastbeats getriebenen Speed-Metal-Attacken zu eindringlich unheimlichen, theatralischen Clean-Vocals von Twan van Geel. Stücke wie "Stalactites Of Molten Flesh" injizieren überraschende, dunkle melodische Akzente mitten in massive Wände aus Gitarrenverzerrung. Es ist heavy, unvorhersehbar, unheilvoll und ein absoluter Spielplatz für Fans von Cosmic Terror Metal.
 
-::genre::
-
-## South Summit - RUN IT BACK
-
-tbd
-
-::genre::
+::genre::blackened death metal, doom metal
 
 ## Spacey Jane - Exit Wounds
 
-tbd
+Die 2016 gegründete vierköpfige Band hat sich zu einem der erfolgreichsten Indie-Exporte Australiens entwickelt und kann Chart-Erfolge, hohe Radio-Rotation und ausverkaufte internationale Tourneen vorweisen. **Indie-Rock** und **Alternative-Pop** mit Einflüssen der 1980er Jahre. Sie lassen sich von den groß angelegten, melodischen Pub-Rock-Traditionen klassischer australischer Bands wie *Icehouse*, *The Church* und *INXS* inspirieren. "Exit Wounds" klingt wie ein wunderschön melancholischer, sonnenverwöhnter Tagebucheintrag, der genau den Moment einfängt, in dem man erkennt, dass eine Beziehung vorbei ist, man das Unvermeidliche aber hinauszögert. Auf sechs funkelnden Tracks schwebt Caleb Harpers verletzlicher, bekennender Gesang nahtlos über üppigen Gitarrenlinien und warmen, schimmernden 80er-Jahre-Synthesizern. Tracks wie "I Never See Her" und "Do You Really Love Her" verbinden emotionale Ungewissheit und drohenden Herzschmerz perfekt mit hyper-eingängigen, luftigen Pop-Klängen. Es ist hell, bittersüß und der ideale Begleiter für eine Fahrt an der Küste am späten Nachmittag.
 
-::genre::
-
-## Spread Eagle - The Brutal Divine
-
-tbd
-
-::genre::
-
-## Starlings - Friend, Thank You
-
-tbd
-
-::genre::
-
-## Stella Almondo - Liszt: Angels & Demons
-
-tbd
-
-::genre::
+::genre::indie rock, alt pop, indie pop
 
 ## Still Remains - Spirit Breaker
 
-tbd
+Als frühe Pioniere des Metalcore-Booms der 2000er Jahre – bekannt vor allem für ihr bahnbrechendes Debütalbum "Of Love and Lunacy" aus dem Jahr 2005, das bei Roadrunner Records erschien - verstummte die Band nach 2013. Dieses monumentale Comeback-Projekt ist ihre erste neue Musikveröffentlichung seit über einem Jahrzehnt. Old-School-**Metalcore** und **Melodic Death Metal**. Stark inspiriert von den Metalcore-Wurzeln der frühen 2000er Jahre, balanciert die Band aggressive Hardcore-Punk-Geschwindigkeit mit hellen, schwebenden melodischen Synthesizer-Patterns aus. Schnall dich an für eine wunderschön nostalgische Reise in die Vergangenheit, die keinen einzigen Beat auslässt. "Spirit Breaker" beweist, dass die Urväter des Synth-Metalcore immer noch wissen, wie man das Dach zum Einsturz bringt. Frontmann T.J. Miller führt die Truppe mit einem unglaublich rauen Gesang an, der zwischen herzzerreißenden Schreien und klaren, eingängigen Refrains wechselt. Die Gitarren galoppieren mit traditionellen Göteborg-Riffs, während die Keyboards ein wunderschönes, dramatisches Netz über eine vernichtende Rhythmusgruppe spinnen. Es ist eine wilde, emotionsgeladene und triumphale Rückkehr zu alter Form.
 
-::genre::
+::genre::metalcore, melo death metal
 
 ## Stitched Up Heart - MEDUSA
 
-tbd
+Die Band wurde 2010 von der kraftvollen Sängerin Alecia "Mixi" Demner gegründet und hat sich mit ihren bisherigen drei Alben in der Hardrock-Szene einen hervorragenden Ruf erarbeitet. Für dieses vierte Studioalbum haben sie sich mit dem legendären Produzentenduo Judge & Jury (Produzent Howard Benson und Three Days Grace-Schlagzeuger Neil Sanderson) zusammengetan. **Alternative Metal**, **Hard Rock** und **Industrial Metal**. Sie lassen sich stilistisch direkt von den aktuellen Größen des Heavy Alternative inspirieren und setzen dabei auf knackige Synth-Texturen und treibende elektronische Rock-Beats. "MEDUSA" ist ein mit Stars gespicktes, hochoktaniges Fest der Heavy-Musik, das sich anfühlt wie eine riesige Blockparty in Lederjacken. Mixi Demner verwandelt das Album in einen absoluten Spielplatz der Zusammenarbeit und liefert sich mit einer Elite-Besetzung an Gästen einen Gesangs-Schlagabtausch. Man bekommt gruselige, metallisch-knirschende Kinderreime zusammen mit Heidi Shepherd von Butcher Babies auf "CANNIBAL" und neonfarbene Industrial-Hymnen mit Conquer Divide auf "GLITCH BITCH". Die Instrumentierung ist dicht, die elektronische Verzerrung ist dick, und die Refrains steigen direkt in die Stratosphäre auf. Es ist ein mutiger, intensiv energiegeladener Schritt in eine neue, dunklere Ära.
 
-::genre::
+::genre::alt metal, modern metal, hard rock, industrial metal
 
 ## Stormkeep - The Nocturnes of Iswylm
 
-tbd
+Die 2017 gegründete und vom Multi-Instrumentalisten Isaac Faulk (Blood Incantation) angeführte Band, deren Mitglieder in Zauberergewänder gekleidet sind, eroberte die Underground-Szene im Sturm mit ihrem 2021 erschienenen Meisterwerk "Tales Of Othertime". **Symphonic Black Metal** und **Dungeon Synth**. Sie lassen sich stilistisch direkt von der grandiosen, kalt-klingenden und theatralischen High-Fantasy-Vorlage der Mitte der 1990er Jahre inspirieren, die von *Emperor*, *Dissection* und den frühen *Dimmu Borgir* geprägt wurde. Wenn man "The Nocturnes of Iswylm" auflegt, fühlt es sich genau so an, als würde man direkt in einen schweren, illustrierten High-Fantasy-Comic katapultiert, in dem Armeen dunkler Zauberer auf einem eisigen Berggipfel gegen schwarze Drachen kämpfen. Mit epischen Stücken wie "The Taste Of Immortal Blood" und dem abschließenden 9-minütigen Meisterwerk "Ballad Of A Fallen Star" ist das Album ein atemberaubender Wirbelsturm aus majestätischen, wirbelnden klassischen Synthesizern, eisigen Tremolo-Gitarrenriffs und rasenden Blast Beats. Es verkörpert perfekt die theatralische, grandiose und übertriebene Natur des Old-School-Symphonic-Metal und ergibt ein komplexes, wunderschön abgemischtes cineastisches Meisterwerk.
 
-::genre::
+::genre::symphonic black metal
 
 ## Sublime - Until the Sun Explodes
 
-tbd
+Die 1988 gegründete Band revolutionierte in den 90er Jahren die Alternative-Musik grundlegend. Nach dem tragischen Tod des ursprünglichen Frontmanns Bradley Nowell im Jahr 1996 holten die verbliebenen Mitglieder Bradleys eigenen Sohn, Jakob Nowell, ans Mikrofon, um dieses historische Studio-Comeback zu feiern. **Ska-Punk**, **Reggae-Rock** und **Alternative Rock**. Durchzogen von schwungvollen Backbeats, Dub-Elementen am Strand und frechem, satirischem Straßenhumor. Dieses Album fühlt sich an wie ein emotionales, sonniges Familientreffen in einem überfüllten Skatepark am Strand. Jakob Nowell meistert auf "Until the Sun Explodes" einen brillanten Spagat, indem er die Gesangsmuster seines Vaters würdigt und gleichzeitig seinen eigenen modernen Punk-Swagger einfließen lässt. Während Tracks wie "Evil Men" den klassischen, geschmeidigen Reggae-Skank kanalisieren, fungiert der spektakuläre, akustische Titeltrack als direkter, tränenreicher Dankesbrief an Bradley. Er tauscht einige der rauen, gefährlichen Kanten ihrer Jugend gegen eine sanftere, feierliche Blockparty-Atmosphäre ein, die einen unweigerlich zum Lächeln bringt.
 
-::genre::
+::genre::ska punk, alt rock, power pop
 
 ## Sumie - Stardust in Valleys
 
-tbd
+Ihr richtiger Name ist Sandra Nagano. Sie ist eine hoch angesehene Indie-Folk-Musikerin, die dieses dritte Studioalbum nach einem schweren, persönlichen Kampf gegen Krebs im Stadium 3 aufgenommen hat und damit eine neunjährige Aufnahmepause seit "Lost in Light" aus dem Jahr 2017 beendet. Ätherischer **Indie-Folk**, *Baroque Pop* und akustische Singer-Songwriter-Musik. Das Album stützt sich auf eine karge, filmisch anmutende akustische Atmosphäre, in deren Mittelpunkt zerbrechlicher Gesang und warme Live-Orchestrierungen stehen. "Stardust in Valleys" ist ein wunderschön zerbrechliches, feierliches Wiegenlied, das als atemberaubender Liebesbrief an das einfache Leben fungiert. Komplett in einem gemütlichen schwedischen Sommerhaus aufgenommen, lässt Nagano ihre sanfte, ausdrucksstarke Stimme wie eine Leuchtfackel durch stille akustische Landschaften führen. Unterstützt von sanften Klavierklängen, schwebenden Ambient-Streichern und sanftem Gitarren-Fingerpicking behandelt das Album tiefgründige Themen wie Familie, unsterbliche Liebe und das Finden absoluten Friedens. Es ist unglaublich intim, still bewegend und eignet sich perfekt als beruhigender Rückzugsort für den Geist nach einer chaotischen Woche.
 
-::genre::
+::genre::indie folk, baroque pop, alt pop
 
 ## Swiss Army Wife - I Love You, But I Hate It Here
 
-tbd
+Nach ihrem beliebten 2023er Album "Medium Gnarly" und mehreren hochgelobten konzeptionellen EPs hat sich die Band stetig nach oben gearbeitet und ist zu einer tragenden Säule der modernen Indie-Emo-Underground-Szene geworden. **Midwest Emo**, **Indie-Rock** und **Alternative Rock**. Prägend sind klirrende, funkelnde Gitarrenloops, emotional aufgeladener Gesang und eine nostalgische Vorstadt-Punk-Ästhetik. Dieses Album anzuhören fühlt sich genau so an, als säße man um Mitternacht auf einem Bordstein vor einem Vorstadt-Supermarkt, hin- und hergerissen zwischen dem Weinen über einen Ex und dem Lachen über einen albernen Insider-Witz mit dem besten Freund. Getreu seinem Titel schafft "I Love You, But I Hate It Here" eine perfekte Balance zwischen sehr persönlichen, verletzlichen Texten, die sich auf lokales Liebeskummer und Burnout konzentrieren, und überraschend sonnigen, tanzbaren und technisch versierten Math-Rock-Gitarrenflourishes. Es verzichtet auf alle überproduzierten Pop-Formeln und liefert stattdessen einen zutiefst authentischen, gemütlichen und mitreißenden Indie-Emo-Tagebucheintrag, der einen geradezu dazu auffordert, mitzusingen.
 
-::genre::
+::genre::midwest emo, indie rock, alt rock
 
 ## Take It In Blood - Exit From Life
 
-tbd
+Die Band, die sich in der extremen Underground-Szene als kompromisslose DIY-Formation etabliert hat, konzentriert sich voll und ganz darauf, eine hochoktanige, kathartische Live-Energie zu vermitteln, und verzichtet dabei gänzlich auf den Glanz des Mainstream-Radios. Aggressiver **Hardcore-Punk**, **Metallic Hardcore** und **Crossover-Thrash**. Stark inspiriert von rohen, straßennahe Prügeleien, rasanten Tempi und unverblümter sozialer Frustration. "Exit From Life" fühlt sich an wie eine Hochgeschwindigkeits-Mauer, die mitten in einem überfüllten Moshpit direkt auf dein Gesicht zufliegt. Das Album verzichtet komplett auf kommerzielle Rücksichtnahme und stürzt dich in einen Sturm aus dröhnenden, heruntergestimmten Gitarrenriffs, vernichtenden Midtempo-Groove-Breakdowns und purem Gesangsgift. Die Texte thematisieren eine düstere Faszination für den Kampf gegen systemischen Verfall und das Überleben des täglichen Trott. Es ist laut, ungeschliffen und wirkt wie ein fantastischer, adrenalingeladener Energieschub für deine härtesten Trainingseinheiten.
 
-::genre::
+::genre::crossover, metallic hardcore
 
 ## Tarja - Frisson Noir
 
-tbd
+Ihr richtiger Name ist Tarja Turunen, und sie ist eine wahre Ikone der Heavy-Musik, die weltweit für ihre legendäre, jahrzehntelange Karriere als wegweisende Sopran-Frontfrau der Symphonic-Metal-Größen Nightwish bekannt ist, bevor sie eine überaus erfolgreiche Solokarriere im Opern-Rock startete. **Dark Symphonic Metal**, **Operatic Rock** und **Gothic Metal**. Beeinflusst von grandioser klassischer Orchestrierung, Heavy-Metal-Gitarrenriffs und cineastischen, düster-romantischen Fantasy-Klanglandschaften. Wenn man "Frisson Noir" (zu Deutsch "Schwarzer Schauer") auflegt, fühlt es sich genau so an, als würde man während eines majestätischen Mitternachtsgewitters auf den Balkon einer gotischen Steinburg treten. Tarja setzt ihren legendären, vier Oktaven umfassenden Sopran-Stimmumfang wie eine hochfliegende, opernhafte Waffe purer emotionaler Kraft ein. Das Album tauscht die üblichen Radio-Hooks gegen eine gewaltige, filmische Kollision aus donnernden Heavy-Metal-Gitarrenriffs, theatralischen Double-Bass-Drums und einem mitreißenden, dunklen klassischen Orchester. Es ist wunderschön intensiv, majestätisch eisig und fungiert als erstklassige Erinnerung an pure, unverfälschte symphonische Metal-Kunstfertigkeit.
 
-::genre::
+::genre::symphonic metal, alt metal
 
-## TeethOut / Straight Until Morning - Straight x Teeth
+## TeethOut / Straight On Til Morning - Straight x Teeth
 
-tbd
+Sowohl TeethOut als auch Straight On Til Morning sind unermüdliche Größen der kanadischen Punk-Szene in den Maritimes. Nachdem sie jahrelang gemeinsam auf schweißtreibenden lokalen Bühnen standen und eine leidenschaftliche Community aufgebaut hatten, beschlossen sie, ihre kreativen Kräfte für ein gemeinsames Projekt zu bündeln. Rasanten **Skate-Punk**, **Hardcore-Punk** und **Melodic-Punk**. Die Inspiration stammt direkt aus dem Epitaph-Records-Kader der 90er Jahre und den unerbittlichen Tempi des hochoktanigen DIY-Punkrocks. "Straight x Teeth" ist ein glorreicher, mitreißender Ausbruch von Punk-Energie in High-Top-Sneakers, der in halsbrecherischem Tempo vorbeirauscht. *TeethOut* übernehmen die explosive Seite A mit den mitreißenden, melodischen Hooks von "Tonight" und "For Your Life", während *Straight On Til Morning* mit einer Salve roher, treibender Akkorde zurückschlagen. Das Schlagzeug liefert ununterbrochene Blastbeats, die Basslinien knurren, und der Gruppengesang scheint wie geschaffen dafür, in einem wilden, biergetränkten Moshpit mitgeschrien zu werden. Es ist ungeschliffen, wild und unmittelbar und eine wunderschöne Hommage an die pure DIY-Punk-Kameradschaft.
 
-::genre::
+::genre::melo hardcore, skatepunk, hardcore punk
 
-## Telescreens - Why The Lights Flicker
+## Telescreens - Why The Lights Flicker *
 
-tbd
+Die Band, deren Name eine direkte Anspielung auf George Orwells „1984“ ist, besteht aus dem energiegeladenen Quartett Jackson Hamm, Austin Brenner, Josiah Valerius und Oliver Graf und hat sich über Jahre hinweg in der New Yorker Clubszene einen Namen gemacht. Dies ist ihr drittes großes Studioalbum. Energiegeladener **Indie-Rock**, **Post-Punk**-Revival und **Alternative Rock**. Stilistisch verwurzelt im klassischen, rauen New Yorker Gitarrenrock, trägt das Album die hymnische DNA von Bands wie *The Strokes* oder *Interpol* in sich. Dieses ausufernde, 20 Tracks umfassende Mammutwerk trifft wie ein regelrechter Blitzschlag direkt in die Brust. "Why The Lights Flicker" ist eine bewusste, lautstarke Rebellion, die darauf abzielt, die Mauern des endlosen modernen digitalen Rauschens zu durchbrechen. Die Gitarren schreien mit hellen, messerscharfen Riffs, die Synthesizer sorgen für einen summenden, dystopischen Nebel, und das Schlagzeug pulsiert vorwärts wie eine außer Kontrolle geratene U-Bahn, während Hamm eine Parade himmelhoher, stadiontauglicher Refrains entfesselt. Es vermeidet gänzlich die sicheren Radio-Pop-Klischees und liefert ein wunderschön rohes, massives Gitarrenrock-Statement, das beweist, dass Rock'n'Roll noch immer wunderbar lebendig und atmend ist.
 
-::genre::
-
-## Temple Guard - Citadel In Flames
-
-Temple Guard hat sich stetig zu einer der führenden Kräfte in der modernen britischen Hardcore-Underground-Szene entwickelt. Die Band genießt großes Ansehen für ihre kompromisslosen Texte und ihre äußerst aggressiven, moshpit-tauglichen Live-Auftritte. Heavy, metallischer **Hardcore** und **Metalcore** im Stil der 90er Jahre. Sie lassen sich stark von *Earth Crisis*, *Arkangel* und *Kickback* inspirieren und setzen auf gnadenlose Beatdowns und stampfende Riffs. "Citadel In Flames" ist das musikalische Äquivalent einer Mauer, die direkt auf dich zustürmt. Das Album bittet nicht um deine Aufmerksamkeit; es tritt deine Haustür ein und fordert sie ein. Vollgepackt mit furchterregend schweren Breakdown-Rhythmen, kreissägenartigen Gitarren und giftigen Vocals, behandelt das Album Themen wie systemischen Verfall, Widerstandsfähigkeit und persönliche Rebellion. Wenn du nach etwas suchst, das ein intensives Workout befeuert, oder einfach nur in einem Zustand purer, kathartischer Wut durch dein Wohnzimmer stampfen willst, bietet dieses Album den ultimativen apokalyptischen Soundtrack.
-
-::genre::metallic hardcore, beatdown, metalcore
-
-## Terror/Cactus - Colapso
-
-tbd
-
-::genre::
+::genre::alt rock, indie rock, post punk
 
 ## The Army The Navy - Fake Brave Life
 
-tbd
+Das Duo, bestehend aus Maia Ciambriello und Sasha Goldberg, baute sich ab 2023 mit ihrer Durchbruchssingle "Vienna" eine riesige Fangemeinde im Internet auf, was zu Auftritten als Vorgruppe für Acts wie Matt Maltese und Paris Paloma führte. Dies folgt auf ihre EPs "Fruit for Flies" und "Sugar for Bugs" aus dem Jahr 2024. **Alternative Indie-Pop** und astraler Singer-Songwriter-**Folk**. Stark beeinflusst von filmischen, von der Natur inspirierten Texturen, reichhaltigen Gesangsüberlagerungen und einer stimmungsvollen Indie-Pop-Ästhetik. "Fake Brave Life" fühlt sich an wie ein langer, nachdenklicher Mitternachtsspaziergang durch einen nebligen Redwood-Wald, während man in eine dicke, flauschige Decke gehüllt ist. In 11 wunderschön intimen Tracks wie "Becky" und "Pretty, Pink and Soft" verfasst das Duo einen zutiefst existentiellen Liebesbrief an die Angst vor Verletzlichkeit. Sie legen den üblichen Mainstream-Pop-Glanz ab, um ihre üppigen, ineinander verwobenen Gesangsharmonien über sanftes Akustikgitarrenspiel und warme Keyboardklänge schweben zu lassen. Es ist wunderschön atmosphärisch, mutig roh und dient als perfekte akustische Sicherheitsdecke für nächtliche Grübler.
 
-::genre::
+::genre::indie pop, alt pop, alt folk, indie folk
 
 ## The Bobby Lees - New Self
 
-tbd
+Das 2018 gegründete, unbändige Trio kann Iggy Pop, Debbie Harry und Henry Rollins zu seinen Fans zählen. Dieses Album ist ein kraftvolles Comeback-Statement, produziert und abgemischt von den Branchengrößen Dave Sardy und Alex Pasco. **Garage-Punk**, **Alternative Rock** und **Crossover-Nu-Metal**. Es verbindet Elemente roher Rock-Grooves der 90er Jahre und rhythmischen Gesangs mit ihrer klassischen, rauen Garage-Basis. Unterstützt von prominenten Persönlichkeiten wie dem Schauspieler Jason Momoa ist "New Self" ein absoluter Feuerwerk aus roher Energie. Das Trio hat seinen Ansatz komplett überarbeitet und lässt eine druckvolle, stark verzerrte und funkige Bassline hochoktanige Tracks wie "Red Hot" und "Napoleon" antreiben. Sängerin Sam Quartin trägt ihre Texte mit einem wilden, rhythmischen Spoken-Word-Flow vor, der an Alternative-Rap grenzt, und verleiht der chaotischen Garage-Punk-Instrumentierung einen fantastischen modernen Groove. Es ist kurz, unvorhersehbar, wild verbunden und absolut explosiv.
 
-::genre::
-
-## The Chronicles Of Manimal And Samara - Misantropi
-
-tbd
-
-::genre::
-
-## The Dirty Knobs - Mission of Mercy
-
-tbd
-
-::genre::
-
-## The Doomstompers - Take a Beat
-
-tbd
-
-::genre::
-
-## The French Family Band - Huon to Hickory
-
-tbd
-
-::genre::
+::genre::nu metal, alt metal, garage punk, crossover
 
 ## The Heavy Eyes - Focus
 
-tbd
+Das vor über einem Jahrzehnt gegründete Hardrock-Quartett ist eine feste Größe in der modernen Heavy-Metal-Szene. Dieses Album ist ein absoluter Triumph für die Band, nachdem Frontmann Tripp Shumake einen langen, mutigen Kampf gegen eine chronische Nierenerkrankung geführt hatte und 2022 eine lebensrettende Transplantation erhielt. Heavy **Stoner Rock**, **Psychedelic Rock** und **Blues Rock**. Sie schöpfen ihre rohen Inspirationen aus legendären Titanen wie *Black Sabbath* und *Led Zeppelin* und überziehen diese mit einer dicken Schicht südstaatlicher Rauheit. "Focus" ist ein gewaltiges, fuzzgetränktes Monster von einem Album, das klingt wie ein Vintage-Muscle-Car, das über eine sumpfige, neonbeleuchtete Autobahn rast. Das Album beginnt mit der stimmungsvollen, akustischen Einleitung von "That Cold Goliath" und legt mit Tracks wie "Concrete Halloween" und "Troublesome Priest" schnell einen Gang zu. Die Geheimwaffe hier ist die umwerfende, dreckige Basslinie, die eine Non-Stop-Parade aus donnernden Drumbeats und kreischenden Psych-Rock-Soli verankert. Es ist kurz, intensiv groovig und dient als erstklassige Meisterklasse in purem, unverfälschtem Headbanging-Rock’n’Roll.
 
-::genre::
+::genre::stoner rock, psych rock
 
-## Theatre - Incarnate
+## Theatre - Incarnate *
 
-tbd
+Als äußerst ambitionierte fünfköpfige Band aus der florierenden irischen Alternativszene gegründet, erwarben sie sich schnell einen Ruf für ihr äußerst dramatisches Songwriting. Sie nahmen dieses Projekt gemeinsam mit dem renommierten britischen Underground-Produzenten Alex Greaves auf. **Avantgarde-Art-Rock**, **Darkwave** und atmosphärischer **Post-Punk**. Stilistisch lassen sie sich vom Gothic-Theater, kantigen Indie-Rock-Rhythmen und cineastischer Instrumentierung inspirieren. "Incarnate" ist eine wunderbar stimmungsvolle und wunderschön theatralische Reise, die sich anfühlt, als würde man um Mitternacht ein expressionistisches Theaterstück betreten. Getragen von grandiosen, weitläufigen Gitarrenstrukturen, tiefen Bassimpulsen und schwebenden Gesangspassagen entwickelt die EP ein wunderbares Gefühl für sich aufbauende Dramatik. Angetrieben von ihrer markanten Durchbruchssingle "You Are" schaffen die Tracks mühelos eine Balance zwischen unheimlichen, minimalistischen Strophen und massiven, filmischen Klangwänden. Sie verzichtet gänzlich auf typische Popstrukturen, um dir ein Art-Rock-Erlebnis voller Spannung und großartiger emotionaler Tiefe zu bieten.
 
-::genre::
+::genre::art rock, avant rock, post punk, dark wave
 
 ## Third Person - Third Person
 
-tbd
+Ein geheimnisvoller, völlig anonymer Produzent, der es vorzieht, im Verborgenen zu bleiben, um den Fokus ganz auf die Musik selbst zu richten. Dank der Qualität der Produktion fand das Projekt sofort einen Platz auf einer legendären Plattform für elektronische Musik. **Avantgarde-Elektro-Jazz**, **experimenteller IDM** und abstrakte elektronische Musik. Es entsteht ein hypnotisches Klangbild, das eine Brücke schlägt zwischen tiefgründigem Sounddesign, psychedelischen Loops und Free-Jazz-Improvisation. Das Anhören dieses selbstbetitelten Albums fühlt sich genau so an, als würde man in einem Hightech-Sensorischen-Deprivationstank schweben, der heimlich von einem gespenstischen Jazzquartett umprogrammiert wurde. Getreu seinem Titel beschäftigt sich das Album mit Themen wie emotionaler Distanziertheit und psychologischem Nebel. Während es sich durch dichte Klanglandschaften wie "Planetary" bewegt, verbindet die Musik flirrende, fragmentierte elektronische Club-Rhythmen mit warmen, fließenden Instrumentalimprovisationen, die sich vollkommen organisch anfühlen. Es ist ein zutiefst immersives, hypnotisches und geschickt strukturiertes Stück Klangkunst, das als herrliche Flucht aus dem Alltag spät in der Nacht dient.
 
-::genre::
+::genre::avant jazz, jazztronica, experimental electronica, idm
 
 ## Throw Hands - Anguish Of Shame
 
-tbd
+Als äußerst unabhängiges Projekt im extremen Internet-DIY-Hardcore-Underground betrachtet dieses Projekt das Aufnehmen als Mittel der puren Katharsis und verzichtet dabei gänzlich auf kommerziellen Schliff. Aggressiver **Hardcore-Punk**, **Powerviolence** und Underground-**Screamo**. Aufgebaut auf rasend schnellen Drum-Blastbeats, erschütternden Tempowechseln und aggressiven, verzerrten Noise-Strukturen. Dieses Album ist ein unerbittlicher, physischer Angriff auf deine Sinne, der sich wie ein Schwarm wütender Hornissen in deinem Schädel bewegt. "Anguish Of Shame" arbeitet sich durch eine knallharte Trackliste, in der sich die Songs selten zu lange aufhalten, und bietet keinen einzigen Moment radiotauglicher Ruhe. Der Gesang klingt, als würde jemand verzweifelt versuchen, über den Lärm eines laufenden Düsentriebwerks hinwegzuschreien, und behandelt Themen wie tiefsitzende Schuld, psychologische Kriegsführung und rohe menschliche Isolation. Es ist laut, unverschämt feindselig und fungiert als der absolute, adrenalingeladene Mosh-Soundtrack, um alltägliche gesellschaftliche Frustrationen abzubauen.
 
-::genre::
+::genre::hardcore punk, powerviolence, screamo
 
 ## Tim Barry - Clear Blocks Ahead
 
-tbd
+Barry ist ein legendärer, erfahrener Songwriter, der als Frontmann der Kultband Avail Pionierarbeit in der Punk-Szene von Richmond leistete, bevor er eine gefeierte, zwei Jahrzehnte umfassende Solokarriere im Bereich des akustischen Folk startete. Für diese Veröffentlichung vollzog er einen gewaltigen kreativen Wandel, indem er gemeinsam mit der Spacebomb House Band ins Studio ging. **Alternative Rock**, **Folk-Rock** und Heartland Rock. Auf dem Album legt er seine charakteristischen rein akustischen Americana-Arrangements zugunsten von elektrischen Rock'n'Roll-Hooks mit voller Bandbesetzung ab. "Clear Blocks Ahead" fühlt sich an, als säße man in einem verrauchten Arbeiter-Diner, in dem die Jukebox plötzlich eine Reihe kreischender E-Gitarrenverstärker bekommt. Barry durchforstet Songs, die über einen Zeitraum von 30 Jahren entstanden sind, und liefert eine großartige Dosis an Rauheit und Midtempo-Rock-Attitüde. Textlich bevölkert er das Album mit Randfiguren, die versuchen, in einer rauen Welt zu überleben, doch er schildert ihre Kämpfe mit einem brillanten, kraftvollen Sinn für Widerstandskraft. Hervorgehoben durch Hymnen wie "Still Lit" und süße Backing-Vocal-Duette mit seiner Tochter Lela Jane ist es ein inspirierender, herzerwärmender und wunderschön lauter Triumph.
 
-::genre::
-
-## Timey - Tutto passa
-
-tbd
-
-::genre::
+::genre::alt rock, alt folk, folk rock
 
 ## Tombal - Grave Of The Damned
 
-tbd
+Das Power-Trio, das Ende 2025 von den Multi-Instrumentalisten Luigi Cara und Massimiliano Falchi zusammen mit dem Schlagzeuger Luca Barone gegründet wurde, erregte sofort die Aufmerksamkeit spezialisierter Extreme-Metal-Labels. **Old-School-Swedish-Death-Metal**. Stark inspiriert von der messerscharfen, summenden Verzerrung des legendären Boss HM-2-Gitarrenpedals und dem Extreme Metal der frühen 90er Jahre. Wenn du den Geruch verfallender Gruften liebst und möchtest, dass deine Musik so klingt, als würde ein Zombie gewaltsam durch die Dielen brechen, ist diese 16-minütige EP dein heiliger Gral. Gepackt mit Tracks wie "Cemeterial Death Worship" und "Cathedrals of Rot" ist die Platte ein unerbittlicher Ansturm aus kreischenden Gitarrentönen, donnernden Blastbeats und kehligen Growls, die klingen, als wären sie unter Wasser aufgenommen worden. Sie vermeidet moderne, überproduzierte Metal-Ästhetik vollständig zugunsten einer rohen, schlammigen und wunderbar bösartigen Wand aus Headbanging-Chaos.
 
-::genre::
-
-## Tommy Goodroad - GODDAMMIT
-
-tbd
-
-::genre::
-
-## Tonnen Von Hall - Donnermesser
-
-tbd
-
-::genre::
-
-## Tony Njoku - A World of Bodies on Fire
-
-tbd
-
-::genre::
+::genre::osdm, death metal
 
 ## Topiary Creatures - Greenhouse Oubliette
 
-tbd
+Als eigenständiges, stark konzeptionelles Projekt hat sich der Künstler auf Plattformen wie Bandcamp und Reddit eine treue Fangemeinde aufgebaut, dank seiner sorgfältig arrangierten, emotional unverfälschten Mehrspuraufnahmen. Alternative **Pop-Punk**, **Emo** und **Indie-Rock**. Der Stil ist stark von einem literarisch anspruchsvollen, textlastigen und äußerst dynamischen, gitarrenorientierten Indie-Sound geprägt. "Greenhouse Oubliette" hört sich an, als würde man das brillant witzige, hyperdetaillierte Tagebuch eines überdenkenden Philosophiestudenten lesen. Angetrieben von einer fantastischen Mischung aus klirrenden Indie-Rock-Gitarren, mitreißenden Akustikmustern und einem brillanten Gastbeitrag von Anatole Muster am Akkordeon ist das Album ein absoluter kreativer Knaller. Das Songwriting lebt von humorvoll-absurden, gewagten Titeln - wie "Floaters" (Es gab zwei große Rauschmittel in der europäischen Zivilisation: Alkohol und das Nichtlesen von Sartre)“. Es verzichtet auf generische Pop-Formeln und liefert stattdessen ein unglaublich intelligentes, gemütliches und eingängiges Indie-Emo-Erlebnis, das geradezu danach schreit, dass man die Kopfhörer aufsetzt und mitliest.
 
-::genre::
-
-## Tori Kelly - God Must Really Love Me
-
-tbd
-
-::genre::
-
-## Triumph - The Best Of Triumph
-
-tbd
-
-::genre::
+::genre::power pop, pop punk, alt rock, indie rock
 
 ## Tujiko Noriko - PON
 
-tbd
+Noriko ist seit den frühen 2000er Jahren aktiv und gilt als hoch angesehene Pionierin der globalen elektronischen Underground-Szene. Dies ist ihr sechstes Soloalbum für das hochspezialisierte Avantgarde-Label Editions Mego. **Avantgarde-Dream-Pop** und experimentelle elektronische Musik. Ihr einzigartiges Klangbild verwebt strukturierte, abstrakte Ambient-Klanglandschaften mit zarten, romantischen Melodien. Dieses Album ist ein wunderschön zerbrechliches, bittersüßes Wiegenlied, das zugleich als klangliches Requiem fungiert. Ganz ihrer geliebten, als Kätzchen adoptierten Katze gewidmet, die taub geboren wurde und tragischerweise verstorben ist, hüllt "PON" den Hörer wie eine warme, neblige Decke aus Trauer und Zärtlichkeit ein. Norikos charakteristischer sanfter, flüsternder Gesang schwebt wie sanfte Geister durch komplexe Labyrinthe aus knisternder Elektronik, subtilen Feldaufnahmen und plötzlichen bluesigen Gitarrenklängen. Es wechselt mühelos von kindlicher Unschuld zu ausufernden zehnminütigen instrumentalen Drifts. Es ist tief bewegende, behagliche und zutiefst tröstende Kunst.
 
-::genre::
+::genre::avant pop, dreampop, experimental electronica
 
 ## Twist Lock - Surplus Citizen
 
-tbd
+Als äußerst unabhängige Underground-Band produziert die Gruppe Tracks, die bewusst auf intensive, kathartische Live-Auftritte zugeschnitten sind. Heavy **Beatdown** Hardcore und **Metallic Hardcore**. Sie lassen sich direkt von den rohen, knallharten Rhythmen der DIY-Hardcore-Szene inspirieren und verbinden aggressive Moshpit-Energie mit unverblümter gesellschaftlicher Frustration. "Surplus Citizen" ist das klangliche Äquivalent dazu, mitten in einem Gewitter von einem schwingenden Stahlträger getroffen zu werden. Mit vier gnadenlosen Tracks – darunter die giftige Single "Get Bent" - bittet die EP nicht um deine Aufmerksamkeit; sie tritt deine Haustür ein und fordert sie ein. Gepackt mit massiven, sich dahinschleppenden, heruntergestimmten Breakdown-Rhythmen, messerscharfen Buzzsaw-Gitarren und purem Gesangsgift fungiert die Platte als unnachgiebiger Kanal für wirtschaftliche Desillusionierung und systemische Wut. Es ist ein knallharter, adrenalingeladener Workout-Soundtrack, der absolut keinen Platz für sanfte Popmelodien lässt.
 
-::genre::
+::genre::metallic hardcore, beatdown
 
 ## Unlike Pluto - Double Daze
 
