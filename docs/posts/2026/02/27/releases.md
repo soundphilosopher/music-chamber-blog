@@ -246,7 +246,7 @@ Das amerikanische Outfit mit seiner neuesten EP, welche wie ein klassisches 90er
 
 Der kanadische Singer & Songwriter und ehemalige Snowboard-Profi mit seinem neuesten Longplayer. Englehorn tendierte zu einem raffinierteren, theatralischen Sound, der als „Disco-Punk-Storytelling“ beschrieben werden könnte. Die Basis bildet hier Indie-Pop, welcher durch die simple Intimität des Bedroom Pop eine gewisse Punk-Attitüde erzeugt. Desweiteren werden Art-Rock, Proto-Punk, Garage Rock und Progressive Pop mit ins Spiel gebracht, was das Gesamtwerk eine Verrücktheit des Tanzes erzeugt.
 
-::genre::dancepunk, prog pop, garage rock, proto punk rock, noise rock, art rock, bedroom pop, indie pop, psych folk
+::genre::dance punk, prog pop, garage rock, proto punk rock, noise rock, art rock, bedroom pop, indie pop, psych folk
 
 ## Haiduk - Archdevil
 

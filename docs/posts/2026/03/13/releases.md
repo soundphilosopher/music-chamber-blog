@@ -108,7 +108,7 @@ Das Debüt Full-Length der griechischen Formation. In den dunklen Abgrund wird m
 
 Das nordirische Duo mit seinem Debüt Longplayer. Eine intense Auseinandersetzung mit der Verbindung von industrieller Härte und euphorischen Energie von Dance-Culture. Die Band selber schrieb in ihrem Manifest: "Dies ist das einzige Chalk-Album, das es jemals geben wird." Damit wollen sie die Einzigartigkeit, Endgültigkeit und Intensität unterstrichen, die sie in dieses Projekt gesteckt hatten. Eine Melange aus Dancepunk, Dark Wave, Noise, IDM, Trance, Synth Pop und Acid House.
 
-::genre::dancepunk, dark wave, noise rock, idm, trance, synth pop, acid house
+::genre::dance punk, dark wave, noise rock, idm, trance, synth pop, acid house
 
 ## Crack Cloud - Peace And Purpose *
 
