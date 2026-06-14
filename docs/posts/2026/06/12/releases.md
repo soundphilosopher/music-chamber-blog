@@ -216,243 +216,141 @@ tbd
 
 ## Chaz Underriner - Flicker
 
-tbd
+Ein gefeierter Avantgarde-Komponist, Jazzgitarrist und Pädagoge, der sich einen Namen für genreübergreifende Klanglandschaften und kollaborative Multimedia-Kompositionen gemacht hat. **Ambient-Jazz**, **Lo-Fi**, New-Orleans-**Funk**, moderner **Blues** und zeitgenössischer **Gospel**. Diese Platte vermittelt das Gefühl einer langsamen, gemächlichen Fahrt durch einen nebligen Wald im Süden, während die dunstige Morgensonne endlich durch die Bäume bricht. Unterstützt von einer herausragenden Gruppe lokaler Instrumentalisten aus Florida schafft Underriner mit luftigen Gitarrenklängen und sanften rhythmischen Pausen eine zutiefst beruhigende Klanglandschaft. Sie verbindet mühelos die lässige Selbstsicherheit des Vintage-Funk mit der friedlichen Stille moderner Ambient-Musik. Es ist ein sanfter, raffinierter Hörgenuss, der so entspannend wirkt wie ein warmer Sommerabend.
 
-::genre::
+::genre::ambient jazz, lofi, blues, gospel
 
 ## Cherry Cheeks - D.O. & The Bytes
 
-tbd
+Das Soloprojekt des Multi-Instrumentalisten und Punk-Virtuosen Kyle, der jahrelang rasante Schlafzimmeraufnahmen veröffentlichte, bevor er sein bislang komplexestes Arrangement schuf. **Egg-Punk**, **Synth-Punk**, **Garage Rock** und **Lo-Fi-Alternative-Rock**. Dieses Album fühlt sich genau so an wie ein alter Retro-Spielautomat, der sich einen schrecklichen Virus eingefangen hat und nun rotzige Garagenhymnen schreibt. Es ist ein wunderbar schräger, rasender Ansturm aus zerklüfteten Gitarren, hektischen analogen Synthesizer-Klängen und verstörendem Gesang. Obwohl sich die Produktion im Vergleich zu früheren Werken bemerkenswert dicht anfühlt, verliert sie nie ihren rohen, schweißtreibenden DIY-Charakter. Es ist kurz, extrem hyperaktiv und dient als fantastischer Soundtrack, um im Kreis herumzurennen.
 
-::genre::
+::genre::indie rock, synth pop, garage rock, lofi, alt rock
 
 ## Cloud Circuit - Cloud Circuit
 
-tbd
+Ein stark auf Zusammenarbeit ausgerichtetes experimentelles Sound- und Poesie-Duo, bestehend aus der Dichterin Deanna Radford und dem multidisziplinären Klangkünstler Jeremy Young, das seit 2017 aktiv ist. **Spoken Word**, **Electronica**, Klangpoesie, **Ambient Drone** und **Leftfield-Electronica**. Diese Platte entfaltet sich wie ein wunderschön verzerrter, abstrakter Science-Fiction-Film, in dem ein menschliches Kommunikationsnetzwerk in Echtzeit immer wieder zusammenbricht. Radford liefert hyperfokussierte, evokative Gesangsdarbietungen über Youngs sich wandelndem Meer aus rohen Tonbandschleifen, analogen Synthesizern und verstreuten Radiowellen. Das Album verzichtet gänzlich auf typische Pop-Hooks oder eingängige Rhythmen und schafft stattdessen einen hypnotischen, avantgardistischen Spielplatz. Es ist ein wunderschönes, zutiefst immersives Kunstwerk, das einen ruhigen Raum und einen hervorragenden Kopfhörer erfordert.
 
-::genre::
+::genre::leftfield electronica, spoken words, ambient, drone
 
 ## Cripple Bastards - La Tua Foto Sul Marmo
 
-tbd
+Die 1988 gegründeten Underground-Legenden gelten als unangefochtene Meister des italienischen Hate-Grind. Dieses rasante neue Projekt durchbricht eine achtjährigen Studio-Pause seit ihrem letzten Album. **Grindcore**, **Hardcore-Punk** und extremer **Thrash**. Diese 13-minütige akustische Artillerie-Salve, deren Titel übersetzt "Dein Foto auf Marmor" bedeutet, trifft mit der Wucht eines außer Kontrolle geratenen Güterzugs. Die Band verzichtet auf übertrieben glattpolierte Studio-Spielereien zugunsten einer wütenden, blitzschnellen Wand aus purer Wut, rasenden Drums und giftigem italienischem Gebell. Doch unter der halsbrecherischen Aggression verbergen sich dynamische Strukturwechsel, die beweisen, dass ihre legendäre Präzision keinen Tag gealtert ist. Es ist schweißtreibend, laut, unverschämt feindselig und perfekt, um deine Trommelfelle zu pulverisieren.
 
-::genre::
-
-## Dagny - Dancefloor Erotica
-
-tbd
-
-::genre::
-
-## Dailey & Vincent - A Beautiful Life
-
-tbd
-
-::genre::
-
-## DANI EXXTACY - BULLETPROOF SOUL !!
-
-tbd
-
-::genre::
+::genre::grindcore, crust
 
 ## David A. Jaycock - Children of the Cold War
 
-tbd
+Ein produktiver, zutiefst exzentrischer Pfeiler der britischen Underground-Folk-, Ambient- und Akustik-Fingerpicking-Szene, weithin gefeiert für seine höchst einzigartigen Konzeptalben und Klanglandschaften aus **Field Recordings**. **Haunted Folk**, **Dark Ambient**, **Drone**-Musik und cineastischer **Avant-Folk**. Diese Platte wirkt genau so, als würde man durch einen nebelverhangenen, vergessenen Friedhof in der englischen Landschaft schlendern, während man alten, verzerrten Radiosendungen aus den 1970er Jahren lauscht. Sich den einfachen Radiotrends widersetzend, erschafft Jaycock eine intensive, tief sepiafarbene Klanglandschaft aus zerbrechlichen Instrumenten, verzerrten Tonbandschleifen und einer schweren Atmosphäre historischer Paranoia. Doch unter den schweren Schichten grauer Melancholie gelingt es einem wunderschönen, zerbrechlichen Gefühl echter menschlicher Güte, durch die Risse hindurchzubrechen. Es ist ein eindringliches, zutiefst bewegendes Meisterwerk, das man am besten in späten, stillen Nächten genießt.
 
-::genre::
+::genre::avant folk, field recordings, dark folk, dark ambient, drone
 
 ## David Occhipinti - Looking Glass
 
-tbd
+Ein erfahrener, hochgelobter kanadischer Komponist, Pädagoge und Jazzgitarrist. Im Laufe seiner jahrzehntelangen, mit Auszeichnungen gekrönten Karriere bewegte er sich mühelos zwischen traditionellen Jazzensembles und komplexen avantgardistischen Kammermusik-Auftragswerken hin und her. **Chamber Jazz**, avantgardistische Klassik, Minimalismus und dadaistische Experimentalmusik. Setzen Sie Ihre intellektuellste Brille auf und machen Sie sich bereit, direkt durch Lewis Carrolls Spiegel zu treten. Diese Platte, die sich ganz um die einzigartige, dialogische Verbindung eines klassischen Streichtrios mit einer E-Gitarre dreht, ist ein wahres Labyrinth abstrakter Schönheit. Occhipinti nutzt verlängerte, modifizierte Gitarrensaiten, um surreale Wolken aus Klangstaub, Loops und mikrotonalen Kratzgeräuschen zu erzeugen. Es ist ein wunderschönes, gesetzloses und herrlich unvorhersehbares Kunstwerk, das jeden belohnt, der bereit ist, still dazusitzen und zu träumen.
 
-::genre::
+::genre::experimental electronica, chamber jazz, avant classic
 
 ## Day 40 - Phenomenon
 
-tbd
+Eine schlagkräftige Londoner Metal-Band, die über ein Jahrzehnt lang auf Tour war, ihre Besetzung immer wieder umgestaltete und ihren Studio-Sound verfeinerte. Dieses lang erwartete zweite Album erscheint ganze zwölf Jahre nach ihrem Debütalbum "Only The Stones Remain" aus dem Jahr 2014. **Thrash Metal**, **Melodic Metal** und **progressiver Modern Metal**. Wenn du schon immer einmal deine Trommelfelle von einem hyperpräzisen Sturm aus musikalischer Mathematik und ungezügelter Wut pulverisieren lassen wolltest, bist du hier genau richtig. Die Band verbindet rasante, treibende Thrash-Riffs mit massiven, emotional schwebenden melodischen Refrains und unheimlichen, filmischen Atmosphären. Sie behandelt düstere, weitreichende Themen wie globale Widerstandsfähigkeit und kosmische Transformation mit unerbittlicher, hochoktaniger Geschwindigkeit. Es ist wunderschön aggressiv, wunderbar präzise und perfekt geeignet, um die absoluten strukturellen Grenzen deiner Autolautsprecher auf die Probe zu stellen.
 
-::genre::
-
-## Debit - Potpourri
-
-tbd
-
-::genre::
-
-## Dee-1 - The Shift
-
-tbd
-
-::genre::
+::genre::modern metalcore, modern metal, thrash metal, melo metal
 
 ## Defiled - Altered State
 
-tbd
+Bereits 1992 gegründet, gelten diese legendären Underground-Ikonen als eine der am längsten bestehenden und technisch brillantesten Death-Metal-Institutionen Asiens. **Technical Death Metal**, **Old-School-Death-Metal** und progressiver Extreme Metal. Schnürt eure robusteste Kampfausrüstung, denn dieser 14-Track-Monolith ist ein rasender, unerbittlicher Sturm wunderschöner klanglicher Gewalt. Die Band wirft alle kommerziellen Sicherheitsnetze des Radios über Bord und fängt die Zuhörer in einem schwindelerregenden Labyrinth aus blitzschnellen Blastbeats, unberechenbaren Tempowechseln und bellendem Gesangswahnsinn ein. Es ist ein anspruchsvolles, hochtechnisches Kunstwerk, das sich weigert, dir die Hand zu halten. Es trifft dich direkt in die Brust mit purer Old-School-Brutalität, die dich wunderbar desorientiert und zerschlagen zurücklässt und dich nach einer weiteren Runde betteln lässt.
 
-::genre::
-
-## Des Rocs - To Hell and Back
-
-tbd
-
-::genre::
+::genre::osdm, tech death metal, prog metal
 
 ## Die Behörde - Der letzte Arbeitgeber
 
-tbd
+Eine unglaublich energiegeladene 5-köpfige Indie-Punk-Band, die sich in der deutschen Underground-DIY-Szene einen lauten, kompromisslosen Platz erobert. **Indie-Punk**, **Punkrock** und **Hardcore-Punk**. Man stelle sich von Urschreien getriebene, systemkritische Vocals über treibende Punk-Instrumentals vor, wie man sie von Kellerkonzerten kennt. Zieht eure kampftauglichsten Stiefel an, denn diese Platte ist ein herrlich chaotischer, kräftezehrender Aufstand gegen die Bürokultur. Die 18-minütige Klangrakete behandelt die alltägliche bürokratische Alpträume wie einen furchterregenden Science-Fiction-Horrorfilm. Der Frontmann schreit, als hätte er drei Tage lang ununterbrochen in der Schlange vor dem Standesamt gewartet. Es ist aggressiv, unglaublich schnell und voller roher, ungezügelter Energie, die dich dazu bringt, sofort ein Kündigungsschreiben auszudrucken und deinen Schreibtisch in Brand zu stecken.
 
-::genre::
+::genre::indie rock, hardcore punk, post hardcore
 
-## Diles que no me maten - Escrito en Agua
+## Diles que no me maten - Escrito en Agua *
 
-tbd
+Benannt nach einer legendären Kurzgeschichte von Juan Rulfo, hat sich diese fünfköpfige Band dank ihrer avantgardistischen Kompositionen zu einer hoch angesehenen, prägenden Größe in der lateinamerikanischen Independent-Rockszene entwickelt. **Krautrock**, **Post-Punk**, **Psych-Rock** und atmosphärischer **Alternative Rock**. Das Album, dessen Titel übersetzt „In Wasser geschrieben“ bedeutet, entfaltet sich wie ein wunderschön paranoider, hypnotischer Film-Noir-Thriller. Die Band tauscht übliche Rock-Tempi gegen einen unerbittlichen Ansturm aus repetitiven, motorischen Krautrock-Beats, zerklüfteten Basslinien und wirbelnden Wolken psychedelischer Gitarrenverzerrung. Der Gesang trägt eine intensive, spoken-word-artige dramatische Schwere in sich, die einem das Gefühl gibt, ein Detektiv zu sein, der in einer regennassen Gasse nach Geheimnissen sucht. Es ist abstrakt, wild unabhängig und baut eine Klangwand auf, die so massiv ist, dass sie deine absolute, ungeteilte Aufmerksamkeit in einem dunklen Raum verlangt.
 
-::genre::
-
-## Dirty Heads - 7 Seas
-
-tbd
-
-::genre::
-
-## Dori - Freak Hours
-
-tbd
-
-::genre::
+::genre::krautrock, post punk, psych rock, jazz fusion, alt rock
 
 ## Driftwood - Maps
 
-tbd
+Ein avantgardistisches Experimental-Duo, bestehend aus den Klangkünstlern Nick Ashwood und Aviva Endean. Mit ihrem selbstbetitelten Debütalbum aus dem Jahr 2024 ernteten sie in der Underground-Szene großes Lob. **Ambient-Elektronik**, minimalistische Klassik, **avantgardistischer Drone** und elektroakustischer Mystizismus. Wenn Sie schon immer einmal Zeit und Raum als fließende, psychedelische Dimension erleben wollten, ist dies Ihr Portal. Das Album dreht sich vollständig um zwei Pumporgel, die so neu gestimmt wurden, dass ihre Stimmzungen bewusst aneinanderschlagen und so langsam fließende, schimmernde Dissonanzen erzeugen. Über diese hypnotische Grundlinie weben sie schwebende Klarinetten, Gitarren und leise, wilde elektronische Bearbeitungen. Es funktioniert weniger wie ein gewöhnliches Liederbuch, sondern eher wie ein meditatives Klangritual. Es ist der ultimative abstrakte Soundtrack, um sich auf den Teppich zu legen und das Gehirn sanft in einen beruhigenden Dunst auflösen zu lassen.
 
-::genre::
-
-## Duane Betts - Isle of Hope
-
-tbd
-
-::genre::
-
-## Duchess - A Marvelous Party
-
-tbd
-
-::genre::
-
-## Dâmares Gomes - The Space In Between
-
-tbd
-
-::genre::
-
-## Earth Trax - Everlasting Flame
-
-tbd
-
-::genre::
-
-## Electra OK - Good Grief
-
-tbd
-
-::genre::
-
-## Eloise - My Man & Me
-
-tbd
-
-::genre::
+::genre::ambient, experimental electronica, drone
 
 ## Elsa Nilsson - Liminal
 
-tbd
+Als virtuose Jazzflötistin, Komponistin, Pädagogin und Klangkünstlerin hat sich Nilsson mit ihrem radikalen Improvisationsstil und ihren zukunftsweisenden Ensemble-Kooperationen international große Anerkennung erworben. **Avantgarde-Jazz**, experimenteller **Ambient**, minimalistische Klassik und moderne kreative Improvisation. Wenn Sie schon immer einmal in einem offenen Raum sitzen und einer Gruppe brillanter musikalischer Zauberer dabei zusehen wollten, wie sie aus dem Nichts eine abstrakte Klanglandschaft erschaffen, dann ist dies genau das Richtige für Sie. Nilsson lehnt starre Noten und überkalkulierte technische Akrobatik gänzlich ab und lässt stattdessen ihre Flöte atmen, aufeinanderprallen und auf natürliche Weise mit einer offenen Klanglandschaft in Dialog treten. Es ist ein gemächlicher, höchst kontemplativer und wunderschön unvorhersehbarer Klangspielplatz, der im Handumdrehen die Richtung wechselt. Er vermeidet es gänzlich, einfache Pop-Antworten zu geben, und lädt den Zuhörer stattdessen dazu ein, den ausgetretenen Pfaden zu entfliehen und sich auf entzückende Weise in der Kunst zu verlieren.
 
-::genre::
+::genre::avant jazz, ambient, experimental electronica, modern classic, improvisation
 
 ## Embrace - Avalanche
 
-tbd
+Die 1996 gegründete Indie-Rock-Band unter der Leitung der Brüder Danny und Richard McNamara zählt seit drei Jahrzehnten zu den beständigsten, erfolgreichsten und beliebtesten Schöpfern von Hymnen in Großbritannien. **Britrock**, **Indie-Rock**, **Alternative-Rock** und hymnischer **Pop-Rock**. Frontmann Danny McNamara beschreibt dieses Album als Metapher dafür, wie sich winzige, ungeschliffene Alltagsgefühle zu einer Lawine auftürmen, bis sie zu einer gewaltigen emotionalen Kraft werden. Es tauscht übermäßig glattgebügelten, radiotauglichen Pop gegen einen wunderschön rohen, ehrlichen und direkten menschlichen Ansatz ein. Umspielt von üppigen Orchester-Streichern, melancholischen Keyboards und treibenden Gitarrenriffs, balanciert die Trackliste düstere Geschichten von Besessenheit mit hochfliegenden, stadiontauglichen Refrains aus, die dazu bestimmt sind, von Tausenden von Menschen gleichzeitig gesungen zu werden. Es ist elegant, wunderschön verletzlich und eine triumphale Erinnerung daran, dass sie auch nach 30 Jahren noch einen Song schreiben können, der einen mitten ins Herz trifft.
 
-::genre::
+::genre::indie rock, britpop, prog pop, alt rock
 
 ## Enigmatic Sound Machines - Divided By One
 
-tbd
+Ursprünglich als experimentelles, synthlastiges Studioduo von den langjährigen Freunden Jeremie Arrobas und Thomas Szirmay gegründet, hat dieses ambitionierte Projekt über Jahre hinweg eine Vielzahl konzeptioneller Alben veröffentlicht. **Progressive Rock**, Electronic Rock, **Indietronica** und **Synth-Rock**. Dieses Album markiert genau den Moment, in dem die elektronischen Genies beschlossen, zu massiven Gitarren zu greifen, ihre Besetzung zu verdoppeln und sich in ein eingespieltes, vollwertiges Progressive-Rock-Quartett zu verwandeln. Die daraus resultierende Klanglandschaft mit 9 Titeln ist eine düstere, theatralische und intensiv filmische Erkundung menschlicher Begierden und apokalyptischer Zerstörung. Sie hüllt schwere, treibende analoge Synthesizer um hochfliegende progressive Gitarrenbögen und unheimliche Gesangstexte, die vom Gespräch mit der Leere handeln. Sie ist intellektuell, wunderbar schwermütig und errichtet eine Klangwand, die so gewaltig ist, dass sie einen dunklen Raum und ein phänomenales Paar Kopfhörer erfordert.
 
-::genre::
+::genre::prog rock, synth prog rock, indietronica
 
 ## Ex Ponto - Odlazak
 
-tbd
+Ex Ponto ist das hochkonzeptionelle, multidisziplinäre Elektronikprojekt des in Melbourne ansässigen Klangkünstlers Ivan Masic, der mit gefundenen Klängen und geografischen Bezügen unheimliche Klangwelten erschafft. **Kosmische Musik**, **Cold Wave**, **Ambient-Elektronik**, **Dub**, **Post-Punk** und **Acid**. Benannt nach dem serbischen Wort für "Aufbruch", wirkt dieses brillante Album wie ein alternativer, regennasser Soundtrack zu einem dystopischen Cyberpunk-Film, der auf dem Balkan spielt. Masic verwebt meisterhaft hypnotische, tief frittierte Dub-Basslines, kalte elektronische Impulse und gespenstische, hallende Gitarrenlinien zu Loops, die sich wie eine direkte Reise in einen Fiebertraum anfühlen. Das Album vermittelt ein ausgeprägtes Gefühl von Isolation und Fernweh mit einer verschwommenen, nächtlichen filmischen Schwere. Es ist der ultimative elektronische Begleiter für eine Fahrt durch eine neblige Metropole, während man seine Existenz hinterfragt.
 
-::genre::
+::genre::post punk, dub, dark wave, krautrock
 
 ## Eyes Out - Satiate The Blade
 
-tbd
+Diese seit 2019 aktive, aggressive Underground-Band mischt seit Jahren die lokale Hardcore-Szene in der kalifornischen River City mit ihrer rohen, provokativen Live-Präsenz auf. **Crossover-Hardcore**, **Thrash Metal** und **Punk**. Man stelle sich eine extrem heftige Kollision zwischen klassischem Old-School-Hardcore-Punk im Stil von *D.R.I.* und messerscharfem modernem Thrash Metal vor. Zieh deine robusteste, kampferprobte Jeansweste an und bereite deinen Nacken auf einen absoluten Schleudertrauma-Schock vor. Dieses 12-Track-Monster wirkt wie eine außer Kontrolle geratene Kreissäge, die sich geradewegs durch eine Betonwand frisst. Es ist randvoll mit halsbrecherischen Drum-Tempos, vulkanartigen Gesangsausbrüchen und Gitarren-Breakdowns, die so heavy sind, dass sie mit einer strukturellen Sicherheitswarnung versehen sein sollten. Hier gibt es null Studio-Schnickschnack oder radiotauglichen Füllstoff - nur 38 Minuten pure, schweißtreibende, mosh-getriebene Adrenalin, die darauf ausgelegt sind, dir das Gesicht komplett wegzuschmelzen.
 
-::genre::
+::genre::crossover, hardcore punk, thrash metal
 
 ## Family Worship Center - Only Visiting
 
-tbd
+Ein gewaltiges, ausgelassenes Psych-Soul-Kollektiv, das sich mit seiner urwüchsigen Live-Energie und seiner Zeit als Begleitband des legendären Outsider-Pop-Songwriters Donnie Emerson eine treue Fangemeinde aufgebaut hat. **Psych-Soul**, 1970er-Jahre-Rock, **Retro-Pop**, Laurel-Canyon-**Folk** und AM Gold. Pack deine Koffer, zieh deine Lieblings-Vintage-Jeansjacke an und mach dich bereit für einen sonnendurchfluteten Roadtrip direkt ins Jahr 1974. Die Band entfernt sich leicht von ihren früheren, rootsigen Klängen und liefert einen herrlichen, luftigen Mix aus Steely-Dan-artiger Selbstsicherheit und von Fleetwood Mac inspirierten Harmonien. Titelnamen wie "Malibu By Midnight" und "Garden Grow" halten genau das, was sie versprechen: warme Akustikgitarren, treibende Basslinien und eine unbeschwerte Haltung. Es ist mühelos geschmeidig, wunderbar nostalgisch und wohl der ultimative Feel-Good-Soundtrack für einen faulen Sommernachmittag.
 
-::genre::
-
-## Fax & Braulio Lam - Mixed Signals III
-
-tbd
-
-::genre::
+::genre::prog pop, psych soul, acid soul
 
 ## Felice - ART MACHINE
 
-tbd
+Als äußerst kreativer Newcomer in der zeitgenössischen Independent-Alternative-Pop-Szene hat sich dieser Künstler durch sein konzeptionelles Songwriting rasch ein treues, im Internet beheimatetes Publikum aufgebaut. **Alternative Pop**, **Indie-Elektro**, **Anti-Pop** und **Art-Rock**. Dieses Album wirkt wie eine hyperdynamische, leicht unberechenbare Kunstgalerie-Installation, die plötzlich Beine bekam und auf die Tanzfläche entfloh. Sie wirkt wie ein wunderbar bunter, frecher Spielplatz voller lebhafter elektronischer Impulse, elastischer Basslinien und witziger lyrischer Kommentare über die absolute Absurdität der modernen Kultur des Internetzeitalters. Sie ist wunderbar locker, äußerst mitreißend und besitzt einen schicken, ungeschliffenen Charme, der deine uneingeschränkte Aufmerksamkeit fordert. Leg diese Platte auf, wenn du in deinem Wohnzimmer herumtanzen und dabei deinen wachsenden Wäscheberg komplett ignorieren willst.
 
-::genre::
+::genre::alt pop, indie pop, indietronica, art rock
 
 ## Fires in the Distance - Circadian Promise
 
-tbd
+Diese melodische Extreme-Metal-Band, die sich rasch zu einem der aktuellen Schwergewichte entwickelt hat, erwarb sich mit ihrem von der Kritik gefeierten zweiten Album „Air Not Meant for Us“ aus dem Jahr 2023 einen hervorragenden Ruf in der Underground-Szene. **Melodic Death Metal**, **Doom Metal**, **Progressive Metal** und atmosphärischer **Dark Metal**. Man stelle sich mitreißende, filmische Orchesterklänge vor, die auf schwere, melancholische Gitarrenriffs treffen. Holen Sie Ihre edelste Trauerkleidung aus Samt hervor und machen Sie sich bereit, sehnsüchtig in eine sich zusammenbrauende Herbstgewitterwolke zu blicken. Dieses monumentale Werk aus sechs Tracks verwebt auf elegante Weise die erdrückende Schwere des Doom Metal mit brillant aufsteigenden, theatralischen Gitarrenharmonien. Klavierpassagen schweben mühelos über tiefen, vulkanischen Growls und schaffen so eine wunderschöne, doch verheerende Landkarte menschlicher emotionaler Erschöpfung. Es fühlt sich zutiefst grandios und höchst filmisch an und dient als perfekter Soundtrack für einen Spaziergang durch einen dunklen, nebligen Wald, während man das Universum hinterfragt.
 
-::genre::
+::genre::melo death metal, prog metal, doom metal, dark metal
 
 ## Fleshcrawl - Epitome of Carnage
 
-tbd
+Die bereits 1987 unter dem Namen Morgöth gegründete legendäre fünfköpfige Band zählt zu den beständigsten und angesehensten Death-Metal-Bands Deutschlands. **Old-School-Death-Metal**, schwedischer Death-Metal und **melodischer Death-Metal**. Sie verbinden klassische, kreissägenartige Gitarrenriffs mit blitzschneller rhythmischer Intensität. Wenn du wissen willst, wie es klingt, wenn ein massiver, rostbedeckter Panzer direkt durch eine Backsteinmauer fährt, leg die Nadel auf diese Platte. Die Band ignoriert moderne, überproduzierte Studio-Glätte völlig und verwöhnt die Zuhörer stattdessen mit einem unerbittlichen Feuerwerk aus roher, direkter und kompromissloser klanglicher Gewalt. Der kehlige Gesang brüllt über eine stürmische Landschaft aus Speed-Metal-Riffs und knochenerschütterndem Double-Bass-Drumming. Es ist eine absolute Meisterklasse in schnörkellosem, traditionellem Death Metal, die von Anfang bis Ende einen exquisit direkten Schlag ins Gesicht liefert.
 
-::genre::
-
-## Francesca Michielin - Magia Bianca
-
-tbd
-
-::genre::
+::genre::osdm, melo death metal
 
 ## Fruit Bats - The Landfill
 
-tbd
+Das langjährige Künstlername des gefeierten Singer-Songwriters und Multi-Instrumentalisten Eric D. Johnson. In seiner gefeierten 25-jährigen Karriere hat sich Johnson als prägende Säule der amerikanischen Indie-Folk-Szene etabliert und ist bekannt für seine warmen Arrangements und sein herausragendes Gespür für Melodien. **Indie-Folk**, **Folk-Rock**, **Americana** und **Sunshine Pop**. Johnson nutzt die flachen, horizontalen Landschaften seiner Jugend im Mittleren Westen als wunderschöne Metapher dafür, sich durch die angesammelten emotionalen Trümmer eines menschlichen Lebens zu wühlen. Die daraus entstehenden Songs sind unglaublich lebendig und sonnenverwöhnt und verbinden sein charakteristisches akustisches Gitarrenspiel und sein schwebendes Falsett mit treibenden, festivaltauglichen Rhythmen der gesamten Band. Sie behandeln alltägliche Herzschmerz und flüchtige Momente der Schönheit wie wertvolle Schätze, die im Müll verborgen gefunden wurden. Es ist eine warme, zutiefst tröstende Indie-Folk-Umarmung, die einen unglaublich optimistisch in die Zukunft blicken lässt.
 
-::genre::
+::genre::indie folk, americana, alt folk
 
 ## GanEden - Gan Eden
 
-tbd
+Als technisch brillante Kraft, die aus dem dichten europäischen Heavy-Metal-Underground hervorgegangen ist, hat diese Powerhouse-Band Jahre damit verbracht, ihre perfekte Kompositionschemie zu verfeinern, bevor sie ihr offizielles Debütalbum auf die Beine stellte. **Progressive Metal**, **Symphonic Metal** und technischer **Math-Metal**. Dieses selbstbetitelte Konzeptalbum greift das klassische Buch Genesis mit einer völlig abgedrehten Science-Fiction-Wendung auf und behandelt Adam und Eva nicht als göttliche Wesen, sondern als hochkomplexe genetische Experimente. Die Band untermalt diese wilde Prämisse mit einem unerbittlichen, schwindelerregenden Ansturm aus schweren, heruntergestimmten Gitarrenriffs, unberechenbaren Tempowechseln und ätherischen Gesangspassagen, die gewaltig klingen. Das Album fängt eine unglaubliche Balance zwischen wunderschönem melodischem Storytelling und absoluter, knochenbrechender Metal-Aggression ein. Es ist eine fantastische, umwerfende Klangreise, die ausschließlich für Fans von grenzüberschreitender extremer Kunst geschaffen wurde.
 
-::genre::
+::genre::prog metal, symphonic metal, mathcore
 
 ## GENER8ION - Love & Tears
 
-tbd
+GENER8ION ist das hochkonzeptionelle, multidisziplinäre Elektronikprojekt des legendären französischen Produzenten Benoît Heitz (weltweit bekannt als Surkin) zusammen mit dem visionären Filmemacher Romain Gavras, das regelmäßig die Kluft zwischen innovativer Clubmusik und filmischen Kunstwerken überbrückt. **Leftfield-Techno**, **Industrial-Electronic**, cineastischer **Synthwave** und **Avantgarde-Electro**. Diese Platte spielt sich genau wie ein hyper-stilisierter Cyberpunk-Thriller ab, komprimiert in eine dunkle, pulsierende Club-Atmosphäre. Mit einem brillanten Gesangsbeitrag von Foals-Frontmann Yannis Philippakis umhüllt der Titeltrack aggressive, schwere Industrial-Drum-Beats mit wunderschönen, klagenden Synthesizer-Linien, die sich anfühlen wie Geheimnisse, die im Dunkeln erzählt werden. Er behandelt ausgeprägte, chaotische emotionale Themen mit einer spannungsgeladenen, nächtlichen filmischen Schwere, die einen absolut in Atem hält. Es ist der ultimative elektronische Soundtrack für eine Fahrt durch eine regennasse, neonbeleuchtete Metropole um 3:00 Uhr morgens.
 
-::genre::
-
-## George Thorogood and the Destroyers - The Baddest Show on Earth
-
-tbd
-
-::genre::
+::genre::industrial, edm, idm, leftfield techno, synth wave
 
 ## Ghosts And Errors - Teenage Prose
 
@@ -954,7 +852,7 @@ Als eigenständiges, stark konzeptionelles Projekt hat sich der Künstler auf Pl
 
 ## Tujiko Noriko - PON
 
-Noriko ist seit den frühen 2000er Jahren aktiv und gilt als hoch angesehene Pionierin der globalen elektronischen Underground-Szene. Dies ist ihr sechstes Soloalbum für das hochspezialisierte Avantgarde-Label Editions Mego. **Avantgarde-Dream-Pop** und experimentelle elektronische Musik. Ihr einzigartiges Klangbild verwebt strukturierte, abstrakte Ambient-Klanglandschaften mit zarten, romantischen Melodien. Dieses Album ist ein wunderschön zerbrechliches, bittersüßes Wiegenlied, das zugleich als klangliches Requiem fungiert. Ganz ihrer geliebten, als Kätzchen adoptierten Katze gewidmet, die taub geboren wurde und tragischerweise verstorben ist, hüllt "PON" den Hörer wie eine warme, neblige Decke aus Trauer und Zärtlichkeit ein. Norikos charakteristischer sanfter, flüsternder Gesang schwebt wie sanfte Geister durch komplexe Labyrinthe aus knisternder Elektronik, subtilen Feldaufnahmen und plötzlichen bluesigen Gitarrenklängen. Es wechselt mühelos von kindlicher Unschuld zu ausufernden zehnminütigen instrumentalen Drifts. Es ist tief bewegende, behagliche und zutiefst tröstende Kunst.
+Noriko ist seit den frühen 2000er Jahren aktiv und gilt als hoch angesehene Pionierin der globalen elektronischen Underground-Szene. Dies ist ihr sechstes Soloalbum für das hochspezialisierte Avantgarde-Label Editions Mego. **Avantgarde-Dream-Pop** und experimentelle elektronische Musik. Ihr einzigartiges Klangbild verwebt strukturierte, abstrakte Ambient-Klanglandschaften mit zarten, romantischen Melodien. Dieses Album ist ein wunderschön zerbrechliches, bittersüßes Wiegenlied, das zugleich als klangliches Requiem fungiert. Ganz ihrer geliebten, als Kätzchen adoptierten Katze gewidmet, die taub geboren wurde und tragischerweise verstorben ist, hüllt "PON" den Hörer wie eine warme, neblige Decke aus Trauer und Zärtlichkeit ein. Norikos charakteristischer sanfter, flüsternder Gesang schwebt wie sanfte Geister durch komplexe Labyrinthe aus knisternder Elektronik, subtilen Field Recordings und plötzlichen bluesigen Gitarrenklängen. Es wechselt mühelos von kindlicher Unschuld zu ausufernden zehnminütigen instrumentalen Drifts. Es ist tief bewegende, behagliche und zutiefst tröstende Kunst.
 
 ::genre::avant pop, dreampop, experimental electronica
 
@@ -1018,7 +916,7 @@ Baauer, mit bürgerlichem Namen Harrison Rodrigues, ist ein weltweit bekannter P
 
 ## Clangor - The Quiet After
 
-Das Projekt funktioniert als unabhängiger, in sich geschlossener DIY-Studio-Arbeitsbereich und konzentriert sich stark darauf, emotionale Übergänge durch ruhige Tonbandtexturen, Feldaufnahmen und subtile akustische Loops einzufangen. Minimalistischer **Ambient**, **Drone** und **Post-Rock**. Es lässt sich direkt von ruhiger Klangkunst, strukturierten atmosphärischen Veränderungen und filmischer, nächtlicher Akustikmusik inspirieren. Getreu seinem Titel fühlt sich "The Quiet After" an, als würde man unmittelbar nach dem Ende eines gewaltigen, weltverändernden Sturms aus dem Fenster blicken. Das gesamte Album bewegt sich in einem wunderschönen, eiszeitlichen Zeitlupentempo. Es verzichtet vollständig auf traditionelle Percussion- und Strophenformeln zugunsten von langen, ausklingenden Gitarrensummen, zarten Keyboardklängen und gemütlichem Hintergrundrauschen. Wenn man es mit einem guten Kopfhörer hört, taucht man in einen tief meditativen Raum ein, in dem man praktisch spürt, wie sich der Herzschlag verlangsamt. Es ist beruhigend, still-traurig und dient als wunderschön zerbrechlicher Soundtrack, um in leeren Räumen zu sitzen, während der Tag langsam in die Dämmerung übergeht.
+Das Projekt funktioniert als unabhängiger, in sich geschlossener DIY-Studio-Arbeitsbereich und konzentriert sich stark darauf, emotionale Übergänge durch ruhige Tonbandtexturen, Field Recordings und subtile akustische Loops einzufangen. Minimalistischer **Ambient**, **Drone** und **Post-Rock**. Es lässt sich direkt von ruhiger Klangkunst, strukturierten atmosphärischen Veränderungen und filmischer, nächtlicher Akustikmusik inspirieren. Getreu seinem Titel fühlt sich "The Quiet After" an, als würde man unmittelbar nach dem Ende eines gewaltigen, weltverändernden Sturms aus dem Fenster blicken. Das gesamte Album bewegt sich in einem wunderschönen, eiszeitlichen Zeitlupentempo. Es verzichtet vollständig auf traditionelle Percussion- und Strophenformeln zugunsten von langen, ausklingenden Gitarrensummen, zarten Keyboardklängen und gemütlichem Hintergrundrauschen. Wenn man es mit einem guten Kopfhörer hört, taucht man in einen tief meditativen Raum ein, in dem man praktisch spürt, wie sich der Herzschlag verlangsamt. Es ist beruhigend, still-traurig und dient als wunderschön zerbrechlicher Soundtrack, um in leeren Räumen zu sitzen, während der Tag langsam in die Dämmerung übergeht.
 
 ::genre::post rock, ambient, drone, instrumental
 
