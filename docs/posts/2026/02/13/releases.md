@@ -222,7 +222,7 @@ Die Sophomore EP des französischen Outfits. Brutal Death Metal, welcher seine H
 
 Das internationale Projekt um den amerikanischen Singer & Songwriter, Producer und Actor Eugene Hütz. Die Gypsy-Punker vereinen in ihren neuesten Komposition Gypsy-Punk mit Post-Punk, New-Wave, Dance-Punk und Power Pop. Experimentelles und eingängiges Songwriting und eine passend träumerische Produktion vervollständigen dieses geniale Werk.
 
-::genre::gypsy punk, post punk, new wave, dancepunk, power pop
+::genre::gypsy punk, post punk, new wave, dance punk, power pop
 
 ## Golden Brown - In the Grove
 

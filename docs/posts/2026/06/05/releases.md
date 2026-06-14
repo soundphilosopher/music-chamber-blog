@@ -1,7 +1,5 @@
 ---
 date: 2026-06-05
-pin: true
-bandcamp: true
 categories:
   - Releases
 ---
@@ -24,7 +22,7 @@ Eine außergewöhnlich versierte und hochgelobte Sängerin, Songwriterin und Mul
 
 Ein außergewöhnlich talentierter unabhängiger Produzent elektronischer Musik und Multi-Instrumentalist, der in der digitalen Synthwave-Szene tätig ist. Der Künstler hat sich ein riesiges Online-Imperium mit Millionen von Streams aufgebaut, das ausschließlich auf Internet-Subkulturen und DIY-Portalen basiert. Er hat sich darauf spezialisiert, nostalgische Y2K-Synthesizer-Strukturen zu nutzen und sie zu hypermodernen, panoramischen digitalen Landschaften zu erweitern. **Synthwave**, **Chillwave**, **Dreamwave** und **Cinematic Electronica**. Wenn sich dein Gehirn von hundert gleichzeitig geladenen Webbrowser-Tabs völlig überfordert fühlt, ist "A.E.R.O." der sofortige, beruhigende Reset-Knopf, den du brauchst. Das Album schichtet wunderschön knackige, leuchtende Synthesizer-Pads, summende Vocal-Loops und beschwingte elektronische Loops mit absoluter Präzision. Das Kernthema wirkt wie eine schöne, optimistische Meditation darüber, wie man mit moderner Bildschirmmüdigkeit umgeht und im täglichen technologischen Chaos sein mentales Gleichgewicht findet. Es geht mit seinen Arrangements so mühelos cool und lässig um, dass es deinen Geist völlig in Trance versetzt.
 
-::genre::vapor wave, synth wave, synth pop, new retro wave
+::genre::vaporwave, synth wave, synth pop, new retro wave
 
 <!-- more -->
 

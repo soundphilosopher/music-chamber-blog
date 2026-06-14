@@ -637,7 +637,7 @@ Die kanadische Singer & Songwriterin und Pianistin mit ihrem neuesten Studioalbu
 
 Das kanadische Quartett mit seinem neuesten Full-Length. Sie verwenden Trödelinstrumente wie Spielzeugkeyboards, Filmsynchronisatoren und Spielzeug-Phaser-Pistolen. Ihr Stil ist eine Mischung aus Electronica, Dance-Punk und Krautrock. Stellt euch vor, ein Roboter würde versuchen, in einem Science-Fiction-Film aus den 1970er Jahren einen Nachtclub zu bauen - und zwar nur mit Ersatzteilen vom Schrottplatz. "Event Beat" ist auf die bestmögliche Art hypnotisch und chaotisch. Es bewegt sich auf einem faszinierenden Drahtseil zwischen knallhartem Noise und groovigem Synth-Funk. Die Lead-Single "Evie" sticht besonders hervor, mit einer Basslinie, die sich anhört, als würde sie aus dem Erdinneren gespielt.
 
-::genre::dancepunk, krautrock, psych rock, art rock, experimental electronica
+::genre::dance punk, krautrock, psych rock, art rock, experimental electronica
 
 ## Intoxicated - The Dome
 
