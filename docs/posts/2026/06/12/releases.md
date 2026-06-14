@@ -1,7 +1,7 @@
 ---
 date: 2026-06-12
 pin: true
-bandcamp: false
+bandcamp: true
 categories:
   - Releases
 ---
@@ -10,209 +10,101 @@ categories:
 
 ## !mindparade - Neon Gummi Jukebox
 
-tbd
+Angeführt vom Multi-Instrumentalisten Alex Itschner hat sich diese sich ständig weiterentwickelnde psychedelische Band über ein Jahrzehnt lang eine treue Underground-Anhängerschaft für ihre höchst experimentellen, selbst produzierten Klanglandschaften aufgebaut. **Psych-Pop**, **Neo-Psychedelia**, experimenteller **Art-Rock** und **Dream-Pop**. Dieses Album verhält sich genau wie eine Vintage-Jukebox, die versehentlich in einen riesigen Bottich mit flüssigen Neonbonbons gefallen ist und irgendwie angefangen hat, Musik aus der Zukunft zu spielen. Mit wirbelnden, verzerrten, sonnenverwöhnten Gitarrenlinien, kosmischen Synthesizerwellen und wunderbar vernebelten Gesangsmelodien fungiert es wie ein hyperfarbiger Spielplatz für die Ohren. Tracks wie „Staring At the Sun“ überlagern mitreißende, trippige Rhythmen mit plötzlichen, kunstvollen Tempowechseln, die einen immer wieder überraschen. Es ist wunderbar locker, zutiefst traumhaft und bietet einen grandiosen, luftigen Soundtrack für eine ziellose Fahrt in einen dunstigen Sommerhorizont.
 
-::genre::
-
-## Accident Fantôme - Objets enchâssés dans un anneau planétaire
-
-tbd
-
-::genre::
-
-## Alex Amen - Sun of Amen
-
-tbd
-
-::genre::
-
-<!-- more -->
+::genre::art rock, experimental rock, dreampop, psych pop, psych rock
 
 ## Alexander Noice - Perpetually and Forever
 
-tbd
+Ein gefeierter Avantgarde-Komponist, Produzent und experimenteller Gitarrist, der in den Independent-Kreisen der Westküste für seine hochkomplexen, genreübergreifenden Multimedia-Werke bekannt ist. **Electro Acoustic**, **Art Rock**, **Electronica**, Minimalismus und **IDM**. Dieses Album ist ein wunderschön paranoider, hyperaktiver Trip in eine zerbrochene Virtual-Reality-Simulation. Noice nutzt den fröhlichen, beschwingten Konsumoptimismus des Amerikas der 1950er Jahre als kreativen Spiegel und zerschmettert ihn bewusst mit schweren 808-Beats, verzerrten Holzbläsern und verarbeiteten Klavieren. Es bewegt sich nahtlos von lebhaften Neon-Dance-Grooves hin zu dunklem, klaustrophobischem Industrial-Noise und fungiert als rasende Kritik am Spätkapitalismus. Es ist brillant, unvorhersehbar, technisch atemberaubend und verlangt in einem dunklen Raum deine absolute, ungeteilte Aufmerksamkeit.
 
-::genre::
+::genre::idm, ambient acoustic, art rock, art pop
 
 ## Alexis Taylor, Mike Simonetti - I See A Darkness / Perfect Kiss
 
-tbd
+Taylor ist weithin bekannt als die kristallklare Stimme der Synth-Pop-Ikonen Hot Chip. Simonetti ist ein legendärer Techno-Produzent, DJ und Mitbegründer des einflussreichen Synthwave-Labels Italians Do It Better. **Indietronica**, **Folk-Pop**, **Synth-Pop** und **Alternative Dance**. Diese Veröffentlichung fühlt sich an, als würde man sein Gehirn ein langes, warmes Bad in einer Wolke aus sanfter, digitaler Nostalgie nehmen lassen. Das Duo kombiniert zarte Akustikgitarrenklänge mit summenden, analogen Vintage-Synthesizern, die sich langsam zu einer wunderschönen elektronischen Hymne steigern. Taylors zarte Stimme schwebt mühelos durch die nebligen Klanglandschaften und behandelt Themen wie Entfremdung, Identität und das tiefe menschliche Verlangen, wirklich gesehen zu werden. Es ist raffiniert, unglaublich gemütlich und der ultimative Soundtrack für späte Nächte, um an einem regnerischen Sommerabend die Sterne zu beobachten.
 
-::genre::
+::genre::edm, indie folk, indietronica, synth pop
 
-## ALIZADE - Rahat Music
-
-tbd
-
-::genre::
+<!-- more -->
 
 ## All Coasted - Time For Disruption
 
-tbd
+Eine energiegeladene italienische Punkrock-Band, die fast ein Jahrzehnt lang die europäische DIY-Underground-Szene unsicher gemacht hat. Dieses Projekt ist ihr definitiver fünfter Meilenstein im Studio. **Skatepunk**, **Melodic Hardcore**, **Pop-Punk** und kalifornischer **Alternative-Rock** der 2000er Jahre. Denkt an die rasante Geschwindigkeit von Bands wie *Blink-182*, *NOFX* und *Millencolin*. Schnürt eure höchsten Skateschuhe und macht euch bereit, direkt in den nächsten Moshpit zu stürmen. Diese 8-Track-Artillerie-Salve umgeht den modernen Pop-Punk-Glanz komplett und liefert einen unerbittlichen, rasanten Ansturm aus blitzschnellen Drum-Patterns, schroffen Gitarrenriffs und mitreißenden, zum Mitklatschen einladenden Refrains. Voller unbändiger Energie verbindet es die Old-School-Angst der 2000er Jahre mit einer etwas düstereren, modernen Perspektive. Es ist kurz, extrem hyperaktiv, unglaublich eingängig und liefert den absoluten Sommer-Soundtrack Nummer eins, um sich permanente Schürfwunden zuzuziehen.
 
-::genre::
+::genre::pop punk, skatepunk, melo hardcore
 
 ## Ambrose Akinmusire & Mary Halvorson - Slo-Mo Neon Luminate Hoverings
 
-tbd
+Ambrose Akinmusire ist ein meisterhafter Jazztrompeter und Komponist, während Mary Halvorson zu den innovativsten Avantgarde-Jazzgitarristinnen ihrer Generation zählt. Die beiden arbeiten seit 2009 regelmäßig zusammen. **Avantgarde-Jazz**, **Chamber Jazz**, kreative Improvisationsmusik und moderne Klassik. Diese Platte ist eine schwindelerregende, wunderschöne Meisterklasse in musikalischer Telepathie. Ohne Bass oder Schlagzeug, die ihnen Halt geben könnten, treten Trompete und Gitarre in den leeren Raum hinaus wie zwei Trapezkünstler, die ohne Sicherheitsnetz auftreten. Halvorson nutzt ihre charakteristischen, verzerrten Gitarren-Delay-Pedale, um die Zeit zu verbiegen, während Akinmusire mit feurigen, traurigen Hornmelodien antwortet. Es wechselt zwischen scharfer, mathematischer Präzision und lockerer, schwebender Intimität. Es fühlt sich weniger wie eine strukturierte Darbietung an, sondern eher wie das Mithören eines brillanten Mitternachtsgesprächs zwischen zwei exzentrischen Professoren, die eine Sprache sprechen, die nur sie verstehen können.
 
-::genre::
+::genre::avant jazz, chamber jazz, improvisation
 
-## AmChann - EP!PHANY
+## Artificial Silence - Hollow Drift *
 
-tbd
+Unter der Leitung des multi-instrumentalistischen Masterminds Nabil Fadili erntete dieses Underground-Projekt in progressiven Kreisen große Anerkennung für seine weitläufigen, strukturell komplexen Kompositionen. **Progressive Metal**, **Symphonic Rock**, **Math-Rock** und **Avantgarde-Metal**. Man denke an die technischen, vielschichtigen Klanglabyrinthe von Bands wie *Haken* und *Dream Theater*. Setzen Sie Ihre intellektuellste Kopfhörer auf und machen Sie sich bereit, Ihr Gehirn von einem 24-minütigen Progressive-Metal-Epos komplett neu verdrahten zu lassen. Das Album wirkt wie eine weitläufige, filmische Odyssee, in der schwindelerregende Taktwechsel und vulkanische Gitarrenriffs auf üppige Orchester-Streicher und Jazz-Fusion-Zwischenspiele treffen. Es vermeidet bewusst schnelle Pop-Lösungen und fängt den Hörer stattdessen in einem dichten, schwindelerregenden Klanglabyrinth ein, das sich bei wiederholtem, aufmerksamem Hören immer wieder neu erschließt. Es ist ein ambitioniertes, wunderbar schwermütiges Meisterwerk, das ausschließlich für Musiknerds geschaffen wurde, die sich ganz in der Kunst verlieren wollen.
 
-::genre::
-
-## ANOTR - Withness
-
-tbd
-
-::genre::
-
-## Artificial Silence - Hollow Drift
-
-tbd
-
-::genre::
+::genre::prog metal, symphonic metal, math rock, avant metal
 
 ## Austin Carlile - 2die4
 
-tbd
+Als legendärer ehemaliger Frontmann und treibende Kraft hinter den Metalcore-Giganten Of Mice & Men und Attack Attack! beherrschte Carlile jahrelang die großen internationalen Festivalbühnen, bevor ihn sein anhaltender Kampf mit dem Marfan-Syndrom zu einer längeren Pause vom intensiven Tourleben zwang. **Hardrock**, **Alternative Rock**, **Post-Grunge** und **Modern Rock**. Schnapp dir deine robusteste Lederjacke und mach deine Stimmbänder bereit, denn Carlile ist zurück mit einer regelrechten Stadion-Explosion purer Rock'n'Roll-Rebellion. Er tauscht seine charakteristischen Metalcore-Growls gegen hochfliegenden, rauen Clean-Gesang, und das Album tauscht vorhersehbare Breakdowns gegen massive, radiotaugliche Refrains und treibende Gitarren-Hooks. Songs wie "SO HAPPY" und "TWISTED" behandeln Themen wie psychische Gesundheit, Überleben und hart erkämpften Frieden mit einer immensen, therapeutischen Energie. Es ist unglaublich ausgefeilt, emotional roh und steht als triumphale, hochoktanige Siegesrunde für einen Überlebenden der Rockszene.
 
-::genre::
-
-## AUXEMPEROR - Potluck
-
-tbd
-
-::genre::
-
-## Ayau - LALAGÜL
-
-tbd
-
-::genre::
-
-## BabyChiefDoit - RAMBO
-
-tbd
-
-::genre::
+::genre::modern metalcore, post hardcore, post grunge, alt rock
 
 ## Bakken - Consent to Deception
 
-tbd
+Die 2011 von Gitarrist Simon Pickett und Schlagzeuger Niall McGrotty gegründete, äußerst eigenständige Band dominiert seit über einem Jahrzehnt die lokale Szene. Sie haben bereits legendäre Heavy-Metal-Ikonen wie Tim "Ripper" Owens und Doug Aldrich als Vorgruppe begleitet. **Thrash Metal**, **Power Metal** und **Progressive Metal**. Inspiriert von der rasanten Geschwindigkeit klassischer Metal-Bands wie *Metallica*, *Children of Bodom* und *Iron Maiden*. Schnappt euch ein kühles Getränk und macht euch bereit, die Heavy-Metal-Faust in die Luft zu recken, denn diese irischen Metal-Champions sind mit voller Wucht zurück! Das Album wirkt wie ein blitzschneller Adrenalinstoß, der betonzerbrechende Double-Kick-Drum-Läufe mit virtuosem, schwindelerregendem Gitarrenshredding verbindet. Frontmann Frank Levi liefert eine absolute Meisterleistung in traditioneller Power-Metal-Gesangskunst und schwebt majestätisch über scharfen, politisch aufgeladenen Texten. Es ist laut, kompromisslos retro und groovt mit einer massiven, triumphalen Attitüde, die ausschließlich für die erste Reihe eines Festival-Moshpits geschaffen ist.
 
-::genre::
+::genre::thrash metal, power metal, prog metal
 
 ## BalashToth - Equation II – The Antithesis Of Life And Free Will
 
-tbd
+Ein düsteres, zukunftsweisendes Studio-Projekt unter der Leitung des Multi-Instrumentalisten und Klangkünstlers BalashToth. Seit Jahren entwickelt er komplexe konzeptionelle Erzählungen auf Underground-EPs und nutzt dabei von der Mathematik inspirierte Strukturen, um düstere existenzielle Abgründe zu erforschen. **Melodic Death Metal**, **Groove Metal** und atmosphärischer **Doom Metal**. Entstaube deine robusteste Kampfausrüstung und bereite dein Gehirn auf einen absolut berechnenden, mathematischen Sturm purer klanglicher Gewalt vor. Die Tracks tauschen weitreichende, katastrophale Perspektiven gegen eine zutiefst intime, hautnahe Karte innerer mentaler Kämpfe ein und setzen sich mit schweren Themen wie Selbstwertgefühl, Angst und Schuldgefühlen auseinander. Die Musik dröhnt direkt aus deinen Lautsprechern und balanciert einen halsbrecherischen 280-BPM-Technical-Death-Metal-Angriff mit Old-School-Gitarrenriffs aus. Sie überrascht dich sogar mit einem unheimlich schönen instrumentalen Zwischenspiel, das ganz auf eine weinende Bratsche aufgebaut ist. Es ist aggressiv, wunderbar komplex und steht als brillant schweres Kunstwerk da.
 
-::genre::
-
-## Bandits on the Run - Rough Magic
-
-tbd
-
-::genre::
+::genre::post metal, melo death metal, groove metal, alt metal, doom metal
 
 ## BASIC - BASIC
 
-tbd
+Ein exzellentes instrumentales Underground-Super-Trio, bestehend aus dem beeindruckenden Gitarrenvirtuosen Chris Forsyth, dem Percussion- und Sampler-Genie Mikel Patrick Avery von der Natural Information Society und dem legendären Tortoise-Bassist Douglas McCombs. Knallharter Gitarrenrock, **Post-Punk**, motorischer **Krautrock**, **Leftfield-Electronica** und nicht-westliche Rhythmen. Stark inspiriert vom kantigen, glitzernden Post-Punk-Gerüst der 1980er Jahre von Fred Maher und Robert Quine. Schnall dich auf dem Beifahrersitz an, denn dieses Instrumental-Trio hat einen geschmeidigen, mühelos coolen Motor gezündet, der ausschließlich für lange Fahrten auf Küstenstraßen gebaut ist. Die Band verzichtet komplett auf sichere, austauschbare Radiotricks und kombiniert McCombs’ tiefen, treibenden Fender-Bass-VI-Groove mit Forsyths zerklüfteten, mit Chorus-Pedal versetzten Gitarrenmustern. Avery hält das Ganze zusammen, indem er Live-Schlagzeuge und Drum-Machine-Subbässe durch selbstgebaute elektronische Anlagen verarbeitet. Es ist schwungvoll, brillant locker, unglaublich raffiniert und groovt mit einer scharfen, hypnotischen Attitüde, die deine volle Aufmerksamkeit fordert.
 
-::genre::
-
-## Bebe Rexha - DIRTY BLONDE
-
-tbd
-
-::genre::
+::genre::post punk, krautrock, leftfield electronica, instrumental
 
 ## Bellows - Que Bello!
 
-tbd
+Der seit langem verwendete, selbstgewählte Künstlername des Indie-Folk-Multi-Instrumentalisten und Singer-Songwriters Oliver Kalb. Seit über fünfzehn Jahren baut er sich mit seinen äußerst fantasievollen, tagebuchartigen Lofi-Pop-Kompositionen eine leidenschaftliche Underground-Kult-Anhängerschaft auf. **Indie-Folk**, **Chamber-Pop**, **Bedroom-Lofi** und experimenteller **Anti-Pop**. Dieser gewaltige, 18 Tracks umfassende Klangteppich fühlt sich genau so an, als hätte man ein wunderschön chaotisches, handgeschriebenes Tagebuch unter einer Diele gefunden und würde feststellen, dass es die gesamte eigene Jugend nachzeichnet. Aufgenommen zusammen mit engen Freunden in einem gemütlichen Heimstudio in Woodstock, überlagert die Musik wunderschöne Akustikgitarrenklänge und warme Klaviermelodien mit plötzlichen Ausbrüchen von glitchigen, mit Auto-Tune bearbeiteten Android-Gesangsharmonien. Sie behandelt alltägliche Ängste, tiefe romantische Hingabe und bittersüße Nostalgie mit einer wunderbar lockeren, sonnenverwöhnten Leichtigkeit. Sie wirkt wie eine unglaublich gemütliche, tröstende Indie-Folk-Umarmung, die einen trotz der Tränen lächeln lässt.
 
-::genre::
+::genre::art pop, chamber pop, bedroom pop, lofi
 
-## Berndt & Schmidt - Cloud Machines
+## BIG|BRAVE - in grief or in hope *
 
-tbd
+Das 2012 gegründete experimentelle Rock-Trio hat sich mit seinen gewaltigen, kunstvoll geformten Wänden aus Verstärkerlärm einen monumentalen internationalen Ruf erarbeitet. Dieses Projekt ist ihr wegweisendes zehntes Album. **Post-Rock**, **Doom Metal**, elektroakustischer Minimalismus und **Drone Rock**. Sie lassen sich stilistisch von modernen klassischen Komponisten wie Steve Reich und Avantgarde-Jazzkünstlern inspirieren. Diese Platte wirkt genau wie ein gewaltiges, grollendes Gewitter, das über einen stillen, offenen Bergrücken hinwegrollt. Das Trio tauscht die üblichen Radio-Rock-Formeln gegen vulkanische Feedback-Wellen und dicht geschichtete, hypnotische Gitarrenlinien ein, die einem direkt in die Brust schlagen. Doch unter der furchterregenden, vernichtenden Metal-Wucht enthüllt Watties eindringlicher, opernhafter Gesang ein wunderschönes, zerbrechliches Gefühl purer menschlicher Hoffnung und Trauer. Es ist intensiv, langsam gereifte, zutiefst dramatische Kunstmusik, die einen dunklen Raum und eine außergewöhnlich laute Anlage verlangt.
 
-::genre::
-
-## BIG BRAVE - in grief or in hope
-
-tbd
-
-::genre::
-
-## Big | Brave - In Grief Or In Hope
-
-tbd
-
-::genre::
-
-## Blitz - Bitter Me
-
-tbd
-
-::genre::
+::genre::post rock, doom metal, drone, ambient
 
 ## Bloodhunter - Sons Of The Abandoned
 
-tbd
+Seit ihrer Gründung im Jahr 2008 hat diese kraftvolle Extreme-Metal-Band fast zwei Jahrzehnte damit verbracht, ihren Status als eine der führenden Underground-Metal-Kräfte Europas zu festigen, angeführt von der legendären Sängerin Diva Satanica. **Melodic Death Metal**, **Thrash Metal** und Extreme **Groove Metal**. Man denke an die explosive Präzision von *Arch Enemy* oder *The Agonist*. Hol deine beste Kampfausrüstung aus dem Schrank, denn die Extreme-Metal-Krieger sind zurück, um deine Trommelfelle zu plündern! Dieses Projekt verbindet technische, blitzschnelle Gitarrensoli mit einer schweren, treibenden Rhythmik, die dir direkt in die Brust schlägt. Satanicas dämonische, kehlige Growls führen eine theatralische Erzählung hinab in Isolation, Verrat und dunkle High-Fantasy-Mythologie. Es ist wunderbar wild, kompromisslos aggressiv und steht als knochenerschütterndes Meisterwerk da, das ausschließlich für den Moshpit geschaffen wurde.
 
-::genre::
-
-## Blumengarten - radio
-
-tbd
-
-::genre::
+::genre::melo death metal, groove metal
 
 ## Boarzoy - The Great Fires
 
-tbd
+Ein schweres Underground-Trio aus der Szene von Massachusetts, das 2022 sein gefeiertes Debütalbum "Ever Watchful Hateful Eye" veröffentlichte, bevor es ein noch grandioseres musikalisches Comeback feierte. **Sludge Metal**, **Groove Metal**, **Progressive Metal** und **Stoner Rock**. Schmeißt euer schwerstes Verzerrerpedal mit ins Spiel und macht euch auf etwas gefasst, denn dieses Album ist eine Zeitlupenlawine aus purem, betonen schwerem Gewicht. Die Band verzichtet gänzlich auf überpolierte, saubere kommerzielle Strukturen und hüllt die Zuhörer in einen dichten Wald aus heruntergestimmten Riffs, monolithischen Drum-Patterns und knurrenden Gesangstiraden. Sie behandelt Themen wie den Zusammenbruch gesellschaftlicher Strukturen und innere Wut mit einer dunklen, kalkulierten Geschwindigkeit. Es ist intensiv schlammig, wunderbar laut und dient als absolute Meisterklasse in grooviger, headbangender Zerstörung.
 
-::genre::
-
-## Bob Wagner - I've Been Down
-
-tbd
-
-::genre::
+::genre::stoner metal, sludge metal, groove metal, prog metal
 
 ## Bolan - Gargoyle Of The Garden State
 
-tbd
+Das brandneue Soloprojekt von Rachel Bolan, bekannt dafür, über vier Jahrzehnte lang als kraftvoller Bassist, Mitbegründer und Hauptsongwriter der mit Multi-Platin ausgezeichneten Hardrock-Legenden Skid Row gewirkt zu haben. **Punkrock**, **Rock’n’Roll** mit Vollgas und traditioneller **Hardrock**. Schnapp dir deine Lederjacke und recke die Fäuste in die Höhe, denn dieses Album ist ein mitreißender, stadiontauglicher Schlag purer Rock’n’Roll-Attitüde. Produziert von Nick Raskulinecz, hat Bolan eine ganze Armee von schlagkräftigen Freunden mitgebracht - darunter Corey Taylor, Nuno Bettencourt und Danko Jones -, um einen unerbittlichen Ansturm aus galoppierenden Riffs und hochfliegenden melodischen Hooks zu entfesseln. Das Album lehnt jegliche Pläne für einen ruhigen Ruhestand komplett ab und liefert eine rohe, unnachgiebige Energie, die beweist, dass ein lauter Verstärker und eine raue Punk-Attitüde nie aus der Mode kommen.
 
-::genre::
-
-## Breakfield - Breakfield
-
-tbd
-
-::genre::
-
-## Brenn! - AMATEUR AT BEST
-
-tbd
-
-::genre::
-
-## Carl Gari - S/T
-
-tbd
-
-::genre::
+::genre::garage rock, hard rock
 
 ## Casket Cassette - REDUCER
 
-tbd
+Aus der Underground-Szene der Westküste stammend, hat sich dieses Projekt eine treue Anhängerschaft aufgebaut, indem es moderne Aufnahmetechniken mit traditionellen europäischen Club-Texturen der Mitte der 80er Jahre verbindet. **Darkwave**, **Goth**, **Post-Punk**, **Coldwave** und elektronischer Brutalismus. Diese Platte fühlt sich genau so an, als würde man um 3:00 Uhr morgens in einem Betonbunker auf und ab gehen, während eine schwere, mechanische Basslinie durch die Dielen vibriert. Durchtränkt von eisigen analogen Synthesizern und angetrieben von knackigen Drum-Machine-Patterns, verbindet das Album düstere, tiefe Gesangspassagen mit überraschend rhythmischen Arrangements. Es behandelt kathartische Themen wie emotionale Isolation, Apathie und nächtliche Verletzlichkeit mit einer unglaublich geschmeidigen, filmischen Schwere. Es ist die ultimative, elegante, hochoktanige Dark-Pop-Waffe, die dir dabei helfen soll, deine Sorgen im Dunkeln wegzutanzen.
 
-::genre::
+::genre::dark wave, post punk, new wave
 
 ## Chaz Underriner - Flicker
 
@@ -520,6 +412,12 @@ Der Avantgarde-Klangkünstler Luke Cowan, der ursprünglich für seine überaus 
 
 ::genre::free jazz, avant jazz, improvisation
 
+## M.C. Schmidt, John Berndt - Cloud Machines
+
+Ein avantgardistisches Meisterwerk, das über zehn Jahre lang gereift ist. Martin C. "M.C." Schmidt ist international als eine Hälfte des legendären Elektronik-Duos Matmos bekannt, während John Berndt eine Institution unter den Multi-Instrumentalisten und der erfahrene Bandleader hinter dem hochkarätigen High Zero Festival in Baltimore ist. **Leftfield-Electronica**, **New Age**, avantgardistische Klassik und konkreter mikrotonaler Jazz. Wenn Sie schon immer einmal in einem Labor sitzen wollten, während zwei exzentrische Musikwissenschaftler versuchen, reale Wetterphänomene und verstreute Hardware-Schrottteile in ein Ohr-Rätsel zu verwandeln, dann ist dies genau das Richtige für Sie. Das Album entfaltet sich wie ein wunderbar gesetzloser, sich wandelnder Klangspielplatz, der maßgeschneiderte Signalprozessoren, modulare Synthesizer-Blips und unberechenbare, fragmentierte Rhythmusblöcke miteinander verknüpft. Es ignoriert gängige Popmelodien völlig und schafft ein zutiefst immersives, abstraktes Cyber-Ökosystem, das dein Gehirn völlig durcheinanderbringt und auf entzückende Weise fasziniert.
+
+::genre::leftfield electronica, new age, avant jazz, avant ambient
+
 ## Make - Exegesis At The End Of Time *
 
 Die 2008 gegründete Band wurde aufgrund ihrer gewaltigen Klanglandschaften zu einer regionalen Underground-Legende. Nach einer zehnjährigen Pause im Anschluss an ihr drittes Album kehrten sie mit einer komplett überarbeiteten Besetzung - die sich durch eine ungewöhnliche Konfiguration mit zwei Bässen auszeichnet - zurück, um ihr bisher heaviest Material einzuspielen. **Sludge Metal**, **Post-Metal**, **psychedelischer Noise-Rock** und **Doom Metal**. Dieses Album anzuhören ist das klangliche Äquivalent dazu, ein Zeitlupenvideo anzusehen, in dem ein Wolkenkratzer zu Staub zerfällt, während über ihm eine psychedelische Lichtshow tanzt. Die Band setzt stark auf langsame, massive, heruntergestimmte Sludge-Riffs, die einem direkt in die Brust schlagen, bricht diese erdrückende Schwere jedoch ständig mit hypnotischen, wirbelnden Tälern aus kosmischem Noise und ambienter Beklemmung auf. Es fühlt sich zutiefst apokalyptisch, intellektuell und unglaublich gewaltig an - der perfekte konzeptionelle Soundtrack, um still in einem dunklen Raum zu sitzen und über das unvermeidliche Ende der Zivilisation, wie wir sie kennen, nachzudenken.
@@ -616,7 +514,7 @@ Die Band entstand, als die Mitglieder noch am renommierten Berklee College of Mu
 
 ::genre::alt metal, prog rock, prog metal, art rock
 
-## Olivia Rodrigo - you seem pretty sad for a girl so in love
+## Olivia Rodrigo - you seem pretty sad for a girl so in love *
 
 Die mit mehreren Grammys ausgezeichnete Pop-Superstar, die sich von einer Disney-Fernsehschauspielerin zu einer prägenden Stimme des Gen-Z-Pop entwickelte - dank ihrer erfolgreichen Alben "Sour" und "Guts". **Avant-Pop**, **Alternative** und experimenteller **Indie-Pop**. Sie entfernt sich von ihren charakteristischen Pop-Punk-Explosionen und erkundet sanftere, düsterere Klangwelten, die von britischer Alternativmusik und Gothic Rock inspiriert sind. Olivia Rodrigo ist offiziell in ihre "reife Indie-Film-Soundtrack"-Ära eingetreten und hat Robert Smith von The Cure mit auf die Reise genommen. Das Album ist klar in zwei Hälften geteilt und fungiert als theatralische Landkarte einer Beziehung: Die Schmetterlinge auf Seite A, die das Verlieben symbolisieren, weichen auf Seite B einem schleichenden, unheimlichen Zerfall. Anstatt ihre Ex-Freunde mit heavy Rock-Drums zu übertönen, bedient sie sich beunruhigender Bilder - wie dem Vergleich von Trennungsangst nach einer Trennung mit schimmligem Obst im Kühlschrank. Es ist scharfsinniges, witziges, gelegentlich niederschmetterndes und brillantes Storytelling, das beweist, dass sie viel mehr ist als nur ein flüchtiges Pop-Phänomen.
 
