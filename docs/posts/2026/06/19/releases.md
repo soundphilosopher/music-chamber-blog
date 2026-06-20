@@ -616,137 +616,83 @@ tbd
 
 ::genre::
 
-## Lucy Yeghiazaryan - Hey Love!
-
-tbd
-
-::genre::
-
 ## Lumen Ad Mortem - A Grave Ascent
 
-tbd
+Die Band erlangte nach ihrem Debütalbum "Upon the Edge of Darkness" aus dem Jahr 2023 große Anerkennung in der Underground-Szene, bevor sie Jahre damit verbrachte, ihre Live-Rituale bei Auftritten auf großen australischen Festivals zu verfeinern. **Atmosphärischer Black Metal** und **melodischer Black Metal**. "A Grave Ascent" ist ein atemberaubendes, von trostloser Düsternis geprägtes Monument der spirituellen Finsternis und des existenziellen Verlusts. In weitläufigen, langatmigen Epen wie "What Was Lost" und "Ghost Gums" schildern die Texte einen kalten, unerbittlichen Durst nach Rache und die hartnäckige Erinnerung einer unsterblichen Seele, die sich weigert, die Niederlage zu akzeptieren. Klanglich schafft die Band eine perfekte Balance zwischen rohen, wilden Blastbeats und brutalen Gitarrenriffs einerseits und üppigen, einhüllenden Keyboardklängen sowie grandiosen orchestralen Arrangements andererseits. Es klingt genau wie eine langsame, furchterregende Reise durch eine weite, aschebedeckte Berglandschaft.
 
-::genre::
-
-## Man Rabid - The Messiah Complex I
-
-tbd
-
-::genre::
-
-## matt proxy - trojan horse
-
-tbd
-
-::genre::
+::genre::atmo black metal, melo black metal
 
 ## Mattador - III
 
-tbd
+Ursprünglich waren sie von 1988 bis 1995 aktiv und erlangten durch Auftritte an der Seite von Ikonen wie Aerosmith und Iron Maiden einen hervorragenden Ruf in der Underground-Szene. Im Jahr 2022 kam es zu einer Wiedervereinigung der Gründungsmitglieder. Für dieses mit Spannung erwartete Comeback-Album arbeiteten sie mit dem Spitzenproduzenten und Toningenieur Bob St. John zusammen, der für seine Arbeit mit Extreme und Dokken bekannt ist. **Melodic Rock**, **Hard Rock** und **Classic Rock** mit einem Hauch von Blues und Prog. "III" ist eine wunderschön geerdete, feuerspeiende Zeitmaschine, die mit einer schweren emotionalen Ladung ins Ziel geht. Voller mitreißender Powerballaden und riffgeladener Stadionhymnen wie "Black Water" und "Out For Blood" vermeidet das Album moderne, überproduzierte Abkürzungen. Stattdessen setzt es auf einen warmen, organischen Rock’n’Roll-Swagger, der klingt, als würde man seine Lieblings-Vinylplatte aus den 1980ern mit maximaler Lautstärke abspielen. Es ist eine triumphale Ehrenrunde rund um das Thema Überleben, Leidenschaft und das Hüten der Flamme des Old-School-Rocks.
 
-::genre::
+::genre::melo rock, hard rock, heavy rock
 
 ## MC Fats & Inja - Vibes Start to Change
 
-tbd
+MC Fats war eine hochgeschätzte, wegweisende Soul-Stimme der Drum-and-Bass-Szene, während Inja für seine blitzschnelle Wortgewandtheit und seine positiven Block-Party-Club-Flows gefeiert wird. Dieses Projekt ist eine ambitionierte Sammlung von Archivaufnahmen, die auf ikonischen rhythmischen Untergründen kuratiert wurde. Liquid **Drum & Bass**, Soulful **Jungle** und zeitgenössische **Dance-Electronica**. "Vibes Start to Change" ist ein absolutes, sonnendurchflutetes Block-Party-Album, das darauf ausgelegt ist, die Subwoofer zum Beben zu bringen. In lebhaften, rasanten Tracks wie "Soul System" und "Love Letter" behandelt das Album auf wunderschöne Weise Themen wie Einheit auf der Tanzfläche, tiefe Hingabe in Beziehungen und das Hinter-sich-Lassen negativer Energie. Klanglich überlagert es unglaublich sanfte, warme Soul-Vocals mit einer rasanten, herzklopfenden Grundlage aus tiefem Subbass und knackigen, tickenden Amen-Break-Drums. Es fängt die pure, euphorische Schwerelosigkeit ein, die man empfindet, wenn man bei einem Open-Air-Rave-Festival den Sonnenaufgang beobachtet.
 
-::genre::
+::genre::d&b, jungle, edm
 
-## Michael F. Hunt - Passage of Time - The Music of Michael F. Hunt
+## Moon - PROJECT EDEN *
 
-tbd
+Moon agiert als Audio-Autorenkünstler, der ganze Welten erschafft, und entwickelt Multimedia-Kampagnen, narrative visuelle Dokumentationen sowie glitchige elektronische Nebenprojekte, um die Epochen seiner eigenständigen Alben zu untermauern. **Alternative Pop**, **Dark Indie Pop**, **Electronica** und Konzept-**Art-Rock**. "PROJECT EDEN" ist eine wunderschön ausgefeilte, dystopische Sci-Fi-Rätselbox, die sich wie ein beunruhigender Psychothriller entfaltet. Das übergreifende Thema dreht sich um einen fiktiven, auf Gehirnwäsche spezialisierten Konzern, der seinen Opfern verspricht, sie in ein idealisiertes Paradies zu befördern, nur um dann langsam ihre Persönlichkeiten auszulöschen und ihren gesamten Geist zu kontrollieren. Klanglich verbindet die Musik glänzendes Synth-Design und mitreißende, unheimliche Vocal-Loops mit plötzlichen industriellen Knackgeräuschen. Es fühlt sich genau so an, als würde man einen Schritt in eine makellos saubere, computergesteuerte Unternehmenssimulation machen, in der die fröhliche Hintergrundmusik versucht, die Tatsache zu verbergen, dass die Türen von außen verschlossen sind.
 
-::genre::
-
-## Mick Goodrick Fred Hersch - Feebles, Fables And Ferns
-
-tbd
-
-::genre::
-
-## Moon - PROJECT EDEN
-
-tbd
-
-::genre::
+::genre::alt pop, indie rock, indie pop, indietronica, art rock
 
 ## Mork - Monolitt
 
-tbd
+Eriksens Projekt, das seit 2004 besteht, ist eine tragende Säule des modernen Black Metal. Für dieses siebte Studioalbum spielte und nahm er fast alle Instrumente selbst auf und holte den erfahrenen Asgeir Mickelson für die Aufnahmen des akustischen Schlagzeugs mit ins Boot. Echter norwegischer **Black Metal** mit subtilen Elementen aus **Prog** und **Thrash Rock**. Ganz im Sinne seines unnachgiebigen, in Stein gemeißelten Namens ist "Monolitt" ein eiskalter, messerscharfer Wirbelwind absoluter klanglicher Gewalt. Das Album schwelgt unerbittlich in gewaltigen Themen wie systemischem Zusammenbruch, räumlicher Isolation und kalter Zerstörung. Während es die uralte Blast-Beat-Wut klassischer Osloer Winter bewahrt, besticht die Aufnahme durch unglaublich komplexe Tempowechsel und plötzliche progressive Riffs, die einen völlig unvorbereitet treffen. Es gleicht einer grandiosen, epischen Reise durch die tiefen Schatten eines dunklen Waldes, die das Trommelfell mit der Präzision von Stacheldraht zerfetzt.
 
-::genre::
-
-## Morrissey - Deluxe Notre-Dame
-
-tbd
-
-::genre::
+::genre::black metal, thrash metal
 
 ## Muddshovel - Little White Hair
 
-tbd
+Muddshovel hat sich auf unverfälschte, rohe Live-Dynamik spezialisiert. Die Band hat monatelang an diesem Material gefeilt, wobei Bassist Garreth Tackney die Aufgaben des Tontechnikers und der gesamten Studioproduktion übernommen hat. **Alternative Rock**, **Grunge** und **Post-Punk**. "Little White Hair" ist ein mitreißender, asphaltheißer Adrenalinstoß, der sich stolz von glattpolierten kommerziellen Filtern fernhält. Aggressiv bahnt sich das Album seinen Weg durch Tracks wie "Over the Line" und "Deep Fried Soul" und hüllt raue, ungeschliffene Vocals in massive Wände aus vulkanischem Gitarren-Fuzz. Es behandelt Themen wie das rohe Überleben, warnende lokale Folklore und die Unruhe in Kleinstädten. Das Anhören dieses Albums fühlt sich genau so an, als würde man in einen schweißtreibenden Keller-Gig platzen, bei dem die Verstärker bis an ihre Grenzen getrieben werden und die Dielen beben.
 
-::genre::
+::genre::alt rock, post punk, post grunge
 
 ## Myles Smith - My Mess, My Heart, My Life.
 
-tbd
+Smith, der seine Karriere mit Auftritten bei kleinen Open-Mic-Abenden in seiner Heimatstadt und dem Posten von rohen Akustik-Covers im Internet begann, erlangte mit riesigen Streaming-Hits wie "Stargazing" weltweiten viralen Ruhm. Seinen Sound prägten Einflüsse wie Ed Sheeran, Mumford & Sons und Coldplay. **Pop-Folk**, **Indie-Pop** und hymnische **Americana**. Dieses Debütalbum ist ein sehr persönlicher, stadiontauglicher Blick auf die Schönheit des Erwachsenwerdens inmitten des Chaos. Während allgemein ansprechende Radiohits wie "Nice To Meet You" beschwingten, mitreißenden Optimismus vermitteln, füllt Smith den Raum um sie herum mit schonungslosen, unverfälschten persönlichen Reflexionen. Der Eröffnungstrack "My Mess" taucht direkt in familiäre Spannungen und generationenübergreifende Traumata ein, untermalt von Mandolinen und Akustikgitarren. Von der Auseinandersetzung mit psychischen Problemen in "Sertraline" bis hin zur süßen, nach Ochsenschwanzsuppe duftenden Nostalgie von "Grandma’s Place" fängt das Album die chaotische, schöne Realität des Alltags perfekt ein.
 
-::genre::
-
-## Naruhiko Kawaguchi - A Journey with Beethoven
-
-tbd
-
-::genre::
+::genre::indie pop, indie folk, alt pop, alt folk, americana
 
 ## Natasha Hamilton - Extraction
 
-tbd
+Hamilton gilt weithin als eines der wichtigsten ehemaligen Mitglieder der mit mehreren Platin-Auszeichnungen gekrönten britischen Girlgroup Atomic Kitten, die sie Ende 2024 nach 25 Jahren verließ. Sie hat dieses Projekt gemeinsam mit dem Produzenten Andy Gannon ins Leben gerufen, um als Solokünstlerin einen selbstbewussten Schritt in die Eigenständigkeit zu wagen. **Electropop**, Contemporary Pop und **Dance-Pop**. "Extraction" ist eine makellose, selbstbewusste Pop-Schatzkiste, die mit einer starken emotionalen Ladung überzeugt. Angeführt vom clubtauglichen Elektro-Kracher "Numb" und dem mitreißenden "Fantasy" behandelt die EP Themen wie persönliche Wiedergeburt, das Abwerfen vergangener institutioneller Lasten und das Finden von Unabhängigkeit. Der Track "White Feather" wechselt auf wunderschöne Weise in eine verletzliche Stimmung und fungiert als bewegende Hommage an ihre verstorbene Großmutter. Er verbindet eine raffinierte, glänzende Synthesizer-Produktion mit kraftvollem Gesang, der Lust macht, seine Frustrationen wegzutanzen.
 
-::genre::
+::genre::electro pop, edm, ebm, dance
 
 ## Nduduzo Makhathini - The Myth We  Choose
 
-tbd
+Makhathini ist ein Meistermusiker, der dafür bekannt ist, traditionelle afrikanische spirituelle Rituale und Weltbilder mit raffinierten Klavierkompositionen zu verbinden. Für dieses ambitionierte Album - sein viertes bei Blue Note - produzierte er das Material gemeinsam mit seinem 18-jährigen Sohn Thingo Makhathini und holte hochkarätige Gäste wie den Flötisten Shabaka Hutchings, den Produzenten Black Coffee und den Sänger Muneyi mit ins Boot. **Spiritual Jazz**, **Contemporary Jazz** und afro-futuristischer **modaler Jazz**. Dieses Album ist ein atemberaubendes, zutiefst spirituelles Werk, das der Frage nachgeht, wie verschiedene Gesellschaften ihre gemeinsamen Geschichten und Mythologien prägen. In Stücken wie "Kuzodlula" und "Primordial Egg" wirkt die Musik wie ein lebendiges, atmendes Wesen. Makhathini überlagert erdige Rhythmen, traditionelle Handklatsche und andächtige Klavierlinien mit mitreißenden Gesangspassagen. Es klingt weniger nach einem typischen Jazzclub-Set als vielmehr nach einer weitläufigen, wunderschön filmischen Séance, die über Generationen hinweg nachhallen soll.
 
-::genre::
-
-## Not Marshall - DIVINE DEMON BLAST
-
-tbd
-
-::genre::
-
-## Ocoeur - Greener Grass, Clearer Water
-
-tbd
-
-::genre::
+::genre::spiritual jazz, contemporary jazz, modern jazz, world music
 
 ## Office Dog - Prime Corner
 
-tbd
+Die Band wurde 2021 von Frontmann Kane Strang nach seinen erfolgreichen Soloprojekten gegründet und erlangte mit ihrem Debütalbum "Spiel" aus dem Jahr 2023 sofort internationale Aufmerksamkeit. Strang schrieb den Großteil dieses neuen Materials während eines Monats, den er völlig isoliert als Haussitter in West Auckland verbrachte. Dunedin-Sound, lauter **Indie-Rock** und **jangly Post-Punk**. "Prime Corner" ist ein wunderschön raues, spannungsgeladenes und kathartisches Gitarrenalbum. Tief durchdrungen von Themen wie häuslicher Instabilität, persönlicher Lähmung und dem erschöpfenden Kampf, fest Wurzeln zu schlagen, schaffen Titel wie "Front Row Seat" und "Gold Things" eine perfekte Balance zwischen den bisher härtesten und sanftesten Dynamiken der Band. Angetrieben von treibenden, drahtigen Basslinien, explosiven Drum-Snaps und Strangs Gesang, der von einem Flüstern zu einem Brüllen anschwillt, trägt das Album stolz die Fackel des klassischen, lauten Kiwi-Rock weiter. Es fungiert als ultimativer Soundtrack für eine nächtliche Autofahrt durch die nebligen, kurvenreichen Nebenstraßen des eigenen Geistes.
 
-::genre::
+::genre::indie rock, post punk, jangle pop
 
 ## Orbital Ensemble - Contínua
 
-tbd
+Nach ihrem Debüt im Jahr 2025 hielt die Band ihre charakteristische Tour-Energie fest, indem sie sich für eine intensive viertägige Live-Aufnahmesession im Pine Island Studio am Stoney Lake im ländlichen Ontario, Kanada, zurückzog. Neotropischer **Psychedelic**, brasilianische **Fusion**, **Funk-Jazz** und **Psych-Soul**. "Contínua" ist eine meisterhaft geschliffene, sonnenverwöhnte Luxusreise durch einen Tropicália-Traum der 1960er Jahre. Das Album ist in erster Linie eine kurvenreiche instrumentale Reise, die Themen wie ständige Bewegung, natürliche Küstenlinien und kosmische Wärme aufgreift. Angetrieben von ausdrucksstarken, ineinander greifenden Akustikgitarren, rhythmischen Saxophon-Grooves und luftiger brasilianischer Percussion springt die Energie ganz natürlich vom Boden zurück. Beim Anhören dieser Platte fühlt man sich wie in einem exklusiven, neonbeleuchteten Club am Meer, in dem die Band keinen einzigen Takt verpasst und jeder zum Grooven gezwungen ist.
 
-::genre::
+::genre::psych soul, jazz fusion, world music, acid funk
 
 ## Pale Cremation - Alta Stranezza
 
-tbd
+Das Projekt, das fest in der unabhängigen Underground-Szene unter dem Dach von Doom Zone Productions verankert ist, hat sich auf äußerst exzentrische, konzeptionelle und mehrteilige Electronic-Metal-Kompositionen spezialisiert. **Progressive Rock**, **Post-Punk**, **Industrial Metal** und **Avantgarde-Doom**. Das Album, dessen Titel grob übersetzt "Hohe Seltsamkeit" bedeutet, wirkt wie ein zutiefst beunruhigender Science-Fiction-Horror-Thriller, der sich spät in der Nacht abspielt. Voller apokalyptischer Titelnamen wie "Termination Of Bio-Spheric Extremity" und "Beyond The Dark Side Of Science" konzentriert sich das übergreifende Thema stark auf dystopische Folgen, korrupte Forschung und das Aussterben der Menschheit. Klanglich wirkt die Musik wie eine Flutwelle aus schweren, knirschenden Industrial-Gitarren, mechanischen Synthesizer-Loops und unheimlichen Post-Punk-Gesangstexturen. Sie ist auf wunderbare Weise verstörend, rasend und wie geschaffen für ein intensives Hörerlebnis mit Kopfhörern in völliger Dunkelheit.
 
-::genre::
+::genre::prog rock, post punk, art rock, industrial metal, avant doom metal
 
 ## Pharaoh's Daughter - Songs of Desire
 
-tbd
+Schechter genießt großes Ansehen dafür, dass sie alte jüdische Melodien mit Klängen aus aller Welt verbindet. Sie arbeitete über einen atemberaubenden Zeitraum von achtzehn Jahren an "Songs of Desire" und stellte dafür ein riesiges Begleitensemble zusammen, das traditionelle akustische Instrumente wie Oud, Saz, Qanun und Ney einsetzt. **World Music**, traditionelle **Folk** aus dem Nahen Osten und jüdische Folk sowie **psychedelischer Devotional-Rock**. "Songs of Desire" entfaltet sich wie ein weitläufiges, bei Kerzenschein stattfindendes sinnliches Ritual, das sich über Kontinente und Jahrhunderte erstreckt. Dynamisch in sechs Sprachen gesungen - darunter Hebräisch, Arabisch, Jiddisch und Spanisch - behandelt das Album Themen wie göttliche Verzückung, spirituelle Sehnsucht und irdische Leidenschaft. Schechters raue, erdige Stimme gleitet über ein kaleidoskopisches Gewebe aus wirbelnden Saitenklängen des Nahen Ostens, hallender Handpercussion und plötzlichen Einbrüchen von Jazztrompete. Es wirkt weniger wie ein Studioalbum, sondern eher wie eine immersive, hypnotische Séance, die die uralte Kunst der Hingabe feiert.
 
-::genre::
+::genre::psych rock, world music, fusion, psych folk, prog folk
 
 ## Plaindrifter - Gestalt
 
