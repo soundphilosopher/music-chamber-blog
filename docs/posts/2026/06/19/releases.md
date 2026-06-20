@@ -556,12 +556,6 @@ tbd
 
 ::genre::
 
-## Kyiv - We're All Going To Be Fine
-
-tbd
-
-::genre::
-
 ## L.M.I. - V
 
 tbd
