@@ -634,12 +634,6 @@ tbd
 
 ::genre::
 
-## Mark Barrott - The Exit Diaries
-
-Als erfahrener DJ und Inhaber des Labels International Feel gestaltet Barrott seit drei Jahrzehnten Soundtracks für den Sonnenuntergang, wobei er üppige orchestrale Arrangements mit globalen Electronica-Texturen verbindet. Balearic **Ambient**, **Chillout**, **neoklassischer Jazz** und **Leftfield Electronica**. "The Exit Diaries" ist ein klangliches Panorama-Luxusliner, das Entspannung völlig neu definiert. Das Album beschäftigt sich intensiv mit Themen wie flüchtigen Reisen, spirituellem Wandel und stiller Besinnung. Aufgebaut auf fließenden Synthesizerklängen, Jazz-Texturen im Stil von Alice Coltrane und atemberaubenden orchestralen Schwingungen, klingt es weniger wie ein gewöhnliches Album, sondern eher wie die Eröffnungsszene eines von der Kritik gefeierten Arthouse-Films. Es ist der absolut ultimative Soundtrack, um zuzusehen, wie eine Küstenlinie langsam hinter dem Horizont verschwindet.
-
-::genre::modern jazz, ambient, lofi, leftfield electronica
-
 ## matt proxy - trojan horse
 
 tbd
