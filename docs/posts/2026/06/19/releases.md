@@ -588,33 +588,27 @@ tbd
 
 ## Life - Abstract / Natural
 
-tbd
+Getragen von einem starken DIY-Ethos hat das eng verbundene Kollektiv sein eigenes Aufnahmestudio am Flussufer errichtet - "The Moon Factory" -, das gleichzeitig als Treffpunkt für aufstrebende Künstler aus dem Norden dient. **Indie-Rock**, **Post-Punk** und **Folk-Pop**. Dieses Album ist ein absoluter, sonnendurchfluteter und herrlich schrulliger Triumph der Independent-Musik. Stark inspiriert von einem Gedichtband, den Frontmann Mez Sanders-Green während einer strapaziösen 193-Meilen-Wanderung quer durch Großbritannien verfasste, verwandeln Titel wie "The Dollywaggon" und "Wild Grasses" geografische Gebirgskämme und Hügel buchstäblich in musikalische Figuren. Das Thema erinnert an einen kitschigen, im Norden angesiedelten Western, in dem Mutter Erde immer gewinnt. Es verbindet mühelos spritzige Post-Punk-Energie und warme Melodien mit Geschichten aus der Folklore, lokaler Mythologie und Eskapismus unter freiem Himmel. Es macht außergewöhnlich viel Spaß, ist herzerwärmend und strotzt nur so vor Kleinstadtstolz.
 
-::genre::
+::genre::indie rock, post punk, alt folk, alt pop
 
-## Liminal Sky - All Tomorrow's Darkness
+## Liminal Sky - All Tomorrow's Darkness *
 
-tbd
+Arellano, das eher wie ein offenes kreatives Kollektiv als wie eine starre Bandkonstellation funktioniert, holte internationale Independent-Sängerinnen der Spitzenklasse wie Karin Park (von Årabrot) mit ins Boot und bereicherte ihre Klanglandschaften mit Live-Streichern und cineastischen Saxophon-Arrangements. **Progressiver Post-Rock**, melancholischer **Art-Rock** und **Noir-Pop**. "All Tomorrow’s Darkness" ist eine unglaublich tiefgründige, herzzerreißende und intensive Auseinandersetzung mit Trauer, persönlichem Verlust und Isolation. Klanglich erschafft das Album eine wunderschön kalte, graue und verlassene Architektur, in der jedes einzelne Instrument in einem Raum stiller Feierlichkeit atmen darf. Scharfe, kontrastreiche Rhythmen in Stücken wie "Forget Me Not" verbinden sich makellos mit eindringlichen Streicherkulissen. Das Anhören dieser Platte fühlt sich genau so an, als säße man in einem dunklen, leeren Auditorium, während ein einsames Scheinwerferlicht die Schatten durchschneidet und ein wunderschön trauriges Bild längst vergangener Erinnerungen zeichnet.
 
-::genre::
-
-## Lizdek - DUALITY
-
-tbd
-
-::genre::
+::genre::post rock, prog rock, art rock, noir pop
 
 ## Loneshore - Nothing Left to Deconstruct
 
-tbd
+Für dieses mit Spannung erwartete zweite Album hat die Band einen Vertrag bei Willowtip Records, dem Vorreiter der Underground-Extremmusik, unterzeichnet und ihr Songwriting so verfeinert, dass es nun durch unkonventionelle Arrangements und dichte dynamische Wechsel besticht. **Progressiver Post-Metal**, **Death-Doom-Metal** und melancholischer **Progressive Rock**. Getreu seinem düsteren Titel ist "Nothing Left to Deconstruct" eine wunderschön zerrissene, labyrinthische Reise durch strukturelle Trauer. Frontmann Luiz Felipe Netto liefert eine absolute Meisterleistung in extremer Gesangsdynamik und wechselt mühelos zwischen tiefen, kehligen Death-Metal-Growls und eindringlichen, kristallklaren Clean-Passagen. Musikalisch bieten Titel wie "Parhelion" und "Birth Of A Mountain" vernichtende, langsam aufbauende Gitarrenriffs, die scharf in zerbrechliche akustische Klanglandschaften übergehen. Es fühlt sich an wie ein langsamer Spaziergang entlang einer kalten, nebelverhangenen Küste, während die eigenen Gedanken um einen herum widerhallen.
 
-::genre::
+::genre::post metal, prog metal, prog rock, doom metal, death metal
 
-## Lost In Kyiv - We're All Going To Be Fine
+## Lost In Kyiv - We're All Going To Be Fine *
 
-tbd
+Als einer der langjährigen Vorzeigekünstler im Line-up des renommierten Labels Pelagic Records wird die Band dafür verehrt, dass sie schwere, synthgetriebene Atmosphären über massive Gitarrenarrangements legt. **Cinematic Post-Rock** und atmosphärischer **Post-Metal**. Trotz des scheinbar beruhigenden Titels wirkt "We’re All Going To Be Fine" wie eine beeindruckende Wanderung durch eine wunderschöne, apokalyptische Ödnis. In Stücken wie "Enlightened" und "Mantra" wirft die Band die üblichen Vers-Refrain-Strukturen über Bord, um in den Songs langsam eine gewaltige Spannung aufbauen zu lassen. Die Instrumentierung brandet um einen herum wie eine gewaltige Welle aus dröhnenden Gitarren und schweren elektronischen Impulsen. Es fühlt sich weniger wie ein traditionelles Album an, sondern eher wie der epische Soundtrack zu einem Science-Fiction-Film, in dem die Menschheit in extremer Zeitlupe den Zusammenbruch eines fernen Sterns beobachtet.
 
-::genre::
+::genre::post rock, post metal
 
 ## Lumen Ad Mortem - A Grave Ascent
 
