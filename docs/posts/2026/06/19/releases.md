@@ -454,12 +454,6 @@ tbd
 
 ::genre::
 
-## hyhard Bundy & Anna Phoebe - From the Edge
-
-tbd
-
-::genre::
-
 ## I Belong to the Zoo - Always Here
 
 tbd
@@ -760,155 +754,101 @@ tbd
 
 ::genre::
 
-## PJ Morton - Saturday Night / Sunday Morning
-
-tbd
-
-::genre::
-
 ## Plaindrifter - Gestalt
 
-tbd
+Die 2017 von Uwe, Nils und André gegründete Band hat fünf Jahre lang akribisch an ihrem musikalischen Werdegang für diese Veröffentlichung gefeilt. In der europäischen Underground-Szene genießen sie hohes Ansehen dafür, dass sie Stoner-Rock-Grooves mit hochkomplexen, mehrteiligen Songstrukturen verbinden. **Stoner Rock**, **Progressive Stoner Metal** und **Psychedelic Rock**. "Gestalt" ist ein gewaltiger, von Fuzz durchtränkter Berg aus Hall, der einem die Füllungen aus den Zähnen rüttelt. Abseits der üblichen kurzen Stücke entfalten sich epische Stücke wie "Eternal Season" und "Debaser" als langatmige, psychedelische Jams, die sich langsam aufbauen. Das zugrunde liegende Thema dreht sich um den Wechsel der Jahreszeiten, persönliche Transformation und kollektive Energie. Die Gitarrenarbeit bewegt sich mit absolut tektonischem Gewicht, sodass sich das Anhören dieses Albums anfühlt, als würde man ein gewaltiges Sommergewitter in extremer Zeitlupe über eine Wüstenlandschaft ziehen sehen.
 
-::genre::
+::genre::stoner rock, prog rock, psych rock, prog metal
 
 ## Pond - Terrestrials
 
-tbd
+Mit Psych-Rock-Größen wie Nick Allbrook und Jay Watson in den Reihen hat Pond über ein Jahrzehnt lang weitläufige, unvorhersehbare Musik geschaffen. Für dieses Album haben sie ihre gewohnten Muster über Bord geworfen und sich selbst eine strenge Studioregel auferlegt: absolut keine Fuzz-Pedale, keine Balladen und kein selbstverliebtes Jammen. **New Wave**, **Synth-Pop** und Retro-Club-**Electronica** der 1980er Jahre. "Terrestrials" ist eine herrlich geschliffene, neongetränkte Luxusreise durch die frühen 1980er Jahre. Sie tauschen ihren gewohnten, verzerrten Space-Rock gegen etwas Schlankeres und Schärferes ein, und Songs wie "Through the Heather" und "Roebuck Plains" schweben durch Themen wie geografische Übergänge und Retro-Nostalgie. Es fühlt sich weniger wie ein Rockkonzert an, sondern eher wie der Besuch eines verrauchten Underground-Synthesizer-Clubs, in dem alle perfekt gekleidet sind und die Basslines den Boden zum Wackeln bringen. Es ist eingängig, bodenständig und macht unglaublich viel Spaß.
 
-::genre::
-
-## Prince Of Failure - Prince Of Failure
-
-tbd
-
-::genre::
-
-## Prompts - Parasite Dream
-
-tbd
-
-::genre::
-
-## Pye Corner Audio - More Songs About The Sun
-
-tbd
-
-::genre::
+::genre::new wave, synth pop
 
 ## Pyncher - I Really Mean It This Time
 
-tbd
+Die Band, bestehend aus Sam Blakeley, Harvey O’Toole, Brittany Dewhurst und Jack Rainbow, sorgte mit ihrer Debüt-Kassette sofort für Aufsehen, bevor sie sich mit Produzent Alex Greaves ins The Nave Studio in Leeds begab, um ihren Sound zu verfeinern. Schmutziger **Indie-Rock**, **Post-Punk**-Attitüde und **Fuzz-Pop**. Diese EP wirkt wie ein Gabelstapler, der durch eine Keramikfabrik rast - sie ist chaotisch, schnell und völlig unberechenbar. In Titeln wie "Louisa" und "Oh Boy" beschäftigt sich die Band mit Themen wie urbaner Entfremdung, Selbstzweifeln und der wehmütigen Sehnsucht nach unausgesprochener Liebe. Angetrieben von drahtigem Gitarrenlärm, einer knurrenden Rhythmusgruppe und einem überraschenden Crescendo mit mitreißenden Trompeten ist dies eine Meisterklasse in Sachen Spannung und Entspannung, die einen völlig beschwingt zurücklässt.
 
-::genre::
+::genre::indie rock, post punk, prog pop, psych pop
 
 ## Quiet Fear - La Tierra Arriba / El Abismo Abajo
 
-tbd
+Verwurzelt in der DIY-Punk-Subkultur setzt Quiet Fear auf zweisprachige Texte und hochintensive, technische Screamo-Strukturen, die vernichtende Gitarrenriffs mit hypermelodischen Instrumental-Breaks kontrastieren. Chicano-**Hardcore**, **Screamo** und **Post-Hardcore**. Der Titel des Albums bedeutet übersetzt "Das Land oben / Der Abgrund unten" und ist ein atemberaubender, zähnebleckender emotionaler Sturm. Die lyrische Architektur beschäftigt sich mit Themen wie kultureller Entwurzelung, persönlicher Trauer und psychischem Schwindelgefühl. Klanglich schlägt es ein wie ein Blitz und verbindet hektischen, kehlzerreißenden Scream-Gesang mit schwerem, komplexem Schlagzeugspiel und plötzlichen, wunderschönen Momenten stiller Selbstreflexion. Es ist schwermütig, unglaublich leidenschaftlich und zutiefst viszeral.
 
-::genre::
+::genre::post hardcore, hardcore punk, screamo
 
 ## Quiet Houses - We're All In Love
 
-tbd
+Das Duo, das seit sechs Jahren als Band zusammen auftritt und seit einem Jahrzehnt privat befreundet ist, hat sich auf zweistimmige Harmonien und organisches Songwriting spezialisiert. Fröhlicher **Indie-Pop**, **Jangle-Pop** und zeitgenössischer **Folk-Pop**. "We’re All In Love" fühlt sich an wie ein langes, nächtliches Telefonat mit dem besten Freund aus Kindertagen. Mit Titeln wie "made for love" und "where does all the love go?" ist das Album eine wunderschöne, bittersüße Auseinandersetzung mit moderner Freundschaft, der Erschöpfung durch das Dating in der Großstadt und dem gemeinsamen Erwachsenwerden mit anderen Menschen. Getragen von klangvollen Gitarren und mitreißenden, eingängigen Hooks fängt das Album das chaotische, liebenswerte Durcheinander des jungen Erwachsenenalters mit großer emotionaler Tiefe ein.
 
-::genre::
-
-## Ran Blake - Voices
-
-tbd
-
-::genre::
+::genre::indie pop, jangle pop, alt folk, alt pop
 
 ## Red Kite - This Too Shall Pass
 
-tbd
+Red Kite besteht aus norwegischen Jazz- und Rock-Veteranen der Spitzenklasse, die sich darauf spezialisiert haben, traditionelle Jazz-Improvisation mit der schweren, übersteuerten Wucht von psychedelischem Stoner-Rock und Prog zu verbinden. **Progressiver Jazz-Rock**, **Avantgarde-Jazz** und **Fusion**. "This Too Shall Pass" ist eine weitläufige, panoramische und zutiefst instrumentale Reise, die gängige Radiostrukturen völlig außer Acht lässt. In epischen Stücken wie "Requiem For Bolla" und "Broken Hearts And Broken Bones" setzt sich die Band mit schweren Themen wie dynamischem Wandel, Verlust und Durchhaltevermögen auseinander. Klanglich baut sich die Musik wie ein langsam aufziehendes Gewitter auf; sie entführt den Hörer von ruhigen, rauchigen und raffinierten modalen Jazzmustern hin zu massiven, fuzzgetränkten Gitarren-Crescendos, die mühelos eine Stadionwand zum Beben bringen könnten. Es ist atemberaubend, intelligent und texturtechnisch großartig.
 
-::genre::
+::genre::jazz rock, jazz fusion, prog rock, avant jazz, avant rock
 
-## Risingfall + Hyena - Heavy Metal Heroes
+## Richard Bundy & Anna Phoebe - From the Ed
 
-tbd
+Das Duo, das dafür bekannt ist, an geschichtsträchtigen und architektonisch einzigartigen Orten (wie dem Grand Shaft und Fort Burgoyne in Dover) aufzunehmen, verwebt Field Recordings, Improvisation und klassische akustische Saiteninstrumente zu einem einzigartigen Klangteppich. **Cine-Ambient**, **zeitgenössische Klassik** und **experimenteller Folk**. "From the Edge" wirkt wie ein Geist, der durch eine verlassene Küstenfestung wandert. Indem es traditionelle Akkordeonklänge und weitläufige, traurige Violinenmelodien mit den ambienten Echos der Steinkammern verschmilzt, setzt sich das Album mit Themen wie geografischen Grenzen, Erinnerung und räumlicher Isolation auseinander. Es ist von wunderschöner Geduld geprägt, eindringlich filmisch und fordert die uneingeschränkte Aufmerksamkeit des Zuhörers.
 
-::genre::
+::genre::cine ambient, modern classic, experimental folk
 
 ## Saidan - Fangdriller: Scars Beneath Memories Wrist
 
-tbd
+Saidan hat sich in der Extreme-Metal-Szene eine hochspezialisierte Nische erobert, indem die Band die rohe, eisige Atmosphäre des Black Metal mit den überraschend eingängigen, schwungvollen Melodien des japanischen Rocks und von Anime-Soundtracks verbindet. **Melodischer Black Metal**, von **J-Rock** und Anime beeinflusster Black Metal sowie USBM. Getreu seinem extrem schroffen, schmerzhaften Titel entfaltet sich "Fangdriller" wie eine hyperdramatische, blutige Anime-Kampfszene, die sich mitten in einem eisigen Wintersturm abspielt. Das übergreifende Thema schwankt zwischen extremem emotionalem Trauma, tiefer Selbstreflexion und existenziellem Verfall. Musikalisch ist es ein meisterhaft destruktives Kunstwerk - es stellt kreischenden, verzweifelten Gesang und blendende Schlagzeugangriffe Melodien gegenüber, die so unerwartet eingängig sind, dass man mitsummen möchte, während einem die Trommelfelle zerfallen.
 
-::genre::
+::genre::melo black metal, art pop, symphonic black metal
 
 ## Scordatura - Led Into Oblivion
 
-tbd
+Gestützt auf fast zwei Jahrzehnte Erfahrung, in denen sie ihre extreme Klangwelt verfeinert haben, hat sich die Band fest in der britischen Underground-Szene etabliert. Für dieses vierte Studioalbum arbeiteten sie mit dem Mix-Ingenieur Malcolm Abbou und dem Maler Paolo Girardi zusammen, um ein die Sinne erschütterndes Layout im Old-School-Stil zu schaffen. **Technical Death Metal** und **Brutal Death Metal**. "Led Into Oblivion" wirkt wie ein perfekt getimter, hyperpräziser Vorschlaghammer-Schlag auf den Kopf. Taucht man in Tracks wie "Existential Termination" und "Maw Of The Void" ein, fungiert die lyrische Erzählung als düstere Warnung vor der automatisierten Versklavung der Menschheit, Schwarmintelligenz und dem absoluten Ende der Welt. Klanglich kanalisiert die Band den absoluten Wahnsinn, indem sie blitzschnelle Blastbeats im Cryptopsy-Stil mit verschlungenen, technischen Gitarrenriffs und furchterregendem Kehlengrowlen kombiniert. Es ist laut, kompromisslos und brillant gnadenlos.
 
-::genre::
+::genre::tech death metal, brutal death metal
 
 ## Scythe - Boiled Alive
 
-tbd
+Die 2023 gegründete, von Eiter durchtränkte Band sammelte zunächst erste Erfahrungen mit rohen Underground-Demos. Sie hat sich darauf spezialisiert, Übergänge zu schaffen, die nahtlos von Grooves im mittleren Tempo zu atemberaubenden Geschwindigkeiten wechseln. **Old-School-Death-Metal** und **Death/Thrash**-Crossover. "Boiled Alive" ist ein widerliches, barbarisches und herrlich grausames Monster von einem Metal-Album. Mit blutigen Titeln wie "Liquified Entrails" und "Plastered in Phlegm" beschäftigt sich das Album mit Themen wie körperlicher Verwesung, Gruftschrecken und absoluter Gewalt. Angetrieben von D-Beat-Drum-Attacken, knirschenden Gitarrenriffs und unmenschlichen Kehlkopf-Growls fühlt sich das Anhören dieses Projekts an, als würde man kopfüber in einen brodelnden Kessel mit radioaktivem Schleim geworfen. Es ist schnell, dreckig und wie geschaffen für maximalen Headbanging-Spaß.
 
-::genre::
-
-## Seabuckthorn - Never the Same River
-
-tbd
-
-::genre::
-
-## Sha Hef - HUSTLIN' AIN'T A SIN
-
-tbd
-
-::genre::
-
-## sha ray & DJ Haram - Critical Thot
-
-tbd
-
-::genre::
+::genre::osdm, thrash metal, d-beat
 
 ## Shadowborne - Heaven's Falling
 
-tbd
+Mit stark stilisierten, theatralischen Charakteren kombiniert dieses eingespielte Ensemble rasante Gitarrenarrangements mit symphonischen Synth-Klängen und opernhaften, klaren Gesangspassagen. Melodischer **Power Metal** und klassischer **melodischer Metal**. "Heaven’s Falling" wirkt wie ein grandioser Fantasy-Roman im Breitbildformat, der durch übersteuerte Marshall-Verstärker zum Leben erweckt wird. Angetrieben von epischen Singles wie "Dragons’ Hymn" taucht das Album tief in Themen wie uralten Glauben, den Marsch durch fallende Asche und kosmische Rebellion ein. Das Tempo ist unerbittlich schnell, geprägt von flammenden Gitarrenharmonien und Kampfschreien im hohen Register, die den Hörer dazu bringen, sich ein Schwert und einen Schild zu schnappen und sofort eine mythische Bestie herauszufordern.
 
-::genre::
+::genre::power metal, melo metal
 
 ## Shaytan - II Incarnate
 
-tbd
+Die Musiker traten zuvor über ein Jahrzehnt lang - von 2010 bis 2022 - gemeinsam unter dem Namen *Demon Incarnate* auf. Nach einem Rebranding mit einem neuen Leadsänger (Julian) arbeiteten sie im Studio mit dem renommierten Produzenten Charles Greywolf von der Power-Metal-Größe Powerwolf zusammen, um ihren gewaltigen Sound einzufangen. Traditioneller **Doom Metal**, **Stoner Doom** und klassischer **Heavy Metal**. "II Incarnate" ist ein vernichtender, riffgeladener Klangmonolith, der wie ein Güterzug einschlägt. Während ihr Debüt aus dem Jahr 2024 wie eine dunkle Beschwörung wirkte, dient dieses Album als vollkommene Manifestation des Bösen durch klangliche Wucht. In Stücken wie "The Sickle" und "Crescent Moon" erkundet die thematische Architektur okkulte Bildwelten, schwere existenzielle Angst und subtile orientalische Strukturen. Massive, langsam aufbauende Gitarren-Grooves werden perfekt mit einer kraftvollen Basspräsenz und einer eindringlichen, markanten Hammond-Orgel kombiniert. Das Album ist intensiv, kompromisslos düster und wie geschaffen für heftiges Headbangen.
 
-::genre::
-
-## Simi Fyda - In My Personal Heaven, I’m the Devil’s Spawn
-
-tbd
-
-::genre::
+::genre::doom metal, stoner metal, heavy metal
 
 ## Sludgeworth - Second Time Around
 
-tbd
+Die Band, die sich ursprünglich Ende der 80er Jahre als wegweisende Kraft der Chicagoer Szene etabliert hatte, löste sich nach ihrem Debütalbum "What's This?" aus dem Jahr 1991 plötzlich auf. Nachdem sie sich für große Festivalauftritte wie das Riot Fest wieder zusammengefunden hatten, hatten die Bandmitglieder so viel Freude daran, Zeit miteinander zu verbringen und gemeinsam Riffs zu schreiben, dass sie beschlossen, dauerhaft zusammenzubleiben. **Punkrock** aus dem Mittleren Westen der 1980er/1990er Jahre und melodischer **Pop-Punk**. "Second Time Around" ist ein regelrechter Blitzschlag klassischer Old-School-Energie, der sich so anfühlt, als könnte er sowohl 1989 als auch 2029 erschienen sein. Dieses Album tauscht moderne Überproduktion gegen rohe, von Bier und Gelächter geprägte Keller-Authentizität ein. Songs wie "Tipping Point" starten mit treibenden, melodischen Gitarrenriffs, einem gleichmäßigen, hämmernden Schlagzeugtempo und mitreißenden Refrains, bei denen man unwillkürlich die Faust in die Luft reckt. Das Album behandelt auf wunderschöne Weise Themen wie dauerhafte Freundschaften, das würdevolle Älterwerden, ohne dabei an Schärfe zu verlieren, und das Feiern des wohlverdienten Triumphs.
 
-::genre::
+::genre::midwest emo, pop punk, power pop
 
 ## Soft Palms - In Echo
 
-tbd
+Mit jahrzehntelanger gemeinsamer Erfahrung in der Independent-Szene haben Kugel und Montoya dieses Material in ihrem eigenen Studio, dem Centre of Mental Arts (COMA), aufgenommen und selbst produziert. Sie legten ausdrücklich Wert auf natürliche Musikalität und haben das Album ganz ohne KI-Tools geschaffen. Fuzzy **Garage Rock**, **Dream-Pop** und DIY-**Indie-Rock**. "In Echo" ist eine brillant verschwommene, neongetränkte Erkundung moderner Frustration und Widerstandsfähigkeit. Ausgelöst durch das Gefühl des Duos, dass sich das soziale Gefüge der Welt nach 2020 zersetzt hat, tauchen Songs wie "Garbage In The Sand", "Radio" und "Batshit" kopfüber in alltägliche Ängste und den Medienlärm ein. Klanglich hüllt das Album zuckersüße Gesangsharmonien in eine schwere, warme Decke aus verzerrtem Gitarren-Fuzz und hallenden Retro-Drum-Clips. Sie ist äußerst rhythmisch, bissig und unglaublich mitreißend.
 
-::genre::
+::genre::dreampop, indie pop, indie rock, garage rock
 
 ## SoftTop - Gathering Dust
 
-tbd
+Unter der Leitung des Hauptkomponisten, Texter und Sängers Miles Goodall tauscht die Band gängige Indie-Formeln gegen komplexe Songstrukturen ein. Ihre Arrangements zeichnen sich durch klassische Akzente wie Klarinette, Cello und ausgereifte Klavierloops aus. Ein reichhaltiger, einzigartiger Mix aus orchestralem **Jazz-Pop**, **Alternative-Indie** und verspieltem Storytelling-Rock. "Gathering Dust" wirkt wie eine brillante, wunderschön bizarre Theaterproduktion. Das Album folgt einer durchgehenden Handlung, die sich ganz um eine Figur dreht, die auf dem Weg zu einer Party von einem Auto angefahren wurde und ins Koma fiel. Von dort aus beleuchten Titel wie "Paving Stones" und "Waiting Game" die Welt, die ohne ihn weiterläuft. Es wechselt zwischen schwindelerregenden House-Party-Grooves der 1970er Jahre und schmerzerfüllten, emotionalen Streicherschichten hin und her. Es ist fesselnd, wunderschön geschrieben und perfekt, um sich in einer ruhigen Nacht darin zu verlieren.
 
-::genre::
+::genre::alt jazz, alt pop, indie pop, indie rock
 
 ## Solitone - Le Champ Des Possibles
 
-tbd
+Angeführt vom ausdrucksstarken Sänger Yannick (der auch das Indie-Label Voice Of The Unheard betreibt), hat sich die Band über Jahre hinweg eine kraftvolle, eindringliche Präsenz in den europäischen Underground-Punk-Kreisen erarbeitet. **Screamo**, **Post-Hardcore** und **Emotional Hardcore Punk**. "Le Champ Des Possibles" entfaltet sich wie ein direkter, zähnefletschender emotionaler Sturm. Die EP, deren Titel übersetzt "Das Feld der Möglichkeiten" bedeutet, taucht kopfüber in Themen wie antikapitalistische Erschöpfung, Alltagsroutine und den Umgang mit der tiefgreifenden Melancholie der modernen Gesellschaft ein. Klanglich kontrastiert die Band wunderschöne, hochkomplexe Melodien mit rohen, kehlenschneidenden Scream-Vocals. Das Ergebnis ist intensiv, schwermütig und unglaublich leidenschaftlich – und damit das perfekte Ventil, um die täglichen Frustrationen loszuwerden.
 
-::genre::
+::genre::screamo, post hardcore, emocore
 
 ## Stupidity - Beyond Stupidity
 
