@@ -1,0 +1,1137 @@
+---
+date: 2026-06-19
+pin: true
+bandcamp: false
+categories:
+  - Releases
+---
+
+# Releases! Releases! Releases!
+
+## Acid Arab - Resonance
+
+tbd
+
+::genre::
+
+## Adult Magic - Are You Even Happy Now?
+
+tbd
+
+::genre::
+
+## Ai Yamamoto - Seasons
+
+tbd
+
+::genre::
+
+<!-- more -->
+
+## AJLA - Kąpałam się wczoraj w snach
+
+tbd
+
+::genre::
+
+## Ajna - Antidote
+
+tbd
+
+::genre::
+
+## Alcàntara - In Concert
+
+tbd
+
+::genre::
+
+## Alex Zhang Hungtai - Orion/Mother
+
+tbd
+
+::genre::
+
+## Alien - Alien Re-Release
+
+tbd
+
+::genre::
+
+## Ama - Ama
+
+tbd
+
+::genre::
+
+## Amanda Sarmento - ECLIPSE
+
+tbd
+
+::genre::
+
+## Artemis Morte - Tender Is The Flesh
+
+tbd
+
+::genre::
+
+## Avarice - Perpetual Ruin
+
+tbd
+
+::genre::
+
+## Axemaster - Of Beasts and Plagues
+
+tbd
+
+::genre::
+
+## Aydn - from memory
+
+tbd
+
+::genre::
+
+## Bantoriak - Vol. II
+
+tbd
+
+::genre::
+
+## basedsoul XX - Drone Terrorist
+
+tbd
+
+::genre::
+
+## Belarus Beaver - Grind af den Brune Bäfve
+
+tbd
+
+::genre::
+
+## Belvedere - Seven Years of Bad Luck
+
+tbd
+
+::genre::
+
+## Blood Mother - Blood Mother
+
+tbd
+
+::genre::
+
+## Bot1500 - The Black Sea
+
+tbd
+
+::genre::
+
+## Bunkerjugend - Systemprobe
+
+tbd
+
+::genre::
+
+## Burial Cake - Small Steps
+
+tbd
+
+::genre::
+
+## bytezz.Tera_ - the numbers on the whiteboard
+
+tbd
+
+::genre::
+
+## Cash Cobain - PARTY WITH SLIZZY
+
+tbd
+
+::genre::
+
+## CASI - CASI
+
+tbd
+
+::genre::
+
+## Celestial Power - Celestial Power
+
+tbd
+
+::genre::
+
+## Cento Threeo - Halfway to Mellowtown
+
+tbd
+
+::genre::
+
+## Chainlacing - Messuage
+
+tbd
+
+::genre::
+
+## Chong Wizard - VIDEO TAPE CLUB
+
+tbd
+
+::genre::
+
+## Chris Stamey - Modernism
+
+tbd
+
+::genre::
+
+## Chris van Voorst van Beest - Bye Design
+
+tbd
+
+::genre::
+
+## Cochise - TRENCH TOWN
+
+tbd
+
+::genre::
+
+## Conflux - In the Wake of Saturn
+
+tbd
+
+::genre::
+
+## COPA - ALEX. REVOLVER
+
+tbd
+
+::genre::
+
+## Crush Of Souls - Captive Youth
+
+tbd
+
+::genre::
+
+## Cutthroat - Invoking Terror
+
+tbd
+
+::genre::
+
+## Cyclopic - Flesh Of Chaos
+
+tbd
+
+::genre::
+
+## Dani Kiyoko - A TOOL FOR EXPRESSION
+
+tbd
+
+::genre::
+
+## Daniel Lanois - Belladonna Nocturne
+
+tbd
+
+::genre::
+
+## Daniël Jolan - Sublime Lenteur
+
+tbd
+
+::genre::
+
+## David Vélez & Bruno Duplant - Tell Me About the Outside
+
+tbd
+
+::genre::
+
+## DELLAFUENTE - BRIGADO,
+
+tbd
+
+::genre::
+
+## Demetra’s Scars - Born Unbroken
+
+tbd
+
+::genre::
+
+## Detonation - Kill
+
+tbd
+
+::genre::
+
+## Dohnavúr - We Owe Each Other Everything
+
+tbd
+
+::genre::
+
+## Drakkar - Invasion
+
+tbd
+
+::genre::
+
+## DrefGold - The Spring Breaker
+
+tbd
+
+::genre::
+
+## Einherjer - Lifeblood
+
+tbd
+
+::genre::
+
+## Elmar - Vollgeschissen im Hassclub
+
+tbd
+
+::genre::
+
+## Endseeker - Coffin Born
+
+tbd
+
+::genre::
+
+## Energy Jar - Energy Jar
+
+tbd
+
+::genre::
+
+## Eric Person - Extra Pressure
+
+tbd
+
+::genre::
+
+## Eternal Recurrence - Eternal Recurrence
+
+tbd
+
+::genre::
+
+## Ethrobutcher - II.
+
+tbd
+
+::genre::
+
+## False Messiah - Seven
+
+tbd
+
+::genre::
+
+## Fancy Weapon - Fancy Weapon
+
+tbd
+
+::genre::
+
+## Flyana Boss - Under the Influence
+
+tbd
+
+::genre::
+
+## Flykt - Sinister Strain
+
+tbd
+
+::genre::
+
+## Forest Factory - HOLZWEG
+
+tbd
+
+::genre::
+
+## Fredo - Motion Sickness
+
+tbd
+
+::genre::
+
+## Gabriele Poso - Gabriele Poso - Maraviglia
+
+tbd
+
+::genre::
+
+## Gaxve - Human Made
+
+tbd
+
+::genre::
+
+## Genocide Doctrine - Totalitarian
+
+tbd
+
+::genre::
+
+## Glam Sam And His Combo with Angelina - Talkin' In Colour
+
+tbd
+
+::genre::
+
+## Gold Spire - Steps Into Shadow
+
+tbd
+
+::genre::
+
+## Graham Coxon - Castle Park
+
+tbd
+
+::genre::
+
+## Green Desert Water - Eerie Meadows
+
+tbd
+
+::genre::
+
+## Haircut One Hundred - Boxing The Compass
+
+tbd
+
+::genre::
+
+## Hard-Fi - Sweating Someone Else's Fever
+
+tbd
+
+::genre::
+
+## Heart A Tact - Hold On!
+
+tbd
+
+::genre::
+
+## Honestav - Sweet American Boy
+
+tbd
+
+::genre::
+
+## Hum - Swim Deep
+
+tbd
+
+::genre::
+
+## Humaniac - 4th Attempt: Deathgaze
+
+tbd
+
+::genre::
+
+## Hyena/Risingfall - Heavy Metal Heroes Split
+
+tbd
+
+::genre::
+
+## hyhard Bundy & Anna Phoebe - From the Edge
+
+tbd
+
+::genre::
+
+## I Belong to the Zoo - Always Here
+
+tbd
+
+::genre::
+
+## Iconvict - Täterland
+
+tbd
+
+::genre::
+
+## If I Die Today - I Felt Nothing
+
+tbd
+
+::genre::
+
+## Inherits The Void - The Silent Abscission
+
+tbd
+
+::genre::
+
+## Innuendo - Not Lost
+
+tbd
+
+::genre::
+
+## Inscribed - Upon The Twisted Throne
+
+tbd
+
+::genre::
+
+## Into Darkness - Route To The Other Side
+
+tbd
+
+::genre::
+
+## Iron Kobra - Eternal Dagger
+
+tbd
+
+::genre::
+
+## Janus Rasmussen - Inert
+
+tbd
+
+::genre::
+
+## Jejune - Wait a Lifetime
+
+tbd
+
+::genre::
+
+## Jon Batiste - Black Mozart
+
+tbd
+
+::genre::
+
+## Jun Iida - Bellflower
+
+tbd
+
+::genre::
+
+## Karencici - Loser
+
+tbd
+
+::genre::
+
+## Kashus Culpepper - Act I: Summer Nights
+
+tbd
+
+::genre::
+
+## Katja Krasavice - Bundeskanzlerin
+
+tbd
+
+::genre::
+
+## Key Glock - Project X
+
+tbd
+
+::genre::
+
+## Kritchevsky - La Meute
+
+tbd
+
+::genre::
+
+## Kyiv - We're All Going To Be Fine
+
+tbd
+
+::genre::
+
+## L.M.I. - V
+
+tbd
+
+::genre::
+
+## L.O.T.I.O.N. - Multinational Corporation
+
+tbd
+
+::genre::
+
+## Le Grand Sbam - Le Grand Sbam
+
+tbd
+
+::genre::
+
+## Leah Senior - Pt. Roadknight
+
+tbd
+
+::genre::
+
+## Life - Abstract / Natural
+
+tbd
+
+::genre::
+
+## Liminal Sky - All Tomorrow's Darkness
+
+tbd
+
+::genre::
+
+## Lizdek - DUALITY
+
+tbd
+
+::genre::
+
+## Loneshore - Nothing Left to Deconstruct
+
+tbd
+
+::genre::
+
+## Lost In Kyiv - We're All Going To Be Fine
+
+tbd
+
+::genre::
+
+## Lucy Yeghiazaryan - Hey Love!
+
+tbd
+
+::genre::
+
+## Lumen Ad Mortem - A Grave Ascent
+
+tbd
+
+::genre::
+
+## Man Rabid - The Messiah Complex I
+
+tbd
+
+::genre::
+
+## Mark Barrott - The Exit Diaries
+
+Als erfahrener DJ und Inhaber des Labels International Feel gestaltet Barrott seit drei Jahrzehnten Soundtracks für den Sonnenuntergang, wobei er üppige orchestrale Arrangements mit globalen Electronica-Texturen verbindet. Balearic **Ambient**, **Chillout**, **neoklassischer Jazz** und **Leftfield Electronica**. "The Exit Diaries" ist ein klangliches Panorama-Luxusliner, das Entspannung völlig neu definiert. Das Album beschäftigt sich intensiv mit Themen wie flüchtigen Reisen, spirituellem Wandel und stiller Besinnung. Aufgebaut auf fließenden Synthesizerklängen, Jazz-Texturen im Stil von Alice Coltrane und atemberaubenden orchestralen Schwingungen, klingt es weniger wie ein gewöhnliches Album, sondern eher wie die Eröffnungsszene eines von der Kritik gefeierten Arthouse-Films. Es ist der absolut ultimative Soundtrack, um zuzusehen, wie eine Küstenlinie langsam hinter dem Horizont verschwindet.
+
+::genre::modern jazz, ambient, lofi, leftfield electronica
+
+## matt proxy - trojan horse
+
+tbd
+
+::genre::
+
+## Mattador - III
+
+tbd
+
+::genre::
+
+## MC Fats & Inja - Vibes Start to Change
+
+tbd
+
+::genre::
+
+## Michael F. Hunt - Passage of Time - The Music of Michael F. Hunt
+
+tbd
+
+::genre::
+
+## Mick Goodrick Fred Hersch - Feebles, Fables And Ferns
+
+tbd
+
+::genre::
+
+## Moon - PROJECT EDEN
+
+tbd
+
+::genre::
+
+## Mork - Monolitt
+
+tbd
+
+::genre::
+
+## Morrissey - Deluxe Notre-Dame
+
+tbd
+
+::genre::
+
+## Muddshovel - Little White Hair
+
+tbd
+
+::genre::
+
+## Myles Smith - My Mess, My Heart, My Life.
+
+tbd
+
+::genre::
+
+## Naruhiko Kawaguchi - A Journey with Beethoven
+
+tbd
+
+::genre::
+
+## Natasha Hamilton - Extraction
+
+tbd
+
+::genre::
+
+## Nduduzo Makhathini - The Myth We  Choose
+
+tbd
+
+::genre::
+
+## Not Marshall - DIVINE DEMON BLAST
+
+tbd
+
+::genre::
+
+## Ocoeur - Greener Grass, Clearer Water
+
+tbd
+
+::genre::
+
+## Office Dog - Prime Corner
+
+tbd
+
+::genre::
+
+## Orbital Ensemble - Contínua
+
+tbd
+
+::genre::
+
+## Pale Cremation - Alta Stranezza
+
+tbd
+
+::genre::
+
+## Pharaoh's Daughter - Songs of Desire
+
+tbd
+
+::genre::
+
+## PJ Morton - Saturday Night / Sunday Morning
+
+tbd
+
+::genre::
+
+## Plaindrifter - Gestalt
+
+tbd
+
+::genre::
+
+## Pond - Terrestrials
+
+tbd
+
+::genre::
+
+## Prince Of Failure - Prince Of Failure
+
+tbd
+
+::genre::
+
+## Prompts - Parasite Dream
+
+tbd
+
+::genre::
+
+## Pye Corner Audio - More Songs About The Sun
+
+tbd
+
+::genre::
+
+## Pyncher - I Really Mean It This Time
+
+tbd
+
+::genre::
+
+## Quiet Fear - La Tierra Arriba / El Abismo Abajo
+
+tbd
+
+::genre::
+
+## Quiet Houses - We're All In Love
+
+tbd
+
+::genre::
+
+## Ran Blake - Voices
+
+tbd
+
+::genre::
+
+## Red Kite - This Too Shall Pass
+
+tbd
+
+::genre::
+
+## Risingfall + Hyena - Heavy Metal Heroes
+
+tbd
+
+::genre::
+
+## Saidan - Fangdriller: Scars Beneath Memories Wrist
+
+tbd
+
+::genre::
+
+## Scordatura - Led Into Oblivion
+
+tbd
+
+::genre::
+
+## Scythe - Boiled Alive
+
+tbd
+
+::genre::
+
+## Seabuckthorn - Never the Same River
+
+tbd
+
+::genre::
+
+## Sha Hef - HUSTLIN' AIN'T A SIN
+
+tbd
+
+::genre::
+
+## sha ray & DJ Haram - Critical Thot
+
+tbd
+
+::genre::
+
+## Shadowborne - Heaven's Falling
+
+tbd
+
+::genre::
+
+## Shaytan - II Incarnate
+
+tbd
+
+::genre::
+
+## Simi Fyda - In My Personal Heaven, I’m the Devil’s Spawn
+
+tbd
+
+::genre::
+
+## Sludgeworth - Second Time Around
+
+tbd
+
+::genre::
+
+## Soft Palms - In Echo
+
+tbd
+
+::genre::
+
+## SoftTop - Gathering Dust
+
+tbd
+
+::genre::
+
+## Solitone - Le Champ Des Possibles
+
+tbd
+
+::genre::
+
+## Stupidity - Beyond Stupidity
+
+Die Band ist seit fast zwei Jahrzehnten aktiv und hat sich einen soliden Ruf für schnelle, reduzierte und energiegeladene Retro-Rock-Hymnen erarbeitet, oft unterstützt von Steven Van Zandts Label Wicked Cool Records. **Garage-Rock**, **Punk-Rock** und internationaler **Indie-Rock**. Schnappt euch eure Lederjacke und haltet euch die Ohren zu, denn "Beyond Stupidity" ist ein Non-Stop-Adrenalinkick. Mit kraftvollen, energiegeladenen Rock-Songs wie "Spread It Around" und "Cold Cold Shoes" vermeidet das Album jegliche düstere Tiefgründigkeit. Stattdessen setzt es auf laute Gitarren, eingängige Hooks und eine spaßige, selbstbewusste Attitüde. Es ist der ultimative, kompromisslose Sound-Treibstoff für rasante Fahrten auf der Autobahn bei voller Lautstärke.
+
+::genre::garage rock, punk rock, indie rock
+
+## Styrofoam Winos - Any River
+
+Lou Turner, Trevor Nikrant und Joe Kenkel, die sich vor einem Jahrzehnt als Kollegen in einem Café kennengelernt haben, sind Multi-Instrumentalisten, die regelmäßig ihre Instrumente und Gesangsparts tauschen. Auf Tourneen mit bekannten Indie-Größen wie MJ Lenderman und Ryan Davis haben sie ihr Können verfeinert. **Indie-Rock**, **Country-Folk** und **Slacker-Jangle-Pop** - Any River präsentiert sich mit einer wunderbar lockeren, entspannten Haltung. Das Album gleitet nahtlos zwischen entspannten Grooves, Falsett-Balladen und witzigen Texten hin und her und behandelt alltägliche Momente - wie das Genießen von Sommergerichten oder den Umgang mit sozialen Ängsten – mit einem warmen, rustikalen Charme. Es wirkt weniger wie eine strenge Studioaufnahme, sondern eher wie der Besuch einer gemütlichen Jam-Session auf der Veranda mit langjährigen Freunden.
+
+::genre::indie rock, indie folk, country folk, americana, slacker rock, jangle pop
+
+## Swim Deep - Hum *
+
+Als wichtige Vorreiter der B-Town-Indie-Bewegung Mitte der 2010er Jahre hat die Band ein vielseitiges Repertoire aufgebaut. Für dieses wegweisende fünfte Studioalbum haben sie sich erneut mit dem renommierten Produzenten Bill Ryder-Jones zusammengetan, um einen facettenreicheren, ausgereifteren Gitarrensound zu entwickeln. **Dream-Pop**, **Indie-Rock** und **Jangle-Pop** / **Neo-Psych**. "Hum" ist ein wunderschöner, bittersüßer und sonnendurchfluteter Triumph, mit dem die Band den absoluten Höhepunkt ihrer Karriere erreicht. Das Album behandelt auf wunderschöne Weise Themen wie Vaterschaft, die Bewältigung persönlicher familiärer Trauer und häusliche Liebe in Titeln wie "Pieces of You" und "Mud" und ist zutiefst ergreifend. Schimmernde Gitarrenlinien und sepiafarbene Synthesizer umhüllen warme Gesangsmelodien. Es fühlt sich an, als blättere man durch eine alte Schachtel mit Polaroid-Fotos, während die Sommerbrise durch ein offenes Fenster weht.
+
+::genre::dreampop, indie rock, neo psych rock, psych pop, jangle pop
+
+## The Carburetors - We Ride At Night
+
+Die Band, die für ihre wilden, testosterongeladenen Live-Auftritte bekannt ist, schlägt seit 25 Jahren eine Brücke zwischen Chuck Berrys rhythmischem Groove und Motörheads unerbittlicher Klanggewalt. **Rock’n’Roll** im Fast-Forward-Modus, **Hard Rock** und hochoktaniger **Heavy Metal**. "We Ride At Night" ist eine Adrenalinexplosion bei Höchstgeschwindigkeit, bei der Vollgas gegeben wird und kein Platz für Bremsen oder Entschuldigungen bleibt. Das Album beginnt mit den dröhnenden Soundeffekten von Sirenen und Hubschraubern und stürzt sich sofort in eine Reihe von rasanten, hochoktanigen Hymnen wie "Down In Flames" und "Electric Shock". Das übergreifende Thema ist totale Rock’n’Roll-Rebellion, nächtliche Autobahnrennen und ausgelassener Spaß. Angetrieben von feurigen Gitarrenriffs und einem Gesang, der klingt, als stünde Elvis unter Leistungssteigerungsmitteln, fühlt es sich genau so an, als würde man mitten in einem Wüstensturm in eine riesige Biker-Rallye hineinstürmen.
+
+::genre::hard rock, heavy rock, heavy metal
+
+## The Conflux Collective - In The Wake Of Saturn
+
+Das Projekt, das ursprünglich aus einer Laune heraus nach einem King-Diamond-Konzert von Gitarrist Chase Fraser und Schlagzeuger Tommy McKinnon ins Leben gerufen wurde, durchlief eine lange Ruhephase, bevor McKinnon es als weitreichendes Underground-Netzwerk mit mehreren Sängern wiederbelebte. **Progressiver Death Metal** und **Tech-Death**. "In The Wake Of Saturn" ist ein gewaltiger, welterschütternder Sci-Fi-Monolith aus Klang. Angeführt von einer schlagkräftigen Armee von Gast-Sängern aus der Underground-Metal-Szene liefert das Album eine zutiefst intensive Erzählung, die menschliche Trauer, das Überleben und schließlich die spirituelle Wiedergeburt nachzeichnet. Klanglich schlägt es ein wie ein Meteor - und verschmilzt dabei perfekt die rohe, furchterregende Geschwindigkeit des Death Metal der 1990er Jahre mit wahnsinnig komplexen modernen Gitarrensoli und mechanischen Blastbeats. Es ist brutal, grenzenlos und auf wunderschöne Weise furchteinflößend und entfaltet sich wie ein düsterer, filmischer Weltraum-Horrorfilm, in dem die Menschheit darum kämpft, sich auf einem zerstörten Planeten neu aufzubauen.
+
+::genre::prog death metal, tech death metal
+
+## The Give It Ups - All Thumbs
+
+Inspiriert vom klassischen Slacker-Rock und Punk-Größen wie den Ramones, Weezer und den Descendents hat sich dieses eingespielte Trio mit rohen, schnörkellosen Hooks und mehrstimmigen Whoa-oh-oh-Refrains einen Namen gemacht. **Pop-Punk**, **Bubblegum-Punk** und **Beach-Pop** - "All Thumbs" ist ein absoluter Zuckerschock aus jugendlichem Spaß und purer, sonnenverwöhnter Unbeschwertheit. Dieses Album vermeidet jegliche düstere existenzielle Angst und setzt stattdessen auf das Thema Highschool-Ausgelassenheit und Jugendkultur. Musikalisch klingt es wie eine wilde Fahrt mit dem Autoscooter auf einem Sommerfest oder eine riesige Backstage-Kissenschlacht. Es ist vollgepackt mit Ohrwürmern, beschwingten Gitarrenriffs und einer herrlich ungeschliffenen Attitüde. Es ist schnell, unerbittlich fröhlich und man kann es unmöglich anhören, ohne im Wohnzimmer herumhüpfen zu wollen.
+
+::genre::power pop, pop punk, bubblegum pop, prog pop
+
+## The Hanging Stars - Just A Day *
+
+Bei den Aufnahmen zu ihrem sechsten Studioalbum in Edwyn Collins’ mit Vintage-Equipment vollgestopftem Studio in den schottischen Highlands reduzierte sich die Band für diese Phase auf ein Kernquartett. Um eine unverkennbar warme, nostalgische Gesangsharmonie einzufangen, holten sie Gerard Love von Teenage Fanclub als Co-Produzenten mit ins Boot. **Cosmic Americana**, **Psych-Folk** der 1960er Jahre und **Jangle-Pop**. "Just A Day" ist ein herrlich verschwommener, sonnenverblendeter Spaziergang durch ein Feld voller Nostalgie der 1960er Jahre. Mit Titeln wie "Sister Of The Sun" und "The Glasshouse" wirkt die thematische Landschaft wie ein alter, verblasster Polaroid-Schnappschuss eines perfekten Sommertages. Die Musik stützt sich stark auf klirrende, glockenartige Gitarren, Vintage-Fuzz-Box-Verzerrungen und wunderschöne Ba-Ba-Ba-Hintergrundgesangsharmonien. Sie vermittelt ein sanftes Gefühl von Weisheit und einfühlsamer Empathie und hüllt einen in eine glückselige, tagträumerische Wolke, die sich völlig losgelöst von modernen Sorgen anfühlt.
+
+::genre::psych folk, prog folk, americana, jangle pop
+
+## The Veils - Fragile World
+
+Die Band, die Anfang der 2000er Jahre ins Rampenlicht trat, nachdem sie im Alter von nur 16 Jahren bei Rough Trade Records unter Vertrag genommen worden war, hat sich über mehr als zwei Jahrzehnte hinweg einen legendären Ruf als Live-Band erarbeitet. Ihre düsteren, theatralischen Klangwelten haben ihr bekanntermaßen eine treue Fangemeinde unter namhaften Filmregisseuren wie David Lynch, Tim Burton und Paolo Sorrentino beschert. **Gothic Rock**, orchestraler **Indie** und cineastischer **Art-Rock**. "Fragile World" ist ein wunderschön zerbrechliches, mit Samt ausgekleidetes, dunkles Album. Angeführt vom dramatischen Tempo der Lead-Single "Lungs" schwebt das Album durch ein übergreifendes Thema kollektiver menschlicher Verletzlichkeit und betrachtet eine zerfallende Gesellschaft durch eine zutiefst einfühlsame Linse. Andrews’ zitternder, intensiver Gesang schlängelt sich über eindringliche Klavierakkorde, üppige Orchester-Streicher und plötzliche Ausbrüche dunkler Gitarrenverzerrungen. Beim Anhören dieses Albums fühlt man sich, als säße man in einem alten, flackernden Kino und würde eine wunderschöne Schwarz-Weiß-Tragödie in Zeitlupe verfolgen.
+
+::genre::indie rock, cine rock, art rock, goth rock
+
+## There Were Wires - Vessel *
+
+Ursprünglich eroberte die Band Anfang der 2000er Jahre als freche, chaotische Hardcore-Gruppe die DIY-Kellerszene der Ostküste im Sturm, bevor sie eine jahrzehntelange Pause einlegte. Nun kehrt sie älter und weiser zurück - mit einem neuen Sound, der auf strukturelle Tiefe und gewaltige Wände aus übersteuerter klanglicher Schwerkraft setzt. **Hardcore-Punk**, **Post-Hardcore**, **Sludge Metal** und **Noise Rock**. "Vessel" ist ein atemberaubendes, die Elemente erschütterndes Denkmal für emotionale Beharrlichkeit und rohes Überleben. Das Album dreht sich stark um tiefgreifende menschliche Themen wie Trauer, kollektive Erschöpfung und das Älterwerden. Musikalisch bewegt es sich meisterhaft auf einem dynamischen Drahtseil: In einem Moment liefert es zahnzerbrechende, ätzende Gitarrenattacken, um im nächsten in wunderschöne, ruhige Räume feierlicher instrumentaler Reflexion zu versinken. Es ist der ultimative Heavy-Soundtrack, um zuzusehen, wie ein Sturm über eine Betonmetropole hereinbricht - gewaltig, düster und absolut kathartisch.
+
+::genre::hardcore punk, post hardcore, noise rock, sludge metal
+
+## Tucker Zimmerman - Dream Me A Dream
+
+Zimmerman, der Ende der 60er Jahre von David Bowie als fesselnd gepriesen und kürzlich von *Big Thief* gewürdigt wurde, vollendete dieses Projekt gemeinsam mit dem Produzenten Nick Holton, seiner Frau Marie-Claire und der Folk-Künstlerin Jackie Oates, bevor er Anfang 2025 verstarb. **Surrealistischer Folk**, **Ambient-Americana** und avantgardistische Akustikmusik. Ein originelles Werk, das Zimmermans letztes posthumes Studioalbum darstellt. "Dream Me A Dream" ist ein herzzerreißend schöner, skurriler und zutiefst kosmischer Abschiedsbrief. Es verschmilzt traditionelles, staubiges Banjo-Geklimper und weinerliche Geigen mit wirbelnden analogen Moog-Synthesizern und Soundbearbeitung. Die Themen schwanken mühelos zwischen Kindheitserinnerungen an San Francisco und skurrilen, heiteren Reflexionen über das Älterwerden. Zimmermans Stimme vermittelt eine kraftvolle, raue Weisheit, die sich unglaublich intim anfühlt und einem das Gefühl gibt, direkt neben einem alten Meister zu sitzen, der seine allerletzte Geschichte erzählt.
+
+::genre::avant electronica, avant folk, ambient, americana
+
+## U.S. Bastards - Negligent Discharge
+
+Die rasante, unerbittliche Besetzung der Band wird von dem erfahrenen Gitarristen Brent Purgason angeführt, der in der Heavy-Metal-Szene weithin für seine langjährige Tätigkeit als Pustulus Maximus in der legendären theatralischen Shock-Rock-Band *GWAR* bekannt ist. **Speedrock**, **Hardcore-Punk** und **Sludge**-beeinflusster **Heavy Metal**. "Negligent Discharge" ist eine rohe Explosion purer, unverfälschter Geschwindigkeit, die den Stinkefinger in den Himmel reckt. In zahnklappernden Hymnen wie "Knife Crime" und "Scenester Deceiver" setzt sich die Band aggressiv mit Themen wie Polizeikorruption, Unternehmensspeichelleckern und gesellschaftlicher Spaltung auseinander. Die Instrumentierung besticht durch rasante, dreckige Gitarrensoli und einen brüllenden, knurrenden Gesang, der zum Headbangen zwingt. Diese Platte zu hören fühlt sich an, als würde man mit dem Skateboard einen steilen Hügel hinunterfahren, durch einen Regen aus Glasscherben, während der Adrenalinspiegel völlig durchdreht.
+
+::genre::speed metal, hardcore punk, heavy metal, thrash metal
+
+## Warning - Rituals of Shame
+
+Warning, die sich an Underground-Vorbildern wie John Brenner von Revelation orientieren, wurden durch ihr bahnbrechendes Album "Watching from a Distance" aus dem Jahr 2006 zu Ikonen des Genres. Diese Platte markiert ihr monumentales Comeback und ist das erste neue Album der Band seit genau 20 Jahren. Aufgenommen wurde es in einer 140 Jahre alten ehemaligen Kirche in Southport, Großbritannien. Traditioneller **Doom Metal**, episch langsamer **Heavy Metal** und melodischer **Sludge**. "Rituals of Shame" ist ein atemberaubendes, emotionales Kraftpaket in Zeitlupe. Das Album, das strukturelle Anleihen bei den weitläufigen Arrangements des klassischen Progressive Rock und der emotionalen Tiefe des rohen, traditionellen Folks nimmt, taucht kopfüber in Themen wie Schuld, Trennung, Besessenheit und Liebe ein. Walkers Gesang durchdringt die Luft wie eine Sirene im dichten Nebel, untermalt von massiven, klagenden Gitarrenakkorden. Es fühlt sich an, als stünde man um Mitternacht in einer höhlenartigen Kathedrale, während ein Gewitter langsam an den Buntglasfenstern rüttelt.
+
+::genre::doom metal, sludge metal, heavy metal
+
+## Warthrash - No Light Shall Remain
+
+Die Band, die aus der lebendigen Underground-Szene Kolumbiens hervorgegangen ist, hat jahrzehntelang an ihrem Stil gefeilt. Nach und nach entfernte sie sich von ihren rauen, frühen Old-School-Thrash-Wurzeln und entwickelte einen deutlich härteren, düstereren Death-Metal-Sound, der an Legenden wie *Death* und *Entombed* erinnert. Eine gnadenlose Mischung aus **Death Metal** und **Thrash Metal**. "No Light Shall Remain" ist ein Album, das wie eine Abrissbirne wirkt und einem die Rippen aus den Rippen rüttelt. Getreu seinem düsteren Titel ist das Album ein wahnsinnig wilder Adrenalinkick, vollgepackt mit messerscharfen Riffs, monströsen Growls und feurigen Gitarrensoli. In Stücken wie "Crucifixion" und "Oscura Condena" schafft die Band eine perfekte Balance zwischen rasanten Thrash-Attacken, schweren Midtempo-Death-Metal-Passagen und dunklen, trauernden Melodien. Es fühlt sich an, als würde man von einem gewaltigen, furchterregenden Gewitter aus purer, unverfälschter Headbanging-Freude mitgerissen.
+
+::genre::death metal, osdm, thrash metal
+
+## Your Brother's Keeper, Gary Bartz - Where Rivers Meet
+
+Das Kollektiv, das aus Londons pulsierender junger Jazzszene hervorgegangen ist, lebt von roher Gruppenimprovisation. Gary Bartz bringt mehr als fünf Jahrzehnte Erfahrung als Meister des legendären Cosmic-Soul-Jazz mit und schlägt damit eine Brücke zwischen der Jazztradition der 1970er Jahre und modernen hybriden Besetzungen. **Spiritual Jazz**, **Free Jazz**, Afrofuturismus und modale **Improvisation**. "Where Rivers Meet" ist ein umwerfender, zutiefst spiritueller Dialog zwischen verschiedenen Epochen. Bei Stücken wie "Cauldron" und "Solar Flare" wirkt die Musik wie ein lebendiges, atmendes Wesen. Sie bettet Bartz’ scharfes, dröhnendes Saxophonspiel in einen dichten, tropischen Dschungel aus Live-Percussion, tiefem Kontrabass und pulsierenden modularen Synthesizern ein. Es klingt nicht wie eine gewöhnliche Studio-Jam-Session; es klingt wie eine lebhafte, psychedelische Reise durch kosmische Ebenen, die einen völlig hypnotisiert zurücklässt.
+
+::genre::spiritual jazz, free jazz, afrobeat, world music, improvisation
+
+## Zeruel - Ruin; Rebirth
+
+Hill erlangte nach dem Debüt seines Projekts im Jahr 2023 sofort eine intensive Underground-Kult-Anhängerschaft. Sein einzigartiger Stil ist stark von seiner Liebe zu düsteren Mangas, Animes und den bedrückenden Atmosphären von Videospielen wie Dark Souls und Bloodborne geprägt. **Shoegaze**, **Doom Metal**, **Post-Hardcore** und **Ambient**. "Ruin; Rebirth" ist eine gewaltige, filmische spirituelle Odyssee, die sich wie ein düsteres Fantasy-Anime-Epos entfaltet. Das Album zeichnet den Niedergang, die Bestrafung und die letztendliche Wiederherstellung eines gefallenen himmlischen Wesens in Titeln wie "Limbo" und "Vessels of Light" nach und thematisiert erdrückende Trauer und Erlösung. Klanglich kontrastiert Hill ätherische, geisterhafte Clean-Vocals mit absolut gigantischen, tief gestimmten Gitarrenwänden, die einen wie eine Flutwelle treffen. Es ist grandios, wunderschön trostlos und atemberaubend heavy.
+
+::genre::doomgaze, ambient, post hardcore, mathcore
+
+## Zoon - Happy Thought School
+
+Monkman prägte den Begriff „Moccasin-Gaze“, um eine brillante Verschmelzung klassischer, lauter Shoegaze-Wall-of-Sound-Architektur mit traditionellen indigenen Musikstrukturen und zutiefst persönlicher, soziokultureller Erzählkunst zu beschreiben. **Moccasin-Gaze**, **Dream-Pop** und **Shoegaze**. Benannt nach einer echten Schule in Manitoba, an der Monkman in seiner Kindheit intensivem Rassismus ausgesetzt war, spielt das Album meisterhaft mit dem Spannungsfeld zwischen fröhlichen Oberflächen und schmerzhaften Untertönen. Es hüllt Themen wie rassistisches Trauma, Liebeskummer und spirituelle Neuorientierung in eine üppige, verschwommene Wolke aus Bandrauschen, schimmernder Gitarrenverzerrung und nostalgischen Pop-Radio-Hooks der frühen 2000er Jahre. Es klingt weniger wie eine gewöhnliche Rockplatte, sondern eher wie eine warme, verschwommene Erinnerung, die über ein weites kanadisches Präriefeld schwebt.
+
+::genre::dreampop, shoegaze
+
+---
+
+# Earlier the week ...
+
+## ...or Does It Explode? - Realities Disguised as Symbols
+
+Diese erfahrene Band hat Jahre damit verbracht, ihren Sound zu verfeinern, und sich dabei von einer anfangs aggressiven, rauen Post-Hardcore-Grundlage hin zu melodischeren, eingängigen Songstrukturen entwickelt, ohne dabei ihre emotionale Schärfe zu verlieren. **Post-Hardcore**, **Indie-Rock** und **Melodic Emo**. Benannt nach einer Zeile aus einem klassischen Gedicht von Langston Hughes, ist dieses Album ein wunderbar literarischer, mitreißender Blick auf das Chaos des modernen Lebens. Sich durch Titel wie "Instincts", "Broken Teeth" und "Weaker Gods" schlängelnd, taucht das lyrische Thema kopfüber in globale humanitäre Ängste und die schleichende Furcht vor der modernen Politik ein - alles gefiltert durch eine äußerst einfühlsame Linse. Es prescht mit druckvollen Gitarrenriffs und eindringlichen Call-and-Response-Passagen im Zweistimmgesang voran, die den Hörer dazu bringen, in einem überfüllten Kellerclub mitzuschreien.
+
+::genre::post hardcore, indie rock, emocore
+
+## Ben Wolfe - Amber (or, The Leech)
+
+Wolfe hat sich von den üblichen Rhythmusmustern gelöst und sich durch die Schaffung äußerst aggressiver, in sich geschlossener Rock-Metal-Kompositionen einen unverwechselbaren Stil im Internet erarbeitet. **Alternative Rock**, **Nu-Metal**, Post-Rock und **Nu-Metalcore**. "Amber (or, The Leech)" ist eine viszerale, zähnefletschende Explosion aus schwerer Angst und hektischen Klangtexturen. Mit aggressiven Tracks wie "Masked Men!", "(In)justice" und "Scratching At The Walls" konzentriert sich das Album auf Themen wie institutionelle Paranoia, innere Klaustrophobie und toxische Beziehungen. Musikalisch springt es von stimmungsvollen Post-Rock-Klangwänden zu heruntergestimmten Nu-Metal-Gitarren-Breakdowns, die deine Kopfhörer aus den Ohren rütteln werden. Es ist hektisch, auf wunderbare Weise aus den Fugen geraten und absolut kompromisslos.
+
+::genre::nu metalcore, modern metalcore, alt metal, nu metal
+
+## Billy Ray Cryus - THE HILL
+
+Als weltweit anerkannte Größe der Popkultur hat sich Cyrus für dieses Projekt von den Mainstream-Pop-Country-Tendenzen distanziert. Er arbeitete eng mit seiner Familie zusammen und holte seinen Sohn Braison als Co-Produzenten des Albums sowie seine Tochter Noah Cyrus als Gastsängerin mit ins Boot. **Roots-Country**, **Appalachian Folk** und **Americana**. "THE HILL" ist ein unglaublich rohes, defensives und introspektives Country-Bekenntnis. Das Album umfasst 15 kraftvolle Titel wie "Better Me" und "I’ll Change" und thematisiert vergangene Fehler, familiäre Wurzeln und die Suche nach Erlösung. Anstatt Radio-Gimmicks hinterherzujagen, setzt die Musik auf staubige Akustikinstrumente, Berg-Streicher und einen ungeschönten Gesang. Es fühlt sich genau so an, als säße man im Abendnebel auf einer Veranda, während ein alter Hase einem in die Augen schaut und die absolute Wahrheit über seine Narben erzählt.
+
+::genre::country folk, americana, roots rock
+
+## Conscious - Tales of A Starboy
+
+Conscious hat sich auf die Produktion immersiver, filmischer Story-Tapes spezialisiert. Sie kombinieren jazzige Akustik-Loops mit schweren, tief gestimmten Bassstrukturen, um ihren musikalischen Erzählungen eine episodische Sci-Fi-Atmosphäre zu verleihen. **Chillhop**, **Space Ambient**, Instrumental **Lo-Fi** und **Cyber-Trap**. "Tales of A Starboy" ist ein herrlich sanfter, entspannter innerer Monolog, der für Nachtschwärmer konzipiert wurde. Das Album steht ganz im Zeichen einsamer, futuristischer Erkundungen und gleitet gemächlich durch warme Rhodes-Piano-Akkorde, staubige Drum-Beats und funkelnde, asteroidenartige Synth-Arpeggios. Beim Anhören dieses Tapes fühlt man sich, als würde man um Mitternacht mit dem Skateboard einen leeren Stadtboulevard hinunterfahren und sich dabei vorstellen, der Pilot eines Raumschiffs zu sein, das an den Saturnringen vorbeigleitet. Es ist unglaublich entspannend, atmosphärisch und strotzt nur so vor nächtlichem Coolness-Faktor.
+
+::genre::chillhop, ambient, lofi, trap
+
+## Finsmoonth - Chrysalis Of Astral Tears
+
+Finsmoonth kreieren komplexe, ausufernde Underground-Symphonien. Diese mehrteilige Suite nahmen sie gemeinsam mit den erfahrenen Toningenieuren Januaryo Hardy und Jafar Sadik im Benji Studio und im Cryptid’s Lair auf. **Melodischer Post-Black Metal**. "Chrysalis of Astral Tears" ist ein wahrer emotionaler Wirbelsturm, eingehüllt in eine Decke aus Blastbeats. Das Album vermittelt das Gefühl, während eines kosmischen Sonnensturms auf einem zerklüfteten Berggipfel zu stehen, mit Titeln wie "Foliage of the Wings" und "Embers at Ethereal Dawn". Es zeichnet sich durch eine brillante Push-and-Pull-Dynamik aus: In einem Moment versinkt man in wunderschönen, wehmütigen Synthesizern und engelhaften Gesängen, im nächsten wird man von messerscharfen Gitarrenriffs und verzweifelten, hallenden Schreien überrollt. Es ist grandios, pechschwarz und wild poetisch.
+
+::genre::melo black metal, atmo black metal, post black metal
+
+## Grivo - Impose *
+
+Grivo hat Jahre damit verbracht, die Kunst des Schaffens von Sludge-Gaze-Monumenten zu perfektionieren, indem er sanfte, Downtempo-Pop-Melodien durch massive Stapel übersteuerter Röhrenverstärker jagt, um dichte, sich langsam aufbauende Rock-Epen zu erschaffen. **Shoegaze**, **Sludge-Gaze**, **Doom-Gaze** und **Stoner Rock**. "Impose" ist ein wunderschöner, erdrückender Berg aus schwerem Hall, der einem die Füllungen aus den Zähnen rüttelt. Das Album entfernt sich von traditionellen, kurzen Radiotiteln und lässt Songs wie "Sunset Receipt" und "Heaven Howls" als 7- bis 8-minütige, sich langsam aufbauende Jams atmen. Im Mittelpunkt stehen düstere Texturen, verblassende Nostalgie und schwere, bluesige Isolation. Die Band hüllt stimmungsvolle, flüsterleise Vocals in gigantische Flutwellen aus verzerrtem Gitarren-Feedback. Dieses Album anzuhören fühlt sich an, als würde man ein gewaltiges Sommergewitter in extremer Zeitlupe über eine Wüstenlandschaft hinwegrollen sehen.
+
+::genre::doomgaze, shoegaze, stoner rock
+
+## Jamie Whitfield - Fractal
+
+Whitfield konzentriert sich auf vielschichtige, geometrische Arrangements. Er verbindet treibende Gitarrenstücke mit weitläufigen Synth-Wave- und cineastischen Texturen, um seinen Alben einen zutiefst konzeptionellen, vielschichtigen Charakter zu verleihen. Ein eklektischer Crossover aus **New Age**, **Synth-Rock** und instrumentalem **Progressive Rock**. Getreu seinem Titel ist "Fractal" ein kaleidoskopisches Klanglabyrinth, das sich ständig wiederholt, wächst und auf seinen eigenen Mustern aufbaut. Das Album beginnt mit kraftvollen Stücken wie "Crown Of Thorns" und "A Bitter Heaven" und verwebt Themen wie komplexe menschliche Systeme, Isolation und digitale Schönheit. Es pendelt zwischen explosiver, gitarrengetriebener Energie und üppigen, neongetränkten Synth-Klanglandschaften hin und her, die sich unglaublich grandios anfühlen. Beim Hören fühlt man sich, als säße man angeschnallt in einem Flugsimulator und würde durch eine makellose, computergenerierte Simulation des Kosmos reisen.
+
+::genre::new age, synth rock, prog rock, instrumental, improvisation
+
+## Juan Berdugo - Where We're Heading
+
+Berdugo ist ein unglaublich produktiver, im Internet beheimateter Künstler. Er kreiert tiefgründige, facettenreiche Indie-Suiten, in denen er reduzierte Streicher, rohe Klavierakkorde und sanften Gesang miteinander verwebt, um ein Hörerlebnis zu schaffen, das an Tagebuchaufzeichnungen erinnert. **Indie-Pop**, **Bedroom-Pop**, **Ambient-Acoustic** und **Lo-Fi-Indie**. "Where We’re Heading" fühlt sich an wie ein zutiefst filmischer Roadtrip in der Abenddämmerung, genau in dem Moment, in dem sich der Horizont violett färbt. Mit Titeln wie "Deepfake" und "Crawling on the Sores" konzentriert sich das Album stark auf Themen wie Zukunftsängste, emotionale Veränderungen und die Suche nach Licht in dunklen Räumen. Die Instrumentierung gleitet sanft zwischen sanften, melancholischen Gitarrenlinien und anschwellenden Ambient-Hintergründen hin und her. Es ist der perfekte, introspektive Soundtrack, um aus einem Zugfenster zu starren und dabei über die endgültige Richtung des eigenen Lebens nachzudenken.
+
+::genre::indie pop, bedroom pop, ambient acoustic, lofi
+
+## Laboratoire Impavide - Laboratoire Impavide de l'Imaginaire Sensible
+
+Getreu ihrem Namen ("Impavide" bedeutet "furchtlos") betrachtet das Duo das Komponieren als ein offenes künstlerisches Experiment und nutzt alltägliche Umgebungsgeräusche, Poesie und modulare Synthesizer als einheitliche Instrumente. **Avantgarde-Elektronik**, **Leftfield-Art-Pop** und **Spoken Word**/Sound-Collage. Diese Platte klingt wie das Labor eines verrückten Wissenschaftlers, in dem die Glasbecher statt mit Chemikalien mit flüssiger Poesie gefüllt sind. Sie beschäftigt sich intensiv mit Themen wie taktiler Verletzlichkeit, furchtloser Neugier und alltäglicher menschlicher Textur. Die Musik wechselt schlagartig von wunderschönen, weitläufigen Ambient-Räumen zu plötzlichen, skurrilen elektronischen Blips und abstrakter französischer Erzählung. Sie ist unvorhersehbar, widersetzt sich jeglicher kommerziellen Form und ist wild kreativ - was sie zu einem brillanten Spielplatz für abenteuerlustige Ohren macht.
+
+::genre::avant electronica, leftfield electronica, art pop, spoken words
+
+## Mark Barrott - The Exit Diaries
+
+Als erfahrener DJ und Inhaber des Labels International Feel gestaltet Barrott seit drei Jahrzehnten Soundtracks für den Sonnenuntergang, wobei er üppige orchestrale Arrangements mit globalen Electronica-Texturen verbindet. Balearic **Ambient**, **Chillout**, **neoklassischer Jazz** und **Leftfield Electronica**. "The Exit Diaries" ist ein klangliches Panorama-Luxusliner, das Entspannung völlig neu definiert. Das Album beschäftigt sich intensiv mit Themen wie flüchtigen Reisen, spirituellem Wandel und stiller Besinnung. Aufgebaut auf fließenden Synthesizerklängen, Jazz-Texturen im Stil von Alice Coltrane und atemberaubenden orchestralen Schwingungen, klingt es weniger wie ein gewöhnliches Album, sondern eher wie die Eröffnungsszene eines von der Kritik gefeierten Arthouse-Films. Es ist der absolut ultimative Soundtrack, um zuzusehen, wie eine Küstenlinie langsam hinter dem Horizont verschwindet.
+
+::genre::modern jazz, ambient, lofi, leftfield electronica
+
+## Nebula Groan - On Dehumanization
+
+Nebula Groan betrachtet die Klangkunst als nichtkommerzielles Medium für unverfälschte narrative Kunst. Die Band lehnt Mainstream-Songstrukturen ab und entscheidet sich stattdessen dafür, dichte, schwere Drones mit konzeptionellen, historischen und gesellschaftspolitischen Audio-Themen zu überlagern. **Dark Ambient**, **Drone** und Storytelling **Noise** / **Spoken Word**. "On Dehumanization" ist ein erschreckendes, karges und zutiefst bedrückendes Hörerlebnis. Das Album fungiert als akustischer Spiegel, der den dunkelsten Ecken der Menschheitsgeschichte und der menschlichen Psyche entgegengehalten wird, wobei der Schwerpunkt stark darauf liegt, wie Sprache als Waffe eingesetzt werden kann. Klanglich entzieht es jeglichen Trost und nutzt dazu tieffrequente Brummtöne sowie kalte, sich ausbreitende elektronische Leere, die die Wahrnehmung der Zeit verzerren. Es handelt sich nicht um Musik, die für den ungezwungenen Genuss gedacht ist; vielmehr ist es ein karger, zutiefst eindringlicher Audio-Essay, der einen noch lange nach dem Verhallens der letzten Schallwelle in die Leere starren lässt.
+
+::genre::dark ambient, drone, noise, spoken words
+
+## Onesie - Way Thousand Bump To The Sky
+
+Unter der Leitung ihres Hauptsongwriters Ben Haberland ist die Band bekannt für einen Sound, der die Grenze zwischen klirrendem Psych-Pop der British Invasion und aggressiven, verzerrten Gitarren-Hooks überschreitet. Aus isolierten Keller-Experimenten entwickelten sie laute, live-taugliche Stadion-Hymnen. **Indie-Pop**, **Post-Punk** und 90er-Jahre-**Slacker**-/Gitarrenrock. "Way Thousand Bump To The Sky" ist eine Technicolor-Explosion, die mit halsbrecherischer Geschwindigkeit voranstürmt. Vollgepackt mit hochoktanigen Tracks wie "Heckscape" und "World Stepped On a Mirror" ist das Album laut, ekstatisch und herrlich wütend zugleich. Es besitzt die rasende Energie einer Old-School-Rockband, die ihr letztes Set spielt und absolut nichts mehr zu verlieren hat. Es ist eingängig, strotzt nur so vor sarkastischem Biss und zwingt einen geradezu dazu, mit den Füßen zu stampfen.
+
+::genre::slacker rock, post punk, indie pop, indie rock
+
+## Replica City - A Better You
+
+Nach einer Reihe hochgelobter Underground-Singles wie "TV Static" und "Rear-Fanged" hat Replica City die Kunst perfektioniert, Retro-Synthesizer-Klänge mit modernen, existentiellen Texten zu verbinden. **Synth-Wave**, **Darkwave** und elektronischer **Indie-Pop**. "A Better You" ist eine wunderschön künstliche, dystopische Tanzparty, eingehüllt in Samt. Das Album, das in Titeln wie "Bunkerville" und "The Grift" Themen wie digitale Selbstoptimierung, unternehmerische Oberflächlichkeit und persönliche Isolation behandelt, klingt wie ein retro-futuristischer Werbespot für einen utopischen Lebensstil, der in Wirklichkeit gar nicht existiert. Seine pulsierenden Basslinien und funkelnden Arpeggios zwingen einen zum Grooven, während die Texte gleichzeitig dazu anregen, die bildschirmversessene Welt um einen herum tiefgreifend zu hinterfragen.
+
+::genre::synth wave, indie pop, dark wave
+
+## RIØT - The Noise
+
+Als eng verbundene Indie-Band haben sie sich auf rohe Hooks, gewaltige Refrains und aggressive, moderne Produktionsstile spezialisiert, die wie geschaffen für überfüllte, schweißtreibende Club-Locations sind. Energiegeladener **Alternative Rock**, **Hard Rock** und **Modern Metal**. "The Noise" ist ein chaotischer Adrenalinstoß, der der Welt den Stinkefinger zeigt und seinem Namen voll und ganz gerecht wird. Voller viszeraler Tracks wie "You Must Be This Tall To Ride", "Nose Deep In Glue" und "Hollywould" behandelt das Album Themen wie Hedonismus, urbane Desillusionierung und rücksichtsloses Jugendleben. Angetrieben von knackigen Gitarrenriffs und einem ungezügelten Gesang fühlt sich das Anhören dieses Projekts an, als würde man mit aufgedrehten Kopfhörern in halsbrecherischer Geschwindigkeit durch eine neonbeleuchtete Gasse in der Innenstadt skaten.
+
+::genre::modern metal, melo metal, hard rock, alt rock
+
+## Sinamort - Breathing Cargo
+
+Diese kraftvolle Band, die den litauischen Wacken Metal Battle gewonnen hat, wird für ihre langen, filmischen Kompositionen hoch geschätzt, die schwere Instrumentierung mit komplexen Arrangements verbinden. Eine düstere, Grenzen sprengende Mischung aus **Progressive Doom Metal**, **Gothic Metal** und **Death Metal**. "Breathing Cargo" ist ein atemberaubender, theatralischer Klangmonolith. Das Album, das stark vom physischen und historischen Rhythmus dröhnender Zuglokomotiven geprägt ist, bietet einen tiefgründigen, philosophischen Einblick in den Existentialismus, die menschliche Natur und den Verlust. Die Gitarrenarbeit bewegt sich mit der furchteinflößenden Wucht eines Güterzugs, ausgeglichen durch gotische Melodien und intensive Growls. Es fühlt sich an, als stünde man um Mitternacht auf einem dunklen, nebligen Bahnsteig, während die Geister des 20. Jahrhunderts über die Gleise flüstern.
+
+::genre::prog metal, doom metal, gothic metal
+
+## Thaniel Ion Lee - Crystalline
+
+Thaniel Ion Lee ist ein multidisziplinärer bildender Künstler und Klangbildhauer. Bekannt für seine Einzelausstellungen in Galerien, zeichnet sich sein musikalisches Schaffen durch stark strukturierte Klänge, unheimliche industrielle Frequenzen und lang anhaltende klangliche Abstraktionen aus, die lebendige innere Bilder hervorrufen sollen. Eine avantgardistische Reise in die Welt von **Dark Ambient**, **Drone** und experimentellem **Noise**. Getreu seinem Titel vermittelt "Crystalline" das Gefühl, in Echtzeit zu beobachten, wie Frost langsam eine Fensterscheibe umhüllt - nur dass das Eis aus dunklen, sich wandelnden Schallwellen besteht. Mit Stücken wie "White Light Becomes Shadow" ist das Album wunderschön und zugleich unglaublich beunruhigend. Es dehnt die Zeit wie Toffee und zieht einen in eine kalte, höhlenartige Leere, in der die einzigen Begleiter eindringliches Summen und scharfe akustische Störgeräusche sind. Es ist der perfekte, Gänsehaut erzeugende Begleiter, um in einem stockdunklen Raum ausdruckslos an die Decke zu starren.
+
+::genre::dark ambient, avant electronica, drone, noise
+
+## The Traveling Circuses - Fritz the Cat *
+
+Das Projekt zeichnet sich durch seinen rauen Produktionsstil aus, der direkte, ungefilterte Texte mit rohen Gitarrenarrangements und minimalistischen Schlagzeugmustern verbindet. Es ist stark im Lo-Fi-**Indie-Rock**, **Post-Punk** und eigenwilligen **Art-Rock** verwurzelt. Benannt nach der berühmt-berüchtigten zynischen, derben Zeichentrickkatze aus den 1970er Jahren, ist dieses Album ein absoluter Trip. Vollgepackt mit provokanten Titeln wie "Kill the Government" und "I Don’t Care About Music Anymore" wirkt es wie ein musikalischer Molotow-Cocktail, eingehüllt in einen zotteligen Pullover aus dem Secondhand-Laden. Es ist von Natur aus chaotisch, rebellisch und vehement gegen das Establishment gerichtet. Wenn man es hört, fühlt es sich an, als schleichte man sich in einen illegalen Keller-Gig, bei dem die Band über durchgebrannte Lautsprecher spielt und niemand sich um morgen schert.
+
+::genre::indie rock, post punk, art rock
+
+## Top Ten Funny Moments - Tolerant To Salt
+
+Unter einem komödiantischen, an Memes angelehnten Namen spielt das Projekt ausgiebig mit Online-Ironie und verbirgt dabei wirklich clevere Songstrukturen. **Lo-Fi**, experimentelle und satirische **Art-Pop**-/**Indie**-Ausdrucksformen. "Tolerant to Salt" ist ein wunderbar bizarrer, trockener Einblick in die moderne digitale Erschöpfung. Das Thema vermittelt das Gefühl, um 3:00 Uhr morgens durch die sozialen Medien zu scrollen, während im Hintergrund eine seltsam eingängige Melodie spielt. Es ist witzig, höchst unkonventionell und tief durchdrungen von einem trockenen, sarkastischen Humor, der die Absurdität des Alltags verspottet.
+
+::genre::indie pop, alt pop, art pop, lofi
+
+## Traitor - Alive
+
+Diese Band mit einer Sängerin, die aus der robusten japanischen Underground-Metal-Szene hervorgegangen ist, verbrachte das Jahr 2025 damit, ihren Sound im Studio zu verfeinern. High-Speed-**Power-Metal** und **Speed-Metal**. Schnappt euch eure Lederjacke und haltet euch fest, denn "Alive" ist ein Album, das wie ein regelrechter Blitzsturm wirkt. Das Album legt mit Tracks wie "Thorn in Memory" und "Vampire" einen fulminanten Start hin und erzählt Geschichten von gotischer Rebellion, nächtlichen Eskapaden und Überleben. Angetrieben von rasanten Gitarrensoli, hochfliegendem Gesang und einer Double-Bass-Drum-Präsenz, die sich wie ein Güterzug vorwärtsbewegt, ist es eine glorreiche Hymne an die kompromisslose Lautstärke.
+
+::genre::power metal, speed metal
+
+## Viruette - Meridian
+
+Viruette erlangten nach einer Reihe erfolgreicher Singles und einem hochgelobten Debüt-Album sofort lokale und Underground-Bekanntheit. Sie sind bekannt für ihr dichtes, melodisches Spiel und ihre energiegeladenen Live-Auftritte. Kraftvoller **Alternative Rock** und **Indie-Rock**. "Meridian" ist ein mitreißendes, hochoktaniges Gitarrenalbum voller emotionaler Wucht. Mit Songs wie "Swaya" und "Mutant Memories" beschäftigt sich das Album intensiv mit Themen wie verzerrter Nostalgie und der Suche nach menschlicher Verbundenheit. Die Band präsentiert gewaltige Hymnen, die sich irgendwie sowohl intim genug anfühlen, um in deinem Schlafzimmer dazu zu weinen, als auch gewaltig genug, um Stadionwände zum Beben zu bringen.
+
+::genre::alt rock, indie rock
+
+## Wülsh - Reality *
+
+*Wülsh* entfaltet sich in einem Raum, in dem traditionelle Instrumente mit modernen Mischtechniken verschmelzen und so dichte, sich weiterentwickelnde Arrangements entstehen lassen. Ausgehend von tiefgründigen, atmosphärischen Strukturen lässt sich das Album in erster Linie dem **Progressive Rock** zuordnen, mit Einflüssen von **Art Rock**, **Neo Prog** und **Symphonic Prog**. "Reality" entfaltet sich wie ein schwindelerregendes, philosophisches Labyrinth. Es beginnt mit der großangelegten Fragestellung des Titeltracks und schlängelt sich durch klangliche Dialoge und plötzliche Umwege. Es fühlt sich weniger wie beiläufiges Zuhören an, sondern eher wie das Erwachen in einem fremden Traum, in dem die Wände je nach Melodie ihre Farbe wechseln. Wenn du die Struktur des Daseins hinterfragen möchtest, während du deinen Kopf zu komplexen Drum-Fills wippst, ist dies dein Soundtrack.
+
+::genre::prog rock, neo prog rock, art rock
