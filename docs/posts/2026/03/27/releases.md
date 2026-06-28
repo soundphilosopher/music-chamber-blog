@@ -100,7 +100,7 @@ Das Solo-Projekt um den italienischen Multi-Instrumentalisten Andrea Bruzzone mi
 
 ## Ben McElroy - Allotment Tapes #3: We Are All Visitors Here
 
-Die neueste Installation der monatlichen "Allotment Tape" Serie des britischen Multi-Instrumentalisten. "Allotment Tapes" ist ein fortlaufendes Projekt, das sich um die St. Anns Allotments in Nottingham dreht, die älteste und größte Kleingartenanlage Europas. Diese spezielle Folge entstand in Zusammenarbeit mit Rachel Brooke. Der Klang zeichnet sich durch Black-Hole-Drones, bearbeitete akustische Texturen (Cello, Violine, Viola, Klarinette) und Fundstücke aus. Eine Mischung aus Ambient Folk, moderner Klassik und Drone, bei der häufig Feldaufnahmen und Interviews zum Einsatz kommen.
+Die neueste Installation der monatlichen "Allotment Tape" Serie des britischen Multi-Instrumentalisten. "Allotment Tapes" ist ein fortlaufendes Projekt, das sich um die St. Anns Allotments in Nottingham dreht, die älteste und größte Kleingartenanlage Europas. Diese spezielle Folge entstand in Zusammenarbeit mit Rachel Brooke. Der Klang zeichnet sich durch Black-Hole-Drones, bearbeitete akustische Texturen (Cello, Violine, Viola, Klarinette) und Fundstücke aus. Eine Mischung aus Ambient Folk, moderner Klassik und Drone, bei der häufig Field Recordings und Interviews zum Einsatz kommen.
 
 ::genre::ambient folk, modern classic, drone, field recordings
 
@@ -178,7 +178,7 @@ Die Debüt EP der offiziellen Nachfolger von Carnivore, ohne Peter Steele (R.I.P
 
 ## Caroline Davis - Fallows
 
-Das erste pure Solo-Release der amerikanischen Jazz-Saxophonistin, Komponistin und Producerin. Entstanden während eines einmonatigen Künstleraufenthalts bei der Ucross Foundation im ländlichen Wyoming. Davis nahm das Material allein in einer Hütte auf und nutzte dabei tägliche Improvisationen, ohne dem Druck typischer Studio-Deadlines oder den Erwartungen des Publikums ausgesetzt zu sein. Eine Abkehr von ihren Wurzeln im Jazzensemble, bei der sie Altsaxophon, Elektronik und vor Ort aufgenommene Feldaufnahmen miteinander verbindet. Das Werk kann als experimentell, ambient und unterirdisch wahrgenommen werden und lotet die klanglichen Möglichkeiten des Saxophons aus.
+Das erste pure Solo-Release der amerikanischen Jazz-Saxophonistin, Komponistin und Producerin. Entstanden während eines einmonatigen Künstleraufenthalts bei der Ucross Foundation im ländlichen Wyoming. Davis nahm das Material allein in einer Hütte auf und nutzte dabei tägliche Improvisationen, ohne dem Druck typischer Studio-Deadlines oder den Erwartungen des Publikums ausgesetzt zu sein. Eine Abkehr von ihren Wurzeln im Jazzensemble, bei der sie Altsaxophon, Elektronik und vor Ort aufgenommene Field Recordings miteinander verbindet. Das Werk kann als experimentell, ambient und unterirdisch wahrgenommen werden und lotet die klanglichen Möglichkeiten des Saxophons aus.
 
 ::genre::avant jazz, experimental electronica, improvisation
 
@@ -767,7 +767,7 @@ Die Debüt EP der schottischen Kapelle. Selbsternannter "Postapokalyptischer Pop
 
 ## Lomi, Dornen - A Sudden Burst Of Noise
 
-Eine experimentelle elektronische Kollaboration, die Architektur als kompositorisches Element behandelt. Das Album nutzt unverarbeitete, vertont Pulsardaten sowie Feldaufnahmen von einem Radioteleskop in der Eifel. Wenn du dich jemals gefragt hast, wie ein rotierender Stern klingt, wenn er durch ein deutsches Radioteleskop gefiltert wird, findest du hier die Antwort. Es ist eine berauschende, rhythmische Erkundung, bei der Rotation zum Rhythmus wird. Es ist klangliche Architektur im wahrsten Sinne des Wortes - perfekt, um das Gefühl zu haben, durch eine Betonkathedrale im Weltraum zu schweben.
+Eine experimentelle elektronische Kollaboration, die Architektur als kompositorisches Element behandelt. Das Album nutzt unverarbeitete, vertont Pulsardaten sowie Field Recordings von einem Radioteleskop in der Eifel. Wenn du dich jemals gefragt hast, wie ein rotierender Stern klingt, wenn er durch ein deutsches Radioteleskop gefiltert wird, findest du hier die Antwort. Es ist eine berauschende, rhythmische Erkundung, bei der Rotation zum Rhythmus wird. Es ist klangliche Architektur im wahrsten Sinne des Wortes - perfekt, um das Gefühl zu haben, durch eine Betonkathedrale im Weltraum zu schweben.
 
 ::genre::experimental electronica, field recordings, ambient
 

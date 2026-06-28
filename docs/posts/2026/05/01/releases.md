@@ -58,7 +58,7 @@ Eine düstere Alternative-Band, die in der europäischen Gothic- und Doom-Szene 
 
 ## Ard Bit, Radboud Mens - Mara Silen
 
-Eine Zusammenarbeit zweier niederländischer Elektronik-Veteranen, die für ihre langjährige Auseinandersetzung mit Drone-Musik und Umgebungsgeräuschen bekannt sind. **Ambient** und **Drone**. In ihren Werken verwenden sie häufig Feldaufnahmen, um langsam verlaufende, atmosphärische Klangtexturen zu schaffen. "Mara Silen" ist ein tiefes, eindringliches Eintauchen in die Stille. Es fühlt sich an, als stünde man nachts auf einem weiten, offenen Feld, während die Welt um einen herum leise summt. Es ist still, schwer und von eindringlicher Schönheit.
+Eine Zusammenarbeit zweier niederländischer Elektronik-Veteranen, die für ihre langjährige Auseinandersetzung mit Drone-Musik und Umgebungsgeräuschen bekannt sind. **Ambient** und **Drone**. In ihren Werken verwenden sie häufig Field Recordings, um langsam verlaufende, atmosphärische Klangtexturen zu schaffen. "Mara Silen" ist ein tiefes, eindringliches Eintauchen in die Stille. Es fühlt sich an, als stünde man nachts auf einem weiten, offenen Feld, während die Welt um einen herum leise summt. Es ist still, schwer und von eindringlicher Schönheit.
 
 ::genre::ambient, drone
 

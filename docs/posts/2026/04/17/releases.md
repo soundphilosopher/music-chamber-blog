@@ -520,7 +520,7 @@ Die 2008 gegründete Band hat sich mit sechs bisherigen Studioalben zu einem fes
 
 ## Kathryn Mohr - Carve
 
-*Mohr*, bekannt für ihr Debütalbum aus dem Jahr 2022 und "Waiting Room" aus dem Jahr 2025, nimmt ihre Musik oft an abgelegenen, stimmungsvollen Orten auf (wie beispielsweise in einer verlassenen isländischen Fischfabrik). **Avant-Folk**, **Ambient** und **Lo-Fi-Indie**. Aufgenommen in einem Single-Wide-Wohnwagen in der Mojave-Wüste, wirkt dieses Album wie eine staubige, sonnenverblasste Erinnerung. Es ist intim und schwer von Liebe als Trauer, eine Mischung aus Feldaufnahmen und melancholischer Gitarre. Es ist der perfekte Soundtrack, um auf einer Veranda zu sitzen und auf einen Horizont zu starren, der nicht aufhört, sich zu bewegen.
+*Mohr*, bekannt für ihr Debütalbum aus dem Jahr 2022 und "Waiting Room" aus dem Jahr 2025, nimmt ihre Musik oft an abgelegenen, stimmungsvollen Orten auf (wie beispielsweise in einer verlassenen isländischen Fischfabrik). **Avant-Folk**, **Ambient** und **Lo-Fi-Indie**. Aufgenommen in einem Single-Wide-Wohnwagen in der Mojave-Wüste, wirkt dieses Album wie eine staubige, sonnenverblasste Erinnerung. Es ist intim und schwer von Liebe als Trauer, eine Mischung aus Field Recordings und melancholischer Gitarre. Es ist der perfekte Soundtrack, um auf einer Veranda zu sitzen und auf einen Horizont zu starren, der nicht aufhört, sich zu bewegen.
 
 ::genre::avant folk, prog folk, lofi, indie folk, ambient
 
