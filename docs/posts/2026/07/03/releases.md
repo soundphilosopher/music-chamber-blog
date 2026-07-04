@@ -358,155 +358,77 @@ tbd
 
 ::genre::
 
-## L.A. Guns - Live From The Guild Theatre
-
-tbd
-
-::genre::
-
-## Late Tears - Time Is A Lovely Thing, Use It To Your Advantage
-
-tbd
-
-::genre::
-
-## Lil Bean - YEAH BOP!
-
-tbd
-
-::genre::
-
 ## lina-mariah - I Feel Like Shit and It's All Your Fault
 
-tbd
+Als Vorreiterin der Underground-Indie-Szene hat sie sich durch unverfälschte Musikvideos in den sozialen Medien eine organische Fangemeinde im Internet aufgebaut. **Pop-Punk**, **Alternative Rock** und **Modern Pop**. Inspiriert von *Avril Lavigne* und *Olivia Rodrigo*. Dieses Projekt fühlt sich genau so an, als würde man die privaten, tränenbefleckten Tagebucheinträge einer anderen Person lesen, während man unter einem blinkenden Neon-Stroboskoplicht herumhüpft. Das Album verbindet knackige Gitarren-Hooks mit unglaublich geschmeidigen, eingängigen Pop-Melodien und taucht kopfüber in Themen wie bittere Selbstvorwürfe, chaotische Beziehungen und Teenager-Angst ein. Es ist unglaublich roh, wunderschön ehrlich und trägt genau die Art von angstgeladener Energie in sich, die einen dazu zwingt, die Texte in seinem Schlafzimmer aus voller Kehle mitzuschreien.
 
-::genre::
+::genre::pop punk, alt rock, alt pop, power pop
 
 ## Listed / Misled - Split
 
-tbd
+Beide Bands sind in der DIY-Touring-Szene äußerst aktiv und bekannt für rasante Tempi und provokative Live-Auftritte. **Hardcore-Punk**, **Fastcore** und **D-Beat**. Wenn eure Ohren schon immer einmal das klangliche Äquivalent dazu erleben wollten, den Kopf direkt in den Motor eines Rasenmähers zu stecken, dann ist diese Split-Veröffentlichung euer heiliger Gral. Die Tracks verzichten komplett auf kommerziellen Schnickschnack und rasen in atemberaubendem Tempo dahin, das einem den Atem raubt. Mit zerklüfteten Gitarrenverzerrungen und kehlenschneidenden Schreien kanalisieren sie rohe, kompromisslose Anti-Establishment-Wut. Es ist ungeschliffen, schnell und der perfekte Adrenalinstoß für einen aggressiven Moshpit im Keller.
 
-::genre::
+::genre::hardcore punk, d-beat, powerviolence
 
 ## Lockhart - City Pulse
 
-tbd
+Ein kanadisches Heavy-Metal-Supergroup-Trio, bestehend aus Sänger Devon Kerr (Axxion), Bassist Jason Junop (Cauldron) und dem kraftvollen Tour-Schlagzeuger Fabio Alessandrini (Bonfire, Annihilator). **AOR**, 80er-Jahre-**Arena-Rock**, melodischer **Hard Rock** und **Synth-Rock**. Inspiriert von Stadion-Rock-Ikonen wie *Journey*, *Boston* und *Toto*. Packt euer Haarspray und eure Luftgitarren ein, denn dieses Debütalbum ist ein direkter Zeitreise-Pass, der euch direkt in ein neonbeleuchtetes Football-Stadion aus dem Jahr 1984 entführt. Das Trio lässt seine gewohnten Heavy-Metal-Gefilde hinter sich und zaubert einen glorreichen Cocktail aus strahlenden Keyboard-Melodien, massiven Arena-Drum-Beats und mitreißenden Refrains. Mit hochoktanigen, melodischen Hymnen wie "Can't Shake It" und "The Dose That Made You Poison" fängt das Album die treibende Energie und die nostalgische Romantik einer Retro-Stadtlandschaft ein.
 
-::genre::
+::genre::arena rock, hard rock, melo rock
 
 ## Lorena Álvarez & Alejandro Palacios - Jardín Giratorio
 
-tbd
+Das 2022 als alternatives Duo gegründete Duo aus Álvarez (Rhodes-Piano, Synthesizer und Effekte) und Palacios (Posaunen, E-Gitarre und Kontrabass) ist in der lokalen chilenischen Underground-Szene hoch angesehen. **Narkoleptischer Jazz**, **Ambient-Improvisation**, **Avantgarde-Folk** und **Leftfield-Elektroakustik**. Willkommen in einer stillen, wunderschönen Klanggalerie, in der staubige Bläser-Loops buchstäbliche Rauchringe über dunstige Keyboard-Teppiche ziehen. Fernab von traditionellen Tempi oder Radiostrukturen fließt der Track wie ein langsamer, sich drehender Tagtraum vor dem inneren Auge. Durch die Verflechtung von flüsternden Wah-Gitarren mit weitläufigen, trägen Posaunenimprovisationen nachbildet das thematische Konzept einen ruhigen, sich drehenden Garten aus Licht und Schatten - und liefert einen herrlich stillen, abstrakten Soundtrack für einen regnerischen Nachmittag.
 
-::genre::
-
-## Low Cut Connie - Livin In The USA
-
-tbd
-
-::genre::
-
-## Lynch. - CLIMAX
-
-tbd
-
-::genre::
-
-## Lửa - pain is no measure of love
-
-tbd
-
-::genre::
+::genre::avant jazz, ambient acoustic, avant folk, leftfield electronica, improvisation
 
 ## Madonna - CONFESSIONS II
 
-tbd
+Die als erfolgreichste Sängerin aller Zeiten geltende Pop-Königin hat sich für diese lang erwartete Fortsetzung erneut mit dem legendären Disco-Produzenten Stuart Price zusammengetan. **Dance-Pop**, **Chicago House**, **Detroit Techno** und **Electro-Disco**. Zieht eure Tanzschuhe an und macht euch bereit für ein spirituelles Erwachen unter der Discokugel, denn die Königin des Pop ist offiziell zurückgekehrt, um ihren Thron zurückzuerobern. Das Album bietet über eine Stunde nonstop herrlichen Club-Groove und enthält großartige Kollaborationen mit Sabrina Carpenter und ihrer eigenen Tochter Lourdes Leon. Getreu seinem Namen verbindet es gewaltige House-Beats mit verletzlichen, tagebuchartigen Bekenntnissen, die das Leben im New York der 80er Jahre und den persönlichen Heilungsprozess der Familie nachzeichnen. Es ist unglaublich elegant, strahlt unbändiges Selbstbewusstsein aus und beweist, dass die Tanzfläche nach wie vor ein heiliger Ort der absoluten Freiheit ist.
 
-::genre::
-
-## Manchester Morgue - III
-
-tbd
-
-::genre::
-
-## Manonmars - Entertainment System
-
-tbd
-
-::genre::
+::genre::electropop, dance, edm, ebm, acid house
 
 ## Martyrs Saint - From Strength To Strength
 
-tbd
+Eine unerbittliche Indie-Band, die für ihre rohe Kraft, ihren scharfen, aggressiven Stil und ihre mitreißende Live-Energie bekannt ist. **Hardcore-Punk** und **Hardcore-Metal**. Wenn eure Ohren schon immer einmal das klangliche Äquivalent dazu erleben wollten, wiederholt von einem Betonblock mit hoher Geschwindigkeit gerammt zu werden, dann ist diese Platte genau das Richtige für euch. Vollgepackt mit kieferverkrampfenden Gitarrenriffs, blitzschnellen Drums und kehlenschneidenden Schreien beißt die Band mit absoluter Wucht zu. Mit wilden Hymnen wie "Enemy Of My Enemy" und "The Divine Art Of War" konzentriert sich das übergreifende Thema ganz auf hart erkämpfte Widerstandskraft, den Kampf gegen innere Traumata und das Entfesseln purer, urwüchsiger Wut. Es ist kurze, direkte und ungeschliffene Metalcore-Brillanz.
 
-::genre::
+::genre::metallic hardcore
 
 ## mary in the junkyard - Role Model Hermit
 
-tbd
+Die Band besteht aus einem Trio von Musikern, die sich bereits als Teenager kennengelernt haben und im Underground für großes Aufsehen sorgten, bevor sie sich auf eine hochkarätige Tournee mit Wet Leg begaben. **Art-Rock**, **Indie-Rock**, **Post-Punk** und **Alternative-Folk**. Dieses großartige Debüt bezeichnet sich selbst frech als "weepy chaos rock" - und genau das liefert es auch. Frontfrau Clari Freeman-Taylor führt die Truppe mit einem unglaublich unverwechselbaren, trillernden Londoner Gesangsakzent an, der die Aufmerksamkeit auf sich zieht. Tracks wie "Crash Landing" und "Candelabra" weben ein wunderschönes Klanglabyrinth, in dem drahtige Math-Rock-Rhythmen mit eleganten, schwungvollen klassischen Streicharrangements verschmelzen. Es wirkt absolut grandios und zugleich intensiv intim - perfekt für alle, die ihren Indie-Rock mit poetischem Drama und filmischer Tiefe angereichert haben möchten.
 
-::genre::
-
-## Matt Cardle - The Great Escape
-
-tbd
-
-::genre::
+::genre::art rock, indie rock, post punk, alt folk
 
 ## Metaladian - Deaditation
 
-tbd
+Angeführt von Andrew Brophy - dem vielseitigen Mastermind, Leadsänger und virtuosen Schlagzeuger - hat diese kraftvolle Band über zwei Jahrzehnte lang ihren Sound in der kanadischen Metal-Underground-Szene entwickelt und geprägt. Extreme Metal, **Thrash Metal**, **Technical Death Metal** und **Progressive Metal**. Schnallt euch eure Nackenstütze fest, bevor ihr bei diesem mechanischen Biest auf Play drückt, denn es trifft mit der Wucht eines Betonblocks auf den Kiefer. Brophy führt den Hörer durch einen rasanten, schwindelerregenden chromatischen Angriff, der auf einer einzigartigen dreistufigen Struktur basiert: Plateau, Aufstieg und Abstieg. Das Thema bewegt sich auf einem dunklen, konfrontativen Grat zwischen extremer Gewalt und einer allmählichen Entwicklung hin zum Licht. Vollgepackt mit sich überschneidenden Gesangsattacken und halsbrecherischen Tempi, die ständig an Fahrt gewinnen, bietet es technischen Metal-Puristen eine phänomenale, hochoktanige Achterbahnfahrt.
 
-::genre::
-
-## Miko - Petals and Marbles
-
-tbd
-
-::genre::
+::genre::prog metal, tech death metal, thrash metal
 
 ## MISSIO - Love & Heartbreak
 
-tbd
+Das dynamische Duo (bestehend aus Matthew Brue und David Butler) hat sich weltweit eine enorme digitale Präsenz aufgebaut und wird für sein genreübergreifendes Sounddesign und seine cineastischen Gesangseffekte gefeiert. **Alternative Electronic**, **Indie-Pop**, **Dark Electropop** und **Alt-Rock**. Dieses Projekt fühlt sich genau so an, als stünde man direkt unter einem blinkenden Neon-Stroboskoplicht, während man mit einer schweren existenziellen Krise zu kämpfen hat. Das musikalische Arrangement wechselt zwischen lebhaften, klickenden Drum-Machine-Sequenzen und dunklen Synth-Pop-Grooves einerseits und sanften Hip-Hop- und Indie-Gesangsstilen andererseits. Mit Themen wie tiefer Selbstironie, romantischen Ängsten im Internet und modernen Bewältigungsstrategien ("Dopamine Kisses") liefert es eine äußerst tanzbare, emotional rohe popmusikalische Reizüberflutung, die perfekt für nächtliche Autobahnfahrten geeignet ist.
 
-::genre::
+::genre::indie pop, art rock, art pop, electropop
 
 ## Moonspell - Far From God
 
-tbd
+Die 1992 gegründete Band unter der Leitung ihres charismatischen Frontmanns Fernando Ribeiro gilt als absoluter Pionier des portugiesischen Extreme- und Gothic-Metal. Dieses Projekt ist ihr mit Spannung erwartetes 13. Studioalbum, das nach einer fünfjährigen Aufnahmepause erscheint. **Atmosphärischer Gothic-Metal**. Werft euch einen schwarzen Samtumhang über und betretet eine von Kerzen beleuchtete Steinkathedrale, denn dieses Album ist eine Meisterklasse in elegantem, schwerem Melodram. Das Album verbindet vernichtende Gothic-Metal-Riffs mit mitreißenden, gespenstischen Keyboard-Arrangements und eingängigen Hooks und erreicht mit der herausragenden spanischen Gastviolinistin Alicia Nurho theatralische Höhen. Thematisch befasst es sich mit alten biblischen Motiven, spiritueller Entfremdung und historischen Schlachten ("Reconquista") und hüllt dich in eine wunderschön düstere, orchestrale Umarmung, die man unmöglich oft genug wiederholen kann.
 
-::genre::
+::genre::gothic metal
 
 ## Mortem - Mørketid
 
-tbd
+Mortem wurde ursprünglich 1989 von Marius Vold und Steinar Sverd Johnsen gegründet und war der eigentliche Vorläufer der legendären Avantgarde-Band Arcturus. Nach einer jahrzehntelangen Pause kehrten sie mit einer Supergroup-Besetzung zurück, zu der ikonische Metal-Größen wie Hellhammer (Mayhem) am Schlagzeug und Seidemann (1349) am Bass gehörten. **Second-Wave-Black-Metal**, **atmosphärischer Black Metal** und **Death Metal**. Zieh dir einen Stachelhandschuh an und mach dich bereit, einem pechschwarzen Schneesturm entgegenzutreten. Der Titel, der aus dem Norwegischen übersetzt "Dunkle Zeit" bedeutet, verbindet gewaltige, monumentale Riffs im mittleren Tempo mit rasanten, hyperschnellen Black-Metal-Explosionen. Ergänzt durch unheimliche symphonische Keyboard-Klänge und qualvolle, knurrende Vocals zeichnen die Texte ein düsteres, episches Bild der menschlichen Zivilisation, die unter einem natürlichen Sturm des Krieges zusammenbricht. Es ist wunderschön trostlos, unglaublich heavy und gilt als Meisterwerk traditioneller norwegischer Metal-Architektur.
 
-::genre::
-
-## Mr.Kitty - FINALE:ACT1
-
-tbd
-
-::genre::
-
-## N3b - Streetlight Orange
-
-tbd
-
-::genre::
-
-## Nam-Khar - Antimon
-
-tbd
-
-::genre::
+::genre::atmo black metal, blackened death metal
 
 ## Nxmad - The Second Fall
 
-tbd
+Das Quartett, das seit 2012 unter seinem ursprünglichen Namen Nomand (später in Nxmad umbenannt) aktiv ist, hat sich einen Ruf als wahres Tour-Monster erarbeitet. Nachdem sie 2022 einen neuen Schlagzeuger verpflichtet hatten, nahmen sie dieses Projekt mit Produzent Joe Clayton im No Studio auf. **Sludge Metal**, **Groove Sludge** und **Hardcore**. Stark inspiriert von der aggressiven, tief gestimmten Wucht von Bands wie *Eyehategod* und *Crowbar*. Wenn du schon immer einmal das körperliche Gefühl erleben wolltest, langsam an den Knöcheln durch dickes, schlammiges Sumpfwasser gezogen zu werden, dann ist diese Platte dein heiliger Gral. Sie liefert eine monolithische Wand aus kreischender Gesangsqual, kraftvollen, stampfenden Riffs und tief gestimmten, dreckigen Gitarrenklängen. Das Thema dreht sich um einen schweren, bedächtigen klanglichen Abstieg - und strahlt genau jene rohe, unbearbeitete Garage-Energie aus, die deine Fenster zum Klappern bringt und dich dazu treibt, in Zeitlupe gegen eine Wand zu schlagen.
 
-::genre::
+::genre::sludge metal, groove metal
 
 ## Play Time - Magic Object
 
