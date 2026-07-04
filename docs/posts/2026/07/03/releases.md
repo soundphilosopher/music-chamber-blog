@@ -298,65 +298,17 @@ tbd
 
 ::genre::
 
-## idialedyournumber - Teenage Widow
-
-tbd
-
-::genre::
-
 ## Illwind - The Unfolding At The End Of Light
 
-tbd
+Die Band, bestehend aus vier erfahrenen Veteranen der dunklen DIY-Szene, nahm diese Sessions mit rohen, durch und durch analogen Aufnahmetechniken auf. Traditioneller **Doom Metal**, **Blackened Doom**, **Post-Punk** und **Shoegaze**. Inspiriert von den frühen *The Cure*, *Windhand* und *Neurosis*. Zieh dir einen schwarzen Samtumhang über und mach dich bereit, in den Abgrund zu kriechen, denn dieses Debüt ist ein absoluter Monolith wunderschöner Melancholie. Es entfaltet eine erdrückende, schwerfällige Last aus verzerrten Gitarrenriffs und traurigem klarem Gesang, um dann plötzlich mit unerwarteten Ausbrüchen von hyperschnellen Blastbeats der ersten Black-Metal-Welle die Dunkelheit zu durchbrechen. Thematische Pfade führen dich durch eine graue, spiralförmige Traumlandschaft aus existenzieller Angst und kosmischem Verfall und bescheren dir einen erdrückend schweren und doch wunderbar atmosphärischen Trip.
 
-::genre::
-
-## Infant - Dustlick
-
-tbd
-
-::genre::
-
-## Insurrectum - The Last Battle
-
-tbd
-
-::genre::
-
-## Jason Shooster - Generations
-
-tbd
-
-::genre::
+::genre::doomgaze, post punk, blackened doom metal
 
 ## Javano - Juncture
 
-tbd
+Ein äußerst fokussierter Klangforscher, der sechs Jahre lang sorgfältig experimentiert und sich von reinen Drum-and-Bass-Vorlagen gelöst hat, um eine umfassendere elektronische Vision zu entwerfen. **Electronica**, **Drum & Bass**, **UK Garage**, **Dub** und **Techno**. Tauchen Sie direkt ein in einen dunklen, stickigen, rauchgefüllten Warehouse-Club, in dem die Zeit jegliche Bedeutung verliert. Javano beweist ein makelloses Verständnis für physischen Rhythmus und verbindet mühelos rasante, temporeiche Breaks mit tiefen, basslastigen Grooves und mitreißenden atmosphärischen Texturen. Das Album fungiert buchstäblich als „klangliche Kreuzung“ der britischen Underground-Clubkulturen und fängt eine kompromisslose, zukunftsorientierte Reise ein, die ebenso perfekt für Tanzflächen zu später Stunde wie für hochwertige Kopfhörer geschaffen ist.
 
-::genre::
-
-## JAZZWRLD - Secrets of the WRLD
-
-tbd
-
-::genre::
-
-## Ken Carson - xperiment
-
-tbd
-
-::genre::
-
-## Koh - Golden Death
-
-tbd
-
-::genre::
-
-## Krisy - Edward Risky
-
-tbd
-
-::genre::
+::genre::d&b, edm, uk garage
 
 ## lina-mariah - I Feel Like Shit and It's All Your Fault
 
