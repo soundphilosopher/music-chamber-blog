@@ -204,99 +204,39 @@ tbd
 
 ## Frolic - Legacies Of Cybernetica
 
-tbd
+Als aufstrebende Kraft in der modernen kalifornischen Underground-Metal-Renaissance wird die Band für ihre blitzschnellen Live-Sets und ihre schwindelerregende instrumentale Präzision gefeiert. **Technischer Thrash Metal**, **Crossover-Thrash** und **Speed Metal**. Schnallt eure Nackenstützen fest, bevor ihr auf Play drückt, denn diese Platte trifft mit der absoluten Geschwindigkeit einer Hyper-Speed-Railgun. Die Band entfesselt ein unglaubliches Feuerwerk aus messerscharfen, komplexen Gitarrenduelle, halsbrecherischen Schlagzeugpatterns und bellenden, aggressiven Vocals. Textlich tauchen Songs wie "Living In Virtuality" und "Celestial Aventus" direkt in futuristische Cyberpunk-Kriege, außer Kontrolle geratene künstliche Intelligenz und digitale Zerstörung ein. Das Album ist schnell, technisch makellos und liefert den ultimativen Mosh-Treibstoff für Metal-Traditionalisten.
 
-::genre::
-
-## Function - Aeternum (Existenz)
-
-tbd
-
-::genre::
+::genre::tech thrash metal, crossover, speed metal
 
 ## Generation Landslide - Existence
 
-tbd
+Eine Band aus erfahrenen Rock-Profis, die für kraftvolle, klassische Gitarrenriffs und imposante Gesangspassagen bekannt ist. **Hard Rock**, **Glam Metal** und **Arena Rock**. Tief inspiriert von den Schwergewichten des Sunset Strip der 1980er Jahre. Packt eure Lederwesten und das Haarspray ein, denn dieses Album ist eine laute, zum Mitfiebern einladende Zeitkapsel, die euch direkt zurück auf eine ausverkaufte Stadiontournee aus dem Jahr 1988 versetzt. Durch die Verschmelzung von feurigen Gitarrensoli und donnernden Drums mit massiven, hochfliegenden Refrains überzeugen Hymnen wie "Dirty Little Blonde" und "Runnin' Outta Time" mit unglaublicher, ungeschliffener Selbstsicherheit. Thematisch konzentriert sich das Album ganz auf unbändige Freiheit, Abenteuer auf Tour und Rock’n’Roll-Ausdauer und liefert einen süchtig machenden Schuss puren Retro-Adrenalins.
 
-::genre::
-
-## GhostMinus - (minuscore)
-
-tbd
-
-::genre::
+::genre::hard rock, arena rock, heavy rock, glam metal
 
 ## Giada Pignotti - Storia di Laide (before sleeping)
 
-tbd
+Pignotti ist in erster Linie eine bildende und Performance-Künstlerin, deren Audioarbeiten eine Erweiterung ihrer Auseinandersetzung mit Zeichnungen, Installationen und menschlichen Aufenthaltserfahrungen darstellen. **Avantgarde**, **Experimental**, **Ambient**, **Spoken Word** und Sound Design. Diese Veröffentlichung vermittelt genau das Gefühl, als würde man um Mitternacht ganz allein durch eine schummrig beleuchtete, hallende Kunstgalerie schlendern. Das Sounddesign entfernt sich bewusst von gängigen Songstrukturen und vorhersehbaren Rhythmuspartien und verwebt unheimliche, zerbrechliche Ambient-Drones, strukturierte Fundstücke und rätselhafte Spoken-Word-Passagen miteinander. Das Thema lotet die verschwommenen Grenzen zwischen hypnagogischen Zuständen und nächtlichen Gedanken aus, bevor man die Nachttischlampe ausschaltet, und schafft so einen wunderschön seltsamen, traumartigen Klangraum.
 
-::genre::
+::genre::avant electronica, experimental electronica, ambient, spoken words
 
 ## Gods & Punks - A Shrine By The Sea
 
-tbd
+Die 2013 von den Brüdern Alexandre und Pedro Canhetti gegründete Powerhouse-Band hat sich mit sechs Studioalben eine riesige Kult-Anhängerschaft aufgebaut, dank ihrer mitreißenden, konzeptorientierten Progressive-Space-Rock-Suiten. **Stoner Rock**, **Doom Metal** und psychedelischer **Progressive Rock**. Stark beeinflusst von *Black Sabbath*, *Monster Magnet* und *Rush*. Schenkt euch ein Glas Rum ein und richtet eure Teleskope direkt auf den Horizont, denn die Doom-Piloten haben den Riff-Kraken offiziell entfesselt! Das Album, das als grandiose, epische Ode an den Ozean konzipiert ist, unterteilt seine gesamte Spielzeit in nur zwei gewaltige, 21-minütige symphonische Kompositionen: "The Lighthouse" und "Poseidon". Durch die Verschmelzung von gewaltigen, monolithischen Gitarrenriffs mit wunderschönen psychedelischen Passagen entführt dich das Album auf ein unglaubliches, spannungsgeladenes interstellares Seefahrerabenteuer, das Prog-Puristen absolut begeistern wird.
 
-::genre::
-
-## GRiMM Doza & KGM Steezus - Just Jottin
-
-tbd
-
-::genre::
-
-## HAKV Ben - dark angel with black wings
-
-tbd
-
-::genre::
-
-## Harsh - Feels
-
-tbd
-
-::genre::
-
-## He Didnt - Dark Making
-
-tbd
-
-::genre::
+::genre::doom metal, prog rock, psych rock, stoner rock
 
 ## Hex Divided - Hex Divided I
 
-tbd
+Als hochbegabter Ein-Mann-Studiokünstler schrieb und nahm Mery das gesamte Projekt eigenständig auf, bevor er Fabien Devaux für die modulare Abmischung und das Mastering hinzuzog. **Alternative Metal**, **Progressive Rock** und **atmosphärischer Heavy-Gaze**. Dieses Debütprojekt wirkt wie ein wunderschöner, dunkler Sturm, der über eine zerklüftete Küste hinwegfegt. Mery verzichtet auf bloße technische Effekthascherei und setzt stattdessen auf ein reichhaltiges, spannungsgeladenes Zusammenspiel zwischen scharfen, technisch anspruchsvollen Gitarrenriffs und weitläufigen, filmischen Synth-Texturen. Das Thema bewegt sich zwischen persönlichen Turbulenzen, inneren Grenzen und strukturellen Veränderungen. Es ist heavy, wunderbar atmosphärisch und gilt als unglaublich fesselnde Meisterklasse des dynamischen modernen Metal.
 
-::genre::
+::genre::alt metal, prog rock, shoegaze, post metal
 
 ## Hot Load - Realized
 
-tbd
+Ein gnadenlos aggressives, unabhängiges Power-Trio, das sich auf Plattformen wie Bandcamp mit aggressiven, rasanten Demos einen Namen in der lokalen Szene gemacht hat. **Hardcore-Punk**, **Noise-Rock** und **D-Beat-Garage-Punk**. Schnallt euch eure Stachelarmbänder um und überprüft eure Zahnversicherung, denn diese Platte ist ein Frontalzusammenstoß bei Höchstgeschwindigkeit. Die Band rast durch acht Tracks mit aggressiven Titeln wie "Blood Damage" und "Widowmaker" und entfesselt dabei eine glühende Wand aus rotzigem Gitarren-Fuzz, krachenden Becken und rohem, giftigem Gesang. Das zugrunde liegende Thema ist pure, ungeschönte urbane Frustration und die Weigerung, sich von der alltäglichen gesellschaftlichen Beklemmung einschüchtern zu lassen. Es ist laut, intensiv körperlich und sorgt für einen außergewöhnlichen Rausch aus purem Garage-Adrenalin.
 
-::genre::
-
-## Hubert. - sie porobiło…
-
-tbd
-
-::genre::
-
-## humpty - mermaid
-
-tbd
-
-::genre::
-
-## Hunter Complex - Call of the Wild and Void
-
-tbd
-
-::genre::
-
-## Ian Prowse - No Names
-
-tbd
-
-::genre::
+::genre::hardcore punk, noise rock, d-beat, garage punk
 
 ## Illwind - The Unfolding At The End Of Light
 
