@@ -1,206 +1,86 @@
 ---
 date: 2026-07-03
 pin: true
-bandcamp: false
+bandcamp: true
 categories:
   - Releases
 ---
 
 # Releases! Releases! Releases!
 
-## 218Bojay - Rookie of the Year
-
-tbd
-
-::genre::
-
-## 870glizzy - BAMN.
-
-tbd
-
-::genre::
-
 ## acloudyskye - In a while this will all be gone
 
-tbd
+Unter einem hoch angesehenen digitalen Künstlernamen hat sich der produktive Toningenieur mit sechs Studioalben und seinem komplexen Klangdesign eine riesige Internet-Kult-Anhängerschaft aufgebaut. **Alternative Electronic**, **Leftfield Bass**, **Glitch** und **Cinematic IDM**. Dieses Projekt wirkt, als würden sich in deinem Gehirn gleichzeitig mehrere wunderschön fragmentierte Browser-Tabs öffnen. Durch die Verschmelzung von schweren, übersteuerten Bass-Drops mit glitchigen digitalen Klicks, schwungvollen akustischen Streichermustern und zerbrechlichen Gesangsebenen nimmt dich das Album mit auf eine intensive sensorische Achterbahnfahrt. Das übergreifende Thema zielt auf die zerbrechliche, vergängliche Natur der Realität, digitale Isolation und den Verfall einer strukturierten Welt ab - und schafft so einen außergewöhnlichen, hyperdetaillierten Zufluchtsort für Kopfhörer.
 
-::genre::
-
-<!-- more -->
+::genre::leftfield electronica, glitch, idm, cine electronica
 
 ## Agarwaen - The Murder Trend
 
-tbd
+Bekannt für ihre theatralische Erzählweise und gewagte Konzeptalben, die weit über die üblichen Grenzen des Songschaffens hinausgehen. **Melodischer Black Metal**, **Horror Metal** und Symphonic Extreme Metal. Willkommen zu einem düsteren, theatralischen Horrorspiel, bei dem der Vorhang von purem akustischem Schrecken durchtränkt ist. Anstatt ein vorhersehbares, geradliniges Metal-Album zu liefern, konstruiert die Band sorgfältig eine erschreckende Geschichte, die eine persönliche Tragödie nachzeichnet, während diese sich zu einem beunruhigenden, globalen Nachahmerphänomen entwickelt. Musikalisch besticht das Album durch messerscharfe Black-Metal-Riffs, wechselnde Tempi und eine beklemmende Atmosphäre, die weniger wie eine Songliste wirkt, sondern eher wie ein furchterregender Psychothriller, der sich in deinen Ohren abspielt.
 
-::genre::
-
-## Altered Rebirth - Nethersun
-
-tbd
-
-::genre::
+::genre::melo black metal, symphonic black metal
 
 ## Animal Instinct - Demo
 
-tbd
+Direkt aus den eng verbundenen DIY-Kellern der nordöstlichen Underground-Hardcore-Szene. **Hardcore-Punk**, **Fastcore** und **Youth-Crew-Hardcore**. Wenn eure Trommelfelle schon immer einmal das akustische Äquivalent dazu erleben wollten, wiederholt von einem außer Kontrolle geratenen Betonblock seitlich gerammt zu werden, dann seid ihr hier genau richtig. Ohne jeglichen kommerziellen Schnickschnack prescht das Album durch seine kurze Spielzeit und setzt dabei auf aggressive, stampfende Riffs, schnelle Drum-Fills und kehlenschneidendes Gebrüll. Das zugrunde liegende Thema ist pure, ungeschönte Underground-Wut, Frustration auf Straßenebene und rohe körperliche Entladung - ein fantastischer Adrenalinstoß für jeden Moshpit.
 
-::genre::
+::genre::hardcore punk
 
-## Anton Pearson - Driving Through Belgium
-
-tbd
-
-::genre::
-
-## Arson - Arson
-
-tbd
-
-::genre::
-
-## Azad - DER BOZZ III
-
-tbd
-
-::genre::
-
-## Blake Whiten - Something to Say
-
-tbd
-
-::genre::
-
-## Camilla Pisani - Constellationen
-
-tbd
-
-::genre::
+<!-- more -->
 
 ## Caravan Of Souls - The Maze OF Doom
 
-tbd
+Die Band ist tief in der Underground-Szene der Heavy-Metal-Musik verwurzelt und kreiert langsam aufbauende, facettenreiche Metal-Arrangements, die von dramatischen Gesangsdarbietungen und schleichenden, tief gestimmten Gitarrenklängen getragen werden. Traditioneller **Doom Metal** und **Gothic Doom Metal**. Zieh deinen schwersten schwarzen Samtumhang an und such dir einen Ort im Kerzenschein, denn dieses Album ist ein gewaltiges Labyrinth voller grandioser Furcht. Musikalisch liefert sie eine massive, sich dahinschleppende Wucht aus Slow-Motion-Gitarrenriffs, hallender Kathedralen-Percussion und theatralischem Growlen. Mit Titeln wie "Prophecy of Suffering" und "Escape from Hell" beschäftigt sich das übergreifende Thema mit dem langsamen Zusammenbruch des Geistes in einem emotionalen Gefängnis. Es ist düster, wunderbar langsam und schafft eine immersive Klangwelt, die perfekt für eine kalte, stürmische Nacht geschaffen ist.
 
-::genre::
+::genre::doom metal, gothic metal
 
 ## Chairwalk - Misanthropie
 
-tbd
+Ursprünglich als lockeres Spaßprojekt im Hinterhof gegründet, verbrachte das unabhängige Quartett Jahre damit, an seiner Geschwindigkeit zu feilen, bevor es nacheinander Singles veröffentlichte. **Skatepunk**, **Deutschpunk** und **Melodic Hardcore**. Eine Verschmelzung von klassischem deutschem Punk der 80er Jahre mit südkalifornischem Skate-Rock der 90er. Zieh deinen Skateboard-Helm fest an, bevor du auf Play drückst, denn diese Platte rast mit absolut halsbrecherischer Geschwindigkeit dahin. Durch die Verschmelzung von treibenden, melodischen Gitarrenduellen und rasanten Drum-Fills mit rauer, kritischer deutscher Gesangsdarbietung legen die Tracks sofort los wie die Feuerwehr. Das übergreifende Thema zielt auf Frustration über die moderne globale Infrastruktur, existenzielles Burnout und alltäglichen Zynismus ("Menschenfeindlichkeit") in Stücken wie "Glaubenskrise". Es ist laut, unglaublich eingängig und liefert den ultimativen, rasanten Mosh-Treibstoff für Punkrock-Traditionalisten.
 
-::genre::
-
-## Charley Crockett - Clovis
-
-tbd
-
-::genre::
-
-## Chrome Cell Torture - Ibiza
-
-tbd
-
-::genre::
-
-## CODE ØNE - CONFESSIØNS
-
-tbd
-
-::genre::
+::genre::skatepunk, power pop, melo hardcore
 
 ## Cole Redding - A Boy From Nowhere
 
-tbd
+Als unabhängiger Singer-Songwriter und Multi-Instrumentalist hat er sich über Jahre hinweg mit emotionalen Einzelstücken eine digitale Präsenz aufgebaut. **Pop-Rock**, **Indie-Pop** und melodramatischer Pop. Er beschreibt seinen charakteristischen ästhetischen Stil als Motel-Melancholie mit Stadion-Sound. Dieses Album wirkt genau wie eine einsame Mitternachtsfahrt auf einer leeren Autobahn, auf der jeder Meilenstein eine andere tiefsitzende Erinnerung weckt. Redding kombiniert kraftvolle Gesangsschichten mit großartiger melodischer Instrumentierung, um eine klangliche Skizze der Flucht aus den Käfigen der Heimatstadt zu zeichnen. Das Album behandelt schwere Themen wie persönliche Genesung, geografische Unruhe und die Suche nach einer stillen Basis des Friedens in sich selbst. Es ist mitreißend, äußerst filmisch und dient als außergewöhnlicher Soundtrack für lange Nächte, in denen man aus einer regennassen Windschutzscheibe in die Ferne starrt.
 
-::genre::
-
-## Conception Huerta - No Queda Nada Todo Resuena / Nothing Remains Everything Resonates
-
-tbd
-
-::genre::
-
-## CONTRACT.J! & reverieee_ - Danny Kay
-
-tbd
-
-::genre::
+::genre::indie pop, alt pop, alt rock, mellow pop
 
 ## Coprolith - Putrescence
 
-tbd
+Tief verwurzelt in den absolut rauesten Tiefen des kanadischen Extreme-Underground-Szenes konzentriert sich diese Band auf eine reichhaltige, rein analoge Aufnahmeästhetik. **Old-School-Death-Metal** und **Death-Doom-Metal**. Inspiriert von Giganten der frühen 90er Jahre wie *Incantation*, *Grave* und *Demigod*. Zieh dir eine schwarze Samtkapuze über und mach dich bereit, ein schleimiges, unterirdisches Grab des absoluten akustischen Horrors zu entdecken. Diese Platte umgeht moderne, überpolierte Metal-Trends komplett und entfesselt eine schreckenerregende Landschaft aus Verwesung, skelettartigen Gitarrenriffs und qualvollen, kehligen Growls. Konzeptionell orientieren sich Tracks wie "Sentenced To The Grave" und "Birthed By Remorseless Flames" am Thema des reinen, unverfälschten makabren Verfalls. Es ist langsam, unglaublich massiv und ein herrlich dreckiger Genuss für Death-Metal-Puristen.
 
-::genre::
-
-## Cut Short - Modern Affliction
-
-tbd
-
-::genre::
-
-## Dax J - Sphinx
-
-tbd
-
-::genre::
+::genre::osdm, doom metal, death metal
 
 ## Deadweight - Echoes Of Despair
 
-tbd
+Die Band, die Ende 2023 direkt aus einem eng verbundenen regionalen Hardcore-Kollektiv hervorging, gewann nach ihrer Debüt-EP "Desolace" schnell landesweit an Fahrt auf der DIY-Festivalszene. **Metalcore**, **Hardcore-Punk** und Thrash-beeinflusster Metal. Schnürt eure Sneaker fest und spannt eure Bauchmuskeln an, denn dieses Debütalbum wirkt wie eine regelrechte Dampfwalze, die auf Hochtouren läuft. *Deadweight* verbindet meisterhaft schwere, stampfende Metalcore-Riffs mit dem rohen Groove und der rasenden Energie von Old-School-Hardcore-Moshpits. Mit düsteren, viszeralen Hymnen wie "Silicon Blood", "Out Of Mana" und "The Undertow" taucht das übergreifende Thema kopfüber in existenzielle Angst, strukturelle Frustration und rohes Überleben ein. Es ist kurz, intensiv gewalttätig und eine brillante Explosion von purem Garage-Adrenalin.
 
-::genre::
+::genre::metalcore, metallic hardcore, thrash metal
 
 ## Deep Purple - SPLAT!
 
-tbd
+Eine echte Rock-Legende, die auf ein fast sechzigjähriges, legendäres Vermächtnis zurückblickt. Die wiederbelebte Rock-Maschine besticht durch die atemberaubende, moderne Ergänzung des virtuosen Gitarristen Simon McBride neben den klassischen Stammkräften Ian Gillan, Ian Paice und Roger Glover. **Classic Rock**, **Hard Rock** und **Proto-Metal**. Die Rockpioniere beweisen, dass ihre Old-School-Raketenmotoren absolut keine Anzeichen einer Verlangsamung zeigen, und kehren mit einer energiegeladenen Meisterleistung zeitloser Selbstsicherheit zurück. Die Klanglandschaft bietet einen ununterbrochenen, freudigen Rausch aus schweren Hammond-Orgel-Soli, treibenden Drum-Grooves und McBrides rasanten Blues-Rock-Gitarrenlicks. Textlich widmet sich das Album mit einer begeisterten, leicht augenzwinkernden Perspektive dem menschlichen Überleben, dem Älterwerden auf Tour und künstlerischer Ausdauer. Dabei schafft es das Album, massive Rock-Kraft mit verspielter Selbstsicherheit in Einklang zu bringen - und klingt dabei unglaublich lebendig und unglaublich spaßig.
 
-::genre::
-
-## DELIA - SICILIA BEDDA
-
-tbd
-
-::genre::
+::genre::heavy rock, hard rock, proto metal
 
 ## Dichotomy - Lucifer Owns The Fence
 
-tbd
+Das Projekt, das ganz und gar von der unerbittlichen Präzision im Studio und der meisterhaften Beherrschung zahlreicher Instrumente durch seinen Schöpfer Jordan Varela getragen wird, ist bekannt für seine unverfälschte Wucht. **Brutal Death Metal**, **Technical Death Metal** und **Christian Death Metal**. Macht euch darauf gefasst, dass eure Soundsysteme komplett dem Erdboden gleichgemacht werden, denn diese Platte schlägt mit der Wucht eines schweren Güterzugs zu. Musikalisch lässt Varela absolut keinen Raum für atmosphärische Lücken und entfesselt ein ununterbrochenes, kopfzerbrechendes Feuerwerk aus hyperschnellen Blastbeats, schwindelerregenden Gitarrenläufen und kehligen Brüllen. Das Konzept dreht sich um heftige christlich-theologische Auseinandersetzungen und prangert in Titeln wie "Satan Will Kill You" explizit das systemische Böse und die Versuchung an. Es ist aggressiv, gnadenlos kompromisslos und liefert extreme Death-Metal-Puristen eine brutale technische Tracht Prügel.
 
-::genre::
+::genre::brutal death metal, tech death metal, deathcore
 
 ## Dominum - Night is Calling
 
-tbd
+Angeführt vom Songwriter und charismatischen Sänger Felix Heldt (alias Dr. Dead) besteht die Band aus einer komplett kostümierten Zombie-Crew. Sie haben die europäischen Charts im Sturm erobert und waren ausgiebig mit Größen wie *Bruce Dickinson* und *Avantasia* auf Tour. Theatralischer **Power Metal**, **symphonischer Heavy Metal** und **Modern Rock** mit Horror-Thematik. Verschließt eure Türen und ladet eure Schrotflinten, denn die Zombie-Apokalypse hat sich offiziell zu einer riesigen Stadionparty entwickelt. Das Album verbindet schwere, messerscharfe Gitarrenriffs und rasante Drumbeats mit unglaublich eingängigen, radiotauglichen Gesangshooks und betritt die Bühne wie eine grandiose musikalische Horroroper. Konzeptionell entwirft es den Rahmen für einen verrückten Mitternachtskarneval, der von den Untoten veranstaltet wird ("The Circus Is In Town"), und liefert einen absoluten Kick aus purer, zum Mitfäusten animierender, gruseliger Energie, die einen zum Mitsingen zwingt.
 
-::genre::
+::genre::power metal, symphonic metal, heavy metal, arena rock, modern rock
 
-## Dragsholm - From The Bloodlines Of Bram
+## Frank Lloyd Wleft - The Actual Kids in Actual America *
 
-tbd
+Unter der Leitung des Songwriters Lloyd Bolton tritt Frank Lloyd Wleft zusammen mit einem großbesetzten Begleitorchester auf und schafft weitläufige Kompositionen mit komplexen Arrangements. Orchestraler **Indie-Rock**, **Chamber-Folk** und **Avant-Pop**. Schenk dir ein Glas Eistee ein und schau aus dem Fenster, denn dieses Album klingt wie ein mitreißender Panoramafilm, der mit einer wackeligen Handkamera gedreht wurde. Das Album unterlegt eine zutiefst poetische lyrische Erzählung mit grandiosen Orchesterviolinen, Lap-Steel-Gitarren und kräftigen Bläsersätzen. Ausgehend von dem schonungslosen Thema - Der Untergang Amerikas, gefilmt mit dem iPhone - wirkt das Album wie ein fesselndes, wunderschön hypnotisches Reisetagebuch eines Außenstehenden, der direkt in das Herz der modernen westlichen Erschöpfung blickt.
 
-::genre::
-
-## Drive Thru Society - Thresholds
-
-tbd
-
-::genre::
-
-## Fatoni - Drama endet nie
-
-tbd
-
-::genre::
-
-## Flavio - Octopus
-
-tbd
-
-::genre::
-
-## Frank Lloyd Wleft - The Actual Kids in Actual America
-
-tbd
-
-::genre::
+::genre::indie rock, chamber folk, avant pop
 
 ## Frolic - Legacies Of Cybernetica
 

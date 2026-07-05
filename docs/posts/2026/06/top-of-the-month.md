@@ -1,6 +1,6 @@
 ---
 date: 2026-06-30
-draft: true
+pin: true
 categories:
   - Top Lists
   - Recap
