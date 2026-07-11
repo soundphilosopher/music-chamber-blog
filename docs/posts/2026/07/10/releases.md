@@ -706,35 +706,23 @@ tbd
 
 ::genre::
 
-## My Raining Stars - Toy Club
-
-tbd
-
-::genre::
-
-## Ne-Yo - Highway 79
-
-tbd
-
-::genre::
-
 ## Nevver - Heart On Your Sleeve
 
-tbd
+Die als fünfköpfige Indie-Punk-Band gegründete Gruppe sorgte schnell für Aufsehen mit Singles, die durch zwei weibliche Gesangsstimmen und direkte Texte zu persönlichen Fehlern, Ängsten und Stereotypen bestachen. **Pop-Punk**, Girly-Pop-Punk und **Melodic Punk**. Diese Debüt-EP ist ein wunderbar eingängiger, zuckersüßer Ausbruch melodischer Energie, der einen Kern umhüllt, mit dem man sich tief identifizieren kann. Nevver tauscht das übliche wütende Hardcore-Tempo gegen extrem mitreißende Hooks und sonnendurchflutete, melancholische Gitarrenlinien ein. Tracks wie "Flawed From The Get-Go" thematisieren persönliche Unsicherheiten und gesellschaftlichen Druck aus einer unverwechselbar weiblichen Perspektive - mit einer erfrischenden Mischung aus Wärme und unverfälschter Ehrlichkeit. Das Album ist nostalgisch, strahlend interpretiert und wie geschaffen dafür, bei Sommer-Roadtrips mit voller Lautstärke mitgesungen zu werden.
 
-::genre::
+::genre::pop punk, power pop
 
 ## NightFreak - Midwest Rattlesnakes
 
-tbd
+Ein unerbittliches Power-Trio, das fest in der DIY-Underground-Szene des Mittleren Westens verwurzelt ist. Die Band ist bekannt für ihre rasenden, energiegeladenen Live-Shows und ihren ungeschliffenen, rasanten Rock-Sound. **Hardcore-Punk**, **Punk’n’Roll**, **NWOBHM** und **Speed Metal**. Mit einer atemberaubend kurzen Spielzeit von nur 16 Minuten trifft dich diese Platte mit der Wucht eines außer Kontrolle geratenen Güterzugs, der ausschließlich von abgestandenem Bier und Adrenalin angetrieben wird. Aufgenommen vom Garage-Rock-Guru Bobby Hussy, verzichtet die Band komplett auf moderne Produktionstricks, um eine wilde Wand aus kreischenden Gitarrenriffs, vernichtendem Gesang und maschinengewehrartigem Schlagzeugspiel entfesseln zu können. Das Album ist unnachgiebig, kompromisslos feindselig und dient als unglaublich befriedigender Hochspannungsschock für das System, der dich dazu bringen wird, sofort einen Moshpit in deinem Wohnzimmer zu starten.
 
-::genre::
+::genre::garage rock, hardcore punk, nwobhm, speed metal
 
-## Nighttime - Looking Glass
+## Nighttime - Looking Glass *
 
-tbd
+Nighttime ist das Soloprojekt der Singer-Songwriterin und Produzentin Eva Louise Goodman. Bekannt für ihre vielschichtigen Akustik- und Tonbandaufnahmen, hat sie sich mit äußerst atmosphärischen Alben wie "Keeper Is the Heart" aus dem Jahr 2023 nach und nach eine treue Underground-Anhängerschaft aufgebaut. **Avant-Folk**, **Psychedelic Folk**, **Dream Pop** und **Chamber Folk**. Wenn man diese Platte auflegt, fühlt es sich an, als würde man direkt in eine verzauberte, neblige Waldlichtung in der Dämmerung treten. Goodman webt einen zarten, fesselnden Klangteppich aus sanft gezupften Akustikgitarren, geisterhaften Holzbläsern und eindringlich schönen Gesangsharmonien. Titel wie "Wounded Healer" und "Mother of Invention" wirken vollkommen gemächlich und schweben anmutig wie Weihrauchschwaden durch die Luft. Introspektive Themen wie persönliche Heilung und das Vergehen der Zeit werden mit einer sanften, zeitlosen Eleganz behandelt, die den Geist vollständig aus dem Chaos des Alltags entführt.
 
-::genre::
+::genre::psych folk, avant folk, dreampop, chamber folk
 
 ## Nils Petter Molvær - Be Quiet *
 
