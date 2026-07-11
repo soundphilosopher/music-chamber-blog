@@ -744,87 +744,39 @@ tbd
 
 ## No Cure - It Is Going To Get Dark
 
-tbd
+Diese äußerst unabhängige Band, die an der absoluten, kompromisslosen Spitze des modernen DIY-Hardcore-Punks agiert, hat sich durch intensive Tourneen einen Namen als Verfechterin der traditionellen Straight-Edge-Nüchternheit gemacht. **Straight-Edge-Hardcore**, **Metallic-Hardcore** und **Death-Hardcore**. Das Anhören dieses Debüts fühlt sich genau so an, als würde man von einem fliegenden Stahl-Kampfstiefel direkt ins Kinn getroffen. Aufgenommen ohne auch nur einen Hauch von polierter moderner Studio-Sicherheit entfesselt die Band eine erstickende Lawine aus kreissägeartigen Gitarrenriffs, rasenden Tempowechseln und urwüchsigen, kehlenschneidenden Schreien. Mit Gastbeiträgen von Underground-Größen wie Vincent Bennett von The Acacia Strain dient das Album als kompromisslose, waffenähnliche Botschaft für ein cleanes Leben und das Überleben der Gemeinschaft. Es ist gnadenlos heavy, feindselig und absolut grandios.
 
-::genre::
+::genre::metallic hardcore, hardcore punk, deathcore
 
-## Pain Gain - Pain Gain
+## Panda Bear & Sonic Boom - A ? Of When *
 
-tbd
+Lennox ist einer der Mitbegründer und tragende Säulen von Animal Collective, während Kember der legendäre Gründer von Spacemen 3 ist. Dies ist ihre zweite gemeinsame Langspielplatte nach dem hochgelobten Album "Reset" aus dem Jahr 2022. **Neo-Psychedelia**, **Space-Rock**, **Indie-Pop** und **Leftfield-Elektro**. Diese Platte klingt genau wie ein sonnenverwöhntes Beach-Boys-Album, das aus einem seltsamen, parallelen utopischen Universum gesendet wird. Das Duo lässt die Loop-Formeln seiner früheren Arbeiten bewusst hinter sich, um mit Space-Harfen, Marimbas, Steel Drums und Sci-Fi-Laser-Klanglandschaften zu experimentieren. Es setzt sich mit schwerwiegenden modernen Problemen – wie chronischem Online-Burnout und sozialer Isolation - auseinander, indem es diese in berauschende, schwindelerregende Gesangsharmonien und tröstliche Psych-Pop-Wolken hüllt. Es ist ein wunderschön exzentrischer Aufruf, sich abzumelden, nach draußen zu gehen und das Gras zu berühren.
 
-::genre::
+::genre::psych rock, indie rock, indie pop, space rock, leftfield electronica
 
-## Panda Bear - A ? Of When
+## Parts & Labor - Set of All Sets *
 
-tbd
+Die 2002 von Dan Friel und BJ Warshaw gegründete Band wurde durch ihre Mischung aus aggressivem Noise und mitreißenden Hooks zu einer Ikone der Brooklyn-DIY-Szene. Dieses Projekt markiert ihre mit Spannung erwartete große Wiedervereinigung und ihr sechstes Studioalbum, das 15 Jahre nach "Constant Future" aus dem Jahr 2011 erscheint. **Experimenteller Rock**, **Noise-Rock**, **Noise-Pop** und **Krautrock**. Wenn man diese gewaltige Platte auflegt, fühlt es sich an, als stünde man direkt hinter einem Düsentriebwerk, das sich ausschließlich von alten Videospielchips und Verzerrerpedalen antreiben lässt. Parts & Labor weigern sich, sich vom Alter zähmen zu lassen; stattdessen drehen sie die Lautstärke auf Raketengeschwindigkeit hoch. Zwischen kurzschlußartiger Elektronik und einem unerbittlichen Krautrock-Motorik-Beat pressen sie gewaltige Hymnen in Arena-Größe heraus. Das Album behandelt Quantenphysik und existenzielle Angst mit einer eingängigen, triumphalen Energie, die einen zwingt, mitten im Chaos die Faust in die Luft zu recken.
 
-::genre::
-
-## Parts & Labor - Set of All Sets
-
-tbd
-
-::genre::
-
-## Paul Beaudoin - signal loss
-
-tbd
-
-::genre::
+::genre::experimental rock, noise rock, krautrock
 
 ## Paul Haslinger / Christian Wittman - Malarme
 
-tbd
+Haslinger ist ein legendärer Multi-Instrumentalist und ehemaliger Hauptkomponist der Elektronik-Pioniere *Tangerine Dream* sowie ein gefeierter Hollywood-Filmkomponist. Wittman ist ein meisterhafter Ambient-Pionier und Gründungsmitglied des französischen Elektronik-Ensembles Lightwave. **Avantgarde-Electronica**, immersiver **Ambient**, Minimalismus und **Krautrock**. Beim Hören dieses Projekts fühlt man sich, als würde man völlig schwerelos in einer strukturellen, architektonischen Simulation schweben, in der Bedeutung verfließt und sich neu formt. Das Duo spiegelt den Aufbau des Gedichts wider, indem es Stille und Wiederholung als echte Instrumente einsetzt. Immersive Synthesizer-Pads schwellen anmutig über mikroskopisch kleinen rhythmischen Klicks an und schaffen so ein hypnotisches, dicht gewebtes Klanguniversum. Es geht mit abstrakter Literatur in einem gemächlichen, meisterhaften Tempo um, das jeden belohnt, der sich auf eine tiefgehende Reise mit Kopfhörern begibt.
 
-::genre::
-
-## PIAO - Willowtree
-
-tbd
-
-::genre::
-
-## piri - girl in stem
-
-tbd
-
-::genre::
-
-## PJS - Auroras
-
-tbd
-
-::genre::
-
-## Prateek Kuhad - Full Moon Chamber
-
-tbd
-
-::genre::
+::genre::minimal electronica, ambient, avant electronica, krautrock
 
 ## Pride Of Lions - Unbridled
 
-tbd
+Gegründet im Jahr 2003 von Jim Peterik - dem mit mehreren Platin-Auszeichnungen geehrten Songwriting-Genie hinter Survivors historischer Hymne "Eye of the Tiger" - und dem kraftvollen Sänger Toby Hitchcock. Die Band gilt als hochgeschätzter, unumstrittener weltweiter Vorreiter des klassischen melodischen Stadion-Rocks. **Melodic Rock**, **Arena Rock** und **AOR**. Diese Platte aufzulegen ist, als würde man in einer Lederjacke und mit komplett heruntergelassenen Autofenster zurück ins Jahr 1985 rasen. "Pride Of Lions" bietet eine großartige Meisterklasse in unverfälschter Arena-Pracht und verbindet gewaltige, schwebende Keyboard-Läufe mit donnernden Gitarrenriffs und Hitchcocks absolut himmelhohem Gesang. Das Album behandelt Themen wie Durchhaltevermögen, epische Romantik und Liebeskummer mit einer erfrischenden, unironischen Leidenschaft, die einen sofort dazu bringt, die Faust in die Luft zu recken und zu den gewaltigen Refrains mitzusingen.
 
-::genre::
-
-## priyana - losing sleep
-
-tbd
-
-::genre::
-
-## PTK - Aus aktuellem Anlass
-
-tbd
-
-::genre::
+::genre::hard rock, melo rock, arena rock
 
 ## Pylar - Delyrio
 
-tbd
+Pylar, ein geheimnisvolles Kollektiv, das sich aus Mitgliedern der spanischen Doom/Sludge-Band Orthodox zusammensetzt, ist ein höchst experimentelles Projekt, das traditionelle Extreme-Metal-Strukturen durch ritualistische Klangmanipulationen verzerrt. **Avantgarde-Black-Metal**, **Doom-Metal**, **psychedelischer Noise** und **Drone**. Stark beeinflusst von den konzeptuellen Schriften von Philosophen wie Reza Negarestani und der chaotischen, spekulativen Fiktion der Cybernetic Culture Research Unit. "Delyrio" wirkt wie eine beunruhigende, pechschwarze, uralte okkulte Zeremonie, die in einer verlassenen, hallenden Höhle abgehalten wird. Die Band legt generische, radiotaugliche Strukturen vollständig ab, um Mauern aus kreischendem Gitarren-Feedback, erdrückender Basswucht und unberechenbaren Percussion-Elementen zu errichten, die völlig unvorhersehbar wirken. Sie behandelt Heavy Metal als einen fließenden, sich wandelnden Albtraum, in dem absolute sensorische Desorientierung das ultimative Ziel ist, und bietet Zuhörern, die Musik am absoluten Rande der Vernunft lieben, ein hypnotisierend dunkles und texturreiches Erlebnis.
 
-::genre::
+::genre::avant black metal, doom metal, drone, experimental metal
 
 ## Ravaged By The Yeti - Snowbound Horror
 
