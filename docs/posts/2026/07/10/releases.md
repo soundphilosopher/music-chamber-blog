@@ -856,12 +856,6 @@ tbd
 
 ::genre::
 
-## Rolling Stones - Foreign Tongues
-
-tbd
-
-::genre::
-
 ## Sad13 - 1331
 
 tbd
@@ -952,185 +946,101 @@ tbd
 
 ::genre::
 
-## Snag - All The Cages Holding Us Will One Day Turn To Dust
-
-tbd
-
-::genre::
-
 ## Snorlax - Toxic Current
 
-tbd
+Snorlax ist das gnadenlose Soloprojekt des Multi-Instrumentalisten Brendan Auld. Bekannt dafür, dichte Wände aus bedrückender Klangarchitektur zu errichten, schärft er auf seinem neuesten Album sein traditionelles Black-Death-Konzept zu schnelleren, kürzeren Grindcore-Dynamiken. **Blackened Death Metal**, **Grindcore** und dystopischer **Sludge**. Dieses Album anzuhören fühlt sich an, als wäre man in einer Hochspannungs-Industrieturbine gefangen, die sich gerade selbst auseinanderreißt. Auld streift jeden Anflug von sicherem, modernem Glanz ab, um eine kompromisslose Salve aus kreischenden Gitarren, klaustrophobischen Drum-Tracks und roher, primitiver Aggression zu liefern. Konzeptionell zeichnen die Tracks eine dystopische Zukunft, in der die Menschheit ihr Fleisch zugunsten kybernetischer Maschinen opfert - sie sind kurz, feindselig und absolut brutal. Es ist ein wunderbar widerwärtiger, knochenbrechender Kopfhörer-Albtraum, der für die härtesten Klanggeschmäcker konzipiert ist.
 
-::genre::
-
-## Sojourner - Gateways
-
-tbd
-
-::genre::
+::genre::blackened death metal, grindcore, sludge metal
 
 ## Solarus - Of Sin and Ruin
 
-tbd
+Diese kanadische Power-Metal-Band, die Ende der 2010er Jahre gegründet wurde, hat sich in der Independent-Szene enorme Anerkennung dafür erworben, komplexe, progressive Gitarrenarrangements mit filmischen Orchestrierungen und opernhaften Gesangspassagen in den hohen Lagen zu verbinden. **Symphonic Metal**, **Progressive Power Metal** und **neoklassischer Metal**. "Of Sin and Ruin" entfaltet sich genau wie ein Fantasy-Film mit großem Budget, voller Gewitter und epischer Chorsätze. Frontfrau Sarah Dee liefert eine absolute Meisterleistung in Sachen Gesangsakrobatik und schwebt über einer überwältigenden Landschaft aus technischen Gitarrenriffs und grandiosen orchestralen Steigerungen. Das Kronjuwel ist ein gewaltiger, fünfzehnminütiger Titeltrack, der zwischen atemloser Geschwindigkeit und Ohrwurm-Hooks hin- und herpendelt. Es ist laut, theatralisch, brillant übertrieben und ein absolutes Muss für jeden, der seinen Metal gerne vollkommen triumphierend hört.
 
-::genre::
-
-## SongAh Chae - All Day Long
-
-tbd
-
-::genre::
+::genre::symphonic metal, power metal, progressive metal
 
 ## Soulprison - The More I See, The More I Bleed
 
-tbd
+Diese 2020 gegründete, kompromisslose Independent-Band hat sich durch einen unerbittlichen Tourneezyklus quer durch Großbritannien und auf dem europäischen Festland einen hervorragenden Ruf als Live-Band erarbeitet. Ihr Sound ist eine Mischung aus **Crossover-Metallic-Hardcore**, **Beatdown**, **Thrash Metal** und **Modern Metalcore**. Dieses Debütalbum schlägt ein wie eine eiserne Abrisskugel, die gegen eine Betonwand prallt. Die Band kombiniert knochenbrechende, tief gestimmte Beatdown-Breakdowns mit messerscharfen Thrash-Gitarren-Hooks, die einen dazu bringen, sofort in der eigenen Küche loszumochen. Tracks wie "Into Oblivion" und "Demolish Eden" brennen vor purer, ungefilterter emotionaler Aggression. Das Album ist wunderbar heavy, feindselig und versetzt einem einen herrlichen Kick hochoktaniger Energie direkt in die Brust.
 
-::genre::
+::genre::metallic hardcore, modern metalcore, beatdown
 
-## Sound Quelle - Higher Note
+## Spread The Disease - The Darkness. The Dread. The Suffering. *
 
-tbd
+Eine Kult-Underground-Band, die ursprünglich Ende der 1990er Jahre für Aufsehen sorgte. Dieses Projekt markiert nach einer langen kreativen Pause ihr bedeutendes erstes neues Studioalbum seit siebenundzwanzig Jahren. **Blackened Hardcore**, **Metallic Punk** und **Post-Metal**. Beim Anhören dieses Albums fühlt man sich, als würde man während eines gewaltigen Sturms in einen dunklen, gefrorenen Ozean hinabgezogen. Befreit von sicheren, ausgefeilten modernen Produktionsstrukturen entfesselt die Band eine vernichtende Wand aus blitzschnellen Gitarrenriffs und urwüchsigen, kehlenschneidenden Schreien. Sie behandelt Themen wie tiefe Frustration und Erschöpfung im Alltag mit einer kompromisslosen, knallharten Darbietung. Das Album ist wunderbar roh, aggressiv und fungiert als fantastische Meisterklasse in klanglicher Gewalt.
 
-::genre::
-
-## Speaker Music - Synoptic Audio
-
-tbd
-
-::genre::
-
-## Spread The Disease - The Darkness. The Dread. The Suffering.
-
-tbd
-
-::genre::
-
-## Stove God Cooks & Swizz Beatz - ALL THIS FOR ME?
-
-tbd
-
-::genre::
+::genre::post metal, post black metal, powerviolence, metallic hardcore
 
 ## Suki Waterhouse - Loveland
 
-tbd
+Eine weltweit anerkannte, vielseitige Ikone, die eine erfolgreiche Model- und Schauspielkarriere unter einen Hut brachte, bevor sie sich mit über 1,5 Milliarden Streams als große Größe im Indie-Pop etablierte. **Indie-Pop**, **Dream-Pop**, **Alternative-Pop** und **Retro-Folk**. "Loveland" wirkt wie ein intimes, wunderschön sonnenbeschienenes Aquarell, das die großartige Entwicklung eines menschlichen Herzens nachzeichnet. Waterhouse distanziert sich von glattpolierten, harmlosen Radioklischees und liefert stattdessen eine zutiefst persönliche Reflexion über das Familienleben, Mutterschaft und Selbstfindung. Untermalt von der warmen, organischen Produktion von Aaron Dessner und einem legendären Gastbeitrag am Schlagzeug von Mick Fleetwood schwebt ihre charakteristische rauchige Stimme anmutig über üppigen Indie-Pop-Melodien. Es ist elegant, wunderbar tröstlich und unglaublich bewegend.
 
-::genre::
-
-## Super Gab Maker - disc2
-
-tbd
-
-::genre::
-
-## Sángo - RHYTHM & MELODY
-
-tbd
-
-::genre::
+::genre::indie pop, alt pop, dreampop, indie folk
 
 ## The Castillion - The Fall Of The Son
 
-tbd
+Getragen von der eingespielten Besetzung aus Sänger John Serrano, Gitarrist Josh Coker, Bassist James Slattery und Schlagzeuger Rob Steadman hat sich die Band über spezialisierte Online-Hörergemeinschaften einen soliden Ruf in der Independent-Szene erarbeitet. **Progressive Rock** und **Alternative Rock**. "The Fall Of The Son" wirkt genau wie ein mitreißender, spannungsgeladener Fantasy-Roman, der zu einem spektakulären Arena-Rock-Erlebnis adaptiert wurde. Während der gesamten Spielzeit von 44 Minuten schafft die Band mit synkopierten Gitarrenlinien, majestätischen Gesangsaufbauten und technisch ausgefeilten Schlagzeugarrangements eine ungemein grandiose Atmosphäre. Sie wechselt nahtlos von ruhigen, spannungsgeladenen Erzählpassagen zu explosiven Crescendos der gesamten Band und sorgt so dafür, dass Fans progressiver Musik von der ersten Note bis zum dramatischen Finale voll und ganz in die Geschichte eingezogen bleiben.
 
-::genre::
+::genre::prog rock, alt rock
 
 ## The Devil Wears Nada - In Lust We Thrust
 
-tbd
+Die Band trat ursprünglich unter dem Namen Adecence auf, bevor sie sich umbenannte und mit ihrem filmischen Debütalbum "Postalgia" aus dem Jahr 2024 in der Underground-Szene große Anerkennung erlangte. **Hard Rock**, **Melodic Rock** und gruseliger **AOR**. Dieses Album ist wie eine unglaublich unterhaltsame, leicht bedrohliche Party in einem Spukhaus, in dem ausschließlich Lederjacken als Kleiderordnung gelten. Die Band verzichtet komplett auf die sicheren Radio-Pop-Formeln und liefert stattdessen einen kraftvollen Cocktail aus eingängigen Riffs und dramatischem Rockgesang. Tracks wie "Brat With A Baseball Bat" und "Last Forever" stürmen mit einer rauen, retro-angehauchten Attitüde voran, die einen dazu zwingt, die Faust in die Luft zu recken, während einem ein herrlich düsterer Schauer über den Rücken läuft.
 
-::genre::
+::genre::hard rock, melo rock, heavy rock, arena rock
 
 ## The Durutti Column - Renascent
 
-tbd
+Unter der Führung des legendären Vini Reilly trug diese Kultband Ende der 1970er Jahre mit ihrem genreübergreifenden, atmosphärischen Gitarrenspiel maßgeblich zur Prägung des historischen Labels Factory Records bei. **Post-Punk**, **Dream Pop**, **Ambient**, **Neoklassik** und **Avantgarde**. "Renascent" wirkt genau wie ein sanfter, schimmernder Wasserlauf, der die Morgensonne widerspiegelt. Reillys charakteristische, zarte Fingerpicking-Gitarrenlinien schweben anmutig in einem warmen Nebel aus ambienten Synth-Klängen und sanften elektronischen Backbeats. Unterstützt durch die frischen Gesangstexturen der Singer-Songwriterin Caoilfhionn Rose aus Manchester vermittelt die Musik ein wunderschönes, zyklisches Gefühl der Melancholie, das die Kluft zwischen historischem Post-Punk und modernen Traumlandschaften überbrückt. Sie ist intim, zutiefst beruhigend und ein großartiger Beweis für Reillys anhaltende kreative Magie.
 
-::genre::
+::genre::post punk, dreampop, ambient, neo classic, avant pop
 
-## The Garden - Bootleg
+## The Garden - Bootleg *
 
-tbd
+Die Band wurde 2011 von den Zwillingsbrüdern Wyatt und Fletcher Shears gegründet. Sie werden allseits dafür gefeiert, dass sie ihr eigenes, unabhängiges und grenzenloses Genre und eine eigene Philosophie namens "Vada Vada" geschaffen haben, bei der sie einen bizarren, narrenhaften visuellen Stil mit hyperchaotischen Live-Auftritten verbinden. **Art-Punk**, Vada Vada, **Noise-Rock**, **Drum & Bass** und **Garage-Rock**. "Bootleg" wirkt wie ein hyperaktiver Cartoon-Kanal, der während eines Erdbebens mit Höchstgeschwindigkeit durchgeschaltet wird. Mit ihrer triumphalen Rückkehr zu ihrem alten Label liefern die Zwillinge eine absolute Meisterklasse in avantgardistischem Punk-Chaos. Abseits überpolierter Studiotricks stecken Tracks wie "Duck and Cover" und "5 Mile Ponytail" voller schwerer, verzerrter Basslinien, unvorhersehbaren Hundebellen und rasanten Drum-Breaks. Das Ganze ist völlig albern, wild aggressiv und steht für eine wilde, ungefilterte Feier der musikalischen Freiheit.
 
-::genre::
-
-## The Momenat - Momenat
-
-tbd
-
-::genre::
+::genre::art punk, noise rock, d&b, garage rock
 
 ## The Plot In You - The Plot In You
 
-tbd
+Angeführt von Mastermind Landon Tewers hat die Band über ein Jahrzehnt lang hoch emotionale, explosive und genreübergreifende Heavy-Musik geschaffen und sich dabei schrittweise von ihren rohen Deathcore-Wurzeln hin zu einem ausgefeilten, monumentalen Modern-Rock-Sound entwickelt. **Metalcore**, **Post-Hardcore**, **Alternative Rock** und **Electronic Rock**. Dieses selbstbetitelte Projekt trifft den Hörer mit der furchteinflößenden, wunderschönen Wucht eines absoluten emotionalen Zusammenbruchs. Das Album verwebt ihre monumentalen, mehrteiligen Single-Veröffentlichungen nahtlos zu einer zusammenhängenden, 40-minütigen Reise durch menschliche Frustration und das Streben nach Überleben. Durch die Verschmelzung von brutal schweren, knochenbrechenden Gitarren-Breakdowns in Titeln wie "Forgotten" mit der hochfliegenden, radiotauglichen melodischen Katharsis von "Left Behind" dient das Album als fantastische Blaupause dafür, wie moderner Metalcore ein riesiges, blutendes Herz besitzen kann.
 
-::genre::
+::genre::modern metalcore, post hardcore, alt rock, alt metal
 
 ## The Rolling Stones - Foreign Tongues
 
-tbd
+Die unbestrittenen Rocklegenden, die die Musikgeschichte über sieben Jahrzehnte hinweg geprägt haben. Mick Jagger, Keith Richards und Ronnie Wood kehren weniger als drei Jahre nach ihrem mit Multi-Platin ausgezeichneten und für den Grammy nominierten Album "Hackney Diamonds" zurück. **Bluesrock**, **Classic Rock**, **G-Funk** und 70er-Jahre-**Soul-Disco**. Diese Platte aufzulegen ist wie ein Besuch in deinem Lieblingsrestaurant aus Kindertagen - du weißt genau, was du bestellst, und es trifft jedes Mal genau den richtigen Geschmack. Unterstützt von einer aggressiven, stadiontauglichen Produktion von Andrew Watt, rockt die Band eine unglaublich energiegeladene Sammlung bluesiger Nummern und schlangenartiger Disco-Funk-Stücke. Mit Mick Jagger, der bei "Jealous Lover" sein dramatisches Falsett zur Schau stellt, und Gastauftritten von Legenden wie Paul McCartney und Robert Smith, die nahtlos in den Mix eingewoben sind, beweist das Album, dass Rock’n’Roll auch im Alter von über achtzig Jahren noch absolut gefährlich klingen kann.
 
-::genre::
+::genre::hard rock, blues, funk, soul, disco
 
-## The Temper Trap - Sungazer
+## The Temper Trap - Sungazer *
 
-tbd
+Die mit mehreren Platin-Auszeichnungen geehrte Band, die weltweit die Charts anführte und für ihren historischen Megahit "Sweet Disposition" bekannt ist, legte 2018 eine längere Pause ein, um sich dem Familienleben, dem Reisen und Soloprojekten zu widmen. **Indie-Rock**, **Alternative-Rock**, **atmosphärischer Pop** und **Electronica**. "Sungazer" ist ein triumphales, grandioses Comeback, das zugleich geheimnisvoll und äußerst filmisch klingt. Dougy Mandagis legendäres Falsett schwebt über einer Klanglandschaft, die die üblichen Radio-Rock-Gitarren gegen stimmungsvolle elektronische Elemente, Trip-Hop-Breaks und gewaltige, pulsierende Synthesizer eintauscht. Titel wie "Giving Up Air" und "Dystopia Radio" entfalten sich zu regelrechten Stadion-Crescendos, die eine einzigartige Mischung aus Einsamkeit und purer, euphorischer Befreiung einfangen. Es ist der großartige Sound einer erfahrenen Band, die ihre Magie wiederentdeckt und dabei direkt in die Zukunft blickt.
 
-::genre::
+::genre::indie rock, alt rock, indietronica
 
 ## The Velvet Club - Are You Falling In Love?
 
-tbd
+Nachdem sich die Indie-Band durch drei hochgelobte EPs und unermüdliche Tourneen eine eng verbundene Fangemeinde in ganz Australien aufgebaut hatte, zog sie sich ins Studio zurück, um ihr großartiges Debütalbum zu produzieren. **Indie-Rock**, **Jangle-Pop** und **Post-Punk-Revival** der 2000er Jahre. Stark beeinflusst von Ikonen wie *The Strokes* und *The Vaccines*. Das Anhören dieses Debüts fühlt sich genau so an, als würde man aus einer langen, anstrengenden Therapiesitzung treten und sofort an einen sonnigen Strand gelangen. Frontmann AJ Tilyard verpackt zutiefst persönliche Kämpfe mit Zwangsstörungen, zerbrochenen Beziehungen und Ängsten in eine wahre Goldgrube aus luftigen, schimmernden Gitarrenklängen und mitreißenden Hooks. Songs wie "Blue" und "We Don't Talk" schaffen einen Ausgleich zwischen emotionaler Schwere und einer hellen, treibenden Rhythmusgruppe. Das Album geht mit der alltäglichen psychischen Erschöpfung so optimistisch um, dass man während des Heilungsprozesses einfach weiter tanzen möchte.
 
-::genre::
+::genre::jangle pop, indie rock, post punk
 
 ## The Xcerts - I Think I Want To Go Home Now
 
-tbd
+Dieses äußerst widerstandsfähige Rock-Trio, das seit mehr als zwei Jahrzehnten aktiv ist, hat sich über Jahre hinweg in der britischen Indie-Szene mit seinen leidenschaftlich-melodischen Hymnen großen Respekt bei den Kritikern erarbeitet. **Alternative Rock**, **Post-Hardcore**, **Indie-Rock** und **Emo**. Dieses Album wirkt wie ein wunderschön-verheerender Tagebucheintrag, der bei maximaler Lautstärke aufgenommen wurde. Angetrieben von einigen turbulenten Jahren, geprägt von gesundheitlichen Sorgen und schwerem Liebeskummer, bricht die Band mit den üblichen Radio-Rock-Formeln und liefert stattdessen rohe, ungefilterte emotionale Katharsis. Zarte Klavierintroductions explodieren plötzlich in gewaltige Stürme aus Feedback und donnernden Gitarren-Hooks. Es ist etwas rau, zutiefst verletzlich und perfekt für alle, die ihre Frustrationen in einen leeren Raum hinausschreien müssen.
 
-::genre::
-
-## The-Dream - Love/Hate II
-
-tbd
-
-::genre::
+::genre::alt rock, power pop, indie rock, post hardcore
 
 ## Tightwire / Canadian Rifle - Nietzsche
 
-tbd
+Tightwire ist ein etabliertes modernes Pop-Punk-Trio, das bei Red Scare Industries unter Vertrag steht. Canadian Rifle besteht aus hartgesottenen Punk-Veteranen aus Chicago, die im Underground höchste Glaubwürdigkeit genießen. **Pop-Punk**, **melodischer Punkrock** und rauer Punk aus dem Mittleren Westen. Stilistisch erinnert das Ganze an klassische Split-Alben von Lookout! Records. Diese Split-Platte wirkt wie ein rasantes Boxduell zwischen zwei völlig unterschiedlichen Arten von Punkrock-Energie. Auf der einen Seite serviert Tightwire unglaublich mitreißende, hypermelodische Hooks, bei denen man sofort in seinem Schlafzimmer mitsingen muss. Dreht man die Platte um, entfesselt Canadian Rifle eine raue, rauchgeschwängerte Gitarrenwand und kratzige Vocals, die einen direkt auf den überfüllten Kellerboden ziehen. Die Platte schafft einen Ausgleich zwischen purer Pop-Süße und einer kräftigen Prise Rost und ergibt so einen aufregend rohen Punkrock-Cocktail.
 
-::genre::
-
-## Tino El Pingüino - Kaomojis
-
-tbd
-
-::genre::
-
-## Tokyo Bedroom Orchestra - Tsuioku
-
-tbd
-
-::genre::
-
-## Tomosla - Moor to Sea
-
-tbd
-
-::genre::
-
-## Tracey Nelson - Hercules
-
-tbd
-
-::genre::
+::genre::midwest emo, pop punk, melo hardcore
 
 ## Trashcan Sinatras - Ever The Optimist
 
-tbd
+Die 1986 gegründeten Trashcan Sinatras sind Legenden der schottischen Indie-Bewegung. Bekannt für ihre bittersüßen Melodien und ihr cleveres Wortspiel, haben sie sich mit frühen Alben wie "Cake" (1990) und "I've Seen Everything" (1993) eine riesige Kult-Anhängerschaft aufgebaut. **Indie-Pop**, **Jangle-Pop** und **Sophisti-Pop**. Das kommende Album fühlt sich an wie eine warme, vertraute Umarmung von einem alten Freund, den man seit einem Jahrzehnt nicht mehr gesehen hat. Die legendäre fünfköpfige Band kehrt mit ihrer charakteristischen Mischung aus sonnigen Akustikklängen und melancholischer Poesie zurück. Titel wie "Bad Husband" (mit Traceyanne Campbell von Camera Obscura) unterstreichen ihre Meisterschaft im eleganten Jangle-Pop. Das Album ist wunderschön ausgereift, unglaublich sanft und der perfekte Soundtrack, um einen Spätsommer-Sonnenuntergang zu genießen.
 
-::genre::
+::genre::jangle pop, indie pop
 
 ## Trendkill - Apathy For The Dead
 
