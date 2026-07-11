@@ -736,11 +736,11 @@ tbd
 
 ::genre::
 
-## Nils Petter Molvaer - Be Quiet
+## Nils Petter Molvær - Be Quiet *
 
-tbd
+Ein legendärer, preisgekrönter Pionier des zeitgenössischen europäischen Jazz. Molvær sprengte Ende der 1990er Jahre auf berühmte Weise traditionelle akustische Grenzen, indem er Trompetenspiel im Stil von Miles Davis mit abstrakten elektronischen Drumbeats verschmolz. **Future Jazz**, **Ambient Electronica**, **Nu Jazz** und immersive **Avantgarde**. Diese Platte entfaltet sich wie ein leises, spannungsgeladenes Gespräch zwischen verschiedenen künstlerischen Zivilisationen in einer leuchtenden digitalen Kapsel. Molvær betritt neun völlig unterschiedliche Räume und verbindet sein charakteristisches, rauchiges, gemächliches Trompetenflüstern mit neun unterschiedlichen Gastpersönlichkeiten - darunter Pop-Ikone Imogen Heap und Rock-Veteran John Paul Jones. Die Titel gleiten anmutig von eiskalt distanzierten elektronischen Impulsen zu mitreißender, kirchenähnlicher atmosphärischer Wärme. Das Album geht mit kulturellen Kontrasten absolut meisterhaft um, was zu einem tiefgründigen, räumlichen Meisterwerk führt.
 
-::genre::
+::genre::ambient, nu jazz, avant jazz, avant electronica
 
 ## No Cure - It Is Going To Get Dark
 
