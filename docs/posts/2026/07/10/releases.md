@@ -718,12 +718,6 @@ tbd
 
 ::genre::
 
-## Necromonger - Emanation of The Dying Perceptions
-
-tbd
-
-::genre::
-
 ## Nevver - Heart On Your Sleeve
 
 tbd
@@ -1140,277 +1134,127 @@ tbd
 
 ## Trendkill - Apathy For The Dead
 
-tbd
+Die Band wurde 2023 von einem Trio äußerst unabhängiger Musiker gegründet und hat sich vor Ort einen Namen gemacht, indem sie organische Aufnahmetechniken gegenüber trendigen Produktionsspielereien den Vorzug gab. **Thrash Metal** und **Old-School-Death-Metal**. Wenn ihr die Zeiten vermisst, als Thrash Metal noch völlig roh, gefährlich und von Schmutz durchzogen war, ist diese Platte ein absoluter Traum, der wahr geworden ist. Trendkill liefert ein rasantes, 40-minütiges Feuerwerk aus messerscharfen Gitarrenriffs, maschinengewehrartigem Schlagzeugspiel und bedrohlichen Doppelgesängen. Tracks wie "Teeth, Hair, & Eyeballs" rasen mit einer chaotischen, rasanten Energie dahin, die keinerlei Raum für Kompromisse lässt.
 
-::genre::
+::genre::osdm, thrash metal
 
 ## Trophy Wife - Pathetic
 
-tbd
+Unter der Führung ihrer Frontfrau McKenzie Iazzetta machte sich das Trio nach seinem mitreißenden Debütalbum „Get Ugly“ aus dem Jahr 2024 schnell einen Namen in der Underground-Indie-Rock-Szene. **Alternative Rock**, **Grunge**, **Indie-Rock** und Riot Grrrl. Stilistisch in der Tradition von *PJ Harvey* und *Fiona Apple*. "Pathetic" fühlt sich an, als würde man einen heimlichen Blick in ein intimes, wunderschön chaotisches, handgeschriebenes Tagebuch werfen, das man eigentlich gar nicht lesen dürfte. Iazzetta tauscht direkte, nach außen gerichtete politische Wut gegen einen rohen, rauchigen Ausflug in die Grauzonen der Sehnsucht, des Herzschmerzes und der modernen Weiblichkeit ein. Untermalt von schlammigen, treibenden Grunge-Gitarren wechselt ihr fesselnder Gesang fließend zwischen einem sanften, eindringlichen Flüstern und einem packenden, unverblümten Schrei.
 
-::genre::
+::genre::alt rock, post grunge, indie rock
 
 ## Ultra Lights - Pleasure's All Yours
 
-tbd
+Das Projekt, das der Singer-Songwriter John Robinson während der Pandemie ins Leben rief, entwickelte sich schließlich 2023 gemeinsam mit seiner Partnerin Leela Hoehn zu einer vollwertigen Band. **Indie-Rock**, **Garage-Rock** und **College-Rock**. Stark inspiriert von Bands wie *Pavement*, *The Strokes* und *The Replacements*. Dieses Album fühlt sich genau so an, als würde man an einem gefährlich heißen Nachmittag ein kaltes Getränk öffnen. Robinson verpackt nihilistische, zutiefst zynische Gedanken über den Unternehmensalltag in außergewöhnlich sonnige, strahlende Gitarren-Hooks und Refrains, die man sofort mitsingen kann. Songs wie "Bad Feeling" und "Diamond Dreams" sind pure Garage-Rock-Magie, die einen dazu zwingen, mit dem Kopf mitzuwippen, selbst wenn die Welt um einen herum völlig auseinanderfällt.
 
-::genre::
+::genre::garage rock, indie rock, power pop
 
 ## Undertakers - Global Dominion
 
-tbd
+Diese Veteranen der Extremmusik sind seit 1991 aktiv und haben sich über drei Jahrzehnte hinweg im europäischen Metal-Underground einen brutalen Ruf erarbeitet. **Death-Grind**, **Grindcore**, **Old-School-Death-Metal** und **Hardcore**. "Global Dominion" versetzt dich direkt in eine kalte, dystopische Landschaft, die von einer furchterregenden eisernen Faust beherrscht wird. Die Band schafft eine perfekte Balance zwischen blitzschnellen Grindcore-Blastbeats und schweren, sludge-getränkten Death-Metal-Grooves, die wie ein physisches Gewicht auf dich einwirken. Das Album ist eine messerscharfe, wütende Kritik an moderner gesellschaftlicher Kontrolle, die dich durch ihre rohe Aggression völlig atemlos zurücklässt.
 
-::genre::
-
-## Unwritten Law - An Evening With ...
-
-tbd
-
-::genre::
-
-## Victor Ruiz - VICTOR
-
-tbd
-
-::genre::
+::genre::deathgrind, osdm
 
 ## Volubilis - Theasterion
 
-tbd
+Die Band, die sich aus Schlüsselfiguren der dichten kanadischen Extreme-Music-Underground-Szene zusammensetzt, machte sich zunächst durch komplexe Einzelkompositionen einen Namen, bevor sie ein umfassendes, erzählorientiertes Konzeptprojekt auf die Beine stellte. **Technical Death Metal**, **progressiver Death Metal** und **Sci-Fi-Tech-Death**. Stellt euch vor, ihr reist in einem Raketenschiff durch den tiefen Weltraum, das viel zu schnell fliegt, während alle Steuerungen ständig ausfallen. Theasterion entfesselt einen schwindelerregenden Ansturm aus hyperpräzisen, blitzschnellen Gitarrensoli und monumentalen, erderschütternden Blastbeats. Während das gezeigte technische Können absolut furchteinflößend ist, bewahrt die Band ein reichhaltiges, schwebendes Gespür für Melodien und eine tiefgründige Sci-Fi-Atmosphäre. Es ist von Anfang bis Ende eine intensive, brillant-kosmische Reise.
 
-::genre::
+::genre::tech death metal, prog death metal
 
 ## Wailin Storms - The Arsonist
 
-tbd
+Die seit über einem Jahrzehnt aktive Band hat sich auf einen rauen, sumpfigen und von Sumpfstimmung geprägten Stil dunkler Musik spezialisiert. Sie ist dafür bekannt, analoge Punk-Rauheit mit eindringlicher, filmischer Erzählkunst zu verbinden. Southern **Gothic Rock**, **Blues-Punk**, **Doom** und **Post-Punk**. "The Arsonist" klingt wie der Soundtrack zu einem beunruhigenden Horrorfilm, der vollständig in einer dunklen, abgelegenen Hütte tief im Wald aufgenommen wurde. Justin Storms' dramatischer, heulender Gesang durchbricht eine dichte Wand aus Slide-Gitarren und doomlastigen Rhythmusgruppen, die wie ein Marsch zum Galgen stampfen. Es ist unglaublich primitiv, sumpfig und herrlich ungeschliffen und hüllt die realen Ängste der heutigen Zeit in eine pechschwarze, von Flammen flackernde Geistergeschichte.
 
-::genre::
+::genre::goth rock, post punk, doom metal
 
 ## What Lies Below - I Let it Consume Me
 
-tbd
+Die Band sorgte mit ihrer 2023 erschienenen EP "Darker Colors" für großen Hype in der Underground-Szene und erwarb sich einen Ruf für komplexe Instrumentalarrangements und technisches Können, bevor sie für ihr Debütalbum bei Theoria Records unter Vertrag genommen wurde. **Progressive Metalcore**, **Melodic Djent** und **Post-Hardcore**. Dieses Album trifft mit der Wucht eines plötzlichen Sommergewitters, das über einer völlig stillen Landschaft hereinbricht. Die Band wechselt meisterhaft zwischen zerstörerisch schweren, wuchtigen Gitarrenriffs und wunderschön schwebenden, atmosphärischen Refrains. Gesanglich fängt der Wechsel zwischen klaren, engelsgleichen Melodien und rauen, urwüchsigen Schreien ein tiefes, inneres Tauziehen ein. Das Album ist eine brillante, technische Meisterleistung im Bereich der Heavy-Musik, die ihren emotionalen Kern nicht aus den Augen verliert.
 
-::genre::
+::genre::modern metalcore, djent, post hardcore
 
 ## Will Sheff - Extra Mile
 
-tbd
+Will Sheff ist der von Kritikern gefeierte Frontmann, Hauptsongwriter und einzige konstante Bestandteil der Indie-Rock-Institution Okkervil River. Nachdem er jahrzehntelang dichte, romanhafte Indie-Alben geschaffen hatte, hat er nun eine gefeierte Solokarriere gestartet. **Indie-Rock**, **Alternative-Rock**, **Folk-Rock** und literarischer Pop. "Extra Mile" fühlt sich an wie ein langer, nachdenklicher Spaziergang durch einen wunderschönen Herbstpark, gerade wenn sich die Blätter zu verfärben beginnen. Sheff tauscht die raue Energie des Indie-Rock gegen üppige, warme Instrumentalarrangements ein, die seinen unverwechselbar leidenschaftlichen, leicht zittrigen Gesang untermalen. Es ist ein unglaublich nachdenklicher Blick auf das Älterwerden, Nostalgie und Beziehungen. Das Album geht mit schwerwiegenden emotionalen Themen auf elegante, unbeschwerte Weise um, die einen vom ersten Akkord an in ihren Bann zieht.
 
-::genre::
+::genre::indie rock, alt rock, alt folk
 
 ## Wreckage - Life On Display
 
-tbd
+Die Band stammt aus einer historischen Hochburg des amerikanischen Hardcore und hat sich durch eine stetige Flut hochintensiver EPs, darunter "Self In All" aus dem Jahr 2024, in der Underground-Szene einen Ruf als knallharte Truppe erarbeitet. **Old-School-Straight-Edge-Hardcore**, 90er-Jahre-**Hardcore-Punk**. Klanglich gibt es deutliche Anspielungen auf legendäre Ikonen wie Judge und Uniform Choice. Mit 9 Songs in einer rasanten, unerbittlichen Spielzeit von 20 Minuten trifft diese Platte wie ein regelrechter Ziegelstein ins Gesicht. Wreckage verzichtet auf alle aufgeblasenen modernen Produktionsspielereien, um rohe, ungefilterte und zutiefst spürbare kinetische Energie zu liefern. Mit gnadenlosen Gitarrenriffs von Jon Biviano und einem kompromisslosen Gesang entfaltet sich das Album mit der rasanten, hochspannenden Geschwindigkeit eines düsteren Actionfilm-Finales. Es ist laut, stolz und speziell darauf ausgelegt, jeden Kellerboden sofort in einen Moshpit zu verwandeln.
 
-::genre::
+::genre::hardcore punk
 
 ## Xiu Xiu - Eraserhead Xiu Xiu
 
-tbd
+Seit 2002 von Mastermind Jamie Stewart gegründet und geleitet, hat sich Xiu Xiu eine riesige Kult-Anhängerschaft aufgebaut, indem die Band die absolut dunkelsten Ecken des elektronischen Noise und des Art-Rock erkundet. **Noise**, **Industrial**, **Musique Concrète** und **Experimental Rock**. Stark inspiriert von frühen Noise-Pionieren wie *Throbbing Gristle* und dem Filmemacher David Lynch. Dieses Album wirkt weniger wie eine musikalische Sammlung, sondern eher wie eine furchterregende, geniale psychologische Falle. Stewart und seine Bandkollegin Angela Seo setzen modulare Synthesizer, selbstgebaute Instrumente, Taschenlampen und eiskaltes statisches Feedback als Waffen ein, um den Hörer in einen pechschwarzen industriellen Abgrund zu zerren. Es kratzt, brummt und dröhnt mit überwältigender Klaustrophobie, bis das große Finale - eine eindringliche, brillante Coverversion von "In Heaven" - endlich einen schmalen Streifen unheimlichen Mondlichts durch den Rauch hindurchscheinen lässt. Das ist Avantgarde-Kunst in ihrer kompromisslosesten, provokantesten Form.
 
-::genre::
+::genre::noise, art rock, experimental rock, industrial, musique concrète
 
 ## YAANO - 4NOW4EVER
 
-tbd
+YAANO hat sich über die üblichen Underground-Dance-Netzwerke einen Namen gemacht und sich eine unverwechselbare Identität erarbeitet, indem er energiegeladene, von Soul geprägte Tracks bei namhaften europäischen Drum-and-Bass-Labels veröffentlicht hat. **Drum & Bass**, **Liquid D&B**, **Dance-Pop** und **Electronica**. Stark beeinflusst von tiefen Basslines, Tech-Step-Rhythmen und ätherischen Pop-Sängerinnen. "4NOW4EVER" trifft wie ein Schlag purer kinetischer Energie direkt ins Nervensystem. Mit einer hochkarätigen Besetzung von Underground-Stimmen wie Ella Noel und MADI schwebt das Album nahtlos zwischen knallharten, den Subbass zum Beben bringenden Club-Tracks und hochfliegenden, himmelhohen Gesangsspitzen. Es fängt genau jene atemlose Euphorie ein, die man empfindet, wenn man um 4:00 Uhr morgens direkt vor einem riesigen Festival-Lautsprecherstack steht - und einen dazu bringt, wild zu tanzen, während man gleichzeitig ein seltsames, wunderschönes Gefühl emotionaler Schwerelosigkeit verspürt.
 
-::genre::
-
-## Yeonjun - No Labels: Part 02
-
-tbd
-
-::genre::
-
-## Zoe Rahman - Hull Suite Live
-
-tbd
-
-::genre::
+::genre::d&b, idm, electropop
 
 ---
 
 # Earlier the week ...
 
-## 2K88, Bianca Scout, Lauren Duffus & Rainy Miller - Everything Always Changes, For We're Truly Here
+## Black Death Cult - Cosmic Vertigo *
 
-tbd
+Bekannt für ihre äußerst theatralische, bizarre Ästhetik und ihren verwirrenden Sound, hat diese Band jahrelang die kanadische Metal-Underground-Szene mit hochgelobten Alben wie "Devil's Paradise" und "Diaspora" in Aufruhr versetzt. **Psychedelischer Blackened Death Metal**, **Avantgarde-Metal** und **Progressive Death-Doom**. "Cosmic Vertigo" anzuhören fühlt sich genau so an, als würde man kopfüber in ein Schwarzes Loch geworfen, während einem ein verrückter Zauberer ins Ohr lacht. Die Musik ist eine erstickende, dichte Wand aus schlammüberzogenen Riffs, verstörendem Gekicher und plötzlichen, schwindelerregenden Synthesizer-Ausbrüchen, die sich jeglicher gängigen Metal-Logik entziehen. Gemastert von der Avantgarde-Legende Colin Marston, ist das Album aggressiv schräg, auf wunderschöne Weise desorientierend und dient als perfekter Soundtrack für einen interstellaren Albtraum.
 
-::genre::
-
-## Black Death Cult - Cosmic Vertigo
-
-tbd
-
-::genre::
-
-## Cherry Blu - cherry blues
-
-tbd
-
-::genre::
-
-## Darwin Paz - Foreign Signature
-
-tbd
-
-::genre::
-
-## Daz Dillinger - This Is The Life I Lead 2
-
-tbd
-
-::genre::
-
-## Dzsúdló - civil
-
-tbd
-
-::genre::
-
-## Eleonora Kampe - Inner Beauty Cry
-
-tbd
-
-::genre::
+::genre::blackened death metal, avant death metal, prog death metal, doom metal
 
 ## Ellen Allien - New Life
 
-tbd
+Die unangefochtene Matriarchin der Berliner Techno-Institution und visionäre Leiterin des weltberühmten Plattenlabels BPitch Control. Seit Ende der 1990er Jahre prägt sie die globale Dancefloor-Kultur. Zukunftsweisender **Techno**, **Minimal**, **Darkwave** und **Hypnotic Rave**. "New Life" ist eine donnernde, mechanische Öko-Hymne, die sich als Warehouse-Party zur Hauptzeit tarnt. Allien kanalisiert die hypnotische Erhabenheit der Tiefsee und verwebt dunkle, pulsierende Synthesizer mit außerirdisch anmutenden Sprechbefehlen, die den Rhythmus durchschneiden. Tracks wie „Steh Auf“ und „Riot“ treffen mit unerbittlicher Wucht und bieten die perfekte Balance aus dystopischer Rave-Aggression und einer strahlenden, kollektiven Hoffnung, die deine Füße bis zum Sonnenaufgang in Bewegung hält.
 
-::genre::
+::genre::minimal techno, minimal electronica, dark wave
 
 ## Emer & Ugnė Uma - you and me
 
-tbd
+*emer* ist ein Underground-Elektro-Produzent, der gerade sein Solo-Debüt aus dem Jahr 2025 veröffentlicht hat. *Ugnė Uma* ist eine avantgardistische Sängerin und Songwriterin, die kürzlich auf experimentellen Bühnen wie den Veranstaltungen von NTS Radio für Furore sorgte. **Late-Night-Jazz-Soul**, **Downbeat**, **Sleepwalker-Pop** und **experimenteller Ambient**. Beeinflusst von Unterwasser-Indie und traumhafter Electronica. Beim Anhören dieses Albums fühlt man sich, als würde man durch eine leere, sternenbeleuchtete Jazz-Lounge treiben, die irgendwo im tiefen Weltraum schwebt. Die Produktion ist brillant vernebelt und überlagert träge Vocals mit langsam dahinschwebenden Mitternachtsklängen und Jazz-Akkorden, die wie Rauchringe wirken. Es ist eine wunderschöne, in Zeitlupe ablaufende Traumsequenz von einem Album, das ausdrücklich dafür konzipiert wurde, gespielt zu werden, wenn der Rest der Welt tief und fest schläft.
 
-::genre::
-
-## Fat Nick - The Best Worst Year
-
-tbd
-
-::genre::
+::genre::experimental ambient, coffee jazz, downbeat
 
 ## Holt Bodish - Gorgeous
 
-tbd
+Holt Bodish ist ein wahrhaft exzentrischer Universalgelehrter - tagsüber studiert er an der Universität komplexe Knotentheorie, während er nachts als kreativer Kopf hinter dem Power-Trio *Mordecai* aus Montana fungiert. Seine Soloarbeiten nimmt er ausschließlich mit einem altmodischen 4-Spur-Kassettenrekorder auf. **Lo-Fi-Indie**, **Bedroom-Punk**, **DIY-Rock** und **Avantgarde-Folk**. Beeinflusst vom Coolness-Faktor der Velvet Underground und der klassischen Underground-Kassettenkultur der 80er Jahre. "Gorgeous" ist ein durch und durch ironischer Titel, denn diese Platte ist herrlich ungeschliffen, chaotisch und wunderbar verstaubt. Drahtige Gitarren klirren gegen seltsame Drumcomputer, unberechenbare Keyboards und Handpercussion aus dem Wohnzimmer. Bodish liefert trockenen, halb gesprochenen Gesang, der einem das Gefühl gibt, direkt neben seinem Gitarrenverstärker auf einer knarrenden Diele zu sitzen. Das Album zaubert Magie aus rohen, ungefilterten Erstaufnahmen und fängt die Songs genau in dem Moment ein, in dem sie entstehen. Es ist ein intimes, hypnotisches Meisterwerk für alle, die ihre Rockmusik lieber völlig unpasteurisiert mögen.
 
-::genre::
+::genre::indie rock, lofi, bedroom pop, avant folk
 
 ## Hrothgar - Tales Of Valhöll
 
-tbd
+Die Band wurde ursprünglich 2012 unter dem Namen Esteliath gegründet und benannte sich 2017 in Hrothgar um. Sie verbrachten Jahre damit, ihre mitreißende Bühnenpräsenz in der französischen Extreme-Metal-Underground-Szene zu verfeinern, bevor sie ihr zweites Album fertigstellten. **Melodic Death Metal**, **Viking Metal** und **Epic Heavy Metal**. Stark inspiriert vom klassischen schwedischen Göteborg-Sound und mythologischer Überlieferung. Dieses Album anzuhören fühlt sich genau so an, als würde man ein riesiges Horn Met trinken, während man auf einem riesigen Wolf in einen Schneesturm reitet. Über die gesamte Spielzeit hinweg entfesselt die Band eine Wand aus hyperpräzisem Double-Bass-Drumming, kehligen Schreien und absolut triumphalen, harmonischen Gitarrensoli, die einem tagelang im Kopf bleiben. Sie behandelt die nordische Mythologie nicht als abgestandene Geschichtsstunde, sondern als einen dröhnenden, hochoktanigen Heavy-Metal-Blockbuster, bei dem jeder einzelne Track den Wunsch weckt, so lange Headbangen zu wollen, bis der Nacken knackt.
 
-::genre::
-
-## I-dle - We Made
-
-tbd
-
-::genre::
+::genre::melo death metal, thrash metal
 
 ## Joe James - The Ends, Never Ends
 
-tbd
+Nachdem Joe James über mehrere Jahre hinweg mit unzähligen EPs und Freestyles im Underground an Dynamik gewonnen hat, tritt er nun als etablierte eigenständige Stimme ins Rampenlicht. Er wird für seinen rauen, gesprächigen Vortragsstil und seinen tiefgründigen poetischen Realismus geschätzt. **UK-Rap**, **Jazz-Rap**, **Conscious Hip-Hop**, **Abstract Soul** und **Blues**. Diese Platte ist ganz sicher nicht für eine überfüllte Tanzfläche oder einen dröhnenden Nachtclub gedacht. Stattdessen entfaltet sie sich wie ein düsterer, regengepeitschter Kurzfilm, der direkt durch das Fenster einer Londoner U-Bahn in den späten Nachtstunden gedreht wurde. Untermalt von Live-Bläserklängen und rauchigen, jazzgetränkten Klanglandschaften lässt Joe tiefgründige, tagebuchartige Reflexionen über Familie, soziale Schichten und das Überleben in der heutigen Zeit einfließen. Mit hochkarätigen Gastversen von Dave und Loyle Carner, die diese Reise begleiten, etabliert sich das Album als eine tiefgreifende, detailreiche Hip-Hop-Meisterleistung.
 
-::genre::
-
-## Joni Void - LAGZ
-
-tbd
-
-::genre::
-
-## Kory Reeder - We Are Done For in the Most Remarkable Ways
-
-tbd
-
-::genre::
-
-## La Reezy - Skiddle Bandana
-
-tbd
-
-::genre::
-
-## LE4F & ɆɎɆ₵Ø₦ - Illusionary Realm
-
-tbd
-
-::genre::
-
-## Lil' Flip - War Peace Family Faith
-
-tbd
-
-::genre::
-
-## Liturgy - The Paranoiac Miracle, Immortal Life, Harmonium
-
-tbd
-
-::genre::
-
-## Loser64 - CUT IT SHORT
-
-tbd
-
-::genre::
-
-## Lungs Aka LoneSword, Phiik & Steel Tipped Dove - People Are Not Your Friends
-
-tbd
-
-::genre::
-
-## Manoel Cruz - Kuanza Sul
-
-tbd
-
-::genre::
-
-## MC7 - MCC
-
-tbd
-
-::genre::
-
-## Merzbow & Pedro Vian - Bardo Thodol
-
-tbd
-
-::genre::
+::genre::uk jazz, hip hop, alt soul
 
 ## Necromonger - Emanation of The Dying Perceptions
 
-tbd
+Eine brutale Underground-Supergroup, die 2021 von Veteranen der bulgarischen Extreme-Music-Szene gegründet wurde und ehemalige Mitglieder von Bands wie Fecal Body Incorporated und Cocklush vereint. **Old-School-Death-Metal**, **Goregrind** und **Death-Doom**. Deutliche Anlehnungen an Underground-Legenden der frühen 90er Jahre wie *Carcass*, *Autopsy* und *Mortician*. Dieses Album klingt wie ein monströses Wesen, das sich aus einer feuchten, vergessenen Gruft herauskämpft. Frei von jeglichen sauberen, modernen Produktionstricks serviert Necromonger eine erstickende Wand aus schlammüberzogenen Riffs, kehligen Brüllen und roher, primitiver Aggression. Es ist wunderbar widerwärtig, herrlich heavy und zelebriert stolz die dreckigsten Wurzeln des Underground-Metals mit Titeln wie "Bloody Picasso" und "Born in Grave Wax".
 
-::genre::
+::genre::osdm, goregrind, doom metal
 
 ## Owen Kufta - I Should Know When I’m Unwanted
 
-tbd
+Ein unglaublich produktiver Independent-Musiker, der über Bandcamp und digitale Streaming-Plattformen aktiv ist und regelmäßig stimmungsvolle, Lo-Fi-konzeptionelle Projekte veröffentlicht. **Shoegaze**, **Slowcore** und **Dream Pop**. Beim Anhören dieses Albums hat man das Gefühl, in einem mit dickem Samt ausgekleideten Raum alte VHS-Heimvideos anzuschauen. Titel wie "Vile Thing" und "Holy Psychic Radio" hüllen den Hörer in eine dichte, verschwommene Decke aus wunderschön verzerrten Gitarren und fernen, melancholischen Gesangspassagen. Themen wie Isolation und Ablehnung werden mit einer warmen, atmosphärischen Note behandelt, wodurch schweres emotionales Gewicht in eine tröstliche, tagträumerische Klangwolke verwandelt wird, in der man gemütlich davonschweben kann.
 
-::genre::
+::genre::shoegaze, dreampop, slowcore
 
-## Phideaux - Automoto Animus
+## Phideaux - Automoto Animus *
 
-tbd
+Das von dem Multi-Instrumentalisten Phideaux Xavier geleitete Projekt genießt in Progressive-Kreisen hohes Ansehen für seine weitläufigen, theatralischen Konzepte - insbesondere für seine von der Kritik gefeierte Doomsday Afternoon Trilogie. **Progressive Rock**, **Art Rock**, **Psychedelic Folk** und **Indietronica**. Stark inspiriert von klassischen Ikonen wie *David Bowie*, *Pink Floyd* und *Jethro Tull*. Phideaux schafft auf dieser skurrilen Reise einen meisterhaften Spagat zwischen grandiosem Theatralismus und völliger Absurdität. Das Album verwebt komplexe Gesangsharmonien und akustische Instrumentierung zu unvorhersehbaren progressiven Arrangements, die ständig die Richtung wechseln, wenn man es am wenigsten erwartet. Es ist herrlich exzentrisch, seltsam eingängig und beweist, dass man immer noch tiefgründige, intellektuelle Rockmusik machen kann, die zum Mitwippen animiert - manchmal sogar im normalen 4/4-Takt.
 
-::genre::
-
-## saintvale - ARKHAM
-
-tbd
-
-::genre::
-
-## Scattle - Mythos
-
-tbd
-
-::genre::
+::genre::prog rock, prog folk, art rock, psych folk, psych rock, indietronica
 
 ## The Loonies - Aura *
 
