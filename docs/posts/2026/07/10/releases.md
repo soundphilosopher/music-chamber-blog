@@ -826,125 +826,65 @@ tbd
 
 ::genre::
 
-## Rachel Morley - Never Returns Void
-
-tbd
-
-::genre::
-
-## Rav - EMERGENCE DELIRIUM
-
-tbd
-
-::genre::
-
 ## Ravaged By The Yeti - Snowbound Horror
 
-tbd
+Ein brutales Underground-Projekt mit dem bemerkenswert produktiven schwedischen Metal-Genie Rogga Johansson. Die Band hat sich speziell mit einer überarbeiteten, transatlantischen Dreierbesetzung neu formiert, um ihren primitiven, Old-School-orientierten Songwriting-Ansatz noch weiter zu schärfen. **Old-School-Death-Metal** und schwedischer **"Elchtod" Death-Metal**. Stark inspiriert von den klassischen Vertretern des sägeblattlastigen Death-Metal der frühen 90er Jahre. Getreu seinem Titel trifft dieses Album mit genau der Wucht eines gewaltigen, mythologischen Ungeheuers, das aus einem eisigen Bergschneesturm hervorspringt, um dir den Schädel zu zerschmettern. Das Trio verzichtet gänzlich auf ausgefeilte, übermäßig komplexe moderne Produktionstricks und liefert stattdessen einen unerbittlichen Teppich aus Midtempo-Gitarrenriffs mit rauer Klangfarbe und stetigem, hämmerndem Schlagzeugspiel. Der Gesang klingt wie tiefe, urwüchsige Brülllaute, die durch eine eisige Schlucht hallen. Das Album ist unnachgiebig, kompromisslos einfach und bietet Puristen der Old-School-Extremmusik einen unglaublich befriedigenden, bodenständigen Headbanging-Kick.
 
-::genre::
-
-## Raz Fresco - WHY EQUALS SELF
-
-tbd
-
-::genre::
+::genre::osdm
 
 ## Rodtgod - Tales From Beyond The Tomb
 
-tbd
+RodtGod wurde 2016 als Solo-Nebenprojekt gegründet, um ungenutztes Material aus der Hauptband des Gründers, Pissbucket, unterzubringen, und hat sich seitdem zu einem produktiven Vehikel für Heavy-Musik entwickelt. Der Künstler bezeichnet das Subgenre des Projekts scherzhaft als Health Metal - eine Kombination aus einem unglaublich hässlichen Sound und gesunden, unbeschwerten Absichten. **Sludge Metal**, **Doom Metal** und **Old-School-Death-Metal**. Diese Platte wirkt wie ein schwerfälliger, schlammbedeckter Golem, der versucht, mit überraschender Anmut einen Hindernisparcours zu bewältigen. Die Tracks bewegen sich mit einem gletscherartigen Doom-Stomp und schichten dicke, ächzende Sludge-Riffs unter kratzige, hallende Growls. Doch gerade wenn man glaubt, vollständig in einer trostlosen Friedhofslandschaft gefangen zu sein, verwöhnt einen das Album mit wunderbar absurden Momenten wie „Unfathomable Duck Invocation Of The Mighty Space Newt“. Es ist herrlich heavy, ungeschliffen und beweist, dass Extreme Metal sich nicht immer todernst nehmen muss.
 
-::genre::
+::genre::sludge metal, osdm, doom metal
+
+## Ronny Smith - Velvet Vibe
+
+Ein erfahrener Veteran der zeitgenössischen Jazzszene mit einer fast zwei Jahrzehnte umfassenden Karriere als Musiker. Er wird allseits dafür gefeiert, wie er komplexe, geradlinige Jazz-Improvisationen mit mitreißenden, von R&B beeinflussten rhythmischen Backbeats verbindet. **Smooth Jazz**, **Contemporary Urban Jazz** und anspruchsvolle Instrumentalmusik. Stark inspiriert von Gitarrenvirtuosen wie Wes Montgomery und George Benson. "Velvet Vibe" ist das musikalische Äquivalent dazu, in einen Seidenmantel zu schlüpfen, sich ein Glas edlen Wein einzuschenken und dabei den goldenen Sonnenuntergang an der Küste zu beobachten. Smith behandelt seine E-Gitarre wie einen fließenden Geschichtenerzähler, der mühelos über eine Landschaft aus warmen Synth-Pads, knackigen Drums und luftigen Melodien schwebt. Vom mühelosen Swing des Openers "Breeze" bis zur tiefen, nächtlichen Intimität von "Quiet Moment" hüllt dich das Album in einen makellosen Klangkokon, der ganz darauf ausgelegt ist, deinen Alltagsstress dahinschmelzen zu lassen.
+
+::genre::coffee jazz, smooth jazz, contemporary jazz
 
 ## Sad13 - 1331
 
-tbd
+Sad13 ist das gefeierte Soloprojekt und elektronische Alter Ego von Sadie Dupuis, der brillant-scharfsinnigen Frontfrau und Gitarristin der Indie-Rock-Größen Speedy Ortiz. **Elektropop**, **Synth-Pop**, **Art-Pop** und **Indie-Elektro**. Dieses Mixtape, das von Dupuis in einer beeindruckenden Demonstration von Unabhängigkeit vollständig selbst aufgenommen, eingespielt und produziert wurde, wirkt wie ein hyperaktiver, farbenfroher Zeichentrickkanal, der aus einer ganz besonderen Art emotionaler Hölle sendet. Tracks wie "Locust Releaser" und "Watermelon Manicure" verschmelzen klirrende Gitarren mit arcadeartigen Synthesizern, Feldaufnahmen und unglaublich bissiger, witziger Poesie. Es behandelt düstere Themen wie soziale Erschöpfung und schlechte Gewohnheiten mit einem verspielten, zuckersüßen Indie-Pop-Schwung, der einen zum Lächeln bringt, während die Texte einen in Stücke reißen.
 
-::genre::
-
-## SAGE - SEASONS
-
-tbd
-
-::genre::
-
-## Sam Binga & Addison Groove - BAGS INC.
-
-tbd
-
-::genre::
-
-## Sango - Rhythm and Melody
-
-tbd
-
-::genre::
-
-## Sarah Gross - The Old Side of Being Young
-
-tbd
-
-::genre::
-
-## Savage - Septic Tomb
-
-tbd
-
-::genre::
-
-## Self Interest - Can’t Get Ahead
-
-tbd
-
-::genre::
+::genre::electropop, synth pop, art pop, indietronica
 
 ## Shadow Of Jupiter - Bones
 
-tbd
+Diese Underground-Band hat sich nach ihrem hochgelobten Debütalbum vor drei Jahren unter Stoner-Doom-Puristen einen Ruf als absolutes Must-Have erarbeitet. **Stoner Rock**, **Doom Metal**, **Heavy Blues** und **Psychedelic Rock**. "Bones" verhält sich genau wie ein riesiger, verrosteter Pick-up, der mit Höchstgeschwindigkeit geradewegs durch einen Wüstensturm rast. Die Band entfesselt eine regelrechte Lawine aus schwerfälligen, erderschütternden Gitarrenriffs und feurigen Soli, die einen coolen Hauch von Melodien aus dem Nahen Osten in sich tragen. Frontmann John Piotrowski liefert eine umwerfend gefühlvolle, raue Gesangsleistung ab, die anmutig von einem langsamen, dunklen Blues-Growl in ein rasendes, ungezügeltes Rock’n’Roll-Gebrüll übergeht. Es ist unnachgiebig, knallhart und herrlich laut.
 
-::genre::
-
-## she's green - swallowtail
-
-tbd
-
-::genre::
+::genre::stoner rock, psych rock, doom metal
 
 ## Show Me the Body - Alone Together
 
-tbd
+Seit über einem Jahrzehnt hat sich dieses wilde Trio im DIY-Underground einen Namen gemacht, indem es ein elektrisches Banjo durch schwere Verzerrerpedale jagt und seine Shows auf eine intensive, gemeinschaftsorientierte Energie des Publikums ausrichtet. **Post-Hardcore**, **Noise-Punk**, **Sludge** und **experimenteller Hip-Hop**. Diese Platte klingt genau so, als würde man um Mitternacht durch eine düstere, betonierte New Yorker Gasse laufen, während einem der Generator eines Gebäudes aggressiv im Ohr brummt. Das gemeinsam mit Kenny Beats produzierte Album reißt die Tür mit einem bizarren, marschierenden Hip-Hop-Groove auf, bevor es in verzerrtes Chaos abgleitet. Die charakteristischen, summenden Banjosaiten durchbohren eine dichte Wand aus Basslines und sorgen dafür, dass man sich gleichzeitig völlig klaustrophobisch und begeistert fühlt. Es geht mit moderner urbaner Isolation um, indem es Paranoia in eine absolute Superkraft verwandelt.
 
-::genre::
+::genre::alt metal, post hardcore, noise rock, experimental hip hop
 
 ## Sigyn - From Nation To Chaos
 
-tbd
+Die Band wurde ursprünglich bereits 2008 gegründet, legte dann jedoch eine längere Pause ein, bevor sie sich 2022 wieder vollständig neu formierte. Mit ihrem 2023 erschienenen Debütalbum "Dehumanized" eroberten sie sofort die lokalen Charts und ebneten damit den Weg für eine rasche Fortsetzung der Studioarbeit. **Melodic Death Metal**, Epic Melodeath und **Symphonic Metal**. Stark inspiriert von der legendären finnischen Extreme-Metal-Szene der frühen 2000er Jahre. "From Nation To Chaos" wirkt genau so, als würde man einen doppelten Espresso hinunterstürzen, während man in einer Hochgeschwindigkeits-Achterbahn festgeschnallt ist, die durch einen Schneesturm rast. Die Band entfesselt einen regelrechten Ansturm aus rasend schnellen Blastbeats und hyperaktiven, neoklassischen Keyboard-Duellen, die über tiefem, monströsem Gebrüll schweben. Tracks wie "World in Flames" und "Blind Prophet" rasen mit einer ansteckenden, theatralischen Wildheit dahin, die einem völlig den Atem raubt und sofort zum Headbangen animiert.
 
-::genre::
+::genre::melo death metal, symphonic metal
 
 ## Sinsid - All That Remains
 
-tbd
+Die 2012 gegründete, kraftvolle norwegische fünfköpfige Band hat mehr als ein Jahrzehnt lang die Bastionen des Old-School-Heavy-Metal mit gefeierten Underground-Alben wie "Mission From Hell" (2018) und "In Victory" (2022) verteidigt. Traditioneller **Heavy Metal**, **Old-School-Trad-Metal** und **Power Metal**. Inspiriert von den klassischen Schwergewichten der späten 70er und 80er Jahre. Dieses Album ist eine glorreiche, unnachgiebige Hommage an Nieten, Leder und Gewitter. Sinsid umgeht moderne, sichere Radioproduktionsstile komplett und liefert stattdessen ein gnadenloses Feuerwerk aus Twin-Gitarren-Harmonien, hochfliegenden Galopp-Beats und einem rauen, knallharten Gesang von Terje Singh Sidhu. Das Album behandelt Themen wie Kampf, Ehre und das Metal-Erbe mit einer erfrischenden Ironiefreiheit und erinnert triumphierend daran, dass der Geist des klassischen Headbanging-Metals nach wie vor völlig unzerstörbar ist.
 
-::genre::
+::genre::power metal, nwothm, heavy metal
 
 ## Slow Goat - Where The Wisest Fear To Tread
 
-tbd
+Die im pazifischen Nordwesten gegründete Independent-Band mit einer Sängerin an der Spitze verfeinerte ihren charakteristischen, überwältigenden Stil anhand einer Reihe roher Demo-Aufnahmen und kurzer EPs wie "Common Enemy" aus dem Jahr 2024. **Heavy Psych**, **Stoner Rock**, **Doom Metal** und 90er-Jahre-**Grunge**. Das Anhören dieses Debüts fühlt sich an, als würde man um Mitternacht in einen dichten, nebligen Wald wandern, nur um dort unter Vollmond auf ein geheimes okkultes Ritual zu stoßen. Angetrieben von Rosie Petersons eindringlichem, geisterhaftem Gesang stampft die Musik mit monolithisch schweren, fuzz-überzogenen Gitarrenriffs und erderschütternden Drum-Patterns voran. Tracks wie "Visions / Fell Ritual" und "Dark Procession" entfalten sich zu weitläufigen, psychedelischen Wüsten-Klanglandschaften und bieten Fans von schlammigen, hypnotischen Riffs eine unglaublich befriedigende Dosis kraftvollen, atmosphärischen Doom.
 
-::genre::
-
-## Smith - Velvet Vibe
-
-tbd
-
-::genre::
+::genre::psych rock, doom metal, stoner rock, post grunge
 
 ## Smoking Snakes - All Lights On
 
-tbd
+Die 2022 gegründete Band sorgte mit ihrem energiegeladenen Debütalbum "Danger Zone" aus dem Jahr 2024 für großes Aufsehen in der europäischen Rock-Underground-Szene. Sie unterschrieben schnell einen Vertrag bei dem renommierten Melodic-Rock-Label Frontiers Records, um sich als Vorreiter des modernen Hair-Metal-Revivals zu etablieren. **Sleaze Metal**, **Glam Metal** und **Hard Rock** der 1980er Jahre. Dieses Album trifft mit genau derselben Wucht ein wie ein Biker in Lederjacke, der durch die Türen einer neonbeleuchteten Spelunke aus dem Jahr 1985 stürmt. Die Band tauscht sichere Pop-Strukturen gegen kreischende, blitzschnelle Gitarrensoli und hymnische, zum Mitklatschen einladende Refrains in Titeln wie "Screaming For More" und "Trick Or Treat" ein und liefert damit pure kinetische Energie. Es ist herrlich rücksichtslos, unglaublich laut und wie geschaffen dafür, an einem heißen Sommerabend aus den Autolautsprechern zu dröhnen.
 
-::genre::
+::genre::melo rock, glam metal, hard rock, arena rock, heavy rock
 
 ## Snorlax - Toxic Current
 
