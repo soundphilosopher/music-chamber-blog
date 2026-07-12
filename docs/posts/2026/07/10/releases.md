@@ -1,164 +1,98 @@
 ---
 date: 2026-07-10
 pin: true
-bandcamp: false
+bandcamp: true
 categories:
   - Releases
 ---
 
 # Releases! Releases! Releases!
 
-## 24hrs - STARAURA
-
-tbd
-
-::genre::
-
-## 3 Dollars - Plus Tax
-
-tbd
-
-::genre::
-
-## 7Keys - Gaea
-
-tbd
-
-::genre::
-
-<!-- more -->
-
-## A-100s - Rude and Lovely
-
-tbd
-
-::genre::
-
 ## Aaron Summerfield - Summer Circle
 
-tbd
+Summerfield ist ein hoch angesehener Gitarrist, Komponist und Pädagoge, der seit über einem Jahrzehnt eine feste Größe in der kreativen Musikszene von Denver ist. Er wurde bereits für den Westword Music Award in der Kategorie Bester Jazzkünstler nominiert. **Zeitgenössischer Jazz**, klassische Formen, akustischer **Blues**, Alternative-Rock-Texturen und progressives Jazz-Ensemble-Spiel. Dieses Album wirkt wie eine wunderschöne, musikalische Planetariumsprojektion, die die Zyklen der Natur und existenzielle Wandlungen abbildet. Die Platte fungiert als erzählerischer Liederzyklus, der sich ganz auf die Rituale des Jahreszeitenwechsels konzentriert und den Fluss der Zeit nachzeichnet. Die Instrumentierung verzichtet auf digitale Abkürzungen, um wunderschöne, natürliche Resonanzen hervorzuheben, und kombiniert gewundene Gitarrenmuster und einen klagenden fretless Bass mit subtilem Zusammenspiel von Saxophon und Schlagzeug, um geduldige Zuhörer zu belohnen.
 
-::genre::
+::genre::contemporary jazz, blues, jazz fusion
 
 ## Ad Finem Omnia - Senects Viae
 
-tbd
+Ein zutiefst melancholisches Projekt unter der Leitung des Multi-Instrumentalisten Pablo Vera (von Sol Sistere und Selbst), der nun mit seinem mit Spannung erwarteten zweiten Album zurückkehrt. **Atmosphärischer Black Metal**, **melodischer Black Metal** und philosophischer Extreme Metal. Holt eure schweren Wintermäntel aus dem Schrank, denn dieses Album gleicht einer kalten, windgepeitschten Reise durch einen unerbittlichen Gebirgspass. Der Titel bedeutet aus dem Lateinischen übersetzt "Der Weg des Alters" und tauscht sinnlosen, chaotischen Metal-Blasting gegen eine wunderschöne, langsam aufkeimende Atmosphäre und philosophische Reflexionen über Verfall und Sterblichkeit ein. Die Musik überlagert weinerliche Gitarrenmelodien und tiefe, hallende Brülllaute mit dichten Blastbeats und schafft so ein intensiv düsteres, theatralisches Erlebnis, das eure absolute, ungeteilte Aufmerksamkeit fordert.
 
-::genre::
+::genre::melo black metal, atmo black metal
 
 ## Adam Lambert - ADAM
 
-tbd
+Ein mehrfach für den Grammy nominierter Power-Sänger, der durch American Idol weltberühmt wurde, bevor er über ein Jahrzehnt lang als Frontmann der Rock-Legende Queen auf riesigen internationalen Stadiontourneen auftrat. **Industrial Pop**, **Dark Disco**, **Glam Rock**, **Synth-Pop** und **Electronic Dance**. Dieses selbstbetitelte Album ist ein spektakuläres, hochglänzendes urbanes Manifest, das ganz und gar von einem Neuanfang nach einer Trennung in Downtown Manhattan inspiriert ist. Lambert reißt sein traditionelles, theatralisches Arena-Rock-Repertoire in Stücke, um eine deutlich rauere, stimmungsvolle Klanglandschaft voller schwerer, metallischer Industrial-Beats und pulsierender Disco-Loops zu präsentieren. Mit Texten, die sich mit toxischer Männlichkeit und Ängsten beim Dating auseinandersetzen und den selbstbewussten Schritt in ein brandneues Lebenskapitel thematisieren, verbindet sein atemberaubender Stimmumfang die experimentelle Late-Night-Club-Atmosphäre zu einem triumphalen Pop-Meisterwerk.
 
-::genre::
+::genre::edm, idm, glam rock, industrial, synth pop
 
-## ALEXISTENCE - LIMINAL
-
-tbd
-
-::genre::
+<!-- more -->
 
 ## Alienator - Brutal Occupation
 
-tbd
+Ein Underground-Punk-Kraftpaket, das dafür bekannt ist, hyperintensive, rasante und politisch aufgeladene Live-Sets zu liefern. **Hardcore-Punk**, **D-Beat**, **Grindcore** und Aggressive **Powerviolence**. Macht euch darauf gefasst, völlig umgehauen zu werden, denn diese Veröffentlichung trifft wie eine gewalttätige, rasante Mauer aus purem musikalischem Adrenalin. Die Band verschwendet absolut keine Zeit mit langsamen, atmosphärischen Einleitungen oder freundlichen Gesangsintroductions. Stattdessen entfesseln sie einen rasanten Blitzkrieg aus krachenden Drumbeats, summendem Lo-Fi-Gitarren-Feedback und kehlenschneidenden Schreien, die Themen wie Autorität und gesellschaftlichen Zusammenbruch thematisieren. Es ist ein wunderbar lauter, chaotischer und unerbittlich harter Punk-Angriff, der wie geschaffen dafür ist, sich in einen verschwitzten Keller-Moshpit zu stürzen.
 
-::genre::
-
-## Allison Russell - In The Hour of Chaos
-
-tbd
-
-::genre::
+::genre::hardcore punk, d-beat, grindcore, powerviolence
 
 ## Among Legends - Lose My Grip
 
-tbd
+Das 2016 gegründete, fleißige Independent-Trio hat sich ein Jahrzehnt lang mit wilden DIY-Gigs einen Namen gemacht, bevor es dieses zweite Album aufnahm. Energiegeladener **melodischer Punkrock**, **Pop-Punk** und **Alternative Rock**. Dieses Album wirkt wie eine schweißtreibende Crowdsurfing-Hymne in einem bis zum Bersten gefüllten Kellerclub. Die Band liefert eine rasante Meisterklasse in melodischem Punk und kombiniert dabei unerbittliche, treibende Drumbeats mit unglaublich präzisen, eingängigen Gitarren-Hooks, die dazu einladen, aus voller Kehle mitzusingen. Textlich geht es um alltägliche Ängste, moderne Frustrationen und den Versuch, nicht den Verstand zu verlieren - dabei wird ernsthafte existenzielle Erschöpfung in einen wunderschön strahlenden, optimistischen Schub aus purem Punk-Adrenalin verpackt.
 
-::genre::
-
-## ANNA - MILLION DOLLAR BABE
-
-tbd
-
-::genre::
+::genre::power pop, pop punk, alt rock
 
 ## Apogean - Waste Where Life Begins
 
-tbd
+Eine hochpräzise Metal-Band unter der Leitung von Sänger Mac Smith und Produzent/Songwriter Dexter Forbes, die an ihr von der Kritik gefeiertes Album „Cyberstrictive“ aus dem Jahr 2024 anknüpft. **Technical Death Metal**, **Blackened Death Metal**, **Neofolk** und klassische Arrangements. Dieses Album wirkt genau wie ein uraltes, düsteres Märchen, das gewaltsam in eine Hightech-Zukunft vorgespult wurde. Mit dem Ziel, weit über die üblichen Grenzen des Technical Death Metal hinauszugehen, fügt die Band eindringliche Violinen, gespenstische Chöre und akustische Neofolk-Passagen in ein Feuerwerk aus unerbittlichen, hämmernden Drums ein. Sie beschäftigt sich mit tiefgründigen philosophischen Konzepten wie Qual und Selbstidentität und schafft so ein wunderschön dichtes und atmosphärisches Klanggewebe, das sich grandios filmisch anfühlt.
 
-::genre::
+::genre::tech death metal, blackened death metal, neo folk
 
-## Arise From Worms - A Bleeding Tree Hanging Self Destruction
+## Arise From Worms - A Bleeding Tree Hanging Self Destruction *
 
-tbd
+Ein gewaltiges Extreme-Metal-Projekt unter der Leitung des virtuosen Gitarristen Sonny Lombardozzi, der die einflussreichen Ikonen Steve Tucker (Morbid Angel) am Gesang und Flo Mounier (Cryptopsy) am Schlagzeug rekrutierte, um neue Grenzen zu erschließen. **Progressiver technischer Death Metal**, **Jazz-Fusion** und extremer **Avantgarde-Metal**. Macht euch darauf gefasst, dass euer Gehirn komplett neu verdrahtet wird, denn dieses Album verwandelt musikalische Technik in den Spielplatz eines verrückten Wissenschaftlers. Lombardozzi und seine Elite-Crew umgehen die üblichen Death-Metal-Klischees, um verwirrende Taktarten und hochkarätige Musiktheorie direkt in den Mixer zu werfen. Es schafft ein Gleichgewicht zwischen gewundenen, ultraschnellen Riffs und unerwarteten, schwindelerregenden Jazz-Fusion-Keyboard-Läufen und bietet so eine unberechenbare und durch und durch komplexe Klangodyssee, die eure absolute, ungeteilte Aufmerksamkeit erfordert.
 
-::genre::
-
-## As Oceans Divide - As Oceans Divide
-
-tbd
-
-::genre::
+::genre::tech death metal, prog death metal, avant death metal, jazz fusion, death jazz
 
 ## Aydn - from memory
 
-tbd
+Ein Underground-Produzent und Spezialist für Bassmusik, der sich einen hervorragenden Ruf dafür erarbeitet hat, technische elektronische Rhythmen mit tiefer, gemächlicher emotionaler Tiefe zu versehen. **Liquid Drum & Bass**, **UK Garage**, **Future R&B** und **Deep Soul**. Dieses Debüt wirkt wie ein wunderschön unscharfes Polaroidfoto, das Distanz, Nostalgie und stille Entschlossenheit einfängt. Aydn konstruiert unglaublich geschmeidige, rollende Drum-&-Bass-Patterns, überlagert von Hyper-R&B-Vocal-Chops, die wie halb vergessene Gespräche mal in den Fokus rücken, mal wieder verschwinden. Es tauscht den üblichen, aggressiven Club-Lärm gegen eine langsam aufkeimende, nächtliche Atmosphäre ein, die den Hörer umarmt und sich zutiefst persönlich anfühlt.
 
-::genre::
-
-## Baby Jane - Winter Forever
-
-tbd
-
-::genre::
-
-## Baby Rose - YEARNALISM
-
-tbd
-
-::genre::
+::genre::d&b, neo soul, uk garage, alt r&b
 
 ## Baby Smith - Lately, Love Is Dead
 
-tbd
+Ein äußerst kreatives Songwriter-Duo, bestehend aus Saxon Gable und Ray Sonder. Mit ihren sequenziell betitelten Veröffentlichungen "EP I" und "EP II" aus den Jahren 2023 und 2024 erlangten sie zunächst eine treue Underground-Anhängerschaft. **Indie-Pop**, **Sophisti-Pop**, **Alternative-Pop** und **Jangle-Rock**. Stellt euch vor, ihr schleicht euch in eine wunderbar stilvolle Late-Night-Party ein, auf der alle ein bisschen Liebeskummer haben, die Hausband aber absolute Perlen spielt. Das Duo nimmt den bitteren Schmerz schwindender Romanzen und moderner Beziehungssackgassen auf und verpackt ihn in helle, zuckersüße Melodien und knackige Indie-Gitarrenklänge. Es fängt einen luftigen, sommerlichen Groove ein, der einen wunderschönen Kontrast zu den zynischen Texten bildet und beweist, dass man sich durchaus durch eine schwere romantische Krise tanzen kann.
 
-::genre::
+::genre::jangle pop, indie pop, alt pop
 
 ## Ben O'Blivion - Diamond Dust
 
-tbd
+Ein unabhängiger Multi-Instrumentalist und Progressive-Rock-Komponist, der dafür bekannt ist, weitläufige, texturreiche konzeptionelle Stücke zu schaffen. **Progressive Rock**, **Neo-Progressive**, **Symphonic Rock** und **Art Rock**. Dieses Album wirkt wie eine musikalische Planetariumsshow, die die tiefsten Winkel eines sternenklaren Nachthimmels abbildet. Mit Stücken, die rätselhafte Namen wie "Wisteria" und "Cubist Heart" tragen, verzichtet das Album gänzlich auf einfache, vorhersehbare Radioformate, um hoch aufragenden Synthesizer-Pads und gewundenen Gitarrenmustern freien Lauf zu lassen. Es hält an einer wunderschön dramatischen, klassischen Art-Rock-Skala fest, die geduldige Zuhörer belohnt, und hüllt Themen wie kosmisches Geheimnis und emotionale Entdeckung in eine immersive Klanglandschaft.
 
-::genre::
+::genre::prog rock, neo prog rock, symphonic rock, art rock
 
 ## Beware Of Gods - Upon Whom The Last Descends III: Behead The Oracle
 
-tbd
+Ein gewaltiges, konzeptionelles Studio-Projekt, das vom Multi-Instrumentalisten "The Archetype" ins Leben gerufen wurde. Für dieses letzte Kapitel einer weitläufigen Trilogie holte der Schöpfer den erfahrenen Schlagzeuger Kellii Scott von der Alternative-Band Failure mit ins Boot. **Sci-Fi-Doom-Metal**, **Industrial-Metal**, **Post-Metal** und **Sludge-Prog**. Mach dich bereit, dein Gehirn direkt an eine dunkle, dystopische kosmische Matrix anzuschließen. Dieses große Finale ist eine überwältigende Klanglandschaft, die die Geschichte eines fiktiven Wanderers namens "I Nomad" dokumentiert, der gegen falsche algorithmische Götter, trügerische automatisierte Kontrolle und den gesellschaftlichen Zusammenbruch kämpft. Klanglich vereint das Album tektonische Doom-Metal-Riffs mit kalten, zuckenden Industriemaschinen, glitchigen elektronischen Impulsen und weitläufigen, filmischen Atmosphären. Es ist ein emotional erschütterndes, visuell geprägtes Album, das euch dazu auffordert, falsche Autoritäten abzulehnen und eure Identität zurückzugewinnen.
 
-::genre::
+::genre::sludge metal, post metal, prog metal, industrial metal, doom metal
 
 ## Billy Gardner & Friends - Last of the Natural Light
 
-tbd
+Billy Gardner ist der Kopf hinter dem beliebten Independent-Label Anti Fade Records. Für dieses umfangreiche Gemeinschaftsprojekt hat er ein Elite-Team aus Underground-Musikern aus Melbourne zusammengestellt, die seine Arrangements singen und spielen. **Indie-Rock**, **Jangle-Pop**, **Garage-Rock**-Revival und melodischer Underground-Alternative. Diese Platte vermittelt genau das Gefühl, als würde man bei einem Grillfest im Garten zum Sommerausklang mit den coolsten Songwritern der Stadt abhängen, während die Sonne langsam hinter dem Zaun versinkt. Anstatt eine egozentrische Solo-Show abzuziehen, tritt Gardner in den Hintergrund und lässt eine ganze Reihe unterschiedlicher Sänger den lebhaften, klirrenden Gitarrenloops und den warmen Bassgrooves Leben einhauchen. Das Album behandelt alltägliche Momente und die Liebe zur Gemeinschaft mit einem unbeschwerten, wohltuenden Indie-Charme, der einem das Gefühl gibt, Teil des inneren Kreises zu sein.
 
-::genre::
-
-## Blackstaff - Drowner
-
-tbd
-
-::genre::
+::genre::indie rock, jangle pop, garage rock, alt rock
 
 ## Blueneck - Moonlighting
 
-tbd
+Das in den 2000er Jahren gegründete, vielgelobte Duo aus Duncan Attwood und Rich Sadler entwickelte sich zu einer Kultgröße der britischen Post-Rock-Szene. Dies ist ihr sechstes Studioalbum - eine triumphale Rückkehr nach einer atemberaubenden zehnjährigen Pause, in der sie sich von schweren gesundheitlichen Problemen erholten. **Post-Rock**, melodischer **Art-Rock**, **Ambient**, Synthesizer-**Synth-Pop** und **Alternative Rock**. Dieses Album wirkt wie eine Mitternachtsreise, die aus den tiefsten Schatten direkt ins Morgenlicht führt. Es verbindet auf elegante Weise eiskalte, mechanische elektronische Beats mit gewaltigen Wänden aus erdrückender Gitarrenverzerrung und wunderschön zerbrechlichem, sehnsüchtigem Gesang. Es erkundet tiefgründige Themen wie Überleben, Genesung und endgültige Abschiede und schafft so ein filmisches, tränenreiches Hörerlebnis, das einen tiefen, nachhallenden Schmerz in der Brust hinterlässt.
 
-::genre::
+::genre::post rock, art rock, ambient, synth pop, alt rock
 
 ## BONNIE PARKER - Debutante
 
-tbd
+Der aufstrebende unabhängige Singer-Songwriter hat in den letzten Jahren maßgebliche Pop-/Rock-Stücke veröffentlicht und mit Singles wie "Charlie", "be sweet" und der EP "The Leftovers" frühzeitig für Aufsehen gesorgt. **Alternative Rock**, **Indie-Rock** und **Bedroom-Pop**. Dieses Album wirkt wie eine perfekt maßgeschneiderte Retro-Coming-out-Party, bei der der Punsch mit Alkohol versetzt ist und alle abgetragene Converse-Sneaker zu Abendgarderobe tragen. Der Künstler verzichtet auf makellose, überpolierte Pop-Produktionen und präsentiert stattdessen zehn unglaublich eingängige, gitarrenlastige Hymnen über Jugend, Liebeskummer und das Erwachsenwerden unter den Augen der Öffentlichkeit. Das Album besticht durch scharfsinnige Texte und mitreißende Gitarrenklänge, die sich gleichzeitig roh, wunderschön trotzig und zutiefst intim anfühlen.
 
-::genre::
+::genre::alt rock, indie rock, bedroom pop
 
 ## carolesdaughter - You Can't Spell Sweetheart Without Thea
 

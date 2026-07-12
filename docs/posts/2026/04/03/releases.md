@@ -324,7 +324,7 @@ Das amerikanische Quartett legt nach seinem Debüt vor 14 Jahren nun sein zweite
 
 Entstanden aus der Londoner Underground-Szene, sind sie bekannt für ihre dichten Klangschichten und dafür, dass sie Genres durch eine Verschmelzung traditioneller Folk-Instrumente (wie Geigen) und chaotischem Noise weiterentwickeln. Eine Mischung aus **Experimental Post-Hardcore**, **Neofolk** und abstraktem **Noise**. Das ist Musik für eine Welt im „unerbittlichen Chaos“. Es ist ein „hybrides Kleinod“, das einen in eine dunkle, leicht unbehagliche, aber zutiefst hypnotische Atmosphäre zieht. Es fühlt sich an, als würde man eine verlassene Galerie erkunden – gleichermaßen unheimlich und avantgardistisch.
 
-::genre::noisecore, neofolk, post hardcore
+::genre::noisecore, neo folk, post hardcore
 
 ## Joe Pernice - Sunny, I Was Wrong
 
