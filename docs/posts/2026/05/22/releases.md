@@ -1258,7 +1258,7 @@ Das Ensemble, das seit fast zwei Jahrzehnten in der europäischen Underground-Sz
 
 I.O.I, die 2016 im Rahmen der Reality-Survival-Show Produce 101 von Mnet als äußerst einflussreiche Projektgruppe gegründet wurde, trug maßgeblich dazu bei, die moderne, rasante Ära des K-Pop der dritten Generation einzuläuten. Auf dieser Veröffentlichung sind 9 der ursprünglich 11 Mitglieder (darunter Jeon Somi, Chungha und Kim Sejeong) zu hören, die sich nach einer fast neunjährigen Pause wieder zusammengefunden haben. Hochproduzierter **K-Pop**, **Synthpop** und elektronische Tanzmusik. Das Mini-Album verbindet die energiegeladenen, mitreißenden Hooks ihrer frühen Jugend mit einem ausgereiften, vokalorientierten Pop-Stil. Die Lead-Single "Suddenly" (갑자기) besticht durch äußerst nostalgische, emotionale und rhythmische Melodien. Holt eure Taschentücher und eure Leuchtstäbe raus, denn die Königinnen der Nostalgie sind zurück, um ihre Krone zurückzuerobern. "I.O.I: Loop" ist die ultimative musikalische Siegesrunde. Der Lead-Track "Suddenly" trifft euch mit schimmernden, bittersüßen Synthesizern mitten ins Herz, bevor er euch in einen gewaltigen, tanzbaren Refrain entführt. Die gesamte EP pendelt zwischen einer feierlichen Wir-haben-euch-vermisst-Party und einem reifen, wunderschön harmonisierten Dankesbrief an die Fans, die fast ein Jahrzehnt gewartet haben. Sie ist glanzvoll, perfekt ausgefeilt, zutiefst emotional und man kann sie unmöglich nur einmal anhören.
 
-::genre::k-pop, synthpop, ebm, edm
+::genre::k-pop, synth pop, ebm, edm
 
 ## Ivo Perelman, Matthew Shipp, William Parker, Bobby Kapp - Synesthesia
 

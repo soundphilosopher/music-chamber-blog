@@ -390,7 +390,7 @@ Seit 2011 aktiv, wurden sie 2023 zum Thrash-Newcomer des Jahres gekürt. Dies is
 
 Das experimentelle Projekt des Produzenten und Nu-Age-Pioniers *Angel Marcloid*, der sich eine erfolgreiche Karriere aufgebaut hat, indem er extreme Genres mit New-Age-Ästhetik verbindet. **Avantgarde-Metal** / **IDM** / **Vaporwave** / **Cybergrind**. Erwarte eine maximalistische Kollision aus Smooth-Jazz-Fusion, Death-Metal-Schreien und glitchigen elektronischen Texturen. Dieses Album ist eine stroboskopbeleuchtete Reise durch einen digitalen Fiebertraum. Es ist emotionale Wahrheit durch Absurdität - ein Wechsel von ruhigen Harfenmelodien zu rasanten Blastbeats innerhalb von Sekunden. Es ist wunderschön, überwältigend und klingt, als hätte das Internet einen Moment der Erleuchtung.
 
-::genre::avant metal, cybergrind, vaporwave, synthpop, digicore
+::genre::avant metal, cybergrind, vaporwave, synth pop, digicore
 
 ## Fleischwolf - Letzte Platte vor der Autobahn
 
@@ -624,7 +624,7 @@ Eine Zusammenarbeit zwischen dem Mystiker aus Toronto Khôra (*Matthew Ramolo*) 
 
 Der letzte Teil einer konzeptionellen Tanz-Trilogie der gefeierten Electro-Pop-Sängerin, nach Vol. 1 (2024) und Vol. 2 (2025). **Electro-Pop** / **Dance-Pop** / **House**. *Kiesza* verbindet ihre Folk-Wurzeln mit House-Beats und Basslines und schafft so einen Sound, der von Bewegung, emotionaler Befreiung und trotziger Selbstfindung geprägt ist. "Volume 3" ist eine stroboskopbeleuchtete Reise, auf der sich der Druck der Tanzfläche in pure Freude verwandelt. Es ist euphorisch, eingängig und zutiefst persönlich - die Art von Musik, die Lust macht, bis zum Sonnenaufgang zu tanzen und gleichzeitig einen tiefgreifenden inneren Durchbruch zu erleben.
 
-::genre::synthpop, electropop, deep house, edm, dance
+::genre::synth pop, electropop, deep house, edm, dance
 
 ## Koyo - Barely Here
 
