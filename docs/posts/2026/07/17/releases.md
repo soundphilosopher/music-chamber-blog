@@ -1066,144 +1066,36 @@ tbd
 
 ## GALNERYUS - A CRY FROM THE SKY ABOVE
 
-tbd
+Diese legendäre Band, die 2001 vom Gitarrenvirtuosen Syu gegründet wurde und deren Frontmann Masatoshi "Sho" Ono mit seiner kraftvollen, opernhaften Stimme besticht, zählt zu Japans beständigsten und technisch brillantesten Metal-Bands. Neoklassischer Metal, **Power Metal** und **Progressive Metal**. Dieses Album ist eine absolute Meisterleistung voller mitreißender, von Double-Bass-Drums getriebener musikalischer Adrenalin-Kraft. Es startet mit rasanten Gitarrenläufen und unglaublich schneller Keyboard-Zauberei, die sich anfühlt, als würde man einer Sternschnuppe durch eine Stratosphäre aus purer Power-Metal-Energie nachjagen. Die hochfliegenden Gesangshooks sind unverhohlen triumphierend und erheben Themen wie beständige Hoffnung, Schicksal und Widerstandskraft direkt in den Himmel, um gewaltige Hymnen zu schaffen, die langjährige Metalheads zum Luftgitarrespielen verleiten.
 
-::genre::
+::genre::power metal, prog metal
 
 ## Geof Whitely Project - Myths and Legends
 
-tbd
+Geof Whitely ist ein multi-instrumentaler Studio-Virtuose und erfahrener Komponist, der dafür bekannt ist, im Rahmen des GWP-Projekts äußerst produktive, selbst aufgenommene Konzeptalben zu schaffen, die sich durch üppige Orchestrierung und weitläufige Rock-Strukturen auszeichnen. **Progressive Rock**, **Crossover-Prog** und **Symphonic Rock**. Entstauben Sie Ihre Samtumhänge und machen Sie sich bereit für eine mitreißende, filmreife Fantasy-Odyssee. Angetrieben von dramatischen Keyboard-Arrangements, schwebenden Gitarrensoli und reichhaltigen rhythmischen Hintergründen entfaltet sich das Album wie eine großartige historische Anthologie vergessener Überlieferungen. Titel wie "Devils Teardrop" und "Shaman" nutzen komplexe Arrangements, um große, mitreißende Geschichten über Ehre, Tragödie und uralte Mystik zu erzählen - ein wunderbares Erlebnis für alle, die ihre Rockmusik mit einer kräftigen Prise Theater mögen.
 
-::genre::
-
-## Girled - Inflection Aria
-
-tbd
-
-::genre::
-
-## Goh Lee Kwang - Mediæval
-
-tbd
-
-::genre::
-
-## Gonzy - FROM MIAMI, WITH LUV
-
-tbd
-
-::genre::
-
-## grounds. - “CLEAN EARTH”
-
-tbd
-
-::genre::
-
-## Haptic - Ecliptic
-
-tbd
-
-::genre::
+::genre::prog rock, symphonic rock
 
 ## Hercules & Love Affair - Danseur PT 1
 
-tbd
+Dieses von Produzent und DJ Andy Butler ins Leben gerufene, von Kritikern hochgelobte Projekt ist seit fast zwei Jahrzehnten eine feste Größe in der queeren Clubkultur und bekannt dafür, gefühlvolle Gesangs-Hooks mit Vintage-Synthesizern zu verbinden. **Acid House**, Classic **Disco**, **Synth-Pop** und **Darkwave**. Schlüpft in eure schönste Lederjacke und begebt euch hinunter in einen nebelverhangenen, von Stroboskoplicht erhellten Keller, in dem die Basslines niemals verstummen. Diese Veröffentlichung verzichtet auf Radiofreundlichkeit und liefert stattdessen hypnotisch sich wiederholende, knirschende 303-Basslines und treibende, industriell angehauchte Percussion. Es ist ein düsteres, schweißtreibendes Fest des Underground-Nachtlebens, das die Tanzfläche als heiligen Ort der persönlichen Befreiung und kollektiven Ekstase betrachtet.
 
-::genre::
+::genre::synth pop, idm, dark wave
 
-## Hesse Kassel - Morir Saltando
+## Hesse Kassel - Morir Saltando *
 
-tbd
+Hesse Kassel, die aus der südamerikanischen Experimental-Underground-Szene stammen, sind eine eingespielte Band, die dafür bekannt ist, theatralische Arrangements mit unberechenbarer, punkiger Live-Energie zu verbinden. **Progressive Rock**, **Post-Rock** und **Art-Punk**. Diese Platte wirkt wie ein intensives, sich langsam entfaltendes Theaterstück, das in einem verfallenden Betonlagerhaus spielt. Mit ausufernden Stücken, die mühelos die Zehn-Minuten-Marke überschreiten, schwankt die Musik heftig zwischen stiller, jazzangehauchter Spannung und massiven, verzerrungslastigen vulkanartigen Ausbrüchen. Der spanische Gesang wird mit einer fesselnden, poetischen Dringlichkeit vorgetragen und zeichnet schonungslose Porträts von urbaner Isolation, emotionaler Erschöpfung und dem absoluten Chaos des modernen Überlebens.
 
-::genre::
-
-## joedirtdvd - beautifulloser
-
-tbd
-
-::genre::
-
-## KYRiE - The Black Album
-
-tbd
-
-::genre::
-
-## Lightning Bug - In Between Things
-
-tbd
-
-::genre::
-
-## lor2mg - dinner and a movie
-
-tbd
-
-::genre::
-
-## Madeline Dawn Sikes - Verse Chorus Verse Chorus Bridge Chorus DEATH.
-
-tbd
-
-::genre::
-
-## Maya Deer - HUMAN EATING CONTEST
-
-tbd
-
-::genre::
-
-## Natalia Beylis - Around Here, The Birds Plant The Trees
-
-tbd
-
-::genre::
-
-## nosaint - The Truth
-
-tbd
-
-::genre::
-
-## Phinjamon - Awesome Sauce
-
-tbd
-
-::genre::
-
-## Princess Army Wedding Combat - Japanimation
-
-tbd
-
-::genre::
-
-## ProtoU - The Infinite Recall
-
-tbd
-
-::genre::
-
-## Radkey - Bedroom Sand
-
-tbd
-
-::genre::
-
-## Raq baby - Still Spillin
-
-tbd
-
-::genre::
+::genre::prog rock, post rock, art rock
 
 ## Sand - Introspective
 
-tbd
+Sand ist ein Produzent elektronischer Musik und ein aufstrebender Newcomer, der in der britischen und europäischen Underground-Drum-and-Bass-Szene gefeiert wird. Atmosphärischer **Drum & Bass**, **Jungle** und **Breakbeat**. Schnall dich an für eine herrliche, schwebende Reise durch einen wolkenverhangenen Himmel. Dieses elektronische Klanggewebe verbindet hyperkinetische, präzise geschnittene Amen-Breaks und rollende Rhythmen mit unglaublich üppigen Orchester-Streichern und ruhigen Klavierakzenten. Es fühlt sich gleichzeitig an, als würde man durch einen neonbeleuchteten Regensturm sprinten und in einem wohltuenden Sinnesentzugstank schweben - dabei wird tiefe, innere Isolation mit einem gewaltigen Adrenalinstoß eingefangen.
 
-::genre::
+::genre::d&b, jungle, breakbeat
 
 ## Suzanne Vallie - Moonshiner Springs
 
-tbd
+Vallie ist eine Dichterin und Songwriterin, die sehr lyrische, erzählerische Lieder komponiert, die von der kargen Schönheit der Landschaft am Missouri River inspiriert sind. **Folk**, **Dream-Folk**, **Country-Folk** und Singer-Songwriter-**Indie-Rock**. Stellt euch dieses Album wie ein nächtliches Lagerfeuer in der Wildnis vor, zu dem die Geister eingeladen sind, mitzusingen. Der Titelsong webt ein wunderschön dämmriges Geflecht aus schimmernden, schwebenden Gitarrenklängen und mühelosen Violinenklängen. Er handelt davon, inmitten unerwarteter Trauer und menschlicher Zerbrechlichkeit tiefe Wärme, emotionale Widerstandsfähigkeit und Freundschaft zu finden. Es fühlt sich ganz und gar wie ein tröstlicher, rustikaler Zauber an, der gewoben wurde, um euch sicher durch einen dunklen Sturm zu tragen.
 
-::genre::
+::genre::indie folk, country folk, dreampop
