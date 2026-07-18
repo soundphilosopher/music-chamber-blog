@@ -1,0 +1,20 @@
+.bandcamp-player {
+    margin: 1em 0 !important;
+}
+
+.bandcamp-player--dark,
+.bandcamp-player--light {
+    border: 0;
+    width: 90%;
+    height: 42px;
+}
+
+/* Light theme: show light player, hide dark */
+[data-md-color-scheme="default"] .bandcamp-player--dark {
+    display: none;
+}
+
+/* Dark theme: show dark player, hide light */
+[data-md-color-scheme="slate"] .bandcamp-player--light {
+    display: none;
+}
