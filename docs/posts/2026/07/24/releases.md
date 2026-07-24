@@ -1484,32 +1484,20 @@ tbd
 
 ::genre::
 
-## Ssadcharlie - prom
-
-tbd
-
-::genre::
-
 ## The Green Kingdom - Vespera
 
-tbd
+*The Green Kingdom* ist das seit langem bestehende Soloprojekt des Komponisten Michael Cottone, der seit fast zwanzig Jahren seine unverwechselbare, immersive Ambient-Sprache verfeinert. **Ambient** / **Moderne Klassik** / Cinematic Space Music. Es werden häufig Vergleiche mit Ambient-Pionieren wie *Brian Eno*, *Harold Budd*, *Robin Guthrie* und *Eluvium* gezogen. „Vespera“ ist das klangliche Äquivalent dazu, mit dem Gesicht nach oben in einem warmen Wasserbecken zu treiben und dabei zu beobachten, wie die Sterne langsam zum Leuchten kommen. Cottone verwebt meisterhaft sanft bearbeitete Klaviermelodien mit hallgetränkten Gitarrenklängen, die sich zu gewaltigen, kissenartigen Klangwolken ausdehnen. Das Werk trägt ein Thema in sich, das tief mit den Stunden der Dämmerung verbunden ist - es beschwört jenen stillen, heiligen Raum herauf, in dem der Tag endet und die Nacht noch nicht ganz die Oberhand gewonnen hat. Das ist nicht nur Hintergrundgeräusch; es ist ein äußerst bildhaftes, wunderschönes Erlebnis, das den Blutdruck augenblicklich senkt und das Gehirn in einen Zustand völliger Ruhe versetzt.
 
-::genre::
+::genre::ambient, modern classic
 
 ## Things Left Unsaid - Nothing’s That Serious
 
-tbd
+Eine aufstrebende DIY-Alternative-Band, die sich ihre Fangemeinde durch energiegeladene Streaming-Veröffentlichungen aufgebaut hat, darunter auch frühere humorvolle Fan-Favoriten wie *Half Charged Walmart Scooter*. In Zusammenarbeit mit dem Toningenieur und Produzenten Darien Vega in den Kurtsroom Studios haben sie dieses Album zum Leben erweckt. **Pop-Punk** / **Emo** / **Alternative Rock**. Wenn du die Zeiten vermisst, in denen du viel zu viele Gummibänder am Handgelenk getragen und lautstark von deiner Heimatstadt gesungen hast, ist "Nothing’s That Serious" deine ultimative Zeitmaschine. Das Album treibt dich mit hyperaktiven Drum-Fills und knackigen, sonnendurchfluteten Gitarrenakkorden voran, die dich geradezu dazu zwingen, auf und ab zu springen. Auch wenn der Name der Band recht melancholisch klingt, ist die zugrunde liegende Philosophie hier pure, jugendliche Unbekümmertheit - die chaotischen Herzschmerz-Erlebnisse und Dramen des Lebens mit einem Achselzucken und einem gewaltigen melodischen Hook zu begegnen. Es ist laut, kompromisslos und fängt diesen chaotischen Übergang ins Erwachsenenalter ein, in dem alles eine Krise ist, aber hey ... eigentlich ist nichts so ernst.
 
-::genre::
+::genre::pop punk, power pop, alt rock
 
 ## Vokkr - Golden Forest
 
-tbd
+Vokkr ist ein unabhängiges Projekt, das dafür bekannt ist, aggressive Black-Metal-Elemente mit äußerst filmischer Dark-Fantasy-Folklore zu verbinden. Neben ihren Musikveröffentlichungen haben sie sogar ein eigenes taktisches Dark-Fantasy-Brettspiel entwickelt. **Atmosphärischer Black Metal** / Dream Metal / **Ethereal Metal**. "Golden Forest" wirkt wie die akustische Adaption einer Volkssage, in der man in den Wald wandert und feststellt, dass die Bäume aktiv deinen Untergang planen. Vokkr stellt die unerbittlichen, eisigen Blastbeats des Black Metal auf wunderbare Weise glitzernden, ätherischen Synth-Klanglandschaften gegenüber, die wie bösartige Lichterketten funkeln. Die Songs mit Titeln wie "Goblin" und "Melancholic Elf" wirken zugleich mythologisch und rasend. Sie schaffen ein Gleichgewicht zwischen einer wunderschönen, goldfarbenen Atmosphäre und der drohenden Furcht vor einer uralten Welt - damit sind sie der perfekte Hörgenuss für alle, die sich wünschen, ihre Wanderungen in der Natur wären ein wenig gefährlicher.
 
-::genre::
-
-## Winds Of Sorrow - Winds Of Sorrow
-
-tbd
-
-::genre::
+::genre::atmo black metal
