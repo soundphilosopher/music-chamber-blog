@@ -156,9 +156,9 @@ tbd
 
 ## Bryan Eckermann - Return To Helmbrook
 
-tbd
+Ein überaus talentierter Multi-Instrumentalist und Komponist, der als Ein-Mann-Metal-Kraftpaket auftritt und dafür bekannt ist, gewaltige, theatralische Extreme-Metal-Konzepte eigenständig zu produzieren. **Melodischer Black Metal**, **melodischer Death Metal** und **Symphonic Metal**. Dieses Album klingt wie ein spannender Horrorfilm, der direkt aus deinen Lautsprechern erklingt. Vollgepackt mit atmosphärischen Titeln wie "Apparitions in the Attic" und "Skyline Manor" trifft dich die Musik mit einer Flut aus rasend schnellen Double-Bass-Drum-Beats und durchdringenden Gitarrenriffs. Sie schafft die perfekte Balance zwischen wunderschön eindringlichen symphonischen Klängen und purer, unverfälschter Headbanging-Aggression.
 
-::genre::
+::genre::melo black metal, melo death metal, symphonic metal
 
 ## Budjerah - Gentleman
 
@@ -414,9 +414,9 @@ tbd
 
 ## Goot - My Time
 
-tbd
+Ursprünglich vom Multi-Instrumentalisten Yan Fedyaev als Projekt für dunklen Gothic Rock gegründet, entwickelte sich die Band weiter und holte den legendären Metal-Sänger David Reece (ex-Accept) sowie den Gitarristen Wayne Dorman (Onslaught) mit ins Boot. Klassischer **Heavy Metal**, moderner **Hard Rock** und **Gothic Metal**. Dieses Album stürmt mit maximaler Attitüde und donnernden Gitarrenriffs die Bühne. Weg von reiner Nostalgie, die sich nur auf das Erbe der Vergangenheit stützt, verbinden Titel wie "Mors Aeterna" nahtlos klassische Heavy-Metal-Rhythmen mit mitreißenden modernen Keyboard-Texturen und elektronischer Tiefe. Reeces ikonisches, raues Gebrüll verleiht den hymnischen Refrains eine gewaltige Energiewelle und schafft so ein Rockalbum von stadionweiter Größe.
 
-::genre::
+::genre::goth rock, hard rock, heavy metal
 
 ## Gormoth - The Man Who Became The Universe
 
@@ -1210,279 +1210,93 @@ tbd
 
 ::genre::
 
-## zayALLCAPS - My Uncle Told Me Some Real Ass Shit On The Phone Yesterday
-
-tbd
-
-::genre::
-
 ---
 
 # Earlier the week ...
 
-## 12k Gotti - MADLIFE
-
-tbd
-
-::genre::
-
-## Acidgvrl - ANOMALY (II)
-
-tbd
-
-::genre::
-
-## Adanna Duru - THE NAIJAMERICAN DREAM
-
-tbd
-
-::genre::
-
-## AgusFortnite2008 & Stiffy - Perdiendo Rasgos Adolescentes
-
-tbd
-
-::genre::
-
 ## Anders Bast - The Understated
 
-tbd
+Ein herausragender dänischer Saxophonist, Komponist und Arrangeur, der dafür bekannt ist, auf zahlreichen Studioalben eine facettenreiche Ensemble-Dynamik zu schaffen. **Zeitgenössischer Jazz**, **nordischer Jazz** und globale Rhythmen verschmelzen mit subtilen Bluegrass-Anklängen. Getreu ihrem Titel dringt diese sanfte Sammlung direkt zum emotionalen Kern vor, ohne sich jemals auf effekthascherische Tricks zu verlassen. Getragen vom warmen, tief mitschwingenden Klang des Baritonsaxophons und den Akkorden des akustischen Klaviers bewegt sie sich mühelos von gemütlicher Romantik zu filmischer Sehnsucht. Sie wirkt wie ein luxuriöser, stilvoller Klang-Zufluchtsort, der dazu einlädt, es sich bequem zu machen und alle Sorgen hinter sich zu lassen.
 
-::genre::
-
-## Anitta - EQUILIBRIVM II
-
-tbd
-
-::genre::
-
-## astrid - SUCKER
-
-tbd
-
-::genre::
+::genre::nordic jazz, contemporary jazz
 
 ## Ayesway - Ayesway
 
-tbd
+Ein Underground-Studio-Projekt mit mehreren Instrumentalisten, das sich der Musikalität der alten Schule und ausgedehnten Arrangementstrukturen verschrieben hat. **Progressive Rock**, **Art Rock** und **Symphonic Rock**. Der Einstieg in dieses selbstbetitelte Album fühlt sich an, als würde man an Bord eines Vintage-Raumschiffs aus den 1970er Jahren steigen, das von analoger Wärme umhüllt ist. Songs wie "Birds Will Fly" und "The Constant Sway" bestechen durch komplexe Taktwechsel und schwungvolle, klassische Keyboard-Arrangements. Das Album ist äußerst ambitioniert, herrlich retro und bietet Prog-Rock-Fans eine wunderbar malerische und melodische Reise.
 
-::genre::
+::genre::prog rock, art rock, symphonic rock
 
 ## Bryan Eckermann - Return To Helmbrook
 
-tbd
+Ein überaus talentierter Multi-Instrumentalist und Komponist, der als Ein-Mann-Metal-Kraftpaket auftritt und dafür bekannt ist, gewaltige, theatralische Extreme-Metal-Konzepte eigenständig zu produzieren. **Melodischer Black Metal**, **melodischer Death Metal** und **Symphonic Metal**. Dieses Album klingt wie ein spannender Horrorfilm, der direkt aus deinen Lautsprechern erklingt. Vollgepackt mit atmosphärischen Titeln wie "Apparitions in the Attic" und "Skyline Manor" trifft dich die Musik mit einer Flut aus rasend schnellen Double-Bass-Drum-Beats und durchdringenden Gitarrenriffs. Sie schafft die perfekte Balance zwischen wunderschön eindringlichen symphonischen Klängen und purer, unverfälschter Headbanging-Aggression.
 
-::genre::
-
-## Chenayder - Outdated
-
-tbd
-
-::genre::
-
-## Clangor - All For All
-
-tbd
-
-::genre::
-
-## CLOUDWARMER - I Know the World Reasonably Well and Am Right About Everything
-
-tbd
-
-::genre::
-
-## Conscious - Tales of A Starboy
-
-tbd
-
-::genre::
-
-## Danny Clay - A Moment Beyond
-
-tbd
-
-::genre::
+::genre::melo black metal, melo death metal, symphonic metal
 
 ## Dilemma - A River Without Banks
 
-tbd
+Eine hoch angesehene feste Größe der anspruchsvollen elektronischen Musikszene, die dafür gefeiert wird, komplexe Musikalität und emotionales Storytelling in temporeiche Dance-Tracks einzubringen. Deeper **Liquid Drum & Bass**, **atmosphärische Elektronik** und soulful Drum & Bass. Ganz im Sinne seines Titels vermittelt dieses Album das Gefühl, schwerelos auf einer gewaltigen, endlosen Strömung aus tiefen Basslines und schwebenden, melodischen Synth-Pads davonzutreiben. Die komplexen, knackigen Drum-Patterns verleihen den Tracks eine erstklassige Dancefloor-Energie, doch die darunterliegenden Pads sind so warm und filmisch, dass sich das Album perfekt als Soundtrack für eine nächtliche Autofahrt eignet. Es ist anspruchsvoll, geschmeidig und absolut fesselnd.
 
-::genre::
-
-## Elli Ott - the how to sing tape
-
-tbd
-
-::genre::
+::genre::d&b, atmo d&b, atmo electronica
 
 ## Emery - STYROFOAM
 
-tbd
+Eine legendäre Underground-Institution, die seit 2001 aktiv ist und in der alternativen Szene dafür bekannt ist, eine Dynamik mit zwei Gesangsstimmen geprägt zu haben, die über mehrere Jahrzehnte hinweg von melodischen Hooks zu heftigen Schreien wechselt. **Post-Hardcore**, **Emo-Rock**, **Indie-Rock** und **Metalcore**. Dieses Album ist eine donnernde Erinnerung daran, dass auch erfahrene Rock-Projekte noch immer mit absoluter Wildheit die Türen eintreten können. Songs wie "Slurry" und "Deadbeat" liefern knackige Gitarrenattacken gepaart mit jenen charakteristischen, herzzerreißenden Gesangsharmonien, nach denen sich die Fans sehnen. Es ist roh, aggressiv und trägt die wunderschön zerklüftete emotionale Wucht eines offenen Tagebucheintrags, der über einen massiven Gitarrenverstärker geschleudert wird.
 
-::genre::
-
-## Falls of Shin - Monoculture
-
-tbd
-
-::genre::
-
-## fromis_9 - Glow ME
-
-tbd
-
-::genre::
-
-## Gibkiy Gibkiy Gibkiy - vomir
-
-tbd
-
-::genre::
+::genre::metalcore, emocore, post hardcore, alt rock
 
 ## Goot - My Time
 
-tbd
+Ursprünglich vom Multi-Instrumentalisten Yan Fedyaev als Projekt für dunklen Gothic Rock gegründet, entwickelte sich die Band weiter und holte den legendären Metal-Sänger David Reece (ex-Accept) sowie den Gitarristen Wayne Dorman (Onslaught) mit ins Boot. Klassischer **Heavy Metal**, moderner **Hard Rock** und **Gothic Metal**. Dieses Album stürmt mit maximaler Attitüde und donnernden Gitarrenriffs die Bühne. Weg von reiner Nostalgie, die sich nur auf das Erbe der Vergangenheit stützt, verbinden Titel wie "Mors Aeterna" nahtlos klassische Heavy-Metal-Rhythmen mit mitreißenden modernen Keyboard-Texturen und elektronischer Tiefe. Reeces ikonisches, raues Gebrüll verleiht den hymnischen Refrains eine gewaltige Energiewelle und schafft so ein Rockalbum von stadionweiter Größe.
 
-::genre::
-
-## hershel - silent steps for a better way
-
-tbd
-
-::genre::
-
-## Kai Whiston - The Elder
-
-tbd
-
-::genre::
-
-## Kaneko Lumi - Gliese 667
-
-tbd
-
-::genre::
+::genre::goth rock, hard rock, heavy metal
 
 ## Kilig - Robots Will Take Over And Wonder Why We Have So Many Group Chats And So Few Hospitals
 
-tbd
+Ein Underground-Elektro-Produzent, der dafür bekannt ist, in einer Reihe erfolgreicher EPs auf angesehenen Labels wie Wisdom Teeth hochgradig emotionale, clubtaugliche Klangwelten zu erschaffen. **House**, **Minimal Techno**, **Leftfield Electronic** und **atmosphärischer Ambient**. Mit einem Albumtitel, der wohl der absolut beste und treffendste des gesamten Jahres ist, ist diese Platte ein absoluter Genuss. Tracks wie "Under My Balcony" und "1hr" verbinden knackige, hypnotische Dancefloor-Tempos mit einem zutiefst menschlichen Gefühl existenzieller Besorgnis. Die Musik schafft es, warm und wunderschön gefühlvoll zu bleiben, auch wenn sie unsere moderne, hypervernetzte und technikbesessene Isolation spielerisch auf die Schippe nimmt.
 
-::genre::
-
-## kxlldev - THE RAVEN
-
-tbd
-
-::genre::
+::genre::acid house, minimal techno, ambient
 
 ## Leon Clowes - Empirical Evidence of the Existence of Angels
 
-tbd
+Ein erfahrener, multidisziplinärer Künstler und Komponist, der in den 1990er Jahren zunächst als Musiker in der Band *Company* auftrat, bevor er sich der zutiefst persönlichen Klangkunst zuwandte. **Moderne Klassik**, **experimenteller Ambient**, Klangkunst und **minimalistische Elektronik**. Entstanden aus einem elftägigen Experiment zu Beginn seiner Alkoholentziehungskur - bei dem der Künstler jedes Mal, wenn er eine Engelsfeder entdeckte, seine genauen Gedanken niederschrieb -, ist dieses Album zutiefst bewegend. Es schafft einen Ausgleich zwischen zarten, schwebenden Streicharrangements und zerbrechlichen Klaviermelodien einerseits und wunderschön fragmentierten Laptop-Glitches andererseits. Es fühlt sich genau so an, als säße man in einem ruhigen, sonnendurchfluteten Raum, während man schwere Erinnerungen verarbeitet und den Mut findet, weiterzumachen.
 
-::genre::
-
-## Lil Tony Official - ELIJAH COMING SOON
-
-tbd
-
-::genre::
-
-## Lilith Anthropocene - The Wind and The Sea
-
-tbd
-
-::genre::
-
-## Liquid Shell - Shënmiq, Hvala
-
-tbd
-
-::genre::
-
-## Loe Shimmy - Pretty Girlz Run The World
-
-tbd
-
-::genre::
+::genre::ambient, modern classic, experimental electronica, minimal electronica
 
 ## Milos Branisavljevic Quartet - The Meaning of Life
 
-tbd
+Das 2017 gegründete Quartett steht unter der Leitung des Vibraphonisten und Perkussionisten Miloš Branisavljević. Auf europäischen Jazzfestivals genießen sie aufgrund ihrer komplexen, gefühlvollen Arrangements hohes Ansehen. **Jazz-Fusion** und **zeitgenössische klassische Musik**, inspiriert von legendären Persönlichkeiten wie Chick Corea. Diese Platte ist ein atemberaubendes Beispiel für musikalische Brillanz und emotionale Tiefe. Mit dem klaren, funkelnden Klang des Vibraphons im Mittelpunkt verbinden Titel wie "Have a Nice Trip" traditionelles Jazz-Timing mit mitreißend dramatischen, filmischen Melodien. Durch virtuose Soli werden tiefgründige existenzielle Themen behandelt, was das Album zu einem inspirierenden, erstklassigen Erlebnis für Jazzliebhaber macht.
 
-::genre::
+::genre::contemporary jazz, modern classic, jazz fusion
 
 ## Monika - How We Saw Forever
 
-tbd
+Ein erfahrener Produzent elektronischer Musik, der sich über Jahre hinweg durch regelmäßige Veröffentlichungen bei Spearhead Records einen festen Platz im Deep-Bereich der Elektronikszene erarbeitet hat. Tiefgründiger, atmosphärischer **Drum & Bass**, **Liquid Funk** und gefühlvolle elektronische Musik. Das Anhören dieser Musik ist wie der Anblick eines strahlenden Sonnenaufgangs, der durch die Wolken bricht, während man auf einer hohen Klippe steht. Die Basslinien sind tief und wogend, doch sie sind in eine so zarte Musikalität und euphorische Wärme gehüllt, dass sich die schnellen Beats niemals überwältigend anfühlen. Die Musik bewegt sich anmutig zwischen nächtlicher Stimmungsvollheit und heller, gefühlvoller Dancefloor-Energie.
 
-::genre::
-
-## Nicolas Schwartzmann Rivero - Into Tomorrow
-
-tbd
-
-::genre::
+::genre::d&b, jungle, acid funk
 
 ## OurR - Answer.
 
-tbd
+Eine gefeierte dreiköpfige Band, die 2018 bei Happy Robot Records debütierte und dafür bekannt ist, weitläufige, melancholische Klanglandschaften zu schaffen, die sich mit Verwirrung, Frustration und menschlicher Isolation auseinandersetzen. **Indie-Rock**, **Dream Pop** und **Shoegaze** mit einer ausgereiften, filmischen Klangwelt. Dieses mitreißende Album wirkt wie eine wunderschöne akustische „Sicherheitsdecke“ für alle, die sich durch das chaotische Durcheinander des Erwachsenwerdens navigieren. Der treibende Bass, die üppigen Gitarrenklänge und der schwebende koreanische Gesang vermitteln dem Hörer das Gefühl, als stünde er auf einer Klippe und beobachtete, wie ein gewaltiger Sturm über den Ozean hinwegzieht. Das Album behandelt schwere Themen wie existenzielle Orientierungslosigkeit mit absoluter Anmut und hüllt den Hörer in eine tröstliche, stadiongroße Decke aus Indie-Rock-Glückseligkeit.
 
-::genre::
+::genre::indie rock, shoegaze, dreampop
 
 ## Poppy H - Wilderness Channel
 
-tbd
+Ein äußerst eigenständiger Underground-Produzent, der dafür bekannt ist, sich an den äußersten Grenzen der elektronischen Musik zu bewegen, und der berühmt dafür ist, ganze immersive Klangwelten allein mit einem Smartphone zu erschaffen. **Leftfield-Elektro**, **Ambient Dub**, **Lo-Fi** und abstrakte experimentelle Musik. Diese Platte klingt wie eine Piratenradiosendung, die aus einer versteckten Hütte tief in einem nebligen, vergessenen Wald ausgestrahlt wird. Mit exzentrischen Tracks wie „nose tube ear tube swim swim swim“ verbindet die Musik knackige, zuckende Percussion mit schweren Dub-Basslines, die einem die Zähne klappern lassen. Sie macht technologische Einschränkungen zu einem hypnotischen Ehrenzeichen und sorgt so für ein intimes, wunderbar seltsames Hörerlebnis.
 
-::genre::
-
-## re6ce - soul, body, spirit.
-
-tbd
-
-::genre::
-
-## Rylie Thomas - me when i do CRACK: Act 1
-
-tbd
-
-::genre::
-
-## RYLO - Moon Baby
-
-tbd
-
-::genre::
-
-## Saeko - Back To Life
-
-tbd
-
-::genre::
+::genre::exerpimental electronica, ambient, leftfield electronica, trip hop
 
 ## Saturn. - Dog Days
 
-tbd
+Ein unauffälliges Indie-Projekt eines Multi-Instrumentalisten aus der alternativen Underground-Szene. **Shoegaze**, **Dream Pop** und **Alternative Rock**. Ganz im Sinne seines Namens klingt diese Veröffentlichung genau wie die dunstige, schwüle Lethargie des Hochsommers, wenn die Sonne unerbittlich vom Himmel brennt. Die „Wall of Sound“-Gitarrenverzerrung ahmt eine drückende Hitzewelle nach, während der Gesang wie ein Tagtraum locker unter der Oberfläche schwebt. Das Album bietet eine hervorragende Balance aus schwerem Fuzz und verträumten Melodien und ist damit die ideale klangliche Flucht, um sich in einem Raum mit laut laufendem Ventilator zu entspannen.
 
-::genre::
-
-## Skylar Walsh - From The Heart
-
-tbd
-
-::genre::
+::genre::shoegaze, alt rock, dreampop
 
 ## SLINKKER - POST MERMIA - AGAINST THE TIDE
 
-tbd
+Experimenteller Arrangeur für elektronische Musik und modernen Jazz, bekannt für komplexe polyrhythmische Muster und ungewöhnliche Besetzung. **Avantgarde-Jazz** gemischt mit abstrakter, struktureller **Jazz-Fusion**. Stellt euch eine gewaltige Verschiebung vor, die sich unter dem Boden eines rauchgefüllten Jazzclubs vollzieht, und ihr habt eine gute Vorstellung davon, wie diese Platte klingt. Mit eindringlichen Stücken wie "Bone Corset" und "QUAKE" entwirft die Musik eine dramatische, spannungsgeladene Erzählung vom Kampf gegen die Naturgewalten. Die Bläser klingen weniger wie ein Orchester als vielmehr wie Warnsirenen, was zu einer aufregenden, höchst exzentrischen und wunderschön chaotischen Klanglawine führt.
 
-::genre::
-
-## Sofie Birch - Bivabippabualukka
-
-tbd
-
-::genre::
+::genre::avant jazz, jazz fusion
 
 ## The Green Kingdom - Vespera
 
