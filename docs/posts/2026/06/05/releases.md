@@ -948,7 +948,7 @@ Ein düsteres, mythologisches Underground-Musikprojekt, das vollständig als Ein
 
 Das brillante Bedroom-Pop-Kreativduo Josh Augustin und Samuel Winemiller aus Minnesota, USA. Seit ihrer Studienzeit aktiv, hat sich Vansire eine riesige weltweite Fangemeinde von Millionen von Menschen aufgebaut, indem sie einen nostalgischen, sanft-verträumten und äußerst literarischen Ambient-Pop-Stil perfektioniert haben. Sie sind bekannt für ihren geschmeidigen, kollaborativen Stil, der einzigartige Underground-Hip-Hop- und Indie-Künstler mit einbezieht. **Dream Pop**, **Indie Rock**, **Chillwave** und Sentimental Pop. "Taking Solace" ist das akustische Äquivalent dazu, während einer warmen Sommersonnenwende in der Abenddämmerung auf einer Veranda zu sitzen und zu beobachten, wie die Sterne am Himmel aufblitzen. Das Album besticht durch helle, schimmernde Gitarren, geschmeidige Funk-Basslinien und verträumte, lässige Gesangslinien, die mühelos dahinfließen. Als positiver, politischer Trost gegen eine harte Gesellschaft konzipiert, dreht sich das Thema ganz um das Streben nach Liebe und menschlichem Trost. Es ist ein wunderschönes, entspanntes Album, das sofort den Blutdruck senkt und dazu verleitet, in Tagträume abzudriften.
 
-::genre::alt pop, dreampop, indie pop, indie rock, synthwave
+::genre::alt pop, dreampop, indie pop, indie rock, synth wave
 
 ## Veins - A New Forever
 

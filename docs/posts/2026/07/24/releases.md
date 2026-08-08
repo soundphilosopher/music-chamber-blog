@@ -1,32 +1,16 @@
 ---
 date: 2026-07-24
-pin: true
-bandcamp: false
 categories:
   - Releases
 ---
 
 # Releases! Releases! Releases!
 
-## 88 Ultra - Brood of Vipers
-
-tbd
-
-::genre::
-
-## Alanna Crouch - Memories
-
-tbd
-
-::genre::
-
 ## Alex Cameron - Late to Set
 
 tbd
 
 ::genre::
-
-<!-- more -->
 
 ## Amedeo Cappelletti - Kind Stranger
 
@@ -40,6 +24,8 @@ tbd
 
 ::genre::
 
+<!-- more -->
+
 ## Ancient Infinity Orchestra - It’s Always About Liberation
 
 tbd
@@ -47,18 +33,6 @@ tbd
 ::genre::
 
 ## Andrew Kim - Lineage
-
-tbd
-
-::genre::
-
-## Apollo Brown - No Pressure, No Diamond
-
-tbd
-
-::genre::
-
-## Apsilon - Glanz Null
 
 tbd
 
@@ -76,25 +50,7 @@ tbd
 
 ::genre::
 
-## Aydra - Icon Of Sin Re-Release
-
-tbd
-
-::genre::
-
-## Baby Queen - I Hope You Don't Remember Me
-
-tbd
-
-::genre::
-
 ## Baxter Dury - Allbarone Versions
-
-tbd
-
-::genre::
-
-## BBY GOYARD - PREAKNESS
 
 tbd
 
@@ -106,13 +62,13 @@ tbd
 
 ::genre::
 
-## Big Fat Head - Global Voyeur
+## Big Fat Head - Global Voyeur *
 
 tbd
 
 ::genre::
 
-## Bleached Cross - Wrath
+## Bleached Cross - Wrath *
 
 tbd
 
@@ -142,25 +98,7 @@ tbd
 
 ::genre::
 
-## Brantley Gilbert - SINS OF THE FATHER
-
-tbd
-
-::genre::
-
 ## Bridget Ferrill & Áslaug Magnúsdóttir - itself between, of saying farewell
-
-tbd
-
-::genre::
-
-## Bryan Eckermann - Return To Helmbrook
-
-Ein überaus talentierter Multi-Instrumentalist und Komponist, der als Ein-Mann-Metal-Kraftpaket auftritt und dafür bekannt ist, gewaltige, theatralische Extreme-Metal-Konzepte eigenständig zu produzieren. **Melodischer Black Metal**, **melodischer Death Metal** und **Symphonic Metal**. Dieses Album klingt wie ein spannender Horrorfilm, der direkt aus deinen Lautsprechern erklingt. Vollgepackt mit atmosphärischen Titeln wie "Apparitions in the Attic" und "Skyline Manor" trifft dich die Musik mit einer Flut aus rasend schnellen Double-Bass-Drum-Beats und durchdringenden Gitarrenriffs. Sie schafft die perfekte Balance zwischen wunderschön eindringlichen symphonischen Klängen und purer, unverfälschter Headbanging-Aggression.
-
-::genre::melo black metal, melo death metal, symphonic metal
-
-## Budjerah - Gentleman
 
 tbd
 
@@ -184,24 +122,6 @@ tbd
 
 ::genre::
 
-## Cakes da Killaand DJ Miss Parker - New Bitch
-
-tbd
-
-::genre::
-
-## Carter Faith - Cherry Valley Forever
-
-tbd
-
-::genre::
-
-## CashLyke - Don't Look Back
-
-tbd
-
-::genre::
-
 ## Castiel - All Returns To Hollow And Silence
 
 tbd
@@ -214,19 +134,13 @@ tbd
 
 ::genre::
 
-## Changing Places In The Fire - Changing Places In The Fire
+## Changing Places In The Fire - Changing Places In The Fire *
 
 tbd
 
 ::genre::
 
 ## Charles Lloyd - Sangam & Friends
-
-tbd
-
-::genre::
-
-## Charles Wesley Godwin - Christian Name
 
 tbd
 
@@ -268,43 +182,13 @@ tbd
 
 ::genre::
 
-## DAMEDAME* - DREAMS ON THE PASSENGER SEAT
-
-tbd
-
-::genre::
-
-## Dasha Boo - Origen
-
-tbd
-
-::genre::
-
 ## David Cordero & Aiko Takahashi - Night's End
 
 tbd
 
 ::genre::
 
-## David Keenan - Dundalk to Dublin
-
-tbd
-
-::genre::
-
-## Ddent - Feeding The Void’s Luster
-
-tbd
-
-::genre::
-
-## De Phazz - Belooped
-
-tbd
-
-::genre::
-
-## Dedekind Cut - Dede-K-Tion
+## Ddent - Feeding The Void’s Luster *
 
 tbd
 
@@ -317,12 +201,6 @@ tbd
 ::genre::
 
 ## Dorio - Agent Friday & the Perfect Angel
-
-tbd
-
-::genre::
-
-## Echo Chamber - The Liminal Edge / Target On My Back
 
 tbd
 
@@ -352,49 +230,7 @@ tbd
 
 ::genre::
 
-## Fauxroot - a fleeting glimpse of nothing
-
-tbd
-
-::genre::
-
-## Felix Ames - Did The Rain Stop?
-
-tbd
-
-::genre::
-
-## Finola Merivale / Catherine Sikora - Abhaile
-
-tbd
-
-::genre::
-
-## FLO - Therapy At The Club
-
-tbd
-
-::genre::
-
 ## Florian Stoffner - bijou
-
-tbd
-
-::genre::
-
-## Foodman - HIKARIGASASHIKOMU
-
-tbd
-
-::genre::
-
-## Foreigner - In the Eye of the Storm
-
-tbd
-
-::genre::
-
-## Fuck6ixty - BLODNÆSE
 
 tbd
 
@@ -411,12 +247,6 @@ tbd
 tbd
 
 ::genre::
-
-## Goot - My Time
-
-Ursprünglich vom Multi-Instrumentalisten Yan Fedyaev als Projekt für dunklen Gothic Rock gegründet, entwickelte sich die Band weiter und holte den legendären Metal-Sänger David Reece (ex-Accept) sowie den Gitarristen Wayne Dorman (Onslaught) mit ins Boot. Klassischer **Heavy Metal**, moderner **Hard Rock** und **Gothic Metal**. Dieses Album stürmt mit maximaler Attitüde und donnernden Gitarrenriffs die Bühne. Weg von reiner Nostalgie, die sich nur auf das Erbe der Vergangenheit stützt, verbinden Titel wie "Mors Aeterna" nahtlos klassische Heavy-Metal-Rhythmen mit mitreißenden modernen Keyboard-Texturen und elektronischer Tiefe. Reeces ikonisches, raues Gebrüll verleiht den hymnischen Refrains eine gewaltige Energiewelle und schafft so ein Rockalbum von stadionweiter Größe.
-
-::genre::goth rock, hard rock, heavy metal
 
 ## Gormoth - The Man Who Became The Universe
 
@@ -461,24 +291,6 @@ tbd
 ::genre::
 
 ## Hunter As a Horse - Paradise Lost
-
-tbd
-
-::genre::
-
-## huzzy b - LXVE CVLT
-
-tbd
-
-::genre::
-
-## IAN SWEET - Shiverstruck
-
-tbd
-
-::genre::
-
-## insyt. - Rite of Passage
 
 tbd
 
@@ -532,37 +344,7 @@ tbd
 
 ::genre::
 
-## Justine Perry & Paula Koski - Paired Works
-
-tbd
-
-::genre::
-
-## JustTrae - Welcome To Forever
-
-tbd
-
-::genre::
-
-## Kenyon Dixon - Ego Ruins Everything
-
-tbd
-
-::genre::
-
 ## Kevin Mackenzie - PRIME Play Standards
-
-tbd
-
-::genre::
-
-## Kirk Barley - Arc
-
-tbd
-
-::genre::
-
-## Kylie Cantrall - Valley Girl Problems
 
 tbd
 
@@ -574,25 +356,7 @@ tbd
 
 ::genre::
 
-## Lani Rose - To: Hope Again
-
-tbd
-
-::genre::
-
-## Leanna Crawford - Thank God
-
-tbd
-
-::genre::
-
 ## Left To Die - Initium Mortis
-
-tbd
-
-::genre::
-
-## Legado 7 - LEGENDARIO
 
 tbd
 
@@ -605,12 +369,6 @@ tbd
 ::genre::
 
 ## Litosth - Dreaming
-
-tbd
-
-::genre::
-
-## Little Gold - Public Dog
 
 tbd
 
@@ -652,7 +410,7 @@ tbd
 
 ::genre::
 
-## Man Mountain - Threads of Another Life
+## Man Mountain - Threads of Another Life *
 
 tbd
 
@@ -682,19 +440,7 @@ tbd
 
 ::genre::
 
-## midwxst - SOLITUDE IN SILENCE
-
-tbd
-
-::genre::
-
 ## Milkswarm - Boywalk
-
-tbd
-
-::genre::
-
-## Mimi Barks - Dreamstate Of Fear
 
 tbd
 
@@ -718,31 +464,13 @@ tbd
 
 ::genre::
 
-## Mountainscape - Traversing Realms
+## Mountainscape - Traversing Realms *
 
 tbd
 
 ::genre::
 
 ## Mr.Kitty - FINALE:ACT1
-
-tbd
-
-::genre::
-
-## MTN Lion - Stealth
-
-tbd
-
-::genre::
-
-## namesbliss - where's bliss?
-
-tbd
-
-::genre::
-
-## NEMS & Ron Browz - I SHOULD BOOM YOU TOO
 
 tbd
 
@@ -760,7 +488,7 @@ tbd
 
 ::genre::
 
-## Nick Hakim - I Can See
+## Nick Hakim - I Can See *
 
 tbd
 
@@ -778,7 +506,7 @@ tbd
 
 ::genre::
 
-## North Sea Echoes - How To Cast A Shadow
+## North Sea Echoes - How To Cast A Shadow *
 
 tbd
 
@@ -796,18 +524,6 @@ tbd
 
 ::genre::
 
-## Omari Lyseight - Digital
-
-tbd
-
-::genre::
-
-## Pashanim - Lounge Musik
-
-tbd
-
-::genre::
-
 ## Patrick Droney - Made You Look
 
 tbd
@@ -820,12 +536,6 @@ tbd
 
 ::genre::
 
-## phant0m - Vivid Distortions, Beautiful Chaos
-
-tbd
-
-::genre::
-
 ## Pox - B.K.W.
 
 tbd
@@ -833,18 +543,6 @@ tbd
 ::genre::
 
 ## Profane Burial - Desolate Echoes Of Turmoil
-
-tbd
-
-::genre::
-
-## Punch Brothers - The Unsung Adventures of Punch Brothers
-
-tbd
-
-::genre::
-
-## Reekmind - Glints From The Crematorium
 
 tbd
 
@@ -868,25 +566,7 @@ tbd
 
 ::genre::
 
-## Rico Nasty - RX
-
-tbd
-
-::genre::
-
-## RIN - NOSTALGIA
-
-tbd
-
-::genre::
-
 ## Ripper - Towards Rebirth
-
-tbd
-
-::genre::
-
-## Rising Alma - Your Own Story
 
 tbd
 
@@ -898,7 +578,7 @@ tbd
 
 ::genre::
 
-## Robyn Hitchcock - The Confuser
+## Robyn Hitchcock - The Confuser *
 
 tbd
 
@@ -922,49 +602,7 @@ tbd
 
 ::genre::
 
-## SALUKI - EUPHORIA
-
-tbd
-
-::genre::
-
-## Saquam - Not So Far Now
-
-tbd
-
-::genre::
-
-## Scar Chamber - Ugly On The Inside
-
-tbd
-
-::genre::
-
 ## Scorn-Fury - Outside the limits of your Sight
-
-tbd
-
-::genre::
-
-## Scrotus - Serum
-
-tbd
-
-::genre::
-
-## Sebastian Oliwa - Movements
-
-tbd
-
-::genre::
-
-## Shania Twain - Little Miss Twain
-
-tbd
-
-::genre::
-
-## Songer - WHAT IF I SAY NO?
 
 tbd
 
@@ -976,7 +614,7 @@ tbd
 
 ::genre::
 
-## Spiral Galaxy - II
+## Spiral Galaxy - II *
 
 tbd
 
@@ -988,7 +626,7 @@ tbd
 
 ::genre::
 
-## STAB - Lost In Maine
+## STAB - Lost In Maine *
 
 tbd
 
@@ -1000,13 +638,7 @@ tbd
 
 ::genre::
 
-## Stefan Muenzer - U T O P I A
-
-tbd
-
-::genre::
-
-## Sunswarm - Those Who Do Not Build Must Burn
+## Sunswarm - Those Who Do Not Build Must Burn *
 
 tbd
 
@@ -1018,25 +650,19 @@ tbd
 
 ::genre::
 
-## Svjetlost - The Forever Silent
+## Svjetlost - The Forever Silent *
 
 tbd
 
 ::genre::
 
-## The Earl of Dean - Above the Clouds We Shall Rest
+## The Earl of Dean - Above the Clouds We Shall Rest *
 
 tbd
 
 ::genre::
 
-## The HU - Hun
-
-tbd
-
-::genre::
-
-## The Larches - Nihilistic Majesties
+## The Larches - Nihilistic Majesties *
 
 tbd
 
@@ -1066,149 +692,101 @@ tbd
 
 ::genre::
 
-## The Strokes - Reality Awaits
+## The Strokes - Reality Awaits *
 
 tbd
 
-::genre::
+::genre::indie rock, art rock, alt rock
 
-## The Vicious Head Society - Call Of The Void
-
-tbd
-
-::genre::
-
-## Token - I'm Leaving Soon
+## The Vicious Head Society - Call Of The Void *
 
 tbd
 
-::genre::
+::genre::prog rock, prog metal
 
 ## Tom Aspaul - Moustache (Part I)
 
 tbd
 
-::genre::
-
-## Tom Tom Club - Let There Be Love
-
-tbd
-
-::genre::
+::genre::indie pop, synth pop
 
 ## Torpor - Dungeon Descent
 
 tbd
 
-::genre::
-
-## Toshphic. - A Portrait of Distance
-
-tbd
-
-::genre::
+::genre::black metal
 
 ## Trash Sneks - Humanity and The shell of you and me
 
 tbd
 
-::genre::
+::genre::slacker rock, alt rock, indie rock
 
 ## Tres Hongos - More Chips
 
 tbd
 
-::genre::
+::genre::avant jazz, free jazz
 
 ## Trophy Wife - Pathetic
 
 tbd
 
-::genre::
-
-## Tyla - A*POP
-
-tbd
-
-::genre::
+::genre::alt rock, indie rock
 
 ## Tyraels Ascension - Grave Seeker
 
 tbd
 
-::genre::
-
-## V.B.O. - Vice Business Only
-
-tbd
-
-::genre::
-
-## Vera Lux - Supernova
-
-tbd
-
-::genre::
+::genre::melo death metal, metalcore
 
 ## Vice Business Only - Vice Business Only
 
 tbd
 
-::genre::
+::genre::synth wave, pop rock, alt rock, alt metal
 
 ## Videotrash - V for Videotrash
 
 tbd
 
-::genre::
+::genre::alt pop, indie pop
 
 ## Viscera/// - 4. Assets For Psychedelic Warfare
 
 tbd
 
-::genre::
+::genre::post metal, grindcore
 
 ## Vomits - Bloodshed
 
 tbd
 
-::genre::
+::genre::noise rock, powerviolence, crust
 
 ## Waterparks - JINX
 
 tbd
 
-::genre::
+::genre::alt rock, power pop, pop rock
 
 ## WILLOW - The Thread
 
 tbd
 
-::genre::
-
-## Yara Mekawei & Amir Rezk - 33
-
-tbd
-
-::genre::
-
-## Yatta Bandz - One & The Same
-
-tbd
-
-::genre::
+::genre::art pop, synth pop, indie folk
 
 ## Yeti On Horseback - Traditional Addictions
 
 tbd
 
-::genre::
+::genre::doom metal, sludge metal
 
 ## Zan/Cody - Beautiful 'N Damned
 
 tbd
 
-::genre::
+::genre::hard rock, slacker rock, indie rock
 
 ---
 

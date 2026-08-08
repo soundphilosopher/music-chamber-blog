@@ -1,7 +1,5 @@
 ---
 date: 2026-07-31
-pin: true
-bandcamp: false
 categories:
   - Releases
 ---
@@ -29,12 +27,6 @@ tbd
 <!-- more -->
 
 ## Altarage - Cogwheel
-
-tbd
-
-::genre::
-
-## Amanar - Kel Tamasheq
 
 tbd
 
@@ -70,19 +62,7 @@ tbd
 
 ::genre::
 
-## Arca - XXXXX
-
-tbd
-
-::genre::
-
 ## Arcanum 14 - Wichapi Win
-
-tbd
-
-::genre::
-
-## Ariana Grande - petal
 
 tbd
 
@@ -112,25 +92,7 @@ tbd
 
 ::genre::
 
-## B Wise - Resilient Ones
-
-tbd
-
-::genre::
-
-## Bear McCreary - The Singularity: Ekleipsis
-
-tbd
-
-::genre::
-
 ## bit depth - maybe in august
-
-tbd
-
-::genre::
-
-## BRANNY - Highs and Lows
 
 tbd
 
@@ -160,18 +122,6 @@ tbd
 
 ::genre::
 
-## Cautious Clay - The Hours: High Noon
-
-tbd
-
-::genre::
-
-## CD Ghost - When The Rain Stops
-
-tbd
-
-::genre::
-
 ## Ceremonial Worship - Between Sleep And Death
 
 tbd
@@ -179,12 +129,6 @@ tbd
 ::genre::
 
 ## Chamber of Unlight - Avernus
-
-tbd
-
-::genre::
-
-## Chuuwee - Life Is Too Long
 
 tbd
 
@@ -202,12 +146,6 @@ tbd
 
 ::genre::
 
-## Collective Soul - Touch and Go
-
-tbd
-
-::genre::
-
 ## Complexant - Apex
 
 tbd
@@ -215,12 +153,6 @@ tbd
 ::genre::
 
 ## Cop An Attitude - High on Anger
-
-tbd
-
-::genre::
-
-## CRANK ALL - luVer
 
 tbd
 
@@ -239,12 +171,6 @@ tbd
 ::genre::
 
 ## David Younger - Causeway & Effect
-
-tbd
-
-::genre::
-
-## Dead Meadow - Foundlings
 
 tbd
 
@@ -274,18 +200,6 @@ tbd
 
 ::genre::
 
-## DOMi & JD BECK - WHO ASKED?
-
-tbd
-
-::genre::
-
-## Donnie Vie - Beautiful Things
-
-tbd
-
-::genre::
-
 ## Doohickey Cubicle - Good At It
 
 tbd
@@ -293,12 +207,6 @@ tbd
 ::genre::
 
 ## Dreamtale - Aetherbound
-
-tbd
-
-::genre::
-
-## Dronedead & Sado Rituals - Split
 
 tbd
 
@@ -346,31 +254,7 @@ tbd
 
 ::genre::
 
-## ethlol - a lot has happened in my state.
-
-tbd
-
-::genre::
-
-## Evening Elephants - Wholeheartedly, Terribly Sweet
-
-tbd
-
-::genre::
-
-## Family Stereo - The Thread
-
-tbd
-
-::genre::
-
 ## Fauxroot - a fleeting glimpse of nothing
-
-tbd
-
-::genre::
-
-## Finsterforst - Still
 
 tbd
 
@@ -382,19 +266,7 @@ tbd
 
 ::genre::
 
-## FOREVERARE - .Farewell
-
-tbd
-
-::genre::
-
 ## Fractal Sun - Divergent Paradox
-
-tbd
-
-::genre::
-
-## Framing Hanley - do you feel guilty being okay?
 
 tbd
 
@@ -407,12 +279,6 @@ tbd
 ::genre::
 
 ## froe - die with an Audience
-
-tbd
-
-::genre::
-
-## FusionBeatz - A New Era
 
 tbd
 
@@ -442,43 +308,7 @@ tbd
 
 ::genre::
 
-## Gonzalo Genek - Todas Son Iguales
-
-tbd
-
-::genre::
-
-## Goosebytheway - Nature Boy
-
-tbd
-
-::genre::
-
-## Guzior - STACJA WIDMO
-
-tbd
-
-::genre::
-
 ## Hagoroth - Hagoroth
-
-tbd
-
-::genre::
-
-## Half Deaf Clatch - The Way of Things
-
-tbd
-
-::genre::
-
-## HariRoc - THE SQUIDFATHER 2
-
-tbd
-
-::genre::
-
-## HAYLA - DARK
 
 tbd
 
@@ -496,24 +326,6 @@ tbd
 
 ::genre::
 
-## Homeboy Sandman & Jack Splash - Resonance Frequency
-
-tbd
-
-::genre::
-
-## Hopeful. - The Art Of Letting Go
-
-tbd
-
-::genre::
-
-## How Du - Metal Will Reign
-
-tbd
-
-::genre::
-
 ## Iconic - II
 
 tbd
@@ -526,18 +338,6 @@ tbd
 
 ::genre::
 
-## Interstellar - THE LONG HALLOWEEN
-
-tbd
-
-::genre::
-
-## Isaac Alan McIntyre - Viva Forever (For Jim O'Rourke)
-
-tbd
-
-::genre::
-
 ## Isaiah Collier - Joy
 
 tbd
@@ -545,12 +345,6 @@ tbd
 ::genre::
 
 ## isezerano - Rubuc
-
-tbd
-
-::genre::
-
-## Jacquees - Mood 2
 
 tbd
 
@@ -580,18 +374,6 @@ tbd
 
 ::genre::
 
-## JRoberts - Race Against Time
-
-tbd
-
-::genre::
-
-## Juicy J - THE CLOCK DON'T GO BACK
-
-tbd
-
-::genre::
-
 ## Jupiter Jones - Ich trag den Sarg, du trägst was Buntes
 
 tbd
@@ -604,19 +386,7 @@ tbd
 
 ::genre::
 
-## K.A.A.N. & D-Ace - The Modern Odyssey
-
-tbd
-
-::genre::
-
 ## Kackbratze - Blaues Wunder
-
-tbd
-
-::genre::
-
-## Lalisatto - VOLCANO
 
 tbd
 
@@ -634,12 +404,6 @@ tbd
 
 ::genre::
 
-## Larissa Lambert - Yearning
-
-tbd
-
-::genre::
-
 ## leo - Cicada Burnt
 
 tbd
@@ -647,12 +411,6 @@ tbd
 ::genre::
 
 ## Lewis Kentaro - EXENDLING
-
-tbd
-
-::genre::
-
-## LILDRUGHILL - MIKE
 
 tbd
 
@@ -682,18 +440,6 @@ tbd
 
 ::genre::
 
-## Louis La Roche - The New Now
-
-tbd
-
-::genre::
-
-## Lovejoy - Under The Weather
-
-tbd
-
-::genre::
-
 ## Lucia & The Best Boys - Picking Petals
 
 tbd
@@ -701,18 +447,6 @@ tbd
 ::genre::
 
 ## Ludovic - Ludovic
-
-tbd
-
-::genre::
-
-## Megafang - FOG ABS
-
-tbd
-
-::genre::
-
-## Megrel - WANTED IMMIGRANT
 
 tbd
 
@@ -731,12 +465,6 @@ tbd
 ::genre::
 
 ## Michael Hampton - King Kong
-
-tbd
-
-::genre::
-
-## MichaOficial - Anedotas Vênus Agridoce
 
 tbd
 
@@ -778,12 +506,6 @@ tbd
 
 ::genre::
 
-## Noah23 & Fresh Kils - Tuff Racket
-
-tbd
-
-::genre::
-
 ## Nora Stanley - Glass
 
 tbd
@@ -802,19 +524,7 @@ tbd
 
 ::genre::
 
-## NURKO - Solstice
-
-tbd
-
-::genre::
-
 ## Nvlvs - Soundless Echoes
-
-tbd
-
-::genre::
-
-## Onyx - It All Started in Brooklyn
 
 tbd
 
@@ -850,12 +560,6 @@ tbd
 
 ::genre::
 
-## Play School - Party Animals!
-
-tbd
-
-::genre::
-
 ## Pluto The Racer - Next Time It’s Peronal
 
 tbd
@@ -886,12 +590,6 @@ tbd
 
 ::genre::
 
-## Raf Sandou - SOUL BABY
-
-tbd
-
-::genre::
-
 ## Reverend Baron - Daniel
 
 tbd
@@ -899,18 +597,6 @@ tbd
 ::genre::
 
 ## Rigor Sardonicous - Diatriba Deorum
-
-tbd
-
-::genre::
-
-## Robbie Pate - Let's Fall in Love
-
-tbd
-
-::genre::
-
-## Russ - Coulda Shoulda Woulda
 
 tbd
 
@@ -928,12 +614,6 @@ tbd
 
 ::genre::
 
-## SAKRAMENTO - SAKRAMENTO
-
-tbd
-
-::genre::
-
 ## Scarlet Estate - Scarlet Estate II
 
 tbd
@@ -946,19 +626,7 @@ tbd
 
 ::genre::
 
-## Shaboozey - The Outlaw Cherie Lee & Other Western Tales
-
-tbd
-
-::genre::
-
-## Shadow Child - DNA
-
-tbd
-
-::genre::
-
-## Shannon Lay - Past the Veil
+## Shannon Lay - Past The Veil
 
 tbd
 
@@ -1000,19 +668,7 @@ tbd
 
 ::genre::
 
-## SOJA - Without Surrender
-
-tbd
-
-::genre::
-
 ## Southpaw FLHC - The Standard
-
-tbd
-
-::genre::
-
-## Spawncamped - forest
 
 tbd
 
@@ -1025,12 +681,6 @@ tbd
 ::genre::
 
 ## Stoney Point - Good Dog, Bad West
-
-tbd
-
-::genre::
-
-## T.F & MIKE SUMMERS - Maniac Blue
 
 tbd
 
@@ -1096,12 +746,6 @@ tbd
 
 ::genre::
 
-## The Family - Delusions of Grandeur
-
-tbd
-
-::genre::
-
 ## The Limit - Another Drop
 
 tbd
@@ -1132,19 +776,7 @@ tbd
 
 ::genre::
 
-## Totô De Babalong - Deusimar
-
-tbd
-
-::genre::
-
 ## Trashcan Sinatras - Ever The Optimist
-
-tbd
-
-::genre::
-
-## TV Torrance - ELEKTRISCH
 
 tbd
 
@@ -1168,12 +800,6 @@ tbd
 
 ::genre::
 
-## Victoria Fernandes - Adios, Forever
-
-tbd
-
-::genre::
-
 ## Walk Off The Earth - Wood & Wire
 
 tbd
@@ -1187,12 +813,6 @@ tbd
 ::genre::
 
 ## Wire Worms - Beneath The Eildon Tree
-
-tbd
-
-::genre::
-
-## Wyatt Flores - Scared of Heights
 
 tbd
 
@@ -1216,12 +836,6 @@ tbd
 
 ::genre::
 
-## Yoichi Kamimura - Sonavira
-
-tbd
-
-::genre::
-
 ## Árbol - Atemporal
 
 tbd
@@ -1238,25 +852,7 @@ tbd
 
 ::genre::
 
-## acesquadneo - revivethe2010s
-
-tbd
-
-::genre::
-
 ## Aleksi Perälä - Incandescence
-
-tbd
-
-::genre::
-
-## alfa00 - resonances of light dissolving in dusk
-
-tbd
-
-::genre::
-
-## allendo051 - SABOUR
 
 tbd
 
@@ -1274,43 +870,13 @@ tbd
 
 ::genre::
 
-## Another Hometown - LIFESCAPE
-
-tbd
-
-::genre::
-
 ## Ant Davieux - Fly
 
 tbd
 
 ::genre::
 
-## Arrumar - Xa Humba
-
-tbd
-
-::genre::
-
-## art test - Foreign Lands
-
-tbd
-
-::genre::
-
 ## AshTray - Curfew
-
-tbd
-
-::genre::
-
-## Asphalt Savannahs - SAINT BERNARD
-
-tbd
-
-::genre::
-
-## Baranotoge - 062: Those Who Eat My Flesh and Drink My Blood Have Eternal Life
 
 tbd
 
@@ -1323,12 +889,6 @@ tbd
 ::genre::
 
 ## Bedrock - Desire
-
-tbd
-
-::genre::
-
-## BIG Naughty - Hopeful Romantic
 
 tbd
 
@@ -1358,24 +918,6 @@ tbd
 
 ::genre::
 
-## Calvin-maysun Pink - Jerrymiah The Porcelain Dog,& His Candelabra
-
-tbd
-
-::genre::
-
-## Cappadonna - A Work In Progress
-
-tbd
-
-::genre::
-
-## CASANOVA FISH - CASANOVA FISH
-
-tbd
-
-::genre::
-
 ## Cheekface - Podium
 
 tbd
@@ -1389,18 +931,6 @@ tbd
 ::genre::
 
 ## Christina Ruf - Innenteiche
-
-tbd
-
-::genre::
-
-## City The Great - The Great Reset
-
-tbd
-
-::genre::
-
-## Codenine & Vinyl Villain - ROUTEOFEVIL
 
 tbd
 
@@ -1436,12 +966,6 @@ tbd
 
 ::genre::
 
-## Dave East & Harry Fraud - Price of Pain
-
-tbd
-
-::genre::
-
 ## Demon Core - The Way Of The Decay
 
 tbd
@@ -1454,36 +978,6 @@ tbd
 
 ::genre::
 
-## DJ Krooked - DUKUN
-
-tbd
-
-::genre::
-
-## DjFaboloso - The Devil Can’t Win
-
-tbd
-
-::genre::
-
-## Domino - Traumatica
-
-tbd
-
-::genre::
-
-## doooo - CONFUSION
-
-tbd
-
-::genre::
-
-## DreamSignal - Twilight Skylight
-
-tbd
-
-::genre::
-
 ## Dressing - Spéis
 
 tbd
@@ -1491,24 +985,6 @@ tbd
 ::genre::
 
 ## Everett Kinsman - The Louisiana Purchase
-
-tbd
-
-::genre::
-
-## Farzad Ghadimi - ZOL
-
-tbd
-
-::genre::
-
-## Francisca Valenzuela - MALDITA
-
-tbd
-
-::genre::
-
-## frutiger pm - aqua
 
 tbd
 
@@ -1527,12 +1003,6 @@ tbd
 ::genre::
 
 ## gawynn - i remember that summer
-
-tbd
-
-::genre::
-
-## Goh Lee Kwang - Reef
 
 tbd
 
@@ -1562,12 +1032,6 @@ tbd
 
 ::genre::
 
-## Gum Disease - I Hired a Clown for My Birthday Five Years Ago and I Still Only Have This Stupid Album???
-
-tbd
-
-::genre::
-
 ## Heaven For Voyeurs - HELL FOR EVERYBODY ELSE
 
 tbd
@@ -1580,25 +1044,7 @@ tbd
 
 ::genre::
 
-## holistic nausea - the superior gardens
-
-tbd
-
-::genre::
-
 ## horny goose - The fires
-
-tbd
-
-::genre::
-
-## Hvnvbi - Carcajes
-
-tbd
-
-::genre::
-
-## IKUO - SLAPPIN' DAZE
 
 tbd
 
@@ -1616,67 +1062,13 @@ tbd
 
 ::genre::
 
-## isezerano - Sonhar
-
-tbd
-
-::genre::
-
 ## Ivan Reash - Man Hates God
 
 tbd
 
 ::genre::
 
-## Jane Hoshino - love.
-
-tbd
-
-::genre::
-
-## Jaxon Calhoun - BICYCLE
-
-tbd
-
-::genre::
-
-## JAZZWRLD - Secrets of the WRLD
-
-tbd
-
-::genre::
-
-## Jiyre - FUTSWEN
-
-tbd
-
-::genre::
-
 ## Jon Samsworth - Dream On
-
-tbd
-
-::genre::
-
-## Joystick - Diarios de Humo
-
-tbd
-
-::genre::
-
-## Jão - Memórias Póstumas
-
-tbd
-
-::genre::
-
-## kechan - kech / foxglove
-
-tbd
-
-::genre::
-
-## Killmexx - HARMONIA CHAOSU
 
 tbd
 
@@ -1694,24 +1086,6 @@ tbd
 
 ::genre::
 
-## King Kashmere - Zero Point Modulations
-
-tbd
-
-::genre::
-
-## Kota the Friend - JUST HAPPY TO BE HERE!
-
-tbd
-
-::genre::
-
-## La Madre Tirana - Grandes Fracasos
-
-tbd
-
-::genre::
-
 ## La Rent - La RENT
 
 tbd
@@ -1719,24 +1093,6 @@ tbd
 ::genre::
 
 ## Lesbian Twin Towers - The Mess We Left Behind
-
-tbd
-
-::genre::
-
-## LiviCiaBattery - Unexpected Error
-
-tbd
-
-::genre::
-
-## Mad Skillz - A Hero and A Villain
-
-tbd
-
-::genre::
-
-## Major RD - ALFA
 
 tbd
 
@@ -1760,19 +1116,7 @@ tbd
 
 ::genre::
 
-## Matt Bissonette - Is It Though
-
-tbd
-
-::genre::
-
 ## Michael Motorcycle - stay dry
-
-tbd
-
-::genre::
-
-## Michiru Aoyama - Keauri
 
 tbd
 
@@ -1820,18 +1164,6 @@ tbd
 
 ::genre::
 
-## Mr.Trappington - Slit Wrist! Fuck Hoe!
-
-tbd
-
-::genre::
-
-## Mvte - ST8RTER
-
-tbd
-
-::genre::
-
 ## Myriada - Myriada
 
 tbd
@@ -1839,18 +1171,6 @@ tbd
 ::genre::
 
 ## Nachtschläfer - The Garden of the Weeping Melodies
-
-tbd
-
-::genre::
-
-## Negative Architecture - 641A
-
-tbd
-
-::genre::
-
-## Nenashi - MOMENT
 
 tbd
 
@@ -1868,12 +1188,6 @@ tbd
 
 ::genre::
 
-## nusar3000 & GIANNI BATISTA - JUGO VOL. II
-
-tbd
-
-::genre::
-
 ## Ol - I Hope You Don’t Remember Me
 
 tbd
@@ -1886,19 +1200,7 @@ tbd
 
 ::genre::
 
-## Overpade - Payback !
-
-tbd
-
-::genre::
-
 ## Paper Bag - Zygote
-
-tbd
-
-::genre::
-
-## Penthouse - Neon Garden
 
 tbd
 
@@ -1916,66 +1218,6 @@ tbd
 
 ::genre::
 
-## PRAANA - Insight Out
-
-tbd
-
-::genre::
-
-## ProdWithFlavor - Made In Heaven: The Mixes
-
-tbd
-
-::genre::
-
-## purple art - transsexual idolatry music
-
-tbd
-
-::genre::
-
-## pvnkz - Becauh
-
-tbd
-
-::genre::
-
-## R.I.G - RIGNATION.
-
-tbd
-
-::genre::
-
-## RAKIYAH - My Collection of Boy Tears
-
-tbd
-
-::genre::
-
-## Ramirez - BRABUS & LORINSERS
-
-tbd
-
-::genre::
-
-## Raquel Dimantas - Cosmo Dorme
-
-tbd
-
-::genre::
-
-## Remy Ori - Azreal
-
-tbd
-
-::genre::
-
-## RexyDAS - Kailwave
-
-tbd
-
-::genre::
-
 ## Saint Sleep - Aquarium for Giants
 
 tbd
@@ -1988,55 +1230,13 @@ tbd
 
 ::genre::
 
-## Saury - billet-doux
-
-tbd
-
-::genre::
-
-## Sesame Street - Parody Party
-
-tbd
-
-::genre::
-
 ## Shannon Lay - Past The Veil
 
 tbd
 
 ::genre::
 
-## Shum - A szervek nélküli Pest
-
-tbd
-
-::genre::
-
-## Sickly Seduction & Trojan Whore - Sickly Seduction / Trojan Whore
-
-tbd
-
-::genre::
-
 ## siltveil - patching up
-
-tbd
-
-::genre::
-
-## Simar - Billo
-
-tbd
-
-::genre::
-
-## Sizuk - iller
-
-tbd
-
-::genre::
-
-## Soul Recipe Records - Heavyweight Rhyme Writers
 
 tbd
 
@@ -2049,12 +1249,6 @@ tbd
 ::genre::
 
 ## SPEKTR-R - How I Martyr You
-
-tbd
-
-::genre::
-
-## Spucke - Zustand
 
 tbd
 
@@ -2078,31 +1272,13 @@ tbd
 
 ::genre::
 
-## SugLawd Familiar - FURAAMAN ANTHEM
-
-tbd
-
-::genre::
-
 ## Sunlit Steel - Desolve
 
 tbd
 
 ::genre::
 
-## The Biscats - BLACK or PINK?
-
-tbd
-
-::genre::
-
 ## The Choir of Agony - The Burden of Buried Tales
-
-tbd
-
-::genre::
-
-## The Doraemons - Corrupt Music 3
 
 tbd
 
@@ -2120,18 +1296,6 @@ tbd
 
 ::genre::
 
-## The Hillbilly Thomists - Strange Land
-
-tbd
-
-::genre::
-
-## The Soulcasters - The Soulcasters
-
-tbd
-
-::genre::
-
 ## The Towers - Like the Waves
 
 tbd
@@ -2139,12 +1303,6 @@ tbd
 ::genre::
 
 ## This Morning, This Evening - COMA
-
-tbd
-
-::genre::
-
-## Thought Provokah - 82 Seward
 
 tbd
 
@@ -2174,37 +1332,7 @@ tbd
 
 ::genre::
 
-## Tower - Nie pytaj kim jestem
-
-tbd
-
-::genre::
-
-## Vallada - UMAMI
-
-tbd
-
-::genre::
-
-## Vasili Igor - Pajuchi
-
-tbd
-
-::genre::
-
-## Veil Bearer - Tongues of Fire
-
-tbd
-
-::genre::
-
 ## Verse Metrics - Descents
-
-tbd
-
-::genre::
-
-## Vessel Point One - 38 - My Boyfriend Is Mechanical
 
 tbd
 
@@ -2217,12 +1345,6 @@ tbd
 ::genre::
 
 ## Victor Negri - Sem
-
-tbd
-
-::genre::
-
-## Video Interface - Interference
 
 tbd
 
@@ -2252,55 +1374,7 @@ tbd
 
 ::genre::
 
-## wildkarduno - Ascension
-
-tbd
-
-::genre::
-
-## Willyynova - THE FIBONACCI RATIO
-
-tbd
-
-::genre::
-
 ## Yancyabril - It's Not Love, Cariño… It's Limerence
-
-tbd
-
-::genre::
-
-## Yo-Sea - Beyond the Sea
-
-tbd
-
-::genre::
-
-## Yourness - TWIN
-
-tbd
-
-::genre::
-
-## Yung Buda - Ambition Cross
-
-tbd
-
-::genre::
-
-## YVNG JT - Solstice
-
-tbd
-
-::genre::
-
-## Z The Author - Ripples
-
-tbd
-
-::genre::
-
-## zeffdakilla - HALF-A-DECADE
 
 tbd
 
