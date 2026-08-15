@@ -64,7 +64,7 @@ Ein kraftvolles Zusammentreffen experimenteller Legenden. Bothén ist ein legend
 
 ::genre::world music, jazz fusion, krautrock, avant jazz, drone, improvisation
 
-## Coma Control - Shed The Sleep
+## Coma Control - Shed The Sleep *
 
 Ein erstaunliches, vollkommen eigenständiges Soloprojekt, das vollständig vom Multi-Instrumentalisten und Sounddesigner Tapio Honka konzipiert wurde und an sein Konzept-Debüt "Perennial" aus dem Jahr 2024 anknüpft. **Progressive Death Metal**, technischer Extreme Metal und avantgardistischer Coma Metal. Getreu seinem wunderschön schläfrigen Projektnamen fühlt sich dieses Album an wie ein hypergewalttätiger Albtraum, der aus einem tiefen Schlaf hervorbricht. Obwohl sie von nur einem einzigen Menschen geschaffen wurde, klingt die Instrumentierung wie eine sechsköpfige Armee virtuoser Zauberer, die in Echtzeit schwindelerregende Taktwechsel und technische Riff-Akrobatik vollführen. Honka überlagert meisterhaft markerschütternde Growls mit massiven, gewundenen Gitarrenpuzzles und Maschinengewehr-artigem Schlagzeugspiel. Es ist eine kompromisslose, extrem dichte Extreme-Metal-Architektur, die Metalheads mit einem Grinsen von Ohr zu Ohr zum Headbangen bringen wird.
 
