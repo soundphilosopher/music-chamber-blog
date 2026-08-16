@@ -200,7 +200,7 @@ Das Projekt agiert als beliebtes unterirdisches DIY-Kollektiv und hat sich auf d
 
 Ein überaus talentierter Instrumentalgitarrist und Sounddesigner. Tirco hat sich eine hoch angesehene Underground-Fangemeinde aufgebaut, indem er technisches Gitarrenspiel mit cineastischen Klanglandschaften verbindet. **Progressive Metal**, atmosphärischer **Ambient-Post-Rock** und komplexe **Math-Rock**-Texturen. Wenn ihr ein Album sucht, das sich mit der Geschwindigkeit einer hyperaktiven mathematischen Gleichung bewegt, aber dennoch eure Gefühle im Blick behält, dann seid ihr hier genau richtig. Diese Platte ist eine herrliche Achterbahnfahrt aus komplexen, verwirrenden Progressive-Metal-Riffs und schwebenden Gitarrenlinien, die über satte elektronische Hintergrundwolken tanzen. Sie schafft es, unglaublich technisch und doch wunderbar friedlich zu wirken und erschafft eine gewaltige Klangarchitektur, die nahtlos von schweren, rhythmischen Kratern zu stillen, verträumten Räumen übergeht. Sie eignet sich als spektakulärer, intelligenter Soundtrack für konzentriertes Tippen oder lange Abende unter dem Sternenhimmel.
 
-::genre::prog metal, post rock, post metal, math rock
+::genre::prog metal, post rock, post metal, math rock, instrumental
 
 ## James Ellis Ford - Lost in Another World
 
