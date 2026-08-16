@@ -58,7 +58,7 @@ Die 2018 von den langjährigen Freunden Lance Gibson und Tony Rangel gegründete
 
 ::genre::power pop, post hardcore, easycore, alt rock
 
-## Christer Bothén, Oren Ambarchi, Johan Berthling & Andreas Werliin - Serpentine *
+## Christer Bothén, Oren Ambarchi, Johan Berthling, Andreas Werliin - Serpentine *
 
 Ein kraftvolles Zusammentreffen experimenteller Legenden. Bothén ist ein legendärer schwedischer Meister verschiedener Holzblasinstrumente; Ambarchi ist ein australischer Gitarren-Klangzauberer; Berthling und Werliin bilden eine erstklassige, telepathisch aufeinander abgestimmte Rhythmusgruppe, die vor allem für ihre Zusammenarbeit in verschiedenen Jazz-Rock-Formationen bekannt ist. **Avantgarde-Jazz**, hypnotischer **Krautrock**, experimentelle, lang anhaltende **Drone**s und minimalistische **World-Music-Fusion**. Diese Platte wirkt weniger wie ein traditionelles Musikalbum, sondern eher wie eine uralte, mystische Trance-Maschine. Das zentrale Rhythmus-Duo versinkt in einem unnachgiebigen, sich wiederholenden motorischen Schlagzeugbeat, der sich über lange 10-minütige Abschnitte hinweg ganz leicht verschiebt. Ambarchi überlagert das Ganze mit langen, sprudelnden Akkorden, die eher an eine alte Kirchenorgel als an eine Gitarre erinnern, während Bothén mit tiefen, knurrenden Bassklarinettenlinien und Texturen einer Wassoulou-Jägerharfe einsteigt. Es ist schwindelerregend, zutiefst trippig und eignet sich hervorragend als spektakuläre Hintergrundmusik für das Programmieren um Mitternacht oder das Meditieren über das Universum.
 
