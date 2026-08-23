@@ -6,12 +6,6 @@ categories:
 
 # Releases! Releases! Releases!
 
-## Absolute Lit - Criostal
-
-tbd
-
-::genre::
-
 ## AGENT LILY - Celestial Delinquent
 
 tbd
@@ -24,21 +18,15 @@ tbd
 
 ::genre::
 
-<!-- more -->
-
 ## Altarage - Cogwheel
 
 tbd
 
 ::genre::
 
+<!-- more -->
+
 ## AMBER ISOME - Blank
-
-tbd
-
-::genre::
-
-## Amy Shark - Soft Pop
 
 tbd
 
@@ -56,19 +44,7 @@ tbd
 
 ::genre::
 
-## Apéro - Dragons & Eels
-
-tbd
-
-::genre::
-
 ## Arcanum 14 - Wichapi Win
-
-tbd
-
-::genre::
-
-## Arsis Thesis - Ustanak
 
 tbd
 
@@ -80,7 +56,7 @@ tbd
 
 ::genre::
 
-## Astral Angels - PEKAAK
+## Astral Angels - PEKAAK *
 
 tbd
 
@@ -92,31 +68,7 @@ tbd
 
 ::genre::
 
-## bit depth - maybe in august
-
-tbd
-
-::genre::
-
-## Buffalo Traffic Jam - Pictures of You
-
-tbd
-
-::genre::
-
-## c.longa - i'll find you again someday
-
-tbd
-
-::genre::
-
-## Cairiss - Wilderness
-
-tbd
-
-::genre::
-
-## Casually Here - It Was As If
+## Cairiss - Wilderness *
 
 tbd
 
@@ -146,12 +98,6 @@ tbd
 
 ::genre::
 
-## Complexant - Apex
-
-tbd
-
-::genre::
-
 ## Cop An Attitude - High on Anger
 
 tbd
@@ -171,12 +117,6 @@ tbd
 ::genre::
 
 ## David Younger - Causeway & Effect
-
-tbd
-
-::genre::
-
-## Death By Design - The Trial Of A Species
 
 tbd
 
@@ -212,25 +152,13 @@ tbd
 
 ::genre::
 
-## Dry Wedding - The Back Of Beyond
+## Dry Wedding - The Back Of Beyond *
 
 tbd
 
 ::genre::
 
-## Dumb Waiter - Change
-
-tbd
-
-::genre::
-
-## Ed Askew - The Final Painting
-
-tbd
-
-::genre::
-
-## Egos Divide - Demo
+## Dumb Waiter - Change *
 
 tbd
 
@@ -243,18 +171,6 @@ tbd
 ::genre::
 
 ## Eric Gillette - The Watcher
-
-tbd
-
-::genre::
-
-## Eryk Moczko - FAMILY BRAND
-
-tbd
-
-::genre::
-
-## Fauxroot - a fleeting glimpse of nothing
 
 tbd
 
@@ -278,12 +194,6 @@ tbd
 
 ::genre::
 
-## froe - die with an Audience
-
-tbd
-
-::genre::
-
 ## Future Palace - Resurgence
 
 tbd
@@ -296,19 +206,7 @@ tbd
 
 ::genre::
 
-## Gast - Förbannelser
-
-tbd
-
-::genre::
-
 ## God Unknown - Last Glimpse Of Daylight
-
-tbd
-
-::genre::
-
-## Hagoroth - Hagoroth
 
 tbd
 
@@ -338,31 +236,7 @@ tbd
 
 ::genre::
 
-## Isaiah Collier - Joy
-
-tbd
-
-::genre::
-
-## isezerano - Rubuc
-
-tbd
-
-::genre::
-
 ## Jbelzero - ENTERROR
-
-tbd
-
-::genre::
-
-## Jeff Silva & Mike Bullock - Plumes
-
-tbd
-
-::genre::
-
-## Jenkem Revolt - Jenkem Revolt
 
 tbd
 
@@ -386,12 +260,6 @@ tbd
 
 ::genre::
 
-## Kackbratze - Blaues Wunder
-
-tbd
-
-::genre::
-
 ## Lalu - A Mythmaker's Demise
 
 tbd
@@ -399,24 +267,6 @@ tbd
 ::genre::
 
 ## Laniidae - Laniidae
-
-tbd
-
-::genre::
-
-## leo - Cicada Burnt
-
-tbd
-
-::genre::
-
-## Lewis Kentaro - EXENDLING
-
-tbd
-
-::genre::
-
-## Limbonic Art - Arcane Past: The Celestial Grimoire
 
 tbd
 
@@ -434,12 +284,6 @@ tbd
 
 ::genre::
 
-## Loren MazzaCane Connors & David Grubbs - Somewhere in the Wind
-
-tbd
-
-::genre::
-
 ## Lucia & The Best Boys - Picking Petals
 
 tbd
@@ -452,37 +296,13 @@ tbd
 
 ::genre::
 
-## Melissa Galosi - Candor
-
-tbd
-
-::genre::
-
-## Michael Columbia - Mirrors, Shapes, Objects
-
-tbd
-
-::genre::
-
-## Michael Hampton - King Kong
+## Michael Columbia - Mirrors, Shapes, Objects *
 
 tbd
 
 ::genre::
 
 ## Michigander - Over Before You Know It
-
-tbd
-
-::genre::
-
-## Michiru Aoyama - Pekosu
-
-tbd
-
-::genre::
-
-## Monarch - MA3
 
 tbd
 
@@ -518,12 +338,6 @@ tbd
 
 ::genre::
 
-## Nueen - Swerved
-
-tbd
-
-::genre::
-
 ## Nvlvs - Soundless Echoes
 
 tbd
@@ -536,19 +350,7 @@ tbd
 
 ::genre::
 
-## Ori Kaplan & Lihu Melamed - Reverie
-
-tbd
-
-::genre::
-
-## P8ter - holiday 26'
-
-tbd
-
-::genre::
-
-## PNAU - AHHCade
+## Ori Kaplan & Lihu Melamed - Reverie *
 
 tbd
 
@@ -656,147 +458,93 @@ tbd
 
 ::genre::
 
-## The Billy Mummys - A Date Not to Forget
+## The Cleaners from Venus - Beryl & Ruff Go Shopping *
 
-tbd
+Das Projekt, das vom produktiven Singer-Songwriter und Dichter Martin Newell ins Leben gerufen wurde, ist eine legendäre Ikone der DIY-Bedroom-Pop-Bewegung und hat es geschafft, sich jahrzehntelang der Mainstream-Musikindustrie zu entziehen. Klassischer **Jangle-Pop**, Lo-Fi-**Indie-Rock** und von den 1960er Jahren inspirierter **Psychedelic-Pop**. "Beryl & Ruff Go Shopping" ist ein herrlich schrulliger, äußerst literarischer Streifzug durch die Exzentrizitäten des britischen Kleinstadtlebens. Aufgenommen mit Newells charakteristischem, warmem Lo-Fi-Bandrauschen, schwingen die Songs mit klirrenden Gitarren und brillanten, witzigen Geschichten dahin. Es ist gemütlich, unglaublich charmant und voller farbenfroher Charaktere, die einem das Gefühl geben, einen großartigen Comicstrip über einen Vintage-Radio-Lautsprecher zu lesen.
 
-::genre::
-
-## The Cleaners from Venus - Beryl & Ruff Go Shopping
-
-tbd
-
-::genre::
-
-## The Clinch - Times Up
-
-tbd
-
-::genre::
+::genre::indie rock, psych pop, jangle pop
 
 ## The Darling Buds - Same Sun / Same Sky
 
-tbd
+Die Band unter der Leitung von Andrea Lewis-Welsh war ein prägender Name der britischen Indie-Szene der späten 80er und frühen 90er Jahre und berühmt für ihre „Blonde-Pop“-Ästhetik und ihre eingängigen Radio-Melodien. Fröhlicher, mitreißender **Indie-Pop**, **Twee-Pop** und **Shoegaze**/**Alternative-Rock** der späten 80er Jahre. "Same Sun / Same Sky" ist wie ein Strahl reinen Sonnenscheins, der durch die Wolken bricht. Das Album fängt die mitreißende, jugendliche Freude, die die Menschen ursprünglich in den Indie-Pop verliebt hat, perfekt ein und füllt jeden Track mit funkelnden Gitarren und eingängigen Hooks. Die allgemeine Stimmung ist wunderbar beschwingt und weckt den Wunsch, die Autofenster herunterzukurbeln und bei jedem Refrain mitzusingen.
 
-::genre::
+::genre::indie pop, shoegaze, alt rock
 
 ## The Durutti Column - Renascent
 
-tbd
+Unter der Leitung des legendären und äußerst einflussreichen Gitarristen Vini Reilly sowie des langjährigen Schlagzeugers Bruce Mitchell waren sie ein Eckpfeiler des historischen Factory-Records-Künstlerstamms. Eine ätherische, zarte Mischung aus **Post-Punk**, **Ambient** und **Dream Pop**. "Renascent" ist ein unglaublich zerbrechliches, exquisites Meisterwerk, das sich anfühlt wie eine Sammlung von Aquarellen, die in Klang verwandelt wurden. Das Album, das größtenteils in Reillys eigener Küche aufgenommen wurde, strahlt eine intime, schwebende Atmosphäre aus, in der sich akustische und elektrische Gitarren wie Morgennebel durch sanfte elektronische Klangräume schlängeln. Es ist eine wunderschöne, stille Hommage an künstlerische Widerstandsfähigkeit, die sich absolut zeitlos anfühlt.
 
-::genre::
+::genre::post rock, ambient, dreampop
 
 ## The Limit - Another Drop
 
-tbd
+Die Band besteht aus Mitgliedern, die historisch mit Pionieren des frühen Punk und Doom-Metal wie The Stooges und Pentagram verbunden sind, was ihren Ruf als Vertreter aggressiven, ungefilterten Rock’n’Rolls festigt. Eine hochoktanige Kollision aus **Punkrock**, **Hardrock** und **Proto-Heavy-Metal**. Schnallt euch an, denn "Another Drop" ist ein unerbittlicher, lederjackentragender Klangangriff, der mit der Wucht eines außer Kontrolle geratenen Güterzugs voranschreitet! Sie packt dich am Kragen mit schweißtreibender, rauer Energie und rasanten Gitarrenriffs. Wenn du deinen Rock ’n’ Roll laut, völlig ungeschliffen und vor Attitüde nur so strotzend magst, bietet dir diese Platte einen unverzichtbaren Platz in der ersten Reihe bei einem Old-School-Keller-Krawall.
 
-::genre::
+::genre::proto heavy metal, proto punk rock, hard rock, heavy rock
 
 ## The Old Regime - A Great Weight
 
-tbd
+Die Band ist dafür bekannt, mitreißende, dramatische musikalische Kulissen zu schaffen, die düstere Basslinien mit schwebenden, emotionalen Melodien verbinden, die an den College-Rock der späten 80er Jahre erinnern. Dieses Projekt orientiert sich stark am **Post-Punk**, **Gothic Rock** und stimmungsvollem, gitarrenbetontem **Indie-Rock**. "A Great Weight" ist das musikalische Äquivalent dazu, grauen Gewitterwolken dabei zuzusehen, wie sie langsam über einen leeren Strand ziehen. Getreu seinem Titel wirkt das Album zutiefst emotional und atmosphärisch und vermittelt ein wunderschönes, tiefes Gefühl von Melancholie. Es hüllt einen in einen Mantel aus schimmernden Gitarrenklängen und treibenden Bassrhythmen, die das Gefühl von leichter Traurigkeit unglaublich erhaben und filmisch wirken lassen.
 
-::genre::
+::genre::post punk, goth rock, indie rock
 
 ## The Salt Pale Collective - ...And God Said Nothing
 
-tbd
+Seit ihren Debütalben hat sich diese Band den Ruf erarbeitet, gewaltige Klangarchitekturen zu erschaffen, in denen neben den üblichen Metal-Instrumenten auch Gastinstrumente wie das Saxophon zum Einsatz kommen. Eine kolossale Mischung aus **Post-Metal**, **Sludge** und **Blackened Doom Metal**. Wenn ihr euch jemals gefragt habt, wie kosmische Stille klingt, wenn sie wütend ist – genau so klingt sie. "...And God Said Nothing" bedient sich religiöser Bildsprache – wie fallende Sterne und verblassende Madonnen –, um Themen wie existenzielle Verzweiflung und universelle Leere zu behandeln. Die Musik verbindet brutale, tiefe Death-Growls mit eindringlichen, klaren Harmonien und plötzlichen Ausbrüchen eines chaotischen Saxophons. Es ist ein erschreckend schöner Tsunami der Angst, der einen dazu bringt, sich im Dunkeln ständig umzuschauen.
 
-::genre::
-
-## The Surge - Meow
-
-tbd
-
-::genre::
-
-## Verfall - Death Shall Be Their Shepherd
-
-tbd
-
-::genre::
-
-## Vessel Point One - 39 - Override All Systems
-
-tbd
-
-::genre::
+::genre::post metal, sludge metal, blackened doom metal
 
 ## Viande - Monument Aux Morts
 
-tbd
+Bekannt für ihren kompromisslosen Ansatz in der Underground-Extremmusik, liefern sie schwere, ungeschliffene und äußerst rohe Klanglandschaften. Tief verwurzelt in brutalem **Death Metal** und erdrückendem **Doom Metal**. Getreu seinem Namen, der übersetzt "Kriegsdenkmal" bedeutet, ist "Monument Aux Morts" ein erdrückender, monolithischer Klangblock. Das Album beschäftigt sich mit erschütternden, düsteren Themen wie Sterblichkeit, Verwesung und unausweichlicher Trauer. Hier gibt es absolut keine glücklichen Zufälle oder Pop-Hooks – nur massive, tief gestimmte Gitarrenriffs, die sich im Tempo eines Trauerzuges bewegen, während kehlige Growls aus etwas widerhallen, das wie eine echte Höhle klingt. Es ist wunderbar schwer und brillant erschöpfend.
 
-::genre::
-
-## WESLEY OU - WES SEASON
-
-tbd
-
-::genre::
+::genre::death metal, doom metal
 
 ## Wire Worms - Beneath The Eildon Tree
 
-tbd
+Die sechsköpfige Besetzung besteht aus erfahrenen Musikern aus Underground-Projekten wie Tristwch y Fenywod, Hexham Heads und Sh!t Theatre. Eine höchst exzentrische Mischung aus **Doom-Folk**, experimentellem **Noise** und **Progressive Rock**. Schnappt euch euren Lieblingsholzstab und macht euch bereit, durchzudrehen! Beneath The Eildon Tree greift alte Volkssagen auf – insbesondere die Legende aus dem 13. Jahrhundert, wonach Thomas the Rhymer von Elfen entführt wurde – und jagt sie durch einen Fleischwolf aus Verzerrung und tosendem akustischem Drama. Das Thema ist durchdrungen von Weltuntergangsvisionen, Wahnsinn und der furchterregenden Schönheit einer Welt, die das Alte niederreißt, um Neues zu erschaffen. Es ist wild, apokalyptisch und wunderbar seltsam.
 
-::genre::
+::genre::prog rock, prog folk, doom rock, noise
 
 ## Xiupill - New Man
 
-tbd
+Das Projekt, das von Autoren und Produzenten wie Jón Múli Egilsson Prunner, Juan Manuel Melero und Oliver Devaney vorangetrieben wird, ist dafür bekannt, düstere analoge Synthesizer-Klänge mit ausdrucksstarken Gesangsebenen zu verbinden. Dieses Album orientiert sich stark an der dunklen, atmosphärischen Ästhetik von **Coldwave**, **Gothic Rock** und melancholischem **Indie-Synth**. "New Man" ist der ultimative Soundtrack für einen Spaziergang durch eine neonbeleuchtete Stadt im strömenden Regen, während man einen Ledertrenchcoat trägt. Das Album fängt ein zutiefst stimmungsvolles Thema ein: persönliche Neuerfindung, existenzielle Isolation und die Suche nach Identität in einer überfüllten Welt. Musikalisch verwöhnt es den Hörer mit treibenden Basslines, eisigen Drum-Machine-Patterns und düsteren Vocals, die das Gefühl des Elends unglaublich stilvoll klingen lassen.
 
-::genre::
+::genre::cold wave, gothic rock, indie pop
 
 ## YES AND MAYBE - Train To Nowhere
 
-tbd
+Das Duo, bestehend aus den Künstlern Calum Wilkinson und Guillaume Banet, lernte sich online kennen und produzierte dieses Debütalbum unglaublicherweise komplett über Kommunikations-Apps wie WhatsApp. Es ist geprägt vom Geist des **Indie-Rock**, **Indie-Pop** und synthlastigen Alternative-Sounds der 2000er Jahre. Steigt ein in einen Zug, bei dem sich niemand um die Endstation schert! "Train To Nowhere" ist eine wunderschön nostalgische Indie-Spaßfahrt, die genau das Gefühl einfängt, jung zu sein, sich herrlich verloren zu fühlen und zu versuchen, den Alltag zu überstehen. Mit schwungvollen Basslines, lebhaften Keyboards und eingängigen Hooks verwandelt es die Angst vor einer richtungslosen Zukunft in eine tanzbare Mitternachts-Indie-Hymne.
 
-::genre::
+::genre::indie rock, indie pop, alt rock
 
 ---
 
 # Earlier the week ...
 
-## Bart - Song Dump
-
-tbd
-
-::genre::
-
 ## Blodtåke - Epitome Of Solitude
 
-tbd
+Die 2014 gegründete Band hat historische Verbindungen zu verschiedenen deutschen Underground-Metal-Bands wie Convictive und Desperation. Eine düstere Mischung aus **Black Metal**, **Death Metal** und **Doom Metal** mit leichten progressiven Elementen. "Epitome of Solitude" ist eine brillant eisige Wanderung durch die trostlosesten Wälder deiner Gedanken. Das Album spielt intensiv mit Themen wie tiefer Isolation, sternenklare und sternenlose Himmel sowie komatösem Winterschlaf. Musikalisch bewegt es sich mit der vernichtenden Geschwindigkeit eines Black-Metal-Blizzards, bevor es dich plötzlich in einen langsamen, knochenerschütternden Doom-Metal-Kriechmodus versetzt, der dir das Gefühl gibt, auf wunderbare Weise gestrandet zu sein.
 
-::genre::
-
-## Crystal Throne - Chantry of Sacrifice
-
-tbd
-
-::genre::
+::genre::blackened death metal
 
 ## Dark From Day One - A Darker World
 
-tbd
+Seit Jahren mit Projekten wie „The Fire Within“ aktiv, sind sie bekannt für ihre kraftvollen Hymnen, massiven rhythmischen Hooks und ihren intensiven Gesang. Sie verbinden **Cinematic Rock**, **Alternative Metal** und **modernen Hard Rock**. Bereit für epische, arena-taugliche Düsternis? "A Darker World" ist der perfekte Soundtrack für eine Autofahrt durch ein Gewitter um Mitternacht. Das Album thematisiert das Überleben, persönliche Dämonen und das Aufrecht-Stehen in einer bedrückenden Welt. Musikalisch hat das Album mit gigantischen Gitarrenriffs und hochfliegenden Gesangshooks eine enorme Durchschlagskraft, die einen dunklen Himmel unglaublich kraftvoll wirken lässt.
 
-::genre::
+::genre::alt metal, modern metal, cine metal, hard rock
 
 ## Heaven's Gate - Overarching Reach of the Hand of God
 
-tbd
+Angetrieben von abstrakter Instrumentierung verzichtet dieses Projekt gänzlich auf Mainstream-Melodien zugunsten viszeraler, avantgardistischer Klangtexturen. Diese Veröffentlichung ist fest im **Noise-Rock**, in der freien **Improvisation** sowie im Harsh **Noise** und **Experimental Rock** verankert. Diese Platte vermittelt das Gefühl, in eine dunkle, abstrakte Kathedrale zu schlendern, die aus reinem Feedback und Radio-Rauschen erbaut ist. Getreu seinem grandiosen Titel verzichtet "Overarching Reach of the Hand of God" auf traditionelle Songstrukturen, um sich ganz auf die überwältigende, kosmische Last existenzieller Angst zu konzentrieren. Es ist eine intensive, völlig ungelenkte Reise durch Klangstürme, die musikalische Grenzen eher als Anregungen denn als Regeln betrachtet.
 
-::genre::
-
-## Ivan Reash - Man Hates God
-
-tbd
-
-::genre::
+::genre::experimental rock, noise rock, noise, improvisation
 
 ## Lesbian Twin Towers - The Mess We Left Behind
 
-tbd
+Die Band bewegt sich ganz am Rande der Underground-DIY-Szene und setzt dabei auf extrem aggressive Gesangspassagen, raue Gitarrenklänge und wilde Elektronik. Sie orientiert sich stark an **Experimental Rock**, **Noise Rock**, Sass und **Synth Punk**. Stellt euch vor, ein alter analoger Synthesizer würde sich in einer Bar mit einem rostigen Gitarrenverstärker prügeln, und beide würden beschließen, gemeinsam über die Apokalypse zu schreien. "The Mess We Left Behind" ist eine glorreiche, rasende Reise durch klangliche Trümmer. Das Album trägt das schwere Thema in sich, in einer Welt, die sich zunehmend bizarr anfühlt, die Scherben wieder aufzulesen, und liefert dabei eine herrlich aggressive Punk-Energie, die sich keineswegs dafür entschuldigt, dass einem die Ohren klingeln.
 
-::genre::
+::genre::experimental rock, noise rock, synth punk
 
 ## Nachtschläfer - The Garden of the Weeping Melodies
 
