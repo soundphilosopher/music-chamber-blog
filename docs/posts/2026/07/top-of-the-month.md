@@ -51,7 +51,7 @@ categories:
 
     ## 9. Spiral Drive & Lord Fascinator - Reise
 
--   ![STAB - Lost In Maine](https://www.awayfromlife.com/wp-content/uploads/Stab-Lost-in-Maine-Cover.png){ .top-list-image }
+-   ![STAB - Lost In Maine](https://i0.wp.com/www.melodicmag.com/wp-content/uploads/2026/07/unnamed-8-scaled.jpg){ .top-list-image }
 
     ## 10. STAB - Lost In Maine
 
@@ -59,7 +59,7 @@ categories:
 
     ## 11. The Cleaners from Venus - Beryl & Ruff Go Shopping
 
--   ![Yard Act - You're Gonna Need a Little Music](https://media.pitchfork.com/photos/6a6265e5f90654ad37042a4e/1:1/w_450%2Cc_limit/Yard%2520Act%2520You're%2520Gonna%2520Need%2520a%2520Little%2520Music.jpg){ .top-list-image }
+-   ![Yard Act - You're Gonna Need a Little Music](https://i0.wp.com/scummywatertower.com/wp-content/uploads/2026/07/cover-Yard-Act-You-re-Gonna-Need-A-Little-Music.png){ .top-list-image }
 
     ## 12. Yard Act - You're Gonna Need a Little Music
 
