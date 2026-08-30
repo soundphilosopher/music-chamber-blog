@@ -1,6 +1,6 @@
 ---
 date: 2026-08-31
-draft: true
+pin: true
 categories:
   - Top Lists
   - Recap
@@ -10,13 +10,13 @@ categories:
 
 <div class="grid cards" align="center" markdown>
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![Russian Circles - Nine](https://f4.bcbits.com/img/a1666412586_16.jpg){ .top-list-image }
 
-    ## Lorem - Ipsum
+    ## 1. Russian Circles - Nine
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![Blind Yeo - The Lemoine Point](https://f4.bcbits.com/img/a3315759574_10.jpg){ .top-list-image }
 
-    ## Lorem - Ipsum
+    ## 2. Blind Yeo - The Lemoine Point
 
 </div>
 
@@ -24,56 +24,56 @@ categories:
 
 <div class="grid cards" align="center" markdown>
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![Sadness - Sunset Blush](https://f4.bcbits.com/img/a1243935349_16.jpg){ .top-list-image }
 
-    ## Lorem - Ipsum
+    ## 3. Sadness - Sunset Blush
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![Shock Corridor - Shock Corridor](https://f4.bcbits.com/img/a1486924648_10.jpg){ .top-list-image }
 
-    ## Lorem - Ipsum
+    ## 4. Shock Corridor - Shock Corridor
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![Christer Bothén, Oren Ambarchi, Johan Berthling, Andreas Werliin - Serpentine](https://f4.bcbits.com/img/a3742428973_10.jpg){ .top-list-image }
 
-    ## Lorem - Ipsum
+    ## 5. Christer Bothén, Oren Ambarchi, Johan Berthling, Andreas Werliin - Serpentine
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![The Cornered Knees - Like a Neutered Dog](https://f4.bcbits.com/img/a3269239661_2.jpg){ .top-list-image }
 
-    ## Lorem - Ipsum
+    ## 6. The Cornered Knees - Like a Neutered Dog
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![threadbaron - Motherless Child](https://cdn.sonemic.net/i/600/s/f318b29e011d53811e3ad5541a519981/14944492/threadbaron-motherless-child-Cover-Art.jpg){ .top-list-image }
 
-    ## Lorem - Ipsum
+    ## 7. threadbaron - Motherless Child
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![Interpol - This Mirror Weighs a Ton](https://media.pitchfork.com/photos/6a27fd65a78cbe8a62b6e19c/1:1/w_450%2Cc_limit/Interpol_TMWT_Cover_F_RGB.jpg){ .top-list-image }
 
-    ## Lorem - Ipsum
+    ## 8. Interpol - This Mirror Weighs a Ton
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![The Odyssey Cult - Vol. 3](https://f4.bcbits.com/img/a1166786015_10.jpg){ .top-list-image }
 
-    ## Lorem - Ipsum
+    ## 9. The Odyssey Cult - Vol. 3
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![Chelsea Wolfe - The Dark](https://f4.bcbits.com/img/a1833065902_16.jpg){ .top-list-image }
 
-    ## Lorem - Ipsum
+    ## 10. Chelsea Wolfe - The Dark
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![Andrew W.K. - Temptation To Exist](https://consequence.net/wp-content/uploads/2026/08/Andrew-W.K.-Temptation-to-Exist-Album-Artwork.jpg){ .top-list-image }
 
-    ## Lorem - Ipsum
+    ## 11. Andrew W.K. - Temptation To Exist
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![A.W. Yrjänä - Eidolon](https://i.scdn.co/image/ab67616d00001e02c2b65262c091115b9428f19b){ .top-list-image }
 
-    ## Lorem - Ipsum
+    ## 12. A.W. Yrjänä - Eidolon
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![Coma Control - Shed The Sleep](https://f4.bcbits.com/img/a0477288715_10.jpg){ .top-list-image }
 
-    ## Lorem - Ipsum
+    ## 13. Coma Control - Shed The Sleep
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![Ty Segall - Chrome](https://f4.bcbits.com/img/a3327883668_16.jpg){ .top-list-image }
 
-    ## Lorem - Ipsum
+    ## 14. Ty Segall - Chrome
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![Blums - Sunk Cost Fantasy](https://f4.bcbits.com/img/a0870126660_10.jpg){ .top-list-image }
 
-    ## Lorem - Ipsum
+    ## 15. Blums - Sunk Cost Fantasy
 
 </div>
