@@ -256,12 +256,6 @@ tbd
 
 ::genre::
 
-## Justin Hawkes - Now or Never
-
-tbd
-
-::genre::
-
 ## Lalu - A Mythmaker's Demise
 
 tbd

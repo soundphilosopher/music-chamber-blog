@@ -448,12 +448,6 @@ Eine der führenden italienischen Progressive-Metal-Bands kehrt mit ihrem fünft
 
 ::genre::prog metal, power metal, symphonic metal, tech metal
 
-## Ocean Sleeper - Peace When I'm Dead
-
-Eine wilde, hart arbeitende vierköpfige Band, die sich um den Sänger Karl Spiessl und den Gitarristen Ionei Heckenberg formiert hat. Bekannt für ihren energiegeladenen, organischen DIY-Hintergrund, haben sie sich mit den hochkarätigen Rock-Produzenten Jon Lundin und Curt Martin in Studios in LA und Portland zusammengetan, um dieses Album aufzunehmen. **Melodischer Metalcore**, **Hardcore-Punk** und aggressiver **Post-Hardcore**. Stilistisch orientieren sie sich an Größen wie *Beartooth* und *The Amity Affliction*. Wenn deine Vorstellung von einem guten Wochenende darin besteht, dir mitten in einem schweißgetränkten Moshpit die Lunge aus dem Leib zu schreien, bist du hier genau richtig. Das Album serviert einen regelrechten Ansturm aus knochenbrechenden Breakdowns und aggressiven Ausbrüchen, die frontal mit massiven, eingängigen Refrains mit klarem Gesang kollidieren. Es behandelt unglaublich rohe, offen dargestellte Themen wie innere Trauer, persönliche Schuldgefühle und tiefe existenzielle Erschöpfung und verwandelt psychologische Kämpfe in gewaltige, hymnische Rocknummern, die man unmöglich ignorieren kann.
-
-::genre::modern metalcore, post hardcore, hardcore punk
-
 ## Oddland - Unilluminate to Illuminate
 
 Seit 2003 eine feste Größe und treibende Kraft in der finnischen Progressive-Szene. Ihr Sound hat sich nach ausgedehnten Europatourneen an der Seite der Progressive-Ikonen Soen dramatisch weiterentwickelt. **Progressive Metal**, moderner **Djent** und atmosphärischer **Tech-Metal**. Inspiriert von den komplexen Rhythmen und überwältigenden Texturen von *Haken* und *Meshuggah*. Dieses Album ist eine komplexe, verwirrende mathematische Rätselbox, die deine absolute, ungeteilte Aufmerksamkeit fordert. Die Band hält die Zuhörer in Atem, indem sie krachende Gitarrenwellen und zerklüftete Taktarten direkt gegen hochfliegende, wunderschön klare, melodische Gesangslinien setzt. In Stücken wie "Eternal Erode" erkundet das Album den tiefgreifenden Kontrast zwischen Dunkelheit und Klarheit und übt dabei direkte Kritik am modernen, ständigen Streben nach billigen Dopamin-Kicks. Es ist anspruchsvoll, heavy und eine herausragende Meisterklasse für Puristen der progressiven Musik.

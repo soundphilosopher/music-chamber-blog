@@ -682,12 +682,6 @@ tbd
 
 ::genre::
 
-## The Reytons - A Love Letter To A Broken Town
-
-tbd
-
-::genre::
-
 ## The Scepter - Shadows In The Tower
 
 tbd
@@ -847,12 +841,6 @@ Ein erfahrener, multidisziplinärer Künstler und Komponist, der in den 1990er J
 Das 2017 gegründete Quartett steht unter der Leitung des Vibraphonisten und Perkussionisten Miloš Branisavljević. Auf europäischen Jazzfestivals genießen sie aufgrund ihrer komplexen, gefühlvollen Arrangements hohes Ansehen. **Jazz-Fusion** und **zeitgenössische klassische Musik**, inspiriert von legendären Persönlichkeiten wie Chick Corea. Diese Platte ist ein atemberaubendes Beispiel für musikalische Brillanz und emotionale Tiefe. Mit dem klaren, funkelnden Klang des Vibraphons im Mittelpunkt verbinden Titel wie "Have a Nice Trip" traditionelles Jazz-Timing mit mitreißend dramatischen, filmischen Melodien. Durch virtuose Soli werden tiefgründige existenzielle Themen behandelt, was das Album zu einem inspirierenden, erstklassigen Erlebnis für Jazzliebhaber macht.
 
 ::genre::contemporary jazz, modern classic, jazz fusion
-
-## Monika - How We Saw Forever
-
-Ein erfahrener Produzent elektronischer Musik, der sich über Jahre hinweg durch regelmäßige Veröffentlichungen bei Spearhead Records einen festen Platz im Deep-Bereich der Elektronikszene erarbeitet hat. Tiefgründiger, atmosphärischer **Drum & Bass**, **Liquid Funk** und gefühlvolle elektronische Musik. Das Anhören dieser Musik ist wie der Anblick eines strahlenden Sonnenaufgangs, der durch die Wolken bricht, während man auf einer hohen Klippe steht. Die Basslinien sind tief und wogend, doch sie sind in eine so zarte Musikalität und euphorische Wärme gehüllt, dass sich die schnellen Beats niemals überwältigend anfühlen. Die Musik bewegt sich anmutig zwischen nächtlicher Stimmungsvollheit und heller, gefühlvoller Dancefloor-Energie.
-
-::genre::d&b, jungle, acid funk
 
 ## OurR - Answer.
 

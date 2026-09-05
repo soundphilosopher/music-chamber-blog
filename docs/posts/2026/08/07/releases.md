@@ -142,12 +142,6 @@ Unter der Federführung des Gitarristen James Shanks (ursprünglich unter dem So
 
 ::genre::osdm, thrash metal, brutal death metal
 
-## DMA'S - DMA'S
-
-Das kraftvolle Songwriter-Trio Johnny Took, Matt Mason und Tommy O'Dell. Sie haben sich über ein Jahrzehnt hinweg mit äußerst melodischen Indie-Veröffentlichungen eine internationale Kult-Anhängerschaft aufgebaut, bevor sie für dieses Projekt eine globale Partnerschaft mit einem Major-Label abschließen konnten. **Britpop** der 90er, **jangly Indie-Rock** und alternativer Gitarren-Pop. Dieses Album serviert einen goldenen, sonnenverwöhnten Korb voller Stadion-Hymnen, die schon beim ersten Akkord sofort Nostalgie wecken. Sie schafft einen meisterhaften Ausgleich zwischen verträumten, vom Shoegaze geprägten Gesangspassagen und gewaltigen, mitreißenden Refrains, die geradezu danach verlangen, von Tausenden von Menschen auf einer offenen Wiese mitgesungen zu werden. Die Texte tanzen wunderschön zwischen einem tiefen Gefühl moderner Dankbarkeit und absoluter Mittellosigkeit hin und her und hinterlassen ein Gefühl von Wärme und Aufmunterung.
-
-::genre::britpop, jangle pop, indie rock, alt pop
-
 ## Dymna Lotva - Vyraj
 
 Die in Minsk gegründete Band hat sich international einen hervorragenden Ruf erarbeitet, indem sie die Wucht des Extreme Metal mit traditioneller Volksmusik und starkem politischem und gesellschaftlichem Widerstand verbindet. **Post-Black-Metal**, **Doom-Metal**, **Progressive-Metal** und traditionelle slawische Folklore. Dieses Album nimmt euch mit auf eine intensive emotionale Achterbahnfahrt, die von den pechschwarzen Tiefen der Verzweiflung direkt in blendende Momente wunderschöner, ekstatischer Wut führt. Das Album dreht sich ganz um das Thema „belarussische Ethnoastronomie“ und zeichnet eine spirituelle Reise über den Nachthimmel zu einem mythischen Winterland nach, in dem verstorbene Seelen Ruhe finden. Es ist ein atemberaubendes, wunderschön vielschichtiges Kaleidoskop extremer Klänge, das ebenso herzzerreißend tragisch wie brillant majestätisch ist.

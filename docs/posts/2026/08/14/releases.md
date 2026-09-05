@@ -160,12 +160,6 @@ Das beliebte Duo Charlie Martin und Will Taylor hat über ein Jahrzehnt damit ve
 
 ::genre::slowcore, indie folk, indie pop, indie rock
 
-## Ian Parry's Consortium Project VI - Legacy Of Empires
-
-Unter der Federführung des legendären britischen Sängers und Songwriters Ian Parry, der sein beeindruckendes 45-jähriges Jubiläum als professioneller Musiker feiert. Für dieses sechste Kapitel hat er ein internationales Elite-Ensemble zusammengestellt, zu dem Mitglieder von *Kamelot*, *Vanden Plas* und *Pain of Salvation* gehören. Grandioser **Progressive Metal**, symphonischer **Power Metal** und melodischer Metal. Entstaubt euren Samtumhang und macht euch bereit zum Abheben, denn dieses Album ist ein gewaltiges Space-Opera-Meisterwerk des symphonischen Heavy-Metal-Theaters. Die Handlung taucht kopfüber in kosmische Sagen ein und erkundet eine fiktive Vergangenheit voller verbannteter außerirdischer Pharaonen, antiker Architekten und der Geburt künstlicher Intelligenz. Klanglich liefert die Band einen majestätischen Ansturm aus hochfliegenden Gesangsheldentaten, komplexen progressiven Gitarrensoli und dramatischen Orchester-Streichern. Es klingt wunderschön komplex, ist von gewaltigem Ausmaß und fungiert als ultimativer filmischer Soundtrack für einen tiefen Fantasy-Rausch.
-
-::genre::prog metal, power metal, melo metal
-
 ## Icona Pop - Ritual
 
 Das legendäre, mit Multi-Platin ausgezeichnete weltweite Superstar-Duo Caroline Hjelt und Aino Jawo. Weltweit vor allem bekannt für ihren bahnbrechenden Hit "I Love It", der ein ganzes Jahrzehnt geprägt hat, markiert dieses Projekt ihr mit Spannung erwartetes viertes Studioalbum. Energiegeladener **Dance-Pop**, clubtaugliche elektronische Beats und mitreißender **Synth-Pop**. Die unangefochtenen Königinnen der schwedischen Tanzflächen-Energie sind zurück, um euer gesamtes Wohnzimmer in eine blinkende, neonbeleuchtete Warehouse-Rave-Party zu verwandeln. Entstanden in einer Zeit tiefgreifender persönlicher Neuorientierung und Lebensveränderungen, vermittelt das Album pure, triumphale Freude inmitten eines Meeres aus wuchtigen Club-Basslines und schimmernden Synthesizern. Es wechselt mühelos zwischen explosiven Late-Night-Festival-Hymnen wie „Dance To This“ und eleganten, emotionalen Dance-Pop-Grooves. Es macht ganz unverhohlen Spaß, ist wunderschön ausgefeilt und ein absolutes Muss für deine Spätsommer-Party-Playlist.
