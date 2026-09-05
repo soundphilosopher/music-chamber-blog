@@ -4,7 +4,7 @@ Add Bandcamp Player Hook for Music Chamber.
 An MkDocs ``on_page_content`` hook that embeds a Bandcamp mini-player
 beneath every release heading on *pinned* release-list pages.
 
-For each ``<h2>`` heading the hook:
+For each release heading (``<h2>`` or ``<h3>``) the hook:
 
 1. Derives a search query from the ``Artist - Title`` heading text.
 2. Queries the Bandcamp fuzzy-search API for a matching album.
@@ -451,7 +451,7 @@ def _collect_bandcamp_information(h2: Tag, session: Session) -> BandcampInfo | N
     the parsed artist list.
 
     Args:
-        h2: The ``<h2>`` tag whose text contains the ``Artist - Title`` string.
+        h2: The release heading whose text contains ``Artist - Title``.
         session: A :class:`~curl_cffi.requests.Session` to reuse across calls.
 
     Returns:
@@ -593,7 +593,7 @@ def on_page_content(html: str, page: pages.Page, config: Config, files: files.Fi
     Skips pages that are not ``releases.md`` inside the ``posts/``
     directory tree, or whose front-matter does not set ``bandcamp: true``.
 
-    For every ``<h2>`` on a qualifying page the hook queries Bandcamp,
+    For every release heading on a qualifying page the hook queries Bandcamp,
     and — when a match is found — appends an embedded mini-player to the
     first ``<p>`` sibling (the release description).
 
@@ -616,7 +616,7 @@ def on_page_content(html: str, page: pages.Page, config: Config, files: files.Fi
 
     log.info("Embedding Bandcamp players for pinned page: %s", src)
     soup = BeautifulSoup(html, "html.parser")
-    headings = soup.find_all("h2")
+    headings = soup.find_all(["h2", "h3"])
 
     if not headings:
         return html

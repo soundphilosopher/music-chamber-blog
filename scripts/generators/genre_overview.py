@@ -11,7 +11,7 @@ Genre tag syntax (placed as a paragraph after a release description)::
     ::genre:: Death Metal, Post Rock, Ambient
 
 Multiple genres are comma-separated. Each tagged release is linked
-via its ``<h2>`` heading anchor in the source file.
+via its release heading (``<h2>`` or ``<h3>``) anchor in the source file.
 
 Generated file: ``genres.md``
 """
@@ -53,7 +53,7 @@ def _parse_genre_tags(file_path: str) -> list[tuple[str, ReleaseAnchor]]:
     """Parse a Markdown file and extract genre-tagged releases.
 
     Looks for paragraphs matching the ``::genre::`` prefix, walks
-    backwards in the DOM to find the associated ``<h2>`` release heading,
+    backwards in the DOM to find the associated release heading,
     and returns ``(genre_name, anchor)`` pairs.
 
     Args:
@@ -85,7 +85,7 @@ def _parse_genre_tags(file_path: str) -> list[tuple[str, ReleaseAnchor]]:
         if not description:
             continue
 
-        heading = description.find_previous_sibling("h2")
+        heading = description.find_previous_sibling(["h2", "h3"])
         if not heading:
             continue
 

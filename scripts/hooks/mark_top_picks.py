@@ -38,7 +38,7 @@ def _strip_trailing_stars(heading: Tag) -> None:
     ``NavigableString`` and strips any trailing `` *`` characters from it.
 
     Args:
-        heading: A BeautifulSoup ``<h2>`` tag whose text content may
+        heading: A BeautifulSoup release heading whose text content may
             end with star markers.
     """
     for child in reversed(heading.contents):
@@ -66,7 +66,7 @@ def _wrap_in_card(
         </div>
 
     Args:
-        heading: The ``<h2>`` tag to move into the card.
+        heading: The release heading tag to move into the card.
         description: The ``<p>`` tag following the heading.
         css_class: CSS class applied alongside ``grid cards``
             (e.g. ``top-list-recap`` or ``top-list-rerun``).
@@ -96,8 +96,8 @@ def on_page_content(html: str, page, config, files) -> str:
     """MkDocs hook: transform starred headings into Material card components.
 
     Only processes pages whose source path ends with ``releases.md``.
-    For each ``<h2>`` heading, checks for star suffixes and wraps matching
-    entries (heading + following paragraph) in styled card divs.
+    For each ``<h2>``/``<h3>`` heading, checks for star suffixes and wraps
+    matching entries (heading + following paragraph) in styled card divs.
 
     Args:
         html: The rendered HTML content of the page.
@@ -114,7 +114,7 @@ def on_page_content(html: str, page, config, files) -> str:
 
     soup = BeautifulSoup(html, "html.parser")
 
-    for h2 in soup.find_all("h2"):
+    for h2 in soup.find_all(["h2", "h3"]):
         normalized_text = " ".join(h2.text.split())
         description = h2.find_next_sibling("p")
 

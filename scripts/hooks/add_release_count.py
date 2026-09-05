@@ -6,7 +6,7 @@ sidebar navigation of weekly release list posts.
 
 For every page whose source path ends with ``releases.md``, the hook:
 
-1. Counts the ``<h2>`` headings inside the article (each heading
+1. Counts the ``<h2>``/``<h3>`` headings inside the article (each heading
    represents one release).
 2. Locates the first section-level navigation list in the sidebar.
 3. Appends a new nav item that displays a music-box icon followed by
@@ -79,7 +79,7 @@ def on_post_page(output: str, page: Page, config: Config) -> str:
     if article is None:
         return output
 
-    releases = article.find_all("h2")
+    releases = article.find_all(["h2", "h3"])
 
     meta = soup.find("li", class_="md-nav__item md-nav__item--section")
     if meta is None:

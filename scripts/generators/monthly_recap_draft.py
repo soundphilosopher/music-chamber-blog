@@ -49,7 +49,7 @@ def _parse_starred_releases(release_list_path: str) -> list[StarredRelease]:
     """Parse a release list Markdown file and extract all starred entries.
 
     Reads the file via mkdocs_gen_files, converts Markdown to HTML,
-    and scans ``<h2>`` headings for trailing star notation.
+    and scans ``<h2>``/``<h3>`` headings for trailing star notation.
 
     Args:
         release_list_path: Filesystem path to the releases.md file
@@ -71,7 +71,7 @@ def _parse_starred_releases(release_list_path: str) -> list[StarredRelease]:
 
     starred: list[StarredRelease] = []
 
-    for h2 in soup.find_all("h2"):
+    for h2 in soup.find_all(["h2", "h3"]):
         release = h2.get_text().strip()
         if not release.endswith(" *") and not release.endswith(" **"):
             continue
