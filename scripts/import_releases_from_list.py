@@ -109,7 +109,7 @@ def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
 
         # <ReleaseCollectionType value>
 
-        ## Artist - Title
+    ## Artist - Title
         Review text
         ::genre::Genre1, Genre2
 
