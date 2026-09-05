@@ -298,12 +298,6 @@ Die junge Band, die 2021 von der Bassistin Evie Austin und dem Schlagzeuger und 
 
 ::genre::tech death metal, thrash metal, prog death metal
 
-## Into Darkness - Route To The Other Side
-
-Nachdem das Projekt fünfzehn Jahre lang seinen Sound durch vereinzelte Demos, Split-Veröffentlichungen und erhebliche Besetzungswechsel schrittweise verfeinert hat, stellt es nun einen bewussten kreativen Höhepunkt dar. Klassischer **Death Metal**, **Death-Doom** und **Old-School-Dutch-Death-Metal**. "Route To The Other Side" ist ein atemberaubender, Beton zerschmetternder kosmischer Horror-Monolith von einem Metal-Album. Das Album verzichtet auf generische, blutrünstige Slasher-Klischees und ist vollständig als kaltes, sachliches Konzeptalbum strukturiert, das in Titeln wie "Jupiter", "Saturn" und "Kuiper Belt" die äußersten Regionen unseres Sonnensystems kartografiert. Musikalisch liefert die Band absolute, langsam aufbauende akustische Schwere, indem sie zermalmende, doomlastige Gitarrenriffs und höhlenartige, kehlige Growls mit plötzlichen, blendenden Ausbrüchen treibender Old-School-Death-Metal-Riffs kombiniert. Es fühlt sich weniger wie eine einfache Studioaufnahme an, sondern eher so, als würde man in eine furchterregende, pechschwarze Leere des Weltraums gesogen, in der niemand deine Schreie hören kann.
-
-::genre::osdm, death metal, doom metal
-
 ## Iron Kobra - Eternal Dagger
 
 Die Band, die es sich zur Aufgabe gemacht hat, den Metal vor den ausgefeilten modernen Produktionstechniken zu bewahren, hat sich eine bedeutende Kult- und Underground-Fangemeinde aufgebaut. Dies markiert ihr monumentales Comeback im Studio nach einer elfjährigen Album-Pause. Traditioneller 80er-Jahre-**Heavy-Metal**, **NWOBHM** und **Speed-Metal**. Zieht eure Lederhandschuhe an und haltet euch fest, denn "Eternal Dagger" ist eine gnadenlose, blitzschnelle Reise durch Retro-Fantasiewelten. Abseits gängiger zeitgenössischer Strukturen etablieren Tracks wie "Trembling Dungeons" und "Mountains of Madness" eindeutig ein Swords-and-Sorcery-Thema, gemischt mit einem Hauch von Pulp-Science-Fiction. Angetrieben von galoppierenden Basslinien, schrillen Twin-Gitarren-Harmonien und ungeschliffenen Vocals, die vor roher Garage-Punk-Attitüde nur so strotzen, rast das Album mit halsbrecherischer Geschwindigkeit voran. Es ist kompromisslos, herrlich kitschig und wie geschaffen für maximalen, faustschwingenden Headbanging-Spaß.
@@ -579,12 +573,6 @@ Bei den Aufnahmen zu ihrem sechsten Studioalbum in Edwyn Collins’ mit Vintage-
 Die Band, die Anfang der 2000er Jahre ins Rampenlicht trat, nachdem sie im Alter von nur 16 Jahren bei Rough Trade Records unter Vertrag genommen worden war, hat sich über mehr als zwei Jahrzehnte hinweg einen legendären Ruf als Live-Band erarbeitet. Ihre düsteren, theatralischen Klangwelten haben ihr bekanntermaßen eine treue Fangemeinde unter namhaften Filmregisseuren wie David Lynch, Tim Burton und Paolo Sorrentino beschert. **Gothic Rock**, orchestraler **Indie** und cineastischer **Art-Rock**. "Fragile World" ist ein wunderschön zerbrechliches, mit Samt ausgekleidetes, dunkles Album. Angeführt vom dramatischen Tempo der Lead-Single "Lungs" schwebt das Album durch ein übergreifendes Thema kollektiver menschlicher Verletzlichkeit und betrachtet eine zerfallende Gesellschaft durch eine zutiefst einfühlsame Linse. Andrews’ zitternder, intensiver Gesang schlängelt sich über eindringliche Klavierakkorde, üppige Orchester-Streicher und plötzliche Ausbrüche dunkler Gitarrenverzerrungen. Beim Anhören dieses Albums fühlt man sich, als säße man in einem alten, flackernden Kino und würde eine wunderschöne Schwarz-Weiß-Tragödie in Zeitlupe verfolgen.
 
 ::genre::indie rock, cine rock, art rock, goth rock
-
-## There Were Wires - Vessel *
-
-Ursprünglich eroberte die Band Anfang der 2000er Jahre als freche, chaotische Hardcore-Gruppe die DIY-Kellerszene der Ostküste im Sturm, bevor sie eine jahrzehntelange Pause einlegte. Nun kehrt sie älter und weiser zurück - mit einem neuen Sound, der auf strukturelle Tiefe und gewaltige Wände aus übersteuerter klanglicher Schwerkraft setzt. **Hardcore-Punk**, **Post-Hardcore**, **Sludge Metal** und **Noise Rock**. "Vessel" ist ein atemberaubendes, die Elemente erschütterndes Denkmal für emotionale Beharrlichkeit und rohes Überleben. Das Album dreht sich stark um tiefgreifende menschliche Themen wie Trauer, kollektive Erschöpfung und das Älterwerden. Musikalisch bewegt es sich meisterhaft auf einem dynamischen Drahtseil: In einem Moment liefert es zahnzerbrechende, ätzende Gitarrenattacken, um im nächsten in wunderschöne, ruhige Räume feierlicher instrumentaler Reflexion zu versinken. Es ist der ultimative Heavy-Soundtrack, um zuzusehen, wie ein Sturm über eine Betonmetropole hereinbricht - gewaltig, düster und absolut kathartisch.
-
-::genre::hardcore punk, post hardcore, noise rock, sludge metal
 
 ## Tucker Zimmerman - Dream Me A Dream
 

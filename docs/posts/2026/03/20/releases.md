@@ -664,12 +664,6 @@ Der neueste Longplayer des israelischen Producers Yuval Havkin. Im Grunde ist es
 
 ::genre::nu jazz, chamber jazz, ambient, acid funk, prog funk, jazztronica
 
-## Richard Bliwas - Insomnia
-
-Der amerikanisch Jazz-Pianist, Komponist und Sänger mit seiner neuesten Improvisation. Ein Werk, welches Hard Bop, Bebop, zeitgenössischen Jazz, Free Jazz und Psych Jazz durchläuft und die Stilelemente zu einem avantgarden Extrem aufsteigen lässt.
-
-::genre::free jazz, contemporary jazz, hard bop, bebop, avant jazz, psych jazz, improvisation
-
 ## Richard Edwards - nepo babies take manhattan
 
 Der amerikanische Multi-Instrumentalist und Komponist mit seinem neuesten Solo-Werk. Edwards ist bekannt für seinen verletzlichen, sehnsüchtigen Gesang und sein bittersüßes Songwriting. In seiner Musik verschmelzen oft üppige Arrangements mit voller Bandbesetzung mit bekennenden, manchmal düsteren Texten. Eine dunkle und melancholische Melange aus Indie Folk, Alternative Folk und Indie Rock.
@@ -901,12 +895,6 @@ Der brasilianische Singer & Songwriter Lua Viana mit seinem Sophomore Output. De
 Das Sophomore Release des argentinischen Duos. Die Freunde Catriel Guerreiro (Ca7riel) und Ulises Guerriero (Paco Amoroso) produzieren einen experimentellen und progressiven Mix aus Latin Pop, Trance, Acid Funk, Prog Pop und Electronica, welcher sich der stylistishen Elemente des Modern Rock und AOR bedient und somit ein catchy Gefüge erschafft. Nach ihren Ausstieg aus der Prog Formation Astor widmeten sie sich mehr den Experimenten um Pop und Electronica.
 
 ::genre::latin pop, prog pop, trance, acid funk, modern rock, arena rock
-
-## Central Cee - All Roads Lead Home
-
-Der britische Rapper mit seiner neuesten EP. Eine Fusion von raue, kraftvolle Beats mit melodischen Elementen und raffinierten Wortspielen, wobei Themen wie persönliches Wachstum, Loyalität und die Realitäten des Ruhms im Mittelpunkt stehen. Die Beat-Untermalung widmet sich ganz den UK Drill mit ein paar introspektiven Ausläufern in R&B, Soul und Pop.
-
-::genre::drill, hip hop, r&b
 
 ## City of the Lost - A Journey of a Thousand Miles
 

@@ -346,12 +346,6 @@ Der griechische Producer und DJ mit seinem neuesten Release. Eine instrumentale 
 
 ::genre::trip hop, psych rock, ambient, prog pop, modern classic
 
-## Mona Krogstad - Serenity Now
-
-Die norwegische Jazz-Saxophonistin und Komponistin mit ihrem Sophomore Output. Ein moody, wie auch uplifting Werk des Modern Jazz, welches mit seinen melodischen Geschick und experimentellen Instrumentalisierungen die nordische Jazz-Szene sehr gut umrandet.
-
-::genre::modern jazz
-
 ## Moonchild - WAVES
 
 Der neueste Longplayer des LA-Based Trios. Eine Melange aus Progressive R&B, Neo-Soul, Trip Hop, Acid-Funk und Jazz Fusion. Alles wird in modernes Songwriting und eine moderne Produktion verpackt, was allerdings die Liebe zur Improvisation und Experimentieren nicht untergräbt, sondern mehr hervorhebt.

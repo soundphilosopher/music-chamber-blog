@@ -300,9 +300,9 @@ tbd
 
 ## Into Darkness - Route To The Other Side
 
-tbd
+Nachdem das Projekt fünfzehn Jahre lang seinen Sound durch vereinzelte Demos, Split-Veröffentlichungen und erhebliche Besetzungswechsel schrittweise verfeinert hat, stellt es nun einen bewussten kreativen Höhepunkt dar. Klassischer **Death Metal**, **Death-Doom** und **Old-School-Dutch-Death-Metal**. "Route To The Other Side" ist ein atemberaubender, Beton zerschmetternder kosmischer Horror-Monolith von einem Metal-Album. Das Album verzichtet auf generische, blutrünstige Slasher-Klischees und ist vollständig als kaltes, sachliches Konzeptalbum strukturiert, das in Titeln wie "Jupiter", "Saturn" und "Kuiper Belt" die äußersten Regionen unseres Sonnensystems kartografiert. Musikalisch liefert die Band absolute, langsam aufbauende akustische Schwere, indem sie zermalmende, doomlastige Gitarrenriffs und höhlenartige, kehlige Growls mit plötzlichen, blendenden Ausbrüchen treibender Old-School-Death-Metal-Riffs kombiniert. Es fühlt sich weniger wie eine einfache Studioaufnahme an, sondern eher so, als würde man in eine furchterregende, pechschwarze Leere des Weltraums gesogen, in der niemand deine Schreie hören kann.
 
-::genre::
+::genre::osdm, death metal, doom metal
 
 ## IX Of Blades - Way Of The Midnight Wave
 
@@ -462,9 +462,9 @@ tbd
 
 ## MOULD - Hoping As A Coping Mechanism
 
-tbd
+Eine rasant aufstrebende dreiköpfige Live-Band, bestehend aus Joe Sherrin, Kane Eagle und James Luxton, die sich in ganz Großbritannien durch explosive, mitreißende Konzerte einen hervorragenden Ruf in der Szene erarbeitet hat. Dynamischer **Post-Punk**, **Alternative Rock**, **Industrial-Heavy-Punk** und melodischer Post-Punk. Ein Album, das vor Energie nur so strotzt und sich mit scharfem, unverkennbar britischem Humor der Angst vor dem Erwachsenwerden annimmt. Die Musik pendelt zwischen kantigen, schrägen Basslinien und gewaltigen, hymnischen Gitarrenrefrains. Sie fängt perfekt das Gefühl ein, wenn das Gehirn vor Stress kurzschliesst - doch statt in Panik zu geraten, beschließt man, sich trotzdem tanzend durch das Chaos zu bewegen.
 
-::genre::
+::genre::post punk, alt rock, industrial
 
 ## Mountainscape - Traversing Realms *
 
@@ -714,21 +714,15 @@ tbd
 
 ## Trash Sneks - Humanity and The shell of you and me
 
-tbd
+Trash Sneks, die direkt aus der internet-nativen Bedroom-Indie-Szene hervorgegangen sind, haben sich darauf spezialisiert, komplexes Gitarrentapping im Twinkle-Stil mit rohen, ungeschliffenen und extrem verletzlichen Gesangsdarbietungen zu kombinieren, die die Angst der Teenager einfangen. **Midwest Emo**, **Math Rock**, **Screamo** und **Post-Hardcore**. Diese Veröffentlichung fühlt sich genau so an, als würde man eine alte, zerkratzte, selbst zusammengestellte Mixtape-Kassette in einer staubigen, gebrauchten Videospielhülle finden. Aufgebaut um hochdynamische, schwindelerregende Gitarrenmelodien, die sich um chaotisches, offenes Geschrei winden, behandelt das Album Themen wie verlorene Freundschaften, leere Parkplätze in Vororten und die Entfremdung von sich selbst. Es ist ein wunderbar chaotisches, unbeschwertes und emotional schweres Hörerlebnis, das speziell dafür gemacht ist, spät nachts mit heruntergelassenen Fenstern durch die Heimatstadt zu fahren.
 
-::genre::slacker rock, alt rock, indie rock
+::genre::midwest emo, math rock, screamo, post hardcore
 
 ## Tres Hongos - More Chips
 
 tbd
 
 ::genre::avant jazz, free jazz
-
-## Trophy Wife - Pathetic
-
-tbd
-
-::genre::alt rock, indie rock
 
 ## Tyraels Ascension - Grave Seeker
 

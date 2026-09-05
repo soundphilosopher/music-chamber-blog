@@ -88,12 +88,6 @@ Aus der Indie-Szene der Great Plains stammend, erschafft dieses von einer Sänge
 
 ::genre::prog rock
 
-## Eartheater - Heavenly Body: If I’m the Bottle You’re the Message
-
-Alexandra Drewchin (Eartheater) ist eine hochgelobte, genreübergreifende Sängerin, Multi-Instrumentalistin und Produzentin. In den letzten zehn Jahren hat sie mit ihrem Label Chemical X die Grenzen der modernen Musik erweitert, indem sie ihren Stimmumfang von drei Oktaven mit klassischer Akustikgitarre und digitalen Glitch-Arrangements kombiniert hat. **Art-Pop**, **Avantgarde-Elektro**, **Experimentalmusik** und **psychedelischer Folk**. Machen Sie sich bereit für eine atemberaubende Reise durch ein jenseitiges Gewächshaus aus flüssigem Neon. Dieses Album umspielt auf wunderschöne Weise Themen wie Mutterschaft, unverfälschte Weiblichkeit und intensive persönliche Transformation. Drewchins kompromisslose Stimme bewegt sich anmutig zwischen opernhaften Höhen und intimen Flüstern über stotternden Beats und üppigen akustischen Klangschichten. Es fühlt sich ganz und gar wie ein tröstlicher und doch intensiv scharfer Zauber an, der gewoben wurde, um Sie durch das wunderschöne Chaos der menschlichen Evolution zu führen.
-
-::genre::art pop, avant electronica, experimental electronica, psych folk
-
 ## Eaten By Sharks - The Undertow Of Hate
 
 Seit 2012 agiert dieses spezialisierte Heavy-Kollektiv als geschlossene, unerschütterliche Einheit und hat sich eine höchst einzigartige Nische erobert, indem es sein gesamtes kreatives Konzept auf ozeanischen Schrecken und nautischen Horror ausrichtet. **Technical Death Metal**, **Deathcore** und **progressiver melodischer Death Metal**. Schließt die Augen und macht euch bereit, gewaltsam in pechschwarze, blutbespritzte ozeanische Gräben hinabgerissen zu werden. Die Tracks verhalten sich genau wie Spitzenprädatoren: Sie feuern technische Gitarrenriffs wie vollgeladene Harpunen ab und führen gnadenlose Blast-Beat-Drum-Breakdowns mit klinischer Präzision aus. Das Album bewegt sich fließend von der rasenden Deathcore-Aggression von "Capsized" zum melodischen, thrashigen Schwung von „Bodies Overboard“ und ist ein unerbittlicher akustischer Fressrausch, der eure Lautsprecher völlig durchnässen wird.
@@ -381,12 +375,6 @@ Diese unheilige britische Supergroup besteht aus erfahrenen Veteranen der europ�
 Dieses Projekt, das am Rande der modernen, internetgeprägten Indie-Punk- und Hardcore-Szene agiert, hat sich darauf spezialisiert, kurze, explosive und extrem komprimierte Audio-Momentaufnahmen zu veröffentlichen, die pure innere Spannungen einfangen. **Hardcore**, **Melodic Hardcore** und **Emocore**. Getreu seinem spannungsgeladenen Titel ist dieses Album ein regelrechter Druckkocher roher menschlicher Emotionen, verpackt in rasante, temporeiche Rhythmen. Angetrieben von scharfen, kantigen Gitarrenriffs und einem ungezügelten Gesang, der wie eine therapeutische Schrei-Session klingt, lotet das Album den genauen Bruchpunkt moderner psychischer Erschöpfung aus. Es ist ein wunderbar chaotisches, wild authentisches und kraftvolles Hörerlebnis, das speziell für alle geschaffen wurde, die einen sicheren Raum brauchen, um ihre Frustrationen bei maximaler Lautstärke herauszulassen.
 
 ::genre::easycore, emocore, melo hardcore
-
-## Trash Sneks - Humanity and The shell of you and me *
-
-Trash Sneks, die direkt aus der internet-nativen Bedroom-Indie-Szene hervorgegangen sind, haben sich darauf spezialisiert, komplexes Gitarrentapping im Twinkle-Stil mit rohen, ungeschliffenen und extrem verletzlichen Gesangsdarbietungen zu kombinieren, die die Angst der Teenager einfangen. **Midwest Emo**, **Math Rock**, **Screamo** und **Post-Hardcore**. Diese Veröffentlichung fühlt sich genau so an, als würde man eine alte, zerkratzte, selbst zusammengestellte Mixtape-Kassette in einer staubigen, gebrauchten Videospielhülle finden. Aufgebaut um hochdynamische, schwindelerregende Gitarrenmelodien, die sich um chaotisches, offenes Geschrei winden, behandelt das Album Themen wie verlorene Freundschaften, leere Parkplätze in Vororten und die Entfremdung von sich selbst. Es ist ein wunderbar chaotisches, unbeschwertes und emotional schweres Hörerlebnis, das speziell dafür gemacht ist, spät nachts mit heruntergelassenen Fenstern durch die Heimatstadt zu fahren.
-
-::genre::midwest emo, math rock, screamo, post hardcore
 
 ## Tricky - Different When It's Silent **
 

@@ -34,12 +34,6 @@ Technisch gesehen das Comeback-Full-Length der amerikanischen Thrasher. Old-Scho
 
 ::genre::thrash metal
 
-## Amerikan Kaos - The Sheeple Swing
-
-Das internationale Projekt unter der Leitung des Gitarrenvirtuosen Jeff Waters (Gründer der Thrash-Legenden *Annihilator*) mit dem letzten Teil ihrer "Amerikan Kaos"-Trilogie. Dies ist der energiegeladene Abschluss von Waters’ experimenteller Trilogie. Das Album ist schneller und vermittelt ein lebendigeres Gefühl als die vorherigen Teile. Freut euch auf Songs, die von politischen Kommentaren bis hin zu absoluter Albernheit reichen (wie "(I Won) The Hottie Lottery") und von erstklassigen Gitarrenklängen begleitet werden.
-
-::genre::hard rock, melodic rock, heavy rock, pop metal, thrash metal
-
 ## Anasarca - Achlys
 
 Die Veteranen der deutschen Death-Szene mit ihrem neuesten Longplayer. Ihr Stil ist knallharter **Old-School-Death-Metal**. Ein unerbittlicher akustischer Schlag. Wenn du die Zeiten vermisst, in denen Death Metal sich wie eine düstere, physische Last anfühlte, ist dies dein Soundtrack. Es ist Blasting im traditionellsten Sinne - ungefiltert und schwer wie Blei.
@@ -573,12 +567,6 @@ Das langjährige Projekt von Ólafur Josephsson mit seiner neuesten EP. Es präs
 *Steve Roach* ist ein amerikanischer Ambient-Pionier aus Arizona, während *Serena Gabriel* eine Multi-Instrumentalistin und Sängerin ist, die für den Einsatz archaischer und organischer Instrumente bekannt ist. Dies ist ihre dritte große Zusammenarbeit. Eine nahtlose Brücke zwischen **Ambient-Electronica** und **indigenen Klängen aus aller Welt**. Das Album besticht durch tiefe Synthesizerklänge, Flöten, Harmonium, Leier und gesangslose Vocals. Das ist nicht nur Musik; es ist ein klangliches Paradies, in das man tatsächlich eintreten kann. Es klingt, als hätten sich die Antike und eine ferne Zukunft um Mitternacht in einer Wüste zu einem sehr friedlichen Treffen getroffen. Es ist weitläufig, seelenvoll und lässt Ihr Wohnzimmer wie eine riesige, leuchtende Kathedrale des Klangs wirken.
 
 ::genre::ambient, experimental electronica, world music
-
-## Sun Dont Shine - From Birth To Death
-
-Das Cross-American Kollektiv mit seinem Debüt Longplayer. Eine All-Star-Besetzung mit Kenny Hickey und Johnny Kelly (ex-*Type-O-Negative*) sowie Kirk Windstein und Todd Strange (*Crowbar*/*Down*). Dieses Album ist das musikalische Äquivalent eines dichten Nebels, der über einen Friedhof zieht. Es ist langsam, erdrückend und auf wunderschöne Weise trostlos. Die Melodik von Type-O trifft auf die schiere Wucht von Crowbar - das Ergebnis ist ein Album, das sich anfühlt wie eine warme, schwere Decke aus Blei.
-
-::genre::doom metal, sludge metal, prog rock, prog pop, psych rock, psych pop, stoner rock
 
 ## sunn O))) - sunn O)))
 

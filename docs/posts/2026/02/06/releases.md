@@ -58,12 +58,6 @@ Die australische Formation mit ihrer neuesten EP, welche die physische Zusammenf
 
 ::genre::modern metalcore
 
-## Assignment - With the End comes Silence
-
-Die deutsche Formation kann auf 30 Jahre Bandgeschichte schauen und hat es sich für ihren sechsten Longplayer in ihrer Discography nicht nehmen lassen, alle Kompositionen selbst zu produzieren. Entstanden ist ein Werk des Progressive Metal, welches mit der symphonischen und melodischen Kraft des Power Metal ausgestattet ist.
-
-::genre::prog metal, power metal
-
 ## Barbara Wiernik - Between Whispers
 
 Die belgische Jazz-Vokalistin mit ihrem neuesten Output. Ein Werk des Vocal-Jazz, welches Elemente des klassischen Jazz und dem Chamber-Jazz mit in sich integriert. Es werden Räume geschaffen durch die Improvisation verschiedener Vokals, welche wie eine Konversation erstrahlen durch die Kompositionen.

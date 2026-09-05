@@ -778,12 +778,6 @@ Sie sind ein neuer Name in der norwegischen Szene und geben mit diesem Album ihr
 
 ::genre::psych rock, stoner rock, heavy rock
 
-## MUNA - Dancing on the Wall
-
-*MUNA*, bestehend aus Katie Gavin, Naomi McPherson und Josette Maskin, hat sich von einem Kritikerliebling zu einer globalen Größe entwickelt. Bekannt für ihre Tourneen an der Seite von Taylor Swift und Phoebe Bridgers, werden sie für ihren komplexen, eigenständigen Produktionsstil hoch geschätzt. **Indie-Pop**, **Electro-Pop** und **Synth-Pop**. Beeinflusst von New-Wave-Rhythmen der 1980er Jahre, clubtauglichen elektronischen Basslines und zeitgenössischen Pop-Hymnen. Wenn sich dein Leben chaotisch anfühlt, möchte MUNA, dass du dich durch das Chaos hindurch tanzt. "Dancing on the Wall" ist ein absolutes Kraftpaket von einem Album, das funkelnde, von Hitze durchtränkte Sommer-Elektronik mit zutiefst verletzlichem Songwriting verbindet. Tracks wie "It Gets So Hot" stecken voller eleganter, pulsierender Electro-Pop-Energie, die dein Wohnzimmer in eine überfüllte Mitternachts-Festivalbühne verwandelt. Es ist brillant, unverhohlen hooklastig und ganz und gar darauf ausgelegt, die Welt zu erobern.
-
-::genre::electropop, synth pop, indie pop
-
 ## Namasenda - Limbo
 
 Als ehemaliges Mitglied des wegweisenden Londoner Labels PC Music erlangte Namasenda in der Hyperpop-Szene der frühen 2020er Jahre Bekanntheit, bevor sie zum schwedischen Label YEAR0001 wechselte. **Hyperpop** / **Alt-Pop** / **Eurotrance**. Das Album, das als ihr persönlichstes Werk beschrieben wird, trifft genau den perfekten Mittelweg zwischen Club-Euphorie und unverfälschtem Bekenntnis. Es wurde von einem All-Star-Team produziert, darunter Noonie Bao und Oscar Scheller. "Limbo" ist ein stroboskopbeleuchtetes Tagebuch. Es ist das, was passiert, wenn die Party zu Ende ist und man immer noch Glitzer trägt, während man eine existenzielle Krise durchlebt. Mit Tracks wie dem Eurotrance-lastigen "Miami Crest" ist es energiegeladen genug, um als Soundtrack für eine Rave-Party zu dienen, aber ehrlich genug, um jeden Aspekt ihres Kontrollverlusts spürbar zu machen.
@@ -1132,12 +1126,6 @@ Eine gemischte Hardcore-Punk-Band, die für ihren intersektionalen Feminismus un
 
 ::genre::hardcore punk, alt rock, indie rock
 
-## Warside - Cognitive Extinction
-
-Die Band, die seit über acht Jahren in der französischen Szene aktiv ist, präsentiert sich auf diesem Debütalbum in neuer Besetzung. Sie lässt sich maßgeblich von brutalen Schwergewichten wie *Dying Fetus*, *Vomitory* und *Misery Index* inspirieren. **Brutal Death Metal**. Der Sound zeichnet sich durch chirurgische Präzision, Maschinengewehr-Drumming und einen raueren, direkteren Ansatz als auf ihrer vorherigen EP aus. Dieses Album ist eine akustische Warnung vor der digitalen Lobotomie moderner Bildschirme. Es ist schnell, gnadenlos und technisch ausgefeilt. Wenn du dir dein Gehirn von unerbittlichen Double-Bass-Pedalen und kehligen Vocals zu Brei zermahlen lassen willst, während du über den Niedergang der menschlichen Intelligenz nachdenkst, ist dies dein Soundtrack.
-
-::genre::brutal death metal
-
 ## Who On Earth - It Takes The Village
 
 Diese Band besteht aus erfahrenen Musikern der Rock-Szene der Ostküste, darunter auch Mitglieder, die Verbindungen zum legendären *Mike Portnoy* haben. Sie sind stark von der Goldenen Ära des Hardrock beeinflusst - man denke an *Black Sabbath*, *Led Zeppelin* und *Rush*. **Hardrock** / **Heavy Metal**. Ihre Musik ist melodisch, riffbetont und führt mit moderner Produktion stolz die Tradition des klassischen Rocks der 70er- und 80er-Jahre fort. Wenn du die Zeiten vermisst, als Rocksongs riesige Refrains und noch größere Gitarrensoli hatten, ist dies deine neue Lieblingsplatte. Es ist Dad Rock im besten Sinne - solide, verlässlich und dazu gedacht, laut und mit heruntergelassenen Fenstern gespielt zu werden. Es ist gefühlvoll, rau und voller dieser typischen Jersey-Attitüde.
@@ -1279,12 +1267,6 @@ Geoff Tate ist der ehemalige Leadsänger der amerikanischen Progressive-Metal-Ba
 *HWXXNG* (alias Jaeho Hwang) ist ein in Seoul geborener, in Berlin lebender Produzent und DJ. Er gilt als Pionier des K-Core oder Asian-Core. Er verbindet **Industrial Techno** und **Hardstyle** mit traditioneller koreanischer Musik (**Gugak**), darunter schamanische Melodien und 800 Jahre alte zeremonielle Gesänge. Das Ergebnis ist ein cyber-schamanischer Aufruhr. *HWXXNG* nimmt alte Fragmente und zerreißt sie mit kompromisslosen Techno-Kicks. Es ist aggressiv, ritualistisch und energiegeladen - im Grunde das, was passiert, wenn eine traditionelle koreanische Percussion-Gruppe in einen dunklen Berliner Keller kommt und beschließt, eine Revolution zu starten.
 
 ::genre::industrial, techno, hardstyle
-
-## Kartas - LADO H *
-
-Kartas lassen oft Poesie und Lo-Fi-Ästhetik in ihre Musik einfließen und schaffen so einen Sound, der tief in der brasilianischen Avantgarde-Tradition verwurzelt ist und sich gleichzeitig an freieren Rockformen orientiert. Ein genreübergreifender Mix aus experimentellem **Space Jazz**, **Acid Rock**, **Art Rock** und **Lo-Fi**-Elektronik. Stell dir vor, du schwebst durch eine Nebelwolke, während ein Vintage-Radio Bossa Nova spielt, die langsam in einen psychedelischen Fuzz übergeht. Es ist Space Jazz im wahrsten Sinne des Wortes - Musik, die sich anhört, als wäre sie auf einem Raumschiff aufgenommen worden, das direkt vor der Küste von Rio treibt.
-
-::genre::space jazz, acid rock, art rock, lofi, ambient
 
 ## Kill Chain - Demo 2026
 

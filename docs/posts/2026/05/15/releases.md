@@ -802,12 +802,6 @@ Als schnell aufsteigendes Kraftpaket der europäischen Independent-Heavy-Musiksz
 
 ::genre::hardcore punk, metallic hardcore, post hardcore
 
-## Stardust Multiplier - Convergence
-
-Dieses faszinierende Projekt entstand aus einem starken persönlichen Bedürfnis heraus. Der Künstler komponierte und nahm die Stücke als morgendliche Rituale während seiner physischen Rehabilitation nach einem langen, schweren Krankenhausaufenthalt auf. Umgeben von den unerbittlichen rhythmischen Pieptönen, Alarmen und summenden Signalen der medizinischen Geräte wurde die auditive Wahrnehmung des Künstlers völlig neu kalibriert. Zurückhaltender **Ambient**, mikrotonale elektroakustische Klänge und minimalistischer **Drone**. Wenn Sie sich von der modernen Welt gestresst fühlen, ist "Convergence" der ultimative Reset-Knopf für die Sinne. Mit einer Glasmarimba, einer Flöte und analogen Synthesizern filtert der Künstler organische Frequenzen durch fortschrittliche Spektralanalyse. Hier gibt es keine traditionellen eingängigen Pop-Refrains. Stattdessen nutzt die Musik langsame, sich wiederholende harmonische Muster, um kosmische Mythen und nicht-menschliche Intelligenz heraufzubeschwören. Sie ist zutiefst hypnotisch, unglaublich fokussiert und klingt wie eine freundliche außerirdische Zivilisation, die versucht, eine sanfte Funkübertragung zur Erde zu senden.
-
-::genre::ambient, drone, experimental electronica, field recordings
-
 ## Sum Of Seven - Echoes Of The Hypermind
 
 Ein kraftvolles 6-köpfiges Ensemble, bestehend aus Ari Lempinen, Esa Lempinen, Rasmus Raassina, Miika Erkkilä, Marko Loukamaa und Harri Annala. In der europäischen Underground-Metal-Szene sind sie für ihr komplexes musikalisches Können bekannt. Hochmelodischer **Progressive Metal** und **Symphonic Hard Rock**. Sie verweben massive, schwere Gitarrenriffs nahtlos mit komplexen, spacigen Keyboard-Elektronikklängen. Schnallt euch mental an, denn dieses Album ist ein atemberaubender, 10-Megawatt-Sci-Fi-Gehirnschmelzer. "Echoes Of The Hypermind" eröffnet mit einer absoluten Explosion in Tracks wie "Supreme", bevor es direkt in ein episches Sci-Fi-Universum schießt, das von hochfliegenden Synth-Leads und schwerem rhythmischem Donner dominiert wird. Das wahre Herzstück ist das ausufernde, 10-minütige Abschluss-Epos "Wonder", in dem harte Brülllaute mit gewaltigen Melodien kollidieren, um das großartige Konzept des Albums zu einem siegreichen Finale zu führen. Es ist intelligenter, unglaublich harter und wild triumphierender Progressive Metal, der euch mit jedem einzelnen Hören mehr belohnt.

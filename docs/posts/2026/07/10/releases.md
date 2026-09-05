@@ -52,12 +52,6 @@ Ein gewaltiges Extreme-Metal-Projekt unter der Leitung des virtuosen Gitarristen
 
 ::genre::tech death metal, prog death metal, avant death metal, jazz fusion, death jazz
 
-## Aydn - from memory
-
-Ein Underground-Produzent und Spezialist für Bassmusik, der sich einen hervorragenden Ruf dafür erarbeitet hat, technische elektronische Rhythmen mit tiefer, gemächlicher emotionaler Tiefe zu versehen. **Liquid Drum & Bass**, **UK Garage**, **Future R&B** und **Deep Soul**. Dieses Debüt wirkt wie ein wunderschön unscharfes Polaroidfoto, das Distanz, Nostalgie und stille Entschlossenheit einfängt. Aydn konstruiert unglaublich geschmeidige, rollende Drum-&-Bass-Patterns, überlagert von Hyper-R&B-Vocal-Chops, die wie halb vergessene Gespräche mal in den Fokus rücken, mal wieder verschwinden. Es tauscht den üblichen, aggressiven Club-Lärm gegen eine langsam aufkeimende, nächtliche Atmosphäre ein, die den Hörer umarmt und sich zutiefst persönlich anfühlt.
-
-::genre::d&b, neo soul, uk garage, alt r&b
-
 ## Baby Smith - Lately, Love Is Dead
 
 Ein äußerst kreatives Songwriter-Duo, bestehend aus Saxon Gable und Ray Sonder. Mit ihren sequenziell betitelten Veröffentlichungen "EP I" und "EP II" aus den Jahren 2023 und 2024 erlangten sie zunächst eine treue Underground-Anhängerschaft. **Indie-Pop**, **Sophisti-Pop**, **Alternative-Pop** und **Jangle-Rock**. Stellt euch vor, ihr schleicht euch in eine wunderbar stilvolle Late-Night-Party ein, auf der alle ein bisschen Liebeskummer haben, die Hausband aber absolute Perlen spielt. Das Duo nimmt den bitteren Schmerz schwindender Romanzen und moderner Beziehungssackgassen auf und verpackt ihn in helle, zuckersüße Melodien und knackige Indie-Gitarrenklänge. Es fängt einen luftigen, sommerlichen Groove ein, der einen wunderschönen Kontrast zu den zynischen Texten bildet und beweist, dass man sich durchaus durch eine schwere romantische Krise tanzen kann.
@@ -346,12 +340,6 @@ Ein äußerst produktiver Singer-Songwriter, bekannt für seine sanften, etwas s
 
 ::genre::slacker rock, indie rock, indie pop, power pop, yacht rock
 
-## MOULD - Hoping As A Coping Mechanism
-
-Eine rasant aufstrebende dreiköpfige Live-Band, bestehend aus Joe Sherrin, Kane Eagle und James Luxton, die sich in ganz Großbritannien durch explosive, mitreißende Konzerte einen hervorragenden Ruf in der Szene erarbeitet hat. Dynamischer **Post-Punk**, **Alternative Rock**, **Industrial-Heavy-Punk** und melodischer Post-Punk. Ein Album, das vor Energie nur so strotzt und sich mit scharfem, unverkennbar britischem Humor der Angst vor dem Erwachsenwerden annimmt. Die Musik pendelt zwischen kantigen, schrägen Basslinien und gewaltigen, hymnischen Gitarrenrefrains. Sie fängt perfekt das Gefühl ein, wenn das Gehirn vor Stress kurzschliesst - doch statt in Panik zu geraten, beschließt man, sich trotzdem tanzend durch das Chaos zu bewegen.
-
-::genre::post punk, alt rock, industrial
-
 ## Mourir - Nous, le venin
 
 Die Band besteht aus aktuellen und ehemaligen Mitgliedern renommierter französischer Underground-Bands wie Plebeian Grandstand, Drawers, Vermine und Bruit ≤. **Atmosphärischer Black Metal**, **Blackened Sludge**, **Screamo**, **Noise** und **Doom Metal**. Diese Veröffentlichung vermittelt das Gefühl, allein durch einen eisigen, nebligen Wald zu wandern und dabei direkt in die trostlose Leere der modernen Gesellschaft zu blicken. Komplett auf Französisch gesungen, kanalisiert sie tiefsitzende Frustration und existenzielle Erschöpfung in chaotische Wellen aus Verzerrung. Sie ist wunderschön, aber unglaublich feindselig und liefert einen rohen, emotionalen Schrei gegen den Individualismus, der noch lange nach dem Ausklingen der Musik einen anhaltenden, giftigen Stich hinterlässt.
@@ -519,12 +507,6 @@ Getragen von der eingespielten Besetzung aus Sänger John Serrano, Gitarrist Jos
 Die Band trat ursprünglich unter dem Namen Adecence auf, bevor sie sich umbenannte und mit ihrem filmischen Debütalbum "Postalgia" aus dem Jahr 2024 in der Underground-Szene große Anerkennung erlangte. **Hard Rock**, **Melodic Rock** und gruseliger **AOR**. Dieses Album ist wie eine unglaublich unterhaltsame, leicht bedrohliche Party in einem Spukhaus, in dem ausschließlich Lederjacken als Kleiderordnung gelten. Die Band verzichtet komplett auf die sicheren Radio-Pop-Formeln und liefert stattdessen einen kraftvollen Cocktail aus eingängigen Riffs und dramatischem Rockgesang. Tracks wie "Brat With A Baseball Bat" und "Last Forever" stürmen mit einer rauen, retro-angehauchten Attitüde voran, die einen dazu zwingt, die Faust in die Luft zu recken, während einem ein herrlich düsterer Schauer über den Rücken läuft.
 
 ::genre::hard rock, melo rock, heavy rock, arena rock
-
-## The Durutti Column - Renascent
-
-Unter der Führung des legendären Vini Reilly trug diese Kultband Ende der 1970er Jahre mit ihrem genreübergreifenden, atmosphärischen Gitarrenspiel maßgeblich zur Prägung des historischen Labels Factory Records bei. **Post-Punk**, **Dream Pop**, **Ambient**, **Neoklassik** und **Avantgarde**. "Renascent" wirkt genau wie ein sanfter, schimmernder Wasserlauf, der die Morgensonne widerspiegelt. Reillys charakteristische, zarte Fingerpicking-Gitarrenlinien schweben anmutig in einem warmen Nebel aus ambienten Synth-Klängen und sanften elektronischen Backbeats. Unterstützt durch die frischen Gesangstexturen der Singer-Songwriterin Caoilfhionn Rose aus Manchester vermittelt die Musik ein wunderschönes, zyklisches Gefühl der Melancholie, das die Kluft zwischen historischem Post-Punk und modernen Traumlandschaften überbrückt. Sie ist intim, zutiefst beruhigend und ein großartiger Beweis für Reillys anhaltende kreative Magie.
-
-::genre::post punk, dreampop, ambient, neo classic, avant pop
 
 ## The Garden - Bootleg *
 

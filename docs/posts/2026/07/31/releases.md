@@ -256,6 +256,12 @@ tbd
 
 ::genre::
 
+## Justin Hawkes - Now or Never
+
+Hawkes, der früher unter dem Künstlernamen Flite auftrat, ist ein herausragender Produzent und DJ, der bereits über 100 Millionen Streams erreicht hat und auf großen internationalen Festivals wie Tomorrowland und EDC aufgetreten ist. Er ist weithin dafür bekannt, die Grenzen der elektronischen Musik mit erzählerischen, menschenzentrierten Produktionen zu erweitern. Hochoktaniger **Drum-and-Bass**, **Future Jungle**, Halftime Electronic, **Techstep** und hymnischer Jump-Up. Schnallt euch an und macht euch darauf gefasst, dass eure Nervenbahnen schmelzen, denn diese Platte ist ein rasender, kinetischer Güterzug elektronischer Transzendenz. Mit bewusster, von Menschenhand geschaffener Komplexität baut Hawkes ein grandioses Konzeptalbum auf, in dem jeder Track wie ein individuelles Leben wirkt, das zu einem neuen Erwachen führt. Es schafft einen Ausgleich zwischen der rohen, basslastigen Wucht einer Mitternachts-Club-Platte und mikroskopisch kleinen, auf Kopfhörer ausgerichteten Klangdetails. Es klingt wie ein hochentwickelter Cyber-Organismus, der bei Endgeschwindigkeit echte emotionale Leidenschaft entwickelt – außergewöhnlicher Treibstoff für lange Nachtfahrten oder ein hochintensives Training im Fitnessstudio.
+
+::genre::d&b, jungle, breakbeat
+
 ## Lalu - A Mythmaker's Demise
 
 tbd

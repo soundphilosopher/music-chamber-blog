@@ -8,12 +8,6 @@ categories:
 
 ## Friday
 
-## Abrams - Loon
-
-Ein kraftvolles Trio, das oft als **Heavy Rock** oder **Sludge**-**Pop** bezeichnet wird. Sie verbinden die massiven, verzerrten Riffs von *Mastodon* mit dem eingängigen, hymnischen Songwriting von *Queens of the Stone Age*. "Loon" ist ein wahres Monster von einem Album. Es ist Mountain Rock, der klingt, als wäre er in den Rocky Mountains geschmiedet worden - rau, weitläufig und unglaublich heavy. Was *Abrams* so besonders macht, ist ihre Fähigkeit, eine radio-taugliche Melodie in einer Wand aus donnerndem Lärm zu verstecken. Es ist das perfekte Album für einen Roadtrip durch die Wüste oder einfach nur, um deine Nachbarn auf die stilvollste Art und Weise zu wecken.
-
-::genre::heavy rock, stoner rock, desert rock, alt rock
-
 ## Adorn - Let Love Remain
 
 Eine aufstrebende Kraft in der **Melodic-Hardcore**- und **Post-Hardcore**-Szene. Sie verbinden die rohe, kehlenschneidende Leidenschaft von Bands wie *Touché Amoré* mit dem schimmernden, atmosphärischen Gitarrenspiel von *Explosions in the Sky*. "Let Love Remain" ist ein emotionaler Schlag in die Magengrube, der am Ende dennoch irgendwie hoffnungsvoll wirkt. Es ist laut, schnell und enthält Texte, die sich anfühlen, als würde man jemandes private Tagebücher lesen. Es ist Musik, bei der das Herz auf der Zunge liegt, für Menschen, die gerne moshen, während sie weinen. Es fängt dieses ganz bestimmte Gefühl ein, wenn man versucht, den Kopf über Wasser zu halten, wenn das Leben schwer wird.
@@ -26,13 +20,13 @@ Früher bekannt als *Dirty Beaches*, legte Hungtai diesen Namen ab, um sich dem 
 
 ::genre::noir jazz, avant jazz, improvisation
 
-<!-- more -->
-
 ## Alfie Boe - Face Myself
 
 Ein weltbekannter Operntenor und Musicalstar (Les Misérables). Für dieses Projekt wagt sich Boe jedoch in die Bereiche **Pop-Rock** und Blue-Eyed **Soul** vor und nennt dabei Einflüsse wie *The Who* und *Sam Cooke*. Das ist Alfie Boe, wie man ihn noch nie gehört hat - er tauscht den Smoking gegen eine Jeansjacke. Es ist ein Vocal-First-Rockalbum, das sein Privatleben abseits des Rampenlichts beleuchtet. Seine Stimme ist nach wie vor gewaltig, wirkt hier jedoch geerdet und unverfälscht. Es ist eine mutige Neu-Präsentation, die beweist, dass er viel mehr ist als nur ein Theaterjunge.
 
 ::genre::pop rock, soul, garage rock, prog pop, art pop
+
+<!-- more -->
 
 ## Amulets - Rem(a)inders
 
@@ -57,12 +51,6 @@ Ein aufstrebender Name in der **Stoner-Rock**-/**Doom-Metal**-Szene. Sie lassen 
 Eine der am schnellsten aufstrebenden **Post-Hardcore**-/**Alternative-Metal**-Bands Großbritanniens. Angeführt von Charlie Rolfes vielseitigem Gesang verbinden sie die melodische Sensibilität von *Paramore* mit der schweren, synthgetriebenen Aggressivität von *Spiritbox*. Das ist der Sound einer Band, die aus ihrer eigenen Haut ausbricht. Er ist ausgefeilt, kraftvoll und emotional. Das Thema dreht sich um den chaotischen Prozess der Befreiung - die Erkenntnis, dass befreit zu sein nicht immer schön ist. Perfekt, wenn man mal einen kathartischen Song zum Mitschreien braucht, dessen Refrain man trotzdem unter der Dusche mitsummen kann.
 
 ::genre::alt metal, post hardcore, prog metalcore
-
-## Aurora Borealis - Disillusioned By The Illusion
-
-Seit 30 Jahren sind sie Veteranen der **Blackened-Death-Metal**-Szene, angeführt von Ron Vento. Sie sind Meister technischer Präzision und atmosphärischer Kraft, beeinflusst von weltraumthematischer Aggression und kosmischer Weite. Das sind 46 Minuten wilder Natur und Millisekunden-Pulsaren. Es ist technischer Death Metal, der sich wie ein unerbittlicher Sonnensturm anfühlt - aggressiv, präzise und kalt wie die Leere. Er beweist, dass diese Veteranen auch nach drei Jahrzehnten im Geschäft noch immer mit furchterregender Intensität zuschlagen können.
-
-::genre::blackened death metal, atmo black metal, tech death metal
 
 ## Battlegrave - Enslavement
 
@@ -213,12 +201,6 @@ Ein Projekt, das aus der Underground-Szene von **Darkwave** und **EBM** hervorge
 Ein minimalistisches **Experimental-/Art-Pop**-Projekt. "Da" (oft in Kleinbuchstaben geschrieben) nutzt repetitive Loops und Percussion aus Fundstücken und lässt sich dabei vom Dadaismus und frühen minimalistischen Komponisten inspirieren. Dieses Album ist ein Puzzle. Es ist spärlich, schräg und überraschend verspielt. Es fühlt sich an wie eine Sammlung musikalischer Skizzen, die irgendwie ein perfektes Bild ergeben, wenn man einen Schritt zurücktritt. Es ist Musik, die dich herausfordert, die Melodie im Alltäglichen zu finden - und sobald du das tust, wirst du sie nicht mehr aus dem Kopf bekommen.
 
 ::genre::experimental pop, art pop, avant pop, prog pop
-
-## Degreed - Curtain Calls
-
-Ein Kraftpaket in der Welt des **Melodic Rock**/AOR. Degreed sind dafür bekannt, den klassischen 80er-Jahre-Rock-Sound von *H.E.A.T.* oder *Eclipse* mit einer modernen, fast schon **Pop-Metal**-artigen Sensibilität zu verbinden. Das ist Rock pur - perfekt für die Fahrt mit offenem Verdeck und dem Wind im Haar. Es ist vollgepackt mit massiven Hooks, kristallklarer Produktion und Refrains, die so gewaltig sind, dass sie wahrscheinlich ihre eigenen Postleitzahlen haben. Trotz des Titels "Curtain Calls" klingt die Band, als würde sie gerade erst anfangen. Es ist energiegeladen, macht unverhohlen Spaß und ist sehr, sehr eingängig.
-
-::genre::melo rock, hard rock, heavy rock, arena rock
 
 ## Dejan Terzic - Grow
 
@@ -453,18 +435,6 @@ Immolation sind seit 1988 absolute Legenden der **Death-Metal**-Szene und bekann
 Seit 2006 gehören Inferi zu den Größen des **Technical Death Metal**. Diese Veröffentlichung ist ihr siebtes Album und präsentiert eine neu formierte Besetzung, darunter Sanjay Kumar (*Wormhole*) an der Gitarre. Wenn ihr schon immer einmal hören wolltet, wie audiovisuelle Kriegsführung klingt, dann ist dies genau das Richtige. Es ist gnadenlos schnell und technisch, dabei jedoch überraschend melodisch und stimmig. Es fühlt sich weniger wie ein ausuferndes Epos an, sondern eher wie ein fokussierter, brutaler Sprint durch eine dunkle, prophetische Landschaft.
 
 ::genre::tech death metal
-
-## Iterum Nata - Heartwood
-
-Das Soloprojekt von Jesse Heikkinen (von *Hexvessel*). Die Musik ist eine eindringliche Mischung aus **Dark Folk**, **Progressive Rock** der 70er Jahre und **Extreme Metal**. Entstanden in einer Zeit intensiver innerer Umbrüche, ist "Heartwood" ein Moment der Wiedergeburt, der Einsamkeit gegen eine feurige, trotzige Energie eintauscht. Es ist eine Reise durch frostige nordische Landschaften, in denen kantige progressive Strukturen auf Momente karger, zerbrechlicher Verletzlichkeit treffen.
-
-::genre::prog folk, dark folk, prog rock
-
-## Jessie Ware - Superbloom
-
-Jessie Ware, eine ehemalige Backgroundsängerin, die sich zu einer Solo-Größe entwickelt hat, hat die letzten Jahre damit verbracht, eine Fantasiewelt aus **Disco** und **Dance-Pop** zu erschaffen. Ihre Einflüsse für dieses Album reichen von den glitzernden Grooves des Studio 54 bis hin zum klassischen **Soul**. Stellen Sie sich vor, Sie betreten einen üppigen geheimen Garten, der sich langsam in einen hochmodernen Underground-Club verwandelt. "Superbloom" ist purer, euphorischer Eskapismus, der das Handbuch für vorbildliche Popstars gegen etwas weitaus Sinnlicheres, Filmischeres und zutiefst mit der Intimität der realen Welt Verbundenes eintauscht.
-
-::genre::edm, disco, synth pop, alt pop, soul
 
 ## Joe Jackson - Hope and Fury
 

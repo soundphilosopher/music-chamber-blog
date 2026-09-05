@@ -160,12 +160,6 @@ Das 2019 gegründete Quartett tourte mehrere Jahre lang durch Europa, bevor es d
 
 ::genre::folk pop, folk rock, country folk, americana
 
-## Carcerous - Doomsday Factory
-
-Ein kompaktes, aber eingespieltes Quartett, das dieses Material in seinem eigenen Studio aufgenommen hat, um einen fokussierten, kompromisslosen Sound zu gewährleisten. **Blackened Death Metal**. Ein deutlich düstereres und härteres Werk als ihre früheren Demos. Im Mittelpunkt stehen düstere Geschichten über Mord, Geheimnisse und religiöse Verfolgung; das Album bietet kontrollierte Aggression und eine dichte, bedrückende Atmosphäre, die Puristen des Extreme Metal begeistern wird.
-
-::genre::blackened death metal
-
 ## Carlo Costa - Ashes
 
 *Costa* ist ein produktiver Perkussionist und Komponist, der dafür bekannt ist, langsam fließende Klanglandschaften und die Schnittstelle zwischen akustischen und digitalen Klangtexturen zu erforschen. **Avantgarde-Jazz** / **Experimentelle Perkussion** / **Freie Improvisation**. Getreu seinem Namen wirkt "Ashes" wie eine minimalistische, schwelende Studie über Klang und Raum. Es ist intellektuelle Musik zum intensiven Hören, bei der jeder Trommelschlag oder jedes Beckenschlagen bewusstes Gewicht trägt - ein eindringlicher, sparsamer Begleiter für ruhige Stunden.
@@ -783,12 +777,6 @@ Als feste Größe der französischen Extreme-Szene legen sie nach einer erfolgre
 Unter der Leitung der nicht-binären Künstlerin *Kacey Foxx* eroberte das Projekt innerhalb nur eines Jahres die Szene im Sturm und sammelte Millionen von Streams, bevor es bei der Nettwerk Music Group unter Vertrag genommen wurde. Ein energiegeladener Mix aus **Djent**, **Metalcore** und **R&B**. Stell dir vor, die technischen Riffs von *Meshuggah* treffen auf den gefühlvollen, kraftvollen Gesang einer R&B-Diva. Dies ist eine Hymne zum Mitfäustenschlagen für alle, die authentisch und anders sind. Sie begegnet dem Gift des Online-Hasses mit roher, ungefilterter Wut - perfekt, um im Auto laut mitzuschreien oder im Fitnessstudio eine neue persönliche Bestleistung zu erzielen.
 
 ::genre::modern metalcore, djent, alt r&b
-
-## Preludio Ancestral - Guardians Of Twilight
-
-Die von dem Gitarristen und Komponisten Leonardo Gatti gegründete Band legt hier ihr fünftes Album in voller Länge vor. **Symphonic Power Metal** mit neoklassischen Einflüssen, stark geprägt von Bands wie *Stratovarius* und *Rhapsody of Fire*. Wenn du dich schon immer einmal wie auf einem Drachen durch ein Gewitter reiten wolltest, ist dies dein Soundtrack. Sänger Gaston Guillen liefert kraftvolle Vocals, die über unerbittliches Double-Bass-Drumming und rasante Soli schweben. Es ist eine Meisterklasse in Majestät, die sich nicht scheut, sich an die Theatralik des Euro-Metal anzulehnen. Perfekt, wenn dein Dienstag 100% mehr epische Fantasie braucht.
-
-::genre::power metal, melo metal, symphonic metal
 
 ## Primal Warfare - After The Flames
 

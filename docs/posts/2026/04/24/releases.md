@@ -214,12 +214,6 @@ Ein aufstrebendes Elektronik-Duo, das sich darauf konzentriert, rhythmische Deko
 
 ::genre::experimental electronica, idm, ibm, deep techno
 
-## Blindead 23 - Deuterium
-
-Eine neu belebte Version der Band *Blindead*, angeführt vom ehemaligen Behemoth-Gitarristen Mateusz "Havoc" Smierzchalski und mit Mitgliedern von *Katatonia*, *Vader* und *Decapitated*. **Avant-Metal**, **Sludge**, **Progressive Metal** und **Post-Metal**. Freut euch auf stratosphärische Klanglandschaften, gemischt mit schweren, progressiven Riffs und Elektronik. "Deuterium" ist eine konzeptionelle Odyssee, die sich wie eine langsam voranschreitende, reflektierende Reise für eure Seele anfühlt. Es ist geduldig, gewaltig und viszeral - weniger wie ein typisches Metal-Album, sondern eher wie ein einstündiger Streifzug durch Teile eures Geistes, die ihr normalerweise verschlossen haltet.
-
-::genre::sludge metal, post metal, avant metal, prog metal
-
 ## Blood Countess - Imperatrix Sanguinis
 
 Ein furchterregendes Black-Metal-Projekt unter der Leitung von "The Countess", das sich mit historischen Gräueltaten und düsterer Folklore befasst. **Symphonic Black Metal**. Beeinflusst von der kalten, melodischen Gewalt von *Dissection* und der Theatralik von *Cradle of Filth*. Benannt nach Elizabeth Báthory, ist dieses Album so blutig, wie man es erwarten würde. Es ist ein Hagel aus Frost und Feuer, der kreischenden Gesang mit überraschend schönen, dunklen Melodien verbindet. Es fühlt sich an, als würde man durch ein Spukschloss wandern, in dem die Wände bluten - gruselig, episch und total Metal.
@@ -676,12 +670,6 @@ Nach Jahren des Straßenmusizierens und dem Aufbau einer riesigen Fangemeinde is
 
 ::genre::indie rock, indie pop
 
-## Kneecap - Fenian
-
-Das Trio besteht aus Mo Chara, Móglaí Bap und DJ Próvaí. Dieses Album folgt auf ihre preisgekrönte Biografie und das 2024 erschienene Album "Fine Art". Eine mitreißende Mischung aus **Hip-Hop**, **Acid House** und **Trip-Hop**, produziert von Dan Carey. Die Texte sind eine zweisprachige Mischung aus Englisch und Irisch und beschäftigen sich vor allem mit Identität und politischem Widerstand. *Kneecap* ist zurück, um deinen kolonialen Kater zu kurieren. Das ist ein hochoktaniger Aufruhr in Sturmhauben, bei dem traditioneller irischer Stolz auf eine Warehouse-Rave-Party trifft. Es ist laut, es ist intelligent, und es ist wohl der größte Spaß, den man haben kann, während man das System demontiert.
-
-::genre::acid house, hip hop, trip hop
-
 ## KNIFE BRIDE - sorry about the plague
 
 Angeführt von der charismatischen Mollie Thompson bezeichnen Knife Bride ihren Stil als "Vampir-Rock". Mit ihren aufwendigen Visuals und theatralischen Live-Auftritten sorgen sie für Aufsehen. **Nu-Goth**, **Alternative Metal** und **Cinematic Rock**. Trotz des höflichen Titels ist dieses Album ein echter Knaller. Es ist eine Mischung aus schweren Riffs, eingängigen Pop-Elementen und einer dunklen, kitschigen Ästhetik. Es ist die Art von Musik, die man auf einem Gothic-Karneval hören würde - lebhaft, ein bisschen gruselig und jede Menge Spaß.
@@ -1137,12 +1125,6 @@ Eine rasant aufstrebende Band der texanischen Extreme-Szene, bekannt für ihre t
 Sole (*Tim Holland*) ist Gründungsmitglied des Underground-Hip-Hop-Kollektivs *Anticon*. Televangel (*Ian Taggart*) war die eine Hälfte des Produzentenduos *Blue Sky Black Death*. Abstrakter **Hip-Hop**, bewusster/politischer Hip-Hop und **experimenteller Hip-Hop**. Dies ist Soles Testament darüber, was es bedeutet, im Anthropozän Eltern zu sein. Erwarte endlose Ströme von Bars über einer sorgfältig gestalteten Atmosphäre. Es ist persönlich, politisch und wunderschön laut - der perfekte Soundtrack für einen leicht panischen, hochgebildeten Vater, während die Welt (angeblich) untergeht.
 
 ::genre::experimental hip hop, avant hip hop
-
-## Stalemate Of Wills - Existence Denied
-
-Das 2023 von Derek Kovacs gegründete Trio besteht aus den Szeneveteranen Jake Morris und Bob McSherry. **Sludgecore**, **Doom** und **Hardcore**. Eine salzige, rostige Variante des New Orleans Sludge. Textlich ist es ein tiefer Eintauch in die Hoffnungslosigkeit, die man im Laufe des Lebens erlebt, vorgetragen mit heruntergestimmten, "meat and potatoes"-Riffs, die deine Dielen zum Vibrieren bringen werden.
-
-::genre::sludge metal, doom metal, metallic hardcore
 
 ## Sugar Spine - Soul Before Spirit
 
