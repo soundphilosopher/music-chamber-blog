@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 070 Shake - Petrichor
 
 tbd
@@ -1306,7 +1308,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Aeverium - The Secret Door
 

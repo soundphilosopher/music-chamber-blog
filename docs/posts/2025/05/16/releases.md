@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## A/lpaca - Laughter
 
 tbd
@@ -1144,7 +1146,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## 49 Winchester - Change of Plans
 

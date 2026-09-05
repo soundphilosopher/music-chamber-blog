@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 360 - Out of the Blue
 
 tbd
@@ -790,7 +792,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Adam Lambert - Adam
 

@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Acidwound - Antroposcene
 
 tbd
@@ -1522,7 +1524,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## A Tear Beyond - Afterthought
 

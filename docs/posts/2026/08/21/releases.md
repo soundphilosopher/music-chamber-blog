@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Alex Amor - Heavenly Bodies
 
 Eine hochgelobte schottische Singer-Songwriterin, die mit drei Independent-EPs ("Love Language", "The Art of Letting Go" und "Super Sonic") über acht Millionen Streams generierte und sich damit breite Unterstützung von BBC Radio 1 sicherte. **Dream Pop**, verträumter **Alternative-Pop**, melancholischer Gitarren-Pop und kosmische Americana, durchzogen von Soft-Rock der 1970er Jahre. Stilistische Anlehnungen lassen sich bis zur poppigen Introspektion von Samia oder dem sanften, organischen Ausdruck von Clairos Sling-Ära zurückverfolgen. Dieses Album wirkt genau so, als würde man durch ein Teleskop in den Kosmos blicken, nur um zu erkennen, dass die Sterne still und leise die Geheimnisse des eigenen Lebens offenbaren. Es vereint üppige, weichgezeichnete Synthesizer, schimmernde Gitarren und eine zarte, hypnotische Stimme. Ausgehend von Metaphern der griechischen Mythologie in Icarus und emotionalen Brüchen in Avalanche zeichnet das übergreifende Thema die seltsamen, liminalen Räume der Trauer im Erwachsenenalter, Beziehungsverschiebungen und Heilung nach. Es ist elegant, wunderschön tröstlich und perfekt, um aus einem regnerischen Fenster zu blicken.
@@ -694,7 +696,7 @@ Unter der Leitung des produktiven Singer-Songwriters und Romanautors Zaq Baker a
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Almost Cherry - Born and Bled
 

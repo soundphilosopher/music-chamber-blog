@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Akouphenom - Connections To The Erebus
 
 tbd
@@ -478,7 +480,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Agamon - Momentum
 

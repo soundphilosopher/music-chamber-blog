@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Abyssal Rift - Relics of Great Ash
 
 Abyssal Rift wurde Anfang der 2020er Jahre gegründet und ist ein Subterranean-Projekt unter der Leitung von Matt Auxier. Mit ihrem düsteren Debütalbum "Extirpation Dirge" aus dem Jahr 2023 sorgten sie zunächst in der Extreme-Metal-Szene für Aufsehen, bevor sie einen besseren Plattenvertrag abschließen konnten. Höhlenartiger **Death/Doom-Metal**, **dissonanter Death Metal** und atmosphärische **Funeral-Doom**-Klänge. Stark inspiriert von Old-School-Meistern wie Incantation. Wer nach eingängigen, radiotauglichen Refrains oder mitreißenden Moshpit-Hymnen sucht, sollte sich sofort umdrehen und um sein Leben rennen. Diese Platte ist eine gewaltige, erstickende Landschaft aus purer akustischer Angst, die sich mit der erdrückenden Wucht eines langsamen Lavastroms vorwärtsbewegt. Die Band schafft eine makellose Balance zwischen hyperpräzisen, dissonanten Death-Metal-Blastbeats und massiven, quälend langsamen Funeral-Doom-Passagen, die sich in den leeren Raum ausdehnen. Auxiers Gesang klingt, als wäre er aus den tiefsten Tiefen einer Schwefelgrube aufgenommen worden, wobei er einzelne Worte direkt in ein Schwarzes Loch knurrt. Es ist eine wunderschön trostlose, akribisch strukturierte Meisterklasse in klanglichem Verfall, die als ultimative Kulisse für das Lesen von Grimdark-Fantasy-Literatur dient.
@@ -472,7 +474,7 @@ Die Band, die aus der produktiven finnischen Metal-Szene stammt, besteht aus eng
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Ada Lea - The End Is a Wave
 

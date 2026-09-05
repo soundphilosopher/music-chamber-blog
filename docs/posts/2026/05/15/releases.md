@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## A Box of Stars - Walnut Street
 
 *A Box of Stars* ist das musikalische Alter Ego des multidisziplinären Künstlers Macaulay Lerman, der sich selbst als Schöpfer von Liedern, Gedichten und Bildern bezeichnet. Lerman, der ursprünglich 2018 in Erscheinung trat, legte nach seinem 2023 erschienenen Album "Somethinghood" bewusst eine dreijährige Pause ein, um tiefgreifende Veränderungen in seinem Leben zu verarbeiten, darunter das schmerzhafte Ende einer langjährigen Beziehung. Stimmungsvoller **Indie-Folk** / **Slow-Core** / Singer-Songwriter, getragen von akustischem Fingerpicking, anschwellenden Hintergrundtexturen und einem zutiefst emotionalen, resonanten Gesang. Schnapp dir eine dicke Decke und beobachte, wie der Regen an deiner Fensterscheibe herunterläuft. "Walnut Street" ist ein atemberaubend schönes Stück purer, ungefilterter Nostalgie und Trauer um eine imaginäre Zukunft. Lermans tiefe, dröhnende Baritonstimme erinnert an die düstere, raue Poesie von Leonard Cohen oder Bill Callahan. Titel wie das bewegende "Haydn’s Song" - geschrieben als wunderschönes Andenken an einen verstorbenen Freund - werden dich absolut in ihren Bann ziehen. Es ist unglaublich warm, geisterhaft und der ultimative Mitternachts-Hörgenuss, um den Sinn deiner eigenen Erinnerungen zu hinterfragen.
@@ -970,7 +972,7 @@ Hinter dem Künstlernamen verbirgt sich *Niall Gahagan*, ein Multi-Instrumentali
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Ara - Hohe Tannen
 

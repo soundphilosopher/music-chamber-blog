@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 1986 - Carneveil
 
 tbd
@@ -184,7 +186,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Anna Pest - Dark Arms Reach Skyward With Bone White Fingers II: Be (Not) Afraid
 

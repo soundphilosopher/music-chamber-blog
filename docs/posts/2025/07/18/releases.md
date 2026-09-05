@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Abigail Williams - A Void Within Existence **
 
 Genre: Melodic Black Metal
@@ -706,7 +708,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Aaron Lee Tasjan - Get Over It, Underdog
 

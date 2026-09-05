@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 100 Kilo Herz - Hallo, Startblock
 
 tbd
@@ -736,7 +738,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## As December Falls - Everything's on Fire but I'm Fine
 

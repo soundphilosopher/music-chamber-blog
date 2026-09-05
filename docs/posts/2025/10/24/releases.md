@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## A Year Ago Today - My Dear, Farewell
 
 tbd
@@ -1546,7 +1548,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Alex Kozobolis - Asymmetry
 

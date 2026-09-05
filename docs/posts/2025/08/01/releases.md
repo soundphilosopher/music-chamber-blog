@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## $uicideboy$ - Thy Kingdom Come
 
 tbd
@@ -862,7 +864,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Abrete Gandul - Suciedad Contemporánea
 

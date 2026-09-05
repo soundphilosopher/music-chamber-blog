@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## A Hero To Fall - Riptide
 
 tbd
@@ -154,7 +156,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## A Thousand Allies - Abandoned Messenger
 

@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## //LESS - Crawl in the Blur
 
 tbd
@@ -1162,7 +1164,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Alexey Kruglov & Igor Goldenberg - The Old Castle
 

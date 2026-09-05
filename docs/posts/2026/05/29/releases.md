@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Abrasive Trees - Light Remaining
 
 Das Kernteam der Band besteht aus Matthew Rochford (Gesang/Gitarre), Jay Newton (Gitarre) und Will Tyler (Schlagzeug/Bass). Rochford verfügt über einen namhaften Hintergrund in der Indie-Prog-Szene, da er zuvor im Art-Rock-Kollektiv Silver Moth (zusammen mit Evi Vine) und im Projekt RISE tätig war. Zur Gestaltung ihrer Klanglandschaften wird das Kern-Trio durch eine Reihe spezialisierter Gastmusiker ergänzt, darunter der Cellist Ben Roberts und die Sängerin Yunala Songweaver von Gravity Machine. Eine schwere, melancholische Mischung aus **Dark Post-Punk**, **Post-Rock** und **Alternative Rock**. Ihr architektonischer Entwurf lebt von atmosphärischen, delay-geladenen Gitarren, eindringlichen Drone-Strukturen und einer tiefen, düsteren **Spoken-Word**-Gesangsdynamik. Ästhetisch lassen sich subtile Vergleiche mit dem mitreißenden, dramatischen Tempo von *Swans* und *Crippled Black Phoenix* ziehen. "Light Remaining" wirkt genau so, als würde man in der Dämmerung blind durch einen kalten, nebelverhangenen Friedhof wandern, während eine unsichtbare apokalyptische Rundfunkübertragung über den Horizont hallt. Das Album umgeht den höflichen Glanz des modernen Radios vollständig und bevorzugt stattdessen eine unglaublich geduldige, filmische Meisterklasse in psychologischer Spannung, die gewichtige Themen wie Traumaverarbeitung, existenzielle Isolation und gesellschaftliche Zerrissenheit behandelt. Der Opener "No Solace" schafft eine brillant eindringliche Stimmung, indem er unheilvolle Drone-Loops um intensive Spoken-Word-Poesie wirbeln lässt, bevor Tracks wie "Star Sapphire" in zerklüftete, kantige Post-Punk-Gitarren explodieren. Mit "Tao To Earth" wirft es sogar einen großartigen Überraschungsball, indem es orientalisch angehauchte Gitarrentexturen einsetzt, die wie elektrische Sitaren über einem stampfenden Rhythmus schwirren. Es ist ein befriedigend grauer, atmosphärischer und tief bewegender Klangspielplatz, der speziell für nächtliche Introvertierte geschaffen wurde, die ihr Gehirn zur Ruhe bringen wollen.
@@ -1012,7 +1014,7 @@ Ursprünglich als Klangkunstprojekt der Brüder Zac Burgenbauch (Gitarre) und De
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## '68 - They Are Survived
 

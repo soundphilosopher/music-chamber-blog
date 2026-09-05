@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 44th Move, Alfa Mist, Richard Spaven - Anthem
 
 tbd
@@ -934,7 +936,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Aeons Of Ashes - Currents
 

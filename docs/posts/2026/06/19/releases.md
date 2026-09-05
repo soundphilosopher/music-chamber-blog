@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Adult Magic - Are You Even Happy Now?
 
 Mit Größen der lokalen Punkszene, die in namhaften Bands wie Iron Chic und Crow Bait mitwirken, ist die Band dafür bekannt, unprätentiöse, fuzzgetränkte Hooks zu kreieren. 90er-Jahre-**Slacker-Rock**, melodischer **Punkrock** und **Indie-Rock**. "Are You Even Happy Now?" wirkt wie eine absolute Meisterklasse in lockerem, selbstbewusstem Garage-Swagger und existenzieller Erschöpfung. Mit treibenden, von Gitarren überlagerten Tracks wie "Burned Out" und "Sick Sad World" behandelt das Album Themen wie Beziehungsmüdigkeit, würdevolles Altern, ohne dabei die Zähne zu verlieren, und alltägliche Desillusionierung. Es verbindet knackigen, übersteuerten Röhrenverstärker-Sound mit massiven, eingängigen Mitgröl-Melodien, die Lust machen, die Faust in die Luft zu recken.
@@ -628,7 +630,7 @@ Monkman prägte den Begriff „Moccasin-Gaze“, um eine brillante Verschmelzung
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## ...or Does It Explode? - Realities Disguised as Symbols
 

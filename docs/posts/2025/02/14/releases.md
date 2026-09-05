@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## acloudyskye - This Won't Be The Last Time
 
 tbd
@@ -1078,7 +1080,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## 88:88 - The Exorcism
 

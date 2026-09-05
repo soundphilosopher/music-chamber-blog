@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Acranius - Whiteout
 
 Die deutsche Formation mit ihrem neusten Werk. Gegründet in der Hochzeit des Slams gehen sie ihren Weg weiter. Eine Melange aus Brutal Death Metal und Slamcore, mit wenig Überraschungen oder Grenzüberschreitungen.
@@ -634,7 +636,7 @@ Die Kollaboration zwischen den amerikanischen Producer und Multi-Instrumentalist
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Aukai - Chambers
 

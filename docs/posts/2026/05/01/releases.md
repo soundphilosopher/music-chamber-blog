@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Alberto Giurioli - Leftovers
 
 Ein am Konservatorium ausgebildeter Pianist und Komponist, der durch seine Auftritte an den öffentlichen Klavieren im Bahnhof St. Pancras bekannt wurde. Er ist der jüngste Komponist, der jemals in die Classic FM Hall of Fame aufgenommen wurde. **Zeitgenössische Klassik** und **Easy Listening**. Seine Einflüsse reichen von Metal und Blues bis hin zum klassischen Minimalismus. "Leftovers" ist eine Sammlung zarter, klavierorientierter Stücke, die sich wie festgehaltene Erinnerungen anfühlen. Sie ist sanft, melodisch und filmisch - die Art von Musik, die einen einfachen Morgenspaziergang in eine wunderschön vertonte Filmszene verwandelt.
@@ -1001,7 +1003,7 @@ Die 2023 gegründete Band besteht aus Veteranen der luxemburgischen Metal-Szene 
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## 13Suns - Särge, Erde, Damen & Herren
 

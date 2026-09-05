@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 49th & Main - Happy Tears
 
 tbd
@@ -1096,7 +1098,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Aeon Winds - An Ode To The Mountains
 

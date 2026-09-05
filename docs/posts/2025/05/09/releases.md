@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 98° - Full Circle
 
 tbd
@@ -1126,7 +1128,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## A Flying Fish - Lacrima Occulta
 

@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Bad Beat - EP 2025
 
 tbd
@@ -106,7 +108,7 @@ Die britische Formation mit ihren letzten Klangexperimenten für dieses Jahr. Ge
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Abysmal Grief - Taetra Philosophia
 

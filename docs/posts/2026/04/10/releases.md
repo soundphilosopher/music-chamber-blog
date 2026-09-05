@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Abrams - Loon
 
 Ein kraftvolles Trio, das oft als **Heavy Rock** oder **Sludge**-**Pop** bezeichnet wird. Sie verbinden die massiven, verzerrten Riffs von *Mastodon* mit dem eingängigen, hymnischen Songwriting von *Queens of the Stone Age*. "Loon" ist ein wahres Monster von einem Album. Es ist Mountain Rock, der klingt, als wäre er in den Rocky Mountains geschmiedet worden - rau, weitläufig und unglaublich heavy. Was *Abrams* so besonders macht, ist ihre Fähigkeit, eine radio-taugliche Melodie in einer Wand aus donnerndem Lärm zu verstecken. Es ist das perfekte Album für einen Roadtrip durch die Wüste oder einfach nur, um deine Nachbarn auf die stilvollste Art und Weise zu wecken.
@@ -1006,7 +1008,7 @@ Dies ist ein Saxophonquartett (*~Nois*), wie man es noch nie zuvor gehört hat. 
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Adam J. Bear - Self-titled
 

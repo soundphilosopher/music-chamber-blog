@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 180 Grad - Immer noch...
 
 tbd
@@ -1138,7 +1140,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Aching Hands - The Band Of Thousand Takes
 

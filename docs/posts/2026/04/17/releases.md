@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## A Burial At Sea, Newhvn - Spring Time Blues
 
 A Burial At Sea sind bekannt für ihre laute und bläserlastige Interpretation des Post-Rock; Newhvn ist ein aufstrebender Akteur im Bereich des experimentellen Rocks. **Post-Rock** / **Math-Rock** / **Brass-Rock**. Die Einflüsse reichen von den cineastischen Crescendi von *Mogwai* bis zum energiegeladenen, von Bläsern getragenen Chaos von *The Budos Band*. Lass dich vom Namen nicht täuschen - das ist nicht der Blues deines Großvaters. Es ist eine triumphale Klangwand mit schwebenden Trompeten und krachenden Gitarren. Es klingt wie eine Parade, die das Ende der Welt feiert: laut, chaotisch und seltsam fröhlich.
@@ -1150,7 +1152,7 @@ Ein geheimnisvolles, **atmosphärisches Black-Metal**-Projekt unter der Leitung 
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Anitta - EQUILIBRIVM
 

@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 6deep - Become What You Hate
 
 Die amerikanische Formation mit ihrer neuesten EP. Ein Werk welches Metallic Hardcore als sein Rückenmark verwendet und dabei Metalcore, Deathcore und Nu Metal mit in sein Songwriting einbezieht. Trotz der modernen Funktion, klingen die Kompositionen doch recht frisch, was vermutlich am hohen Anteil von Metallic Hardcore liegt.
@@ -580,7 +582,7 @@ Die Debüt EP der deutsch-amerikanischen Freundschaft. Das Kollektiv fabriziert 
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Brueder Selke - Notation 1
 

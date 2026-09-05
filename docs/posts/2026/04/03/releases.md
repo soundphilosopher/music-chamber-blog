@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 41 - AREA 41
 
 Das amerikanischer Rapper Kollektiv mit seinem Debüt Studio-Longplayer. Eine Mischung aus Brooklyn **Drill**, Jersey Club und melodischem **Hip-Hop**. "AREA 41" - das ist der Sound, der die Straßen von Brooklyn zum Kochen bringt. Die Chemie zwischen den drei Musikern ist elektrisierend: Sie liefern sich einen Schlagabtausch über gläsernen Synth-Teppichen und erderschütternden Bässen. Es ist energiegeladen, kokett und zweifellos aktuell. Wenn der Sound des ersten Albums oben noch ein Aufruhr war, dann ist dieses hier die Party, die direkt danach losgeht.
@@ -694,7 +696,7 @@ Der *Avenged Sevenfold* Gitarrist mit seinem Solo-Full-Length. Es markiert eine 
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Amerikan Kaos - The Sheeple Swing
 

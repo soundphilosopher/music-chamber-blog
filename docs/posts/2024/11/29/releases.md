@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Against I - Songs For The Dying
 
 tbd
@@ -880,7 +882,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## ATMOSPHRS - Wave.04
 

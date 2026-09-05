@@ -7,7 +7,7 @@ repo_name: music-chamber-blog
 repo_url: https://github.com/soundphilosopher/music-chamber-blog
 
 copyright: >
-  Copyright &copy; 2025 - 2026 Carsten Vuellings &mdash;
+  Copyright &copy; 2024 - 2026 Carsten Vuellings &mdash;
   <a href="/music-chamber-blog/privacy-policy/">Privacy Policy</a>
 
 extra_css:
@@ -111,7 +111,6 @@ markdown_extensions:
 
 hooks:
   - scripts/hooks/hide_autogen_pages.py
-  - scripts/hooks/change_toc_for_releases.py
   - scripts/hooks/mark_top_picks.py
   - scripts/hooks/add_bandcamp_player.py
   - scripts/hooks/add_reading_status.py

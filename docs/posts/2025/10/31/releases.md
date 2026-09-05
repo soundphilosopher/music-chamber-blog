@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 408 - Generational 2
 
 tbd
@@ -1606,7 +1608,7 @@ Der britische Producer und Musiker Michael Paradinas aka μ-Ziq mit seiner neues
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## \*Press A\* - Tumult Kollektiv - The Knightling
 

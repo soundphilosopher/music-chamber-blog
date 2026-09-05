@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Accuser Of The Brethren - Justice Through Violence
 
 tbd
@@ -460,7 +462,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Ahya Simone - Neptunian Blue
 

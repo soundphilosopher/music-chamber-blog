@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 16Volt - More Of Less
 
 tbd
@@ -922,7 +924,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Acanthus - Pay For Impressions
 

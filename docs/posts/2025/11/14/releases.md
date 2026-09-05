@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 1914 - Viribus Unitis
 
 tbd
@@ -556,7 +558,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Alejandra Cárdenas - A Body Like a Home
 

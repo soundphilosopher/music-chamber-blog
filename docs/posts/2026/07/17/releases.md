@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Advents - A Bitter Truth You Can't Undo
 
 Als aufstrebende Kraft in der unabhängigen Heavy-Metal-Szene hat diese unnachgiebige Band in den letzten Jahren eine stetige Reihe knallharter Underground-Singles veröffentlicht, bevor sie sich an die Arbeit an ihrem ersten vollständigen Album machte. **Moderner Metalcore** und **Hardcore-Punk**. Mach dich bereit, dich mit Leib und Seele in einen wahren Sturm aus blendender Gitarrenwut zu stürzen. Dieses Album ist eine schlanke, gnadenlose Metalcore-Maschine, die keine Zeit mit langatmigen, atmosphärischen Intros verschwendet, sondern direkt in ein unerbittliches Feuerwerk aus knallharten Breakdown-Riffs und Double-Bass-Salven eintaucht. Über diesen monolithischen Beats schwankt der Gesang anmutig zwischen rohen, kehlenschneidenden Schreien und massiven, hochfliegenden Hooks und bietet so ein intensiv kathartisches Hörerlebnis.
@@ -424,7 +426,7 @@ Diese unerbittliche Band, die sich nach ihrer Debüt-Demo aus dem Jahr 2025 als 
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Accelio - Tales from the East Coast
 

@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Aeveris - Imminence (Act I: Roots)
 
 Die Belgier mit ihrer Sophomore EP. Irgendwo zwischen Melodic Death Metal und Alternative Metal treffen sich die Welten hier. Alles mit nicht zu viel Schrittmaß zum Modern Metal aber mit recht wiederholenden Songwriting, was das Gesamtwerk doch recht langweilig gestaltet, trotz der nur fünf Songs.

@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 9th Wonder - Zion X
 
 tbd
@@ -580,7 +582,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## 3776 - The Birth and Death of the Universe Through Mount Fuji
 

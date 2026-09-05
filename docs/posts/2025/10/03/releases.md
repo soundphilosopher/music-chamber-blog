@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## -ii- - Apostles of the Flesh
 
 tbd
@@ -1444,7 +1446,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## 50 Lions - New Reality
 

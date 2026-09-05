@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Aleph Naught and the Null Set - Five Stages
 
 tbd
@@ -400,7 +402,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## 3rd Ear Experience - The Twilight Sutra
 

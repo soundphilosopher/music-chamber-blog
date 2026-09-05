@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 100 Demons - Embrace The Black Light
 
 Ein legendäres, kraftvolles fünfköpfiges Metalcore-Kollektiv aus Waterbury, Connecticut, USA. Die Mitte der 1990er Jahre gegründete Band hat sich ein wild-chaotisches, kompromissloses Vermächtnis aufgebaut, das von betonharten Breakdowns und roher sozialer Frustration geprägt ist. In der weltweiten Underground-D.I.Y.-Heavy-Szene werden sie für ihre kompromisslose Straßenpräsenz und ihren knallharten Live-Sound allseits verehrt. **Metallic Hardcore**, **Beatdown** und **Crossover Thrash**. Schließt eure zerbrechlichen Haushaltsgegenstände weg und klebt eure Sneakers fest mit Klebeband ab, bevor ihr auf Play drückt, denn diese Platte ist eine absolute akustische Dampfwalze. "Embrace The Black Light" trifft euch wie ein massiver Ziegelstein aus ungefiltertem Punk-Muskelkraft und packt einen verheerenden Sturm aus gnadenlosen, überverzerrten Thrash-Gitarrenriffs, Maschinengewehr-Blastbeats und kehlenschneidenden Brüllen. Textlich ist das Album ein kompromissloser Stinkefinger gegen institutionelle Korruption, Straßenpolitik und das Überleben gegen alle Widrigkeiten. Es ist ein roher, mit Höchstgeschwindigkeit abgefeuerter Schuss reinen Adrenalins, der ausschließlich dafür gemacht ist, dein Schlafzimmer in einen wilden Moshpit zu verwandeln.
@@ -1042,7 +1044,7 @@ Ein donnerndes, äußerst fantasievolles Heavy-Rock-Trio aus Charlottesville, Vi
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Alanna Matty - Epilogue
 

@@ -10,6 +10,8 @@ authors:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Agnes - Beautiful Madness
 
 Die schwedische Pop-Ikone mit ihrem neuesten und damit sechsten Studioalbum in ihrer Karriere. Entstanden ist ein Werk welches EDM, House, Dance und Pop um die Vocals von Agnes verbastelt.

@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## A World Worth Burning - The Sky Was Colored As Hammered Lead
 
 Dieses geheimnisvolle Kollektiv, das tief in der konfrontativen, systemkritischen DIY-Kultur der Underground-Metal-Szene verwurzelt ist, hat sich auf dichte, bergbewegende Klangarchitektur spezialisiert. Die Band setzt strikt auf rohe Banddynamik statt auf überpolierte Computer-Tracks und nimmt live auf Band auf, um die knirschende Reibung übersteuerter Verstärker und einer donnernden, langsam brodelnden Rhythmusgruppe optimal zur Geltung zu bringen. **Sludge Metal**, **Post-Metal**, **Crust Punk** und **Doom Metal**. Zieht eure schweren Kampfstiefel an, räumt die Explosionszone und macht euch bereit für einen regelrechten vulkanischen Ansturm. Das Album wirkt wie ein intensiver Audio-Bulldozer, der den sicheren Radio-Glanz komplett meidet, um einen unnachgiebigen Ansturm aus messerscharfer Gitarrenverzerrung, gnadenlosen Midtempo-Breakdowns und kehlzerreißenden Gesangsschreien zu liefern. Textlich folgt es einer düsteren, postapokalyptischen Erzählung, die der metallische Titel andeutet, während die Musik echte gesellschaftliche Ängste in einen massiven, theatralischen Sturm aus Punk-Aggression verpackt, der deine Ohren mit voller Energie erfüllt.
@@ -892,7 +894,7 @@ Die Band, die aus der Idee der polnischen Multi-Instrumentalisten K. Bartkowiak 
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## 22stain - isolationship
 

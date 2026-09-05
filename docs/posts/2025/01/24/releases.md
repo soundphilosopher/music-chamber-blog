@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Abduction - Existentialismus
 
 tbd
@@ -880,7 +882,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Anitek, TabInStereo - Indigo Immaculate
 

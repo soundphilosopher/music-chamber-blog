@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## A Life Aligned - The Light That Failed To Cease
 
 tbd
@@ -1300,7 +1302,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Alejandro Matos - Incendio
 

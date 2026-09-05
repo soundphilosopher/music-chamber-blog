@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## -(16)- - Guides For The Misguided
 
 tbd
@@ -718,7 +720,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Ange - Entre Actes
 

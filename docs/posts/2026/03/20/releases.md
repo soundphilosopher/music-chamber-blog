@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## A.H.P. - Alltid Imot Deg
 
 Das Sophomore Release der Anti Human Propaganda aus Norwegen. Der Bandname gibt eine Ahnung auf das Spielerische. So wird eine kalte, melodische Symphonie des Black Metal eingespielt, welche weiß von den höllischen Geschwindigkeiten in die atmosphärischen Pausen zu wechseln, ohne dabei corny zu wirken.
@@ -886,7 +888,7 @@ Die neueste EP des amerikanischen Producer, Multi-Instrumentalisten und Sänger 
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Antropoceno - No Ritmo da Terra *
 

@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## (0) - KNÆK.MØRKE.MOD.LYS
 
 tbd
@@ -946,7 +948,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Asad Mecci, Rufus Wainwright - An Exploration of Hypnotic Sound
 

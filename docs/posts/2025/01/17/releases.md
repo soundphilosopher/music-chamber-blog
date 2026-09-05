@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 20/20 - Back To California
 
 tbd
@@ -670,7 +672,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## 13th Ward Social Club, Agent-X - Aprismo
 

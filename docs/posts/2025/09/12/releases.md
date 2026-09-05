@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 4Batz - Still Shinin
 
 tbd
@@ -1342,7 +1344,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Bloc Party - Anatomy of a Brief Romance
 

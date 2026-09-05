@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## (hed)p.e. - New And Improved
 
 tbd
@@ -1168,7 +1170,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## aespa - LEMONADE
 

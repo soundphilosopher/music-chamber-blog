@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 1900Rugrat - Porch 2 the Pent
 
 tbd
@@ -1072,7 +1074,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Agota Zdanavičiūtė - GYVA ČIA
 

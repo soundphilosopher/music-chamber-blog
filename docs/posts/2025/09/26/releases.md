@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 7X3=21, Awkward - Peace Unkept
 
 Der amerikanische DJ, Producer und Rapper Kevin Beacham aka 7X3=21 hier in Kollaboration mit dem amerikanischen DJ Matt Fryer aka Awkward. Fabriziert wird ein Werk des Old-School Hip Hop.
@@ -1564,7 +1566,7 @@ Die deutschen Skatepunker mit ihrem neuesten Release. Ist damit alles geschriebe
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Angels Want to Kill Themselves - Dark City
 

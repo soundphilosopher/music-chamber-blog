@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 6LACK - Love Is The New Gangsta
 
 6LACK, der sich als Teenager in der hart umkämpften Battle-Rap-Underground-Szene von Atlanta seine Sporen verdiente, erlangte mit seinem düsteren, stimmungsvollen Debütalbum "Free 6LACK" aus dem Jahr 2016 und seinem Chartstürmer "East Atlanta Love Letter" aus dem Jahr 2018 weltweiten Superstar-Status. Bekannt als einer der führenden Vertreter der "Sad Boy R&B Bewegung, ist "Love Is The New Gangsta" sein mit Spannung erwartetes viertes offizielles Studioalbum in voller Länge. Das Album ist eindeutig im Bereich von **Alternative R&B**, **atmosphärischem Hip-Hop** und **Neo-Soul** angesiedelt. Sein charakteristischer Stil verbindet auf elegante Weise nächtliche, verlangsamte Trap-Beats und warme, jazzige E-Piano-Akkorde mit einem fließenden Gesang, der nahtlos zwischen samtweichem Crooning und scharfen, melodischen Rap-Kadenzen wechselt. Wenn du schon immer einmal um 3:00 Uhr morgens dein Auto an einem Aussichtspunkt parken, durch eine regennasse Windschutzscheibe auf die Lichter der Stadt hinunterblicken und deine Seele völlig entblößen wolltest, hat 6LACK den perfekten Soundtrack für deine späten Nachtstunden zusammengestellt. "Love Is The New Gangsta" beweist auf brillante Weise, dass das Ablegen der emotionalen Rüstung die ultimative Form der Stärke ist. Das Album behandelt alternativen R&B wie ein luxuriöses, in Zeitlupe ablaufendes Sinneserlebnis. 6LACK legt jeglichen alten, bitteren Zynismus ab und lässt schwere, knochenerschütternde Subbass-Schläge mühelos unter wunderschönen, schimmernden Synthesizer-Teppichen und rauchigen Gitarrenriffs gleiten. Sein zeitloser, hypnotischer Gesang besticht durch eine unglaubliche, gesprächige Wärme, die leise Bettgeständnisse und tiefe Therapiesitzungen in majestätische Hymnen von Stadionformat verwandelt. Es ist ein wunderbar raffiniertes, geschmeidiges und die Seele berührendes Meisterwerk, das dich dazu bringen wird, den Lautstärkeregler bis zum Anschlag aufzudrehen.
@@ -1096,7 +1098,7 @@ Die Bandleaderin Zela Margossian ist eine klassisch ausgebildete Virtuosin. Sie 
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Ako - lovely moments
 

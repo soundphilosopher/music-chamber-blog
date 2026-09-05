@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 30 Denari - Kindly Plotting For Riot
 
 Die 2021 gegründete Band besteht aus erfahrenen Musikern aus der italienischen Metal-Industrial-, Anarchopunk- und New-Wave-Szene. Ihre Debüt-EP "Banco Dei Valori Morali" legte den Grundstein für ihren charakteristischen zynischen Blick auf die moderne Gesellschaft. **Post-Punk**, **Darkwave** und **Electro-Industrial**. Sie lassen sich von Ikonen der 80er Jahre wie *Bauhaus* und *Siouxsie and the Banshees* sowie von modernen Acts wie *NIN* und *Editors* inspirieren. Das ist Erstickungsmusik für die Moderne. Sie kombinieren den kalten, mechanischen Puls einer Drum-Machine mit gezackten Gitarrenklängen, um einen Soundtrack für finanzielle Ängste und sozialen Verfall zu schaffen. Politisch scharfsinnig und klanglich beklemmend - als wäre man in einem Hightech-Aufzug gefangen, in dem langsam der Sauerstoff ausgeht.
@@ -1384,7 +1386,7 @@ ZHU, bekannt für sein "BLACKLIZT"-Konzept, kehrt zu seinen Dancefloor-Wurzeln z
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Akon - Beautiful Day
 

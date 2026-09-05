@@ -10,6 +10,8 @@ authors:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Шумы Штормовых Широт - Мрак русского леса
 
 Die russische Formation (Noises of Stormy Latitudes) mit ihrem neuesten Release (The Gloom of the Russian Forest). Instrumental wird Post-Metal mit ein paar Sprenkel von Sludge, Black Metal und Crust versehen.

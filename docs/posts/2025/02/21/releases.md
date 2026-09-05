@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## A Great Big World - then there were sparks
 
 tbd
@@ -1084,7 +1086,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Ai Yamamoto + Dan West - Microdoses
 

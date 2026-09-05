@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 10,000 Years - Esox Lucifer
 
 Ein mitreißendes Power-Trio, bestehend aus Alex Risberg (Bass/Gesang), Erik Palm (Gitarre) und Alvin Risberg (Schlagzeug). Sie haben sich in der Heavy-Underground-Szene einen hervorragenden internationalen Ruf erarbeitet, indem sie massive Riffs mit Sci-Fi-Flair liefern. **Stoner Metal**, Heavy **Sludge Rock** und atmosphärischer **Post-Metal**. Dieses Album trifft mit der erderschütternden Wucht eines riesigen Raumschiffs, das direkt in einem Sumpf notlandet. Die Band setzt massive, verzerrte Gitarrenklänge und donnernde, urwüchsige Schlagzeugmuster ein, die einen sofort mit dem Kopf nicken lassen. Benannt nach einer dämonischen Abwandlung eines Raubfisches, bietet es eine brillant unterhaltsame, hochoktanige kosmische Metal-Fahrt, die beweist, dass man keine Million Instrumente braucht, um absolut kolossal zu klingen.
@@ -442,7 +444,7 @@ Das 2014 gegründete Quintett, das bereits zweimal für den P3 Gold Award nomini
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Adam Jensen - Hymns For The Damned
 

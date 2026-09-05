@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 21 Savage - What Happened to the Streets?
 
 tbd
@@ -898,7 +900,7 @@ Das Projekt um den amerikanischen Rapper Matthew Cullen mit seinem neuesten Rele
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Aidan Baker, Tim Wyskida, Daron Beck - Trzecia (Drugi) *
 

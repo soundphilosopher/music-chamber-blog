@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Agender - Berserk
 
 tbd
@@ -1264,7 +1266,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Accidentally On Purpose - Mars
 

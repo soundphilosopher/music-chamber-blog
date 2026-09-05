@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## A Forest Of Stars - Stack Overflow In Corpse Pile Interface *
 
 Ein einzigartiges Kollektiv, bekannt für seine Gentleman’s Club Ästhetik. Nach einer langen Pause - in der sie angeblich ein fertiges Album verworfen haben, um von vorne anzufangen - ist dies ihr mit Spannung erwartetes Comeback. Theatralischer **Avantgarde-Metal** und **atmosphärischer Black Metal**. Sie sind bekannt dafür, viktorianische Bildsprache mit blasphemischen Synthesizern und psychedelischer Violine zu vermischen. Der Titel klingt wie ein viktorianischer Albtraum im technischen Support, und die Musik folgt diesem Beispiel. Sie ist komplex, eingängig und völlig aus den Fugen geraten - wie ein nordischer Berserker, der 1890 beschloss, eine Mädchenpension zu besuchen. Mit Songtiteln und Texten, die an verschreibungspflichtige Medikamente und rostige Nägel erinnern, ist es ein brillantes, dissonantes Durcheinander, das irgendwie wunderschöne Brücken mit einer Violine schlägt.
@@ -1192,7 +1194,7 @@ Sie haben ihre Wurzeln in der Underground-Metal-Szene der Appalachen und konzent
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Abuser - Blood Marks
 

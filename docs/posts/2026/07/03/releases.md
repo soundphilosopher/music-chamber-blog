@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## acloudyskye - In a while this will all be gone
 
 Unter einem hoch angesehenen digitalen Künstlernamen hat sich der produktive Toningenieur mit sechs Studioalben und seinem komplexen Klangdesign eine riesige Internet-Kult-Anhängerschaft aufgebaut. **Alternative Electronic**, **Leftfield Bass**, **Glitch** und **Cinematic IDM**. Dieses Projekt wirkt, als würden sich in deinem Gehirn gleichzeitig mehrere wunderschön fragmentierte Browser-Tabs öffnen. Durch die Verschmelzung von schweren, übersteuerten Bass-Drops mit glitchigen digitalen Klicks, schwungvollen akustischen Streichermustern und zerbrechlichen Gesangsebenen nimmt dich das Album mit auf eine intensive sensorische Achterbahnfahrt. Das übergreifende Thema zielt auf die zerbrechliche, vergängliche Natur der Realität, digitale Isolation und den Verfall einer strukturierten Welt ab - und schafft so einen außergewöhnlichen, hyperdetaillierten Zufluchtsort für Kopfhörer.
@@ -334,7 +336,7 @@ Das Trio, das seinen bedeutenden 20-jährigen Meilenstein in der Heavy-Metal-Sze
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Box of Chocolates - Midjourney to Earth *
 

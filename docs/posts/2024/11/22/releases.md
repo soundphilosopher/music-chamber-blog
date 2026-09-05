@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 10,000 Years - All Quiet On The Final Frontier
 
 tbd
@@ -988,7 +990,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Accu§er - Rebirthless
 

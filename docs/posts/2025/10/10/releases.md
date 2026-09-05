@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 40 Below Summer - Untethered
 
 Die New Jersey Nu-Metaller mit neuem Material nach 10 Jahren. Mit ihrer recht aggressiven Art des Nu-Metal, welcher oft die Grenzen zum Metalcore überschreitet, können sie sicherlich weitere Freunde im Genre sichern.
@@ -1486,7 +1488,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Akolyth - Ecstatic Kingdom
 

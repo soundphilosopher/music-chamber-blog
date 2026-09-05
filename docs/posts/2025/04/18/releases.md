@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Adrian Younge - Something About April III
 
 tbd
@@ -712,7 +714,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Animus the Fox - ELECTRIC FANTASY
 

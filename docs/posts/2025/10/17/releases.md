@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 6 Months to Live - FALLING DOWN LIKE AN OMEN
 
 tbd
@@ -1426,7 +1428,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Abhorrent Expanse - Enter The Misanthropocene
 

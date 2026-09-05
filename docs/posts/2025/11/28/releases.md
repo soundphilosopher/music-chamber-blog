@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 1349 - Winter Mass
 
 tbd
@@ -910,7 +912,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Alex Gage's Flagship - You've Got Strong Power, Kid
 

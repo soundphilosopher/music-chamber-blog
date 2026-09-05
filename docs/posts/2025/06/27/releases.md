@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 311 - 90s Throwback EP: Vol 2
 
 tbd
@@ -1168,7 +1170,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## A Multitude of ONE - The Book of Enoch
 

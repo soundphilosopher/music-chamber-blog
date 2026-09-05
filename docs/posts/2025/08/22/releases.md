@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Adrian Sherwood - The Collapse Of Everything
 
 tbd
@@ -1156,7 +1158,7 @@ Die Kollaboration der drei russischen Producer Øneheart, Dean Korso und leadwav
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Colin Masson - The Old Bridge of Awe
 

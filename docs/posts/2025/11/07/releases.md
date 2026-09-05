@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 1900Rugrat - Big Ah Kidz
 
 tbd
@@ -628,7 +630,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Arianuova - Volevo Andare Altrove
 

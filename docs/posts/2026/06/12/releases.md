@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## !mindparade - Neon Gummi Jukebox
 
 Angeführt vom Multi-Instrumentalisten Alex Itschner hat sich diese sich ständig weiterentwickelnde psychedelische Band über ein Jahrzehnt lang eine treue Underground-Anhängerschaft für ihre höchst experimentellen, selbst produzierten Klanglandschaften aufgebaut. **Psych-Pop**, **Neo-Psychedelia**, experimenteller **Art-Rock** und **Dream-Pop**. Dieses Album verhält sich genau wie eine Vintage-Jukebox, die versehentlich in einen riesigen Bottich mit flüssigen Neonbonbons gefallen ist und irgendwie angefangen hat, Musik aus der Zukunft zu spielen. Mit wirbelnden, verzerrten, sonnenverwöhnten Gitarrenlinien, kosmischen Synthesizerwellen und wunderbar vernebelten Gesangsmelodien fungiert es wie ein hyperfarbiger Spielplatz für die Ohren. Tracks wie „Staring At the Sun“ überlagern mitreißende, trippige Rhythmen mit plötzlichen, kunstvollen Tempowechseln, die einen immer wieder überraschen. Es ist wunderbar locker, zutiefst traumhaft und bietet einen grandiosen, luftigen Soundtrack für eine ziellose Fahrt in einen dunstigen Sommerhorizont.
@@ -796,7 +798,7 @@ Die 1968 gegründete Band Yes gehört zur Elite des Progressive Rock. Für diese
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Alessandro Campone - Beyond
 

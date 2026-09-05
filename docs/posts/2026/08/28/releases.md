@@ -1,12 +1,12 @@
 ---
 date: 2026-08-28
-pin: true
-bandcamp: true
 categories:
   - Releases
 ---
 
 # Releases! Releases! Releases!
+
+## Friday
 
 ## A Cold Paradise - A Cold Paradise
 
@@ -798,7 +798,7 @@ Das von Emile van Staden konzipierte und geleitete Projekt basiert auf jahrelang
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Bart - Bobby
 

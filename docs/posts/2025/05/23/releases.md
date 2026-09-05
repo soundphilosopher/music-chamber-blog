@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## (Hed)P.E. - New And Improved
 
 tbd
@@ -1156,7 +1158,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## 6LACK - Love Is The New Gangsta
 

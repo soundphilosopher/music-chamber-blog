@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Aarhus Jazz Orchestra, Michael Bladt - Shapeshifter
 
 tbd
@@ -1318,7 +1320,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## @onefive - More Than Kawaii
 

@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Aaron Summerfield - Summer Circle
 
 Summerfield ist ein hoch angesehener Gitarrist, Komponist und Pädagoge, der seit über einem Jahrzehnt eine feste Größe in der kreativen Musikszene von Denver ist. Er wurde bereits für den Westword Music Award in der Kategorie Bester Jazzkünstler nominiert. **Zeitgenössischer Jazz**, klassische Formen, akustischer **Blues**, Alternative-Rock-Texturen und progressives Jazz-Ensemble-Spiel. Dieses Album wirkt wie eine wunderschöne, musikalische Planetariumsprojektion, die die Zyklen der Natur und existenzielle Wandlungen abbildet. Die Platte fungiert als erzählerischer Liederzyklus, der sich ganz auf die Rituale des Jahreszeitenwechsels konzentriert und den Fluss der Zeit nachzeichnet. Die Instrumentierung verzichtet auf digitale Abkürzungen, um wunderschöne, natürliche Resonanzen hervorzuheben, und kombiniert gewundene Gitarrenmuster und einen klagenden fretless Bass mit subtilem Zusammenspiel von Saxophon und Schlagzeug, um geduldige Zuhörer zu belohnen.
@@ -640,7 +642,7 @@ YAANO hat sich über die üblichen Underground-Dance-Netzwerke einen Namen gemac
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Black Death Cult - Cosmic Vertigo *
 

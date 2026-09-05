@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Abbey Cone - Greener
 
 tbd
@@ -1048,7 +1050,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## A Flock Named Murder - To Drown in Obsidian Tides
 

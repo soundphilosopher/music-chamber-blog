@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Ablaze - Slow Death
 
 Die Debüt EP der portugiesischen Formation. Eine geniale Inszenierung von Mathcore und Post-Hardcore im Gewand der 90er Produktion. Recht geniales und raues Songwriting, welches in der Präsentation der Songs ständig zwischen Hardcore und Mathcore wechselt, ohne stockend zu wirken. Fans von Converge, Botch und Poison The Well können beruhigt ein Ohr lassen.

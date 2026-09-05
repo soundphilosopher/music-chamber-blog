@@ -10,6 +10,8 @@ authors:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## A. Yarmak - Hollow Knight Goes Metal
 
 Der ukrainische Sing & Songwriter, Producer und Gitarrist Alex Yarmak konzentriert sich schon eine Weile auf die Re-Interpretation von Soundtracks in einem Gewand des Metal. So wird hier der Soundtrack zu dem Spiel Hollow Knight in den Sound von Modern-Metal re-interpretiert, welcher auch moderne Spuren von Prog-Metal und Post-Metal enthält.
@@ -139,7 +141,7 @@ Der amerikanische Singer & Songwriter mit seinem neuesten Release. Die 11 Kompos
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## No Te Va Gustar - Florece en el Caos
 

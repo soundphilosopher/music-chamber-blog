@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Alex Cameron - Late to Set
 
 tbd
@@ -790,7 +792,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Anders Bast - The Understated
 

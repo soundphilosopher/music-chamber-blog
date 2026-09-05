@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 0 Stars - World No. 2
 
 Das Sophomore Release des amerikanischen Singer & Songwriter und Multi-Instrumentalisten Mikey Buishas (0 Stars). Ein pures Werk des Indie-Rock und Post-Grunge, mit einer experimentellen Ader.
@@ -1108,7 +1110,7 @@ Die Cousine von Ólafur mit einem neuen Solo-Release nach sicherlich 11 Jahren S
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Arrested Denial - Nirgendwo angekommen
 

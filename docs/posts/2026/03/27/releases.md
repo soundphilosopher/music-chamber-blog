@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## A Moments Notice - Fear & Loathing
 
 Das Debüt der amerikanischen Formation. Modern Metalcore, welches augezeichnet instrumentell begleitet wird aber durch die Produktion in der Sameness des Modern Metalcore untergeht. Am Ende wird hier nichts geliefert, was man nicht in den wöchtlich 100 Modern Metalcore Releases findet. Djent-y Riffing, technische Zwischenspiele, Industrial Symphonien und Breakdowns. Alles wird mit gesichtslosen Gesang "verfeinert".
@@ -1487,7 +1489,7 @@ Die amerikanische Multi-Instrumentalistin und Komponistin mit ihrem neuesten Out
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Aidan Baker - Songs of Waking & Weather *
 

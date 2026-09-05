@@ -1,6 +1,6 @@
 # :material-shield-lock: Privacy Policy
 
-*Last updated: March 10th, 2026*
+Last updated: March 10th, 2026
 
 ## Overview
 

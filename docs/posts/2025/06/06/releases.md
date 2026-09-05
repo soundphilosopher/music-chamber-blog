@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## A-Z - A2Z²
 
 Das kalifornische Prog-Metal-Outfit mit seinem sophomore Release. Die Band um Ray Alder (Fates Warning; Gesang) und Mark Zonder (Ex Fates Warning; Drum) vereinen die Melodien des Erstling mit mehr progressiven Tönen.
@@ -1168,7 +1170,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## 100 Demons - Embrace the Black Light
 

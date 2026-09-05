@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## .idk - BRAVADO INTiMO
 
 tbd
@@ -1186,7 +1188,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Amystery - Chaos Empire Satan
 

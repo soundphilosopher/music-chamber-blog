@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## AGENT LILY - Celestial Delinquent
 
 tbd
@@ -520,7 +522,7 @@ Das Duo, bestehend aus den Künstlern Calum Wilkinson und Guillaume Banet, lernt
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Blodtåke - Epitome Of Solitude
 

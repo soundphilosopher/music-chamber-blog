@@ -10,6 +10,8 @@ authors:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Alice Merton - Visions
 
 Die deutsch-geborene Singer & Songwriterin mit ihrem neuesten Album. Ein Werk des Alt-Pop ist entstanden, welches mit einer stimmlichen Klangfarbe zwischen Soul und Indie angereicht wird.

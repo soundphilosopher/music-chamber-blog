@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 36 - Night Language
 
 Das neueste Release vom britischen Producer Dennis Huddleston aka 36. Ein theatralisch-träumerisches Werk des Ambient, welches analoge Synthesizer in Frequenzen der Nacht verwandelt und ein imaginären Soundtrack der Nachtwanderung widerspiegelt.

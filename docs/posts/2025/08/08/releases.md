@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## A.C.T - Eternal Winter
 
 Die Schwedischen Prog-Rocker mit ihrem neuesten Werk zum mittlerweile 30 Jährigen Bandbestehen. Klassische Prog-Rock Kompositionen werden gekonnt in die Hörwege platziert.
@@ -796,7 +798,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Alio Die - Between the End and the Beginning
 

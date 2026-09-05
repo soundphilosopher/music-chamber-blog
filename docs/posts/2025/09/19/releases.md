@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 20TOKENS - (NO) HARD FEELINGS
 
 tbd
@@ -1396,7 +1398,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## 65daysofstatic - No Man's Sky: Journeys
 

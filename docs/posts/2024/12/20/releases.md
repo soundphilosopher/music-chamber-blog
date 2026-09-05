@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 93MillionMilesFromTheSun - Let Go
 
 tbd
@@ -382,7 +384,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Alio Die - The fairy tale theatre
 

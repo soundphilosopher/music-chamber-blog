@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## !T.O.O.H.! - Po Ovoci Poznáte Je
 
 tbd
@@ -862,7 +864,7 @@ Das norwegische Duo mit seinem neuesten Werk. Post-Grunge, welcher mit Einflüss
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Airbourne - Airbourne
 

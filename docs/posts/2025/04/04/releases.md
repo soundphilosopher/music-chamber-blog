@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## 2hollis - Star
 
 tbd
@@ -1234,7 +1236,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Aeonian Sorrow - From The Shadows
 

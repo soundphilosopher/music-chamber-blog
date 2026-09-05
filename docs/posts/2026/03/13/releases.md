@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## A Cosmic Trail - Third
 
 Nach einer 13 jährigen Release-Pause ist die deutsche Formation wieder am Start mit ihrem "Third" Output in ihrer Discography. Mit der nötigen theatralischen Untermalung wird ein instrumentelles Werk der Progressive Rock entwickelt, welches Elemente aus Post Metal, Post Rock und Cinematic Rock integriert. Im Songwriting wurden ein paar Samples mit in die Kompositionen integriert. Die Produktion ist ein wenig flach und monoton ausgefallen, was dem Gesamtwerk nicht wirklich gut tut.
@@ -766,7 +768,7 @@ Das neueste Studio-Release der russischen Formation. Der Dark Wave lebt in Russl
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Art School Girlfriend - Lean In
 

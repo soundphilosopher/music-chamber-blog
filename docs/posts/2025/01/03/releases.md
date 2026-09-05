@@ -6,6 +6,8 @@ categories:
 
 # Releases! Releases! Releases!
 
+## Friday
+
 ## Acacia Ridge - The Deviant Era
 
 tbd
@@ -214,7 +216,7 @@ tbd
 
 ---
 
-# Earlier the week ...
+## Earlier the week ...
 
 ## Anabasi Road - Ecce Homo
 
