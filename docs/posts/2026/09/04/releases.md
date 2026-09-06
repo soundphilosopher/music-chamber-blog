@@ -216,6 +216,12 @@ Das Projekt des Glasgower Posaunisten und Produzenten Liam Shortall, eine der sp
 
 ::genre::jazz fusion, broken beat, nu jazz, d&b, electronica
 
+### Cthultists - A Great Schism
+
+Ein Projekt, das Cthulhu und Kultgefolgschaft in einem einzigen Wort zusammenzieht und damit von vornherein keinen Zweifel an der Richtung lässt. **Death Doom Metal**, **Sludge** und **Doom**. Zähflüssige Riffs, ein Tempo wie festgefahrenes Öl und Growls, die eher aus einem Schacht als aus einer Kehle zu kommen scheinen. Zündet eine Kerze an und macht euch auf eine lange Andacht gefasst! Das Album nimmt sich für jede Bewegung so viel Zeit, dass man das Gewicht der einzelnen Akkorde regelrecht mitzählen kann — und genau daraus entsteht der Sog. Der Titel deutet auf einen Bruch innerhalb einer Glaubensgemeinschaft hin, und die Musik vollzieht diesen Riss nach: monolithische Passagen, die unvermittelt auseinanderfallen, ehe sie sich zu etwas Größerem und Ungnädigerem wieder zusammenschieben. Zwischen den Tonnen liegen erstaunlich weite, fast hallige Momente, in denen sich der Nebel kurz lichtet, bevor die nächste Woge alles unter sich begräbt. Wer Doom nicht als Stimmung, sondern als Belastungsprobe hört, wird hier ausgesprochen gut bedient.
+
+::genre::death doom metal, sludge metal, doom metal, atmo doom metal
+
 ### Culk - smogstar
 
 Die Wiener Band um Sophie Löw, die deutschsprachigen Post Punk mit einer bemerkenswerten literarischen Schärfe betreibt. **Post Punk**, **Shoegaze** und **Dark Wave**. Hallende Gitarrenwände, monotone Basslinien und ein Gesang, der zwischen Distanz und blanker Wut liegt. Zieht euch etwas Dunkles an und hört genau hin! Das Album verbindet die typische Kälte des Genres mit Texten, die feministische und gesellschaftskritische Positionen ohne Umweg formulieren — direkt, präzise und ohne den Rückzug ins Ungefähre. Musikalisch wächst der Sound in dichte, verschleierte Klangflächen, aus denen sich Löws Stimme wie ein Messer schneidet. Der Titel deutet auf eine verschmutzte, aber immer noch leuchtende Welt hin, und genau so klingt das Album auch: trüb, schön und beunruhigend. Ein starkes, kompromissloses Werk.
