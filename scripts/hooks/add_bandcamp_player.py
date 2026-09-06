@@ -16,7 +16,6 @@ Only pages whose source path ends with ``releases.md`` **and** whose
 front-matter contains ``bandcamp: true`` are processed — regular
 weekly posts are left untouched.
 """
-from curl_cffi import get
 
 import logging
 import time
