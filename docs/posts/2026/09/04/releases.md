@@ -12,9 +12,9 @@ categories:
 
 ### 1-800-Mikey - In Yun
 
-Ein Projekt, das seinen Namen wie eine Servicenummer trägt, die niemand freiwillig wählt. **Slacker Rock**, **Indie Rock** und schlaksiger **Power Pop**. Die Gitarren hängen leicht durch, der Gesang klingt, als käme er aus dem Nebenzimmer, und genau darin liegt der Charme. Zieht die Vorhänge halb zu und lasst den Nachmittag einfach vorbeiziehen! Das Album lebt von diesem herrlich unaufgeregten Wackeln zwischen wachem Songwriting und bewusst schlampiger Ausführung — Refrains, die man erst beim dritten Durchlauf als Ohrwürmer erkennt, weil sie sich vorher wie ein Achselzucken angehört haben. Es gibt keine große Geste, keinen Stadion-Moment, sondern eine warme, staubige Zimmerlautstärke, die einem den ganzen Tag hinterherläuft. Wer Songs mag, die sich nicht wichtig nehmen und trotzdem hängenbleiben, ist hier goldrichtig aufgehoben.
+Das Projekt von Michael Barker, dessen Name auf seinen Job im Callcenter anspielt — das dritte Album und das erste für *Goner Records*. **Garage Punk**, **LoFi** und **Power Pop**. Schneidende, jangelnde Gitarren, kurze Songs und ein Selbstbewusstsein, das keine Verstärkung braucht. Drückt auf Play, in einundzwanzig Minuten ist alles vorbei! Das Album packt zehn Stücke in gut zwanzig Minuten und verschwendet dabei keine Sekunde: Die Hooks sitzen sofort, die Gitarren schneiden statt zu wabern, und der Lo-Fi-Charakter der Aufnahme wirkt nie wie eine Ausrede, sondern wie eine Entscheidung. Songwriterisch ist das ein hörbarer Schritt nach vorn — die Melodien sind schärfer umrissen als früher, ohne dass die Direktheit verloren geht. Zwischen den schnellen Nummern stehen ein, zwei Stücke, in denen kurz durchgeatmet wird. Eine knappe, selbstsichere und ausgesprochen mitreißende Platte. Macht großen Spaß.
 
-::genre::slacker rock, indie rock, power pop, lofi
+::genre::garage punk, lofi, power pop, indie rock
 
 ### 156/Silence - From A Distance
 
@@ -56,9 +56,9 @@ Die Post-Punk-Band aus Vancouver um Jason Corbett, die seit Jahren die Brücke z
 
 ### ADÉLA - PRIMA
 
-Eine Künstlerin, die ihren Namen in Großbuchstaben setzt und offensichtlich keine Lust auf halbe Sachen hat. **Alternative Pop**, **Art Pop** und **Electropop**. Die Produktion arbeitet mit scharfkantigen Synthesizern, verzerrten Vocal-Layern und Beats, die eher stolpern als marschieren. Macht euch bereit für Pop, der die Ellenbogen ausfährt! Das Album stellt eingängige Hooks bewusst neben Klänge, die sich anfühlen wie ein Kratzer auf der Oberfläche — und genau in dieser Reibung entsteht der Reiz. Zwischen kühl arrangierten Passagen brechen immer wieder erstaunlich verletzliche Momente durch, in denen die Stimme nackt im Raum steht, bevor die Maschinerie wieder anspringt. Es ist ein selbstbewusstes, kantiges Stück moderner Popmusik, das lieber ecken will als gefallen, und dabei trotzdem verdammt viele Ohrwürmer produziert.
+Die slowakische Sängerin, die mit *Ain't in LA* als erste Künstlerin ihres Landes in den US-Billboard-Charts landete und nun ihr Debütalbum bei *Capitol* vorlegt. **Pop**, **Electropop** und **R&B**. Glasklare Produktion, große Hooks und eine Stimme, die den Raum mühelos füllt. Macht euch bereit, das ist für die ganz großen Bühnen! Der Titel spielt auf die Primaballerina an, den höchsten erreichbaren Rang — und genau um diesen Ehrgeiz geht es: um Erfolg, um Unsicherheiten, um toxische Beziehungen und um die Frage, wer man dabei eigentlich wird. In elf Stücken und gut einer halben Stunde bleibt kein Platz für Leerlauf, jede Nummer will etwas. Musikalisch bewegt sich das Album zwischen tanzbarem Electropop und zurückgenommenen R&B-Momenten, in denen die Stimme fast allein trägt. Ein selbstbewusstes, erstaunlich kompaktes Debüt. Sehr stark.
 
-::genre::alt pop, art pop, electropop, experimental pop
+::genre::pop, electropop, r&b, alt pop
 
 ### Aenigmatum - Infinitude’s Passage
 
@@ -68,9 +68,9 @@ Die Band aus Portland, Oregon, die Death Metal, Black Metal und Thrash zu einem 
 
 ### Altamira - How To Get Off The Ground
 
-Eine Band, die sich nach der Höhle mit den berühmten Felsmalereien benennt und trotzdem entschieden nach vorne schaut. **Alternative Rock**, **Indie Rock** und **Post Rock**. Aufgetürmte Gitarrenschichten, viel Raum in den Arrangements und Refrains, die sich Zeit nehmen, bevor sie zünden. Nehmt Anlauf, das Album hält, was der Titel verspricht! Die Stücke arbeiten mit langen Anläufen und geduldigem Spannungsaufbau, bis sich die Dynamik irgendwann in einem wunderbar breiten, hallverzierten Ausbruch entlädt. Dazwischen liegen ruhige, fast zerbrechliche Passagen, in denen einzelne Gitarrenfiguren wie Lichtkegel durch den Raum wandern. Thematisch kreist alles um Aufbruch, Schwerkraft und den Moment, in dem man sich entscheidet, es trotzdem zu versuchen. Ein Album mit langem Atem, das seine Belohnung nicht auf den ersten Metern austeilt.
+Ein Projekt aus Chicago, dessen Name aus einem *Steely Dan*-Song stammt und dessen Debütalbum von *Left at London* produziert wurde. **Alternative Rock**, **Indie Rock** und **Art Pop**. Aufgetürmte Gitarrenschichten, viel Raum in den Arrangements und Refrains, die sich Zeit nehmen. Nehmt Anlauf, das Album hält, was der Titel verspricht! Die Stücke arbeiten mit langen Anläufen und geduldigem Spannungsaufbau, bis sich die Dynamik in einem breiten, hallverzierten Ausbruch entlädt. Dazwischen liegen ruhige, fast zerbrechliche Passagen, in denen einzelne Gitarrenfiguren wie Lichtkegel durch den Raum wandern. Dass hier mit Freunden statt mit Berufsroutine gearbeitet wurde, hört man dem Album an: Es klingt gewachsen, nicht abgearbeitet. Thematisch kreist alles um Aufbruch, Schwerkraft und den Moment, in dem man es trotzdem versucht. Ein Debüt mit langem Atem.
 
-::genre::alt rock, indie rock, post rock, shoegaze
+::genre::alt rock, indie rock, art pop, shoegaze
 
 ### Amyl & The Sniffers - Truth Or Consequence
 
@@ -86,9 +86,9 @@ Die deutsche Melodic-Hardcore-Band, die seit Jahren zuverlässig zwischen Wut un
 
 ### Ancient Malice - Worm Tongue
 
-Ein Underground-Projekt, das schon im Namen klarmacht, dass hier nichts Freundliches zu erwarten ist. **Black Metal**, **Death Metal** und rohes **Blackened Doom**. Der Sound bleibt bewusst schmutzig, die Produktion verweigert jeden modernen Hochglanz. Löscht das Licht und stellt euch auf lange Schatten ein! Das Album kriecht mehr, als dass es rennt — schleppende, zähe Riffs schieben sich unter kehligen Vocals hindurch, bevor sich die Musik plötzlich in kurze, gehässige Raserei-Ausbrüche wirft und danach wieder in den Sumpf zurückfällt. Der Titel deutet auf Einflüsterung, Manipulation und Verrat hin, und genau so fühlt sich die Platte auch an: als würde einem jemand sehr ruhig sehr böse Dinge ins Ohr sagen. Für Freunde des ungeschliffenen, atmosphärisch dichten Undergrounds eine lohnende Entdeckung.
+Eine irische Band, die auf dieser fünf Stücke kurzen EP dem Dreck des späten Achtziger-Death-Metal so nah wie möglich kommt. **Death Metal**, **Grindcore** und **Crust Punk**. HM-2-Zerre, Blastbeats, faulig langsame Passagen und plötzliche Grind-Ausbrüche. Dreht auf, hier wird nichts sauber gemacht! Die Aufnahme entstand ohne Klick und ohne nachträgliche Korrekturen, und genau das hört man: Es bleibt roh, lose und unmittelbar, ganz aus der DIY-Welt der alten Demokultur heraus. Thematisch geht es um Morbidität, Depression, Psychedelika und Okkultismus der linken Hand, vorgetragen ohne jede Ironie. Musikalisch liegt die Verwandtschaft zu *Napalm Death*, *Repulsion*, frühen *Entombed* und *Terrorizer* offen zutage, ohne dass es je nach bloßer Kopie klingt. Fünf Stücke, kein Gramm Fett. Ein hässliches, ausgesprochen wirkungsvolles Ding.
 
-::genre::black metal, blackened death metal, doom metal, raw black metal
+::genre::death metal, grindcore, crust punk, osdm
 
 ### Angus & Julia Stone - Karaoke Bar
 
@@ -122,9 +122,9 @@ Die mexikanische Instrumentalband, die seit Jahren mit Masken auftritt und ihre 
 
 ### AV Sunset - Vs Reality
 
-Ein Projekt, das schon im Namen die Dämmerung mit dem Bildschirmflimmern kurzschließt. **Synth Wave**, **Dream Pop** und **Ambient Pop**. Warme Analog-Pads, verhallte Gitarren und Drum-Machines, die eher schweben als treiben. Fahrt nachts los und lasst die Straßenlaternen vorbeiziehen! Das Album stellt die künstliche Schönheit der Klangwelt bewusst gegen die Härte des Titels und gewinnt genau dadurch seine melancholische Kraft. Die Stücke bauen sich in langsamen Schleifen auf, in denen einzelne Melodiefragmente immer wieder auftauchen, bis sie sich wie Erinnerungen anfühlen. Der Gesang, wo er vorkommt, liegt tief im Mix und wirkt wie eine Stimme hinter Glas. Es ist ein wunderschön entrückter Rückzugsort für alle, die den Ausgang aus der Wirklichkeit lieber als Sonnenuntergang denn als Tür nehmen.
+Ein britisches Instrumentalquartett, das auf seinem zweiten Album erstmals komplett zu viert geschrieben und aufgenommen hat. **Post Rock**, **Instrumental** und **Progressive Rock**. Träumerische Texturen, monolithische Riffs und melodische Haken, die trotz fehlendem Gesang hängenbleiben. Kopfhörer auf, jedes Stück ist eine eigene Welt! Das Album kreist um Wahrnehmung und Wirklichkeit und legt jedes Stück als abgeschlossenen Raum an, durch den Gitarren- und Synthlandschaften eine klare Erzählrichtung ziehen. Zwischen den weiten, fast schwebenden Passagen brechen unvermittelt schwere Riffs herein, und gerade dieser Wechsel hält die knapp gehaltene Spielzeit über die Distanz spannend. Die Produktion lässt viel Raum, ohne dass die Wucht verloren geht. Wer instrumentale Musik mit klarer Dramaturgie statt bloßer Atmosphäre sucht, ist hier goldrichtig. Ausgezeichnet gemacht.
 
-::genre::synth wave, dreampop, ambient pop, chillwave, new retro wave
+::genre::post rock, instrumental, prog rock, math rock
 
 ### Bayonne - Filters
 
@@ -168,23 +168,23 @@ Die kanadische Rockband um Taylor Perkins, die seit Jahren zuverlässig große, 
 
 ::genre::alt rock, hard rock, post grunge, arena rock
 
-### Bloodshed - Punishments Beyond Compreh
+### Bloodshed - Punishments Beyond Comprehension
 
-Ein Death-Metal-Projekt, dessen Albumtitel offenbar mitten im Wort abgebrochen wurde, was die Sache nur noch bedrohlicher macht. **Brutal Death Metal**, **Old School Death Metal** und **Grindcore**. Rasende Blastbeats, ein Bass, der wie ein Presslufthammer arbeitet, und Vocals aus dem Erdinneren. Haltet euch fest, hier wird nichts erklärt! Das Album verzichtet auf jede Form von Aufwärmphase und geht sofort mit voller Geschwindigkeit los, unterbrochen nur von gelegentlichen Midtempo-Passagen, die eher wie Anlauf als wie Erholung wirken. Die Produktion bleibt roh und kellerig, was den Stücken eine bedrohliche Unmittelbarkeit gibt, die eine glattgeschliffene Aufnahme sofort zerstören würde. Thematisch geht es um Strafe in Dimensionen, die sich der Vorstellung entziehen. Kompromisslos, kurz, brutal — genau wie es sein soll.
+Eine Hardcore-Band aus Los Angeles, die auf dieser EP bei *DAZE* konsequent in den Neunzigern gräbt. **Metallic Hardcore**, **Hardcore Punk** und **Beatdown**. Aggressive Riffs, unnachgiebiges Tempo und Vocals, die eher drohen als singen. Macht die Mitte frei, hier wird nichts verhandelt! Die Platte steht offen in der Tradition von *Integrity*, *Ringworm* und *In Cold Blood* — roh, metallisch und ohne jedes Interesse an moderner Politur. Die Stücke sind kurz, hart geschnitten und halten den Druck über die gesamte Länge, ohne dass sich Gleichförmigkeit einstellt. *Limits of Tolerance* holt sich Alex Barragan von *Leave No Doubt* dazu und gehört zu den stärksten Momenten. Am Ende hängen noch vier Bonusstücke — neu abgemischte Fassungen des 2025er Demos und ein Split-Beitrag — die den Bogen zur eigenen kurzen Vorgeschichte schlagen. Kompakt, wütend und hervorragend sitzend.
 
-::genre::brutal death metal, osdm, grindcore, death metal
+::genre::metallic hardcore, hardcore punk, beatdown
 
 ### Bootes Void - Panta Rhei
 
-Ein Projekt, benannt nach dem größten bekannten Leerraum im Universum, mit einem Album, das nach Heraklits „alles fließt“ heißt. **Drone**, **Dark Ambient** und **Post Metal**. Endlose Klangflächen, tiefe Schwingungen und Strukturen, die sich mehr verschieben als entwickeln. Setzt gute Kopfhörer auf, sonst entgeht euch die Hälfte! Das Album arbeitet fast ausschließlich mit Geduld: Töne stehen minutenlang im Raum, verändern kaum merklich ihre Farbe, und plötzlich merkt man, dass man längst woanders ist als beim Einsetzen. Wo Gitarren auftauchen, sind sie so weit verfremdet, dass sie eher als geologisches Ereignis denn als Instrument durchgehen. Der philosophische Titel passt perfekt — hier gibt es keinen festen Punkt, an dem man sich festhalten kann. Ein forderndes, meditatives Werk für Hörer mit Ausdauer.
+Eine fränkische Black-Metal-Band, die auf ihrem dritten Album bei *Vendetta Records* das Prinzip des ewigen Wandels verhandelt. **Black Metal**, **Atmospheric Black Metal** und **Post Black Metal**. Weite Tremolo-Flächen, gekeuchte Vocals und Strukturen, die eher fließen als sich fügen. Lasst euch treiben, alles fließt ohnehin! Der Titel greift Heraklits *panta rhei* auf, allerdings ohne den philosophischen Ernstfall zu beanspruchen — das Zitat war Anstoß, nicht Programm, und das Album ist klug genug, das nicht zu überhöhen. Acht Stücke von *Crown Of Vermin* bis *Requiem* ziehen einen Bogen vom Verfall bis zum Abgesang, mit der Band *Ellende* als Gast im Titelstück. Zwischen den rasenden Passagen stehen weite, fast stehende Abschnitte, in denen sich der ganze Raum verschiebt. Ein dichtes, atmosphärisch starkes Album mit langem Nachhall. Sehr gelungen.
 
-::genre::drone, dark ambient, post metal, experimental, ambient
+::genre::black metal, atmo black metal, post black metal
 
 ### Calabria - Nostalgia Baladí
 
-Ein Projekt mit italienischem Bandnamen und einem spanischen Albumtitel, der sich in etwa als „billige Nostalgie“ lesen lässt — Selbstironie inklusive. **Indie Pop**, **Dream Pop** und **Bedroom Pop**. Warme Gitarrenlinien, weiche Synthesizer und ein Gesang, der eher flüstert als vorträgt. Macht es euch bequem, hier drängelt niemand! Das Album lebt von einer sonnenverblichenen Melancholie, die nie in Kitsch abrutscht, weil die Arrangements erfrischend schlank bleiben. Zwischen den verträumten Passagen blitzen immer wieder erstaunlich schnittige Melodien auf, die dem Ganzen Bewegung geben. Thematisch geht es um das Sehnen nach etwas, das vielleicht nie so schön war, wie man es erinnert — und um die Erkenntnis, dass das völlig in Ordnung ist. Ein zärtliches, unaufdringliches Album mit erstaunlicher Halbwertszeit.
+Eine neue spanische Formation aus Mitgliedern von *Hoy Es Siempre Todavía*, *Svdestada* und *Docka Pussel*, die ihr Debüt als bewusste Zeitreise anlegt. **Nu Gaze**, **Shoegaze** und **Nu Metal**. Wattierte Gitarrenwände über den Grooves der frühen Zweitausender. Kramt die alten Platten raus, hier ist alles wieder da! Die Band nennt ihre Mischung selbst *nu gaze*, und das trifft es genau: die emotionale Dichte des Shoegaze trifft auf die melodische Wucht des Nu Metal, ohne dass daraus ein Witz auf Kosten der Vorlage wird. Es geht darum, wie eine ganze Generation Musik in jenen Jahren entdeckt und gelebt hat — und die Platte behandelt das mit erkennbarer Zuneigung statt mit Ironie. *Veneno* gibt als erste Single den Ton vor. Nostalgisch, aber nicht darin gefangen. Ein überraschend frisches Debüt.
 
-::genre::indie pop, dreampop, bedroom pop, indie folk
+::genre::nu gaze, shoegaze, nu metal, alt metal
 
 ### Calico Kit - It's Alive!
 
@@ -194,15 +194,15 @@ Ein Projekt, das seinen Albumtitel mit Ausrufezeichen versieht und offenbar gera
 
 ### Castle Mountain Moon - A Layman's Guide to Unobtainium *
 
-Ein Projekt mit einem Bandnamen wie eine Postkarte und einem Albumtitel wie ein Ingenieurswitz. **Progressive Rock**, **Space Rock** und **Psychedelic Rock**. Lange Instrumentalpassagen, wandernde Synthesizer und Gitarren, die gerne mal die Umlaufbahn verlassen. Klappt den Sitz zurück, der Flug dauert eine Weile! Das Album nimmt sich viel Zeit für seine Erzählungen und breitet die Stücke in mehreren Abschnitten aus, die sich ineinanderschieben, statt einfach aufeinanderzufolgen. Zwischen den kosmischen Ausflügen finden sich erdige Rock-Passagen, die verhindern, dass alles im Weltraum verdampft. Der Titel spielt mit der Vorstellung, das Unerreichbare für Laien zu erklären, und genau diese augenzwinkernde Ernsthaftigkeit zieht sich durch die ganze Platte. Ein üppiges, verspieltes Album für Freunde des langen Atems.
+Ein Duo aus Köln — zwei Softwareentwickler, die zu Musikern wurden — mit dem Nachfolger ihres gefeierten Debüts *Six Tales of Perception*. **Symphonic Progressive Rock**, **Crossover Prog** und **Art Rock**. Orchestrale Arrangements, ungerade Taktarten und eine Erzählfreude, die den ganzen Bogen trägt. Nehmt euch eine Stunde, das lohnt sich! Das Album kreist um das Unsichtbare: um Karten, die ebenso führen wie lügen, und um Dinge, die begrifflich erst existieren, solange man sie nicht hat. Elf Stücke zwischen vier und zehn Minuten füllen gut eine Stunde, ohne dass sich Länge einstellt — die Band verdichtet die Komplexität des Prog auf ein erstaunlich zugängliches Format, ohne dabei etwas zu verschenken. Zwischen den großen Passagen stehen ruhige, atmosphärische Abschnitte mit viel Raum. Ein sorgfältig gebautes, sehr überzeugendes Album.
 
-::genre::prog rock, space rock, psych rock, krautrock
+::genre::symphonic prog rock, prog rock, art rock, neo prog
 
 ### Charnal Spirit - Blood Prophecy
 
-Ein Untergrund-Projekt, das sich mit Schreibfehler und Blutprophezeiung ganz bewusst in die alte Schule einreiht. **Old School Death Metal**, **Blackened Death Metal** und **Thrash Metal**. Rohe Riffs, dumpfe Produktion und ein Grabesgesang, der aus dem Nebenraum zu kommen scheint. Holt das verstaubte Tape-Deck raus, das hier gehört da rein! Das Album verweigert konsequent jeden modernen Studioglanz und setzt stattdessen auf die schmutzige Direktheit der späten Achtziger — kurze Songs, viel Tempo, gelegentliche Doom-Passagen, in denen alles zäh wird. Die Leadgitarren winden sich in wilden, kaum kontrollierten Läufen durch die Stücke, was dem Ganzen eine angenehm gefährliche Unberechenbarkeit gibt. Thematisch bewegt sich alles im vertrauten okkulten Terrain. Nichts Neues, aber mit echter Hingabe gemacht.
+Eine australische Band, die ihr Debütdemo bei *Amor Fati Productions* veröffentlicht — drei Stücke, mehr braucht es nicht. **Black Metal**, **Atmospheric Black Metal** und **Doom Metal**. Bösartige Riffs, verwehte Melodien und ein Kriechtempo, das sich Zeit lässt. Zündet nichts an, es ist dunkel genug! Das Demo entwirft einen Black Metal, der ganz auf Finsternis, Atmosphäre und grimmige Offenbarung setzt, statt auf reines Tempo. *Poisoned Absolution*, *Aperature Through Eradication* und *Fossilised Sepulchre* wechseln zwischen rasenden Passagen und schleppenden Doom-Abschnitten, in denen sich die Bedrohung erst richtig aufbaut. Bei aller Rohheit ist die Anlage erstaunlich durchdacht — nichts wirkt zufällig, auch nicht die Momente, in denen die Musik fast stehen bleibt. Ein starker, kompromissloser Einstand, der neugierig auf mehr macht. Sehr vielversprechend.
 
-::genre::osdm, blackened death metal, thrash metal, death metal
+::genre::black metal, atmo black metal, doom metal
 
 ### Chat Pile - Who Loves the Sun
 
@@ -230,21 +230,21 @@ Die Wiener Band um Sophie Löw, die deutschsprachigen Post Punk mit einer bemerk
 
 ### Cyst - ᲘᲘ
 
-Ein Projekt, das seinen Albumtitel in georgischen Schriftzeichen setzt und damit von vornherein jede bequeme Einordnung verweigert. **Death Metal**, **Sludge Metal** und **Doom**. Schwerfällige Riffs, unangenehme Dissonanzen und eine Produktion, die alles zu dicht klingen lässt. Atmet noch mal tief durch, danach wird es eng! Das Album arbeitet mit einer klaustrophobischen Grundstimmung, in der selbst die schnelleren Passagen sich nicht wie Befreiung anfühlen, sondern wie Panik. Zwischen den zermahlenden Abschnitten öffnen sich kurze, seltsam stille Momente, die noch bedrohlicher wirken als der Lärm davor. Die Vocals bleiben ein unartikuliertes Röcheln, das jeden Textbezug verweigert. Es ist ein sperriges, unfreundliches Album, das seine Wirkung genau daraus zieht, dass es dem Hörer nirgendwo entgegenkommt.
+Ein neues Projekt der britischen Künstler *Iglooghost* und *daisy\**, deren Albumtitel in georgischen Zeichen gesetzt ist und schlicht „Rabbit“ gesprochen wird. **Outsider HipHop**, **Experimental** und **Electronica**. Verschobene Beats, verfremdete Stimmen und eine Produktion, die ständig woanders hinzeigt. Lasst die Erwartungen draußen, hier gilt anderes! Wer die beiden aus ihrer hyperkinetischen Elektronik kennt, findet sie hier in einer ganz anderen, hinterhältig schleichenden Ecke wieder: Das Album besetzt eine schmale Nische am Rand des HipHop, in der Rhythmus und Sprache zwar da sind, aber nie das tun, was man erwartet. Die Stücke bleiben kurz und verwinkelt, mit Sounds, die eher hineinstolpern als einsetzen. Es ist verspielt, unangenehm und ausgesprochen eigenwillig — und genau das macht es interessant. Ein Album, das sich jeder bequemen Einordnung entzieht.
 
-::genre::death metal, sludge metal, doom metal, dissonant death metal
+::genre::experimental hip hop, electronica, experimental
 
 ### Davinport - The Great Awakening *
 
-Ein Projekt, dessen Albumtitel eine Formulierung aufgreift, die sowohl religiös als auch verschwörungsideologisch aufgeladen ist — und das ist sicher kein Zufall. **Progressive Rock**, **Alternative Rock** und **Art Rock**. Verschachtelte Arrangements, wechselnde Taktarten und ein Sinn für dramatische Aufbauten. Setzt euch hin, das braucht eure Aufmerksamkeit! Das Album entfaltet sich in mehreren Ebenen: eingängige Melodien liegen über Strukturen, die deutlich verwinkelter sind, als sie zunächst wirken. Die Gitarrenarbeit wechselt zwischen filigranen, fast jazzigen Linien und massiven, verzerrten Passagen, die den Boden wegziehen. Thematisch geht es um Erwachen, Erkenntnis und die Frage, wer eigentlich definiert, was Wahrheit ist. Ein anspruchsvolles, aber zugängliches Album, das mit jedem Durchgang mehr preisgibt.
+Das Soloprojekt von Dave Johnson, dessen Wurzeln im Nordosten Englands liegen, mit Jahren in Los Angeles und dem Licht der portugiesischen Küste im Gepäck. **Progressive Rock**, **Art Rock** und **Instrumental**. Geschichtete Saiteninstrumente, warme Keyboards und atmosphärische Weite. Setzt euch hin, das entfaltet sich langsam! Das Debütalbum stellt fünf Instrumentalstücke fünf gesungenen gegenüber, und diese Balance ist erkennbar Konzept statt Zufall — die instrumentalen Passagen tragen die Stimmung, die Songs den Faden. Thematisch geht es um Rückbesinnung, Veränderung und darum, in einer neuen Umgebung wieder Halt zu finden. Musikalisch bewegt sich das Ganze zwischen epischen Klanglandschaften und melodischem Pop, ohne dass eine Seite die andere verdrängt. Alles geschrieben, eingespielt und produziert von einer Person, und man hört ihm diese Geschlossenheit an. Ein warmes, sorgfältiges Debüt.
 
-::genre::prog rock, alt rock, art rock, psych rock
+::genre::prog rock, art rock, instrumental, alt rock
 
 ### Demonic Manifestation - Grimshrine
 
-Ein Untergrund-Projekt, das mit Namen und Titel jede Frage nach der Stilrichtung im Vorfeld beantwortet. **Black Metal**, **Blackened Death Metal** und **Raw Black Metal**. Eisige Tremolo-Gitarren, rasende Drums und ein Kreischgesang, der aus großer Tiefe kommt. Löscht die Kerzen, hier wird es dunkel genug! Das Album bleibt seiner rohen Ästhetik konsequent treu: die Produktion ist absichtlich kalt und schmutzig, die Riffs sind repetitiv genug, um hypnotisch zu wirken, und die gelegentlichen Ambient-Zwischenspiele geben dem Ganzen eine gruftige Erhabenheit. Thematisch bewegt sich alles im vertrauten Terrain aus Schreinen, Dämonen und rituellem Verfall. Wer Black Metal im ursprünglichen, unpolierten Sinn sucht, findet hier ein solides, atmosphärisch stimmiges Stück Untergrund ohne jedes Zugeständnis an moderne Hörgewohnheiten.
+Eine mexikanische Band aus Colima, die nach fast einem Jahrzehnt Pause und als neu formiertes Power-Trio ihr drittes Album bei *Personal Records* vorlegt. **Old School Death Metal** und **Death Metal**. Sägende Riffs, gutturale Vocals und eine Produktion, die klingt, als hätte man sie 1992 vergessen. Legt auf und rechnet mit nichts Modernem! Das Album trägt seine Vorbilder offen: *Dismember*, *Grave*, *Entombed*, *Unleashed* und *Pestilence* stehen hörbar Pate, ohne dass daraus bloße Nachahmung wird — dafür ist die Atmosphäre zu eigen, dunkler und dekadenter als bei den Genannten. Neun Stücke von *Cult Of Dominion* bis *The Evil Lurks* ziehen das konsequent durch, mit genug Tempowechseln, dass nichts ermüdet. Dass hier neun Jahre Abstand liegen, hört man dem Album nicht an. Ein ehrliches, sehr gut sitzendes Stück Death Metal alter Schule.
 
-::genre::raw black metal, black metal, blackened death metal, atmo black metal
+::genre::osdm, death metal
 
 ### Devil Master - Bloody Dreams
 
@@ -254,15 +254,9 @@ Die Band aus Philadelphia, die okkulten Black Metal mit Death Rock und Punk zu e
 
 ### Diary - Spiral Bound
 
-Ein Projekt, das mit Bandnamen und Albumtitel konsequent im Bild des Notizbuchs bleibt — persönlich, unfertig, mit Eselsohren. **Emo**, **Indie Rock** und **Midwest Emo**. Verschlungene Gitarrenfiguren, brüchiger Gesang und Dynamikwechsel, die aus dem Bauch kommen. Schlagt es auf, hier steht mehr drin, als man denkt! Das Album folgt der schönen Tradition, große Gefühle in kleinen, sehr konkreten Beobachtungen zu verstecken — Zimmerdecken, Autofahrten, Telefonate, die nicht stattgefunden haben. Musikalisch bewegt es sich zwischen zart gezupften Passagen und Ausbrüchen, in denen der Gesang endgültig die Kontrolle verliert. Die Produktion lässt genug Rauheit stehen, um alles glaubwürdig zu halten. Es ist herzlich, ungeschützt und trifft genau dort, wo man es nicht erwartet hat. Ein sehr ehrliches kleines Album.
+Ein Fünfer aus New York, dessen Debütalbum bei *Kanine Records* erscheint und Madchester-Grooves mit einer Wand aus Shoegaze verrührt. **Indie Rock**, **Dreampop** und **Shoegaze**. Jangelnde Gitarren, wattierte Flächen und ein Groove, der weiter nach vorne schiebt, als der Nebel vermuten lässt. Macht das Licht aus, aber bleibt in Bewegung! Das Album verbindet die Liebe zu Sechziger-Psychedelik und klingelndem Gitarrenpop mit dem Druck der frühen Neunziger — es klingt gleichzeitig verträumt und erstaunlich tanzbar. Zehn Stücke von *Keep Comin' Up* bis *Asterisk* halten diesen Ton konsequent durch, ohne dass sich Gleichförmigkeit einstellt: Immer wenn der Nebel zu dicht wird, schneidet eine helle Gitarrenfigur hindurch. Zwischen den treibenden Nummern stehen zwei zurückgenommene Momente. Ein bemerkenswert selbstsicheres Debüt. Sehr schön.
 
-::genre::indie rock, midwest emo, math rock
-
-### Doomcrusher - Forsaker
-
-Ein Projekt, das schon im Namen ankündigt, dass hier selbst dem Doom noch etwas entgegengesetzt wird. **Stoner Metal**, **Doom Metal** und **Sludge**. Fette, tiefergestimmte Riffs, wummernder Bass und ein Tempo, das sich Zeit lässt. Stellt die Boxen auf den Boden, damit ihr es auch spürt! Das Album baut auf massive Wiederholung: einzelne Riffs werden so lange ausgewalzt, bis sie sich in den Schädel gefräst haben, unterbrochen von gelegentlichen Beschleunigungen, die wie ein plötzlicher Adrenalinstoß wirken. Der Gesang bleibt roh und ungeschliffen, mehr Brüllen aus dem Nebenraum als klassische Darbietung. Thematisch geht es um Verlassenwerden und Verlassen, um Isolation und den Trotz, der daraus erwächst. Nichts an dieser Platte ist subtil, und genau darin liegt ihre Qualität. Wunderbar schwerfällig.
-
-::genre::stoner metal, doom metal, sludge metal, heavy rock
+::genre::indie rock, dreampop, shoegaze, jangle pop
 
 ### Dorena - Kvar
 
@@ -272,9 +266,9 @@ Das schwedische Post-Rock-Ensemble, das seit Jahren zu den zuverlässigsten Vert
 
 ### Eliminators - E.F.F.E.
 
-Ein Projekt, das seinen Albumtitel in Initialen versteckt und damit von Anfang an ein bisschen Rätsel spielt. **Hardcore Punk**, **Crossover Thrash** und **D-Beat**. Kurze Stücke, hohes Tempo und Riffs, die auf das Nötigste eingedampft sind. Anlauf nehmen und rein in den Pit! Das Album hält sich nicht mit Einleitungen auf, sondern liefert eine Serie kompakter Attacken, die gerade lang genug sind, um zu wirken, und kurz genug, um nie zu ermüden. Zwischen den Hardcore-Passagen blitzen thrashige Gitarrensoli auf, die dem Ganzen einen metallischen Biss geben. Die Produktion bleibt trocken und direkt, ohne Effekthascherei. Es ist Musik, die keinen tieferen Sinn behauptet, als eine Menschenmenge in Bewegung zu setzen, und genau diese Aufgabe erledigt sie mit bemerkenswerter Effizienz. Kurz, laut, gut.
+Eine Band, die ihr Debütalbum bei *Rebirth* in zehn Stücken und siebzehn Minuten erledigt — mehr Zeit braucht es offenbar nicht. **Hardcore Punk**, **Oi** und **Punk Rock**. Schnell, gemein und direkt auf den Punkt, mit Refrains, die den ganzen Raum zum Mitsingen zwingen wollen. Kein Bier abstellen, es ist gleich vorbei! Nach den bisherigen EPs klingt hier alles schärfer und aufgeräumter, ohne dass die Grobheit verloren geht — die Songs sind eingängiger geworden, aber keineswegs zahmer. Der Oi-Einschlag gibt dem Ganzen einen Zug ins Hymnische, der im Hardcore selten so gut funktioniert. Es gibt keine Zwischenspiele, keine Atempausen und keinen einzigen Moment, in dem die Platte sich selbst wichtig nimmt. Kurz, laut und ausgesprochen befriedigend. Genau so soll ein Debüt klingen.
 
-::genre::hardcore punk, crossover thrash, d-beat, punk rock
+::genre::hardcore punk, oi, punk rock
 
 ### Farin Urlaub - Ein Lächeln im Gesicht
 
@@ -314,15 +308,15 @@ Die russische Band aus Perm, die seit Jahren Krautrock, Shoegaze und Elektronik 
 
 ### Godslut - The Art of Deconstruction
 
-Ein Projekt, das mit diesem Namen offensichtlich nicht auf Radioeinsätze schielt. **Blackened Thrash**, **Death Metal** und **Crust Punk**. Rasende Riffs, ein Gesang wie Schmirgelpapier und eine Produktion, die den Dreck bewusst stehen lässt. Steckt die guten Absichten weg, hier wird abgerissen! Das Album macht seinen Titel zum Programm und demontiert genüsslich alles, was ihm heilig sein könnte — musikalisch wie thematisch. Die Stücke bleiben kurz und ungeduldig, wechseln zwischen thrashiger Raserei und stampfenden Midtempo-Passagen, in denen sich die Wut kurz sammelt, bevor sie wieder losbricht. Die Gitarrensoli sind roh, fast schlampig, und genau dadurch glaubwürdig. Es ist keine Musik, die um Zustimmung bittet, sondern eine, die einen einfach überrollt. Kompromisslos, wütend und angenehm frei von Kalkül.
+Eine polnische Band, die seit 2021 technischen Thrash und Death Metal verbindet und ihr zweites Album bei *Selfmadegod Records* vorlegt. **Technical Death Metal**, **Thrash Metal** und **Death Metal**. Rasante Riffs, chirurgische Präzision und ein Spielniveau, das an Angeberei grenzt. Kopf runter, hier wird nicht gewartet! Acht Stücke von *Scent* bis zum Titeltrack liefern einen Angriff, der weniger auf rohe Gewalt als auf Genauigkeit setzt — die Riffs sind verwinkelt, aber immer nachvollziehbar, und das Schlagzeug hält das Ganze mit bemerkenswerter Konsequenz zusammen. Innerhalb der polnischen Szene hat sich die Band in kurzer Zeit einen Namen gemacht, und man hört dem Album an, warum. Zwischen den schnellen Passagen stehen ein paar schwere, marschierende Abschnitte, die Luft verschaffen. Technisch beeindruckend und trotzdem mitreißend. Sehr stark.
 
-::genre::blackened thrash, death metal, crust punk, d-beat
+::genre::tech death metal, thrash metal, death metal
 
 ### Great Escapes - Vice Versa
 
-Ein Projekt, dessen Name nach Flucht klingt und dessen Albumtitel andeutet, dass es auch andersherum geht. **Indie Rock**, **Post Punk** und **New Wave**. Klare Gitarrenlinien, treibende Rhythmen und Melodien mit einem kühlen, achtziger-affinen Unterton. Zieht los, bevor es sich anders überlegt! Das Album verbindet die Nervosität des Post Punk mit einer melodischen Großzügigkeit, die eher aus dem klassischen New Wave stammt — angespannt und eingängig zugleich. Die Songs bleiben schlank, die Arrangements verzichten auf jede Überladung, und der Gesang hält eine angenehme Distanz zum Geschehen. Thematisch geht es um Umkehrungen, um Rollentausch und um Situationen, die sich plötzlich gegen einen wenden. Ein kompaktes, gut sitzendes Album, das mit erstaunlich sparsamen Mitteln viel Wirkung erzielt.
+Eine Emo-Punk-Band aus Münster, die sich für ihr drittes Album fünf Jahre Zeit gelassen hat. **Emo**, **Punk Rock** und **Midwest Emo**. Scharfe Gitarren, treibendes Schlagzeug und ein Wechsel aus Sprechgesang, Singen und offenen Ausbrüchen. Springt mit, es geht ums Erwachsenwerden! Das Album erzählt weniger von jugendlichem Überschwang als von den Widersprüchen, die danach kommen — von Entscheidungen, die sich gegenseitig ausschließen, und davon, dass man beides gleichzeitig will. Musikalisch bleibt die Handschrift melodisch und dringlich, mit klaren Midwest-Einflüssen und Stücken, die ihre Emotion nicht hinter Ironie verstecken. *Until It Doesn't* und *Flickering Lights* eröffnen besonders stark und geben den Ton für die restlichen zehn Stücke vor. Ehrlich, energisch und angenehm frei von Pose. Richtig gut.
 
-::genre::indie rock, post punk, new wave, alt rock
+::genre::emo, punk rock, midwest emo, melo hardcore
 
 ### Green Carnation - A Dark Poem Part III: The Messiah Complex *
 
@@ -332,15 +326,15 @@ Die norwegische Progressive-Institution um Tchort, deren Werk zwischen Doom, Pro
 
 ### Hannah Cole - Switchbacks
 
-Eine Singer-Songwriterin, deren Albumtitel die Serpentinen einer Bergstraße meint — und offensichtlich auch die des Lebens. **Indie Folk**, **Americana** und **Singer-Songwriter**. Akustische Gitarren, sparsame Arrangements und eine Stimme, die keinen Effekt braucht. Macht euch einen Tee und hört einfach zu! Das Album lebt von seiner Zurückhaltung: kaum Schlagzeug, viel Raum, und Texte, die konkrete Bilder statt großer Gesten verwenden. Die Melodien entwickeln sich unaufgeregt, oft entlang der Sprachmelodie, und genau dadurch bleiben sie glaubwürdig. Wo Streicher oder Pedal Steel dazutreten, geschieht das mit erkennbarem Maß. Thematisch geht es um Umwege, Rückschritte und die Erkenntnis, dass der direkte Weg selten der gangbare ist. Ein stilles, warmes Album, das seine Wirkung ganz ohne Anstrengung entfaltet.
+Eine Songwriterin aus Nashville, die ihr Debütalbum zwischen 2024 und 2025 mit ihrem Partner Joseph Kuhn im Heimstudio aufgenommen und dabei fast jedes Instrument selbst gespielt hat. **Shoegaze**, **Alternative Rock** und **Indie Pop**. Verwaschene Gitarren, klare Popmelodien und ein Hauch Neunziger. Nehmt die Kurve, die Sicht ist schlecht! Das Bild der Serpentine trägt das ganze Album: Windungen, die verdecken, was als Nächstes kommt. Thematisch geht es um das Streben nach Erfolg und darum, wie man dabei die reine Freude schützt, die einen ursprünglich angetrieben hat — die Single *MMA* nimmt sich die hässliche Seite des Musikgeschäfts direkt vor. Musikalisch treffen dichte Gitarrenschichten auf Refrains, die sofort sitzen, und diese Mischung trägt über die volle halbe Stunde. Ein warmes, selbstbestimmtes Debüt. Sehr gelungen.
 
-::genre::indie folk, americana
+::genre::shoegaze, alt rock, indie pop, dreampop
 
 ### Harrison Gordon - BLISS
 
-Ein Künstler, der seinen Albumtitel in Versalien setzt und damit vermutlich Nachdruck statt Lautstärke meint. **Neo Soul**, **Alternative R&B** und **Jazz**. Weiche Rhodes-Akkorde, elastische Basslinien und ein Gesang, der lieber gleitet als drückt. Dimmt das Licht und lasst euch treiben! Das Album bewegt sich in einem angenehm dämmrigen Bereich zwischen Soul, Jazz und moderner Produktion, in dem harmonische Raffinesse und Wohlklang keine Gegensätze sind. Die Arrangements bleiben luftig, mit viel Platz für kleine instrumentale Verzierungen, die sich erst beim mehrfachen Hören erschließen. Thematisch kreist alles um Glück als flüchtigen Zustand, um Momente, die schon beim Erleben vergehen. Es ist eine unaufdringliche, hochmusikalische Platte, die sich für den späten Abend und die zweite Tasse Kaffee gleichermaßen eignet.
+Kein Solokünstler, sondern eine Emo-Band aus Normal, Illinois, die für ihr zweites Album bei *Hopeless Records* untergekommen ist. **Emo**, **Midwest Emo** und **Indie Rock**. Verzahnte Gitarren, wechselnde Dynamik und ein Gesang, der lieber bricht als sauber bleibt. Dreht auf, das hält sich nicht zurück! Das Album folgt auf *The Yuppies are Winning* und fragt in elf Stücken, was dieses Glück eigentlich sein soll, dem alle hinterherlaufen — nachdem man es lange genug in Videospielen und Bier gesucht hat, um zu merken, dass da nichts wartet. Musikalisch ist der Schritt nach vorn deutlich: größere Hooks, schärferes Songwriting und trotzdem dieselbe leicht außer Kontrolle geratene Unmittelbarkeit, die die Band von Anfang an ausgezeichnet hat. Sie verwechselt Reifung erfreulicherweise nicht mit Glättung. Zwischen den lauten Momenten stehen erstaunlich schutzlose Passagen. In gut halber Stunde erledigt und trotzdem randvoll. Richtig stark.
 
-::genre::neo soul, r&b, modern jazz, alt r&b
+::genre::emo, midwest emo, indie rock, punk rock
 
 ### Hi, I'm Chris & FrankJavCee - SPARKYS!
 
@@ -368,9 +362,9 @@ Ein Künstler mit einem Albumtitel, der ein Festmahl für Blattläuse ankündigt
 
 ### Isobar - Isobar V
 
-Ein Projekt, das seine Alben durchnummeriert wie Wetterkarten und damit klarmacht, dass hier Systematik im Spiel ist. **Post Rock**, **Ambient** und **Drone**. Langsam wandernde Klangflächen, tief liegende Gitarren und eine Dynamik, die eher an Wetterlagen als an Songs erinnert. Schaut aus dem Fenster und lasst es ziehen! Der fünfte Teil der Reihe treibt die Idee weiter: Musik als atmosphärischer Druck, der sich über lange Strecken aufbaut und dann in breiten, überwältigenden Passagen entlädt. Die Übergänge sind so fließend gearbeitet, dass man kaum merkt, wann ein Stück in das nächste übergeht. Zwischen den Verdichtungen liegen fast stille Zonen, in denen einzelne Töne im Raum hängen bleiben. Es ist ein forderndes, aber sehr belohnendes Album, das man am besten in einem Stück durchhört.
+Eine Instrumentalband aus San José, Kalifornien, um *Malcolm Smith* und *Marc Spooner*, verstärkt am Schlagzeug von *Mattias Olsson*. **Progressive Rock**, **Instrumental** und **Eclectic Prog**. Verschachtelte Kompositionen, wechselnde Metren und ein Zusammenspiel, das ständig die Richtung ändert. Zählt ruhig mit, es geht trotzdem nicht auf! Das fünfte Album bleibt konsequent ohne Gesang und deckt dabei ein erstaunlich weites Feld ab: Von *Gravity Itself* bis *March of the Butterflies* entwickelt jedes Stück eine eigene Melodie, eigene harmonische Wendungen und eigene Arrangements, ohne dass der Zusammenhalt verloren geht. Die Musik ist anspruchsvoll, aber nie kalt — man merkt ihr an, dass hier vier Leute mit sichtlichem Vergnügen aufeinander reagieren. Zwischen den vertrackten Passagen stehen ruhige, fast lyrische Momente. Sophisticated und ausgesprochen befriedigend.
 
-::genre::post rock, ambient, drone, instrumental, post metal
+::genre::prog rock, instrumental, jazz fusion, art rock
 
 ### JACK Quartet & Paul Griffiths - Stirrings Still
 
@@ -383,12 +377,6 @@ Das amerikanische Streichquartett, das als eine der wagemutigsten Adressen für 
 Die Band aus Birmingham, die seit fast zwei Jahrzehnten hyperaktiven, gitarrenverliebten Indie Rock mit doppelter Gesangsspur betreibt. **Indie Rock**, **Math Pop** und **Emo**. Verschachtelte Gitarrenfiguren, überlappende Männer- und Frauenstimmen und ein Tempo, das selten runtergeht. Aufdrehen und mitschreien, so ist das gedacht! Das Album strotzt vor derselben nervösen Energie, die die Band immer ausgezeichnet hat, kombiniert mit einem Songwriting, das über die Jahre nur präziser geworden ist. Die Stücke stolpern absichtlich über ihre eigenen Takte, finden dann aber immer wieder Refrains, die einen mit voller Wucht erwischen. Die Texte bleiben wortreich, selbstironisch und überraschend zärtlich. Der Titel ist Programm: hier wird nach vorne gerannt, egal wie unaufgeräumt es dabei zugeht. Ein herzlich chaotisches Vergnügen.
 
 ::genre::indie rock, math rock, power pop
-
-### Karkait - To All That Cannot Be Undone
-
-Ein Projekt mit einem Titel, der auf Unwiderrufliches zeigt und damit den emotionalen Rahmen absteckt. **Atmospheric Black Metal**, **Post Black Metal** und **Blackgaze**. Kalte Tremolo-Wände, weit entfernte Schreie und melodische Linien, die sich langsam durch das Rauschen arbeiten. Zieht euch zurück, das braucht Alleinsein! Das Album setzt auf lange Bögen statt auf Attacken: die Stücke bauen sich über Minuten auf, sammeln Schichten und entladen sich in Passagen von schmerzhafter Schönheit, bevor sie wieder in sich zusammensinken. Zwischendurch stehen ruhige, fast ambiente Momente, in denen einzelne Gitarren nachhallen. Thematisch geht es um Reue und um Dinge, die nicht mehr zurückzunehmen sind — vertont mit einer Melancholie, die nie ins Selbstmitleid kippt. Ein dichtes, atmosphärisch starkes Album.
-
-::genre::atmo black metal, post black metal, blackgaze, dsbm
 
 ### Kingcrown - Moonfall
 
@@ -416,9 +404,9 @@ Der südafrikanische Saxofonist, der zu den herausragenden Stimmen der neuen Gen
 
 ### Lost Velvet - Dark Cells
 
-Ein Projekt, dessen Name nach abgewetztem Luxus klingt und dessen Titel nach etwas deutlich Klaustrophobischerem. **Post Punk**, **Gothic Rock** und **Dark Wave**. Kalte Gitarren, tiefe Basslinien und ein Gesang, der aus dem Halbdunkel kommt. Zieht die Tür hinter euch zu, es wird eng! Das Album arbeitet mit engen Räumen im Wortsinn — die Produktion hält alles dicht beieinander, sodass selbst die weiten Halleffekte eher wie Wände als wie Freiheit wirken. Die Rhythmusgruppe stampft mit unerbittlicher Regelmäßigkeit, während sich darüber Gitarrenlinien in kalten Bögen entfalten. Thematisch geht es um Isolation, Verstrickung und den Punkt, an dem man den eigenen Rückzug nicht mehr als freiwillig erkennt. Ein düsteres, stimmiges Album für Freunde der klassisch schwarzen Achtziger-Ästhetik.
+Ein britisches Duo aus dem Multiinstrumentalisten Robert Butcher und der Sängerin Melissa Morris, das nach zwei Jahren als reines Studioprojekt sein Debütalbum vorlegt. **Shoegaze**, **Alternative Rock** und **Dreampop**. Verwaschene Gitarrenwände, zweistimmiger Gesang und industrielle Texturen darunter. Dreht auf, das ist größer, als es zunächst wirkt! Die zehn selbst produzierten Stücke bewegen sich zwischen Post-Rock-Weite, Shoegaze-Nebel und einer industriellen Unruhe, die alles leicht aus dem Gleichgewicht hält — weit und intim zugleich, mit einem Anflug von Unberechenbarkeit. Der Sound ist gegenüber den Singles hörbar schwerer und ausladender geworden, ohne dass die Melodien darunter leiden. Gemischt von Michael Patterson und gemastert von Maor Appelbaum klingt das Ganze bemerkenswert groß für ein Zweierprojekt. Ein starkes, atmosphärisch dichtes Debüt.
 
-::genre::post punk, goth rock, dark wave, cold wave
+::genre::shoegaze, alt rock, dreampop, industrial rock
 
 ### Mad Max - Stories Of Destiny
 
@@ -428,9 +416,9 @@ Die deutsche Melodic-Hard-Rock-Band um Michael Voss, seit den frühen Achtzigern
 
 ### magnólia - ternura e violência
 
-Ein brasilianisches Projekt, dessen Titel „Zärtlichkeit und Gewalt“ bedeutet und damit den kompletten Bogen der Platte beschreibt. **Post Rock**, **Shoegaze** und **Emo**. Verhallte Gitarren, portugiesischer Gesang und Dynamikwechsel, die von einer Sekunde auf die andere kippen. Haltet euch bereit, es geht in beide Richtungen! Das Album stellt die beiden Pole des Titels nicht nebeneinander, sondern lässt sie ineinander übergehen — aus dem zartesten Fingerpicking wächst unvermittelt eine Wand aus Verzerrung, und mitten im lautesten Ausbruch bleibt plötzlich nur eine einzelne Stimme übrig. Die portugiesischen Texte funktionieren auch ohne Übersetzung, weil ihr Klang die Emotion trägt. Es ist ein intensives, sehr körperliches Album, das seine Wirkung aus dem ständigen Wechsel zwischen Nähe und Wucht zieht. Wunderschön ungemütlich.
+Ein brasilianisches Projekt aus São Paulo, 2021 von Caru Frascaroli allein begonnen und inzwischen zur vollen Band gewachsen. **Post Hardcore**, **Emo** und **Screamo**. Verschachtelte Gitarren, wechselnde Dynamik und ein Gesang, der zwischen Flüstern und Schreien keine Zwischenstufe kennt. Hört genau hin, der Titel meint beides ernst! Das Album stellt Zärtlichkeit und Gewalt nebeneinander, ohne sich für eine Seite zu entscheiden — die Stücke kippen regelmäßig von der einen in die andere, oft innerhalb weniger Takte. Die Vorabsingle *seja delicado por favor* gibt die Richtung vor und kreist um Nostalgie und Erwachsenwerden, um Kindheit und das, was davon übrig bleibt. Nach drei Alben in vier Jahren wirkt die Band hörbar sicherer in dem, was sie will. Portugiesisch gesungen, emotional aber vollkommen unmissverständlich. Sehr eindringlich.
 
-::genre::post rock, shoegaze, screamo, post hardcore
+::genre::post hardcore, emo, screamo
 
 ### Martha Hill - Tether
 
@@ -452,21 +440,21 @@ Das Projekt von Nick Carpenter aus Alaska, der seit einigen Jahren mit erstaunli
 
 ### Megat Fazly - Terma & Syarat
 
-Ein malaysischer Künstler, dessen Albumtitel schlicht „Geschäftsbedingungen“ bedeutet — ein Titel mit trockenem Witz. **Indie Pop**, **Bedroom Pop** und **Alternative Rock**. Warme Gitarren, entspannte Grooves und Gesang in Bahasa Melayu. Lest das Kleingedruckte ruhig mal mit! Das Album verbindet den weltweiten Bedroom-Pop-Sound mit einer sehr lokalen Sprachmelodie und gewinnt daraus einen ganz eigenen Charme. Die Produktion bleibt angenehm luftig, mit viel Raum zwischen den Instrumenten und einer leichten Lo-Fi-Patina, die alles unmittelbar wirken lässt. Thematisch geht es um die ungeschriebenen Regeln von Beziehungen, um das, worauf man sich einlässt, ohne es je gelesen zu haben. Ein sympathisches, entspanntes Album, das auch ohne Sprachkenntnisse wunderbar funktioniert und Lust auf mehr aus der Region macht.
+Ein malaysischer Songwriter, der sein Debütalbum aus Stücken zusammensetzt, die zwischen 2014 und 2026 entstanden sind — eine Bestandsaufnahme über mehr als ein Jahrzehnt. **Indie Folk**, **Singer-Songwriter** und **Acoustic**. Akustische Gitarre, Klavier und eine Stimme, die das Erzählen über den Effekt stellt. Setzt euch dazu, hier wird eine Geschichte auserzählt! Das Album kreist um Liebe, Verlust und das mühsame Annehmen dessen, was nicht mehr zu ändern ist, und weil die Stücke aus so verschiedenen Lebensphasen stammen, entsteht daraus tatsächlich ein Verlauf statt einer Sammlung. Unterstützt von Bassist *Aizad Khan* und Geiger *Zaiff Sharqil* bleiben die Arrangements bewusst schlank — meist reichen drei Instrumente, und der Rest ist Raum. Die Sprache mag nicht jedem zugänglich sein, die Stimmung ist es ohne Weiteres. Eine warme, geduldige und sehr persönliche Platte.
 
-::genre::indie pop, bedroom pop, alt rock, lofi
+::genre::indie folk, singer-songwriter, acoustic
 
-### Mick Harveyand Amanda Acevedo - Psychedelia in White *
+### Mick Harvey and Amanda Acevedo - Psychedelia in White *
 
-Der australische Multiinstrumentalist Mick Harvey, langjähriger Weggefährte von Nick Cave und Mitbegründer der Bad Seeds, im Duo mit Amanda Acevedo. **Art Rock**, **Chamber Pop** und **Psychedelic Folk**. Sorgfältig gebaute Arrangements, dunkle Instrumentierung und zwei Stimmen, die sich umkreisen. Setzt euch bequem hin, hier wird erzählt! Das Album trägt Harveys unverkennbare Handschrift: Klavier, Streicher und ungewöhnliche Klangfarben, arrangiert mit dem Gespür eines Mannes, der jahrzehntelang die Musik anderer Leute gestaltet hat. Acevedos Stimme bringt eine andere Farbe hinein, oft heller und beweglicher, was den düsteren Grundton wunderbar aufbricht. Die Stücke entfalten sich in ruhigem Tempo und mit einer literarischen Qualität, die keine Eile kennt. Ein elegantes, hochkultiviertes Album von jemandem, der nichts mehr beweisen muss.
+Der ehemalige *Bad-Seeds*-Musiker und seine langjährige Mitstreiterin legen bei *Mute* ihr drittes gemeinsames Album vor — Nachfolger von *Phantasmagoria in Blue*. **Art Rock**, **Experimental** und **Chamber Pop**. Dicht geschichtete Arrangements, üppige Texturen und zwei Stimmen, die einander umkreisen. Macht es euch bequem, das ist ein Sturm mit Sitzplatz! Das Album verhandelt Mythologie, Liebe, Hoffnung, Verlust und Mystik und sucht dabei durchgehend nach einem sicheren Ort inmitten von Chaos und Verwirrung. Musikalisch ist der Schritt gegenüber den Vorgängern deutlich: wilder, experimenteller, weniger auf Form bedacht. Aufgenommen überwiegend in Australien und in Chile von Alain Johannes gemischt, klingt es entsprechend weit gereist. Von *The Elephants* bis zum Titelstück entfaltet sich das über zehn Stücke und fünfundvierzig Minuten ohne Hast. Ein reiches, sehr erwachsenes Album.
 
-::genre::art rock, chamber pop, psych folk, dark folk
+::genre::art rock, experimental, chamber pop, art pop
 
 ### Miriam Ingram - Mariana Trench
 
-Eine Künstlerin, die ihr Album nach dem tiefsten bekannten Punkt der Ozeane benennt und damit die Richtung klar vorgibt. **Art Pop**, **Ambient Pop** und **Experimental Pop**. Weite Halleffekte, tiefe Bässe und ein Gesang, der wie von der Wasseroberfläche herunterdringt. Taucht ab, hier gibt es kein schnelles Auftauchen! Das Album arbeitet konsequent mit dem Bild der Tiefe: die Arrangements sind druckvoll und dunkel, die Melodien bewegen sich langsam, und selbst die rhythmischen Elemente wirken gedämpft, als kämen sie durch Wasser. Ingrams Stimme schwebt darüber mit einer beeindruckenden Ruhe, die dem Ganzen etwas fast Rituelles gibt. Thematisch geht es um Verborgenes, um Druck und um das, was in den ungesehenen Zonen weiterlebt. Ein atmosphärisch dichtes, wunderschön unheimliches Album.
+Eine experimentelle Musikerin aus Dublin, die nach *Trampoline* von 2006 mehr als zwei Jahrzehnte hat verstreichen lassen, bevor sie ein zweites Album vorlegte. **Art Pop**, **Experimental Pop** und **Chamber Pop**. Ungewöhnliche Instrumentierungen, ein wacher Sinn für Klangfarbe und ein Gesang, der nie um Aufmerksamkeit bittet. Nehmt euch Zeit, das hat lange gebraucht! Das Album ist über Jahre entstanden — aufgenommen in Dublin, Kerry und Kildare, mit einer ganzen Reihe von Mitspielenden, die Ingram nach und nach zusammengesammelt hat — und man hört ihm diese Entstehungsgeschichte an: Es wirkt gewachsen statt geplant. Der Ton bleibt dabei erstaunlich leicht, eher nachdenklich und verspielt als schwer, mit impressionistischen Arrangements, die Bilder andeuten statt sie auszumalen. Unter der Leichtigkeit liegt allerdings gelebte Erfahrung, und die gibt dem Ganzen sein Gewicht. Ein eigenwilliges, sehr schönes Album.
 
-::genre::art pop, ambient pop, experimental pop, dreampop
+::genre::art pop, experimental pop, chamber pop, indie rock
 
 ### Mixo - RadioShack
 
@@ -488,21 +476,21 @@ Die kalifornische Band, die seit Jahren zu den prägenden Namen der modernen Emo
 
 ### Nott - As All Is Undone *
 
-Ein Projekt, benannt nach der nordischen Göttin der Nacht, mit einem Titel, der den Zerfall ankündigt. **Atmospheric Black Metal**, **Post Black Metal** und **Dark Ambient**. Kalte Gitarrenwände, weit entfernte Vocals und lange, langsam wachsende Bögen. Löscht das Licht und lasst die Nacht ihren Lauf nehmen! Das Album verzichtet auf frontale Aggression und setzt stattdessen auf eine Art langsamen Sog, in dem sich einzelne Motive über Minuten hinweg auffalten, bis sie den ganzen Raum füllen. Zwischen den dichten Passagen liegen ambiente Zonen, in denen nur Wind und einzelne Töne übrig bleiben. Thematisch geht es um Auflösung — der Nacht, der Ordnung, des Selbst — als etwas, das nicht bekämpft, sondern angenommen wird. Ein wunderschön melancholisches, atmosphärisch geschlossenes Album für lange Winterabende.
+Ein Duo aus Julia Geaman am Schlagzeug und Tyler Campbell an allem anderen, das bei *Silent Pendulum Records* ein Album über die sieben Phasen der Trauer vorlegt. **Blackened Sludge**, **Post Metal** und **Doom Metal**. Schwere Riffs, ferne Schreie und ambiente Flächen, die alles zusammenhalten. Rechnet nicht mit Trost, den gibt es hier nicht! Das Konzept ist erkennbar gegen den Strich gebürstet: Statt eines Weges zur Heilung erzählen die sieben Stücke einen definierten Zusammenbruch, bei dem jeder Titel einen weiteren Bruch markiert. Von *I Still Feel You Here* bis *To Be Without* geht es konsequent abwärts, ohne dass sich je eine Auflösung andeutet. Musikalisch trifft die Schwere des Sludge auf die Kälte des Black Metal und ambiente Passagen, in denen alles kurz verstummt. Was bleibt, ist Verwüstung — und ein bemerkenswert geschlossenes Album.
 
-::genre::atmo black metal, post black metal, dark ambient, blackgaze
+::genre::blackened sludge metal, post metal, doom metal, dark ambient
 
 ### Omnimorph - Axiom Manifest
 
-Ein Projekt, dessen Name und Titel klingen, als hätte jemand ein Mathematiklehrbuch mit einem Death-Metal-Songwriting-Kurs gekreuzt. **Technical Death Metal**, **Progressive Death Metal** und **Djent**. Präzise Riffs, wechselnde Taktarten und eine Rhythmusarbeit von beeindruckender Kontrolle. Zählt lieber nicht mit, das schafft ihr nicht! Das Album ist eine Machtdemonstration technischer Beherrschung, die glücklicherweise nicht bei der reinen Fingerübung stehen bleibt — zwischen den verschachtelten Passagen finden sich immer wieder atmosphärische Momente und melodische Linien, die dem Ganzen einen Fluchtpunkt geben. Die Produktion ist scharf und klar, jedes Instrument steht sauber im Bild. Thematisch bewegt sich alles im Bereich abstrakter Systeme, Grundsätze und ihrer Auflösung. Ein hochpräzises, forderndes Album für Freunde des kopflastigen Extremen.
+Ein mehrheitlich trans besetztes Fünferkollektiv aus Denton, Texas, das seine Einflüsse aus den extremsten und experimentellsten Ecken des Metal zusammenzieht. **Experimental Metal**, **Progressive Death Metal** und **Avant-Garde Metal**. Verschachtelte Strukturen, brachiale Passagen und unvermittelte Momente von echter Eleganz. Haltet euch fest, die Richtung wechselt ständig! Das Album sucht ausdrücklich emotionale Katharsis und balanciert dafür Härte und Wildheit gegen Ausdruck und Feinheit — ein Anspruch, den die sieben Stücke von *Transmutation* bis *A Hymn For All Life* erstaunlich konsequent einlösen. Es gibt keine Formel, an der man sich festhalten könnte: Was in einem Stück funktioniert, wird im nächsten verworfen. Gerade dadurch bleibt das Album über die volle Länge spannend. Fordernd, eigenständig und mit spürbarer Dringlichkeit gespielt. Sehr stark.
 
-::genre::tech death metal, prog death metal, djent, prog metal
+::genre::experimental metal, prog death metal, avant metal
 
 ### One Way Terror - Class Axe
 
-Ein Projekt, das sein Wortspiel zwischen Klassenkampf und Gitarrenaxt offen ausstellt. **Thrash Metal**, **Crossover** und **Speed Metal**. Rasende Riffs, gebellter Gesang und Soli, die aus dem Handgelenk kommen. Kopf runter und rein ins Getümmel! Das Album macht keine Gefangenen und liefert eine Serie kompakter, hochenergetischer Stücke in bester Achtziger-Tradition — kurze Anläufe, viel Tempo, gelegentliche Breaks für die Nackenmuskulatur. Die Produktion bleibt roh genug, um die Dringlichkeit zu erhalten, ohne im Matsch zu versinken. Thematisch geht es erwartbar um Wut auf die da oben, verpackt in Zeilen, die man nach dem zweiten Durchgang mitgrölen kann. Nichts hier ist neu, aber alles ist mit einer Energie gespielt, die man nicht vortäuschen kann. Ein grundehrliches Thrash-Album.
+Ein Vierer aus Buffalo, New York, der seinen eigenen Stil kurzerhand *Shred Punk* getauft hat — treffender geht es kaum. **Punk Rock**, **Crossover Thrash** und **Hardcore Punk**. Punk-Tempo, Metal-Gitarren und Soli, wo eigentlich keine hingehören. Dreht auf und lasst die Finger fliegen! Das Album verbindet die Direktheit des Hardcore mit einer Freude am Gitarrenspiel, die im Genre eher selten offen ausgelebt wird — es ist schnell und ruppig, aber jeder Song schiebt irgendwo eine Passage ein, in der jemand zeigen will, was er kann. Genau diese Mischung aus Dreck und Angeberei macht die Platte so unterhaltsam. Die Stücke bleiben kurz, die Refrains gröhlbar und die Selbstironie hörbar. Ein Album ohne jeden Anspruch auf Bedeutung und mit umso mehr Spaß. Macht richtig Laune.
 
-::genre::thrash metal, crossover thrash, speed metal, hardcore punk
+::genre::punk rock, crossover thrash, hardcore punk
 
 ### Paris Paloma - The Fatal Flaw
 
@@ -512,15 +500,15 @@ Die britische Songwriterin, die mit ihrem literarisch aufgeladenen Folk-Pop eine
 
 ### Pelegrin - The Curse of Nephtar *
 
-Das Projekt, das seit Jahren psychedelischen Rock mit orientalischen Skalen und wüstenhafter Weite verbindet. **Psychedelic Rock**, **Desert Rock** und **Progressive Rock**. Modale Gitarrenläufe, hypnotische Grooves und lange Instrumentalpassagen. Packt den Wasserschlauch ein, das wird ein Ritt! Das Album entfaltet sich als durchgehende Reise durch imaginäre Landschaften, in der sich Riffs mit ungewöhnlichen Tonleitern über treibende Rhythmen legen, bis sich alles in einen tranceartigen Zustand hineingespielt hat. Die Produktion ist warm und analog, mit viel Raum für das Zusammenspiel der Instrumente. Thematisch entwirft die Platte eine eigene Mythologie um Flüche und untergegangene Orte, ohne dass es je alberner Fantasy-Kitsch würde. Ein sehr atmosphärisches, mitreißendes Album für Freunde des langen, staubigen Grooves.
+Französische Heavy-Psych-Erkunder, die auf ihrem dritten Album bei *Ripple Music* deutlich griffiger und schwerer geworden sind. **Heavy Psychedelic**, **Stoner Rock** und **Progressive Rock**. Reiche Melodien, fein abgestufte Dynamik und eine Prise orientalischer Würze. Steigt ein, die Reise geht weit zurück! Das Album erzählt von Nephtar, einer schwarzen Kugel, die in den Tiefen des Urmeers Tethys erwacht, an die Oberfläche drängt und alles Lebendige unterwirft — was kurz nach einer Ära des Überflusses aussieht, entpuppt sich als Handel mit viel zu hohem Preis. Als Allegorie auf fossile Brennstoffe und den sogenannten Ressourcenfluch ist das erstaunlich klar gebaut, ohne je zur Lehrstunde zu werden. Musikalisch stehen die Vergleiche mit *Elder*, *King Buffalo* und *Slift* zu Recht im Raum. Sieben Stücke, kein Leerlauf. Ihr bislang ambitioniertestes Werk.
 
-::genre::psych rock, desert rock, prog rock, stoner rock
+::genre::heavy psych, stoner rock, prog rock, desert rock
 
 ### Peste Negra - Finitude
 
-Ein Projekt, dessen Name auf die Pest verweist und dessen Titel bei der Endlichkeit landet — mehr Programm braucht es nicht. **Black Metal**, **Doom Metal** und **Blackened Crust**. Schleppende, zähe Passagen wechseln mit rasenden Ausbrüchen, alles unter einer dicken Schmutzschicht. Bereitet euch auf etwas Unerfreuliches vor! Das Album lebt vom ständigen Wechsel zwischen kriechender Schwere und panischer Beschleunigung, ohne dass eine der beiden Zustände je Erlösung böte. Die Produktion hält alles rau und dumpf, was den bedrückenden Grundton noch verstärkt. Die Vocals klingen weniger nach Gesang als nach einem letzten Aufbäumen. Thematisch geht es um Vergänglichkeit ohne Trost, um Krankheit, Verfall und das Ende als schlichte Tatsache. Ein schwerer, unversöhnlicher Brocken für Hörer mit entsprechender Konstitution.
+Eine Band aus dem Süden Portugals, die auf ihrem zweiten Album kompromisslosen Deathgrind abliefert. **Deathgrind**, **Death Metal** und **Grindcore**. Technisches Gewicht trifft auf unbarmherziges Tempo, dazu Vocals aus dem Magen. Kopf runter, das ist gleich vorbei und trotzdem zu viel! Das Album zerfällt bewusst in zwei Hälften: Zuerst roher, direkter Deathgrind, danach eine deutlich rauere Zone mit industriellen Remixen älterer Stücke und einer neu gemasterten Fassung von *Vai-te Foder!*. Diese Zweiteilung ist ungewöhnlich und funktioniert überraschend gut, weil sie dem Ganzen einen zweiten Boden gibt, statt bloß Material aufzufüllen. Aufgenommen im Leviathan Recording Studio mit echtem Schlagzeug, klingt es entsprechend physisch. Portugiesische Titel, internationale Wut. Elf Stücke, die niemandem entgegenkommen. Kompromisslos.
 
-::genre::black metal, doom metal, blackened crust, sludge metal
+::genre::deathgrind, death metal, grindcore
 
 ### Polymoon - Mariposa Magic! *
 
@@ -536,15 +524,15 @@ Die maskierte Metal-Band, die ihre Identität konsequent verbirgt und die Aufmer
 
 ### PUREST FORM - RESISTANCE
 
-Ein Projekt, das seinen Namen und seinen Titel in Großbuchstaben setzt und damit die Lautstärke schon typografisch ankündigt. **Hardcore**, **Beatdown** und **Metallic Hardcore**. Zermalmende Breakdowns, gebellte Vocals und Riffs, die auf das Wesentliche reduziert sind. Stellt euch breit hin, gleich wird geschoben! Das Album verzichtet auf jede Ausschmückung und liefert stattdessen eine Serie kurzer, extrem druckvoller Stücke, die für den Raum vor der Bühne gebaut sind. Die Produktion ist tief und trocken, ohne den geringsten Hochglanz, was der Sache genau die richtige Härte gibt. Thematisch geht es um Widerstand, Loyalität und das Durchhalten unter Druck — die klassischen Themen des Genres, vorgetragen mit einer Überzeugung, die keine Ironie zulässt. Kein Album für stille Abende, aber eines mit erheblicher körperlicher Wirkung.
+Ein Trio aus Los Angeles — Story Beeson, Madi Woodward und Riley Oikawa-Dahlson — das seine Hardcore-Herkunft mit Industrial und Techno kurzschließt. **Dance Punk**, **Industrial** und **EBM**. Harte Programmierungen, schneidende Gitarren und eine Stimme, die anklagt statt zu singen. Stellt euch auf die Fläche, hier wird protestiert! Die sechs Stücke dieser ersten Veröffentlichung bei *Dais Records* sind ein anarchistischer Angriff auf das System, gespeist aus kollektiver Wut — aus einem Jahr, das Los Angeles von den Bränden bis zu den ICE-Razzien nicht zur Ruhe kommen ließ. Musikalisch ist das beweglicher und aufgeladener als reiner Hardcore: Es gibt Strukturbrüche, harte Richtungswechsel und einen Groove, der trotz allem zum Tanzen zwingt. Am Ende steht eine Coverversion von *Breathe* der *Prodigy*, die erstaunlich schlüssig passt. Wütend und mitreißend.
 
-::genre::hardcore, beatdown, metallic hardcore, hardcore punk
+::genre::dance punk, industrial, ebm, post punk
 
 ### Quivira - Quivira *
 
-Ein Projekt, benannt nach der sagenhaften Goldstadt, die spanische Konquistadoren vergeblich suchten — ein Name für etwas Weites und Unerreichbares. **Desert Rock**, **Post Rock** und **Psychedelic Rock**. Weite Instrumentalpassagen, hallende Gitarren und ein Gefühl von großer, leerer Landschaft. Fahrt raus, wo nichts mehr steht, und drückt auf Play! Das selbstbetitelte Album baut seine Stücke aus langen, wandernden Motiven auf, die sich geduldig entwickeln, bis sie in breiten, staubigen Höhepunkten ankommen. Die Gitarrenarbeit setzt auf modale Skalen und viel Raum statt auf Riffs, während die Rhythmusgruppe mit trockener Beharrlichkeit den Weg vorgibt. Es entsteht eine Musik, die weniger von Ereignissen als von Entfernungen erzählt. Ein atmosphärisch starkes, meditatives Debüt für Freunde der weiten Klanglandschaft.
+Eine amerikanische Formation um Lisa LaRue, John Baker und Jake Livgren, deren Debüt bei *Melodic Revolution Records* erscheint. **Symphonic Progressive Rock**, **Progressive Rock** und **Neo Progressive**. Üppige Keyboardschichten, ausdrucksstarke Gitarren und verschachtelte Taktarten. Nehmt euch Zeit, das hat viele Ebenen! Das Album liegt genau an der Schnittstelle zwischen instrumentaler Weite und melodischem, gesungenem Prog — die komplexen Passagen sind nie Selbstzweck, sondern tragen die erzählerische Linie mit. Über das Jahr hinweg hat die Band ihre elf Stücke mit einer Reihe von Singles vorbereitet, und man merkt dem Ergebnis diese Sorgfalt an. Als Gäste sind Evan Stanley und der Geiger Joe Deninzon von *Kansas* zu hören, deren Beiträge die Arrangements zusätzlich öffnen. Ein warm gespieltes, sehr ausgearbeitetes Debüt. Für Prog-Freunde eine sichere Empfehlung.
 
-::genre::desert rock, post rock, psych rock, instrumental
+::genre::symphonic prog rock, prog rock, neo prog, art rock
 
 ### Radio Days - Off the Record
 
@@ -564,17 +552,11 @@ Die britische Künstlerin, die aus persönlicher Erfahrung mit Sucht und Genesun
 
 ::genre::alt rock, grunge, alt pop, post grunge
 
-### Saint Blonde - ...With Little Ease
-
-Ein Projekt, dessen Titel auf eine mittelalterliche Zellenform anspielt, in der man weder stehen noch liegen konnte. **Post Punk**, **Noise Rock** und **Gothic Rock**. Enge Arrangements, scharfe Gitarren und ein Gesang, der zwischen Kälte und Panik schwankt. Rechnet nicht mit Bewegungsfreiheit! Das Album macht die Beklemmung seines Titels hörbar: alles ist dicht gepackt, die Instrumente drängen sich, und selbst die weiteren Passagen fühlen sich eingesperrt an. Zwischen den nervösen Rhythmen wachsen Gitarrenlinien, die sich wie Risse durch die Wand ziehen. Thematisch geht es um Zwang, Enge und die langsame Zermürbung durch Umstände, die man nicht ändern kann. Es ist unangenehm im besten Sinne und zieht seine Wirkung genau daraus, dem Hörer keinen bequemen Platz anzubieten. Ein sperriges, eindringliches Album.
-
-::genre::post punk, noise rock, goth rock, dark wave
-
 ### Scald - Relics
 
-Der Name steht im Untergrund für epischen, schwermütigen Doom nordischer Prägung. **Epic Doom Metal**, **Traditional Doom** und **Heavy Metal**. Langsame, monumentale Riffs, klarer Gesang und eine Feierlichkeit, die aus einer anderen Zeit stammt. Setzt euch aufrecht hin, hier wird gehuldigt! Das Album arbeitet mit einer fast rituellen Langsamkeit, in der jeder Akkord seine volle Länge ausspielen darf, bevor der nächste kommt. Die Gesangsmelodien sind weit ausschwingend und tragen die Stücke über ihre beträchtliche Spielzeit. Zwischen den schweren Passagen finden sich klare, fast folkige Momente, die dem Ganzen eine erhabene Ruhe geben. Thematisch geht es um Überreste, um das, was von großen Zeiten übrig bleibt. Ein würdevolles, tief melancholisches Album für Freunde des klassischen, unmodernen Doom.
+Die russische Band aus Jaroslawl, die 1993 ihren eigenen Stil erfand und ihn selbst *Ancient Doom Metal* taufte — hier mit dem neuen Sänger Hrafn. **Epic Doom Metal**, **Doom Metal** und **Heavy Metal**. Getragene Riffs, klarer Gesang und eine Feierlichkeit, die keine Ironie kennt. Nehmt die Mütze ab, das ist ernst gemeint! Die fünf Stücke dieser EP sind kein neues Material im üblichen Sinn: *Master Of Tundra*, *Ravens* und *Flame* entstanden im Umfeld der Aufnahmen zu *Will Of The Gods Is Great Power* — jenem legendären Album aus den Jahren 1996/97, in dem der Originalsänger Agyl starb. *Falcon* geht sogar auf 1991/92 zurück und wurde von Agyl für sein Vorgängerprojekt geschrieben; die Band hat es auf Englisch und Russisch neu eingespielt, um ihn zu ehren. Das gibt der EP eine Schwere, die weit über die Musik hinausgeht. Würdevoll und bewegend.
 
-::genre::doom metal, heavy metal
+::genre::epic doom metal, doom metal, heavy metal
 
 ### Scheitern Dreitausend - Unentschieden für immer
 
@@ -584,9 +566,9 @@ Ein deutsches Projekt, dessen Name und Titel eine so präzise Beschreibung des Z
 
 ### Season Of Melancholy - In Sleep
 
-Ein Projekt, das mit diesem Namen jede Erwartung an Heiterkeit im Vorfeld ausräumt. **Doom Metal**, **Death Doom** und **Atmospheric Doom**. Schleppende Riffs, tiefe Growls und Keyboardflächen, die alles in Grau tauchen. Legt euch hin, das ist der richtige Umgang mit dieser Platte! Das Album folgt der großen Tradition des melodischen Death Doom und nimmt sich alle Zeit, die es braucht — Stücke entwickeln sich über lange Strecken, mit einzelnen Melodielinien, die sich durch die Schwere hindurcharbeiten wie Licht durch dichte Wolken. Zwischen den tiefen Passagen stehen klare Gesangsmomente und akustische Zwischenspiele. Thematisch geht es um Schlaf als Zuflucht und als Verwandter des Todes. Ein schön trostloses, sehr geschlossen wirkendes Album für Hörer mit ausreichend Geduld und Melancholieverträglichkeit.
+Eine ukrainische Band, deren zweites Album zwischen 2018 und 2024 entstand — unter Bedingungen, die man niemandem wünscht. **Death Doom Metal**, **Gothic Metal** und **Atmospheric Doom Metal**. Schleppende Riffs, getragene Melodien und ein Wechsel aus Growls und klarem Gesang. Hört genau hin, dahinter steckt mehr als Musik! Begonnen während der Pandemie, weitergeführt nach Beginn des Angriffskriegs, gearbeitet ohne Strom, ohne Verbindung und unter Beschuss — und trotzdem ist daraus ein geschlossenes Werk von zwölf Stücken und über vierzig Minuten geworden. Erzählt wird von einem Menschen, der im Schlaf aus dem Leben gehen möchte, ohne Beichte und ohne Abschied; das Intro *Stage 3 / Deep Sleep* führt in die erste Phase, die letzte ist der Tod. Die Musik trägt diese Idee mit großer Ruhe. Ein schweres, sehr ernsthaftes Album.
 
-::genre::death doom metal, doom metal, atmo doom metal, gothic metal
+::genre::death doom metal, gothic metal, atmo doom metal, doom metal
 
 ### Severoth - Waves
 
@@ -620,21 +602,15 @@ Die japanische Avantgarde-Legende um Mirai Kawashima, seit Ende der Achtziger ei
 
 ### Sight Of Theia - The Great Dreamer *
 
-Ein Projekt, benannt nach der Titanin Theia — in einer Theorie jener Protoplanet, dessen Einschlag den Mond schuf. **Progressive Metal**, **Post Metal** und **Atmospheric Sludge**. Weite Klangräume, schwere Riffs und Passagen, die zwischen Zartheit und Wucht pendeln. Nehmt euch Zeit, hier wird groß gedacht! Das Album entwirft eine Klangwelt von kosmischen Ausmaßen, in der sich langsame Aufbauten über Minuten hinweg zu massiven Höhepunkten türmen, bevor alles wieder in ruhige, fast ambiente Zonen zurückfällt. Die Gitarrenarbeit wechselt zwischen glasklaren, hallenden Figuren und Wänden aus tiefer Verzerrung. Thematisch geht es um Schöpfung, Träume und die Frage, wer oder was das Ganze eigentlich träumt. Ein ambitioniertes, atmosphärisch beeindruckendes Album für Hörer, die sich gern in Musik verlieren.
+Eine Progressive-Metal-Band aus Atlanta, Georgia, die ihr Debüt in Eigenregie veröffentlicht. **Progressive Metal**, **Cinematic Metal** und **Technical Metal**. Wuchtige Riffs, filigranes Zusammenspiel und Atmosphäre, die den Raum weit macht. Schnallt euch an, das geht ins All! Das Album erzählt eine Science-Fiction-Geschichte im Geist des kosmischen Grauens: Astronauten auf einer Tiefraummission treffen auf eine uralte Entität — Cthulhu, um genau zu sein. Von *Children of the Uplift* bis *Alea Iacta Est* wird dieser Bogen konsequent durchgehalten, mit Einflüssen, die von *Mastodon* über *Leprous* bis *Meshuggah* reichen und trotzdem zu einer eigenen Sprache verschmelzen. Zwischen den donnernden Grooves stehen atmosphärische Passagen und Melodien, die länger nachhallen als erwartet. Ein erstaunlich reifes, cineastisches Debüt. Sehr stark.
 
-::genre::prog metal, post metal, atmo sludge, post rock
-
-### Skuggor - Mycodeath and Rebirth in the Outer Clusters
-
-Ein Projekt mit schwedischem Namen und einem Titel, der Pilzsterben und kosmische Wiedergeburt zusammenbringt — willkommen im ganz tiefen Untergrund. **Atmospheric Black Metal**, **Space Ambient** und **Drone**. Weite Synthesizer-Flächen, entfernte Gitarren und Strukturen, die eher wachsen als fortschreiten. Verliert euch ruhig, das ist der Sinn der Sache! Das Album baut eine Klangwelt aus organischem Verfall und interstellarer Leere, in der biologische und kosmische Prozesse dieselbe Sprache sprechen. Die Stücke entwickeln sich mit äußerster Geduld, mit Passagen, in denen minutenlang kaum etwas geschieht, bevor sich unvermittelt eine neue Schicht öffnet. Die Vocals sind kaum mehr als ein Hauch am Rand des Hörbaren. Ein sperriges, hypnotisches Werk für Freunde des völlig entgrenzten Undergrounds.
-
-::genre::atmo black metal, drone, dark ambient
+::genre::prog metal, cine metal, tech death metal, prog death metal
 
 ### Skuggor - The Expanse
 
-Dasselbe Projekt, dieselbe Woche, ein zweites Album — im Untergrund gelten offenbar andere Veröffentlichungsregeln. **Dark Ambient**, **Drone** und **Atmospheric Black Metal**. Tiefe Flächen, minimale Bewegung und eine Weite, die im Titel schon angekündigt ist. Kopfhörer auf und den Rest vergessen! Wo das Schwesteralbum noch mit organischem Verfall arbeitet, geht es hier vollständig ins Leere — die Stücke bestehen über weite Strecken aus langsam wandernden Tonschichten, in denen sich einzelne Ereignisse wie ferne Signale abzeichnen. Metallische Elemente tauchen nur noch als Textur auf, nicht mehr als Struktur. Es ist Musik, die den Begriff Song komplett hinter sich gelassen hat und stattdessen mit Raum, Dauer und Druck arbeitet. Ein forderndes, tief meditatives Album für sehr geduldige Ohren.
+Das Soloprojekt von *M.*, einem australischen Multiinstrumentalisten im Norden Schwedens, der hier sein viertes Album vorlegt — Nachfolger von *Where Sun Resigns*. **Atmospheric Black Metal**, **Dark Ambient** und **Drone**. Weite Tremolo-Flächen, ferne Schreie und Strukturen, die eher wachsen als fortschreiten. Zieht euch was Warmes an, hier draußen ist niemand! Das Album stellt die Schönheit der nordischen Landschaft gegen eine durchgehende Unterströmung aus Einsamkeit und stiller Trostlosigkeit, und genau diese Doppelnatur trägt die sechs Stücke. Die Musik nimmt sich viel Zeit: Ein Motiv wird gesetzt, minutenlang gehalten und kaum merklich verschoben, bis sich der ganze Raum verändert hat. Zwischen den dichten Passagen bricht alles fast vollständig weg und lässt eine Stille stehen, die schwerer wiegt als der Lärm davor. Hypnotisch, kalt und außerordentlich geduldig gebaut. Sehr stark.
 
-::genre::dark ambient, drone, atmo black metal, space ambient
+::genre::atmo black metal, dark ambient, drone
 
 ### Slaughter & the Dogs - White Heat
 
@@ -644,15 +620,15 @@ Die Punk-Veteranen aus Manchester, die seit 1975 zur ersten Welle des britischen
 
 ### Sleep - Hempispheres
 
-Die kalifornische Doom-Institution um Matt Pike und Al Cisneros, deren Riffs seit den Neunzigern das Genre definieren. **Stoner Doom**, **Doom Metal** und **Psychedelic Metal**. Tonnenschwere Riffs, hypnotische Wiederholung und Basslinien, die die Wände bewegen. Ihr wisst genau, was hier zu tun ist! Das Album folgt der bewährten Formel und zelebriert sie mit derselben Hingabe wie eh und je: Riffs, die sich über Minuten hinweg kaum verändern und genau dadurch ihre Trance-Wirkung entfalten, unterlegt von Cisneros' monotonen, fast liturgischen Gesangslinien. Der Wortwitz im Titel ist so plump wie erwartbar, und das gehört dazu. Zwischen den schweren Passagen öffnen sich psychedelische Zonen, in denen Pikes Gitarre in die Weite zieht. Für Anhänger ein Fest, für alle anderen völlig unverständlich.
+Die Rückkehr der Stoner-Doom-Institution, acht Jahre nach *The Sciences* — und erstmals ohne Matt Pike an der Gitarre. **Stoner Doom**, **Doom Metal** und **Stoner Metal**. Tonnenschwere Riffs, endlose Wiederholung und ein Bass, der den Boden verschiebt. Setzt euch hin, das dauert und soll es auch! Al Cisneros hat sich für diese fünf Stücke *Dale Crover* von den *Melvins* ans Schlagzeug und *Bubba Dupree* von *Void* an die Gitarre geholt, aufgenommen im Studio der Melvins mit Toshi Kasai. Die Besetzungsänderung hört man — die Gitarre klingt kantiger und weniger auf den einen großen Ton hin gebaut als früher — aber der unverwechselbare Sog bleibt vollständig erhalten. Von *Have Spacesuit Will Travel* bis *Whole Wheat Mountain* wird das Tempo konsequent unten gehalten. Über *Third Man Records* erschienen. Schwer, hypnotisch, genau richtig.
 
 ::genre::stoner doom, doom metal, psych metal, stoner metal
 
 ### Slovenians - Birds Of Disgrace
 
-Ein Projekt, dessen Name eine Herkunft behauptet und dessen Titel eher an eine Anklage erinnert. **Post Punk**, **Art Punk** und **Noise Rock**. Kantige Gitarren, treibende Rhythmen und ein Gesang, der eher deklamiert als singt. Rechnet mit Widerhaken! Das Album arbeitet mit einer angespannten, ungemütlichen Grundstimmung, aus der sich immer wieder erstaunlich eingängige Passagen lösen, bevor sie sofort wieder zerlegt werden. Die Rhythmusgruppe bleibt konsequent nach vorne gerichtet, während die Gitarren querstehen und für die Reibung sorgen. Thematisch geht es um Schande, Verantwortung und die Frage, wer eigentlich wegschaut. Es ist politischer Post Punk ohne Parolen — die Haltung liegt in der Musik selbst. Ein kantiges, intelligentes Album, das seine Zuhörer ernst nimmt und ihnen nichts erleichtert.
+Punk-Veteranen aus Brüssel, die seit 2012 im europäischen Untergrund unterwegs sind und ihr drittes Album bei *Mottow Soundz* vorlegen. **Punk Rock**, **Hardcore Punk** und **Stoner Rock**. Roher Punk-Druck, melodische Spannung und ein Schuss Blues, der aus dem Rahmen fällt. Ballt die Faust, hier wird nichts beschönigt! Die dreizehn Stücke gehen Sucht, Trauer, Scham, gesellschaftliche Heuchelei, Einsamkeit und schlichtes Überleben direkt an — *Somebody Help*, *Creep Inside* oder *Doctor Doctor* verhandeln privaten Zusammenbruch und öffentliches Versagen im selben Atemzug. Musikalisch ist das die ambitionierteste Platte der Band: dringlicher als früher, aber mit mehr Luft in den Arrangements und einer hörbaren Portion Lebenserfahrung. Kein Album, das jung tun will. Ehrlich, laut und richtig gut. Sehr überzeugend.
 
-::genre::post punk, art punk, noise rock, punk rock
+::genre::punk rock, hardcore punk, stoner rock
 
 ### Sofie Royer - before/after
 
@@ -662,21 +638,21 @@ Die in Wien und Los Angeles beheimatete Künstlerin, deren Pop immer einen Schri
 
 ### Soft Loft - Throw The Dice
 
-Ein Projekt, dessen Name nach hoher Decke und Nachmittagslicht klingt und dessen Titel das Risiko ins Spiel bringt. **Indie Pop**, **Dream Pop** und **Jangle Pop**. Weiche Gitarren, luftige Arrangements und Melodien, die sich Zeit lassen. Macht das Fenster auf und lasst es hereinwehen! Das Album lebt von einer entspannten Beiläufigkeit, hinter der ein überraschend präzises Songwriting steckt — die Refrains kommen nie mit Anlauf, sondern schleichen sich ein und sitzen dann fest. Die Produktion hält alles angenehm luftig, mit viel Raum zwischen den Instrumenten und einem Hall, der eher wärmt als verschleiert. Thematisch geht es um Entscheidungen, die man nicht kontrollieren kann, und um die Erleichterung, das endlich zu akzeptieren. Ein sonniges, unaufdringliches Album mit langer Halbwertszeit.
+Ein Zürcher Quintett um Sängerin Jorina Stamm, das mit seinem zweiten Album neun Stücke in gut fünfundzwanzig Minuten unterbringt. **Indie Pop**, **Dreampop** und **Indie Rock**. Klare Melodien, warme Keyboards und ein Gesang, der nie um Aufmerksamkeit bitten muss. Werft die Würfel, es geht sowieso weiter! Das Album handelt von Identität, vom Älterwerden und vom Abstreifen der Vorstellungen davon, wie ein Leben auszusehen hat — Themen, die schnell schwer werden könnten und hier erstaunlich leicht bleiben. Von *Where Is Mr. Raccoon* bis *Told* ist alles kompakt gehalten, ohne dass etwas gehetzt wirkt; die Single *Gravity's Pull* zeigt gut, wie die Band Eingängigkeit und Eigensinn zusammenbringt. Die Arrangements lassen viel Raum und setzen Details sparsam. Eine charmante, sehr sympathische Platte. Macht gute Laune.
 
-::genre::indie pop, dreampop, jangle pop, indie rock
+::genre::indie pop, dreampop, indie rock, jangle pop
 
 ### SOFT VEIN - All We've Known of Heaven
 
-Ein Projekt, dessen Titel eine Zeile von Emily Dickinson aufgreift und damit einen literarischen Anspruch anmeldet. **Darkwave**, **Ethereal Wave** und **Post Punk**. Weite Hallräume, kalte Synthesizer und ein Gesang, der eher schwebt als führt. Zieht euch etwas Langes an und dimmt das Licht! Das Album bewegt sich in einer wunderschön kühlen Zwischenwelt, in der klassische Wave-Ästhetik auf moderne Produktion trifft, ohne dass eines von beidem die Oberhand gewinnt. Die Stücke entwickeln sich langsam, mit sparsamen Rhythmen und Gitarren, die eher als Farbe denn als Struktur eingesetzt werden. Thematisch geht es um Sehnsucht, Verlust und um das Wenige, das wir vom Jenseits zu wissen glauben. Ein elegantes, atmosphärisch geschlossenes Album für Freunde der schönen Traurigkeit.
+Ein kalifornisches Elektronikprojekt, dessen drittes Album bei *Artoffact Records* erscheint — gemastert von Jason Corbett der Band *ACTORS*. **Synth Pop**, **Sophisti-Pop** und **Dreampop**. Weiche Synthflächen, elegante Basslinien und ein Gesang, der die Melancholie nicht versteckt. Dimmt das Licht, das glänzt trotzdem! Gemeinsam mit Andrea Mantione von *Nuovo Testamento* produziert, ist das eine verträumte, ungewöhnlich elegante Auslegung des Synthpop — vertraut in den Mitteln und trotzdem erfrischend, weil die Sophisti-Pop-Anleihen dem Ganzen eine Wärme geben, die dem Genre oft fehlt. Thematisch geht es um Nostalgie, Romantik, Heimweh und die Frage, wie man sich in der Gegenwart zurechtfindet, ohne daran zu zerbrechen. Aufgenommen im Winter zwischen Los Angeles und Vancouver. Ein schönes, sehr stimmiges Album.
 
-::genre::dark wave, ethereal wave, post punk, dreampop
+::genre::synth pop, sophisti-pop, dreampop, new wave
 
 ### Soho Dukes - Don’t Spare The Horses
 
-Ein Projekt, das seinen Namen aus dem Londoner Nachtleben zieht und dessen Titel zum Tempo auffordert. **Garage Rock**, **Rock'n'Roll** und **Pub Rock**. Dreckige Gitarren, stampfende Rhythmen und ein Gesang mit reichlich Nikotin. Runter mit dem Glas, es geht los! Das Album ist eine schnörkellose Feier des schnellen, unsauberen Rock'n'Roll, wie er in kleinen Clubs am besten funktioniert. Die Stücke bleiben kurz, die Riffs kommen aus der Hüfte, und der Refrain ist meistens schon nach dem ersten Durchgang mitzugrölen. Die Produktion verzichtet auf jede Politur und lässt die Band klingen, als stünde sie tatsächlich im Raum. Es gibt hier keine tieferen Botschaften und braucht auch keine — das hier ist Musik für laute Abende mit fragwürdigem Ausgang. Ein grundehrliches Vergnügen.
+Ein Livealbum, aufgenommen im Bedford Esquires am letzten Abend der Tour mit den *Quireboys*, erschienen bei *Duchess Records*. **Pub Rock**, **Garage Rock** und **Rock'n'Roll**. Dampfende Riffs, kesse Bläser und britische Exzentrik in Reinform. Stellt euch mit an die Theke, die Band spielt schon! Statt eines neuen Studioalbums bündelt die Platte das Beste aus drei bisherigen Alben zu einem Abend, und genau das ist ihre Stärke: Man hört einer Band zu, die live erkennbar mehr ist als auf Konserve. Der Sound bleibt roh, das Publikum ist präsent, und keiner der Songs wird sauberer gespielt, als er sein müsste. Zwischen den Krachern stehen augenzwinkernde Ansagen und Zeilen, die genau wissen, wie viel Wahrheit man in einen Refrain packen kann. Eine ausgelassene Feier des Rock'n'Roll. Herrlich unbekümmert.
 
-::genre::garage rock, pub rock, punk rock
+::genre::pub rock, garage rock, rock'n'roll, hard rock
 
 ### Spirit Mother - Thistle
 
@@ -692,15 +668,15 @@ Die Band aus Chicago, die kurzen, nervösen Post Punk mit maximaler Effizienz sp
 
 ### Still Insane - When Friendship's Not Enough
 
-Ein Projekt, dessen Titel eine schmerzhafte Erkenntnis formuliert, die vermutlich jeder kennt. **Melodic Hardcore**, **Skatepunk** und **Punk Rock**. Hohes Tempo, Zwillingsgitarren und Refrains mit Gänsehautgarantie. Auf die Bretter und los! Das Album folgt der klassischen Schule des melodischen Punk aus den Neunzigern: schnelle Strophen, große Refrains, Soli, die kurz genug bleiben, um nicht anzugeben. Die Produktion ist klar und druckvoll, ohne den Songs die Energie zu nehmen. Thematisch geht es um Freundschaften, die an ihre Grenzen kommen, um Loyalität und um das Eingeständnis, dass guter Wille manchmal einfach nicht reicht. Es ist nichts, was das Genre neu erfindet, aber es ist mit einer Aufrichtigkeit gespielt, die man sofort hört. Ein mitreißendes, warmherziges Album.
+Eine Melodic-Punk-Band aus Québec City, die mit diesem Album bei *Thousand Islands Records* ihr zwanzigjähriges Bestehen begeht. **Melodic Hardcore**, **Skatepunk** und **Punk Rock**. Schnelle Gitarren, große Melodien und Refrains, die auf Mitsingen gebaut sind. Springt mit, zwanzig Jahre wollen gefeiert werden! Die zwölf Stücke drehen sich um persönliche Beziehungen, um Unabhängigkeit und um das, was zwei Jahrzehnte gemeinsames Musikmachen mit Leuten anstellt — der Titel klingt bitterer, als das Album am Ende ist. *Together* rückt genau diese Verbundenheit in den Mittelpunkt, während *Do What You Want* sich dagegen wehrt, fremden Erwartungen zu entsprechen. Musikalisch bleibt alles im besten Sinne unverändert schnell und melodisch. Ein Album, das seine eigene Geschichte kennt und trotzdem nach vorne schaut. Richtig sympathisch.
 
 ::genre::melo hardcore, skatepunk, punk rock, pop punk
 
 ### Stormbringer - Transcendence
 
-Ein Projekt, das seinen Namen aus Moorcocks Fantasy-Universum bezieht und damit die Erwartungshaltung präzise setzt. **Power Metal**, **Heavy Metal** und **Progressive Metal**. Galoppierende Riffs, hohe Gesangslinien und Soli, die sich Zeit für Melodie nehmen. Zieht das Schwert, es geht los! Das Album liefert klassischen europäischen Power Metal ohne Ironie: hymnische Refrains, doppelte Bassdrum und Arrangements, die im richtigen Moment ins Epische kippen. Zwischen den schnellen Nummern finden sich längere, progressiv angelegte Stücke, in denen sich die Band Raum für Entwicklung nimmt. Thematisch geht es um Überschreitung, um das Hinauswachsen über die eigenen Grenzen — die üblichen großen Bilder, mit voller Überzeugung vorgetragen. Handwerklich sauber, melodisch stark und für Freunde des Genres eine sichere Bank.
+Eine Band aus Northamptonshire, deren fünftes Album bei *Attic Records* erscheint und von Russ Russell (*Napalm Death*, *At The Gates*, *The Wildhearts*) produziert wurde. **Hard Rock**, **Heavy Metal** und **Classic Rock**. Griffige Riffs, große Refrains und eine zeitgemäße Kante am klassischen Fundament. Dreht auf, das gehört laut! Die zehn Stücke in gut vierzig Minuten verhandeln Widrigkeiten, Widerstandskraft und Selbstannahme — und die Frage, wie persönliche Kämpfe mit der Lage der Welt zusammenhängen. Musikalisch bleibt die Band bei dem, was sie kann: klassischer Rock mit Metal-Gewicht, sauber gespielt und ohne Umwege. Die Single *Energy* gibt den Ton gut vor. Aufgenommen in den Parlour Studios in Kettering, klingt das entsprechend druckvoll und aufgeräumt. Kein Album, das jemanden überrascht, aber ein ausgesprochen selbstsicheres. Sehr solide.
 
-::genre::power metal, heavy metal, prog metal, melo metal
+::genre::hard rock, heavy metal, classic rock, melo hard rock
 
 ### Strut - Strut
 
@@ -710,9 +686,9 @@ Ein Projekt, das mit selbstbetiteltem Debüt und einem Namen wie diesem eindeuti
 
 ### Sworn - Null Crowned The Infinite
 
-Ein Projekt, dessen Titel klingt, als hätte man einer mathematischen Formel eine Krone aufgesetzt. **Blackened Death Metal**, **Dissonant Death Metal** und **Progressive Black Metal**. Schräge Harmonien, komplexe Rhythmen und eine bedrohliche Grundstimmung. Verlasst euch auf nichts, was ihr zu kennen glaubt! Das Album bewegt sich in der dissonanten Ecke des modernen Extreme Metal, in der Riffs nicht als Melodie, sondern als Spannungsträger funktionieren. Die Stücke bauen sich in Schichten auf, die nie ganz zusammenpassen wollen, und genau daraus entsteht der beunruhigende Sog. Zwischen den dichten Passagen öffnen sich kurze, fast stille Momente, die die Wirkung noch verstärken. Thematisch geht es um Leere als höchstes Prinzip, um die Nichtigkeit als Herrscherin. Ein anspruchsvolles, kompromisslos düsteres Album.
+Eine Band aus Bergen, deren fünftes Album bei *Napalm Records* erscheint — gemischt von Jens Bogren, mit Artwork von Pär Olofsson. **Melodic Black Metal**, **Black Metal** und **Symphonic Black Metal**. Weite Tremolo-Melodien, gekeuchte Vocals und Arrangements mit ordentlich Weite. Schaut nach oben, dort ist nichts als Dunkelheit! Das Konzeptalbum erzählt den Kreislauf des Kosmos vom ersten Funken in der Leere bis zum unvermeidlichen Ende und verhandelt dabei die Zerbrechlichkeit von Existenz in einer ursprünglichen Leere — Realität und Zeit entstehen aus dem Nichts, um dorthin zurückzufallen. Sechs Stücke von *The Starless Origin* bis *Circle of the Eternal* ziehen diesen Bogen ohne Leerlauf durch. Bogrens Mischung gibt dem Ganzen enorme Klarheit, ohne die Kälte wegzupolieren. Ein groß gedachtes, hervorragend produziertes Album. Sehr stark.
 
-::genre::blackened death metal, dissonant death metal, prog black metal, avant metal
+::genre::melo black metal, black metal, symphonic black metal
 
 ### Syd Matters - A Gospel of Some Sort
 
@@ -734,9 +710,9 @@ Die Garage-Rock-Veteranen aus Detroit, die in ihrer frühen Besetzung einst eine
 
 ### The Lürxx - Exile From Mainstream
 
-Ein Projekt, das sich Umlaute in den Namen setzt und im Titel gleich klarstellt, wo es sich verortet. **Punk Rock**, **Garage Punk** und **Glam Punk**. Schnelle Riffs, schnodderiger Gesang und null Interesse an Kompromissen. Rein in die Kutte und los! Das Album macht seinen Titel zum Programm und liefert eine Serie kurzer, ungehobelter Stücke, die absichtlich jede Anschlussfähigkeit verweigern. Die Gitarren sind laut und unsauber, die Refrains sind zum Mitgrölen gebaut, und die Produktion lässt jeden Kratzer stehen. Thematisch geht es um das Außenseitertum als bewusste Entscheidung, um den Stolz darauf, nicht dazuzugehören. Nichts hier ist raffiniert, und genau das ist der Punkt. Ein direktes, energiegeladenes Album für alle, die den Mainstream ohnehin nie vermisst haben.
+Eine ungewöhnliche Hard-Rock-Band, die sich selbst als antispeziesistischen Glam Punk bezeichnet und tatsächlich mit Blockflöte antritt. **Glam Punk**, **Hard Rock** und **Punk Rock**. Gitarre, Gesang, Blockflöte und Schlagzeug — mehr Besetzung gibt es nicht, mehr braucht es offenbar auch nicht. Vergesst die Erwartung, hier stimmt planmäßig nichts! Die zehn Stücke sind eine seltsame Mischung aus Umweltwissenschaft und Punk, aus Wut und Hoffnung, aus Groove und Poesie — die Band selbst verortet sich irgendwo zwischen *Pearl Jam*, *Mother Love Bone*, den *Peppers* und *Bang Tango*, was erstaunlich gut hinkommt. Inhaltlich geht es um Natur- und Tierrechte, um die Großartigkeit der Natur und um die Forderung nach echter Veränderung, vorgetragen ohne den erhobenen Zeigefinger. Handgemacht, unbehandelt und komplett eigen. Sympathisch schräg.
 
-::genre::punk rock, garage punk, glam punk
+::genre::glam punk, hard rock, punk rock
 
 ### The New Point - Drømmeliv
 
@@ -746,9 +722,9 @@ Ein skandinavisches Projekt, dessen Titel „Traumleben“ bedeutet und damit de
 
 ### The Unknown - Graveyard Of Empires
 
-Ein Projekt mit einem Titel, der auf Afghanistan als historischen Friedhof der Großmächte anspielt. **Death Metal**, **Blackened Death Metal** und **Doom**. Schwere Riffs, tiefe Vocals und eine Atmosphäre aus Staub und Verfall. Macht euch auf etwas Bleiernes gefasst! Das Album arbeitet mit einer bedrückenden Schwere, die sich eher aus dem Tempo als aus der Lautstärke ergibt — vieles hier kriecht, staut sich und entlädt sich erst spät. Zwischen den zähen Passagen brechen kurze, rasende Ausbrüche durch, die wie Panikattacken wirken. Thematisch geht es um Imperien, ihren Hochmut und ihr Ende, um Geschichte als sich wiederholende Katastrophe. Die Produktion bleibt roh genug, um das Ganze bedrohlich zu halten. Ein schwerer, düsterer Brocken mit klarer Haltung und ordentlich Atmosphäre.
+Eine 2022 gegründete Band aus Connecticut, deren zweites Album bei *Mission 84 Productions* erscheint. **Heavy Metal**, **Power Metal** und **Thrash Metal**. Wuchtige Riffs, orchestrale Schichten und Instrumente, die man im Metal selten hört — Tabla und Cello inklusive. Macht die Anlage lauter, hier ist mehr los als erwartet! Das Album verbindet traditionellen Heavy Metal mit deutlichen nahöstlichen Einflüssen und erzählt von der Zerstörung von Nationen, Kulturen und menschlichem Potenzial durch Krieg, Besatzung und Gier. *Ardennes Offensive* geht dabei auf die Erlebnisse von Sänger Matt Fishers Großvater in der Ardennenoffensive zurück, was dem Ganzen eine sehr persönliche Ebene gibt. Zwischen den harten Passagen stehen progressive und orchestrale Abschnitte, die dem Album Weite verschaffen. Ein ambitioniertes, thematisch dichtes Werk. Richtig gut.
 
-::genre::death metal, blackened death metal, doom metal, sludge metal
+::genre::heavy metal, power metal, thrash metal, prog metal
 
 ### The World On Edge - LP1
 
@@ -758,9 +734,9 @@ Ein Projekt, das sein Debüt schlicht durchnummeriert und damit jede Interpretat
 
 ### Toxic Goat - Medieval Violence
 
-Ein Projekt, dessen Name und Titel jede Frage nach Ernsthaftigkeit sofort beantworten. **Blackened Thrash**, **Speed Metal** und **Crossover**. Rasende Riffs, gekeifter Gesang und eine Produktion, die den Dreck feiert. Rüstung an und rein ins Getümmel! Das Album ist eine unbekümmerte, hochenergetische Angelegenheit, die den Spaß am Genre über jede stilistische Feinheit stellt. Die Stücke bleiben kurz und schnell, mit Riffs, die direkt aus dem Achtziger-Untergrund stammen könnten, und Soli, die sich um Sauberkeit nicht scheren. Thematisch geht es um Schwerter, Blut und mittelalterliche Grobheiten, vorgetragen mit einem Augenzwinkern, das man auch ohne Textblatt hört. Es ist keine Musik für die Ewigkeit, aber sie macht in ihrer halben Stunde eine Menge Spaß. Herrlich unseriös.
+Eine argentinische Band aus San Isidro bei Buenos Aires, deren zweites Album bei *Metal Command Records* erscheint. **Blackened Thrash**, **Black Metal** und **Speed Metal**. Sägende Riffs, gekeuchte Vocals und ein Tempo ohne Rücksicht. Kopf runter, hier wird nichts erklärt! Das Album bleibt konsequent bei dem, was der Bandname verspricht: Blasphemie, Gewalt, Antiklerikalismus und Okkultismus, vorgetragen mit der ungeschliffenen Direktheit der südamerikanischen Untergrundszene. Musikalisch trifft die Kälte des Black Metal auf den Vorwärtsdrang des Thrash, ohne dass eine Seite gewinnt — es bleibt schnell, dreckig und angenehm frei von moderner Politur. Zwischen den Attacken stehen ein paar schwere, marschierende Abschnitte, die dem Ganzen Struktur geben. Ein ehrliches, energisches Album ohne jeden Firlefanz. Genau so soll das klingen.
 
-::genre::blackened thrash, speed metal, crossover thrash, black metal
+::genre::blackened thrash, black metal, speed metal, thrash metal
 
 ### Uniklubi - Encore
 
@@ -770,33 +746,33 @@ Die finnische Rockband, die in den Zweitausendern zu den größten Namen der hei
 
 ### Vanessa Funke - Aura
 
-Eine Künstlerin, deren Album schon im Titel auf das Unsichtbare zeigt, das um Menschen und Dinge herum liegt. **Ambient Pop**, **Neo Classical** und **Art Pop**. Klavierlinien, Streicherflächen und eine Stimme, die eher schwebt als artikuliert. Setzt euch hin und lasst es wirken! Das Album arbeitet an der Grenze zwischen Song und Klangbild — es gibt Melodien und Strukturen, aber sie lösen sich immer wieder in Flächen auf, in denen einzelne Töne minutenlang nachhallen. Die Instrumentierung bleibt sparsam und akustisch geprägt, mit elektronischen Elementen, die eher als Farbe denn als Rhythmus eingesetzt werden. Es entsteht eine Musik von großer Ruhe, die trotzdem nie langweilig wird, weil sich unter der Oberfläche ständig etwas verschiebt. Ein schönes, sehr konzentriertes Album für stille Stunden.
+Eine Musikerin, die ihre Alben im Alleingang schreibt und einspielt — *Aura* ist bereits das fünfte in ebenso vielen Jahren, erschienen auf *Liminal Dread Productions*. **Melodic Death Metal**, **Gothic Metal** und **Black Metal**. Melodische Leadgitarren, harsche Vocals und eine Atmosphäre, die eher trauert als wütet. Macht die Anlage lauter, hier ist jemand sehr fleißig! Das Album führt seine acht Stücke von *Last Dawn* bis *Into the Night* durch einen einzigen langen Abend, und diese Klammer ist hörbar Absicht. Musikalisch trifft die Melodik der schwedischen Schule auf gotische Schwere und die Kälte des Black Metal, ohne dass eine Seite die Oberhand gewinnt. Dass hier alles aus einer Hand kommt, merkt man dem Album positiv an: Es klingt geschlossen, ohne je beliebig zu werden. Zwischen den härteren Passagen stehen getragene, fast andächtige Momente. Ein erstaunlich souveränes Ein-Personen-Werk.
 
-::genre::ambient pop, neo classical, art pop, modern classic
+::genre::melo death metal, gothic metal, black metal
 
 ### Veilcaste - Hellward
 
-Ein Projekt, dessen Titel eine Richtungsangabe ist, die man besser nicht befolgt. **Blackened Doom**, **Death Doom** und **Sludge Metal**. Extrem langsame Riffs, tiefe Growls und eine Atmosphäre von absoluter Aussichtslosigkeit. Rechnet nicht damit, dass es besser wird! Das Album zieht seine Wirkung aus schierer Schwere: die Stücke kriechen mit einer Beharrlichkeit voran, die man körperlich spürt, unterbrochen nur von gelegentlichen Ausbrüchen, die eher wie Verzweiflung als wie Aggression wirken. Die Produktion ist dicht und dumpf, was den bedrückenden Charakter noch verstärkt. Zwischen den zermahlenden Passagen öffnen sich karge, fast ambiente Zonen, in denen die Stille noch bedrohlicher klingt als der Lärm. Ein sehr schweres, unversöhnliches Album für Hörer mit robuster Stimmungslage.
+Ein Fünfer, der mit *Hellward* bereits das vierte Album in sechs Jahren vorlegt — erschienen bei *Third House Communication*. **Doom Metal**, **Sludge Metal** und **Post Metal**. Melodische Schwere, brütender Zorn und die Laut-Leise-Dynamik des Post Metal. Setzt euch hin, das drückt von allen Seiten! Die neun Stücke von *Embedded* bis *I am the Guillotine* verbinden die melodische Seite des Doom mit der Gehässigkeit des rauen Sludge und einer ambienten Weite, die dem Ganzen Luft verschafft. Was das Album auszeichnet, ist die Balance: Es ist schwer genug, um körperlich zu wirken, und melodisch genug, um nicht bloß zu erschlagen. Zwischen den lastenden Passagen öffnen sich Abschnitte, in denen die Musik fast schwebt, bevor die nächste Woge einsetzt. Ein sehr rundes, ausgereiftes Album. Sehr stark.
 
-::genre::blackened doom, death doom metal, sludge metal, funeral doom
+::genre::doom metal, sludge metal, post metal, atmo sludge
 
 ### Vredesverk - The Sanguine Heir
 
-Ein Projekt mit skandinavischem Namen, dessen Titel einen Erben in Blut ankündigt. **Melodic Black Metal**, **Blackened Death Metal** und **Symphonic Black Metal**. Kalte Tremolo-Linien, orchestrale Elemente und ein Kreischgesang mit Hall. Kerzen an, das wird feierlich und unangenehm! Das Album verbindet die Kälte des skandinavischen Black Metal mit einer ausgeprägten Melodik und gelegentlichen symphonischen Aufschwüngen, die das Ganze ins Erhabene heben, ohne es zu überladen. Die Stücke sind sorgfältig aufgebaut, mit klaren Steigerungen und Passagen, in denen die Band bewusst zurücktritt, um die Wucht danach größer wirken zu lassen. Thematisch geht es um Erbfolge, Blutlinien und die Last der Herkunft. Ein gut gemachtes, atmosphärisch dichtes Album, das dem Genre nichts Neues hinzufügt, es aber sauber bedient.
+Eine schwedische Band, die den melodischen Death Metal ihrer Heimat ohne Umwege bedient. **Melodic Death Metal** und **Death Metal**. Verzahnte Gitarrenharmonien, harsche Vocals und ein Schlagzeug mit ordentlich Vortrieb. Macht die Anlage lauter, das kommt von vorne! Das Album steht fest in der Göteborger Tradition, ohne sich darin einzurichten: Die Melodielinien tragen die Stücke, aber sie werden regelmäßig von härteren, direkteren Passagen unterbrochen, die verhindern, dass alles zu glatt wird. Thematisch bleibt es im Bereich von Blut, Erbe und Vergänglichkeit, was zum Titel passt und ohne große Erklärung auskommt. Was gefällt, ist die Ökonomie: Kein Stück ist länger als nötig, kein Solo steht im Weg. Ein solides, sauber gespieltes Album, das genau weiß, wofür es antritt. Für Freunde des Genres eine sichere Sache.
 
-::genre::melo black metal, blackened death metal, symphonic black metal
+::genre::melo death metal, death metal
 
 ### Vulture Neck - Vulture Neck
 
-Ein selbstbetiteltes Debüt mit einem Namen, der nach kahlem Hals und schlechten Absichten klingt. **Noise Rock**, **Sludge Metal** und **Post Hardcore**. Verzerrter Bass, schneidende Gitarren und ein Gesang, der eher kreischt als singt. Nichts hier ist als angenehm gedacht! Das Album setzt konsequent auf Reibung: die Riffs sind absichtlich unbequem, die Rhythmen stolpern, und die Produktion drückt alles zu einer dichten, unangenehmen Masse zusammen. Zwischen den lauten Passagen liegen kurze, seltsam ruhige Momente, die die nachfolgende Eskalation nur noch heftiger wirken lassen. Es gibt keine Refrains im üblichen Sinn, sondern Wiederholungen, die sich langsam in den Kopf bohren. Ein raues, ungefälliges Debüt, das seine Wirkung nicht aus Schönheit, sondern aus purer körperlicher Präsenz zieht.
+Ein Power-Trio aus Hägersten in Stockholm, 2018 gegründet, das nach einer gefeierten EP nun sein selbstbetiteltes Debütalbum vorlegt. **Stoner Rock**, **Sludge Metal** und **Doom Metal**. Zähe Riffs, klassische Hard-Rock-Wurzeln und eine rebellische Grundhaltung. Dreht auf, das wird schmutzig! Gegenüber der EP ist alles größer angelegt: mehr sludgige Umgebung, mehr Gewicht, aber immer noch dieselbe Trio-Haltung, die nichts beschönigt. Zwischen Doom, Sludge und psychedelischen Ausflügen laufen die Stücke auf einem Gipfel aus klassischen Hard-Rock-Motiven zusammen. Textlich bleibt es düster — *Rat Riders*, *Phantom Carriage* und *Bright Lights Descending* deuten die Richtung schon in den Titeln an. Ein warmes, dreckiges und ausgesprochen groovendes Debüt, dem man die schwedische Herkunft anhört. Richtig gut.
 
-::genre::noise rock, sludge metal, post hardcore, mathcore
+::genre::stoner rock, sludge metal, doom metal, heavy psych
 
 ### Wall Breaker - Breaking Down
 
-Ein Projekt, dessen Name und Titel gemeinsam ungefähr eine Bauabrissgenehmigung ergeben. **Hardcore**, **Beatdown** und **Metallic Hardcore**. Zermalmende Breakdowns, gebrüllte Vocals und Riffs ohne jedes Beiwerk. Aufstehen und Platz machen! Das Album verfolgt ein sehr klares Ziel und erreicht es zuverlässig: maximale körperliche Wirkung in minimaler Zeit. Die Stücke sind kurz, die Strukturen simpel, und alles läuft auf den Moment zu, in dem das Tempo abfällt und das Riff sich in Zeitlupe entlädt. Die Produktion ist tief und trocken, ohne jede Verzierung. Thematisch geht es um Zusammenbruch, Druck und den Versuch, sich zu behaupten — die vertrauten Themen des Genres, vorgetragen mit vollem Ernst. Kein Album für Feinheiten, aber eines, das genau weiß, wofür es da ist.
+Eine Band aus Baltimore und New Jersey, die nach acht Jahren, einer Pandemie und dem Erstarken des Faschismus mit dreizehn wütenden Ausbrüchen zurückkommt. **Hardcore Punk**, **Thrashcore** und **Punk Rock**. Rasende Tempi, gebellte Vocals und eine Produktion, die eher dokumentiert als gestaltet. Macht Platz, das geht sofort los! Die Platte schwelgt in allem, was *Poison Idea*, *SSD* und *Ripcord* ausgemacht hat, versetzt mit einer ordentlichen Portion Thrashcore der Zweitausender. Die Stücke sind kurz, hart geschnitten und lassen keine Sekunde Leerlauf zu — Titel wie *Old White Male* oder *Ain't No Flag Shagger* machen keinen Hehl daraus, wogegen sie sich richten. Bei *Grindpromotion Records* erschienen, mit zwei zusätzlichen Stücken auf der CD. Ungeschliffen, schnell und komplett unversöhnlich. Genau richtig.
 
-::genre::beatdown, metallic hardcore, hardcore punk
+::genre::hardcore punk, thrashcore, punk rock
 
 ### XEPA - BURRIED IN WHITE
 
@@ -806,9 +782,9 @@ Ein Projekt, das seinen Titel in Versalien und mit Schreibfehler setzt — die �
 
 ### Zahna - Break Or Breakthrough
 
-Eine Künstlerin, die härteren Rock mit klarer Botschaft verbindet und dabei keine halben Sachen macht. **Hard Rock**, **Alternative Metal** und **Modern Rock**. Druckvolle Gitarren, große Refrains und ein Gesang mit erheblicher Reichweite. Kopf hoch und mitsingen! Das Album stellt seine Frage schon im Titel und beantwortet sie im Verlauf sehr deutlich — hier geht es um den Moment, in dem Druck entweder zerbricht oder befreit, und die Musik nimmt konsequent die zweite Position ein. Die Produktion ist modern und kraftvoll, mit Riffs, die sitzen, und Refrains, die für große Räume gebaut sind. Zwischen den harten Nummern stehen ruhigere Stücke, in denen die Stimme allein trägt. Es ist unverhohlen aufbauend, ohne dabei je hohl zu wirken. Ein energiegeladenes, positives Album mit ordentlich Druck.
+Eine Heavy-Rock-Künstlerin, deren Album bei *XOVR Records* erscheint — dem Label von Brian „Head“ Welch von *Korn*. **Hard Rock**, **Alternative Metal** und **Modern Rock**. Wuchtige Gitarren, aggressiver Gesang und eine cineastische Produktion. Haltet euch fest, hier wird es persönlich! Die zehn Stücke verbinden harten Rock, Metalcore-Intensität und eine dunkle Pop-Atmosphäre, produziert und gemischt von Kellen McGregor (*Memphis May Fire*). Thematisch geht es um den Moment, in dem man an einen Bruchpunkt kommt und entscheiden muss, was danach passiert — um Überleben, Konfrontation, Trauma, Vergebung und Widerstandskraft. *Defiler* mit Brian „Head“ Welch als Gast wurde der erste Charterfolg des Labels und zeigt gut, wie Härte und Eingängigkeit hier zusammengehen. Ein druckvolles, sehr direktes Album. Stark.
 
-::genre::hard rock, alt metal, modern rock, post grunge
+::genre::hard rock, alt metal, modern rock, metalcore
 
 ### Zebrahead - I.O.
 
@@ -828,13 +804,13 @@ Ein Projekt, dessen Name den Zustand nach dem Rausch beschreibt und dessen Titel
 
 ### Aklì - Teatras
 
-Ein Projekt, dessen Titel im Litauischen „Theater“ bedeutet und damit eine Bühne aufmacht. **Post Rock**, **Experimental Rock** und **Chamber Rock**. Ungewöhnliche Instrumentierung, wechselnde Dynamik und Arrangements mit dramaturgischem Aufbau. Setzt euch hin, der Vorhang geht auf! Das Album behandelt jedes Stück wie eine kleine Szene, mit eigener Stimmung, eigenem Aufbau und einem klaren Punkt, an dem sich alles entlädt. Die Instrumentierung reicht über die übliche Rockbesetzung hinaus, mit Streichern und Blasinstrumenten, die den Stücken eine kammermusikalische Qualität geben. Zwischen den ruhigen Passagen stehen Ausbrüche von erheblicher Wucht, die genau dosiert eingesetzt werden. Es entsteht Musik von großer erzählerischer Kraft, die vollständig ohne Text auskommt. Ein durchdachtes, atmosphärisch reiches Album mit echter Spannungskurve.
+Eine litauische Band, die im sechsten Jahr ihres Bestehens ihr viertes Album vorlegt — zwei Jahre lang entwickelt und ausgearbeitet. **Alternative Rock**, **Art Rock** und **Indie Rock**. Vielschichtige Arrangements, wechselnde Stimmungen und eine Reihe unerwarteter Gäste aus der heimischen Szene. Setzt euch hin, hier wird Theater gespielt! Das Konzeptalbum handelt von den gesellschaftlichen Rollen, die wir im Alltag spielen — öffentlich wie hinter verschlossenen Türen. Bandkopf Kristijonas hat sich diesmal bewusst über die eigene Biografie hinausbewegt und erfundene Figuren, ihre Geschichten und ihr Innenleben erkundet, was dem Album eine erzählerische Weite gibt, die den Vorgängern fehlte. Musikalisch stecken viele überraschende Wendungen darin, ohne dass der Zusammenhalt verloren geht. Litauisch gesungen, in der Wirkung aber vollkommen klar. Ein mutiges, sehr durchdachtes Werk.
 
-::genre::post rock, experimental rock, chamber rock, instrumental
+::genre::alt rock, art rock, indie rock, post rock
 
 ### Also Eden - Holy Books And Credit Cards 2: Waves *
 
-Die britische Neo-Prog-Band, die seit Jahren in der Tradition der melodischen Achtziger-Progschule arbeitet. **Neo Prog**, **Progressive Rock** und **Art Rock**. Ausgedehnte Arrangements, klarer Gesang und Keyboardflächen mit Wärme. Setzt euch hin und lasst euch Zeit nehmen! Die Fortsetzung des Konzeptalbums führt die Auseinandersetzung mit Glauben, Kommerz und der Frage weiter, woran Menschen sich eigentlich halten. Musikalisch bleibt alles in bewährtem Neo-Prog-Fahrwasser: lange Stücke mit mehreren Abschnitten, melodische Gitarrensoli und Keyboardarbeit, die eher trägt als glänzt. Die Band verzichtet erfreulicherweise auf technische Angeberei und stellt stattdessen das Songwriting in den Vordergrund. Es ist warm produziert, sorgfältig gebaut und für Freunde des melodischen Prog eine verlässliche Sache. Ein durchdachtes, angenehm unaufgeregtes Album.
+Der zweite von drei EPs, die die britische Prog-Band im Laufe des Jahres veröffentlicht — statt eines klassischen Albums. **Neo Progressive**, **Progressive Rock** und **Art Rock**. Verschachtelte Arrangements, warme Keyboards und ein Gesang, der die Texte trägt statt sie zu überlagern. Nehmt euch die halbe Stunde, sie lohnt sich! Sänger Huw Lloyd-Jones hat die Entscheidung offen begründet: Es gab schlicht zu viel Material für eine Platte, und der alte Zyklus aus Album und Tour funktioniert für Bands dieser Größe nicht mehr. Das Ergebnis ist weniger zermürbend, günstiger in der Herstellung und erlaubt es, das Material unterwegs weiterzuentwickeln — ein Ansatz, der hörbar guttut. Thematisch geht es um eine Welt, in der der Missbrauch von Geld und Religion nebeneinanderher läuft und die Kluft zwischen Arm und Reich vertieft. Klug gedacht und richtig gut gespielt.
 
 ::genre::neo prog, prog rock, art rock, symphonic prog rock
 
@@ -846,9 +822,9 @@ Ein Projekt, dessen Titel eine Abkürzung enthält, die nach Internet und nach S
 
 ### Avern - Unique And Eternal *
 
-Ein Projekt, dessen Name an den Avernersee erinnert, in der Antike als Zugang zur Unterwelt betrachtet. **Atmospheric Black Metal**, **Dark Ambient** und **Blackgaze**. Weite Klangflächen, kalte Gitarren und ein Gefühl von Tiefe und Abstieg. Nehmt eine Lampe mit, es geht abwärts! Das Album arbeitet mit langen, geduldigen Aufbauten, in denen sich einzelne Motive über Minuten hinweg entfalten, bis sie den ganzen Raum füllen. Die Vocals bleiben ein fernes Rauschen, mehr Atmosphäre als Aussage. Zwischen den dichten Passagen liegen ambiente Zonen, in denen nur einzelne Töne nachhallen. Der Titel behauptet Einzigartigkeit und Ewigkeit, und die Musik nimmt diesen Anspruch ernst — hier wird in großen Zeiträumen gedacht. Ein atmosphärisch geschlossenes, sehr stimmungsvolles Album für Freunde des kontemplativen Extremen.
+Ein Quartett aus Barcelona, dessen Album im Frühjahr 2026 im Sonic Riot Studio von Gitarrist Paco Delgado aufgenommen, gemischt und gemastert wurde. **Black Metal**, **Death Metal** und **Punk Rock**. Schwere Riffs, dunkle Energie und eine Grundhaltung, die aus dem Punk kommt. Dreht auf, hier wird nichts geglättet! Die sechs Stücke von *The Idea Of Death* bis *The Three Mothers' Curse* sind roher, organischer Untergrund-Metal ohne jede Studiokosmetik — man hört die Band im Raum, und das ist erkennbar die Absicht. Die Punk-Attitüde gibt dem Ganzen einen Vorwärtsdrang, der dem Genre oft fehlt: Es wird nicht ausgewalzt, sondern durchgezogen. Javi Guerreros Vocals kommen aus dem Hals statt aus der Kehle, was gut zur ungeschliffenen Anlage passt. Kurz, dreckig und ausgesprochen wirkungsvoll. Sehr solide.
 
-::genre::atmo black metal, dark ambient, blackgaze, post black metal
+::genre::black metal, death metal, punk rock
 
 ### Barbarian Prophecies - Echoes
 
@@ -858,9 +834,9 @@ Die chilenische Death-Metal-Band, die seit den Neunzigern zur festen Größe der
 
 ### Cadaver De Cabra - Cadaver De Cabra
 
-Ein Projekt, dessen Name auf Spanisch „Ziegenkadaver“ bedeutet und damit jede Erwartung an Wohlklang beseitigt. **Grindcore**, **Death Metal** und **Powerviolence**. Extrem kurze Stücke, rasende Blastbeats und Vocals, die nach nichts Menschlichem klingen. Blinzelt nicht, sonst ist es vorbei! Das selbstbetitelte Album prügelt seine Stücke in einem Tempo herunter, das kaum Zeit lässt, sie einzeln wahrzunehmen — vieles ist nach einer Minute erledigt, manches nach zwanzig Sekunden. Die Produktion bleibt roh und übersteuert, ganz im Sinne der Tradition. Zwischen den Ausbrüchen stehen gelegentliche Doom-Passagen, die wie kurze Atempausen wirken, bevor es wieder losgeht. Thematisch geht es um Verwesung, Ekel und schwarzen Humor. Ein kompromissloses, sehr kurzes Album für Liebhaber des extrem Schnellen.
+Eine Band aus Madrid, deren selbstbetiteltes Debüt live in einem einzigen Take im Sonido Custom aufgenommen wurde. **Sludge Metal**, **Stoner Doom** und **Doom Metal**. Zähe Riffs, dröhnende Verstärker und ein Gewicht, das man im Zimmer spürt. Räumt die Regale leer, hier wackelt alles! Die sechs Stücke — *No Rules Only Sludge*, *Ketamine Zombie*, *Satan Blues*, *Aquelarre*, der Titeltrack und *Cheddar Brain* — sind ein viszerales, ungefiltertes Statement: schwere Musik ohne Filter, geformt aus Verfall, Lautstärke und Untergrundgeist. Dass alles live eingespielt wurde, hört man in jedem Takt, und genau das gibt der Platte ihre Glaubwürdigkeit. Für Freunde von *Electric Wizard*, *Dopethrone*, *Weedeater*, *Eyehategod* und *Sourvein* eine sichere Sache. Roh und richtig gut.
 
-::genre::grindcore, death metal, powerviolence, goregrind
+::genre::sludge metal, stoner doom, doom metal
 
 ### cat online - Endlessly
 
@@ -870,9 +846,9 @@ Ein Projekt, dessen Name so vollständig ins Internetzeitalter zeigt, dass eine 
 
 ### Coffin Torture - Seism
 
-Das Duo aus South Carolina, das seit Jahren extrem schweren, ungehobelten Sludge produziert. **Sludge Metal**, **Doom Metal** und **Noise Rock**. Verzerrter Bass, kriechende Riffs und ein Gesang, der eher Lärm als Sprache ist. Stellt was Schweres in den Weg, es kommt sonst durch! Das Album zieht seine Wirkung aus schierer Masse und aus der Weigerung, irgendetwas zu erklären — die Stücke bauen sich aus wenigen, extrem tief gestimmten Riffs auf, die so lange wiederholt werden, bis sie physisch spürbar sind. Die Produktion ist bewusst dreckig, mit einer Verzerrung, die alles zusammendrückt. Zwischen den zähen Passagen brechen kurze, panische Beschleunigungen durch. Es ist unfreundliche, aggressive Musik ohne jeden Wohlfühlmoment, und genau so soll es sein. Ein brutal ehrliches Album.
+Ein Duo aus Westminster, South Carolina — Thorfinn und Blind Samson — das zwischen März und September 2025 im eigenen RTS Studio aufgenommen hat. **Doom Metal**, **Sludge Metal** und **Noise Rock**. Zähe Riffs, programmierte Drums, Synths und Samples, die alles verschieben. Macht euch auf etwas Ungemütliches gefasst! Die sieben Stücke von *Kuz'ka's Mother* bis *Echoing Lifeforms Beneath the Surface* bewegen sich in einem Bereich, in dem Doom und Sludge auf elektronische Texturen treffen, ohne dass daraus ein Stilbruch würde. Dass hier nur zwei Leute am Werk sind, hört man dem Album nicht an — die Dichte ist beachtlich. Zwischen den lastenden Passagen stehen seltsam stille Momente, die noch bedrohlicher wirken als der Lärm davor. Ein sperriges, eigenwilliges Album aus dem tiefen Untergrund. Sehr eigen.
 
-::genre::sludge metal, doom metal, noise rock, stoner metal
+::genre::doom metal, sludge metal, noise rock, stoner metal
 
 ### Colt Cobra - Decadence
 
@@ -894,19 +870,19 @@ Ein Projekt, das sich im Namen selbst charakterisiert und damit vermutlich recht
 
 ### Dozethrone - Death Holds The Blossom
 
-Ein Projekt, dessen Name die Schläfrigkeit auf den Thron setzt und damit die Geschwindigkeit ankündigt. **Doom Metal**, **Stoner Doom** und **Psychedelic Doom**. Extrem langsame Riffs, verhallter Gesang und eine Atmosphäre aus Rauch und Trägheit. Setzt euch bequem hin, das dauert! Das Album zelebriert die Langsamkeit als eigenständige Qualität — Riffs werden so lange ausgedehnt, bis sie ihre eigene Schwerkraft entwickeln, unterlegt von einer Rhythmusgruppe, die sich Zeit nimmt wie ein Gletscher. Zwischen den bleiernen Passagen öffnen sich psychedelische Zonen mit hallenden Gitarren und weiten Klangräumen. Der Titel verbindet Tod und Blüte zu einem Bild von Vergänglichkeit, das die Musik in ihrer ganzen Trägheit ausbuchstabiert. Ein schweres, hypnotisches Album für alle, die im Doom die Meditation suchen.
+Ein Zweiergespann aus Singapur, dessen drei Stücke vollständig ohne Gesang auskommen. **Instrumental**, **Sludge Metal** und **Doom Metal**. Zähe Riffs, schleppendes Tempo und eine Schwere, die keine Worte braucht. Legt euch hin, das drückt von selbst! Die drei Stücke — *Moonlight on the Scythe*, *Black Silence Flowers Within* und der Titeltrack — nehmen sich alle Zeit der Welt und arbeiten mit Wiederholung als Prinzip: Ein Riff läuft so lange, bis es sich körperlich anfühlt, und verschiebt sich dann kaum merklich. Der Verzicht auf Gesang tut dem Ganzen gut, weil nichts von der Bewegung ablenkt und die Gitarren die gesamte erzählerische Arbeit übernehmen. Zwischen den schweren Passagen öffnen sich kurze, fast melodische Momente. Ein konzentriertes, sehr geduldiges Stück Instrumental-Doom. Schön schwer.
 
-::genre::doom metal, stoner doom, psych doom, sludge metal
+::genre::instrumental, sludge metal, doom metal, stoner doom
 
 ### ESP - The Experiment *
 
-Ein Projekt, das mit Initialen und einem Titel wie diesem bewusst im Ungefähren bleibt. **Progressive Rock**, **Krautrock** und **Experimental Electronic**. Wandernde Sequenzen, unerwartete Klangfarben und Strukturen, die sich selbst infrage stellen. Lasst euch drauf ein, hier gibt es keinen Fahrplan! Das Album macht seinen Titel zum Verfahren und behandelt jedes Stück als Versuchsanordnung — Motive werden eingeführt, verzerrt, wieder verworfen, und was am Ende steht, hat mit dem Anfang oft wenig gemein. Die Instrumentierung mischt analoge Synthesizer, Gitarren und akustische Klänge zu etwas, das man zeitlich schwer einordnen kann. Zwischen den experimentellen Passagen finden sich überraschend eingängige Momente, die wie Belohnungen wirken. Ein neugieriges, offenes Album für Hörer, die das Suchen mehr schätzen als das Ankommen.
+Ein Projekt aus dem britischen Crossover-Prog, das sich zwischen klassischer Songform und weiten Klanglandschaften bewegt. **Crossover Prog**, **Progressive Rock** und **Electronica**. Geschichtete Synthesizer-Orchestrierungen, Gitarrenarbeit mit Sorgfalt, Orgel und ein Rhythmusgefühl, das gelegentlich Richtung Downtempo kippt. Nehmt euch Zeit, das entfaltet sich langsam! Das Album verbindet progressive Strukturen mit einer erstaunlich zugänglichen Melodik: Die Stücke sind komplex gebaut, ohne dass man sich beim Hören anstrengen müsste. Zwischen den ausgearbeiteten Passagen stehen ruhige, fast trip-hop-artige Abschnitte, in denen sich der Puls verlangsamt und die Texturen in den Vordergrund treten. Was das Ganze zusammenhält, ist eine klare Handschrift in der Klanggestaltung — hier hat jemand sehr genau gewusst, wie das klingen soll. Warm, atmosphärisch und sorgfältig gemacht.
 
-::genre::prog rock, krautrock, experimental electronica, space rock
+::genre::crossover prog, prog rock, electronica
 
 ### Flower Children Of The Apocalypse - Forgotten Things *
 
-Ein Projekt, dessen Name die Blumenkinder direkt in den Weltuntergang verpflanzt — ein guter Ausgangspunkt. **Psychedelic Folk**, **Acid Folk** und **Neo Psychedelia**. Akustische Gitarren, mehrstimmiger Gesang und eine Produktion, die nach altem Tonband klingt. Setzt euch ins Gras und schaut zu, wie es brennt! Das Album verbindet die Sanftheit des Sechziger-Folk mit einer unterschwelligen Bedrohlichkeit, die nie ganz greifbar wird und genau deshalb wirkt. Die Melodien sind schön, fast liedhaft, aber die Arrangements enthalten immer wieder Klänge, die nicht ganz hineinpassen. Thematisch geht es um Vergessenes, um Dinge und Menschen, die aus der Erinnerung gefallen sind. Es ist warm und unheimlich zugleich, was eine seltene Kombination ist. Ein wunderschön eigenartiges Album mit langem Nachhall.
+Ein australisches Kollektiv, das nach eigener Auskunft psychedelische Musik für das Kali Yuga macht — und das ist durchaus ernst gemeint. **Psychedelic Folk**, **Acid Folk** und **Neo Psychedelia**. Verwobene Akustikgitarren, verhallte Stimmen und Arrangements, die eher wuchern als gebaut wirken. Setzt euch ins Gras, die Welt geht ohnehin unter! Das Album lebt vom losen, kollektiven Zugang: Es klingt, als wären mehrere Leute in einen Raum gegangen und hätten so lange gespielt, bis etwas entstand — mit allen Unschärfen, die dazugehören. Zwischen den folkigen Passagen öffnen sich längere, treibende Abschnitte, in denen die Psychedelik die Führung übernimmt. Der Titel deutet auf Vergessenes und Liegengebliebenes hin, und genau so fühlt sich die Musik an: wie etwas, das man in einer Schublade gefunden hat. Warm, verschroben und sehr eigen.
 
 ::genre::psych folk, acid folk, neo psychedelia, dark folk
 
@@ -936,9 +912,9 @@ Das Projekt von Jonathan Relph aus Toronto, das seit Jahren wunderbar verhangene
 
 ### Jazingsen - The Equation of Jazingsen *
 
-Ein Projekt, das seinen eigenen Namen zur Gleichung erklärt und damit einen gewissen Humor beweist. **Jazz Fusion**, **Avant Jazz** und **Progressive Rock**. Ungerade Taktarten, vertrackte Themen und ein Zusammenspiel mit hoher Präzision. Kopf einschalten, hier wird gerechnet! Das Album bewegt sich in der komplexen Ecke der Fusion, in der Improvisation und Komposition kaum noch zu trennen sind. Die Themen sind verwinkelt, die Soli entwickeln sich über lange Strecken, und die Rhythmusgruppe wechselt Metren, als wäre nichts dabei. Trotz aller Komplexität bleibt eine Spielfreude spürbar, die verhindert, dass das Ganze zur reinen Übung verkommt. Zwischen den vertrackten Passagen stehen ruhigere, fast melodische Momente. Ein anspruchsvolles, hochmusikalisches Album für Freunde der ernsthaften Fingerarbeit.
+Ein Projekt, das sich zwischen moderner Klassik und Crossover bewegt und dabei konsequent den eigenen Namen in den Titel schreibt. **Modern Classic**, **Contemporary Classical** und **Instrumental**. Klavier und Streicher im Mittelpunkt, sparsam gesetzte Elektronik und viel Raum dazwischen. Setzt euch aufrecht hin, das will gehört werden! Das Album behandelt seine Gleichung tatsächlich wie eine Rechnung: Motive werden aufgestellt, variiert, gegeneinander gestellt und am Ende zu etwas zusammengeführt, das mehr ist als die Summe der Teile. Die Stücke bleiben kompakt und verzichten auf jede Effekthascherei — die Wirkung entsteht aus Harmonik und Timing, nicht aus Lautstärke. Zwischen den ruhigeren Passagen stehen unvermittelt dichtere Momente, in denen sich mehrere Schichten übereinanderlegen. Ein feines, konzentriertes Album mit langem Nachhall. Sehr schön.
 
-::genre::jazz fusion, avant jazz, prog rock, instrumental
+::genre::modern classic, contemporary classical, instrumental, neo classical
 
 ### Jogging House - Really
 
@@ -960,9 +936,9 @@ Ein Künstler, der sein Album nach der Merkhilfe für die Regenbogenfarben benen
 
 ### Lilith's Demise - Death Becomes Her
 
-Ein Projekt, das mit Namen und Filmzitat im Titel eine sehr klare Ästhetik ansteuert. **Symphonic Metal**, **Gothic Metal** und **Melodic Death Metal**. Orchestrale Arrangements, klarer Frauengesang im Wechsel mit Growls und große Refrains. Vorhang auf, das wird theatralisch! Das Album spielt die bewährte Formel des symphonischen Metal mit erkennbarer Hingabe: opulente Streicherarrangements, harte Gitarren und ein Wechselspiel zwischen zwei sehr unterschiedlichen Gesangsstimmen. Die Produktion ist groß angelegt, mit viel Raum für die orchestralen Elemente. Thematisch geht es um weibliche Macht, Verwandlung und die Umkehrung alter Rollenbilder, was dem Genre gut steht. Es erfindet nichts neu, aber es ist mit einer Ernsthaftigkeit und einem handwerklichen Anspruch gemacht, die man sofort hört. Ein dramatisches, gut gebautes Album.
+Eine Deathcore-Band aus Miami, deren erstes vollwertiges Album auf die EP *Lilith In Aries* von 2024 folgt — gemischt und gemastert von Gitarrist David Bautista. **Deathcore** und **Metalcore**. Tief gestimmte Gitarren, gutturale Vocals und Breakdowns, die den Boden gefährden. Räumt alles Zerbrechliche weg, es geht sofort los! Die elf Stücke von *Raise The Curtain* über *Glameater* und *Primadonna* bis *See You Next Tuesday* sind eine erstaunlich unironische Verbeugung vor der Deathcore-Ära der späten Nullerjahre — man hat das Album schon als eines der wahrhaftigsten Myspace-Deathcore-Projekte überhaupt bezeichnet, und das trifft es ziemlich gut. Zahlreiche Gastauftritte lockern das Ganze auf, ohne den Fokus zu verwässern. Wer die Zeit miterlebt hat, wird hier bestens bedient. Laut, albern und richtig unterhaltsam.
 
-::genre::symphonic metal, gothic metal, melo death metal, melo metal
+::genre::deathcore, metalcore
 
 ### lola kitty - her mess
 
@@ -990,9 +966,9 @@ Ein Ensemble, dessen Name eine ganze Szenerie aufmacht, bevor auch nur ein Ton e
 
 ### Macky Ar - Sever Inertia
 
-Ein Projekt, dessen Titel dazu auffordert, die Trägheit endlich zu durchtrennen. **Industrial**, **EBM** und **Techno**. Harte Beats, metallische Texturen und ein unerbittlicher Puls. Aufstehen, hier wird nichts gefragt! Das Album arbeitet mit maschineller Beharrlichkeit: Rhythmen laufen ohne Ausweichmöglichkeit durch, überlagert von Klängen, die eher aus einer Fabrikhalle als aus einem Studio zu stammen scheinen. Zwischen den druckvollen Passagen liegen kurze, kalte Ambient-Zonen, die als Atempausen dienen, bevor der Puls wieder einsetzt. Die gelegentlichen Vocals sind so verzerrt, dass sie zur Textur werden. Thematisch geht es um Bewegung als Zwang und als Befreiung zugleich. Ein körperliches, kompromissloses Album, das sowohl auf der Tanzfläche als auch mit Kopfhörern funktioniert.
+Ein Projekt aus dem progressiven Lager, dessen Album im Grenzbereich zwischen Crossover und klassischem Prog liegt. **Crossover Prog**, **Progressive Rock** und **Art Rock**. Verschachtelte Strukturen, warme Keyboards und Gitarrenarbeit mit erkennbarer Sorgfalt. Nehmt euch Zeit, das hat mehrere Ebenen! Das Album macht seinem Titel Ehre und arbeitet konsequent gegen den Stillstand: Kaum hat sich eine Passage eingerichtet, wird sie verschoben, umgebaut oder aufgelöst. Trotz aller Bewegung bleibt eine klare Melodieführung erkennbar, die verhindert, dass die Komplexität zum Selbstzweck wird. Zwischen den vertrackten Abschnitten stehen ruhige, fast lyrische Momente, in denen einzelne Instrumente viel Platz bekommen. Es ist Prog, der sich nicht an die Siebziger klammert, sondern die Form als offenes Feld behandelt. Sorgfältig gebaut und ausgesprochen hörbar.
 
-::genre::idm, ebm, dark electronica
+::genre::crossover prog, prog rock, art rock
 
 ### Maeker - JUMPER!
 
@@ -1008,9 +984,9 @@ Ein Projekt, dessen Titel als Abkürzung und Auflösung zugleich daherkommt und 
 
 ### Max Fry - better luck next time
 
-Ein Projekt, dessen Titel wie eine achselzuckende Verabschiedung klingt. **Indie Rock**, **Slacker Rock** und **Bedroom Pop**. Lockere Gitarren, verschleppte Rhythmen und ein Gesang, der sich nicht anstrengt. Nehmt es nicht so schwer, sagt schon der Titel! Das Album kultiviert eine liebenswerte Gleichgültigkeit, hinter der deutlich mehr Handwerk steckt, als der lässige Ton vermuten lässt — die Melodien sitzen präzise, die Arrangements sind sorgfältig ausgedünnt, und nichts steht zufällig da. Die Texte handeln von Fehlschlägen, verpassten Gelegenheiten und der Kunst, damit umzugehen, ohne daran zu zerbrechen. Zwischen den beiläufigen Momenten blitzen erstaunlich schöne Passagen auf. Ein warmes, unaufgeregtes Album, das man immer wieder auflegt, ohne genau sagen zu können, warum.
+Ein Songwriter aus Florida, der im Orlander Untergrund groß geworden ist und daraus eine sehr eigene, verwaschene Form von Emo entwickelt hat. **Shoegaze**, **Emo** und **Post Punk**. Verhallte Gitarrenwände, tief liegende Beats und ein Gesang, der halb im Nebel verschwindet. Legt euch hin, das kommt näher, als euch lieb ist! Das zweite Album zieht seine Wirkung aus der Reibung zwischen Shoegaze-Weite und der Direktheit des Emo-Rap, ohne sich für eine Seite zu entscheiden — Singles wie *pretend* oder *sinner* zeigen genau diese Doppelnatur. Thematisch geht es um Beziehungen, um Selbstbefragung und ziemlich unverstellt um psychische Gesundheit, vorgetragen ohne die übliche Pose der Abgeklärtheit. Zwischen den dichten Passagen stehen kurze, fast nackte Momente, in denen nur die Stimme trägt. Der Titel klingt nach Achselzucken, das Album ist deutlich weniger gelassen. Sehr eindringlich.
 
-::genre::indie rock, slacker rock, bedroom pop, lofi
+::genre::shoegaze, emo, post punk, emo rap
 
 ### Molia Vis - Purpurea
 
@@ -1020,39 +996,33 @@ Ein Projekt mit lateinischem Titel, der die Farbe Purpur aufruft — historisch 
 
 ### O.C.H. - An Interpretation of Evil
 
-Ein Projekt, das hinter Initialen bleibt und im Titel gleich eine Auslegungsfrage stellt. **Black Metal**, **Dissonant Black Metal** und **Dark Ambient**. Kalte Gitarren, unbequeme Harmonien und lange Passagen ohne Auflösung. Erwartet keine Antworten! Das Album behandelt das Böse nicht als Pose, sondern als Gegenstand einer beunruhigend nüchternen Untersuchung — die Musik ist weniger aggressiv als bedrückend, mit Riffs, die im Kreis laufen und dabei immer enger werden. Zwischen den dichten Abschnitten liegen ambiente Zonen von großer Kälte. Die Vocals bleiben zurückgenommen, mehr Kommentar als Ausbruch. Die Produktion ist trocken und ungeschönt, was die klaustrophobische Wirkung verstärkt. Ein forderndes, intellektuell angelegtes Album, das seine Wirkung aus Zurückhaltung statt aus Lautstärke zieht.
+Ein Projekt aus Timișoara in Rumänien, das die Rohheit der zweiten Black-Metal-Welle mit der Aggression der ersten kurzschließt. **Black Metal**, **Blackened Thrash** und **Raw Black Metal**. Sägende Riffs, gekeuchte Vocals und eine Produktion, die nichts glättet. Kopf runter, in einer halben Stunde ist alles vorbei! Elf Stücke in gut dreißig Minuten lassen keine Zeit für Atmosphäre im gemütlichen Sinn — von *Hoe-like Witches* über *Chants of the Peasants* bis *Schizomaniac* wird durchgezogen, mit Titeln, die zwischen Folklore, Misanthropie und schwarzem Humor pendeln. Musikalisch ist das kompromissloser Untergrund, bei *Nekro Morgue Productions* erschienen und ohne jedes Interesse an moderner Sauberkeit. Gerade die Kürze macht es wirksam: Nichts wird ausgewalzt, jeder Einfall bekommt genau so viel Platz, wie er verträgt. Ein grimmiges, sehr direktes Album. Genau richtig.
 
-::genre::black metal, dissonant black metal, dark ambient, avant black metal
+::genre::black metal, blackened thrash, raw black metal
 
 ### Perfect Tense - Against the Crowd
 
-Ein Projekt, dessen Name eine Zeitform ist und dessen Titel eine Haltung beschreibt. **Post Punk**, **Indie Rock** und **New Wave**. Kantige Gitarren, treibender Bass und ein Gesang mit trockener Distanz. Stellt euch quer, das ist die Ansage! Das Album verbindet die Nervosität des Post Punk mit einem klaren Sinn für Melodie und schafft damit Stücke, die gleichzeitig sperrig und eingängig sind. Die Arrangements bleiben schlank, mit einer Rhythmusgruppe, die die Führung übernimmt, und Gitarren, die eher kommentieren als begleiten. Thematisch geht es um das Gegen-den-Strom-Schwimmen, um die Kosten und den Gewinn des Nichtmitmachens. Die Texte bleiben knapp und präzise, ohne je belehrend zu werden. Ein scharfes, gut sitzendes Album mit klarer Haltung und ordentlich Zug nach vorne.
+Ein litauisches Duo aus Vilnius — Audrius Daukša und Dainius Blažys — das seit 2012 melodischen Progressive Pop schreibt. **Progressive Pop**, **Pop Rock** und **Art Rock**. Warme Keyboards, klare Gitarrenlinien und Melodien, die aus einer anderen Zeit zu stammen scheinen. Legt euch was Bequemes zurecht, das ist zum Zuhören! Das Album kreist um Individualismus, Nonkonformität und darum, den eigenen Weg in einer Welt der Gleichmacherei zu finden — der Titel ist also durchaus programmatisch gemeint. Musikalisch sind die Vorbilder unüberhörbar: *Supertramp*, *10cc*, *Styx* und *Queen* stehen erkennbar Pate, ohne dass daraus bloße Nachahmung wird. Von *Seasonal Ticket* bis *Fat Lady* bleibt alles melodisch, sorgfältig arrangiert und angenehm frei von Effekthascherei. Ein warmes, konzeptionell klares Album. Sehr sympathisch.
 
-::genre::post punk, indie rock, new wave, art punk
+::genre::prog pop, pop rock, art rock, prog rock
 
 ### SANDEKALA - Mata Pedang Penghabisan
 
-Ein indonesisches Projekt, dessen Titel sich als „die Klinge des letzten Schwerts“ lesen lässt. **Black Metal**, **Folk Metal** und **Ritual Ambient**. Kalte Gitarren, traditionelle Instrumente und beschwörender Gesang. Macht euch auf etwas sehr Ortsgebundenes gefasst! Das Album verbindet die Struktur des Black Metal mit javanischen Klangelementen und schafft daraus etwas, das im internationalen Untergrund selten so überzeugend gelingt — die traditionellen Instrumente sind keine Dekoration, sondern tragen die Stücke mit. Zwischen den rasenden Passagen stehen rituelle Zwischenspiele, in denen Perkussion und Gesang die Führung übernehmen. Thematisch schöpft alles aus lokaler Mythologie und Geschichte. Es entsteht eine Atmosphäre, die tatsächlich nach einem bestimmten Ort klingt und nicht nach dem globalen Genre-Standard. Ein faszinierendes, eigenständiges Album.
+Eine indonesische Band, die gotische Schwere mit symphonischem Black Metal verbindet. **Symphonic Black Metal**, **Black Metal** und **Gothic Metal**. Orchestrale Flächen, Tremolo-Gitarren und eine Atmosphäre, die eher beschwört als angreift. Zündet die Kerzen an, die Klinge ist schon gezogen! Der Titel deutet auf die letzte Schneide, auf das Ende eines Kampfes, und das Album nimmt diese Bildsprache ernst: Es geht um Endgültigkeit, um Rituale und um Mythen, die älter sind als alle Beteiligten. Musikalisch verbindet die Band die Kälte des Black Metal mit orchestralen Arrangements und gelegentlichen folkloristischen Anklängen, ohne dass daraus ein Stilbaukasten wird. Zwischen den rasenden Passagen stehen getragene, fast feierliche Abschnitte, in denen die Symphonik das Kommando übernimmt. Ein atmosphärisch dichtes, eigenständiges Album aus einer selten gehörten Szene. Sehr stimmig.
 
-::genre::black metal, folk metal, ritual music, ambient, world music
+::genre::symphonic black metal, black metal, gothic metal
 
 ### Sardonic Witchery - Hell's Thorns Attack
 
-Ein Untergrund-Projekt, das mit Namen und Titel unmissverständlich in der rohen Schule der frühen Neunziger verankert ist. **Raw Black Metal**, **Blackened Thrash** und **Speed Metal**. Schepperndes Schlagzeug, dünne Gitarren und ein Kreischgesang, der aus einem Kassettendeck zu kommen scheint. Holt die Nietenarmbänder raus und dreht die Höhen auf! Das Album verweigert jede Form von Modernisierung und liefert stattdessen genau das, was seine Zielgruppe erwartet: schnelle, ungeschliffene Stücke mit Riffs, die eher aus dem Handgelenk als aus dem Proberaum kommen, garniert mit gelegentlichen Soli, die sich um Sauberkeit nicht kümmern. Thematisch bewegt sich alles in vertrautem okkultem Terrain. Es ist absichtlich primitiv, absichtlich schmutzig und für Liebhaber dieser Ästhetik genau richtig. Alle anderen werden es nach einer Minute abschalten.
+Ein portugiesisches Projekt um King Demogorgon und G. Lucis Ruina, das mit dem fünften Album eine deutlich aggressivere Phase einläutet. **Blackened Thrash**, **Raw Black Metal** und **Speed Metal**. Unerbittliche Riffs, wütende Vocals und eine dunklere, kräftigere Produktion als je zuvor. Kopf runter, hier wird nicht diskutiert! Die acht Stücke von *Crown Of Burning Spikes* bis *Dark Moon Slaughter* graben tiefer in den wilden Black-Thrash, ohne die ungeschliffene Herkunft zu verleugnen — es klingt schlicht durchschlagender als früher. Entstanden ist das Ganze 2025 zwischen Texas und Washington DC, was der geografischen Streuung des Projekts entspricht und dem Album nichts von seiner Geschlossenheit nimmt. Erschienen bei *Firecum Records*. Ein bösartiges, sehr konsequentes Werk. Für Freunde des ungewaschenen Untergrunds ein Fest.
 
-::genre::raw black metal, blackened thrash, speed metal, black metal
-
-### Shilo Sanders - World of Headache
-
-Ein Projekt, dessen Titel eine ziemlich präzise Zustandsbeschreibung liefert. **Noise Rock**, **Slacker Rock** und **Lo-Fi Indie**. Verzerrte Gitarren, schleppende Rhythmen und ein Gesang, der genervt klingt. Nehmt eine Tablette und dreht trotzdem auf! Das Album kultiviert eine liebevoll gepflegte Missgelauntheit, die sich in Riffs übersetzt, die eher stolpern als marschieren, und in Texten, die den Alltag als durchgehende Zumutung behandeln. Die Produktion bleibt roh und flach, was der Sache genau die richtige Müdigkeit verleiht. Zwischen den brummigen Nummern finden sich Momente, in denen plötzlich eine echte Melodie durchbricht und alles kurz aufhellt. Es ist Musik für Tage, an denen nichts funktioniert, und als solche ausgesprochen tröstlich. Ein sympathisch mürrisches kleines Album.
-
-::genre::noise rock, slacker rock, lofi, indie rock
+::genre::blackened thrash, raw black metal, speed metal, black metal
 
 ### Skeletal Throne - Perverse
 
-Ein Projekt, dessen Name und Titel gemeinsam keine Zweifel an der Stoßrichtung lassen. **Death Metal**, **Brutal Death Metal** und **Old School Death Metal**. Tiefe Growls, wuchtige Riffs und ein Schlagzeug ohne Erbarmen. Macht die Tür zu, das muss nicht jeder hören! Das Album liefert klassischen, unverschnittenen Death Metal ohne moderne Verwässerung — die Riffs kommen aus der alten Schule, die Struktur ist geradlinig, und die Produktion behält genug Dreck, um authentisch zu klingen. Zwischen den rasenden Abschnitten stehen schleppende Passagen, in denen die Schwere voll zur Geltung kommt. Thematisch bewegt sich alles im erwartbaren Bereich aus Verfall, Gewalt und Abartigkeit. Es ist nichts, was das Genre voranbringt, aber es ist mit spürbarer Hingabe gemacht und trifft seinen Ton genau. Solide Kost.
+Eine mexikanische Death-Metal-Band aus Ciudad Obregón, die auf zehn Stücken keine Zurückhaltung kennt. **Death Metal**, **Brutal Death Metal** und **Old School Death Metal**. Tief gestimmte Riffs, gutturale Vocals und ein Schlagzeug ohne Interesse an Pausen. Räumt den Tisch ab, gleich fliegt alles! Von *Perverse Fury* über *Divine Ceremony* bis *Devoured by Time* zieht das Album konsequent durch, mit einer Dichte, die kaum Luft zum Atmen lässt. Musikalisch bleibt vieles der alten Schule verpflichtet — Riffs aus der Hüfte, ein Schlagzeug, das drückt statt zu blitzen — versetzt mit brutaleren, modernen Passagen, die dem Ganzen Nachdruck verleihen. Zwischen den Zermalmungsabschnitten blitzen kurze technische Läufe auf, die mehr Können zeigen, als die reine Wucht vermuten lässt. Ein grimmiges, sauber gespieltes Album aus der mexikanischen Szene. Solide Arbeit.
 
-::genre::death metal, brutal death metal, osdm, blackened death metal
+::genre::death metal, brutal death metal, osdm
 
 ### Soul Stroke - Fire Within
 
@@ -1062,15 +1032,15 @@ Ein Projekt, dessen Name und Titel gemeinsam nach Wärme und Bewegung klingen. *
 
 ### Splink - Taklamakan
 
-Ein Projekt, das sein Album nach einer der lebensfeindlichsten Wüsten der Erde benennt. **Post Rock**, **Desert Rock** und **Ambient**. Weite Instrumentalpassagen, hallende Gitarren und ein Gefühl von enormer Leere. Packt Wasser ein, hier gibt es keins! Das Album übersetzt seinen Titel erstaunlich präzise in Klang: die Stücke bewegen sich durch weite, kaum bevölkerte Landschaften, in denen einzelne Motive über lange Strecken allein bleiben, bevor sich langsam Schichten dazugesellen. Die Höhepunkte kommen selten, und wenn, dann mit umso größerer Wirkung. Die Produktion arbeitet mit viel Raum und lässt jeden Ton ausklingen. Es ist Musik von großer Geduld, die den Hörer nicht führt, sondern begleiten lässt. Ein beeindruckend atmosphärisches, meditatives Album für lange Strecken.
+Eine britische Formation, die ihre eigene Musik schlicht als „no rules music“ bezeichnet und mit *Taklamakan* das dritte Album vorlegt. **Progressive Rock**, **Art Rock** und **Instrumental**. Verschachtelte Strukturen, weite Instrumentalstrecken und eine Freude am Umweg. Nehmt euch Zeit, hier führt kein Weg geradeaus! Das titelgebende Stück wurde bereits Anfang 2024 in Southampton uraufgeführt, immer mit der Absicht, irgendwann den Kern eines größeren Ganzen zu bilden — und genau so wirkt das Album: gewachsen statt geplant. Die Wüste des Titels ist gut gewählt, denn die Musik nimmt sich viel Raum und lässt große Strecken bewusst leer, bevor sich wieder etwas verdichtet. Die Single *Cygnus Aria* gibt einen guten Vorgeschmack auf diese Mischung aus Weite und Detailfreude. Eigenwillig, geduldig und mit sichtlichem Vergnügen gespielt. Sehr schön.
 
-::genre::post rock, desert rock, ambient, instrumental
+::genre::prog rock, art rock, instrumental
 
 ### Stolen Flowers of The Dead - Carnations Near The Sorrow Factory
 
-Ein Projekt, das mit Namen und Titel eine ganze Bildwelt aufmacht, bevor der erste Ton erklingt. **Dark Folk**, **Neofolk** und **Gothic Americana**. Akustische Gitarren, sparsame Percussion und ein Gesang, der erzählt statt singt. Setzt euch hin, hier wird berichtet! Das Album arbeitet mit einer düsteren Erzählkunst, in der konkrete Bilder — Blumen, Fabriken, Gräber — zu einer Landschaft der Trauer zusammengesetzt werden. Die Instrumentierung bleibt karg, mit gelegentlichen Streichern oder Orgelklängen, die den Stücken eine sakrale Note geben. Nichts wird ausgeschmückt, alles wirkt bewusst schmucklos, was der Wirkung sehr zugutekommt. Es ist ein ernsthaftes, unmodisches Album über Verlust und Arbeit und den Zusammenhang zwischen beidem. Wunderschön schwer und lange nachhallend.
+Ein Projekt, das kurze Stücke aus manipulierten Schnipseln von Lo-Fi-Instrumentierung baut, aufgenommen im Schlafzimmer. **Ambient**, **LoFi** und **Experimental**. Verwaschene Schleifen, brüchige Texturen und Stücke, die vorbei sind, bevor man sie eingeordnet hat. Setzt die Kopfhörer auf, sonst entgeht euch die Hälfte! Das Album arbeitet mit dem, was übrig bleibt: Fragmente, die aus ihrem ursprünglichen Zusammenhang gerissen, gedehnt und übereinandergelegt werden, bis daraus etwas Neues entsteht. Der Titel mit seinen Nelken vor der Kummerfabrik trifft die Stimmung genau — es geht um kleine, zarte Dinge am Rand von etwas sehr Großem und Trostlosem. Nichts davon drängt sich auf, und gerade darin liegt die Wirkung. Eine stille, sehr private Platte, die man mehrmals hören muss, bevor sie sich öffnet. Unaufdringlich schön.
 
-::genre::dark folk, neo folk, americana
+::genre::ambient, lofi, experimental
 
 ### Ten Times Again - Ten Times Again
 
@@ -1092,9 +1062,9 @@ Ein Projekt, dessen Titel das Verfahren gleich mitliefert: vierzehn Tage, vierze
 
 ### Volkra - Sárspell.......
 
-Ein Projekt, dessen Titel mit sieben Punkten endet und damit offenbar etwas Unabgeschlossenes markiert. **Raw Black Metal**, **Atmospheric Black Metal** und **Dungeon Synth**. Verrauschte Gitarren, primitive Drums und Keyboardpassagen aus einer anderen Zeit. Kellerlicht an und zurück in die frühen Neunziger! Das Album pflegt die bewusst dilettantische Ästhetik des rohen Undergrounds und mischt sie mit Dungeon-Synth-Zwischenspielen, die dem Ganzen eine eigenartig verwunschene Qualität geben. Die Produktion ist so dünn, dass sie eher Atmosphäre als Klang liefert, was in diesem Zusammenhang genau der Punkt ist. Zwischen den rasenden Passagen stehen lange Keyboardstücke, die wie Musik aus einem sehr alten Computerspiel klingen. Ein eigenwilliges, schwer zugängliches Album für Liebhaber des ganz tiefen Untergrunds.
+Ein schwedisches Projekt, dessen acht Stücke Black Metal und Doom zusammenführen — unabhängig veröffentlicht und ohne Umschweife. **Black Metal**, **Doom Metal** und **Raw Black Metal**. Rohe Gitarren, ferne Schreie und ein Tempo, das öfter kriecht als rast. Zieht euch was Warmes an, hier ist es zugig! Das Album lebt vom Kontrast zwischen der Kälte des Black Metal und der Schwere des Doom: Passagen, die nach vorne treiben, brechen unvermittelt in schleppende Abschnitte, in denen die Zeit stehen bleibt. Die Produktion bleibt bewusst ungeschliffen und lässt viel Raum, was der Atmosphäre deutlich mehr nützt als jede Politur. Die Punkte im Titel bleiben unerklärt — passend zu einem Album, das nichts auserzählt. Ein düsteres, geduldig gebautes Werk aus dem tiefen Untergrund. Sehr atmosphärisch.
 
-::genre::raw black metal, atmo black metal, dungeon synth, black metal
+::genre::black metal, doom metal, raw black metal, atmo black metal
 
 ### Weald Wanderer - Weald Wanderer
 
