@@ -443,7 +443,7 @@ def _lookup_bandcamp_album(artists: list[str], title: str, result: Any, session:
     return _album_include_tracks(result.get("band_id"), result.get("id"), session)
 
 
-def _collect_bandcamp_information(h2: Tag, session: Session) -> BandcampInfo | None:
+def _collect_bandcamp_information(h3: Tag, session: Session) -> BandcampInfo | None:
     """Resolve a Bandcamp album for the release described by *h2*.
 
     Parses the heading text as ``"Artist[, Artist2] - Title"``, searches
@@ -458,7 +458,7 @@ def _collect_bandcamp_information(h2: Tag, session: Session) -> BandcampInfo | N
         A :class:`BandcampInfo` instance for the first matching album, or
         ``None`` if no match is found.
     """
-    heading_text = h2.get_text(strip=True)
+    heading_text = h3.get_text(strip=True)
     artists, title = heading_text.split(" - ", 1)
     artists = _split_artist_string(artists)
 
@@ -616,7 +616,7 @@ def on_page_content(html: str, page: pages.Page, config: Config, files: files.Fi
 
     log.info("Embedding Bandcamp players for pinned page: %s", src)
     soup = BeautifulSoup(html, "html.parser")
-    headings = soup.find_all(["h2", "h3"])
+    headings = soup.find_all("h3")
 
     if not headings:
         return html
@@ -627,17 +627,17 @@ def on_page_content(html: str, page: pages.Page, config: Config, files: files.Fi
     # Reuse a single session for all requests on this page to benefit
     # from HTTP keep-alive and reduced TLS handshake overhead.
     with Session() as session:
-        for h2 in headings:
-            bandcamp_info = _collect_bandcamp_information(h2, session)
+        for h3 in headings:
+            bandcamp_info = _collect_bandcamp_information(h3, session)
             if bandcamp_info is None:
                 embedding_failed += 1
                 continue
 
-            description = h2.find_next_sibling("p")
+            description = h3.find_next_sibling("p")
             if description is None:
                 log.warning(
                     "No <p> sibling found for heading %r - skipping player",
-                    h2.get_text(strip=True),
+                    h3.get_text(strip=True),
                 )
                 continue
 
