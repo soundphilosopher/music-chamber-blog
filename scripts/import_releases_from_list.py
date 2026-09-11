@@ -38,6 +38,9 @@ from colorama import Fore, Style
 # Root path for MkDocs blog posts. All generated files are placed here.
 POSTS_PATH = Path("docs/posts")
 
+# Fixed top-level heading for every releases post.
+POST_TITLE = "Releases! Releases! Releases!"
+
 # Prefix used to identify and parse genre tags in the Markdown source.
 GENRE_TAG_PREFIX = "::genre::"
 
@@ -73,7 +76,7 @@ class IncomingRelease(Release):
 class ReleaseCollectionType(Enum):
     """Categorises a group of releases by when they were published."""
 
-    FRIDAY = "Releases! Releases! Releases!"
+    FRIDAY = "Friday"
     EARLIER = "Earlier the week ..."
 
     def __str__(self) -> str:
@@ -99,17 +102,20 @@ class ReleaseCollection:
 def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
     """Parse an existing releases Markdown file into a list of ReleaseCollections.
 
-    Each top-level heading (H1) is mapped to a ReleaseCollectionType by its
-    text value. H2 headings underneath are parsed as individual releases,
-    carrying their review text and genre tags along.
+    The file carries a single, fixed H1 (POST_TITLE) which is ignored here.
+    Each H2 heading underneath it is mapped to a ReleaseCollectionType by its
+    text value. H3 headings underneath a H2 are parsed as individual
+    releases, carrying their review text and genre tags along.
 
     If the file does not exist, an empty list is returned.
 
     The function expects each release to be structured in Markdown as:
 
-        # <ReleaseCollectionType value>
+        # <POST_TITLE>
 
-    ## Artist - Title
+        ## <ReleaseCollectionType value>
+
+        ### Artist - Title
         Review text
         ::genre::Genre1, Genre2
 
@@ -132,8 +138,8 @@ def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
     with open(path) as f:
         soup = BeautifulSoup(markdown.markdown(f.read()), "html.parser")
 
-    for tag in soup.find_all(["h1", "h2"]):
-        if tag.name == "h1":
+    for tag in soup.find_all(["h2", "h3"]):
+        if tag.name == "h2":
             # Flush the previous collection before starting a new one.
             if current_type is not None:
                 collections.append(
@@ -146,7 +152,7 @@ def _parse_existing_collections(path: Path) -> list[ReleaseCollection]:
                 current_type = None
             current_releases = []
 
-        elif tag.name == "h2" and current_type is not None:
+        elif tag.name == "h3" and current_type is not None:
             parts = tag.get_text().split(" - ", 1)
             if len(parts) != 2:
                 log.debug(f"Skipping malformed release heading: '{tag.get_text()}'")
@@ -327,12 +333,12 @@ def _create_release_content(
 ) -> str:
     """Build the Markdown content for the releases post, including front matter.
 
-    The generated post includes MkDocs-compatible YAML front matter (date,
-    draft status, and category) followed by a section per collection. Each
-    section starts with an H1 heading matching the collection's type value,
-    followed by one H2 block per release. A horizontal rule separates
-    consecutive collection sections. The ``<!-- more -->`` excerpt marker is
-    inserted after the third release of the FRIDAY collection.
+    The generated post includes MkDocs-compatible YAML front matter (date and
+    category) followed by a single fixed H1 (POST_TITLE) and one H2 section
+    per collection. Each H2 section contains one H3 block per release. A
+    horizontal rule separates consecutive collection sections. The
+    ``<!-- more -->`` excerpt marker is inserted after the third release of
+    the FRIDAY collection.
 
     Args:
         release_date: The publication date used in the front matter.
@@ -344,11 +350,11 @@ def _create_release_content(
     content = [
         "---",
         f"date: {release_date.isoformat()}",
-        "pin: true",
-        "bandcamp: false",
         "categories:",
         "  - Releases",
         "---",
+        "",
+        f"# {POST_TITLE}",
         "",
     ]
 
@@ -357,7 +363,7 @@ def _create_release_content(
             content.append("---")
             content.append("")
 
-        content.append(f"# {collection.type.value}")
+        content.append(f"## {collection.type.value}")
         content.append("")
 
         for rel_index, release in enumerate(collection.releases):
@@ -365,7 +371,7 @@ def _create_release_content(
                 content.append("<!-- more -->")
                 content.append("")
 
-            content.append(f"## {release.artist} - {release.title}")
+            content.append(f"### {release.artist} - {release.title}")
             content.append("")
             content.append(release.review)
             content.append("")
