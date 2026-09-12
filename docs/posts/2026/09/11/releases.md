@@ -16,19 +16,25 @@ Das Berliner Trio legt sein Debütalbum bei *Duchess Box Records* vor — vierze
 
 ::genre::post punk, alt rock, cold wave, indie rock
 
+### Andy Sheppard, Rita Marcotulli, Michel Benita - Salt Catchers
+
+Das erste Zusammentreffen dieses Trios: der britische Saxofonist Andy Sheppard, die italienische Pianistin Rita Marcotulli und der französische Bassist Michel Benita. Aufgenommen im März 2025 im Auditorio Stelio Molo RSI in Lugano, produziert von Manfred Eicher, erschienen bei *ECM*. **Jazz**, **Chamber Jazz** und **Contemporary Jazz**. Kein Schlagzeug, viel Raum und diese typische ECM-Klarheit, in der jeder Ton einzeln steht. Setzt euch hin, hier zählt jede Pause! Acht neue Sheppard-Kompositionen, dazu *Lawns* von *Carla Bley* — eine Widmung an die Musikerin, mit der Sheppard über Jahrzehnte gearbeitet hat, und ein Stück, das in dieser Besetzung besonders nackt und schön wirkt. Die Abwesenheit des Schlagzeugs ist dabei der eigentliche Trick: Marcotulli und Benita übernehmen die rhythmische Arbeit im Wechsel, was den Stücken eine schwebende Beweglichkeit gibt, die ein Schlagzeug zwangsläufig erden würde. Sheppards Ton ist so warm und zurückgenommen wie immer. Ein stilles, sehr elegantes Album.
+
+::genre::jazz, chamber jazz, contemporary jazz, modern jazz
+
 ### Angela Autumn - Believer
 
 Die zweite Platte der Songwriterin aus Nashville, geschrieben zwischen einem Baumhaus in Asheville, den Wäldern Tennessees und einer Lagerhalle in Chattanooga, aufgenommen im Club Roar. Produziert hat wieder Isaiah Beard. **Alt Country**, **Americana** und **Psychedelic Folk**. Mountain-Music-Wurzeln, die hier konsequent durch ein modernes, leicht schummriges Filter laufen. Hört genau hin, das ist Tradition mit Widerhaken! Autumn verbindet die Musik, mit der sie aufgewachsen ist, mit Indie, Psychedelia und einem dunklen, fast gotischen Country-Ton, ohne dass eine der Seiten die andere erschlägt. Zwölf Stücke mit Titeln wie *Jesus Heist*, *Electric Lizard* und *Bleach Bugs* — schon daran merkt man, dass hier jemand die Genre-Möbel bewusst umstellt. Dazwischen stehen ruhige Momente wie *Mountain Stream*, in denen nur Stimme und Gitarre übrig bleiben. Der Titel meint das Glauben als Zustand, nicht als Bekenntnis, und genau so klingt die Platte auch. Erschienen bei *Gar Hole Records*. Sehr eigenständig.
 
 ::genre::alt country, americana, psych folk, indie folk, cosmic country
 
+<!-- more -->
+
 ### Annett Louisan - Sehnsucht
 
 Die Hamburger Sängerin, die seit *Bohème* zu den festen Größen des deutschen Chansons gehört, legt ein Album vor, dessen Titel Programm ist. Die Weltpremiere fand einen Tag nach Veröffentlichung in der Elbphilharmonie statt, vier Wochen vor Tourstart. **Chanson**, **Pop** und **Deutschpop**. Akustische Arrangements, viel Raum um die Stimme und dieser leise, beiläufig kluge Ton, den sie sich über zwanzig Jahre erarbeitet hat. Setzt euch hin, hier wird nicht um Aufmerksamkeit gekämpft! Die Platte beschreibt eine neue Phase — weniger das Suchen, mehr das Ankommen — und nimmt sich dafür bewusst zurück: sparsame Instrumentierung, kein Produktionsprunk, stattdessen Texte, die man beim zweiten Hören anders versteht als beim ersten. Louisan singt über Verlangen, Distanz und darüber, wie sich beides mit den Jahren verschiebt, und sie tut es mit einer Leichtigkeit, die den Ernst darunter gut versteckt. Ein warmes, intimes Album, das in der akustischen Fassung besonders gut funktioniert.
 
 ::genre::chanson, pop, deutschpop, singer-songwriter
-
-<!-- more -->
 
 ### AntiMozdeBeast - Prophecy
 
@@ -204,6 +210,12 @@ Die Thrash-Pioniere aus Texas legen ihr erstes Album mit neuem Material seit üb
 
 ::genre::thrash metal, crossover thrash, speed metal
 
+### George Garzone - Themes for Good Friends
+
+Der Saxofonist, der seit fünfzig Jahren am Berklee College of Music unterrichtet und dort unter anderem *Branford Marsalis*, *Donny McCaslin*, *Joshua Redman* und *Seamus Blake* geprägt hat, legt bei Jojo Records eine Allstar-Quintett-Aufnahme vor. **Jazz**, **Post Bop** und **Contemporary Jazz**. Mit dabei: *Randy Brecker* an der Trompete, Luis Perdomo am Klavier, Santi Debriano am Bass und Jeff "Tain" Watts am Schlagzeug. Auflegen und zuhören, wie das geht! Der Titel ist Programm — das hier ist eine Platte unter Freunden, aufgenommen von Leuten, die einander nichts mehr beweisen müssen. Eröffnet wird mit *Theme for Ernie*, jenem Stück von Fred Lacey, das als Hommage an den Altsaxofonisten Ernie Henry entstand und vor allem durch *John Coltranes* Aufnahme bekannt ist; Perdomo und Garzone spielen es als Duo. Die Vorabsingle *Ripty-Boom* zeigt die andere Seite: knackig, verspielt und mit hörbarem Vergnügen an der Sache. Warm, souverän und völlig unangestrengt.
+
+::genre::jazz, post bop, contemporary jazz, modern jazz
+
 ### Godslave - Godslave
 
 Das selbstbetitelte Album der Thrasher aus dem Saarland, erschienen bei *Metalville* — fünf Jahre nach *Positive Aggressive* und nach einer Phase interner Schwierigkeiten, aus der die Band nach eigener Aussage kollektiver herausgekommen ist als je zuvor. **Thrash Metal**, **Heavy Metal** und **Melodic Thrash**. Schnelle Riffs, klare Strukturen und ein Gastauftritt von Laura Guldemond. Kopf runter, hier wird ohne Umschweife losgelegt! Der Opener *Reset, Rebuild, Reclaim* setzt das Tempo in *Kreator*-Nähe an und macht das Programm gleich im Titel deutlich: Die Platte handelt vom Neuaufbau, nicht vom Untergang. Das ist im Thrash eine bemerkenswert seltene Grundstimmung, und sie trägt durch Stücke wie *Part Of The Pack*, *The Road Not Taken*, *And Yet I Stand* und das abschließende *The Fire That Calls Me* hindurch. Zwischen der reinen Brutalität stehen immer wieder epische Melodiebögen, die dem Album Luft verschaffen. Eine positive, kraftvolle und überraschend hoffnungsvolle Platte aus dem deutschen Metal.
@@ -221,6 +233,12 @@ Das zweite Album der Moskauer Band, bei *SoundAge Productions* im Digibook ersch
 Das vierte Album der Londoner Band, erschienen bei *Nuclear Blast*. Der Titel verweist auf die sogenannten Magnificent Seven, die sieben viktorianischen Gartenfriedhöfe der Stadt — einst prächtig angelegt, heute von allen verlassen außer ihren dauerhaften Bewohnern. **Occult Rock**, **Doom Rock**, **Heavy Metal** und **Psychedelic Rock**. Fette Riffs, große Refrains und, entscheidend, die Hammondorgel von John Wright. Kerzen an, hier wird der Friedhof zum Ballsaal! Die Band bedient sich aus dem Rohmaterial der britischen Schwermusik — *Black Sabbath*-Riffs, *Deep Purple*-Orgel, die Theatralik des klassischen Metal, der Abenteuersinn des Progressive Rock und die unheimliche Folklore englischer Wälder, Kirchen und Moore — und macht daraus etwas Eigenes statt einer weiteren Sabbath-Andacht. Genau Wrights Orgelarbeit ist es, die diesen Unterschied ausmacht. Neun Stücke voller Riffs, treffsicherer Gesangsmelodien und kluger Arrangements, die jedem Song eine eigene Farbe geben. Eine der besten britischen Bands der Gegenwart, in bester Form.
 
 ::genre::occult rock, doom rock, heavy metal, psych rock, stoner rock
+
+### Gretchen Parlato - The Wise Ones
+
+Die amerikanische Sängerin versammelt bei *Edition Records* einen Kreis von Weggefährten, der bis zu ihren frühesten Aufnahmen zurückreicht: *Robert Glasper*, Gerald Clayton, Alan Hampton und Mark Guiliana — kreative Beziehungen, die inzwischen über zwei Jahrzehnte tragen. **Jazz**, **Vocal Jazz**, **Contemporary Jazz** und **Neo Soul**. Parlatos unverwechselbar leise, fast gehauchte Stimme, die nie drängt und trotzdem alles trägt. Leise drehen und näher rücken! Der Titel meint genau diese Menschen — die Weisen, die man sich über die Jahre gesucht hat —, und die Platte behandelt das Wiedersehen nicht als Nostalgie, sondern als Fortsetzung eines Gesprächs. Glaspers Klavierarbeit und Guilianas zurückgenommenes Schlagzeug geben ihr dabei genau den Raum, in dem ihre Phrasierung funktioniert. Digital erschien das Album bereits am 28.08., auf CD und Vinyl am 11.09. Eine warme, hochkonzentrierte Platte.
+
+::genre::jazz, vocal jazz, contemporary jazz, neo soul
 
 ### Harlott - Exsequiis
 
@@ -263,6 +281,12 @@ Das Debüt des Trios aus *Devendra Banhart*, *Gyan Riley* und *Noah Georgeson*, 
 Die selbstveröffentlichte Debüt-EP eines Trios aus Bognor Regis an der englischen Südküste, das sich erst 2025 gefunden hat. Fünf Stücke. **Alternative Rock**, **Alternative Metal** und **Industrial Metal**. Groovelastige Riffs, geschichtete Arrangements und Einsprengsel aus Industrial und Noise. Drückt auf Play, hier will jemand etwas beweisen! Die Band besteht aus Dougy (Gesang, Gitarre, Texte), Ondy (Bass, Effekte, Programmierung, Produktion) und Marcus (Schlagzeug), und die Arbeitsteilung hört man der EP an: Die Programmierung ist kein Beiwerk, sondern ein gleichberechtigtes Element. *Freak The Trance*, *Touch The Sky*, *Rather Me Than You*, *3iAtlas* und *No Time* springen dabei bewusst zwischen den Stilen hin und her — Eklektizismus als Programm, was bei einem Debüt sowohl Stärke als auch Risiko ist. Hier überwiegt die Stärke, weil die Stücke trotz aller Abwechslung erkennbar aus derselben Hand kommen. Ein vielversprechender Einstand.
 
 ::genre::alt rock, alt metal, industrial metal, groove metal
+
+### Ibibio Sound Machine - Chopping Mountain
+
+Das sechste Album der Londoner Band um Eno Williams, erschienen bei *Merge Records* — produziert von Max Grunhard aus der eigenen Reihe, der diese Rolle zuletzt 2019 bei *Doko Mien* innehatte, aufgenommen in den bandeigenen Vanguard Studios in Südlondon. **Afrobeat**, **Afro Jazz**, **Electronica** und **Post Punk**. Synthesizer, Sequenzer, gehackte Keyboards, zersplitterte Gitarren, Township-Funk und eine dubbige Post-Punk-Disco-Kante. Lautstärke hoch, hier wird getanzt und gemeint! Über zehn Stücke geht es um Liebe, um sozialen und politischen Widerstand, um Einheit und um Heilung, gesellschaftlich wie persönlich. Im Kern des Titelstücks steht die Vorstellung kollektiver Kraft und der Glaube, dass auch die kleinste Handlung am Ende Gewaltiges bewirken kann — Berge werden eben Stück für Stück abgetragen. Das Ergebnis ist ansteckend hörbar und hektisch tanzbar und bleibt dabei standhaft in seinem ekstatischen Streben nach Gerechtigkeit. Großartig.
+
+::genre::afrobeat, afro jazz, electronica, post punk, world music
 
 ### In Contempt - Hope Is A Dead Language
 
@@ -353,6 +377,12 @@ Das sechste und ausdrücklich letzte Album von John Mitchells Projekt, erschiene
 Die selbstbetitelte Debüt-EP, am 11.09. bei *Caligari Records* erschienen — vier Stücke: *The Fable*, *Holy Bile*, *All Alone* und *Hellhole*. Die Band formierte sich im Winter 2023 als Zusammenschluss von Leuten aus *Wørsen*, *Galactoid* und dem Umfeld von Bellicose Records. **Black Metal**, **Punk Rock** und **Noise Rock**. Eine wilde Formel aus Black Metal, Punk und Noise Rock, wie es die Band selbst nennt — und genau so klingt es auch. Anmachen, das beißt! Aufgenommen wurde Anfang 2026 im Peace Corp Audio, gemastert hat Will Killingsworth in den Dead Air Studios, was für diese Ecke der amerikanischen Untergrundszene so etwas wie ein Gütesiegel ist. Bei vier Stücken bleibt kein Raum für Aufbau: Die EP fällt mit der Tür ins Haus und ist vorbei, bevor man sich sortiert hat. Genau das ist die Absicht. Roh, kurz und richtig unangenehm — im besten Sinne.
 
 ::genre::black metal, punk rock, noise rock, blackened punk
+
+### Maik Krahl - Rain, Flowers and New Beginnings
+
+Der deutsche Trompeter und Komponist legt bei *Challenge Records* ein ausgesprochen persönliches Album vor — über Wachstum, Veränderung und Widerstandsfähigkeit. **Jazz**, **Contemporary Jazz** und **Post Bop**. Ein warmer, flexibler Ton, elegante Phrasierung und eine ruhige emotionale Intensität, die nie auf Effekt zielt. Setzt euch hin, das nimmt sich Zeit! Der Titel geht auf den Gedanken zurück, dass keine Blume ohne Regen blüht, und die Musik beschreibt genau diese stille Kraft, die aus schwierigen Zeiten erwachsen kann. Krahl bewegt sich dabei zwischen weiten, melodischen Landschaften, verspielten rhythmischen Passagen und Momenten nachdenklicher Stille, ohne je das Gefühl von Offenheit und natürlichem Fluss zu verlieren. Nach *In-Between Flow* und *The Magic of Consistency* ist das die bisher zugänglichste Arbeit seines Quartetts, ohne an Substanz einzubüßen. Zur Veröffentlichung ging es auf ausgedehnte Tour durch Deutschland. Eine leise, sehr schöne Platte.
+
+::genre::jazz, contemporary jazz, post bop, modern jazz
 
 ### Massendefekt - Massendefekt
 
