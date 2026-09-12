@@ -221,8 +221,8 @@ music-chamber/
 │   │   ├── add_genres_filter.py          # Injects live filter into the genre overview
 │   │   ├── add_reading_status.py         # Injects a scroll-progress bar on release pages
 │   │   ├── add_release_count.py          # Adds release count badge to sidebar metadata
-│   │   ├── change_toc_for_releases.py    # Add the top-level (h1) to the TOC on release pages
 │   │   ├── cleanup_tags.py               # Removes custom inline tags (e.g. ::genre::)
+│   │   ├── hide_autogen_pages.py         # Keeps Autogen-category pages out of the build
 │   │   └── mark_top_picks.py             # Transforms starred entries into cards
 │   ├── setup_docs.sh                     # One-command setup
 │   ├── create_posts_structure.py         # Helper: scaffold the weekly post folder structure

@@ -50,6 +50,8 @@ def _parse_starred_releases(release_list_path: str) -> list[StarredRelease]:
 
     Reads the file via mkdocs_gen_files, converts Markdown to HTML,
     and scans ``<h2>``/``<h3>`` headings for trailing star notation.
+    Entry headings are ``<h3>``; ``<h2>`` is still accepted so the
+    generator keeps working on any page that predates the migration.
 
     Args:
         release_list_path: Filesystem path to the releases.md file
@@ -85,7 +87,12 @@ def _parse_starred_releases(release_list_path: str) -> list[StarredRelease]:
             genres=[],
         )
 
-        for p in h2.find_next_siblings("p", limit=2):
+        # Walk forward to the genre tag rather than assuming it is the
+        # second paragraph: a review written as two paragraphs would
+        # otherwise silently lose its genres in the recap.
+        for p in h2.find_all_next("p"):
+            if p.find_previous(["h2", "h3"]) is not h2:
+                break
             if not GENRE_TAG_PATTERN.match(p.get_text()):
                 continue
 

@@ -6,8 +6,10 @@ sidebar navigation of weekly release list posts.
 
 For every page whose source path ends with ``releases.md``, the hook:
 
-1. Counts the ``<h2>``/``<h3>`` headings inside the article (each heading
-   represents one release).
+1. Counts the release headings inside the article. Entry headings are
+   ``<h3>``; the two collection headings (*Friday* and *Earlier the week
+   ...*) are ``<h2>`` and are excluded, so the badge reflects the number
+   of releases rather than headings.
 2. Locates the first section-level navigation list in the sidebar.
 3. Appends a new nav item that displays a music-box icon followed by
    the text *"N releases"*.
@@ -24,6 +26,12 @@ from utils.icons import MUSIC_BOX_OUTLINE_TAG
 
 
 log = logging.getLogger("mkdocs.hooks.add_release_count")
+
+
+COLLECTION_HEADINGS: frozenset[str] = frozenset(
+    {"Friday", "Earlier the week ..."}
+)
+"""Section headings that group releases but are not releases themselves."""
 
 
 def _build_release_count_item(count: int, soup: BeautifulSoup) -> Tag:
@@ -79,7 +87,11 @@ def on_post_page(output: str, page: Page, config: Config) -> str:
     if article is None:
         return output
 
-    releases = article.find_all(["h2", "h3"])
+    releases = [
+        heading
+        for heading in article.find_all(["h2", "h3"])
+        if heading.get_text().strip() not in COLLECTION_HEADINGS
+    ]
 
     meta = soup.find("li", class_="md-nav__item md-nav__item--section")
     if meta is None:

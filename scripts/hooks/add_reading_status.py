@@ -34,6 +34,21 @@ SCRIPT = """
 """
 
 def on_post_page(output: str, page: Page, config: Config) -> str:
+    """MkDocs hook: inject a scroll-progress bar into release list pages.
+
+    Only processes pages whose source path ends with ``releases.md``
+    inside ``posts/``. Inserts a progress-bar element directly after the
+    page header and appends the tracking script to the body.
+
+    Args:
+        output: The fully rendered HTML of the page.
+        page:   The MkDocs Page object.
+        config: The global MkDocs config dict.
+
+    Returns:
+        The modified HTML, or the original when the page does not
+        qualify or has no ``<header>``.
+    """
     src = page.file.src_path
     if not (src.endswith("releases.md") and src.startswith("posts")):
         return output
