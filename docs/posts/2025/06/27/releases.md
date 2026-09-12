@@ -494,7 +494,7 @@ tbd
 
 Genre: (Florida) Death Metal
 
-::genre::old school death metal
+::genre::osdm
 
 ## Isabella Lovestory - Vanity
 

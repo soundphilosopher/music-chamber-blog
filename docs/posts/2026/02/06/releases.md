@@ -272,7 +272,7 @@ Die Vervollständigung zu ihrem letzten Release Lov. Wieder wurden die Kompositi
 
 Das Sophomore Release des europäischen Kollektives. Experimentell werden Industrial, Noise, Electronica, EDM, Club Beat, Dance-Punk, Dance-Core und Post-Punk zu einer extravaganten, wie auch avantgarden Komposition komponiert. Die französischen Lyrics geben dem Gesamtwerk das gewisse Extra mit. Ein Werk zwischen Tanz und Protest.
 
-::genre::Industrial, Noise, Electronica, EDM, Club Beat, Dancepunk, Dancecore, Post Punk
+::genre::industrial, noise, electronica, edm, club beat, dance punk, dancecore, post punk
 
 ## Mané Fernandes - sQuigg: playground_etiQuette
 

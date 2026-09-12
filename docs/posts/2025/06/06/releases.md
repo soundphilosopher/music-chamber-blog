@@ -428,7 +428,7 @@ Der deutsche Producer mit seinem neuesten Werk. An einem nachdenklichen Abend im
 
 Die amerikanische Florida-Death-Kapelle mit ihrem neuesten Release. Old School Florida Death, welcher sich an der ersten Welle orientiert. Für alle OSDM Fans, die den Florida-Sound mögen, eine Hörempfehlung.
 
-::genre::old school death metal
+::genre::osdm
 
 ## Gróa - Drop P
 
@@ -626,7 +626,7 @@ tbd
 
 Die Band aus Seattle mit ihrem Debüt. Blackened Death Metal mit progressiven Elementen und elegant platzierten Old School Elementen. Obwohl die Produktion und auch das Songwriting für ein Debüt nicht schlecht sind, meine ich, dass es an der ein oder anderen Ecke abbiegen hätte können.
 
-::genre::blackened death metal, old school death metal
+::genre::blackened death metal, osdm
 
 ## Lauri Porra, Mumintrollen - Seasons in Moominvalley
 
@@ -764,7 +764,7 @@ tbd
 
 Das italienische Heavy-/Glam-Outfit mit ihrem neuesten Release. Klassische Heavy Metal Kompositionen der europäischen Spielweise. Ich finde, dass der Gesang auch ab und an sich in Italo-Disco verirrt.
 
-::genre::heavy metal, mediterranean pop
+::genre::heavy metal, medi pop
 
 ## Nick Mulvey - Dark Harvest
 
@@ -1076,7 +1076,7 @@ tbd
 
 Die Maryland Band mit ihrem neuesten Streich. In der Experimentierfreudigkeit wird der Vorgänger nochmal erweitert. Ein freudiger Austausch von Hardcore-Punk, Post-Punk, Alt-Rock und Synth-Pop.
 
-::genre::hardcore punk, post punk, shoegaze, alternative rock, synth pop
+::genre::hardcore punk, post punk, shoegaze, alt rock, synth pop
 
 ## Twisted Illusion - Nobody's Child
 

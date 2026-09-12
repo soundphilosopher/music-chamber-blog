@@ -182,7 +182,7 @@ Diese 1995 gegründeten, seit langem aktiven tschechischen Pioniere der Extremmu
 
 Dieses seit Ende der 1990er Jahre als theatralische Kraft in der europäischen Underground-Szene tätige, erfahrene Ensemble hat sich auf langatmige, düstere Gothic-Musik spezialisiert, die sich mit historischen und psychologischen Machtkonzepten auseinandersetzt. **Symphonic Metal**, **Gothic Metal**, **Epic Metal** und **Cinematic Dark Music**. Entstaubt eure Samtgewänder, zündet die eisernen Fackeln an und macht euch bereit für eine grandiose, spektakuläre Metal-Schlacht. Angetrieben von donnernden Kriegshörnern, massiven Wänden aus dunkler Verzerrung und eindringlichen, opernhaften Arrangements führt euch das Album durch eine neblige, mittelalterliche Landschaft voller innerer Geister und Schicksale, bei denen es um alles oder nichts geht. Es ist ein wunderbar dramatisches, filmisches Headbanging-Erlebnis, bei dem jeder Track wie ein monumentaler Sturm wirkt, der sich unter einem sich verdunkelnden Himmel zusammenbraut.
 
-::genre::dark metal, symphonic metal, goth metal
+::genre::dark metal, symphonic metal, gothic metal
 
 ### Jerkazoid - Earth In Reverse
 
@@ -350,7 +350,7 @@ Die vierköpfige Band, die sich ihrem dritten Jahrzehnt als eine der führenden 
 
 Als äußerst eigenständiges Underground-Quartett unter der Führung von Sänger Dustin Boltjes verbindet die Band düstere, klanglich dichte Instrumentalstücke mit zutiefst introspektiven Texten. **Post-Punk**, **Goth-Rock**, **Darkwave** und **Doom**. Schlüpft in eure Lieblings-Lederjacke im Used-Look und taucht direkt in einen nebelverhangenen, von Stroboskoplicht erhellten Keller ein, in dem die Rhythmen niemals schlafen. Das Album erkundet ein intensives Hin und Her zwischen tiefgreifenden emotionalen Höhen und Tiefen und schafft dabei einen Ausgleich zwischen trostlosen Gothic-Klanglandschaften und überraschend eingängigen, tanzbaren New-Wave-Beats. Tracks wie "Sky" erzählen eine düster-schöne Geschichte davon, Trost in der Distanz zu finden, und hüllen chaotische, schwere Gedankengänge in einen unglaublich hypnotischen Puls, der dich auf angenehme Weise in Atem hält.
 
-::genre::post punk, goth rock, dark wave, doom metal
+::genre::post punk, gothic rock, dark wave, doom metal
 
 ### The Spectre Beneath - The Devil’s Whisper
 

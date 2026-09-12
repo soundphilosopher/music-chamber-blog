@@ -146,7 +146,7 @@ Das Quartett, das aus der Underground-Szene Melbournes hervorgegangen ist, verö
 
 Die 2006 gegründete Band wird von Andy Biersack geleitet. Dies ist ihr erstes Album, das vollständig von Biersack und dem Gitarristen Jake Pitts produziert wurde und eine Ära vollständiger kreativer Kontrolle einläutet. **Gothic Rock**, **Metalcore** und **Heavy Metal**. Dieses siebte Album ist eine aggressive Wiedergeburt für die Band, bei der ihre theatralischen Vaudeville-Wurzeln mit kraftvollen Metalcore-Einflüssen und Kooperationen mit Künstlern wie Robb Flynn (Machine Head) und Lilith Czar verschmelzen. "Vindicate" ist das Ergebnis einer Kreuzung aus einem viktorianischen Zirkus und einer rasanten Verfolgungsjagd. Es ist laut, es ist dramatisch und es steckt mehr Rache pro Quadratzentimeter darin als in einem klassischen Horrorfilm. Der herausragende Titel "Cut" ist im Grunde eine Live-Action-Version von "Corpse Bride" in Songform - düster, romantisch und gerade heavy genug, um deine Seele zu erschüttern.
 
-::genre::goth rock, goth metal, modern metalcore
+::genre::gothic rock, gothic metal, modern metalcore
 
 ## Blak Saagan - Un Sequestro Lungo 10.000 Anni
 
@@ -416,7 +416,7 @@ Das ist kein technischer, rasender Death Metal. Die Musik basiert auf mittelschn
 
 *Gadget* sind seit Ende der 90er Jahre aktiv und gelten als eine der tragenden Säulen der schwedischen Grindcore-Szene. Bekannt wurden sie über Relapse Records und zeichnen sich durch chirurgische Präzision und unerbittliche Geschwindigkeit aus. **Grindcore** / **Crust Punk**. Man stelle sich die Intensität einer Wall of Noise à la *Nasum* vor, gemischt mit der rohen, politischen Schärfe von *Napalm Death*. Ihr Sound wird von rasenden Blastbeats und kehligen, zweistimmigen Gesangsattacken geprägt. Das ist kontrolliertes Chaos auf dem Höhepunkt. Mit einer Spielzeit von knapp 10 Minuten lässt "Coerced" dir keine Zeit zum Atmen. Es ist ein akustischer Presslufthammer, der sich anfühlt, als wäre man in einem Hochgeschwindigkeitsmixer voller Kies gefangen. Wenn du in Rekordzeit Dampf ablassen musst, hat Gadget den perfekten Treibstoff dafür bereitgestellt.
 
-::genre::grindcore, crsut, d-beat
+::genre::grindcore, crust, d-beat
 
 ## General Chaos - Can’t Please ‘Em All
 
@@ -650,7 +650,7 @@ Unter der Leitung des charismatischen Frontmanns Gino Yevdjevich (der vor dem Kr
 
 *Deimer* ist eine faszinierende Persönlichkeit - ein erfolgreicher Unternehmer, der sich erst spät im Leben entschlossen hat, eine Karriere als Rockstar zu verfolgen. Sein Mentor ist der legendäre Gitarrist Phil X (Bon Jovi), der auch auf dem Album zu hören ist. **Hard Rock** / **Alternative Metal**. Man stelle sich die Rauheit von *Alice in Chains* vor, gemischt mit der Arbeiterrock-Sensibilität von *John Mellencamp* und der Theatralik von *Alice Cooper*. Dieses Album ist purer "American Muscle". Es ist ehrlich, laut und voller fetter, wuchtiger Riffs. Deimers Gesangsstil ist eher ein rhythmisches Sprechgesang, das den Songs eine einzigartige, gesprächige Rauheit verleiht. Es ist die Art von Musik, die dafür gemacht ist, in einer Garage oder einer Spelunke gespielt zu werden - unprätentiös, heavy und überraschend gefühlvoll.
 
-::genre::alt metal, hard rock, alt metal, heavy rock
+::genre::alt metal, hard rock, heavy rock
 
 ## laCasta - Olibanvm
 
@@ -758,7 +758,7 @@ Cooper hat einen Doktortitel in Bioinformatik, und sein wissenschaftlicher Ansat
 
 *Motus Tenebrae* sind seit über zwei Jahrzehnten aktiv und gelten als einer der Eckpfeiler der italienischen Gothic-Szene. Sie lassen sich stark von den Peaceville Three (den frühen *Paradise Lost*, *My Dying Bride* und *Anathema*) sowie von der Dark-Rock-Ästhetik von *The 69 Eyes* inspirieren. **Gothic Metal** / **Doom Rock**. Erwarte tief gestimmte, melancholische Gitarrenmelodien, tiefe Baritonstimmen und eine allgegenwärtige Regennacht-Atmosphäre. Wenn du Musik suchst, die perfekt zu einem langen schwarzen Mantel und dem Gefühl eines bevorstehenden Herzschmerzes passt, bist du hier genau richtig. Es ist dramatisch und heavy, aber mit einer melodischen Eingängigkeit, die die Trauer seltsam tröstlich wirken lässt. Es ist Doom and Gloom, zu dem man tatsächlich mitsummen kann, während man sehnsüchtig aus dem Fenster starrt.
 
-::genre::doom rock, goth rock, goth metal
+::genre::doom rock, gothic rock, gothic metal
 
 ## Muna - Dancing on the Wall
 

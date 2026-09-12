@@ -50,7 +50,7 @@ Das japanische Psychedelic-Kollektiv um Kawabata Makoto, das seit Jahrzehnten mi
 
 Die Post-Punk-Band aus Vancouver um Jason Corbett, die seit Jahren die Brücke zwischen kalter Wave-Eleganz und großen Pop-Refrains schlägt. **Post Punk**, **Dark Wave** und **Synth Pop**. Schneidende Gitarren, pulsierende Basslinien und Synthesizer, die direkt aus einem regennassen 1983 herüberwehen. Zieht den langen Mantel an und lasst euch von der Neonbeleuchtung tragen! Das Album verbindet die kühle Oberfläche des Genres mit einer erstaunlichen melodischen Großzügigkeit — jeder Song hat einen Refrain, der auch im Hellen funktionieren würde, verpackt in eine Produktion, die konsequent auf Zwielicht besteht. Corbetts Gesang bleibt dabei angenehm distanziert, fast beiläufig, während unter ihm die Rhythmusmaschine unerbittlich weiterläuft. Romantik und Melancholie werden hier nicht gegeneinander ausgespielt, sondern als dasselbe Gefühl behandelt.
 
-::genre::post punk, dark wave, synth pop, cold wave, goth rock
+::genre::post punk, dark wave, synth pop, cold wave, gothic rock
 
 ### ADÉLA - PRIMA
 
@@ -248,7 +248,7 @@ Eine mexikanische Band aus Colima, die nach fast einem Jahrzehnt Pause und als n
 
 Die Band aus Philadelphia, die okkulten Black Metal mit Death Rock und Punk zu einer wunderbar schmierigen Mischung verrührt. **Blackened Punk**, **Death Rock** und **Black Metal**. Hallverzierte Gitarren, treibende Punk-Rhythmen und eine Atmosphäre wie in einem billigen Horrorfilm. Zieht die Nietenjacke an und ab in den Keller! Das Album lebt von diesem herrlichen Zwischenraum, in dem satanische Ikonografie und Punk-Direktheit sich gegenseitig hochschaukeln, ohne dass jemals eine Seite die Oberhand gewinnt. Die Gitarren jaulen in bester Death-Rock-Manier, während die Rhythmusgruppe stur nach vorne prügelt. Zwischen den Attacken schleichen sich verhallte, fast gothische Passagen ein, die dem Ganzen eine unheimliche Eleganz geben. Es ist unseriös, gefährlich und macht von der ersten Sekunde an einen Heidenspaß.
 
-::genre::blackened punk, death rock, black metal, goth rock, punk rock
+::genre::blackened punk, death rock, black metal, gothic rock, punk rock
 
 ### Diary - Spiral Bound
 

@@ -104,7 +104,7 @@ Dieses Gemeinschaftsprojekt hat sich auf das Schreiben cineastischer, langatmige
 
 Diese geheimnisvolle Band, die sich strikt von den Strukturen großer kommerzieller Plattenfirmen fernhält, hat sich in unabhängigen Musikkreisen nach und nach eine leidenschaftliche Kult-Anhängerschaft aufgebaut. Die Band setzt auf rohe Banddynamik und eine analoge Straight-to-Tape-Aufnahmeästhetik, bei der kantige Gitarrenklänge mit kühlen Drum-Machine-Schichten kombiniert werden. **Post-Punk**, **Gothic Rock**, **Darkwave** und **Lo-Fi-Rock**. Dieses Album wirkt wie eine intime, verstaubte Schachtel voller gut gehüteter Geheimnisse, die man sanft dazu eingeladen wird, zu öffnen. Die einzelnen Titel lehnen den glatten, modernen Studioglanz gänzlich ab und setzen stattdessen auf eine Mischung aus gewaltigen, übersteuerten Basslinien und scharfen, mechanischen Gitarrenklängen, unterlegt mit einem hallenden Bariton-Gesang. Die Musik beschäftigt sich intensiv mit den verschwommenen Grenzen des modernen industriellen Verfalls und der Isolation und verpackt echte emotionale Angst in hypnotische, rhythmische Loops. Sie ist stimmungsvoll, wunderbar ungeschliffen und eignet sich hervorragend als authentischer Begleiter für nächtliche Autofahrten.
 
-::genre::post punk, goth rock, dark wave, lofi
+::genre::post punk, gothic rock, dark wave, lofi
 
 ## Camila Nebbia & Chris Corsano - Six or Seven Ways Towards Becoming Undone
 
@@ -380,7 +380,7 @@ Die Band wurde ursprünglich 2021 von Frontfrau und Gitarristin Jules Batterman 
 
 Gegründet im Jahr 2003 vom Meisterarrangeur Joseph E. Martinez und dem Schlagzeuger Dana Filloon. Für dieses groß angelegte Comeback haben sie ihre Besetzung zu einem beeindruckenden Sextett erweitert, indem sie erfahrene Musiker von Constants, Glacier und Tombs rekrutierten. Ihre tiefgründige narrative Inspiration beziehen sie aus der Esoterik antiker weiblicher Gottheiten und vergessener eschatologischer Riten. Kinoartiger **Post-Metal**, **Post-Rock** und atmosphärischer **Gothic Rock**. Packt eure metaphorischen Koffer, zündet eine Fackel an und macht euch bereit, einen grandiosen unterirdischen Tempel zu betreten. Das Album wirkt wie ein kontinuierlicher, ritualistischer Energietransfer. Es verbindet strahlenden, opernhaften Gesang mit einer wirbelnden Unterströmung aus massiver Gitarrenverzerrung, die sich wie eine Schlange entfaltet. Es überbrückt mühelos die Kluft zwischen wehmütigen Dream-Pop-Texturen und kurzen, vulkanartigen Explosionen von Blast-Beat-Metal-Schlagzeug. Es ist grandios, stolz dramatisch und hüllt eure Umgebung in eine dunkle, wunderschöne Sci-Fi-Atmosphäre.
 
-::genre::post rock, post metal, goth rock
+::genre::post rock, post metal, gothic rock
 
 ## Kalamata - Zenosyne
 
@@ -434,7 +434,7 @@ Unter der Federführung des Multi-Instrumentalisten David Nilsson entwickelte si
 
 Die Band lässt sich stilistisch stark von der kühlen, treibenden Dynamik postsowjetischer Rock-Attitüden inspirieren und setzt eher auf rohe Banddynamik als auf überpolierte Computer-Tracks. Sie baut ihre Identität auf unkonventionellen Songstrukturen auf, bei denen das emotionale Tempo im Vordergrund steht. **Post-Punk**, **Coldwave** und **Alternative Rock**. Zieht euren schwersten Trenchcoat an, denn diese EP ist eine absolute Achterbahnfahrt der Sinne, die von der Erholung direkt in die Trostlosigkeit führt. Sie lehnt den Glanz des modernen Radio-Pops ab und liefert stattdessen einen stürmischen, hypnotischen Tanz zwischen pulsierenden Post-Punk-Basslinien und verträumten, hallenden Gitarrenmelodien. Textlich durchwandert sie intensive innere Kreisläufe aus Hoffnung, Frustration und letztendlicher Akzeptanz und wirkt dabei wunderbar roh und ungeschliffen. Sie ist düster, äußerst selbstbewusst und hat eine unglaubliche, kathartische Wucht.
 
-::genre::post punk, coldwave, alt rock
+::genre::post punk, cold wave, alt rock
 
 ## Masterplan - Metalmorphosis
 
@@ -554,7 +554,7 @@ Das kraftvolle Trio, bestehend aus dem Bassisten Gus Caldwell, dem Gitarristen B
 
 Die Band ist seit Mitte der 2000er Jahre in der europäischen Szene aktiv und hat sich einen Ruf als Band erarbeitet, die rohe Metal-Kraft mit melancholischen Melodien in Einklang bringt. In dieser entscheidenden Phase unterschrieben sie einen Vertrag bei Eclipse Records und gestalteten ihr Projekt sorgfältig so, dass es sich durch satte, schwere Gitarrenriffs, eindringliche Synthesizer und gewaltige, mehrere Oktaven umfassende Gesangsharmonien auszeichnet. **Dark Alternative Metal**, **Gothic Rock** und **Industrial Rock**. Schnappt euch euren Samt-Trenchcoat, denn dieses Album fühlt sich an wie ein einsamer Spaziergang durch eine Kopfsteinpflastergasse im dichten Küstennebel. Es liefert einen unglaublich facettenreichen Metal-Kick, der nahtlos von unheimlichen, bedrohlichen Industrial-Synth-Loops zu explosiven Wänden aus knirschenden Gitarrenklängen wechselt. Es befasst sich intensiv mit dunklen, beunruhigenden Themen wie innerer Leere und gesellschaftlicher Wahrheit, hält dabei aber meisterhaft einen Funken hoffnungsvoller Widerstandskraft in seinem Kern am Leben. Es ist theatralisch, äußerst atmosphärisch und versetzt den Hörer mit einer phänomenalen emotionalen Wucht.
 
-::genre::goth rock, industrial, alt metal, dark metal
+::genre::gothic rock, industrial, alt metal, dark metal
 
 ## Pearl & The Oysters - Monkey Mind
 
@@ -656,7 +656,7 @@ Das vor einem Jahrzehnt gegründete Kern-Trio aus Noah Coleman, Chris Shaw und S
 
 Als dienstältestes Mitglied und legendärer Bassist der Grindcore-Pioniere Napalm Death wird Embury weltweit für seine ultraschnelle klangliche Gewalt verehrt. Die unerwartete Isolation während der Pandemie zwang ihn jedoch dazu, sich vom Metal abzuwenden und sich mit Fragen der Identität, Sucht und psychischen Gesundheit auseinanderzusetzen, wobei er auf seine lebenslange Liebe zu atmosphärischen Ikonen der 80er Jahre wie *Cocteau Twins* und *Killing Joke* zurückgriff. **Dark Wave**, **Gothic Rock**, **Post-Punk** und experimentelle Elektronik. Betreten Sie ein dunkles, schummrig beleuchtetes Labor, in dem donnernder Grindcore durch hallende, traurige Synthesizer und schleichende Post-Punk-Basslinien ersetzt wird. Das Album, das vollständig um das psychologische Konzept der Schattenintegration herum aufgebaut ist - den schwierigen Prozess, sich den dunkelsten Teilen des eigenen Geistes zu stellen -, fließt nahtlos von der Verzweiflung hin zur endgültigen Akzeptanz. Sie besticht durch unheimliche, filmische elektronische Klanglandschaften und hämmernde Industrial-Rhythmen, die einem das Gefühl geben, um 3:00 Uhr morgens durch eine verlassene Neonstadt zu wandern. Es ist eindringlich, experimentell und ein faszinierend verletzlicher Einblick in die Seele einer Ikone der Heavy-Musik.
 
-::genre::dark wave, goth rock, post punk
+::genre::dark wave, gothic rock, post punk
 
 ## Shark School - Selachimorpha
 
@@ -728,7 +728,7 @@ Die Band, die in der europäischen Underground-Metal-Szene groß geworden ist, h
 
 Ein Projekt, das sich der Verschmelzung hochgradig technischer Musikalität mit zutiefst melancholischen, opernhaften Stimmungen verschrieben hat. Die Band nutzt kaskadenartige Arpeggios, progressive Strukturen und gewaltige orchestrale Kulissen, um einen theatralischen Stil zu schaffen. **Progressive Rock**, **Gothic-/Symphonic-Rock** und cineastische Klanglandschaften. Dies ist eine direkte Einladung, ein grandioses, verfallenes viktorianisches Theater zu betreten. Das Album wirkt eher wie eine düstere, klassische Oper als wie eine Rockplatte und verbindet klagende Instrumente und progressive Taktarten mit Themen wie Isolation und psychologischem Horror. Es wechselt nahtlos zwischen zarten, tränenreichen Klavierzwischenspielen und donnernden, epischen Gitarrenpassagen. Es ist wunderschön theatralisch, äußerst komplex und perfekt auf eine nächtliche Hörsession im Schein einer gedämpften Lampe zugeschnitten.
 
-::genre::symphonic rock, prog rock, goth rock
+::genre::symphonic rock, prog rock, gothic rock
 
 ## Switchfoot - Forever Now
 
@@ -1026,7 +1026,7 @@ Dieses Projekt, das tief in der Underground-Szene des Melodic Death Metal verwur
 
 Seit den 2010er Jahren sind sie als energiegeladene fünfköpfige Band aktiv und standen bereits mit Punk-Größen wie *NOFX* und *Pennywise* auf großen Festivalbühnen - was nun in ihrem vierten Studioalbum gipfelt. Schneller, technischer **Skate-Punk**, **Melodic Hardcore** und **Melodycore**. "CIPHER" atmet, lebt und blutet die pure Skate-Kultur der 1990er Jahre. Das Album wurde mit einer gewaltigen, arena-tauglichen Wucht produziert und verbindet blitzschnelle Drumbeats mit mitreißenden Gesangshooks und überraschenden Heavy-Metal-Gitarren-Breakdowns. Thematisch dreht sich alles um ein emotionales Hin und Her zwischen roher politischer Wut und tiefer, tagebuchartiger Selbstreflexion - und liefert dir genau die Art von Energie, die du brauchst, um einen Skateboard-Trick zu versuchen, für den du eigentlich schon viel zu alt bist.
 
-::genre::melodic hardcore, skatepunk, easycore
+::genre::melo hardcore, skatepunk, easycore
 
 ## The Heck - Traumatology
 

@@ -86,7 +86,7 @@ Die fortlaufende Kollaboration zwischen der amerikanischen Producerin und DJane 
 
 Der deutsche Gitarren-Veteran mit seinem 23ten Release in seiner Discography. Ein klassisches heavy Werk, welches Hard Rock, Melodic Metal, Power Metal und NWOBHM in seinen Kompositionen verarbeitet. Der Gitarren-Virtuose beweist erneut, warum er ein Steckenpferd in der Heavy-Szene ist.
 
-::genre::melodic metal, hard rock, arena rock, power metal, nwobhm
+::genre::melo metal, hard rock, arena rock, power metal, nwobhm
 
 ## Bad//Dreems - Ultra Dundee
 
@@ -122,7 +122,7 @@ Die weltweit renommierte Boygroup mit ihrem neuesten Longplayer, nach dem Ablauf
 
 Das italienische Outfit mit seinem neuesten Full-Length. Mit ihren neuesten Kompositionen schaffen die Italienier einen Ausgleich zwischen kryogener Stimmung und lava-ähnlicher Wucht. Ein raues, zerstörerisches Werk des Raw Black Metal, welches hier und da melodische Bögen mit akkustischer Kraft ziehen kann, dabei aber straight und pur bleibt.
 
-::genre::raw black metal, melodic black metal
+::genre::raw black metal, melo black metal
 
 ## Carlos Ferreira, Dasom Baek - Unbalance
 
@@ -158,7 +158,7 @@ Das Kollektiv um den deutschen Jazz-Gitarristen und Komponisten Christian Kögel
 
 Die deutsche Formation mit ihrer neuesten EP, welche wie ein Schrei nach Freiheit erklingt. Ein ziemlich intelligentes und mitreißendes Werk, welches Melodic Hardcore, Post Hardcore und Indietronica zusammenwürfelt, ohne dabei eine Sameness zu entwickeln. Jede Komposition bringt ihre Catchiness und Kreativität mit sich, so dass die Kreative Pause der Protagonisten anscheinend seinen Zweck erfüllte.
 
-::genre::melodic hardcore, post hardcore, indietronica
+::genre::melo hardcore, post hardcore, indietronica
 
 ## Clocktowers - Genesis
 
@@ -260,7 +260,7 @@ Die aus London stammende Ego Ella May hat sich in der UK-Neo-Soul-Szene als fein
 
 Das kanadische Trio mit seinem Sophomore Release. Eine raue und aggressive Tour durch Thrash Metal, Proto Black Metal, Technical Death Metal und Blackened Death Metal. In die kalte, klaustrophobische Atmosphäre werden allerlei progressive Töne mit verbaut, so dass nie wirklich Langweile aufkommen kann.
 
-::genre::proto black metal, thrash metal, technical death metal, blackened death metal, prog metal
+::genre::proto black metal, thrash metal, tech death metal, blackened death metal, prog metal
 
 ## Eleonora Kouneni - This Eager Heart
 
@@ -278,7 +278,7 @@ Das Sophomore Release der britischen Brutal-Formation. Ein Mix aus Brutal Death 
 
 Die belgische Kapelle mit ihrem Sophomore Full-Length. Das Projekt ist aufgebaut um den Multi-Instrumentalisten Lars Hoogewijs und folgt seiner kreativen Vision. So wird eine progressive Melange aus Post Metal, Doom Metal, Melodic Death Metal, Dark Wave, Symphonic Metal und Blackened Death Metal erzeugt. Dabei werden theatralische Atmosphären von Gitarrenwänden aus Black Metal und Gothic Metal in die Weite getragen.
 
-::genre::post metal, symphonic metal, atmospheric black metal, prog metal, dark wave, doom metal, melo death metal, blackened death metal
+::genre::post metal, symphonic metal, atmo black metal, prog metal, dark wave, doom metal, melo death metal, blackened death metal
 
 ## Evermore - Mournbraid
 
@@ -368,7 +368,7 @@ Die amerikanische Singer & Songwriterin mit ihrem neuesten Stuio-Output. Gestart
 
 Das Sophomore Release der österreichischen Formation. Ein avantgardes Werk des Black Metal, welches in seinem ausgewogenen und progressiven Strukturen von Death Metal und Post Metal mit integriert, dabei aber immer den nihilistischen Grundton im Vordergrund hält. Das Songwriting selber verbindet die rauen Energien avantgardistisch miteinander.
 
-::genre::melodic black metal, post black metal, avant black metal, noise
+::genre::melo black metal, post black metal, avant black metal, noise
 
 ## Grave Generator - There Is No Peace Amongst The Stars
 
@@ -470,7 +470,7 @@ Das faktische Debüt des belgischen Quartetts. Aus der Asche der Speed Metal For
 
 Der Abschluss der "Rustbelt Nu Metal" Trilogie der amerikanischen Formation. Der Abschluss ist ein rein akkustisches Werk, welches im Live-Setting und "strip-back" aufgenommen wurde, um eine raue und ehrliche Produktion zuzulassen. So wird anstatt dem üblichen Nu-Metal eine Komposition des Alternative Folk präsentiert, welcher mit emotionaler lyrischer Kraft untersetzt ist.
 
-::genre::alternative folk
+::genre::alt folk
 
 ## Ladytron - Paradises
 
@@ -602,7 +602,7 @@ Das Debüt der britischen Kapelle. Eine Mixtur aus kraftvollen Riffs, mitreißen
 
 Das nordirische Kollektiv mit seiner Sophomore EP. Ein groovy Werk des Modern Metalcore, welches Elemente des Deathcore und Progressive Metal mit sich schleift. Die Kompositionen besitzen nicht wirklich viel Individualität, was das Gesamtergebnis dann doch sehr blank stehen lässt.
 
-::genre::modern metalcore, progressive metal, djent, groove metal
+::genre::modern metalcore, prog metal, djent, groove metal
 
 ## Norna, Legbiter - Norna x Legbiter
 
@@ -680,7 +680,7 @@ Das Projekt um den amerikanische Multi-Instrumentalisten und Producer Julian Rin
 
 Das Debüt Full-Length der kanadischen Kapelle. Eine okkulte Reise durch den Doom Metal, die mit progressiven, thrash-y und death-y Strukturen durchzogen wird. Das Songwriting bietet einige Räume zum Experimentieren, welche hier und da auch genutzt werden, ohne jedoch die schleppende Kultur zu verletzen.
 
-::genre::doom metal, death metal, progressive metal, thrash metal
+::genre::doom metal, death metal, prog metal, thrash metal
 
 ## S. Fidelity - I Guess I’ll Never Learn
 
@@ -746,7 +746,7 @@ Die Formation aus Portland mit ihrem Debüt Longplayer. Eine progressive Melange
 
 Das australische Quintett mit seiner neuesten EP. Als ich den Namen das erste Mal gelesen habe, dachte ich: "Ha ... Stoner Formation ..." und wurde schnell eines Besseren belehrt. Enthalten ist eine Komposition des Hard Rock, welche Fragmente des Post Grunge, Heavy Rock, Melodic Rock und Modern Rock an sich heftet und das Songwriting ausspielt.
 
-::genre::hard rock, post grunge, alt rock, melodic rock, modern rock, heavy rock
+::genre::hard rock, post grunge, alt rock, melo rock, modern rock, heavy rock
 
 ## Stonus - Space To Dive
 
@@ -782,7 +782,7 @@ Die spanische Kapelle mit ihrem neuesten Studio-Output. Zugänglicher als ihre f
 
 Das Sophomore Release der amerikanischen Formation ist deutlich erwachsener und experimentierfreundlicher ausgefallen als ihr Debüt. Es zeichnet sich durch üppige, barocke Riffs und operhafte Ausmaße aus und schafft einen Ausgleich zwischen bitteren Black-Metal-Schreien und schwebenden, romantischen Klargesangspassagen. Eine düstere Melange aus Post Black Metal, Progressive Metal und Gothic Metal, welche alle strukturellen Atmosphären weiß aufzulössen.
 
-::genre::post black metal, progressive metal, gothic metal
+::genre::post black metal, prog metal, gothic metal
 
 ## The Undercover Dream Lovers - atomic house
 
@@ -812,7 +812,7 @@ Das neueste Studio Full-Length der legendären norwegischen Band. Ein konzeption
 
 Die amerikanische Formation ist bereits seit fast 40 Jahren auf den Bühnen unterwegs und kehren nach einer 10 jähirgen Release-Pause wieder zurück. Das neue Release ist gleichzeitig eine Rückkehr zu den Arena-Rock-Wurzeln der Band und verbindet bluesige Grooves, mitreißende Refrains und Powerballaden.
 
-::genre::hard rock, melodic rock, arena rock, haevy rock
+::genre::hard rock, melo rock, arena rock, heavy rock
 
 ## Türböwitch - Under Haunted Skies
 
@@ -936,7 +936,7 @@ Der neueste Longplayer der spanischen Formation. Wie Nuclear Warfare vereinen si
 
 Das Debüt der Formation aus Philly. In klassischer Form wird eine Mixtur aus Mathcore, Noisecore, Metallic Hardcore und Melodic Hardcore fabriziert, welche eine unendliche Energie und Kreativität an den Tag legt.
 
-::genre::mathcore, noisecore, metallic hardcore, melodic hardcore
+::genre::mathcore, noisecore, metallic hardcore, melo hardcore
 
 ## Sick Shooters - Super Sonic Rock Saga
 

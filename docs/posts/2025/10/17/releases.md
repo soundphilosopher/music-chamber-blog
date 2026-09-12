@@ -1614,7 +1614,7 @@ tbd
 
 Die Formation aus Michigan mit ihrem Debüt. Hardcore-Punk der ersten Stunde dröhnt durch den Raum und lässt kein Two-Step und Stage-Dive aus. Rau, pur und kompromisslos. So wie es die Washington-Szene Ende der 80er vorgemacht hat.
 
-::genre::hardcore punk, melodic hardcore
+::genre::hardcore punk, melo hardcore
 
 ## The Toxic Avenger - Inframonde
 

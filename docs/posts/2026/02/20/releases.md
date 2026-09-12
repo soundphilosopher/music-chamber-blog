@@ -18,7 +18,7 @@ Das neueste Release vom britischen Producer Dennis Huddleston aka 36. Ein theatr
 
 Die australische Formation mit ihrem Sophomore Release. Modern Progressive Metalcore, welcher trotz seinem sehr modern ausgelegten Anstrich, ein paar wundervolle Wandlungen im Songwriting vorweisen kann. So wechseln sich im Songwriting Progressive Metal Kompositionen mit djent-y Modern Metalcore Kompositionen ab und bieten eine gute Waage zwischen dem Genre.
 
-::genre::modern metalcore, progressive metal, djent
+::genre::modern metalcore, prog metal, djent
 
 ## Abronia - Shapes Unravel **
 
@@ -254,7 +254,7 @@ Das kanadisch Duo mit seinem neuesten Longplayer. Sie haben eine Bekanntheit in 
 
 Der spanische Komponist, Gitarrist und Producer mit einem neuen Output, welches lokal bereits Ende 2025 erschien. Die treibende Ader hier ist Spoken Words. Um diese wurden Kompositionen zwischen Guitar-Jazz, Mediterranean Folk/Pop, Ambient, Jazz Fusion und Pop-Rock aufgebaut. Diese bilden eine imaginäre Geschichte, welche einer spirituellen Vorlesung ähnelt.
 
-::genre::spoken words, contemporary jazz, mediterranean folk, mediterranean pop, ambient, jazz fusion, pop rock
+::genre::spoken words, contemporary jazz, medi folk, medi pop, ambient, jazz fusion, pop rock
 
 ## Jon Hood - Pieces of Reality *
 
@@ -350,7 +350,7 @@ Der griechische Producer und DJ mit seinem neuesten Release. Eine instrumentale 
 
 Der neueste Longplayer des LA-Based Trios. Eine Melange aus Progressive R&B, Neo-Soul, Trip Hop, Acid-Funk und Jazz Fusion. Alles wird in modernes Songwriting und eine moderne Produktion verpackt, was allerdings die Liebe zur Improvisation und Experimentieren nicht untergräbt, sondern mehr hervorhebt.
 
-::genre::Trip Hop, Progressive R&B, Neo Soul, Acid Funk, Jazz Fusion
+::genre::trip hop, prog r&b, neo soul, acid funk, jazz fusion
 
 ## Mumford & Sons - Prizefighter
 

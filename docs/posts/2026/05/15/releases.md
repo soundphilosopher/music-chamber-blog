@@ -356,7 +356,7 @@ Die Band, die im leidenschaftlichen griechischen Metal-Underground rasant an Pop
 
 *Hike The Peak* wurde während der Lockdowns im Jahr 2020 in Großbritannien gegründet und ist ein riesiges, weltweites kollaboratives Punkrock-Projekt. In den letzten fünf Jahren haben sie sich in der Underground-DIY-Punkszene einen hervorragenden Ruf erarbeitet und Auftritte bei renommierten Festivals wie dem Punk Rock Holiday in Slowenien und dem Manchester Punk Festival ergattert. Schneller, energiegeladener **Skatepunk** / **Melodic Hardcore**, der stark von rasanten Double-Time-Drumbeats und treibenden melodischen Hooks geprägt ist. Schnürt eure Skateschuhe, denn "Elements" ist ein absoluter Adrenalinstoß. Indem sie das Album wie eine riesige Blockparty gestalten, holen Hike The Peak Gastbeiträge von legendären Underground-Punkbands wie Antillectual, Darko und Judo Chop mit ins Boot. Die daraus resultierenden 10 Tracks sind voller atemberaubender Tempi, Harmonien zweier Gitarren und eindringlicher, bedeutungsvoller Texte. Es ist der ultimative Soundtrack für die Fahrt durch eine Halfpipe, der mit nostalgischer 90er-/00er-Jahre-Energie aufwartet und dabei unglaublich knackig und modern klingt.
 
-::genre::skatepunk, melodic hardcore
+::genre::skatepunk, melo hardcore
 
 ## Hildegunn Øiseth, Espen Berg, Magne Thormodsæter, Per Oddvar Johansen - Meandering
 
@@ -560,7 +560,7 @@ Ein hochkarätiges Avantgarde-Duo, bestehend aus dem Keyboarder und Elektronikpr
 
 Melancholost ist das mit Spannung erwartete neue Nebenprojekt des Bandchefs Sven "The Axe", bekannt als Frontmann der Heavy-Horror-Metal-Band *Solemnity*. **Melodic Rock**, **Gothic Rock** und **Heavy Doom Metal**. Beeinflusst von der düsteren Energie gotischer Klanglandschaften, kombiniert mit dichten, schweren Riffs. Wenn Schneewittchen das Märchen satt hätte, sich eine schwarze Lederjacke überziehen und eine Band gründen würde, würde es so klingen. "Tales From The Poisoned Apple" ist ein gewaltiger 15-Track-Kessel voller düsterem, theatralischem Spaß. Sven verwebt unheimliche Gothic-Rock-Melodien direkt in vernichtende Doom-Gitarren und schafft so Tracks wie "Abramelin" und "The Book Of Thoth", die Lust machen, in einem Spukhaus zu headbangen. Es schafft einen Ausgleich zwischen purer Melancholie und epischer Rock-Energie und dient als perfekter Soundtrack für eine Mitternachtsfahrt durch einen nebligen Friedhof.
 
-::genre::goth rock, melo rock, heavy rock
+::genre::gothic rock, melo rock, heavy rock
 
 ## Mrs Magician - Spiritual Hangover
 
@@ -1092,7 +1092,7 @@ Ein wildes Studiokollektiv, bestehend aus Veteranen von Underground-Größen wie
 
 Zwei Jahre lang veröffentlichten sie Singles in Eigenregie, die sie 2025 auf einer Compilation namens "Fragments" zusammenfassten. Dieses neue Album wurde im No Studio aufgenommen und von Joe Clayton abgemischt. Ein gewaltiger, düsterer Mix aus **Darkwave**, **Gothic Rock**, **Doom Metal** und **Post-Punk**, vermischt mit Elementen aus **Chanson**, **atmosphärischem Black Metal** und **Dark Ambient**. Stellt euch eine Mischung aus *The Cure*, *Paradise Lost*, *Amenra* und *Clan of Xymox* vor. Das Album bricht mit baritonalen Gesängen herein, die nahtlos in kehlenschneidende Metal-Schreie übergehen. Tracks wie "Give" wirken wie ein unwiderstehlicher Hexentanz in Zeitlupe unter dem Sternenhimmel. Die Produktion ist dicht, vielschichtig und unglaublich atmosphärisch - von Joe Clayton akribisch ausgearbeitet, damit man jedes Gramm ihrer wunderschönen, melancholischen Furcht spürt. Es ist Gothic-Storytelling vom Feinsten, perfekt für alle, die den dunklen, einsamen Weg des Lebens romantisieren wollen.
 
-::genre::post black metal, post metal, goth rock, dark wave, doom metal, post punk
+::genre::post black metal, post metal, gothic rock, dark wave, doom metal, post punk
 
 ## Rick Miller - Temporal Illusion
 

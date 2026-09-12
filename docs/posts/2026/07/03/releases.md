@@ -414,7 +414,7 @@ Pinerich, die über unabhängige Labels wie Ryan Paxton Records veröffentlichen
 
 Als eine der beständigsten Kräfte der italienischen Heavy-Metal-Underground-Szene blickt die Band auf eine über zwanzigjährige Geschichte zurück. Das Songwriting wird vor allem von Gitarrist Alex Corona und Sänger Victor geprägt. **Heavy Metal** und **Progressive Power Metal**. Die Band verbindet klassische europäische Metal-Geschwindigkeit mit komplexem, theatralischem Songwriting. Zieht eure Lederrüstung an, denn dieses Album ist eine düstere, mitreißende Metal-Oper. Musikalisch besticht sie durch donnernde Double-Bass-Drums, hochfliegenden Operngesang und rasante Gitarrensoli, die Tote zum Leben erwecken könnten. Thematisch führt sie dich durch ein intensives Labyrinth aus innerem Kampf, Martyrium und spiritueller Wiedergeburt. Sie ist schnell, unerbittlich aggressiv und bietet großartige Gastauftritte - darunter unerwartete Saxophon-Einlagen -, was sie zu einer herrlich ambitionierten Metal-Reise macht.
 
-::genre::progressive metal, power metal
+::genre::prog metal, power metal
 
 ### Synthlab - Soundburst
 

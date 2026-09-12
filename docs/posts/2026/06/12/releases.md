@@ -356,7 +356,7 @@ Das 2019 gegründete Heavy-Power-Trio besteht aus erfahrenen Musikern, die seit 
 
 Kurz vor ihrem 25-jährigen Bandjubiläum hat sich dieses Trio über Jahrzehnte hinweg als eine der tragenden Säulen der deutschen Post-Punk- und Dark-Indie-Underground-Szene etabliert. **Post-Punk**, **Cold Wave**, **Indie-Rock** und **Gothic-Rock**. Stilistisch lassen sie sich stark von den frühen, melancholischen Meistern des britischen Post-Punk wie *The Cure* inspirieren. Zieh deinen dunklen Trenchcoat an und mach dich bereit, anmutig durch die Schatten zu schreiten. Dieses großartige Album entfernt sich von der pechschwarzen, düstersten Trostlosigkeit ihrer vergangenen Alben und liefert stattdessen ein überraschend weitläufiges, wortreiches Meisterwerk. Die Instrumentierung fühlt sich an, als betrete man eine kalte Steinkathedrale, in der helle, tanzende Sonnenflecken endlich den Nebel durchbrechen. Es ist atmosphärisch, höchst lyrisch und vermittelt eine stolze, trotzige Botschaft, emotionale Verbundenheit dem schleichenden existenziellen Schrecken vorzuziehen.
 
-::genre::post punk, dark wave, indie rock, goth rock
+::genre::post punk, dark wave, indie rock, gothic rock
 
 ## Klimt 1918 - Àmor
 
@@ -596,7 +596,7 @@ Als erfahrene Größe der experimentellen Szene Neuenglands sorgte Garbus zuvor 
 
 Die 1980 gegründete Band zählt zu den absoluten Veteranen und Kultlegenden der ursprünglichen britischen Post-Punk-/Darkwave-Bewegung. Diese Platte stellt einen bedeutenden Meilenstein dar, da es sich um ihre erste große Studio-Sammlung mit neuem Material seit Jahren handelt. Kultiger **Post-Punk**, **Gothic Rock** und wandlungsreicher **Indie-Rock**. Stark geprägt von idyllischen, atmosphärischen Gitarrenstrukturen, wirbelnden Synthesizern und stimmungsvollen, melancholischen Gesangstexturen. "The Weight of Forgotten Dreams" ist eine wunderschöne, bittersüße Meisterleistung, die beweist, dass die Architekten des melodischen Darkwave kein bisschen von ihrer Magie verloren haben. Mit 10 sorgfältig ausgearbeiteten Tracks - darunter Höhepunkte wie "Asylum Town", "Awoken" und "Think Like a Roman" - strahlt das Album eine zutiefst beruhigende, filmische Wärme aus. Garces Leadgesang schwebt wie ein sanftes Phantom über Tony McGuinness' klirrenden, hallenden Gitarrenlinien und Will Hicks' mitreißenden, atmosphärischen Keyboards. Es verzichtet gänzlich auf aggressive Klänge und liefert stattdessen ein üppiges, traumhaftes Rock-Tagebuch, das einen vollkommen in seinen Bann zieht.
 
-::genre::indie rock, post punk, goth rock
+::genre::indie rock, post punk, gothic rock
 
 ## Scatter - Tech Hell Cyber Thrash
 

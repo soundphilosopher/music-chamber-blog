@@ -98,7 +98,7 @@ Thea Taylor (carolesdaughter) erlangte zunächst mit ihrem 2020 mit Gold ausgeze
 
 Eine unabhängige Underground-Metal-Band, die sich durch die Kombination von gewaltigem Operngesang mit wuchtigen Gitarrenriffs eine treue Fangemeinde aufbaut. Atmosphärischer **Gothic Metal**, **Symphonic Rock** und **Dark Melodic Metal**. Stellt euch vor, ihr steht am Rand einer regennassen Klippe, während ein gewaltiges Gewitter heranzieht - das ist die klangliche Architektur dieses Albums. Es stellt weitläufige, dramatische Keyboard-Arrangements schweren, langsam rollenden Gitarrenriffs gegenüber, um eine bedrohliche Atmosphäre zu schaffen. Das Album taucht tief in dunkle, mythologische Konzepte und Themen der Isolation ein und stützt sich stark auf einen mitreißenden Gesang, um vor einem gnadenlosen musikalischen Hintergrund eine Fackel der Hoffnung zu tragen.
 
-::genre::goth metal, symphonic rock, melo metal, dark metal
+::genre::gothic metal, symphonic rock, melo metal, dark metal
 
 ### CHĘCKI - EY AY
 
@@ -470,7 +470,7 @@ Snorlax ist das gnadenlose Soloprojekt des Multi-Instrumentalisten Brendan Auld.
 
 Diese kanadische Power-Metal-Band, die Ende der 2010er Jahre gegründet wurde, hat sich in der Independent-Szene enorme Anerkennung dafür erworben, komplexe, progressive Gitarrenarrangements mit filmischen Orchestrierungen und opernhaften Gesangspassagen in den hohen Lagen zu verbinden. **Symphonic Metal**, **Progressive Power Metal** und **neoklassischer Metal**. "Of Sin and Ruin" entfaltet sich genau wie ein Fantasy-Film mit großem Budget, voller Gewitter und epischer Chorsätze. Frontfrau Sarah Dee liefert eine absolute Meisterleistung in Sachen Gesangsakrobatik und schwebt über einer überwältigenden Landschaft aus technischen Gitarrenriffs und grandiosen orchestralen Steigerungen. Das Kronjuwel ist ein gewaltiger, fünfzehnminütiger Titeltrack, der zwischen atemloser Geschwindigkeit und Ohrwurm-Hooks hin- und herpendelt. Es ist laut, theatralisch, brillant übertrieben und ein absolutes Muss für jeden, der seinen Metal gerne vollkommen triumphierend hört.
 
-::genre::symphonic metal, power metal, progressive metal
+::genre::symphonic metal, power metal, prog metal
 
 ### Soulprison - The More I See, The More I Bleed
 
@@ -584,7 +584,7 @@ Die Band, die sich aus Schlüsselfiguren der dichten kanadischen Extreme-Music-U
 
 Die seit über einem Jahrzehnt aktive Band hat sich auf einen rauen, sumpfigen und von Sumpfstimmung geprägten Stil dunkler Musik spezialisiert. Sie ist dafür bekannt, analoge Punk-Rauheit mit eindringlicher, filmischer Erzählkunst zu verbinden. Southern **Gothic Rock**, **Blues-Punk**, **Doom** und **Post-Punk**. "The Arsonist" klingt wie der Soundtrack zu einem beunruhigenden Horrorfilm, der vollständig in einer dunklen, abgelegenen Hütte tief im Wald aufgenommen wurde. Justin Storms' dramatischer, heulender Gesang durchbricht eine dichte Wand aus Slide-Gitarren und doomlastigen Rhythmusgruppen, die wie ein Marsch zum Galgen stampfen. Es ist unglaublich primitiv, sumpfig und herrlich ungeschliffen und hüllt die realen Ängste der heutigen Zeit in eine pechschwarze, von Flammen flackernde Geistergeschichte.
 
-::genre::goth rock, post punk, doom metal
+::genre::gothic rock, post punk, doom metal
 
 ### What Lies Below - I Let it Consume Me
 

@@ -152,7 +152,7 @@ Dies ist das erste Studioalbum der Band seit 28 Jahren. Frontmann Damon Johnson 
 
 Das 2019 gegründete Quartett tourte mehrere Jahre lang durch Europa, bevor es dieses erste Album fertigstellte. **Dark Rock** / **Gothic Rock** / **Post-Punk**. Ihr Sound schöpft aus dem Rock der 70er und dem Goth der 80er Jahre, mit Anspielungen auf *The Cult*, *Blue Öyster Cult* und *Killing Joke*. Eine dandyhafte und okkulte Reise, die mit den Toten tanzt. Es ist rätselhafter, hybrider Rock, der Mondlandschaften mit seltsamen Farben erhellt - perfekt für alle, die ihren Rock’n’Roll mit einer Prise theatralischer Dunkelheit mögen.
 
-::genre::goth rock, dark rock, post punk, avant rock
+::genre::gothic rock, dark rock, post punk, avant rock
 
 ## Cameron Whitcomb - Deep Water
 
@@ -800,7 +800,7 @@ Gegründet im Jahr 2014, inspiriert von einer Folge der Serie *Rozwell Kids*, si
 
 Eine Supergroup norwegischer Stars. *Hemsing* ist ein renommierter Geiger für Klassik und Volksmusik; *Eick* ist ein gefeierter Jazztrompeter (ECM Records); *Raknes* ist Kontrabassist; und *Isungset* ist bekannt für seine Ice Music und sein Schlagzeugspiel. Klassischer **Crossover** und **Jazz**. Hier verschmelzen traditionelle norwegische Volksmusik (die Hardangerfiedel) mit atmosphärischem Jazz und improvisierten Klangtexturen. So klingt es, wenn die Nordlichter beschließen, eine Jazzband zu gründen. In einem Moment ist es mitreißend rhythmisch, im nächsten eindringlich filmisch. Wenn Sie das Gefühl haben möchten, bei Tagesanbruch mit einer Tasse exquisiten Kaffees an einem Fjord zu stehen, ist dies Ihr Soundtrack.
 
-::genre::jazz fusion, nothern folk, crossover, atmo jazz
+::genre::jazz fusion, northern folk, crossover, atmo jazz
 
 ## Raid2 - Uncorrect
 
@@ -896,7 +896,7 @@ Als Teil der pulsierenden baltischen Metal-Szene haben sie sich einen Ruf für c
 
 Er ist Multi-Instrumentalist (Schlagzeuger und Gitarrist) und Chief Operating Officer am Atlanta Institute of Music and Media (AIMM). Er kümmert sich größtenteils selbst um Aufnahmen, Auftritte und das Abmischen. Sein Sound ist eine Mischung aus **Progressive Metal**, **Djent** und **Metalcore**. Er ist bekannt für seine filmischen Arrangements, in denen er wuchtige, tief gestimmte Gitarren mit schwebenden Melodien verbindet. Der Titeltrack "Your Path Laid Long Before" besticht durch die chirurgische Präzision von *Acle Kahney* von *TesseracT*, was einen Sound ergibt, der so klar wie ein Pfiff, aber so schwer wie eine Palette Ziegelsteine ist. Es ist Modern Metal in seiner reinsten Form: In einem Moment schwebt man durch einen ambienten, atmosphärischen Dunst, und im nächsten wird man von einem rhythmischen Breakdown getroffen, der so komplex ist, dass man dafür vielleicht tatsächlich eine Genehmigung zum Anhören bräuchte. Es ist der perfekte Soundtrack, um aus dem Fenster auf eine regnerische Stadt zu blicken und sich wie der Protagonist eines sehr hochbudgetierten, sehr lauten Science-Fiction-Films zu fühlen.
 
-::genre::progressive metalcore, djent
+::genre::prog metalcore, djent
 
 ## Silence Equals Death - From The Ashes
 
@@ -1158,7 +1158,7 @@ Die Band, die ihren Stil selbst als **Progressive Funk** bezeichnet, verbindet d
 
 Ein experimentelles **Ambient**- und **Post-Rock**-Projekt, das sich von Themen wie Heilung und Neurodiversität leiten lässt. Es ist gedämpfte Farben in klanglicher Form. Mit Gitarren und Biofeedback erschafft Duque eine Welt, in der Stille tatsächlich aus Tausenden winziger, wunderschöner Klänge besteht. Es ist das musikalische Äquivalent zum Betrachten eines Sonnenuntergangs in Zeitlupe - zutiefst friedlich, ein wenig eindringlich und absolut fesselnd.
 
-::genre::ambient, post rock, hautology, instrumental
+::genre::ambient, post rock, hauntology, instrumental
 
 ## comdex - A Wave of Alarm
 
@@ -1224,7 +1224,7 @@ Die 2009 gegründete Band besteht aus Sänger und Gitarrist Chad Barnard, Leadgi
 
 Der ehemalige Buchhalter, der sich zum weltberühmten Superstar-DJ gewandelt hat, präsentiert seinen charakteristischen **House**- und **Tech-House**-Sound, der nun von weiteren Einflüssen wie Bass und alternativer Elektronik geprägt ist. Das Album, das am Tax-Day als augenzwinkernde Anspielung auf sein früheres Leben am Schreibtisch veröffentlicht wurde, ist die ultimative "Ich kündige"-Hymne. Es ist energiegeladen, clubtauglich und darauf ausgelegt, dich deine Tabellenkalkulationen vergessen zu lassen. Von viralen TikTok-Hits bis hin zu tiefen, treibenden Warehouse-Beats - *Summit* führt offiziell die Fluchtgeschwindigkeit der Buchhalter an.
 
-::genre::scid house, techno, deep house
+::genre::acid house, techno, deep house
 
 ## Matt Corby - Tragic Magic
 
@@ -1302,4 +1302,4 @@ Dies ist das achte Mini-Album der Gruppe und markiert einen wichtigen Meilenstei
 
 Die Gruppe, die 2011 ursprünglich als Trio gegründet wurde, hat sich einen Namen für dichte, sich ständig wandelnde Klangschichten gemacht. Dieses neue Album knüpft an ihr gefeiertes 2021er Werk "Bridges" an. **Post-Rock** und **cineastische Instrumentalmusik**. Die Band lässt sich von den atmosphärischen Crescendi von Post-Rock-Pionieren wie *Explosions in the Sky* und *Mogwai* inspirieren. Das ist episches Geschichtenerzählen ganz ohne Worte. Es ist eine kompromisslose Reise zwischen Spannung und Entspannung, geprägt von imposanten Basslinien und traumhaften Texturen, die sich wie ein lebendiges, atmendes Wesen anfühlen.
 
-::genre::post rock, cinematic rock, instrumental
+::genre::post rock, cine rock, instrumental

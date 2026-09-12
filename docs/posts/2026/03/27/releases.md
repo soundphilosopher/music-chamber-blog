@@ -302,7 +302,7 @@ Der britische Gitarren-Virtuose mit seinem ersten Solo-Output, für welches er d
 
 Die Kollaboration zwischen den amerikanischen Multi-Instrumentalisten und Producer Dave Harringtonand (DARKSIDE) und den amerikanischen Gitarristen Tim Mislock (ex-Antony and the Johnsons, ex-The Antlers) birgt einen experimentellen Exkurs durch Ambient, Avant-Garde Rock, Art Rock, Post Rock, Experimental Electronica, Indie Folk, Americana und Dark Jazz. "Isle of Palms" ist wie eine Gewichtsdecke für die Ohren. Es ist ein eindringliches, träumerisches Erlebnis, bei dem Harringtons charakteristische gletschergleiche Gitarrenklänge auf Mislocks zarte Klangtexturen treffen. Es fühlt sich weniger wie eine Sammlung von Songs an, sondern eher wie ein Spaziergang durch einen digitalen Wald im Morgengrauen - intim, ein wenig eindringlich und perfekt für den Moment, in dem man sich in seinem eigenen Wohnzimmer angenehm verloren fühlen möchte.
 
-::genre::indie folk, americana, experimental electronica, ambient, post rock, avant rock, art rock, post rock, dark jazz, instrumental
+::genre::indie folk, americana, experimental electronica, ambient, post rock, avant rock, art rock, dark jazz, instrumental
 
 ## Dead Finks - New Plastik Abyss *
 
@@ -374,7 +374,7 @@ Die polnische Cellisin und Komponistin mit ihrem neuesten Solo-Werk. Dieses Albu
 
 Das Solo-Projekt von Daniel Änghede (Crippled Black Phoenix, Venus Principle) mit seinem Full-Length. Es ist von der Elektronik der Berliner Schule der 70er Jahre und modernen cineastischen Klanglandschaften inspiriert. "Morgonglöd" bedeutet so viel wie "Morgenglühen", und die Musik macht ihrem Namen alle Ehre. Sie klingt, als würde die Sonne langsam über einem skandinavischen Kiefernwald aufgehen. Sie ist synthielastig, wirkt aber dennoch organisch und vermittelt eine verträumte Retro-Future-Stimmung, die perfekt für nächtliche Autofahrten oder den Kaffee am frühen Morgen ist.
 
-::genre::ambient, cinematic ambient, vaporwave, synth wave, minimal electronica
+::genre::ambient, cine ambient, vaporwave, synth wave, minimal electronica
 
 ## Don Broco - Nightmare Tripping
 
@@ -386,7 +386,7 @@ Die britische Formation mit ihrem neuesten Output. Sie kreieren einen genreüber
 
 Die amerikanische Combo mit ihrem neuesten Longplayer. Wenn du schon immer einmal das Gefühl erleben wolltest, eine Stadionrampe hinunterzulaufen, während 50.000 Menschen deinen Namen brüllen, dann ist dies das richtige Album für dich. Es ist pure, unverfälschte Main Event-Energie. Marcy liefert diesen typischen Downstait-Punch - es ist laut, es ist stolz und es ist darauf ausgelegt, dir das Gefühl zu geben, du könntest einen LKW im Bankdrücken stemmen.
 
-::genre::modern rock, melodic rock, arena rock, hard rock
+::genre::modern rock, melo rock, arena rock, hard rock
 
 ## Drayton Farley - A Heavy Duty Heart
 
@@ -729,7 +729,7 @@ Das Soloprojekt von Dmitry (Crying Orc), ist eine der führenden Figuren der rom
 
 Die amerikanischen Veteranen mit ihrem neuesten Studioalbum. Sie spielen energiegeladenen modernen Hardrock und Alternative Metal. Das ist Rock im Arena-Format mit einem Herz aus Gold. Das Album ist um die drei Säulen der körperlichen, geistigen und seelischen Gesundheit herum aufgebaut. Titel wie "Rescue" und "Release Me" sind absolute Kraftpakete, die mit treibenden Gitarren und unverfälschter Ehrlichkeit schwere Themen wie psychische Probleme angehen. Es ist der perfekte Soundtrack, um ins Fitnessstudio zu gehen oder mit heruntergelassenen Fenstern schnell durch die Gegend zu fahren, während man über ein großes Comeback im Leben nachdenkt.
 
-::genre::hard rock, melodic rock, alt rock, arena rock
+::genre::hard rock, melo rock, alt rock, arena rock
 
 ## Lauren Auder - Whole World as Vigil *
 
@@ -1017,7 +1017,7 @@ Das neueste Full-Length von diesen deutschen Projekt. "pdqb" agiert als Gebilde 
 
 Das neueste Release des britischen Outfits. Hektischer DIY-Punkrock mit melodischen Rockelementen und satirischen Texten. Ein bissiger, urkomischer Film, der die Band dabei begleitet, wie sie sich auf einer Auktion eine gebrauchte Punk-Karriere kauft und dabei spektakulär daran scheitert, diese zum Laufen zu bringen. Mit Gastauftritten von CJ Ramone und einem echten Auktionator liefert der Film eingängige, rebellische Hymnen für alle, die einen normalen Job haben, aber von der Bühne träumen.
 
-::genre::punk rock, melodic rock, proto pop punk
+::genre::punk rock, melo rock, proto pop punk
 
 ## Power Paladin - Beyond The Reach Of Enchantment
 
@@ -1119,7 +1119,7 @@ Das britische Indie-Pop-Trio mit seinem neuesten Longplayer. Dieses Album ist wi
 
 Das akustisch geprägte Duo Jack Sedman und Harry Draper, bekannt für ihren eindringlich-emotionalen Indie-Folk, präsentiert sein neues Werk. Sedmans Stimme ist auch auf diesem Album eine Naturgewalt. Es ist eine wunderschön zerbrechliche Auseinandersetzung mit den Mauern, die wir um unser Herz errichten. Die Produktion ist etwas ausladender als bei ihren früheren Werken und ergänzt ihre intimen Folk-Wurzeln um filmische Klangwellen. Es ist die Art von Musik, die Lust macht, auf das Meer zu blicken und sich einmal richtig, befreiend auszuweinen.
 
-::genre::folk pop, indie folk, cinematic folk, mellow folk
+::genre::folk pop, indie folk, cine folk, mellow folk
 
 ## Serpente - Visita do Fogo
 
@@ -1185,7 +1185,7 @@ Das legendäre kanadische Comedy-Metal-Trio (Jay, Sol und Doug) aus der Teletoon
 
 Das Debüt der deutschen Heavy-Kapelle. Das ist ein wahres Monster von einem Album. Es schafft es, sowohl Old-School als auch frisch zu sein, wobei der Fokus auf gewaltigen, mitreißenden Refrains und komplexen Gitarrenharmonien liegt. Es erkundet die dunklere Seite der menschlichen Natur, doch die Musik ist so triumphierend, dass man das Gefühl hat, man könnte einen Berg niederschlagen und trotzdem gewinnen.
 
-::genre::melodic metal, nwobhm, modern metal
+::genre::melo metal, nwobhm, modern metal
 
 ## Sparagmos - Error
 
@@ -1377,7 +1377,7 @@ Das achte Studioalbum der langjährigen norwegischen Black-Metal-Veteranen bleib
 
 Der amerikanische Singer & Songwriter mit seinem Sophomore Release. Myers gibt auf diesem Album, das bittersüße Hymnen für unruhige Herzen enthält, alles, was er hat. Aufgenommen in den legendären FAME Studios, ist es eine gefühlvolle, authentische Reise, die beweist, dass er weit mehr ist als nur eine virale TikTok-Sensation - es ist Musik mit echtem Gewicht und viel Herz.
 
-::genre::souther rock, neo soul, blues, country rock
+::genre::southern rock, neo soul, blues, country rock
 
 ## Tyler Friedman - METLASR
 
@@ -1543,7 +1543,7 @@ Der amerikanische Komponist und Pianist Chris Bartels mit seinem neuesten Full-L
 
 Der neueste Longplayer des südafrikanischen Komponisten und Producer Emlyn Ellis Addison. Das Album zeichnet sich durch eine einzigartige Kombination aus elektronischen und akustischen Klängen aus, wobei Holzbläser-Cluster, Mikrotonalität und sparsam eingesetzte melodische Motive zum Einsatz kommen, die einen hypnotischen, filmischen Effekt erzeugen sollen. Ein Werk welches Ambient, IDM, Downtempo und Hauntology in einen theatralischen Rahmen fusioniert.
 
-::genre::cinematic ambient, idm, downtempo, hauntology
+::genre::cine ambient, idm, downtempo, hauntology
 
 ## Eleveine - Travelling *
 

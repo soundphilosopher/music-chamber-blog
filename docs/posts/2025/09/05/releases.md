@@ -758,7 +758,7 @@ tbd
 
 Die amerikanische Band mit ihrem neuen Werk nach gut zwölf Jahren. Ich wäre hier in der Bewertung sehr subjektiv, da ich ein enormer Fan von Melodic Hardcore bin, daher lasse ich es einfach so stehen.
 
-::genre::melodic hardcore
+::genre::melo hardcore
 
 ## Nailed To Obscurity - Generation Of The Void
 

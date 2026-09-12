@@ -530,7 +530,7 @@ Die Debüt EP der amerikanischen Kapelle. Ein raues, schnelles und kompromislose
 
 Der Debüt Longplayer der Schweden. Die _Templar_ rotzen ein raues und schonungsloses Werk des NWOBHM heraus, welches durch das hohe Tempo gar in den Sound des Proto-Thrash eindringt. Die lyrischen Melodien wechseln von klassischen Heavy, zu Doom, zu Punk, zu Thrash, was die Gesamtkomposition abwechlungsreich unterstützt.
 
-::genre::nwobhm, heavy rock, proto thrash metal, heavy rock, hard rock
+::genre::nwobhm, heavy rock, proto thrash metal, hard rock
 
 ## The Gloom In The Corner - Royal Discordance
 

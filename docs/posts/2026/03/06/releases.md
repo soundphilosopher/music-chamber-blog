@@ -92,7 +92,7 @@ Der neueste Longplayer der deutschen Formation. Ein nostalgisches Werk des Metal
 
 Die "Skramz" Kapelle mit ihrem neuesten Longplayer. Eine emotionale, wie auch intensive und aggressive Reise durch Post Hardcore und Melodic Hardcore. "Skramz" bezeichnet dabei den hohen Anteil von Dissonanzen im Gefüge der Melodien. Songwriting und Production bringen einen zurück in die 90er DIY Underground Szene von Amerika.
 
-::genre::melodic hardcore, post hardcore, emocore
+::genre::melo hardcore, post hardcore, emocore
 
 ## Chet Vincent, The Music Industry - Static on the Radio
 
@@ -104,7 +104,7 @@ Das Sophomore Release der amerikanischen Formation, welche von Chet Vincent gef�
 
 Das Full-Length Debüt des kanadischen Duos. Ein avantgardistisches und nihilistisches Werk des Black Metal, welches seine monotone Rauheit exzellent mit dem Songwriting im Einklang bringt. Dabei werden Elemente des Post Black Metal, Melodic Black Metal und DSBM mit in die Verzweiflung eingebettet.
 
-::genre::raw black metal, black'n'roll, melodic black metal, post black metal, dsbm
+::genre::raw black metal, black'n'roll, melo black metal, post black metal, dsbm
 
 ## Darksoft - Everydayness *
 
@@ -128,7 +128,7 @@ Das italienische Quartett mit seinem Debüt Longplayer. Ein treibendes und moder
 
 Das britische Heavy Outfit mit seinem neuesten Release. Was kann man von einer Band mit dem Namen Desert Storm erwarten? Korrekt. Eine sludge-y Melange aus Stoner Metal, Doom Metal und Post Metal. Dem Songwriting kann eine gewisse Progressivität zugesprochen werden und auch die Nähe zum Hardcore kann nicht ganz ausgeschlossen werden.
 
-::genre::stoner metal, post doom metal, sludge metal, progressive metal
+::genre::stoner metal, post doom metal, sludge metal, prog metal
 
 ## Dionisaf, Deep Dive Sound - Paths That Forgot the Map
 
@@ -158,7 +158,7 @@ Der norwegische Komponist, Producer und Gitarrist mit seinem neuesten Longplayer
 
 Der neueste Longplayer der amerikanischen Kapelle. Eine moderne und dennoch nostaligische Melange aus Post Hardcore, Metalcore, Djent und Modern Metalcore. Die Kompositionen wurden in eine mehr natürliche Produktion verpackt, so dass man den Protagonisten ihr Musicianship nicht abstreiten möchte. Das Songwriting selber ist aber weniger orginell und bieten nicht wirklich viele Ecken und Kanten, welche nicht schon erkundet wurden.
 
-::genre::modern metalcore, post hardcore, djent, progressive metalcore
+::genre::modern metalcore, post hardcore, djent, prog metalcore
 
 ## Ertebrekers - Cocon
 
@@ -272,7 +272,7 @@ Das finnische Power Trio mit seinem neuesten Longplayer. Ein experimenteller Exk
 
 Der neueste Longplayer der finnischen Formation. Blackened Death Metal, welcher mit progressiven und theatralischen Elementen kombiniert wird und dadurch eine nihilistische Oper des Zerfalls erzählt. Songwriting und Produktion bilden genügend Räume für Experimente und Überraschungen.
 
-::genre::blackened death metal, progressive metal, blackened thrash metal
+::genre::blackened death metal, prog metal, blackened thrash metal
 
 ## Katherine Priddy - These Frightening Machines
 
@@ -344,7 +344,7 @@ Die neueste EP der finnischen Kapelle. Alt Metal wird mit modernen Post Hardcore
 
 Die kanadische Band mit ihrem neuesten Studiowerk. Ein theatralische und depressive Mixtur aus Atmospheric Black Metal, Post Black Metal und DSBM. Dieser Mixtur werden hier und da Strukturen des Prog Metal und Post Metal zugeführt, was das Songwriting breit, avantgardistisch und experimentell gestaltet. Dabei wurde sehr darauf geachtet zu den passenden Phasen, die passenden Instrumentalisierungsräume zu schaffen.
 
-::genre::atmo black metal, post black metal, melodic black metal, avant black metal, dsbm, post metal, prog metal
+::genre::atmo black metal, post black metal, melo black metal, avant black metal, dsbm, post metal, prog metal
 
 ## Moderator - Hollow Ground *
 
@@ -660,7 +660,7 @@ Das amerikanische Kollektiv mit seinem neuesten Release. Eine avantgardistische,
 
 Der "Minister of Funk" mit seinem neuesten Release. Die Kompositionen erzeugen eine nostalgische Atmosphäre, die den Hörer in die Vergangenheit zurückversetzt. Dabei werden Old School Hip Hop, R6B, Retro Soul, G-Funk. Acid Funk und Disco in einer nostalgischen Melange zusammengeführt.
 
-::genre::proto hip hop, retro soul, g funk, acid funk, disco, r&b, prog funk
+::genre::proto hip hop, retro soul, g-funk, acid funk, disco, r&b, prog funk
 
 ## Gold Pyramid - Gold Pyramid
 
@@ -678,7 +678,7 @@ Der kanadische Singer & Songwriter, Producer und Multi-Instrumentalist Jody John
 
 Der Debüt Longplayer der französischen Kapelle. Eine djent-y, theatralischer und progressiver Ausflug in den Modern Metalcore. Dabei werden im Grunde alle Elemente abgefahren. Von symphonischen Intro, zu djent-y Riffing, progressiven Instrumentalisierungen und vielschichtigen Vocals, welche cleane, gurgel und high pitching erreichen.
 
-::genre::modern metalcore, djent, progressive metal, symphonic deathcore
+::genre::modern metalcore, djent, prog metal, symphonic deathcore
 
 ## Markus Stockhausen, Annie Barbazza, Fabio Mina, Fabrizio Ottaviucci, Francesco Savoretti - Between Earth and Sky
 
@@ -690,7 +690,7 @@ Die Kollaboration zwischen den deutschen Jazz Trompeter Markus Stockhausen, er i
 
 Das Sophomore Studio-Release der amerikanischen Kapelle. Ein progressives Werk des Doom Metal, welches Elemente von Heavy Metal, Post Metal, Thrash Metal und Groove Metal in sich bindet.
 
-::genre::doom metal, progressive metal, heavy metal, post metal, thrash metal, groove metal
+::genre::doom metal, prog metal, heavy metal, post metal, thrash metal, groove metal
 
 ## Nailed Shut MA - A Promise Made, A Promise Kept
 

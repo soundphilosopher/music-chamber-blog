@@ -1212,7 +1212,7 @@ tbd
 
 Die polnische Death Metal Kapelle mit ihrem neuesten Release. Klassischer Death Metal, welcher eine doom-y Produktion erhalten hat und auch mit der Einen oder Anderen Doom-Passage auftrumpft.
 
-::genre::Old School Death Metal, Doom Metal
+::genre::osdm, doom metal
 
 ## Chimia - Nativismo obscuro
 

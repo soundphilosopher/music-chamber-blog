@@ -200,7 +200,7 @@ tbd
 
 Die norwegischen Death Metaller veröffentlichen ein “verloren gegangenes" Album aus dem Jahre 1991. Ich habe es nur mit aufgenommen, da es in der Theorie ein “neues Release” ist. Für Cadaver typischer Death Metal, mit 90er Production und den cadaver-ischen Thrash- und Heavy-Ausflügen.
 
-::genre::old school death metal, thrash metal
+::genre::osdm, thrash metal
 
 ## Caliban - Back From Hell
 
@@ -386,7 +386,7 @@ tbd
 
 Die Thüringer Melodic Death Metaller mit ihren neuen Output. Melodic Death der skandinavischen Art, nicht Mehr und auch nicht Weniger.
 
-::genre::melodic death metal
+::genre::melo death metal
 
 ## DGMA - SOMETHING TO DANCE TO
 

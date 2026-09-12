@@ -380,7 +380,7 @@ Saliva wurde 1996 gegründet und ist eine mit mehreren Platin-Auszeichnungen gek
 
 Ein brillantes sechsköpfiges Ensemble, entstanden aus sechs langjährigen Freunden mit unterschiedlichem Hintergrund in den Bereichen klassische Streichinstrumente, Jazz, Hip-Hop und DIY-Elektronik. Sie verbrachten drei ruhige Jahre während der Lockdowns damit, ihren einzigartigen Sound zu verfeinern, bevor sie die Live-Szene im Sturm eroberten. **Darkwave**, **Trip-Hop**, **avantgardistischer Post-Punk** und orchestraler Rock. Stark inspiriert von der filmischen Beklemmung der Psychothriller der 1960er Jahre. Dieses Debütalbum wirkt wie ein wunderschön spannungsgeladener Neon-Noir-Film, der in deinen Kopfhörern zum Leben erwacht. Die Band verwebt mühelos schwere, nächtliche Trip-Hop-808-Drumbeats mit eindringlichen, melancholischen Live-Geigenmelodien und einem tiefen, grüblerischen Bariton-Gesang, der einem bis ins Mark geht. Es wechselt nahtlos von dunklen, rauen, industriellen Post-Punk-Explosionen zu ruhigen, unverfälschten akustischen Bekenntnissen, die wunderschöne Atempausen bieten. Es ist stimmungsvoll, außergewöhnlich stilvoll und die absolute Perfektion für einen Spaziergang durch eine regnerische Stadt nach Mitternacht.
 
-::genre::trip hop, darkwave, avant punk, post punk
+::genre::trip hop, dark wave, avant punk, post punk
 
 ## Show N Tell - Eyes of Evil
 
@@ -410,7 +410,7 @@ Slow Joy ist das musikalische Soloprojekt des Multi-Instrumentalisten Esteban Fl
 
 Soulgrind wurde in den 1990er Jahren von Mastermind Lord Heikkinen gegründet und ist eine legendäre Größe in der finnischen Metal-Szene. Dieses monumentale zehnte Album markiert ihre großartige, triumphale Rückkehr ins Studio nach einer langen, 15-jährigen Pause. **Melodischer Black Metal**, **Gothic Metal** und atmosphärischer Extreme Metal. Der Titel bedeutet aus dem Lateinischen übersetzt "Auf dem Weg zu einem schönen Tod", und genau das liefert die Musik – einen glorreichen, atemberaubend melancholischen Marsch in einen pechschwarzen Abgrund. Die Band verbindet rasante Metal-Gitarren und rasende Schlagzeugrhythmen mit dichten, filmischen Keyboard-Klängen und einem unglaublichen Wechselgesang zwischen rauen Growls und klarem Operngesang. Es klingt wie ein uralter nordischer Mythos, der in einem dunklen, hallenden Fjord zum Leben erwacht und pure Aggression in einen mitreißenden Mantel pechschwarzer Tragödie hüllt.
 
-::genre::goth metal, melo black metal, atmo black metal
+::genre::gothic metal, melo black metal, atmo black metal
 
 ## Strange Lot - STRANGE LOT *
 

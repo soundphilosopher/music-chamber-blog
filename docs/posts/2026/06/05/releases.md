@@ -212,7 +212,7 @@ Ein aufstrebender, technikaffiner, unabhängiger Produzent elektronischer Musik 
 
 Brocarde ist eine exzentrische, äußerst theatralische Singer-Songwriterin und Multimedia-Künstlerin, die im Vereinigten Königreich lebt. Ursprünglich erlangte sie durch ihre avantgardistische konzeptuelle Performancekunst und ihre einzigartige öffentliche Präsenz große mediale Bekanntheit. Brocarde ist eine klassisch ausgebildete Sängerin, deren Schwerpunkt stark auf filmischem Storytelling liegt. Sie gestaltet ihre Musik so, dass sie sich wie ein hochkonzeptionelles viktorianisches Drama anfühlt, gemischt mit einer kraftvollen, modernen Studioproduktion. **Dark Pop**, **Gothic Rock**, Orchestral Pop und **Avantgarde-Pop**. Dieses Album fühlt sich genau so an, als würde man einen wunderschön unheimlichen Maskenball in einer verwunschenen Kathedrale stürmen. "Good Attendance At Sunday School" lehnt sich stark an ein zutiefst sarkastisches, theatralisches Thema an, das religiöse und gesellschaftliche Schuldgefühle in einen spektakulären Spielplatz verwandelt. Brocarde überlagert massive opernhafte Gesangspassagen und weinerliche Violinenarrangements mit schweren Gothic-Gitarrenriffs und dröhnenden elektronischen Subbass-Kicks. Es ist dramatisch, auf wunderschöne Weise verstörend und ein absoluter Triumph für alle, die ihre Popmusik gerne in Samt, Schatten und einer gesunden Dosis purer Ironie gehüllt mögen.
 
-::genre::avant pop, alt pop, goth rock
+::genre::avant pop, alt pop, gothic rock
 
 ## Built For The Future - Empire *
 
@@ -518,7 +518,7 @@ Eine knallharte, rohe Underground-Band aus den Vereinigten Staaten. Die unabhän
 
 Ein legendäres, seit langem bestehendes Alternative-Post-Punk-Trio aus Berlin. Das vor fast 25 Jahren gegründete Trio besteht aus Tobias Siebert, Daniel Moheit und Filip Pampuch. Mit ihren düster-melancholischen Meilensteinen wie dem 2017 erschienenen Album "Desintegration" haben sie sich in Europa eine treue Kult-Anhängerschaft aufgebaut. **Gothic Rock**, Deutschpunk, **Post-Punk** und atmosphärischer **Darkwave**. Willkommen in einer gewaltigen, kathedralenartigen Wand aus purer Post-Punk-Atmosphäre. Das Album tauscht die düstersten, hoffnungslosen dunklen Leere ihrer früheren Werke gegen ein überraschendes, wunderschön offenes musikalisches Layout ein. Frontmann Siebert liefert rohen, kristallklaren deutschen Gesang über einem dichten Meer aus verhallten Gitarren, kühlen Synthesizern und treibenden Beats. Das übergeordnete Thema dreht sich darum, den Menschen, die man liebt, näherzukommen, wenn die Gesellschaft um einen herum auseinanderfällt. Es ist eine wunderschöne, von der Dämmerung erhellte Gothic-Hymne für die moderne Seele.
 
-::genre::goth rock, dark wave, post punk
+::genre::gothic rock, dark wave, post punk
 
 ## Kybalion - Make The World Bleed
 
@@ -602,7 +602,7 @@ Eine hochgelobte, seit langem bestehende Rock-Institution aus dem Wendland in Ni
 
 Ein rasantes, hochtechnisches Extreme-Metal-Kraftpaket aus Bangalore, Indien. Die vierköpfige Band hat sich über Jahre hinweg in der globalen Underground-Rockszene einen Namen für ihre rasanten, kantigen und unvorhersehbaren Musikstrukturen gemacht. Unterstützt vom neuen, blitzschnellen Schlagzeuger Vishnu Reddy markiert dieses Projekt ihr wegweisendes drittes Album in voller Länge. **Dissonanter Death Metal**, **Progressive Metal** und **Metallic Hardcore**. Vergewissere dich, dass die Fundamente deines Hauses unglaublich stabil sind, bevor du auf Play drückst, denn "Cold Logic" ist eine unerbittliche Bulldozermaschine aus purem akustischem Chaos. Das Album verzichtet komplett auf die üblichen Radioformeln und liefert stattdessen ein 34-minütiges Labyrinth aus zerklüfteten Gitarren-Math-Riffs, betonbrechenden Blastbeats und höllischen Brüllen, die direkt aus der Unterwelt zu kommen scheinen. Das Thema zieht dich direkt in einen dunklen Science-Fiction-Horrorfilm, in dessen Mittelpunkt Isolation im Weltraum und kosmische Angst stehen. Es ist wunderschön unberechenbar, intensiv heavy und ein absolutes Paradies für Tech-Metal-Fans, die zu einem Puzzle headbangen wollen.
 
-::genre::dissonant death metal, prog metal, metelcore
+::genre::dissonant death metal, prog metal, metalcore
 
 ## Manuela - Ultraviolet
 
@@ -704,7 +704,7 @@ Ein außergewöhnlich talentierter 23-jähriger Multi-Instrumentalist und Singer
 
 Eine elegante, düster-melodische Elektro-Band aus Los Angeles, Kalifornien, USA. Nach ihrem hochgelobten, selbstbetitelten Album aus dem Jahr 2024 haben NORMANS die vergangenen Jahre damit verbracht, ihre Studio-Hooks zu verfeinern, sich von den üblichen Garage-Punk-Klischees abzuwenden und sich stattdessen auf hochwertige elektronische Produktionen und nächtliche Atmosphären zu konzentrieren. **Post-Punk**, **Darkwave**, **Synth-Pop** und Electronic **Goth Rock**. "Faust Demonica" fühlt sich an, als würde man um 3:00 Uhr morgens in einem schwarzen Sportwagen durch eine regnerische, neonbeleuchtete Stadt rasen und dabei versuchen, einer schattenhaften Gestalt zu entkommen. Das Album liefert eine mitreißende Mischung aus tiefen Synth-Basslines, knackigen Drum-Machine-Clips und stimmungsvollen, distanzierten Vocals, die unter einer dunklen Discokugel genau richtig klingen. Es fängt eine brillant filmische Gothic-Dringlichkeit ein, die Lust macht, nachts eine schwarze Sonnenbrille aufzusetzen und die existenzielle Angst wegzutanzen.
 
-::genre::goth rock, post punk, dark wave, synth pop
+::genre::gothic rock, post punk, dark wave, synth pop
 
 ## of Montreal - Aethermead
 
@@ -974,7 +974,7 @@ Eine außergewöhnlich talentierte, ausdrucksstarke Singer-Songwriterin, geboren
 
 Ein düsteres Underground-Cowboy-Punk-Duo aus dem deutschen Rheinland. Das Duo, das in der aktiven deutschen DIY-Post-Punk-Szene aktiv ist, sorgte mit seinem 2022 erschienenen Album "Hard To Find" für Aufsehen. Bekannt für ihre kargen, atmosphärischen Live-Auftritte, nahmen sie dieses Folgeprojekt im Tonstudio 45 auf, mit Gastauftritten von Underground-Ikonen wie Hendrik Otremba. **Goth Country**, Western **Post-Punk**, **Darkwave** und **Dub**. Dieses Album fühlt sich genau so an, als würde man mitten im kalten europäischen Winter durch eine verlassene Geisterstadt wandern. "Sensitive Skin" verbindet bedrohliche, treibende Post-Punk-Basslinien mit hallenden Surf-Gitarren, die klingen, als würden sie aus einem fernen Canyon herabtönen. Das Thema ist unglaublich düster, stimmungsvoll und theatralisch, gelegentlich mit experimentellen Dub-Echos und unerwarteten Saxophon-Einlagen, die einen völlig unvorbereitet treffen. Es ist ein brillanter Soundtrack aus Schatten und Staub für deinen inneren Goth-Cowboy.
 
-::genre::goth rock, alt folk, country rock, dark wave, dub, post punk
+::genre::gothic rock, alt folk, country rock, dark wave, dub, post punk
 
 ## Wes Parker - Super Rare
 

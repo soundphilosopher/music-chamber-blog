@@ -422,7 +422,7 @@ Die 2014 gegründeten niederländischen Rocker begannen ihre Karriere in den Rei
 
 *IKINÄ* ist eine finnische **Modern-Metal**-/**Alternative-Rock**-Band, die für ihren kraftvollen weiblichen Gesang und ihre eingängigen, harten Hooks bekannt ist. Sie singen meist auf Finnisch und verbinden **Metalcore**-ähnliche Energie mit **melodischem Rock**. Das ist hochoktanige Schlachtruf-Musik. Sie ist ausgefeilt, wild und perfekt, wenn man sich wie ein moderner Krieger fühlen möchte. Sie trifft genau den richtigen Punkt, an dem man in einem Moment headbangen und im nächsten zu einem mitreißenden Refrain mitsingen kann.
 
-::genre::melodic rock, modern rock, alt rock, modern metal, alt metal, arena rock
+::genre::melo rock, modern rock, alt rock, modern metal, alt metal, arena rock
 
 ## Immolation - Descent
 
@@ -554,7 +554,7 @@ Das 13te (oder 14te) Album der amerikanischen Heavy-Veteranen. Hier handelt es s
 
 Das neue Album des amerikanischen Powerhouses mit Nick Hipa (ex-*As I Lay Dying*) und Ryan Glisan (ex-*Allegaeon*). Schwerer **Progressive Metalcore**. Wenn ihr technische Riffs und knochenerschütternde Breakdowns mögt, ist das genau das Richtige für euch. Das ist riffbasiertes Songwriting in Reinform - aggressiv, präzise und emotionsgeladen.
 
-::genre::metalcore, djent, progressive metal
+::genre::metalcore, djent, prog metal
 
 ## Mt. Sarin - Fortær
 
@@ -932,7 +932,7 @@ Der neueste Longplayer von der amerikanischen Formation. **Alternative Metal** /
 
 Die belgische Formation und ihr neues Album. Eine Neuinterpretation des Stummfilms "Pinocchio" aus dem Jahr 1911. **Post-Rock** / **Moderne Klassik**. Man stelle sich die filmische Intensität von *Mogwai* vor, gemischt mit der zarten Präzision eines Klavierkonzerts. Vergessen Sie die Disney-Version; dies ist "Pinocchio" mit einer gehörigen Portion existenzieller Sehnsucht. Es ist eine atemberaubende instrumentale Reise, die von zartem Klavierklang zu massiven, verzerrten Gitarrenwellen führt. Es ist die perfekte Musik, wenn man sich wie eine Holzpuppe fühlen möchte, die langsam entdeckt, dass sie eine Seele hat.
 
-::genre::cinematic modern classic, post rock, ambient
+::genre::cine modern classic, post rock, ambient
 
 ## Webb Chapel - Vernon Manner
 
@@ -962,7 +962,7 @@ Nach einer legendären 13-jährigen Pause seit ihrem Debüt kam die *World Unite
 
 Die Spanier mit ihrem fünften Studio-Longplayer in ihrer Discography. **Melodic Hard Rock** und **AOR**. Stark beeinflusst vom **Arena-Rock**-Spirit der 1980er Jahre, was Vergleiche mit Bands wie *Eclipse* und *Scorpions* nahelegt. "Phoenix" ist eine klangliche Zeitmaschine, die einen direkt in ein Stadionkonzert von 1985 versetzt. Es ist vollgepackt mit dieser Art von mitreißenden Refrains und glänzenden Gitarrenriffs, die Lust machen, in einem Cabrio in den Sonnenuntergang zu fahren, während man viel zu viel Leder trägt. Silvia Idoates Gesang ist der absolute Treibstoff für dieses Feuer.
 
-::genre::melodic rock, hard rock, arena rock, heavy rock
+::genre::melo rock, hard rock, arena rock, heavy rock
 
 ## Zachary Mezzo - Home Movies
 
@@ -984,7 +984,7 @@ Dies ist ein Saxophonquartett (*~Nois*), wie man es noch nie zuvor gehört hat. 
 
 Der kanadische Singer & Songwriter mit seinem Sophomore Output. Eine nostalgische Mischung aus **Rock** und **Classic Metal** der 70er, 80er und 90er Jahre. Stell dir einen rauen, hinternschüttelnden Bass an, bei dem schwere Drums und Bass im Vordergrund stehen. Dieses Album fühlt sich an wie eine lange verschollene Kassette, die man im Handschuhfach eines alten Muscle-Cars findet. Es ist rau, ehrlich und kompromisslos **Rock’n’Roll**. Adams DIY-Ansatz verleiht dem Ganzen eine gefühlvolle, handgemachte Note, die Lust macht, ein Bier aufzumachen und den Lautstärkeregler aufzudrehen, bis er abfällt.
 
-::genre::hard rock, melodic rock, heavy metal, proto metal
+::genre::hard rock, melo rock, heavy metal, proto metal
 
 ## Athak - Primarï
 

@@ -240,7 +240,7 @@ Das Debüt des italienischen Trios. Ich nenne es mal einen Versuch des Melodic B
 
 Das LA-Based Duo mit seinem neunten und neuesten Release, nach gut 13 Jahren Release-Ruhestand. Angetrieben durch das Trump-Regime, hat sich das politische Rap-Metal-Projekt wieder zusammengetan und hat seine Revolution in Songs verpackt.
 
-::genre::Rap Metal
+::genre::rap metal
 
 ## Negative Love - Negative Love *
 

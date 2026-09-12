@@ -240,7 +240,7 @@ Das Sophomore Release des litauischen Duos. Geboten wird eine Melange aus Alt-Me
 
 Der französische Producer Robin Leclair (Naibu) mit seinem neuesten Album. Avantgardistisch wird eine Fusion aus Drum & Bass, Ambient, EDM, Jungle und Electronica erzeugt. Ein wunderbar experimentelles Werk der Electronica.
 
-::genre::d&b, ambient, EDM
+::genre::d&b, ambient, edm
 
 ## Near The Parenthesis - Relative Minor
 

@@ -1052,13 +1052,13 @@ Vision Divine wurde 1998 vom Gitarristen Olaf Thorsen gegründet und ist seitdem
 
 *Wasted* feiern einen bedeutenden Meilenstein - ihr 30-jähriges Bandjubiläum. Sie haben sich bereits 1996 gegründet, und statt zu einer abgestandenen Nostalgie-Band zu verkommen, spielen sie heute schneller und tighter als in ihren Zwanzigern. Sie sind bekannt für ihre kompromisslosen, unverblümten, ausdrücklich antifaschistischen und gesellschaftspolitischen Texte. Rauer, melodischer **Melodic Punk Rock** und **Old-School-HC-Punk**. Ihre DNA ist untrennbar mit Anklängen an klassische Acts wie die *Dead Kennedys*, *The Clash*, *Against Me!* und sogar der filmischen Spannung von Ennio Morricone verbunden. Nach dreißig Jahren im Geschäft schreiben Wasted immer noch Musik, die wie eine aktive Protestkundgebung klingt. "The Future Is On Fire" vermittelt dieses unglaublich warme, nostalgische, raue Punk-Feeling der späten 80er/frühen 90er, bei dem markante, knackige Basslinien und treibende Midtempo-Drums die Hauptarbeit leisten. Was dieses Album jedoch so besonders macht, ist, wie wahnsinnig eingängig die Refrains trotz der düsteren, politisch aufgeladenen Themen sind. Songs wie "The Voiceless" gehen die gesellschaftliche Apathie frontal an und liefern einen mitreißenden Weckruf für alle, die am Steuer eingeschlafen sind. Es ist geradliniger, schnörkelloser Punkrock mit großer Überzeugung, der die Apokalypse irgendwie wie eine fantastische Mitsingparty klingen lässt.
 
-::genre::hardcore punk, melodic hardcore
+::genre::hardcore punk, melo hardcore
 
 ## Western Addiction - Psychedelic Munitions
 
 Western Addiction sind echte Szene-Veteranen, die nichts von ihrer alten Stärke eingebüßt haben. Nach ihrem hochgelobten 2020er-Album "Frail Bray" begaben sie sich mit Produzent Scott Evans in die Sharkbite Studios, um dieses neue Monster live im Raum aufzunehmen. Das Mastering übernahm Brad Boatright bei Audiosiege, um einen massiven, ungeschliffenen, umwerfenden Sound zu garantieren. Hochoktaniger **Hardcore-Punk** und **Skate-Punk**. Ihr Stil fängt die rohe, energiegeladene Leidenschaft der historischen Gilman-Street-Szene perfekt ein und verbindet sie gleichzeitig mit scharfer technischer Präzision. Lasst euch nicht vom Wort psychedelic im Titel täuschen - hier gibt es keine sanften Sitar-Soli oder Hippie-Trommelkreise. Western Addiction hat im Grunde einen Schwarm wütender Hornissen in eine 30-minütige Platte gepackt. "Psychedelic Munitions" klingt wie eine glorreiche Live-in-the-Room-Keller-Schlägerei. Der Gesang ist herrlich roh und kehlenschneidend, das Schlagzeug knallt wie ein Feuerwerkskörper, und der Leadgitarrist schleicht kurze, extrem süchtig machende, blitzschnelle Soli ein, die alles frisch klingen lassen. Tracks wie "Let’s Keep the Circle Small" und "Sevilla Midnight" sind wie geschaffen dafür, einen Festival-Pit zu zerreißen. Es ist hyperaktive, gesellschaftskritische und wunderbar laute Musik für den Moment, in dem man durch eine Mauer rennen möchte.
 
-::genre::melodic hardcore, skatepunk
+::genre::melo hardcore, skatepunk
 
 ## Will Samson - Sings Again
 
@@ -1164,7 +1164,7 @@ Bladee ist der unangefochtene CEO und Mitbegründer von *Drain Gang*, dem äuße
 
 Die Band wurde Ende 2018 gegründet und entstand aus einer Idee des Frontmanns und Texter Kostas "Corax" Katoikos, der zuvor als Frontmann der Band Sorrowful Angels bekannt war. Nach der Veröffentlichung ihrer ersten EP "Mistaken" im Jahr 2019 und der Teilnahme an einem gemeinsamen Split-Projekt im Jahr 2023 wuchs die Gruppe zu einer soliden sechsköpfigen Besetzung heran, um dieses Material vollständig aufzunehmen. "Spirit" markiert als ihr offizielles Debüt-Studioalbum einen wichtigen Meilenstein. Das Album bewegt sich im Bereich des Heavy **Gothic Rock** und **Gothic Metal**. Ihre charakteristische Klangformel verbindet kraftvolle, schwere Gitarrenriffs intensiv mit dramatischen, atmosphärischen Arrangements. Sie stützt sich stark auf emotionale Schwankungen und eine eindrucksvolle Balance zwischen Klarheit und Härte. Zieh deine Samtkleidung an und mach dich bereit für eine wunderschön dramatische Reise durch dunkle, mondbeschienene Korridore. "Spirit" behandelt Gothic Metal nicht wie ein veraltetes, vorhersehbares Relikt, sondern präsentiert ihn mit einer unglaublichen, frischen Intensität. Das absolute Kronjuwel ist hier das beeindruckende Gesangsduett zwischen Kostas Katoikos und Marita Makaronidi, deren kontrastreiche Stimmen elegant über einer donnernden Wand aus vernichtenden Gitarrenriffs schweben. Tracks wie "Morning After" führen einen direkt an einen emotionalen Bruchpunkt, indem sie Themen wie innere Konflikte, Sucht und die zerbrechliche Suche nach Erlösung in grandiose, filmische Metal-Hymnen übersetzen. Es ist ein außergewöhnlich leidenschaftliches, texturreiches und wunderschön düsteres Erlebnis, in dem die Dunkelheit triumphierend erblüht.
 
-::genre::heavy rock, goth rock, goth metal
+::genre::heavy rock, gothic rock, gothic metal
 
 ## Brainly - Nueral Drift
 
@@ -1392,13 +1392,13 @@ Sekigahara ist eine äußerst aktive Größe in der Underground-Szene des Intern
 
 An der Spitze der Band stehen der Multi-Instrumentalist, Songwriter und Produzent Eric „Doc“ Hammer (der später als Mitbegründer der Adult-Swim-Serie *The Venture Bros.* bekannt wurde) und die Opernsängerin Lisa Stockton-Wilson (Lisa Hammer). Sie beherrschten legendäre Underground-Locations wie das CBGB und das Limelight, bis sie sich 1994 trennten. **Gothic Rock**, **Darkwave**, **Post-Punk** und Gothic Opera. Ihr Stil ist historisch geprägt von düsterer, romantischer Literatur, liturgischer Intensität und den frühen Pionieren des Post-Punk. Holt eure Samtumhänge hervor und zündet die schwarzen Kerzen an: Die Monarchen des Underground-Goth der 90er sind zurückgekehrt. "The Visible Heaven" klingt wie eine direkte Übertragung aus einem rauchgefüllten, in Leder gehüllten Nachtclub im Jahr 1994. Doc Hammer hat die Produktion bewusst auf rohe Gitarren, hämmernden Bass, schwere Drums und eine eindringliche Pfeifenorgel reduziert. Über dieser klanglichen Wand des Untergangs schwebt Lisas hochfliegender, opernhafter Gesang, der keinen einzigen Tag gealtert ist. Das Thema ist majestätisch, unheimlich und zutiefst poetisch - es navigiert durch menschliches Elend, spirituelle Schatten und den schönen Trost, den man in der Dunkelheit findet. Es ist schwer, theatralisch und herrlich gruselig.
 
-::genre::goth rock, dark wave, post punk
+::genre::gothic rock, dark wave, post punk
 
 ## Rival Cults - Our Gods Need Blood
 
 Die 2020 gegründete Band hat sich mit ihrem 2023 erschienenen Debütalbum "Indoctrination" einen Namen gemacht. In der kalifornischen Underground-Szene genießen sie hohes Ansehen für ihre energiegeladenen Live-Auftritte und ihre selbsternannte musikalische Mission: mehr Rock in unseren Goth zu bringen. **Gothic Rock**, **Dark Rock**, **Post-Punk** und Heavy **Rock'n'Roll**. Sie lassen sich stark von der dunklen Erhabenheit von *The Sisters of Mercy*, *The Cult* und *The Damned* inspirieren. Wenn du schon immer einmal einen Ledertrenchcoat zu einem rituellen Opfer tragen und trotzdem headbangen wolltest, ist "Our Gods Need Blood" dein neuer heiliger Gral. Rival Cults liefern eine Meisterklasse in Gothic Rock, die klappernde Drumcomputer gegen massive, kraftvolle Dual-Gitarren-Riffs eintauscht. Cole Barringtons imposante Baritonstimme klingt wie ein dunkler Prophet, der eine Gemeinde in die Schatten führt. Tracks wie "Last Sunset" und "Victoria" dröhnen aus den Lautsprechern mit einer schweren, treibenden Rock’n’Roll-Attitüde, die verhindert, dass das Album jemals zu düster wirkt. Es ist theatralisch, grandios, unglaublich eingängig und macht absolut blutdrucksteigernden Spaß.
 
-::genre::post punk, dark rock, goth rock
+::genre::post punk, dark rock, gothic rock
 
 ## S7V7N - liar
 

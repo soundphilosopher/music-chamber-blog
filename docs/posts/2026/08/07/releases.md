@@ -128,7 +128,7 @@ Eine erfahrene französische Black-Metal-Band, bestehend aus Daimon (Gesang), In
 
 Ein äußerst produktives Underground-Soloprojekt, das seit fast zwei Jahrzehnten aktiv ist. Davydov übernimmt alle Gitarrenparts, den Bass, die Keyboards und die Drum-Programmierung selbst und arbeitet dabei mit der regelmäßigen Lyric-Video-Künstlerin Olga Kann zusammen, um eine umfangreiche Underground-Diskografie aufzubauen. **Melodischer Black Metal**, **Thrash Metal** und temporeicher Extreme Metal. Dieses Album startet wie eine feuerspeiende Maschine durch, angetrieben von purem Adrenalin und klassischer Metal-Geschwindigkeit. Es setzt auf hyperschnelle, rasante Gitarrensoli, die bemerkenswert präzise und knackig klingen, gepaart mit kratzigen, kehligen Schreien. Es liefert ein unerbittliches Feuerwerk aus Antikriegswut und düsteren gesellschaftlichen Kommentaren und bietet einen wilden, knochenbrechenden Soundtrack für alle, die gemeinsam gegen das globale Chaos aufschreien wollen.
 
-::genre::melo black metal, spped metal, thrash metal
+::genre::melo black metal, speed metal, thrash metal
 
 ## Din of Celestial Birds - Takeoffs & Landings *
 
@@ -248,7 +248,7 @@ Eine sechsköpfige Band unter der Leitung von Billy Ward und Vera Leppänen, die
 
 Ein Aufeinandertreffen zweier absoluter musikalischer Regelbrecher. Gustafsson ist ein international bekannter Free-Jazz-Saxophonist, während Pohjonen ein legendärer Rebell ist, der das Akkordeon mithilfe maßgeschneiderter elektronischer Verzerrungseffekte und Gesangsloops revolutioniert hat. **Free Jazz**, elektroakustische **Avantgarde**, **Industrial Folk** und **Noise**-Experimente. Diese Platte fühlt sich an wie eine intensive Hochgeschwindigkeitskollision in einer Sauna zwischen einer industriellen Bohrmaschine und einem dröhnenden Motor. Saxophone schreien durch schwere Verzerrerpedale, während das Akkordeon zu einem unerkennbaren, schweren Klanggebilde verzerrt wird. Es ist eine herrlich rohe, konfrontative und zutiefst verstörende Reise, die beweist, dass extreme Klänge unglaublich befreiend sein können.
 
-::genre::free jazz, ambient acoustic, industrial folk, noise, eperimental electronica
+::genre::free jazz, ambient acoustic, industrial folk, noise, experimental electronica
 
 ## Maya Ongaku - Nothing Space Music
 

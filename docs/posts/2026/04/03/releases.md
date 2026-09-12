@@ -158,7 +158,7 @@ Die amerikanische Kapelle mit ihrem Debüt Longplayer. Sie spielen emotiven **Me
 
 Die Heavy-Metal-Veteranen aus North Carolina, die als Pioniere des **Crossover-Thrash** bekannt sind, haben sich mit ihrem neuen Doppelalbum zu einem unverwechselbaren sumpfigen **Southern-Rock**- und **Sludge**-Sound entwickelt. Dieses gewaltige Doppelalbum ist ihr erstes seit acht Jahren und eine Hommage an den verstorbenen Gründungsschlagzeuger Reed Mullin. Es fängt das gesamte Spektrum ihrer Geschichte ein - von energiegeladenen **Punk**-Wurzeln bis hin zu düsteren Grooves, die sich anfühlen wie eine lange, heiße Fahrt durch das Mississippi-Delta.
 
-::genre::crossover, thrash metal, hardcore punk, metallic hardcore, sludge metal, souther rock
+::genre::crossover, thrash metal, hardcore punk, metallic hardcore, sludge metal, southern rock
 
 ## Crème Flesh - For Your Ass Only
 
@@ -690,7 +690,7 @@ Der *Avenged Sevenfold* Gitarrist mit seinem Solo-Full-Length. Es markiert eine 
 
 Das internationale Projekt unter der Leitung des Gitarrenvirtuosen Jeff Waters (Gründer der Thrash-Legenden *Annihilator*) mit dem letzten Teil ihrer "Amerikan Kaos"-Trilogie. Dies ist der energiegeladene Abschluss von Waters’ experimenteller Trilogie. Das Album ist schneller und vermittelt ein lebendigeres Gefühl als die vorherigen Teile. Freut euch auf Songs, die von politischen Kommentaren bis hin zu absoluter Albernheit reichen (wie "(I Won) The Hottie Lottery") und von erstklassigen Gitarrenklängen begleitet werden.
 
-::genre::hard rock, melodic rock, heavy rock, pop metal, thrash metal
+::genre::hard rock, melo rock, heavy rock, pop metal, thrash metal
 
 ## Blasart - Depravatus Christianis Sacris
 

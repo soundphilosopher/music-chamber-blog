@@ -68,7 +68,7 @@ Der profilierte amerikanische Gitarrist mit seinem neuesten Solo-Output. Eine in
 
 Das Sophomore Release der italienischen Kapelle. Für die Liebhaber des 80s AOR. Eine Melange aus Melodic Rock, Hard Rock und Proto Metal wird geboten, welche für die Arenen gedacht ist und in den Live-Shows auch imaginär celebriert wird.
 
-::genre::melodic rock, hard rock, proto metal, arena rock
+::genre::melo rock, hard rock, proto metal, arena rock
 
 ## Blood Red Delusion - Bloodlust Awakening
 
@@ -146,7 +146,7 @@ Der britische Producer Ed Upton macht schon seit gut 30 Jahren des dunklen Tanzf
 
 Die Kollaboration zwischen den amerikanischen Rapper Chaz Hall (E L U C I D) und den schweizerischen Producer Sebb Bash bietet eine experimentelle und expressionistische Melange aus Hip Hop, Experimental Rap, Boom Bop, Post Bop, Prog Rap und Spoken Words. 
 
-::genre::acid jazz, hip hop, experimental rap, spoken words, jazztronica, boom bop, post bop
+::genre::acid jazz, hip hop, experimental rap, spoken words, jazztronica, boom bap, post bop
 
 ## Enzo Favata, Fabio Giachino, Pasquale Mirra, Marco Frattini - Paucartambo *
 
@@ -506,7 +506,7 @@ Das Solo-Debüt der britischen Singer & Songwriterin. Eine elegische Melange aus
 
 Das norwegische Outfit mit seinem neuesten Longplayer. Sie sind dafür bekannt, in ihrem heimischen nordnorwegischen Dialekt zu singen und samische Themen sowie den traditionellen Gesangsstil, bekannt als Joik, in ihre Musik einzubeziehen. So wird ein Melange aus Metallic Hardcore, Melodic Hardcore und Pop Punk entwickelt und auf die Ohren los gelassen.
 
-::genre::metallic hardcore, melodic hardcore, pop punk
+::genre::metallic hardcore, melo hardcore, pop punk
 
 ## Osmium Gate - Cannibal Galaxy
 
@@ -626,7 +626,7 @@ Das amerikanische Trio ist nach einer mehr als 10 jährigen Release-Pause wieder
 
 Das Sophomore Release des schwedischen Trios, welches aus ehemaligen Mitgliedern von Thundermother zusammengesetzt ist. Gegründet haben sie sich um mehr kreative Freiheit zu erlangen. Diese "Freiheit" wird mit melodischen Hard Rock celebriert, was ein wenig wie eine Ironie wirkt. Fragmentell werden Prog Rock und Synth Pop versucht aber die "Freiheit" bleibt beim AOR.
 
-::genre::hard rock, melodic rock, arena rock, southern rock
+::genre::hard rock, melo rock, arena rock, southern rock
 
 ## The Hickey Underworld - Cold Sun *
 
@@ -686,7 +686,7 @@ Das neueste Release des kanadischen Duos bringt wieder viel kalte Melancholie mi
 
 Das österreichische Outfit mit seinem neuesten Longplayer. Eine rasante Mischung aus Black- und Thrash-Metal, geprägt von aggressiven Riffs, rasendem Tempo und kühlen, melodischen Stimmungen. Die Produktion ist bewusster und aufwendiger als die der Vorgänger, was aber nicht bedeutet das das DIY Feeling verloren gegangen ist.
 
-::genre::raw black metal, thrash metal, melodic black metal
+::genre::raw black metal, thrash metal, melo black metal
 
 ## Tyrone Allen II - UPWARD
 

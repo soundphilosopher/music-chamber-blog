@@ -291,7 +291,7 @@ Eine Zusammenarbeit experimenteller Künstler, bei der Textur und rhythmische Sp
 
 Ein erfolgreicher Songwriter für Stars wie *Morgan Wallen*, der mittlerweile selbst ein aufstrebender Solokünstler ist. **Country** mit starkem karibischem/insularem Flair. Man denke an Beach Country im Stil von *Kenny Chesney*, jedoch mit einer urigeren, traditionelleren instrumentalen Grundlage. *ERNEST* hat die Neonlichter des Broadway gegen das türkisfarbene Wasser der US-Jungferninseln eingetauscht. Es ist ein entspanntes, zufriedenes Album voller luftiger Melodien und Steel-Gitarre. Es fühlt sich an wie ein tropischer Urlaub in einem Blechbecher - salzig, sentimental und sanft wie ein karibischer Sonnenuntergang.
 
-::genre::surf rock, country folk, country folk, americana, indie folk
+::genre::surf rock, country folk, americana, indie folk
 
 ## Eveale - Enter The Woodland Realm
 
@@ -603,7 +603,7 @@ Ein Quartett, das zuvor unter dem Namen Lay Siege bekannt war. Dieses Projekt ma
 
 October Changes wird vom Duo Ari (Gesang) und Nando (Gitarre/Produktion) angeführt. Nachdem sie sich mit mehreren Singles und einer EP eine Fangemeinde aufgebaut hatten, arbeiteten sie jahrelang akribisch an diesem Debütalbum, um sicherzustellen, dass es ihrer ambitionierten audiovisuellen Vision gerecht wird. **Melodic Metal**, **Symphonic Metal** und **Industrial Metal**. Die Band beschreibt ihren Sound als Dark Cinematic Metal. Es ist eine Mischung aus schweren, tief gestimmten Gitarrenriffs und treibenden Industrial-Beats, gekrönt von ätherischen, opernhaften bis rockigen Gesangsmelodien und massiven orchestralen Klängen. "Quantum" zu hören ist wie bei einer Heavy-Metal-Oper in einem Hightech-Raumschiff. Es ist grandios, es ist glanzvoll und es ist unverhohlen dramatisch. October Changes ist es gelungen, ein Album zu schaffen, das wie ein Filmtrailer zum Weltuntergang klingt - allerdings einer, in dem die Welt durch ein wirklich cooles Gitarrensolo gerettet wird.
 
-::genre::melo metal, symphonic metal, inustrial metal
+::genre::melo metal, symphonic metal, industrial metal
 
 ## Orange Crush - Eidolons
 
@@ -615,7 +615,7 @@ Dies ist das Projekt von Karl Endreson, einem impressionistischen Elektronik-Kü
 
 Eine Zusammenarbeit zwischen dem Bassisten Oteil Burbridge (*Dead & Company*, *Allman Brothers*) und dem Sänger Lamar Williams Jr., aufgenommen in den Flóki Studios in Island. **Southern Soul**, **Gospel** und **improvisierter Rock**. Mit dabei ist eine All-Star-Besetzung, darunter Mitglieder der *Jerry Garcia Band* und von *Soulive*. Dieses Album ist wie heißer Kräutertee mit Honig. Es ist eine langsam entflammende Meisterklasse in Groove und Melodie, die darauf abzielt, den Unsinn auszublenden und die Liebe über den Hass zu stellen. Reiner, unverfälschter Southern Soul, der gleichzeitig die Hüften und das Herz in Schwung bringt.
 
-::genre::neo soul, soul, gospel, souther rock, improvisation
+::genre::neo soul, soul, gospel, southern rock, improvisation
 
 ## Paal Nilsen-Love Circus, The Ex Guitars - Calls!
 
@@ -789,7 +789,7 @@ Mark Cross ist bekannt für seine Arbeit im Psych/Indie-Rock-Projekt *9-volt vel
 
 Eine hypnotische Heavy-Metal-Band, die sich für dieses Album von einem Duo zu einer vierköpfigen Besetzung entwickelt hat. **Okkult-Rock**, **Gothic Metal** und klassischer **Hard Rock**. Die Einflüsse reichen von *Blue Öyster Cult*, Metal Blade Records und *Rush* bis hin zu *Mercyful Fate*. Stellt euch vor, *Iron Maiden* hätte sich in den 80ern dazu entschlossen, voll auf Gothic zu setzen. Es ist eine schattengetränkte Reise, voller schwebender Harmonie-Gitarren und existenzieller Angst, und doch überraschend eingängig. Es ist Musik für Leute, die ihren Metal mit hohem emotionalem Einsatz und einem Hauch von theatralischem Flair mögen.
 
-::genre::hard rock, heavy rock, goth metal, goth rock, ritual music
+::genre::hard rock, heavy rock, gothic metal, gothic rock, ritual music
 
 ## Stefano Panunzi - Caravaggio
 
@@ -855,7 +855,7 @@ Tex Perkins ist eine australische Ikone, bekannt als Frontmann von The Cruel Sea
 
 Ihr neuntes Album und das dritte seit ihrer Wiedervereinigung im Jahr 2021 (ohne Gitarrist *Martin Carr*). Das Album wurde stark von Bassist Tim Browns persönlichem Verlust geprägt. **Indie-Rock** und **Britpop** vermischen sich mit **Shoegaze** und melodischer Raffinesse im Stil der 60er Jahre. Ein trotziges Bekenntnis zur Beharrlichkeit. Es kontrastiert düstere Themen des Verlusts mit hoffnungsvollen, klirrenden Popmelodien. Es ist der Sound einer Band, die zwei Jahrzehnte der Stille überstanden hat und immer noch Licht im Schatten findet.
 
-::genre::britpop, prog pop, psych rock, britpop, indie rock
+::genre::britpop, prog pop, psych rock, indie rock
 
 ## The Claypool Lennon Delirium - The Great Parrot-Ox and the Golden Egg of Empathy *
 

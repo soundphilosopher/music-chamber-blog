@@ -18,7 +18,7 @@ Die brandneue, mit Spannung erwartete Modern-Metal-Band unter der Leitung des au
 
 Ein hochspezialisiertes, avantgardistisches Extreme-Metal-Soloprojekt, das vollständig von einem einzigen Mastermind vorangetrieben wird, der schräge, bewusstseinsverändernde, unterirdische Tracks kreiert. **Dissonanter Black Metal** und **experimenteller Ambient-Black-Metal**. Das Songwriting bezieht direkte, komplexe strukturelle Anlehnungen aus mikrotonalen Gitarrenarrangements und dunklen, atmosphärischen Acts wie *Deathspell Omega*, *Blut aus Nord* und *Jute Gyte*. Hüllt euch in dunkle Wolldecken und bereitet euer Gehirn auf eine totale kosmische Umstrukturierung vor! Dieses Album wirkt wie eine schwindelerregende, sich langsam vorwärtsbewegende Klanglawine, die euch direkt in einen tiefen, pechschwarzen Brunnen stürzen lässt, in dem die traditionellen Gesetze der Melodie schlichtweg keine Gültigkeit mehr haben. Anstatt sich auf konstante, sinnlose Geschwindigkeit zu verlassen, verwebt das Projekt meisterhaft dichte Schichten aus spacigen, eindringlichen Synthesizer-Pads um komplexe, mikrotonale Gitarrenriffs. Es entsteht ein unglaublich fließendes, immersives Klanggeflecht, das dunkle existenzielle Panik und abstrakte Schwere als erlesene, wunderschöne Leinwand für Klangkunst behandelt.
 
-::genre::atmo black metal, avant black metal, experimental black metal, dissonant black matal
+::genre::atmo black metal, avant black metal, experimental black metal, dissonant black metal
 
 ## Airbourne - Airbourne
 
@@ -116,7 +116,7 @@ Das Projekt, das ursprünglich 2012 als bescheidene Solo-Nebenbeschäftigung im 
 
 Dieses legendäre Kollektiv, das ursprünglich Anfang der 1990er Jahre gegründet wurde, gilt als eine der maßgeblichen Pionierbands der Gothic-Metal-Bewegung mit zwei Gesangsstimmen (Mann und Frau). Nach einer jahrzehntelangen Pause haben sie fast ihre gesamte klassische Besetzung wieder zusammengebracht – darunter auch die legendären Sänger Erik Molarin und Lotta Höglin. Heavy **Gothic Metal** und **atmosphärischer Doom Metal**. Dieses Album versteht sich bewusst als direkte Fortsetzung der hochgelobten Souls-Studio-Trilogie der Band. Dämpft das Licht, zündet ein paar schwarze Kerzen an und hüllt euch in Samt! Dieses Album ist eine wunderschön melancholische, authentische Rückkehr zu alter Form, die schwere, tiefe Gitarrenriffs mit traurigen Klaviermelodien in Einklang bringt. Die absolute Magie liegt in der stimmlichen Chemie, in der sich Eriks raues Bariton-Growlen perfekt mit Lottas engelhaften, schwebenden Melodien verwebt. Es umrahmt zeitlose Themen wie romantischen Verfall, vergehende Zeit und dunkle Selbstbeobachtung und liefert einen herrlichen Gothic-Rock-Spielplatz, der deinen inneren Romantiker befriedigt.
 
-::genre::atmo doom metal, goth metal
+::genre::atmo doom metal, gothic metal
 
 ## Besvarjelsen - Till Glömskan Ad Oblivionem
 
@@ -134,7 +134,7 @@ Eine energiegeladene, äußerst ambitionierte Alternative-Band mit Laurie Vincen
 
 Ein äußerst geheimnisvolles, hochaktives Underground-Studio-Projekt, das sich durch die Verbreitung düsterer, konzeptioneller Kassetten über unabhängige Netzwerke sofort eine Kult-Anhängerschaft aufgebaut hat. **Gothic Black Metal** und atmosphärischer **Vampyr-Rock**. Das Projekt greift stark auf die klassischen Strukturen des Old-School-Black-Metal zurück und verwebt diese mit dunklen, romantischen Deathrock-Elementen der 1980er Jahre. Legt euren schönsten Samtumhang an und zündet eure schwarzen Kerzen an, denn ein grandioses nächtliches Ritual hat offiziell Einzug in euer Wohnzimmer gehalten! Dieses Album ist eine absolute Meisterklasse in sepulkraler Erhabenheit, die eiskalte Gitarrenverzerrungen und triumphale, treibende Melodien um Geschichten von ruhelosen Geistern und vergessenen Königreichen wickelt. Es vermeidet generische Radioformate, um eine feuchte, nebelverhangene Klangwand zu errichten, die sich bemerkenswert majestätisch, uralt und auf wunderschöne Weise bedrohlich anfühlt. Es ist ein köstlich dunkler, filmischer Albtraum, der extreme Musik wie eine heilige, poetische Kunstform behandelt.
 
-::genre::goth metal, black metal, atmo black metal
+::genre::gothic metal, black metal, atmo black metal
 
 ## Black Duck & Elena Setién - Black Duck with Elena Setién *
 
@@ -374,7 +374,7 @@ Ein gewichtiges Independent-Studio-Projekt, das Ende 2025 vom Multi-Instrumental
 
 Eine für den Grammy nominierte Heavy-Metal-Institution mit theatralischem Charakter, angeführt von der charismatischen Maria Brink an der Seite des Gitarristen Chris Howorth, die für ihre aufwendigen, konzeptionell ausgefeilten visuellen Inszenierungen und ihre düsteren Arena-Auftritte bekannt ist. **Alternative Metal**, **Gothic Metal** und **Industrial Rock**. Das Album besticht durch schwere, tief gestimmte Riffs, eine Klangatmosphäre wie aus einem Horrorfilm sowie Gastauftritte von Kim Dracula, Rory Rodriguez (Dayseeker) und der Tattoo-Ikone Kat Von D. Zündet eure schwarzen Kerzen an, werft euren schönsten Kapuzenmantel über und macht euch bereit für eine unglaublich heavy-metalige Séance! Dieses Album ist eine absolute Meisterklasse in filmischem Dark Theater, die knochenbrechende Gitarrenriffs und rasende Rhythmen mit Maria Brinks atemberaubenden Stimmwechseln – von verletzlichem Flüstern bis hin zu kehlenschneidenden Schreien – verbindet. Mit einem starken Fokus auf Themen wie innere Alchemie, Widerstand gegen gesellschaftlichen Machtmissbrauch und das Schöpfen von Stärke aus Schmerz liefert es ein wildes, kraftvolles Heavy-Rock-Ritual. Es bietet einen aufregenden, wunderschön bedrohlichen Spielplatz, der eure inneren Kämpfe in absolutes klangliches Feuer verwandelt.
 
-::genre::alt metal, modern metal, goth metal, industrial
+::genre::alt metal, modern metal, gothic metal, industrial
 
 ## Interpol - This Mirror Weighs a Ton *
 
@@ -530,7 +530,7 @@ Ein meisterhafter, hochgelobter Singer-Songwriter und Multi-Instrumentalist mit 
 
 Die 2017 gegründete Elite-Band mit einer Sängerin besteht aus den erfahrenen Musikern der japanischen Underground-Szene Liezou (Gesang), Zakuro (Gitarre), JUN (Bass) und VAYA (Schlagzeug). **Melodic Death Metal** und **Progressive Heavy Metal**. Sie verbinden die vernichtende Aggressivität der Extreme-Metal-Szene mit technischen, blitzschnellen J-Rock-Gitarrenläufen. Haltet euch fest, denn ein metallischer Taifun ist offiziell angekommen! Dieses Album ist ein blendendes, energiegeladenes Spektakel aus dualem Gitarren-Shredding und kehlzerreißenden Growls, das absolutes rhythmisches Chaos mit eingängigen Hooks in Einklang bringt. Es verzichtet auf jegliche poppige Aufweichung und beschließt stattdessen, eure Lautsprecher mit wildem Schlagzeugspiel und komplexen Songstrukturen zu sprengen. Es fühlt sich unglaublich energiegeladen an, stillt euren Hunger nach technischem Metal und lässt euch gleichzeitig zu einem mitreißenden Beat mit dem Kopf wippen.
 
-::genre::modern metal, prog rock, heavy rock, melo death metal, modern metal
+::genre::modern metal, prog rock, heavy rock, melo death metal
 
 ## Nephilia - Huldra *
 
@@ -602,7 +602,7 @@ Die 2006 gegründete Band gilt weltweit als unangefochtene Pioniere und Väter d
 
 Ein weltweit bekannter, wegweisender und interdisziplinär tätiger Dichter, Schauspieler, Schriftsteller und Musiker, der seit fast drei Jahrzehnten eine herausragende Stimme der alternativen schwarzen Kultur ist. Ein brillantes, Grenzen sprengendes Mosaik aus **Spoken Word**, **spiritueller Jazz**-Abstraktion, **experimentellem Hip-Hop** und zeremoniellen **Ambient**-Klanglandschaften. Das Album basiert auf der Philosophie, dass - die Stimme das Instrument ist -, und besticht durch großartige Kollaborationen mit Kamasi Washington, Moor Mother und Georgia Anne Muldrow. Leg dein Handy beiseite, schließe die Augen und mach dich darauf gefasst, dass deine Vorstellung von Musik völlig auf den Kopf gestellt wird! Benannt nach seinem seltenen Geburtstag im Schaltjahr, nutzt das Album Vogelstimmen, tiefe elektronische Rhythmen und Jazz-Improvisationen, um ein immersives, spirituelles Meisterwerk zu schaffen. Williams trägt seine Gedichte mit der atemberaubenden, gebieterischen Kraft eines weisen Predigers vor und taucht kopfüber in politische Wahrheiten, Erinnerungen an die Vorfahren und globale Gerechtigkeit ein, um ein unverzichtbares, transzendentes Hörerlebnis zu schaffen.
 
-::genre::spriritual jazz, ambient, experimental hip hop, spoken words
+::genre::spiritual jazz, ambient, experimental hip hop, spoken words
 
 ## Schröttersburg - Ignis
 
@@ -674,7 +674,7 @@ Diese Underground-Metal-Band, die 2025 inmitten der sengenden Wüstenhitze gegr�
 
 Eine klassisch ausgebildete Pianistin und ehemalige Orchestermusikerin, die ihr enormes Talent auf beeindruckende Heavy-Metal-Arrangements ausgerichtet hat. **Symphonic Metal** und **Gothic Rock**. Ihr Sound stützt sich stark auf die Intimität eines Piano-Confessional, das auf grandiose Opernhöhen gesteigert wird, und erinnert an Genre-Giganten wie *Within Temptation*, *Nightwish* und *Evanescence*. Holt euren schönsten Samtmantel aus dem Schrank und macht euch bereit, denn in euren Lautsprechern tobt offiziell ein theatralischer Sturm! Dieses Album ist ein absolutes Kraftpaket, das verletzliche, tagebuchartige Klaviermelodien meisterhaft mit vernichtenden Gitarrenriffs und schwebenden, glaszerbrechenden Gesangshöhen kontrastiert. Anstatt eine trostlose Übung in Dunkelheit zu sein, behandelt es existenzielle Krisen, tiefe Trauer und sich wandelnde Lebensumstände als Leinwand für ultimative menschliche Widerstandsfähigkeit. Es wirkt bemerkenswert filmisch und bietet eine triumphale musikalische Notfallstation, die persönlichen Schmerz in eine glorreiche, mitreißende Heavy-Metal-Symphonie verwandelt.
 
-::genre::symphonic metal, goth metal, goth rock
+::genre::symphonic metal, gothic metal, gothic rock
 
 ## Teddy's Cabin - Ghost Mountain Suspended In Time
 
@@ -852,7 +852,7 @@ Dionisaf ist eine vielseitige Multi-Instrumentalistin, Ambient-Komponistin und b
 
 Eine seit langem etablierte und angesehene Größe in der europäischen Underground-Metal-Szene, bekannt für ihre komplexen Arrangements und ihre äußerst dramatische Live-Präsentation. **Symphonic Gothic Metal** und **Melodic Doom** / **Death Metal**. Sie verbinden meisterhaft schwere, vernichtende Gitarrenriffs mit markanten, schwungvollen klassischen Violinenarrangements und opernhaften Texturen. Dimmt das Licht, zündet ein paar Kerzen an und macht euch bereit für eine Heavy-Metal-Oper von filmreifen Ausmaßen. Dieses Album strotzt geradezu vor dunkler Eleganz und verwebt nahtlos massive, kehlige Brülllaute und vernichtende Metal-Akkorde mit eindringlich schönen Violinenmelodien, die einem sofort Gänsehaut bereiten. Thematisch erkundet es tiefe innere Konflikte, uralte spirituelle Dunkelheit ("Tamas") und die schmerzhafte Suche nach einer unerreichbaren inneren Vollkommenheit. Es bietet ein majestätisches, aufregend melancholisches Hörerlebnis, das sich eher wie ein epischer Tragödienfilm anfühlt als nur wie eine Sammlung von Songs.
 
-::genre::goth metal, melo doom metal, melo death metal
+::genre::gothic metal, melo doom metal, melo death metal
 
 ## Evisarize - Bound In Flesh
 

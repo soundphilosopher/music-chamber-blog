@@ -146,7 +146,7 @@ Das britische Trio mit seinem neuesten Release. Ein recht experimentelles Werk, 
 
 Das Debüt der italienischen Formation. Mit der passenden Attitüde und dem Können wird ein Werk des klassischen Progressive Rock präsentiert, welches mediterrane Folklore und Pop mit in seine avantgardistischen Strukturen einbindet.
 
-::genre::prog rock, mediterranean folk, mediterranean pop, avant pop
+::genre::prog rock, medi folk, medi pop, avant pop
 
 ## Diskust - Skin Cage
 

@@ -182,7 +182,7 @@ Ein virtuoser Musiker, der seit Jahren alte anatolische Melodien mit **modernen 
 
 *bela* ist bekannt für ihre intensiven, ritualistischen Auftritte und nutzt die Tradition des "Nongak" (Bauernmusik), um queere Identität zu erforschen und kulturelle Erwartungen durch Heavy-Metal-Energie und Club-Rhythmen zu unterlaufen. **Experimental Club**, dekonstruiertes **Pungmul** und **Noise**. Sie verschmelzen traditionelle koreanische Percussion mit aggressiver, industrieller Elektronik. Das ist ein akustischer Exorzismus auf der Tanzfläche. Es ist laut, provokativ und zutiefst rhythmisch - als hätte jemand ein traditionelles Volksfest genommen und es an ein Hochspannungs-Verzerrerpedal angeschlossen. Es ist Liebe, ausgedrückt durch das wunderschöne Chaos aus klingenden Becken und digitalen Schreien.
 
-::genre::experimental electronica, idm, ibm, ibm, noise
+::genre::experimental electronica, idm, ibm, noise
 
 ## Bewitched - Diabolical Death Mass
 
@@ -464,7 +464,7 @@ Das legendäre Trio - Ken Andrews, Greg Edwards und Kellii Scott - setzt seine p
 
 Die 2008 gegründete Band hat Besetzungswechsel und eine weltweite Pandemie überstanden, um mit dieser Veröffentlichung ihre zweite Albumtrilogie zu vollenden. Eine viszerale Mischung aus **Post-Rock**, **Post-Hardcore** und **Screamo**. "Green Lands" ist ein Wirbelwind aus überwältigenden Crescendi und zerbrechlichen Arpeggios. Es fühlt sich an, als würde man durch einen wunderschönen, nebligen Wald wandern, in dem man entweder völlige Ruhe finden oder von seinen eigenen Schatten verfolgt werden könnte. Melancholisch, laut und zutiefst menschlich.
 
-::genre::post rock, post harcore, screamo
+::genre::post rock, post hardcore, screamo
 
 ## FangSlinger - Welcome To The Lost Souls Saloon
 
@@ -560,7 +560,7 @@ Eine polnische Band, die aus der europäischen Progressive-Rock-Underground-Szen
 
 Die Band hat sich über Jahre hinweg eine Nische in der europäischen Schwarzen Szene erobert und ist bekannt für ihre freche, zynische Interpretation des Gothic-Lifestyles. **Goth‘n’Roll**. Stell dir eine düstere, rauchige Mischung aus *Lord of the Lost*, *HIM* und einem Hauch von *Type O Negative* vor. Das ist Musik für eine Party auf einem Friedhof, bei der alle Leder tragen und teuren Rotwein trinken. Sie ist eingängig, selbstironisch und laut. Sie ist böse mit einem Augenzwinkern und einem Refrain, den du noch lange nach Sonnenaufgang vor dich hin summen wirst.
 
-::genre::goth rock, alt rock, industrial
+::genre::gothic rock, alt rock, industrial
 
 ## HighWay - Last Call For Rock’N’Roll
 
@@ -1268,7 +1268,7 @@ Ein Soloprojekt von Urq, einer Hälfte des Art-Punk-Duos *Spllit*. **Art-Punk** 
 
 Ein Projekt mit der legendären Synchronsprecherin (Seiyuu) Rie Tanaka (bekannt aus *Gundam SEED* und *Chobits*). **Metalcore**, **Visual Kei** und **Gothic Metal** mit einer Sängerin. Hier trifft Anime-Pracht auf Heavy-Metal-Rauheit. Es ist dramatisch, theatralisch und enthält einen *Stutter-House*-Remix sowie eine Epilog-Version ihres Titels "ELPIS". Es ist ein Gothic-Metal-Tanz, der sich anfühlt wie der Titelsong einer dunklen Fantasy-Serie, die noch nicht gedreht wurde.
 
-::genre::goth metal, kawaii metal, modern metalcore
+::genre::gothic metal, kawaii metal, modern metalcore
 
 ## Vargkvint - Jorden kallar
 
@@ -1440,7 +1440,7 @@ Dieses Projekt, das ursprünglich den Titel "The Watchtowers" trug, wurde über 
 
 Ein Super-Duo mit Chuck D (dem legendären Frontmann von *Public Enemy*) und John Densmore (dem ikonischen Schlagzeuger von *The Doors*). Die Musik ist eine kraftvolle Mischung aus **Hip-Hop**, jazzigem Schlagzeugspiel und gesellschaftskritischen Texten. Hier trifft **Boom-Bap** auf den Rhythmus des *Lizard King*. Es ist rau, politisch und schlägt eine Brücke zwischen Generationen der Rebellion. Mit Chuck Ds dröhnender Autorität über Densmores legendärem **Swing** ist es das musikalische Äquivalent eines Protestmarsches durch einen Jazzclub. Die Single "Every Tick Tick Tick" wurde sogar zum RSD 2026 Song of the Year gekürt.
 
-::genre::boom bop, hip hop, prog hip hop
+::genre::boom bap, hip hop, prog hip hop
 
 ## Half Man - I Can See God
 

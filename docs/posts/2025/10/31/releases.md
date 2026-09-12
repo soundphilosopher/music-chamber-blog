@@ -200,7 +200,7 @@ tbd
 
 Die Combo aus Australien mit ihrem neuesten Release. Post-Hardcore der guten alten Spielweise alá Silverstein, Saosin, Senses Fail, Underoath und BoySetsFire. Alles verpackt in einer guten Produktion und mit recht aggressivem Songwriting.
 
-::genre::post hardcore, melodic hardcore
+::genre::post hardcore, melo hardcore
 
 ## Boozoo Bajou - Aurelia *
 
@@ -1704,7 +1704,7 @@ tbd
 
 Die amerikanische Formation mit ihrem neuesten Release. Post-Hardcore, welcher viele Elemente des Melodic-Hardcore und Emocore in sich vereinigt. Alles wird verpackt in eine passende Early 2000er Produktion.
 
-::genre::post hardcore, melodic hardcore, emocore
+::genre::post hardcore, melo hardcore, emocore
 
 ## Holger Fritz - Beyond the Northern Light
 

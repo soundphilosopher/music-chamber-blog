@@ -386,7 +386,7 @@ Ein Projekt, dessen Name das Totengrinsen bezeichnet und dessen lateinischer Tit
 
 Ein Projekt, das seinen Namen ins Album übernimmt und schlicht durchnummeriert — die zweite Runde also. **Gothic Rock**, **Dark Wave** und **Post Punk**. Hallende Gitarren, ein tiefer Bass und ein Gesang, der die Dramatik nicht scheut. Zieht euch was Dunkles an, der Abend ist lang! Das Album steht fest in der Tradition der frühen Achtziger, ohne wie eine Nachstellung zu klingen: Die Produktion ist klarer, die Songs kompakter und die Melodien deutlich zugänglicher, als das Genre gemeinhin erlaubt. Thematisch geht es um Besitz, Verfall und Häuser, die ihre Bewohner überdauern — der Landsitz des Namens ist erkennbar mehr als bloße Kulisse. Zwischen den treibenden Nummern stehen langsame, fast schwebende Passagen, in denen sich die Gitarren im Hall auflösen. Ein stilsicheres, atmosphärisch dichtes Album mit ein paar wirklich starken Refrains. Sehr gelungen.
 
-::genre::goth rock, dark wave, post punk
+::genre::gothic rock, dark wave, post punk
 
 ### Sellsword - ...With Might And Vengeance
 
@@ -476,7 +476,7 @@ Die Band besteht aus Mitgliedern, die historisch mit Pionieren des frühen Punk 
 
 Die Band ist dafür bekannt, mitreißende, dramatische musikalische Kulissen zu schaffen, die düstere Basslinien mit schwebenden, emotionalen Melodien verbinden, die an den College-Rock der späten 80er Jahre erinnern. Dieses Projekt orientiert sich stark am **Post-Punk**, **Gothic Rock** und stimmungsvollem, gitarrenbetontem **Indie-Rock**. "A Great Weight" ist das musikalische Äquivalent dazu, grauen Gewitterwolken dabei zuzusehen, wie sie langsam über einen leeren Strand ziehen. Getreu seinem Titel wirkt das Album zutiefst emotional und atmosphärisch und vermittelt ein wunderschönes, tiefes Gefühl von Melancholie. Es hüllt einen in einen Mantel aus schimmernden Gitarrenklängen und treibenden Bassrhythmen, die das Gefühl von leichter Traurigkeit unglaublich erhaben und filmisch wirken lassen.
 
-::genre::post punk, goth rock, indie rock
+::genre::post punk, gothic rock, indie rock
 
 ### The Salt Pale Collective - ...And God Said Nothing
 

@@ -398,7 +398,7 @@ Smith, der seine Karriere mit Auftritten bei kleinen Open-Mic-Abenden in seiner 
 
 Hamilton gilt weithin als eines der wichtigsten ehemaligen Mitglieder der mit mehreren Platin-Auszeichnungen gekrönten britischen Girlgroup Atomic Kitten, die sie Ende 2024 nach 25 Jahren verließ. Sie hat dieses Projekt gemeinsam mit dem Produzenten Andy Gannon ins Leben gerufen, um als Solokünstlerin einen selbstbewussten Schritt in die Eigenständigkeit zu wagen. **Electropop**, Contemporary Pop und **Dance-Pop**. "Extraction" ist eine makellose, selbstbewusste Pop-Schatzkiste, die mit einer starken emotionalen Ladung überzeugt. Angeführt vom clubtauglichen Elektro-Kracher "Numb" und dem mitreißenden "Fantasy" behandelt die EP Themen wie persönliche Wiedergeburt, das Abwerfen vergangener institutioneller Lasten und das Finden von Unabhängigkeit. Der Track "White Feather" wechselt auf wunderschöne Weise in eine verletzliche Stimmung und fungiert als bewegende Hommage an ihre verstorbene Großmutter. Er verbindet eine raffinierte, glänzende Synthesizer-Produktion mit kraftvollem Gesang, der Lust macht, seine Frustrationen wegzutanzen.
 
-::genre::electro pop, edm, ebm, dance
+::genre::electropop, edm, ebm, dance
 
 ## Nduduzo Makhathini - The Myth We  Choose
 
@@ -572,7 +572,7 @@ Bei den Aufnahmen zu ihrem sechsten Studioalbum in Edwyn Collins’ mit Vintage-
 
 Die Band, die Anfang der 2000er Jahre ins Rampenlicht trat, nachdem sie im Alter von nur 16 Jahren bei Rough Trade Records unter Vertrag genommen worden war, hat sich über mehr als zwei Jahrzehnte hinweg einen legendären Ruf als Live-Band erarbeitet. Ihre düsteren, theatralischen Klangwelten haben ihr bekanntermaßen eine treue Fangemeinde unter namhaften Filmregisseuren wie David Lynch, Tim Burton und Paolo Sorrentino beschert. **Gothic Rock**, orchestraler **Indie** und cineastischer **Art-Rock**. "Fragile World" ist ein wunderschön zerbrechliches, mit Samt ausgekleidetes, dunkles Album. Angeführt vom dramatischen Tempo der Lead-Single "Lungs" schwebt das Album durch ein übergreifendes Thema kollektiver menschlicher Verletzlichkeit und betrachtet eine zerfallende Gesellschaft durch eine zutiefst einfühlsame Linse. Andrews’ zitternder, intensiver Gesang schlängelt sich über eindringliche Klavierakkorde, üppige Orchester-Streicher und plötzliche Ausbrüche dunkler Gitarrenverzerrungen. Beim Anhören dieses Albums fühlt man sich, als säße man in einem alten, flackernden Kino und würde eine wunderschöne Schwarz-Weiß-Tragödie in Zeitlupe verfolgen.
 
-::genre::indie rock, cine rock, art rock, goth rock
+::genre::indie rock, cine rock, art rock, gothic rock
 
 ## Tucker Zimmerman - Dream Me A Dream
 

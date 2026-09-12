@@ -32,7 +32,7 @@ Eine hochgelobte unabhängige Singer-Songwriterin, deren viraler Debüt-Track "K
 
 Ein rasant aufstrebendes brasilianisches Trio, das Ende 2025 und Anfang 2026 auf Tournee mit Genre-Größen wie *Born of Osiris* und *Lacuna Coil* international für Aufsehen sorgte. **Modern Metalcore**, **Post-Hardcore** und **Electronic-Core**. Zieht eure Kampfstiefel an und macht Platz in eurem Wohnzimmer, denn dieses Album ist eine hochoktanige Raketenfahrt, die darauf ausgelegt ist, euren lokalen Moshpit in Brand zu setzen. Die Band liefert eine dichte, wuchtige Klanglandschaft, in der gnadenlos schwere Gitarren-Breakdowns und explosive Schreie mit hochfliegenden, radiotauglichen, klaren Refrains und glitchiger Elektronik kontrastiert werden. Die thematischen Rahmen nehmen absolut kein Blatt vor den Mund und fungieren als hypermelodischer Tagebucheintrag, der schweren Herzschmerz und emotionale Narben thematisiert und den dunkelsten persönlichen Schmerz buchstäblich als Katalysator für Wachstum nutzt. Das Album ist schnell, macht extrem süchtig und ist ein phänomenaler Begleiter beim Training.
 
-::genre::Electronicore, post hardcore, modern metalcore
+::genre::electronicore, post hardcore, modern metalcore
 
 ## Ayumi Tanaka, Thomas Morgan & Thomas Strønen - Windflower
 
@@ -86,7 +86,7 @@ Ein kraftvolles Power-Trio, bestehend aus Charles Gama, Chaene da Gama und Rodri
 
 Ein theatralisches, äußerst fesselndes britisches Kollektiv, das seit 2016 aktiv ist. Mit ihrem von der Kritik gefeierten Debütalbum "Stagmata" haben sie sich eine treue europäische Kult-Anhängerschaft aufgebaut. **Psychedelischer Doom Metal**, atmosphärischer **Gothic Rock** und traditionelle Seemannslieder. Dieses Album wirkt genau so, als würde man um Mitternacht tief in einem eiskalten Sumpfgebiet auf ein geheimes, von Fackeln beleuchtetes okkultes Ritual stoßen. Angetrieben von einem rauen, steinharten Gesangsbrüllen und erdrückenden Wänden aus Gitarrenverzerrungen in Zeitlupe versetzen Titel wie "The Devil of Mariazell" den Hörer direkt in die tiefsten Abgründe. Die thematischen Texte tauchen tief in dunkle Mythologie, Versuchung und die erdrückende Last existenzieller Verluste ein und machen das Album zu einem unglaublich reichhaltigen, gotischen Klangrefugium für düstere Geschichten.
 
-::genre::psych metal, doom metal, goth rock, psych rock
+::genre::psych metal, doom metal, gothic rock, psych rock
 
 ## Burning Sun - Power to Survive
 
@@ -110,13 +110,13 @@ Ein seit den frühen 2010er Jahren aktives, stark im Underground verwurzeltes Po
 
 Die 2019 gegründete Band erlangte durch ihre mitreißenden, theatralischen Live-Creepshows eine riesige Kult-Anhängerschaft, bevor sie dieses mit Spannung erwartete Debütalbum aufnahm. **Gothic Metal**, **Deathrock**-Attitüde, **Post-Punk**-Düsternis und Horror-Rock der 1980er Jahre. Die Band beschreibt ihren einzigartigen Stil spielerisch als Haunt’n’Roll. Wenn ihr schon immer einmal eine Mitternachts-Tanzfläche betreten wolltet, auf der sich ausschließlich in Leder gekleidete Vampire mit Sonnenbrillen tummeln, dann ist euer heiliger Gral nun da. Die Band verbindet mühelos düstere Post-Punk-Basslinien und die Energie schwerer Thrash-Gitarren mit kitschigen Horror-Motiven der 80er Jahre. In grandiosen, neongetränkten Stücken wie „Cannibalistic Underground Nihilist Teens“ fungieren die Texte als rebellischer Soundtrack für eine zerfallende dystopische Welt. Es ist theatralisch, unheimlich und unglaublich mitreißend.
 
-::genre::post punk, goth metal
+::genre::post punk, gothic metal
 
 ## Chelsea Wolfe - The Dark *
 
 Eine weltweit gefeierte Ikone der alternativen Dark-Szene kehrt mit ihrem neunten Studioalbum zurück – einem Meilenstein in ihrer Karriere. Um ihre dichte Klangpalette zu gestalten, arbeitete sie mit dem Produzenten Ben Chisholm sowie hochkarätigen Gastmusikern von Nine Inch Nails und Warpaint zusammen. **Atmosphärischer Dark Folk**, **Gothic Rock**, vom **Doom** beeinflusster **Alternative** und **Industrial Rock**. Das Anhören dieser Platte fühlt sich genau so an, als würde man um Mitternacht tiefer in einen dichten, nebelverhangenen Wald vordringen und dabei voll und ganz akzeptieren, dass man selbst zum gefährlichsten Wesen im Wald geworden ist. Wolfe kombiniert organische Live-Schlagzeugklänge, akustische Klaviere und krachende Gitarren mit einem hochfliegenden, glaszerbrechenden Gesang, der kraftvoller und selbstbewusster klingt als je zuvor. Der thematische Rahmen konzentriert sich ganz auf die Schönheit der totalen Verwandlung, die Konfrontation mit inneren Schatten und das Finden eines heiligen Zufluchtsorts in der Trauer. Es ist ein wunderschönes, schwermütiges Meisterwerk des absoluten Untergangs.
 
-::genre::dark folk, goth rock, doom rock, alt rock, industrial
+::genre::dark folk, gothic rock, doom rock, alt rock, industrial
 
 ## Cherry Wafers - In Fud We Trust
 
@@ -140,7 +140,7 @@ Eine seit langem bestehende, eng verbundene Gruppe von Freunden aus den Tiefen d
 
 Eine produktive europäische Underground-Indie-Band, die seit 2020 ihr beeindruckendes Repertoire durch eine stetige Reihe von Konzeptalben kontinuierlich erweitert. **Melodischer Death Metal**, angereichert mit atmosphärischem **Gothic Metal**. Man stelle sich vor, man stünde mitten in einer wunderschönen Kathedrale, während ein regelrechter Sturm aus rasanten Death-Metal-Blastbeats und tief gestimmten Gitarren durch die Buntglasfenster tobt. Die Band verbindet meisterhaft vernichtende, aggressive Growls mit wunderschönen, hochfliegenden melodischen Gitarren-Leads und dichten Gothic-Atmosphären. Getreu ihrem lebhaften Titel fungiert der gesamte lyrische und musikalische Entwurf als konzeptioneller Rahmen, der verschiedene Farben durch Klang abbildet und Extreme Metal in ein zutiefst filmisches Erlebnis verwandelt.
 
-::genre::melo death metal, goth metal
+::genre::melo death metal, gothic metal
 
 ## Crooked Colours - Dirt Road Gold
 
@@ -272,7 +272,7 @@ Ein hochkarätiges Improvisations-Supertrio, bestehend aus der legendären E-Har
 
 Eine traditionsreiche slowakische Gothic-Metal-Band, die 2001 gegründet wurde. Nach einer sechsjährigen Schaffenspause seit ihren letzten Alben kehrten sie ins Studio zurück, um dieses mit Spannung erwartete Material aufzunehmen. **Gothic Rock**, düsterer **melodischer Metal** und melancholischer **Alternative Rock**. Dieses Album vermittelt genau das Gefühl, als würde man um Mitternacht in einem langen Samt-Trenchcoat durch einen nebelverhangenen Friedhof spazieren. Die Band errichtet meisterhaft eine verträumte, schattenhafte Klangwand, indem sie kraftvolle Metal-Rhythmen mit unglaublich emotionalen, schwebenden Gitarrenriffs und grüblerischem Bariton-Gesang verbindet. Bei Stücken wie „Beloved“ und „Black Butterflies“ taucht der thematische Schwerpunkt kopfüber in tiefe emotionale Sehnsucht, tragische Romantik und stille Besinnung ein. Es ist wunderbar dramatisch, gotisch und eignet sich hervorragend als Trostalbum für einen regnerischen Abend.
 
-::genre::goth rock, melo metal, dark metal, alt rock
+::genre::gothic rock, melo metal, dark metal, alt rock
 
 ## Grand - Guilty Pleasure
 
@@ -290,7 +290,7 @@ Eine energiegeladene, äußerst aktive vierköpfige britische Indie-Band, besteh
 
 Ein seit langem bestehendes, hoch angesehenes Indie-Ensemble unter der Leitung des Hauptsängers und Songwriters Ben Crum. Die seit 2000 aktive Gruppe nahm ihr neuestes Projekt hauptsächlich in Memphis auf und holte dabei neben festen Mitwirkenden wie Kevin Shea und Suzanne Nienaber eine ganze Reihe von Gast-Multi-Instrumentalisten aus der lokalen Szene mit ins Boot. **Indie-Rock**, **Alternative-Pop**, **Neo-Psychedelia**, **Folk-Rock** und **Jangle-Pop**. Das Anhören dieser Platte fühlt sich genau so an, als würde man eine verlorene Kiste mit alten Kassetten aus dem College-Radio der Mitte der 90er Jahre entdecken, die auf einem trockenen Dachboden perfekt erhalten geblieben sind. Die Band hüllt den Hörer in eine unglaublich warme, behagliche Decke aus glockenspielartigen Akustikgitarren, luftigen Gesangsharmonien und sanften Bläserklängen. Getreu dem beunruhigenden Titel unternimmt das Songwriting einen beobachtenden, poetischen und leicht sarkastischen Streifzug durch alltägliche psychische Lähmung, das Älterwerden und die absurde Paranoia moderner Isolation. Es ist clever, wunderbar melodisch und wie geschaffen für eine Fahrt bei Sonnenuntergang im Spätsommer.
 
-::genre::indie pop, indie pop, jangle pop, neo psych, indie folk, psych folk
+::genre::indie pop, jangle pop, neo psych, indie folk, psych folk
 
 ## Guiding Light - Fear On My Own Time
 
@@ -602,7 +602,7 @@ Eine gefeierte vierköpfige Band, die sich nach ihrem von der Kritik hochgelobte
 
 Eine 2018 gegründete, rasant aufsteigende fünfköpfige Band. Durch äußerst erfolgreiche Tourneen als Vorband von Acts wie Blind Guardian und Lucifer erlangten sie in Europa schnell großen Bekanntheitsgrad, was schließlich zu ihrem Plattenvertrag bei Metal Blade Records führte. Traditioneller **Heavy Metal**, düsterer **melodischer Metal** und **Gothic Rock**. Stark beeinflusst von der stimmungsvollen, gitarrenlastigen Underground-Szene der NWOBHM und der Metal-Szene der 1980er Jahre. Zieh deine Nietenlederjacke an und zünde eine Kerze an, denn dieses Album ist ein wunderschön gruseliger, galoppierender Metal-Feldzug durch einen mondbeschienenen Friedhof. Es schafft eine wunderbare Balance zwischen messerscharfen Gitarrenharmonien, einer straffen, treibenden Rhythmusgruppe und einzigartigen, opernhaften Gesangspassagen. Das Album bewegt sich durch theatralische, düstere Fantasy-Themen wie uralte tragische Mythen und tanzende Schatten und schafft es, unglaublich heavy zu klingen und dabei herrlich eingängig zu bleiben – was es zum ultimativen Soundtrack für deinen inneren Vampir macht.
 
-::genre::nwothm, melo metal, goth rock
+::genre::nwothm, melo metal, gothic rock
 
 ## The Odyssey Cult - Vol. 3 *
 
@@ -696,7 +696,7 @@ Unter der Leitung des produktiven Singer-Songwriters und Romanautors Zaq Baker a
 
 Ein stark undergroundorientiertes, unabhängiges Projekt, das unterhalb des Mainstream-Radars agiert und dafür bekannt ist, Bandverzerrungen und rohe Gesangsdarbietungen dem glatten Studio-Glanz vorzuziehen. **Gothic Rock**, roher **Alternative Metal** und **Post-Grunge**-Abstraktion. Inspiriert vom stimmungsvollen Underground-Grunge der 90er Jahre und von schroffen, schweren Gitarrenklängen. Diese Platte anzuhören fühlt sich genau so an, als würde man in einer undichten, schummrig beleuchteten Kellerwerkstatt herumhängen, während in der Ecke ein alter Röhrenverstärker aggressiv brummt. Die Klanglandschaft ist herrlich ungeschliffen und überlagert dicke, schlammig-verzerrte Gitarren mit Gesang, der wie ein roher Hilferuf klingt. Mit dunklen, viszeralen Themen wie persönlicher Aufopferung, Generationszyklen und emotionalen Narben dient sie als kantige, kompromisslose emotionale Katharsis für nächtliches Grübeln.
 
-::genre::goth rock, alt metal, post grunge
+::genre::gothic rock, alt metal, post grunge
 
 ## Archetype - Silo
 
@@ -804,7 +804,7 @@ Eine stark im Underground verankerte DIY-Band, die sich seit 2025 durch rohe Dem
 
 Dies ist das mit Spannung erwartete Solo-Debüt von L Morgan, der gefeierten Sängerin und Mitbegründerin des viralen Indie-Pop-Duos *SALES*. Das Album entstand in Zusammenarbeit mit dem Toningenieur Adam McDaniel, der für seine Studioarbeit mit Angel Olsen bekannt ist. **Dream Pop**, **Indie-Pop**, verträumte **Electronica** und **Lo-Fi-Bedroom-Pop**. Beim Anhören dieses Albums fühlt man sich, als würde man durch einen alten Dachboden voller staubiger Polaroid-Fotos von Menschen schweben, die man früher einmal kannte. Die Gitarrenklänge sind wunderschön verwaschen und werden von hypnotischen, klickenden Drum-Machine-Beats sowie Gesang unterlegt, der wie ein leises Flüstern in einem nächtlichen Telefonat klingt. Das Album funktioniert als klassische Geschichte über Liebeskummer und taucht tief in das komplizierte emotionale Durcheinander ein, das entsteht, wenn man jemanden liebt, der diese Liebe nicht angemessen erwidern kann – was zu einer wunderschön traurigen Blaupause für die Akzeptanz eines Schlussstrichs führt.
 
-::genre::bedroom pop, dream pop, indie pop, ambient
+::genre::bedroom pop, dreampop, indie pop, ambient
 
 ## Malgrim - Sagittae Deorum Chaotis
 
@@ -834,7 +834,7 @@ Die Band wurde 2023 als stilles Solo-Projekt im Schlafzimmer gegründet, bevor s
 
 Ein äußerst rätselhaftes digitales Underground-Kollektiv, das auf unabhängigen digitalen Plattformen provokante und unerwartete experimentelle, textlastige Audioprojekte veröffentlicht. **Avantgarde-Noise**, **Dark Ambient**, **Drone** und industrielle Abstraktion. Wollt ihr schon einmal das Gefühl haben, eure Ohren wären in einem alten Fernseher gefangen, der gerade einen Kurzschluss hat? Diese Platte ist ein kompromissloser Eintauch in schwere emotionale Not und rohe Noise-Architektur. Sie verzichtet gänzlich auf gängige Melodien und setzt stattdessen auf anschwellende, knirschende Wellen aus Rauschen und kratzendem Metall. Die thematischen Stränge drehen sich um schwere innere Panik, Selbsttäuschung und die verzweifelten Bewältigungsmechanismen, mit denen Menschen versuchen, ihren dunkelsten psychologischen Ängsten nicht ins Auge sehen zu müssen.
 
-::genre:: avant electronica, noise, dark ambient, drone
+::genre::avant electronica, noise, dark ambient, drone
 
 ## Spectral Cipher - this burning world
 
@@ -858,7 +858,7 @@ Eine erfahrene, gnadenlose vierköpfige niederländische Underground-Band, die i
 
 Ein melancholisches Underground-Projekt, das sich seit 2025 auf Bandcamp mit zerbrechlichen, intimen und vom Bandrauschen durchdrungenen Veröffentlichungen einen Namen gemacht hat. **Dream Pop**, **Neo-Psychedelia**, **Chamber Pop** und Lo-Fi-Singer-Songwriter. Stark inspiriert vom frühen Alex G und von Ikonen des melancholischen Bedroom-Pop. Diese Platte anzuhören fühlt sich genau so an, als säße man auf einem eiskalten Fliesenboden, eingehüllt in eine Decke, die nicht ganz groß genug ist, und würde mit sich selbst sprechen, nur um eine menschliche Stimme zu hören. Die Instrumentierung ist bewusst schläfrig gehalten und stützt sich auf wankende Gitarren und verschwommene Akustikgitarrenklänge, die sich wunderbar zerbrechlich anfühlen. Thematisch zeichnet das Album ein erschütternd treffendes Bild von stiller Resignation, Ohnmacht und der emotionalen Taubheit, die einsetzt, wenn das Leben einem den Kampfgeist raubt – und man nur noch aus einer Ecke zusehen kann, wie die Welt an einem vorbeizieht.
 
-::genre::neo psych, dream pop, bedroom pop, chamber pop
+::genre::neo psych, dreampop, bedroom pop, chamber pop
 
 ## threadbaron - Motherless Child *
 

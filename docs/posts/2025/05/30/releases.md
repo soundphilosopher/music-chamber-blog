@@ -386,7 +386,7 @@ tbd
 
 Das holländische Death Metal Gespann mit ihrem neuesten Release. Modern produzierter Death-Metal der klassischen schwedischen Art.
 
-::genre::old school death metal
+::genre::osdm
 
 ## Grateful Dead - Enjoying the Ride
 
@@ -824,7 +824,7 @@ tbd
 
 Das schwedische Melo-Death-Outfit mit einem neuen Release. Old-School Death Metal der schwedischen Art. Wenn man denkt, dass OSDM nicht mehr existiert, kommen die Schweden um die Ecke.
 
-::genre::old school death metal
+::genre::osdm
 
 ## Quadvium - Tetradōm
 

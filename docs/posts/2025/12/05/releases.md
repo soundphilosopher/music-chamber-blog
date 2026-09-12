@@ -692,7 +692,7 @@ tbd
 
 Das schweizer Trio mit seinem zweiten Teil der Bodies of Water Serie. Improvisationen aus Folk, Ambient, Minimal, Electronica, Noir-Jazz und Drone ergeben am Ende einen Fluss. Die Experimental-Jazz-Rocker begeben sich mit dieser Serie in andere Gefilde, welche sie exzellent begleiten können.
 
-::genre::jazz rock, noir jazz, jazztronica, ambient folk, minimal elecronica, drone, jazz fusion
+::genre::jazz rock, noir jazz, jazztronica, ambient folk, minimal electronica, drone, jazz fusion
 
 ## Märvel - Brain Drain Diaries
 

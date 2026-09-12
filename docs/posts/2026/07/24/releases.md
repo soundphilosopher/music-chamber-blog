@@ -386,7 +386,7 @@ Ein Projekt, das die schlechten Chancen im Namen führt und sein Album in eine a
 
 Ein Projekt, das seinen Albumtitel in Großbuchstaben wie eine Verkündigung setzt und ihn musikalisch bewusst uneindeutig lässt. **Dreampop**, **Goth Rock** und **Dark Wave**. Hallende Gitarren, tiefe Basslinien und ein Gesang, der zwischen Verheißung und Drohung schwebt. Zündet etwas an und lest das Kleingedruckte! Das Album behandelt die Liebe tatsächlich als Gesetz — mit Regeln, Strafen und einer Unerbittlichkeit, die man dem Thema selten zugesteht. Musikalisch steht es fest in der dunklen Tradition der Achtziger, ohne wie eine Kopie zu klingen: Die Produktion ist moderner, die Songs kompakter und die Melodien deutlich zugänglicher, als das Genre gemeinhin erlaubt. Zwischen den schwereren Stücken tauchen fast schwebende Passagen auf, in denen alles kurz sehr schön wird. Ein Album mit klarer Haltung, guter Atmosphäre und ein paar wirklich starken Refrains. Sehr stimmig.
 
-::genre::dreampop, goth rock, dark wave, post punk
+::genre::dreampop, gothic rock, dark wave, post punk
 
 ### Lxlita - MODEL X
 
@@ -470,7 +470,7 @@ Ein Projekt, dessen Name eine Landschaft aufspannt und dessen Album diese konseq
 
 Das Soloprojekt von Forrest Carney, das seit Jahren eine sehr eigene Mischung aus Dark Wave und melancholischem Synth-Pop pflegt. **Dark Wave**, **Synth Pop** und **Electronica**. Kalte Drumcomputer, glasige Synths und eine Stimme, die im Hall fast verschwindet. Dreht das Licht runter, der erste Akt beginnt! Das Album ist als Auftakt angelegt und nutzt diese Position aus: Es stellt Motive auf, deutet Zusammenhänge an und löst bewusst nichts auf. Musikalisch bleibt Carney bei seinen Mitteln — eingängige Melodien über kalten Rhythmen, viel Nachhall, wenig Politur — variiert sie aber deutlich breiter als früher, mit Stücken, die von tanzbar bis fast ambient reichen. Thematisch geht es um Endzeit im ganz privaten Maßstab, um Beziehungen, die aufhören, während die Welt weiterläuft. Melancholisch, geschlossen und mit ordentlich Sog. Sehr gelungen.
 
-::genre::dark wave, synth pop, electronica, darksynth
+::genre::dark wave, synth pop, electronica, dark synth
 
 ### New Forms - Nothing's Sacred Anymore
 
@@ -810,7 +810,7 @@ Eine legendäre Underground-Institution, die seit 2001 aktiv ist und in der alte
 
 Ursprünglich vom Multi-Instrumentalisten Yan Fedyaev als Projekt für dunklen Gothic Rock gegründet, entwickelte sich die Band weiter und holte den legendären Metal-Sänger David Reece (ex-Accept) sowie den Gitarristen Wayne Dorman (Onslaught) mit ins Boot. Klassischer **Heavy Metal**, moderner **Hard Rock** und **Gothic Metal**. Dieses Album stürmt mit maximaler Attitüde und donnernden Gitarrenriffs die Bühne. Weg von reiner Nostalgie, die sich nur auf das Erbe der Vergangenheit stützt, verbinden Titel wie "Mors Aeterna" nahtlos klassische Heavy-Metal-Rhythmen mit mitreißenden modernen Keyboard-Texturen und elektronischer Tiefe. Reeces ikonisches, raues Gebrüll verleiht den hymnischen Refrains eine gewaltige Energiewelle und schafft so ein Rockalbum von stadionweiter Größe.
 
-::genre::goth rock, hard rock, heavy metal
+::genre::gothic rock, hard rock, heavy metal
 
 ### Kilig - Robots Will Take Over And Wonder Why We Have So Many Group Chats And So Few Hospitals
 

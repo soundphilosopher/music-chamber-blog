@@ -106,7 +106,7 @@ Das vierte Album der Schweizer Band um *Gotthard*-Gitarrist Leo Leoni, die 2017 
 
 Ein unabhängiges Projekt, das seit 2013 besteht und Thrash, Power Metal und einen ausgesprochen filmischen Hang zum Düsteren zusammenbringt. Erschienen in Eigenregie, Vinyl und CD auf jeweils hundert Stück limitiert. **Thrash Metal**, **Power Metal**, **Heavy Metal** und **Gothic Rock**. Scharfe Riffs, theatralische Arrangements und eine Grundstimmung, die eher nach Soundtrack als nach Proberaum klingt. Dreht auf, hier ist alles etwas zu groß geraten — mit Absicht! Stücke wie *Death Dreaming*, *Angels of the Apocalypse*, *Abyss* oder *Skulls and Flame* zeigen die Spannweite: mal schnell und trocken, mal breit ausgespielt mit deutlich gotischem Einschlag. Der Titel *Loverbone* verrät die Richtung — Liebe und Verfall als dasselbe Motiv, was zu der Mischung aus Metal-Härte und morbider Romantik gut passt. Dass hier jemand weitgehend allein arbeitet, hört man dem Album an, allerdings eher an seiner Eigenwilligkeit als an fehlenden Mitteln. Eine sperrige, sympathisch kompromisslose Platte aus dem Untergrund.
 
-::genre::thrash metal, power metal, heavy metal, goth rock
+::genre::thrash metal, power metal, heavy metal, gothic rock
 
 ### Dharmethic - Self-Antagonized
 
@@ -562,7 +562,7 @@ Das fünfte Studioalbum des englischen Quintetts, Nachfolger von *News from the 
 
 Das zweite Album des Duos aus Essex, erschienen bei der *Frontiers Label Group* — elf Songs in fünfundzwanzig Minuten, Nachfolger von *What A Life* aus dem Jahr 2024. Produziert hat Dan Weller. **Punk Rock**, **Hardcore Punk** und **Oi**. Harte, aber eingängige Riffs und Lily Hopkins' knurrender Gesang, dem man jede Zeile abnimmt. Fenster auf, das soll die Nachbarn erreichen! Die Texte sind gezielt wütend und dabei erstaunlich oft komisch, was dem Ganzen eine Direktheit gibt, die reiner Zorn nicht hätte: *What A Nightmare*, *Where Did It All Go Wrong?*, *Law*, *Fight*, *Disorder (Wake Up)*, *So Modern (Keep Up)* und *God Complex* balancieren systemische Wut und sehr persönliche Verletzlichkeit, manchmal innerhalb desselben Songs. Wellers Produktion fängt dabei den Schweiß und die Spucke der Liveauftritte ein, statt sie wegzupolieren. Kompromisslos, echt und in fünfundzwanzig Minuten vorbei — mehr braucht diese Band nicht.
 
-::genre::punk rock, hardcore punk, oi, street punk
+::genre::punk rock, hardcore punk, oi, streetpunk
 
 ### The Tubs - Hard Life
 

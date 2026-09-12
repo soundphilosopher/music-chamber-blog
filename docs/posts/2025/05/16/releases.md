@@ -140,7 +140,7 @@ tbd
 
 Die “Supagroup” aus Amerika mit ihrem Erstling. Klassischer Death Metal, mit D-Beats und kurzen, thrashigen Solos.
 
-::genre::old school death metal, d-beat, thrash metal
+::genre::osdm, d-beat, thrash metal
 
 ## Bryce Leatherwood - Bryce Leatherwood
 
@@ -266,7 +266,7 @@ Die Bostoner Beatdowner mit ihrem neuesten Output. Klassischer New York Hardcore
 
 Die französische Death Metal Truppe mit ihrem neuesten Release. Klassischer doom-y Death Metal, mit minimalen Ausflügen in den Crust-Punk.
 
-::genre::old school death metal, doom metal, crust
+::genre::osdm, doom metal, crust
 
 ## Deliverance - The Wicked We're Capable Of
 
@@ -710,7 +710,7 @@ tbd
 
 Das Berliner Kollektiv mit ihrem neuesten Output. Die selbsternannten “Dystopia Jazzer” kombinieren hier schlau cinematische und experimentelle Klänge, Post-Bop und Jazz.
 
-::genre::post bop, cinematic jazz
+::genre::post bop, cine jazz
 
 ## Mukeka Di Rato - Generais de Fralda
 
