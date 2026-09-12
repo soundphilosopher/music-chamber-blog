@@ -8,19 +8,19 @@ categories:
 
 ## Friday
 
-## 1914 - Viribus Unitis
+### 1914 - Viribus Unitis
 
 tbd
 
 ::genre::
 
-## 5 Seconds of Summer - Everyone's a Star!
+### 5 Seconds of Summer - Everyone's a Star!
 
 tbd
 
 ::genre::
 
-## Ancient Fragments - Vestige
+### Ancient Fragments - Vestige
 
 tbd
 
@@ -28,529 +28,529 @@ tbd
 
 <!-- more -->
 
-## Ash Return - Defy & Conquer
+### Ash Return - Defy & Conquer
 
 tbd
 
 ::genre::
 
-## Asira - As Ink in Water
+### Asira - As Ink in Water
 
 tbd
 
 ::genre::
 
-## Austra - Chin Up Buttercup
+### Austra - Chin Up Buttercup
 
 tbd
 
 ::genre::
 
-## Avoid - Creature Of Habit
+### Avoid - Creature Of Habit
 
 tbd
 
 ::genre::
 
-## Avralize - Liminal
+### Avralize - Liminal
 
 tbd
 
 ::genre::
 
-## AVTT/PTTN - AVTT/PTTN
+### AVTT/PTTN - AVTT/PTTN
 
 tbd
 
 ::genre::
 
-## Bell Witch & Aerial Ruin - Stygian Bough: Vol. II
+### Bell Witch & Aerial Ruin - Stygian Bough: Vol. II
 
 tbd
 
 ::genre::
 
-## Ben Quad - Wisher
+### Ben Quad - Wisher
 
 tbd
 
 ::genre::
 
-## Bill Orcutt - Another Perfect Day
+### Bill Orcutt - Another Perfect Day
 
 tbd
 
 ::genre::
 
-## Blackyard Riot - It Might Get Loud
+### Blackyard Riot - It Might Get Loud
 
 tbd
 
 ::genre::
 
-## Bloodtruth - Execration
+### Bloodtruth - Execration
 
 tbd
 
 ::genre::
 
-## Brausepöter - Frei von all dem hier
+### Brausepöter - Frei von all dem hier
 
 tbd
 
 ::genre::
 
-## Carences - Violences
+### Carences - Violences
 
 tbd
 
 ::genre::
 
-## Celeste - Woman of Faces
+### Celeste - Woman of Faces
 
 tbd
 
 ::genre::
 
-## Chad Taylor Quintet - Smoke Shifter
+### Chad Taylor Quintet - Smoke Shifter
 
 tbd
 
 ::genre::
 
-## Chairmaker - Leviathan Carcass
+### Chairmaker - Leviathan Carcass
 
 tbd
 
 ::genre::
 
-## Cheap Trick - All Washed Up
+### Cheap Trick - All Washed Up
 
 tbd
 
 ::genre::
 
-## chokecherry - Ripe Fruit Rots And Falls
+### chokecherry - Ripe Fruit Rots And Falls
 
 tbd
 
 ::genre::
 
-## Cicada - Gazing the Shades of White
+### Cicada - Gazing the Shades of White
 
 tbd
 
 ::genre::
 
-## Citrus Citrus - In the Belly of the Eternal Draw
+### Citrus Citrus - In the Belly of the Eternal Draw
 
 tbd
 
 ::genre::
 
-## Colter Wall - Memories and Empties
+### Colter Wall - Memories and Empties
 
 tbd
 
 ::genre::
 
-## Creatures - Creatures II
+### Creatures - Creatures II
 
 tbd
 
 ::genre::
 
-## Cristiano Filippini's Flames Of Heaven - Symphony Of The Universe
+### Cristiano Filippini's Flames Of Heaven - Symphony Of The Universe
 
 tbd
 
 ::genre::
 
-## Cytrus - Duality
+### Cytrus - Duality
 
 tbd
 
 ::genre::
 
-## Daniel Vincent - Means of Escape
+### Daniel Vincent - Means of Escape
 
 tbd
 
 ::genre::
 
-## Degraved - Spectral Realm Of Ruin
+### Degraved - Spectral Realm Of Ruin
 
 tbd
 
 ::genre::
 
-## Demon King - Death Knell
+### Demon King - Death Knell
 
 tbd
 
 ::genre::
 
-## Devil May Care - Limit
+### Devil May Care - Limit
 
 tbd
 
 ::genre::
 
-## Dim Prospects - Abscheu und Neugier
+### Dim Prospects - Abscheu und Neugier
 
 tbd
 
 ::genre::
 
-## Doves - So, Here We Are: Best Of Doves
+### Doves - So, Here We Are: Best Of Doves
 
 tbd
 
 ::genre::
 
-## Enemynside - In The Shadows Of Unrest
+### Enemynside - In The Shadows Of Unrest
 
 tbd
 
 ::genre::
 
-## Fallstaf - Ode To The Dead
+### Fallstaf - Ode To The Dead
 
 tbd
 
 ::genre::
 
-## False Reality - Faded Intentions
+### False Reality - Faded Intentions
 
 tbd
 
 ::genre::
 
-## Fimbul Winter - What Once Was
+### Fimbul Winter - What Once Was
 
 tbd
 
 ::genre::
 
-## FKA Twigs - Eusexua Afterglow
+### FKA Twigs - Eusexua Afterglow
 
 tbd
 
 ::genre::
 
-## Frekvent - In Hubris
+### Frekvent - In Hubris
 
 tbd
 
 ::genre::
 
-## G.A.E.A. - A Frozen Moment In Time
+### G.A.E.A. - A Frozen Moment In Time
 
 tbd
 
 ::genre::
 
-## Heimland - Der Torv Moeter Hav
+### Heimland - Der Torv Moeter Hav
 
 tbd
 
 ::genre::
 
-## Home Front - Watch It Die
+### Home Front - Watch It Die
 
 tbd
 
 ::genre::
 
-## Imperial Domain - Portentum
+### Imperial Domain - Portentum
 
 tbd
 
 ::genre::
 
-## Ina Müller - 6.0
+### Ina Müller - 6.0
 
 tbd
 
 ::genre::
 
-## Jaime - Above and Beyond
+### Jaime - Above and Beyond
 
 tbd
 
 ::genre::
 
-## Jake Xerxes Fusselland, James Elkington - Rebuilding
+### Jake Xerxes Fusselland, James Elkington - Rebuilding
 
 tbd
 
 ::genre::
 
-## Jim Griffin - The Counterblast
+### Jim Griffin - The Counterblast
 
 tbd
 
 ::genre::
 
-## Juvenile - Boiling Point
+### Juvenile - Boiling Point
 
 tbd
 
 ::genre::
 
-## Kelsea Ballerini - Mount Pleasant
+### Kelsea Ballerini - Mount Pleasant
 
 tbd
 
 ::genre::
 
-## Kronstad 23 - Sommermørket
+### Kronstad 23 - Sommermørket
 
 tbd
 
 ::genre::
 
-## Lamp of Murmuur - The Dreaming Prince in Ecstasy
+### Lamp of Murmuur - The Dreaming Prince in Ecstasy
 
 tbd
 
 ::genre::
 
-## Love Your Witch - Radio Fantasia
+### Love Your Witch - Radio Fantasia
 
 tbd
 
 ::genre::
 
-## Lush - Gala
+### Lush - Gala
 
 tbd
 
 ::genre::
 
-## Matt Pryor - The Salton Sea
+### Matt Pryor - The Salton Sea
 
 tbd
 
 ::genre::
 
-## Men Without Hats - On the Moon
+### Men Without Hats - On the Moon
 
 tbd
 
 ::genre::
 
-## Mezzrow - Embrace The Awakening
+### Mezzrow - Embrace The Awakening
 
 tbd
 
 ::genre::
 
-## Mini Skirt - All That We Know
+### Mini Skirt - All That We Know
 
 tbd
 
 ::genre::
 
-## Myth Of Logic - The Memory of After
+### Myth Of Logic - The Memory of After
 
 tbd
 
 ::genre::
 
-## Negative Blast - Destroy Myself For Fun!
+### Negative Blast - Destroy Myself For Fun!
 
 tbd
 
 ::genre::
 
-## Of Mice & Men - Another Miracle
+### Of Mice & Men - Another Miracle
 
 tbd
 
 ::genre::
 
-## Orville Peck - Appaloosa
+### Orville Peck - Appaloosa
 
 tbd
 
 ::genre::
 
-## Oslo Tapes - Låst Comet
+### Oslo Tapes - Låst Comet
 
 tbd
 
 ::genre::
 
-## Pavement - Hecklers Choice / Pavements
+### Pavement - Hecklers Choice / Pavements
 
 tbd
 
 ::genre::
 
-## Picture Parlour - The Parlour
+### Picture Parlour - The Parlour
 
 tbd
 
 ::genre::
 
-## Preyrs - The Wounded Healer
+### Preyrs - The Wounded Healer
 
 tbd
 
 ::genre::
 
-## RaganaandDrowse - Ash Souvenir
+### RaganaandDrowse - Ash Souvenir
 
 tbd
 
 ::genre::
 
-## Ramkot - Facts Don’t Mean A Thing
+### Ramkot - Facts Don’t Mean A Thing
 
 tbd
 
 ::genre::
 
-## Riffstone - Sanctuary Sky
+### Riffstone - Sanctuary Sky
 
 tbd
 
 ::genre::
 
-## Rise Of The Northstar - Chapter 4: Red Falcon Super Battle! Neo Paris War!!
+### Rise Of The Northstar - Chapter 4: Red Falcon Super Battle! Neo Paris War!!
 
 tbd
 
 ::genre::
 
-## Runo Plum - Patching
+### Runo Plum - Patching
 
 tbd
 
 ::genre::
 
-## Seims - V
+### Seims - V
 
 tbd
 
 ::genre::
 
-## Skull & Crossbones - Time
+### Skull & Crossbones - Time
 
 tbd
 
 ::genre::
 
-## Spinifex - Maxximus
+### Spinifex - Maxximus
 
 tbd
 
 ::genre::
 
-## Sponge - Electric Cattle Gods - The Lost Tracks
+### Sponge - Electric Cattle Gods - The Lost Tracks
 
 tbd
 
 ::genre::
 
-## Stellar Circuits - Phantom :: Phoenix
+### Stellar Circuits - Phantom :: Phoenix
 
 tbd
 
 ::genre::
 
-## Steve Morse Band - Triangulation
+### Steve Morse Band - Triangulation
 
 tbd
 
 ::genre::
 
-## Summer Walker - Finally Over It
+### Summer Walker - Finally Over It
 
 tbd
 
 ::genre::
 
-## The Black Crowes - Amorica
+### The Black Crowes - Amorica
 
 tbd
 
 ::genre::
 
-## The Devil Wears Prada - Flowers
+### The Devil Wears Prada - Flowers
 
 tbd
 
 ::genre::
 
-## The Hunna - Blue Transitions
+### The Hunna - Blue Transitions
 
 tbd
 
 ::genre::
 
-## The Neighbourhood - Ultrasound
+### The Neighbourhood - Ultrasound
 
 tbd
 
 ::genre::
 
-## Thee Headcoatees - Man-Trap
+### Thee Headcoatees - Man-Trap
 
 tbd
 
 ::genre::
 
-## Tomoko Omura - Run Run Run
+### Tomoko Omura - Run Run Run
 
 tbd
 
 ::genre::
 
-## Voidceremony - Abditum
+### Voidceremony - Abditum
 
 tbd
 
 ::genre::
 
-## Wale - Everything Is a Lot
+### Wale - Everything Is a Lot
 
 tbd
 
 ::genre::
 
-## Winterpills - This Is How We Dance
+### Winterpills - This Is How We Dance
 
 tbd
 
 ::genre::
 
-## Woodship - Transciency
+### Woodship - Transciency
 
 tbd
 
 ::genre::
 
-## XO - Fashionably Late
+### XO - Fashionably Late
 
 tbd
 
 ::genre::
 
-## Yawning Man - Pavement Ends
+### Yawning Man - Pavement Ends
 
 tbd
 
 ::genre::
 
-## Your Inland Empire - Your Inland Empire
+### Your Inland Empire - Your Inland Empire
 
 tbd
 
 ::genre::
 
-## Änterbila - Avart
+### Änterbila - Avart
 
 tbd
 
@@ -560,133 +560,133 @@ tbd
 
 ## Earlier the week ...
 
-## Alejandra Cárdenas - A Body Like a Home
+### Alejandra Cárdenas - A Body Like a Home
 
 tbd
 
 ::genre::
 
-## Antillectual - Antillectueel
+### Antillectual - Antillectueel
 
 tbd
 
 ::genre::
 
-## Atomic Sun - Atomic Sun
+### Atomic Sun - Atomic Sun
 
 tbd
 
 ::genre::
 
-## Bob Neft - Findings
+### Bob Neft - Findings
 
 tbd
 
 ::genre::
 
-## Breeze - Circles
+### Breeze - Circles
 
 tbd
 
 ::genre::
 
-## Cymbalic Encounters - Khao Phing Kan
+### Cymbalic Encounters - Khao Phing Kan
 
 tbd
 
 ::genre::
 
-## Exzald S - Iridesc
+### Exzald S - Iridesc
 
 tbd
 
 ::genre::
 
-## Flight Recorder - Sirens
+### Flight Recorder - Sirens
 
 tbd
 
 ::genre::
 
-## Florazar - La Tensión Entre
+### Florazar - La Tensión Entre
 
 tbd
 
 ::genre::
 
-## Hania Rani - Non Fiction
+### Hania Rani - Non Fiction
 
 tbd
 
 ::genre::
 
-## Jowee Omicil - Smiles
+### Jowee Omicil - Smiles
 
 tbd
 
 ::genre::
 
-## Kali Malone, Drew McDowall - Magnetism
+### Kali Malone, Drew McDowall - Magnetism
 
 tbd
 
 ::genre::
 
-## Navy Blue - The Sword & the Soaring
+### Navy Blue - The Sword & the Soaring
 
 tbd
 
 ::genre::
 
-## Niyoh - Viridian
+### Niyoh - Viridian
 
 tbd
 
 ::genre::
 
-## Putrevore - Unending Rotting Cycle
+### Putrevore - Unending Rotting Cycle
 
 tbd
 
 ::genre::
 
-## Serge Serna - Anachronica
+### Serge Serna - Anachronica
 
 tbd
 
 ::genre::
 
-## SPAWN - Light Rite
+### SPAWN - Light Rite
 
 tbd
 
 ::genre::
 
-## The Crazy Juggler's Prog Orchestra - Disclosure
+### The Crazy Juggler's Prog Orchestra - Disclosure
 
 tbd
 
 ::genre::
 
-## The Infamous Nameless - Realise
+### The Infamous Nameless - Realise
 
 tbd
 
 ::genre::
 
-## The Reticent - Please
+### The Reticent - Please
 
 tbd
 
 ::genre::
 
-## thedeepstate - Retro Future
+### thedeepstate - Retro Future
 
 tbd
 
 ::genre::
 
-## Wheel of Time - Asymmetry
+### Wheel of Time - Asymmetry
 
 tbd
 

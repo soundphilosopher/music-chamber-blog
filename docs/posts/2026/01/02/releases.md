@@ -8,19 +8,19 @@ categories:
 
 ## Friday
 
-## 1986 - Carneveil
+### 1986 - Carneveil
 
 tbd
 
 ::genre::
 
-## Abandon The Past - Janus
+### Abandon The Past - Janus
 
 tbd
 
 ::genre::
 
-## Alexia Avina - Mercury Goes Direct
+### Alexia Avina - Mercury Goes Direct
 
 tbd
 
@@ -28,157 +28,157 @@ tbd
 
 <!-- more -->
 
-## Avery Pkwy - Walk With You
+### Avery Pkwy - Walk With You
 
 tbd
 
 ::genre::
 
-## Beyond The Structure - Born Of Naught
+### Beyond The Structure - Born Of Naught
 
 tbd
 
 ::genre::
 
-## Böse Fuchs - Divina Commedia
+### Böse Fuchs - Divina Commedia
 
 tbd
 
 ::genre::
 
-## Capillary - In Rememberance
+### Capillary - In Rememberance
 
 tbd
 
 ::genre::
 
-## Celer - Gems VI
+### Celer - Gems VI
 
 tbd
 
 ::genre::
 
-## CONTOUR23 - Residual Self
+### CONTOUR23 - Residual Self
 
 tbd
 
 ::genre::
 
-## Ellende - Zerfall
+### Ellende - Zerfall
 
 tbd
 
 ::genre::
 
-## Enemy Awake - Rotten Soul
+### Enemy Awake - Rotten Soul
 
 tbd
 
 ::genre::
 
-## Excavated Graves - Life Isn’t For Everyone
+### Excavated Graves - Life Isn’t For Everyone
 
 tbd
 
 ::genre::
 
-## Experia - Threshold
+### Experia - Threshold
 
 tbd
 
 ::genre::
 
-## Forever Autumn - The Lamentations
+### Forever Autumn - The Lamentations
 
 tbd
 
 ::genre::
 
-## Fuath - III
+### Fuath - III
 
 tbd
 
 ::genre::
 
-## Ivo Perelman, Wadada Leo Smith - Duologues 5
+### Ivo Perelman, Wadada Leo Smith - Duologues 5
 
 tbd
 
 ::genre::
 
-## King Nine - On The Wire
+### King Nine - On The Wire
 
 tbd
 
 ::genre::
 
-## Lilac Kings - The Weight Of Things
+### Lilac Kings - The Weight Of Things
 
 tbd
 
 ::genre::
 
-## Neural Dawn - Teleportation Room 7
+### Neural Dawn - Teleportation Room 7
 
 tbd
 
 ::genre::
 
-## Paleface Swiss - The wilted
+### Paleface Swiss - The wilted
 
 tbd
 
 ::genre::
 
-## Palo Sopraño - LUCKY STARS
+### Palo Sopraño - LUCKY STARS
 
 tbd
 
 ::genre::
 
-## SCVRECRVW - The Black Plague
+### SCVRECRVW - The Black Plague
 
 tbd
 
 ::genre::
 
-## Spectrum in Silence - Resonance
+### Spectrum in Silence - Resonance
 
 tbd
 
 ::genre::
 
-## Strange Vibrations - Out of My Mind
+### Strange Vibrations - Out of My Mind
 
 tbd
 
 ::genre::
 
-## Strike Avenue - Erased Postlude
+### Strike Avenue - Erased Postlude
 
 tbd
 
 ::genre::
 
-## TruthTeller - Retaliation
+### TruthTeller - Retaliation
 
 tbd
 
 ::genre::
 
-## Unendlich - Torn Pieces
+### Unendlich - Torn Pieces
 
 tbd
 
 ::genre::
 
-## Wildhunt - Aletheia
+### Wildhunt - Aletheia
 
 tbd
 
 ::genre::
 
-## Woe - Legacies of Human Frailty
+### Woe - Legacies of Human Frailty
 
 tbd
 
@@ -188,205 +188,205 @@ tbd
 
 ## Earlier the week ...
 
-## Anna Pest - Dark Arms Reach Skyward With Bone White Fingers II: Be (Not) Afraid
+### Anna Pest - Dark Arms Reach Skyward With Bone White Fingers II: Be (Not) Afraid
 
 tbd
 
 ::genre::
 
-## Cymbalic Encounters - Wang Gwani Bang Beop
+### Cymbalic Encounters - Wang Gwani Bang Beop
 
 tbd
 
 ::genre::
 
-## Cymbalic Encounters - The Lunar Assembly
+### Cymbalic Encounters - The Lunar Assembly
 
 tbd
 
 ::genre::
 
-## Fernando Perdomo - The Best of Waves
+### Fernando Perdomo - The Best of Waves
 
 tbd
 
 ::genre::
 
-## Henry Now - Then Again
+### Henry Now - Then Again
 
 tbd
 
 ::genre::
 
-## Hologramah - Abyssus.Versus.Versiculos.
+### Hologramah - Abyssus.Versus.Versiculos.
 
 tbd
 
 ::genre::
 
-## Imperial Measures - Threefold
+### Imperial Measures - Threefold
 
 tbd
 
 ::genre::
 
-## Jet Rotula - Araknopotamus
+### Jet Rotula - Araknopotamus
 
 tbd
 
 ::genre::
 
-## John Beagley - Lost-In-Translation
+### John Beagley - Lost-In-Translation
 
 tbd
 
 ::genre::
 
-## JUZZ - Juzz (II)
+### JUZZ - Juzz (II)
 
 tbd
 
 ::genre::
 
-## Lebensangst - Wenn der Himmel zerbricht
+### Lebensangst - Wenn der Himmel zerbricht
 
 tbd
 
 ::genre::
 
-## Lost World Band - In the Empty Town
+### Lost World Band - In the Empty Town
 
 tbd
 
 ::genre::
 
-## Mantis Damorte - Mantis
+### Mantis Damorte - Mantis
 
 tbd
 
 ::genre::
 
-## Newspaperflyhunting - Timeless
+### Newspaperflyhunting - Timeless
 
 tbd
 
 ::genre::
 
-## Secutor - Idiocracy
+### Secutor - Idiocracy
 
 tbd
 
 ::genre::
 
-## Soniq Theater - Just Like Magic
+### Soniq Theater - Just Like Magic
 
 tbd
 
 ::genre::
 
-## Soren Hvidberg - Like a Tiny Microscopic Second
+### Soren Hvidberg - Like a Tiny Microscopic Second
 
 tbd
 
 ::genre::
 
-## Spicy Brains - Wait a Minute...
+### Spicy Brains - Wait a Minute...
 
 tbd
 
 ::genre::
 
-## Spirergy - Wherever Forever
+### Spirergy - Wherever Forever
 
 tbd
 
 ::genre::
 
-## Spy Blood - Outside the Electric Bingo
+### Spy Blood - Outside the Electric Bingo
 
 tbd
 
 ::genre::
 
-## Tempest Veins - Global Sickness
+### Tempest Veins - Global Sickness
 
 tbd
 
 ::genre::
 
-## The Deslondes - Holy Cross Blues
+### The Deslondes - Holy Cross Blues
 
 tbd
 
 ::genre::
 
-## The Dubs - Doo Wop
+### The Dubs - Doo Wop
 
 tbd
 
 ::genre::
 
-## The Dubs - Could this be Magic
+### The Dubs - Could this be Magic
 
 tbd
 
 ::genre::
 
-## The Host - PRACTICE
+### The Host - PRACTICE
 
 tbd
 
 ::genre::
 
-## The John Lister Project - Projections
+### The John Lister Project - Projections
 
 tbd
 
 ::genre::
 
-## The Legendary Flower Punk - Stargazer 256
+### The Legendary Flower Punk - Stargazer 256
 
 tbd
 
 ::genre::
 
-## The Sun Burns Bright - The Last Time Over Stillwater
+### The Sun Burns Bright - The Last Time Over Stillwater
 
 tbd
 
 ::genre::
 
-## Ulver - Neverland
+### Ulver - Neverland
 
 tbd
 
 ::genre::
 
-## Unda Alunda - Dark Wonderful World
+### Unda Alunda - Dark Wonderful World
 
 tbd
 
 ::genre::
 
-## Undulathund - Undulathund
+### Undulathund - Undulathund
 
 tbd
 
 ::genre::
 
-## Vaporeyes - Still
+### Vaporeyes - Still
 
 tbd
 
 ::genre::
 
-## Wilfried Wendling, Luc Ferrari - Bizarre Bizarre
+### Wilfried Wendling, Luc Ferrari - Bizarre Bizarre
 
 tbd
 
 ::genre::
 
-## Zorznijor - Grape
+### Zorznijor - Grape
 
 tbd
 

@@ -8,19 +8,19 @@ categories:
 
 ## Friday
 
-## 311 - 90s Throwback EP: Vol 2
+### 311 - 90s Throwback EP: Vol 2
 
 tbd
 
 ::genre::
 
-## 36, zakè - Stasis Sounds For Long-Distance Space Travel III
+### 36, zakè - Stasis Sounds For Long-Distance Space Travel III
 
 tbd
 
 ::genre::
 
-## A Dog Called Ego - Paper Boat
+### A Dog Called Ego - Paper Boat
 
 tbd
 
@@ -28,1141 +28,1141 @@ tbd
 
 <!-- more -->
 
-## A Loss For Words - Odds & Ends
+### A Loss For Words - Odds & Ends
 
 Genre: Pop Punk
 
 ::genre::pop punk
 
-## Adrian Quesada - Boleros Psicodélicos II
+### Adrian Quesada - Boleros Psicodélicos II
 
 tbd
 
 ::genre::
 
-## Akira Kosemura - Mirai
+### Akira Kosemura - Mirai
 
 Genre: Alt-Pop, Electronica, Neo-Classic
 
 ::genre::alt pop, electronica, neo classic
 
-## All Men Unto Me - Requiem
+### All Men Unto Me - Requiem
 
 tbd
 
 ::genre::
 
-## Arc De Soleil - Lumin Rain
+### Arc De Soleil - Lumin Rain
 
 Genre: Psychedelic Funk, Soul-Funk, Indie-Funk
 
 ::genre::psych rock, acid funk, acid soul, neo soul
 
-## Arch Echo - 3X3: Catalyst
+### Arch Echo - 3X3: Catalyst
 
 tbd
 
 ::genre::
 
-## Armin van Buuren - Breathe
+### Armin van Buuren - Breathe
 
 tbd
 
 ::genre::
 
-## Awaken I Am - The Only Way Out Is Through
+### Awaken I Am - The Only Way Out Is Through
 
 Genre: Modern Progressive Metal, Post-Hardcore
 
 ::genre::post hardcore, prog metal, modern metal
 
-## Barbra Streisand - The Secret Of Life: Partners, Volume Two
+### Barbra Streisand - The Secret Of Life: Partners, Volume Two
 
 tbd
 
 ::genre::
 
-## BC Camplight - A Sober Conversation
+### BC Camplight - A Sober Conversation
 
 Genre: Alternative Rock, Indie Rock
 
 ::genre::alt rock, indie rock
 
-## BKTHERULA - LUCY
+### BKTHERULA - LUCY
 
 tbd
 
 ::genre::
 
-## Black Sites - R4
+### Black Sites - R4
 
 tbd
 
 ::genre::
 
-## BLAK - Mont Solitud
+### BLAK - Mont Solitud
 
 tbd
 
 ::genre::
 
-## Blonde Redhead - The Shadow of the Guest
+### Blonde Redhead - The Shadow of the Guest
 
 tbd
 
 ::genre::
 
-## Blood Vulture - Die Close
+### Blood Vulture - Die Close
 
 Genre: Alt-Metal
 
 ::genre::alt metal
 
-## Botch - 061524
+### Botch - 061524
 
 tbd
 
 ::genre::
 
-## Brighde Chaimbeul - Sunwise
+### Brighde Chaimbeul - Sunwise
 
 tbd
 
 ::genre::
 
-## Bukka White - Aberdeen Blues - The Delta Shouts of Bukka White
+### Bukka White - Aberdeen Blues - The Delta Shouts of Bukka White
 
 tbd
 
 ::genre::
 
-## Burning Haze - Night Brought Wisdom
+### Burning Haze - Night Brought Wisdom
 
 tbd
 
 ::genre::
 
-## Cabin - Ripples
+### Cabin - Ripples
 
 Genre: Alt-Indie, Indie-Folk
 
 ::genre::alt indie, indie folk
 
-## Cafuné - Tra le corde dei racconti
+### Cafuné - Tra le corde dei racconti
 
 tbd
 
 ::genre::
 
-## CASTXDOWN - Force
+### CASTXDOWN - Force
 
 tbd
 
 ::genre::
 
-## Charlotte Lawrence - Somewhere
+### Charlotte Lawrence - Somewhere
 
 tbd
 
 ::genre::
 
-## Cheer Accident - Admission
+### Cheer Accident - Admission
 
 tbd
 
 ::genre::
 
-## Cole Swindell - Spanish Moss
+### Cole Swindell - Spanish Moss
 
 tbd
 
 ::genre::
 
-## Copenhagen Jazzexperience, Claus Waidtløw, Jacob Christoffersen - Summer Night
+### Copenhagen Jazzexperience, Claus Waidtløw, Jacob Christoffersen - Summer Night
 
 tbd
 
 ::genre::
 
-## Crack Cloud - Beyond The Red Mile
+### Crack Cloud - Beyond The Red Mile
 
 tbd
 
 ::genre::
 
-## Creeping Fear - Realm of the Impaled
+### Creeping Fear - Realm of the Impaled
 
 Genre: Thrash-Death-Metal
 
 ::genre::death metal, thrash metal
 
-## Crematory - ...Just Dreaming
+### Crematory - ...Just Dreaming
 
 tbd
 
 ::genre::
 
-## Crystal Viper - The Live Quest
+### Crystal Viper - The Live Quest
 
 tbd
 
 ::genre::
 
-## Da Captain Trips - In Between
+### Da Captain Trips - In Between
 
 tbd
 
 ::genre::
 
-## Daisy the Great - The Rubber Teeth Talk
+### Daisy the Great - The Rubber Teeth Talk
 
 tbd
 
 ::genre::
 
-## Daisychain - All in a Name
+### Daisychain - All in a Name
 
 tbd
 
 ::genre::
 
-## Dana and Alden - Speed
+### Dana and Alden - Speed
 
 tbd
 
 ::genre::
 
-## Daniel Ellsworth & The Great Lakes - HIGH(er) LIFE
+### Daniel Ellsworth & The Great Lakes - HIGH(er) LIFE
 
 tbd
 
 ::genre::
 
-## De-Phazz - Luck You!
+### De-Phazz - Luck You!
 
 Genre: Coffee Jazz, Corner Jazz, Soul
 
 ::genre::chamber jazz, coffee jazz, neo soul
 
-## Deadguy - Near-Death Travel Services
+### Deadguy - Near-Death Travel Services
 
 Genre: Metallic Hardcore, Mathcore
 
 ::genre::metallic hardcore, mathcore
 
-## Deadlands - Seven
+### Deadlands - Seven
 
 tbd
 
 ::genre::
 
-## Delia Derbyshire Appreciation Society - Psychedelia
+### Delia Derbyshire Appreciation Society - Psychedelia
 
 Genre: Ambient Electronica, Experimental
 
 ::genre::ambient, experimental electronica
 
-## Domkraft - Domkraft
+### Domkraft - Domkraft
 
 tbd
 
 ::genre::
 
-## Drawn And Quartered - Lord Of Two Horns
+### Drawn And Quartered - Lord Of Two Horns
 
 tbd
 
 ::genre::
 
-## Durand Jones & The Indications - Flowers
+### Durand Jones & The Indications - Flowers
 
 Genre: R&B, Neo-Soul
 
 ::genre::r&b, neo soul
 
-## Durry - This Movie Sucks
+### Durry - This Movie Sucks
 
 tbd
 
 ::genre::
 
-## Echodrone - Music for 6 Musicians
+### Echodrone - Music for 6 Musicians
 
 Genre: Post-Rock, Shoegaze
 
 ::genre::post punk, shoegaze
 
-## Electric Citizen - EC4
+### Electric Citizen - EC4
 
 tbd
 
 ::genre::
 
-## Erik Satie, Alexandre Tharaud - Satie: Discoveries
+### Erik Satie, Alexandre Tharaud - Satie: Discoveries
 
 tbd
 
 ::genre::
 
-## Existentialist - Terminal
+### Existentialist - Terminal
 
 tbd
 
 ::genre::
 
-## Exploding Star Orchestra, Rob Mazurek - Holy Mountains
+### Exploding Star Orchestra, Rob Mazurek - Holy Mountains
 
 tbd
 
 ::genre::
 
-## Felly - Ambroxyde
+### Felly - Ambroxyde
 
 tbd
 
 ::genre::
 
-## Fer De Lance - Fires On The Mountain
+### Fer De Lance - Fires On The Mountain
 
 tbd
 
 ::genre::
 
-## Fishbone - Stockholm Syndrome
+### Fishbone - Stockholm Syndrome
 
 tbd
 
 ::genre::
 
-## Flopsy's Dream - Pleasant Pudding
+### Flopsy's Dream - Pleasant Pudding
 
 tbd
 
 ::genre::
 
-## Frankie Cosmos - Different Talking
+### Frankie Cosmos - Different Talking
 
 Genre: Alt-Pop, Alt-Indie
 
 ::genre::alt pop, alt rock, indie rock
 
-## Frankie Grande - Hotel Rock Bottom
+### Frankie Grande - Hotel Rock Bottom
 
 tbd
 
 ::genre::
 
-## Fred Hersch - The Surrounding Green
+### Fred Hersch - The Surrounding Green
 
 tbd
 
 ::genre::
 
-## Frozen Ground - Frozen Ground
+### Frozen Ground - Frozen Ground
 
 tbd
 
 ::genre::
 
-## G Clef Fusion - With Dark and Light
+### G Clef Fusion - With Dark and Light
 
 tbd
 
 ::genre::
 
-## G. Love & Special Sauce - G. Love has gone Country
+### G. Love & Special Sauce - G. Love has gone Country
 
 Genre: Blues, Country
 
 ::genre::blues, alt country, americana
 
-## Gabriel Keller - Live - La Rotonde
+### Gabriel Keller - Live - La Rotonde
 
 tbd
 
 ::genre::
 
-## Gashi - The Killah Whales of Gotham
+### Gashi - The Killah Whales of Gotham
 
 tbd
 
 ::genre::
 
-## Gelli Haha - Switcheroo
+### Gelli Haha - Switcheroo
 
 tbd
 
 ::genre::
 
-## Gelo - League of My Own
+### Gelo - League of My Own
 
 tbd
 
 ::genre::
 
-## Glitterbeat - Carry Them With Us
+### Glitterbeat - Carry Them With Us
 
 tbd
 
 ::genre::
 
-## Grace Hayhurst - The World is Dying
+### Grace Hayhurst - The World is Dying
 
 tbd
 
 ::genre::
 
-## Great Death - Die In Love
+### Great Death - Die In Love
 
 tbd
 
 ::genre::
 
-## Greg Maroney - Out of the Fire Flew a beautiful Bird
+### Greg Maroney - Out of the Fire Flew a beautiful Bird
 
 Genre: Modern Classic
 
 ::genre::modern classic
 
-## Heathen’s Eye - Port Inspiro
+### Heathen’s Eye - Port Inspiro
 
 tbd
 
 ::genre::
 
-## Heaven Shall Burn - Heimat
+### Heaven Shall Burn - Heimat
 
 Genre: Melodic Death Metal, Metalcore
 
 ::genre::melo death metal, metalcore
 
-## Helena Hauff, F#X, Black Sites - R4
+### Helena Hauff, F#X, Black Sites - R4
 
 Genre: Techno
 
 ::genre::techno
 
-## Herbert, Momoko Gill, Matthew Herbert - Clay
+### Herbert, Momoko Gill, Matthew Herbert - Clay
 
 tbd
 
 ::genre::
 
-## Hexella - The Ancient Gaping Mouth
+### Hexella - The Ancient Gaping Mouth
 
 tbd
 
 ::genre::
 
-## Higher Power - There's Love In This World If You Want It
+### Higher Power - There's Love In This World If You Want It
 
 tbd
 
 ::genre::
 
-## HLLLYH - URUBURU
+### HLLLYH - URUBURU
 
 tbd
 
 ::genre::
 
-## Hot Milk - Corporation P.O.P
+### Hot Milk - Corporation P.O.P
 
 Genre: Alternative Metal, Nu-Metal
 
 ::genre::alt metal, nu metal
 
-## Hypnotic Floor - The Friendly Moss Forest Creatures Lived Happily In Perpetual Twilight
+### Hypnotic Floor - The Friendly Moss Forest Creatures Lived Happily In Perpetual Twilight
 
 tbd
 
 ::genre::
 
-## I Giullari Di Corte - Via Fulton 4
+### I Giullari Di Corte - Via Fulton 4
 
 tbd
 
 ::genre::
 
-## Indemon - Reclaiming Chaos
+### Indemon - Reclaiming Chaos
 
 tbd
 
 ::genre::
 
-## Inhuman Condition - Mind Trap
+### Inhuman Condition - Mind Trap
 
 Genre: (Florida) Death Metal
 
 ::genre::osdm
 
-## Isabella Lovestory - Vanity
+### Isabella Lovestory - Vanity
 
 tbd
 
 ::genre::
 
-## J Mahon - Begin Again, Again
+### J Mahon - Begin Again, Again
 
 tbd
 
 ::genre::
 
-## Jacob Karlzon, Rhani Krija - Mosaic
+### Jacob Karlzon, Rhani Krija - Mosaic
 
 tbd
 
 ::genre::
 
-## Jakko M Jakszyk - Son Of Glen
+### Jakko M Jakszyk - Son Of Glen
 
 tbd
 
 ::genre::
 
-## Johan Langquist The Castle - Johan Langquist The Castle
+### Johan Langquist The Castle - Johan Langquist The Castle
 
 tbd
 
 ::genre::
 
-## Juan Waters - MVD LUV
+### Juan Waters - MVD LUV
 
 tbd
 
 ::genre::
 
-## KATSEYE - BEAUTIFUL CHAOS
+### KATSEYE - BEAUTIFUL CHAOS
 
 tbd
 
 ::genre::
 
-## kerri - DON’T PANIC
+### kerri - DON’T PANIC
 
 tbd
 
 ::genre::
 
-## Kevin Abstract - BLUSH
+### Kevin Abstract - BLUSH
 
 tbd
 
 ::genre::
 
-## Killing of a Sacred Deer - A Visage of a Mangled Body
+### Killing of a Sacred Deer - A Visage of a Mangled Body
 
 tbd
 
 ::genre::
 
-## King - K
+### King - K
 
 tbd
 
 ::genre::
 
-## King Potenaz - Arcane Desert Rituals Vol. 1
+### King Potenaz - Arcane Desert Rituals Vol. 1
 
 tbd
 
 ::genre::
 
-## King Witch - III
+### King Witch - III
 
 tbd
 
 ::genre::
 
-## Komara - Komara II
+### Komara - Komara II
 
 tbd
 
 ::genre::
 
-## Laleh - Jag Är
+### Laleh - Jag Är
 
 Genre: Alt-Pop
 
 ::genre::alt pop
 
-## Landon Smith - Reckson So
+### Landon Smith - Reckson So
 
 tbd
 
 ::genre::
 
-## late night drive home - as I watch my life online
+### late night drive home - as I watch my life online
 
 tbd
 
 ::genre::
 
-## Laura Stevenson - Late Great
+### Laura Stevenson - Late Great
 
 Genre: Alternative Rock, Indie-Folk
 
 ::genre::alt rock, indie folk
 
-## Lauren Spencer Smith - The Art of Being a Mess
+### Lauren Spencer Smith - The Art of Being a Mess
 
 tbd
 
 ::genre::
 
-## Lightheaded - Thinking, Dreaming, Scheming
+### Lightheaded - Thinking, Dreaming, Scheming
 
 tbd
 
 ::genre::
 
-## Lizzo - My Face Hurts from Smiling
+### Lizzo - My Face Hurts from Smiling
 
 tbd
 
 ::genre::
 
-## Lord Belial - Unholy Trinity
+### Lord Belial - Unholy Trinity
 
 Genre: Nordic Black Metal
 
 ::genre::black metal
 
-## Lorde - Virgin
+### Lorde - Virgin
 
 Genre: Pop
 
 ::genre::introspective pop, alt pop
 
-## M.Jacaszek, Jacaszek - Idylla
+### M.Jacaszek, Jacaszek - Idylla
 
 tbd
 
 ::genre::
 
-## Maoli - Last Sip of Summer
+### Maoli - Last Sip of Summer
 
 tbd
 
 ::genre::
 
-## Mara - Sword Of Vengeance
+### Mara - Sword Of Vengeance
 
 tbd
 
 ::genre::
 
-## Mareux - Nonstop Romance
+### Mareux - Nonstop Romance
 
 tbd
 
 ::genre::
 
-## Margantha - Blood Moon Sacrifice
+### Margantha - Blood Moon Sacrifice
 
 tbd
 
 ::genre::
 
-## Mark Mallman - Magic Time
+### Mark Mallman - Magic Time
 
 tbd
 
 ::genre::
 
-## Melaine Dalibert & David Sylvian - Vermilion Hours
+### Melaine Dalibert & David Sylvian - Vermilion Hours
 
 tbd
 
 ::genre::
 
-## Melting Rot - Cold Case Files
+### Melting Rot - Cold Case Files
 
 tbd
 
 ::genre::
 
-## Merzbow - Sedonis
+### Merzbow - Sedonis
 
 tbd
 
 ::genre::
 
-## Mizmor - Mnemonic: Ambient Mosaic
+### Mizmor - Mnemonic: Ambient Mosaic
 
 Genre: Drone, Post-Metal, Experimental
 
 ::genre::post metal, drone
 
-## Mocky - Music Will Explain
+### Mocky - Music Will Explain
 
 tbd
 
 ::genre::
 
-## Motorhead - The Manticore Tapes
+### Motorhead - The Manticore Tapes
 
 tbd
 
 ::genre::
 
-## Moving Mountains - Pruning Of The Lower Limbs
+### Moving Mountains - Pruning Of The Lower Limbs
 
 tbd
 
 ::genre::
 
-## Mugshot - All The Devils Are Here
+### Mugshot - All The Devils Are Here
 
 tbd
 
 ::genre::
 
-## Mæth Dæmon - Dogma
+### Mæth Dæmon - Dogma
 
 tbd
 
 ::genre::
 
-## Natanya - Feline’s Return
+### Natanya - Feline’s Return
 
 tbd
 
 ::genre::
 
-## Niklas Sonne - Electric Dream
+### Niklas Sonne - Electric Dream
 
 tbd
 
 ::genre::
 
-## Noise Trail Immersion - Tutta La Morte In Un Solo Punto
+### Noise Trail Immersion - Tutta La Morte In Un Solo Punto
 
 tbd
 
 ::genre::
 
-## Nosound - To The Core
+### Nosound - To The Core
 
 tbd
 
 ::genre::
 
-## Obongjayar - Paradise Now
+### Obongjayar - Paradise Now
 
 tbd
 
 ::genre::
 
-## Orchestra of the Swan, David le Page - Light and Shadow
+### Orchestra of the Swan, David le Page - Light and Shadow
 
 tbd
 
 ::genre::
 
-## Organic Destruction - Prophets Of Cthulhu
+### Organic Destruction - Prophets Of Cthulhu
 
 tbd
 
 ::genre::
 
-## Pan American - Interior of an Edifice Under the Sea
+### Pan American - Interior of an Edifice Under the Sea
 
 tbd
 
 ::genre::
 
-## Parker McCollum - Parker McCollum
+### Parker McCollum - Parker McCollum
 
 tbd
 
 ::genre::
 
-## People Of The Sun - People Of The Sun
+### People Of The Sun - People Of The Sun
 
 tbd
 
 ::genre::
 
-## Peter Gabriel - In The Big Room
+### Peter Gabriel - In The Big Room
 
 tbd
 
 ::genre::
 
-## Pi'erre Bourne - Made in Paris
+### Pi'erre Bourne - Made in Paris
 
 tbd
 
 ::genre::
 
-## Pig Pen - Mental Madness
+### Pig Pen - Mental Madness
 
 tbd
 
 ::genre::
 
-## piraamid - White Light
+### piraamid - White Light
 
 tbd
 
 ::genre::
 
-## Pleasure Pill - Hang A Star
+### Pleasure Pill - Hang A Star
 
 tbd
 
 ::genre::
 
-## Powerhill - Generation X
+### Powerhill - Generation X
 
 tbd
 
 ::genre::
 
-## Presto Ballet - Dreamentia
+### Presto Ballet - Dreamentia
 
 Genre: Classic Progressive Rock
 
 ::genre::prog rock
 
-## Psychic TV - A Prayer For Derek Jarman
+### Psychic TV - A Prayer For Derek Jarman
 
 tbd
 
 ::genre::
 
-## Putridity - Morbid Ataraxia
+### Putridity - Morbid Ataraxia
 
 Genre: Brutal Death Metal
 
 ::genre::brutal death metal
 
-## Queen - Riffs
+### Queen - Riffs
 
 tbd
 
 ::genre::
 
-## READY FOR DEATH - Pay With Your Face
+### READY FOR DEATH - Pay With Your Face
 
 tbd
 
 ::genre::
 
-## Ringlets - The Lord is my German Shepherd (Time for Walkies)
+### Ringlets - The Lord is my German Shepherd (Time for Walkies)
 
 Genre: Post-Punk, Indie-Rock
 
 ::genre::post punk, indie rock
 
-## Robert Randolph - Preacher Kids
+### Robert Randolph - Preacher Kids
 
 tbd
 
 ::genre::
 
-## Royale Lynn - Black Magic
+### Royale Lynn - Black Magic
 
 tbd
 
 ::genre::
 
-## Russ - W!LD
+### Russ - W!LD
 
 tbd
 
 ::genre::
 
-## Sara Storer - Worth Your Love
+### Sara Storer - Worth Your Love
 
 tbd
 
 ::genre::
 
-## SAVF - Kintsugi
+### SAVF - Kintsugi
 
 tbd
 
 ::genre::
 
-## Sean Nicholas Savage - The Knowing
+### Sean Nicholas Savage - The Knowing
 
 Genre: Pop, Indie-Pop
 
 ::genre::alt pop, indie pop
 
-## Seedbed - Stalemate
+### Seedbed - Stalemate
 
 tbd
 
 ::genre::
 
-## Serpent Corpse - Retaliate
+### Serpent Corpse - Retaliate
 
 tbd
 
 ::genre::
 
-## Shadow Of Intent - Imperium Delirium
+### Shadow Of Intent - Imperium Delirium
 
 Genre: Technical Death Metal, Deathcore
 
 ::genre::tech death metal, deathcore, brutal death metal
 
-## Sharon Mansur - Trigger
+### Sharon Mansur - Trigger
 
 tbd
 
 ::genre::
 
-## Sharpie Smile - The Staircase
+### Sharpie Smile - The Staircase
 
 tbd
 
 ::genre::
 
-## SHIBUUYA! - SHIBUUYA!
+### SHIBUUYA! - SHIBUUYA!
 
 tbd
 
 ::genre::
 
-## Shining - Divided You'll Stand & United You'll Fall
+### Shining - Divided You'll Stand & United You'll Fall
 
 tbd
 
 ::genre::
 
-## Silverlake Murder - Blackout
+### Silverlake Murder - Blackout
 
 Genre: Deathcore
 
 ::genre::deathcore
 
-## Sister Sadie - All Will Be Will
+### Sister Sadie - All Will Be Will
 
 tbd
 
 ::genre::
 
-## Skegss - State of Hawaii
+### Skegss - State of Hawaii
 
 tbd
 
 ::genre::
 
-## Skies Turn Black - Broken Hearts And Bad Habits
+### Skies Turn Black - Broken Hearts And Bad Habits
 
 tbd
 
 ::genre::
 
-## Sky Falls Down - Sky Falls Down
+### Sky Falls Down - Sky Falls Down
 
 tbd
 
 ::genre::
 
-## Smote - Clyppan
+### Smote - Clyppan
 
 Genre: Psychedelic Drone, Drone, Ambient, Experimental
 
 ::genre::ambient, drone, experimental electronica
 
-## Smut - Tomorrow Comes Crashing
+### Smut - Tomorrow Comes Crashing
 
 tbd
 
 ::genre::
 
-## Sodom - The Arsonist *
+### Sodom - The Arsonist *
 
 Genre: Thrash Metal
 
 ::genre::thrash metal
 
-## Sons Of The East - Sons
+### Sons Of The East - Sons
 
 Genre: Indie-Folk, Alt-Folk
 
 ::genre::indie folk, alt folk
 
-## Spider Kitten - The Truth is caustic to Love
+### Spider Kitten - The Truth is caustic to Love
 
 Genre: Psychedelic Rock, Space Rock, Sludge
 
 ::genre::psych rock, space rock, sludge metal
 
-## Starling - Forgive Me
+### Starling - Forgive Me
 
 tbd
 
 ::genre::
 
-## Stephen O’Malley - But Remember What You Have Had
+### Stephen O’Malley - But Remember What You Have Had
 
 tbd
 
 ::genre::
 
-## Steve Aoki - HiROQUEST 3: Paragon
+### Steve Aoki - HiROQUEST 3: Paragon
 
 tbd
 
 ::genre::
 
-## Sun Glitters - Ascend.
+### Sun Glitters - Ascend.
 
 Genre: Dreampop, Downtempo, Electronica
 
 ::genre::dreampop, downtempo, electronica
 
-## Susannah Joffe - Cult Leader
+### Susannah Joffe - Cult Leader
 
 tbd
 
 ::genre::
 
-## Swain - Infinite Child
+### Swain - Infinite Child
 
 tbd
 
 ::genre::
 
-## TDJ - TDJ
+### TDJ - TDJ
 
 tbd
 
 ::genre::
 
-## tealdeer - menace
+### tealdeer - menace
 
 tbd
 
 ::genre::
 
-## Teddy Swims - I’ve Tried Everything But Therapy
+### Teddy Swims - I’ve Tried Everything But Therapy
 
 tbd
 
 ::genre::
 
-## Tereza Catarov - Koren
+### Tereza Catarov - Koren
 
 tbd
 
 ::genre::
 
-## The Burned Over - The Last Great Awakening
+### The Burned Over - The Last Great Awakening
 
 tbd
 
 ::genre::
 
-## The Icarus Plan - Some Kind of Sign
+### The Icarus Plan - Some Kind of Sign
 
 tbd
 
 ::genre::
 
-## The Jacquess - The Four Five Three
+### The Jacquess - The Four Five Three
 
 tbd
 
 ::genre::
 
-## Tidebringer - I Feel Crushed by my Own Malice
+### Tidebringer - I Feel Crushed by my Own Malice
 
 tbd
 
 ::genre::
 
-## Transcendence - Nothing Etched In Stone - Pt. I
+### Transcendence - Nothing Etched In Stone - Pt. I
 
 tbd
 
 ::genre::
 
-## TSS - End Of Time
+### TSS - End Of Time
 
 tbd
 
 ::genre::
 
-## Venom - Blackened Priests
+### Venom - Blackened Priests
 
 tbd
 
 ::genre::
 
-## Wanted - Cutting Edge
+### Wanted - Cutting Edge
 
 tbd
 
 ::genre::
 
-## Warhog - The Dystopian Chronicles, Vol. 3
+### Warhog - The Dystopian Chronicles, Vol. 3
 
 tbd
 
 ::genre::
 
-## Warlord - The Lost Archangel
+### Warlord - The Lost Archangel
 
 tbd
 
 ::genre::
 
-## Wavves - Spun *
+### Wavves - Spun *
 
 Genre: Pop-Punk, Indie-Rock
 
 ::genre::pop punk, indie rock
 
-## Wet Kiss - Thus Spoke the Broken Chanteuse
+### Wet Kiss - Thus Spoke the Broken Chanteuse
 
 tbd
 
 ::genre::
 
-## When The Deadbolt Breaks - In The Glow Of The Vatican Fire
+### When The Deadbolt Breaks - In The Glow Of The Vatican Fire
 
 tbd
 
 ::genre::
 
-## WHOLE WORLD WEPT - SCORCHER
+### WHOLE WORLD WEPT - SCORCHER
 
 tbd
 
 ::genre::
 
-## Willi Carlisle - Winged Victory
+### Willi Carlisle - Winged Victory
 
 tbd
 
 ::genre::
 
-## World Wide Smoker - Killing Off My Demons
+### World Wide Smoker - Killing Off My Demons
 
 tbd
 
 ::genre::
 
-## Yuchtet - Earworm
+### Yuchtet - Earworm
 
 Genre: Jazz, Corner Jazz
 
 ::genre::chamber jazz, coffee jazz, contemporary jazz
 
-## Zeresh - The End
+### Zeresh - The End
 
 tbd
 
 ::genre::
 
-## Zzz. - Close Your Eyes & Listen
+### Zzz. - Close Your Eyes & Listen
 
 tbd
 
@@ -1172,649 +1172,649 @@ tbd
 
 ## Earlier the week ...
 
-## A Multitude of ONE - The Book of Enoch
+### A Multitude of ONE - The Book of Enoch
 
 tbd
 
 ::genre::
 
-## Aaron MF Olson - Songs Album II
+### Aaron MF Olson - Songs Album II
 
 tbd
 
 ::genre::
 
-## Abul Mogard & Rafael Anton Irisarri - Where Light Pauses in the Silence of the Sun
+### Abul Mogard & Rafael Anton Irisarri - Where Light Pauses in the Silence of the Sun
 
 tbd
 
 ::genre::
 
-## Akiid - Skeffu
+### Akiid - Skeffu
 
 tbd
 
 ::genre::
 
-## Alden Hellmuth - Tether
+### Alden Hellmuth - Tether
 
 tbd
 
 ::genre::
 
-## Alewya - ZERO
+### Alewya - ZERO
 
 tbd
 
 ::genre::
 
-## Aliya Ultan - Looks Far Woman
+### Aliya Ultan - Looks Far Woman
 
 tbd
 
 ::genre::
 
-## Andrew Sa - American Rough
+### Andrew Sa - American Rough
 
 tbd
 
 ::genre::
 
-## Atta Boy - Silt
+### Atta Boy - Silt
 
 tbd
 
 ::genre::
 
-## Aurora Ferrer - Time Crawlers
+### Aurora Ferrer - Time Crawlers
 
 tbd
 
 ::genre::
 
-## Beth Orton - The Ground Above
+### Beth Orton - The Ground Above
 
 tbd
 
 ::genre::
 
-## Bipolar Explorer - Last Lights
+### Bipolar Explorer - Last Lights
 
 tbd
 
 ::genre::
 
-## Book of Love - Book of Love
+### Book of Love - Book of Love
 
 tbd
 
 ::genre::
 
-## Brutalismus 3000 - Harmony
+### Brutalismus 3000 - Harmony
 
 tbd
 
 ::genre::
 
-## Butthole Surfers - After the Astronaut
+### Butthole Surfers - After the Astronaut
 
 tbd
 
 ::genre::
 
-## Catharsonist - Embrace Insignificance
+### Catharsonist - Embrace Insignificance
 
 tbd
 
 ::genre::
 
-## Chanel Beads - Your Day Will Come
+### Chanel Beads - Your Day Will Come
 
 tbd
 
 ::genre::
 
-## Chanpan - autogratis
+### Chanpan - autogratis
 
 tbd
 
 ::genre::
 
-## Charles Kelley - Songs for a New Moon
+### Charles Kelley - Songs for a New Moon
 
 tbd
 
 ::genre::
 
-## Chøppersaurus - Britain Amplified
+### Chøppersaurus - Britain Amplified
 
 tbd
 
 ::genre::
 
-## Cody Johnson - Banks Of The Trinity
+### Cody Johnson - Banks Of The Trinity
 
 tbd
 
 ::genre::
 
-## Cravity - Dare to Crave
+### Cravity - Dare to Crave
 
 tbd
 
 ::genre::
 
-## Crucifix - I CAN
+### Crucifix - I CAN
 
 tbd
 
 ::genre::
 
-## Danny Golden - The Big Blue
+### Danny Golden - The Big Blue
 
 tbd
 
 ::genre::
 
-## Dari Bay - Surprise Wish
+### Dari Bay - Surprise Wish
 
 tbd
 
 ::genre::
 
-## Daz Dillinger - Retaliation, Revenge and Get Back 2
+### Daz Dillinger - Retaliation, Revenge and Get Back 2
 
 tbd
 
 ::genre::
 
-## Deadwood - Nemesis
+### Deadwood - Nemesis
 
 tbd
 
 ::genre::
 
-## Debbii Dawson - Where Have All The Good Men Gone?
+### Debbii Dawson - Where Have All The Good Men Gone?
 
 tbd
 
 ::genre::
 
-## Debonaire - Mars Needs Women
+### Debonaire - Mars Needs Women
 
 tbd
 
 ::genre::
 
-## Devon Gilfillian - Time Will Tell
+### Devon Gilfillian - Time Will Tell
 
 tbd
 
 ::genre::
 
-## Downtown Boys - Public Luxury
+### Downtown Boys - Public Luxury
 
 tbd
 
 ::genre::
 
-## Embryoroom - ABDUCTOR
+### Embryoroom - ABDUCTOR
 
 tbd
 
 ::genre::
 
-## Emperor X - Unified Field
+### Emperor X - Unified Field
 
 tbd
 
 ::genre::
 
-## emptyset - Dissever
+### emptyset - Dissever
 
 tbd
 
 ::genre::
 
-## Exformal Records - Exformal Zones
+### Exformal Records - Exformal Zones
 
 tbd
 
 ::genre::
 
-## Fai Laci - Elephant In The Room
+### Fai Laci - Elephant In The Room
 
 tbd
 
 ::genre::
 
-## Félicia Atkinson - Sans Visage
+### Félicia Atkinson - Sans Visage
 
 tbd
 
 ::genre::
 
-## galen tipton & Shmu - dewCLAWS
+### galen tipton & Shmu - dewCLAWS
 
 tbd
 
 ::genre::
 
-## GILT - I Saw Myself In The Black Screen
+### GILT - I Saw Myself In The Black Screen
 
 tbd
 
 ::genre::
 
-## Girl Trouble - As Is
+### Girl Trouble - As Is
 
 tbd
 
 ::genre::
 
-## Harmony Tividad - Lifetime
+### Harmony Tividad - Lifetime
 
 tbd
 
 ::genre::
 
-## Helen Svoboda - Headwater
+### Helen Svoboda - Headwater
 
 tbd
 
 ::genre::
 
-## Heretic Warfare - Perpetual Fire
+### Heretic Warfare - Perpetual Fire
 
 tbd
 
 ::genre::
 
-## Hinoku, Between the Stars, nu.un - Awake at 3 am
+### Hinoku, Between the Stars, nu.un - Awake at 3 am
 
 tbd
 
 ::genre::
 
-## Hoagy Carmichael - Sleepy Lazybones
+### Hoagy Carmichael - Sleepy Lazybones
 
 tbd
 
 ::genre::
 
-## Human Tetris - Common Feeling
+### Human Tetris - Common Feeling
 
 Genre: New-Wave, Post-Punk
 
 ::genre::new wave, post punk
 
-## iamamiwhoami, ionnalee - STILL BLUE
+### iamamiwhoami, ionnalee - STILL BLUE
 
 tbd
 
 ::genre::
 
-## ill peach - EAVESDROPPING
+### ill peach - EAVESDROPPING
 
 tbd
 
 ::genre::
 
-## Jacob Ungerleider - Congratulations
+### Jacob Ungerleider - Congratulations
 
 tbd
 
 ::genre::
 
-## Janis Martin - Let's Run Away Together
+### Janis Martin - Let's Run Away Together
 
 tbd
 
 ::genre::
 
-## JJerome87 - The Canyon
+### JJerome87 - The Canyon
 
 tbd
 
 ::genre::
 
-## Jon Lampley - Notes To Self
+### Jon Lampley - Notes To Self
 
 tbd
 
 ::genre::
 
-## knitting - Souvenir
+### knitting - Souvenir
 
 tbd
 
 ::genre::
 
-## Lau Ro - Lau
+### Lau Ro - Lau
 
 tbd
 
 ::genre::
 
-## Luca Young - Infinite Lovers, Pt. I
+### Luca Young - Infinite Lovers, Pt. I
 
 tbd
 
 ::genre::
 
-## M. Geddes Gengras - Guest List
+### M. Geddes Gengras - Guest List
 
 tbd
 
 ::genre::
 
-## Machine Listening - Environments 12: new concepts in acoustic enrichment
+### Machine Listening - Environments 12: new concepts in acoustic enrichment
 
 tbd
 
 ::genre::
 
-## Madeon - Victory
+### Madeon - Victory
 
 tbd
 
 ::genre::
 
-## Madison McFerrin - Scorpio
+### Madison McFerrin - Scorpio
 
 Genre: R&B, Soul
 
 ::genre::r&b, neo soul
 
-## Mantra - Celestial
+### Mantra - Celestial
 
 tbd
 
 ::genre::
 
-## Maps and Diagrams - The Fragile Balance Between Opposites
+### Maps and Diagrams - The Fragile Balance Between Opposites
 
 tbd
 
 ::genre::
 
-## Mark O'Leary, Teppo Hauta-aho, Olavi Louhivuori - New Music Primer
+### Mark O'Leary, Teppo Hauta-aho, Olavi Louhivuori - New Music Primer
 
 tbd
 
 ::genre::
 
-## Marla Hlady & Christof Migone - On And On And Off
+### Marla Hlady & Christof Migone - On And On And Off
 
 tbd
 
 ::genre::
 
-## Marvatten - Unscripted Moments, Vol. I
+### Marvatten - Unscripted Moments, Vol. I
 
 tbd
 
 ::genre::
 
-## Mico - When the lights turn on
+### Mico - When the lights turn on
 
 tbd
 
 ::genre::
 
-## Mindthegap Trio - Motherland
+### Mindthegap Trio - Motherland
 
 tbd
 
 ::genre::
 
-## Mortis - Violent Silence
+### Mortis - Violent Silence
 
 tbd
 
 ::genre::
 
-## Multiplying - Luxury Position
+### Multiplying - Luxury Position
 
 tbd
 
 ::genre::
 
-## Muse - The WOW! Signal
+### Muse - The WOW! Signal
 
 tbd
 
 ::genre::
 
-## Mydreamfever - Silence Is the New Noise
+### Mydreamfever - Silence Is the New Noise
 
 tbd
 
 ::genre::
 
-## nascar aloe - AUDIO SHARPNEL
+### nascar aloe - AUDIO SHARPNEL
 
 tbd
 
 ::genre::
 
-## Niels Vejlyt - Played
+### Niels Vejlyt - Played
 
 tbd
 
 ::genre::
 
-## Nodes - Índigo
+### Nodes - Índigo
 
 Genre: Experimental Electronica, Ambient Electronica
 
 ::genre::ambient, experimental electronica
 
-## Onilu - Jakuta’s Dance
+### Onilu - Jakuta’s Dance
 
 tbd
 
 ::genre::
 
-## Open the Paintbox - The Sirius Mystery
+### Open the Paintbox - The Sirius Mystery
 
 tbd
 
 ::genre::
 
-## Ophelion - The Jaunt
+### Ophelion - The Jaunt
 
 tbd
 
 ::genre::
 
-## pdqb - DER TRANSIENTE ZEUGE
+### pdqb - DER TRANSIENTE ZEUGE
 
 tbd
 
 ::genre::
 
-## Primaluce - Gone Are The Days
+### Primaluce - Gone Are The Days
 
 tbd
 
 ::genre::
 
-## proun - Maybe Luck
+### proun - Maybe Luck
 
 tbd
 
 ::genre::
 
-## Push for Night - That Porous Line
+### Push for Night - That Porous Line
 
 tbd
 
 ::genre::
 
-## RAT BOY - CRASH!
+### RAT BOY - CRASH!
 
 tbd
 
 ::genre::
 
-## Relayer Symphony - Persecusión
+### Relayer Symphony - Persecusión
 
 tbd
 
 ::genre::
 
-## Reverberant Evenings - Against the Light
+### Reverberant Evenings - Against the Light
 
 tbd
 
 ::genre::
 
-## Ryder The Eagle - Smile, Hearse Driver!
+### Ryder The Eagle - Smile, Hearse Driver!
 
 Genre: Alt-Pop
 
 ::genre::alt pop
 
-## Sacred May - Of Light and Shade
+### Sacred May - Of Light and Shade
 
 Genre: Modern Progressive Metal
 
 ::genre::modern prog metal
 
-## Santet - Cruelty In The Sorcerer's Land
+### Santet - Cruelty In The Sorcerer's Land
 
 tbd
 
 ::genre::
 
-## Silence Quartet - Denial
+### Silence Quartet - Denial
 
 tbd
 
 ::genre::
 
-## Some Velvet Sidewalk - Critters Encore
+### Some Velvet Sidewalk - Critters Encore
 
 tbd
 
 ::genre::
 
-## Spacemoth - Inward Eye
+### Spacemoth - Inward Eye
 
 tbd
 
 ::genre::
 
-## Stinkbug - Between Timid and Timbuktu
+### Stinkbug - Between Timid and Timbuktu
 
 tbd
 
 ::genre::
 
-## Switchfoot - Forever Now
+### Switchfoot - Forever Now
 
 tbd
 
 ::genre::
 
-## T.A.L.L - T.A.L.L
+### T.A.L.L - T.A.L.L
 
 tbd
 
 ::genre::
 
-## Taiga Ultan - Shade Zero
+### Taiga Ultan - Shade Zero
 
 tbd
 
 ::genre::
 
-## Tasha - All This and So Much More
+### Tasha - All This and So Much More
 
 tbd
 
 ::genre::
 
-## Teleport - Ficción
+### Teleport - Ficción
 
 tbd
 
 ::genre::
 
-## The Bouncing Souls - Born to Be
+### The Bouncing Souls - Born to Be
 
 tbd
 
 ::genre::
 
-## The Midnight Papers - The Midnight Papers
+### The Midnight Papers - The Midnight Papers
 
 tbd
 
 ::genre::
 
-## The Pretty Reckless - Dear God
+### The Pretty Reckless - Dear God
 
 tbd
 
 ::genre::
 
-## The Strokes - Reality Awaits
+### The Strokes - Reality Awaits
 
 tbd
 
 ::genre::
 
-## There Were Wires - Vessel
+### There Were Wires - Vessel
 
 tbd
 
 ::genre::
 
-## Tift Merritt - Sugar
+### Tift Merritt - Sugar
 
 tbd
 
 ::genre::
 
-## Truck Violence - The Weathervane Is My Body
+### Truck Violence - The Weathervane Is My Body
 
 tbd
 
 ::genre::
 
-## Umbra Vita - Of One Taste
+### Umbra Vita - Of One Taste
 
 tbd
 
 ::genre::
 
-## Various Artists - Plants Can Dance
+### Various Artists - Plants Can Dance
 
 tbd
 
 ::genre::
 
-## Willow Avalon - Pink Pocket Pistol
+### Willow Avalon - Pink Pocket Pistol
 
 tbd
 
 ::genre::
 
-## Winterfront - Chants For The Underworld
+### Winterfront - Chants For The Underworld
 
 tbd
 
 ::genre::
 
-## Yvalain & Juha Hintikka - Albinoni Adagio
+### Yvalain & Juha Hintikka - Albinoni Adagio
 
 tbd
 
 ::genre::
 
-## Zacc Harris - American Reckoning
+### Zacc Harris - American Reckoning
 
 tbd
 

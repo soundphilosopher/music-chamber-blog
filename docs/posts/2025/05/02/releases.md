@@ -8,19 +8,19 @@ categories:
 
 ## Friday
 
-## !mindparade - ekopsuƨqoʞɘ
+### !mindparade - ekopsuƨqoʞɘ
 
 tbd
 
 ::genre::
 
-## 21st Century Schizoid Band - The London Sessions
+### 21st Century Schizoid Band - The London Sessions
 
 tbd
 
 ::genre::
 
-## 4 Kings - Evil Serenade
+### 4 Kings - Evil Serenade
 
 tbd
 
@@ -28,1213 +28,1213 @@ tbd
 
 <!-- more -->
 
-## A Flock Named Murder - Incendiary Sanctum
+### A Flock Named Murder - Incendiary Sanctum
 
 tbd
 
 ::genre::
 
-## A Minute To Die For - A Minute To Die For
+### A Minute To Die For - A Minute To Die For
 
 tbd
 
 ::genre::
 
-## AAWKS - On Through the Sky Maze
+### AAWKS - On Through the Sky Maze
 
 Die Kanadier mit ihrem neuesten Output. Thematisch dem Space Rock nahe, von den Kompositionen aber eher ein Mix zwischen Sludge und Stoner.
 
 ::genre::space rock, sludge metal, stoner rock
 
-## Abigail Lapell - Anniversary & More Songs About Love
+### Abigail Lapell - Anniversary & More Songs About Love
 
 tbd
 
 ::genre::
 
-## Acres - The Host
+### Acres - The Host
 
 Die britischen Modern Metalcorer mit einem weiteren Output. Wenn man mit der modernen Auslegung des Metalcore etwas anfangen kann, dann ist man hier richtig. Dem Genre gerechte Produktion und dem üblichen progressiven Songwriting.
 
 ::genre::modern metalcore
 
-## Adam Lytle - Altars
+### Adam Lytle - Altars
 
 tbd
 
 ::genre::
 
-## Alukta - Merok
+### Alukta - Merok
 
 tbd
 
 ::genre::
 
-## Aly & AJ - Silver Deliverer
+### Aly & AJ - Silver Deliverer
 
 tbd
 
 ::genre::
 
-## Amalekim - Shir Hashirim
+### Amalekim - Shir Hashirim
 
 tbd
 
 ::genre::
 
-## Ancestral Voices - Nemeton
+### Ancestral Voices - Nemeton
 
 Das Projekt um den britischen Produzenten Liam Blackburn. Drum & Bass eingebettet in eine ambient-reiche Welt.
 
 ::genre::d&b, ambient
 
-## Andy Bell - Ten Crowns
+### Andy Bell - Ten Crowns
 
 tbd
 
 ::genre::
 
-## Angel Bat Dawid, Naima Nefertari - Journey to Nabta Playa
+### Angel Bat Dawid, Naima Nefertari - Journey to Nabta Playa
 
 Kollaboration zwischen der amerikanischen Klarinettistin und der britischen Komposerin. Die beiden erzeugen ein Klangfeld, welches akustische und elektronische Instrumente kombiniert, Elemente des Jazz nicht vernachlässigt und nie die spirituellen Klangbilder außer Acht lässt.
 
 ::genre::nu jazz, spiritual jazz, ambient
 
-## Anthony Naples - Scanners
+### Anthony Naples - Scanners
 
 tbd
 
 ::genre::
 
-## Antonis Vlavo - Remote
+### Antonis Vlavo - Remote
 
 Der griechische Tausendsassa mit seinem aktuellen Werk. Zu diesem Werk hat sich der Künstler Unterstützung von Künster\*innen geholt, die er verehrt. Herausgekommen ist ein Alternative Rock Album, welches sich nicht verstecken muss.
 
 ::genre::alt rock
 
-## Arab Strap - Encrypted Valentines
+### Arab Strap - Encrypted Valentines
 
 tbd
 
 ::genre::
 
-## ARV - Curse & Courage
+### ARV - Curse & Courage
 
 tbd
 
 ::genre::
 
-## Arve Henriksen, Trygve Seim, Markku Ounaskari - Arcanum
+### Arve Henriksen, Trygve Seim, Markku Ounaskari - Arcanum
 
 tbd
 
 ::genre::
 
-## Astral Magic - In Space We Trust
+### Astral Magic - In Space We Trust
 
 tbd
 
 ::genre::
 
-## AØRIST - AFTERLIFE
+### AØRIST - AFTERLIFE
 
 tbd
 
 ::genre::
 
-## Battle Elf - 10
+### Battle Elf - 10
 
 tbd
 
 ::genre::
 
-## Ben Williams - Between Church & State
+### Ben Williams - Between Church & State
 
 tbd
 
 ::genre::
 
-## Ben Zarik - Gloom, Despair, and Agony
+### Ben Zarik - Gloom, Despair, and Agony
 
 tbd
 
 ::genre::
 
-## Benny the Butcher - Excelsior
+### Benny the Butcher - Excelsior
 
 tbd
 
 ::genre::
 
-## Black Honey Cult - Black Honey Cult *
+### Black Honey Cult - Black Honey Cult *
 
 Das Quintett aus LA mit ihrem neuesten Werk. Eine psychedelische Tour zwischen Krautrock und Post-Punk. Genial. Ich mag es.
 
 ::genre::krautrock, post punk, psych rock
 
-## Bleak Magician - No Fireball Show
+### Bleak Magician - No Fireball Show
 
 Die Australier mit ihrem Erstling. Melodischer 90s Brit-Indie-Rock, mit einen punk-y Vocalist, welcher mit an alte Arctic Monkeys erinnert. Musik, mit welcher ich auch groß geworden bin. I like it.
 
 ::genre::indie rock, garage rock
 
-## Bleed - Bleed *
+### Bleed - Bleed *
 
 Erstling der Taxaner. Vom Songwriting und der Produktion klar den early 2000 Nu-Metal zugeneigt. Deftones und Co. hätten es nicht besser machen können. Da ich dem Nu-Metal nicht abgeneigt bin, kann ich mit diesem Release wirklich etwas anfangen.
 
 ::genre::nu metal
 
-## Blondshell - If You Asked for a Picture
+### Blondshell - If You Asked for a Picture
 
 tbd
 
 ::genre::
 
-## Boldy James - Conversational Pieces
+### Boldy James - Conversational Pieces
 
 tbd
 
 ::genre::
 
-## BOT41 - The future is ours
+### BOT41 - The future is ours
 
 tbd
 
 ::genre::
 
-## Briston Maroney - JIMMY
+### Briston Maroney - JIMMY
 
 tbd
 
 ::genre::
 
-## Burndy - Burndy
+### Burndy - Burndy
 
 tbd
 
 ::genre::
 
-## Car Seat Headrest - The Scholars
+### Car Seat Headrest - The Scholars
 
 tbd
 
 ::genre::
 
-## Carriers - Every Time I Feel Afraid
+### Carriers - Every Time I Feel Afraid
 
 tbd
 
 ::genre::
 
-## Catalyst Symphony - The Light Inside
+### Catalyst Symphony - The Light Inside
 
 tbd
 
 ::genre::
 
-## Chris Montez - Nothin' Better To Do
+### Chris Montez - Nothin' Better To Do
 
 tbd
 
 ::genre::
 
-## Clem Snide - Oh Smokey
+### Clem Snide - Oh Smokey
 
 tbd
 
 ::genre::
 
-## Club Night - Joy Coming Down
+### Club Night - Joy Coming Down
 
 tbd
 
 ::genre::
 
-## Colony - Those Of The Morbid
+### Colony - Those Of The Morbid
 
 tbd
 
 ::genre::
 
-## Conflict - This Much Remains
+### Conflict - This Much Remains
 
 Die Londoner Anarcho-Punker werden auch nach fast 45 Jahren nicht ruhiger. Der neue Output bietet wieder alles, was Conflict in der Vergangenheit schon ausgemacht hat. Wütender Sänger, wütende Sängerin und ein Mix aus Punk und Hardcore in einer NY HC Produktion. Mit dieser Unruh kann ich gerade etwas anfangen, aber ich war dem Punk auch nie abgeneigt.
 
 ::genre::punk rock, hardcore punk
 
-## Crematory - Destination
+### Crematory - Destination
 
 Die deutschen “Pioniere” des Goth-Metal mit einem neuen Werk. Ich finde es jetzt wenig Aufregend, aber ich meine, dass “Aufregung” nie wirklich eine Stärke von Crematory war. Der Gesang ist wirklich schrecklich, die Produktion ist super, das Songwriting boring.
 
 ::genre::gothic metal
 
-## DDG - Blame the Chat
+### DDG - Blame the Chat
 
 tbd
 
 ::genre::
 
-## Die Fantastischen Vier - Long Player On Tour
+### Die Fantastischen Vier - Long Player On Tour
 
 tbd
 
 ::genre::
 
-## DISSONANT TONGUE - WHITE NOISE
+### DISSONANT TONGUE - WHITE NOISE
 
 tbd
 
 ::genre::
 
-## Dope Lemon - Golden Wolf
+### Dope Lemon - Golden Wolf
 
 tbd
 
 ::genre::
 
-## Duane Eddy - Don't Take My Sunshine
+### Duane Eddy - Don't Take My Sunshine
 
 tbd
 
 ::genre::
 
-## Dukkha - Remanence
+### Dukkha - Remanence
 
 tbd
 
 ::genre::
 
-## Dvne - Live at the Biscuit Factory
+### Dvne - Live at the Biscuit Factory
 
 tbd
 
 ::genre::
 
-## Eli Keszler - Eli Keszler
+### Eli Keszler - Eli Keszler
 
 Der New Yorker Percussionist und Komponist mit seinem neuesten Werk. Elemente von elektronischen Klängen, Percussions und ein Hauch von Jazz-Atmosphäre erzeugen ein spannendes Klangerlebnis. Mich hat es irgendwie verzaubert.
 
 ::genre::modern jazz, electronica
 
-## Eli Winter - A Trick of the Light
+### Eli Winter - A Trick of the Light
 
 tbd
 
 ::genre::
 
-## elijah jamal asani - ... as long as i long to memorise your sky ...
+### elijah jamal asani - ... as long as i long to memorise your sky ...
 
 tbd
 
 ::genre::
 
-## Eliza Waters - It's Okay to Be Weird
+### Eliza Waters - It's Okay to Be Weird
 
 tbd
 
 ::genre::
 
-## Embers UK - Devour
+### Embers UK - Devour
 
 tbd
 
 ::genre::
 
-## Enji - Sonor
+### Enji - Sonor
 
 tbd
 
 ::genre::
 
-## Entropia - Tales from the New Age
+### Entropia - Tales from the New Age
 
 Das römische Electronica Duo mit ihrem aktuellen Werk. Experimentelle elektronische Klänge vereinen sich mit Ambient und Drone. Spannendes Werk.
 
 ::genre::ambient, drone
 
-## Eric Church - Evangeline vs. The Machine
+### Eric Church - Evangeline vs. The Machine
 
 tbd
 
 ::genre::
 
-## Esther Rose - Want
+### Esther Rose - Want
 
 tbd
 
 ::genre::
 
-## fallfiftyfeet - Counterfeit Recollections
+### fallfiftyfeet - Counterfeit Recollections
 
 Die amerikanische Metalcorer mit ihrem neuesten Output. Klassischer Metalcore, mit ein paar progressiven und post-hardcorigen Ausflügen. Ich bin nicht ganz abgeneigt.
 
 ::genre::metalcore, post hardcore
 
-## Falling From Grace - At The Edge
+### Falling From Grace - At The Edge
 
 tbd
 
 ::genre::
 
-## Fanu - Ether
+### Fanu - Ether
 
 Der finnische “Breakbeat Master” mit seinem neuesten Werk. Ambient-reicher Breakbeat, welcher auch gern mal in den Drum & Bass abbiegt.
 
 ::genre::dark ambient, d&b
 
-## Far Cry - The Living Room Archive
+### Far Cry - The Living Room Archive
 
 tbd
 
 ::genre::
 
-## Fatoni - Bawrs
+### Fatoni - Bawrs
 
 tbd
 
 ::genre::
 
-## Firmament - A New World If You Can Take It
+### Firmament - A New World If You Can Take It
 
 tbd
 
 ::genre::
 
-## FloodGate - Horizons
+### FloodGate - Horizons
 
 tbd
 
 ::genre::
 
-## FlumeandJPEGMafia - We Live in a Society
+### FlumeandJPEGMafia - We Live in a Society
 
 tbd
 
 ::genre::
 
-## Fuerza Regida - 111xpantia
+### Fuerza Regida - 111xpantia
 
 tbd
 
 ::genre::
 
-## Galleiria - Interiors
+### Galleiria - Interiors
 
 tbd
 
 ::genre::
 
-## GBMystical - Wannabe
+### GBMystical - Wannabe
 
 tbd
 
 ::genre::
 
-## Ghost In Stereo - Artifacts
+### Ghost In Stereo - Artifacts
 
 tbd
 
 ::genre::
 
-## Giorgio Poi - Schegge
+### Giorgio Poi - Schegge
 
 Der Italiener mit seinem aktuellen musikalischen Output. Den 60er/70er nicht abgeneigter Alt-Pop. Ich habe gar ein Theremin in ein paar Kompositionen vernommen.
 
 ::genre::alt pop, prog pop
 
-## Great Wide Nothing - A Shout Into the Void
+### Great Wide Nothing - A Shout Into the Void
 
 tbd
 
 ::genre::
 
-## Greg Maroney - Fairy Tales and Other Dreams
+### Greg Maroney - Fairy Tales and Other Dreams
 
 tbd
 
 ::genre::
 
-## Gringo Star - Sweethearts
+### Gringo Star - Sweethearts
 
 tbd
 
 ::genre::
 
-## Gypsy Pistoleros - Church of the Pistoleros
+### Gypsy Pistoleros - Church of the Pistoleros
 
 Die britischen Glam Punker mit ihrem aktuellen Album. Sleazy im Goth-Outfit arrangierter Glam Punk, mit catchy Refrains und lazy Songwriting.
 
 ::genre::glam punk, sleaze, proto pop punk
 
-## Hangfire - Burn
+### Hangfire - Burn
 
 tbd
 
 ::genre::
 
-## HARDY - COUNTRY!
+### HARDY - COUNTRY!
 
 tbd
 
 ::genre::
 
-## Hate - Bellum Regiis
+### Hate - Bellum Regiis
 
 Die polnische Death Metal Kapelle mit ihrem neuesten Output. Atmospheric Death Metal, mit einem Hauch Black-Metallischer Vibes im Songwriting.
 
 ::genre::death metal, atmo death metal
 
-## Herta - Crossing The Illusion
+### Herta - Crossing The Illusion
 
 tbd
 
 ::genre::
 
-## Hidden Citizens - Day Will Break
+### Hidden Citizens - Day Will Break
 
 tbd
 
 ::genre::
 
-## I-dle - We Are I-dle
+### I-dle - We Are I-dle
 
 tbd
 
 ::genre::
 
-## Identify The Body - FALSE PROPHETS
+### Identify The Body - FALSE PROPHETS
 
 tbd
 
 ::genre::
 
-## In Gloom - In Gloom II: True Violence and All the Terror That Comes With It
+### In Gloom - In Gloom II: True Violence and All the Terror That Comes With It
 
 tbd
 
 ::genre::
 
-## Isaiah Falls - LVRS Paradise
+### Isaiah Falls - LVRS Paradise
 
 tbd
 
 ::genre::
 
-## Jacques Schwarz-Bart, Grégory Privat - 22
+### Jacques Schwarz-Bart, Grégory Privat - 22
 
 tbd
 
 ::genre::
 
-## James Krivchenia - Performing Belief
+### James Krivchenia - Performing Belief
 
 tbd
 
 ::genre::
 
-## Jenny Hval - I Want To Be A Machine
+### Jenny Hval - I Want To Be A Machine
 
 tbd
 
 ::genre::
 
-## Jenny Hval - Iris Silver Mist
+### Jenny Hval - Iris Silver Mist
 
 Die norwegische Künstlerin mit ihrem neuesten Album. Elemente von Alt-Pop, Synth-Pop, Spoken Words und 80s Pop werden hier in Form gegossen und auf die Hörer gelassen.
 
 ::genre::alt pop, synth pop, prog pop, spoken words
 
-## Jo Hill - girlhood. (u got this babe)
+### Jo Hill - girlhood. (u got this babe)
 
 tbd
 
 ::genre::
 
-## Jordi Savall - Forgotten Symphonies
+### Jordi Savall - Forgotten Symphonies
 
 tbd
 
 ::genre::
 
-## Josh Groban - Gems
+### Josh Groban - Gems
 
 tbd
 
 ::genre::
 
-## Kalaveraztekah - Nikan Axkan
+### Kalaveraztekah - Nikan Axkan
 
 tbd
 
 ::genre::
 
-## Kassi Valazza - From Newman Street
+### Kassi Valazza - From Newman Street
 
 tbd
 
 ::genre::
 
-## Kenneth Dahl Knudsen - ATLAS II
+### Kenneth Dahl Knudsen - ATLAS II
 
 tbd
 
 ::genre::
 
-## Key Glock - Glockaveli
+### Key Glock - Glockaveli
 
 tbd
 
 ::genre::
 
-## Kurt Rosenwinkel, Jean-Paul Brodbeck - The Brahms Project
+### Kurt Rosenwinkel, Jean-Paul Brodbeck - The Brahms Project
 
 tbd
 
 ::genre::
 
-## L E M F R E C K - We’ve Been Here
+### L E M F R E C K - We’ve Been Here
 
 tbd
 
 ::genre::
 
-## Labyrinthus Stellarum - Rift in Reality *
+### Labyrinthus Stellarum - Rift in Reality *
 
 Die Ukrainer mit ihrem neuesten Streich. Atmospheric Post-Black-Metal, welcher sich am Science Fiction Thema kunst- und kraftvoll austobt. Ich mag deren Releases bisher und auch dieses enttäuscht nicht bei mir.
 
 ::genre::post black metal, atmo black metal
 
-## Lael Neale - Altogether Stranger
+### Lael Neale - Altogether Stranger
 
 Die Kalifornierin beeindruckt mit einem neuen “Longplayer”. Sie selbst hat ihre Kreation mal Drone Pop getauft. Man läuft allerdings auch nicht verkehrt, wenn man ihre Kompositionen dem Krautrock zuweist. Ich mag den kurzweiligen Output irgendwie.
 
 ::genre::drone pop, krautrock
 
-## Leif Berger - S̶e̶c̶r̶e̶t̶, Normalization
+### Leif Berger - S̶e̶c̶r̶e̶t̶, Normalization
 
 tbd
 
 ::genre::
 
-## Leper Colony - Those Of The Morbid
+### Leper Colony - Those Of The Morbid
 
 tbd
 
 ::genre::
 
-## Lights - A6
+### Lights - A6
 
 tbd
 
 ::genre::
 
-## Link Wray - The Only Card I Need
+### Link Wray - The Only Card I Need
 
 tbd
 
 ::genre::
 
-## Loscil - Lake Fire
+### Loscil - Lake Fire
 
 Der Kanadier Loscil aka Scott Morgan wartet hier auf sein neuesten Machwerk. Ambient Electronica, welche trotz ihrer Ruhe eine abwechslungsreiche Komposition aufweist. I like.
 
 ::genre::ambient, electronica
 
-## Love Unfold The Sun - Explode Yourself
+### Love Unfold The Sun - Explode Yourself
 
 tbd
 
 ::genre::
 
-## Lucius - Lucius
+### Lucius - Lucius
 
 tbd
 
 ::genre::
 
-## lullahush - Ithaca
+### lullahush - Ithaca
 
 tbd
 
 ::genre::
 
-## Lux Interna - New Wilderness Gospel
+### Lux Interna - New Wilderness Gospel
 
 tbd
 
 ::genre::
 
-## Låpsley - I'M A HURRICANE I'M A WOMAN IN LOVE
+### Låpsley - I'M A HURRICANE I'M A WOMAN IN LOVE
 
 tbd
 
 ::genre::
 
-## Maddie & Tae - Love & Light
+### Maddie & Tae - Love & Light
 
 tbd
 
 ::genre::
 
-## Maestrick - Espresso Della Vita: Lunare
+### Maestrick - Espresso Della Vita: Lunare
 
 Die brasilianischen Progressive Metaller mit ihrem neuesten Streich. Was für ein starkes Werk. Erstklassiges Songwriting, starke Produktion und erstklassige Instrumentalisierung. Mich hat es gefesselt.
 
 ::genre::prog metal
 
-## Malice - Heaven Echoes
+### Malice - Heaven Echoes
 
 tbd
 
 ::genre::
 
-## Matraque - Nature Morte
+### Matraque - Nature Morte
 
 tbd
 
 ::genre::
 
-## Mauthausen - At And Of The Sum, Leprosarium
+### Mauthausen - At And Of The Sum, Leprosarium
 
 tbd
 
 ::genre::
 
-## Max Walker - Chronostasis
+### Max Walker - Chronostasis
 
 tbd
 
 ::genre::
 
-## MEDIA - Media
+### MEDIA - Media
 
 tbd
 
 ::genre::
 
-## Mei Semones - Animaru
+### Mei Semones - Animaru
 
 tbd
 
 ::genre::
 
-## Mel Tormé - Mountain Greenery
+### Mel Tormé - Mountain Greenery
 
 tbd
 
 ::genre::
 
-## Melting - You Exist Because We Allow It
+### Melting - You Exist Because We Allow It
 
 tbd
 
 ::genre::
 
-## Misfire - Product Of The Enviroment
+### Misfire - Product Of The Enviroment
 
 tbd
 
 ::genre::
 
-## Model/Actriz - Pirouette
+### Model/Actriz - Pirouette
 
 tbd
 
 ::genre::
 
-## MOON HALO - Trichotomy
+### MOON HALO - Trichotomy
 
 tbd
 
 ::genre::
 
-## Moonsoon - East Of Asteroid
+### Moonsoon - East Of Asteroid
 
 tbd
 
 ::genre::
 
-## Müntrails - The Cenobite Tapes
+### Müntrails - The Cenobite Tapes
 
 tbd
 
 ::genre::
 
-## Namebearer - Industries Of The Fading Sun
+### Namebearer - Industries Of The Fading Sun
 
 tbd
 
 ::genre::
 
-## Nemesis Sopor - Furt
+### Nemesis Sopor - Furt
 
 tbd
 
 ::genre::
 
-## Nightfall - Children of Eve
+### Nightfall - Children of Eve
 
 Die griechischen Blackened Death Metaller mit ihrem neuesten Werk. Haben bei mir bisher nicht gezündet und auch dieses Werk nicht, trotz gutem Songwriting und guter Produktion.
 
 ::genre::blackened death metal
 
-## Nolan Potter - Nightmare Egg
+### Nolan Potter - Nightmare Egg
 
 tbd
 
 ::genre::
 
-## Offthesky - form.radio
+### Offthesky - form.radio
 
 tbd
 
 ::genre::
 
-## Ofri Nehemya - Time Traveler
+### Ofri Nehemya - Time Traveler
 
 tbd
 
 ::genre::
 
-## Okami CA - Vol.3: The Nihilist Chronicles
+### Okami CA - Vol.3: The Nihilist Chronicles
 
 tbd
 
 ::genre::
 
-## OMB Peezy & FBLManny - OverKrash
+### OMB Peezy & FBLManny - OverKrash
 
 tbd
 
 ::genre::
 
-## Otomo Yoshihide - Weird Morning Meeting
+### Otomo Yoshihide - Weird Morning Meeting
 
 tbd
 
 ::genre::
 
-## Palantyr - The Ascent & The Hunger
+### Palantyr - The Ascent & The Hunger
 
 tbd
 
 ::genre::
 
-## Paradigm Blue - Frontiers
+### Paradigm Blue - Frontiers
 
 tbd
 
 ::genre::
 
-## Paradise Slaves - With Hell In His Eye
+### Paradise Slaves - With Hell In His Eye
 
 tbd
 
 ::genre::
 
-## Personality Cult - Dilated
+### Personality Cult - Dilated
 
 tbd
 
 ::genre::
 
-## Pet Symmetry - Big Symmetry
+### Pet Symmetry - Big Symmetry
 
 tbd
 
 ::genre::
 
-## Peter, Paul and Mary - Where Have You Gone?
+### Peter, Paul and Mary - Where Have You Gone?
 
 tbd
 
 ::genre::
 
-## Philippe Mouratoglou, Bruno Chevillon, Ramon Lopez - Nautiles
+### Philippe Mouratoglou, Bruno Chevillon, Ramon Lopez - Nautiles
 
 Die Kollaboration zwischen Mouratoglou (Acoustic Guitars), Chevillon (Bass) und Lopes (Drumes) ist eine wunderbare Tour de Jazz. Zu akustischen Gitarren Kompositionen wird ein Jazz-Kleid improvisiert, welches keinen Takt allein lässt.
 
 ::genre::contemporary jazz, improvisation
 
-## phoneswithchords - piecemeal
+### phoneswithchords - piecemeal
 
 tbd
 
 ::genre::
 
-## Press Club - To all the Ones that I Love
+### Press Club - To all the Ones that I Love
 
 Die Australier mit ihrem neuesten Werk. Treibender Brit-Indie-Rock, welcher meine müden Knochen in Bewegung gebracht hat. Ich kann damit etwas anfangen. I like.
 
 ::genre::indie rock
 
-## Propagandhi - At Peace
+### Propagandhi - At Peace
 
 Die kanadischen Pop-/Skate-Punker mit einem neuen Output. Ob das wirklich nötig war, mag ich bezweifeln. Ich konnte allerdings mit Propagandhi noch nie etwas anfangen. Musikalisch wollten die Kanadier immer irgendwie etwas “Anderes” in den Skate-Punk bringen, ob sie es geschafft haben, liegt vermutlich im Auge des Betrachters oder Fans.
 
 ::genre::pop punk, skatepunk
 
-## Puddle Of Mudd - Kiss The Machine
+### Puddle Of Mudd - Kiss The Machine
 
 Die (Post-)Grunger aus Kansas City mit einem neuen Werk. Ja, habe es gehört und muss es auch nicht nochmal hören.
 
 ::genre::post grunge
 
-## PUNCHBAG - I’m Not Your Punchbag
+### PUNCHBAG - I’m Not Your Punchbag
 
 tbd
 
 ::genre::
 
-## PUP - Who Will Look After The Dogs?
+### PUP - Who Will Look After The Dogs?
 
 tbd
 
 ::genre::
 
-## Pyramids - Pythagoras
+### Pyramids - Pythagoras
 
 tbd
 
 ::genre::
 
-## RATS - Rule the World
+### RATS - Rule the World
 
 Die Liverpooler mit ihrem neuesten Werk. Brit-Indie-Rock, welcher auch gern in den Alt-Punk ala The Clash abbiegt. Vom Songwriting her ein beeindruckendes Werk.
 
 ::genre::indie rock, alt rock, punk rock
 
-## RawMoor - En Route
+### RawMoor - En Route
 
 tbd
 
 ::genre::
 
-## Recall the Remains - Revenant
+### Recall the Remains - Revenant
 
 tbd
 
 ::genre::
 
-## Robert John Hope - It Sparks
+### Robert John Hope - It Sparks
 
 tbd
 
 ::genre::
 
-## Robin Spielberg - All the Best Returns
+### Robin Spielberg - All the Best Returns
 
 tbd
 
 ::genre::
 
-## Roland Bühlmann - GAPVIS
+### Roland Bühlmann - GAPVIS
 
 tbd
 
 ::genre::
 
-## Sally Potter - ANATOMY
+### Sally Potter - ANATOMY
 
 tbd
 
 ::genre::
 
-## Samantha Crain - Gumshoe
+### Samantha Crain - Gumshoe
 
 tbd
 
 ::genre::
 
-## Sandfinger - Minus Illusion
+### Sandfinger - Minus Illusion
 
 tbd
 
 ::genre::
 
-## Scott Hepple And The Sun Band - English Mustard
+### Scott Hepple And The Sun Band - English Mustard
 
 tbd
 
 ::genre::
 
-## Selena Gomez, benny blanco - I Said I Love You First... And You Said It Back
+### Selena Gomez, benny blanco - I Said I Love You First... And You Said It Back
 
 tbd
 
 ::genre::
 
-## Sextile - yes, please.
+### Sextile - yes, please.
 
 tbd
 
 ::genre::
 
-## SHARP - Hyperborean Tales
+### SHARP - Hyperborean Tales
 
 tbd
 
 ::genre::
 
-## Slung - In Ways
+### Slung - In Ways
 
 tbd
 
 ::genre::
 
-## Soft Ffog - Focus
+### Soft Ffog - Focus
 
 tbd
 
 ::genre::
 
-## Soli2ude - broken dreams
+### Soli2ude - broken dreams
 
 tbd
 
 ::genre::
 
-## Spiritczualic Enhancement Center - The Deep Sleep of Evil Men
+### Spiritczualic Enhancement Center - The Deep Sleep of Evil Men
 
 tbd
 
 ::genre::
 
-## Staraya Derevnya - Garden Window Escape
+### Staraya Derevnya - Garden Window Escape
 
 tbd
 
 ::genre::
 
-## Stepping Sideways - Rebirth
+### Stepping Sideways - Rebirth
 
 tbd
 
 ::genre::
 
-## Sterling Bidler - Soul Smashed, World Freak
+### Sterling Bidler - Soul Smashed, World Freak
 
 tbd
 
 ::genre::
 
-## Super MadNES - Defenders of the City
+### Super MadNES - Defenders of the City
 
 tbd
 
 ::genre::
 
-## Surgeon - Shell~Wave
+### Surgeon - Shell~Wave
 
 tbd
 
 ::genre::
 
-## Suzanne Vega - Flying With Angels
+### Suzanne Vega - Flying With Angels
 
 tbd
 
 ::genre::
 
-## Suzzallo - The Quiet Year
+### Suzzallo - The Quiet Year
 
 tbd
 
 ::genre::
 
-## Sweet Sadness - To Love and Not to Conquer
+### Sweet Sadness - To Love and Not to Conquer
 
 tbd
 
 ::genre::
 
-## Søndag Søndag - Flux Nebula
+### Søndag Søndag - Flux Nebula
 
 Das Duo, bestehend aus Jesper Mechlenburg und Katrine Grarup Elbo, mit ihrem neuesten Werk der Neo-Klassik. I like.
 
 ::genre::neo classic
 
-## Tatsuya Yoshida & Risa Takeda - Arithmetic Overflow
+### Tatsuya Yoshida & Risa Takeda - Arithmetic Overflow
 
 tbd
 
 ::genre::
 
-## Teether and Kuya Neil - YEARN IV
+### Teether and Kuya Neil - YEARN IV
 
 tbd
 
 ::genre::
 
-## The Chordettes - Bring Me A Dream
+### The Chordettes - Bring Me A Dream
 
 tbd
 
 ::genre::
 
-## The Crystal Teardrop - ...Is Forming
+### The Crystal Teardrop - ...Is Forming
 
 tbd
 
 ::genre::
 
-## The Farm - Let The Music (Take Control)
+### The Farm - Let The Music (Take Control)
 
 tbd
 
 ::genre::
 
-## The Flamingos - Can't Say Goodbye
+### The Flamingos - Can't Say Goodbye
 
 tbd
 
 ::genre::
 
-## The Fleetwoods - Keep It Confidential
+### The Fleetwoods - Keep It Confidential
 
 tbd
 
 ::genre::
 
-## The Flower Kings - Love
+### The Flower Kings - Love
 
 Die schwedischen Prog-Rock-Legenden mit ihrem neuesten Streich. Klassische Prog-Kompositionen, die einladend präsentiert werden.
 
 ::genre::prog rock
 
-## The Hare and Hoofe - Compasse
+### The Hare and Hoofe - Compasse
 
 tbd
 
 ::genre::
 
-## The Penguins - Can't Cry Anymore
+### The Penguins - Can't Cry Anymore
 
 tbd
 
 ::genre::
 
-## The Pharcyde - Timeless
+### The Pharcyde - Timeless
 
 tbd
 
 ::genre::
 
-## THE ROOP - Momentum
+### THE ROOP - Momentum
 
 tbd
 
 ::genre::
 
-## The Supernaturals - Show Tunes
+### The Supernaturals - Show Tunes
 
 Die schottischen Indie-/Surf-Rocker mit ihrem neuesten Werk. I like this stuff.
 
 ::genre::indie rock, surf rock
 
-## Troupe Asnimer - Troupe Asnimer & JH Burch
+### Troupe Asnimer - Troupe Asnimer & JH Burch
 
 tbd
 
 ::genre::
 
-## Tumble - Lost In Light
+### Tumble - Lost In Light
 
 tbd
 
 ::genre::
 
-## Ubermodo - Astral Trip Advisor
+### Ubermodo - Astral Trip Advisor
 
 tbd
 
 ::genre::
 
-## Under Ruins - Age Of The Void
+### Under Ruins - Age Of The Void
 
 tbd
 
 ::genre::
 
-## Uxia - Uxia
+### Uxia - Uxia
 
 tbd
 
 ::genre::
 
-## Vespero - Lost Stories Of Kilgore Trout
+### Vespero - Lost Stories Of Kilgore Trout
 
 tbd
 
 ::genre::
 
-## Vide - Decorated In Spiderweb
+### Vide - Decorated In Spiderweb
 
 tbd
 
 ::genre::
 
-## Violets - Violets
+### Violets - Violets
 
 tbd
 
 ::genre::
 
-## Void - i'll go
+### Void - i'll go
 
 tbd
 
 ::genre::
 
-## Wilder. - Better Days
+### Wilder. - Better Days
 
 tbd
 
 ::genre::
 
-## Wishender - Destined Death
+### Wishender - Destined Death
 
 tbd
 
 ::genre::
 
-## Wretch 32 - Home?
+### Wretch 32 - Home?
 
 tbd
 
 ::genre::
 
-## Xiao - Control
+### Xiao - Control
 
 tbd
 
 ::genre::
 
-## Your Spirit Dies - My gnawing pains will never Rest
+### Your Spirit Dies - My gnawing pains will never Rest
 
 Die amerikanischen Metalcorer mit ihrem aktuellsten Werk. Metalcore, mit kleinen progressiven Experimenten und Melo-Death Einlagen. Guter Output für das Genre.
 
 ::genre::melo death metal
 
-## Yuka & Chronoship - Ribbon Butterfly
+### Yuka & Chronoship - Ribbon Butterfly
 
 tbd
 
 ::genre::
 
-## Yung Lean - Jonatan
+### Yung Lean - Jonatan
 
 tbd
 
 ::genre::
 
-## Береста - Свято место
+### Береста - Свято место
 
 tbd
 
 ::genre::
 
-## Циферблат - Of Us
+### Циферблат - Of Us
 
 tbd
 
@@ -1244,271 +1244,271 @@ tbd
 
 ## Earlier the week ...
 
-## Andrei Martinez Agras - Beyond Collabs
+### Andrei Martinez Agras - Beyond Collabs
 
 tbd
 
 ::genre::
 
-## Anghsst - Cemetery Anthems
+### Anghsst - Cemetery Anthems
 
 tbd
 
 ::genre::
 
-## Blank Hellscape - Hell 2
+### Blank Hellscape - Hell 2
 
 tbd
 
 ::genre::
 
-## Bride - Vipers and Shadows
+### Bride - Vipers and Shadows
 
 tbd
 
 ::genre::
 
-## Celeste - Anima Animus
+### Celeste - Anima Animus
 
 tbd
 
 ::genre::
 
-## Cen-ProjekT - Carnival of Lost Souls
+### Cen-ProjekT - Carnival of Lost Souls
 
 tbd
 
 ::genre::
 
-## Chnnll - Miles Away
+### Chnnll - Miles Away
 
 tbd
 
 ::genre::
 
-## Chris Brokaw - Ghost Ship
+### Chris Brokaw - Ghost Ship
 
 tbd
 
 ::genre::
 
-## City of Dis - Teleologic
+### City of Dis - Teleologic
 
 tbd
 
 ::genre::
 
-## City of the Lost - Luminar
+### City of the Lost - Luminar
 
 tbd
 
 ::genre::
 
-## Colotyphus - The End Of Journey
+### Colotyphus - The End Of Journey
 
 tbd
 
 ::genre::
 
-## DaBaby - Please Say DaBaby, Vol. 1
+### DaBaby - Please Say DaBaby, Vol. 1
 
 tbd
 
 ::genre::
 
-## DOUG the Eagle - More Songs About Dragons
+### DOUG the Eagle - More Songs About Dragons
 
 tbd
 
 ::genre::
 
-## Euphoria Station - Smoking Gun
+### Euphoria Station - Smoking Gun
 
 tbd
 
 ::genre::
 
-## Fernando Perdomo - Waves 5
+### Fernando Perdomo - Waves 5
 
 tbd
 
 ::genre::
 
-## Halter And Skeie - More Than I Believe
+### Halter And Skeie - More Than I Believe
 
 tbd
 
 ::genre::
 
-## Hinoku, nu.un, Between the Stars - She will never know this is about her
+### Hinoku, nu.un, Between the Stars - She will never know this is about her
 
 tbd
 
 ::genre::
 
-## Hudson Powder Company - Crest of Orange
+### Hudson Powder Company - Crest of Orange
 
 tbd
 
 ::genre::
 
-## John Surman, Karin Krog - Electric Element
+### John Surman, Karin Krog - Electric Element
 
 tbd
 
 ::genre::
 
-## Jolie Laide - Creatures
+### Jolie Laide - Creatures
 
 tbd
 
 ::genre::
 
-## Joshua Bonnetta - The Pines
+### Joshua Bonnetta - The Pines
 
 tbd
 
 ::genre::
 
-## Lacrimorta - One Flesh, One End
+### Lacrimorta - One Flesh, One End
 
 tbd
 
 ::genre::
 
-## Lali - No Vayas a Atender Cuando el Demonio Llama
+### Lali - No Vayas a Atender Cuando el Demonio Llama
 
 tbd
 
 ::genre::
 
-## Lightless - A foreseen loss
+### Lightless - A foreseen loss
 
 tbd
 
 ::genre::
 
-## Matraque - Nature Morte
+### Matraque - Nature Morte
 
 tbd
 
 ::genre::
 
-## Michael Woodman - Hiss of Today
+### Michael Woodman - Hiss of Today
 
 tbd
 
 ::genre::
 
-## Noah - Remain
+### Noah - Remain
 
 tbd
 
 ::genre::
 
-## Noibla - Under No Illusions
+### Noibla - Under No Illusions
 
 tbd
 
 ::genre::
 
-## O'Man - Katoaminen
+### O'Man - Katoaminen
 
 tbd
 
 ::genre::
 
-## Onyx, L'uzine - Battle Royale
+### Onyx, L'uzine - Battle Royale
 
 tbd
 
 ::genre::
 
-## Phunki Drengka - Sea of Silent Stories
+### Phunki Drengka - Sea of Silent Stories
 
 tbd
 
 ::genre::
 
-## Poly Chain - Nemesis
+### Poly Chain - Nemesis
 
 tbd
 
 ::genre::
 
-## Prieuré - Jusqu'au bénitier
+### Prieuré - Jusqu'au bénitier
 
 tbd
 
 ::genre::
 
-## Quantum Silence - Timelines
+### Quantum Silence - Timelines
 
 tbd
 
 ::genre::
 
-## Sakurazaka46 - Addiction
+### Sakurazaka46 - Addiction
 
 tbd
 
 ::genre::
 
-## Signal Bleach - Worthless Milk
+### Signal Bleach - Worthless Milk
 
 tbd
 
 ::genre::
 
-## Sinemis - Farewell
+### Sinemis - Farewell
 
 tbd
 
 ::genre::
 
-## Snoop Dogg - Altar Call
+### Snoop Dogg - Altar Call
 
 tbd
 
 ::genre::
 
-## Solar Tide - Somewhere Far From Here
+### Solar Tide - Somewhere Far From Here
 
 tbd
 
 ::genre::
 
-## Souls Ignite - Fight the Digital God
+### Souls Ignite - Fight the Digital God
 
 tbd
 
 ::genre::
 
-## Spiritwood - The Apparition Of Horns
+### Spiritwood - The Apparition Of Horns
 
 tbd
 
 ::genre::
 
-## Spirologic - 種子
+### Spirologic - 種子
 
 tbd
 
 ::genre::
 
-## Staraya derevnya - Garden window escape
+### Staraya derevnya - Garden window escape
 
 tbd
 
 ::genre::
 
-## The Fleetwoods - Earth Angel
+### The Fleetwoods - Earth Angel
 
 tbd
 
 ::genre::
 
-## Wondelone - Treadle & Loom
+### Wondelone - Treadle & Loom
 
 tbd
 

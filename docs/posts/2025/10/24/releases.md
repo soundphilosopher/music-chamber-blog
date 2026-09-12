@@ -8,19 +8,19 @@ categories:
 
 ## Friday
 
-## A Year Ago Today - My Dear, Farewell
+### A Year Ago Today - My Dear, Farewell
 
 tbd
 
 ::genre::
 
-## Action/Adventure - Ever After
+### Action/Adventure - Ever After
 
 tbd
 
 ::genre::
 
-## Adept - Blood Covenant
+### Adept - Blood Covenant
 
 tbd
 
@@ -28,1519 +28,1519 @@ tbd
 
 <!-- more -->
 
-## Aduanten - Apocryphal Verse
+### Aduanten - Apocryphal Verse
 
 tbd
 
 ::genre::
 
-## Alex Kozobolis - Asymmetry
+### Alex Kozobolis - Asymmetry
 
 Der UK-Based Composer und Pianist mit seinem neuesten Kompositionen. Ein Klangwerk des Classical-Ambient und Drone, welches in “88 Keys” geschrieben wurde.
 
 ::genre::ambient, cine ambient, drone
 
-## Alexander Stewart - What If?
+### Alexander Stewart - What If?
 
 tbd
 
 ::genre::
 
-## Alice Phoebe Lou - Oblivion
+### Alice Phoebe Lou - Oblivion
 
 Die südafrikanische Singer & Songwriterin und Multi-Instrumentalistin mit einem neuen Output. Ein bewegender Mix aus Alt-Indie und Alt-Folk mit ein paar Elementen des Electronica.
 
 ::genre::alt indie, alt folk, electronica
 
-## Alta Forma - Trajectory
+### Alta Forma - Trajectory
 
 tbd
 
 ::genre::
 
-## Amadou & Mariam - L'amour à La Folie
+### Amadou & Mariam - L'amour à La Folie
 
 tbd
 
 ::genre::
 
-## Angel CCAA - Angel CCAA
+### Angel CCAA - Angel CCAA
 
 tbd
 
 ::genre::
 
-## Antibalas - Hourglass *
+### Antibalas - Hourglass *
 
 Das 12-köpfige Ensemble aus New York mit neuen Tunes. Word-Fusion trifft auf Afrobeat und wird mit einer intelligenten Produktion verfeinert.
 
 ::genre::world music, jazz fusion, afrobeat
 
-## Anvilchandelier - Anvilchandelier
+### Anvilchandelier - Anvilchandelier
 
 tbd
 
 ::genre::
 
-## Arcane Tales - Ancestral War
+### Arcane Tales - Ancestral War
 
 tbd
 
 ::genre::
 
-## Ars Onirica - 2.5 Nighttime
+### Ars Onirica - 2.5 Nighttime
 
 tbd
 
 ::genre::
 
-## Arsenic Kitchen - Handbook For The Recently Deceased
+### Arsenic Kitchen - Handbook For The Recently Deceased
 
 tbd
 
 ::genre::
 
-## Artemas - Lovercore
-
-TBD
-
-::genre::
-
-## Aurra - Like I Like it
+### Artemas - Lovercore
 
 TBD
 
 ::genre::
 
-## Ax And The Hatchetmen - So much to tell you
+### Aurra - Like I Like it
 
 TBD
 
 ::genre::
 
-## Babeheaven - Slower Than Sound
-
-tbd
-
-::genre::
-
-## Bahamas - My Second last Album
+### Ax And The Hatchetmen - So much to tell you
 
 TBD
 
 ::genre::
 
-## Barock Project - Live Voyager
+### Babeheaven - Slower Than Sound
 
 tbd
 
 ::genre::
 
-## Begonia - Fantasy Life
-
-tbd
-
-::genre::
-
-## Bergfried - Romantik III
-
-tbd
-
-::genre::
-
-## Big Wreck - The Rest Of The Story
-
-tbd
-
-::genre::
-
-## Bill Currington - King Of The World
-
-tbd
-
-::genre::
-
-## Billy Dean Thomas - MX
-
-tbd
-
-::genre::
-
-## Björg Blöndal's C4THERINE - Wild Blue Yonder
-
-tbd
-
-::genre::
-
-## Björk - Cornucopia
-
-tbd
-
-::genre::
-
-## BLACKGOLD - E.P Phone Home
-
-tbd
-
-::genre::
-
-## Blackshape - Prismer I
-
-tbd
-
-::genre::
-
-## Blaze - Out Through The Door
-
-tbd
-
-::genre::
-
-## Bnyx - Loading...
-
-tbd
-
-::genre::
-
-## Bone Church - Deliverance
-
-tbd
-
-::genre::
-
-## Bonginator - Retrodeath
-
-tbd
-
-::genre::
-
-## Brainwasher - 39 Lightyears from Heaven
-
-tbd
-
-::genre::
-
-## Brainwave - Ill Intent
-
-tbd
-
-::genre::
-
-## Brandi Carlile - Returning to Myself
-
-tbd
-
-::genre::
-
-## Breath - Brahman
-
-tbd
-
-::genre::
-
-## Buddy Ross - K We’re Here
-
-tbd
-
-::genre::
-
-## Carl Perkins - Some things never change
+### Bahamas - My Second last Album
 
 TBD
 
 ::genre::
 
-## Carrier - Rhythm Immortal
+### Barock Project - Live Voyager
+
+tbd
+
+::genre::
+
+### Begonia - Fantasy Life
+
+tbd
+
+::genre::
+
+### Bergfried - Romantik III
+
+tbd
+
+::genre::
+
+### Big Wreck - The Rest Of The Story
+
+tbd
+
+::genre::
+
+### Bill Currington - King Of The World
+
+tbd
+
+::genre::
+
+### Billy Dean Thomas - MX
+
+tbd
+
+::genre::
+
+### Björg Blöndal's C4THERINE - Wild Blue Yonder
+
+tbd
+
+::genre::
+
+### Björk - Cornucopia
+
+tbd
+
+::genre::
+
+### BLACKGOLD - E.P Phone Home
+
+tbd
+
+::genre::
+
+### Blackshape - Prismer I
+
+tbd
+
+::genre::
+
+### Blaze - Out Through The Door
+
+tbd
+
+::genre::
+
+### Bnyx - Loading...
+
+tbd
+
+::genre::
+
+### Bone Church - Deliverance
+
+tbd
+
+::genre::
+
+### Bonginator - Retrodeath
+
+tbd
+
+::genre::
+
+### Brainwasher - 39 Lightyears from Heaven
+
+tbd
+
+::genre::
+
+### Brainwave - Ill Intent
+
+tbd
+
+::genre::
+
+### Brandi Carlile - Returning to Myself
+
+tbd
+
+::genre::
+
+### Breath - Brahman
+
+tbd
+
+::genre::
+
+### Buddy Ross - K We’re Here
+
+tbd
+
+::genre::
+
+### Carl Perkins - Some things never change
 
 TBD
 
 ::genre::
 
-## Catty - Bracing for Impact
-
-tbd
-
-::genre::
-
-## Cautious Clay - The Hours: Night
-
-tbd
-
-::genre::
-
-## Cemetery Moon - Dominion Of Ashes
-
-tbd
-
-::genre::
-
-## CF98 - Stupid Punk
-
-tbd
-
-::genre::
-
-## Chino Corvalán - CHAKRA BEATS INSTRUMENTAL VOL.II
-
-tbd
-
-::genre::
-
-## Christopher Galovan - Creation
-
-tbd
-
-::genre::
-
-## Ciel - Call Me Silent
-
-tbd
-
-::genre::
-
-## Circa Waves - Death & Love
+### Carrier - Rhythm Immortal
 
 TBD
 
 ::genre::
 
-## Civil Daze - Once In A Blue Moon
+### Catty - Bracing for Impact
 
 tbd
 
 ::genre::
 
-## Coldrain - OPTIMIZE
+### Cautious Clay - The Hours: Night
 
 tbd
 
 ::genre::
 
-## Conjurer - Unself
-
-TBD
-
-::genre::
-
-## Couch - Big Talk
+### Cemetery Moon - Dominion Of Ashes
 
 tbd
 
 ::genre::
 
-## Cowboy Junkies - More Acoustic Junk
+### CF98 - Stupid Punk
 
 tbd
 
 ::genre::
 
-## Crayon - Home Safe
+### Chino Corvalán - CHAKRA BEATS INSTRUMENTAL VOL.II
 
 tbd
 
 ::genre::
 
-## Cubzoa - Unfold In the Sky
+### Christopher Galovan - Creation
 
 tbd
 
 ::genre::
 
-## CV Vision - Release the Beast
-
-TBD
-
-::genre::
-
-## Daedric - As The Light Left
+### Ciel - Call Me Silent
 
 tbd
 
 ::genre::
 
-## Daniel Caesar - Son Of Spergy
-
-tbd
-
-::genre::
-
-## Dave - The Boy Who Played the Harp
-
-tbd
-
-::genre::
-
-## David Tolk - Beautiful
+### Circa Waves - Death & Love
 
 TBD
 
 ::genre::
 
-## Dawn Fades - III
+### Civil Daze - Once In A Blue Moon
 
 tbd
 
 ::genre::
 
-## Dawnwalker - The Between
+### Coldrain - OPTIMIZE
 
 tbd
 
 ::genre::
 
-## Dayseeker - Creature in the Black Night
-
-TBD
-
-::genre::
-
-## Deep Energy Orchestra - The Science Of Sound
-
-tbd
-
-::genre::
-
-## Deez Nuts - Saudade
-
-tbd
-
-::genre::
-
-## Demi Lovato - It's Not That Deep
-
-tbd
-
-::genre::
-
-## Deteriorot - Awakening
-
-tbd
-
-::genre::
-
-## Devastrosity - Eviscerating Desolation
-
-tbd
-
-::genre::
-
-## Devil’s Breakfast - Whore Of Babylon
-
-tbd
-
-::genre::
-
-## Devoid of Thought - Necrotic Surface Discarded
-
-tbd
-
-::genre::
-
-## Dictaphone - Unstable *
+### Conjurer - Unself
 
 TBD
 
 ::genre::
 
-## Dion - The Rock'n'Roll Philosopher
+### Couch - Big Talk
 
 tbd
 
 ::genre::
 
-## Disarray - The Darkening
+### Cowboy Junkies - More Acoustic Junk
 
 tbd
 
 ::genre::
 
-## Distaste - Agoniepositur
+### Crayon - Home Safe
 
 tbd
 
 ::genre::
 
-## Doro - Warriors Of The Sea
+### Cubzoa - Unfold In the Sky
 
 tbd
 
 ::genre::
 
-## Downswing - And Everything was Dark
-
-TBD
-
-::genre::
-
-## Dream Legacy - Immortal
-
-tbd
-
-::genre::
-
-## Drofnosura - Ritual of split Tongues *
+### CV Vision - Release the Beast
 
 TBD
 
 ::genre::
 
-## Ektomorf - Heretic
+### Daedric - As The Light Left
+
+tbd
+
+::genre::
+
+### Daniel Caesar - Son Of Spergy
+
+tbd
+
+::genre::
+
+### Dave - The Boy Who Played the Harp
+
+tbd
+
+::genre::
+
+### David Tolk - Beautiful
 
 TBD
 
 ::genre::
 
-## Eldur - Rituals Of Death And Necromancy
+### Dawn Fades - III
 
 tbd
 
 ::genre::
 
-## Elektro Guzzi - Liquid Center **
-
-TBD
-
-::genre::
-
-## Elepharmers - Western Wilderness
+### Dawnwalker - The Between
 
 tbd
 
 ::genre::
 
-## Elettra Storm - Evertale
-
-tbd
-
-::genre::
-
-## Elijah - Lowest
-
-tbd
-
-::genre::
-
-## Eliza McLamb - Good Story
-
-tbd
-
-::genre::
-
-## EMF - REACH FOR SOMETHING HIGHER
-
-tbd
-
-::genre::
-
-## Erika Dohi - Myth of Tomorrow
-
-tbd
-
-::genre::
-
-## Faith In Agony - Insight
-
-tbd
-
-::genre::
-
-## Firelighters - Quiver
-
-tbd
-
-::genre::
-
-## Flamecore - Flamecore
-
-tbd
-
-::genre::
-
-## Flux - Peace Is A Lie
-
-tbd
-
-::genre::
-
-## Flycatcher - Wrench
+### Dayseeker - Creature in the Black Night
 
 TBD
 
 ::genre::
 
-## Free Whenever - Ascension
+### Deep Energy Orchestra - The Science Of Sound
 
 tbd
 
 ::genre::
 
-## Fásma - Flores del Jardín Trasero
+### Deez Nuts - Saudade
 
 tbd
 
 ::genre::
 
-## Fäust - Crypts Of Eternity
+### Demi Lovato - It's Not That Deep
 
 tbd
 
 ::genre::
 
-## Galactic Empire - Cinemetal
+### Deteriorot - Awakening
 
 tbd
 
 ::genre::
 
-## Girlfiends - There Goes The Neighborhood
+### Devastrosity - Eviscerating Desolation
 
 tbd
 
 ::genre::
 
-## Glasya - Fear
+### Devil’s Breakfast - Whore Of Babylon
 
 tbd
 
 ::genre::
 
-## Goatfather - House Of The Rising Smoke
+### Devoid of Thought - Necrotic Surface Discarded
 
 tbd
 
 ::genre::
 
-## Golden Brown - Patterner *
+### Dictaphone - Unstable *
 
 TBD
 
 ::genre::
 
-## Hail The Sun - Cut. Turn. Fade. Back.
+### Dion - The Rock'n'Roll Philosopher
 
 tbd
 
 ::genre::
 
-## Halle - Love?... or Something Like It
+### Disarray - The Darkening
 
 tbd
 
 ::genre::
 
-## Hannah Jadagu - Describe
+### Distaste - Agoniepositur
 
 tbd
 
 ::genre::
 
-## Heavensgate - A Heart Is A Heavy Burden
+### Doro - Warriors Of The Sea
 
 tbd
 
 ::genre::
 
-## Heavy Pettin - Rock Generation
-
-tbd
-
-::genre::
-
-## Helix Noire - Becoming The Cure
-
-tbd
-
-::genre::
-
-## Henry Moodie - Mood Swings
-
-tbd
-
-::genre::
-
-## Hether - Holy Water
-
-tbd
-
-::genre::
-
-## Hinoku, nu.un, Between the Stars - The Silence That Is Left
-
-tbd
-
-::genre::
-
-## Hit-Boy and The Alchemist - Goldfish
-
-tbd
-
-::genre::
-
-## Home Counties - Humdrum
-
-tbd
-
-::genre::
-
-## Hostilia - Face the Fire
-
-tbd
-
-::genre::
-
-## Human Fortress - Stronghold
-
-tbd
-
-::genre::
-
-## Ian - 2005
-
-tbd
-
-::genre::
-
-## iLe - Como las canto yo
-
-tbd
-
-::genre::
-
-## Impact Driver - Don't Be Long Here
-
-tbd
-
-::genre::
-
-## INJI - SUPERLAME
-
-tbd
-
-::genre::
-
-## Invoke - Enemy Of The Sound Perception
-
-tbd
-
-::genre::
-
-## IRR - Remains Remain
-
-tbd
-
-::genre::
-
-## James Johnston - Where You'll Find Me
-
-tbd
-
-::genre::
-
-## Jeff Larson, Gerry Beckley - Jeff Larson with Gerry Beckley
+### Downswing - And Everything was Dark
 
 TBD
 
 ::genre::
 
-## Jennifer Walton - Daughters
+### Dream Legacy - Immortal
 
 tbd
 
 ::genre::
 
-## Jerry Leger - Waves Of Desire
-
-tbd
-
-::genre::
-
-## Jesca Hoop - Selective Memory
-
-tbd
-
-::genre::
-
-## Jessica Moss - Unfolding
+### Drofnosura - Ritual of split Tongues *
 
 TBD
 
 ::genre::
 
-## Jet Black Roses - Jet Black Roses
-
-tbd
-
-::genre::
-
-## Jet Jaguar - Severance
-
-tbd
-
-::genre::
-
-## Jim Keller - End Of The World
-
-tbd
-
-::genre::
-
-## Jim White - Inner Day
-
-tbd
-
-::genre::
-
-## Joelton Mayfield - Crowd Pleaser
-
-tbd
-
-::genre::
-
-## Jon Porras - Achlys
+### Ektomorf - Heretic
 
 TBD
 
 ::genre::
 
-## Joshua Hedley - All Hat
+### Eldur - Rituals Of Death And Necromancy
 
 tbd
 
 ::genre::
 
-## Joyer - On The Other End of the Line...
-
-tbd
-
-::genre::
-
-## João Lencastre - This Is Not A Jazz Record
-
-tbd
-
-::genre::
-
-## Julianna Riolino - Echo In The Dust
-
-tbd
-
-::genre::
-
-## Just Mustard - We were just here
+### Elektro Guzzi - Liquid Center **
 
 TBD
 
 ::genre::
 
-## Kahani - Where All Hope Dies
+### Elepharmers - Western Wilderness
 
 tbd
 
 ::genre::
 
-## Kali - Samsara
+### Elettra Storm - Evertale
 
 tbd
 
 ::genre::
 
-## Karate Steve - Time Under Tension
+### Elijah - Lowest
 
 tbd
 
 ::genre::
 
-## Kibrom Birhane - Lisané Bahir
+### Eliza McLamb - Good Story
+
+tbd
+
+::genre::
+
+### EMF - REACH FOR SOMETHING HIGHER
+
+tbd
+
+::genre::
+
+### Erika Dohi - Myth of Tomorrow
+
+tbd
+
+::genre::
+
+### Faith In Agony - Insight
+
+tbd
+
+::genre::
+
+### Firelighters - Quiver
+
+tbd
+
+::genre::
+
+### Flamecore - Flamecore
+
+tbd
+
+::genre::
+
+### Flux - Peace Is A Lie
+
+tbd
+
+::genre::
+
+### Flycatcher - Wrench
 
 TBD
 
 ::genre::
 
-## Killstreak - The Cursed Crown
+### Free Whenever - Ascension
 
 tbd
 
 ::genre::
 
-## Lars Fredrik Frøislie - Quattro Racconti
+### Fásma - Flores del Jardín Trasero
 
 tbd
 
 ::genre::
 
-## LE SSERAFIM - SPAGHETTI
+### Fäust - Crypts Of Eternity
 
 tbd
 
 ::genre::
 
-## Leah Martin-Brown - Love & Other Crimes
+### Galactic Empire - Cinemetal
 
 tbd
 
 ::genre::
 
-## Leon Thomas - Pholks
+### Girlfiends - There Goes The Neighborhood
 
 tbd
 
 ::genre::
 
-## Leprous - An Evening Of Atonement
+### Glasya - Fear
 
 tbd
 
 ::genre::
 
-## Lily Allen - West End Girl
-
-TBD
-
-::genre::
-
-## Low Girl - Is It Too Late to Freak Out?
+### Goatfather - House Of The Rising Smoke
 
 tbd
 
 ::genre::
 
-## Magic Wands - Cascades
-
-tbd
-
-::genre::
-
-## Mainstream Scare - Sound & Static
-
-tbd
-
-::genre::
-
-## Majken - Korus
-
-tbd
-
-::genre::
-
-## Major Stars - More Colors of Sound
-
-tbd
-
-::genre::
-
-## Maladie - Symptoms V
-
-tbd
-
-::genre::
-
-## Mammoth - The End
-
-tbd
-
-::genre::
-
-## Marco Bernard - Moby Dick
-
-tbd
-
-::genre::
-
-## Mark Bogert - Antiquity Neon
-
-tbd
-
-::genre::
-
-## Mark William Lewis - Mark William Lewis
-
-tbd
-
-::genre::
-
-## Mastiff - For All The Dead Dreams
-
-tbd
-
-::genre::
-
-## Mattias IA Eklundh - Resist the Erosion
+### Golden Brown - Patterner *
 
 TBD
 
 ::genre::
 
-## Max Winter - Mourning Routine
+### Hail The Sun - Cut. Turn. Fade. Back.
 
 tbd
 
 ::genre::
 
-## Memories Of Old - Never Stop Believing
+### Halle - Love?... or Something Like It
 
 tbd
 
 ::genre::
 
-## Meric Long - Kablooey
+### Hannah Jadagu - Describe
+
+tbd
+
+::genre::
+
+### Heavensgate - A Heart Is A Heavy Burden
+
+tbd
+
+::genre::
+
+### Heavy Pettin - Rock Generation
+
+tbd
+
+::genre::
+
+### Helix Noire - Becoming The Cure
+
+tbd
+
+::genre::
+
+### Henry Moodie - Mood Swings
+
+tbd
+
+::genre::
+
+### Hether - Holy Water
+
+tbd
+
+::genre::
+
+### Hinoku, nu.un, Between the Stars - The Silence That Is Left
+
+tbd
+
+::genre::
+
+### Hit-Boy and The Alchemist - Goldfish
+
+tbd
+
+::genre::
+
+### Home Counties - Humdrum
+
+tbd
+
+::genre::
+
+### Hostilia - Face the Fire
+
+tbd
+
+::genre::
+
+### Human Fortress - Stronghold
+
+tbd
+
+::genre::
+
+### Ian - 2005
+
+tbd
+
+::genre::
+
+### iLe - Como las canto yo
+
+tbd
+
+::genre::
+
+### Impact Driver - Don't Be Long Here
+
+tbd
+
+::genre::
+
+### INJI - SUPERLAME
+
+tbd
+
+::genre::
+
+### Invoke - Enemy Of The Sound Perception
+
+tbd
+
+::genre::
+
+### IRR - Remains Remain
+
+tbd
+
+::genre::
+
+### James Johnston - Where You'll Find Me
+
+tbd
+
+::genre::
+
+### Jeff Larson, Gerry Beckley - Jeff Larson with Gerry Beckley
 
 TBD
 
 ::genre::
 
-## Meriheini Luoto - Talven uneen vaipuen (Falling Into Winter’s Sleep)
+### Jennifer Walton - Daughters
 
 tbd
 
 ::genre::
 
-## Mike Parker - Epilogue
+### Jerry Leger - Waves Of Desire
 
 tbd
 
 ::genre::
 
-## Mobb Deep - Infinite
+### Jesca Hoop - Selective Memory
 
 tbd
 
 ::genre::
 
-## Mon Laferte - Femme Fatale
-
-TBD
-
-::genre::
-
-## Monte Booker - Noise / Meaning
-
-tbd
-
-::genre::
-
-## MYR - Helvegen
-
-tbd
-
-::genre::
-
-## Nadja - Cut
+### Jessica Moss - Unfolding
 
 TBD
 
 ::genre::
 
-## Natalie Jane - the world i didn’t want
+### Jet Black Roses - Jet Black Roses
 
 tbd
 
 ::genre::
 
-## Necronemesis, Gangrenesia - Putrid Sanctity
+### Jet Jaguar - Severance
 
 tbd
 
 ::genre::
 
-## Nell Mescal - The Closest We’ll Get
+### Jim Keller - End Of The World
 
 tbd
 
 ::genre::
 
-## Nemrud - At The End of The Day
+### Jim White - Inner Day
 
 tbd
 
 ::genre::
 
-## Nep - Noelle
+### Joelton Mayfield - Crowd Pleaser
 
 tbd
 
 ::genre::
 
-## Nick Mulvey - Dark Harvest, Pt. 2
-
-TBD
-
-::genre::
-
-## Nicolas Genest - DANHOMEY SONGS
-
-tbd
-
-::genre::
-
-## Nine Treasures - Seeking The Absolute
-
-tbd
-
-::genre::
-
-## Nitty Gritty Dirty Band - After Night
-
-tbd
-
-::genre::
-
-## Ocie Elliott - Bungalow
+### Jon Porras - Achlys
 
 TBD
 
 ::genre::
 
-## Old Year - No Dissent
+### Joshua Hedley - All Hat
 
 tbd
 
 ::genre::
 
-## Oswald Slain - BUCKY
+### Joyer - On The Other End of the Line...
 
 tbd
 
 ::genre::
 
-## Our Oceans - Right Here
+### João Lencastre - This Is Not A Jazz Record
 
 tbd
 
 ::genre::
 
-## Ouri - Daisy Cutter
+### Julianna Riolino - Echo In The Dust
 
 tbd
 
 ::genre::
 
-## Outerburst - Witchcraft
-
-tbd
-
-::genre::
-
-## Patricia Brennan - Of the Near and Far
+### Just Mustard - We were just here
 
 TBD
 
 ::genre::
 
-## Phaeton - Neurogenesis
+### Kahani - Where All Hope Dies
 
 tbd
 
 ::genre::
 
-## Ping - Songs from the Nebula
+### Kali - Samsara
 
 tbd
 
 ::genre::
 
-## Planet Giza - The Sky Is Recording Me: 100 Years Later, Vol. 3
+### Karate Steve - Time Under Tension
 
 tbd
 
 ::genre::
 
-## Psychonaut - World Maker *
+### Kibrom Birhane - Lisané Bahir
 
 TBD
 
 ::genre::
 
-## Pulp - Different Class
+### Killstreak - The Cursed Crown
 
 tbd
 
 ::genre::
 
-## RaraOvis - ne sveleremo l’essenza
+### Lars Fredrik Frøislie - Quattro Racconti
 
 tbd
 
 ::genre::
 
-## Rat Heart - Dancin' In The Streets
+### LE SSERAFIM - SPAGHETTI
 
 tbd
 
 ::genre::
 
-## Remina - The Silver Sea
+### Leah Martin-Brown - Love & Other Crimes
 
 tbd
 
 ::genre::
 
-## Reuben Vincent, 9th Wonder - Welcome Home
+### Leon Thomas - Pholks
+
+tbd
+
+::genre::
+
+### Leprous - An Evening Of Atonement
+
+tbd
+
+::genre::
+
+### Lily Allen - West End Girl
 
 TBD
 
 ::genre::
 
-## Roddy Ricch - The Navy Album
+### Low Girl - Is It Too Late to Freak Out?
 
 tbd
 
 ::genre::
 
-## Rolo Tomassi - In The Echoes Of All Dreams
+### Magic Wands - Cascades
 
 tbd
 
 ::genre::
 
-## Ronnie Romero - Backbone
+### Mainstream Scare - Sound & Static
 
 tbd
 
 ::genre::
 
-## Rubii - Feeluh
+### Majken - Korus
+
+tbd
+
+::genre::
+
+### Major Stars - More Colors of Sound
+
+tbd
+
+::genre::
+
+### Maladie - Symptoms V
+
+tbd
+
+::genre::
+
+### Mammoth - The End
+
+tbd
+
+::genre::
+
+### Marco Bernard - Moby Dick
+
+tbd
+
+::genre::
+
+### Mark Bogert - Antiquity Neon
+
+tbd
+
+::genre::
+
+### Mark William Lewis - Mark William Lewis
+
+tbd
+
+::genre::
+
+### Mastiff - For All The Dead Dreams
+
+tbd
+
+::genre::
+
+### Mattias IA Eklundh - Resist the Erosion
 
 TBD
 
 ::genre::
 
-## Rueben Vincent - Welcome Home
+### Max Winter - Mourning Routine
 
 tbd
 
 ::genre::
 
-## Sadie Jean - Early Twenties Torture
+### Memories Of Old - Never Stop Believing
 
 tbd
 
 ::genre::
 
-## Sandōkaï - Special Computer
-
-tbd
-
-::genre::
-
-## Sarea - Last Burning Sun
-
-tbd
-
-::genre::
-
-## School Drugs - Funeral Arrangements
-
-tbd
-
-::genre::
-
-## Scorching Tomb - Ossuary
+### Meric Long - Kablooey
 
 TBD
 
 ::genre::
 
-## Scott “Wino” Weinrich - Create or Die
+### Meriheini Luoto - Talven uneen vaipuen (Falling Into Winter’s Sleep)
 
 tbd
 
 ::genre::
 
-## Secret Rule - X
+### Mike Parker - Epilogue
 
 tbd
 
 ::genre::
 
-## Seraina Telli - Green
+### Mobb Deep - Infinite
 
 tbd
 
 ::genre::
 
-## Shiraz Lane - In Vertigo
-
-tbd
-
-::genre::
-
-## Sigrid - There's Always More That I Could Say
-
-tbd
-
-::genre::
-
-## Sinister Days - Disconnect Society
-
-tbd
-
-::genre::
-
-## Skye Newman - SE9 Part 1
-
-tbd
-
-::genre::
-
-## Soulfly - Chama
+### Mon Laferte - Femme Fatale
 
 TBD
 
 ::genre::
 
-## Speed - All My Angels
+### Monte Booker - Noise / Meaning
 
 tbd
 
 ::genre::
 
-## Spiritual Cramp - Rude
+### MYR - Helvegen
+
+tbd
+
+::genre::
+
+### Nadja - Cut
 
 TBD
 
 ::genre::
 
-## Spøgelse - Spøgelse II
+### Natalie Jane - the world i didn’t want
 
 tbd
 
 ::genre::
 
-## State Champs - Around The World And Back 10
+### Necronemesis, Gangrenesia - Putrid Sanctity
 
 tbd
 
 ::genre::
 
-## Steve Tibbetts - Close
+### Nell Mescal - The Closest We’ll Get
 
 tbd
 
 ::genre::
 
-## Straight No Chaser - Holiday Road
+### Nemrud - At The End of The Day
 
 tbd
 
 ::genre::
 
-## Sumo Cyco - Neon Void
+### Nep - Noelle
 
 tbd
 
 ::genre::
 
-## Sunken - Lykke
-
-tbd
-
-::genre::
-
-## SWANSLAUGHTER - Make A Wish
-
-tbd
-
-::genre::
-
-## Taken By Tides - Ghost Vibrations
-
-tbd
-
-::genre::
-
-## Taylor Acorn - Poster Child
-
-tbd
-
-::genre::
-
-## The Acacia Stain - You Are Safe From God Here
-
-tbd
-
-::genre::
-
-## The AlchemistandHit-Boy - Goldfish
-
-tbd
-
-::genre::
-
-## The Chainsmokers - Breathe
-
-tbd
-
-::genre::
-
-## The Clause - Victim of a casual Thing
+### Nick Mulvey - Dark Harvest, Pt. 2
 
 TBD
 
 ::genre::
 
-## The Cosmic Tones Research Trio, Roman Norfleet, Harlan Silverman - The Cosmic Tones Research Trio
+### Nicolas Genest - DANHOMEY SONGS
 
 tbd
 
 ::genre::
 
-## The Fear - Falling Forward
+### Nine Treasures - Seeking The Absolute
 
 tbd
 
 ::genre::
 
-## The Lemonheads - Love Chant
+### Nitty Gritty Dirty Band - After Night
+
+tbd
+
+::genre::
+
+### Ocie Elliott - Bungalow
 
 TBD
 
 ::genre::
 
-## The Lunar Effect - Fortune's Always Hiding
+### Old Year - No Dissent
 
 tbd
 
 ::genre::
 
-## The Social - All For One, One For All
+### Oswald Slain - BUCKY
 
 tbd
 
 ::genre::
 
-## The Strumbellas - Burning Bridges Into Dust
+### Our Oceans - Right Here
 
 tbd
 
 ::genre::
 
-## The Weight of Silence - AINT NOTHIN' TO IT
+### Ouri - Daisy Cutter
 
 tbd
 
 ::genre::
 
-## Them - Psychedelic Enigma
+### Outerburst - Witchcraft
 
 tbd
 
 ::genre::
 
-## To Speak Of Wolves - Half King
-
-tbd
-
-::genre::
-
-## Tortoise - Touch
-
-tbd
-
-::genre::
-
-## Torture Hammer - Torture Hammer
-
-tbd
-
-::genre::
-
-## Tuesday The Sky - Indoor Enthusiast
-
-tbd
-
-::genre::
-
-## Tuvaband - Seven Ways of Floating
+### Patricia Brennan - Of the Near and Far
 
 TBD
 
 ::genre::
 
-## Twitching Tongues - Twitchfits Vol. 3
+### Phaeton - Neurogenesis
 
 tbd
 
 ::genre::
 
-## Valetta - Bitter Lucid Truth
+### Ping - Songs from the Nebula
 
 tbd
 
 ::genre::
 
-## Vescent - Black & White
+### Planet Giza - The Sky Is Recording Me: 100 Years Later, Vol. 3
 
 tbd
 
 ::genre::
 
-## Violent Times - So Far So Good
-
-tbd
-
-::genre::
-
-## VOWWS - I’ll fill you house with an army
-
-tbd
-
-::genre::
-
-## Warrant - The Speed Of Metal
-
-tbd
-
-::genre::
-
-## When Saints Go Machine - Greatest Escape
+### Psychonaut - World Maker *
 
 TBD
 
 ::genre::
 
-## White Harbor - Sanctuary
+### Pulp - Different Class
 
 tbd
 
 ::genre::
 
-## Wino - Create Or Die
+### RaraOvis - ne sveleremo l’essenza
 
 tbd
 
 ::genre::
 
-## Wolfgang Van Halen’s MAMMOTH - The End
+### Rat Heart - Dancin' In The Streets
 
 tbd
 
 ::genre::
 
-## Yazmin Lacey - Teal Dreams
+### Remina - The Silver Sea
+
+tbd
+
+::genre::
+
+### Reuben Vincent, 9th Wonder - Welcome Home
 
 TBD
 
 ::genre::
 
-## YipHerLastName - The Seed Of Tragedy Is Buried In My Fate
+### Roddy Ricch - The Navy Album
 
 tbd
 
 ::genre::
 
-## YUNGMORPHEUS - A Spyglass to One's Face
+### Rolo Tomassi - In The Echoes Of All Dreams
 
 tbd
 
 ::genre::
 
-## Zane Trow - Ibis
+### Ronnie Romero - Backbone
+
+tbd
+
+::genre::
+
+### Rubii - Feeluh
 
 TBD
 
 ::genre::
 
-## 九宝 - Seeking the Absolute
+### Rueben Vincent - Welcome Home
+
+tbd
+
+::genre::
+
+### Sadie Jean - Early Twenties Torture
+
+tbd
+
+::genre::
+
+### Sandōkaï - Special Computer
+
+tbd
+
+::genre::
+
+### Sarea - Last Burning Sun
+
+tbd
+
+::genre::
+
+### School Drugs - Funeral Arrangements
+
+tbd
+
+::genre::
+
+### Scorching Tomb - Ossuary
+
+TBD
+
+::genre::
+
+### Scott “Wino” Weinrich - Create or Die
+
+tbd
+
+::genre::
+
+### Secret Rule - X
+
+tbd
+
+::genre::
+
+### Seraina Telli - Green
+
+tbd
+
+::genre::
+
+### Shiraz Lane - In Vertigo
+
+tbd
+
+::genre::
+
+### Sigrid - There's Always More That I Could Say
+
+tbd
+
+::genre::
+
+### Sinister Days - Disconnect Society
+
+tbd
+
+::genre::
+
+### Skye Newman - SE9 Part 1
+
+tbd
+
+::genre::
+
+### Soulfly - Chama
+
+TBD
+
+::genre::
+
+### Speed - All My Angels
+
+tbd
+
+::genre::
+
+### Spiritual Cramp - Rude
+
+TBD
+
+::genre::
+
+### Spøgelse - Spøgelse II
+
+tbd
+
+::genre::
+
+### State Champs - Around The World And Back 10
+
+tbd
+
+::genre::
+
+### Steve Tibbetts - Close
+
+tbd
+
+::genre::
+
+### Straight No Chaser - Holiday Road
+
+tbd
+
+::genre::
+
+### Sumo Cyco - Neon Void
+
+tbd
+
+::genre::
+
+### Sunken - Lykke
+
+tbd
+
+::genre::
+
+### SWANSLAUGHTER - Make A Wish
+
+tbd
+
+::genre::
+
+### Taken By Tides - Ghost Vibrations
+
+tbd
+
+::genre::
+
+### Taylor Acorn - Poster Child
+
+tbd
+
+::genre::
+
+### The Acacia Stain - You Are Safe From God Here
+
+tbd
+
+::genre::
+
+### The AlchemistandHit-Boy - Goldfish
+
+tbd
+
+::genre::
+
+### The Chainsmokers - Breathe
+
+tbd
+
+::genre::
+
+### The Clause - Victim of a casual Thing
+
+TBD
+
+::genre::
+
+### The Cosmic Tones Research Trio, Roman Norfleet, Harlan Silverman - The Cosmic Tones Research Trio
+
+tbd
+
+::genre::
+
+### The Fear - Falling Forward
+
+tbd
+
+::genre::
+
+### The Lemonheads - Love Chant
+
+TBD
+
+::genre::
+
+### The Lunar Effect - Fortune's Always Hiding
+
+tbd
+
+::genre::
+
+### The Social - All For One, One For All
+
+tbd
+
+::genre::
+
+### The Strumbellas - Burning Bridges Into Dust
+
+tbd
+
+::genre::
+
+### The Weight of Silence - AINT NOTHIN' TO IT
+
+tbd
+
+::genre::
+
+### Them - Psychedelic Enigma
+
+tbd
+
+::genre::
+
+### To Speak Of Wolves - Half King
+
+tbd
+
+::genre::
+
+### Tortoise - Touch
+
+tbd
+
+::genre::
+
+### Torture Hammer - Torture Hammer
+
+tbd
+
+::genre::
+
+### Tuesday The Sky - Indoor Enthusiast
+
+tbd
+
+::genre::
+
+### Tuvaband - Seven Ways of Floating
+
+TBD
+
+::genre::
+
+### Twitching Tongues - Twitchfits Vol. 3
+
+tbd
+
+::genre::
+
+### Valetta - Bitter Lucid Truth
+
+tbd
+
+::genre::
+
+### Vescent - Black & White
+
+tbd
+
+::genre::
+
+### Violent Times - So Far So Good
+
+tbd
+
+::genre::
+
+### VOWWS - I’ll fill you house with an army
+
+tbd
+
+::genre::
+
+### Warrant - The Speed Of Metal
+
+tbd
+
+::genre::
+
+### When Saints Go Machine - Greatest Escape
+
+TBD
+
+::genre::
+
+### White Harbor - Sanctuary
+
+tbd
+
+::genre::
+
+### Wino - Create Or Die
+
+tbd
+
+::genre::
+
+### Wolfgang Van Halen’s MAMMOTH - The End
+
+tbd
+
+::genre::
+
+### Yazmin Lacey - Teal Dreams
+
+TBD
+
+::genre::
+
+### YipHerLastName - The Seed Of Tragedy Is Buried In My Fate
+
+tbd
+
+::genre::
+
+### YUNGMORPHEUS - A Spyglass to One's Face
+
+tbd
+
+::genre::
+
+### Zane Trow - Ibis
+
+TBD
+
+::genre::
+
+### 九宝 - Seeking the Absolute
 
 tbd
 
@@ -1550,247 +1550,247 @@ tbd
 
 ## Earlier the week ...
 
-## Alex Kozobolis - Asymmetry
+### Alex Kozobolis - Asymmetry
 
 Der UK-Based Composer und Pianist mit seinem neuesten Kompositionen. Ein Klangwerk des Classical-Ambient und Drone, welches in “88 Keys” geschrieben wurde.
 
 ::genre::ambient, cine ambient, drone
 
-## Aurora Ortus - Against Ourselves
+### Aurora Ortus - Against Ourselves
 
 tbd
 
 ::genre::
 
-## Cymbalic Encounters - Eternal Sun
+### Cymbalic Encounters - Eternal Sun
 
 tbd
 
 ::genre::
 
-## Earth Ball - Outside Over There
+### Earth Ball - Outside Over There
 
 tbd
 
 ::genre::
 
-## Erwin Do, Paxkalito, Saint Rumi - Blueland
+### Erwin Do, Paxkalito, Saint Rumi - Blueland
 
 TBD
 
 ::genre::
 
-## Fed Ash - Rotting Exuberance
+### Fed Ash - Rotting Exuberance
 
 TBD
 
 ::genre::
 
-## Flight76 - Continuum
+### Flight76 - Continuum
 
 tbd
 
 ::genre::
 
-## Government Issue - Joy Ride
+### Government Issue - Joy Ride
 
 tbd
 
 ::genre::
 
-## Government Issue - Give Us Stabb...Or Give Us Death
+### Government Issue - Give Us Stabb...Or Give Us Death
 
 tbd
 
 ::genre::
 
-## Government Issue - Finale
+### Government Issue - Finale
 
 tbd
 
 ::genre::
 
-## Hans Annellsson - Louisiana
+### Hans Annellsson - Louisiana
 
 tbd
 
 ::genre::
 
-## Highland Park Sleep Collective - Listening Room No. 2
+### Highland Park Sleep Collective - Listening Room No. 2
 
 TBD
 
 ::genre::
 
-## Holger Fritz - Bossa for a Rainy Day
+### Holger Fritz - Bossa for a Rainy Day
 
 tbd
 
 ::genre::
 
-## Holger Fritz - Mirrors of Light
+### Holger Fritz - Mirrors of Light
 
 tbd
 
 ::genre::
 
-## Holger Fritz - Urban Bossa Stories No I
+### Holger Fritz - Urban Bossa Stories No I
 
 tbd
 
 ::genre::
 
-## Holger Fritz - Cosmopolitan Lounge
+### Holger Fritz - Cosmopolitan Lounge
 
 tbd
 
 ::genre::
 
-## Holger Fritz - Between the Waves and Time
+### Holger Fritz - Between the Waves and Time
 
 tbd
 
 ::genre::
 
-## Holger Fritz - Funk Spectrum II – Big Band Grooves
+### Holger Fritz - Funk Spectrum II – Big Band Grooves
 
 tbd
 
 ::genre::
 
-## Holger Fritz - The Stillness Remains
+### Holger Fritz - The Stillness Remains
 
 tbd
 
 ::genre::
 
-## Honeybadger - Let there be Light
+### Honeybadger - Let there be Light
 
 TBD
 
 ::genre::
 
-## I Sincopatici - Decimo Cerchio
+### I Sincopatici - Decimo Cerchio
 
 tbd
 
 ::genre::
 
-## Jakob Bro - New Morning
+### Jakob Bro - New Morning
 
 TBD
 
 ::genre::
 
-## Jessica Moss - Unfolding
+### Jessica Moss - Unfolding
 
 TBD
 
 ::genre::
 
-## King Stephen - ALL THAT DWELLS IN THE DARK
+### King Stephen - ALL THAT DWELLS IN THE DARK
 
 tbd
 
 ::genre::
 
-## Late Aster - City Livin’
+### Late Aster - City Livin’
 
 tbd
 
 ::genre::
 
-## Miguel - Caos
+### Miguel - Caos
 
 tbd
 
 ::genre::
 
-## National Diet - The King In Yellow
+### National Diet - The King In Yellow
 
 tbd
 
 ::genre::
 
-## Nocturnal Abbey - The Withering Princess
+### Nocturnal Abbey - The Withering Princess
 
 TBD
 
 ::genre::
 
-## Novus - Eclipse
+### Novus - Eclipse
 
 tbd
 
 ::genre::
 
-## Paul Jebanasam - mātr
+### Paul Jebanasam - mātr
 
 tbd
 
 ::genre::
 
-## Paweł Pańta, Bogdan Hołownia - Tylko Wasowski i Przybora
+### Paweł Pańta, Bogdan Hołownia - Tylko Wasowski i Przybora
 
 TBD
 
 ::genre::
 
-## Runaway Totem, Andromaca - Metaphorm Tetraphirm
+### Runaway Totem, Andromaca - Metaphorm Tetraphirm
 
 tbd
 
 ::genre::
 
-## Rural Tapes - Oneiric
+### Rural Tapes - Oneiric
 
 tbd
 
 ::genre::
 
-## Scape One, Kurt Baggaley - Moments of Vertical
+### Scape One, Kurt Baggaley - Moments of Vertical
 
 TBD
 
 ::genre::
 
-## Shedfromthebody - Everything out there has Teeth
+### Shedfromthebody - Everything out there has Teeth
 
 TBD
 
 ::genre::
 
-## Soft Kill - Watch It Burn
+### Soft Kill - Watch It Burn
 
 tbd
 
 ::genre::
 
-## Stephan Kreussel - Plateau
+### Stephan Kreussel - Plateau
 
 TBD
 
 ::genre::
 
-## Stråle - Reformation
+### Stråle - Reformation
 
 tbd
 
 ::genre::
 
-## Thaumaturgy - Pestilential Hymns
+### Thaumaturgy - Pestilential Hymns
 
 tbd
 
 ::genre::
 
-## ttwig, JUICEB☮X - Hang Ten Colors to Catch the Sun
+### ttwig, JUICEB☮X - Hang Ten Colors to Catch the Sun
 
 tbd
 
 ::genre::
 
-## VRDRBR - Mono Tod
+### VRDRBR - Mono Tod
 
 tbd
 

@@ -8,19 +8,19 @@ categories:
 
 ## Friday
 
-## Adrian Younge - Something About April III
+### Adrian Younge - Something About April III
 
 tbd
 
 ::genre::
 
-## Aleph Quintet - Hiwar
+### Aleph Quintet - Hiwar
 
 tbd
 
 ::genre::
 
-## Ancestor Of Kaos - Animal Ritual
+### Ancestor Of Kaos - Animal Ritual
 
 tbd
 
@@ -28,685 +28,685 @@ tbd
 
 <!-- more -->
 
-## Ancient Death - Ego Dissolution
+### Ancient Death - Ego Dissolution
 
 tbd
 
 ::genre::
 
-## André Drage - Wolves
+### André Drage - Wolves
 
 tbd
 
 ::genre::
 
-## AS IT IS - Never Happy, Ever After X
+### AS IT IS - Never Happy, Ever After X
 
 tbd
 
 ::genre::
 
-## Atrox Trauma - Where Death Haunts
+### Atrox Trauma - Where Death Haunts
 
 tbd
 
 ::genre::
 
-## AØRIST - PREDATOR
+### AØRIST - PREDATOR
 
 tbd
 
 ::genre::
 
-## Beddy Rays - Do What Ya Wanna
+### Beddy Rays - Do What Ya Wanna
 
 tbd
 
 ::genre::
 
-## Beirut - A Study of Losses
+### Beirut - A Study of Losses
 
 tbd
 
 ::genre::
 
-## Big Man Arriving - Big Man Arriving
+### Big Man Arriving - Big Man Arriving
 
 tbd
 
 ::genre::
 
-## Blackwater Holylight - If You Only Knew
+### Blackwater Holylight - If You Only Knew
 
 tbd
 
 ::genre::
 
-## Bosco Sacro - Live at Chiesa Armena
+### Bosco Sacro - Live at Chiesa Armena
 
 tbd
 
 ::genre::
 
-## By Way Of Sacrifice - The Chapel of The Resurrection
+### By Way Of Sacrifice - The Chapel of The Resurrection
 
 tbd
 
 ::genre::
 
-## Chaparelle, Zella Day, Jesse Woods - Western Pleasure
+### Chaparelle, Zella Day, Jesse Woods - Western Pleasure
 
 tbd
 
 ::genre::
 
-## CHIME OBLIVION - CHIME OBLIVION
+### CHIME OBLIVION - CHIME OBLIVION
 
 tbd
 
 ::genre::
 
-## Cirkus Pr��tz - Manifesto
+### Cirkus Pr��tz - Manifesto
 
 tbd
 
 ::genre::
 
-## Cold Ceiling - I Must Be Closer
+### Cold Ceiling - I Must Be Closer
 
 tbd
 
 ::genre::
 
-## Collapsed Vein - Pain Communion
+### Collapsed Vein - Pain Communion
 
 tbd
 
 ::genre::
 
-## Crow's Flight - The Dark Horizon
+### Crow's Flight - The Dark Horizon
 
 tbd
 
 ::genre::
 
-## Crypts Of Despair - We Belong In The Grave
+### Crypts Of Despair - We Belong In The Grave
 
 tbd
 
 ::genre::
 
-## Dave Blunts - You Can't Say That
+### Dave Blunts - You Can't Say That
 
 tbd
 
 ::genre::
 
-## Davido - 5IVE
+### Davido - 5IVE
 
 tbd
 
 ::genre::
 
-## Diabolizer - Murderous Revelations
+### Diabolizer - Murderous Revelations
 
 tbd
 
 ::genre::
 
-## Divide And Dissolve - Insatiable
+### Divide And Dissolve - Insatiable
 
 tbd
 
 ::genre::
 
-## Dormant Ordeal - Tooth And Nail
+### Dormant Ordeal - Tooth And Nail
 
 tbd
 
 ::genre::
 
-## DÖDSDIKTATOR - Riksdagsraseriet
+### DÖDSDIKTATOR - Riksdagsraseriet
 
 tbd
 
 ::genre::
 
-## Ekzilo - Quantum Phase Transition
+### Ekzilo - Quantum Phase Transition
 
 tbd
 
 ::genre::
 
-## Ellen Allien - We Are Not Alone, Pt. 9
+### Ellen Allien - We Are Not Alone, Pt. 9
 
 tbd
 
 ::genre::
 
-## Empyrean Sanctum - Detachment From Reality
+### Empyrean Sanctum - Detachment From Reality
 
 tbd
 
 ::genre::
 
-## Ethereal Minds - Ethereal Minds
+### Ethereal Minds - Ethereal Minds
 
 tbd
 
 ::genre::
 
-## Exterminatus - Echoes From A Distant Star Part 1
+### Exterminatus - Echoes From A Distant Star Part 1
 
 tbd
 
 ::genre::
 
-## Face Yourself - Martyr
+### Face Yourself - Martyr
 
 tbd
 
 ::genre::
 
-## Fir Cone Children - Gearshifting
+### Fir Cone Children - Gearshifting
 
 tbd
 
 ::genre::
 
-## Folwark - All Shadows Stretched
+### Folwark - All Shadows Stretched
 
 tbd
 
 ::genre::
 
-## Fotoform - Grief is a Garden (Forever in Bloom)
+### Fotoform - Grief is a Garden (Forever in Bloom)
 
 tbd
 
 ::genre::
 
-## FOTOS - Porzellan
+### FOTOS - Porzellan
 
 tbd
 
 ::genre::
 
-## Gama Bomb - Necronomicon Automaton
+### Gama Bomb - Necronomicon Automaton
 
 tbd
 
 ::genre::
 
-## Gasbrand - Fading Away In Nothingness
+### Gasbrand - Fading Away In Nothingness
 
 tbd
 
 ::genre::
 
-## Gold Souls - confessional
+### Gold Souls - confessional
 
 tbd
 
 ::genre::
 
-## Gouged - Realm of Disgust
+### Gouged - Realm of Disgust
 
 tbd
 
 ::genre::
 
-## Greg Spero - Ego or Soul?
+### Greg Spero - Ego or Soul?
 
 tbd
 
 ::genre::
 
-## hackedepicciotto, Danielle De Picciotto, Alexander Hacke - Ship of Fools
+### hackedepicciotto, Danielle De Picciotto, Alexander Hacke - Ship of Fools
 
 tbd
 
 ::genre::
 
-## Hawkwind - There Is No Space For Us
+### Hawkwind - There Is No Space For Us
 
 tbd
 
 ::genre::
 
-## Heavy Lungs - Caviar
+### Heavy Lungs - Caviar
 
 tbd
 
 ::genre::
 
-## Highland Park Sleep Collective, The Listening Planet - Field Notes
+### Highland Park Sleep Collective, The Listening Planet - Field Notes
 
 tbd
 
 ::genre::
 
-## Horrid Human Condition - Perpetual Imbalance
+### Horrid Human Condition - Perpetual Imbalance
 
 tbd
 
 ::genre::
 
-## Inoculation - Actuality
+### Inoculation - Actuality
 
 tbd
 
 ::genre::
 
-## Iron Lung - Adapting // Crawling
+### Iron Lung - Adapting // Crawling
 
 tbd
 
 ::genre::
 
-## Isabel LaRosa - Raven
+### Isabel LaRosa - Raven
 
 tbd
 
 ::genre::
 
-## John Lee Hooker - UNION STATION BLUES
+### John Lee Hooker - UNION STATION BLUES
 
 tbd
 
 ::genre::
 
-## Julien Baker - Send A Prayer My Way
+### Julien Baker - Send A Prayer My Way
 
 tbd
 
 ::genre::
 
-## Karg - Marodeur
+### Karg - Marodeur
 
 tbd
 
 ::genre::
 
-## Keri Hilson - We Need to Talk: Love
+### Keri Hilson - We Need to Talk: Love
 
 tbd
 
 ::genre::
 
-## King Garcia - Hamelin
+### King Garcia - Hamelin
 
 tbd
 
 ::genre::
 
-## KLÄMP - TOTAAL TECHNIEK
+### KLÄMP - TOTAAL TECHNIEK
 
 tbd
 
 ::genre::
 
-## Kneebody - Reach
+### Kneebody - Reach
 
 tbd
 
 ::genre::
 
-## Laurenne / Louhimo - Falling Through Stars
+### Laurenne / Louhimo - Falling Through Stars
 
 tbd
 
 ::genre::
 
-## Lik - Necro
+### Lik - Necro
 
 tbd
 
 ::genre::
 
-## Lost Souls - Lore
+### Lost Souls - Lore
 
 tbd
 
 ::genre::
 
-## Lucy Railton - Blue Veil
+### Lucy Railton - Blue Veil
 
 tbd
 
 ::genre::
 
-## Lux Terminus - Cinder
+### Lux Terminus - Cinder
 
 tbd
 
 ::genre::
 
-## Maestitia - Hate Of Sorrow
+### Maestitia - Hate Of Sorrow
 
 tbd
 
 ::genre::
 
-## Mayday Parade - Sweet
+### Mayday Parade - Sweet
 
 tbd
 
 ::genre::
 
-## Melvins - Thunderball
+### Melvins - Thunderball
 
 tbd
 
 ::genre::
 
-## Merit Hemmingson - Mother Earth Forever
+### Merit Hemmingson - Mother Earth Forever
 
 tbd
 
 ::genre::
 
-## MIEN - MIIEN
+### MIEN - MIIEN
 
 tbd
 
 ::genre::
 
-## Moshi Moshi and the Moist Boys - Scandinavian Breakfast
+### Moshi Moshi and the Moist Boys - Scandinavian Breakfast
 
 tbd
 
 ::genre::
 
-## newshapes - a conversation with myself
+### newshapes - a conversation with myself
 
 tbd
 
 ::genre::
 
-## Newspeak - Bury The Hatchet
+### Newspeak - Bury The Hatchet
 
 tbd
 
 ::genre::
 
-## Oceans Music - All Hail The King
+### Oceans Music - All Hail The King
 
 tbd
 
 ::genre::
 
-## Paint Stripper - Fandangle
+### Paint Stripper - Fandangle
 
 tbd
 
 ::genre::
 
-## Pearl Handled Revolver - Tales You Lose
+### Pearl Handled Revolver - Tales You Lose
 
 tbd
 
 ::genre::
 
-## Pentola - Grey Hoodie
+### Pentola - Grey Hoodie
 
 tbd
 
 ::genre::
 
-## Quade - The Foel Tower
+### Quade - The Foel Tower
 
 tbd
 
 ::genre::
 
-## Quickly, Quickly - I Heard That Noise
+### Quickly, Quickly - I Heard That Noise
 
 tbd
 
 ::genre::
 
-## Rebecca Foon / Aliayta Foon-Dancoe - Reverie
+### Rebecca Foon / Aliayta Foon-Dancoe - Reverie
 
 tbd
 
 ::genre::
 
-## Revenira - Neo Tokyo 2125, Part II: Fear
+### Revenira - Neo Tokyo 2125, Part II: Fear
 
 tbd
 
 ::genre::
 
-## Rindert Lammers - Thank You Kirin Kiki
+### Rindert Lammers - Thank You Kirin Kiki
 
 tbd
 
 ::genre::
 
-## Rocket - Versions Of You
+### Rocket - Versions Of You
 
 tbd
 
 ::genre::
 
-## Room 82 - The Year of the Awakening
+### Room 82 - The Year of the Awakening
 
 tbd
 
 ::genre::
 
-## Russ Ballard - Songs From The Warehouse/The Hits Rewired
+### Russ Ballard - Songs From The Warehouse/The Hits Rewired
 
 tbd
 
 ::genre::
 
-## Russell Haswell - Deep Time
+### Russell Haswell - Deep Time
 
 tbd
 
 ::genre::
 
-## Ryoji Shinomoto - Children Of Bushido
+### Ryoji Shinomoto - Children Of Bushido
 
 tbd
 
 ::genre::
 
-## SAROST - Aurora
+### SAROST - Aurora
 
 tbd
 
 ::genre::
 
-## SAULT - 10
+### SAULT - 10
 
 tbd
 
 ::genre::
 
-## Septarian - Bludgeon the Offended
+### Septarian - Bludgeon the Offended
 
 tbd
 
 ::genre::
 
-## Serpentes - Desert Psalms
+### Serpentes - Desert Psalms
 
 tbd
 
 ::genre::
 
-## Set // Adrift - To Love is to Regret
+### Set // Adrift - To Love is to Regret
 
 tbd
 
 ::genre::
 
-## Sick N' Beautiful - Horror Vacui
+### Sick N' Beautiful - Horror Vacui
 
 tbd
 
 ::genre::
 
-## Sieren - Emergence
+### Sieren - Emergence
 
 tbd
 
 ::genre::
 
-## SOFT PLAY - HEAVIER JELLY
+### SOFT PLAY - HEAVIER JELLY
 
 tbd
 
 ::genre::
 
-## Stela Cole - I Die Where You Begin
+### Stela Cole - I Die Where You Begin
 
 tbd
 
 ::genre::
 
-## Stoic Suffering - All Tomorrows
+### Stoic Suffering - All Tomorrows
 
 tbd
 
 ::genre::
 
-## Summoning Torments - IN FINE OMNIUM RELIGIONUM
+### Summoning Torments - IN FINE OMNIUM RELIGIONUM
 
 tbd
 
 ::genre::
 
-## sunnbrella - gutter angel
+### sunnbrella - gutter angel
 
 tbd
 
 ::genre::
 
-## Superheaven - Superheaven
+### Superheaven - Superheaven
 
 tbd
 
 ::genre::
 
-## Teramaze - The Harmony Machine
+### Teramaze - The Harmony Machine
 
 tbd
 
 ::genre::
 
-## Tetramorphe Impure - The Sunset Of Being
+### Tetramorphe Impure - The Sunset Of Being
 
 tbd
 
 ::genre::
 
-## That Mexican OT, Sauce Walka - Chicken & Sauce
+### That Mexican OT, Sauce Walka - Chicken & Sauce
 
 tbd
 
 ::genre::
 
-## The Convenience - Like Cartoon Vampires
+### The Convenience - Like Cartoon Vampires
 
 tbd
 
 ::genre::
 
-## The Pale White - The Big Sad
+### The Pale White - The Big Sad
 
 tbd
 
 ::genre::
 
-## Therion - Beyond The Darkest Veil Of Time
+### Therion - Beyond The Darkest Veil Of Time
 
 tbd
 
 ::genre::
 
-## Thisquietarmy - Langue Hybride
+### Thisquietarmy - Langue Hybride
 
 tbd
 
 ::genre::
 
-## Treewax - Void Intention
+### Treewax - Void Intention
 
 tbd
 
 ::genre::
 
-## Tribunal - In Penitence And Ruin
+### Tribunal - In Penitence And Ruin
 
 tbd
 
 ::genre::
 
-## Tunde Adebimpe - Thee Black Boltz
+### Tunde Adebimpe - Thee Black Boltz
 
 tbd
 
 ::genre::
 
-## uKanDanZ - የክፋት እቅድ
+### uKanDanZ - የክፋት እቅድ
 
 tbd
 
 ::genre::
 
-## Ungraven - Hollows Made Homes In Their Sunken Cheeks
+### Ungraven - Hollows Made Homes In Their Sunken Cheeks
 
 tbd
 
 ::genre::
 
-## Valfeanor - Awareness
+### Valfeanor - Awareness
 
 tbd
 
 ::genre::
 
-## VC-118A, CRC - Flow Zone
+### VC-118A, CRC - Flow Zone
 
 tbd
 
 ::genre::
 
-## Visionatica - Harrowing Insight
+### Visionatica - Harrowing Insight
 
 tbd
 
 ::genre::
 
-## Warner Chappell Production Music, Hasard Noir - Fortuna
+### Warner Chappell Production Music, Hasard Noir - Fortuna
 
 tbd
 
 ::genre::
 
-## Westside Gunn - Heels Have Eyes
+### Westside Gunn - Heels Have Eyes
 
 tbd
 
 ::genre::
 
-## Wind Down - Burning Past
+### Wind Down - Burning Past
 
 tbd
 
 ::genre::
 
-## Wither//Bloom - Weeping Season, Vol. 2
+### Wither//Bloom - Weeping Season, Vol. 2
 
 tbd
 
 ::genre::
 
-## Перемотка - Зелёный луч
+### Перемотка - Зелёный луч
 
 tbd
 
@@ -716,217 +716,217 @@ tbd
 
 ## Earlier the week ...
 
-## Animus the Fox - ELECTRIC FANTASY
+### Animus the Fox - ELECTRIC FANTASY
 
 tbd
 
 ::genre::
 
-## Awkward - Bad Invention
+### Awkward - Bad Invention
 
 tbd
 
 ::genre::
 
-## Bill Fox - Resonance
+### Bill Fox - Resonance
 
 tbd
 
 ::genre::
 
-## Birthrite - You Need Birthrite
+### Birthrite - You Need Birthrite
 
 tbd
 
 ::genre::
 
-## Brain Stem - Nullified
+### Brain Stem - Nullified
 
 tbd
 
 ::genre::
 
-## Brass Camel - Camel
+### Brass Camel - Camel
 
 tbd
 
 ::genre::
 
-## Cleaner Vacuum - Henceforth
+### Cleaner Vacuum - Henceforth
 
 tbd
 
 ::genre::
 
-## Divide and Dissolve - Insatiable
+### Divide and Dissolve - Insatiable
 
 tbd
 
 ::genre::
 
-## Fabulous Desaster - Crucify This!
+### Fabulous Desaster - Crucify This!
 
 tbd
 
 ::genre::
 
-## Fredrik Kronkvist - Out of the Blue
+### Fredrik Kronkvist - Out of the Blue
 
 tbd
 
 ::genre::
 
-## Gadi Caplan - Play It Again
+### Gadi Caplan - Play It Again
 
 tbd
 
 ::genre::
 
-## Grand Buffalo - Once and for All
+### Grand Buffalo - Once and for All
 
 tbd
 
 ::genre::
 
-## Jay Tausig - Ad Infinitum
+### Jay Tausig - Ad Infinitum
 
 tbd
 
 ::genre::
 
-## Karl Evangelista - Solace Angles
+### Karl Evangelista - Solace Angles
 
 tbd
 
 ::genre::
 
-## Mc4Len - Part of the Journey
+### Mc4Len - Part of the Journey
 
 tbd
 
 ::genre::
 
-## Moon Halo - Trichotomy
+### Moon Halo - Trichotomy
 
 tbd
 
 ::genre::
 
-## Nainita Desai - Tesselation
+### Nainita Desai - Tesselation
 
 tbd
 
 ::genre::
 
-## Nova Dive - 夢の中で
+### Nova Dive - 夢の中で
 
 tbd
 
 ::genre::
 
-## Odalie - Optimistic Nihilism
+### Odalie - Optimistic Nihilism
 
 tbd
 
 ::genre::
 
-## Phuyu y la Fantasma - La antropofagia nos une
+### Phuyu y la Fantasma - La antropofagia nos une
 
 tbd
 
 ::genre::
 
-## Plenilunio - Nascere qui...
+### Plenilunio - Nascere qui...
 
 tbd
 
 ::genre::
 
-## Real Lies - We Will Annihilate Our Enemies
+### Real Lies - We Will Annihilate Our Enemies
 
 tbd
 
 ::genre::
 
-## Red Moon Architect - October Decay
+### Red Moon Architect - October Decay
 
 tbd
 
 ::genre::
 
-## Rick Miller - Perspective
+### Rick Miller - Perspective
 
 tbd
 
 ::genre::
 
-## Robert DelGatto - The Long Road Home
+### Robert DelGatto - The Long Road Home
 
 tbd
 
 ::genre::
 
-## Robert Reed - Sanctuary IV
+### Robert Reed - Sanctuary IV
 
 tbd
 
 ::genre::
 
-## Shusei's Project - Life Through Journey
+### Shusei's Project - Life Through Journey
 
 tbd
 
 ::genre::
 
-## Singlelito - Non-Consciousness
+### Singlelito - Non-Consciousness
 
 tbd
 
 ::genre::
 
-## Sparrow Sleeps, Senses Fail, Saves The Day - Lullaby covers of Senses Fail and Saves the Day songs
+### Sparrow Sleeps, Senses Fail, Saves The Day - Lullaby covers of Senses Fail and Saves the Day songs
 
 tbd
 
 ::genre::
 
-## SubLunar - A Random Moment Of Stillness
+### SubLunar - A Random Moment Of Stillness
 
 tbd
 
 ::genre::
 
-## Taledrops - Visions of a Dying Dream
+### Taledrops - Visions of a Dying Dream
 
 tbd
 
 ::genre::
 
-## Valentina Magaletti, Fanny Chiarello - Gym Douce
+### Valentina Magaletti, Fanny Chiarello - Gym Douce
 
 tbd
 
 ::genre::
 
-## Varnheim - VOID
+### Varnheim - VOID
 
 tbd
 
 ::genre::
 
-## Wu-Tang Clan - Black Samson, The Bastard Swordsman
+### Wu-Tang Clan - Black Samson, The Bastard Swordsman
 
 tbd
 
 ::genre::
 
-## Zmarłym - Wielkie Zanikanie
+### Zmarłym - Wielkie Zanikanie
 
 tbd
 
 ::genre::
 
-## éric la casa - Zones Portuaires 2
+### éric la casa - Zones Portuaires 2
 
 tbd
 

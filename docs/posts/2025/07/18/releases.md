@@ -8,19 +8,19 @@ categories:
 
 ## Friday
 
-## Abigail Williams - A Void Within Existence **
+### Abigail Williams - A Void Within Existence **
 
 Genre: Melodic Black Metal
 
 ::genre::melo black metal
 
-## Above & Beyond - Bigger Than All of Us
+### Above & Beyond - Bigger Than All of Us
 
 tbd
 
 ::genre::
 
-## Accidental Caps - Veneficus Astrum
+### Accidental Caps - Veneficus Astrum
 
 tbd
 
@@ -28,679 +28,679 @@ tbd
 
 <!-- more -->
 
-## Alex G - Headlights
+### Alex G - Headlights
 
 Genre: Indie-Folk, Alt-Rock
 
 ::genre::indie folk, alt rock
 
-## Alex Warren - You'll Be Alright, Kid
+### Alex Warren - You'll Be Alright, Kid
 
 tbd
 
 ::genre::
 
-## allalonealaska - COC00N.
+### allalonealaska - COC00N.
 
 tbd
 
 ::genre::
 
-## Ashes Of Ares - New Messiahs
+### Ashes Of Ares - New Messiahs
 
 tbd
 
 ::genre::
 
-## Ba'al - The Fine Line Between Heaven and Here
+### Ba'al - The Fine Line Between Heaven and Here
 
 tbd
 
 ::genre::
 
-## Billie Marten - Dog Eared
+### Billie Marten - Dog Eared
 
 Genre: Singer & Songwriter, Alt-Folk, Indie-Folk
 
 ::genre::alt folk, indie folk
 
-## Blind Equation - A Funeral In Purgatory
+### Blind Equation - A Funeral In Purgatory
 
 tbd
 
 ::genre::
 
-## Bodega - Rot In Helvetica
+### Bodega - Rot In Helvetica
 
 tbd
 
 ::genre::
 
-## Burnt Pink, Swarvy - Tall World
+### Burnt Pink, Swarvy - Tall World
 
 tbd
 
 ::genre::
 
-## Bush - I Beat Loneliness
+### Bush - I Beat Loneliness
 
 tbd
 
 ::genre::
 
-## Cam - All Things Light
+### Cam - All Things Light
 
 tbd
 
 ::genre::
 
-## Cell - I will not be found here After
+### Cell - I will not be found here After
 
 Genre: Deathcore
 
 ::genre::deathcore
 
-## Che - Rest in Bass
+### Che - Rest in Bass
 
 tbd
 
 ::genre::
 
-## Clairvoyance - Chasm Of Immurement
+### Clairvoyance - Chasm Of Immurement
 
 tbd
 
 ::genre::
 
-## Crematory - Illusions
+### Crematory - Illusions
 
 tbd
 
 ::genre::
 
-## Cryptopsy - Blasphemy Made Flesh
+### Cryptopsy - Blasphemy Made Flesh
 
 tbd
 
 ::genre::
 
-## Darko - Canvas
+### Darko - Canvas
 
 tbd
 
 ::genre::
 
-## Daron Malakian And Scars On Broadway - Addicted To The Violence
+### Daron Malakian And Scars On Broadway - Addicted To The Violence
 
 tbd
 
 ::genre::
 
-## Dave Stewart - Dave Does Dylan
+### Dave Stewart - Dave Does Dylan
 
 tbd
 
 ::genre::
 
-## Dice - Awen Energy From Outer Space
+### Dice - Awen Energy From Outer Space
 
 tbd
 
 ::genre::
 
-## Dirty Nice - Planet Weekend
+### Dirty Nice - Planet Weekend
 
 tbd
 
 ::genre::
 
-## Disiniblud - Disiniblud
+### Disiniblud - Disiniblud
 
 tbd
 
 ::genre::
 
-## DJ Haram - Beside Myself
+### DJ Haram - Beside Myself
 
 tbd
 
 ::genre::
 
-## Doracor - Unexpected Intersections
+### Doracor - Unexpected Intersections
 
 tbd
 
 ::genre::
 
-## Dream, Ivory - When you come back I have so much to tell you
+### Dream, Ivory - When you come back I have so much to tell you
 
 Genre: Alt-Rock, Post-Rock
 
 ::genre::alt rock, post rock
 
-## Drought - Souvenir
+### Drought - Souvenir
 
 tbd
 
 ::genre::
 
-## Effuse - On Others
+### Effuse - On Others
 
 tbd
 
 ::genre::
 
-## Eidola - The Architect
+### Eidola - The Architect
 
 tbd
 
 ::genre::
 
-## Einmusik - Bella Mar 12
+### Einmusik - Bella Mar 12
 
 tbd
 
 ::genre::
 
-## Entrails - Grip of Ancient Evil
+### Entrails - Grip of Ancient Evil
 
 Genre: Swedish Death Metal
 
 ::genre::death metal
 
-## Erode - Devout
+### Erode - Devout
 
 tbd
 
 ::genre::
 
-## Eternal Darkness - Eternal Darkness
+### Eternal Darkness - Eternal Darkness
 
 tbd
 
 ::genre::
 
-## Filth - Time To Rot
+### Filth - Time To Rot
 
 tbd
 
 ::genre::
 
-## Firstborne - Lucky
+### Firstborne - Lucky
 
 tbd
 
 ::genre::
 
-## Fletcher - Would You Still Love Me If You Really Knew Me?
+### Fletcher - Would You Still Love Me If You Really Knew Me?
 
 tbd
 
 ::genre::
 
-## Forbidden Order - It All Comes Down To This
+### Forbidden Order - It All Comes Down To This
 
 tbd
 
 ::genre::
 
-## Forth Wanderers - The Longer This Goes On
+### Forth Wanderers - The Longer This Goes On
 
 Genre: Alt-Pop, Indie-Pop
 
 ::genre::alt pop, indie pop
 
-## Gelo - League of My Own
+### Gelo - League of My Own
 
 tbd
 
 ::genre::
 
-## Gosudar, Tsygun - Split
+### Gosudar, Tsygun - Split
 
 Genre: Drone Death Metal, D-Beat, Death Metal
 
 ::genre::death metal, d-beat
 
-## Human Is Alive, Silvia Blaser - Quiet Earth
+### Human Is Alive, Silvia Blaser - Quiet Earth
 
 Genre: Ambient, Drone
 
 ::genre::ambient, drone
 
-## Ian Hawgood - melloxcoco tapes
+### Ian Hawgood - melloxcoco tapes
 
 tbd
 
 ::genre::
 
-## In/Vertigo - Prevail
+### In/Vertigo - Prevail
 
 tbd
 
 ::genre::
 
-## Jack Vanzet, Thrupence - Empty Maps
+### Jack Vanzet, Thrupence - Empty Maps
 
 Genre: Modern Jazz, Modern Classic
 
 ::genre::modern jazz, modern classic
 
-## Jade Bird - Who Wants to Talk About Love?
+### Jade Bird - Who Wants to Talk About Love?
 
 tbd
 
 ::genre::
 
-## Jah Wobble - Dub Volume 1
+### Jah Wobble - Dub Volume 1
 
 tbd
 
 ::genre::
 
-## Jamie Lidell - Places Of Unknowing
+### Jamie Lidell - Places Of Unknowing
 
 tbd
 
 ::genre::
 
-## Jess Ribeiro - Mixtape
+### Jess Ribeiro - Mixtape
 
 Genre: Retro-Soul, Indie-Pop
 
 ::genre::soul, indie pop
 
-## Jessie Murph - Sex Hysteria
+### Jessie Murph - Sex Hysteria
 
 tbd
 
 ::genre::
 
-## Joe Bonamassa - Breakthrough
+### Joe Bonamassa - Breakthrough
 
 tbd
 
 ::genre::
 
-## Johnson's Bridge - Waypoint
+### Johnson's Bridge - Waypoint
 
 tbd
 
 ::genre::
 
-## Joyner Lucas - ADHD 2
+### Joyner Lucas - ADHD 2
 
 tbd
 
 ::genre::
 
-## Julia Gjertsen, Gustav Davidsson - Wandering Mind, Drifting Weather
+### Julia Gjertsen, Gustav Davidsson - Wandering Mind, Drifting Weather
 
 Genre: Modern Classic, Modern Jazz, Ambient
 
 ::genre::modern classic, modern jazz, ambient
 
-## Kaptain Kollnot - The Aquarius Shift
+### Kaptain Kollnot - The Aquarius Shift
 
 tbd
 
 ::genre::
 
-## Keri Noble - Back to Life
+### Keri Noble - Back to Life
 
 Genre: Folk-Pop, Indie-Pop
 
 ::genre::folk pop, indie pop
 
-## Kiln - Lemon Borealis
+### Kiln - Lemon Borealis
 
 Genre: LoFi Electronica
 
 ::genre::lofi, electronica
 
-## Koko Taylor - Crown Jewels
+### Koko Taylor - Crown Jewels
 
 tbd
 
 ::genre::
 
-## Kombynat Robotron - Aank
+### Kombynat Robotron - Aank
 
 tbd
 
 ::genre::
 
-## Laura Jane Grace - Adventure Club
+### Laura Jane Grace - Adventure Club
 
 Genre: Punk
 
 ::genre::punk rock
 
-## Lord Huron - The Cosmic Selector Vol. 1
+### Lord Huron - The Cosmic Selector Vol. 1
 
 Genre: Alt-Folk, Indie-Folk
 
 ::genre::alt folk, indie folk
 
-## Madeline Kenney - Kiss from the Balcony
+### Madeline Kenney - Kiss from the Balcony
 
 Genre: Alt-Pop, Alt-Rock, Indie-Pop
 
 ::genre::alt pop, alt rock, indie pop
 
-## Mamaleek - Cadejos + Those Who Pass Between Fleeting Words
+### Mamaleek - Cadejos + Those Who Pass Between Fleeting Words
 
 tbd
 
 ::genre::
 
-## Marbin - Marbinico
+### Marbin - Marbinico
 
 tbd
 
 ::genre::
 
-## Margarita Witch Cult - Strung Out In Hell *
+### Margarita Witch Cult - Strung Out In Hell *
 
 Genre: sludge rock, Psychedelic Stoner
 
 ::genre::sludge metal, psych rock, stoner rock
 
-## Mauricio Reyes, Carl Michael Von Hausswolff - Visible Sound: Nikola Tesla's Mattergy
+### Mauricio Reyes, Carl Michael Von Hausswolff - Visible Sound: Nikola Tesla's Mattergy
 
 tbd
 
 ::genre::
 
-## Mawiza - ÜL
+### Mawiza - ÜL
 
 tbd
 
 ::genre::
 
-## Max Cruise - Neon Vice
+### Max Cruise - Neon Vice
 
 Genre: New Retro Wave
 
 ::genre::new retro wave
 
-## Message To Bears - Tired Eyes, Waking Hearts
+### Message To Bears - Tired Eyes, Waking Hearts
 
 tbd
 
 ::genre::
 
-## Mirabi Frame - Hedgehog’s Dilemma
+### Mirabi Frame - Hedgehog’s Dilemma
 
 tbd
 
 ::genre::
 
-## Misery Whip - The Right To Live In Peace
+### Misery Whip - The Right To Live In Peace
 
 tbd
 
 ::genre::
 
-## Monashee - 4337
+### Monashee - 4337
 
 tbd
 
 ::genre::
 
-## Moux - Seasons Of The Mind
+### Moux - Seasons Of The Mind
 
 tbd
 
 ::genre::
 
-## Natalie Bergman - My Home Is Not in This World
+### Natalie Bergman - My Home Is Not in This World
 
 tbd
 
 ::genre::
 
-## Nefarious - Addicted To Power
+### Nefarious - Addicted To Power
 
 tbd
 
 ::genre::
 
-## Nicolai Dunger - Rooto The Fruit
+### Nicolai Dunger - Rooto The Fruit
 
 Genre: Singer & Songwriter, Hispanic Guitar Folk, Indie-Folk
 
 ::genre::lofi, indie folk
 
-## One More Satellite - One More Satellite
+### One More Satellite - One More Satellite
 
 tbd
 
 ::genre::
 
-## Osi And The Jupiter - Larvatus
+### Osi And The Jupiter - Larvatus
 
 Genre: Singer & Songwriter, Neo-Folk
 
 ::genre::prog folk
 
-## Oskoreien - Hollow Fangs
+### Oskoreien - Hollow Fangs
 
 tbd
 
 ::genre::
 
-## Panic Shack - Panic Shack
+### Panic Shack - Panic Shack
 
 tbd
 
 ::genre::
 
-## Paul Bartolome - Fake Hollywood
+### Paul Bartolome - Fake Hollywood
 
 tbd
 
 ::genre::
 
-## Phantom Spell - Heather & Hearth
+### Phantom Spell - Heather & Hearth
 
 tbd
 
 ::genre::
 
-## Phi Yaan-Zek - Inner Cosmic Spiral
+### Phi Yaan-Zek - Inner Cosmic Spiral
 
 tbd
 
 ::genre::
 
-## Purl - Himmel Under Hav
+### Purl - Himmel Under Hav
 
 Genre: Ambient, Drone
 
 ::genre::ambient, drone
 
-## Raekwon - The Emperor's New Clothes
+### Raekwon - The Emperor's New Clothes
 
 tbd
 
 ::genre::
 
-## Ramonda - The Walls Are Crumbling Down
+### Ramonda - The Walls Are Crumbling Down
 
 tbd
 
 ::genre::
 
-## Re-Buried - Flesh Mourning
+### Re-Buried - Flesh Mourning
 
 Genre: Death Metal
 
 ::genre::death metal
 
-## Recorruptor - Sorrow Will Drown Us All
+### Recorruptor - Sorrow Will Drown Us All
 
 tbd
 
 ::genre::
 
-## RIO KOSTA - Unicorn
+### RIO KOSTA - Unicorn
 
 tbd
 
 ::genre::
 
-## Rio Romeo - Good Grief!
+### Rio Romeo - Good Grief!
 
 tbd
 
 ::genre::
 
-## Ritualz - FOREVER
+### Ritualz - FOREVER
 
 tbd
 
 ::genre::
 
-## Sakoya - New Man
+### Sakoya - New Man
 
 tbd
 
 ::genre::
 
-## Samora Pinderhughes - Black Spring
+### Samora Pinderhughes - Black Spring
 
 Genre: Indie-Pop, Hip-Hop, Soul
 
 ::genre::indie pop, hip hop, neo soul
 
-## Scardust - Souls
+### Scardust - Souls
 
 tbd
 
 ::genre::
 
-## Scars On Broadway - Addicted To The Violence
+### Scars On Broadway - Addicted To The Violence
 
 tbd
 
 ::genre::
 
-## Shardik - Cruelty Baccanal
+### Shardik - Cruelty Baccanal
 
 tbd
 
 ::genre::
 
-## Silkmoney - Who Waters the Wilting Giving Tree Once the Leaves Dry Up and Fruits No Longer Bear?
+### Silkmoney - Who Waters the Wilting Giving Tree Once the Leaves Dry Up and Fruits No Longer Bear?
 
 tbd
 
 ::genre::
 
-## Sir Mix-A-Lot - Nasty Bangers (Songs to Throw It Back To)
+### Sir Mix-A-Lot - Nasty Bangers (Songs to Throw It Back To)
 
 tbd
 
 ::genre::
 
-## Slaughter To Prevail - Grizzly
+### Slaughter To Prevail - Grizzly
 
 Genre: Deathcore
 
 ::genre::deathcore
 
-## Sofie Birch, Antonina Nowacka - Hiraeth
+### Sofie Birch, Antonina Nowacka - Hiraeth
 
 Genre: Ambient Indie-Pop
 
 ::genre::indie pop, bedroom pop
 
-## Sophie Hutchings - Become The Sky
+### Sophie Hutchings - Become The Sky
 
 Genre: Modern Classic
 
 ::genre::modern classic
 
-## Still Depths - Like Hell!
+### Still Depths - Like Hell!
 
 tbd
 
 ::genre::
 
-## Stomach - Low Demon
+### Stomach - Low Demon
 
 tbd
 
 ::genre::
 
-## Styx - Circling From Above
+### Styx - Circling From Above
 
 Genre: Hard Rock, Progressive Rock
 
 ::genre::hard rock, prog rock, arena rock
 
-## Sunken State - Hunting Ghosts, Finding Demons
+### Sunken State - Hunting Ghosts, Finding Demons
 
 tbd
 
 ::genre::
 
-## The Fuzztones - Buried Treasure
+### The Fuzztones - Buried Treasure
 
 Genre: Psychedelic Rock, Garage Rock
 
 ::genre::psych rock, garage rock
 
-## The Microgram - Dead Stars, Dying Planet
+### The Microgram - Dead Stars, Dying Planet
 
 Genre: Experimental Electronica, Drone, Ambient
 
 ::genre::experimental electronica, ambient, drone
 
-## The Requiem - A Cure to Poison the World
+### The Requiem - A Cure to Poison the World
 
 tbd
 
 ::genre::
 
-## The Washing Planck - The Dimensional Loom
+### The Washing Planck - The Dimensional Loom
 
 tbd
 
 ::genre::
 
-## This Dying Hour - CRISIS : EXISTENCE
+### This Dying Hour - CRISIS : EXISTENCE
 
 tbd
 
 ::genre::
 
-## Throatcut. - Resilience
+### Throatcut. - Resilience
 
 tbd
 
 ::genre::
 
-## Trisha Yearwood - The Mirror
+### Trisha Yearwood - The Mirror
 
 tbd
 
 ::genre::
 
-## We Are Scientists - Qualifying Miles
+### We Are Scientists - Qualifying Miles
 
 Genre: Indie-Folk
 
 ::genre::indie folk
 
-## Wizards of Osgoode - Make Do Breathe Mind
+### Wizards of Osgoode - Make Do Breathe Mind
 
 tbd
 
 ::genre::
 
-## Zac Farro - Operator
+### Zac Farro - Operator
 
 tbd
 
@@ -710,331 +710,331 @@ tbd
 
 ## Earlier the week ...
 
-## Aaron Lee Tasjan - Get Over It, Underdog
+### Aaron Lee Tasjan - Get Over It, Underdog
 
 tbd
 
 ::genre::
 
-## Agile Experiments - Havana
+### Agile Experiments - Havana
 
 tbd
 
 ::genre::
 
-## American Vanity - 17
+### American Vanity - 17
 
 tbd
 
 ::genre::
 
-## Arc Liminal - Reset Company
+### Arc Liminal - Reset Company
 
 tbd
 
 ::genre::
 
-## As It Is - As It Is
+### As It Is - As It Is
 
 tbd
 
 ::genre::
 
-## Bangalore Choir - Rapid Fire Succession: On Target Part Il
+### Bangalore Choir - Rapid Fire Succession: On Target Part Il
 
 tbd
 
 ::genre::
 
-## Blurstem - Cedar Grove
+### Blurstem - Cedar Grove
 
 Genre: Modern Classic, Ambient
 
 ::genre::modern classic, ambient
 
-## Echoes of Gloom - The Mind's Eternal Storm
+### Echoes of Gloom - The Mind's Eternal Storm
 
 tbd
 
 ::genre::
 
-## Elongated Borzoi - Where are we Going? But a Large Barge with a Radio Antenna Tower On it!
+### Elongated Borzoi - Where are we Going? But a Large Barge with a Radio Antenna Tower On it!
 
 tbd
 
 ::genre::
 
-## Estelares - Los Lobos
+### Estelares - Los Lobos
 
 Genre: Alt-Pop, Indie-Pop
 
 ::genre::alt pop, indie pop
 
-## Fantastic Negrito - Fantastic Negrito Alive!
+### Fantastic Negrito - Fantastic Negrito Alive!
 
 tbd
 
 ::genre::
 
-## Foreigner - In the Eye of the Storm
+### Foreigner - In the Eye of the Storm
 
 tbd
 
 ::genre::
 
-## Gonçalo F. Cardoso - Impressões de Várias Ilhas
+### Gonçalo F. Cardoso - Impressões de Várias Ilhas
 
 tbd
 
 ::genre::
 
-## Gracie Abrams - Daughter from Hell
+### Gracie Abrams - Daughter from Hell
 
 tbd
 
 ::genre::
 
-## Helado Negro and Reyna Tropical - Helado Tropical
+### Helado Negro and Reyna Tropical - Helado Tropical
 
 tbd
 
 ::genre::
 
-## JackBoysandTravis Scott - JackBoys 2
+### JackBoysandTravis Scott - JackBoys 2
 
 tbd
 
 ::genre::
 
-## Kasabian - Act III
+### Kasabian - Act III
 
 tbd
 
 ::genre::
 
-## Lenny Kaye - Goin’ Local
+### Lenny Kaye - Goin’ Local
 
 tbd
 
 ::genre::
 
-## Lightning Bug - In Between Things
+### Lightning Bug - In Between Things
 
 tbd
 
 ::genre::
 
-## Loathe - A Stranger To You
+### Loathe - A Stranger To You
 
 tbd
 
 ::genre::
 
-## Macky Ar - A Liar's Prophecy
+### Macky Ar - A Liar's Prophecy
 
 tbd
 
 ::genre::
 
-## Maneige - Images
+### Maneige - Images
 
 tbd
 
 ::genre::
 
-## Mary Pedicini and Asher Levitas - I Wish We Could Tell You Everything
+### Mary Pedicini and Asher Levitas - I Wish We Could Tell You Everything
 
 tbd
 
 ::genre::
 
-## Max Subar - Anything Could Be
+### Max Subar - Anything Could Be
 
 tbd
 
 ::genre::
 
-## Messiah - Legacy: Total Recall Volume 1
+### Messiah - Legacy: Total Recall Volume 1
 
 tbd
 
 ::genre::
 
-## Mihrax - Medley of a Life
+### Mihrax - Medley of a Life
 
 tbd
 
 ::genre::
 
-## Mouth Of Madness - Event Horizon
+### Mouth Of Madness - Event Horizon
 
 tbd
 
 ::genre::
 
-## Nancy Ajram - Nancy 11
+### Nancy Ajram - Nancy 11
 
 tbd
 
 ::genre::
 
-## Orbigon - Helix Hijinks
+### Orbigon - Helix Hijinks
 
 tbd
 
 ::genre::
 
-## Oxis - Oxis 9
+### Oxis - Oxis 9
 
 tbd
 
 ::genre::
 
-## People Like Us - Copia
+### People Like Us - Copia
 
 tbd
 
 ::genre::
 
-## Pertegò - Midnight Stories
+### Pertegò - Midnight Stories
 
 Genre: Cinematic Ambient, Cinematic Pop
 
 ::genre::cine ambient, cine pop
 
-## Primal Age - Until The Last Breath
+### Primal Age - Until The Last Breath
 
 tbd
 
 ::genre::
 
-## Pythagorean - Concrete Bloom
+### Pythagorean - Concrete Bloom
 
 tbd
 
 ::genre::
 
-## Queen - Anthems
+### Queen - Anthems
 
 tbd
 
 ::genre::
 
-## Queen - Funk
+### Queen - Funk
 
 tbd
 
 ::genre::
 
-## Quicksand - Bring On The Psychics
+### Quicksand - Bring On The Psychics
 
 tbd
 
 ::genre::
 
-## Rival Consoles - Landscape from Memory
+### Rival Consoles - Landscape from Memory
 
 tbd
 
 ::genre::
 
-## Run River North - Perfect
+### Run River North - Perfect
 
 Genre: Indie-Rock, Indie-Pop
 
 ::genre::indie rock, indie pop
 
-## Sarah Bahr x Sound.Codes - Safien Album / Susana López - Materia Vibrante
+### Sarah Bahr x Sound.Codes - Safien Album / Susana López - Materia Vibrante
 
 tbd
 
 ::genre::
 
-## Scape One - Calisto Rising
+### Scape One - Calisto Rising
 
 Genre: Electronica
 
 ::genre::electronica
 
-## Survival Tactics - THE FLESH OF OUR FRUIT
+### Survival Tactics - THE FLESH OF OUR FRUIT
 
 tbd
 
 ::genre::
 
-## Swampmeet - Mount Zero
+### Swampmeet - Mount Zero
 
 tbd
 
 ::genre::
 
-## Tesla - Homage
+### Tesla - Homage
 
 tbd
 
 ::genre::
 
-## The Interlaken Tapes - 2
+### The Interlaken Tapes - 2
 
 tbd
 
 ::genre::
 
-## The Menzingers - Everything I Ever Saw
+### The Menzingers - Everything I Ever Saw
 
 tbd
 
 ::genre::
 
-## Tricky - Different When It’s Silent
+### Tricky - Different When It’s Silent
 
 tbd
 
 ::genre::
 
-## unitrΔ_Δudio - summer somewhere
+### unitrΔ_Δudio - summer somewhere
 
 tbd
 
 ::genre::
 
-## Various Artists - veneration for the sacred action
+### Various Artists - veneration for the sacred action
 
 tbd
 
 ::genre::
 
-## VOCALAND - En Voyage
+### VOCALAND - En Voyage
 
 tbd
 
 ::genre::
 
-## Víctor Rodríguez - Fragmentos de la torre
+### Víctor Rodríguez - Fragmentos de la torre
 
 tbd
 
 ::genre::
 
-## Yak - The Pink Man & The Bishop
+### Yak - The Pink Man & The Bishop
 
 tbd
 
 ::genre::
 
-## Yard Act - You’re Gonna Need A Little Music
+### Yard Act - You’re Gonna Need A Little Music
 
 tbd
 
 ::genre::
 
-## Zeru - Zeru
+### Zeru - Zeru
 
 tbd
 
 ::genre::
 
-## ZooChee4 - We Are ZooChee4
+### ZooChee4 - We Are ZooChee4
 
 tbd
 

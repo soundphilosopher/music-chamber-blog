@@ -8,19 +8,19 @@ categories:
 
 ## Friday
 
-## A Hero To Fall - Riptide
+### A Hero To Fall - Riptide
 
 tbd
 
 ::genre::
 
-## Ablaze in Veins - Stride for Solace
+### Ablaze in Veins - Stride for Solace
 
 tbd
 
 ::genre::
 
-## AdvenA - Edens Hide
+### AdvenA - Edens Hide
 
 tbd
 
@@ -28,127 +28,127 @@ tbd
 
 <!-- more -->
 
-## CMPT - Na Utrini
+### CMPT - Na Utrini
 
 tbd
 
 ::genre::
 
-## David Wax Museum - Secret Creature
+### David Wax Museum - Secret Creature
 
 tbd
 
 ::genre::
 
-## Dominum - The Dead Don't Die
+### Dominum - The Dead Don't Die
 
 tbd
 
 ::genre::
 
-## Eusebeia - Out Of The Ashes
+### Eusebeia - Out Of The Ashes
 
 tbd
 
 ::genre::
 
-## Genocide Kommando - Third World War
+### Genocide Kommando - Third World War
 
 tbd
 
 ::genre::
 
-## Godsmack - Godsmack Power Hour
+### Godsmack - Godsmack Power Hour
 
 tbd
 
 ::genre::
 
-## Kooma - Rain Check
+### Kooma - Rain Check
 
 tbd
 
 ::genre::
 
-## Lament In Winter's Night - Whereunto The Twilight Leads
+### Lament In Winter's Night - Whereunto The Twilight Leads
 
 tbd
 
 ::genre::
 
-## Livealie - Living in the Static
+### Livealie - Living in the Static
 
 tbd
 
 ::genre::
 
-## Nefarious Dusk - Death Beneath A Starless Sky
+### Nefarious Dusk - Death Beneath A Starless Sky
 
 tbd
 
 ::genre::
 
-## Nytt Land - The Tale of the Nisan Shaman
+### Nytt Land - The Tale of the Nisan Shaman
 
 tbd
 
 ::genre::
 
-## Order Of Nosferat - Towards The Nightrealm Of Orlok
+### Order Of Nosferat - Towards The Nightrealm Of Orlok
 
 tbd
 
 ::genre::
 
-## Rauhbein - Adrenalin
+### Rauhbein - Adrenalin
 
 tbd
 
 ::genre::
 
-## REX - Empty Promises
+### REX - Empty Promises
 
 tbd
 
 ::genre::
 
-## Shark Attack Aux - First Bite
+### Shark Attack Aux - First Bite
 
 tbd
 
 ::genre::
 
-## Starcutter - Starcutter
+### Starcutter - Starcutter
 
 tbd
 
 ::genre::
 
-## The Confusions - Songs for Movies
+### The Confusions - Songs for Movies
 
 tbd
 
 ::genre::
 
-## The Veer Union - WELCOME TO DYSTOPIA
+### The Veer Union - WELCOME TO DYSTOPIA
 
 tbd
 
 ::genre::
 
-## Too Late, But Still - Rewrite The Story
+### Too Late, But Still - Rewrite The Story
 
 tbd
 
 ::genre::
 
-## Youth in Revolt - Antisocial Disaster
+### Youth in Revolt - Antisocial Disaster
 
 tbd
 
 ::genre::
 
-## Úlfarr - Fornetes Folm
+### Úlfarr - Fornetes Folm
 
 tbd
 
@@ -158,283 +158,283 @@ tbd
 
 ## Earlier the week ...
 
-## A Thousand Allies - Abandoned Messenger
+### A Thousand Allies - Abandoned Messenger
 
 tbd
 
 ::genre::
 
-## Andrew Lahiff - Across Still Dimensions
+### Andrew Lahiff - Across Still Dimensions
 
 tbd
 
 ::genre::
 
-## AnāʻAnā - Aura Of Blood
+### AnāʻAnā - Aura Of Blood
 
 tbd
 
 ::genre::
 
-## Arnaud Turner, Roy Nathanson - The Promised Land
+### Arnaud Turner, Roy Nathanson - The Promised Land
 
 tbd
 
 ::genre::
 
-## Blazemth - Gehenna
+### Blazemth - Gehenna
 
 tbd
 
 ::genre::
 
-## Camahueto - Reflejos
+### Camahueto - Reflejos
 
 tbd
 
 ::genre::
 
-## Canis Dirus - By The Grace Of Death
+### Canis Dirus - By The Grace Of Death
 
 tbd
 
 ::genre::
 
-## Chris Angels - Short Cuts
+### Chris Angels - Short Cuts
 
 tbd
 
 ::genre::
 
-## Cosmic Ground - area 24
+### Cosmic Ground - area 24
 
 tbd
 
 ::genre::
 
-## Creaturess - Creaturess
+### Creaturess - Creaturess
 
 tbd
 
 ::genre::
 
-## Cult of Scarecrow - In Nomine Filiorum
+### Cult of Scarecrow - In Nomine Filiorum
 
 tbd
 
 ::genre::
 
-## Dave Buchholz - Rural Eclectic
+### Dave Buchholz - Rural Eclectic
 
 tbd
 
 ::genre::
 
-## Die-Band - Atmo
+### Die-Band - Atmo
 
 tbd
 
 ::genre::
 
-## Divididos - Divididos en Argentinos Juniors
+### Divididos - Divididos en Argentinos Juniors
 
 tbd
 
 ::genre::
 
-## dream fatigue - the lady in the sky
+### dream fatigue - the lady in the sky
 
 tbd
 
 ::genre::
 
-## EASÍ - MIENTRAS EL FUEGO ESTÉ ARDIENDO
+### EASÍ - MIENTRAS EL FUEGO ESTÉ ARDIENDO
 
 tbd
 
 ::genre::
 
-## Empusae - Umbrosyne
+### Empusae - Umbrosyne
 
 tbd
 
 ::genre::
 
-## Fabio Zuffanti - Hjarta
+### Fabio Zuffanti - Hjarta
 
 tbd
 
 ::genre::
 
-## Figurehead - The First
+### Figurehead - The First
 
 tbd
 
 ::genre::
 
-## Fossil Aerosol Mining Project - Cliff House Hotel
+### Fossil Aerosol Mining Project - Cliff House Hotel
 
 tbd
 
 ::genre::
 
-## Gnipahålan - Folkstorm
+### Gnipahålan - Folkstorm
 
 tbd
 
 ::genre::
 
-## Half Dome - Wall of the Stone Archer
+### Half Dome - Wall of the Stone Archer
 
 tbd
 
 ::genre::
 
-## Heritix - Temple Of The Moon Goddess
+### Heritix - Temple Of The Moon Goddess
 
 tbd
 
 ::genre::
 
-## ionnalee, iamamiwhoami - KRONOLOGI 2
+### ionnalee, iamamiwhoami - KRONOLOGI 2
 
 tbd
 
 ::genre::
 
-## Kaputth - I
+### Kaputth - I
 
 tbd
 
 ::genre::
 
-## Logoscode / Tony V. - Magic Garden
+### Logoscode / Tony V. - Magic Garden
 
 tbd
 
 ::genre::
 
-## Los Orfebres - Los Orfebres
+### Los Orfebres - Los Orfebres
 
 tbd
 
 ::genre::
 
-## Mantra - Celestial: Winter
+### Mantra - Celestial: Winter
 
 tbd
 
 ::genre::
 
-## Mavorim - In Omnia Paratus
+### Mavorim - In Omnia Paratus
 
 tbd
 
 ::genre::
 
-## Mono - Heaven Vol. 3
+### Mono - Heaven Vol. 3
 
 tbd
 
 ::genre::
 
-## Mosaico Híbrido - R A R E F E I T O
+### Mosaico Híbrido - R A R E F E I T O
 
 tbd
 
 ::genre::
 
-## Noothgrush - Failing Early, Failing Often
+### Noothgrush - Failing Early, Failing Often
 
 tbd
 
 ::genre::
 
-## Noothgrush - Kashyyyk
+### Noothgrush - Kashyyyk
 
 tbd
 
 ::genre::
 
-## Psychedelic Source Records - Old Oak Session
+### Psychedelic Source Records - Old Oak Session
 
 tbd
 
 ::genre::
 
-## Redman - Muddy Waters Too
+### Redman - Muddy Waters Too
 
 tbd
 
 ::genre::
 
-## Richard Bone - We Are Shadow
+### Richard Bone - We Are Shadow
 
 tbd
 
 ::genre::
 
-## SAULT - Acts of Faith
+### SAULT - Acts of Faith
 
 tbd
 
 ::genre::
 
-## Steve Hillman - Evocations
+### Steve Hillman - Evocations
 
 tbd
 
 ::genre::
 
-## still pictures - so much for forever
+### still pictures - so much for forever
 
 tbd
 
 ::genre::
 
-## Storace - Crossfire
+### Storace - Crossfire
 
 tbd
 
 ::genre::
 
-## Ted Morcaldi - Re-Entry
+### Ted Morcaldi - Re-Entry
 
 tbd
 
 ::genre::
 
-## Terje Isungset, Eivind Aarset - In Memory of Nature
+### Terje Isungset, Eivind Aarset - In Memory of Nature
 
 tbd
 
 ::genre::
 
-## The MC2 Project - A Day At The Slopes
+### The MC2 Project - A Day At The Slopes
 
 tbd
 
 ::genre::
 
-## Vspolokh - Mertvozem / Мрьтвоземъ
+### Vspolokh - Mertvozem / Мрьтвоземъ
 
 tbd
 
 ::genre::
 
-## Whirr - Raw Blue
+### Whirr - Raw Blue
 
 tbd
 
 ::genre::
 
-## Winona Riders, Black Market Karma - Duotone
+### Winona Riders, Black Market Karma - Duotone
 
 tbd
 
 ::genre::
 
-## zakè, Benoît Pioulard - eve
+### zakè, Benoît Pioulard - eve
 
 tbd
 
