@@ -282,7 +282,7 @@ Die selbstveröffentlichte Debüt-EP eines Trios aus Bognor Regis an der englisc
 
 ::genre::alt rock, alt metal, industrial metal, groove metal
 
-### Ibibio Sound Machine - Chopping Mountain
+### Ibibio Sound Machine - Chopping Mountain *
 
 Das sechste Album der Londoner Band um Eno Williams, erschienen bei *Merge Records* — produziert von Max Grunhard aus der eigenen Reihe, der diese Rolle zuletzt 2019 bei *Doko Mien* innehatte, aufgenommen in den bandeigenen Vanguard Studios in Südlondon. **Afrobeat**, **Afro Jazz**, **Electronica** und **Post Punk**. Synthesizer, Sequenzer, gehackte Keyboards, zersplitterte Gitarren, Township-Funk und eine dubbige Post-Punk-Disco-Kante. Lautstärke hoch, hier wird getanzt und gemeint! Über zehn Stücke geht es um Liebe, um sozialen und politischen Widerstand, um Einheit und um Heilung, gesellschaftlich wie persönlich. Im Kern des Titelstücks steht die Vorstellung kollektiver Kraft und der Glaube, dass auch die kleinste Handlung am Ende Gewaltiges bewirken kann — Berge werden eben Stück für Stück abgetragen. Das Ergebnis ist ansteckend hörbar und hektisch tanzbar und bleibt dabei standhaft in seinem ekstatischen Streben nach Gerechtigkeit. Großartig.
 
