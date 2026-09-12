@@ -188,7 +188,7 @@ Die 1996 gegründete Indie-Rock-Band unter der Leitung der Brüder Danny und Ric
 
 Ursprünglich als experimentelles, synthlastiges Studioduo von den langjährigen Freunden Jeremie Arrobas und Thomas Szirmay gegründet, hat dieses ambitionierte Projekt über Jahre hinweg eine Vielzahl konzeptioneller Alben veröffentlicht. **Progressive Rock**, Electronic Rock, **Indietronica** und **Synth-Rock**. Dieses Album markiert genau den Moment, in dem die elektronischen Genies beschlossen, zu massiven Gitarren zu greifen, ihre Besetzung zu verdoppeln und sich in ein eingespieltes, vollwertiges Progressive-Rock-Quartett zu verwandeln. Die daraus resultierende Klanglandschaft mit 9 Titeln ist eine düstere, theatralische und intensiv filmische Erkundung menschlicher Begierden und apokalyptischer Zerstörung. Sie hüllt schwere, treibende analoge Synthesizer um hochfliegende progressive Gitarrenbögen und unheimliche Gesangstexte, die vom Gespräch mit der Leere handeln. Sie ist intellektuell, wunderbar schwermütig und errichtet eine Klangwand, die so gewaltig ist, dass sie einen dunklen Raum und ein phänomenales Paar Kopfhörer erfordert.
 
-::genre::prog rock, synth prog rock, indietronica
+::genre::prog rock, indietronica
 
 ## Ex Ponto - Odlazak
 
@@ -200,7 +200,7 @@ Ex Ponto ist das hochkonzeptionelle, multidisziplinäre Elektronikprojekt des in
 
 Diese seit 2019 aktive, aggressive Underground-Band mischt seit Jahren die lokale Hardcore-Szene in der kalifornischen River City mit ihrer rohen, provokativen Live-Präsenz auf. **Crossover-Hardcore**, **Thrash Metal** und **Punk**. Man stelle sich eine extrem heftige Kollision zwischen klassischem Old-School-Hardcore-Punk im Stil von *D.R.I.* und messerscharfem modernem Thrash Metal vor. Zieh deine robusteste, kampferprobte Jeansweste an und bereite deinen Nacken auf einen absoluten Schleudertrauma-Schock vor. Dieses 12-Track-Monster wirkt wie eine außer Kontrolle geratene Kreissäge, die sich geradewegs durch eine Betonwand frisst. Es ist randvoll mit halsbrecherischen Drum-Tempos, vulkanartigen Gesangsausbrüchen und Gitarren-Breakdowns, die so heavy sind, dass sie mit einer strukturellen Sicherheitswarnung versehen sein sollten. Hier gibt es null Studio-Schnickschnack oder radiotauglichen Füllstoff - nur 38 Minuten pure, schweißtreibende, mosh-getriebene Adrenalin, die darauf ausgelegt sind, dir das Gesicht komplett wegzuschmelzen.
 
-::genre::crossover, hardcore punk, thrash metal
+::genre::crossover thrash, hardcore punk, thrash metal
 
 ## Family Worship Center - Only Visiting
 
@@ -302,7 +302,7 @@ Das 2012 gegründete Instrumentalquartett hat sich über ein Jahrzehnt lang als 
 
 Gegründet 2012 von Municipal-Waste-Frontmann Tony Foresta zusammen mit erfahrenen Veteranen von Darkest Hour und Cannabis Corpse. Diese rasante Comeback-EP markiert stolz die Rückkehr ihrer hochgelobten Originalbesetzung - zum ersten Mal seit Jahren. **Crossover-Thrash-Metal**, **Hardcore-Punk**, **Fastcore** und **Thrashcore**. Schnürt eure höchsten Skateschuhe und macht euch bereit, denn dieses sechs Titel umfassende Monster bietet genau zehn Minuten puren, ungezügelten akustischen Schlag. Die Band verzichtet auf überkomplizierte Studio-Spielereien und liefert stattdessen einen halsbrecherischen Angriff aus hyperschnellen Drums, zerklüfteten Thrash-Metal-Riffs und wütendem, bellendem Punk-Gesang. Es ist intensiv schweißtreibend, herrlich laut und politisch knurrend. Es fühlt sich an wie ein absolut chaotischer, zehnminütiger Moshpit, der direkt in deine Trommelfelle gepackt wird, dich atemlos zurücklässt und dich sofort nach mehr betteln lässt.
 
-::genre::crossover, thrash metal, hardcore punk
+::genre::crossover thrash, thrash metal, hardcore punk
 
 ## Jon Spencer - Songs of Personal Loss and Protest
 
@@ -368,7 +368,7 @@ Die 1999 gegründete Band hat sich über Jahrzehnte hinweg in ganz Europa einen 
 
 Die 1992 gegründete legendäre Band prägte maßgeblich die harte, stilübergreifende Underground-Hardcore-Szene Bremens der 90er Jahre, bevor sie sich auflöste. Nach einem Konzert zum 20-jährigen Jubiläum, das ihre kreative Energie wieder entfachte, kam es zu einer unerwarteten Wiedervereinigung, die in diesem grandiosen Comeback-Album gipfelte. **Crossover-Thrash-Metal**, **Hardcore-Punk** und harter **Alternative-Rock**. Zieh deine strapazierfähigste Jeansjacke an und mach dich bereit, die Faust zu erheben, denn diese deutschen Szene-Veteranen sind wütend und haben eine Wand aus Marshall-Verstärkern mitgebracht, um es zu beweisen. Frontmann Lars Groß liefert eine absolute Meisterleistung an ungezügelter Old-School-Wut und brüllt ein feuriges Manifest gegen modernen politischen Populismus und soziale Apathie über rasante, aggressive Thrash-Gitarren. Die Musik verbindet die rasante Geschwindigkeit des klassischen 80er-Jahre-Thrash-Metal mit der rohen, schweißtreibenden Energie von Hardcore-Punk-Kellerkonzerten. Sie ist heavy, laut und unnachgiebig - und beweist, dass echte Punk-Metal-Rebellion nie aus der Mode kommt.
 
-::genre::crossover, thrash metal, hardcore punk, alt rock
+::genre::crossover thrash, thrash metal, hardcore punk, alt rock
 
 ## La Sécurité - Bingo!
 
@@ -602,7 +602,7 @@ Die 1980 gegründete Band zählt zu den absoluten Veteranen und Kultlegenden der
 
 Entstanden aus Hacker-Filmmarathons während der Pandemie und langen Nächten, in denen selbstgebaute Gitarrenpedale gelötet wurden. Eine Idee des Multi-Instrumentalisten Spenser Hodge, der den texanischen Gitarrenvirtuosen Ruben Cantu und den aus Alaska stammenden Mitstreiter Justin Rodda für das Trio gewinnen konnte. Hyperenergetischer Cyber-**Thrash-Metal**, **Crossover** und Old-School-Thrash. Stark beeinflusst von 90er-Jahre-Cyberpunk, 80er-Jahre-Speed-Metal aus der Bay Area und der frühen Hacker-Kultur. "Tech Hell Cyber Thrash" fühlt sich an, als würde man sein Gehirn gewaltsam in ein glitchiges Windows-98-Betriebssystem hochladen, während ein wütender Mob versucht, den Computertisch zu demolieren. Mit einer Spielzeit von unter 19 Minuten verteilt auf 5 rasante Tracks - mit großartigen Titeln wie "Punching Deck" und "Y2K Killer" - trifft die EP wie ein absoluter Blitzschlag. Die Gitarren galoppieren mit traditionellen, wütenden Speed-Metal-Zweiharmonien, während die derben Death-Grunts und Old-School-Growls absolute kampfbereite Paranoia vermitteln. Es werden sogar Soundscapes von Einwahlmodems eingeflochten, bevor es in vernichtende Mosh-Riffs übergeht. Es ist kurz, intensiv aggressiv und wunderbar geekiger Retro-Thrash-Spaß.
 
-::genre::thrash metal, crossover, speed metal
+::genre::thrash metal, crossover thrash, speed metal
 
 ## Sleeping with Sirens - An Ending In Itself
 
@@ -674,7 +674,7 @@ Nach ihrem beliebten 2023er Album "Medium Gnarly" und mehreren hochgelobten konz
 
 Die Band, die sich in der extremen Underground-Szene als kompromisslose DIY-Formation etabliert hat, konzentriert sich voll und ganz darauf, eine hochoktanige, kathartische Live-Energie zu vermitteln, und verzichtet dabei gänzlich auf den Glanz des Mainstream-Radios. Aggressiver **Hardcore-Punk**, **Metallic Hardcore** und **Crossover-Thrash**. Stark inspiriert von rohen, straßennahe Prügeleien, rasanten Tempi und unverblümter sozialer Frustration. "Exit From Life" fühlt sich an wie eine Hochgeschwindigkeits-Mauer, die mitten in einem überfüllten Moshpit direkt auf dein Gesicht zufliegt. Das Album verzichtet komplett auf kommerzielle Rücksichtnahme und stürzt dich in einen Sturm aus dröhnenden, heruntergestimmten Gitarrenriffs, vernichtenden Midtempo-Groove-Breakdowns und purem Gesangsgift. Die Texte thematisieren eine düstere Faszination für den Kampf gegen systemischen Verfall und das Überleben des täglichen Trott. Es ist laut, ungeschliffen und wirkt wie ein fantastischer, adrenalingeladener Energieschub für deine härtesten Trainingseinheiten.
 
-::genre::crossover, metallic hardcore
+::genre::crossover thrash, metallic hardcore
 
 ## Tarja - Frisson Noir
 
@@ -704,7 +704,7 @@ Das Duo, bestehend aus Maia Ciambriello und Sasha Goldberg, baute sich ab 2023 m
 
 Das 2018 gegründete, unbändige Trio kann Iggy Pop, Debbie Harry und Henry Rollins zu seinen Fans zählen. Dieses Album ist ein kraftvolles Comeback-Statement, produziert und abgemischt von den Branchengrößen Dave Sardy und Alex Pasco. **Garage-Punk**, **Alternative Rock** und **Crossover-Nu-Metal**. Es verbindet Elemente roher Rock-Grooves der 90er Jahre und rhythmischen Gesangs mit ihrer klassischen, rauen Garage-Basis. Unterstützt von prominenten Persönlichkeiten wie dem Schauspieler Jason Momoa ist "New Self" ein absoluter Feuerwerk aus roher Energie. Das Trio hat seinen Ansatz komplett überarbeitet und lässt eine druckvolle, stark verzerrte und funkige Bassline hochoktanige Tracks wie "Red Hot" und "Napoleon" antreiben. Sängerin Sam Quartin trägt ihre Texte mit einem wilden, rhythmischen Spoken-Word-Flow vor, der an Alternative-Rap grenzt, und verleiht der chaotischen Garage-Punk-Instrumentierung einen fantastischen modernen Groove. Es ist kurz, unvorhersehbar, wild verbunden und absolut explosiv.
 
-::genre::nu metal, alt metal, garage punk, crossover
+::genre::nu metal, alt metal, garage punk, crossover thrash
 
 ## The Heavy Eyes - Focus
 

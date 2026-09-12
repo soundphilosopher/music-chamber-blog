@@ -16,7 +16,7 @@ authors:
 
 Die schwedische Pop-Ikone mit ihrem neuesten und damit sechsten Studioalbum in ihrer Karriere. Entstanden ist ein Werk welches EDM, House, Dance und Pop um die Vocals von Agnes verbastelt.
 
-::genre::edm, house, dance
+::genre::edm, house
 
 ## Amatera - Shadows In The Dark
 

@@ -164,7 +164,7 @@ Das 2019 gegründete Quartett tourte mehrere Jahre lang durch Europa, bevor es d
 
 *Costa* ist ein produktiver Perkussionist und Komponist, der dafür bekannt ist, langsam fließende Klanglandschaften und die Schnittstelle zwischen akustischen und digitalen Klangtexturen zu erforschen. **Avantgarde-Jazz** / **Experimentelle Perkussion** / **Freie Improvisation**. Getreu seinem Namen wirkt "Ashes" wie eine minimalistische, schwelende Studie über Klang und Raum. Es ist intellektuelle Musik zum intensiven Hören, bei der jeder Trommelschlag oder jedes Beckenschlagen bewusstes Gewicht trägt - ein eindringlicher, sparsamer Begleiter für ruhige Stunden.
 
-::genre::avant jazz, experimental jazz, fusion, improvisation
+::genre::avant jazz, experimental jazz, jazz fusion, improvisation
 
 ## Catalysis - Serpentine
 
@@ -488,7 +488,7 @@ Ein klassisch ausgebildeter Pianist, der in der norwegischen Improvisationsszene
 
 *Branciforte* ist Produzent und Experte für modulare Synthesizer; *Dumoulin* ist ein Pionier bei der Neudefinition des Fender Rhodes für das 21. Jahrhundert. **Post-Glitch**, **zeitgenössische Elektronik** und **improvisierter Jazz**. Dies ist nicht nur ein Album, sondern ein 70-minütiger, architektonisch durchdachter Tagtraum. Zwei Rhodes-Meister verweben Glitches und Akkorde, die zwischen statisch und drängend schweben. Es ist der perfekte Begleiter, wenn man sich wie ein Hightech-Detektiv in einem Noir-Film fühlen möchte.
 
-::genre::modern classic, post glitch, free jazz, fusion
+::genre::modern classic, glitch, free jazz, jazz fusion
 
 ## Josephine - Unexplained
 
@@ -584,7 +584,7 @@ Eine Supergroup aus Veteranen des pazifischen Nordwestens mit Uta Plotkin (ex-*W
 
 Ein Elektronik-Duo, bestehend aus dem peruanischen Produzenten Felipe Salmon (*Dengue Dengue Dengue*) und dem deutschen Innovator Dirk Leyers (*Africaine 808*). **Elektronica**, **Experimental Bass** und **Sci-Fidelic-Electronica**. Ein Tiefsee-Rave im Weltraum. Hypnotisch, rhythmisch dicht und voller „schwebender Bässe“ und vielschichtiger Percussion. Perfekt, wenn man tanzen möchte, sich aber gleichzeitig fühlt, als würde man von coolen Unterwasser-Aliens entführt.
 
-::genre::experimental electronica, psych electronica, deep house
+::genre::experimental electronica, electronica, deep house
 
 ## Lucy Liyou - Mr Cobra
 
@@ -782,7 +782,7 @@ Unter der Leitung der nicht-binären Künstlerin *Kacey Foxx* eroberte das Proje
 
 Eine neue Größe in der Hardcore-Szene der Westküste, bekannt für ihren rasanten Sound und ihre aggressiven Live-Auftritte. **Crossover-Thrash** und **Hardcore-Punk**. Schnell, rau und stark beeinflusst von der rohen Kraft der Bay-Area-Szene der 80er Jahre. Diese Platte ist pures Feuer. Es ist der Sound eines benzingetränkten Kellerkonzerts, bei dem sich alle mit 200 Meilen pro Stunde bewegen. Kurz, knackig und absolut glühend heiß - ideal für alle, denen normaler Metal einfach ein bisschen zu langsam ist.
 
-::genre::crossover, metallic hardcore, hardcore punk
+::genre::crossover thrash, metallic hardcore, hardcore punk
 
 ## Prince Daddy & the Hyena - Hotwire Trip Switch
 
@@ -800,7 +800,7 @@ Gegründet im Jahr 2014, inspiriert von einer Folge der Serie *Rozwell Kids*, si
 
 Eine Supergroup norwegischer Stars. *Hemsing* ist ein renommierter Geiger für Klassik und Volksmusik; *Eick* ist ein gefeierter Jazztrompeter (ECM Records); *Raknes* ist Kontrabassist; und *Isungset* ist bekannt für seine Ice Music und sein Schlagzeugspiel. Klassischer **Crossover** und **Jazz**. Hier verschmelzen traditionelle norwegische Volksmusik (die Hardangerfiedel) mit atmosphärischem Jazz und improvisierten Klangtexturen. So klingt es, wenn die Nordlichter beschließen, eine Jazzband zu gründen. In einem Moment ist es mitreißend rhythmisch, im nächsten eindringlich filmisch. Wenn Sie das Gefühl haben möchten, bei Tagesanbruch mit einer Tasse exquisiten Kaffees an einem Fjord zu stehen, ist dies Ihr Soundtrack.
 
-::genre::jazz fusion, northern folk, crossover, atmo jazz
+::genre::jazz fusion, northern folk, crossover jazz, atmo jazz
 
 ## Raid2 - Uncorrect
 
@@ -848,7 +848,7 @@ Sabancaya wurden 2021 gegründet und sorgten mit ihrer Debüt-EP "Presentiment o
 
 Die 2014 gegründete Band hat einen Namen, der sich mit Geschichten, die zum Ende führen übersetzen lässt. Sie ist bekannt für ihre kraftvolle, instrumentale Erzählkunst. **Cinematic-Post-Rock** / **Post-Metal**. Ihr Sound ist stark von den weiten, stimmungsvollen Landschaften Skandinaviens und dem Schaffen von Bands wie *Cult of Luna* oder *God Is An Astronaut* beeinflusst. Getreu ihrem Namen ist dies Melancholie im großen Stil. Es ist eine klangliche Wanderung durch einen gefrorenen Wald - im Wechsel zwischen zarten, kristallklaren Melodien und massiven, wall-of-soundartigen Verzerrungen, die sich wie eine Gletscherbewegung anfühlen.
 
-::genre::post metal, cine post rock, instrumental
+::genre::post metal, post rock, instrumental
 
 ## Sam Blasucci - Physical Dream
 
@@ -1046,7 +1046,7 @@ Tiga, der als Wegbereiter der Electroclash-Ära der 2000er Jahre bekannt ist, ke
 
 Die temperamentvolle dominikanische Rapperin und Sängerin aus Santo Domingo, Dominikanische Republik. Bekannt für ihre unverfälschten, giftigen Texte und ihre regelbrechende Energie. Dieses Debütalbum spannt den Bogen von **Dembow** über **Electro-Pop** bis hin zu **Surf-Rock**. Eine befreiende Wiedergeburt, die das Chaos der Dualität einfängt - Liebe versus Realitätsflucht. Es ist derb, witzig und wild unabhängig. Tokischa bittet nicht nur um deine Aufmerksamkeit; sie fordert sie mit einem kahlrasierten Kopf und einem 17-Track-Statement der Selbstliebe.
 
-::genre::dembow, r&b, electropop, surf rock
+::genre::reggaeton, r&b, electropop, surf rock
 
 ## TOMORA - COME CLOSER **
 
@@ -1188,7 +1188,7 @@ Eine glühende Mischung aus **Black Metal**, **Thrash** und **Death Metal**. Sie
 
 Das 2005 gegründete Quartett legt hiermit sein fünftes Studioalbum vor. Es wurde im Golden Hive Studio in Prag aufgenommen. Eine rasante Mischung aus **Thrash Metal**, **Punk** und **Hardcore** mit dem Gewicht der alternativen Musik der 1990er Jahre. Das ist Thrash für Denker - er behält die nackenbrechende Geschwindigkeit bei, fügt aber Schichten philosophischer Auseinandersetzungen hinzu, inspiriert von Arthur Schopenhauer. Es fühlt sich an wie ein rasantes Bekenntnis, das nicht nur schreien will, sondern gehört werden will.
 
-::genre::thrash metal, crossover, metallic hardcore
+::genre::thrash metal, crossover thrash, metallic hardcore
 
 ## Ginevra Nervi - 18 Buracos Para O Paraiso
 

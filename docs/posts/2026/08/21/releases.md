@@ -80,7 +80,7 @@ Das langjährige Elektronik-Projekt unter der Leitung des Produzenten und Multi-
 
 Ein kraftvolles Power-Trio, bestehend aus Charles Gama, Chaene da Gama und Rodrigo "Pancho". Durch legendäre Festivalauftritte und ihr konsequent antirassistisches Engagement haben sie sich zu einer festen Größe in der globalen Alternative-Metal-Szene entwickelt. **Hardcore-Punk**, **Crossover-Thrash-Metal**, **Heavy Rock** und afro-brasilianische Rhythmuselemente. Dieses Album trifft einen wie ein politischer Hochspannungs-Ziegelstein mitten ins Gesicht und ist zweifellos eine der explosivsten Rockplatten des Jahrzehnts. Das Trio verschmilzt mühelos rasante Thrash-Gitarrenriffs mit fetten Hardcore-Grooves und unverkennbarem brasilianischem Flair. Getreu seinem Titel erkundet der lyrische Rahmen ein Land, das aus mehreren Brasiliens besteht, und greift mit brillantem, konfrontativem Schärfe systemischen Rassismus, historische Kolonialisierung und das Überleben auf der Straße an. Es ist ein wildes, feierliches Meisterwerk.
 
-::genre::thrash metal, groove metal, alt metal, hardcore punk, crossover
+::genre::thrash metal, groove metal, alt metal, hardcore punk, crossover thrash
 
 ## Bleeding Antlers - Songs Of Praise
 
@@ -128,7 +128,7 @@ Eine aufstrebende DIY-Indie-Band, die in alternativen Online-Netzwerken aktiv is
 
 Ein wildes portugiesisches Underground-Metal-Quartett, bekannt für seine rasante, alkoholgetriebene Live-Energie. Diese Platte ist ihr zweites Studioalbum. Eine Mischung aus **Crossover-Thrash-Metal**, **Punk/D-Beat**, **Sludge** und knallhartem **Death’n’Roll**. Diese Platte ist ein regelrechter Adrenalinstoß mit hoher Oktanzahl, der direkt auf dein Trommelfell trifft. Es spielt sich ab wie eine absolute, außer Kontrolle geratene Schlägerei in einer Motorradkneipe, bei der Thrash-Soli frontal mit unerbittlichen Punk-Rhythmen kollidieren. Gesungen mit einer Rauheit, die wie ein personifizierter Schnurrbart klingt, verbindet das thematische Material pechschwarzen Humor mit apokalyptischer Dringlichkeit. Es verwandelt das Konzept politischer Frustration in eine tosende, befreiende Party – und ist damit der perfekte Soundtrack, um ein kaltes Getränk hinunterzukippen und ein Loch in eine Tür zu treten.
 
-::genre::death metal, d-beat, crossover, thrash metal, sludge metal
+::genre::death metal, d-beat, crossover thrash, thrash metal, sludge metal
 
 ## Collateral - The Reset
 
@@ -152,7 +152,7 @@ Ursprünglich als Trio aktiv, hat sich die hochgelobte Elektronik-Band zu einem 
 
 Die Band wurde ursprünglich 2013 von Frontmann und Gründer Neil Roemer ins Leben gerufen. Das erfahrene, hart arbeitende Quartett verfügt mittlerweile über eine kraftvolle Rhythmusgruppe, angeführt von Schlagzeuger Betto Cardoso. **Metallischer Hardcore-Punk**, **Crossover-Thrash** und Heavy Street Metal. Schnappt euch euren Baseballschläger und macht Platz in eurem Wohnzimmer, denn diese Platte ist ein fünf Songs langer Ausbruch absoluter Feindseligkeit. Angetrieben von kehlzerreißendem Growling und halsbrecherischen Thrash-Tempos in Tracks wie "Sick One" und "Bullet Proof Mind" verbindet die Band nahtlos pure Punk-Wut mit massiven, straßentauglichen Breakdowns. Getreu dem Titel tauchen die Texte kopfüber in das Verbrennen innerer Dämonen, den Widerstand gegen institutionelle Kontrolle und das Überstehen absoluter psychischer Härten ein – was das Album zu einer kurzen, aber hyper-koffeinhaltigen emotionalen Reinigung macht.
 
-::genre::metallic hardcore, hardcore punk, crossover, thrash metal
+::genre::metallic hardcore, hardcore punk, crossover thrash, thrash metal
 
 ## D-Bloc - Where The Weak Are Killed And Eaten
 

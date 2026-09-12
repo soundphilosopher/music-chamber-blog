@@ -104,7 +104,7 @@ Die amerikanische Formation mit ihrer neuesten EP. Gespielt wird ein Hybrid aus 
 
 Das norwegisch-schwedische Outfit mit seinem neuesten Longplayer. Die Pioniere des “Rap Metal” bringen wieder viel politisches Messaging mit in ihre Kompositionen. Den Part “Rap” habe ich noch nie wirklich nachvollziehen können. Was ich höre ist ein ausgewogenes und nicht wirklich langweiliges Werk des Alternative Metal mit Ausflügen in den Crossover und Groove Metal.
 
-::genre::rap metal, crossover, groove metal, alt metal
+::genre::rap metal, crossover thrash, groove metal, alt metal
 
 ## CONVEY - A Place In Hell For Us Both
 
@@ -140,7 +140,7 @@ Das Sophomore Release vom Projekt um den deutschen Multi-Instrumentalisten Tobia
 
 Die australische Formation mit ihrem Sophomore Full-Length. Mit elfischer Kraft wird eine Melange aus Symphonic Black Metal, Blackened Death Metal und Blackened Folk Metal aufgebaut, welche mit einem ausgesprochen kämpferischen Songwriting in die Schlacht zieht.
 
-::genre::symphonic black metal, blackened death metal, blackened folk metal
+::genre::symphonic black metal, blackened death metal, folk metal
 
 ## Death By Dissonance - Exile Within
 
@@ -338,7 +338,7 @@ Der deutsche Producer und DJ Michael Bräuninger mit seinem neuesten Full-Length
 
 Der renommierte amerikanische Producer, DJ und Singer & Songwriter mit seinem neuesten Kompositionen. In einer Phase Ruhe wird ein Werk erzeugt, welches man der Neo-Classic zuweisen kann. Piano wird von minimal Electronica, Soundscapes und verschiedenen Gast-Sängern/-Sängerinnen begleitet und baut dabei eine Art Retreat auf. All dies wird in einem ansprechenden theatralischen Rahmen gehalten, welcher die Ruhe vor dem Sturm oder die Ruhe nach dem Sturm konstruiert.
 
-::genre::minimal electronica, neo classic, spiritual electronica
+::genre::minimal electronica, neo classic, electronica
 
 ## Moderator - Shadows on the Ceiling *
 
@@ -362,7 +362,7 @@ Ein Jahr nach ihrem Comeback “Rushmere” bringt die britische Formation berei
 
 Der britische Producer und DJ mit seinem neuesten Longplayer. Mit der Fusion von Leftfield Techno, Synth-Wave, Ambient-Trance und Deep Electronica erzeugt er ein mehr zugängliches Werk, als seine Vorgänger. Die Gesamtkomposition wird abgerundet mit Organic Soundscapes, Cinematic Synth und Drone. All dies bildet eine Dark-Dance-Floor-Ready-Symbiose.
 
-::genre::leftfield techno, synth wave, ambient trance, deep electronica
+::genre::leftfield techno, synth wave, trance, electronica
 
 ## Necronomicon Ex Mortis - Zombie Blood Nightmare
 

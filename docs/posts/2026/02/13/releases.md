@@ -18,7 +18,7 @@ Die Belgier mit ihrer Sophomore EP. Irgendwo zwischen Melodic Death Metal und Al
 
 Der venezolanische Jazz-Gitarrist mit seinem neuesten Werk. Entstanden ist ein klassisches Werk des Guitar-Jazz, welches mit viel Latin-Jazz, Boogaloo und ein paar Fusion-Elementen verfeinert wurde.
 
-::genre::contemporary jazz, latin jazz, boogaloo
+::genre::contemporary jazz, latin jazz
 
 ## American Theory - Where Did All The Flowers Go?
 
@@ -128,7 +128,7 @@ Die Kollaboration zwischen dem Saxophonisten Colin Stetson, den Bassisten Trevor
 
 Die amerikanische Kapelle mit ihrem neuesten Studio-Output. Die auf Mathcore und Metalcore einflussreiche Band besinnt sich ihren Wurzeln ein wenig mehr und veröffentlicht ihren bis dato kürzesten Longplayer. Voller Energie wird Metalcore, Mathcore, Thrash Metal und Hardcore zu einer Masterclass der Musik vereint.
 
-::genre::mathcore, metalcore, thrash metal, crossover, metallic hardcore
+::genre::mathcore, metalcore, thrash metal, crossover thrash, metallic hardcore
 
 ## Deathraw - Reduces To Ashes
 
@@ -356,7 +356,7 @@ Das amerikanisch-chilenische Kollektiv mit seinem neuesten Werk. Eine Melange au
 
 Das Sophomore Release der italienischen Kapelle. Ein avantgardistischer Mix aus Post Black Metal, Doom Metal, Post Punk, Dark Wave und Fusion-Rock. Das Songwriting bietet viele Ecken und Kanten, welche sich gut zusammensetzen und das Hörerlebnis nicht zerreißen, sondern erfrischend auflockern.
 
-::genre::post black metal, post punk, dark wave, fusion, blackgaze
+::genre::post black metal, post punk, dark wave, jazz fusion, blackgaze
 
 ## Pony - Clearly Cursed
 

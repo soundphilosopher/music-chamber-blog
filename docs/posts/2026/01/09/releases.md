@@ -102,7 +102,7 @@ Die portugiesische Kapelle mit ihrem neuesten Release. Wenn man den Sound des 1s
 
 Der amerikanische Singer & Songwriter, Producer und Multi-Instrumentalist mit seinem neuesten Output. Wieder spielt er fasziniert mit gewissen Genre-Grenzen und zaubert ein recht poppiges Werk, welches ich dem Fusion zuordnen wurde. Mit seinen avantgardistischen Intermezzos bringt er immer eine gewisse künstliche Zerrissenheit hervor.
 
-::genre::fusion, avant pop
+::genre::jazz fusion, avant pop
 
 ## Sault - Chapter 1 *
 Neues vom Projekt um den britischen Producer und Multi-Instrumentalisten Dean Cover (Inflo) und der britischen Sängerin Cleo Sol. Kompositionen, welche eine Melange aus Neo Soul, Acid Funk, Alt Soul und R&B bilden.

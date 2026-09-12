@@ -38,7 +38,7 @@ Ein kraftvolles Projekt mit Mitgliedern von *Convulse*, *Sargassus* und *Jotungr
 
 Dies ist Bronsons achtes Studioalbum, das seine Frog-Ära einläutet - eine kreative Neuausrichtung hin zu Mystik und Selbstreflexion. Produziert wurde es von Größen wie *Harry Fraud*, *Daringer* und *Bronson* selbst. Drumloser abstrakter **Hip-Hop**, **Jazz-Rap** und **Neo-Psychedelia**. Die Produktion ist minimalistisch, oft kommen Schlagzeuge gänzlich zum Einsatz, stattdessen liegt der Fokus auf Loops, Saxophon und Klavierarrangements. Bam Bam Baklava ist offiziell in seine RC-Car-Phase eingetreten, in der er vom Herrn und möglicherweise einem magischen Delfin gesteuert wird. "PLANET FROG" ist ein 33-minütiges Chill-Fest, vollgepackt mit mehr Eigennamen und Luxusreferenzen als ein Designerkatalog. Es ist die Art von Platte, die man hört, während man teures Chutney isst und New Balances in Erdtönen trägt. Introspektiv, schräg und herrlich trommel-frei.
 
-::genre::experimental hip hop, jazz rap, psych
+::genre::experimental hip hop, jazz rap, psych rock
 
 ## Aghalmar - Ruin
 
@@ -278,7 +278,7 @@ Die im Jahr 2000 gegründete Band hat zahlreiche Besetzungswechsel und persönli
 
 Das Projekt entstand aus der Zusammenarbeit der langjährigen Freunde und Bandkollegen Portner (aus den Blue Ridge Mountains, North Carolina) und Weitz (aus Washington, D.C.). Der Anstoß für ihre Zusammenarbeit als Duo kam durch die gemeinsame Arbeit an dem Titel "Brown Thrasher" für die Compilation "For the Birds" aus dem Jahr 2022. Die Dynamik gefiel ihnen so gut, dass sie während der Pandemie weiterhin Musik schufen, indem sie digitale Dateien hin und her schickten. Das Album ist eine instrumentale Mischung aus **psychedelischem Ambient**, **experimentellem Folk** und hausgemachten elektronischen Texturen. Wenn *Animal Collective* ein maximalistisches Feuerwerk ist, dann ist Croz Boyce der ruhige Morgen danach, an dem man nach coolen Steinen im Bach sucht. Es ist eine riskante Nacht voller Drogenexperimente ohne den Horror-Trip - nur zwei alte Freunde, die sich über Staatsgrenzen hinweg Postkarten aus Klang schicken. In einem Moment schwebt man durch die psychedelische Atmosphäre von "Steven’s Sunshine Rejected", im nächsten navigiert man durch die spärlichen, abenteuerlichen Klang-Epen von "Towson Acid". Es ist Musik, die sich weigert, stillzustehen, und die Gesangsharmonien gegen ein fragmentarisches instrumentales Gespräch eintauscht, das sich wie ein süßer Balsam für das Alltägliche anfühlt.
 
-::genre::experimental folk, psych folk, psych ambient, experimental electronica, instrumental
+::genre::experimental folk, psych folk, ambient, experimental electronica, instrumental
 
 ## Cyborg Zero - Zero
 
@@ -602,7 +602,7 @@ Ein aufstrebender Art-Pop-Produzent und Sänger, der erstmals mit seiner EP "Dop
 
 *Jennifer Hernandez* ist Produzentin, Synthesizer-Konstrukteurin und Pädagogin, bekannt für ihre Arbeit im Duo *H31R*. Dieses Album spiegelt ihren Übergang in eine Ära des Friedens nach einem turbulenten Jahrzehnt wider. **Experimentelle Elektronik** / **Dance-Rap** / **IDM**. Zum ersten Mal rappt und singt Hernandez zu ihren eigenen zerbrochenen Beats und einem warmen Synth-Nebel. Dies ist nicht nur ein Album; es ist ein selbstbewusster Zen-Reset-Knopf. Es verwandelt Hightech-Equipment in reine menschliche Gefühle, überwindet Traumata und findet einen beständigen, hypnotischen Groove. Es ist der Sound einer Meisterproduzentin, die endlich ins Licht tritt, um ihre eigene Geschichte zu erzählen.
 
-::genre::experimental electronica, experimental hip hop, idm, dance
+::genre::experimental electronica, experimental hip hop, idm
 
 ## Karcius - Black Soul Sickness
 
@@ -626,7 +626,7 @@ Eine Zusammenarbeit zwischen dem Mystiker aus Toronto Khôra (*Matthew Ramolo*) 
 
 Der letzte Teil einer konzeptionellen Tanz-Trilogie der gefeierten Electro-Pop-Sängerin, nach Vol. 1 (2024) und Vol. 2 (2025). **Electro-Pop** / **Dance-Pop** / **House**. *Kiesza* verbindet ihre Folk-Wurzeln mit House-Beats und Basslines und schafft so einen Sound, der von Bewegung, emotionaler Befreiung und trotziger Selbstfindung geprägt ist. "Volume 3" ist eine stroboskopbeleuchtete Reise, auf der sich der Druck der Tanzfläche in pure Freude verwandelt. Es ist euphorisch, eingängig und zutiefst persönlich - die Art von Musik, die Lust macht, bis zum Sonnenaufgang zu tanzen und gleichzeitig einen tiefgreifenden inneren Durchbruch zu erleben.
 
-::genre::synth pop, electropop, deep house, edm, dance
+::genre::synth pop, electropop, deep house, edm
 
 ## Koyo - Barely Here
 
@@ -764,7 +764,7 @@ Cooper hat einen Doktortitel in Bioinformatik, und sein wissenschaftlicher Ansat
 
 Ein gefeiertes queeres Indie-Pop-Trio (Katie Gavin, Josette Maskin und Naomi McPherson), das sich seit seinem Debüt im Jahr 2017 zu queeren Legenden entwickelt hat. **Synth-Pop** / **Dance-Pop** / **Synth Wave**. Produziert von der Bandmitglied Naomi McPherson, fängt das Album die euphorische, aber emotionale Energie der 80er Jahre ein und bleibt dabei im modernen Alternative-Pop verwurzelt. Dies ist das ultimative Album zum Weinen auf der Tanzfläche. Es ist eine stroboskopbeleuchtete Erkundung von Begierde und emotionalem Risiko, die es schafft, sowohl kraftvoll als auch verletzlich zu sein. Es fühlt sich an wie der Moment, in dem die Party endet und die Fantasie verblasst, aber man tanzt weiter, weil der Beat einfach zu gut ist, um aufzuhören.
 
-::genre::synth pop, dance, synth wave, alt pop
+::genre::synth pop, synth wave, alt pop
 
 ## Möhrkvlth - Gwenojennoù An Ankounac’h
 
@@ -794,7 +794,7 @@ Unter der Leitung des Schlagzeugers *Toshiyuki Sasaki* hat sich Nautilus zu eine
 
 Navah Sea bewegt sich häufig im Bereich des Ambient House und des experimentellen Pop, während Braxton Cook ein am Konservatorium ausgebildeter Saxophonist und Sänger ist, der eine Brücke zwischen Jazz und R&B schlägt. **Experimenteller Ambient-Jazz** / **Alternativer R&B**. Das Projekt verbindet Cooks gefühlvolles Saxophon und seinen Gesang mit Seas atmosphärischer, ausgefallener Produktion. Die Single "Barcelona" gibt einen Vorgeschmack auf diesen genreübergreifenden Surrealismus. Diese Platte klingt wie ein Jazzclub in einer Wolke. Es ist Musik für späte Nachtfahrten für Menschen, denen normales Radio zu laut ist. Zwischen Cooks sanften Bläsersätzen und Seas glitchigen, verträumten Klanglandschaften entsteht ein wunderschönes, raffiniertes Durcheinander, das das Nichtstun wie hohe Kunst erscheinen lässt.
 
-::genre::ambient jazz, experimental r&b, alt r&b, prog soul
+::genre::ambient jazz, r&b, alt r&b, prog soul
 
 ## Noah Meites - COUNTING
 
@@ -818,7 +818,7 @@ Das Projekt wurde vom Multi-Instrumentalisten *Michael Priest* (ehemals *Idolatr
 
 *Dreijer* ist als eine Hälfte des Elektronik-Duos *The Knife* und als Produzent hinter einem Großteil der gefeierten Werke von *Fever Ray* legendär. Er veröffentlichte jahrelang Underground-Techno unter dem Namen *Oni Ayhun*, bevor er mit diesem Solo-Debüt ins Rampenlicht trat. **Experimental Dance** / **Global Club** / **House**. Das Album ist stark von den Werken der nigerianischen Autorin Akwaeke Emezi beeinflusst und versucht, die westliche Hegemonie durch die Zusammenarbeit mit internationalen Künstlern wie der sudanesischen Sängerin MaMan und der südafrikanischen MC Toya Delazy in Frage zu stellen. Stell dir vor, ein Garten würde in einem Synthesizer wachsen. "Loud Bloom" ist Freude als Form des Protests - es ist farbenfroh, beschwingt und voller verspielter Melodien, die sich anfühlen, als würden sie nach dem Sonnenlicht greifen. Es ist eine Meisterklasse in globalen Polyrhythmen, die komplexe, progressive Themen so natürlich wie einen Herzschlag wirken lässt.
 
-::genre::edm, dance, techno, deep house, acid house
+::genre::edm, techno, deep house, acid house
 
 ## Overkhaos - Embracing Change
 
@@ -1088,7 +1088,7 @@ Ein Überraschungsprojekt aus der norwegischen Underground-Szene, das die berüc
 
 Uncle Waffles ist die unangefochtene Prinzessin des Amapiano. Nach einem viralen Tanzvideo wurde sie über Nacht weltweit berühmt und trat seitdem auf großen Festivals wie Coachella auf. Sie ist stark von den Deep-House- und Kwaito-Wurzeln der südafrikanischen Tanzszene geprägt. **Amapiano**. Dieses Projekt zeichnet sich durch die für das Genre typischen Log-Drum-Basslines, gefühlvolle Klaviermelodien und Shaker aus, die die moderne afrikanische Tanzszene prägen. Das ist pure, unverfälschte Stimmung in einer Flasche. Es ist die Art von Musik, bei der man sich schon cooler fühlt, wenn sie nur im Hintergrund läuft. Sie ist entspannt, aber energiegeladen - ein paradoxer Groove, der bei einer Strandparty bei Sonnenaufgang genauso gut funktioniert wie in einem dunklen, überfüllten Club.
 
-::genre::amapiano, deep house, ambient
+::genre::afrobeat, deep house, ambient
 
 ## Unwed Sailor - High Remembrance
 

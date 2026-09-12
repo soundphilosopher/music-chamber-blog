@@ -92,7 +92,7 @@ Der schwedische Komponist und Multi-Instrumentalist mit seinem neuesten Werk. Ei
 
 Das international aktive Kollektiv (UK, Italien, USA, Schweden)  bietet zu seinem 35-jährigen Bestehen ihr erstes Konzeptalbum. Eine ~66 Minütige Geschichte des Progressive Rock, welche in ihren Kapiteln die Wege mit Folk Fusion, Chamber Pop und 70s Symphonic Rock kreuzt und eine meisterliche Inszenierung an den Tag bringt.
 
-::genre::neo prog rock, fusion, chamber pop, chamber folk, alt folk, symphonic rock
+::genre::neo prog rock, jazz fusion, chamber pop, chamber folk, alt folk, symphonic rock
 
 ## Blossoms Fall - La Alma
 
@@ -110,7 +110,7 @@ Oh boy. My ears are bleeding. Der Debüt Longplayer der australischen Band. Bere
 
 Das französische Trio mit seinem Sophomore Longplayer. Man kann es recht einfach dem Crossover zuordnen, da es im Grunde alle Boxen ankreuzt. Thrash Metal, welcher mit einer Portion Hardcore, Alt-Metal und Hip Hop versehen ist. Die Kompositionen selber werden recht oft von Old School Death Metal durchquert. Die Vocals selber bewegen sich zwischen Hip Hop, Hardcore, Death Metal und gar Deathcore. All dies und die passende Produktion lassen nicht wirklich Langeweile aufkommen.
 
-::genre::thrash metal, metallic hardcore, alt metal, rap metal, crossover, deathcore, osdm
+::genre::thrash metal, metallic hardcore, alt metal, rap metal, crossover thrash, deathcore, osdm
 
 ## Cyclone - Known Unto God
 
@@ -296,7 +296,7 @@ Das Projekt um den argentinischen Multi-Instrumentalisten Lucas Wyssbrod mit sei
 
 Das Debüt der kanadischen Formation bildet ein Experiment in sich selbst. In der Morphose des Songwritings werden Death Metal, Sludge, Post-Prog, Math-Rock und Crust zu einer evolutionären Figur vereint. Das Songwriting bietet viele verschiedene Experimente, welche exzellent in Form gebracht werden. Die Vocals wirken im Gegensatz zu der Instrumentalisierung eher monoton. Dieser Gegensatz könnte ein künstlerisch gewolltes Element sein.
 
-::genre::death metal, sludge metal, post prog rock, math rock, crust
+::genre::death metal, sludge metal, prog rock, math rock, crust
 
 ## Mount Palatine - Wormholy World *
 
@@ -332,7 +332,7 @@ Das Projekt um den mexikanischen Multi-Instrumentalisten und klassischen Komponi
 
 Die Debüt EP des belgischen Kollektives. Die Verbundenheit mit der Church of Ra ist erkenntlich. Das Kollektive erzeugt ein künstlerisch wertvolles Werk zwischen Post Black Metal, Progressive Sludge, Post-Metal, Crust, Post-Doom, Spoken Words und Hardcore.
 
-::genre::post black metal, prog sludge, post metal, crust, post doom metal, spoken words, hardcore
+::genre::post black metal, prog sludge, post metal, crust, post doom metal, spoken words, hardcore punk
 
 ## Puma Blue - Croak Dream *
 
@@ -422,7 +422,7 @@ Das neueste Werk vom Projekt um den niederländischen Musiker und Komponist Pete
 
 Der neueste Longplayer der britischen Formation. In surrealistischer Art wird Psych-Rock, Post-Prog-Rock, Avant-Rock und Krautrock zu einer experimentellen musikalischen Expression fusioniert.
 
-::genre::psych rock, post prog rock, avant rock, krautrock
+::genre::psych rock, prog rock, avant rock, krautrock
 
 ## Uncultivates - This Will Become Clear Later, Like The French Revolution *
 

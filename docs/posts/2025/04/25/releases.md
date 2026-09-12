@@ -1046,7 +1046,7 @@ tbd
 
 Der Berliner Elektroniker mit seinem neuen Output. Experimenteller Art-/Kraut-Electronica. Irgendwie fand ich es beim ersten Hören spannend. Mal schauen, wie es sich beim zweiten Durchlauf anfühlt.
 
-::genre::art electronica, krautronica
+::genre::electronica, krautronica
 
 ## Rebekka Karijord - The Bell Tower
 
@@ -1100,7 +1100,7 @@ tbd
 
 Das Projekt um die kalifornische Multi-Instrumentalistin. Ich nenne es mal Fusion-Electronica.
 
-::genre::fusion, electronica
+::genre::jazz fusion, electronica
 
 ## Samantha Fish - Paper Doll
 
@@ -1334,7 +1334,7 @@ tbd
 
 Die Briten mit ihrem aktuellen Output. Ich liebe die Stimme von Benjamin Woods. Irgendwie eine Fusion von Indie Rock und Alt-Folk aber mit der gewissen Progressivität von der Insel.
 
-::genre::alt folk, fusion
+::genre::alt folk, jazz fusion
 
 ## The Great Sea - Noble Art of Desolation
 

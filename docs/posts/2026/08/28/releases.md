@@ -122,7 +122,7 @@ Dieses legendäre Kollektiv, das ursprünglich Anfang der 1990er Jahre gegründe
 
 Ein hochgeschätztes schwedisches Forest-Rock-Ensemble, bestehend aus der stimmgewaltigen Lea Amling Alazam sowie den Musikern Staffan Winroth, Andreas Baier, Johan Rockner und Erik Bäckwall. Eine gefühlvolle, emotionale Mischung aus **Stoner-Progressive-Rock**, **Melodic Doom** und atmosphärischem **Heavy Rock**. Sie tauschen einfache, brutale Attacken gegen tiefe, vom Blues geprägte Harmonien und kontemplative, lang anhaltende Schwere ein. Willkommen auf dem ultimativen, von einem Lagerfeuer beleuchteten Berggipfel, wo die Stimmung ganz klar als friedlicher Doom bezeichnet wird! Dieses Album wirkt wie eine wunderschöne, langsam voranschreitende Klanglawine, die melancholische Aquarell-Atmosphären mit massiven, kontrollierten Gitarrenharmonien verbindet. Alazams Gesang wirkt wie ein rauchiger Bourbon der Extraklasse, der dich sicher durch eine wechselnde Landschaft aus gefühlvollen Blues-Rhythmen und unerwarteten, aggressiven Rock-Hooks führt. Es ist eine unglaublich nachdenkliche, emotionale und heavy Rock-Predigt, die deine volle, ungeteilte Aufmerksamkeit belohnt.
 
-::genre::stoner rock, prog rock, melo doom metal, heavy rock
+::genre::stoner rock, prog rock, doom metal, heavy rock
 
 ## Big Truck - Midday At The Middleway
 
@@ -152,7 +152,7 @@ Eine hochgelobte moderne Heavy-Metal-Band, die kürzlich nach einer doppelten No
 
 Ein weitläufiges, sich ständig wandelndes psychedelisches Kunstkollektiv unter der Leitung von Will Greenham und Anoushka Helm, das sich ursprünglich während des Lockdowns zusammengefunden hatte, bevor es durch eine Residency im "The Cornish Bank" die britische Live-Szene im Sturm eroberte. **Cosmic Folk**, **Krautrock**, **Psychedelic Rock** und **Motorik-Elektro-Fusion**. Ihr roher, organischer Sound verwebt traditionelle akustische Folk-Wurzeln mit hypnotischen Conga-Loops und spacigen Synth-Klanglandschaften. Schnapp dir deinen Mantel und begib dich direkt auf einen stillgelegten, nebelverhangenen Flugplatz in Meeresnähe – für ein wahrhaft bewusstseinsveränderndes Audio-Ritual! Benannt nach einem verborgenen geometrischen Konvergenzpunkt, wirkt dieses Album wie ein grandioses klangliches Zeitportal, in dem vergangene Folk-Traditionen und zukünftige elektronische Beats auf Tuchfühlung gehen. Es wechselt zwischen tranceartigen, ausgedehnten Instrumental-Jams und bittersüßen Melodien über den Umgang mit Trauer und zeichnet so eine unglaublich üppige, fließende und mystische Landschaft, die einen vollkommen in ihren Bann zieht.
 
-::genre::psych folk, prog folk, krautrock, psych rock, psych electronica
+::genre::psych folk, prog folk, krautrock, psych rock, electronica
 
 ## Blood White - From Hell
 
@@ -542,7 +542,7 @@ Das 2017 gegründete Theaterensemble hat sich in der europäischen Retro-Rock-Sz
 
 Eine energiegeladene Band, die sich über Jahre hinweg eine beeindruckende Präsenz in der Underground-Tournee-Szene erarbeitet hat, bevor sie ihr mit Spannung erwartetes zweites Album in Angriff nahm. **Blackened Death-Thrash**, **Crossover** und **Hardcore**. Sie verbinden die rasante Geschwindigkeit des Thrash Metal mit vernichtenden Hardcore-Breaks und einer epischen, von Fantasie geprägten Atmosphäre. Macht euch auf Lärmbeschwerden eurer Nachbarn gefasst, denn diese Platte rockt richtig ab! Das Album klingt wie ein hyperaggressiver Todesmarsch im Kampf gegen einen legendären dunklen Ritter und schafft den Spagat zwischen blendender Gitarrengeschwindigkeit und dichter, knochenbrechender Wucht. Es umgeht vorhersehbare Metal-Klischees komplett und liefert stattdessen einen selbstbewussten, blitzschnellen Crossover-Angriff, der eure Nackenmuskeln gründlich durchkneten wird. Es ist pure, ungefilterte Fantasy-Gewalt, verpackt in einem Heavy-Metal-Spielplatz der Extraklasse.
 
-::genre::blackened death metal, blackened thrash metal, crossover
+::genre::blackened death metal, blackened thrash metal, crossover thrash
 
 ## Nocturnal Prose - WESTERN INTERESTS
 
@@ -632,7 +632,7 @@ Eine legendäre, klassische skandinavische Melodic-Hard-Rock-Band der 1980er Jah
 
 Eine engagierte fünfköpfige Straight-Edge-Hardcore-Band mit Dominik Elberskirch, Andreas Villhauer, Adrian Zieger, Peter Bastian und Michael Dester, die seit 2015 durch Europa tourt. 90er-Jahre-**Hardcore-Punk** und **Crossover-Thrash**. Ihr Stil lehnt sich stark an den Groove klassischer New-York-Hardcore-Bands (NYHC) wie *Cro-Mags* an, gemischt mit Strukturen des frühen Thrash Metal. Wenn ihr einen gewaltigen Adrenalinstoß braucht, um aus dem Trott herauszukommen, ist diese Platte buchstäblich ein Schlag purer menschlicher Energie! Sie schafft einen Ausgleich zwischen extrem aggressivem, metallischem Gitarren-Crunch und einem kraftvollen, emotionalen Gesang, der unglaublich authentisch wirkt. Die thematischen Bögen spannen sich über Konzepte wie Geschichte, falsche Wahrheiten und das standhafte Widerstand leisten gegen den gesellschaftlichen Verfall. Echte, rohe Leidenschaft und Gemeinschaft stehen hier über glänzenden Produktions-Gimmicks, was beweist, dass Underground-Hardcore immer noch unglaublich scharf und lebendig ist.
 
-::genre::hardcore punk, crossover, thrash metal
+::genre::hardcore punk, crossover thrash, thrash metal
 
 ## Spooky Eyes - Spooky Eyes
 
@@ -644,7 +644,7 @@ Ursprünglich als bescheidenes Soloprojekt des Sängers und Gitarristen Jude Has
 
 Ein energiegeladenes niederländisches Hardcore-Quintett, das 2024 gegründet wurde und durch die Veröffentlichung von zwei explosiven EPs sowie als Vorband für Bands wie Knocked Loose schnell für Aufsehen in der Underground-Szene sorgte. Eine rasante Kollision aus **Hardcore-Punk** und **Crossover-Thrash**. Ihr Sound ist deutlich von Old-School-Thrash-Riffs und melodischen Hardcore-Legenden wie *Comeback Kid* geprägt. Diese Platte ist ein rasender, 24-minütiger Ziegelstein, der durch das Fenster des modernen Kapitalismus geschleudert wird! Ohne kunstvolle Intros oder sich wiederholende Refrains geht die Band mit Vollgas auf die Bühne und liefert rasante Thrash-Gitarren und massive, den Boden erbeben lassende Breakdown-Passagen. Textlich nimmt sie High-Tech-Milliardäre, die Leere der sozialen Medien und die Gier der künstlichen Intelligenz direkt ins Visier. Das Album fungiert als wütender, hochintellektueller Weckruf, der einen dazu zwingt, die Faust in die Luft zu recken, während man sich mit den Absurditäten der modernen Welt auseinandersetzt.
 
-::genre::hardcore punk, melo hardcore, crossover, thrash metal
+::genre::hardcore punk, melo hardcore, crossover thrash, thrash metal
 
 ## Static Abyss - The Dying Hunt
 
@@ -852,7 +852,7 @@ Dionisaf ist eine vielseitige Multi-Instrumentalistin, Ambient-Komponistin und b
 
 Eine seit langem etablierte und angesehene Größe in der europäischen Underground-Metal-Szene, bekannt für ihre komplexen Arrangements und ihre äußerst dramatische Live-Präsentation. **Symphonic Gothic Metal** und **Melodic Doom** / **Death Metal**. Sie verbinden meisterhaft schwere, vernichtende Gitarrenriffs mit markanten, schwungvollen klassischen Violinenarrangements und opernhaften Texturen. Dimmt das Licht, zündet ein paar Kerzen an und macht euch bereit für eine Heavy-Metal-Oper von filmreifen Ausmaßen. Dieses Album strotzt geradezu vor dunkler Eleganz und verwebt nahtlos massive, kehlige Brülllaute und vernichtende Metal-Akkorde mit eindringlich schönen Violinenmelodien, die einem sofort Gänsehaut bereiten. Thematisch erkundet es tiefe innere Konflikte, uralte spirituelle Dunkelheit ("Tamas") und die schmerzhafte Suche nach einer unerreichbaren inneren Vollkommenheit. Es bietet ein majestätisches, aufregend melancholisches Hörerlebnis, das sich eher wie ein epischer Tragödienfilm anfühlt als nur wie eine Sammlung von Songs.
 
-::genre::gothic metal, melo doom metal, melo death metal
+::genre::gothic metal, doom metal, melo death metal
 
 ## Evisarize - Bound In Flesh
 

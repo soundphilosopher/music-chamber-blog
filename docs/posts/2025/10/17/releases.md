@@ -164,7 +164,7 @@ tbd
 
 Das neueste Werk der New-Yorker-Kapelle, nach einer +10 Jahre Release-Pause. Die Pause hat ihnen nicht schlecht getan. Eines der härtesten Releases der Formation. Angressiver New-York-Hardcore mit thrash-y Solo-Work.
 
-::genre::hardcore punk, crossover, thrash metal
+::genre::hardcore punk, crossover thrash, thrash metal
 
 ## Black Dregs - Redux
 
@@ -980,7 +980,7 @@ tbd
 
 Der Booklyn-Based Producer Robert Toher aka Public Memory mit seinem neuesten Release. Ein Mix aus Trip, Drill und Synth-Wave wird durch die Ohren geblasen, wenn man es zulässt.
 
-::genre::trip, drill, synth wave, hip hop
+::genre::trip hop, drill, synth wave, hip hop
 
 ## Purple Is The Color - Unbemanntes Raumschiff
 
@@ -1076,7 +1076,7 @@ tbd
 
 Die britische Formation ist nach 12 Jahren wieder zurück mit neuem Material. Alt-Metal, Alt-Rock und Hip-Hop werden mit politischen Texten und einer Portion Harcore-Mentalität dargeboten, was sie klar von Nu-Metal abgrenzt.
 
-::genre::alt metal, alt rock, hip hop, nu metal, crossover
+::genre::alt metal, alt rock, hip hop, nu metal, crossover thrash
 
 ## Sergio Sorrentino - Hollow
 

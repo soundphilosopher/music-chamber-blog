@@ -462,7 +462,7 @@ Alexandra Drewchin (Eartheater) ist eine hochgelobte, genreübergreifende Sänge
 
 Ebrahim Zakeri Qeshmi ist ein iranischer Bassist, Komponist und Produzent, der ein großes Musikerensemble leitet, um narrativen Art-Rock zu schaffen, der die Geschichten der südlichsten Küste des Iran erzählt. **Art-Rock**, **Experimental-Rock**, **Progressive-Rock** und **Fusion**. Tauchen Sie ein in einen weitläufigen, theatralischen Raum, in dem traditionelle persische Melodien kraftvoll elektrifiziert werden. Angetrieben von Qeshmis komplexen, groovigen Basslinien, hochfliegenden Doppelgitarren und eindringlich-dramatischem Gesang strotzen Titel wie "Hollow Dream" und "Ensan Kojast" vor intensiver Leidenschaft. Es fühlt sich an wie ein grandioser Live-Auftritt im Stadion, der dunkle existenzielle Fragen mit einem gewaltigen, beflügelnden Gefühl des kulturellen Triumphs in Einklang bringt.
 
-::genre::prog rock, art rock, experimental rock, fusion
+::genre::prog rock, art rock, experimental rock, jazz fusion
 
 ### favesoul - A Ghostly Reflection
 

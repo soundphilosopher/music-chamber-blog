@@ -986,7 +986,7 @@ tbd
 
 Der deutsche Producer und DJ mit seinem neuesten Release. Der weltweit bekannte DJ bringt auch mit seinem aktuellen Werk Minimal, Techno, House, Dance und Trance in Einklang.
 
-::genre::minimal electronica, techno, house, dance, trance
+::genre::minimal electronica, techno, house, trance
 
 ## Perturbator - Age of Aquarius
 

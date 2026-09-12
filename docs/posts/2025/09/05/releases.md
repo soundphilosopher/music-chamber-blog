@@ -194,7 +194,7 @@ tbd
 
 Der UK-Gitarrist mit seinem neuesten Album. Mit allerlei Gästen an Bord, wird er instrumentale Prog-Metal in Komposition gebracht und dabei nie der Part des Fusion vermisst.
 
-::genre::prog metal, fusion, instrumental
+::genre::prog metal, jazz fusion, instrumental
 
 ## Corrado Nuccini, Xabier Iriondo, Karim Qqru, Roberta Sammarelli - Metropolis
 
@@ -1256,7 +1256,7 @@ Die Briten mit ihrem neuesten Release. Doom verpackt mit Stoner-/Desert-Rock und
 
 Das niederländische Dance-Duo mit seinem neuesten Output. Dance, der es schon auf die Festival-Bühnen geschafft hat.
 
-::genre::dance
+::genre::house, electronica, edm
 
 ## White Hills - The Lost Oddity
 

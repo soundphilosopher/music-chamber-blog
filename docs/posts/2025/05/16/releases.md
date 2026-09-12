@@ -854,7 +854,7 @@ tbd
 
 Der britische Künstler mit seinem neuesten Release. An Jamiroquai verehrender Neo-/Dance-Funk, mit Post-Bop Vibes.
 
-::genre::acid funk, dance, funk, post bop
+::genre::acid funk, funk, post bop
 
 ## Revival Season - Formless
 

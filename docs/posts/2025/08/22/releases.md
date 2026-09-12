@@ -542,7 +542,7 @@ tbd
 
 Die isländische Singer & Songwriterin mit ihrer neuesten Komposition. Mit dem Mix aus klassischen Arrangements, Chamber-Jazz, Folk und Chanson überzeugt sie zumindest die Kritiker.
 
-::genre::modern classic, chamber jazz, folk, chanson
+::genre::modern classic, chamber jazz, chanson
 
 ## Lecrae - Reconstruction
 
@@ -650,7 +650,7 @@ tbd
 
 Das Sophomore Release der R&B Formation aus Maryland. Synth-Electronica wird mit R&B und Soul in einen Fluss gebracht. Erstes Release unter XL, was ich sehr gut nachvollziehen kann.
 
-::genre::r&b, synth electronica, neo soul
+::genre::r&b, electronica, neo soul
 
 ## Offset - Kiari
 
@@ -1236,7 +1236,7 @@ tbd
 
 Die polnische Band wird gern dem Crossover-Prog-Rock zugerechnet, wobei ich den Crossover-Part nicht ganz nachvollziehen kann. Prog-Rock mit viel Soul.
 
-::genre::crossover, prog rock, neo soul
+::genre::crossover prog, prog rock, neo soul
 
 ## Ludovico Einaudi - Midsummer Echoes
 

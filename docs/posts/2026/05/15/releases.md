@@ -200,19 +200,19 @@ Das 2017 gegründete Power-Trio - bestehend aus Tom Dispraised (Gesang), Don Dis
 
 Unter dem Künstlernamen DJ Saliva ist Mauro Ventura eine feste Größe in der europäischen Left-Field-Elektro-Underground-Szene. Bekannt dafür, dass er scharfe Techno-Dynamik mit organischen, unheimlichen Atmosphären verschmilzt, hat er sich in den Underground-Club-Netzwerken eine fesselnde klangliche Identität aufgebaut. Dunkler **Dance/Electronic**, mutierter **Techno** und experimentelle Clubmusik, die sich industrieller Echos und aquatischer **Breakbeats** bedient. Zieh deine robustesten Kampfstiefel an und mach dich bereit für eine Rave-Party in einem verlassenen Lagerhaus. "URTIGA" schert sich nicht um sanften Radio-Pop; stattdessen ist es eine 6-Track-Überflutung der Sinne. Tracks wie "THE HATCH" verweben schwere, rhythmische Industrial-Beats mit hallenden, gespenstischen Melodien, die sich anfühlen wie ein Neon-Lasertag-Spiel in absoluter Dunkelheit. Es ist hypnotisch, rau und maßgeschneidert für alle, die ihre elektronische Tanzmusik schnell, bedrohlich und zutiefst viszeral mögen.
 
-::genre::techno, breakbeat, dance, edm, ebm
+::genre::techno, breakbeat, edm, ebm
 
 ## Drake - MAID OF HONOUR
 
 Das große Finale der unerwarteten Dreifach-Album-Trilogie. Während "ICEMAN" für die Straßen und "HABIBTI" für die Clubs gemacht war, beschließt "MAID OF HONOUR" die Nacht mit einem Blick nach innen - Drake arbeitet erneut mit seinem langjährigen Produktionsgenie Noah "40" Shebib zusammen, um jenen klassischen, emotionalen OVO-Sound zu liefern, der seine frühe Karriere geprägt hat. Nostalgischer, sample-lastiger **Moody R&B** / **Soulquarian Hip-Hop** / **introspektiver Rap**, unterlegt mit warmem Vinyl-Knistern, pitch-verschobenen Vocal-Samples und Downtempo-Rhythmen. Das ist genau das Album, das man um 3:00 Uhr morgens hört, wenn man ausdruckslos auf sein Handy starrt und sich fragt, ob man seinem Ex eine SMS schreiben soll. "MAID OF HONOUR" ist eine Meisterklasse in introspektivem, emotionalem Luxus-Rap. Unterstützt von wunderschönen, hochgestimmten Soul-Samples und vernebelten, unterwasserartig klingenden Basslines liefert Drake lange, ununterbrochene Verse, in denen er Ruhm, den Preis des Erfolgs und gebrochenes Vertrauen seziert. Es ist langsam gereift, zutiefst persönlich und eine kraftvolle Erinnerung daran, dass niemand eine klangliche Mitleidsorgie so wunderschön inszeniert wie Drake.
 
-::genre::alt r&b, mellow r&b, neo soul, hip hop
+::genre::alt r&b, r&b, neo soul, hip hop
 
 ## Drake - HABIBTI
 
 Als zweiter Teil von Drakes historischem, unangekündigtem Dreifachalbum mit 43 Titeln, das am 15. Mai 2026 erschien, entfernt sich "HABIBTI" gänzlich von den eiskalten Rap-Battles von "ICEMAN". Stattdessen taucht Drake wieder voll und ganz in die atmosphärischen, international inspirierten Club-Sounds ein, die Projekte wie "More Life" und "Honestly, Nevermind" zu riesigen Streaming-Hits gemacht haben. Sanfter, verführerischer **Afrorave** / **Dancehall** / **Melodic R&B** / **Global Pop** mit Fokus auf Midtempo-Dance-Grooves und romantischer, nächtlicher Lyrik. Zieh dein bestes Seidenhemd an und schenk dir einen Drink ein, denn Drake ist offiziell in Stimmung und bereit zum Tanzen. HABIBTI ist der ultimative Soundtrack für warmes Wetter, maßgeschneidert für Sommer-Blockpartys oder Fahrten die Küste entlang mit offenem Verdeck. Es tauscht schwere Trap-Drums gegen luftige Global-Pop-Strukturen ein und wechselt mühelos zwischen berauschenden Dancehall-Rhythmen und sanften Afrobeat-Loops. Es zeigt Drake von seiner charismatischsten Seite, wie er sanft von internationalen Romanzen und Jetset-Urlauben croont.
 
-::genre::afrorave, dancehall, melo r&b
+::genre::afrobeat, dancehall, r&b
 
 ## Drake - ICEMAN
 
@@ -404,7 +404,7 @@ Die Band besteht aus Jacob Barna (Gesang), Ian Bennett (Gitarre), Noah Sautner (
 
 *Boffo* ist ein legendärer französischer Gitarrenveteran und Komponist, der seit den späten 1970er Jahren aktiv ist. Er war 1985 der erste Künstler, der bei Musea Records unter Vertrag genommen wurde, und wird hoch geschätzt für seine Verschmelzung von kraftvollen Gitarrenklängen mit üppigen elektronischen und visuellen Animationen. **Instrumentaler Progressive Rock**, symphonische **Fusion**, cineastische **Avantgarde** und **World Music**. Stark inspiriert von klassischen Prog-Rock-Konzeptalben der 1970er Jahre, Fantasy-Kunst und Traumpsychologie. Schnall dich an für eine Reise ins Unterbewusstsein! "Inner World" ist Boffos 16. Studioalbum und klingt wie ein wunderschöner, kaleidoskopischer Soundtrack zu einem unveröffentlichten Science-Fiction-Zeichentrickfilm. Zwölf Instrumentalstücke wie "Robotown" und "Parallel World" führen Sie durch die sich wandelnden Landschaften einer nächtlichen Traumwelt. Boffos makellose akustische und elektrische Gitarrenmelodien tanzen mühelos über synthetische Sci-Fi-Streicher und tickende Uhrenrhythmen und bieten eine wunderbar skurrile und zutiefst künstlerische Reise für alle, die ihre Rockmusik mit einer Prise hochkonzeptioneller visueller Fantasie mögen.
 
-::genre::prog rock, neo prog rock, fusion, avant rock, world music, instrumental
+::genre::prog rock, neo prog rock, jazz fusion, avant rock, world music, instrumental
 
 ## Jeff Parker, ETA IVtet - Happy Today
 
@@ -434,13 +434,13 @@ Unter der Führung von Frontmann und Gitarrist Dave Matrise ist Jungle Rot seit 
 
 *Junon* ist ein äußerst eigenständiges, antifaschistisches Soloprojekt, das vollständig von seiner geheimnisvollen weiblichen Mastermind Junon geleitet, ins Leben gerufen und gesteuert wird. **Psychedelischer Black Metal**, roher Black Metal der zweiten Welle und okkulter **Heavy Rock**. Beeinflusst vom finsteren **Psych-Rock** von *The Devil's Blood* und rohen, beunruhigenden Noise-Strukturen. Zieh deine dunklen Zauberergewänder an und schließ die Tür ab. Dieses Album ist ein wunderschön verstörendes, aufregend hässliches Stück Magie, das sich anfühlt wie ein unangenehmes, mit Gras versetztes psychoaktives High. Junon vermeidet typische Klischees des Clean-Black-Metal und entfesselt stattdessen rohe Gitarren-Kreissägen und wilde, ungezähmte theatralische weibliche Vocals. Alles gipfelt in einem massiven, verstörenden 21-minütigen Schlussstück namens „Dolorosa“, das sich wie eine Zeitlupen-Séance im Weltraum anfühlt. Es ist fantastische, zutiefst lohnende Musik für Metal-Fans, die die dunkle Leere berühren wollen.
 
-::genre::avant black metal, psych black metal, atmo black metal
+::genre::avant black metal, black metal, atmo black metal
 
 ## KADAPAT, Nova Ruth, Siko Sedyanto - Ocean Cage
 
 Ein brillantes Zusammentreffen unterschiedlicher Disziplinen. Im Mittelpunkt stehen die ineinandergreifenden Strukturen aus Elektronik und Gamelan des balinesischen Duos KADAPAT, der kosmische Gesangsstil der Aktivistin Nova Ruth und die prägnanten körperlichen Bewegungserzählungen des Künstlers Siko Sedyanto. Das Material entstand ursprünglich aus "Moyang & Seaman", einer immersiven Theaterproduktion, kuratiert von Tianzhuo Chen. **Avantgardistischer elektronischer Gamelan**, ritualistische Klanglandschaften und politische Stimmkunst. Stark inspiriert von den alten Walfangtraditionen von Lamalera und tiefer ökologischer Trauer. Dies ist weniger ein Audioalbum als vielmehr eine spirituelle Reise zum tiefen Meeresgrund. "Ocean Cage" nutzt metallische Gamelan-Percussion und dröhnenden elektronischen Subbass, um die schweren, dunklen Gewässer der Mythologien der Vorfahren zu simulieren. Nova Ruths Stimme durchdringt den industriellen Dunst wie das Licht eines Leuchtturms in einem gewaltigen Sturm, was zu einem hypnotisierend schweren Werk globaler Kunstmusik führt, das Ihre uneingeschränkte Aufmerksamkeit fordert.
 
-::genre::gamelan, avant electronica, experimental electronica
+::genre::world music, avant electronica, experimental electronica
 
 ## Kelley Stoltz - If You Don’t Know Me, Buy Now *
 
@@ -494,7 +494,7 @@ Eine kraftvolle, unabhängige Metalcore-Band mit den Mitgliedern Eri, Luna, Coll
 
 Als legendärer Pionier der Underground-SoundCloud-Rap-Ära hat Lucki seit seinem 2013 erschienenen Mixtape "Alternative Trap" ein unabhängiges Imperium aufgebaut. Nach seinen großen Durchbruch-Alben wie "GEMINI!" aus dem Jahr 2024 hat er mehrere Gold- und Platin-Auszeichnungen erhalten. **Cloud Rap**, **Plugg** und **Alternative Trap**. Stark inspiriert von betäubender **Lo-Fi**-Ästhetik, Chopped-and-Screwed-Soul und zerhackter elektronischer Produktion. Der Titel lautet "DRGS R BAD*", doch Lucki lässt den Substanzrausch wie einen wunderschön trägen Trip durch den Weltraum klingen. Mit seinem charakteristischen halbschlafenden Gemurmel über stumpfen Beats klingt er wie ein Mann, der gerade aus einem dreitägigen Wochenende aufgewacht ist und sich sofort ins Aufnahmestudio begeben hat. Unterstützt von der starrbesetzten Produktion von Brent Rambo und den mit Stars gespickten Features von* Lil Yachty*,* Lil Baby *und* Rylo Rodriguez\* ist dieses gewaltige Album eine Meisterklasse in codeinhaltigem Audio-Comfort-Food.
 
-::genre::alt trap, hip hop, plugg, lofi
+::genre::trap, hip hop, plugg, lofi
 
 ## Mad Honey - Bridge Over Cumberland
 
@@ -782,7 +782,7 @@ Smerz ist das von der Kritik gefeierte Duo *Henriette Motzfeldt* und *Catharina 
 
 *Solemnity* wurde bereits 1998 vom kraftvollen Sänger Sven "The Axe" gegründet und hat sich seit langem mit ihren dramatischen, düsteren Fantasy-Bühnenauftritten und ihren kitschigen, vom Horror inspirierten Texten einen Namen in der Underground-Szene gemacht. Theatralischer, harter Heavy **Horror Metal** und **Melodic Power Metal**. Stellt euch einen donnernden Zusammenprall zwischen klassischen *Iron Maiden*, *King Diamond* und Old-School-Monsterfilmen vor. Mit einer kolossalen Spielzeit von 75 Minuten ist "Opus Barbaricum" ein glorreicher, übertriebener Heavy-Metal-Hammer, der einem direkt in die Brust schlägt. Mit absurden, kitschigen Titeln wie "Nightmares From The Neighbourhood" und "The Last Ghostrider" liefert die Band hochfliegende Gitarrengalopps und opernhafte Banshee-Schreie. Das Album nimmt den theatralischen Kitsch des Fantasy-Metal voll und ganz an, während die Riffs gnadenlos heavy bleiben. Es ist das ultimative musikalische Äquivalent einer Geisterbahnfahrt mit doppelter Geschwindigkeit.
 
-::genre::heavy metal, melo power metal
+::genre::heavy metal, power metal
 
 ## Speedy J - Walkman
 

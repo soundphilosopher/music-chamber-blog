@@ -62,7 +62,7 @@ Das amerikanische Trio mit seinem neuesten Output. Eine heavy Mixtur aus Stoner 
 
 Die kanadische Kapelle mit einer neuen EP. Eine catchy Melange aus Hard Rock, Heavy Rock, Alt-Rock, Stoner Rock und Desert Rock. Durch die moderne Produktion und den Einsatz von symphonischer Electronica in den Backgrounds, kratzen die Songs an der Tür von Groove Metal, Alt-Metal und Post Grunge. Gar Elemente des Crossover sind zu erkennen hier und da.
 
-::genre::hard rock, heavy rock, alt rock, stoner rock, desert rock, crossover, alt metal, groove metal
+::genre::hard rock, heavy rock, alt rock, stoner rock, desert rock, crossover thrash, alt metal, groove metal
 
 ## Bonnie Prince Billy - We Are Together Again
 
@@ -224,7 +224,7 @@ Der australische Singer & Songwriter und Multi-Instrumentalist Jay Watson mit se
 
 Die deutsche Formation, welche in den 90er den Crossover in Deutschland in den Mainstream führten, mit einem neuen Release, nach einer 14 jährigen Release-Auszeit. Omg. Was soll ich schreiben? Ob corny Lyrics zu einer Formation aus Münster gut passen, darf man diskutieren. Das Songwriting bewegt sich zwischen Crossover, Rap Rock, Alt Rock, Nu Metal und birgt gar ein paar Post-Hardcore- und Funk-Einflüsse. So wird ein nostalgisches, wie auch modernes Werk erzeugt, welches aber sicherlich kein Revival auslösen wird aber ein gutes Musicianship abbildet.
 
-::genre::crossover, rap rock, alt rock, nu metal, post hardcore, funk rock
+::genre::crossover thrash, rap rock, alt rock, nu metal, post hardcore, funk rock
 
 ## Hater - Mosquito *
 
@@ -260,7 +260,7 @@ Der deutsche Producer und Multi-Instrumentalist Jan Weissenfeldt mit seinem neue
 
 Das Solo-Debüt des britischen Veteran des UK Jazz, welcher Bekanntheit in der Szene erlangte durch sein Mitwirken in Sons of Kemet, The Comet Is Coming, Benin City, HUGH und LV. Seine Solo-Kompositionen widmen sich mehr den Spoken Words und Electronica. In der Electronica verstecken sich Acid House, EDM, und World Beats.
 
-::genre::spoken words, edm, dance, acid house, trance
+::genre::spoken words, edm, acid house, trance
 
 ## Kaleidobolt - Karakuchi
 
@@ -284,7 +284,7 @@ Die britische Singer & Songwriterin mit ihrem neuesten Output. Eine avantgardist
 
 Der amerikanische Producer und DJ mit seinem dritten Longplayer in seiner Discography. Im Repertoire hat er eine Melange aus EDM, Dance, Trance, House und Ambient. Die Kompositionen wurden in einen melancholischen aber sommerlichen Melodie-Mantel gesteckt, welcher die Tanzfläche warm hält.
 
-::genre::edm, dance, trance, minimal techno, house, ambient, synth pop
+::genre::edm, trance, minimal techno, house, ambient, synth pop
 
 ## Leaves‘ Eyes - Song Of Darkness
 
@@ -296,19 +296,19 @@ Das deutsch-norwegische Kollektiv, bestehend aus Liv Kristine (ex-Theatre of Tra
 
 Das Debüt des Brainchilds des amerikanischen Multi-Instrumentalisten Frank D’Erasmo. Nach fast 20 Jahren Projektbestehen, belohnt sich der Protagonist mit einem Full-Length. Durch die Boxen (oder Kopfhörer) wird ein progressiver Mix aus Death Metal und Thrash Metal geblasen. Das klassische Songwriting wird ab und an mit modernen Stilmitteln angereichert.
 
-::genre::thrash metal, death metal, prog metal, modern thrash metal
+::genre::thrash metal, death metal, prog metal
 
 ## Lightlorn - The Ebb And Flow Of Galactic Tides
 
 Das schwedische Outfit um den Multi-Instrumentalisten "Renwar" mit seinem Sophomore Longplayer. Ein theatralisch kalte, wie symphonische Komposition des Black Metal, welche aufgefrischt wird mit Elementen des Post Black Metal. Dabei wird allerdings nie die melancholisch-kalte Grundtonalität aus dem Auge verloren.
 
-::genre::post black metal, atmo black metal, melo black metal, cosmic black metal
+::genre::post black metal, atmo black metal, melo black metal, black metal
 
 ## Lost Society - Hell Is A State Of Mind
 
 Die finnische Formation mit ihrem neuesten Release. Eine Melange aus Nu Metalcore, Symphonic Metal, Nu Metal, Alt Metal, Prog Metal und Modern Thrash Metal. Trotz des modernen Ansatzes bietet das Songwriting eine gewisse Eigenständigkeit und Experimentierfreude.
 
-::genre::nu metalcore, symphonic metal, nu metal, alt metal, modern thrash metal, hard rock
+::genre::nu metalcore, symphonic metal, nu metal, alt metal, thrash metal, hard rock
 
 ## Luis Berra - The Patience of The Wolf
 
@@ -446,7 +446,7 @@ Das Sophomore Output des amerikanischen Outfits. Ein modernes Werk des Melo Deat
 
 Die niederländische Supagroup, bestehend aus Ex-Mitgliedern von _Cynic_, _Exivious_ und _Pestilence_, mit ihrem dritten Full-Length in ihrer Discography. Entstanden ist eine eingängige, emeotionale und komplexe Komposition des Prog Rock. Ihr Stil wird oft als atmosphärischer Progressive Rock oder „Post-Prog“ beschrieben. Er verbindet Indie-Rock-Sensibilität mit den weitläufigen, spacigen Texturen progressiver Musik.
 
-::genre::post prog rock, prog indie, prog rock
+::genre::prog rock, prog indie
 
 ## Ricardo Formoso - Electric Rebound
 
@@ -518,7 +518,7 @@ Die LA-Based Formation mit ihrem neuesten Klangwerk. Im Songwriting werden Indie
 
 Der neueste Longplayer der amerikanischen Kapelle. Eine Komposition zwischen Garage Rock, Punk Rock und Hardcore, welche durch die klare Produktion die Form von Alt Rock und Post Grunge annehmen kann und gleichzeitig die stimmliche Variant Dani's hervorhebt. Das Songwriting roh, frech und unerbittlich unterhaltsam und die Band behält ihren typischen kalifornischen Hardcore-Speed der 70er und 80er Jahre bei.
 
-::genre::garage rock, punk rock, hardcore, alt rock, post grunge
+::genre::garage rock, punk rock, hardcore punk, alt rock, post grunge
 
 ## Tanya Tagaq - Saputjiji *
 
@@ -554,13 +554,13 @@ Teil 2 des Two-Album-Projekts um den italienischen Multi-Instrumentisten und Pro
 
 Die Esten mit ihrem Debüt Full-Length. Ein progressiver Austausch zwische Deathcore und Metalcore, mit einen klassischen Myspace-Cover als Albumcover. Ich weiß garnicht, wie viele MySpace Pages ich mit einen solchen Artwork versehen habe. Nebenbei, die progressiven Elemente im Songwriting, rücken dieses nicht wirklich in die Sameness des modernen Sounds, da nicht sofort in den Djent abgebogen wird, sondern recht viel Raum zu Experiment gesucht und eröffnet wird.
 
-::genre::prog deathcore, tech death metal, prog metal, modern metalcore
+::genre::deathcore, tech death metal, prog metal, modern metalcore
 
 ## The S.E.T. - Self Evident Truth
 
 Die Debüt EP des amerikanischen Eastcoast Outfits. Ein ehrliches und raues Werk des Hardcore, welches Elemente von Metalic Hardcore und Crossover nicht verbergen kann und sicherlich auch nicht will. Es ist schließlich die Eastcoast. Sing-Alongs, Two-Steps, Mosh und Stage-Dives sind bei diesem Energiebündel von Hardcore vorprogrammiert.
 
-::genre::hardcore, metallic hardcore, crossover
+::genre::hardcore punk, metallic hardcore, crossover thrash
 
 ## Tore Brunborg Trio - Malm
 
@@ -660,7 +660,7 @@ Das amerikanische Kollektiv mit seinem neuesten Release. Eine avantgardistische,
 
 Der "Minister of Funk" mit seinem neuesten Release. Die Kompositionen erzeugen eine nostalgische Atmosphäre, die den Hörer in die Vergangenheit zurückversetzt. Dabei werden Old School Hip Hop, R6B, Retro Soul, G-Funk. Acid Funk und Disco in einer nostalgischen Melange zusammengeführt.
 
-::genre::proto hip hop, retro soul, g-funk, acid funk, disco, r&b, prog funk
+::genre::hip hop, retro soul, g-funk, acid funk, disco, r&b, prog funk
 
 ## Gold Pyramid - Gold Pyramid
 

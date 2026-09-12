@@ -20,7 +20,7 @@ Das Berliner Trio legt sein Debütalbum bei *Duchess Box Records* vor — vierze
 
 Das erste Zusammentreffen dieses Trios: der britische Saxofonist Andy Sheppard, die italienische Pianistin Rita Marcotulli und der französische Bassist Michel Benita. Aufgenommen im März 2025 im Auditorio Stelio Molo RSI in Lugano, produziert von Manfred Eicher, erschienen bei *ECM*. **Jazz**, **Chamber Jazz** und **Contemporary Jazz**. Kein Schlagzeug, viel Raum und diese typische ECM-Klarheit, in der jeder Ton einzeln steht. Setzt euch hin, hier zählt jede Pause! Acht neue Sheppard-Kompositionen, dazu *Lawns* von *Carla Bley* — eine Widmung an die Musikerin, mit der Sheppard über Jahrzehnte gearbeitet hat, und ein Stück, das in dieser Besetzung besonders nackt und schön wirkt. Die Abwesenheit des Schlagzeugs ist dabei der eigentliche Trick: Marcotulli und Benita übernehmen die rhythmische Arbeit im Wechsel, was den Stücken eine schwebende Beweglichkeit gibt, die ein Schlagzeug zwangsläufig erden würde. Sheppards Ton ist so warm und zurückgenommen wie immer. Ein stilles, sehr elegantes Album.
 
-::genre::jazz, chamber jazz, contemporary jazz, modern jazz
+::genre::chamber jazz, contemporary jazz, modern jazz
 
 ### Angela Autumn - Believer
 
@@ -34,7 +34,7 @@ Die zweite Platte der Songwriterin aus Nashville, geschrieben zwischen einem Bau
 
 Die Hamburger Sängerin, die seit *Bohème* zu den festen Größen des deutschen Chansons gehört, legt ein Album vor, dessen Titel Programm ist. Die Weltpremiere fand einen Tag nach Veröffentlichung in der Elbphilharmonie statt, vier Wochen vor Tourstart. **Chanson**, **Pop** und **Deutschpop**. Akustische Arrangements, viel Raum um die Stimme und dieser leise, beiläufig kluge Ton, den sie sich über zwanzig Jahre erarbeitet hat. Setzt euch hin, hier wird nicht um Aufmerksamkeit gekämpft! Die Platte beschreibt eine neue Phase — weniger das Suchen, mehr das Ankommen — und nimmt sich dafür bewusst zurück: sparsame Instrumentierung, kein Produktionsprunk, stattdessen Texte, die man beim zweiten Hören anders versteht als beim ersten. Louisan singt über Verlangen, Distanz und darüber, wie sich beides mit den Jahren verschiebt, und sie tut es mit einer Leichtigkeit, die den Ernst darunter gut versteckt. Ein warmes, intimes Album, das in der akustischen Fassung besonders gut funktioniert.
 
-::genre::chanson, pop, deutschpop, singer-songwriter
+::genre::chanson, deutschpop
 
 ### AntiMozdeBeast - Prophecy
 
@@ -130,7 +130,7 @@ Erschienen bei *FDA Records*, aufgenommen in den DorMaKlang Studios, gemischt un
 
 Eine EP der britischen Band — sechs Stücke, siebzehneinhalb Minuten, kein Gramm Fett. **Melodic Hardcore**, **Hardcore** und **Metalcore**. Schneidende Gitarren, ein Gesang zwischen Schrei und gebrochener Melodie und diese für das Genre typische Dringlichkeit, die sich nicht ausbremsen lässt. Drückt auf Play und haltet euch fest! *Permanence*, *Bullet Points*, *Wounds*, *Barely Afloat*, *Erased* und *Memories* — schon die Titelliste zeichnet den Bogen: Es geht um das Festhalten, um das Wegrutschen und um die Frage, was von einem bleibt, wenn alles andere geht. Musikalisch arbeitet die Band mit dem klassischen Wechsel aus Tempo und Zusammenbruch, setzt die melodischen Passagen aber sparsam genug ein, dass sie tatsächlich wirken. Bei dieser Spielzeit gibt es keinen Leerlauf und keinen Song, der nur dabei ist. Physisch gibt es die Platte direkt bei der Band. Kurz, ehrlich und mit ordentlich Druck.
 
-::genre::melo hardcore, hardcore, metalcore, post hardcore
+::genre::melo hardcore, hardcore punk, metalcore, post hardcore
 
 ### Dreadnought - Wars Of Spirit // Wards Of Light *
 
@@ -142,7 +142,7 @@ Das Quartett aus Denver legt bei *Metal Blade* nach — sechs Stücke, gemischt 
 
 Das Projekt eines Songwriters aus New York Mills, Minnesota, der seine Musik ohne Umschweife als Verarbeitung von Trauer und psychischer Erkrankung beschreibt. Die Titelnummer gab es bereits 2025 als Medley-Single vorab. **Singer-Songwriter**, **Indie Folk** und **Indie Rock**. Sparsame Arrangements, viel Luft und eine Stimme, die keine Schutzschicht aufträgt. Setzt euch hin, das ist näher dran, als euch lieb ist! Der Titel beschreibt eine sehr konkrete Geste — einen Raum verlassen und das Licht brennen lassen, weil jemand zurückkommen könnte oder eben nicht mehr — und das Album arbeitet sich an genau dieser Art von Alltagsdetails ab, in denen ein Verlust sichtbar wird. Statt großer Gesten stehen hier kleine, präzise Beobachtungen, die gerade deshalb treffen. Musikalisch bleibt alles bewusst schlicht, gelegentlich fast roh, was der Direktheit der Texte entgegenkommt. Keine leichte Platte, aber eine sehr ehrliche.
 
-::genre::singer-songwriter, indie folk, indie rock, alt folk
+::genre::indie folk, indie rock, alt folk
 
 ### Eep-Oop - Choices
 
@@ -166,7 +166,7 @@ Der amerikanische Gitarrist und Sänger, der schon als Teenager in der Bluesszen
 
 Das Debütalbum des niederländischen Quartetts aus Eindhoven, digital und auf CD erschienen — die Fortsetzung der EP *Requiem 1: The Serial Killer's Symphony of Liberation, Deliverance and Relief*, bei der jeder Song ein weiteres Kapitel bildet. **Deathcore**, **Beatdown**, **Hardcore** und **Groove Metal**. Dissonante Riffs, Breakdowns mit Bodenhaftung und mit Linn Liv eine Frontfrau, die zwischen *Randy Blythe* und *Tatiana Shmayluk* zu Hause ist. Räumt den Raum leer, bevor ihr das anmacht! Die Erzählung folgt Menschen, die unter Unterdrückung nach und nach ihre Menschlichkeit verlieren, ihr Trauma in Wut verwandeln und sich gegen ihre Peiniger erheben — wobei die Platte Rache ausdrücklich nicht als Auflösung behandelt, sondern als etwas mit eigenem Preis und der realen Gefahr, zu dem zu werden, was man bekämpfen wollte. Musikalisch ist das schwer, nihilistisch und sehr sauber produziert, ohne dass die Wucht darunter leidet. Ein bemerkenswert geschlossenes Debüt.
 
-::genre::deathcore, beatdown, hardcore, groove metal
+::genre::deathcore, beatdown, hardcore punk, groove metal
 
 ### Exist Immortal - Afterglow
 
@@ -178,7 +178,7 @@ Eine EP der britischen Band, erschienen bei *Seek & Strike* — fünf Stücke na
 
 Das vierte Studioalbum des Londoner Quintetts, erschienen bei *Partisan Records*. **Jazz**, **Afrobeat** und **Hip Hop**. Bläsersätze, die Treibende eines Schlagzeugs, das nie stillsteht, und eine Spielfreude, die diese Band seit jeher von der akademischen Seite des Jazz trennt. Lautstärke hoch, hier wird getanzt! Die Platte ist ausdrücklich als Werk in drei spirituellen und geografischen Bewegungen angelegt und zeichnet die Bewegung schwarzer Menschen über Kontinente und Jahrzehnte nach — von der Musik Afrikas über die Rhythmen der Karibik bis nach Hause in die Straßen Londons. Das ist ein großer Anspruch für ein Jazzalbum, und die Band löst ihn ein, ohne dabei je belehrend zu werden: Die Idee liegt in den Grooves, nicht in einem Begleittext. Nach dem Mercury Prize und den ausverkauften Hallen hätte man eine Absicherung erwarten können; stattdessen ist das ihre ambitionierteste Platte. Ganz hervorragend.
 
-::genre::jazz, afrobeat, hip hop, nu jazz, spiritual jazz
+::genre::afrobeat, hip hop, nu jazz, spiritual jazz
 
 ### Filth - Death Exhibition
 
@@ -214,13 +214,13 @@ Die Thrash-Pioniere aus Texas legen ihr erstes Album mit neuem Material seit üb
 
 Der Saxofonist, der seit fünfzig Jahren am Berklee College of Music unterrichtet und dort unter anderem *Branford Marsalis*, *Donny McCaslin*, *Joshua Redman* und *Seamus Blake* geprägt hat, legt bei Jojo Records eine Allstar-Quintett-Aufnahme vor. **Jazz**, **Post Bop** und **Contemporary Jazz**. Mit dabei: *Randy Brecker* an der Trompete, Luis Perdomo am Klavier, Santi Debriano am Bass und Jeff "Tain" Watts am Schlagzeug. Auflegen und zuhören, wie das geht! Der Titel ist Programm — das hier ist eine Platte unter Freunden, aufgenommen von Leuten, die einander nichts mehr beweisen müssen. Eröffnet wird mit *Theme for Ernie*, jenem Stück von Fred Lacey, das als Hommage an den Altsaxofonisten Ernie Henry entstand und vor allem durch *John Coltranes* Aufnahme bekannt ist; Perdomo und Garzone spielen es als Duo. Die Vorabsingle *Ripty-Boom* zeigt die andere Seite: knackig, verspielt und mit hörbarem Vergnügen an der Sache. Warm, souverän und völlig unangestrengt.
 
-::genre::jazz, post bop, contemporary jazz, modern jazz
+::genre::post bop, contemporary jazz, modern jazz
 
 ### Godslave - Godslave
 
 Das selbstbetitelte Album der Thrasher aus dem Saarland, erschienen bei *Metalville* — fünf Jahre nach *Positive Aggressive* und nach einer Phase interner Schwierigkeiten, aus der die Band nach eigener Aussage kollektiver herausgekommen ist als je zuvor. **Thrash Metal**, **Heavy Metal** und **Melodic Thrash**. Schnelle Riffs, klare Strukturen und ein Gastauftritt von Laura Guldemond. Kopf runter, hier wird ohne Umschweife losgelegt! Der Opener *Reset, Rebuild, Reclaim* setzt das Tempo in *Kreator*-Nähe an und macht das Programm gleich im Titel deutlich: Die Platte handelt vom Neuaufbau, nicht vom Untergang. Das ist im Thrash eine bemerkenswert seltene Grundstimmung, und sie trägt durch Stücke wie *Part Of The Pack*, *The Road Not Taken*, *And Yet I Stand* und das abschließende *The Fire That Calls Me* hindurch. Zwischen der reinen Brutalität stehen immer wieder epische Melodiebögen, die dem Album Luft verschaffen. Eine positive, kraftvolle und überraschend hoffnungsvolle Platte aus dem deutschen Metal.
 
-::genre::thrash metal, heavy metal, melo thrash metal
+::genre::thrash metal, heavy metal
 
 ### Gravegod - Sermon Under Mound
 
@@ -238,19 +238,19 @@ Das vierte Album der Londoner Band, erschienen bei *Nuclear Blast*. Der Titel ve
 
 Die amerikanische Sängerin versammelt bei *Edition Records* einen Kreis von Weggefährten, der bis zu ihren frühesten Aufnahmen zurückreicht: *Robert Glasper*, Gerald Clayton, Alan Hampton und Mark Guiliana — kreative Beziehungen, die inzwischen über zwei Jahrzehnte tragen. **Jazz**, **Vocal Jazz**, **Contemporary Jazz** und **Neo Soul**. Parlatos unverwechselbar leise, fast gehauchte Stimme, die nie drängt und trotzdem alles trägt. Leise drehen und näher rücken! Der Titel meint genau diese Menschen — die Weisen, die man sich über die Jahre gesucht hat —, und die Platte behandelt das Wiedersehen nicht als Nostalgie, sondern als Fortsetzung eines Gesprächs. Glaspers Klavierarbeit und Guilianas zurückgenommenes Schlagzeug geben ihr dabei genau den Raum, in dem ihre Phrasierung funktioniert. Digital erschien das Album bereits am 28.08., auf CD und Vinyl am 11.09. Eine warme, hochkonzentrierte Platte.
 
-::genre::jazz, vocal jazz, contemporary jazz, neo soul
+::genre::vocal jazz, contemporary jazz, neo soul
 
 ### Harlott - Exsequiis
 
 Das fünfte Album der Thrasher aus den östlichen Vororten Melbournes, erschienen bei *Metal Blade* — und das erste seit sechs Jahren. **Thrash Metal**, **Melodic Thrash** und **Speed Metal**. Weltklasse-Gitarrenarbeit, unablässiger Vorwärtsdrang und ein Riffing, das nie stehenbleibt. Anschnallen, hier wird nicht gebremst! Die elf Stücke sind dichter, härter und selbstbewusster als alles bisherige Material der Band — *Incipiam*, *Void*, *Messiah Simplex*, *Trial by Liar*, *The God That Knows No Name*, *Kleptogenesis* und das abschließende *Exsequiis* zeichnen ein durchweg desillusioniertes Bild einer bitter gespaltenen Welt. Die Vorabsingle *Trial by Liar* gibt den Ton vor: schnell, präzise und textlich deutlich gezielter, als es der Genrestandard verlangt. Was auffällt, ist die Politur — der Sound ist straffer als früher, ohne dass die Aggression darunter leidet. Nach sechs Jahren Pause der mit Abstand größte Schritt nach vorn in ihrer Laufbahn.
 
-::genre::thrash metal, melo thrash metal, speed metal
+::genre::thrash metal, speed metal
 
 ### Haruomi Hosono - Yours Sincerely
 
 Das dreiundzwanzigste Studioalbum des japanischen Musikers — Mitbegründer des *Yellow Magic Orchestra* — und seine erste Sammlung neuer Stücke seit über sieben Jahren. Erschienen bei *Ghostly International*, entstanden über zwei Jahre. **Avant Pop**, **Folk**, **Experimental** und **Ambient**. Zarte, tastende Arrangements, die ins Blubbern kippen, sobald man sich an sie gewöhnt hat. Setzt euch hin, das nimmt sich alle Zeit der Welt! Hosono wollte die japanischen Begriffe *omoiyari*, *jihi* und *boseiai* auf Englisch ausdrücken und fand kein Wort, das passte — jedes kam nahe heran und trug doch eine andere Nuance. Am Ende griff er zu der Formel, mit der man einen Brief schließt: *Sincerely*. Entsprechend kreist das Album um Mütterlichkeit und Natur als denselben Gedanken, von *Note of Mothership* über *M for Mandala* und *Rojiura (Walking Vibration)* bis zu *Figlio Perduto* und *Anemo Wheel*. Verspielt, unaufgeregt und voller kleiner Entdeckungen. Eine wunderschöne Platte.
 
-::genre::avant pop, alt folk, experimental, ambient
+::genre::avant pop, alt folk, ambient
 
 ### Hate Meditation - Degenerator
 
@@ -298,13 +298,13 @@ Erschienen bei *Unbeaten Records* — und die Beschreibung "crusty deathgrind", 
 
 Aufgenommen am 28. Februar 2024 im The Brink in Richmond, Virginia, erschienen bei *Out Of Your Head Records* — Janel Leppin an Cello und Prophet 5, Devra Hoff am Bass und Chad Taylor an Schlagzeug und Mbira. Technik, Mischung und Produktion: Mike Reina. **Avant Jazz**, **Chamber Jazz** und **Experimental**. Ein Trio ohne Klavier und ohne Bläser, was den Klang von Grund auf anders macht. Hört genau hin, hier trägt jedes Instrument mehrere Rollen! Leppins Cello wechselt fortwährend zwischen Melodieführung, Basslinie und reiner Textur, während der Prophet 5 elektronische Flächen darunterlegt, die das akustische Material ins Schwebende ziehen. Taylors Mbira ist dabei mehr als Farbe — sie gibt mehreren Stücken ihren rhythmischen Kern. Titel wie *Comet Ping Pong*, *Walking Through A Party*, *Key Bridge*, *Rhizome's Home* und *89.3 FM* verweisen auf Orte und Institutionen in Washington, D.C., was der Platte etwas ausgesprochen Ortsgebundenes gibt. Klug gebaut, warm gespielt und angenehm unprätentiös.
 
-::genre::avant jazz, chamber jazz, experimental, jazz
+::genre::avant jazz, chamber jazz
 
 ### Janie Danger - Crisis Acting
 
 Das dritte Album der Künstlerin aus Atlanta, Georgia, die ihren Stil selbst als "hypnagogic powerviolence" und "transcendental hyperpunk" beschreibt — Begriffe, die man erst albern findet und nach dem Hören leider ziemlich passend. Vollständiger Titel: *Crisis Acting; or How to Kill the Antichrist and Save Rock and Roll*. **Punk Rock**, **Powerviolence** und **Noise Rock**. Extrem kurze Ausbrüche, abrupte Stilwechsel und eine Produktion, die den Schlaf-Wach-Übergang des Genrenamens durchaus ernst meint. Anschnallen, das springt in alle Richtungen! Die Vorabsingles *(Kill) Your Self-Help Book* und *Kissing Booth* zeigen die beiden Pole gut: einmal reine Aggression, einmal verzerrte Süße. Was die Platte zusammenhält, ist weniger ein Sound als eine Haltung — alles, was unter dem Dach Punk Platz hat, wird herangezogen und gegeneinander gestellt, ohne Rücksicht auf Genregrenzen. Der Titel ist Programm: ein großspuriger, selbstironischer Rettungsauftrag. Unberechenbar und ziemlich mitreißend.
 
-::genre::punk rock, powerviolence, noise rock, hardcore
+::genre::punk rock, powerviolence, noise rock, hardcore punk
 
 ### Jasmeno - Assemblage Of Cinematic Idioms
 
@@ -382,7 +382,7 @@ Die selbstbetitelte Debüt-EP, am 11.09. bei *Caligari Records* erschienen — v
 
 Der deutsche Trompeter und Komponist legt bei *Challenge Records* ein ausgesprochen persönliches Album vor — über Wachstum, Veränderung und Widerstandsfähigkeit. **Jazz**, **Contemporary Jazz** und **Post Bop**. Ein warmer, flexibler Ton, elegante Phrasierung und eine ruhige emotionale Intensität, die nie auf Effekt zielt. Setzt euch hin, das nimmt sich Zeit! Der Titel geht auf den Gedanken zurück, dass keine Blume ohne Regen blüht, und die Musik beschreibt genau diese stille Kraft, die aus schwierigen Zeiten erwachsen kann. Krahl bewegt sich dabei zwischen weiten, melodischen Landschaften, verspielten rhythmischen Passagen und Momenten nachdenklicher Stille, ohne je das Gefühl von Offenheit und natürlichem Fluss zu verlieren. Nach *In-Between Flow* und *The Magic of Consistency* ist das die bisher zugänglichste Arbeit seines Quartetts, ohne an Substanz einzubüßen. Zur Veröffentlichung ging es auf ausgedehnte Tour durch Deutschland. Eine leise, sehr schöne Platte.
 
-::genre::jazz, contemporary jazz, post bop, modern jazz
+::genre::contemporary jazz, post bop, modern jazz
 
 ### Massendefekt - Massendefekt
 
@@ -436,7 +436,7 @@ Das dritte Album des Projekts um Aren Emirze, nach dem selbstbetitelten Debüt v
 
 Der Gitarrist, den viele von *New Blue Sun* kennen, legt bei *Leaving Records* zehn Stücke vor — mit Carlos Niño, Aaron Shaw und Deantoni Parks. **Progressive Rock**, **Jazz Fusion** und **Experimental**. Gitarrenarbeit, die weniger nach Instrument als nach Apparatur klingt, getragen von einem Schlagzeug, das ständig die Perspektive verschiebt. Kopfhörer auf, das geht nach oben! Mercereau beschreibt die Platte als Album über radikal mögliche Wirklichkeiten: Hier sei so viel im Gange, das Potenzial der Vorstellungskraft sei monumental und radikal, und das Album taste die aufgeschlossensten, lebensbejahendsten Gedanken ab, die sich aus der denkbar strahlendsten Schöpfungsenergie ziehen lassen. Das klingt nach viel, und die Musik löst es tatsächlich ein — *There's Something Here*, *Accelerator*, *NewNow*, *Radical Possible Realities* und das abschließende *Resonant Angle, Seer Within* bauen eine Euphorie auf, die nie ins Kitschige kippt, weil das Spiel dafür zu ungeordnet bleibt. Ein ungewöhnliches, sehr offenes Album.
 
-::genre::prog rock, jazz fusion, experimental, spiritual jazz
+::genre::prog rock, jazz fusion, spiritual jazz
 
 ### Offernat - The Ecstasy Of Death
 
@@ -472,19 +472,19 @@ Das lang erwartete zweite Album von Sabrina Fuentes, erschienen bei *Dirty Hit* 
 
 Die dritte Veröffentlichung des kanadischen Cellisten — hervorgegangen aus einem Auftrag der Tanzkompanie James Wilton Dance von 2024, für die er unter dem Titel *BACH Reimagined* eine Partitur für Cello schrieb und anschließend ausgiebig tourte. Aufgenommen von Darren McGill, gemischt von Adam Noble (*Leprous*, *Katatonia*), gemastert von Robin Schmidt. **Modern Classical**, **Post Rock**, **Experimental** und **Post Metal**. Ein einziges Cello, vielfach geschichtet, das klingt, als stünde ein ganzes Ensemble im Raum. Setzt euch hin, das ist erstaunlich schwer für ein Streichinstrument! Der Leitgedanke des Stücks war die Schnittstelle zwischen barockem Kontrapunkt und modernem Metal, und genau dort liegt die Platte: Barocke Klarheit trifft auf Post Rock, elektronische Texturen und experimentelles Rauschen. Neun Stücke von *Speed of Light* über *Murmuration* und *Dissolution* bis zum abschließenden *Empyrean*, die diesen Bogen konsequent durchhalten. Eine der ungewöhnlichsten Platten dieser Woche.
 
-::genre::modern classic, post rock, experimental, post metal, neo classic
+::genre::modern classic, post rock, post metal, neo classic
 
 ### Scorched Earth Policy - Scorched Earth Policy
 
 Die selbstbetitelte Debüt-EP einer neuen Band aus dem Norden des Bundesstaates New York, erschienen beim Hardcore- und Metalcore-Label *DAZE* — fünf Stücke, zehn Minuten. In der Besetzung finden sich Leute von *Missing Link* und *Laid 2 Rest*. **Hardcore**, **Beatdown** und **Metalcore**. Extrem schwere Riffs, Breakdowns ohne Vorwarnung und eine Produktion, die den Nacken meint. Kurz anschnallen, länger dauert es nicht! *Intro*, *You're Next*, *In the Gutter*, *First Breath* und *Say Goodnight* — mehr braucht es nicht, um klarzumachen, worum es geht. Die Vorabsingle *Say Goodnight* Ende August hat der Band bereits erhebliche Aufmerksamkeit eingebracht, und die EP löst das ein, indem sie gar nicht erst versucht, sich zu erklären: zehn Minuten reine Wucht, kein Zwischenspiel, kein melodischer Ausweg. Bei so einer Laufzeit ist jede Sekunde eine Entscheidung, und die Band trifft sie konsequent zugunsten der Härte. Ein bösartiger, sehr überzeugender Einstand.
 
-::genre::hardcore, beatdown, metalcore, hardcore punk
+::genre::hardcore punk, beatdown, metalcore
 
 ### Shrineburner - Hymns Of Despair
 
 Das Debütalbum des Trios aus Chicago, in Eigenregie digital und auf CD veröffentlicht, Vinyl folgt. Aufgenommen und gemischt von Matt Russell in den Altered States in Chicago, gemastert von Edward Hamel, mit einem gemalten Cover von Joshua Hondros. **Sludge Metal**, **Doom Metal** und **Blackened Doom**. Zäh, erdrückend und mit einer Produktion, die das Wort "erdbebenauslösend" tatsächlich verdient. Nehmt euch Zeit, hier bewegt sich ein Gletscher! Sechs Stücke — *Void of Guilt*, *Spectral Cataclysm*, *Bodies Dragged to Sunlight*, *Slow Death Chant*, *An Ocean of Broken Hope* und *Hymn of Despair* — die sich als abgründiger Doom-Sludge beschreiben lassen, durchsetzt mit psychedelischen, kosmischen und blackened Rändern. Genau diese Ränder verhindern, dass die Platte bloß schwer ist: Sie geben ihr eine Weite, die das Erdrückende erst wirken lässt. Die Titel sagen, wo die Reise hingeht, und keiner davon lügt. Ein außergewöhnlich sicher gesetztes Debüt.
 
-::genre::sludge metal, doom metal, blackened doom metal, psych doom metal
+::genre::sludge metal, doom metal, blackened doom metal
 
 ### Shudder to Think - Who Sent You?
 
@@ -508,7 +508,7 @@ Elf Stücke von einer Band aus New York City, die ihre eigene Musik als schnelle
 
 Das dritte Album der irischen Songwriterin und das erste, seit sie Dublin Richtung West Kerry verlassen hat. **Indie Folk**, **Folk Rock** und **Singer-Songwriter**. Die Synthesizer der früheren Platten sind den wärmeren Klangfarben von Holzbläsern, Saxofon, Hammondorgel und Klavier gewichen, mit der Akustikgitarre als Anker. Setzt euch hin, hier wird nichts überstürzt! Es sind ruhige, unaufgeregte Songs über Nähe und Wahrnehmung — darüber, wie zwei Menschen denselben Moment teilen und ihn völlig unterschiedlich erinnern können — durchzogen von einem trockenen Humor, der sie ehrlich hält. Die Singles *Grenadine* und das nachdenkliche *Illinois Again* über die Einsamkeit inmitten von Menschen geben die Tonlage gut wieder. Entstanden ist die Platte mit Hilfe von Chris W Ryan, *James Vincent McMorrow*, *SOAK*, Hugo White und Carey Willets — eine Liste, die viel über die Sorgfalt dieser Aufnahmen sagt. Warm, intim und sehr schön.
 
-::genre::indie folk, folk rock, singer-songwriter, alt folk
+::genre::indie folk, folk rock, alt folk
 
 ### Space Chaser - Razorblade Bay
 
@@ -520,7 +520,7 @@ Das vierte Studioalbum der Berliner Band, erschienen bei *Testimony Records* und
 
 Das neue Album des Brooklyner Kollektivs um Gio Escobar, erschienen bei *XL Recordings* — fünfzehn Stücke, eingespielt mit den Mitstreitern Jack "Wacko" Nolan, Buz "Man-man" Donald und Clérida "Ca$h Clay" Eltimé. **Avant Hip Hop**, **Experimental Hip Hop**, **Jazz** und **Soul**. Collagenhafte Produktion, Field Recordings, abrupte Schnitte und ein Klangbild, das ständig kippt. Kopfhörer auf, das ergibt erst im Ganzen Sinn! Die Gästeliste ist außergewöhnlich: *Solange*, *Danny Brown*, *Styles P*, *Ladybug Mecca*, Claudette Ortiz, Bubba Dupree, die Dichterin Sonia Sanchez und The Warlockettes. Die Vorgeschichte ist es ebenso — die Vorgängerplatte erschien nie auf einem Streamingdienst, sondern ausschließlich als DVD für fünfzig Dollar, verkauft am 11. September am Times Square. Genau ein Jahr später, wieder am 11. September, bekommt *SOTC ("II")* nun eine reguläre Veröffentlichung. Sperrig, betörend und völlig eigenständig.
 
-::genre::avant hip hop, experimental hip hop, jazz, soul, hip hop
+::genre::avant hip hop, experimental hip hop, soul, hip hop
 
 ### Stephen Egerton - I Think You're Overthinking This
 
@@ -580,7 +580,7 @@ Das dritte Album von Nate Amos unter diesem Namen und seine erste Platte für *M
 
 Ein internationales Melodic-Death-Metal-Projekt mit ehemaligen Mitgliedern von *Nightrage*, *Armageddon* und *Orgy*, erschienen bei *Lifeforce Records* als Digipak-CD und digital — zehn Stücke. **Melodic Death Metal**, **Death Metal** und **Melodic Thrash**. Zwillingsgitarren, hohes Tempo und dieser schwedische Melodiebogen, den man sofort einordnen kann. Nacken lockern, hier wird die alte Schule aufgerufen! Die Bezugspunkte werden gar nicht erst verschleiert: *At The Gates*, die frühen *In Flames* und moderne *Arch Enemy*. Von *From the Beginning (Genesis)* über *Lava*, *Dismal Paradise* und *These Little Voices* bis zum abschließenden *Until the End* arbeitet die Platte konsequent mit dem, was dieses Genre groß gemacht hat, ohne ein Zitatereigen zu werden — dafür sitzen die Riffs zu gut und die Leads zu präzise. Supergroups sind oft eine Enttäuschung, weil sich Namen nicht addieren; hier funktioniert es, weil alle dieselbe Sprache sprechen. Solide und richtig gut gespielt.
 
-::genre::melo death metal, death metal, melo thrash metal
+::genre::melo death metal, death metal, thrash metal
 
 ### Trapt - Resurrection
 
@@ -668,7 +668,7 @@ Das zweite Album des belarussischen Projekts bei *Cryo Chamber*, am 08.09. ersch
 
 Das Debütalbum des Quintetts aus Baltimore, am 10.09. bei *Hausu Mountain* auf Kassette, CD und digital erschienen — acht Stücke. Die Band gründete sich 2024 um Saxofonist Christian Best und Schlagzeugerin Jen Kirby, deren Zusammenarbeit bei *Smoke Bellow* die Grundlage bildete, dazu Steve Strohmeier an den Keyboards, Marc Miller am Bass und Rose Hammer Burt am zweiten Saxofon. **Avant Jazz**, **Post Punk** und **Post Minimalism**. Zwei Saxofone im Vordergrund, Wiederholung als Prinzip und eine Rhythmik, die eher stolpert als groovt. Hört es laut, das ist keine Hintergrundmusik! Die Band verbindet saxofongeführten Minimalismus in der Tradition von *Steve Reich*, *Terry Riley* und *Philip Glass* mit Post-Punk-Energie und dem rhythmischen Gespür von *Moondogs* Straßenaufnahmen. Aufgenommen wurde an einem einzigen Tag in einem Kellerstudio außerhalb Baltimores, jedes Stück als Liveaufnahme über ein Netz von Mikrofonen und Isolierboxen, das Techniker Chris Freeland aufgebaut hatte. Man hört diese Entstehung — und das ist die Stärke der Platte.
 
-::genre::avant jazz, post punk, post minimalism, experimental
+::genre::avant jazz, post punk, post minimalism
 
 ### Dark Dazey - God Is A Frog Heaven Is A Swamp
 
@@ -728,7 +728,7 @@ Das Debütalbum des Duos aus Brooklyn — Devin Gilbert und Jeb Polstein —, am
 
 Eine EP der chinesisch-dänischen Künstlerin, Songwriterin und Produzentin, erschienen am 10.09. bei *After All Recordings* — sieben Stücke, vollständig selbst produziert. **Alternative Pop**, **Electropop** und **EDM**. Glasklare Produktion, zweisprachige Texte und Hooks, die in beiden Sprachen funktionieren. Lautstärke hoch, das ist zum Tanzen gebaut! Die Platte speist sich aus Gaos Leben zwischen London und Shanghai und aus ihrer skandinavischen Prägung, und genau diese Dreifachperspektive macht sie interessant: Sie übersetzt nicht zwischen Kulturen, sie schreibt aus allen dreien gleichzeitig. In China hat das Projekt zuletzt eine überraschende Viralität entwickelt, die Singles *niu bi* und *lao wai* haben daran ihren Anteil. Bemerkenswert ist der Kontext — die EP erscheint nur einen Monat nach ihrer Arbeit an Zara Larssons *Midnight Sun: Girls Trip*, wo sie neun Stücke mitproduziert hat und dafür eine Grammy-Nominierung bekam. Selbstbewusst, eigenständig und ausgesprochen gut gemacht.
 
-::genre::alt pop, electropop, edm, pop
+::genre::alt pop, electropop, edm
 
 ### Hercules & Love Affair - Danseur PT 2
 
@@ -770,7 +770,7 @@ Das Debütalbum der schwedischen Band, am 10.09. erschienen — nach einem Somme
 
 Eine EP mit fünf Stücken, am 09.09. erschienen — die erste neue Musik seit dem hochgelobten Album *Die To Wake Up From A Dream* von 2025. **Indie Folk**, **LoFi** und **Art Pop**. Eine Sammlung von LoFi-Gesten über menschliche Verbundenheit, wie es in der Ankündigung heißt, und das trifft es gut. Setzt euch hin, das ist sehr nah dran! Der Anlass ist die Geburt seines ersten Kindes, und die Familie ist auch in den Aufnahmen selbst präsent: Sein Sohn Robin spielt Synthesizer, und *Rolling On Home* vertont ein Gedicht seines Großvaters David Rowbotham. Die Stücke — der Titeltrack, *Robin's Synth Improvisation*, *Now, I Am Free*, *Rolling On Home* und *Goodnight Noises Everywhere* — verzichten auf jede Politur und gewinnen genau daraus ihre Wirkung. Der Titel dreht Sartres berühmten Satz um, und die EP meint das ohne Ironie. Eine kleine, warme, sehr persönliche Veröffentlichung.
 
-::genre::indie folk, lofi, art pop, singer-songwriter
+::genre::indie folk, lofi, art pop
 
 ### MOUTH BREAKER - MoshUp
 
@@ -800,7 +800,7 @@ Die zweite Platte der Band aus Boise, Idaho, erschienen beim Label Mishap — kn
 
 Eine EP mit sechs Stücken, am 10.09. erschienen — das Soloprojekt des kanadischen Songwriters und Multiinstrumentalisten Doug Harrison, den man als Sänger und Gitarrist von *Fen* kennt. **Acoustic**, **Progressive Rock** und **Slowcore**. Weiträumige, geschichtete Akustikgitarren und ein Gesang, der sich Zeit lässt. Kopfhörer auf und leise drehen! Gegenüber seinem elektrischen, rockorientierten Album *A Battle to the End Fought on the Edge of a Knife* von 2025 ist das eine bewusste Kehrtwende zurück zu den Texturen, die man von Fens *Trails Out of Gloom* kennt. Die Vorabsingle *Tongue of the Hollow* begann als unerwartete Hommage an *Nirvanas* *Something in the Way* — und hört man sie mit diesem Wissen, ist die Verwandtschaft unüberhörbar, ohne dass es je nach Coverversion klingt. *To Whom Would You Answer*, *Back to the World*, *Burden of Life* und *No Healer* führen dieselbe Linie fort. Eine stille, konzentrierte kleine Platte.
 
-::genre::acoustic, prog rock, slowcore, alt folk
+::genre::prog rock, slowcore, alt folk
 
 ### Sněť - V bažinách vědomí
 

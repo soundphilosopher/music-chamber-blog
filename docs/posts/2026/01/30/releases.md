@@ -66,7 +66,7 @@ Die legendäre Band aus Liverpool ist am Start mit einem neuen Werk. Auch nach m
 
 Das neueste Release vom schottischen Producer Gordon Sharp (Cinder, Cindytalk). Eine Mixtur aus Dark Ambient, Dance, Electronica und Downbeat. Das Album schafft aus kleinsten Details „weitläufige, instabile Architekturen“ und verwendet „gespenstische“, wellenförmige, zyklische Töne.
 
-::genre::dark ambient, dance, electronica, downbeat
+::genre::dark ambient, electronica, downbeat
 
 ## Circular Ruin - A Sermon In Tongues
 

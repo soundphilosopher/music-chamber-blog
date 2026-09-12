@@ -476,7 +476,7 @@ tbd
 
 Eine neue Veröffentlichung vom Electronica-Pionier Kerry Leimer, welcher seit den 70er Jahre aktiv ist. Seine “Forms”-Series birgt eine avantgardistische Reise in die Modern Classic, welche mit Fragmenten des Ambient versehen ist.
 
-::genre::avant modern classic, ambient
+::genre::modern classic, ambient
 
 ## Kaosophia - Funeral Of The Gods
 

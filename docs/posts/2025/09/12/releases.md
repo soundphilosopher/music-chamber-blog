@@ -326,7 +326,7 @@ Das Debüt der aus Texas stammenden Band. Mit ihrem Mix aus Post-Grunge, Punk, A
 
 Die politisch Aufgeladenen Griechen mit ihrem neuesten Werk. Schnörkelloser Thrash-Metal, welcher auch gern Wege des Metalcore und Metallic Hardcore einschlägt.
 
-::genre::thrash metal, crossover, metallic hardcore
+::genre::thrash metal, crossover thrash, metallic hardcore
 
 ## Dominik Eulberg - Lepidoptera
 
@@ -416,7 +416,7 @@ tbd
 
 Ein neues Werk von dem Projekt um den niederländischen Multi-Instrumentalisten Maurice de Jong. Eine experimentelle Reise durch die Gefilde des Drone.
 
-::genre::experimental drone
+::genre::drone
 
 ## Greysight - Where The Light Won’t Reach
 

@@ -176,7 +176,7 @@ Die im Jahr 2000 gegründete Band zählt zu den Titanen der europäischen Epic-M
 
 Ein virtuoser Musiker, der seit Jahren alte anatolische Melodien mit **modernen Jazz**- und **Weltmusik**-Arrangements verbindet. **Zeitgenössischer Folk** und anatolische **Fusion**. *Aydın* ist ein Meister der Kaval (einer traditionellen Querflöte). Dies zu hören ist wie ein Rundflug über das Taurusgebirge bei Sonnenuntergang. Die Flötenmelodien sind hauchig und eindringlich, wirken zugleich uralt und überraschend modern. Es ist friedlich, gefühlvoll und das perfekte Gegenmittel zu einer lauten Welt.
 
-::genre::world music, modern jazz, avant jazz, fusion
+::genre::world music, modern jazz, avant jazz, jazz fusion
 
 ## bela - Korean Love Sonnets
 
@@ -704,7 +704,7 @@ Unter der Leitung des Multi-Instrumentalisten *Edu Casanova* verbindet dieses Pr
 
 *LASTOUT*, die aus der legendären britischen Hardcore-Szene hervorgegangen sind, haben sich mit ihrer No-Nonsense-Herangehensweise an Heavy-Musik, bei der rohe Aggression und gesellschaftskritische Themen im Mittelpunkt stehen, schnell einen Namen gemacht. **Hardcore** und **Crossover**-**Thrash**. Diese Platte ist ein zehn Tonnen schwerer Hammer. Sie ist laut, beklemmend und auf geniale Weise wütend. Wenn du einen Soundtrack für dein Training im Fitnessstudio brauchst oder einfach nur das Gefühl haben willst, eine Mauer durchschlagen zu können, liefert LASTOUT die perfekten unsicheren Vibes.
 
-::genre::crossover, thrash metal, hardcore punk
+::genre::crossover thrash, thrash metal, hardcore punk
 
 ## Late Bush - Hoarses
 
@@ -1058,7 +1058,7 @@ Das von dem Amsterdamer DJ Young Marco entdeckte Duo kreiert bereits seit seinem
 
 Die 2024 gegründete Band besteht aus Mitgliedern der Kopenhagener Metal-Szene (insbesondere der Band *Slægt*). Diese Veröffentlichung ist der Nachfolger ihres Debüts "Scimitarium I". Eine wilde Mischung aus **Blackened Heavy Metal** und **Progressive Metal**. Stellt euch epische Riffs vor, die auf Black-Metal-Kälte und Okkult-Rock treffen. Dieses Album ist wie eine höllische Maschine, die langsam ihren Rhythmus findet, bevor sie in eine Reise aus kantigen Gitarren und Blast Beats explodiert. Shaam A’s gespenstischer, trauriger Gesang gleitet über das Chaos wie eine Erscheinung in einem Gewitter.
 
-::genre::blackened prog metal
+::genre::prog metal
 
 ## Sepultura - The Cloud of Unknowing *
 
@@ -1274,7 +1274,7 @@ Ein Projekt mit der legendären Synchronsprecherin (Seiyuu) Rie Tanaka (bekannt 
 
 Das Soloprojekt der vielseitigen Künstlerin Sofia Nystrand, aufgenommen in Zusammenarbeit mit dem Komponisten Jakob Lindhagen im renommierten LEITER-Studio in Berlin. **Ambient**, **moderne Klassik** und schwedische **Folk**. Eine ätherische Erkundung des Anthropozäns - Trauer um einen sich wandelnden Planeten, vermischt mit dem Staunen über das, was bleibt. Mit Zithern, Chor und Synthesizern entsteht eine Klanglandschaft, die sich anfühlt wie ein stiller Spaziergang durch einen frostbedeckten Wald. Es ist eindringlich schön und zutiefst melancholisch.
 
-::genre::modern classic, ambient, folk
+::genre::modern classic, ambient
 
 ## VINSON - RAW HONEY
 
@@ -1440,7 +1440,7 @@ Dieses Projekt, das ursprünglich den Titel "The Watchtowers" trug, wurde über 
 
 Ein Super-Duo mit Chuck D (dem legendären Frontmann von *Public Enemy*) und John Densmore (dem ikonischen Schlagzeuger von *The Doors*). Die Musik ist eine kraftvolle Mischung aus **Hip-Hop**, jazzigem Schlagzeugspiel und gesellschaftskritischen Texten. Hier trifft **Boom-Bap** auf den Rhythmus des *Lizard King*. Es ist rau, politisch und schlägt eine Brücke zwischen Generationen der Rebellion. Mit Chuck Ds dröhnender Autorität über Densmores legendärem **Swing** ist es das musikalische Äquivalent eines Protestmarsches durch einen Jazzclub. Die Single "Every Tick Tick Tick" wurde sogar zum RSD 2026 Song of the Year gekürt.
 
-::genre::boom bap, hip hop, prog hip hop
+::genre::boom bap, hip hop
 
 ## Half Man - I Can See God
 

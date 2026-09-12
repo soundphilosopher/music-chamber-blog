@@ -12,7 +12,7 @@ categories:
 
 Ein legendäres, kraftvolles fünfköpfiges Metalcore-Kollektiv aus Waterbury, Connecticut, USA. Die Mitte der 1990er Jahre gegründete Band hat sich ein wild-chaotisches, kompromissloses Vermächtnis aufgebaut, das von betonharten Breakdowns und roher sozialer Frustration geprägt ist. In der weltweiten Underground-D.I.Y.-Heavy-Szene werden sie für ihre kompromisslose Straßenpräsenz und ihren knallharten Live-Sound allseits verehrt. **Metallic Hardcore**, **Beatdown** und **Crossover Thrash**. Schließt eure zerbrechlichen Haushaltsgegenstände weg und klebt eure Sneakers fest mit Klebeband ab, bevor ihr auf Play drückt, denn diese Platte ist eine absolute akustische Dampfwalze. "Embrace The Black Light" trifft euch wie ein massiver Ziegelstein aus ungefiltertem Punk-Muskelkraft und packt einen verheerenden Sturm aus gnadenlosen, überverzerrten Thrash-Gitarrenriffs, Maschinengewehr-Blastbeats und kehlenschneidenden Brüllen. Textlich ist das Album ein kompromissloser Stinkefinger gegen institutionelle Korruption, Straßenpolitik und das Überleben gegen alle Widrigkeiten. Es ist ein roher, mit Höchstgeschwindigkeit abgefeuerter Schuss reinen Adrenalins, der ausschließlich dafür gemacht ist, dein Schlafzimmer in einen wilden Moshpit zu verwandeln.
 
-::genre::metallic hardcore, beatdown, crossover
+::genre::metallic hardcore, beatdown, crossover thrash
 
 ## A.A. Williams - Solstice *
 
@@ -152,7 +152,7 @@ Azniv Korkejian, die unter dem Solokünstlernamen Bedouine auftritt, ist eine vo
 
 Eine äußerst exzentrische, theatralische Crossover-Thrash-Band aus Louisville, Kentucky, USA. Bekannt als die unangefochtenen Könige des gimmickreichen Merchandisings (sie haben ihre Musik bereits auf Disketten, Game-Boy-Kassetten und echten Pizzakartons veröffentlicht), verbindet diese Band rasante Thrash-Geschwindigkeit mit Satire auf die Nerd-Kultur und chaotischen Live-Shows, komplett mit Kostümen und Schaumstoffgruben. **Crossover-Thrash**, **Hardcore-Punk** und Comedy-Metal. Schließt eure zerbrechlichen Haushaltsgegenstände weg und sucht euch ein neongrünes Stirnband. "Toxic Waste Was Everywhere in the '80s" trifft euch wie ein blendender Schuss purer Nostalgie und Adrenalin, der sich mit etwa einer Million Meilen pro Stunde bewegt. Die Band entfesselt einen unheiligen Schneesturm aus hyperschnellen Bay-Area-Thrash-Gitarrenriffs, treibenden Punk-Drumbeats und rotzfrechen, urkomischen Vocals, die sich über klassische Cartoon-Klischees und Retro-Warnhinweise zur öffentlichen Sicherheit lustig machen. Es ist wild, wunderbar durchgeknallt und der ultimative Soundtrack, um mitten im eigenen Wohnzimmer einen Ein-Personen-Moshpit zu starten.
 
-::genre::crossover, thrash metal, hardcore punk
+::genre::crossover thrash, thrash metal, hardcore punk
 
 ## Ben Ferrell - Sextet
 
@@ -290,7 +290,7 @@ Eine legendäre, mit mehreren Platin-Auszeichnungen geehrte und für den Grammy 
 
 Eine unglaublich energiegeladene, kraftvolle Groove-Metal-Vierer-Band aus Windsor, Ontario, Kanada. Die Band hat sich durch die hart umkämpfte kanadische Independent-Rock-Szene gekämpft und jahrelang in schweißgetränkten Underground-Kellern gespielt. Mit ihrer unverwechselbaren Mischung aus erstklassigen Thrash-Riffs und knallharten Breakdown-Tempos haben sie sich eine leidenschaftliche Fangemeinde aufgebaut. **Groove Metal**, **Thrash Metal** und **Hardcore-Crossover**. Bitte stellt sicher, dass eure Wohnzimmermöbel fest am Boden verankert sind, bevor ihr die Lautstärke aufdreht, denn "Devilz Knight" schlagen mit der Wucht von Asphalt zu. Das Album wirft die höflichen Regeln des kommerziellen Radios komplett über Bord und ersetzt sie durch eine wütende Lawine aus überverzerrten Gitarren, rasendem Schlagzeug und drängendem Gesang, der klingt, als würde er dem Sänger direkt aus der Kehle gerissen. Das lyrische Thema ist durch und durch konfrontativ und behandelt innere Dämonen, Straßenrebellion und persönliches Überleben mit einer kompromisslosen Haltung. Es ist ein kurzer, rasender Adrenalinstoß, der ausschließlich für einen wilden Ein-Mann-Moshpit gemacht ist.
 
-::genre::groove metal, alt metal, crossover, thrash metal
+::genre::groove metal, alt metal, crossover thrash, thrash metal
 
 ## Diabolic Oath - Unholy Barbaric Hymns
 
@@ -326,7 +326,7 @@ Eine berüchtigte, seit langem bestehende Garage-Punk-Institution, die ursprüng
 
 Ein wildes, energiegeladenes Hardcore-Punk-Quartett aus der Independent-Underground-Szene der Vereinigten Staaten. Diese kompromisslose vierköpfige Band hat sich durch chaotische Live-Auftritte und kurze, im Internet veröffentlichte Aufnahmen einen unverwechselbaren Stil erarbeitet und setzt auf rasende Live-Energie und politische Frustration statt auf kommerzielle Musikformate. **Hardcore-Punk**, **Powerviolence**, **Crossover-Thrash** und D.I.Y.-Punk. Bitte stellt sicher, dass eure Wohnzimmermöbel fest am Boden verankert sind, bevor ihr die Lautstärke aufdreht, denn "Unload Your Shame" ist eine wütende Lawine aus purem Adrenalin. Das Album trifft euch wie ein massiver Ziegelstein aus ungefiltertem Punk-Muskelkraft und packt sieben rasante Tracks in einen blendenden, rasanten Sturm aus überverzerrten Gitarrenmassen, rasenden Blastbeats und kehlenschneidenden Gesangsschreien. Textlich ist das Album ein kompromissloser Stinkefinger gegen gesellschaftliche Korruption und moderne Schuldgefühle. Es ist roh, wunderbar wild und ausschließlich für einen wilden Moshpit gemacht.
 
-::genre::hardcore punk, crossover, powerviolence
+::genre::hardcore punk, crossover thrash, powerviolence
 
 ## Ella Hunt - Blindspot
 
@@ -356,7 +356,7 @@ Eric Demuro ist ein aufstrebender unabhängiger Singer-Songwriter und Multi-Inst
 
 Eine aggressive, äußerst politische Metal-Hardcore-Band aus Tel Aviv, Israel. Entstanden aus der explosiven Underground-D.I.Y.-Punkszene, erlangte die Band internationale Anerkennung für ihr bahnbrechendes Debütalbum "Year of the Bullet" aus dem Jahr 2021, das von Brian "Mitts" Daniels (ex-Madball) produziert wurde. Sie haben sich einen Ruf als unerbittliche, unabhängige Tourmaschine in ganz Europa und Großbritannien erarbeitet und sind bekannt für ihre kompromisslose Street-Level-Autorität. **Hardcore-Punk**, **Thrash-Crossover** und aggressiver **Metalcore**. Klebt eure Sneaker fest mit Klebeband zusammen, bevor ihr auf Play drückt, denn diese Platte ist ein Non-Stop-Adrenalinstoß bei Höchstgeschwindigkeit. Trotz des trügerisch romantischen Titels liefert "Wartime Love Affair" einen brutalen, kehlenschneidenden lyrischen Schlag gegen gesellschaftliche Korruption, Straßenpolitik und das Überleben in einer Welt in ständiger Krise. Die Band entfesselt einen unheiligen Schneesturm aus kreissägeartigen Thrash-Gitarrenriffs, betonharten Breakdowns und gebellten Vocals, die vor purem Gift nur so triefen. Es ist eine rohe, headbangende Achterbahnfahrt, die mit der stumpfen Wucht von Asphalt einschlägt und ausschließlich dafür gemacht ist, dein Schlafzimmer in einen wilden Moshpit zu verwandeln.
 
-::genre::hardcore punk, metalcore, crossover
+::genre::hardcore punk, metalcore, crossover thrash
 
 ## Evanescence - Sanctuary
 
@@ -440,7 +440,7 @@ Ein äußerst atmosphärisches, kontinentübergreifendes Projekt, das Musiker au
 
 Eine energiegeladene, schnell aufstrebende fünfköpfige Metallic-Hardcore-Band aus Manchester, Großbritannien. Die Band hat sich im Laufe des letzten Jahrzehnts durch endlose Tourneen eine riesige Kult-Anhängerschaft aufgebaut und drei Jahre lang an diesem Projekt gearbeitet. Das Album erweitert ihre Hardcore-Wurzeln um einen explosiven Gastauftritt von Sonny Sandoval von der Rocklegende **P.O.D**. **Metallic Hardcore**, **Thrash Crossover** und Aggressive **Metalcore**. Klebt eure Sneaker gut fest, bevor ihr auf Play drückt, denn die Two-Steps auf dieser Platte sind gefährlich genug, um eure Schuhe durch die Luft fliegen zu lassen. "Armour Of Angels" entfesselt einen vernichtenden Sturm aus gnadenlosen Thrash-Gitarrenriffs, rasenden Soli und kreischenden Obertönen, die sich wie ein direkter Schlag ins Gesicht anfühlen. Indem sie ihre schiere Brutalität in ein wunderschön theatralisches, apokalyptisches und biblisches Thema hüllen, klingen Tracks wie "The Banner of Heaven" wie Paradies und Verdammnis, die gerade zu einem gewaltigen Groove verschmolzen sind. Es ist ein makelloser, mit Höchstgeschwindigkeit abgefeuerter Schuss puren Adrenalins.
 
-::genre::metallic hardcore, metalcore, crossover
+::genre::metallic hardcore, metalcore, crossover thrash
 
 ## Halcyon Days - Nothing To No One // Something To Someone
 
@@ -962,7 +962,7 @@ Ein gnadenloses, äußerst einfallsreiches Ein-Mann-Extreme-Metal-Projekt, das v
 
 Ein rasantes, temporeiches Thrash-Quartett aus Vancouver, British Columbia, Kanada. W.M.D., kurz für "When Minds Develop", wurde ursprünglich 2014 gegründet. Nachdem die Band 2018 mit ihrem Album "Lethal Revenge" in der kanadischen Underground-Szene für Aufsehen gesorgt hatte, legte sie eine achtjährigen Pause bei größeren Veröffentlichungen ein, um ihren aggressiven, rhythmisch komplexen Songwriting-Stil weiter zu verfeinern. **Thrash Metal**, **Speed Metal** und **Crossover**. Bitte stellt sicher, dass eure Wohnzimmermöbel festgeschraubt sind, bevor ihr auf "Play" drückt, denn "Against All Warnings" wird sofort einen Ein-Personen-Moshpit auslösen. Die Band verbindet die massive Gitarrenwucht der Bay Area der 1980er Jahre mit einem gewaltigen, modernen Schlagkraft. Sie weigert sich, nur eine hirnlose Speed-Maschine zu sein, und liefert fantastische Drum-Solo-Momente sowie groovige Tempowechsel, die unglaublich befriedigend wirken. Es ist Headbanging-Perfektion für alle, die die rohe Geschwindigkeit des klassischen Thrash Metal vermissen.
 
-::genre::thrash metal, speed metal, crossover
+::genre::thrash metal, speed metal, crossover thrash
 
 ## Wallis Bird - I Can See Your House From Here
 
@@ -998,7 +998,7 @@ Ein Underground-Indie-Alternative-Projekt aus den Vereinigten Staaten. Women In 
 
 Eine kraftvolle Zusammenarbeit zwischen dem Multi-Instrumentalisten und Produzenten Wu-Lu (Miles Romans-Hopcraft) und der Avantgarde-Sängerin POiSON ANNA, die beide aus London, Großbritannien, stammen. Wu-Lu ist bekannt für sein Grenzen sprengendes Punk-meets-Hip-Hop-Album "Loggerhead" auf Warp Records, während sich POiSON ANNA mit ihren düsteren, hypnotischen Gesangsdarbietungen und Dub-beeinflussten Klanglandschaften einen Namen gemacht hat. **Trip-Hop**, **Alternative Hip-Hop**, **Experimental R&B**, **Dub** und **UK Rap**. "Bakerz Dozen" fühlt sich genau so an, als würde man um 2:00 Uhr morgens durch eine neblige, regennasse Londoner Gasse schlendern, während eine schwere Bassline den Asphalt unter den Füßen zum Vibrieren bringt. Das Duo zeigt eine absolut unglaubliche klangliche Chemie und gleitet mühelos zwischen dunklen elektronischen Glitches, stimmungsvollen akustischen Streichern und rauen Drum-and-Bass-Tempos hin und her. Das Thema entfaltet sich im Kontrast zwischen Spannung und Klarheit und verbindet rauchige, distanzierte Flüstern mit intensiven Underground-Grooves. Es ist geheimnisvoll, wunderschön geschmeidig und trägt eine coole, filmische Atmosphäre in sich, die deine volle Aufmerksamkeit fordert.
 
-::genre::trip hop, alt hip hop, experimental r&b, dub
+::genre::trip hop, alt hip hop, r&b, dub
 
 ## Xenosis - Hermetic Transmutation
 

@@ -278,7 +278,7 @@ tbd
 
 Der schwedische Musiker und DJ mit seinem neuesten Werk. Mit seiner skandinavischen Form des Chiptune, auch in Fachkreisen Skweee genannt, kann er sicherlich Nächte zum Tag machen in den nordischen Gefilden.
 
-::genre::skweee, electronica
+::genre::electronica
 
 ## David Lawrence, Alex Reeves - Crash! Boom! Tap!
 
@@ -1674,7 +1674,7 @@ tbd
 
 Das Projekt um den belgischen Multi-Instrumentalisten Damien Polfliet mit neuen Kompositionen. Instrumental-SciFi-Post-Metal, welcher partiell mit Quotes aus dem 2007er SciFi Movie Sunshine ausgestattet wurde.
 
-::genre::cine post rock, instrumental
+::genre::post rock, instrumental
 
 ## The Manster - Snapshots From A Shitshow
 

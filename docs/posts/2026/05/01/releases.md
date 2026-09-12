@@ -50,7 +50,7 @@ Eine von Kritikern gefeierte Ambient-Musikerin, die für ihre feinfühlige Misch
 
 Ein kompromissloses Projekt aus dem Hard-Industrial-Techno-Underground. **Industrial Techno** und **Schranz**. Hohe BPM, verzerrte Kicks und mechanische Texturen. Wie der Name schon sagt, ist diese Platte ein Herzrhythmusanstieg in akustischer Form. Es klingt wie eine verwunschene Autofabrik, die versucht, ein Black-Metal-Ritual durchzuführen. Es ist laut, kompromisslos und perfekt, wenn man durch eine Mauer rennen muss (natürlich nur im übertragenen Sinne).
 
-::genre::ibm, industrial techno, schranz
+::genre::ibm, industrial techno
 
 ## Antirope - Bring Me To Zero
 
@@ -80,7 +80,7 @@ Ein zeitgenössisches Jazzprojekt, bei dem das komplexe Zusammenspiel im Vorderg
 
 Als eine der führenden Stimmen der Afrobeats-Szene und Grammy-Nominierter erlangte Asake (Ahmed Ololade) mit einer rasanten Serie erfolgreicher Alben unter dem Label YBNL/EMPIRE weltweiten Ruhm. **Afrobeats**, **Fuji** und **Amapiano**. Sein Sound zeichnet sich durch energiegeladene Street-Hymnen aus, die in einer Mischung aus Yoruba und Englisch vorgetragen werden. "M$NEY" ist der Sound eines Superstars, der sich seinen Reichtum sichert. Es ist laut, rhythmisch und fängt die "Mr. Money"-Persönlichkeit perfekt ein - man kann es sich als eine Art Siegesrunde vorstellen, die gleichzeitig als Soundtrack für eine Straßenparty dient.
 
-::genre::afrobeat, amapiano, world music
+::genre::afrobeat, world music
 
 ## Ashen Horde - The Harvest
 
@@ -801,7 +801,7 @@ Stefano Panunzi, ein erfahrener italienischer Multi-Instrumentalist und Komponis
 
 Ein Solokünstler und Komponist (Leader der Band *Sonar Stephan Thelen*), bekannt für seine Fractal-Guitar-Reihe, in der er mithilfe innovativer Technologie komplexe, rhythmische Klangschichten erzeugt. **Avant-Prog**, **Jazz-Fusion** und **Ambient-Rock**. Stark beeinflusst von Robert Fripps "Guitar Craft". Wenn Sie sich jemals gefragt haben, wie eine mathematische Gleichung klingt, wenn sie durch eine Reihe von Delay-Pedalen geleitet wird, dann ist dies die Antwort. Es ist hypnotische, intelligente und vielschichtige Musik, die sich anfühlt, als würde man durch einen digitalen Wald aus geometrischen Mustern wandern. Perfekt für eine intensive Hörsession, bei der man die Zeit vergessen möchte.
 
-::genre::avant prog rock, jazz fusion, ambient
+::genre::prog rock, jazz fusion, ambient
 
 ## Sub*T - How My Own Voice Sounds
 
@@ -879,7 +879,7 @@ Die 2013 gegründete Band sammelte ihre ersten Erfahrungen in der Hinterhof-Szen
 
 Dieses Trio (mit der Schlagzeugerin *Nikki Glaspie*) nahm das Album während zweier Retreats auf einem Bauernhof in Vermont auf. **Soul** / **Funk** / **Jazz** / **Reggae**. "Never Alone" ist eine stimmungsaufhellende Meisterklasse in der Kraft des Grooves. Es ist schnörkellos, warm und zutiefst gefühlvoll und wirkt wie eine musikalische Umarmung für die Erschöpften. Ob sie nun schwere Themen wie Sucht oder die einfache Freude am Abhängen mit der Crew angehen - die Chemie zwischen diesen Musikern ist unbestreitbar und ansteckend.
 
-::genre::reggae, soul, funk, fusion
+::genre::reggae, soul, funk, jazz fusion
 
 ## Thurston Moore, Bonner Kramer - They Came Like Swallows
 
@@ -1081,7 +1081,7 @@ Das 2021 von Michal und Kiko (von der Band *Krudus*) gegründete Quartett hat si
 
 Die fünfköpfige Gruppe, die von *Belift Lab* (einem Sublabel von *Hybe*) im Rahmen der Castingshow "R U Next?" gegründet wurde, hat sich schnell zu einem Mainstream-Kraftpaket entwickelt. Der Titelsong "It’s Me" ist eine Hymne an Wachstum und Selbstbewusstsein. Ein rasantes Mix aus **Dance**, **Drum & Bass**, **Techno** und **Electro-Pop**. Benannt nach einem Wort aus der Yaghan-Sprache für einen stillen, gemeinsamen Blick zwischen zwei Menschen, die etwas beginnen wollen, aber zu schüchtern sind, um den ersten Schritt zu machen, ist dieses Album alles andere als ruhig. Es ist eine Boss-Babe-Evolution, die die zuckersüße Sanftheit ihres Debüts gegen dröhnende Bässe und clubtaugliche Techno-Beats eintauscht. Eine Version enthält sogar ein Gua-Sha-Werkzeug - ein Release, das dafür sorgt, dass man beim Tanzen genauso gut aussieht, wie man sich fühlt.
 
-::genre::d&b, electropop, techno, dance
+::genre::d&b, electropop, techno
 
 ## Jonny Fallout - The Subconscious
 
@@ -1099,7 +1099,7 @@ Das Debütalbum dieses Duos, das seit einem Jahrzehnt als Studio-Partner zusamme
 
 Eine Multi-Instrumentalistin (Trompete, Streichinstrumente, Percussion), die im Alter von sieben Jahren im Ensemble ihrer Familie zu spielen begann. Sie wurde durch das Engagement ihrer Eltern und eine Kindheit in einem musikalischen Haushalt ohne Fernseher geprägt. Eine gewaltige transkulturelle Fusion, die sie Femmetón nennt. Darin verschmelzen traditionelle lateinamerikanische Stile wie **Cumbia**, **Bolero** und Son Jarocho mit **Reggaeton**, **Hip-Hop** und **Salsa**. Das ist eine absolut grenzenlose Party. La Doña reiste in fünf Länder und arbeitete mit 40 Musikern zusammen, um einen Sound zu kreieren, der ebenso sehr ein politisches Statement ist wie ein Tanzflächenfüller. Er ist üppig, bläserlastig und unverhohlen queer - wie eine multinationale Tour durch Lateinamerika mit dem coolsten Reiseführer der Welt.
 
-::genre::bolero, reggaeton, hip hop, salsa
+::genre::world music, reggaeton, hip hop, salsa
 
 ## Luna Pythonissam - Ausencia
 

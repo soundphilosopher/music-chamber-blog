@@ -392,7 +392,7 @@ tbd
 
 Die Australier sind zurück mit neuem Material. Nach dem Suizid Sean Kennedy’s ist es ruhig geworden um das Rap-Core-Outfit. Für eine im Hardcore verwurzelte Band recht ungewöhnlich, mit einem Label alá Century Media im Rücken allerdings auch nicht so ungewöhnlich, dass sie wieder auf “die Bühne” gefunden haben. Geboten wird ihr gefeierter Mix aus Hip-Hop und Metallic-Hardcore.
 
-::genre::metallic hardcore, crossover, beatdown
+::genre::metallic hardcore, crossover thrash, beatdown
 
 ## Defecto - Echoes of Isolation
 
@@ -902,7 +902,7 @@ tbd
 
 Die amerikanische Singer & Songwriterin aus Nashville mit ihrem neuesten Werk. Eine Art Mello-Nashville-Folk wird geboten. Mello-Folk trifft auf Indie-Folk trifft auf Alt-Folk trifft auf Minimal-Classica trifft auf Minimal-Electronica.
 
-::genre::indie folk, country folk, americana, minimal electronica, minimal neo classic
+::genre::indie folk, country folk, americana, minimal electronica, neo classic
 
 ## Lástima - En Vivo
 
@@ -1604,7 +1604,7 @@ Die etablierte Combo aus UK mit seinem neuesten Werk. Sehr passend zu Halloween 
 
 Der britische Producer und Musiker Michael Paradinas aka μ-Ziq mit seiner neuesten Klang-Produktion. Ein experimentelles Werk der Electronica, welches Synth-Fragmente mit Ambient, Wave, Dance und Acid vereint.
 
-::genre::experimental electronica, ambient, synth wave, dance, acid house
+::genre::experimental electronica, ambient, synth wave, acid house
 
 ---
 
@@ -1752,7 +1752,7 @@ Neues von der ukrainischen Producerin und Multi-Instrumentalistin. Entstanden is
 
 Die amerikanische Singer & Songwriterin aus Nashville mit ihrem neuesten Werk. Eine Art Mello-Nashville-Folk wird geboten. Mello-Folk trifft auf Indie-Folk trifft auf Alt-Folk trifft auf Minimal-Classica trifft auf Minimal-Electronica.
 
-::genre::indie folk, country folk, americana, minimal electronica, minimal neo classic
+::genre::indie folk, country folk, americana, minimal electronica, neo classic
 
 ## Mega Drive - Gray Town
 

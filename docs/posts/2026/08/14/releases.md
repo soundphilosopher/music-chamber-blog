@@ -164,7 +164,7 @@ Das beliebte Duo Charlie Martin und Will Taylor hat über ein Jahrzehnt damit ve
 
 Das legendäre, mit Multi-Platin ausgezeichnete weltweite Superstar-Duo Caroline Hjelt und Aino Jawo. Weltweit vor allem bekannt für ihren bahnbrechenden Hit "I Love It", der ein ganzes Jahrzehnt geprägt hat, markiert dieses Projekt ihr mit Spannung erwartetes viertes Studioalbum. Energiegeladener **Dance-Pop**, clubtaugliche elektronische Beats und mitreißender **Synth-Pop**. Die unangefochtenen Königinnen der schwedischen Tanzflächen-Energie sind zurück, um euer gesamtes Wohnzimmer in eine blinkende, neonbeleuchtete Warehouse-Rave-Party zu verwandeln. Entstanden in einer Zeit tiefgreifender persönlicher Neuorientierung und Lebensveränderungen, vermittelt das Album pure, triumphale Freude inmitten eines Meeres aus wuchtigen Club-Basslines und schimmernden Synthesizern. Es wechselt mühelos zwischen explosiven Late-Night-Festival-Hymnen wie „Dance To This“ und eleganten, emotionalen Dance-Pop-Grooves. Es macht ganz unverhohlen Spaß, ist wunderschön ausgefeilt und ein absolutes Muss für deine Spätsommer-Party-Playlist.
 
-::genre::dance, house, synth pop
+::genre::house, synth pop
 
 ## If Not For Me - Where the Light Begins to Fade
 

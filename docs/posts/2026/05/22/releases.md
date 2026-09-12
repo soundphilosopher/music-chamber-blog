@@ -146,7 +146,7 @@ Die Band, die sich als brutales, aufstrebendes Trio in der Heavy-Metal-Szene des
 
 Die 2020 in London gegründete Band besteht im kreativen Kern aus der kanadischen Malerin und Dichterin Jody DeSchutter und dem Londoner Elektronikproduzenten Daniel Allison sowie der Mitwirkenden Angèle David-Guillou. Sowohl DeSchutter als auch Allison sind ausgebildete Maler und nähern sich ihrer Musik bewusst durch eine visuelle Perspektive, die auf vielschichtigen Klangkombinationen basiert. "This House is a Body" ist ihr monumentales drittes Studioalbum. Das Projekt bewegt sich mühelos an den Grenzen von **experimenteller Elektronik**, **Spoken Word** und **Leftfield Ambient** **Art Pop**. Stilistisch knüpft es an die radikale Performancekunst und die ekstatischen Spoken-Word-Bewegungen der frühen experimentellen Underground-Szenen New Yorks an. Setzt eure hochwertigsten Kopfhörer auf, sucht euch einen vollkommen ruhigen Ort und macht euch bereit, die Architektur eurer Realität völlig aus den Fugen geraten zu lassen. "This House is a Body" ist eine wunderschön schwindelerregende, hyperreale Traumsequenz, die blitzschnell die Richtung wechselt. Daniel Allison agiert wie ein Baumeister und webt ein unheimliches Netz aus zitternden Synthesizern, modularer Elektronik und Field Recordings, die die physischen Geräusche der menschlichen Anatomie nachahmen - das Quetschen von Organen, das Klappern eines Brustkorbs und das Kratzen einer Luftröhre. Währenddessen beherrscht Jody DeSchutter die Räume mit ihrer prophetischen, lysergischen Spoken-Word-Poesie, die nahtlos von beklemmender, klaustrophobischer Angst zu herrlicher, sonnenüberfluteter auditiver Glückseligkeit wechselt. Es ist eine atemberaubend hochkünstlerische, surrealistische und zutiefst immersive Klangumgebung, die dich dafür belohnt, dass du dein Strukturgefühl vollständig aufgibst.
 
-::genre::experimental electronica, spoken words, leftfield ambient, art pop
+::genre::experimental electronica, spoken words, ambient, art pop
 
 ## Barren Canyon - A Virulent Stream
 
@@ -158,7 +158,7 @@ Das 2013 gegründete Projekt wird vom vielseitigen Multi-Instrumentalisten-Duo M
 
 BEAR, die sich als absolute Schwergewichte der europäischen Metal-Szene etabliert haben, sorgen seit Jahren mit ihren kompromisslosen Studioalben wie "Propaganda" und dem 2023 erschienenen "Vanta" für Aufsehen. "Anhedonia" markiert ein bedeutendes neues Kapitel für die Band und wurde als direktes, therapeutisches Mittel geschaffen, um eine erschütternde Zeit intensiver Traumata, Krankheit und persönlicher Verluste innerhalb der Gruppe zu verarbeiten. Das Projekt ist ein Lehrbuchbeispiel für einen adrenalingeladenen Ansturm aus **Mathcore**, **Progressive Hardcore**, **Tech-Metal** und **Metalcore**. Ihr charakteristischer Angriff stützt sich stark auf die kalkulierte Kollision von technischer polyrhythmischer Präzision und ungefilterter, elektrisierender Aggression und knüpft stilistisch an Giganten wie *Botch*, *Converge* und *Norma Jean* an. Spannt eure Nackenmuskeln an und stellt sicher, dass eure Lautsprecher fest am Boden verankert sind, denn BEAR hat einen regelrechten Güterzug aus purer, unverfälschter Härte abgeliefert. Anhedonia bezeichnet jene seltsame emotionale Taubheit oder Leere, die oft auf ein schweres Trauma folgt - doch anstatt darüber zu jammern, vertreibt die Band ihre Dämonen mit einem regelrechten Vorschlaghammer aus Mathcore-Lärm. Angefangen mit dem volltönenden, markerschütternden Brüllen, das "Empty Markers" einleitet, stampft die EP durch dein Wohnzimmer und zerschmettert alles in Sichtweite mit unerbittlichen, messerscharfen Grooves und technischer Gitarrenakrobatik. Es ist ein wunderschön monströser, kathartischer und lebensbejahender Schlachtruf von einem Album, das tiefgreifende physische Widrigkeiten in die berauschendste Moshpit-Energie verwandelt, die du das ganze Jahr über hören wirst.
 
-::genre::mathcore, metalcore, prog metal, tech metalcore
+::genre::mathcore, metalcore, prog metal
 
 ## Beck Zegans - Engraving of Armor
 
@@ -374,7 +374,7 @@ Grönwall gilt allgemein als einer der energiegeladensten Frontmänner des moder
 
 Ersedu, die seit Ende der 2010er Jahre in der Underground-Szene aktiv sind, haben sich zuvor mit konzeptionell anspruchsvollen Singles einen Namen gemacht und 2021 gemeinsam mit ihren langjährigen Bandkollegen von Ignea die vielbeachtete Split-EP "Bestia" veröffentlicht. Die Aufnahmen zu diesem Meilenstein-Projekt erforderten es, die extremen Herausforderungen zu meistern, die die Arbeit inmitten des andauernden Krieges in ihrer Heimat mit sich brachte. Die EP ist eine grandiose, mitreißende Darbietung von **Cinomatic Symphonic Death Metal**. Die Band lässt sich strukturell stark von symphonischen Extreme-Metal-Größen wie *Septicflesh* und *Dimmu Borgir* inspirieren und integriert gleichzeitig das cineastische Wall-of-Sound-Flair von Hollywood-Filmkomponisten wie Howard Shore, Alan Silvestri und Jerry Goldsmith. Willkommen zu einem absoluten Blockbuster-Weltuntergangsfilm für eure Trommelfelle. Ersedu’s "Gore" spielt nicht einfach nur Death Metal; sie entfalten ein gewaltiges, erschreckend schönes Orchester und hämmern euch mit einem cineastischen Vorschlaghammer. Die vier Tracks bewegen sich anmutig auf einem Drahtseil zwischen absoluter struktureller Gewalt und majestätischer, opernhafter Eleganz. Zermalmende, heruntergestimmte Gitarrenriffs und unterirdische Growls prallen frontal auf hochfliegende symphonische Arrangements und dramatische, hornlastige Spannungsschleifen, die dir die Haare zu Berge stehen lassen. Es behandelt die Farbe Rot nicht nur als Blut auf einem Teppich, sondern als absolutes emotionales Schlachtfeld aus Wut, Überleben und Wiedergeburt. Es ist ein kurzes, atemberaubendes und brutal schweres Meisterwerk, das dich völlig verzweifelt nach der nächsten Farbe im Regenbogen suchen lässt.
 
-::genre::symphonic death metal, cine death metal, blackened death metal
+::genre::symphonic death metal, death metal, blackened death metal
 
 ## Escaping Aghartha - Lurkers Of Languid Waters
 
@@ -470,7 +470,7 @@ Ghoul ist ein geheimnisvoller Elektronik-Produzent und Multi-Instrumentalist, de
 
 Brian J ist ein erfahrener Veteran der internationalen Musikszene und weithin als Frontmann und kreativer Kopf der gefeierten Funk- und Soul-Band *The Pimps of Joytime* bekannt. Er gründete Gitkin als rein instrumentales, gitarrenorientiertes kreatives Projekt, um eine breitere, globalere Klangpalette zu erschließen. "Where the South Winds Wail" ist sein mit Spannung erwartetes neuestes Studioalbum in voller Länge, das das sumpfige, atmosphärische Flair seiner Wahlheimat New Orleans einfängt. Das Album lässt sich eindeutig den Genres **Psychedelic Rock**, Tuareg-Wüsten-**Blues**, **Chicha**, **Afrobeat** und **Cinematic Funk** zuordnen. Sein charakteristischer Stil ist stark von der rohen, hypnotischen Gitarren-Fingerpicking-Technik westafrikanischer Wüsten-Blues-Ikonen wie Bombino und Ali Farka Touré geprägt und verbindet diese mit klassischer peruanischer Psych-Cumbia (Chicha) der 1970er Jahre und staubigen Spaghetti-Western-Soundtracks. Wenn du schon immer einmal auf ein Vintage-Motorrad steigen, bei Sonnenuntergang durch eine staubige Wüstenschlucht fahren und schließlich vor einer geheimnisvollen, neonbeleuchteten Lounge mitten im Nirgendwo anhalten wolltest, hat Gitkin den perfekten Fahrplan für dich geschrieben. "Where the South Winds Wail" behandelt Instrumentalmusik wie einen reichhaltigen Breitbildfilm für deine Ohren. Brian J agiert wie ein absoluter Zauberer auf dem Griffbrett und lässt seine warmen, hallgetränkten Gitarrenlinien sich mit einem hypnotischen, tranceartigen Groove durch die Luft schlängeln, winden und hallen. Unterstützt von mitreißenden, stampfenden Percussion-Parts und sinnlichen, nächtlichen Basslinien macht das Album den menschlichen Gesang völlig überflüssig. Es ist ein außergewöhnlich geschmeidiges, sonnenverwöhntes und die Seele berührendes Meisterwerk, das ausdrücklich darauf ausgelegt ist, dein Wohnzimmer in eine absolute Oase der Coolness zu verwandeln.
 
-::genre::psych rock, psych folk, blues, chicha, afrobeat, cine funk
+::genre::psych rock, psych folk, blues, world music, afrobeat, cine funk
 
 ## Goddess - Ritual Of The Cloven Hoof
 
@@ -506,7 +506,7 @@ Die 1999 gegründete Band besteht aus den Mitgliedern Haemoth (Gesang, Gitarre) 
 
 Das Duo, bestehend aus Marc Byrd und Andrew Thompson, prägt seit unglaublichen zweiundzwanzig Jahren die Landschaft der unabhängigen Instrumentalmusik. "The Second Coming Was a Moonrise" markiert einen monumentalen Meilenstein in ihrer traditionsreichen Karriere und ist ihr vierzehntes offizielles Studioalbum. Das Album ist eine meisterhafte Darbietung von **Cinematic Post-Rock**, **Ambient**, **Shoegaze** und **Neoklassik**. Es schafft einen eleganten Ausgleich zwischen ruhigen, schwerelosen Drones und weltbewegenden Wänden aus lauten Hammock-Gitarrenklängen. Schnapp dir eine Decke, schalte deine Handy-Benachrichtigungen aus und lass dich in Hammocks neuestes Breitbild-Universum entführen. "The Second Coming Was a Moonrise" ist eine absolute Meisterklasse in grandioser, majestätischer Erzählkunst, ohne dass es einer Fülle von Worten bedarf. Es verhält sich wie eine lebendige Flut, die sich mühelos von zerbrechlichen, sternenbeleuchteten Ambient-Atempausen zu massiven, vulkanischen Post-Rock-Gitarrenwellen bewegt, die sich wunderbar hoffnungsvoll anfühlen. Eine große, erfreuliche Überraschung ist "Chemicals Make You Small", das einen unglaublich euphorischen, vokalbetonten Gastauftritt von *The Flaming Lips* enthält. Es ist ein ungemein tiefgründiges, hypnotisches und emotional mitreißendes Album, das das Sternegucken wie eine monumentale, heilige und lebensverändernde Erfahrung wirken lässt.
 
-::genre::cine post rock, cine ambient, shoegaze, neo classic
+::genre::post rock, cine ambient, shoegaze, neo classic
 
 ## Hands Like Houses - Lótus
 
@@ -998,7 +998,7 @@ Das Trio aus Jeffrey Jordan, Spencer Stewart und Garrison Burgess, das auf Spoti
 
 Weit ab vom Glanz der Major-Label-Popmusik haben sich The Brink monatelang in schweißtreibenden lokalen Kellern und bei Independent-Gigs in VFW-Hallen ihre Sporen verdient. Sie nähern sich der Heavy-Musik mit der drängenden, schützenden Mentalität historischer Underground-Szenen und ziehen analogen Rauheit eine makellose, überbearbeitete Studioproduktion vor. Eine rasante, schnörkellose Fusion aus **Hardcore-Punk**, **Metallic Hardcore** und **Crossover-Thrash**. Nimm all deine vornehmen, höflichen Manieren, wirf sie in den Müllschlucker und drück auf Start. Das ist die Stimmung auf The Brinks Demo. Es ist ein kurzer, scharfer Schock aus roher menschlicher Panik und der Gewalt der Heavy-Musik. Die Gitarren klingen, als wären sie in einer rostigen Mülltonne aufgenommen worden, während sie vom Blitz getroffen wurden, die Basslinien rütteln direkt durch dein Skelettsystem, und der Sänger klingt gleichzeitig aufrichtig verängstigt und wütend. Es ist schnell, aggressiv und völlig ungeschliffen. Es ist der absolut perfekte Hintergrundlärm, wenn du lächerlich schwere Gewichte stemmen, einen alten Fernseher mit einem Baseballschläger zerschlagen oder deinen Körper aggressiv in einem überfüllten Keller-Moshpit herumwirbeln willst.
 
-::genre::metallic hardcore, crossover, thrash metal
+::genre::metallic hardcore, crossover thrash, thrash metal
 
 ## The Circle Of The Elect - Kaoskarma
 
@@ -1116,7 +1116,7 @@ Der Künstler, der ausschließlich über unabhängige Underground-Plattformen im
 
 *Animatist* ist ein Instrumentalquartett, das seit einem Jahrzehnt in Toronto komplexen Underground-Rock spielt. Die Besetzung besteht aus Brent O'Toole (Gitarre), Steve Cook (Bass), Ian Hinds (Schlagzeug) und Danielle Fernandes (Saxophon und Synthesizer). Ein schwerer, intellektueller Mix aus **Jazz-Rock-Fusion**, **Math-Rock**, **progressivem Post-Rock** und dunklen **Ambient**-Klanglandschaften. Der Sound lässt Vergleiche mit einer Mischung aus klassischem Progressive Rock und modernem Jazz-Core aufkommen. "Shapeshifter" ist eine absolute Achterbahnfahrt, die es schafft, sowohl intensiv als auch technisch präzise zu sein. Mit eklektischen Songtiteln wie "Space Cadet" und "The Ghost of Jim Carrey" verspricht das Album ein einzigartiges Erlebnis. Die Musik stützt sich auf schwere, wechselnde Math-Rock-Taktarten und zerklüftete Gitarrenlinien, doch das herausragende Element ist das Saxophon, das sich durch die komplexen Arrangements schneidet. Es fühlt sich an wie energiegeladene Jazzmusik, die für eine Science-Fiction-Kulisse konzipiert wurde. Es ist spannend, unglaublich dicht und empfehlenswert für alle, die komplexe und kraftvolle Rockmusik schätzen.
 
-::genre::prog post rock, dark ambient, jazz rock, jazz fusion, math rock
+::genre::post rock, dark ambient, jazz rock, jazz fusion, math rock
 
 ## Anna Fiori - Metztli
 
@@ -1158,7 +1158,7 @@ Bentley Robles hat sich in den letzten Jahren in der modernen Queer-Pop-Szene du
 
 Bladee ist der unangefochtene CEO und Mitbegründer von *Drain Gang*, dem äußerst einflussreichen Internet-Kollektiv, das er 2013 gemeinsam mit Produzenten wie Whitearmor und dem Rapper Ecco2k ins Leben gerufen hat. Nach seinem erfolgreichen Album "Cold Visions" aus dem Jahr 2024 hat sich Bladee eine riesige Fangemeinde aufgebaut, indem er den alternativen Hip-Hop in seltsame, ätherische und oft aggressive Gefilde vorstößt. **Cloud Rap**, **Hyperpop**, **Avantgarde-Hip-Hop**, **Emo-Rap**, **Doom Folk**. Er verbindet den digitalisierten Rap des Internetzeitalters mit stark autotune-bearbeiteten Vocals und plötzlichen experimentellen Abstechern. Dieses Album verschmilzt auf einzigartige Weise seinen digitalen Sound mit dem dunklen, apokalyptischen Folk-Stil der legendären britischen Band Current 93. Musikalisch ist es ein glorreicher, chaotischer Balanceakt zwischen totaler Euphorie und digitalem Wahnsinn. Whitearmors Produktion liefert dröhnende, eisige Trap-Beats, die wunderschön mit den dunklen, apokalyptischen Folk-Elementen von Current 93 kontrastieren. Bladees Stimme ist von seinem charakteristischen starken Auto-Tune durchdrungen, was ihn wie einen kybernetischen Engel klingen lässt, der aus einem unterirdischen Hacker-Bunker eine Predigt hält. Es ist laut, provokativ, zutiefst seltsam und mühelos cool.
 
-::genre::experimental hip hop, avant r&b, hyperpop
+::genre::experimental hip hop, r&b, hyperpop
 
 ## Blossom Death - Spirit
 
@@ -1290,7 +1290,7 @@ Kolb trat in den letzten Jahren in der New Yorker Indie-Szene mit einer ständig
 
 Unter seinem Künstlernamen Cassius Select erlangte er in der Leftfield-Dance-Szene Kultstatus. Mit dem Wechsel zu LAVURN wandte er sich tief emotionalen, dekonstruierten Vokalprojekten zu. Dieses Projekt erscheint auf dem sorgfältig kuratierten Label Motion Ward aus Los Angeles/Chicago. **Experimenteller R&B**, **Indie-Pop**-Jangle, **Trip Hop**, glasklarer **Dream-Pop**, **Post-Ambient**. Eine wunderschöne, liebeskranke Hommage an die Jahrtausendwende. Stilistisch schlägt es eine Brücke zwischen der Trip-Hop-Melancholie von *Portishead*, dem üppigen Indie-Rock von *Broken Social Scene* und den souligen Texturen von *D’Angelo*. Das Album pendelt zwischen klassischem Indie-Pop-Gitarren-Jangle und pitch-verschobenen, glitchigen elektronischen Refraktionen. In einem Moment nickt man noch zu einem sanften, verträumten Groove mit, und im nächsten schneidet der Sound in einen gläsernen Ambient-Raum, der einem das Gefühl gibt, in einem kaputten iPod zu schweben. Es ist stimmungsvoll, zutiefst emotional und perfekt, um spät in der Nacht durch eine regnerische Stadt zu spazieren und dabei das eigene Leben zu romantisieren.
 
-::genre::indie pop, jangle pop, dreampop, post ambient, experimental r&b, trip hop
+::genre::indie pop, jangle pop, dreampop, ambient, r&b, trip hop
 
 ## Lelo - Pink Tiles
 
@@ -1302,7 +1302,7 @@ Lelo etablierte sich Ende der 2010er Jahre, indem er mit Freunden Independent-Tr
 
 Mit einer Karriere, die seit ihrem Debüt im Jahr 1994 mehr als drei Jahrzehnte umfasst, ist Lila Downs eine Ikone. Sie ist weltweit bekannt für ihre kraftvolle, mehrere Oktaven umfassende Stimme und ihr tiefes politisches Engagement. Dieses neue Projekt markiert einen bedeutenden emotionalen Wendepunkt für sie - es ist ihr erstes Album seit dem tragischen Tod ihres langjährigen Ehemanns und musikalischen Partners Paul Cohen und somit eine unglaublich kraftvolle, hoffnungsvolle Auseinandersetzung mit Neuanfängen und Romantik. **Regional Mexican**, **Cumbia**, **Folk**, **World Music** und **Alt-Latin**. Stark verwurzelt in der traditionellen mexikanischen Volkskultur, der Geschichte der Zapoteken und der klassischen Ranchera-Musik, wunderschön gepaart mit modernen Urban-, Rap- und Pop-Elementen. Lilas Gesang bleibt eine absolute Naturgewalt - voll, tief und zutiefst bewegend. Doch die wahre Magie liegt darin, wie sie ihre Welt furchtlos auf den Kopf stellt. Wenn sie sich mit Snow Tha Product zusammentut, bringen sie eine kraftvolle, energiegeladene Cumbia-Rap-Hymne heraus, die Lust macht, Grenzen zu sprengen und gleichzeitig auf der Straße zu tanzen! Untermalt von üppigen Akustikgitarren und brillanten Bläsern klingt Lila völlig verjüngt. Es ist eine wunderschöne, triumphale musikalische Wiedergeburt, die uns genau daran erinnert, warum sie eine lebende Legende ist.
 
-::genre::cumbia, alt folk, world music
+::genre::world music, alt folk
 
 ## Louder Joy - Whatever You Can Take From Me You Can Have
 
@@ -1338,7 +1338,7 @@ Mirar gilt als eine der geheimnisvollsten und furchteinflößendsten Erscheinung
 
 Mr. Cardoso hat sich von den üblichen Rahmenbedingungen des Afro-House und der traditionellen regionalen Musik gelöst und in den letzten Jahren eine faszinierende Reihe von Instrumental-Demos auf digitale Plattformen hochgeladen. In Online-DIY-Kreisen wird er hoch geschätzt, weil er ganz nach seinen eigenen Vorstellungen tief emotionale, abgeschottete Klangwelten schafft. **Atmosphärische Elektronik**, **instrumentaler Hip-Hop**, **IDM** und düsterer **Lo-Fi**-Chillhop. Die Produktion ist stark von den nostalgischen Loops von Nujabes, den glitchigen Synkopen von *Flying Lotus* und traditionellen kapverdischen rhythmischen Untertönen geprägt. Wenn du dich jemals gefragt hast, wie eine Cyber-Noir-Regennacht auf einer tropischen Insel klingt, hat "Leaving My Soul Alone" die Antwort. Dieses Album ist eine zutiefst introspektive, wunderschön stimmungsvolle Meisterklasse in Sachen Bedroom-Produktion. Tracks wie "Safewords" und "Deathless" verbinden knisterndes Lo-Fi-Vinylrauschen mit wunderschönen, wehmütigen Klavierklängen und scharfen, skelettartigen Drum-Loops. Getreu seinem herzzerreißenden Titel fühlt sich das Album wunderbar einsam an - als würde man aus einem Fenster auf einen dunklen Ozean blicken, während die Welt schläft. Es ist genau die Art von hypnotischem, nächtlichem Instrumentalalbum, das deine volle Aufmerksamkeit fordert und sich somit perfekt für deine nächtlichen Lernsitzungen oder grüblerischen Einsamkeitsspaziergänge eignet.
 
-::genre::atmo electronica, ambient, idm, lofi, hip hop, instrumental
+::genre::electronica, ambient, idm, lofi, hip hop, instrumental
 
 ## Neo Dimes - Alone
 
@@ -1386,7 +1386,7 @@ Ranipla hat sich über Jahre hinweg über Plattformen wie Bandcamp, Beatport und
 
 Sekigahara ist eine äußerst aktive Größe in der Underground-Szene des Internets. Allein in den letzten Jahren hat er zahlreiche Gemeinschafts- und Solo-LPs veröffentlicht - darunter "PANDEMONIUM" (mit Modest), "Shinigami X" (mit monk on fire) und "Watcher" - und sich mit seinen komplexen Sample-Arrangements und genreübergreifenden Beats eine treue Fangemeinde aufgebaut. **Experimenteller Hip-Hop**, **atmosphärische Elektronik**, **Lo-Fi-Rap** und Underground-Alternative. Seine Musik schöpft stark aus cineastischen Klanglandschaften, J-RPG-Ästhetik, Anime-Themen und abstrakten Loop-Konstruktionen. "In Ruins" fühlt sich an, als würde man um 3:00 Uhr morgens durch eine verlassene Neon-Cyber-Stadt wandern, während sich ein Gewitter zusammenbraut. Getreu seinem Ruf konstruiert Sekigahara ein Album, das vollständig aus eindringlichem, melancholischem Staub und fragmentierten Melodien besteht. Die Produktion tauscht traditionelle, radiotaugliche Trap-Drops gegen eine seltsame, wunderschöne und zutiefst hypnotische Klangarchitektur ein. Es ist eine abstrakte Hip-Hop-Blaupause, überzogen von Wildwuchs und Verfall. Für einen Künstler, der Projekte in rasendem Tempo veröffentlicht, sticht "In Ruins" als wunderschön zusammenhängende, stimmungsvolle und zutiefst immersive Audio-Reise hervor, die noch lange nach dem Ausklingen des letzten Tracks im Kopf nachhallt.
 
-::genre::experimental hip hop, lofi, atmo electronica, experimental electronica
+::genre::experimental hip hop, lofi, electronica, experimental electronica
 
 ## Requiem In White - The Visible Heaven
 
@@ -1452,7 +1452,7 @@ Taeyong (*Lee Tae-yong*) ist eine Größe in der K-Pop-Branche. Er debütierte 2
 
 Die 1996 gegründete Band entwickelte sich zu einer der prägenden Größen der Indie-Rock-Szene der frühen 2000er Jahre. Im Laufe ihrer 25-jährigen Karriere landeten sie sechs Alben in den britischen Top 5. Bekannt für ihre äußerst kreative und konzeptorientierte Diskografie, nahmen sie dieses Projekt spontan während einer Tournee durch britische Küstenstädte auf. **Psychedelic Rock**, **Rocksteady**, **Dub** und **Ska**. Ihre wichtigsten Einflüsse stammen aus den Produktionen von Joe Meek aus den 1960er Jahren, dem äthiopischen Jazz und den alten Kassetten von Bob Marleys The Wailers und Lee "Scratch" Perry. Stellt euch vor, ihr nehmt eine Zeitmaschine zurück in einen jamaikanischen Dancehall der 1970er Jahre, doch sie stürzt versehentlich in eine verregnete britische Spielhalle an der Küste - genau das ist die wunderbare Magie von "388". The Coral werfen hier die modernen Studio-Regeln komplett über Bord. Sie haben die Unvollkommenheiten und das Bandrauschen völlig intakt gelassen. Es klingt herrlich verstaubt, absolut unmittelbar und trieft nur so vor Sommernostalgie.
 
-::genre::dub, rocksteady, psych rock
+::genre::dub, reggae, psych rock
 
 ## The Crimson Armada - Elements Volume I: The Abyssal Depths
 
@@ -1512,10 +1512,10 @@ Das Projekt begann ursprünglich ganz im Kleinen, mit nur zwei Leuten und einem 
 
 Der 21-jährige Singer-Songwriter Joshua Xavier Gutiérrez Alonso begann im Alter von 10 Jahren Gitarre zu spielen. Ende 2023/Anfang 2024 erlangte er durch virale TikTok-Hits wie "La Víctima" und "La Diabla" weltweite Streaming-Berühmtheit und unterschrieb einen Vertrag bei Interscope Records. Regional Mexican, **Corridos Tumbados**, **Sierreño Urban** und **Bachata**. Er ist stark von traditionellen mexikanischen Corridos (wie Chalino Sánchez) sowie von amerikanischem **R&B**, **Hip-Hop** und **Pop** beeinflusst. Stell dir vor, du gehst eine neonbeleuchtete Straße in LA entlang, während traditionelle Akustikgitarren so schnell gespielt werden, dass das Holz fast in Flammen aufgehen könnte. Das ist die Essenz von Dosis. Xavi nimmt die rohe, erzählerische Kraft der regionalen mexikanischen Musik und versetzt sie mit einer kräftigen Dosis sanfter R&B-Romantik und urbaner Selbstsicherheit. Das Thema des Albums sind pure, unverfälschte "tumbados románticos" - Lieder über berauschende Verliebtheit, gefährliche Herzschmerz und Beziehungen, die sich wie eine Drogensucht anfühlen (daher der Titel Dosis). Es ist lebhaft, wunderschön gespielt und hat gerade genug modernen Pop-Glanz, um dich zum Tanzen zu bringen, während du über deinen Ex weinst.
 
-::genre::sierreño urban, corridos tumbados, bachata
+::genre::corridos tumbados, world music
 
 ## Xikers - Route Zero: The Ora
 
 Bekannt für ihre intensiven, chaotischen und theatralischen Konzepte. Dieses Album markiert einen Wendepunkt; es schließt ihr zweieinhalbjähriges Debütkapitel, die "House of Tricky" Series, vollständig ab, um ganz von vorne zu beginnen. Vorwiegend **Dance-Pop**, **Hip-Hop** und **Electropop**. Ihr Sound ist stark vom energiegeladenen, mythenreichen und performanzorientierten Stil moderner K-Pop-Boybands der vierten Generation beeinflusst. Stellt euch vor, man nehme eine Gruppe wilder Teenager, gebe ihnen Superkräfte und befehle ihnen, eine Stadt aus kosmischer Asche wieder aufzubauen - das ist die Stimmung von "ROUTE ZERO: The ORA". Das Thema hier ist absolute Neuerfindung und jugendliche Rebellion gegen die Regeln der Welt. Der Titeltrack "OKay" ist ein glorreiches Stück klanglichen Chaos, angetrieben von hyperaktiven Rap-Strophen und massiven, stadiontauglichen Refrains. Er ist aggressiv, blitzschnell und voller grenzenloser Energie, die einen dazu bringt, schwere Gegenstände zu heben oder Geschwindigkeitsbegrenzungen zu überschreiten. Es sind die Xikers, die verkünden, dass sie keine Spielchen mehr spielen; die neue Ära ist angebrochen, und sie ist unglaublich laut.
 
-::genre::dance, alt pop, k-pop, hip hop, trap, electropop
+::genre::alt pop, k-pop, hip hop, trap, electropop

@@ -140,7 +140,7 @@ Das Kollektiv um den amerikanischen Percussionisten, Komponisten und Producer mi
 
 Das amerikanische Sextett mit seinem neuesten Longplayer. Manchmal Quäle ich mich gern, anscheinend. Hier wird eine Melange aus Funeral Doom, Doom Death, Post Metal und Psych Doom gezogen, welche zu meinem Leid in einige Kompositionen den Dudelsack "erklingen" lässt.
 
-::genre::funeral doom, doom metal, psych doom metal, post metal, death metal
+::genre::funeral doom, doom metal, post metal, death metal
 
 ## Chasing the Dragon - EGAD
 
@@ -542,7 +542,7 @@ Die griechische Formation mit ihrem Sophomore Output. Ein dunkle Melange aus Pro
 
 Die self-titled EP der kalifornischen Band enthält ihren treibenden und melancholischen Mix aus Crossover, Alternative Rock und Groove Metal. Alles wird mit einer straighten Hardcore-Attitüde auf die Menschheit losgelassen.
 
-::genre::hardcore punk, crossover, thrash metal, groove metal, alt rock
+::genre::hardcore punk, crossover thrash, thrash metal, groove metal, alt rock
 
 ## More Eaze - Sentence Structure in the Country
 
@@ -770,7 +770,7 @@ Das amerikanische Outfit mit seinem neuesten Full-Length. Statt ihrer experiment
 
 Die amerikanische Formation mit ihrem achten Longplayer in ihrer Discography. Aufbauend auf dem Sound von "Antimai" zeichnet sich "Sunya" durch den intensiven Einsatz von Funk-Grooves, Bläsersätzen und Synthesizern aus. Es verbindet cineastische Orchestrierung mit technischem Rock und wird oft als theatralisch oder symphonisch beschrieben. Eine Tour durch Progressive Rock, Progressive Pop, Indie Rock, Fusion und Art Pop.
 
-::genre::prog rock, prog pop, art pop, indie rock, fusion
+::genre::prog rock, prog pop, art pop, indie rock, jazz fusion
 
 ## The Holeum - Ensis *
 
@@ -888,7 +888,7 @@ Die neueste EP des amerikanischen Producer, Multi-Instrumentalisten und Sänger 
 
 Der brasilianische Singer & Songwriter Lua Viana mit seinem Sophomore Output. Der zweite Teil einer Trilogie, die von den Werken des Umweltschützers und Philosophen Ailton Krenak inspiriert ist. Eine experimentelle und avatgarde Reise durch Brasilian Music (Afoxé), Avant Metal, Post Rock, Experimental Metal, Field Recordings und Post Black Metal. Dabei werden alle Instrument (+ der Stimme) so eingesetzt, dass alles einen Fluss ergibt und in die indigene Spiritualität fließt.
 
-::genre::afoxé, avant metal, post rock, post metal, experimental metal, field recordings, prog rock
+::genre::world music, avant metal, post rock, post metal, experimental metal, field recordings, prog rock
 
 ## Ca7riel, Paco Amoroso - Free Spirits
 

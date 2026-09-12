@@ -18,7 +18,7 @@ Der australische Songwriter, der seit Jahren Charakterstudien über gescheiterte
 
 Ein Songwriter, der seinem Album den Titel einer freundlichen Fremdheit gibt und damit genau die Distanz beschreibt, aus der heraus er singt. **Indie Folk**, **Singer-Songwriter** und **Chamber Pop**. Zurückgenommene Gitarren, eine Stimme dicht am Mikrofon und Arrangements, die sich erst nach und nach öffnen. Setzt euch dazu, es wird leise! Das Album lebt von der Zurückhaltung: Streicher und Bläser tauchen nur dort auf, wo sie wirklich etwas hinzufügen, und verschwinden wieder, bevor sie zur Geste werden. Die Stücke kreisen um flüchtige Begegnungen, um Menschen, die kurz wichtig werden und dann weiterziehen, und um die eigenartige Wärme, die dabei zurückbleibt. Es gibt keinen Höhepunkt im klassischen Sinn, sondern ein gleichmäßiges Glühen, das über die gesamte Länge trägt. Eine Platte für späte Abende und offene Fenster.
 
-::genre::indie folk, singer-songwriter, chamber pop
+::genre::indie folk, chamber pop
 
 ### Amy Shark - soft pop
 
@@ -86,7 +86,7 @@ Ein britisches Projekt, das seit Jahrzehnten warme, cinematische Elektronik baut
 
 Ein Pianist, der das klassische Klaviertrio nicht als Museum, sondern als Werkstatt begreift. **Jazz**, **Post Bop** und **Contemporary Jazz**. Anschlagsstarkes Klavier, ein wacher Bass und ein Schlagzeug, das mitdenkt statt nur zu begleiten. Rückt näher an die Bühne, hier wird zugehört! Das Album stellt die Trio-Form in den Mittelpunkt und zeigt, wie viel Bewegungsfreiheit in dieser scheinbar ausgereizten Besetzung noch steckt: Themen werden angespielt, verlassen, aus einer anderen Ecke wieder aufgegriffen. Der Titel klingt wie eine schlichte Feststellung und ist auch genau das — eine Musik der Anwesenheit, die nichts beweisen muss. Zwischen den kantigeren Stücken stehen Balladen von großer Klarheit, in denen jeder einzelne Ton sitzt. Aufnahmen mit dieser Selbstverständlichkeit entstehen nur, wenn drei Leute einander wirklich zuhören. Sehr schön.
 
-::genre::jazz, post bop, contemporary jazz
+::genre::post bop, contemporary jazz
 
 ### Body Type - Tally
 
@@ -206,7 +206,7 @@ Ein Projekt, das seinem Album einen Titel wie einem verschollenen Groschenroman 
 
 Ein Kollektiv, das sich schon im Namen jede Festlegung offenhält und dieses Versprechen konsequent einlöst. **Avant-Garde**, **Progressive Rock** und **Free Jazz**. Verschachtelte Strukturen, ungewöhnliche Instrumentierungen und Passagen, die zwischen Komposition und Improvisation nicht unterscheiden wollen. Lasst die Erwartungen draußen, hier gilt anderes! Das Album folgt keiner erkennbaren Songform, sondern entwickelt sich in Episoden, die einander eher kommentieren als aufeinander aufbauen. Der häusliche Drache des Titels passt gut: Es geht um etwas Ungeheures, das im Alltäglichen sitzt, und die Musik hält genau diese Spannung zwischen Vertrautem und Absurdem. Zwischen den freieren Strecken stehen erstaunlich griffige Momente, in denen sich plötzlich ein Groove bildet und ebenso schnell wieder auflöst. Ein Album für Zuhörer, die sich gern überraschen lassen und keine Auflösung brauchen. Wunderbar sperrig.
 
-::genre::avant jazz, prog rock, free jazz, experimental
+::genre::avant jazz, prog rock, free jazz
 
 ### Eternal Mourn - Winds Of Sorrow
 
@@ -302,7 +302,7 @@ Nachdem das Projekt fünfzehn Jahre lang seinen Sound durch vereinzelte Demos, S
 
 Ein Projekt, das seinen Namen aus dem Tarot bezieht und im Titel gleich eine ganze Bewegungslehre andeutet. **Black Metal**, **Blackened Heavy Metal** und **Speed Metal**. Scharfe Tremolo-Linien, hohe Schreie und ein Tempo, das selten unter die Marke fällt. Zieht die Klinge, hier wird nicht verhandelt! Das Album verbindet die Kälte des Black Metal mit einer klassischen Heavy-Metal-Freude an Melodie und Soli — eine Kombination, die schnell schiefgehen kann und hier ausgesprochen gut aufgeht. Die Stücke sind kompakt, mit klaren Riffs und Refrains, die man nach zwei Durchläufen mitzucken kann. Zwischen den schnellen Nummern stehen zwei getragene Stücke, in denen die Melodik ganz nach vorne rückt. Der Mitternachtswelle des Titels folgt das Album konsequent: Es klingt tatsächlich nach Nacht, Bewegung und einer gewissen Feierlichkeit. Richtig gut.
 
-::genre::black metal, blackened heavy metal, speed metal
+::genre::black metal, heavy metal, speed metal
 
 ### Jiawei Shen - The Pillow Book
 
@@ -314,7 +314,7 @@ Ein Album, das sich nach einem der berühmtesten Textwerke der japanischen Liter
 
 Ein internationales Quartett, das sich zu freier Improvisation zusammenfindet und dem Ergebnis einen ironisch untertreibenden Titel gibt. **Free Improvisation**, **Avant Jazz** und **Experimental**. Streicher, Bläser und erweiterte Spieltechniken, die das Instrument ständig gegen sich selbst wenden. Haltet euch bereit, hier gibt es keinen Plan! Das Album entsteht hörbar im Moment: Es gibt keine Themen, die wiederkehren, keine Form, die sich vorher abzeichnet, sondern vier Musikerinnen und Musiker, die einander sehr genau zuhören und daraus Struktur entstehen lassen. Die Dynamik reicht von kaum hörbaren Reibegeräuschen bis zu Passagen, in denen alle gleichzeitig aufdrehen — und beides wirkt gleich zwingend. Der Titel ist ein Scherz, denn so grobschlächtig ist hier gar nichts: Selbst die lautesten Stellen sind mit erstaunlicher Sorgfalt gebaut. Fordernd, lebendig und außerordentlich gut aufgenommen.
 
-::genre::free improvisation, avant jazz, experimental
+::genre::free improvisation, avant jazz
 
 ### Johnny Manchild and the Poor Bastards - Side Effects
 
@@ -344,7 +344,7 @@ Ein Projekt, das die Dauerbaustelle zum Titel erhebt und damit ziemlich genau de
 
 Ein Gitarrist, der mit seinem Ensemble das Standardrepertoire aufgreift und es hörbar nicht als Pflichtübung versteht. **Jazz**, **Contemporary Jazz** und **Post Bop**. Klarer Gitarrenton, aufmerksames Zusammenspiel und Arrangements, die die bekannten Melodien neu ausleuchten. Bestellt noch was, der Abend ist lang! Das Album nimmt sich Stücke vor, die jeder kennt, und findet in ihnen Ecken, die man so noch nicht gehört hat: verschobene Harmonien, veränderte Metren, Themen, die erst spät kenntlich werden. Der Reiz liegt genau in dieser Spannung zwischen Vertrautheit und Verfremdung — man erkennt das Stück, aber nie ganz da, wo man es erwartet. Das Ensemble spielt dabei bemerkenswert luftig, mit viel Raum für die einzelnen Stimmen und ohne den Drang, jede Lücke zu füllen. Ein warmes, entspanntes und handwerklich hervorragendes Album.
 
-::genre::jazz, contemporary jazz, post bop
+::genre::contemporary jazz, post bop
 
 ### Lakelin Lemmings - Lakelin Lemmings
 
@@ -374,7 +374,7 @@ Ein Projekt, dessen Name an ein schwer übersetzbares Gefühl erinnert und desse
 
 Ein Projekt, dessen Name den Gleichschritt beschwört und dessen Titel darauf besteht, trotzdem etwas gesehen zu haben. **Hardcore**, **Metallic Hardcore** und **Beatdown**. Kurze Stücke, gebellte Vocals und Breakdowns, die kommen, wenn man sie braucht. Macht Platz in der Mitte, es geht sofort los! Das Album ist ein einziger Widerspruch gegen das Mitlaufen: Es geht um Zeugenschaft, um das Beharren auf der eigenen Wahrnehmung gegen alle, die einem das Gegenteil erzählen wollen. Musikalisch bleibt alles knapp und funktional — kein Stück überschreitet die Geduldsgrenze, keines verliert sich in Ideen, die nicht in den Moshpit passen. Zwischen den schnellen Passagen sitzen schwere, marschierende Abschnitte, in denen sich der Titel förmlich in den Boden stampft. Wer Hardcore als Ventil und nicht als Stilfrage begreift, bekommt hier genau das Richtige. Kurz, laut und vollkommen unmissverständlich.
 
-::genre::hardcore, metallic hardcore, beatdown, hardcore punk
+::genre::hardcore punk, metallic hardcore, beatdown
 
 ### Long Odds - The Dry Land
 
@@ -530,7 +530,7 @@ Ein amerikanischer Songwriter, der aus der Bluesgitarre kommt und inzwischen seh
 
 Der amerikanische Songwriter, der seit den frühen Zweitausendern zuverlässig melancholischen Gitarrenpop mit rauer Kante schreibt. **Indie Rock**, **Alternative Rock** und **Singer-Songwriter**. Trockene Gitarren, ein warmer Bass und eine Stimme, die immer leicht müde klingt. Fahrt langsam, die Strecke ist schön! Das Album sucht die Schönheit ausdrücklich und findet sie an unspektakulären Stellen: in Routinen, in halben Gesprächen, in Dingen, die man erst im Rückblick bemerkt. Musikalisch bleibt Yorn bei dem, was er kann — griffige Melodien, unaufdringliche Arrangements und eine Produktion, die den Raum hörbar lässt. Zwischen den ruhigeren Stücken stehen zwei, drei Nummern mit ordentlich Antrieb, die das Album gut ausbalancieren. Es ist keine Platte, die nach vorne drängt, sondern eine, die sich Zeit nimmt und darauf vertraut, dass man mitgeht. Warm, reif und sehr angenehm.
 
-::genre::indie rock, alt rock, singer-songwriter
+::genre::indie rock, alt rock
 
 ### Pox - B.K.W.
 
@@ -572,7 +572,7 @@ Eine Band, die den Namen wie ein Versprechen trägt und ihn mit rasendem Death-T
 
 Eine britische Sängerin, deren Stimme seit Jahren zu den prägenden im melodischen Drum & Bass gehört. **Drum & Bass**, **Liquid** und **Electronica**. Rollende Breaks, tiefe Bässe und ein Gesang, der über allem schwebt, ohne je zu drängen. Dreht auf und lasst euch tragen! Das Album macht aus ihrem Namen ein Wortspiel und daraus ein Programm: Es geht um die eigene Version der Wirklichkeit, um Selbstbehauptung und um Rückzugsorte. Musikalisch bleibt vieles im melodischen, warmen Bereich des Genres, ohne dabei weichgespült zu wirken — die Beats haben Druck, die Bässe Substanz, und die Arrangements lassen der Stimme trotzdem den nötigen Platz. Zwischen den treibenden Stücken stehen halbtempo-Nummern und fast ambiente Passagen, die das Album gut portionieren. Es ist eine Platte für den Heimweg um vier Uhr morgens. Wunderschön produziert.
 
-::genre::d&b, liquid, electronica
+::genre::d&b, liquid d&b, electronica
 
 ### Robyn Hitchcock - The Confuser *
 
@@ -798,7 +798,7 @@ Ein überaus talentierter Multi-Instrumentalist und Komponist, der als Ein-Mann-
 
 Eine hoch angesehene feste Größe der anspruchsvollen elektronischen Musikszene, die dafür gefeiert wird, komplexe Musikalität und emotionales Storytelling in temporeiche Dance-Tracks einzubringen. Deeper **Liquid Drum & Bass**, **atmosphärische Elektronik** und soulful Drum & Bass. Ganz im Sinne seines Titels vermittelt dieses Album das Gefühl, schwerelos auf einer gewaltigen, endlosen Strömung aus tiefen Basslines und schwebenden, melodischen Synth-Pads davonzutreiben. Die komplexen, knackigen Drum-Patterns verleihen den Tracks eine erstklassige Dancefloor-Energie, doch die darunterliegenden Pads sind so warm und filmisch, dass sich das Album perfekt als Soundtrack für eine nächtliche Autofahrt eignet. Es ist anspruchsvoll, geschmeidig und absolut fesselnd.
 
-::genre::d&b, atmo d&b, atmo electronica
+::genre::d&b, atmo d&b, electronica
 
 ### Emery - STYROFOAM
 

@@ -114,7 +114,7 @@ Die österreichischen Metaller mit ihrem neuesten Werk. Refrain-Starker Symphoni
 
 Elipsis ist mehr als nur ein Release, es ist ein Treffen zwischen mehreren Welten. Das Kollektiv bestehend aus dem amerikanischen Multi-Instrumentalisten Michael League (Snarky Puppy), dem kubanischen Percussionist Pedrito Martinez und dem mexikanischen Jazz-Drummer Antonio Sanchez bietet einen sehr spannenden Mix aus Afro-Beat, Fusion, Electronica und Avant-Rock. Sehr fasziniertes Songwriting verpackt in einer bombastischen Produktion.
 
-::genre::afrobeat, fusion, electronica, avant rock
+::genre::afrobeat, jazz fusion, electronica, avant rock
 
 ## Frozen Factory - Apocalypse Inc.
 
@@ -138,7 +138,7 @@ Die israelische Formation mit ihrem Longplayer Debüt. Djent-y Metalcore, welche
 
 Die Debüt EP der deutschen Kapelle. Modern Metalcore, welcher mit einem guten Songwriting aufzuwarten vermag. Trotz der modernen Interpretation des Metalcore, wird auf Elemente des Pop, Trap und Drill verzichtet.
 
-::genre::modern metalcore, pop, trap, drill
+::genre::modern metalcore, trap, drill
 
 ## Gluecifer - Same Drug New High
 
@@ -222,7 +222,7 @@ Der amerikanische Singer & Songwriter mit seinem neuesten Werk. Eine melancholis
 
 Die amerikanische Singer & Songwriterin mit ihrem neuesten Output. Recht flach angelegte Kompositionen aus Pop, EDM und R&B. Nichts was wirklich hängen bleibt, was mich den Faktor Pop ein wenig diskutieren ließ.
 
-::genre::pop, edm, r&b
+::genre::edm, r&b
 
 ## Memory Of A Melody - Welcome To The Collective
 
@@ -270,7 +270,7 @@ Die indische Combo mit ihrem neuesten Release. Als großer Verehrer von Melodic 
 
 Was für ein Experiment. Das Kollektiv aus Ohio ist wieder zurück und verwirbelt wie immer die Rock-Landschaft. Alles hat seine Klangfarben und so wird hier Avant-Rock, Fusion, Jazz-Rock, Space-Rock, Math-Rock und Prog-Rock zu einem expressionistischen Gemälde vereint.
 
-::genre::avant rock, fusion, jazz rock, space rock, math rock, prog rock
+::genre::avant rock, jazz fusion, jazz rock, space rock, math rock, prog rock
 
 ## Petroglyphs - Where I Make Peace With Death
 
@@ -394,7 +394,7 @@ Die lang erwartete Kollaboration zwischen dem amerikanischen Gitarristen Tyler R
 
 Der amerikanische Producer und Multi-Instrumentalist Mikey Maramag (Blackbird Blackbird) mit seinem neuesten Release. Im Spektrum von Indie Pop, Dreampop, Dance und Acid Funk bewegen sich die 22 Kompositionen.
 
-::genre::indie pop, dreampop, dance, acid funk
+::genre::indie pop, dreampop, acid funk
 
 ## Breakfield - Becoming Breakfield
 

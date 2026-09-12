@@ -806,7 +806,7 @@ tbd
 
 Das norwegische Prog-Grind-Projekt mit seinem neuesten Werk. Instrumentelle Song-Dekonstruktion im Style des Tech-Grind allerdings mit mehr Fokus auf Instrument-Dekonstruktion und daher eher Prog-y.
 
-::genre::technical grindcore, prog metal
+::genre::grindcore, prog metal
 
 ## Pye Corner Audio - Lake Deep Memory
 

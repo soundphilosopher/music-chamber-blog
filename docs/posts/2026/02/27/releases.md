@@ -242,7 +242,7 @@ Das renommierte Duo mit einem neuen Longplayer, welcher der Neunte in ihrer Disc
 
 Das amerikanische Outfit mit seiner neuesten EP, welche wie ein klassisches 90er DIY in Erscheinung tritt. Ein aggressives und kompromissloses Werk des Hardcore Punk, welches Elemente des Crossover und Metallic Hardcore in sich bindet. Dabie wird Two-Step-Hymne and Twp-Step-Hymne erschaffen, welche mit kurzen aber schlagkräftigen Breakdowns versehen ist, was gar Erinnerungen an die Anfänge des Beatdown konstruiert.
 
-::genre::hardcore punk, crossover, beatdown
+::genre::hardcore punk, crossover thrash, beatdown
 
 ## Gus Englehorn - The Broken Balladeer **
 
@@ -344,7 +344,7 @@ Die britische Multi-Instrumentalistin mit ihrer Fortsetzung der _The Medieval Dr
 
 Das Sophomore Release des kanadischen Duos. Entstanden ist eine Reise des Klanges durch die Welten von Synth-Pop, Dark Wave und Synth-Wave, welche mit einer klaren Produktion versehen worden sind. Dabei hat sich das Duo auch einiges von mid-2000er "French Touch" Szene geliehen und in die neue Zeit transferiert,
 
-::genre::synth pop, synth wave, dark wave, dance
+::genre::synth pop, synth wave, dark wave
 
 ## Mammal Hands - Circadia *
 
@@ -434,7 +434,7 @@ Das Debüt eines weiteren Lockdown-Projekts. Die britisch/schwedische Formation 
 
 Das neueste Full-Length von den italienischen Okkultisten. Ein avantgardes Werk des Black Metal, welches Elemente des Dark Wave, Industrial, Doom, Post Punk und Drone in sich bindet. Die Lyrics werden in italienisch und henochisch (okkulte Sprache) vorgetragen und bilden mit den okkulten Soundfragmenten eine Art Ritual der spirituellen Reise. Um das geistige Gedankengut der Protagonisten könnte man sich Sorgen machen, wenn Menschen wie _Aleister Crowley_ verehrt werden.
 
-::genre::spiritual black metal, avant black metal, ritual music, doom metal, post punk, industrial, dark wave, drone
+::genre::black metal, avant black metal, ritual music, doom metal, post punk, industrial, dark wave, drone
 
 ## Nothing - A Short History Of Decay
 
@@ -524,7 +524,7 @@ Das amerikanische Kollektive, hier vertreten von Ryan Wheless, Bailey Zick und A
 
 Die Debüt EP der amerikanischen Kapelle. Ein raues, schnelles und kompromisloses Werk des Thrash Metal, welches durch die Nähe zum Hardcore Punk gar eine Crossover Funktionalität mit sich trägt. Für Fans des Crossover und schnellen Thrash Metal ist diese Band ein Ohr wert. Man wird es am Ende nicht bereuen.
 
-::genre::thrash metal, crossover
+::genre::thrash metal, crossover thrash
 
 ## Templar - Conquering Swords
 

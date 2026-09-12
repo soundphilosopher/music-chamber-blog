@@ -86,7 +86,7 @@ Unter der Leitung des Songwriters Lloyd Bolton tritt Frank Lloyd Wleft zusammen 
 
 Als aufstrebende Kraft in der modernen kalifornischen Underground-Metal-Renaissance wird die Band für ihre blitzschnellen Live-Sets und ihre schwindelerregende instrumentale Präzision gefeiert. **Technischer Thrash Metal**, **Crossover-Thrash** und **Speed Metal**. Schnallt eure Nackenstützen fest, bevor ihr auf Play drückt, denn diese Platte trifft mit der absoluten Geschwindigkeit einer Hyper-Speed-Railgun. Die Band entfesselt ein unglaubliches Feuerwerk aus messerscharfen, komplexen Gitarrenduelle, halsbrecherischen Schlagzeugpatterns und bellenden, aggressiven Vocals. Textlich tauchen Songs wie "Living In Virtuality" und "Celestial Aventus" direkt in futuristische Cyberpunk-Kriege, außer Kontrolle geratene künstliche Intelligenz und digitale Zerstörung ein. Das Album ist schnell, technisch makellos und liefert den ultimativen Mosh-Treibstoff für Metal-Traditionalisten.
 
-::genre::tech thrash metal, crossover, speed metal
+::genre::tech thrash metal, crossover thrash, speed metal
 
 ### Generation Landslide - Existence
 
@@ -158,7 +158,7 @@ Das 2022 als alternatives Duo gegründete Duo aus Álvarez (Rhodes-Piano, Synthe
 
 Die als erfolgreichste Sängerin aller Zeiten geltende Pop-Königin hat sich für diese lang erwartete Fortsetzung erneut mit dem legendären Disco-Produzenten Stuart Price zusammengetan. **Dance-Pop**, **Chicago House**, **Detroit Techno** und **Electro-Disco**. Zieht eure Tanzschuhe an und macht euch bereit für ein spirituelles Erwachen unter der Discokugel, denn die Königin des Pop ist offiziell zurückgekehrt, um ihren Thron zurückzuerobern. Das Album bietet über eine Stunde nonstop herrlichen Club-Groove und enthält großartige Kollaborationen mit Sabrina Carpenter und ihrer eigenen Tochter Lourdes Leon. Getreu seinem Namen verbindet es gewaltige House-Beats mit verletzlichen, tagebuchartigen Bekenntnissen, die das Leben im New York der 80er Jahre und den persönlichen Heilungsprozess der Familie nachzeichnen. Es ist unglaublich elegant, strahlt unbändiges Selbstbewusstsein aus und beweist, dass die Tanzfläche nach wie vor ein heiliger Ort der absoluten Freiheit ist.
 
-::genre::electropop, dance, edm, ebm, acid house
+::genre::electropop, edm, ebm, acid house
 
 ### Martyrs Saint - From Strength To Strength
 

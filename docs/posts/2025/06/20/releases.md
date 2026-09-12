@@ -104,7 +104,7 @@ tbd
 
 Das neueste Werk um den norwegischen Electronica Musiker Geir Aule Jenssen stellt eine Vertonung des Romans “The Time Of Man” dar und verwendet dabei auch Samples aus dem Radio Play aus dem Jahre 1951. Minimal-Synth-Electronica, welche sich elegant mit Ambient vereint.
 
-::genre::synth electronica, minimal electronica, ambient
+::genre::electronica, minimal electronica, ambient
 
 ## Black Majesty - Oceans of Black
 
@@ -1218,7 +1218,7 @@ tbd
 
 Die Kollaboration zwischen den indischen Producer Sunil Kumar Sharma und dem australischen Producer Karl Willebrant ballt sich seinen Weg in die Ambient. Dabei werden Elemente des Drone, Field Recordings und Fusion gekonnt mit in die Kompositionen aufgenommen.
 
-::genre::ambient, drone, field recordings, fusion
+::genre::ambient, drone, field recordings, jazz fusion
 
 ## Swamp Dogg - Swamp Dogg Contemplates The Afterlife
 

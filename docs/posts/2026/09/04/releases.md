@@ -38,7 +38,7 @@ Das japanische Instrumental-Trio, das Math Rock mit einer geradezu unverschämte
 
 Das US-amerikanische Duo, das im dissonanten Extreme-Metal-Untergrund seit Jahren eine ganz eigene, schwer greifbare Nische bewohnt. **Dissonanter Death Metal**, **avantgardistischer Black Metal** und freie Improvisation. Die Riffs folgen keiner erkennbaren Tonalität, das Schlagzeug denkt eher in Jazz-Kategorien als in Blastbeats. Werft alle Erwartungen an Songstrukturen über Bord und lasst euch fallen! Dieses Album fühlt sich an wie ein Traum, in dem die Geometrie nicht stimmt — Passagen wachsen, kollabieren und formieren sich neu, ohne dass je ein Refrain zur Rettung eilt. Die Vocals kriechen als beschwörendes Murmeln durch das Geflecht, während sich Gitarren in mikrotonalen Spiralen ineinander verhaken. Es ist anstrengend, verstörend und unglaublich lohnend für alle, die Extreme Metal als Klangkunst und nicht als Sportart begreifen.
 
-::genre::dissonant death metal, avant black metal, experimental death metal
+::genre::dissonant death metal, avant black metal, death metal
 
 ### Acid Mothers Temple - In A Not C *
 
@@ -56,7 +56,7 @@ Die Post-Punk-Band aus Vancouver um Jason Corbett, die seit Jahren die Brücke z
 
 Die slowakische Sängerin, die mit *Ain't in LA* als erste Künstlerin ihres Landes in den US-Billboard-Charts landete und nun ihr Debütalbum bei *Capitol* vorlegt. **Pop**, **Electropop** und **R&B**. Glasklare Produktion, große Hooks und eine Stimme, die den Raum mühelos füllt. Macht euch bereit, das ist für die ganz großen Bühnen! Der Titel spielt auf die Primaballerina an, den höchsten erreichbaren Rang — und genau um diesen Ehrgeiz geht es: um Erfolg, um Unsicherheiten, um toxische Beziehungen und um die Frage, wer man dabei eigentlich wird. In elf Stücken und gut einer halben Stunde bleibt kein Platz für Leerlauf, jede Nummer will etwas. Musikalisch bewegt sich das Album zwischen tanzbarem Electropop und zurückgenommenen R&B-Momenten, in denen die Stimme fast allein trägt. Ein selbstbewusstes, erstaunlich kompaktes Debüt. Sehr stark.
 
-::genre::pop, electropop, r&b, alt pop
+::genre::electropop, r&b, alt pop
 
 ### Aenigmatum - Infinitude’s Passage
 
@@ -230,7 +230,7 @@ Die Wiener Band um Sophie Löw, die deutschsprachigen Post Punk mit einer bemerk
 
 Ein neues Projekt der britischen Künstler *Iglooghost* und *daisy\**, deren Albumtitel in georgischen Zeichen gesetzt ist und schlicht „Rabbit“ gesprochen wird. **Outsider HipHop**, **Experimental** und **Electronica**. Verschobene Beats, verfremdete Stimmen und eine Produktion, die ständig woanders hinzeigt. Lasst die Erwartungen draußen, hier gilt anderes! Wer die beiden aus ihrer hyperkinetischen Elektronik kennt, findet sie hier in einer ganz anderen, hinterhältig schleichenden Ecke wieder: Das Album besetzt eine schmale Nische am Rand des HipHop, in der Rhythmus und Sprache zwar da sind, aber nie das tun, was man erwartet. Die Stücke bleiben kurz und verwinkelt, mit Sounds, die eher hineinstolpern als einsetzen. Es ist verspielt, unangenehm und ausgesprochen eigenwillig — und genau das macht es interessant. Ein Album, das sich jeder bequemen Einordnung entzieht.
 
-::genre::experimental hip hop, electronica, experimental
+::genre::experimental hip hop, electronica
 
 ### Davinport - The Great Awakening *
 
@@ -398,7 +398,7 @@ Die Songwriterin aus Vermont, die in der amerikanischen Indie-Szene für ihre ei
 
 Der südafrikanische Saxofonist, der zu den herausragenden Stimmen der neuen Generation des südafrikanischen Jazz gehört. **Spiritual Jazz**, **Post Bop** und **South African Jazz**. Warmer Tenorton, modale Harmonik und Rhythmen, die tief in der lokalen Tradition verwurzelt sind. Setzt euch hin und lasst es fließen! Das Album verbindet die spirituelle Weite der Coltrane-Nachfolge mit den ganz eigenen melodischen Wendungen des südafrikanischen Jazz und schafft daraus etwas, das sowohl vertraut als auch unverwechselbar klingt. Sikhakhanes Spiel bleibt dabei erstaunlich zurückhaltend — er sucht nicht das Spektakel, sondern den richtigen Ton. Die Band arbeitet mit großem Raumgefühl, mit langen Passagen kollektiven Atmens statt aufeinanderfolgender Soli. Ein tief musikalisches, seelenvolles Album, das man immer wieder auflegen kann.
 
-::genre::spiritual jazz, post bop, jazz, world music
+::genre::spiritual jazz, post bop, world music
 
 ### Lost Velvet - Dark Cells
 
@@ -440,13 +440,13 @@ Das Projekt von Nick Carpenter aus Alaska, der seit einigen Jahren mit erstaunli
 
 Ein malaysischer Songwriter, der sein Debütalbum aus Stücken zusammensetzt, die zwischen 2014 und 2026 entstanden sind — eine Bestandsaufnahme über mehr als ein Jahrzehnt. **Indie Folk**, **Singer-Songwriter** und **Acoustic**. Akustische Gitarre, Klavier und eine Stimme, die das Erzählen über den Effekt stellt. Setzt euch dazu, hier wird eine Geschichte auserzählt! Das Album kreist um Liebe, Verlust und das mühsame Annehmen dessen, was nicht mehr zu ändern ist, und weil die Stücke aus so verschiedenen Lebensphasen stammen, entsteht daraus tatsächlich ein Verlauf statt einer Sammlung. Unterstützt von Bassist *Aizad Khan* und Geiger *Zaiff Sharqil* bleiben die Arrangements bewusst schlank — meist reichen drei Instrumente, und der Rest ist Raum. Die Sprache mag nicht jedem zugänglich sein, die Stimmung ist es ohne Weiteres. Eine warme, geduldige und sehr persönliche Platte.
 
-::genre::indie folk, singer-songwriter, acoustic
+::genre::indie folk
 
 ### Mick Harvey and Amanda Acevedo - Psychedelia in White *
 
 Der ehemalige *Bad-Seeds*-Musiker und seine langjährige Mitstreiterin legen bei *Mute* ihr drittes gemeinsames Album vor — Nachfolger von *Phantasmagoria in Blue*. **Art Rock**, **Experimental** und **Chamber Pop**. Dicht geschichtete Arrangements, üppige Texturen und zwei Stimmen, die einander umkreisen. Macht es euch bequem, das ist ein Sturm mit Sitzplatz! Das Album verhandelt Mythologie, Liebe, Hoffnung, Verlust und Mystik und sucht dabei durchgehend nach einem sicheren Ort inmitten von Chaos und Verwirrung. Musikalisch ist der Schritt gegenüber den Vorgängern deutlich: wilder, experimenteller, weniger auf Form bedacht. Aufgenommen überwiegend in Australien und in Chile von Alain Johannes gemischt, klingt es entsprechend weit gereist. Von *The Elephants* bis zum Titelstück entfaltet sich das über zehn Stücke und fünfundvierzig Minuten ohne Hast. Ein reiches, sehr erwachsenes Album.
 
-::genre::art rock, experimental, chamber pop, art pop
+::genre::art rock, chamber pop, art pop
 
 ### Miriam Ingram - Mariana Trench
 
@@ -776,7 +776,7 @@ Eine Band aus Baltimore und New Jersey, die nach acht Jahren, einer Pandemie und
 
 Ein Projekt, das seinen Titel in Versalien und mit Schreibfehler setzt — die Ästhetik ist eindeutig. **Deathcore**, **Downtempo** und **Blackened Deathcore**. Extrem tief gestimmte Gitarren, langsame Breakdowns und Vocals aus dem Erdinneren. Stellt euch drauf ein, dass es langsam und schwer wird! Das Album gehört zur Downtempo-Schule des modernen Deathcore, in der Geschwindigkeit gegen pure Masse eingetauscht wird — hier zählt jeder einzelne Schlag, weil er wie ein Einsturz wirkt. Zwischen den zermalmenden Passagen liegen atmosphärische Zonen mit hallenden Gitarren und Samples, die dem Ganzen eine gespenstische Weite geben. Thematisch bewegt sich alles im Bereich von Kälte, Begräbnis und Auslöschung. Es ist stumpf im besten Sinne und für Freunde des Genres eine hochwirksame Angelegenheit. Alle anderen: Finger weg.
 
-::genre::deathcore, downtempo deathcore, blackened deathcore, slamcore
+::genre::deathcore, blackened deathcore, slamcore
 
 ### Zahna - Break Or Breakthrough
 
@@ -1038,7 +1038,7 @@ Eine britische Formation, die ihre eigene Musik schlicht als „no rules music�
 
 Ein Projekt, das kurze Stücke aus manipulierten Schnipseln von Lo-Fi-Instrumentierung baut, aufgenommen im Schlafzimmer. **Ambient**, **LoFi** und **Experimental**. Verwaschene Schleifen, brüchige Texturen und Stücke, die vorbei sind, bevor man sie eingeordnet hat. Setzt die Kopfhörer auf, sonst entgeht euch die Hälfte! Das Album arbeitet mit dem, was übrig bleibt: Fragmente, die aus ihrem ursprünglichen Zusammenhang gerissen, gedehnt und übereinandergelegt werden, bis daraus etwas Neues entsteht. Der Titel mit seinen Nelken vor der Kummerfabrik trifft die Stimmung genau — es geht um kleine, zarte Dinge am Rand von etwas sehr Großem und Trostlosem. Nichts davon drängt sich auf, und gerade darin liegt die Wirkung. Eine stille, sehr private Platte, die man mehrmals hören muss, bevor sie sich öffnet. Unaufdringlich schön.
 
-::genre::ambient, lofi, experimental
+::genre::ambient, lofi
 
 ### Ten Times Again - Ten Times Again
 

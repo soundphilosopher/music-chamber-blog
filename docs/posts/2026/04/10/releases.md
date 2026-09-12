@@ -188,7 +188,7 @@ Ein trendsetzendes Quintett aus der Berliner "Urban Jazz"-Szene. Sie verbinden *
 
 Ein aufstrebendes Projekt in der Welt des **Progressive Rock** und der **Fusion**. Sie lassen sich von der komplexen Erzählkunst von *Genesis* und der instrumentalen Virtuosität von *Return to Forever* inspirieren. "Romelantis" ist eine konzeptionell anspruchsvolle Reise in eine fiktive, verlorene Zivilisation. Es ist durch und durch ein Musiker-Album - voller ungewöhnlicher Taktarten, schwebender Synthesizer-Soli und einer mythologischen Welt, die selbst einen Fantasy-Autor neidisch machen würde. Es ist episch, abenteuerlich und technisch atemberaubend.
 
-::genre::neo prog rock, fusion
+::genre::neo prog rock, jazz fusion
 
 ## Cybercrime - Postmodern Simulacrum
 
@@ -704,7 +704,7 @@ Das Debüt der schwedischen Formation. Rauer, handgemachter schwedischer **Death
 
 Die kulumbianische Producerin und DJane mit ihrem neuesten Werk aus ihrer "Tribal Soundsystem Performance". Rauer, Underground-**Reggaeton** und **Perreo**. Beeinflusst von den rauen Straßen Medellíns und der DIY-Punk-Ethik. Rosa ist die Hohepriesterin des Perreo. Vor allem als Weltklasse-DJane bekannt, festigt "Incorregible" ihre Rolle als Kuratorin und Künstlerin, die sich für die raue, authentischere Seite der urbanen lateinamerikanischen Musik einsetzt. Das ist kein glatter, radiotauglicher Reggaeton. Er ist düster, basslastig und unverbesserlich rebellisch. Er ist der Soundtrack zu einer Lagerhausparty um 4 Uhr morgens, bei der die Wände schwitzen. Er ist minimalistisch, hypnotisch und man kann unmöglich stillstehen.
 
-::genre::reggaeton, perreo
+::genre::reggaeton
 
 ## Scythe Of Mephisto - Til Death Do Us Part
 
@@ -860,7 +860,7 @@ Das neueste Release der australischen Formation. Eine grandioser Mix aus **Psych
 
 Der britische elektroakustische Komponist und Multiinstrumentalist, der seine neueste Komposition an Orten wie der *Tate Britain* und stillgelegten Wassertanks aufführt. Das ist **avantgardistische, experimentelle Musik**. Eine wilde Mischung aus den **Doom-Metal**-Legenden *Sleep* und *Om*, gepaart mit dem sowjetischen Komponisten *Dmitri Schostakowitsch*. *Stone* nimmt eine Pauke und löst sie aus dem Orchesterkontext, um sie in Synthesizerklängen und Elektronik zu versenken. Es ist in der Tat ein unbegangener Weg - düster, seltsam und schwer, auf eine Weise, die eher an einen Spuk als an ein Konzert erinnert. Man muss es von Anfang bis Ende hören.
 
-::genre::avant doom metal, experimental metal, prog doom metal
+::genre::doom metal, experimental metal, prog doom metal
 
 ## Thunderkill - Global Cataclysm
 

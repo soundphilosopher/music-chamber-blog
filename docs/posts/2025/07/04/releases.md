@@ -458,7 +458,7 @@ tbd
 
 Genre: Cinematic Progressive Rock, Progressive Folk
 
-::genre::cine prog rock, prog folk
+::genre::prog rock, prog folk
 
 ## Wytch Hazel - Lamentations
 

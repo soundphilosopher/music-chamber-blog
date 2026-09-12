@@ -1104,7 +1104,7 @@ tbd
 
 Genre: Dance, Electronica
 
-::genre::electronica, dance
+::genre::electronica
 
 ## Marvatten - Unscripted Moments, Vol. II
 

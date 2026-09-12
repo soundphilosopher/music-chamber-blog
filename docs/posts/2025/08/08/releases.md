@@ -972,7 +972,7 @@ tbd
 
 Der amerikanische Producer mit einem neuen Werk der Zerstörung. Breakbeat, Dance, Jungle, Techno und Electronica werden kunstvoll der Zerstörung überlassen.
 
-::genre::breakbeat, dance, jungle, techno, electronica
+::genre::breakbeat, jungle, techno, electronica
 
 ## Scape One - A certain Interupt
 

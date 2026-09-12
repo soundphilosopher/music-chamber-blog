@@ -44,7 +44,7 @@ Die Veteranen der deutschen Death-Szene mit ihrem neuesten Longplayer. Ihr Stil 
 
 Das Sophomore Release des kanadischen Duos. Ein selbsternanntes "Mantra-Rock-Dada-Pythagoreisch-Kubistisches Orchester". Genauer gesagt handelt es sich um eine Mischung aus **Math Rock**, **Avant-Prog** und mikrotonalem **Psychedelic Rock**. Das ist unsexy Musik, die einfach unwiderstehlich ist. Es klingt wie ein betrunkener Mathelehrer, der versucht zu tanzen - abgehackt, schräg und unglaublich groovig. Es ist eine mikrotonale Menagerie, die zugleich ein technisches Meisterwerk und ein absoluter Wahnsinn ist.
 
-::genre::math rock, avant prog rock, psych rock
+::genre::math rock, prog rock, psych rock
 
 ## Apolaustic - No Plenitude Without Suffering
 
@@ -158,7 +158,7 @@ Die amerikanische Kapelle mit ihrem Debüt Longplayer. Sie spielen emotiven **Me
 
 Die Heavy-Metal-Veteranen aus North Carolina, die als Pioniere des **Crossover-Thrash** bekannt sind, haben sich mit ihrem neuen Doppelalbum zu einem unverwechselbaren sumpfigen **Southern-Rock**- und **Sludge**-Sound entwickelt. Dieses gewaltige Doppelalbum ist ihr erstes seit acht Jahren und eine Hommage an den verstorbenen Gründungsschlagzeuger Reed Mullin. Es fängt das gesamte Spektrum ihrer Geschichte ein - von energiegeladenen **Punk**-Wurzeln bis hin zu düsteren Grooves, die sich anfühlen wie eine lange, heiße Fahrt durch das Mississippi-Delta.
 
-::genre::crossover, thrash metal, hardcore punk, metallic hardcore, sludge metal, southern rock
+::genre::crossover thrash, thrash metal, hardcore punk, metallic hardcore, sludge metal, southern rock
 
 ## Crème Flesh - For Your Ass Only
 
@@ -458,7 +458,7 @@ Die ungarische Formation mit seiner Debüt EP. **Grunge** und **Groove Metal** m
 
 Der niegerianische Singer & Songwriter mit seinem Sophomore Longplayer. Es wird als introspektiver **Afrobeats** und **Afropop** beschrieben. War sein erstes Album der Sturm, so ist dies die Ruhe danach. Es ist gefühlvoll, nachdenklich und klingt wie ein Sonnenaufgang nach einer sehr langen Nacht. Die Stimmung ist heilend, aber bitte als clubtauglicher Groove.
 
-::genre::afrobeat, afropop, alt pop
+::genre::afrobeat, alt pop
 
 ## Orchid Mantis - sincerity
 
@@ -638,7 +638,7 @@ Das erste Album des virtuosen amerikanischen Bassisten und Sängers seit sechs J
 
 Das erfahrene **Crossover**-Thrash-Quintett, das seit über einem Jahrzehnt an einem Sound feilt, der die Kluft zwischen **Old-School-Hardcore** und **Thrash Metal** überbrückt, präsentiert sein neues Studioalbum. Es ist ein klanglicher Aufruhr, der auf eine dystopische Zukunft abzielt. Stell dir eine Band vor, die am Ende der Welt spielt, während draußen KI-gesteuerte Kämpfer marschieren - schnell, laut und kompromisslos rau.
 
-::genre::crossover, thrash metal, metallic hardcore, hardcore punk
+::genre::crossover thrash, thrash metal, metallic hardcore, hardcore punk
 
 ## Vanir - Wyrd
 
@@ -708,7 +708,7 @@ Der kanadische Jazz-Drummer mit seinem neuesten Studioalbum. Wiens ist ein Schla
 
 Diese „Supergroup“ besteht aus vier Meistern ihres jeweiligen Instruments: Edu Ribeiro (Drums); Toninho Ferragutti (Akkordeon); Bruno Migotto (Kontrabass); Vinícius Gomes (Gitarre). Das Album ist ein Meisterwerk der **zeitgenössischen brasilianischen Instrumentalmusik**. Es verbindet Elemente aus **Choro**, **Jazz** und **Forró** mit einer raffinierten, modernen Harmonik. Das Zusammenspiel ist feinfühlig und zugleich kraftvoll und legt den Schwerpunkt auf die Farben (Texturen) der akustischen Instrumente. Es ist wie ein langes, sonnendurchflutetes Gespräch zwischen alten Freunden in einem Hinterhof in São Paulo. In einem Moment erzählt das Akkordeon eine nostalgische Geschichte, und im nächsten ziehen dich Schlagzeug und Gitarre in einen raffinierten Tanz hinein. Es ist warm, unglaublich intelligent und fühlt sich an wie ein sanftes Klang-Kaleidoskop.
 
-::genre::contemporary jazz, choro, forró, chamber jazz
+::genre::contemporary jazz, world music, chamber jazz
 
 ## Caosonora - The Ladder
 
@@ -810,7 +810,7 @@ Ein amerikanisches elektroakustisches Duo aus Brooklyn, New York, bestehend aus 
 
 Der amerikanische Producer und DJ mit seinem ersten Full-Length in 13 Jahren. *Parker*, ein Titan des hypnotischen **Techno**, ist für seinen kargen, reduktionistischen Sound auf seinem Label Geophone bekannt. Dieses Album stellt eine Abkehr davon dar und bewegt sich durchgehend im Bereich von 170 BPM - eine Brücke zwischen Techno und **Deep Drum & Bass**. Stell dir einen Hochgeschwindigkeits-Teilchenbeschleuniger vor, aber mit besserem Bass. Der Klang ist kühl, präzise und pulsiert in einem Rhythmus, der sich anfühlt, als wolle er deinen Herzschlag neu programmieren.
 
-::genre::deep d&b, dark house, minimal techno
+::genre::d&b, dark house, minimal techno
 
 ## Mooryc - Sideways
 
@@ -834,7 +834,7 @@ Das Debüt des brasilianischen Outfits. Ihr Sound wird als eindringlicher **Indi
 
 Das russische Projekt mit seinem neuesten Longplayer. Stark beeinflusst vom psychedelischen Spektrum, das von **Space Rock** bis hin zu **Avant-Garde Electronica** reicht. Das ist Labor-Musik für die Seele. Es fühlt sich an, als würde man durch einen digitalen Regenwald schweben, in dem die Bäume aus Synthesizern bestehen und der Regen aus perfekt getaktetem Rauschen besteht.
 
-::genre::psych ambient, krautrock, ambient, synth pop
+::genre::ambient, krautrock, synth pop
 
 ## REXREZ - Parasitic Paradise
 
@@ -864,7 +864,7 @@ Das Cross-American Kollektiv mit seinem Debüt Longplayer. Eine All-Star-Besetzu
 
 Das niederländische Duo mit seinem Debüt Full-Length. Ein energiegeladenes Genre-Mashup. Hier vereinen sich die technische Komplexität des **Progressive Rock**, der rhythmische Flow des **Hip-Hop**, der Pocket-Groove des **Funk** und die aggressive Schärfe des **Metal**. Dieses Album ist im Grunde genommen ein Mixer, der auf hohe Stufe gestellt ist. In einem Moment nickt man noch im Takt eines sanften Funk-Grooves mit dem Kopf, und im nächsten hauen Abel und Ayden einen mit einem polyrhythmischen Metal-Breakdown um. Es ist ambitioniert, chaotisch und genau die Art von „verrückter Wissenschaftler“-Energie, die die Indie-Szene gerade braucht. Es fühlt sich an wie ein spätnächtlicher Festival-Auftritt, der in einer Studioaufnahme verdichtet wurde.
 
-::genre::prog rock, prog metal, crossover, fusion, hip hop, funk
+::genre::prog rock, prog metal, crossover prog, jazz fusion, hip hop, funk
 
 ## Those Poor Bastards - Black Tongue
 
@@ -912,4 +912,4 @@ Das Quintett um den spanischen Jazz-Drummer Xavi Reija mit seinem neuesten Relea
 
 Die neuste Studio-Improvisation des amerikanischen Kollektivs. Das Kollektiv blickt auf eine lange Geschichte in der "Crossover-Prog"-Szene zurück und ist für seinen akribischen Perfektionismus im Studio bekannt. Das ist nicht der übliche, steife **Prog**. **Fusion** ist, als würde man einer Gruppe musikalischer Wissenschaftler dabei zusehen, wie sie alle Regeln über Bord werfen und einfach spielen. Es ist stimmungsvoll, atmosphärisch und fängt die Energie einer Live-Session ein, ohne die typische Überpoliertheit ihrer früheren Werke.
 
-::genre::prog rock, jazz fusion, atmo prog rock, improvisation
+::genre::prog rock, jazz fusion, improvisation

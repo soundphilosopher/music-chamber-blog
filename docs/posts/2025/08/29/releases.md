@@ -224,7 +224,7 @@ tbd
 
 Die amerikanische Hardcore-Kapelle mit ihrem Debüt Full-Length. Hardcore der Ost-Küsten-Spielweise mit seinen eigenen Merkmalen. Bringt Bewegung in mein imaginäres Pit.
 
-::genre::post hardcore, hardcore
+::genre::post hardcore, hardcore punk
 
 ## Ethereal Wound - Defile | Demise
 

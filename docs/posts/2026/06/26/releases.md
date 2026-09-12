@@ -164,7 +164,7 @@ Angeführt vom indigenen Künstler, Aktivisten und Anwalt Gregg Deal (Pyramid La
 
 Die Band ist seit fast einem Jahrzehnt in der europäischen Independent-Szene aktiv und hat sich im Underground einen hervorragenden Ruf erarbeitet, weil sie eine rohe, schnörkellose Punk-Attitüde innerhalb klassischer Metal-Strukturen bewahrt. Sie knüpft strukturell direkt an die extreme Musik der frühen 1980er Jahre an und legt dabei mehr Wert auf rohe Banddynamik als auf überpolierte Computer-Tracks. **Thrash Metal**, **Hardcore-Punk** und **Crossover**-Metal. Schnallt euch an und haltet euch fest, denn dieses Album trifft euch wie ein außer Kontrolle geratener Zug, der geradewegs durch eine Mauer rast. Die Band verzichtet gänzlich auf überpolierte moderne Studiobearbeitungen und liefert stattdessen einen unerbittlichen Ansturm aus messerscharfer Gitarrenverzerrung, rasendem D-Beat-Schlagzeug und kehlenschneidenden Gesangsschreien. Es ist ein kompromissloser, rasender Blitzkrieg aus purem Adrenalin, der sich weniger wie ein steriles kommerzielles Album anfühlt, sondern eher wie ein regelrechter Aufruhr, der in einem überfüllten Kellerclub ausbricht.
 
-::genre::crossover, hardcore punk, thrash metal
+::genre::crossover thrash, hardcore punk, thrash metal
 
 ## Deathspiral Of Inherited Suffering, Elysian Blaze, Panegyrist - Sunthema
 
@@ -398,7 +398,7 @@ Als monumentaler Meilenstein - das 30. Studioalbum der legendären Singer-Songwr
 
 Keeno, der weltweit dafür gefeiert wird, komplexe, klassisch geprägte Orchesterarrangements mit Heavy-Bass-Musik zu verbinden, hat dieses Album geschaffen, um die konventionellen Grenzen des Liquid Funk aktiv herauszufordern. **Liquid Drum & Bass**, Cinematic Bass, **Jungle** und Classical Crossover. Machen Sie sich bereit für einen absoluten emotionalen Achterbahnritt auf die lohnendste Art und Weise, die man sich vorstellen kann. Die einzelnen Tracks verhalten sich wie ein makellos sequenziertes Live-Set und wechseln nahtlos von absoluter Euphorie auf dem Dach zu tiefen, souligen Keller-Tiefen. Zarte, schwungvolle akustische Streichermelodien und klagende Violinen tanzen anmutig mit rasanten, knallharten Breakbeats und dröhnenden Subbässen. Es ist ein gewaltiges, theatralisches und äußerst eigenständiges Statement, das wie geschaffen ist für intensives Hören über Kopfhörer.
 
-::genre::cine d&b, d&b, jungle
+::genre::d&b, jungle
 
 ## knitting - Souvenir
 

@@ -12,7 +12,7 @@ categories:
 
 Nach einer 13 jährigen Release-Pause ist die deutsche Formation wieder am Start mit ihrem "Third" Output in ihrer Discography. Mit der nötigen theatralischen Untermalung wird ein instrumentelles Werk der Progressive Rock entwickelt, welches Elemente aus Post Metal, Post Rock und Cinematic Rock integriert. Im Songwriting wurden ein paar Samples mit in die Kompositionen integriert. Die Produktion ist ein wenig flach und monoton ausgefallen, was dem Gesamtwerk nicht wirklich gut tut.
 
-::genre::post rock, cine prog rock, instrumental, post metal
+::genre::post rock, prog rock, instrumental, post metal
 
 ## Against I - Anti Life
 
@@ -230,7 +230,7 @@ Der amerikanische Singer & Songwriter mit seinem neuesten Output. Klassischer Ho
 
 Die Kollaboration zwischen den beiden Ohio-Based Producern birgt eine experimentelle Verrücktheit aus Hyperpop, Vaporwave, Acid Funk, Acid House und Techno. Das Songwriting nutzt dabei ASMR Sampling und nostalgische Trance-, Dance- und Techno-Einflüsse.
 
-::genre::hyperpop, vaporwave, acid funk, acid house, techno, trance, dance
+::genre::hyperpop, vaporwave, acid funk, acid house, techno, trance
 
 ## Gluttony - Eulogy To Blashphemy
 
@@ -590,7 +590,7 @@ Das Sophomore Release der deutschen Kapelle. Die Formation ist für mich eine de
 
 Der Bassist, Keyboardist und Vocalist von Imperial Triumphant mit seinem neuesten Solo-Werk. Ein avantgardes Experiment, welches Solo Piano, Avantgarde Metal, Art Rock, Dark Ambient und Experimental Modern Classic vereint. Alles wird getragen vom klassischen Piano und wird immer wieder zerrissen von Digi-Blast-Beats und kalten Bass und Gitarren Backgrounds.
 
-::genre::solo piano, avant metal, art rock, dark ambient, experimental modern classic, experimental rock
+::genre::solo piano, avant metal, art rock, dark ambient, modern classic, experimental rock
 
 ## Surturian - Hessian Spears
 
@@ -774,7 +774,7 @@ Das neueste Studio-Release der russischen Formation. Der Dark Wave lebt in Russl
 
 Die britische Singer & Songwriterin und Producerin Polly Mackey (Deaf Club) mit ihrem neuesten Solo-Full-Length. Eine treibende Komposition des Deep Trance, welche mit Elementen des Shoegaze, Dreampop, Dark Wave, Electro Pop und Deep Ambient versehen ist. Ich bekomme irgendwie Flashbacks an dunkle Keller, Strobo, blaues Licht und schwingende Körper.
 
-::genre::deep trance, shoegaze, dreampop, dark wave, electropop, deep ambient
+::genre::trance, shoegaze, dreampop, dark wave, electropop, deep ambient
 
 ## Different Strings - The Great Divide
 

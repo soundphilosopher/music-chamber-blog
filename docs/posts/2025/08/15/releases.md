@@ -602,7 +602,7 @@ Der amerikanische Singer & Songwriter mit seinem Erstling? als Solo-Künstler. A
 
 Das Duo aus Texas mit seinem neuesten Output. Ich würde es dem Industrial-Metal oder Industrial-Hardcore zurechnen.
 
-::genre::industrial metal, hardcore
+::genre::industrial metal, hardcore punk
 
 ## Street Sex - Full Color Eclipse
 

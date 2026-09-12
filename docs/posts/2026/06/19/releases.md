@@ -320,7 +320,7 @@ L.M.I. hat sich in der Keller-Szene von Pennsylvania ihre Sporen verdient und di
 
 Das Kollektiv, das als äußerst experimentelles *Bastard-Musik-Ensemble* auftritt, lebt von komplexen, mehrstimmigen und orchestralen Arrangements. Es kombiniert klassische Rockinstrumente mit Synthesizern, einem Cimbalom, einer Harfe und einem kompletten klassischen Live-Orchester unter der Leitung eines Dirigenten. **Zeuhl**, **zeitgenössische Klassik**, **avantgardistischer Progressive Rock** und **Noise-Art-Rock**. Benannt nach dem antiken römischen Gott der Dualitäten, Türen und Anfänge, ist „Janus“ ein wunderschön verrückter, labyrinthischer, theatralischer Fiebertraum. Das Album wirft die üblichen Pop-Grenzen komplett über Bord und verwebt präzise, mechanische Timing-Glitches mit schwungvollem Operngesang, chaotischen französischen Sprechgesang-Erzählungen und furchteinflößenden Wänden aus verzerrtem Gitarrenlärm. Es klingt wie eine Avantgarde-Theatertruppe, die mitten in einem defekten Glockenturm eine Sci-Fi-Rockoper aufführt - es ist schwindelerregend, brillant und wild kreativ.
 
-::genre::zeuhl, prog rock, art rock, noise rock, avant rock, modern classic, fusion
+::genre::zeuhl, prog rock, art rock, noise rock, avant rock, modern classic, jazz fusion
 
 ## Leah Senior - Pt. Roadknight
 
@@ -398,7 +398,7 @@ Smith, der seine Karriere mit Auftritten bei kleinen Open-Mic-Abenden in seiner 
 
 Hamilton gilt weithin als eines der wichtigsten ehemaligen Mitglieder der mit mehreren Platin-Auszeichnungen gekrönten britischen Girlgroup Atomic Kitten, die sie Ende 2024 nach 25 Jahren verließ. Sie hat dieses Projekt gemeinsam mit dem Produzenten Andy Gannon ins Leben gerufen, um als Solokünstlerin einen selbstbewussten Schritt in die Eigenständigkeit zu wagen. **Electropop**, Contemporary Pop und **Dance-Pop**. "Extraction" ist eine makellose, selbstbewusste Pop-Schatzkiste, die mit einer starken emotionalen Ladung überzeugt. Angeführt vom clubtauglichen Elektro-Kracher "Numb" und dem mitreißenden "Fantasy" behandelt die EP Themen wie persönliche Wiedergeburt, das Abwerfen vergangener institutioneller Lasten und das Finden von Unabhängigkeit. Der Track "White Feather" wechselt auf wunderschöne Weise in eine verletzliche Stimmung und fungiert als bewegende Hommage an ihre verstorbene Großmutter. Er verbindet eine raffinierte, glänzende Synthesizer-Produktion mit kraftvollem Gesang, der Lust macht, seine Frustrationen wegzutanzen.
 
-::genre::electropop, edm, ebm, dance
+::genre::electropop, edm, ebm
 
 ## Nduduzo Makhathini - The Myth We  Choose
 
@@ -422,13 +422,13 @@ Nach ihrem Debüt im Jahr 2025 hielt die Band ihre charakteristische Tour-Energi
 
 Das Projekt, das fest in der unabhängigen Underground-Szene unter dem Dach von Doom Zone Productions verankert ist, hat sich auf äußerst exzentrische, konzeptionelle und mehrteilige Electronic-Metal-Kompositionen spezialisiert. **Progressive Rock**, **Post-Punk**, **Industrial Metal** und **Avantgarde-Doom**. Das Album, dessen Titel grob übersetzt "Hohe Seltsamkeit" bedeutet, wirkt wie ein zutiefst beunruhigender Science-Fiction-Horror-Thriller, der sich spät in der Nacht abspielt. Voller apokalyptischer Titelnamen wie "Termination Of Bio-Spheric Extremity" und "Beyond The Dark Side Of Science" konzentriert sich das übergreifende Thema stark auf dystopische Folgen, korrupte Forschung und das Aussterben der Menschheit. Klanglich wirkt die Musik wie eine Flutwelle aus schweren, knirschenden Industrial-Gitarren, mechanischen Synthesizer-Loops und unheimlichen Post-Punk-Gesangstexturen. Sie ist auf wunderbare Weise verstörend, rasend und wie geschaffen für ein intensives Hörerlebnis mit Kopfhörern in völliger Dunkelheit.
 
-::genre::prog rock, post punk, art rock, industrial metal, avant doom metal
+::genre::prog rock, post punk, art rock, industrial metal, doom metal
 
 ## Pharaoh's Daughter - Songs of Desire
 
 Schechter genießt großes Ansehen dafür, dass sie alte jüdische Melodien mit Klängen aus aller Welt verbindet. Sie arbeitete über einen atemberaubenden Zeitraum von achtzehn Jahren an "Songs of Desire" und stellte dafür ein riesiges Begleitensemble zusammen, das traditionelle akustische Instrumente wie Oud, Saz, Qanun und Ney einsetzt. **World Music**, traditionelle **Folk** aus dem Nahen Osten und jüdische Folk sowie **psychedelischer Devotional-Rock**. "Songs of Desire" entfaltet sich wie ein weitläufiges, bei Kerzenschein stattfindendes sinnliches Ritual, das sich über Kontinente und Jahrhunderte erstreckt. Dynamisch in sechs Sprachen gesungen - darunter Hebräisch, Arabisch, Jiddisch und Spanisch - behandelt das Album Themen wie göttliche Verzückung, spirituelle Sehnsucht und irdische Leidenschaft. Schechters raue, erdige Stimme gleitet über ein kaleidoskopisches Gewebe aus wirbelnden Saitenklängen des Nahen Ostens, hallender Handpercussion und plötzlichen Einbrüchen von Jazztrompete. Es wirkt weniger wie ein Studioalbum, sondern eher wie eine immersive, hypnotische Séance, die die uralte Kunst der Hingabe feiert.
 
-::genre::psych rock, world music, fusion, psych folk, prog folk
+::genre::psych rock, world music, jazz fusion, psych folk, prog folk
 
 ## Plaindrifter - Gestalt
 

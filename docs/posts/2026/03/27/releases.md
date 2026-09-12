@@ -176,7 +176,7 @@ Das amerikanische Trio mit seinem neuesten Longplayer. Er entstand, während Mic
 
 Die Debüt EP der offiziellen Nachfolger von Carnivore, ohne Peter Steele (R.I.P.), versteht sich. Geboten wird eine rohe Mischung aus Crossover-Thrash, Hardcore-Punk und Doom Metal. Schwere Grooves im mittleren Tempo, unterbrochen von rasanten Thrash-Ausbrüchen. Die Produktion ist bewusst rau gehalten und verzichtet auf moderne Überbearbeitung, um dem Hardcore-Sound des New York der 80er Jahre treu zu bleiben.
 
-::genre::crossover, thrash metal, hardcore punk
+::genre::crossover thrash, thrash metal, hardcore punk
 
 ## Caroline Davis - Fallows
 
@@ -741,7 +741,7 @@ Der britische Singer & Songwriter mit seinem Sophomore Full-Length. Er ist vor a
 
 Die amerikanische Formation mit ihrer neuesten EP. Eine moderne Form des Crossover, welche Hardcore Punk und Thrash Metal fusioniert. Diese EP ist wie ein Güterzug ohne Bremsen. Sie ist laut, aggressiv und beschäftigt sich mit Themen wie dem verhängnisvollen Weg der Begierde und der Illusion. Wenn ihr euch die Trommelfelle von scharfen Riffs und Gastsoli von Metal-Größen durchrütteln lassen wollt, hat diese texanische Truppe den perfekten Soundtrack für einen kontrollierten Aufruhr abgeliefert.
 
-::genre::crossover, thrash metal, hardcore punk
+::genre::crossover thrash, thrash metal, hardcore punk
 
 ## Lili Refrain - Nagalite **
 
@@ -1245,7 +1245,7 @@ Die Queen of Rock'n'Roll mit ihrem 18ten Studioalbum in ihrer 50 jährigen Karri
 
 Das deutsche Projekt um den Multi-Instrumentalisten Volker Kuinke mit der Fortführung von Mirrorneuron (2021). Hast du dich schon einmal gefragt, wie Jethro Tull klingen würde, wenn die Flöte durch eine sehr raffinierte Blockflöte ersetzt würde? Das ist symphonisches Geschichtenerzählen in seiner fantasievollsten Form. Es ist üppig, komplex und besticht durch schwebende Gitarrensoli, die um Kuinkes Holzbläser-Melodien herumtanzen. Es ist eine den Geist anregende Reise durch menschliche Empathie und Verbundenheit.
 
-::genre::prog rock, art rock, fusion
+::genre::prog rock, art rock, jazz fusion
 
 ## Taroug - Chott
 
@@ -1347,7 +1347,7 @@ Das Sophomore Full-Length des britischen Singer & Songwriters. "Full Circle" ist
 
 Das neueste Output der norwegischen Formation. Das ist Metal, der selbst in der eisigen Arktis hell genug lodert, um eine bleibende Wärme zu hinterlassen. Es ist ein fesselndes Konzeptalbum über die tragische Geschichte der norwegischen Küstengemeinden, Schiffsunglücke und das unerbittliche Meer. Mit schwungvollen Gesangspassagen und scharfen, messerscharfen Riffs gelingt es dem Album, sowohl technisch anspruchsvoll als auch unglaublich mitreißend zu sein.
 
-::genre::power metal, proto prog metal, heavy metal
+::genre::power metal, prog metal, heavy metal
 
 ## Total Maniac - Love Overdrive
 
@@ -1419,7 +1419,7 @@ Das Debütalbum des Londoner Quartetts. Stellt euch vor, die minimalistische Sch
 
 Der britische Producer mit seinem neuesten Output. Wilkinson veröffentlicht nicht einfach nur ein Album; er bringt ein 14-Track-Vermächtnis heraus, das sowohl die Tanzfläche als auch emotionale Tiefe zelebriert. Von der mitreißenden Hymne "Eternity" bis hin zum gefühlvollen Highlight "Ultraviolet" beweist "Infinity", dass dieser Veteran gerade erst richtig loslegt.
 
-::genre::d&b, uk garage, deep electronica
+::genre::d&b, uk garage, electronica
 
 ## Winterfylleth - The Unyielding Season
 
@@ -1479,7 +1479,7 @@ Das 12te Studioalbum der amerikanischen Pioniere des "Jamgrass". "Good As True" 
 
 Das neueste Full-Length der deutschen Formation. Das ist ein knochenharter Thrash-Metal-Angriff, bei dem die früheren Punk-Wurzeln gegen eine dunklere, intensivere Atmosphäre eingetauscht wurden. Man stelle sich vor, die frühen Metallica und Exodus würden auf den D-Beat-Rauheit von Nuclear Assault treffen. Es ist eingängig, mitreißend und unverhohlen wütend - ein absolutes Muss für jeden Maniac in Jeansweste.
 
-::genre::thrash metal, d-beat, crossover
+::genre::thrash metal, d-beat, crossover thrash
 
 ## Zosha Warpeha - I grow accustomed to the dark
 
@@ -1531,7 +1531,7 @@ Die koreanische Girl-Group mit ihrem neuesten Mini-Release, welches den Start ih
 
 Das italienische Duo mit seinem Sophomore Release. In MySpace Qualität wird ein Werk des Symphonic Deathcore erzeugt, welches mit funny Gesangsexperimenten versehen ist. Das Songwriting ist nicht wirklich Überraschend für Digi Deathcore, welcher mit symphonischen Elementen versehen wurde. Das was die Kompositionen besonders macht, sind die Ideen hinter den Gesangseinlagen.
 
-::genre::symphonic deathcore, digi deathcore
+::genre::symphonic deathcore, deathcore
 
 ## Blurstem - Fallen Fragments
 
@@ -1573,7 +1573,7 @@ Der amerikanische Producer und Rapper Terius Gray bringt zu seinem 51ten Geburts
 
 Der brasilianische Komponist und Jazz Bassist mit seinem neuesten Release. Sein Werk ist bekannt für seine raffinierte harmonische Sprache und seine rhythmische Präzision. "Navegante" (was so viel wie "Navigator" bedeutet) greift ein in der brasilianischen Musik häufig behandeltes Seefahrer-Thema auf und besticht durch fließende Basslinien und melodische Improvisationen. Das Album vereint brasilianischen Jazz, Samba und Brasileira.
 
-::genre::world music, world jazz, samba, brasileira, improvisation
+::genre::world music, world jazz, samba, improvisation
 
 ## Model/Actriz - Swan Songs *
 
@@ -1639,7 +1639,7 @@ Das Sophomore Release der kanadischen Formation. Eine rebellische, intensive und
 
 Das Debüt der koreanischen Künstlerin, welche das jüngste Mitglied der Süd Koreanischen Girl Group "ITZY" ist. Eine Komposition des Bubblegum Pops, welche mit elektronischen und dance Elementen versehen wurde. Ein Release, welches einen aus dem Tiefen des Alltags befreien möchte, wenn man diese Tiefen verspührt.
 
-::genre::bubblegum pop, alt pop, dance, edm
+::genre::bubblegum pop, alt pop, edm
 
 ## ZUTOMAYO - KEISOUDO
 

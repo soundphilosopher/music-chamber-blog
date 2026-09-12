@@ -854,7 +854,7 @@ tbd
 
 Das Projekt um den schwedischen Künstler mit einem neuen Output. Minimal Neo-Classic im Gewand des Ambient und mit Facetten der Field-Recordings.
 
-::genre::minimal neo classic, field recordings, ambient
+::genre::neo classic, field recordings, ambient
 
 ## Refusal - Venomous Human Concept
 
