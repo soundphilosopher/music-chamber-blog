@@ -58,11 +58,11 @@ Ein Projekt, das Himmelskörper im Namen führt und im Titel gleich den Aufstieg
 
 ::genre::symphonic metal, melo metal, power metal
 
-### Astral Angels - PEKAAK *
+### Astral Angels - PEKAAK
 
-Ein Projekt, das himmlische Boten im Namen führt und dem Album einen Titel gibt, der sich jeder Deutung entzieht. **Space Rock**, **Psychedelic Rock** und **Krautrock**. Kreisende Basslinien, flirrende Orgeln und ein Schlagzeug, das minutenlang denselben Puls hält. Steigt ein, es gibt keinen Fahrplan! Das Album arbeitet mit langen Fahrten statt mit Songs: Motive werden gesetzt, laufen, verändern sich unmerklich, und irgendwann ist man woanders, ohne den Übergang bemerkt zu haben. Der Gesang taucht nur gelegentlich auf und funktioniert eher als Klangfarbe denn als Erzähler, was der Musik ihre Offenheit erhält. Zwischen den treibenden Passagen öffnen sich weite, fast stehende Abschnitte, in denen nur Flächen und Nachhall übrig bleiben. Es ist Musik, in der man sich aufhält, statt ihr zu folgen — und sie macht das den Zuhörenden ausgesprochen leicht. Ein wunderbar entrücktes Album.
+Das Kollektiv aus Kuala Lumpur feiert seinen fünften Geburtstag mit dem bislang größten eigenen Projekt: vierzehn Tracks in fünfundvierzig Minuten. **Hyperpop**, **EDM** und **HipDut** — die malaysische Verschmelzung von HipHop und Dangdut. Grelle Synthesizer, überdrehte Vocal-Chops und ein Bass, der auf Lautstärke statt auf Feinheit setzt. Dreht auf, hier wird nichts zurückgehalten! Die Platte schöpft offen aus der malaysischen Rave-Kultur, aus Sextrance, Clubmusik und dem nostalgischen Trance der Nullerjahre, und holt damit bewusst Elemente des eigenen Frühwerks zurück. Getragen wird das von den Kernmitgliedern *August Fear*, *irystheworld*, *ceeq*, *5haf* und *Nuzzi*, erweitert um einen Kreis von Gästen wie *MANSKA*, *NONSENSELAAA*, *lurkboy*, *Ichu* und *NIELNOI*; die Vorabsingle *AAITE* gibt einen guten Eindruck davon, wie dicht besetzt das klingt. Das Kollektiv beschreibt das Album als Übung im Anwesendsein und im Ablegen der Last der Realität, was den Hedonismus erklärt, der hier nie ironisch gebrochen wird. Ein lautes, unbekümmertes und erfrischend regionales Album.
 
-::genre::space rock, psych rock, krautrock
+::genre::hyperpop, edm, trance, club pop, world music
 
 ### Ativan Halo - Vitriol
 
