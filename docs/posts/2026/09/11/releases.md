@@ -228,7 +228,7 @@ Das zweite Album der Moskauer Band, bei *SoundAge Productions* im Digibook ersch
 
 ::genre::brutal death metal, death metal, osdm
 
-### Green Lung - Necropolitan *
+### Green Lung - Necropolitan
 
 Das vierte Album der Londoner Band, erschienen bei *Nuclear Blast*. Der Titel verweist auf die sogenannten Magnificent Seven, die sieben viktorianischen Gartenfriedhöfe der Stadt — einst prächtig angelegt, heute von allen verlassen außer ihren dauerhaften Bewohnern. **Occult Rock**, **Doom Rock**, **Heavy Metal** und **Psychedelic Rock**. Fette Riffs, große Refrains und, entscheidend, die Hammondorgel von John Wright. Kerzen an, hier wird der Friedhof zum Ballsaal! Die Band bedient sich aus dem Rohmaterial der britischen Schwermusik — *Black Sabbath*-Riffs, *Deep Purple*-Orgel, die Theatralik des klassischen Metal, der Abenteuersinn des Progressive Rock und die unheimliche Folklore englischer Wälder, Kirchen und Moore — und macht daraus etwas Eigenes statt einer weiteren Sabbath-Andacht. Genau Wrights Orgelarbeit ist es, die diesen Unterschied ausmacht. Neun Stücke voller Riffs, treffsicherer Gesangsmelodien und kluger Arrangements, die jedem Song eine eigene Farbe geben. Eine der besten britischen Bands der Gegenwart, in bester Form.
 
