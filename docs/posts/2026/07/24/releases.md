@@ -328,12 +328,6 @@ Das zweite Album des Orgeltrios PRIME um den schottischen Gitarristen. **Contemp
 
 ::genre::contemporary jazz, post bop, uk jazz
 
-### Lakelin Lemmings - Lakelin Lemmings
-
-Das selbstbetitelte Debütalbum der zwanzigjährigen amerikanischen Songwriterin, erschienen bei *QHMG/Quartz Hill Records*. **Country Rock**, **Americana** und **Country Folk**. Sechzehn Stücke, fünfzehn davon von ihr mitgeschrieben, produziert von *Ash Bowers*. Setzt euch hin, hier stellt sich jemand vor! Dass die Platte nicht nach einem ihrer Songs benannt ist, sondern nach ihr selbst, ist eine bewusste Entscheidung: Jedes Stück soll ein anderes Stück ihrer Geschichte sein, und die Trackliste funktioniert entsprechend eher als Porträt denn als Abfolge. Thematisch geht es um junge Liebe, Herzschmerz, Glauben, Selbstvertrauen und das Erwachsenwerden, und der Ton verbindet traditionelle Country-Einflüsse mit einer zeitgenössischen Produktion, ohne sich für eine Seite zu entscheiden. Sechzehn Titel sind für ein Debüt reichlich, und die Platte trägt das erstaunlich gut. Ein selbstbewusster Einstieg.
-
-::genre::country rock, americana, country folk
-
 ### Leæther Strip - Æppreciation IX
 
 Die neunte Folge der laufenden Coverreihe der dänischen Industrial-Legende *Claus Larsen*, erschienen bei *Cleopatra Records*. **EBM**, **IBM** und **Dark Electronica**. Zehn Stücke in einundfünfzig Minuten, alle nach Larsens Verfahren komplett in seinen eigenen Klang übersetzt. Dreht auf, hier wird Danke gesagt! Für diese Ausgabe hat er, wie er selbst schreibt, seine liebsten queeren und queerfreundlichen Künstler gecovert — die Liste ist entsprechend beeindruckend: *PJ Harvey*, *Soft Cell*, *Siouxsie and the Banshees*, *The Normal*, *Twice a Man*, *Bronski Beat*, *Depeche Mode*, *Dead or Alive*, *David Bowie*, *Cher*, *Judas Priest*, *Fad Gadget*, *Yazoo*, *DEVO*, *The Cure* und *Tennessee Ernie Ford*. Dass zwischen *Cher* und *Judas Priest* kein Bruch entsteht, liegt daran, dass Larsen alles gleich behandelt: harte Sequenzen, viel Bass, seine unverkennbare Stimme. *Male Stripper*, *Run From Love*, *I U She* und *Discipline* sind die naheliegenden Höhepunkte. Eine liebevolle, sehr persönliche Platte.
@@ -351,12 +345,6 @@ Das vierte Album des brasilianischen Duos aus Caxias do Sul, erschienen bei *Per
 Acht Stücke in dreißig Minuten von einer Band aus Nashville, erschienen bei *Profound Lore Records*. **Doomgaze**, **Shoegaze**, **Sludge Metal** und **Post Rock**. Die Band zieht ihre Elemente aus Shoegaze, Doom und Heavy Rock, und alles daran ist auf Atmosphäre und Gewicht gebaut. Macht es laut, hier wird es eng! Die Platte bewegt sich zwischen leisen, unbehaglichen Momenten und zermalmenden Lärmwänden, und der Reiz liegt darin, dass beide Zustände gleich glaubwürdig sind: Die langsam brennenden Riffs und die dichten, geschichteten Gitarren bleiben über die ganze Länge interessant, weil sie sich in Passagen einrasten, die gleichzeitig hypnotisch und erdrückend wirken. *Survival Instinct*, *Ash In The Water*, *Soft Gauze Of Time*, *Dog In The House Of Plenty* und *Return* markieren einen Bogen, der nirgendwo entlastet. Dreißig Minuten sind dabei genau richtig — länger würde die Enge kippen. Ein sehr überzeugendes Album.
 
 ::genre::doomgaze, shoegaze, sludge metal, post rock
-
-### Long Odds - The Dry Land
-
-Acht Stücke, erschienen bei *Clean Demon Records* und am Erscheinungstag als Bandcamp Album of the Day ausgezeichnet. **Americana**, **Alternative Country** und **Country Folk**. Aufgenommen am 14. Juni 2025 von *Philip Reed Hunter* und *Joseph Anthony Camerlengo* in The Barn und den Hole in the Sky Studios. Nehmt euch Zeit, das will ganz gehört werden! Die Platte ist der Nachfolger von *Fine Thread* aus dem Jahr 2022, und die Band tritt bemerkenswert anonym auf: Die Besetzung wird nur mit Initialen geführt — *AE* an Gitarre und Gesang, *PK* an der Gitarre, *JC* an Bass und Tapes sowie *CLH* an Schlagzeug und zusätzlichem Gesang. Dass ein Bandmitglied ausdrücklich für Tapes zuständig ist, sagt etwas über den Zugang: Hier wird mit Material gearbeitet, nicht nur mit Songs. *Perfect Day*, *Before Here*, *Faorah*, *Dead Friends*, *Power Grid*, *New Dawn*, *Survive* und *Here* ergeben einen Bogen, der laut Rezensionen unbedingt vollständig gehört werden will. Die Genrezuordnung ist hier unbestätigt geblieben — keine Quelle nennt sie ausdrücklich.
-
-::genre::americana, alt country, country folk
 
 ### Love Spells - LOVE IS THE LAW
 
@@ -388,7 +376,7 @@ Das erste Album des Quartetts aus Detroit seit sechs Jahren, erschienen bei *Spa
 
 ::genre::post rock, instrumental, shoegaze, ambient
 
-### Marco Benevento - Glera
+### Marco Benevento - Glera *
 
 Das erste Album des Keyboarders bei *Big Crown Records*, vierzehn Stücke in neununddreißig Minuten. **Nu Jazz**, **Neo Soul**, **Dub** und **Jazz Fusion**. Eine Jazzplatte, die sich um Genregrenzen nicht kümmert und Soul sowie das elastische Bassfundament des Reggae mit hineinfaltet. Gießt euch was ein, der Titel ist eine Rebsorte! Glera ist die Traube, aus der Prosecco gemacht wird, und die Platte hat genau diese Haltung: perlend, unangestrengt und ohne Interesse daran, jemandem etwas zu beweisen. Beteiligt sind die Harfenistin *Elizabeth Steiner*, der Ambient-Künstler *Dream Crease* und die italienische Songwriterin *Chiara Civello*, was dem Album eine ungewöhnlich große Klangpalette gibt. Vorab liefen *Frizzante*, *Houdini* und *Turandot* mit *Marianne Mirage*. Dass Big Crown vor allem für Soul und Funk steht, passt gut: Benevento nutzt das Label-Umfeld, um seinen Jazz erdiger und tanzbarer zu machen. Ein sehr gut gelauntes Album.
 
@@ -448,7 +436,7 @@ Eine 12"-EP der Emoviolence-Band aus Boston, ihr erstes Release bei *Iodine Reco
 
 ::genre::screamo, post hardcore, emocore
 
-### Nicholas Payton & Butcher Brown - A Supreme Blue
+### Nicholas Payton, Butcher Brown - A Supreme Blue
 
 Digital am 24. Juli bei *Concord Jazz* erschienen, das Vinyl folgte im August. **Jazz Fusion**, **Neo Soul**, **Modern Jazz** und **Funk**. Neun Stücke in gut einer Stunde — und die Anlage ist so kühn, wie sie klingt. Setzt euch hin, hier werden zwei Denkmäler angefasst! Die Platte ist eine Neulesung von *Miles Davis'* *Kind of Blue* aus dem Jahr 1959 und *John Coltranes* *A Love Supreme* aus dem Jahr 1965: Die ersten fünf Stücke folgen exakt der Trackliste von *Kind of Blue* — *So What*, *Freddie Freeloader*, *Blue In Green*, *All Blues*, *Flamenco Sketches* —, die letzten vier sind die viersätzige Suite *A Love Supreme*. Entstanden ist das Projekt aus einem ungeplanten Moment bei einem Konzert von *Butcher Brown*, als *Payton* über einem House-getönten Groove der Band einstieg und das Eröffnungsthema von *Acknowledgement* zitierte. Genau diese Haltung trägt die Platte: kein Ehrfurchtsprojekt, sondern eine Band, die dieses Material als lebendig behandelt. Ein sehr mutiges, sehr gelungenes Album.
 
