@@ -260,7 +260,7 @@ Die seit 2013 aktive Band hat sich durch kompromisslose EPs einen legendären Ku
 
 Die Gruppe, die vom kreativen Mastermind Dave Bandana mitbegründet wurde, besteht aus erstklassigen symphonischen Multi-Instrumentalisten, darunter Peter Jones (von Tiger Moth Tales und Camel). In der Prog-Szene werden sie für ihre tiefgründigen, konzeptorientierten Erzählungen verehrt. **Progressive Rock**, **Symphonic Prog**, **Crossover Prog** und Storytelling-**Art-Rock**. Packt eure Koffer für eine tief emotionale Reise in die Vergangenheit, denn dieses Album entfaltet sich wie ein großartiges musikalisches Literaturwerk. Durch die Verschmelzung üppiger Gesangsharmonien, komplexer Keyboard-Arrangements, mitreißender Gitarren und unerwarteter Klarinetten- und Saxophon-Einlagen entsteht eine klangliche Architektur von wunderschöner Komplexität. Thematisch beleuchtet das Album die zerbrechliche, bittersüße und höchst persönliche Natur menschlicher Erinnerungen - einschließlich expliziter historischer Anspielungen auf monumentale Rock-Meilensteine des Jahres 1975 – und bietet eine unglaublich bewegende, filmische Reise, die Prog-Puristen absolut lieben werden.
 
-::genre::prog rock, symphonic prog, art rock
+::genre::prog rock, symphonic prog rock, art rock
 
 ### The Black Dog - Feral Grace *
 

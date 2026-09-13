@@ -188,7 +188,7 @@ Die Kollaboration zwischen dem amerikanischen Duo Flutronix und dem Chicago Sinf
 
 Die Split der beiden norwegischen Powerhouses. Forcefed Horsehead bezeichnen sich selbst als “Grindpunk”, was sich am Ende als eine Mixtur aus Death Metal, Hardcore und Crust Punk herausstellt. Shaving The Werewolf spielen einen avantgardistischen und experimentellen Mix aus Powerviolence, Noise Rock und Mathcore.
 
-::genre::grindpunk, deathgrind, crust, powerviolence, noise rock, mathcore, avant rock
+::genre::crust, deathgrind, powerviolence, noise rock, mathcore, avant rock
 
 ### Fossilization - Advent Of Wounds
 
@@ -404,7 +404,7 @@ Das Sophomore Release der litauischen Kapelle. Eine moderne Komposition zwischen
 
 Ein neues Release vom amerikanischen Jazz-Bassisten und Komponisten. In Formation eines Trios bekommt er Unterstützung von der deutschen Jazz-Saxophonistin Ingrid Laubrock und dem amerikanischen Jazz-Drummer Henry Mermer.Improvisiert wurde eine farbenreiche Melange aus zeitgenössischem Jazz und Atmospheric Jazz.
 
-::genre::contemporary jazz, atmo jazz
+::genre::contemporary jazz, ambient jazz
 
 ### Slaughterday - Dread Emperor
 

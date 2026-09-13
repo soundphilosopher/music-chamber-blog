@@ -114,7 +114,7 @@ Die dritte Full-Length der deutschen Combo. Geboten werden Kompositionen des 1st
 
 Die zweite Kollaboration der beiden britischen Multi-Instrumentalisten. In den zwei Kompositionen wird ein experimenteller Mix aus Folk, Psych, Ambient und Nu-Classic verarbeitet.
 
-::genre::psych folk, ambient, nu classic
+::genre::psych folk, ambient, neo classic
 
 ### Death Dealer - Reign Of Steel
 
@@ -270,7 +270,7 @@ Im Grunde eine “Reste-Rampe-EP” aus der Session zu ihrem Release im vergange
 
 Der kanadische Singer & Songwriter mit seinem neuesten Output. Mit diesem Werk entfernt er sich von seinen Pop-Kompositionen und setzt in Produktion wie auch Songwriting auf den französischen Chanson und Cabaret. Der entsprechende Retro-Sound wurde sehr gut getroffen und die Kompositionen selber wurden exzellent in diesen Rahmen eingebracht.
 
-::genre::retro pop
+::genre::power pop
 
 ### Pine Creek Academy - Liminal
 
@@ -312,7 +312,7 @@ Das Sophomore Release des britischen Trios. Auf ihrem neuesten Longplayer werden
 
 Die deutsche Formation mit ihrem neuesten Release. Im Grunde kann es dem Electrocore bzw. Dancecore zugewiesen werden, welcher mit Rap-Passagen ausgefüllt wird.
 
-::genre::electronicore, dancecore
+::genre::electronicore, edm
 
 ### The Damned - Not like everybody else
 

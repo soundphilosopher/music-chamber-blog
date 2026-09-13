@@ -254,7 +254,7 @@ Heart A Tact hat sich durch unermüdlich gestreamte Singles wie "Spark" eine tre
 
 Als äußerst unkonventionelle DIY-Band verbrachte die Gruppe Monate damit, im Rahmen ihrer vorherigen Single-Veröffentlichungen ein vierteiliges Artwork-Konzept zu entwickeln, und arbeitete akribisch daran, komplexe, kraftvolle Dynamiken mit ungewöhnlichen klassischen Instrumenten zu verweben. **Technical Death Metal**, **Blackened Death Metal** und **Avantgarde-Metal**. "4th Attempt: Deathgaze" basiert vollständig auf einer weitläufigen, Lovecraft-inspirierten Science-Fiction-Erzählung und wirkt, als würde man in einen furchterregenden Abgrund der Tiefseegräben gesogen, in dem uralte Schrecken lauern. Titel wie "Plunge Into The Abyss" und "Devoured by Darkness" schwelgen heftig in Themen wie Wahnsinn, Identitätsverlust und absoluter kosmischer Angst. Klanglich gelingt der Band ein unglaublich kreativer Kunstgriff: Unter die eisigen Blastbeats und brutalen Gitarrenriffs weben sie wunderschöne, schimmernde Klangschichten aus einer Live-Harfe, einem Akkordeon und einer Marimba ein. Es ist schwindelerregend, wunderschön feindselig und herrlich verstörend.
 
-::genre::tech death metal, avant metal, deathgaze, blackened death metal
+::genre::tech death metal, avant metal, doomgaze, blackened death metal
 
 ### Hyena/Risingfall - Heavy Metal Heroes Split
 

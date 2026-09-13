@@ -18,7 +18,7 @@ Ein einzigartiges Kollektiv, bekannt für seine Gentleman’s Club Ästhetik. Na
 
 Ein Projekt mit Joost Verhagen (Gesang/Synthesizer) und Wouter Schaatsbergen (Gitarre/Viola), das im Zeitalter der KI auf rohe, authentische Musik setzt. **Experimenteller Metal**, der **Sludge**, **Doom**, **Post-Metal**, **Free Jazz** und **Drone** miteinander verbindet. Der Name der Band leitet sich von einer klassischen Suite der *Van der Graaf Generator* ab. Wenn du schon immer wissen wolltest, wie eine existenzielle Krise klingt, wenn sie ein 20-minütiges Ritual wäre, dann hast du es hier. Es ist Outrage-Porn für die Ohren, der hypnotische Wiederholungen mit überwältigenden Ausbrüchen von Chaos vermischt. Es ist heavy genug, um deinen Schädel zum Beben zu bringen, enthält aber auch eine Shruti-Box und eine Viola, was das Ganze wie eine sehr laute, sehr wütende Yoga-Session in einem Leuchtturm wirken lässt.
 
-::genre::experimental metal, sludge, doom, post metal, free jazz, drone
+::genre::experimental metal, sludge metal, doom metal, post metal, free jazz, drone
 
 ### Abigail Lapell - Shadow Child
 
@@ -614,7 +614,7 @@ Ein kraftvolles Quartett, bestehend aus Sylvain Auclair, Sébastien Cloutier, Th
 
 Ein vierköpfiges Progressive-Kollektiv, das sich von einem rauen Djent-Sound zu etwas weitaus Melodischerem und Atmosphärischerem entwickelt hat. Sie verweisen auf einen disruptiven Ansatz im Metal, bei dem Helligkeit, Verträumtheit und Hoffnung Vorrang vor traditionellen bösen Metal-Klischees haben. **Atmosphärischer Djent** / **Progressive Metal** / **Alt-Pop**. Das Album zeichnet sich durch seine helle Atmosphäre aus, in der sich komplexe, groovige Riffs mit klarem, makellosem Gesang und sogar gelegentlicher Spoken-Word-Poesie vermischen. Diese Platte ist wie ein Hightech-Sonnenaufgang. Sie ist technisch komplex, fühlt sich aber irgendwie so leicht und flüchtig an wie ein Sommermorgen in Stockholm. Es ist eine in Musik eingefangene kathartische Erinnerung - die die Kluft zwischen Headbangen und einem tief empfundenen Seufzer überbrückt.
 
-::genre::djent, prog metal, atmo metal, alt metal
+::genre::djent, prog metal, post metal, alt metal
 
 ### Khôra, Mas Aya - Primordial Mind
 
@@ -938,7 +938,7 @@ Die 2017 gegründete Band stand bereits mit *Orange Goblin* und *Mondo Generator
 
 Nachdem ihn sein Durchbruchshit "Until I Found You" zu einer Retro-Pop-Ikone gemacht hat, entfernt sich Sanchez nun von dem Troubadour-Charakter der 1950er Jahre, den er auf seinem Debütalbum "Angel Face" verkörperte. Für dieses Album lässt er sich vom Motown-Soul der 1960er Jahre und der Agape-Liebe (bedingungslose Liebe für die gesamte Menschheit) inspirieren, die er dem Film "Selma" und *Dr. Martin Luther King Jr.* verdankt. **Moderner Retro-Pop** / **Soul**. Während er seinen charakteristischen Crooner-Stil beibehält, ist der Sound technicolor-artiger und beschwingter als bei seinen früheren Werken. Wenn Sie schon immer einmal hören wollten, wie es klingt, sich zu verlieben, während man buchstäblich durch einen Regenbogen spaziert, dann ist dies genau das Richtige. Es ist lebhaft, optimistisch und unglaublich eingängig. Es tauscht den Herzschmerz der 50er gegen die hoffnungsvollen Grooves der 60er Jahre ein und ist damit der ultimative Soundtrack für alle, die noch an die guten alten Zeiten der Romantik glauben.
 
-::genre::retro soul, alt pop, prog pop
+::genre::neo soul, alt pop, prog pop
 
 ### Still Living - Ashes
 
@@ -1046,7 +1046,7 @@ Unter der Leitung des geheimnisvollen *Miles Newbold* erlangte dieses Projekt Be
 
 Das sind echte Veteranen, die seit über 35 Jahren im Geschäft sind. Mit dabei sind Größen wie Sänger Magnus Ekwall (*Ayreon*) und Bassist Roger Nilsson (*Spiritual Beggars*/*Arch Enemy*). **Heavy Retro Rock** / **Stoner Metal**. Ihr Sound ist ein musikalischer Dialog zwischen Hardrock-Giganten der 70er Jahre wie *Black Sabbath* und *Deep Purple*, gemischt mit der rauen Schärfe des **Grunge** und **Stoner Rock** der 90er Jahre. Dieses Album ist heavy, ohne plump zu sein. Es fängt einen dunkleren, atmosphärischeren Ton ein als ihre früheren Werke und lässt Licht und Dunkelheit den Fluss bestimmen. Es ist die Art von Platte, die sich schon beim ersten Hören wie ein Klassiker anfühlt - solide, groovig und von einer zeitlosen Kraft getragen, die beweist, warum sie Meister ihres Fachs sind.
 
-::genre::hard rock, heavy rock, proto heavy metal, stoner metal
+::genre::hard rock, heavy rock, proto metal, stoner metal
 
 ### The Violet Twilight - Between the Colours and Me
 

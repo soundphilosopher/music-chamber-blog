@@ -44,7 +44,7 @@ Das Projekt aus Chicago um Mark Solotroff, das seit Jahren extrem lange Stücke 
 
 Ein Projekt mit einem Namen, der jede Feierlichkeit sabotiert, und einem Titel, der sie sofort wieder einfordert. **Black Metal**, **Pagan Metal** und **Blackened Thrash**. Rohe Gitarren, gekeuchte Vocals und ein Schlagzeug, das nach vorne prügelt. Hisst die Fahne, aber lacht ruhig dabei! Das Album verhandelt alte Götter mit einer erfrischenden Respektlosigkeit gegenüber der eigenen Szene — die Ernsthaftigkeit liegt in der Musik, nicht in der Pose. Klanglich bleibt alles angenehm ungeschliffen, mit einer Produktion, die den Dreck stehen lässt und dem Ganzen viel Unmittelbarkeit gibt. Die Stücke sind kompakt, mit klaren Riffs und gelegentlichen Ausflügen ins Melodische, die überraschend gut sitzen. Zwischen den schnellen Nummern stehen zwei schwere, marschierende Stücke mit ordentlich Atmosphäre. Ein ehrliches, gut gelauntes und trotzdem grimmiges Album. Macht Freude.
 
-::genre::black metal, pagan metal, blackened thrash
+::genre::black metal, pagan metal, blackened thrash metal
 
 ### Arcanum 14 - Wichapi Win
 
@@ -248,7 +248,7 @@ Ein Projekt, dessen Name nach Schmuckladen klingt und dessen Titel den Verfall g
 
 Die deutsche Band, die seit Jahren zwischen ungeschöntem Pathos und ziemlich trockenem Humor pendelt und beides ernst meint. **Indie Rock**, **Deutschrock** und **Post Punk**. Drängende Gitarren, ein Gesang mit Sprung in der Stimme und Texte, die keine Metapher scheuen. Zieht euch an, was ihr wollt, es fällt sowieso auf! Das Album stellt schon im Titel zwei Haltungen gegeneinander — Trauer und Trotz, Schwarz und Bunt — und weigert sich konsequent, sich für eine zu entscheiden. Musikalisch bleibt vieles griffig und direkt, mit Refrains, die für große Räume gebaut sind, und Strophen, die deutlich mehr Kanten haben. Textlich geht es um Abschied, um Freundschaften, die den Ernstfall überstehen müssen, und um die Frage, wie man angemessen traurig ist. Zwischen den lauten Stücken stehen sehr stille Momente. Ehrlich, mitreißend und angenehm unpeinlich.
 
-::genre::indie rock, deutschrock, post punk, alt rock
+::genre::indie rock, post punk, alt rock
 
 ### Justin Hawkes - Now or Never
 
@@ -266,7 +266,7 @@ Das Projekt des französischen Keyboarders Vivien Lalu, das progressiven Metal t
 
 Ein Projekt, das sich nach der Familie der Würger benennt — jener Vögel, die ihre Beute auf Dornen spießen — und ein selbstbetiteltes Debüt vorlegt. **Post Metal**, **Blackgaze** und **Atmospheric Sludge**. Weite Gitarrenschichten, ferne Schreie und Ausbrüche, die man kommen sieht und trotzdem nicht abfängt. Schaut genau hin, das ist schöner als es sollte! Das Album lebt von diesem Widerspruch zwischen Zartheit und Grausamkeit, den schon der Name mitbringt: Es gibt lange, fast lieblich schimmernde Passagen, die dann ohne Vorwarnung in etwas ausgesprochen Brutales kippen. Die Stücke sind lang und entwickeln sich geduldig, mit einem Gesang, der eher Textur als Erzähler ist. Zwischen den dichten Abschnitten steht immer wieder Stille, die den nächsten Einsatz umso härter macht. Ein sehr geschlossenes, atmosphärisch starkes Debüt mit einem hervorragenden Gespür für Dramaturgie. Wirklich stark.
 
-::genre::post metal, blackgaze, atmo sludge, post rock
+::genre::post metal, blackgaze, atmo sludge metal, post rock
 
 ### Lipoma - Infernal Wounds of Ravenous Flesh
 
@@ -428,13 +428,13 @@ Ein Projekt mit einem Namen wie ein Nagel und einem selbstbetitelten Album, das 
 
 Das norwegische Projekt von Hoest, seit Jahrzehnten eine der eigenwilligsten und unbeugsamsten Stimmen des heimischen Black Metal. **Black Metal**, **Raw Black Metal** und **Blackened Thrash**. Sägende Tremolo-Riffs, gekeuchte Schreie und ein Schwung, der eher aus dem Rock'n'Roll kommt als aus der Kirche. Zieht euch was Warmes an, der Wald ist voll! Das Album stellt seinen Titel als Bild auf — ein ganzer Wald aus Schmähpfählen — und das passt zu einer Musik, die vor allem eines ist: unversöhnlich. Hoest bleibt bei dem, was Taake auszeichnet, nämlich diesem eigentümlichen Zug zwischen Kälte und Groove, der die Stücke trotz aller Rohheit erstaunlich mitreißend macht. Zwischen den rasenden Passagen stehen schleppende, fast folkige Abschnitte mit ordentlich Atmosphäre. Ein grimmiges, selbstbewusstes und hervorragend gespieltes Album. Kompromisslos wie eh und je.
 
-::genre::black metal, raw black metal, blackened thrash
+::genre::black metal, raw black metal, blackened thrash metal
 
 ### Tabernakel - Scheintaufe
 
 Ein Projekt mit sakralem Namen und einem deutschen Titel, der die Taufe gleich als Täuschung entlarvt. **Black Metal**, **Blackened Doom** und **Dark Ambient**. Rohe Gitarren, ferne Schreie und Passagen, in denen nur noch Orgel und Hall übrig bleiben. Tretet ein, aber glaubt nichts davon! Das Album nimmt sich religiöse Rituale vor und behandelt sie als leere Form — es geht nicht um Blasphemie im plakativen Sinn, sondern um Zeremonien, die niemand mehr trägt. Musikalisch wechselt es zwischen rasenden Black-Metal-Passagen und ausgedehnten, fast liturgischen Abschnitten, in denen die Zeit stehen bleibt. Die deutschen Texte sind sparsam gesetzt und gerade dadurch wirksam. Zwischen den harten Stücken stehen ambiente Zwischenspiele, die wie leere Kirchenräume klingen. Ein düsteres, sorgfältig gebautes Album, das seine Wirkung aus Atmosphäre statt aus Härte zieht. Sehr stimmig.
 
-::genre::black metal, blackened doom, dark ambient
+::genre::black metal, blackened doom metal, dark ambient
 
 ### talker - Runaway Jane
 
@@ -470,7 +470,7 @@ Unter der Leitung des legendären und äußerst einflussreichen Gitarristen Vini
 
 Die Band besteht aus Mitgliedern, die historisch mit Pionieren des frühen Punk und Doom-Metal wie The Stooges und Pentagram verbunden sind, was ihren Ruf als Vertreter aggressiven, ungefilterten Rock’n’Rolls festigt. Eine hochoktanige Kollision aus **Punkrock**, **Hardrock** und **Proto-Heavy-Metal**. Schnallt euch an, denn "Another Drop" ist ein unerbittlicher, lederjackentragender Klangangriff, der mit der Wucht eines außer Kontrolle geratenen Güterzugs voranschreitet! Sie packt dich am Kragen mit schweißtreibender, rauer Energie und rasanten Gitarrenriffs. Wenn du deinen Rock ’n’ Roll laut, völlig ungeschliffen und vor Attitüde nur so strotzend magst, bietet dir diese Platte einen unverzichtbaren Platz in der ersten Reihe bei einem Old-School-Keller-Krawall.
 
-::genre::proto heavy metal, proto punk rock, hard rock, heavy rock
+::genre::proto metal, proto punk rock, hard rock, heavy rock
 
 ### The Old Regime - A Great Weight
 

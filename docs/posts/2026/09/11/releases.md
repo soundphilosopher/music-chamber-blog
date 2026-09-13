@@ -46,7 +46,7 @@ Das Projekt von Gabriel Palacio, das seit Jahren an der Schnittstelle von Maschi
 
 Die finnischen Blasphemiker sind seit 1989 aktiv und legen ihr sechstes Album bei *Debemur Morti Productions* vor — die Band, die den bestialischen Flügel des Black Metal mit einer bemerkenswerten Sturheit verteidigt. **Black Metal**, **War Metal** und **Blackened Death Metal**. Dröhnende Tremolo-Wände, Drums wie Artilleriefeuer und Growls aus einem sehr tiefen Loch. Dreht auf und rechnet nicht mit Melodie! Archgoat haben ihren Sound nie modernisiert und müssen es auch hier nicht: Die Stücke sind kurz, direkt und komplett auf Wirkung gebaut, ohne Zwischenspiele, ohne Atmosphäre-Interludes, ohne irgendeine Form von Höflichkeit. Der Titel spielt mit der doppelten Lesart der Lichtbringer-Figur, und die Platte behandelt das entsprechend als Frage von Umkehrung, nicht von Nuance. Wer die Band kennt, weiß genau, was kommt — und bekommt es in einer besonders kompakten, gut klingenden Ausführung. Für Neueinsteiger denkbar ungeeignet, für alle anderen genau richtig.
 
-::genre::black metal, war metal, blackened death metal, bestial black metal
+::genre::black metal, war metal, blackened death metal
 
 ### Bloc Party - Anatomy of a Brief Romance *
 
@@ -58,7 +58,7 @@ Das siebte Album der Londoner, das erste seit *Alpha Games* von 2022 — und das
 
 Das zweite Album der Death-Doom-Truppe aus Barcelona, erschienen bei *Night Terrors Records*, auf Kassette bei *Noxious Ruin* und auf CD bei *Hecatombe Records*. **Death Doom Metal**, **Funeral Doom**, **Sludge** und **Crust Punk**. Zäher, erdrückender Grundton, in den immer wieder eine sehr punkige Feindseligkeit einbricht. Räumt Zeit ein, sechs Stücke reichen hier völlig! Die Texte sind komplett auf Katalanisch geschrieben und gesungen und schöpfen aus der Geschichte, Folklore und den makabren Begebenheiten Kataloniens und Barcelonas — *Escorxador*, *Calvari (Dels Condemnats)* und *Ànima D'Acer* sind keine zufällig gewählten Titel. Musikalisch ist das ein ungewöhnlich gut austariertes Gemisch: Die Funeral-Doom-Passagen ziehen das Tempo auf nahezu Stillstand, während die Crust- und Sludge-Anteile für einen Dreck sorgen, der die Platte davor bewahrt, feierlich zu werden. Wer zur Vinyl-Erstauflage greift, bekommt ein sechzehnseitiges Fanzine auf Englisch und Katalanisch dazu. Kompromisslos und regional verwurzelt.
 
-::genre::death doom metal, funeral doom, sludge, crust, death metal
+::genre::death doom metal, funeral doom, sludge metal, crust, death metal
 
 ### Bogwrought - Apocalypse
 
@@ -196,7 +196,7 @@ Das sechste Album der niederländischen Band, erschienen bei *Eisenwald*, Nachfo
 
 Die zweite LP des Quartetts aus Brooklyn, erschienen bei *Brutal Panda Records* auf farbigem Vinyl, Kassette, CD und digital. Aufgenommen von Matt Russell (*REZN*, *Oozing Wound*), gemischt und gemastert von Matt Ibarra im STR in San Diego; das Artwork stammt von Sänger Hugh Potter selbst. **Noise Rock**, **Punk Rock** und **Post Hardcore**. Schmutzige Gitarren, verzerrte Vocals und ein zäher Midtempo-Druck, der sich nicht abschütteln lässt. Schließt die Tür ab, das ist keine angenehme Gesellschaft! Die Platte beschwört den Bodensatz des alten New York — Straßenstrich, Schutt und Verfall, Drogen an jeder Ecke und in jeder Aktentasche eine geladene Waffe. Stücke wie *Strung Out*, *Passed Around*, *When Sex Is Not Enough* und *Man Was Meant To Take Advantage* verarbeiten Gefängnisgewalt, Bondage, Voyeurismus und Menschenhandel, ohne sich moralisch darüber zu stellen und ohne daran Gefallen zu finden. Unangenehm, laut und konsequent. Genau so soll Noise Rock klingen.
 
-::genre::noise rock, punk rock, post hardcore, sludge
+::genre::noise rock, punk rock, post hardcore, sludge metal
 
 ### From The Vastland - Servant Of Ahriman
 
@@ -376,7 +376,7 @@ Das sechste und ausdrücklich letzte Album von John Mitchells Projekt, erschiene
 
 Die selbstbetitelte Debüt-EP, am 11.09. bei *Caligari Records* erschienen — vier Stücke: *The Fable*, *Holy Bile*, *All Alone* und *Hellhole*. Die Band formierte sich im Winter 2023 als Zusammenschluss von Leuten aus *Wørsen*, *Galactoid* und dem Umfeld von Bellicose Records. **Black Metal**, **Punk Rock** und **Noise Rock**. Eine wilde Formel aus Black Metal, Punk und Noise Rock, wie es die Band selbst nennt — und genau so klingt es auch. Anmachen, das beißt! Aufgenommen wurde Anfang 2026 im Peace Corp Audio, gemastert hat Will Killingsworth in den Dead Air Studios, was für diese Ecke der amerikanischen Untergrundszene so etwas wie ein Gütesiegel ist. Bei vier Stücken bleibt kein Raum für Aufbau: Die EP fällt mit der Tür ins Haus und ist vorbei, bevor man sich sortiert hat. Genau das ist die Absicht. Roh, kurz und richtig unangenehm — im besten Sinne.
 
-::genre::black metal, punk rock, noise rock, blackened punk
+::genre::black metal, punk rock, noise rock, blackened hardcore
 
 ### Maik Krahl - Rain, Flowers and New Beginnings
 
@@ -388,7 +388,7 @@ Der deutsche Trompeter und Komponist legt bei *Challenge Records* ein ausgesproc
 
 Zum fünfundzwanzigjährigen Bestehen legt die Band ein selbstbetiteltes Album vor — zwölf Songs, zum größten Teil selbst produziert und aufgenommen. **Deutschpunk**, **Punk Rock** und **Alternative Rock**. Kraftvolle Gitarren, deutsche Texte und ein Songwriting, das den Refrain nie aus den Augen verliert. Mitsingen, das ist dafür gemacht! Die Band sagt selbst, das Album sei zu hundert Prozent Massendefekt, und genau deshalb trage es keinen anderen Titel. Was auffällt: Es ist ausdrücklich kein nostalgischer Rückblick auf fünfundzwanzig Jahre, sondern ein Statement über Freundschaft, Überzeugung und das gemeinsame Nachvornschauen. Zwischen dem Punkrock stehen nachdenkliche Momente, Humor und deutliche politische Positionierungen, ohne dass eines das andere ausbremst — Freundschaft, Beziehungen, Sehnsucht und klare Haltung als dieselbe Angelegenheit behandelt. Nach einem Vierteljahrhundert und etlichen Alben klingt die Band hier bemerkenswert ungebremst. Ehrlich und mitreißend.
 
-::genre::deutschpunk, punk rock, alt rock
+::genre::punk rock, alt rock
 
 ### Megaton Communion - Three Of Cups
 
@@ -418,7 +418,7 @@ Das zweite Album der österreichischen Death-Metal-Band, Nachfolger von *Percept
 
 Das fünfte Studioalbum der griechischen Band, erschienen bei *ViciSolum Productions* — zehn Stücke, deren Titel fast alle mit demselben Artikel beginnen und so eine geschlossene Reihe bilden: *The Wound*, *The War*, *The Aftermath*, *The Innocent*, *The Ascent*, *As One*, *The One*, *The Circle*, *The Sun* und *Death*. **Progressive Metal**, **Alternative Metal** und **Post Metal**. Vielschichtige Arrangements, dynamische Brüche und ein Gesang, der die Stücke trägt statt sie zu überfahren. Nehmt euch Zeit, das entfaltet sich langsam! Die Platte ist aus der Spannung zwischen Verwüstung und Trotz heraus entstanden und verbindet textlich amerikanische Dichter des 19. mit griechischen Dichtern des 20. Jahrhunderts — über die gemeinsamen Themen Krieg, Tod und Ewigkeit. Das Album markiert zugleich einen Einschnitt: Schlagzeuger George Boukaouris, seit 2008 dabei, hat die Band verlassen und wurde durch Produzent Ektoras Tsolakis ersetzt. Die Vorabsingles *The Wound* und *The Innocent* geben die Richtung gut vor. Düster, durchdacht und sehr geschlossen.
 
-::genre::prog metal, alt metal, post metal, atmo metal
+::genre::prog metal, alt metal, post metal
 
 ### MP - Reborn
 
@@ -460,7 +460,7 @@ Neun Stücke bei *Den Tapes*, entstanden nach der Rückkehr der Band nach Seattl
 
 Das zwölfte Studioalbum der Band, erschienen in Lizenz bei *Aggressive Punk Produktionen* — zwölf Songs, vierzig Minuten, nach über fünfunddreißig Jahren Bandgeschichte. **Deutschpunk**, **Punk Rock** und **Rock'n'Roll**. Deutsche Texte, gerade Riffs und ein Songwriting, das seine Wurzeln nie verleugnet hat. Bier auf, Fenster auf, mitsingen! Die Band selbst nennt *Schöne raue Welt* eines ihrer vielseitigsten Alben, und die Titelliste gibt ihr recht: Zwischen *Halbmast*, *Cattenom*, *Milgram* und *Turn off the news* auf der einen und *Ganz nah bei dir*, *Ich will da bleiben* und *Mein Wohnzimmer* auf der anderen Seite liegt die ganze Spannbreite zwischen politischer Ansage und Wohnzimmerwärme. *Cattenom* und *Milgram* zeigen dabei am deutlichsten, dass hier jemand seine Themen nicht zufällig wählt. Musikalisch mischt die Band weiterhin Punkrock mit Rock'n'Roll, ohne dass daraus Routine wird. Nach dreieinhalb Jahrzehnten immer noch ungebrochen.
 
-::genre::deutschpunk, punk rock, rock'n'roll
+::genre::punk rock, rock'n'roll
 
 ### Pretty Sick - Anarchy
 
@@ -758,7 +758,7 @@ Das erste Album des Trios aus Ulm nach dem Demo vom Februar 2025, am 05.09. bei 
 
 Das zweite Album der schwedischen Band, am 10.09. bei *Suicide Records* erschienen — elf Stücke, durchweg auf Schwedisch. **Hardcore Punk**, **Crust** und **D-Beat**. Kompromissloser Hardcore, D-Beat und Extreme Metal in einem, gespielt mit einer Härte, die körperlich wird. Aufdrehen, das trifft! Was die Platte von vielem in diesem Genre unterscheidet, ist ihre Innenperspektive: Es geht um Sterblichkeit, Trauer, psychischen Zusammenbruch, Krankheit, Hilflosigkeit und Selbstzerstörung, und zwar als zutiefst persönliche Themen — was sie zur intimsten Veröffentlichung der Band macht. Titel wie *Jag har rätt att förstöra mig själv* und *Vad är det för fel på mig?* lassen daran keinen Zweifel. Wo Crust sonst nach außen zielt, zielt diese Platte nach innen, ohne dabei an Druck zu verlieren. Ein ehrliches, deprimierendes und körperlich sehr wirksames Album — treffender kann man es kaum sagen.
 
-::genre::hardcore punk, crust, d-beat, crustcore
+::genre::hardcore punk, crust, d-beat
 
 ### Lýsis - At the Edge of Existence
 
@@ -782,7 +782,7 @@ Eine überraschend veröffentlichte EP der kanadischen Band, am 09.09. bei *Seek
 
 Das Album der Sängerin, Songwriterin und Produzentin, am 10.09. bei Human Re Sources erschienen — zwölf Stücke, produziert von Oscar Scheller, den man von seiner Arbeit mit *PinkPantheress*, *Charli XCX* und *Rina Sawayama* kennt. **Contemporary R&B**, **Alternative Pop** und **Art Pop**. Glasklare Produktion, verspielte Arrangements und eine Stimme, die zwischen Coolness und Albernheit keine Grenze zieht. Aufdrehen, das ist zum Grinsen gemacht! Der Titel verweist auf die Attitude Era des amerikanischen Wrestlings der späten Neunziger — eine Referenz, die den Ton der Platte gut trifft: nostalgisch, verspielt und mit einer Angriffslust, die nie ganz ernst gemeint ist. Nach eigener Aussage zeigt sie sich hier so ungefiltert wie nie zuvor, und Schellers Produktion gibt ihr dafür den richtigen Rahmen: bunt, aber nie überladen. Pop für alle, die das Schräge am Popleben lieben. Macht großen Spaß.
 
-::genre::contemporary r&b, alt pop, art pop, r&b
+::genre::r&b, alt pop, art pop
 
 ### Paenil Era - A Wilting Fountain *
 

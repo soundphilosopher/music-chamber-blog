@@ -12,7 +12,7 @@ categories:
 
 Das neueste Release vom britischen Producer Dennis Huddleston aka 36. Ein theatralisch-träumerisches Werk des Ambient, welches analoge Synthesizer in Frequenzen der Nacht verwandelt und ein imaginären Soundtrack der Nachtwanderung widerspiegelt.
 
-::genre::ambient, cine synth
+::genre::ambient, dark synth
 
 ### Above, Below - I Guess It Was Nowhere
 
@@ -24,7 +24,7 @@ Die australische Formation mit ihrem Sophomore Release. Modern Progressive Metal
 
 Die Kapelle aus Amerika mit ihrem sechsten Longplayer in ihrer Discography. Die Spielwiese wird mit vielen Stationen gespickt. Psych-Country, Krautrock, Avant-Folk, Psych-Rock, Avant-Jazz und Fusion. Allerhand zum Experimentieren. Das Songwriting selber hat keine Probleme alle Zutaten zu einem wundervollen Klangerlebnis zu bilden.
 
-::genre::desert noir, psych country, psych rock, avant folk, krautrock, avant jazz, prog rock, prog folk
+::genre::desert noir, cosmic country, psych rock, avant folk, krautrock, avant jazz, prog rock, prog folk
 
 <!-- more -->
 
@@ -308,7 +308,7 @@ Das neueste Werk der amerikanischen Multi-Instrumentalistin. Ein imaginärer Sou
 
 Die finnische Legende mit seinem neuen Solo-Longplayer. Hier vereinen sich Ex-Mitglieder von Hanoi Rocks, New York Dolls und The Black Holes und genau danach wirkt das Songwriting auch. Eine Melange aus Glam-Punk, Hard Rock und Sleaze wird in Form gebracht, was die Generation Spandex und Haarspray mit Sicherheit abholen wird, so wie die 77er Punk-Generation.
 
-::genre::glam punk, proto pop punk, sleaze, hard rock
+::genre::glam punk, pop punk, sleaze rock, hard rock
 
 ### Midori Hirano - Otonoma
 
@@ -476,7 +476,7 @@ Die britische Formation mit ihrem neuesten Output. Ein Menü aus Technical Thras
 
 Das neueste Studioalbum der britischen Kapelle. Ein energiereiches Werk zwischen Indie-Rock, 70s Pop-Punk, Garage Rock und Alt-Rock. Das Songwriting bleibt auch in den eher melancholischen Momentan hoch energiereich und wirkt nostalgisch erfrischend, ohne Konservativ zu wirken, sondern mit Fokus auf Veränderung.
 
-::genre::indie rock, proto pop punk, garage punk, alt rock
+::genre::indie rock, pop punk, garage punk, alt rock
 
 ### The Green Apple Sea - Dark Kid
 

@@ -464,7 +464,7 @@ tbd
 
 Die britischen Glam Punker mit ihrem aktuellen Album. Sleazy im Goth-Outfit arrangierter Glam Punk, mit catchy Refrains und lazy Songwriting.
 
-::genre::glam punk, sleaze, proto pop punk
+::genre::glam punk, sleaze rock, pop punk
 
 ### Hangfire - Burn
 
@@ -608,7 +608,7 @@ Die Ukrainer mit ihrem neuesten Streich. Atmospheric Post-Black-Metal, welcher s
 
 Die Kalifornierin beeindruckt mit einem neuen “Longplayer”. Sie selbst hat ihre Kreation mal Drone Pop getauft. Man läuft allerdings auch nicht verkehrt, wenn man ihre Kompositionen dem Krautrock zuweist. Ich mag den kurzweiligen Output irgendwie.
 
-::genre::drone pop, krautrock
+::genre::ambient pop, krautrock
 
 ### Leif Berger - S̶e̶c̶r̶e̶t̶, Normalization
 

@@ -38,13 +38,13 @@ Zur Besetzung gehören Rylee McDonald (Gesang/Gitarre/Keyboard), Mike Lofgreen (
 
 Alexis Martin ist ein erfahrener Veteran mit 30 Jahren Erfahrung als Schlagzeuger, Perkussionist und Komponist für Film und Fernsehen. Um seine erste formelle Ensemble-Vision zum Leben zu erwecken, stellte er ein Dreamteam aus kanadischen Jazz-Talenten zusammen, darunter die Pianistin Emie R. Roussel und der Kontrabassist Mathieu Désy. Samtiger **Modern Jazz** / **Jazz-Noir** / **Instrumental**, geprägt von filmischen Klangtexturen, zarten Klaviermotiven und tiefen Holzbläsern. Schenken Sie sich einen heißen Kaffee ein und beobachten Sie den Regen draußen, denn diese Platte ist ein wortloser Film für Ihre Ohren. "Les pôles Volume 1" ist eine unglaublich sanfte, texturreiche Jazzreise, die sich elegant und zutiefst menschlich anfühlt. Martin behandelt Stille und Raum wie echte Instrumente und lässt die Klavierakkorde und wehmütigen Cellomelodien in einem fortwährenden Mitternachtsdialog atmen. Sie ist stimmungsvoll, äußerst raffiniert und fungiert als perfekter Soundtrack für die späten Abendstunden, um der lauten modernen Welt zu entfliehen.
 
-::genre::modern jazz, jazz noir, instrumental
+::genre::modern jazz, noir jazz, instrumental
 
 ### alt. - Nevermoree
 
 Die aufstrebende fünfköpfige Alternative-Band hat sich schnell zu einer festen Größe in der hart umkämpften australischen Heavy-Metal-Szene entwickelt. Bekannt für ihr dramatisches Sounddesign und ihre technische Präzision, haben sie dieses konzeptionelle Album um schwere Themen wie die Bewältigung innerer Trauer und existenzielle Angst herum aufgebaut. Dunkler, cineastischer **Alternative Metal** / **Nu-Metalcore** / **Post-Hardcore**, geprägt von schweren, atmosphärischen Elektronikklängen, aggressiven Gitarrenriffs und hochfliegenden melodischen Refrains. "Nevermore" ist eine wunderschön düstere, adrenalingeladene Achterbahnfahrt, die einem direkt in die Brust trifft. Die Band verbindet meisterhaft die erdrückende Wucht moderner Metalcore-Breakdowns mit einer raffinierten, neongetränkten Atmosphäre, die einen völlig in ihren Bann zieht. Frontmann Daniel Cullen-Richards wechselt nahtlos von tiefen, markerschütternden Schreien zu radiotauglichen Pop-Hooks. Es ist theatralisch, brillant laut und das absolut perfekte Album, um in einem dunklen Raum aus voller Kehle mitzuschreien.
 
-::genre::modern metalcore, nu metalcore, modern post metalcore
+::genre::modern metalcore, nu metalcore
 
 ### Altin Sencalar - Natural Rhythm
 
@@ -122,7 +122,7 @@ Christian Dillingham ist ein mit dem Grammy ausgezeichneter Bassist, der sich so
 
 Die Band, die sich neben Gruppen wie *Crashdïet* und *H.E.A.T.* zu einer tragenden Säule der aktuellen schwedischen Hardrock-Revival-Szene entwickelt hat, besteht aus John Elliot (Gesang), Ludwig Nordlander (Gitarre), Asser Hakala (Gitarre), Lucky (Bass) und Samuel Samael (Schlagzeug). Hochspannungs-**Sleaze-Metal** / **Melodic Hard Rock**, vollgepackt mit dröhnenden, arena-tauglichen Refrains, rasanten Gitarrensoli und der rauen Street-Attitüde der 1980er Jahre. Holen Sie Ihre Lederjacken aus dem Schrank, schnappen Sie sich das Haarspray und drehen Sie Ihre Lautsprecher auf, bis sie zu rauchen beginnen! "Metalmorphosis" ist eine absolute Abrissbirne aus 80er-Jahre-Metal-Nostalgie, die mit moderner, makelloser Produktionskraft hart zuschlägt. Frontmann John Elliot liefert eine beeindruckende Performance, unterstützt von einem Twin-Gitarren-Angriff, der sich mit vollendeter, unverfälschter Selbstsicherheit durch Tracks wie Colorvision pflügt. Es ist ungeniert laut, extrem eingängig und ganz darauf ausgelegt, aus voller Kehle mitzuschreien.
 
-::genre::sleaze metal, melo rock, hard rock
+::genre::sleaze rock, melo rock, hard rock
 
 ### Crown Lands - Apocalypse
 
@@ -278,7 +278,7 @@ Aufgenommen, abgemischt und gemastert vom erfahrenen Underground-Toningenieur Jo
 
 *For Breakfast* ist ein dynamisches 7-köpfiges Musikkollektiv, das seit 2020 aktiv ist. Angeführt von der markanten, samtigen Stimme von Maya Harrison besteht die Band aus den Multi-Instrumentalisten Sam Birkett, Joe Thompson, Omar Zaghouani, Gail Tasker, Eden Harrison und Will Eckersley. Sie sind dafür bekannt, traditionelle Blech- und Holzblasinstrumente sowie jazzige Klangtexturen mit tosenden Gitarren-Freakouts zu kombinieren. **Folk-Rock**, experimenteller **Art-Rock**, **Jazz-Noir** und **Post-Rock**. Man stelle sich eine Frontalkollision zwischen *Black Country*, *New Road*, dem Improvisationsgeist von *Wilco* und der melancholischen Schönheit von *Portishead* vor. "Longer than Spring" anzuhören ist wie die Teilnahme an einer sehr eleganten Dinnerparty, die langsam in eine wunderschön chaotische Kissenschlacht ausartet. In einem Moment schwebt Maya Harrisons wunderschöner, rauchiger Gesang träge über sanften Jazz-Bläserklängen und sanftem Kammerpop; im nächsten drückt die gesamte 7-köpfige Band ihre Verzerrerpedale durch und stürzt einen in eine glorreiche Wand aus lauter, postrockiger Raserei. Das gesamte Album spielt ein brillantes Spiel des emotionalen Tauziehens zwischen absoluter Ruhe und purer Panik. Es ist unvorhersehbar, atemberaubend und wird einen auf die bestmögliche Weise benommen zurücklassen.
 
-::genre::psych rock, prog rock, art rock, jazz noir, post rock
+::genre::psych rock, prog rock, art rock, noir jazz, post rock
 
 ### Frontline - Rebirth
 
@@ -410,7 +410,7 @@ Die Band besteht aus Jacob Barna (Gesang), Ian Bennett (Gitarre), Noah Sautner (
 
 Jeff Parker, vor allem bekannt als virtuoser Gitarrist der Post-Rock-Größen Tortoise, ist eine tragende Säule der modernen kreativen Musik. Sein seit langem bestehendes ETA IVtet besticht durch eine herausragende Besetzung mit dem Schlagzeuger Jay Bellerose, der Bassistin Anna Butterss und dem Saxophonisten Josh Johnson. Minimalistischer **Soul-Jazz**, **avantgardistische Improvisation** und **Post-Rock**. Beeinflusst von hypnotischer Groove-Architektur, loopartigen Live-Synkopen und formbrechendem **Ambient-Jazz**. Wenn du deine Gehirnwellen komplett glätten lassen willst, hat Jeff Parker die ultimative Klangmassage für dich parat. Bestehend aus nur zwei ausufernden, seitenlangen Improvisationsstücken, begleitet "Happy Today" die Band auf ihrem Weg von einem winzigen Mikro-Club in einen Saal mit 500 Plätzen, ohne auch nur einen Hauch ihrer dichten, telepathischen Intimität zu verlieren. Es klingt wie eine Jazzband, die zufällig herausgefunden hat, wie man die Zeit verlangsamt, und dich in einer beruhigenden Schleife aus warmen Basslinien und butterweichen Gitarrenakkorden gefangen hält, aus der du niemals entkommen möchtest.
 
-::genre::avant jazz, soul jazz, ambient jazz, improvisation
+::genre::avant jazz, modern jazz, ambient jazz, improvisation
 
 ### John Pachnos - John Pachnos
 
@@ -572,7 +572,7 @@ Die Band wurde Anfang der 2010er Jahre von Frontmann und Hauptsongwriter Jacob T
 
 Ein kraftvolles experimentelles Duo, bestehend aus dem Schlagzeuger Andee Connors (von *A Minor Forest*) und dem Synthesizer-Spieler und Sänger Marc Kate (von *I Am Spoonbender*). **Experimenteller Synth-Doom**, apokalyptischer **Industrial**, **Ambient-Drone** und psychedelischer **Noise**. Beeinflusst von düsterer kosmischer Zerstörung und Dark-Ambient-Klanglandschaften. Wenn du glaubst, dass Doom Metal laute E-Gitarren erfordert, wird dieses Album deine Realität komplett erschüttern. Das Duo tauscht traditionelle Metal-Waffen gegen übersteuerte, wall-of-sound-artige Synthesizer und urwüchsiges, krachendes Schlagzeug aus. Tracks wie "Whispers In Dead Languages" fühlen sich an wie eine Fahrt im Zeitlupen-Aufzug direkt hinab in ein Schwarzes Loch. Es ist ein unglaublich schweres, kunstvoll-verzerrtes und wunderschön-erschreckendes Stück apokalyptischen Noises, das deine Lautsprecher an ihre absoluten Grenzen bringen wird.
 
-::genre::industrial doom, noise, ambient, drone
+::genre::industrial metal, noise, ambient, drone
 
 ### Mýa - Restrospect
 
@@ -902,7 +902,7 @@ Das Quartett besteht aus Olivia Garner, John Morales, Dustin Pilkington und Dani
 
 *Towa Bird* begann im Alter von 12 Jahren E-Gitarre zu spielen und erlangte als TikTok-Gitarrenvirtuosin eine riesige Fangemeinde, bevor sie den Durchbruch schaffte und als Vorband für Stars wie Olivia Rodrigo auftrat. **Alternative Pop**, **Femme-Punk** und **Indie-Rock** mit kraftvollen Classic-Rock-Gitarrenriffs. Die Einflüsse auf dem Album reichen vom drahtigen Post-Punk von *Bloc Party* und *Paramore* bis zum druckvollen Disco-Punk von *Le Tigre* und *Bikini Kill*. *Towa Bird* ist darauf aus, das Patriarchat zu entführen, und sie tut dies in einem schicken Nadelstreifenanzug. Auf "Gentleman" spielt sie mit Geschlechterrollen, indem sie männliche Ritterlichkeit in eine queere Hymne roher, selbstbewusster Verführung umkehrt. Untermalt von schwindelerregenden Gitarrensoli und tanzbaren Beats verwandelt sie Texte über schweißtreibende, sinnliche Romantik in absolute Pop-Punk-Perfektion. Es ist frech, selbstbewusst und absolut mitreißend.
 
-::genre::indie rock, alt pop, disco punk
+::genre::indie rock, alt pop, dance punk
 
 ### Twelve - Be careful what you don't wish for
 

@@ -248,7 +248,7 @@ Die amerikanische Kapelle mit ihrem Debüt Full-Length. Ein melodisches Melodram
 
 Das neueste Full-Length des amerikanische Singer & Songwriters, Producers und Multi-Instrumentalisten Mike Cadoo. Die Musik auf "Particle" wird als Ambient-Techno mit industriellen Klängen und kraftvollen Beats beschrieben. Sie schlägt eine Brücke zwischen dem frühen postindustriellen IDM und zeitgenössischeren, zurückhaltenderen elektronischen Formen.
 
-::genre::ambient, idm, ibm, ambient techno
+::genre::ambient, idm, ibm, deep techno
 
 ### Ego Ella May - Good Intentions
 
@@ -764,7 +764,7 @@ Das aktuelle Solo-Outlet des amerikanischen Multi-Instrumentalisten Chris Beachy
 
 Das amerikanische Outfit mit seinem neuesten Full-Length. Statt ihrer experimentellen Art und Weise, setzten sie mit diesen Release eher auf ein Mainstrem-Freundlichen Sound, mit Songs, welche die 5 Minuten-Grenze nicht überschreiten. Ich mochte den experimentelleren Weg mehr, allerdings wird dieses hier definitiv mehr in die Kassen spülen. Das Songwriting bildet eine Fusion aus Blues, Soul, Southern Rock, Alternative Rock, Alternative Funk und Progressive Soul.
 
-::genre::blues, soul, southern rock, alt rock, alt funk, prog soul
+::genre::blues, soul, southern rock, alt rock, funk, prog soul
 
 ### The Dear Hunter - Sunya
 
@@ -800,7 +800,7 @@ Das russische Duo mit seinem neuesten Longplayer. Verletzliche, gefühlvolle Tex
 
 Die neueste kollaborative Improvisation des nordischen Kollektives bestehend aus den norwegischen Jazz-Bassisten Thomas Markusson, den norwegischen Jazz-Trompeter Arve Henriksen und den norwegischen Percussionisten Helge Andreas Norbakken bietet eine düstere, theatralische Installation. Ein einmaliges Erlebnis, welches Ambient Jazz, Dark Jazz, Experimental Electronica und Nu Classic.
 
-::genre::ambient jazz, dark jazz, experimental electronica, nu classic
+::genre::ambient jazz, dark jazz, experimental electronica, neo classic
 
 ### Tusmørke - Balderdom
 
@@ -942,7 +942,7 @@ Das Debüt der Formation aus Philly. In klassischer Form wird eine Mixtur aus Ma
 
 Das Debüt Full-Length der portugisischen Formation. Ein energiegeladenes und nostalgisches Werk des Garage Punk, welches Elemente des Power Pop, Proto Pop Punk und Surf Punk in sich vereint. Die lyrische Untermalung ist mit der passenden politischen Energie versehen, so dass das Tempo immer hoch bleibt und die Attitüde einen klaren Mittelfinger in die Gesellschaft zeigt.
 
-::genre::proto pop punk, garage punk, power pop, surf punk
+::genre::pop punk, garage punk, power pop, surf punk
 
 ### Sophie May - Stars and Teeth
 

@@ -348,7 +348,7 @@ Die kalifornische Kapelle mit ihrem neuesten Release. Durch die Ohren wird eine 
 
 Die italienische Formation mit ihrer neuesten EP. Gestartet wird das Release mit einer Art Melange aus Melo-Pop und Melo-Jazz. Die weiteren Kompositionen sind dann dem Djent zuzuordnen, was dem Start irgendwie die Experimentalität wieder entzieht, da in den Djent-Kompositionen kein Bezug mehr auf die Melo-Thematiken, wie auch Jazz genommen wird.
 
-::genre::mellow pop, mellow jazz, djent
+::genre::mellow pop, smooth jazz, djent
 
 ### Vesseles - Home
 

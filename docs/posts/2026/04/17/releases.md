@@ -230,7 +230,7 @@ Das 2023 gegründete Quintett hat sich in zwei Jahren auf Tourneen mit Bands wie
 
 Die Band, bestehend aus Mitgliedern der mexikanischen Rockband *QBO* und der in Washington, D.C. ansässigen Gruppe *Fellowcraft*, entstand während einer spontanen Session auf dem SXSW 2022. **Grunge** / **Stoner Doom**. Sie knüpft an die Schwergewichte der 90er Jahre wie *Alice in Chains* und *Soundgarden* an, fügt aber einen doomigen Twist und psychedelische Harmonien hinzu. Das ist starke Medizin für die Seele. Entstanden aus der Angst nach der Pandemie, ist sie roh und rau, schafft es aber dennoch, mit gewaltigen Melodien zu beflügeln. Es ist, als würde man eine Schatzkarte finden, die mitten im Moshpit versteckt ist.
 
-::genre::post grunge, alt rock, stoner rock, doom, psych rock
+::genre::post grunge, alt rock, stoner rock, doom metal, psych rock
 
 ### Den Syvenda Son - Ti Skridt Fra Livet
 
@@ -260,7 +260,7 @@ Das 2017 als Duo gegründete Projekt hat sich aus der Underground-Szene emporgea
 
 Ein 2019 gegründetes Power-Trio mit Mitgliedern von *Spidergawd*. Dies ist ihr drittes Album in voller Länge. **Stoner Rock** / **Hard Rock** / **Heavy Metal**. Fans von *High on Fire*, *Motörhead* und *Black Sabbath* werden sich bei ihrer massiven Wall of Sound und den heruntergestimmten Riffs sofort zu Hause fühlen. Dieses Album schlägt ein wie ein ernsthaft wütender Bewohner von Asgard, der mit einem Hammer zuschlägt. Es ist dicht, gewalttätig und kompromisslos heavy. Wenn ihr nach einem Soundtrack für die Apokalypse sucht - oder einfach nur nach einem sehr intensiven Samstagabend -, dann habt ihr ihn gefunden.
 
-::genre::stoner rock, doom, hard rock, heavy rock
+::genre::stoner rock, doom metal, hard rock, heavy rock
 
 ### Drew Wesely - Silence Is a Sharpened Blade
 
@@ -302,7 +302,7 @@ Ein Projekt, das hauptsächlich aus *Neil Rudd* und *John Barrett* besteht. **El
 
 Ein Quartett (Jesse Jones, Jacob Jolliff, Max Allard und Craig Butterfield), das in etwas mehr als zwei Jahren vier Alben veröffentlicht hat. **Zeitgenössische Kammermusik** / **Experimenteller Bluegrass**. Man denke an Saitenzauberei, die die Grenzen des Genres auslotet, ähnlich wie bei *Béla Fleck*. Eine verspielte und technisch atemberaubende Darbietung jugendlicher Prahlerei. Es ist komplex, skurril und bietet genug supersonische Mandolinen- und Banjo-Triolen, um einem den Kopf zu verdrehen, doch es verliert nie sein fröhliches, folkiges Herz.
 
-::genre::prog bluegrass, experimental bluegrass, chamber pop, americana
+::genre::prog bluegrass, chamber pop, americana
 
 ### Fast Money Music - Fast Money Music
 
@@ -434,7 +434,7 @@ Als Ikone der Underground-Szene hat sie sich von Clubnächten als Teenagerin zum
 
 Unter der Leitung von *Rob Lane* kehrte die Band 2022 nach einer 14-jährigen Pause zurück und präsentierte eine theatralische, kostümreiche Live-Show. **Comedy-Groove-Metal**, der die Riffs von *Pantera*/*Lamb of God* mit dem Humor von *Tenacious D* und *GWAR* verbindet. Absolutes theatralisches Chaos. Mit Songs über Krisen im Bereich der öffentlichen Gesundheit wie Binge-Drunk-Driving und das Verspeisen von Spielzeugeisenbahnen ist es ebenso dumm wie heavy. Es ist eine Geldverschwendung, bei der man sich tatsächlich großartig fühlt - man stelle sich eine Mischung aus Moshpits und Monty Python vor.
 
-::genre::comedy metal, groove metal
+::genre::alt metal, groove metal
 
 ### I'm With Her - Sing Me Alive
 
@@ -512,7 +512,7 @@ Als aufstrebende Stars der Bassdrop-Szene haben sie sich 2020 gegründet und 202
 
 Die 2008 gegründete Band hat sich mit sechs bisherigen Studioalben zu einem festen Bestandteil der europäischen Prog-Szene entwickelt. **Progressive Rock** und **Neo-Prog** mit cineastischen, atmosphärischen Klangteppichen. Das ist Prog in seiner ambitioniertesten Form - zehn Titel (plus Intros), die sich mit der menschlichen Zerbrechlichkeit auseinandersetzen. Es ist eine fesselnde, stimmungsvolle Reise, die zwischen komplexer Musikalität und emotionalen Höhenflügen wechselt. Wenn du Rock mit einer Prise tiefer Selbstreflexion und atemberaubenden Gastsoli magst, ist dies genau das Richtige für dich.
 
-::genre::prog rock, neo prog
+::genre::prog rock, neo prog rock
 
 ### Kathryn Mohr - Carve
 
@@ -800,7 +800,7 @@ Gegründet im Jahr 2014, inspiriert von einer Folge der Serie *Rozwell Kids*, si
 
 Eine Supergroup norwegischer Stars. *Hemsing* ist ein renommierter Geiger für Klassik und Volksmusik; *Eick* ist ein gefeierter Jazztrompeter (ECM Records); *Raknes* ist Kontrabassist; und *Isungset* ist bekannt für seine Ice Music und sein Schlagzeugspiel. Klassischer **Crossover** und **Jazz**. Hier verschmelzen traditionelle norwegische Volksmusik (die Hardangerfiedel) mit atmosphärischem Jazz und improvisierten Klangtexturen. So klingt es, wenn die Nordlichter beschließen, eine Jazzband zu gründen. In einem Moment ist es mitreißend rhythmisch, im nächsten eindringlich filmisch. Wenn Sie das Gefühl haben möchten, bei Tagesanbruch mit einer Tasse exquisiten Kaffees an einem Fjord zu stehen, ist dies Ihr Soundtrack.
 
-::genre::jazz fusion, northern folk, crossover jazz, atmo jazz
+::genre::jazz fusion, nordic folk, nu jazz, ambient jazz
 
 ### Raid2 - Uncorrect
 
@@ -950,7 +950,7 @@ Eine 21-jährige, klassisch ausgebildete Geigerin, die sich zum **Dark-Pop**-Wun
 
 *Pamart*, bekannt als erster Solopianist, der große Arenen ausverkauft hat, hat seine Karriere darauf aufgebaut, das Klavier für die Streaming-Generation wieder cool zu machen. Er verbindet **klassisches Klavier** mit **filmischen Klanglandschaften** und **Hip-Hop**-Einflüssen. Ganz im Sinne seines Namens ist "MOVIE" ein Erlebnis im Breitbildformat. Es ist elegant, dramatisch und klingt genau wie der Soundtrack zu einem Film, den man bei einer Mitternachtsvorstellung an einem regnerischen Abend in Paris sehen würde. Es ist das ultimative Vibe-Album für alle, die sich wie der Protagonist ihres eigenen Lebens fühlen wollen.
 
-::genre::modern classic, nu classic, solo piano, ambient, experimental electronica
+::genre::modern classic, neo classic, solo piano, ambient, experimental electronica
 
 ### Sotabosc - El Batec dels Maquis
 

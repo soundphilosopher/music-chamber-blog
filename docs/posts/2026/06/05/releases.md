@@ -776,7 +776,7 @@ Ein raues, eiskaltes Alternative-Metal-Duo aus den Tiefen des finnischen Undergr
 
 Ein äußerst erfolgreiches, in den Charts ganz oben platziertes Electronic-Rock-Kollektiv aus Melbourne, Australien. Die 2002 vom Produzenten James Ash gegründete Gruppe entwickelte sich Mitte der 2000er Jahre unter der Führung ihrer Frontfrau Natalie Bassingthwaighte zu einem absoluten Multi-Platin-Phänomen. "Midnight Alarms" markiert einen bedeutenden, historischen Meilenstein als erstes neues Studioalbum der Band seit fast zwei Jahrzehnten. **Electro-Punk**, **Dance-Rock**, **Synth-Pop** und **Eurodance**. Hol deine Leuchtstäbe aus dem Schrank und mach dich bereit für absolute Höchstlautstärke, denn die Rogue Traders sind zurück, um die Tanzfläche zurückzuerobern. "Midnight Alarms" fängt genau die hochoktanige Energie eines vollgepackten, schweißgetränkten Nachtclubs um 2:00 Uhr morgens ein. Das Album explodiert mit massiven, summenden Synthesizer-Basslines, druckvollen Rock-Drums und Bassingthwaightes charakteristischem, wild selbstbewusstem Gesang, der deine Füße zum Tanzen zwingt. Die Themen tauchen ein in nächtliche zwischenmenschliche Verbindungen, Eskapismus und das Überstehen des Chaos des Lebens mit einem Lächeln - es ist ein spektakuläres, unprätentiöses Party-Album.
 
-::genre::edm, idm, electropunk, disco punk, synth pop
+::genre::edm, idm, electropunk, dance punk, synth pop
 
 ### Rosa Walton - Tell Me It's A Dream
 

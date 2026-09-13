@@ -434,7 +434,7 @@ tbd
 
 Die Kollaboration zwischen den ukrainischen Produzenten und der klassischen ukrainischen Sängerin bietet eine glaubens trächtige Komposition des Drone-Ambient mit klassischen slawischen Gesang.
 
-::genre::ukraine folk, ambient, drone
+::genre::ukrainian folk, ambient, drone
 
 ### Hilltops Are For Dreamers - A Soulless Drive
 

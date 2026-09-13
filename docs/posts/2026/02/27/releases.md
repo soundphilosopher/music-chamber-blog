@@ -116,7 +116,7 @@ Die deutsche Formation mit ihrem neuesten Full-Length Output. Das erste Release,
 
 Das neueste Werk des amerikanischen Singer & Songwriters. Nach gut 10 Jahren Release-Hiatus ist der renommierte Künstler wieder zurück mit neuen Material. Eine Melange aus Retro Soul, Chamber Jazz, Disco und R6B. Dabei legt der Künstler wieder viel auf den Retro Sound und Songwriting.
 
-::genre::soul, r&b, latin soul, chamber jazz, disco
+::genre::soul, r&b, latin jazz, chamber jazz, disco
 
 ### Buck Meek - The Mirror
 
@@ -302,7 +302,7 @@ Das dritte Release in der Discography der Italiener und Italienerinnen. Heavy Ro
 
 Das neueste Studioalbum des renommierten amerikanischen Jazz-Trompeters. Ein sehr intimes Werk des Post Bop, welches Strukturen von Neo Bop, Nu Jazz und Contemporary Jazz zu einer sehr einprägsamen Gesamt-Komposition vereint.
 
-::genre::post bop, neo bop, nu jazz, contemporary jazz, jazz fusion
+::genre::post bop, nu jazz, contemporary jazz, jazz fusion
 
 ### Joel Hoekstra's 13 - From The Fade
 
@@ -374,7 +374,7 @@ Die Kollaboration zwischen den neuseeländischen Jazz-Pianisten Mark de Clive-Lo
 
 Das britische Trio mit seinem neuesten Longplayer. Ein sludg-y, wie melodisches Gewitter des Post Metal, welches mit Elementen des Prog-Rock, Prog-Metal, Doom Metal und Psych-Metal versehen wurde. Das Songwriting hat eine enorme Spanne und weiß immer die korrekten Akzente hervorzuheben um einen eleganten Hörgenuss zu erhalten.
 
-::genre::post metal, atmo sludge, sludge metal, prog metal, prog rock, psych metal, doom metal
+::genre::post metal, atmo sludge metal, sludge metal, prog metal, prog rock, psych metal, doom metal
 
 ### Mek Na Ver - Noctivaga
 
@@ -452,7 +452,7 @@ Das Sophomore Release der polierten Amerikaner. Einreihen tut sich die junge For
 
 Die italienische Formation mit ihrem Debüt Longplayer. In Abwesenheit von Gitarren wurde ein avantgardistisches Werk des Drone, Doom Metal und Blackened Doom alleinig mit Drums, Gesang und der Dualität von clean und fuzzy Bass eingespielt. Menschen, welche ein Herz für experimentellen Doom habe, kommen hier voll auf ihre Kosten.
 
-::genre::doom metal, blackened doom metal, drone, avant doom
+::genre::doom metal, blackened doom metal, drone, avant metal
 
 ### Paul Gilbert - WROC
 

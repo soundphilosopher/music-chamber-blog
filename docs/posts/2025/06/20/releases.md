@@ -260,7 +260,7 @@ tbd
 
 Das Neo-Jazz-Trio aus Manchester mit ihrem neuesten Werk. Die Fusion von Neo-Klassischen Elementen, Jazz und pop-y Songwriting fügt sich gut in die Gehörgänge, erzeugt bei mir allerdings gleichzeitig eine Art der Langeweile.
 
-::genre::neo classic, modern jazz, pop jazz
+::genre::neo classic, modern jazz, vocal jazz
 
 ### Greg Foat, Forest Law - Midnight Wave
 
@@ -1062,7 +1062,7 @@ tbd
 
 Das Neo-Jazz-Trio aus Manchester mit ihrem neuesten Werk. Die Fusion von Neo-Klassischen Elementen, Jazz und pop-y Songwriting fügt sich gut in die Gehörgänge, erzeugt bei mir allerdings gleichzeitig eine Art der Langeweile.
 
-::genre::neo classic, modern jazz, pop jazz
+::genre::neo classic, modern jazz, vocal jazz
 
 ### Graham Coxon - Castle Park
 

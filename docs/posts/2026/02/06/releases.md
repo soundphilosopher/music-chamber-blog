@@ -24,7 +24,7 @@ Das italienische Outfit mit seiner Debüt EP. Die Alternative Metaller vereinen 
 
 Das Debüt des amerikanischen Trios, welches sich Ulysses von James Joyce im Songwriting und Lyrics vornimmt. Entstanden ist ein existentiell-avantgardes Werk des Sludge? So einfach ist es leider nicht. Hier wird eine Fusion von Noise, Experimental Black Metal, NOLA Sludge, Post-Punk und DIssonant Death Metal geliefert. Elementar werden auch Elemente des Ambient, Post-Rock und Mathcore mit einbezogen, so dass die Gesamt-Komposition von Abwechslung nur so strotzt.
 
-::genre::avant sludge, avant black metal, post punk, dissonant death metal
+::genre::prog sludge, avant black metal, post punk, dissonant death metal
 
 <!-- more -->
 
@@ -272,7 +272,7 @@ Die Vervollständigung zu ihrem letzten Release Lov. Wieder wurden die Kompositi
 
 Das Sophomore Release des europäischen Kollektives. Experimentell werden Industrial, Noise, Electronica, EDM, Club Beat, Dance-Punk, Dance-Core und Post-Punk zu einer extravaganten, wie auch avantgarden Komposition komponiert. Die französischen Lyrics geben dem Gesamtwerk das gewisse Extra mit. Ein Werk zwischen Tanz und Protest.
 
-::genre::industrial, noise, electronica, edm, club beat, dance punk, dancecore, post punk
+::genre::industrial, noise, electronica, edm, club pop, dance punk, post punk
 
 ### Mané Fernandes - sQuigg: playground_etiQuette
 
@@ -302,7 +302,7 @@ Das Debüt der kanadischen Formation bildet ein Experiment in sich selbst. In de
 
 Das finnische Trio mit seinem Sophomore Output. Das Gesamtwerk bildet eine Melange aus Post-Sludge, Psychedelia, Funeral Folk, Desert Rock und Drone. Die Instrumentalisierung wirkt dabei sehr erfrischend-experimentell. Der Gesang hingegen kann nur an bestimmten Stellen diese Freude am Experiment erfüllen.
 
-::genre::post sludge metal, psych metal, funeral folk, desert rock, drone
+::genre::post sludge metal, psych metal, dark folk, desert rock, drone
 
 ### Night Of The Vampire - The Enchanting Winds Of The Dreamweaving Masquerade
 

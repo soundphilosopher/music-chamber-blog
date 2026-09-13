@@ -62,7 +62,7 @@ tbd
 
 Die französische Spiritual-Soul-Jazzerin mit ihrem neuesten Werk. Eine Reise durch Soul, Pop, Elemente des Jazz und indigene Instrumentalisierungen, welche die spirituelle Welt in voller Farbe abbildet.
 
-::genre::spiritual soul, alt pop, spiritual jazz
+::genre::psych soul, alt pop, spiritual jazz
 
 ### Balu Brigada - Portal
 
@@ -368,7 +368,7 @@ tbd
 
 Die Kollaboration zwischen Singer & Songwriter Jon Secada und dem Jazz-Pianisten Gonzalo Rubalcaba bringt dem Ohr soul-y Kompositionen des Latin-Jazz mit starken Kubanica-Einflüssen.
 
-::genre::latin jazz, latin soul
+::genre::latin jazz
 
 ### Joseph Shabason, Nicholas Krgovich, Tenniscoats - Wao
 

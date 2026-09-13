@@ -218,7 +218,7 @@ tbd
 
 Genre: Classical Guitar Jazz
 
-::genre::classic guitar, contemporary jazz, world music
+::genre::solo guitar, contemporary jazz, world music
 
 ### Double Vision - Double Vision
 

@@ -62,7 +62,7 @@ Die neueste Kollaborationsarbeit des renommierten kanadischen Jazz-Saxophonisten
 
 Der profilierte amerikanische Gitarrist mit seinem neuesten Solo-Output. Eine instrumentelle Reise durch Loops von Gitarren und Effekten, welche in minimaler Form eine Melancholie erwecken. Eine dystopische Symphonie des Experimental Rock, welche Elemente des Desert Rock, Art Rock, Post Minimalism und Modern Blues in sich fusionieren lässt.
 
-::genre::desert rock, art rock, post minimalism, modern blues, prog rock, instrumental
+::genre::desert rock, art rock, post minimalism, blues, prog rock, instrumental
 
 ### Blind Revolution - Far From The Sun
 
@@ -80,7 +80,7 @@ Die finnische Formaation mit ihrem neuesten Longplayer. Aggressiver, no-nonsense
 
 Das Debüt des britischen Quartetts. Eine hoch nostalgische Komposition aus Garage Rock, Post Grunge, Alt Rock, Proto Pop Punk und Power Pop. Das ist sehr 90s-Inspired in Richtung Grunge, mit einer entsprechenden Attitüde der ewig mit sich schwingenden Melancholie, welche hier aber durch Power Pop und Garage Rock Elemente immer wieder aufgelockert wird,
 
-::genre::power pop, post grunge, alt rock, garage rock, proto pop punk
+::genre::power pop, post grunge, alt rock, garage rock, pop punk
 
 ### Bound in Fear - A Mind too Sick to Heal
 
@@ -146,13 +146,13 @@ Der britische Producer Ed Upton macht schon seit gut 30 Jahren des dunklen Tanzf
 
 Die Kollaboration zwischen den amerikanischen Rapper Chaz Hall (E L U C I D) und den schweizerischen Producer Sebb Bash bietet eine experimentelle und expressionistische Melange aus Hip Hop, Experimental Rap, Boom Bop, Post Bop, Prog Rap und Spoken Words. 
 
-::genre::acid jazz, hip hop, experimental rap, spoken words, jazztronica, boom bap, post bop
+::genre::acid jazz, hip hop, alt hip hop, spoken words, jazztronica, boom bap, post bop
 
 ### Enzo Favata, Fabio Giachino, Pasquale Mirra, Marco Frattini - Paucartambo *
 
 Das Kollektiv um den italienischen Jazz-Saxophonisten Enzo Favata mit der thematischen Fortsetzung von "The Crossing" (2021) und der Erkundung trans-globalen Jazz. Hier werden ethnische Wurzeln mit elektronischen Elementen verbunden. In faszinierenden Kleinstreisen werden World Music, Jazztronica, Jazz Rock, Art Rock, Avant Jazz und Cosmic Rock zu einem einzigartigen Hörvergnügen kombiniert.
 
-::genre::modern jazz, jazztronica, jazz rock, art rock, avant rock, medi jazz, world music, cosmic rock
+::genre::modern jazz, jazztronica, jazz rock, art rock, avant rock, medi jazz, world music, space rock
 
 ### Eric Cantona - Perfect Imperfection
 
@@ -338,7 +338,7 @@ Das amerikanische Outfit mit seinem neuesten Longplayer, welcher eher einer EP g
 
 Der dritte Longplayer in der Discography des amerikanischen Singer & Songwriters. Eine klanglich experimentierfreudige Mischung aus sonnendurchflutetem Funk, Disco und Cosmic Soul. Sie verbindet Live-Instrumentierung mit ambitionierten Kompositionen, geprägt von Jazz- und R&B-Grooves.
 
-::genre::neo soul, r&b, disco, acid funk, cosmic soul, nu jazz
+::genre::neo soul, r&b, disco, acid funk, psych soul, nu jazz
 
 ### Lia Pappas-Kemps - Winged
 

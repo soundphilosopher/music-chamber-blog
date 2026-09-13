@@ -266,7 +266,7 @@ Ein gefeiertes Indie-Folk-Duo, bestehend aus Jack Griffiths und Oliver Wilde. Be
 
 Eine Schlagzeug-Ikone mit sieben Jahrzehnten Erfahrung, bekannt für seine legendären Jazz-Funk-Grooves in Herbie Hancocks Band *The Headhunters*. Hier leitet er ein All-Star-Quintett mit den Jazz-Größen Eddie Henderson (Trompete), Patrice Rushen (Klavier), Craig Handy (Saxophon) und Essiet Okon Essiet (Bass). **Hard Bop**, **Post-Bop**, **East-Coast-Jazz** und **avantgardistische Swing**-Rhythmen. Diese Platte wirkt wie eine Meisterklasse auf höchstem Niveau, bei der die Regeln rein optional sind. Sie wechselt blitzschnell von unglaublich präzisen, treibenden Swing-Rhythmen zu völlig freien, unvorhersehbaren Klangexperimenten, ohne dabei auch nur einen Tropfen Schweiß zu vergießen. Sie ist herrlich schrullig, brillant vielschichtig und strotzt nur so vor einer schelmischen Energie, die die Ohren ständig im Ungewissen lässt, welcher Groove als Nächstes auf sie wartet.
 
-::genre::hard bop, post bop, avant jazz, avant swing
+::genre::hard bop, post bop, avant jazz, swing
 
 ### Negative Frame - Break The Ice
 
@@ -450,7 +450,7 @@ Ein überaus talentierter Sänger, Songwriter und Produzent, dessen unglaubliche
 
 Ein herausragender Elektronik-Produzent der britischen Underground-Clubszene, der unter dem Dach des hoch angesehenen Elektronik-Labels Omni Music tätig ist. **Atmosphärischer Drum and Bass**, **Future Jungle**, **Liquid Funk** und tiefgründige, strukturierte elektronische Loops. Getreu seinem majestätischen Titel fühlt sich das Anhören dieser Platte genau so an, als würde man durch eine neonbeleuchtete Nebelwolke schweben, während in der Ferne eine hyperschnelle Rhythmusgruppe widerhallt. Der Produzent verwebt auf perfekte Weise unglaublich sanfte, ambientartige Synthesizer-Wolken mit knackigen, hyperaktiven Jungle-Drum-Loops und hallenden Anomalien aus dem Weltraum. Er lehnt vorübergehende Musiktrends aus den sozialen Medien gänzlich ab und nimmt sich alle Zeit der Welt, um über lange instrumentale Klanglandschaften hinweg einen immersiven, filmischen Rückzugsort zu erschaffen. Es ist eine wunderschöne, zutiefst hypnotische Meisterleistung der energiegeladenen Elektronik.
 
-::genre::atmo d&b, jungle, liquid funk
+::genre::atmo d&b, jungle
 
 ### CH Rom - Computers of Earth
 

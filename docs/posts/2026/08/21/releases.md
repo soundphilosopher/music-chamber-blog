@@ -212,7 +212,7 @@ Gegründet im Jahr 2019 von den Underground-Multiinstrumentalisten Grushenka Ød
 
 Eine gefeierte britische Songwriterin, die drei Jahre damit verbrachte, ihre Beziehung zu Instrumenten und zur Therapie völlig neu zu definieren. Für die Entstehung dieses Albums holte sie den Produzenten Pete Miles sowie den Jazz-Arrangeur Matthew Herd mit ins Boot, um reichhaltige Bläserelemente einzubinden. **Psych-Folk**, zeitgenössischer englischer Folk, alternativer **Ambient-Akustik**-Sound und **Chamber Rock**. Inspiriert von Laura Marling. Dieses Album klingt genau wie ein stiller, nebelverhangener Mitternachtsspaziergang auf einer kurvenreichen Landstraße, auf der das einzige Geräusch das ferne Vogelgezwitscher ist. Moss verbindet filigranes, zartes Fingerpicking auf der klassischen Gitarre mit schwungvollen Bläsern und einem Gesang, der sich wie ein zerbrechliches, wunderschönes Flüstern in einem leeren Raum anfühlt. In Titeln wie "Sarah Waiting in the Car" und "Clothes in a Hotel Sink" behandelt das übergreifende Thema emotionale Heilung nicht als einfaches Ziel, sondern als einen komplizierten, chaotischen Prozess. Es ist wunderschön, tragisch und perfekt, um aus einem regennassen Zugfenster hinauszuschauen.
 
-::genre::psych folk, chamber rock, ambient acoustic
+::genre::psych folk, ambient acoustic
 
 ### Escapeinout - The Age Of Collapse – As Above, So Below
 
@@ -290,7 +290,7 @@ Eine energiegeladene, äußerst aktive vierköpfige britische Indie-Band, besteh
 
 Ein seit langem bestehendes, hoch angesehenes Indie-Ensemble unter der Leitung des Hauptsängers und Songwriters Ben Crum. Die seit 2000 aktive Gruppe nahm ihr neuestes Projekt hauptsächlich in Memphis auf und holte dabei neben festen Mitwirkenden wie Kevin Shea und Suzanne Nienaber eine ganze Reihe von Gast-Multi-Instrumentalisten aus der lokalen Szene mit ins Boot. **Indie-Rock**, **Alternative-Pop**, **Neo-Psychedelia**, **Folk-Rock** und **Jangle-Pop**. Das Anhören dieser Platte fühlt sich genau so an, als würde man eine verlorene Kiste mit alten Kassetten aus dem College-Radio der Mitte der 90er Jahre entdecken, die auf einem trockenen Dachboden perfekt erhalten geblieben sind. Die Band hüllt den Hörer in eine unglaublich warme, behagliche Decke aus glockenspielartigen Akustikgitarren, luftigen Gesangsharmonien und sanften Bläserklängen. Getreu dem beunruhigenden Titel unternimmt das Songwriting einen beobachtenden, poetischen und leicht sarkastischen Streifzug durch alltägliche psychische Lähmung, das Älterwerden und die absurde Paranoia moderner Isolation. Es ist clever, wunderbar melodisch und wie geschaffen für eine Fahrt bei Sonnenuntergang im Spätsommer.
 
-::genre::indie pop, jangle pop, neo psych, indie folk, psych folk
+::genre::indie pop, jangle pop, neo psych rock, indie folk, psych folk
 
 ### Guiding Light - Fear On My Own Time
 
@@ -560,7 +560,7 @@ Eine hochtechnische Underground-Metal-Band, die dafür bekannt ist, rohe Geschwi
 
 Ein äußerst rätselhaftes, rasantes Projekt, das tief in den Mikro-Genres der Internet-Netlabels verwurzelt ist. Bekannt sind sie für unberechenbare digitale Audio-Payloads und textlastige, atmosphärische Noise-Experimente. **Avantgarde-Noise**, **Dark Ambient**, industrielle Abstraktion und struktureller **Drone**. Wenn du schon immer einmal erleben wolltest, wie sich eine riesige industrielle Computerfabrik anhört, während sie langsam schmilzt und in Code vor sich hin schreit, dann ist diese Platte genau das Richtige für dich. Sie verzichtet gänzlich auf traditionelle Elemente wie Strophen oder radiotaugliche Hooks. Stattdessen verwöhnt sie den Hörer mit einer gewaltigen Landschaft aus glitchigen Audio-Texturen, mechanischer Reibung und schwerem statischem Brummen. Das übergeordnete Thema thematisiert absolute mentale Isolation und eine tiefe Entfremdung von der Realität und bietet eine zutiefst faszinierende, chaotische Geräuschwand für nächtliches Anstarren der Wand.
 
-::genre::avant noise, dark ambient, drone, ibm
+::genre::experimental noise, dark ambient, drone, ibm
 
 ### Skies Above - Degrees of Separation
 
@@ -708,7 +708,7 @@ Eine engagierte, eng verbundene britische Progressive-Band, bestehend aus den Gi
 
 Ein hochtechnisches und atmosphärisches Kollektiv, das eng mit der vielfältigen südamerikanischen Progressive-Musikszene verbunden ist und für den Vertrieb mit spezialisierten Labels zusammenarbeitet. **Progressive Rock**, **Neo-Psychedelia**, symphonischer **Art-Rock** und instrumentale **Jazz-Fusion**. Dieses epische Album entfaltet sich wie eine weitläufige, farbenprächtige Reise durch eine endlose Wüstenlandschaft, in der die Sanddünen gänzlich aus wirbelnden Synthesizern und komplexen Gitarrensoli bestehen. In langen, filmischen Instrumentalstücken baut die Gruppe gewaltige Berge aus symphonischen Klängen auf, die sanft in zarte akustische Räume übergehen. Das zentrale Thema zeichnet eine weitläufige, mystische Odyssee durch Einsamkeit und Naturwunder nach und verzaubert Ihre Ohren mit seinen fließenden, Grenzen sprengenden Arrangements.
 
-::genre::prog rock, neo psych, jazz fusion, jazz rock, art rock
+::genre::prog rock, neo psych rock, jazz fusion, jazz rock, art rock
 
 ### Bart - Songs from the Admin Palace
 
@@ -858,7 +858,7 @@ Eine erfahrene, gnadenlose vierköpfige niederländische Underground-Band, die i
 
 Ein melancholisches Underground-Projekt, das sich seit 2025 auf Bandcamp mit zerbrechlichen, intimen und vom Bandrauschen durchdrungenen Veröffentlichungen einen Namen gemacht hat. **Dream Pop**, **Neo-Psychedelia**, **Chamber Pop** und Lo-Fi-Singer-Songwriter. Stark inspiriert vom frühen Alex G und von Ikonen des melancholischen Bedroom-Pop. Diese Platte anzuhören fühlt sich genau so an, als säße man auf einem eiskalten Fliesenboden, eingehüllt in eine Decke, die nicht ganz groß genug ist, und würde mit sich selbst sprechen, nur um eine menschliche Stimme zu hören. Die Instrumentierung ist bewusst schläfrig gehalten und stützt sich auf wankende Gitarren und verschwommene Akustikgitarrenklänge, die sich wunderbar zerbrechlich anfühlen. Thematisch zeichnet das Album ein erschütternd treffendes Bild von stiller Resignation, Ohnmacht und der emotionalen Taubheit, die einsetzt, wenn das Leben einem den Kampfgeist raubt – und man nur noch aus einer Ecke zusehen kann, wie die Welt an einem vorbeizieht.
 
-::genre::neo psych, dreampop, bedroom pop, chamber pop
+::genre::neo psych rock, dreampop, bedroom pop, chamber pop
 
 ### threadbaron - Motherless Child *
 
@@ -882,7 +882,7 @@ Ein Indie-Underground-Kollektiv aus Nordchile, das zunehmend an Bekanntheit gewi
 
 Ein produktives, exzentrisches schwedisches Ein-Mann-Solo-Projekt. Bekannt für energiegeladene Underground-Experimente, fuzzgetränkte Elektronik und unberechenbare Genre-Übergänge (wie beispielsweise die Verwandlung klassischer Country-/Gospel-Stücke in neonfarbene Synth-Alpträume). **Synth-Punk**, **Neo-Wave**, DIY-**Garage-Punk** und Lo-Fi-Elektro-Rock. Stellt euch einen wütenden Schweden vor, der sich in einem Raum voller kaputter Synthesizer aus den 1980er Jahren und brummender Gitarrenpedale einschließt, entschlossen, Musik für eine gefährliche, dystopische Rollerdisco zu kreieren. Genau diese Stimmung herrscht hier. Es ist schnell, koffeinhaltig, unglaublich eingängig und wird komplett in wildem Schwedisch gesungen. Das Thema fungiert stolz als rebellisches Manifest, das elektronische Instrumente in rohen Punk-Räumen verteidigt. Es beweist, dass billige Synthesizer genauso dreckig, gefährlich und systemkritisch klingen können wie jede kreischende Gitarre.
 
-::genre::neo wave, synth wave, garage punk
+::genre::new wave, synth wave, garage punk
 
 ### Utilize The Remains - Meaningless Existence
 

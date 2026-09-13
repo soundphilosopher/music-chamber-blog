@@ -182,7 +182,7 @@ Delsol, ehemals die mitreißende Leadsängerin der legendären Garage-Revival-Ba
 
 Eine unglaubliche, generationenübergreifende Instrumental-Supergroup, bestehend aus dem visionären Produzenten Kenneth Blume (ehemals *Kenny Beats*), dem Keyboard-Meister Kiefer, dem groovigen Bassisten *CARRTOONS* und der Grammy-gekrönten Schlagzeug-Ikone Nate Smith. **Zeitgenössischer Jazz-Funk**, **alternativer Hip-Hop**, **brasilianische Fusion** und **Neo-Soul**. Dieses selbstbetitelte Werk, das vollständig in einem einzigen, magischen 48-Stunden-Block aus völlig improvisierten Studio-Jams aufgenommen wurde, wirkt wie ein lebhaftes klangliches Experiment. Es fängt nahtlos den absoluten Höhepunkt telepathischer musikalischer Kommunikation ein und verwebt mühelos dichte Hip-Hop-Produktionselemente mit luftigen, tropischen Jazz-Akkorden. Es strahlt eine wunderbar lockere, sonnige Energie aus, in der schwindelerregende Taktarten und warme, wummernde Basslinien in purer kreativer Harmonie miteinander verschmelzen.
 
-::genre::contemporary jazz, funk, neo soul, alt hip hop, world fusion
+::genre::contemporary jazz, funk, neo soul, alt hip hop, world music
 
 ### Finn Wolfhard - Fire From The Hip
 

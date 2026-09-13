@@ -494,7 +494,7 @@ Das amerikanische Outfit mit seinem neuesten Release. Eine „oi-rumply“ Misch
 
 Die Finnen mit neuen Material. **Experimental/Metallic Hardcore**, gemischt mit geräuschvoller **Psychedelia** und **Post-Rock**. Stell dir vor, du bist in einer wunderschönen, hallenden Höhle gefangen, während dir jemand gelegentlich über eine Wand aus verzerrten Gitarren hinweg Gedichte entgegenbrüllt. Es ist kathartisch, überwältigend und zutiefst emotional.
 
-::genre::experimental hardcore, metallic hardcore, post rock, psych rock
+::genre::noisecore, metallic hardcore, post rock, psych rock
 
 ### Relic - Crown Of Flies
 
@@ -518,7 +518,7 @@ Der renommierte amerikanische Singer & Songwriter mit seinem Sophomore Outlet. E
 
 Die Debüt EP des amerikanischen Outfits. Sie haben sich auf **Nu-Grunge** und **Cinematic Rock** spezialisiert. Sie lassen sich vom Geist des klassischen Grunge à la Soundgarden inspirieren, verbinden diesen jedoch mit einer modernen, brutal lauten Auseinandersetzung mit der Selbstfindung. Ein rauer und unruhiger Ort der Heilung. Es hat die Rauheit eines Flanellhemds aus den 90ern, aber die Produktion eines modernen Filmsoundtracks - perfekt, um mitten in einer Lebensveränderung laut mitzusingen.
 
-::genre::post grunge, cine rock, nu grunge
+::genre::post grunge, cine rock
 
 ### Schattenvald - Alle Hernach
 
@@ -656,7 +656,7 @@ Das norwegische Quartett mit seinem Debüt Full-Length. Eine düstere Mischung a
 
 Das amerikanische Quartett mit seinem neuesten Longplayer. Sie bezeichnet ihren Sound als **Twang Rock** - eine Mischung aus rauem, melodischem **Alternative Rock** und **Memphis-Blues**. Purer Spaß mit einer hammermäßigen Rhythmusgruppe und zwei Gitarren, die sich nicht scheuen, Soli zu spielen. Ein passender Name für eine Band, die ihren Sound zu etwas Kühnerem, Melodischerem und einzigartig Amerikanischem weiterentwickelt.
 
-::genre::alt rock, blues, prog punk
+::genre::alt rock, blues, art punk
 
 ### Walking Down Main - Eye of the Storm
 
@@ -690,7 +690,7 @@ Der *Avenged Sevenfold* Gitarrist mit seinem Solo-Full-Length. Es markiert eine 
 
 Das internationale Projekt unter der Leitung des Gitarrenvirtuosen Jeff Waters (Gründer der Thrash-Legenden *Annihilator*) mit dem letzten Teil ihrer "Amerikan Kaos"-Trilogie. Dies ist der energiegeladene Abschluss von Waters’ experimenteller Trilogie. Das Album ist schneller und vermittelt ein lebendigeres Gefühl als die vorherigen Teile. Freut euch auf Songs, die von politischen Kommentaren bis hin zu absoluter Albernheit reichen (wie "(I Won) The Hottie Lottery") und von erstklassigen Gitarrenklängen begleitet werden.
 
-::genre::hard rock, melo rock, heavy rock, pop metal, thrash metal
+::genre::hard rock, melo rock, heavy rock, glam metal, thrash metal
 
 ### Blasart - Depravatus Christianis Sacris
 
@@ -792,7 +792,7 @@ Die renommierte kanadische Singer & Songwriterin mit ihrer Überraschungs-EP. Ei
 
 Dieses Projekt ist tief in der italienischen "Dark Sound"-Tradition verwurzelt und verbindet **atmosphärischen Doom, Dark Wave und Progressive Rock**. Ein eindringliches, filmisches Erlebnis. Es fühlt sich an, als würde man in der Dämmerung durch ein altes italienisches Dorf schlendern, während sich die Schatten zu unwirklichen, spindeldürren Gestalten ausdehnen. Es ist unheimlich, wunderschön und fängt diese Atmosphäre von Geheimnissen in der Dunkelheit perfekt ein.
 
-::genre::prog rock, dark wave, atmo doom
+::genre::prog rock, dark wave, atmo doom metal
 
 ### Live Footage - Nature + Space *
 

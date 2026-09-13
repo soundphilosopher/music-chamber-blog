@@ -38,7 +38,7 @@ Eine britische Großformation, die den spirituellen Jazz der Sechziger nicht mus
 
 Ein Album, das seinen Titel wörtlich nimmt und Herkunft nicht als Erklärung, sondern als offene Frage behandelt. **Ambient Folk**, **Neo Classical** und **Chamber Pop**. Gezupfte Saiten, weite Nachhallräume und Melodien, die klingen, als hätte man sie schon einmal gehört. Nehmt euch Zeit, das lässt sich nicht überholen! Das Album arbeitet mit einer Geduld, die man erst mitgehen muss, bevor sie sich auszahlt: Motive kehren verändert wieder, kleine Verschiebungen entscheiden über die Wirkung, und ganze Passagen bestehen fast nur aus dem, was zwischen den Tönen liegt. Thematisch geht es um Weitergabe — um das, was man von Menschen erbt, die man nie getroffen hat, und um die Lücken, die sich dabei nie schließen lassen. Es ist eine stille, aber keineswegs harmlose Platte, die ihre Melancholie ohne jede Sentimentalität ausbreitet. Wunderbar unaufdringlich.
 
-::genre::ambient folk, neo classical, chamber pop
+::genre::ambient folk, neo classic, chamber pop
 
 ### Atmos Bloom - Everythingness
 
@@ -140,7 +140,7 @@ Ein Projekt, das aus einem Getränkenamen ein Wortspiel macht und musikalisch ge
 
 Ein Projekt mit einem Namen, der wie eine Zeile aus einem Gedicht klingt und ein selbstbetiteltes Album vorlegt, das diesen Ton hält. **Post Rock**, **Post Metal** und **Blackgaze**. Aufgetürmte Gitarrenschichten, weite Hallräume und Ausbrüche, die man kommen sieht und trotzdem nicht abfangen kann. Bleibt sitzen, es wird gleich sehr laut! Das Album arbeitet mit dem klassischen Prinzip von Anlauf und Entladung, füllt es aber mit ungewöhnlich viel Detail: In den ruhigen Passagen passiert genauso viel wie in den lauten, nur leiser. Der Titel deutet auf einen Tausch mitten in der Katastrophe hin, und tatsächlich wechseln die Stücke immer wieder unbemerkt die Perspektive. Wenn dann der große Moment kommt, wirkt er nicht wie ein Effekt, sondern wie eine Konsequenz. Ein sehr geschlossenes, beeindruckend selbstsicheres Debüt.
 
-::genre::post rock, post metal, blackgaze, atmo sludge
+::genre::post rock, post metal, blackgaze, atmo sludge metal
 
 ### Charles Lloyd - Sangam & Friends
 
@@ -188,7 +188,7 @@ Eine Zusammenarbeit über große Distanz, die in ihrem Titel den Moment festhäl
 
 Ein französisches Projekt, das Post-Metal-Schwere mit einer ungewöhnlich klaren, fast klinischen Ästhetik verbindet. **Post Metal**, **Post Rock** und **Atmospheric Sludge**. Repetitive Riffs, weite Instrumentalbögen und ein Schlagzeug, das den Puls unerbittlich hält. Stellt euch drauf ein, hier gibt es keine Abkürzung! Das Album speist die Leere seines Titels, statt sie zu füllen — die Stücke wachsen langsam, laufen über Minuten auf einen Punkt zu und lassen ihn dann bewusst unaufgelöst. Auf Gesang wird weitgehend verzichtet, was den Fokus komplett auf Textur und Dynamik verschiebt. Zwischen den massiven Passagen öffnen sich kalte, glänzende Flächen, die dem Titel seinen Schimmer geben und das Ganze davor bewahren, bloß schwer zu sein. Ein streng gebautes, konzentriertes Album für Leute, die Geduld als Teil des Hörens verstehen. Sehr stark.
 
-::genre::post metal, post rock, atmo sludge, instrumental
+::genre::post metal, post rock, atmo sludge metal, instrumental
 
 ### Divulsive - Spawned In Viscera
 
@@ -308,19 +308,19 @@ Ein Projekt, das seinen Namen aus dem Tarot bezieht und im Titel gleich eine gan
 
 Ein Album, das sich nach einem der berühmtesten Textwerke der japanischen Literatur benennt und dessen Form der Aufzählung übernimmt. **Modern Classic**, **Contemporary Classical** und **Ambient**. Sparsame Instrumentierung, präzise gesetzte Klänge und viel bewusst gelassene Stille. Setzt euch aufrecht hin, das will gelesen werden! Das Album funktioniert wie eine Sammlung von Notizen: kurze, in sich geschlossene Stücke, die keinen gemeinsamen Bogen suchen, sondern durch Haltung und Blick zusammengehalten werden. Manche dauern kaum eine Minute, andere breiten sich aus, und keines erklärt sich selbst. Die Klangsprache bleibt durchgehend zurückgenommen, mit einzelnen Instrumenten, die aus der Stille heraustreten und wieder verschwinden. Es ist Musik über Aufmerksamkeit — darüber, was man bemerkt, wenn man sich entschließt, es zu bemerken. Fein gearbeitet und überraschend berührend.
 
-::genre::modern classic, contemporary classical, ambient
+::genre::modern classic, ambient
 
 ### Joanna Mattrey, Camila Nebbia, Camilo Ángeles & Violeta García - Heavy Handed
 
 Ein internationales Quartett, das sich zu freier Improvisation zusammenfindet und dem Ergebnis einen ironisch untertreibenden Titel gibt. **Free Improvisation**, **Avant Jazz** und **Experimental**. Streicher, Bläser und erweiterte Spieltechniken, die das Instrument ständig gegen sich selbst wenden. Haltet euch bereit, hier gibt es keinen Plan! Das Album entsteht hörbar im Moment: Es gibt keine Themen, die wiederkehren, keine Form, die sich vorher abzeichnet, sondern vier Musikerinnen und Musiker, die einander sehr genau zuhören und daraus Struktur entstehen lassen. Die Dynamik reicht von kaum hörbaren Reibegeräuschen bis zu Passagen, in denen alle gleichzeitig aufdrehen — und beides wirkt gleich zwingend. Der Titel ist ein Scherz, denn so grobschlächtig ist hier gar nichts: Selbst die lautesten Stellen sind mit erstaunlicher Sorgfalt gebaut. Fordernd, lebendig und außerordentlich gut aufgenommen.
 
-::genre::free improvisation, avant jazz
+::genre::improvisation, avant jazz
 
 ### Johnny Manchild and the Poor Bastards - Side Effects
 
 Ein Projekt, das sich mit einem Bandnamen vorstellt, der schon nach schräger Bühnenshow klingt, und musikalisch genau dort ansetzt. **Art Rock**, **Theatrical Rock** und **Chamber Pop**. Klavier im Mittelpunkt, Bläsersätze und ein Gesang, der zwischen Croonen und Kreischen alles mitnimmt. Vorhang auf, der Beipackzettel ist lang! Das Album führt seine Nebenwirkungen als Revue vor: Jedes Stück ist eine eigene Nummer mit eigener Figur, eigenem Tempo und eigenem Ausbruch, zusammengehalten von einer durchgehend hohen Dramatik. Musikalisch wird großzügig aus Kabarett, Jazz und Rock geschöpft, ohne dass daraus ein Stilbaukasten wird — dafür ist die Handschrift zu deutlich. Zwischen den überdrehten Momenten stehen erstaunlich stille Passagen, in denen nur Klavier und Stimme übrig bleiben und der ganze Pomp plötzlich sehr ernst wird. Theatralisch, überbordend und richtig gut gespielt.
 
-::genre::art rock, theatrical rock, chamber pop
+::genre::art rock, cine rock, chamber pop
 
 ### Jordsjø - Pestkrønikene
 
@@ -362,7 +362,7 @@ Ein Projekt, dessen Name die Aussichtslosigkeit vorwegnimmt und dessen lateinisc
 
 Das dänische Projekt von Claus Larsen, eine der prägenden Stimmen der europäischen EBM-Szene seit den späten Achtzigern. **EBM**, **Electro Industrial** und **Dark Electronica**. Harte Sequenzerlinien, marschierende Beats und eine verzerrte Stimme, die immer zu viel ist — im besten Sinn. Stellt euch auf die Fläche, hier wird gestampft! Der neunte Teil dieser Reihe setzt fort, was Larsen daran offenkundig Freude macht: fremdes Material durch die eigene Maschine drehen, bis es unverkennbar nach ihm klingt. Die Bearbeitungen sind dabei nie ehrfürchtig — Melodien werden freigelegt, Arrangements auf ihr Skelett reduziert und mit einer Wucht neu aufgebaut, die dem Original oft gar nicht innewohnte. Zwischen den harten Stücken stehen erstaunlich zerbrechliche Momente, in denen die Stimme fast nackt dasteht. Für Fans ein Fest, für alle anderen ein guter Einstieg.
 
-::genre::ebm, electro industrial, dark electronica
+::genre::ebm, ibm, dark electronica
 
 ### Litosth - Dreaming
 
@@ -464,7 +464,7 @@ Eine rasant aufstrebende dreiköpfige Live-Band, bestehend aus Joe Sherrin, Kane
 
 Ein Projekt, dessen Name eine Landschaft aufspannt und dessen Album diese konsequent durchwandert. **Post Metal**, **Progressive Metal** und **Atmospheric Sludge**. Schwere Riffs, weite Instrumentalstrecken und Dynamik, die von fast nichts bis zu allem reicht. Schnürt die Stiefel, das wird eine längere Tour! Das Album denkt in großen Formen: Die Stücke nehmen sich Zeit, bauen sorgfältig auf und lösen ihre Spannung erst ein, wenn sie wirklich reif ist. Zwischen den massiven Passagen öffnen sich helle, fast post-rockige Abschnitte, in denen einzelne Gitarrenlinien sehr weit tragen. Der Gesang wird sparsam eingesetzt und ist eher ein weiteres Instrument als eine erzählende Stimme, was dem Album seinen offenen Charakter gibt. Was besonders auffällt, ist die Sorgfalt in den Übergängen — nichts wirkt zusammengesetzt, alles wächst auseinander hervor. Ein groß gedachtes, sehr überzeugendes Album.
 
-::genre::post metal, prog metal, atmo sludge, post rock
+::genre::post metal, prog metal, atmo sludge metal, post rock
 
 ### Mr.Kitty - FINALE:ACT1
 
@@ -536,7 +536,7 @@ Der amerikanische Songwriter, der seit den frühen Zweitausendern zuverlässig m
 
 Ein Projekt, das sich nach einer Seuche benennt und den Albumtitel auf drei Buchstaben eindampft. **Hardcore Punk**, **D-Beat** und **Crust Punk**. Rasende Schlagzeugarbeit, sägende Gitarren und Vocals, die aus dem Hals kommen, nicht aus der Kehle. Zieht euch nichts Gutes an, das wird dreckig! Das Album ist kurz, laut und ohne jede Verzierung: Die Stücke dauern selten über zwei Minuten und verschwenden keine Sekunde auf Aufbau. Der Sound bleibt bewusst roh, mit einer Produktion, die eher dokumentiert als gestaltet, und genau das gibt der Platte ihre Glaubwürdigkeit. Textlich geht es um Verfall, Kontrolle und den Ärger über Zustände, die sich niemand mehr zu ändern traut. Zwischen den Attacken stehen zwei schwerere, fast schleppende Stücke, die zeigen, dass die Band auch anders kann. Ungeschliffen, wütend und genau so, wie es sein soll.
 
-::genre::hardcore punk, d-beat, crust punk, punk rock
+::genre::hardcore punk, d-beat, crust, punk rock
 
 ### Profane Burial - Desolate Echoes Of Turmoil
 
@@ -632,7 +632,7 @@ Ein Projekt, dessen Name kurz und spitz ist und dessen Album sich in einer sehr 
 
 Ein Projekt, dessen Name eine Aufforderung ist und dessen Titel eine ganze Kosmologie auf die Schultern legt. **Sludge Metal**, **Doom Metal** und **Post Metal**. Zähe Riffs, gebrüllte Vocals und ein Tempo, das sich nicht drängen lässt. Setzt euch besser hin, das drückt! Das Album nimmt seine Last ernst: Die Stücke bewegen sich langsam, mit Riffs, die so lange wiederholt werden, bis sie physisch wirken, und einer Produktion, die alles nach unten zieht. Zwischen den lastenden Passagen öffnen sich weite, fast post-rockige Abschnitte, in denen die Gitarren aufklaren und kurz Erleichterung versprechen — die dann verlässlich nicht eintritt. Thematisch geht es um Verantwortung und darum, was man trägt, ohne es je gewählt zu haben. Es ist ein schweres, unversöhnliches Album, dessen Sog man sich schwer entziehen kann. Groß gedacht und beeindruckend durchgehalten.
 
-::genre::sludge metal, doom metal, post metal, atmo sludge
+::genre::sludge metal, doom metal, post metal, atmo sludge metal
 
 ### Sunswarm - Those Who Do Not Build Must Burn *
 
@@ -662,7 +662,7 @@ Ein Projekt mit einem Adelstitel im Namen und einem Album, das den Blick konsequ
 
 Eine Band, die mit ihrem Albumtitel augenzwinkernd an eine berüchtigte Sechziger-Platte erinnert und daraus etwas Eigenes macht. **Psychedelic Rock**, **Garage Rock** und **Neo Psychedelia**. Wirbelnde Orgeln, verzerrte Gitarren und ein Gesang, der aus einem anderen Jahrzehnt zu kommen scheint. Setzt euch die Sonnenbrille auf, drinnen! Das Album spielt mit den Zeichen der psychedelischen Ära, ohne sich in Nostalgie einzurichten: Die Produktion ist moderner, die Songs kürzer und der Ton deutlich bissiger, als die Vorlage vermuten lässt. Der Nihilismus des Titels ist dabei mehr Pose als Programm — darunter steckt ausgesprochen viel Spielfreude. Zwischen den flotten Nummern stehen zwei ausufernde Stücke, in denen sich die Band ordentlich Zeit für Ausflüge nimmt. Eine gut gelaunte, farbenfrohe Platte mit einer angenehmen Portion Unfug. Macht Spaß.
 
-::genre::psych rock, garage rock, neo psychedelia
+::genre::psych rock, garage rock, neo psych rock
 
 ### The Reckless - Bring Back The Glory
 
@@ -680,7 +680,7 @@ Die Band aus New Orleans, die Rock, Soul und eine ordentliche Portion Südstaate
 
 Ein Projekt, das Herrschaftsinsignien im Namen führt und sein Album in einem Turm voller Schatten ansiedelt. **Heavy Metal**, **Epic Doom Metal** und **Traditional Metal**. Getragene Riffs, klarer Gesang und Melodien, die nach Burgmauern klingen. Nehmt die Fackel mit, oben ist es dunkel! Das Album pflegt einen bewusst altmodischen Metal, der weder auf Härte noch auf Modernität schielt, sondern auf Atmosphäre und gute Melodien setzt. Die Stücke sind lang, entwickeln sich in Etappen und lassen den Soli genug Platz, um tatsächlich etwas zu erzählen. Thematisch geht es um Macht und Isolation — der Turm des Titels ist ebenso Schutz wie Gefängnis, und das Album hält diese Doppeldeutigkeit gut durch. Zwischen den epischen Nummern stehen zwei kürzere, deutlich direktere Stücke. Wer klassischen Heavy Metal mit Ernsthaftigkeit und ohne Pose mag, ist hier bestens aufgehoben.
 
-::genre::heavy metal, epic doom metal, traditional metal, doom metal
+::genre::heavy metal, doom metal
 
 ### The Strokes - Reality Awaits *
 

@@ -140,7 +140,7 @@ tbd
 
 Genre: Neo-Soul, Indie-Soul, R&B Soul
 
-::genre::neo soul, indie soul, r&b
+::genre::neo soul, alt soul, r&b
 
 ### Jamie Parker - Do You Dream Of Luminous Things?
 
@@ -386,7 +386,7 @@ tbd
 
 Genre: Post-Indie, Sadcore
 
-::genre::indie pop, indie rock, sadcore
+::genre::indie pop, indie rock, slowcore
 
 ### THISTLE. - it’s nice to see you, stranger
 

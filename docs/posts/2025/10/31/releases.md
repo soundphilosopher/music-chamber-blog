@@ -1746,7 +1746,7 @@ tbd
 
 Neues von der ukrainischen Producerin und Multi-Instrumentalistin. Entstanden ist ein Werk zwischen Dark-Ambient, Doom-Folk und Post-Rock.
 
-::genre::dark ambient, doom folk, post rock
+::genre::dark ambient, dark folk, post rock
 
 ### Lydia Luce - Mammoth
 

@@ -224,7 +224,7 @@ Der australische Singer & Songwriter und Multi-Instrumentalist Jay Watson mit se
 
 Die deutsche Formation, welche in den 90er den Crossover in Deutschland in den Mainstream führten, mit einem neuen Release, nach einer 14 jährigen Release-Auszeit. Omg. Was soll ich schreiben? Ob corny Lyrics zu einer Formation aus Münster gut passen, darf man diskutieren. Das Songwriting bewegt sich zwischen Crossover, Rap Rock, Alt Rock, Nu Metal und birgt gar ein paar Post-Hardcore- und Funk-Einflüsse. So wird ein nostalgisches, wie auch modernes Werk erzeugt, welches aber sicherlich kein Revival auslösen wird aber ein gutes Musicianship abbildet.
 
-::genre::crossover thrash, rap rock, alt rock, nu metal, post hardcore, funk rock
+::genre::crossover thrash, rap rock, alt rock, nu metal, post hardcore, jazz rock
 
 ### Hater - Mosquito *
 
@@ -446,7 +446,7 @@ Das Sophomore Output des amerikanischen Outfits. Ein modernes Werk des Melo Deat
 
 Die niederländische Supagroup, bestehend aus Ex-Mitgliedern von _Cynic_, _Exivious_ und _Pestilence_, mit ihrem dritten Full-Length in ihrer Discography. Entstanden ist eine eingängige, emeotionale und komplexe Komposition des Prog Rock. Ihr Stil wird oft als atmosphärischer Progressive Rock oder „Post-Prog“ beschrieben. Er verbindet Indie-Rock-Sensibilität mit den weitläufigen, spacigen Texturen progressiver Musik.
 
-::genre::prog rock, prog indie
+::genre::prog rock, alt indie
 
 ### Ricardo Formoso - Electric Rebound
 
@@ -660,7 +660,7 @@ Das amerikanische Kollektiv mit seinem neuesten Release. Eine avantgardistische,
 
 Der "Minister of Funk" mit seinem neuesten Release. Die Kompositionen erzeugen eine nostalgische Atmosphäre, die den Hörer in die Vergangenheit zurückversetzt. Dabei werden Old School Hip Hop, R6B, Retro Soul, G-Funk. Acid Funk und Disco in einer nostalgischen Melange zusammengeführt.
 
-::genre::hip hop, retro soul, g-funk, acid funk, disco, r&b, prog funk
+::genre::hip hop, neo soul, g-funk, acid funk, disco, r&b, prog funk
 
 ### Gold Pyramid - Gold Pyramid
 

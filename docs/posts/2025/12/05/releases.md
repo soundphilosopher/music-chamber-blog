@@ -1218,7 +1218,7 @@ tbd
 
 Das belgische Duo hält seinen Release-Fahrplan bisher recht gut ein, welcher ist: Alle 10 Jahre ein neues Album. Kompositionen, welche einen Soundtrack darstellen könnten und sich zwischen Cinematic-Modern-Classic, Cinematic-Synth und Cinematic-Rock.
 
-::genre::cine modern classic, cine synth, cine rock
+::genre::cine modern classic, dark synth, cine rock
 
 ### Mark Wingfield - Elemental
 

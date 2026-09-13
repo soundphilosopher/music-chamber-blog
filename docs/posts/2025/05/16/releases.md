@@ -44,7 +44,7 @@ tbd
 
 Die amerikanische Singer & Songwriterin mit einem neuen Werk. Alt-Indie-Pop mit einem progressiven Hauch und 70s angelehnten Sad-Pop-Songwriting.
 
-::genre::alt pop, indie pop, sad pop, prog pop
+::genre::alt pop, indie pop, introspective pop, prog pop
 
 ### Aminé - 13 Months of Sunshine
 
@@ -188,7 +188,7 @@ tbd
 
 Die Dänen mit ihrem neuesten Werk. Instrumental Psych-Prog-Rock, mit Ausflügen in den Crossover-Jazz und fuzz-y Stoner.
 
-::genre::psych rock, prog rock, crossover jazz, stoner rock
+::genre::psych rock, prog rock, jazz fusion, stoner rock
 
 ### Cautious Clay - The Hours: Morning
 
@@ -530,7 +530,7 @@ tbd
 
 Der kanadische Multi-Instrumentalist mit seinem neuesten Output. Ein ambienter Mix aus Piano-Driven Neo-Klassik, Neo-Jazz und Post-Prog. Absolut zauberhaftes Werk.
 
-::genre::neo classic, ambient, neo jazz, prog rock
+::genre::neo classic, ambient, nu jazz, prog rock
 
 ### Junipour - Echoes of Antigo Way
 

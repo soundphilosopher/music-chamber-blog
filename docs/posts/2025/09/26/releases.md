@@ -1596,7 +1596,7 @@ tbd
 
 Die Kollaboration zwischen dem norwegischen Jazz-Trompeter Arve Henriksen und dem niederländischen Jazz-Gitarristen Bram Stadhouders bringt eine sanfte Improvisation aus World-Music, Jazz-Rock, Noir-Jazz, Neo-Jazz und Drone.
 
-::genre::noir jazz, modern jazz, neo jazz, world music, drone
+::genre::noir jazz, modern jazz, nu jazz, world music, drone
 
 ### Charlie Parker - Plays the Blues
 

@@ -147,7 +147,7 @@ Der amerikanische Singer & Songwriter mit seinem neuesten Release. Die 11 Kompos
 
 Die uruguayische Band mit ihrem neuesten Kompositionen. Eine Melange aus Latin Rock, Pop Rock und Alt Rock wird routiniert unter die Massen gebracht. Da sie immer mal Stücke komponieren, welche ich dem Post Punk zuweisen würde, geniesse ich manches von ihnen.
 
-::genre::post punk, latin rock, pop rock, alt rock
+::genre::post punk, latin pop, pop rock, alt rock
 
 ### Lubomyr Melnyk - Windmills: Fragments
 
@@ -159,4 +159,4 @@ Eine Live-Interpretation in einem Akt vom ukrainischen Komponisten und Pianisten
 
 Das amerikanische Christ-Rocker Urgestein hat sich nach ihrem “Farewell” im Jahre 2005 wieder vereint, da die Welt es anscheinend “nötig” hat. “In a world that is growing darker … Jesus still offers hope” ist das Motto. Nötig? Nope!
 
-::genre::christ rock
+::genre::gospel

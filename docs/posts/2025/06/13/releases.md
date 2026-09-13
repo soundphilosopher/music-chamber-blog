@@ -1572,7 +1572,7 @@ tbd
 
 Der Erstling von dem Projekt um Neil Young überrascht im Grunde nur durch neue Songs von Neil Young. Der Mellow-Country-Rocker vereint ein paar passende Musiker um sich, was den Fan sicherlich freuen wird.
 
-::genre::mellow country, country rock, folk rock
+::genre::alt country, country rock, folk rock
 
 ### Olaf Rupp - Fuzzy Logic
 

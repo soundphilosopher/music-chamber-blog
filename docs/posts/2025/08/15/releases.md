@@ -464,7 +464,7 @@ tbd
 
 Die irische Formation mit einem neuen Release. Ein spannender Mix aus Noise-Punk, Avant-Punk und Industrial.
 
-::genre::noise punk, avant punk, industrial
+::genre::noise rock, avant punk, industrial
 
 ### Netherlands - Vapors
 

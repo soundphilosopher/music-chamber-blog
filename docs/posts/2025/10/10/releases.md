@@ -260,7 +260,7 @@ Der Künstler, Producer und Gitarrist aus San Francisco mit seinen neuesten Komp
 
 Die amerikanischen Christ-Rocker aus Seattle mit ihrem neuesten Output. Texte “des Herren” werden in der Robe des Pop-Rock verpackt und mit typischem Schwung auf die Gemeindemitglieder entlassen.
 
-::genre::christ rock, country folk, folk rock
+::genre::gospel, country folk, folk rock
 
 ### Club 8 - Seasonal Echoes
 
@@ -476,7 +476,7 @@ tbd
 
 Der Abschluss der Tetralogie und der mögliche Abschluss von Geier Sturzflug. Die ehemaligen NDW-One-Hit-Wunderkinder, welche im Grunde nur noch aus Friedel Geratsch bestehen, konzentrierten sich im wachsenden Alter eher auf Ska-Rock, welcher auch gern lediglich Formen des Hard-Rock annimmt.
 
-::genre::hard rock, ska rock
+::genre::hard rock, ska punk
 
 ### Giant Day - Alarm
 
@@ -728,7 +728,7 @@ tbd
 
 Das Projekt um den britischen Multi-Instrumentalisten und Producer Adam Gibbons mit neuem Material. Acid-Soul, Neo-Funk und Disco werden in den Kompositionen vereint und ergeben ein Werk, das irgendwie ganz gut in die End 90er/Anfang 2000er Euro-Disco-Explosion passt.
 
-::genre::acid soul, neo funk, disco, edm
+::genre::acid soul, funk, disco, edm
 
 ### LANY - Soft
 
@@ -1004,7 +1004,7 @@ Der australische Singer & Songwriter mit seinem neuesten Album. Eher erwartender
 
 Der schwedische Jazz-Bassist und Producer mit seiner Fortsetzung zu “Projekt Drums”. Mit an Bord sind die amerikanische Jazz-Drummerin Savannah Harris, der britische Jazz-Drummer James Maddren und der britische Jazz-Drummer Richard Spaven. Mit diesem Gespann werden Symphonien des Neo-Jazz und UK-Jazz improvisiert.
 
-::genre::neo jazz, nu jazz, uk jazz, improvisation
+::genre::nu jazz, uk jazz, improvisation
 
 ### PinkPantheress - Fancy Some More?
 
@@ -1130,7 +1130,7 @@ tbd
 
 Die LA-Based Band mit ihrem neuesten Werk. Sie verstanden es schon immer Alt-Pop, Indie-Pop, Alt-Rock und Indie-Rock progressiv zu vereinen. Was mir immer fehlte, bis heute, ist die Eigenständigkeit. Selbst der Falsetto-Gesang hebt sich nicht wirklich von anderen “Größen” ab.
 
-::genre::alt pop, indie pop, indie rock, prog indie
+::genre::alt pop, indie pop, indie rock, alt indie
 
 ### Sanguisugabogg - Hideous Aftermath
 

@@ -54,7 +54,7 @@ Das Debüt des italienischen Projekts um den Producer und Multi-Instrumentaliste
 
 Die britischen Punk-Legenden mit ihrem neuesten Album. Buzzcocks sind für mich Initiatoren des Pop-Punk und Prog-Punk. Nach dem Tod von Shelly 2018 übernahm Diggle die Rolle des “Frontman”, als einzig verbliebenes Original-Member. Das neue Werk erschafft eine Mixtur aus Proto-Pop-Punk, Surf-Punk und Motown-Soul.
 
-::genre::proto pop punk, prog punk, surf punk, neo soul
+::genre::pop punk, art punk, surf punk, neo soul
 
 ### Cast - Yeah Yeah Yeah
 

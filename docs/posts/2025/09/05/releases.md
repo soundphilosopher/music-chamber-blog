@@ -332,7 +332,7 @@ tbd
 
 Ja, es ist das erfolgreiche UK-Dance-Music-Outfit, mit neuen Kompositionen. Bleiben ihren UK-Dance treu.
 
-::genre::uk dance
+::genre::uk garage
 
 ### Falling Leaves - The Silence That Binds Us
 
@@ -992,7 +992,7 @@ tbd
 
 Die dritte Akustik-EP des amerikanischen Nu-Metal-Outfits. Acoustic-Nu-Metal benötigt wirklich niemand.
 
-::genre::nu folk
+::genre::neo folk
 
 ### SL - Block Tales
 

@@ -224,7 +224,7 @@ Das Trio, das seit seiner Durchbruch-EP "The Thing With Feathers" in der europä
 
 Unter der Führung von Luke Faillaci und mit einer eingespielten fünfköpfigen Besetzung erzielten ihre Independent-EPs über 20 Millionen Streams. Dieses bahnbrechende Major-Debüt wurde vollständig von Rock-Legende Dan Auerbach (von *The Black Keys*) in seinen historischen Easy Eye Sound Studios in Nashville produziert. **Alternative Rock**, **Glam Rock**, **Punk** und **New Wave**. Öffne das Verdeck deines Cabrios, wirf die Hände in die Luft und mach dich bereit, dich tanzend durch ein wunderschönes, wildes Lagerfeuer zu bewegen. Das Album bricht komplett mit traditionellen Formeln und verbindet mühelos die Attitüde des dreckigen Punkrocks mit dem schillernden, klatschenden Stomp des Glam-Rock der 1970er Jahre und nervösen New-Wave-Synthesizern. Mit einer Mischung aus hochenergetischen Rockern wie „Sarasota“ und akustischen Balladen über gebrochene Herzen ist sie ein unverzichtbarer Begleiter für Sommerautofahrten.
 
-::genre::glam rock, proto pop punk, power pop, new wave, alt rock
+::genre::glam rock, pop punk, power pop, new wave, alt rock
 
 ### Far From Refuge - Pillars Of Language
 
@@ -296,7 +296,7 @@ Unter der Leitung des preisgekrönten Komponisten und Trompeters Goran Kajfeš v
 
 Gracie Binion sorgte ursprünglich für Aufsehen, als sie unbearbeitete Demos aus ihrem Schlafzimmer hochlud, bevor sie bei dem renommierten Rock-Label Tooth & Nail Records unter Vertrag genommen wurde. Das gemeinsam mit dem Produzenten Austin Davis geschriebene und aufgenommene Projekt dient als ungefilterte Leinwand, auf der die chaotische Realität des Erwachsenwerdens beleuchtet wird. **Alternative Pop**, **Pop-Rock**, **Indie-Rock** und **Emo-Pop**. Stell dir vor, du nimmst ein offenes Tagebuch voller deiner peinlichsten, von Angst geprägten Gedanken über Liebeskummer und lässt es durch eine Wand aus knackigen Grunge-Gitarren und funkelnden Pop-Hooks dröhnen. Dieses Album schafft eine brillante Dynamik aus Spannungsfeldern, die es ihrem süßen, sarkastischen Gesang ermöglicht, über energiegeladene, festivaltaugliche Drum-Patterns zu schweben. Es behandelt tiefgründige Themen wie moderne Ängste und gescheiterte Beziehungen mit einem fantastischen, augenzwinkernden Sinn für Humor und hinterlässt ein Gefühl voller Energie.
 
-::genre::sad pop, alt pop, alt rock, indie rock
+::genre::introspective pop, alt pop, alt rock, indie rock
 
 ### Greg Kelley, Yoona Kim - Distractions For Trumpet & Ajaeng
 

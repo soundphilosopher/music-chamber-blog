@@ -488,7 +488,7 @@ Willkommen zurück zur Sameness. Das neueste Release der amerikanischen Formatio
 
 Das britische Quartett mit seinem neuesten Longplayer. **Indie-Sleaze**, **Surf-Rock** und **Art-Pop**. Mit ihren „schrägen“ Melodien und ihrer trockenen Art, die Texte zu vortragen, sind sie schnell zu den Lieblingen der britischen Indie-Szene geworden. Das ist Cool-Girl-Musik vom Feinsten. Sie ist eingängig, ein bisschen schräg und hat eine Basslinie, die dir eine Woche lang mietfrei im Kopf herumschwirren wird. Es ist der perfekte Soundtrack für einen chaotischen Abend (oder einen sehr produktiven Nachmittag voller Prokrastination). Es ist fröhlich, macht Spaß und hat genau die richtige Portion Sarkasmus.
 
-::genre::sleaze, indie pop, art pop, indie rock, post punk
+::genre::sleaze rock, indie pop, art pop, indie rock, post punk
 
 ### Long Distance Calling - The Phantom Void *
 
@@ -662,7 +662,7 @@ Das Debütalbum einer Band, die in der britischen DIY-Szene schnell für Aufsehe
 
 Das erste eigenständige Album des norwegischen Kollektivs. **Heavy Rock** der späten 60er und 70er Jahre, **Stoner Rock**, **Proto-Doom** und die schwedische Band *Witchcraft*. Durchtränkt von Vintage-Fuzz ist dieses Album ein roter Faden des Doom, der sich durch klassische Rockmelodien zieht. Es ist jammy und heavy-hitting und fühlt sich an wie eine Platte aus den 1970er Jahren, die versehentlich in die Zukunft gereist ist. Freut euch auf herzzerreißend nachvollziehbare Texte, die durch eine Wand aus vernichtenden Riffs getragen werden.
 
-::genre::heavy rock, stoner rock, proto doom
+::genre::heavy rock, stoner rock, proto doom metal
 
 ### Rachel Lime - STORIES
 
@@ -728,7 +728,7 @@ Die US-"Supergroup" mit Mitgliedern von *The Ergs!*, *Screeching Weasel* und *Th
 
 Brancale ist eine italienische Multi-Instrumentalistin, die nach dem Sanremo-Musikfestival berühmt wurde. Dieses Album knüpft an ihren viralen Erfolg mit "Baccalà" an und setzt ihre Erkundung der Soul-Musik mit süditalienischem Herz fort. Eine lebendige Fusion aus **Nu-Soul**, **Jazz**, **R&B** und **italienischem Pop**. Die Einflüsse reichen von Erykah Badu bis hin zu traditioneller mediterraner Volksmusik. Dieses Album ist eine heilige Feier des Grooves. Serena setzt ihre Stimme wie ein Instrument ein und legt Scat-Vocals über elektronische Beats, die sich zugleich uralt und futuristisch anfühlen. Es ist warm, rhythmisch und weckt die Lust, auf einer sonnenüberfluteten italienischen Piazza zu tanzen.
 
-::genre::nu soul, nu jazz, r&b, neo soul, medi pop
+::genre::neo soul, nu jazz, r&b, medi pop
 
 ### Serial Killers - The Thing of Ours
 
@@ -770,7 +770,7 @@ Die Debüt EP der amerikanischen Formation. Eine kathartische Mischung aus **Gru
 
 Das Projekt rund um den britischen Multi-Instrumentalisten Tom Jenkinson und sein 16. Studioalbum. Jenkinson spielte fast alle Instrumente selbst ein und verzichtete weitgehend auf Sequenzer zugunsten von Live-Aufnahmen, um sich von der militanten Mittelmäßigkeit der KI-generierten Musik abzugrenzen. Ein Kammerkonzert, das **barocke Orchestrierung** mit **IDM** und **Jazz-Fusion** verbindet. Die Einflüsse reichen von *J.S. Bach* bis zum Prog-Rock der 70er Jahre von *Magma*. Es ist eine Ein-Mann-Symphonie, in der virtuoses Slap-Bass-Spiel auf Cembalos und Haunted-House-Avant-Funk trifft. Es fühlt sich an wie eine rasante Verfolgungsjagd durch einen königlichen Palast - chaotisch, raffiniert und definitiv verwirrend.
 
-::genre::jazz fusion, avant funk, avant rock, prog rock, modern classic, idm, edm, chamber classic
+::genre::jazz fusion, prog funk, avant rock, prog rock, modern classic, idm, edm, chamber classic
 
 ### Stepmother - Absurdus Manifestus
 
@@ -1026,7 +1026,7 @@ Das britische Trio mit seiner neuesten EP. Ein unerbittliches Trio, das jahrelan
 
 Das neueste Outlet des deutschen Producer und DJ Valentin Brunn. Stark beeinflusst von **Dubstep** und melodischem Bass. Dieses Album widmet sich insbesondere einer Mischung aus kraftvollem, technisch anspruchsvollem Bass und euphorischen, nachdenklichen Melodien. Wäre Sounddesign eine olympische Disziplin, wäre *Virtual Riot* ein ewiger Goldmedaillengewinner. "Burning Out" ist eine rasante Achterbahnfahrt, bei der knochenerschütternde Dubstep-Drops in überraschend perfekter Harmonie mit verletzlichen, melodischen Klavierlinien stehen. Es ist, als würde ein chaotischer Roboter mitten in einem neonbeleuchteten Gewitter ein Herz-zu-Herz-Gespräch mit dir führen.
 
-::genre::dubstep, ambient techno
+::genre::dubstep, deep techno
 
 ### Voidchaser - Interstellar I
 

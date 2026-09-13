@@ -18,7 +18,7 @@ Als aufstrebende Kraft in der unabhängigen Heavy-Metal-Szene hat diese unnachgi
 
 Der Multi-Instrumentalist und Produzent Dave De Rose leitet dieses seit langem bestehende, sich ständig wandelnde Kollektiv. Seit seinen Anfängen im Jahr 2015 in den Räumlichkeiten einer Londoner Pizzeria lebt das Projekt ausschließlich von spontanen, einstündigen Live-Sessions, bei denen die Musiker gemeinsam improvisieren. **Avantgarde**, **perkussionsgetriebener Futurismus**, instrumentaler Groove und **Psychedelia**. Schließt die Augen und macht euch bereit, direkt in eine von Hitzeflimmern umhüllte, rhythmisch berauschende Traumlandschaft einzutauchen. De Rose schichtet auf wunderschöne Weise reale Feldaufnahmen, die auf den Straßen eingefangen wurden - das Brummen alter Motoren und das Bröckeln von Architektur -, direkt unter tiefe Bassgrooves und hypnotische Percussion-Muster. Dabei schafft er eine eindrucksvolle Dualität zwischen roher klanglicher Spannung und tiefer emotionaler Wärme, was zu einem lebendigen, atmenden Audio-Ökosystem führt.
 
-::genre::avant jazz, experimental psych, instrumental
+::genre::avant jazz, heavy psych, instrumental
 
 ### Alex Chang - Abandon
 
@@ -308,7 +308,7 @@ Dieses instrumentale Kollektiv vereint Spitzenmusiker aus der New Yorker Jazzsze
 
 Spiral Drive wurde vom Produzenten und Songwriter Raphael Neikes gegründet und hat sich mit seinen weitläufigen Psych-Rock-Klanglandschaften international einen hervorragenden Ruf erarbeitet. Für dieses konzeptionelle Projekt arbeitete Neikes ausschließlich mit dem australischen Multi-Instrumentalisten und Produzenten Lord Fascinator zusammen. **Krautrock**, **Psychedelic Rock**, **Neo-Psychedelia** und **Space Rock**. Getreu seinem Titel ("Reise") fungiert dieses Album als unaufhaltsamer, hypnotischer Soundtrack, der für Reisen quer durch das Land konzipiert ist. Die Musik verzichtet auf die üblichen Strophe-Refrain-Formeln zugunsten pulsierender Loops und Vintage-Synthesizer-Texturen und rollt mit einem brillanten, motorischen Krautrock-Rhythmus voran. Tracks wie "Auto" und "Zug" nutzen treibende Pre-Techno-Beats, luftige Bläserelemente und mantrahafte Gesangslinien, um Flugzeuge, Züge und Autos zu simulieren, und ziehen den Hörer in einen tranceartigen Sog.
 
-::genre::krautrock, psych rock, neo psych, space rock
+::genre::krautrock, psych rock, neo psych rock, space rock
 
 ### St. Silva - Forager
 
@@ -320,7 +320,7 @@ St. Silva ist das kreative Elektronik-Projekt des Klangkünstlers und Produzente
 
 Stephen Arnold ist ein hochgelobter Bassist, Komponist und Bandleader, der in der Jazzszene der Ostküste für Aufsehen gesorgt hat. Mit seinem herausragenden Ensemble *Sea Change* nimmt er Alben auf und ist bekannt dafür, tiefgründige, erzählerische Jazzkompositionen in Langform zu schaffen. **Avantgarde-Jazz**, **zeitgenössische Klassik** und **moderner kreativer Jazz**. Vergessen Sie Ihre Vorstellungen von den üblichen Taktarten aus dem Radio und nehmen Sie Platz, um ein meisterhaft improvisiertes Stück zu erleben, das sich ganz und gar durch Klang entfaltet. Das Album wirkt wie eine komplexe, sich langsam entfaltende architektonische Welt, in der Kontrabasslinien bewusst unter flatternden Bläsern und unvorhersehbaren Schlagzeugstrukturen grollen. Es behandelt schwerwiegende Themen wie Zeit, Wandel und Erinnerung mit großer künstlerischer Tiefe und bietet ein unglaublich reichhaltiges Hörerlebnis, das in einem abgedunkelten Raum Ihre ungeteilte Aufmerksamkeit erfordert.
 
-::genre::avant jazz, contemporary classic, modern jazz, improvisation
+::genre::avant jazz, modern classic, modern jazz, improvisation
 
 ### StormHammer - Wrath Of The Hammer
 
@@ -420,7 +420,7 @@ Diese unerbittliche Band, die sich nach ihrer Debüt-Demo aus dem Jahr 2025 als 
 
 Accelio hat sich als äußerst fokussierter Elektronik-Produzent innerhalb der modernen, im Internet verwurzelten Jungle-Szene einen Namen gemacht und ist auf sanfte, hochauflösende Klanglandschaften spezialisiert, die Vintage-Rave-Rhythmen mit moderner Software-Präzision verbinden. **Atmosphärischer Drum & Bass**, verträumter **Jungle**, **Liquid Funk** und **Breakbeat**. Schnall dich an für eine herrliche, schwebende Reise durch einen wolkenverhangenen Himmel. Dieses elektronische Klanggewebe verbindet hyperkinetische, straff geschnittene Amen-Breaks und rollende Rhythmen mit unglaublich üppigen, jazzigen Rollern und ruhigen Keyboard-Akzenten. Es fühlt sich gleichzeitig an, als würde man durch einen neonbeleuchteten Regensturm sprinten und in einem wohltuenden Sinnesentzugstank schweben, wodurch komplexe Breakbeats zu einer zutiefst entspannenden, therapeutischen Hörerfahrung werden.
 
-::genre::atmo d&b, jungle, liquid funk, breakbeat
+::genre::atmo d&b, jungle, breakbeat
 
 ### Amaseffer - Exodus Pt. II: When The Lions Leave Their Den
 
@@ -438,7 +438,7 @@ Nach einer vierjährigen Studio-Pause feiert dieses griechische Metal-Power-Trio
 
 Die 2015 gegründete, beliebte Band aus der Küstenregion begeistert seit über einem Jahrzehnt die internationale Psych-Rock-Szene mit ihrer sonnendurchfluteten Retro-Ästhetik. Ihr lang erwartetes siebtes Studioalbum entstand zunächst mit einer Akustikgitarre auf einem Hausboot in Amsterdam, bevor es auf einer Ranch in Malibu, Kalifornien, den letzten Schliff erhielt. **Psychedelic Pop**, **Surf-Rock**, **Neo-Psychedelia** und **Country-Pop**. Zieh dein Lieblings-Tie-Dye-Shirt an und lass dich auf einem gemächlichen Fluss aus purem, ungefiltertem akustischem Sonnenschein treiben. Das Album verbindet den für die Band typischen groovigen Psych-Pop mit überraschenden Einflüssen von Hip-Hop-Rhythmen und luftigem Funk. Titel wie "Polymuscalsaccharide" und der ausladende, sechsminütige Titelsong sind wunderbar locker, fließend und glückselig - man fühlt sich, als wäre man direkt auf eine Strandparty der 1970er Jahre versetzt worden, auf der der Punsch mit Alkohol versetzt ist.
 
-::genre::surf rock, psych pop, neo psych, alt pop, alt folk
+::genre::surf rock, psych pop, neo psych rock, alt pop, alt folk
 
 ### Black Witchcraft - Ex Ossibus Templum Ei Erigemus
 

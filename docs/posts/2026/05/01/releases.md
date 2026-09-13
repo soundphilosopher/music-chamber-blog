@@ -333,7 +333,7 @@ Ein erfahrener Multi-Instrumentalist, der bereits mit *U.S. Girls*, *Islands* un
 
 Eine Zusammenarbeit zwischen Sandro Perri und Craig Dunsmuir. Dies ist ihre erste Veröffentlichung seit 20 Jahren, nach ihrem legendären, selbstbetitelten Debüt. **Experimenteller Funk**, **Electronica** und **Arthouse-Pop**. Dieses Album ist ein Wunderwerk aus Technik und Geduld, das von einer verlorenen Festplatte wiederhergestellt wurde. Es ist groovig, schräg und sorgfältig vielschichtig - wie eine Disco-Party in einer sehr eleganten Kunstgalerie. Es ist der perfekte Balsam der Zeit für alle, die ihren Funk mit einer Prise avantgardistischer Coolness mögen.
 
-::genre::experimental funk, acid funk, experimental electronica, art pop
+::genre::prog funk, acid funk, experimental electronica, art pop
 
 ### Goodbye Mountain - The Mystery of it All
 
@@ -759,7 +759,7 @@ Grammy-nominierte Metal-Legenden mit einer 30-jährigen Karriere und 15 Studioal
 
 Das legendäre Rap-Duo aus L.A. mit *OhGeesy* und *Fenix Flexin* setzt nach seinem Comeback im Jahr 2025 seine Erfolgsserie fort. **West-Coast-Party-Rap** mit starken Anklängen an 80er-Jahre-**R&B**, **Electro-Funk** und Latin Freestyle. *Shoreline Mafia* ist zurück und ja, das Geschäft boomt tatsächlich. Dies ist eine energiegeladene Meisterklasse im L.A.-Sound, die Klassiker der 80er Jahre sampelt, um moderne Knaller zu kreieren. Es ist im Grunde eine 20-minütige Warehouse-Party, komprimiert in deine Kopfhörer. Schnelle Flows, fetter Bass und pure West-Coast-Attitüde.
 
-::genre::hip hop, funktronica, r&b
+::genre::hip hop, prog funk, r&b
 
 ### Slide - Forever
 

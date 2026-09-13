@@ -656,7 +656,7 @@ Die Band wurde 2020 vom Gitarristen Jo Henning Kaasin (ehemals *Come Taste the B
 
 Das Projekt ist das Werk des Künstlers und Produzenten Steven Fernandez. Er nutzt seine Musik oft, um das Inneres der Zeit und die Verbindung zwischen dem Physischen und dem Unbekannten zu erforschen. **Ambient**, meditative und spirituelle **Electronica**. Der Künstler erkundet durch Klang die Geschichte der Vorfahren und moderne spirituelle Praktiken. Wenn man nach einem Willkommensgeschenk für außerirdische Besucher suchen würde, wäre dies genau das Richtige. Es ist gemächlich und gefühlvoll, darauf ausgelegt, die Kluft zwischen der Menschheitsgeschichte und dem unendlichen Kosmos zu überbrücken. Es ist die Art von Musik, die Ihr Wohnzimmer so wirken lässt, als würde es durch eine Nebelwolke treiben.
 
-::genre::ambient, minimal electronica, spiritual music
+::genre::ambient, minimal electronica, ritual music
 
 ### Kehlani - Kehlani
 
@@ -986,7 +986,7 @@ Eine erfahrene norwegische Band, die für ihren schnörkellosen Rock’n’Roll-
 
 Dieses Projekt ist das geistige Kind des charismatischen Frontmanns Dominic Jester, der jahrelang in der Londoner Underground-Szene unterwegs war, bevor er dieses energiegeladene Quartett gründete. **Glam-Punk**, **Power-Pop** und **Sleaze-Rock**. Man stelle sich eine Mischung aus den *New York Dolls* der 1970er Jahre und den frühen *Cheap Trick* vor. Das ist ein neongetränkter, in Lederjacken gekleideter Aufruhr. Es ist laut, auffällig und macht ganz unverhohlen Spaß. In den Texten geht es um Nächte in der Stadt und fragwürdige Entscheidungen, vorgetragen mit einem Grinsen und einer gewissen Prahlerei. Wenn du Musik für eine Dachterrassenparty brauchst, die vielleicht mit einem Besuch der Polizei endet, dann ist das genau das Richtige.
 
-::genre::proto pop punk, glam punk, sleaze rock, power pop
+::genre::pop punk, glam punk, sleaze rock, power pop
 
 ### Ptolomea - Canto XXXIII
 
@@ -1124,7 +1124,7 @@ Eine rasant aufstrebende Band der texanischen Extreme-Szene, bekannt für ihre t
 
 Sole (*Tim Holland*) ist Gründungsmitglied des Underground-Hip-Hop-Kollektivs *Anticon*. Televangel (*Ian Taggart*) war die eine Hälfte des Produzentenduos *Blue Sky Black Death*. Abstrakter **Hip-Hop**, bewusster/politischer Hip-Hop und **experimenteller Hip-Hop**. Dies ist Soles Testament darüber, was es bedeutet, im Anthropozän Eltern zu sein. Erwarte endlose Ströme von Bars über einer sorgfältig gestalteten Atmosphäre. Es ist persönlich, politisch und wunderschön laut - der perfekte Soundtrack für einen leicht panischen, hochgebildeten Vater, während die Welt (angeblich) untergeht.
 
-::genre::experimental hip hop, avant hip hop
+::genre::experimental hip hop
 
 ### Sugar Spine - Soul Before Spirit
 
@@ -1238,7 +1238,7 @@ Eine seit einem Jahrzehnt bestehende vierköpfige Band (*Tommy 666*, *Lex Thunde
 
 Eine Zusammenarbeit zwischen dem Komponisten Daniel Elms und Adam Blyth (von der Band *Blind Monarch*). **Experimentelle Instrumentalmusik**, **zeitgenössische Klassik** und verstärkte Synthese. Diese Platte, die als Phantomort, den man betreten kann beschrieben wird, wurde gemeinsam in einer Scheune auf dem englischen Land geschrieben und aufgenommen. Sie fängt die Klänge der Landschaft ein - Vogelgesang und Kirchenglocken -, verwoben mit klaren E-Gitarren und verträumten Synthesizern. Es ist ein gespenstisches, immersives Erlebnis für das Hören zu später Stunde.
 
-::genre::nu classic, modern classic, cine modern classic
+::genre::neo classic, modern classic, cine modern classic
 
 ### TROUM - EmphasYs
 
@@ -1536,7 +1536,7 @@ Eine aufstrebende Band aus der neuseeländischen Extreme-Metal-Szene, bekannt f�
 
 Ein geheimnisvolles Projekt, das auf Independent-Musikplattformen durch seine atmosphärischen und kraftvollen Kompositionen Aufmerksamkeit erregte. **Blackgaze**, **Depressive Rock** und **Post-Rock**. Das Album nimmt den Hörer mit auf eine Reise durch wechselnde Stimmungen, die mit sanften Harmonien und **Spoken-Word**-Elementen beginnt, bevor sie in kraftvolle, verzerrte Instrumentierung übergeht. Durch den Einsatz von hallenden Gitarren und wuchtigen Rhythmen vermittelt es ein Gefühl von kalter, nordischer Einsamkeit.
 
-::genre::post metal, blackgaze, dsbm, mellow metal
+::genre::post metal, blackgaze, dsbm, melo metal
 
 ### Vomit Forth - In the Name of the Father
 

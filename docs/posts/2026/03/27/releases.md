@@ -188,7 +188,7 @@ Das erste pure Solo-Release der amerikanischen Jazz-Saxophonistin, Komponistin u
 
 Die neueste EP des britischen Rappers Oakley Neil Caesar-Su. Eine der führenden Figuren im UK Drill spitted seine Rhymes in eine mehr melodische, aufmunterende und nähere Art des Genre. Neben UK Drill kommen hier Elemente des R&B, Pop Rap, Trap, Dancehall und Afrobeat auf den Mix-Teller.
 
-::genre::uk drill, trap, r&b, dancehall
+::genre::drill, trap, r&b, dancehall
 
 ### Chalk Hands - The Line That Shapes the Coast of Us *
 
@@ -585,7 +585,7 @@ Das Projekt um den amerikanischen Gitarristen Andrew Lee, welches als Hommage an
 
 Das amerikanische Trio mit seinem neuesten Longplayer. Eine raue, rasante Variante des Pop-Punk. Im Gegensatz zur glatten und ausgefeilten Variante ist ihr Sound rauh und unverfälscht, mit lauten Gitarren und mitreißenden Hooks. Diese EP ist im Grunde ein neunminütiger Koffeinkick. Es ist schnörkelloser Punk, der klingt, als wäre er in einer Garage von drei Jungs aufgenommen worden, die die 90er Jahre wirklich vermissen. Sie ist kurz, knackig und ehrlich - perfekt, wenn man sich wieder wie ein Teenager fühlen möchte, aber nur zehn Minuten Zeit hat, bevor das nächste Meeting beginnt.
 
-::genre::proto pop punk, garage punk
+::genre::pop punk, garage punk
 
 ### Helgafell - Chronicles
 
@@ -777,7 +777,7 @@ Eine experimentelle elektronische Kollaboration, die Architektur als kompositori
 
 Der Brite Matt Cutler kehrt nach fünf Jahren mit einem Projekt zurück, das er als Popmusik aus einer anderen Dimension bezeichnet. Es umfasst Hardcore-Rave, House, Ambient und psychedelische Electronica der frühen 90er Jahre. Dieses Album ist ein synthetischer Spiegelkabinett-Rausch. Es ist auf die bestmögliche Art und Weise unberechenbar und selbstverliebt und dreht jeden Stil, den Lone jemals ausprobiert hat, auf die volle Lautstärke. Es ist strahlend, zuckersüß und trifft mit der Wucht einer illegalen Warehouse-Party von 1992, aber mit dem hochauflösenden Schliff von 2026.
 
-::genre::hardcore rave, acid house, ambient, psych house, hard house
+::genre::hardstyle, acid house, ambient, house
 
 ### Loreen - Wildfire
 
@@ -1005,7 +1005,7 @@ Die neueste EP der schottischen Party Slamer. Wenn du schon immer mal in einer H
 
 Das neue Album des ehemaligen Mitglieds der Shoegaze-Pioniere Drop Nineteens - das erste seit über 20 Jahren. Dieses Album wirkt wie ein warmer, zuckersüßer Zitronenbonbon mit einem überraschend sauren Kern. Es ist emotional direkt und unbehaglich ehrlich und verbindet Melodien, die an die Beach Boys der Pet Sounds-Ära erinnern, mit zutiefst persönlichen Geschichten über das Überleben und die wiedergewonnene Stimme.
 
-::genre::prog pop, pop noir, art pop, avant pop
+::genre::prog pop, dark pop, art pop, avant pop
 
 ### pdqb - Future Traumatic Stress Disorder
 
@@ -1017,7 +1017,7 @@ Das neueste Full-Length von diesen deutschen Projekt. "pdqb" agiert als Gebilde 
 
 Das neueste Release des britischen Outfits. Hektischer DIY-Punkrock mit melodischen Rockelementen und satirischen Texten. Ein bissiger, urkomischer Film, der die Band dabei begleitet, wie sie sich auf einer Auktion eine gebrauchte Punk-Karriere kauft und dabei spektakulär daran scheitert, diese zum Laufen zu bringen. Mit Gastauftritten von CJ Ramone und einem echten Auktionator liefert der Film eingängige, rebellische Hymnen für alle, die einen normalen Job haben, aber von der Bühne träumen.
 
-::genre::punk rock, melo rock, proto pop punk
+::genre::punk rock, melo rock, pop punk
 
 ### Power Paladin - Beyond The Reach Of Enchantment
 
@@ -1149,7 +1149,7 @@ Das Debüt der amerikanischen Kapelle. Eine aufstrebende Größe der "New Wave o
 
 Das neueste Release des Schweizer. Ein Drummer und Klangkünstler, der für seine Lithophone bekannt ist – Instrumente aus resonanten Steinen. Er erforscht die Schnittstelle zwischen Geologie und Rhythmus. Dieses Album ist im wahrsten Sinne des Wortes bahnbrechend. Berz nutzt echte Felsen und seismische Sensoren, um eine rhythmische Landschaft zu erschaffen, die uralt wirkt. Es ist ein akustisches Erdbeben, das in der Brust grollt - ein Muss für jeden, der hören möchte, wie die Erde selbst ihren Groove findet.
 
-::genre::experimental acoustic, ambient acoustic, experimental ambient
+::genre::ambient acoustic, experimental ambient
 
 ### Simon Hanes - GARGANTUA *
 
@@ -1179,7 +1179,7 @@ Das Solo-Projekt von Indie-Wunderkind Lindsey Jordan mit seinem neuesten Output.
 
 Das legendäre kanadische Comedy-Metal-Trio (Jay, Sol und Doug) aus der Teletoon-Zeichentrickserie aus der Mitte der 2000er Jahre feiert ein grandioses Comeback. Falls ihr den Geruch von fettigen Haaren und billigen Burgern vermisst habt: Die Jungs sind zurück. "Skids" ist eine urkomische, riffgeladene Hommage an den Dirtbag-Lifestyle. Der Song ist laut, idiotisch eingängig und erinnert uns alle daran, dass man nie zu alt ist, um auf dem Parkplatz von Canadian Tire einen Moshpit anzufangen.
 
-::genre::mock rock, heavy rock, heavy metal
+::genre::art rock, heavy rock, heavy metal
 
 ### Sons Of Eternity - Human Beast
 
@@ -1227,7 +1227,7 @@ Das Debüt der Franzosen wird sich im Meer der Sameness wohlfühlen. Ein mitrei�
 
 Das neueste Studio-Outlet des kanadischen Duos. Es schafft aus Post-Punk und Psych-Rock verträumte, melodische und leicht paranoide Klangwelten. Dieses Album ist wunderbar unruhig. Es ist voller schimmernder, sonnendurchfluteter Melodien, die von einem Gefühl digitaler Unruhe untermauert werden. Es ist auf eine Art spirituell, die sich anfühlt, als würde man um 2 Uhr morgens durch einen Feed scrollen - melancholisch, wunderschön und zutiefst nachvollziehbar. Es ist der ultimative Soundtrack dafür, gleichzeitig alles und nichts zu fühlen.
 
-::genre::post punk, psych rock, art rock, garage rock, garage psych
+::genre::post punk, psych rock, art rock, garage rock
 
 ### Sura’sura - Warfare Metal
 
@@ -1251,7 +1251,7 @@ Das deutsche Projekt um den Multi-Instrumentalisten Volker Kuinke mit der Fortf�
 
 Der tunesische Producer, Drummer und Percussionist mit seinem Sophomore Output. "Chott" (benannt nach den ausgetrockneten Salzseen der Sahara) ist eine Fata Morgana in Klangform. Es ist schimmernd, dunstig und leicht bedrohlich. Es verbindet die Hitze der Wüste mit der kühlen Präzision deutscher Elektronik. Es ist der perfekte Soundtrack, um sich in einer weiten, sonnenverbrannten Landschaft zu verlieren - eindringlich schön und zutiefst fesselnd.
 
-::genre::desert noir, experimental electronica, dark ambient, desert psych
+::genre::desert noir, experimental electronica, dark ambient, desert rock
 
 ### Teeth Of Lamb - Deathward
 
@@ -1413,7 +1413,7 @@ Das Debüt des experimentierfreudigen Ensembles mit dem Pianisten Walter Thompso
 
 Das Debütalbum des Londoner Quartetts. Stellt euch vor, die minimalistische Schönheit von Explosions In The Sky trifft auf den schimmernden Glanz von Slowdive. "Growth" ist eine sensationelle Reise, die alles einfängt - von der Post-Rock-Größe von Sleepless bis hin zu beunruhigenden Betrachtungen über alltägliche Überlebensrituale. Es ist die Art von Musik, die sich unter der Festivalsonne mit einem kühlen Bier in der Hand wie zu Hause fühlt.
 
-::genre::shoegaze, post rock, indie rock, postgaze
+::genre::shoegaze, post rock, indie rock, nu gaze
 
 ### Wilkinson - Infinity
 
@@ -1525,7 +1525,7 @@ Das neueste Studio Album des deutschen Projekts um den Multi-Instrumentalisten "
 
 Die koreanische Girl-Group mit ihrem neuesten Mini-Release, welches den Start ihrer "Tear Trology" einleitet. Für diesen Start zieht die Formation einen Mix aus K-Pop, Kawaii Pop, Alt Pop und Synth Pop heran, welcher auch gern "Baby Metal" genannt wird, ohwohl das "Metal" hier sehr diskutiert werden kann.
 
-::genre::k-pop, kawaii pop, alt pop, synth pop
+::genre::k-pop, bubblegum pop, alt pop, synth pop
 
 ### Bloodletting Prince - Bloodletting Eyes, Bearers Of Insight
 
@@ -1567,7 +1567,7 @@ Die polnische Formation mit ihrem neuesten Full-Length. Eine tiefgründige Ausei
 
 Der amerikanische Producer und Rapper Terius Gray bringt zu seinem 51ten Geburtstag einen neuen Longplayer heraus. Der Pionier im Southern Hip Hop bringt seine alten Bounce Rhythmen ("Juvenile") zum neuen Glanz.
 
-::genre::hip hop, southern hip hop, bounce
+::genre::hip hop, trap
 
 ### Manoel Cruz - Navegante
 

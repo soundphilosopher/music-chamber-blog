@@ -500,7 +500,7 @@ Eine hochkarätige, technisch versierte Metal-Band mit dem Schlagzeuger und Sän
 
 Eine beeindruckende interkulturelle Zusammenarbeit zwischen der französischen Singer-Songwriterin Alison Manicourt und dem britisch-persischen Produzenten und Gitarristen Shervin Hejazi, deren selbst produziertes Debütalbum vom renommierten Toningenieur Alex Ferrer abgemischt wurde. Eleganter **Noir-Indie-Grunge**, **Post-Punk** und **Alternative Rock**. Ihr düsterer, sinnlicher und rauer Sound weckt Assoziationen an die künstlerische, von Fuzz-Klängen geprägte Intensität von *PJ Harvey*, *The Kills* und *Wolf Alice*. Dimmt das Licht und macht euch bereit, euch von einer wunderschön intensiven akustischen Romanze völlig hypnotisieren zu lassen. Dieses Album schafft eine perfekte Balance zwischen samtig-rauer Gesangsdarbietung und explosiven, fuzzgetränkten Gitarrenarrangements und erschafft so eine filmische Welt, in der Rockmusik unglaublich gefährlich und elegant zugleich wirkt. Es erkundet tiefe seelische Chemie, rohe Intimität und kühne zwischenmenschliche Verbindungen und hüllt euch in eine schattenhafte, nächtliche Atmosphäre, der man unmöglich widerstehen kann.
 
-::genre::indie rock, post grunge, post punk, alt rock, noir rock
+::genre::indie rock, post grunge, post punk, alt rock, dark rock
 
 ### Morgan Noise - Something built, Something remembered *
 
