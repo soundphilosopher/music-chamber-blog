@@ -24,6 +24,7 @@ from glob import glob
 from pathlib import Path
 
 from utils.genres import normalize_genre_names, GENRE_TAG_PREFIX, GENRE_TAG_PATTERN
+from utils.markdown import escape_link_text
 
 from bs4 import BeautifulSoup
 
@@ -154,7 +155,8 @@ def _build_genres_markdown(genres: list[Genre]) -> str:
 
         for release in genre.releases:
             lines.append(
-                f"- [{release.title}]({release.file_path}#{release.anchor_id})"
+                f"- [{escape_link_text(release.title)}]"
+                f"({release.file_path}#{release.anchor_id})"
             )
         lines.append("")
         lines.append("---")

@@ -25,6 +25,7 @@ from typing import Any
 from bs4 import BeautifulSoup
 
 from utils.genres import GENRE_TAG_PATTERN, GENRE_TAG_PREFIX, normalize_genre_names
+from utils.markdown import escape_link_text
 
 
 RELEASES_GLOB = "docs/**/releases.md"
@@ -151,7 +152,7 @@ def _build_recap_markdown(
         for release in top_picks:
             # Navigate up to docs root from posts/YYYY/MM/, then back down
             release_link = f"../../../{release.file_path}#{release.anchor}"
-            lines.append(f"-   ### [{release.name}]({release_link})")
+            lines.append(f"-   ### [{escape_link_text(release.name)}]({release_link})")
             lines.append(f"    _{', '.join(release.genres)}_")
 
     lines.append("")
@@ -161,7 +162,7 @@ def _build_recap_markdown(
         for release in picks:
             # Navigate up to docs root from posts/YYYY/MM/, then back down
             release_link = f"../../../{release.file_path}#{release.anchor}"
-            lines.append(f"-   ### [{release.name}]({release_link})")
+            lines.append(f"-   ### [{escape_link_text(release.name)}]({release_link})")
             lines.append(f"    _{', '.join(release.genres)}_")
 
     lines.append("")
