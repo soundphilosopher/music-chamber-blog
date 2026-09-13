@@ -484,7 +484,7 @@ Eine kraftvolle kanadische Jazz-Kooperation, bei der der Bassist Julian Anderson
 
 ::genre::modern jazz, contemporary jazz, post bop
 
-### Jalen Ngonda - Doctrine of Love
+### Jalen Ngonda - Doctrine of Love **
 
 Jalen Ngonda ist ein außerordentlich talentierter Soul-Sänger und Songwriter, der ursprünglich aus Maryland, USA, stammt und später nach Großbritannien zog. Nachdem er mit seinem von Kritikern hochgelobten Debütalbum "Come Around and Love Me" aus dem Jahr 2023 die internationale Szene im Sturm erobert hatte, wurde Ngonda zu einem prominenten Verfechter zeitloser analoger Musik. Dieses wegweisende Projekt ist sein mit Spannung erwartetes zweites Studioalbum in voller Länge, das von der legendären Hausband von Daptone Records begleitet wird. **Vintage Soul**, **Deep Funk** und **Retro-R&B**. Steigen Sie in eine Zeitmaschine und stellen Sie den Zeiger direkt auf 1968. "Doctrine of Love" ist eine wahre Goldgrube warmer, knisternder Grooves, die Ihre Autoradioanlage wie eine makellose alte Jukebox klingen lassen. Ngonda lässt seinen mühelosen Falsettgesang über eine Leinwand aus knackenden Drumbeats, treibenden Basslines und unglaublich geschmeidigen Bläserakzenten gleiten. Das zugrunde liegende Thema spielt mit der bittersüßen Natur der Liebe - dem Gleichgewicht zwischen totaler Ekstase und absolutem Herzschmerz. Es ist stilvolle, unprätentiöse Musik, die die Wolken eines regnerischen Tages augenblicklich vertreibt.
 
