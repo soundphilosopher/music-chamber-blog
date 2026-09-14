@@ -12,7 +12,7 @@ categories:
 
 ### Agatha Is Dead! - Concrete
 
-Das Berliner Trio legt sein Debütalbum bei *Duchess Box Records* vor — vierzehn Songs, entstanden während einer Woche im Schwarzwald. **Post Punk**, **Alternative Rock** und **Cold Wave**. Treibende Basslinien, kalte Gitarren und eine Dringlichkeit, die eher aus dem Proberaum als aus dem Studio kommt. Dreht auf, hier wird nichts schöngeredet! Die Band nennt *Joy Division*, *The Cure*, *Molchat Doma* und *Fontaines D.C.* als Bezugspunkte, und man hört alle vier — ohne dass daraus eine Kopie wird, weil der Druck im Zusammenspiel eindeutig ihr eigener ist. Die Stücke bauen Spannung über Wiederholung auf, halten sie unangenehm lange und lösen sie dann in Ausbrüche auf, die klingen, als hätte jemand zu lange die Luft angehalten. Der Titel passt: Das ist Musik für graue Fassaden, nasse Straßen und das Gefühl, in einer Stadt zu wohnen, die einen nicht bemerkt. Ein sehr starkes, erstaunlich geschlossenes Debüt.
+Das Berliner Quartett legt sein Debütalbum bei *Duchess Box Records* vor — vierzehn Songs, entstanden während einer Woche im Schwarzwald. **Post Punk**, **Alternative Rock** und **Cold Wave**. Treibende Basslinien, kalte Gitarren und eine Dringlichkeit, die eher aus dem Proberaum als aus dem Studio kommt. Dreht auf, hier wird nichts schöngeredet! Die Band nennt *Joy Division*, *The Cure*, *Molchat Doma* und *Fontaines D.C.* als Bezugspunkte, und man hört alle vier — ohne dass daraus eine Kopie wird, weil der Druck im Zusammenspiel eindeutig ihr eigener ist. Die Stücke bauen Spannung über Wiederholung auf, halten sie unangenehm lange und lösen sie dann in Ausbrüche auf, die klingen, als hätte jemand zu lange die Luft angehalten. Der Titel passt: Das ist Musik für graue Fassaden, nasse Straßen und das Gefühl, in einer Stadt zu wohnen, die einen nicht bemerkt. Ein sehr starkes, erstaunlich geschlossenes Debüt.
 
 ::genre::post punk, alt rock, cold wave, indie rock
 
@@ -196,7 +196,7 @@ Das sechste Album der niederländischen Band, erschienen bei *Eisenwald*, Nachfo
 
 Die zweite LP des Quartetts aus Brooklyn, erschienen bei *Brutal Panda Records* auf farbigem Vinyl, Kassette, CD und digital. Aufgenommen von Matt Russell (*REZN*, *Oozing Wound*), gemischt und gemastert von Matt Ibarra im STR in San Diego; das Artwork stammt von Sänger Hugh Potter selbst. **Noise Rock**, **Punk Rock** und **Post Hardcore**. Schmutzige Gitarren, verzerrte Vocals und ein zäher Midtempo-Druck, der sich nicht abschütteln lässt. Schließt die Tür ab, das ist keine angenehme Gesellschaft! Die Platte beschwört den Bodensatz des alten New York — Straßenstrich, Schutt und Verfall, Drogen an jeder Ecke und in jeder Aktentasche eine geladene Waffe. Stücke wie *Strung Out*, *Passed Around*, *When Sex Is Not Enough* und *Man Was Meant To Take Advantage* verarbeiten Gefängnisgewalt, Bondage, Voyeurismus und Menschenhandel, ohne sich moralisch darüber zu stellen und ohne daran Gefallen zu finden. Unangenehm, laut und konsequent. Genau so soll Noise Rock klingen.
 
-::genre::noise rock, punk rock, post hardcore, sludge metal
+::genre::noise rock, punk rock, post hardcore
 
 ### From The Vastland - Servant Of Ahriman
 
@@ -452,9 +452,9 @@ Eine EP mit fünf Stücken: *remember to forget*, *catch me later*, *away*, *sec
 
 ### Pitschouse - Nothing New
 
-Neun Stücke bei *Den Tapes*, entstanden nach der Rückkehr der Band nach Seattle und ausdrücklich als neue Phase verstanden. **Post Rock**, **Instrumental** und **Math Rock**. Explosive Post-Rock-Dynamik, durchsetzt mit verträumten Melodien und eng verwobenen Synthesizerlinien. Kopfhörer auf, hier redet niemand dazwischen! Die Stücke — *Tomb*, *Mule*, der Titeltrack, *Cool 93*, *rainward*, *Dinner with The Dreamies*, *Hourglass*, *Lume* und *Firelight* — arbeiten mit dem klassischen Aufbau des Genres, ohne sich in ihm auszuruhen: Die Synthesizer sind kein nachträglicher Anstrich, sondern tragen ganze Passagen, und die Übergänge kommen häufig früher als erwartet. *Cool 93* wurde vorab als Single ausgekoppelt und treibt Anspannung und Klarheit bewusst an ihre Grenze. Dass eine instrumentale Platte über neun Stücke hinweg die Aufmerksamkeit hält, ist keine Selbstverständlichkeit; diese hier schafft es, weil sie ihre lauten Momente sparsam einsetzt. Sehr schön gearbeitet.
+Neun Stücke bei *Den Tapes*, entstanden nach der Rückkehr der Band nach Seattle und ausdrücklich als neue Phase verstanden. **Post Rock**, **Indie Rock** und **Dreampop**. Verträumte, eng verwobene Gitarren- und Synthesizerlinien, dazu Kyle Burnetts Gesang, der den Stücken eine entrückte, wehmütige Note gibt. Kopfhörer auf, das zieht einen langsam mit! Die Stücke — *Tomb*, *Mule*, der Titeltrack, *Cool 93*, *rainward*, *Dinner with The Dreamies*, *Hourglass*, *Lume* und *Firelight* — arbeiten mit dem klassischen Aufbau des Post-Rock-Genres, ohne sich in ihm auszuruhen: Die Synthesizer sind kein nachträglicher Anstrich, sondern tragen ganze Passagen, und die Übergänge kommen häufig früher als erwartet. *Cool 93* wurde vorab als Single ausgekoppelt und treibt Anspannung und Klarheit bewusst an ihre Grenze. Besonders im abschließenden *Firelight* trägt Burnetts Stimme das Stück und gibt der Platte eine leise, entrückte Melancholie. Sehr schön gearbeitet.
 
-::genre::post rock, instrumental, math rock, ambient
+::genre::post rock, indie rock, dreampop
 
 ### Popperklopper - Schöne raue Welt
 
@@ -678,9 +678,9 @@ Das zweite Studioalbum der Band aus Los Angeles, die ihre eigene Musik kurzerhan
 
 ### Darrel Treece Birch's Atlantea - Truthsayer
 
-Ein Album des britischen Keyboarders, das am 10.09. bei *Lion Music* auf CD und digital erschienen ist. Geschrieben, produziert, gemischt und gemastert hat Darrel Treece-Birch alles selbst, aufgenommen wurde im Wesentlichen im The War Room in Fleetwood, England; Martin Walker von *Nth Ascension* steuert die Gitarren zu zwei Stücken bei. **Progressive Rock**, **Neo Prog** und **Symphonic Prog**. Großflächige Keyboardarbeit, ausgedehnte Instrumentalpassagen und ein Aufbau, der sich Zeit nimmt. Setzt euch hin, das ist für einen ganzen Abend gedacht! Treece-Birch arbeitet hier konsequent in der britischen Neo-Prog-Tradition, ohne sich an einem bestimmten Vorbild festzuhalten — die Stücke entwickeln sich über lange Bögen, mit einem klaren Sinn für Melodie, der verhindert, dass die Komplexität zum Selbstzweck wird. Dass hier fast alles aus einer Hand kommt, gibt der Platte eine ungewöhnliche Geschlossenheit. Ein handwerklich sehr sauberes, in sich ruhendes Album.
+Ein Album des britischen Keyboarders (*TEN*, *Nth Ascension*), das am 10.09. bei *Lion Music* auf CD und digital erschienen ist. Geschrieben, produziert, gemischt und gemastert hat Darrel Treece-Birch alles selbst und übernimmt neben den Keyboards auch Schlagzeug, Bass, Gitarren und einen Teil des Gesangs — dazu kommen als Gastsänger Gary Hughes und Tony Mitchell sowie mehrere weitere Gitarristen. **Progressive Rock**, **Neo Prog** und **Symphonic Prog**. Großflächige Keyboardarbeit, ausgedehnte Instrumentalpassagen und ein Aufbau, der sich Zeit nimmt. Setzt euch hin, das ist für einen ganzen Abend gedacht! Treece-Birch arbeitet hier konsequent in der britischen Neo-Prog-Tradition, ohne sich an einem bestimmten Vorbild festzuhalten — die Stücke entwickeln sich über lange Bögen, mit einem klaren Sinn für Melodie, der verhindert, dass die Komplexität zum Selbstzweck wird. Dass fast die gesamte Kompositions- und Produktionsarbeit trotz der Gästeliste aus einer Hand kommt, gibt der Platte eine ungewöhnliche Geschlossenheit. Ein handwerklich sehr sauberes, in sich ruhendes Album.
 
-::genre::prog rock, neo prog rock, symphonic prog rock, instrumental
+::genre::prog rock, neo prog rock, symphonic prog rock
 
 ### Dead Meat - Devoured Ferociously
 
@@ -850,7 +850,7 @@ Am 05.09. bei *Rotten Music* erschienen — die Band ist zwischen Bolivien und I
 
 ::genre::brutal death metal, death metal, slamcore, osdm
 
-### Wraith Division - Cremation Grounds Abyss
+### Wrath Division - Cremation Grounds Abyss
 
 Das zweite Album des polnischen Duos, rund fünf Jahre nach dem Debüt, erschienen bei *Old Temple* — zwölf Stücke in etwas mehr als einer halben Stunde. **Blackened Death Metal**, **War Metal** und **Black Metal**. Rohe, komprimierte Produktion, hohes Tempo und eine Grundhaltung, die keine Melodie duldet. Anmachen und in Deckung gehen! Titel wie *Nuclear Extermination Syndrome* und *Flesh Burning in Flames of Deliverance* machen die Richtung unmissverständlich klar — das ist die kriegerische Ecke des Genres, in der es um Wucht und Bedrohung geht, nicht um Atmosphäre. Bei zwölf Stücken auf gut dreißig Minuten bleibt kein Raum für Aufbau: Jede Nummer ist ein Angriff, und die Platte ist vorbei, bevor das Prinzip ermüdet. Das Material lag nach eigener Aussage schon länger bereit, entstanden kurz nach dem Debüt. Kurz, laut und kompromisslos.
 
