@@ -350,6 +350,8 @@ def _create_release_content(
     content = [
         "---",
         f"date: {release_date.isoformat()}",
+        "pin: false",
+        "bandcamp: false",
         "categories:",
         "  - Releases",
         "---",
