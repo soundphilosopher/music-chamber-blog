@@ -42,7 +42,7 @@ Das neue Album der französischen Speed-Metal-Veteranen, gegründet 1982, erschi
 
 ::genre::speed metal, thrash metal
 
-### AJJ - Dirtry Old Power
+### AJJ - Dirty Old Power
 
 Das neunte Album der Band aus Phoenix, erschienen bei *Specialist Subject Records*. **Folk Punk** und **Indie Rock**. Zwölf Songs über das Versagen der Sprache, den Aufstieg künstlicher Intelligenz und die Konzentration von Macht und Reichtum in wenigen Händen. Dreht auf, hier wird das Ende der Welt lautstark besungen! Produziert und aufgenommen hat John Congleton im Animal Rites in Los Angeles — schon bei *Christmas Island* und *The Bible 2* am Regler; *Jeff Rosenstock* und Morphia Slow sind auf *Window in yr Mind* zu hören. Dazu Stücke wie *Destiny*, *Phlamethrower* und *Human Centipede*. Ein poetisches, düsteres Album.
 
