@@ -95,6 +95,16 @@ scaffolding, not reviewed entries — never sweep those up under these rules.
   a handful of real canonical genres (`ska`, `flamenco`, `ethio jazz`, `rock in opposition`,
   `rabm`) are permanently rare.
 - Every `*tronica` genre stands on its own — never fold into a neighbour.
+- `instrumental` means **no voice anywhere on the album**: main vocals, guest vocals and spoken
+  word (its own genre, `spoken words`) all rule it out. Interludes and purely synthesised or
+  sampled voices don't count as vocals. Add it only when a source confirms it (track credits,
+  Bandcamp tags, a review) — never infer it from a genre or an artist's other records.
+  Append it last, and name it in bold in the prose like any other genre.
+  **Exception:** if the release is purely `electronica` or an `*electronica` sub-genre, leave it
+  off — that family is instrumental by default, so the tag adds nothing.
+- `improvisation` only when a source describes the music itself as improvised (free
+  improvisation, improvised live set, recorded in real time). "Improvisational moments" in a
+  composed record, or a studio-constructed piece, don't qualify. Same placement as above.
 - Batch-check new tokens through `normalize_genre_names` (`scripts/utils/genres.py`) before
   finishing a pass — plain `.capitalize()` mangles acronyms and hyphenated names.
 

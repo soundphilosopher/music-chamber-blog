@@ -1,7 +1,7 @@
 ---
 date: 2026-09-25
-pin: false
-bandcamp: false
+pin: true
+bandcamp: true
 categories:
   - Releases
 ---
@@ -350,9 +350,9 @@ Das Debütalbum des italienischen Projekts von Noctuaria (Gesang, Texte) und Mor
 
 ### Espen Eriksen Trio - Almost There
 
-Das neue Album des norwegischen Klaviertrios, erschienen bei *Rune Grammofon*. **Nordic Jazz** und **Modern Jazz**. Acht Kompositionen, „instantly catchy“ und lyrisch — mal melancholisch, mal aufbauend, fast immer melodisch. Legt euch hin, hier singt das Klavier! Espen Eriksen spielt Klavier, Lars Tormod Jenset Bass und Andreas Bye Schlagzeug; aufgenommen und gemischt wurde in den Propeller Music Division Studios in Oslo, dem Studio, das Eriksen schon bei den letzten fünf Alben nutzte. Auf der Platte stehen *Sepia Sky*, *Winter Is Coming*, *Ancient Rituals* und *The Atlantic*. Zwei frühere Alben entstanden mit dem Saxofonisten *Andy Sheppard*. Im Herbst geht es durch Norwegen und China, im März 2027 auf große UK-Tour. Ein warmes, sehr melodisches Album.
+Das neue Album des norwegischen Klaviertrios, erschienen bei *Rune Grammofon*. **Nordic Jazz**, **Modern Jazz** und **Instrumental**. Acht Kompositionen, „instantly catchy“ und lyrisch — mal melancholisch, mal aufbauend, fast immer melodisch. Legt euch hin, hier singt das Klavier! Espen Eriksen spielt Klavier, Lars Tormod Jenset Bass und Andreas Bye Schlagzeug; aufgenommen und gemischt wurde in den Propeller Music Division Studios in Oslo, dem Studio, das Eriksen schon bei den letzten fünf Alben nutzte. Auf der Platte stehen *Sepia Sky*, *Winter Is Coming*, *Ancient Rituals* und *The Atlantic*. Zwei frühere Alben entstanden mit dem Saxofonisten *Andy Sheppard*. Im Herbst geht es durch Norwegen und China, im März 2027 auf große UK-Tour. Ein warmes, sehr melodisches Album.
 
-::genre::nordic jazz, modern jazz
+::genre::nordic jazz, modern jazz, instrumental
 
 ### Ethereal Tomb - Living to Dream Again
 
@@ -404,9 +404,9 @@ Ein neues Album im Rahmen der Reihe, in der bei *Bureau B* jedes lebende Mitglie
 
 ### Faust - Gugaruz
 
-Ein weiteres Faust-Album bei *Bureau B*, kuratiert von Werner „Zappi“ Diermaier gemeinsam mit Dirk Dresselhaus (*Schneider TM*) und Elke Drapatz. **Krautrock**, **Noise Rock** und **Electroacoustic**. Der Rhythmus steht im Zentrum einer sich ständig verschiebenden Landschaft aus Lärm, Elektronik und elektroakustischer Erfindung. Macht euch auf etwas Sperriges gefasst, hier knistert es im Wortsinn! Zappis Arsenal reicht von Handpercussion über Pauken und Schlagzeug bis zu Fundstücken wie Metallgeländern und platzendem Popcorn; dazu kommen Klangbilder von zermalmendem Industrial über minimalistische Stimmungsstücke bis zu schleichender Exotica. Sieben Stücke in gut 44 Minuten, darunter der Titelsong, *Big Field* mit über 15 Minuten und *Seeding*. Als LP auf 700 handnummerierte Exemplare limitiert. Ein eigenwilliges, körperliches Klangexperiment.
+Ein weiteres Faust-Album bei *Bureau B*, kuratiert von Werner „Zappi“ Diermaier gemeinsam mit Dirk Dresselhaus (*Schneider TM*) und Elke Drapatz. **Krautrock**, **Noise Rock**, **Electroacoustic** und **Improvisation**. Der Rhythmus steht im Zentrum einer sich ständig verschiebenden Landschaft aus Lärm, Elektronik und elektroakustischer Erfindung. Macht euch auf etwas Sperriges gefasst, hier knistert es im Wortsinn! Zappis Arsenal reicht von Handpercussion über Pauken und Schlagzeug bis zu Fundstücken wie Metallgeländern und platzendem Popcorn; dazu kommen Klangbilder von zermalmendem Industrial über minimalistische Stimmungsstücke bis zu schleichender Exotica. Sieben Stücke in gut 44 Minuten, darunter der Titelsong, *Big Field* mit über 15 Minuten und *Seeding*. Als LP auf 700 handnummerierte Exemplare limitiert. Ein eigenwilliges, körperliches Klangexperiment.
 
-::genre::krautrock, noise rock, electroacoustic
+::genre::krautrock, noise rock, electroacoustic, improvisation
 
 ### Flame - Ignis Draconis Daemonicus
 
@@ -518,9 +518,9 @@ Ein Doppelpaket aus CD und DVD von der Elektronik-Meisterin Ikue Mori, erschiene
 
 ### Ilmari Rönkä, Mikko Antila - Magic Meadow
 
-Das Album des finnischen Duos aus Ilmari Rönkä (Saxofone, Flöte) und Mikko Antila (Vibraphon, Percussion), im Frühjahr 2024 gegründet, erschienen bei *Flame Jazz*. **Modern Jazz** und **Chamber Jazz**. Die warmen Töne von Flöte, Altsaxofon und Vibraphon verschmelzen zu überraschendem, lebendigem Jazz. Legt euch hin, hier blüht es leise! Elf Stücke in gut 33 Minuten, darunter *Magic Meadow*, *Ant Tango*, *Dark Clouds* und *Blues Traveller*; zuvor erschien im Dezember 2024 die naturthematische EP *Dancing Petals*. Ein kompaktes, warmes Duo-Album.
+Das Album des finnischen Duos aus Ilmari Rönkä (Saxofone, Flöte) und Mikko Antila (Vibraphon, Percussion), im Frühjahr 2024 gegründet, erschienen bei *Flame Jazz*. **Modern Jazz**, **Chamber Jazz** und **Instrumental**. Die warmen Töne von Flöte, Altsaxofon und Vibraphon verschmelzen zu überraschendem, lebendigem Jazz. Legt euch hin, hier blüht es leise! Elf Stücke in gut 33 Minuten, darunter *Magic Meadow*, *Ant Tango*, *Dark Clouds* und *Blues Traveller*; zuvor erschien im Dezember 2024 die naturthematische EP *Dancing Petals*. Ein kompaktes, warmes Duo-Album.
 
-::genre::modern jazz, chamber jazz
+::genre::modern jazz, chamber jazz, instrumental
 
 ### Index - Vis Inertiae
 
@@ -662,9 +662,9 @@ Das dritte Album der Montrealer Rock-Band, zwölf Songs, darunter die Singles *N
 
 ### Light Conductor - Sequence Three
 
-Das erste Album der Montrealer Psych-Ambient-Synth-Droner seit fünf Jahren und der Abschluss ihrer ersten Trilogie, die 2019 mit *Sequence One* begann, erschienen bei *Constellation Records*. **Ambient**, **Synth Ambient** und **Drone**. Mitgegründet von Stephen Ramsay (*Young Galaxy*) und Jace Lasek (*The Besnard Lakes*), meist mit Laseks Besnard-Bandkollegin Olga Goreas: langgezogene Slow-Burn-Jams, geschmiedet aus restaurierten Vintage-Synthesizern und analogem Elektro-Gerät. Legt euch hin, hier brennt es langsam! Fünf Stücke von unter sieben bis über vierzehn Minuten, darunter *She Glitters The Dust*, *Ghost City Radio* und *Supercontinent*; auf *Omenize* singen Goreas und Lasek mehrstimmig. Die Musik neigt diesmal zu „dunklerer Unruhe“. Ein tiefes, langsames Album.
+Das erste Album der Montrealer Psych-Ambient-Synth-Droner seit fünf Jahren und der Abschluss ihrer ersten Trilogie, die 2019 mit *Sequence One* begann, erschienen bei *Constellation Records*. **Ambient**, **Synth Ambient**, **Drone** und **Instrumental**. Mitgegründet von Stephen Ramsay (*Young Galaxy*) und Jace Lasek (*The Besnard Lakes*), meist mit Laseks Besnard-Bandkollegin Olga Goreas: langgezogene Slow-Burn-Jams, geschmiedet aus restaurierten Vintage-Synthesizern und analogem Elektro-Gerät. Legt euch hin, hier brennt es langsam! Fünf Stücke von unter sieben bis über vierzehn Minuten, darunter *She Glitters The Dust*, *Ghost City Radio* und *Supercontinent*; auf *Omenize* singen Goreas und Lasek mehrstimmig. Die Musik neigt diesmal zu „dunklerer Unruhe“. Ein tiefes, langsames Album.
 
-::genre::ambient, synth ambient, drone
+::genre::ambient, synth ambient, drone, instrumental
 
 ### Lily Juniper - Bloom Gloom
 
@@ -674,9 +674,9 @@ Das Debütalbum der Londonerin Lily Juniper, erschienen bei *Friends of Friends*
 
 ### Liths - Ascending the Depths
 
-Das Album des improvisierenden Trios aus Sarah Hennies, Willie B. und Keir Neuringer, erschienen bei *Dinzu Artefacts*. **Improvisation** und **Free Jazz**. Acht konzeptionell fokussierte Studio-Improvisationen: verspielte, energiegeladene Interaktion, die in Spannung zur meditativen Ruhe von Hennies' Arbeit außerhalb des Trios steht. Legt euch hin, hier spricht das Schlagwerk! Die Musik gründet in der Perkussion aller drei, dazu erweitern Saxofon und Vibraphon die Klangpalette; das Trio entstand 2022 in der kleinen, aber aktiven Experimentalszene von Ithaca. Aufgenommen wurde im Oktober 2025 von Matt Saccuccimorano im Electric Wilburland, einer zum Studio umgebauten Kirche. Ein tastendes, körperliches Album.
+Das Album des improvisierenden Trios aus Sarah Hennies, Willie B. und Keir Neuringer, erschienen bei *Dinzu Artefacts*. **Improvisation**, **Free Jazz** und **Instrumental**. Acht konzeptionell fokussierte Studio-Improvisationen: verspielte, energiegeladene Interaktion, die in Spannung zur meditativen Ruhe von Hennies' Arbeit außerhalb des Trios steht. Legt euch hin, hier spricht das Schlagwerk! Die Musik gründet in der Perkussion aller drei, dazu erweitern Saxofon und Vibraphon die Klangpalette; das Trio entstand 2022 in der kleinen, aber aktiven Experimentalszene von Ithaca. Aufgenommen wurde im Oktober 2025 von Matt Saccuccimorano im Electric Wilburland, einer zum Studio umgebauten Kirche. Ein tastendes, körperliches Album.
 
-::genre::improvisation, free jazz
+::genre::improvisation, free jazz, instrumental
 
 ### Lost Relics - Monuments To The Useless
 
@@ -830,15 +830,15 @@ Das dritte Album des Duos aus Mia Garcia und Hailey Niswanger, nach *Between All
 
 ### Olavi Louhivuori, Eivind Lønning, Kim Myhr - Nubes
 
-Das Debüt des finnisch-norwegischen Trios aus Schlagzeuger und Komponist Olavi Louhivuori, Trompeter Eivind Lønning und Gitarrist Kim Myhr, erschienen bei *We Jazz Records*: fünf Stücke in gut 42 Minuten, benannt nach Wolkenarten — *Stratus*, *Cirrus*, *Arcus*, *Fractus* und *Nimbus*. **Avant-Garde Jazz** und **Improvisation**. Live beim We Jazz Festival in Helsinki im Dezember 2021 aufgenommen; die Musik klingt „einheitlich, selbstbewusst und suchend“, führt weit weg vom Naheliegenden und gewinnt langsam, aber sicher an Intensität. Legt euch hin, hier ziehen Wolken! Louhivuori wurde mit dem finnischen Jazz-Albumpreis Emma ausgezeichnet, Lønning hat unter anderem mit *Jim O'Rourke*, *Christian Wallumrød* und *Chick Corea* gespielt, Myhr mit *Jenny Hval* und *Tony Buck*. Ein weites, wachsendes Album.
+Das Debüt des finnisch-norwegischen Trios aus Schlagzeuger und Komponist Olavi Louhivuori, Trompeter Eivind Lønning und Gitarrist Kim Myhr, erschienen bei *We Jazz Records*: fünf Stücke in gut 42 Minuten, benannt nach Wolkenarten — *Stratus*, *Cirrus*, *Arcus*, *Fractus* und *Nimbus*. **Avant-Garde Jazz**, **Improvisation** und **Instrumental**. Live beim We Jazz Festival in Helsinki im Dezember 2021 aufgenommen; die Musik klingt „einheitlich, selbstbewusst und suchend“, führt weit weg vom Naheliegenden und gewinnt langsam, aber sicher an Intensität. Legt euch hin, hier ziehen Wolken! Louhivuori wurde mit dem finnischen Jazz-Albumpreis Emma ausgezeichnet, Lønning hat unter anderem mit *Jim O'Rourke*, *Christian Wallumrød* und *Chick Corea* gespielt, Myhr mit *Jenny Hval* und *Tony Buck*. Ein weites, wachsendes Album.
 
-::genre::avant jazz, improvisation
+::genre::avant jazz, improvisation, instrumental
 
 ### Oren Ambarchi - Cooked *
 
-Das neue Soloalbum des australischen Gitarristen und Experimentators, erschienen bei *Drag City*, zwei seitenlange Stücke: *Hidden Tableau* und *Sleight of Hand*, beide knapp 22 Minuten. **Avant-Garde Rock** und **Experimental Electronica**. Ein Ensemble aus Australien, Deutschland, Japan und Schweden — *Eiko Ishibashi* am Klavier, *Jim O'Rourke* mit elektronischen Arpeggios, *Johan Berthling* am Bass, dazu Joe Talia, Will Guthrie und andere. Legt euch hin, hier wird gekocht! *Hidden Tableau* beginnt mit Klavier und einer synthetischen Stimme, *Sleight of Hand* speist sich aus dem elektrischen Miles Davis und mündet in eine „sanft surreale Coda“. Das Album knüpft an *Shebang* an und gilt als bislang wildester Ritt Ambarchis. Ein dichtes, verspieltes Studiowerk.
+Das neue Soloalbum des australischen Gitarristen und Experimentators, erschienen bei *Drag City*, zwei seitenlange Stücke: *Hidden Tableau* und *Sleight of Hand*, beide knapp 22 Minuten. **Avant-Garde Rock**, **Experimental Electronica** und **Instrumental**. Ein Ensemble aus Australien, Deutschland, Japan und Schweden — *Eiko Ishibashi* am Klavier, *Jim O'Rourke* mit elektronischen Arpeggios, *Johan Berthling* am Bass, dazu Joe Talia, Will Guthrie und andere. Legt euch hin, hier wird gekocht! *Hidden Tableau* beginnt mit Klavier und einer synthetischen Stimme, *Sleight of Hand* speist sich aus dem elektrischen Miles Davis und mündet in eine „sanft surreale Coda“. Das Album knüpft an *Shebang* an und gilt als bislang wildester Ritt Ambarchis. Ein dichtes, verspieltes Studiowerk.
 
-::genre::avant rock, experimental electronica
+::genre::avant rock, experimental electronica, instrumental
 
 ### Pain of Truth - Pain of Truth
 
@@ -908,9 +908,9 @@ Das dritte Album der asturischen Band, zwölf Stücke, komplett von der Band sel
 
 ### Rachel Spencer - The Next Right Thing
 
-Das Debütalbum von Rachel Spencer aus Austin (Trompete), sieben Stücke, ausschließlich Eigenkompositionen. **Post Bop** und **Contemporary Jazz**. Die melodische Sprache des Post-Bop trifft auf zeitgenössische Grooves und moderne Improvisation, mit Vorbildern wie *Blue Mitchell*, *Kenny Garrett* und *Roy Hargrove*. Dreht auf, hier wird der nächste richtige Schritt gemacht! Der Titel stammt aus dem Rat eines Mentors: bei überwältigenden Herausforderungen einfach „das Nächstrichtige tun“; die Stücke erzählen von Mut, Kunst und Gemeinschaft. Zu hören sind *Steamrollin'*, *Liminal Spaces* und *Queen of Cups*. Ein zupackendes, warmes Debüt.
+Das Debütalbum von Rachel Spencer aus Austin (Trompete), sieben Stücke, ausschließlich Eigenkompositionen. **Post Bop**, **Contemporary Jazz** und **Instrumental**. Die melodische Sprache des Post-Bop trifft auf zeitgenössische Grooves und moderne Improvisation, mit Vorbildern wie *Blue Mitchell*, *Kenny Garrett* und *Roy Hargrove*. Dreht auf, hier wird der nächste richtige Schritt gemacht! Der Titel stammt aus dem Rat eines Mentors: bei überwältigenden Herausforderungen einfach „das Nächstrichtige tun“; die Stücke erzählen von Mut, Kunst und Gemeinschaft. Zu hören sind *Steamrollin'*, *Liminal Spaces* und *Queen of Cups*. Ein zupackendes, warmes Debüt.
 
-::genre::post bop, contemporary jazz
+::genre::post bop, contemporary jazz, instrumental
 
 ### Ritual Error - Terminal With Benefits
 
@@ -950,9 +950,9 @@ Die EP von Mat McNerney, dem Kopf hinter *Beastmilk* und *Grave Pleasures*, ersc
 
 ### Sensible Soccers - Camminando di Notte
 
-Das fünfte Album der portugiesischen Band, erschienen bei *8mm Records*, acht Stücke, entstanden ab 2024. **Instrumental** und **Electronica**. Instrumentale Musik, die Elektronik und organische Instrumente zu einer eigenen Sprache aus Puls, Melodie und stetig fortschreitenden Strukturen verbindet. Legt auf, hier wird in der Nacht gewandelt! Vorab erschienen zwei Remix-EPs — *EP#1 – Dub Versions* von Mad Professor und *EP#2 – The Remixes* mit Danilo Plessow (*Motor City Drum Ensemble*), *Peaking Lights* und Toulouse Low Trax —, die den Originalen den Weg bereiteten; das Album folgt auf *Manoel* (2021). André Simão, Hugo Gomes, Manuel Justo und Sérgio Freitas spielten es am Erscheinungstag im Theatro Circo in Braga zum ersten Mal live, unterstützt von João Nuno Vilaça. Ein nächtliches, pulsierendes Album.
+Das fünfte Album der portugiesischen Band, erschienen bei *8mm Records*, acht Stücke, entstanden ab 2024. **Electronica**. Instrumentale Musik, die Elektronik und organische Instrumente zu einer eigenen Sprache aus Puls, Melodie und stetig fortschreitenden Strukturen verbindet. Legt auf, hier wird in der Nacht gewandelt! Vorab erschienen zwei Remix-EPs — *EP#1 – Dub Versions* von Mad Professor und *EP#2 – The Remixes* mit Danilo Plessow (*Motor City Drum Ensemble*), *Peaking Lights* und Toulouse Low Trax —, die den Originalen den Weg bereiteten; das Album folgt auf *Manoel* (2021). André Simão, Hugo Gomes, Manuel Justo und Sérgio Freitas spielten es am Erscheinungstag im Theatro Circo in Braga zum ersten Mal live, unterstützt von João Nuno Vilaça. Ein nächtliches, pulsierendes Album.
 
-::genre::instrumental, electronica
+::genre::electronica
 
 ### Sicksense - Funderals
 
@@ -1010,9 +1010,9 @@ Das zweite Album der Band aus Bristol, erschienen bei *Venn Records*, dreizehn S
 
 ### Squanderers - Bright Madness
 
-Das dritte Album des improvisierenden Trios aus Wendy Eisenberg, David Grubbs (beide Gitarre) und Bonner Kramer (Bass), neun Stücke — nach *If A Body Meet A Body* (2024) und *Skantagio* (2025). **Improvisation** und **Ambient**. Aufgenommen im März 2025 im Citizen Recording in Asheville, North Carolina: „instant compositions“, an einem einzigen Nachmittag aufgenommen, freie Improvisation mit zarten melodischen Texturen und dynamischer Spannung, vom kurzen Stück bis zum 13-minütigen Finale. Legt euch auf etwas Gemächliches ein, hier wird gemeinsam geglänzt! Die Stücke heißen alle „Theme for …“, etwa *Theme for the Casino at 5 A.M.* oder *Theme for Whiskey the Turnspit Dog*. Ein freies, helles Album.
+Das dritte Album des improvisierenden Trios aus Wendy Eisenberg, David Grubbs (beide Gitarre) und Bonner Kramer (Bass), neun Stücke — nach *If A Body Meet A Body* (2024) und *Skantagio* (2025). **Improvisation**, **Ambient** und **Instrumental**. Aufgenommen im März 2025 im Citizen Recording in Asheville, North Carolina: „instant compositions“, an einem einzigen Nachmittag aufgenommen, freie Improvisation mit zarten melodischen Texturen und dynamischer Spannung, vom kurzen Stück bis zum 13-minütigen Finale. Legt euch auf etwas Gemächliches ein, hier wird gemeinsam geglänzt! Die Stücke heißen alle „Theme for …“, etwa *Theme for the Casino at 5 A.M.* oder *Theme for Whiskey the Turnspit Dog*. Ein freies, helles Album.
 
-::genre::improvisation, ambient
+::genre::improvisation, ambient, instrumental
 
 ### Starcleaner Reunion - Umbrella
 
@@ -1172,9 +1172,9 @@ Die Debüt-EP der Band aus Chicago, in Eigenregie erschienen, fünf Stücke. **D
 
 ### Wadada Leo Smith - Constellations And Hemispheres *
 
-Das Album des Trompeters Wadada Leo Smith, erschienen bei *Burning Ambulance Music*, fünf Stücke — aufgenommen zwischen 2017 und 2022 im Firehouse 12 Studio mit vier verschiedenen Ensembles. **Avant-Garde Jazz** und **Improvisation**. Ein geistig-kosmisch-astronomisches Thema: Licht und seine Bewegung durch das Universum; das Herzstück ist die 22-minütige Suite *Dark Matter, Particles of Light, Mirror of the Unseen*, die vom Trio zum Oktett und zurück wechselt. Legt auf, hier werden Sternbilder gezogen! Mit dabei sind unter anderem Sylvie Courvoisier (Klavier), Bobby Naughton (Vibrafon), Lamar Smith (Gitarre), Bill Laswell und Melvin Gibbs (Bass), Pheeroan akLaff und Marcus Gilmore (Schlagzeug) sowie Mauro Refosco und Brian Jawara Gray (Percussion); als CD ist es auf 500 Exemplare limitiert. Ein weites, kosmisches Album.
+Das Album des Trompeters Wadada Leo Smith, erschienen bei *Burning Ambulance Music*, fünf Stücke — aufgenommen zwischen 2017 und 2022 im Firehouse 12 Studio mit vier verschiedenen Ensembles. **Avant-Garde Jazz**, **Improvisation** und **Instrumental**. Ein geistig-kosmisch-astronomisches Thema: Licht und seine Bewegung durch das Universum; das Herzstück ist die 22-minütige Suite *Dark Matter, Particles of Light, Mirror of the Unseen*, die vom Trio zum Oktett und zurück wechselt. Legt auf, hier werden Sternbilder gezogen! Mit dabei sind unter anderem Sylvie Courvoisier (Klavier), Bobby Naughton (Vibrafon), Lamar Smith (Gitarre), Bill Laswell und Melvin Gibbs (Bass), Pheeroan akLaff und Marcus Gilmore (Schlagzeug) sowie Mauro Refosco und Brian Jawara Gray (Percussion); als CD ist es auf 500 Exemplare limitiert. Ein weites, kosmisches Album.
 
-::genre::avant jazz, improvisation
+::genre::avant jazz, improvisation, instrumental
 
 ### Watcher - Mistress of Our Time
 
@@ -1184,9 +1184,9 @@ Das zweite Album der schwedischen Band, erschienen bei *Dying Victims Production
 
 ### Weston Olencki, Bascaille - The Mortgage Burn
 
-Das Album von Weston Olencki mit dem Trio Bascaille aus Québec (Tom Jacques, Antoine Létourneau-Berger, Noam Bierstone), erschienen bei *Relative Pitch Records*, zwei Stücke von 32 und 15 Minuten. **Improvisation** und **Experimental Folk**. Perkussion, Objekte und instabile Akustik werden zu etwas Rituellem und Widerspenstigem: Das erste Stück setzt gestimmte Fiedeln, selbstgebaute Zithern, Treibgut aus der Umgebung, getrocknete Hülsenfrüchte, Lautsprecherkonen, Vibrationsmotoren, Klöppel, Bögen, ein Klavier und eine Akustikgitarre ein; der Titel stammt aus dem Wortschatz von Doug Underhill aus Atlantik-Kanada. Das zweite, *Reel de Rimouski*, ist eine ausgedehnte Deutung einer quebecer Tanzmelodie für vier Fiedeln und körnige elektronische Bearbeitung. Legt auf, hier wird die Hypothek verbrannt! Ein rituelles, widerborstiges Album.
+Das Album von Weston Olencki mit dem Trio Bascaille aus Québec (Tom Jacques, Antoine Létourneau-Berger, Noam Bierstone), erschienen bei *Relative Pitch Records*, zwei Stücke von 32 und 15 Minuten. **Improvisation**, **Experimental Folk** und **Instrumental**. Perkussion, Objekte und instabile Akustik werden zu etwas Rituellem und Widerspenstigem: Das erste Stück setzt gestimmte Fiedeln, selbstgebaute Zithern, Treibgut aus der Umgebung, getrocknete Hülsenfrüchte, Lautsprecherkonen, Vibrationsmotoren, Klöppel, Bögen, ein Klavier und eine Akustikgitarre ein; der Titel stammt aus dem Wortschatz von Doug Underhill aus Atlantik-Kanada. Das zweite, *Reel de Rimouski*, ist eine ausgedehnte Deutung einer quebecer Tanzmelodie für vier Fiedeln und körnige elektronische Bearbeitung. Legt auf, hier wird die Hypothek verbrannt! Ein rituelles, widerborstiges Album.
 
-::genre::improvisation, experimental folk
+::genre::improvisation, experimental folk, instrumental
 
 ### WHARFLURCH - Mycodeath and Rebirth in the Outer Clusters
 
@@ -1220,9 +1220,9 @@ Das zweite Album der Death-Metal-Band aus Limerick, erschienen bei *Awakening Re
 
 ### Ølyp - I(m)mortal
 
-Das Debütalbum des französischen Instrumental-Duos, das in den norwegischen Fjorden entstand und heute in Frankreich sitzt, erschienen bei *Klonosphere Records* und *Season of Mist*, acht Stücke. **Progressive Metal** und **Post Metal**. Instrumentaler moderner Progressive Metal, verbunden mit ambientem Post-Metal, dazu cineastische Schönheit und zermalmende Wucht — massive, tiefe, emotionale Landschaften, die menschliche Bindungen und das Verhältnis zur Natur, die Umweltkrise und die wachsende Kluft zwischen Individuum und Kollektiv befragen. Legt auf, hier wird das Sterbliche unsterblich! Als Gäste spielen die Geigerinnen Pauline Henric und Zoé Sallefranque, Bratscher Sylvain Rullier und Cellistin Eugénie Ursch; zu hören sind *The Human Error*, *Molden*, *Solace* und die zweiteilige *The Great Denial*. Ein weites, wuchtiges Debüt.
+Das Debütalbum des französischen Instrumental-Duos, das in den norwegischen Fjorden entstand und heute in Frankreich sitzt, erschienen bei *Klonosphere Records* und *Season of Mist*, acht Stücke. **Progressive Metal**, **Post Metal** und **Instrumental**. Instrumentaler moderner Progressive Metal, verbunden mit ambientem Post-Metal, dazu cineastische Schönheit und zermalmende Wucht — massive, tiefe, emotionale Landschaften, die menschliche Bindungen und das Verhältnis zur Natur, die Umweltkrise und die wachsende Kluft zwischen Individuum und Kollektiv befragen. Legt auf, hier wird das Sterbliche unsterblich! Als Gäste spielen die Geigerinnen Pauline Henric und Zoé Sallefranque, Bratscher Sylvain Rullier und Cellistin Eugénie Ursch; zu hören sind *The Human Error*, *Molden*, *Solace* und die zweiteilige *The Great Denial*. Ein weites, wuchtiges Debüt.
 
-::genre::prog metal, post metal
+::genre::prog metal, post metal, instrumental
 
 ### Überchriist - Daemonic Apotheosis
 
@@ -1386,27 +1386,27 @@ Das 13. Album der Neo-Prog-Band aus Québec (gegründet 2004), sechs Stücke in 
 
 ### Rikashay - YOU WON’T EVEN NOTICE I’M HERE
 
-tbd
+Das neue Album der Band aus Markham, Ontario (Toronto), erschienen am 24. September — seit 2015 veröffentlicht die Band Musik. **Indie Rock**. Eine ständig wechselnde Gute-Laune-Band mit einem Flickenteppich aus Einflüssen: von schrägen *Beatles*-Stücken über Classic Rock bis zu Jazz und Ska. Dreht auf, hier bemerkt euch trotzdem jemand! Ein lockeres, wandelbares Album.
 
-::genre::
+::genre::indie rock
 
 ### Scars Like Reminders - Where Moss Has Fallen
 
-tbd
+Das Album des Ein-Personen-Projekts von Yaxha Chuc aus Knoxville, Tennessee (2025 gegründet), in Eigenregie erschienen, acht Stücke, erschienen am 22. September. **Atmospheric Black Metal** und **Melodic Black Metal**. Instrumente, Gesang, Texte, Aufnahme, Mix und Mastering hat Yaxha Chuc allein übernommen; ein Hörer nennt es „eine der besten Black-Metal-Veröffentlichungen des Jahres“. Dreht auf, hier wächst Moos auf Verfall! Zu hören sind *Northern Howl*, *Beneath the Pines*, *Creatures Hidden In The Trees* und *Unto Dark Abyss*. Ein waldiges, atmosphärisches Album.
 
-::genre::
+::genre::atmo black metal, melo black metal
 
 ### Slaughtercult - Devoured by Perversion
 
-tbd
+Das zweite Album des australischen Trios, erschienen bei *Vicious Instinct Records*, elf Stücke, erschienen am 24. September — nach dem Debüt *Meat Head* (2023). **Brutal Death Metal** und **Deathcore**. Eine gnadenlose Folter-Session: Brutal Death Metal, durchsetzt mit modernem Grind und Slam, mit Gästen aus dem Genre; die Stücke dauern nur zwei bis drei Minuten. Dreht auf, hier wird verschlungen! Jeremy McLoughlin (Gitarre, Gesang), Sean Cartwright (Bass, Gesang) und Matthew Newling (Schlagzeug) haben das Album selbst aufgenommen, gemischt und gemastert, das Artwork stammt von Khaos Diktator Design; zu hören sind *Birthing Ceremony*, *Repulsed by Your Haggard Appearance* und *Perverse Bestial Lactation*. Ein roher, brutaler Foltergang.
 
-::genre::
+::genre::brutal death metal, deathcore
 
 ### Snowgazer - Snowgazer
 
-tbd
+Das Album des Duos aus New Hampshire, in Eigenregie erschienen, zehn Stücke, erschienen am 22. September. **Shoegaze** und **Noise Pop**. Die Musik erzählt von einer metaphorischen verschneiten Landschaft: „Snowgazer blickt auf ein weites Feld, und alles, was du siehst, ist Schnee“ — man spürt äußere und innere Kälte durch Isolation. Bandcamp führt außerdem Emo, Lo-Fi, Indie Rock, Noise Rock und Post-Rock als Tags. Legt auf, hier wird in den Schnee geschaut! Etwa 18 Monate ab April 2025 aufgenommen: Finley Richards singt und spielt verschiedene Instrumente, Collin Vodra steuert Gitarre, Bass und Schlagzeug bei. Ein kaltes, verrauschtes Album.
 
-::genre::
+::genre::shoegaze, noise pop
 
 ### Solamort - Chants for the Wounds Not to Heal
 
@@ -1416,39 +1416,21 @@ Das Album der Band aus Costa Rica, erschienen bei *Cognitive Discordance Records
 
 ### Soprü - Cidade do Suor
 
-tbd
+Das Album der Band aus Palmas, Tocantins, erschienen bei *Rockambole*, acht Stücke, erschienen am 22. September. **Indie Pop**. Das Quintett rückt näher an den Indie Pop und erweitert den Einsatz von Synthesizern, ohne Gitarren, Bass und Blasinstrumente aufzugeben — die Band nennt es „Indie Pop do Pé Rachado“: Musik aus dem Erleben einer heißen, trockenen Stadt im Cerrado, mit der leichten Energie des Indie-Pop-Revivals der Zweitausender und Verweisen auf das alte Rom. Legt auf, hier wird geschwitzt und getanzt! Es geht um Erschöpfung, Alltag, Fluchtwunsch und Zuneigung; Jady Aline singt auf dem Titelstück, Luna Esandi auf *Linguagem dos Homens*, und das Schlussstück *Portal Pra Outra Vila* versammelt Stimmen von Freunden aus der Szene Tocantins’. Ein warmes, sonniges Album.
 
-::genre::
+::genre::indie pop
 
 ### Stain Hung Over - Epoch Square
 
-tbd
+Das erste Mini-Album (EP) der Melodic-Punk-/Emo-Band aus Sakata, Yamagata (2019 gegründet), sieben Stücke, erschienen am 23. September. **Melodic Punk** und **Emo**. Die Songs handeln von Konflikt, Einsamkeit, Dankbarkeit gegenüber den Unterstützern und dem Willen weiterzugehen — ein Wendepunkt für die Band, die als Vierer mit erweitertem Gitarrenspiel, Mitsing-Melodien und roher emotionaler Lyrik auftritt und dabei den Respekt vor der Melodic-Punk-Tradition mit eigenem Ausdruck verbindet. Dreht auf, hier wird sich vorwärts gesungen! Zu dem Album gehört eine Tour durch Ost-, Mittel- und Westjapan. Eine gefühlvolle, melodische EP.
 
-::genre::
-
-### The Puppykillers - You're Always...
-
-tbd
-
-::genre::
-
-### The Shout - The Shout
-
-tbd
-
-::genre::
+::genre::melo punk, emo
 
 ### Thunder Queens - Deep Below
 
-tbd
+Das zweite Album des Trios aus London, Ontario, erschienen bei *Victory Pool*, elf Stücke, erschienen am 24. September — nach *Strike One* (2024). **Indie Punk** und **Hard Rock**. Anthemischer Rock mit Pop-Punk-, Hardcore- und Classic-Rock-Einflüssen, verglichen mit *Thunderpussy*, den *Black Keys*, *Queens of the Stone Age* und *Black Sabbath*: „knirschende Riffs und arenataugliche Refrains“, gepaart mit Teenager-Angst. Dreht auf, hier wird tief unten geschrien! Lola Good (Gesang, Schlagzeug), Violet Bruneel (Gesang, Gitarre) und Clara Magnan (Bass) sind noch Schülerinnen und haben mit Dave Schiffman in den Dream House Studios aufgenommen; vorab erschienen *Wait*, *Teenage Years*, *Birds on a Wire*, *Bluebells*, *Walk With Me* und *Misplaced Heart*, dazu steht *One to Follow* auf der Platte; die Band spielte unter anderem mit *Billy Talent*. Ein schnelles, hymnisches Album.
 
-::genre::
-
-### Tony Njoku - A World of Bodies on Fire
-
-tbd
-
-::genre::
+::genre::indie punk, hard rock
 
 ### Vendanges - La Danse du Souvenir
 
@@ -1458,24 +1440,12 @@ Das erste Album des Projekts des 18-jährigen französischen Multiinstrumentalis
 
 ### Wendy Wander - The House Of
 
-tbd
+Das dritte Album der Band aus Taiwan, erschienen bei *MOMENTO*, neun Stücke, erschienen am 24. September — rund drei Jahre nach *Midnight Blue* (2023). **Alternative Pop**, **Disco** und **Funk**. Feine Melodien und geschichtete Arrangements, getragen von zwei Stimmen und durchsichtiger Orchestrierung, mit Synthwave-, Disco-, Funk- und House-Anklängen; es geht um die feinen Gefühle moderner Beziehungen — den seltsamen Raum zwischen Nähe und Distanz. Legt auf, hier wird zwischen Nähe und Abstand getanzt! Produziert haben unter anderem Jerry Li (Golden Melody Award) und dooodooolu von *JADE*, gemischt hat Thomas Chuang. Ein raffiniertes, nächtliches Tanzalbum.
 
-::genre::
-
-### Wet Fingers - Srom Tape
-
-tbd
-
-::genre::
+::genre::alt pop, disco, funk
 
 ### Wodos - From The Grave
 
 Das Debütalbum der Old-School-Thrash-Band aus Lévis, Québec (gegründet im Winter 2024), in Eigenregie erschienen, neun Stücke. **Thrash Metal**. Roher, schneller, aggressiver Thrash der Achtziger nach dem Vorbild von *Slayer*, *Sadus*, *Demolition Hammer* und *Dark Angel*, ohne Spielereien und ohne polierte Überproduktion; das Album versteht sich als Protest gegen die kommerziellen Kompromisse der Musikindustrie. Dreht auf, hier wird aus dem Grab geschrien! Ganz analog am 23. Mai 2026 im NOMANSLAND-Studio in Gatineau von Chany Pilote aufgenommen, gemischt und gemastert; Benji Theriault singt, Mikee Blanchet spielt Gitarre, Charles Fortin Bass, Justin Caron Schlagzeug. Dazu gibt es eine Coverversion von *Breaking the Law* (*Judas Priest*); vorab erschien *Head Dead*. Ein schneller, roher Thrash-Einstand.
 
 ::genre::thrash metal
-
-### worst daughter - endless supply
-
-tbd
-
-::genre::
