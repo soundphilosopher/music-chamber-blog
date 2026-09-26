@@ -204,9 +204,9 @@ Das neue Album der Band aus Nyköping, die seit 2014 schweißtreibenden Action-R
 
 ### Dead Sea Apes - Psychic Tension *
 
-Das neue Album der instrumentalen Heavy-Psych-Truppe aus Manchester, erschienen bei *Cardinal Fuzz* (UK) und *Feeding Tube Records* (US). **Psychedelic Rock** und **Noise Rock**. Fünf Stücke, die riesige Riffs, wuchtige Rhythmen und rauschhafte Klangüberladung zu einem nervenzehrenden Soundtrack unserer Zeit verdichten. Dreht auf, hier zermahlt der Lärm jede Ruhe! Die Band knüpft direkt an das Vorgängeralbum *Rewilding* an und mischt japanischen Psych, minimalen Dub und Electric-Era-Miles-Anleihen in ihre Wall of Sound. Ein wuchtiges, hypnotisches Instrumentalalbum.
+Das neue Album der instrumentalen Heavy-Psych-Truppe aus Manchester, erschienen bei *Cardinal Fuzz* (UK) und *Feeding Tube Records* (US). **Psychedelic Rock**, **Noise Rock** und **Instrumental**. Fünf Stücke, die riesige Riffs, wuchtige Rhythmen und rauschhafte Klangüberladung zu einem nervenzehrenden Soundtrack unserer Zeit verdichten. Dreht auf, hier zermahlt der Lärm jede Ruhe! Die Band knüpft direkt an das Vorgängeralbum *Rewilding* an und mischt japanischen Psych, minimalen Dub und Electric-Era-Miles-Anleihen in ihre Wall of Sound. Ein wuchtiges, hypnotisches Instrumentalalbum.
 
-::genre::psych rock, noise rock
+::genre::psych rock, noise rock, instrumental
 
 ### Dekadenza - Wasteland
 
@@ -396,15 +396,15 @@ Das Debütalbum des 2023 gegründeten Trios um Komponist Carlos Borges, Alek Dar
 
 ### Jannis Anastasakis, Peter Knight - Feather
 
-Ein zweieinhalbstündiges Aufnahmesession, komprimiert auf 32 luftige Minuten, entstanden ohne Probe oder Partitur in Athen. Erschienen bei *Room40*, fertiggestellt von Lawrence English. **Drone** und **Ambient**. Anastasakis steuert Säge und Elektronik zu seiner Gitarre bei, Knight Trompete, Elektronik und Synthesizer. Setzt euch hin, hier entsteht Musik im völligen Vertrauen zueinander! Aus der spontanen Begegnung der beiden Musiker wurde ein schwebendes, sehr reduziertes Klangbild destilliert, das nichts von der Unmittelbarkeit der Session verloren hat. Ein leises, hochkonzentriertes Album.
+Ein zweieinhalbstündiges Aufnahmesession, komprimiert auf 32 luftige Minuten, entstanden ohne Probe oder Partitur in Athen. Erschienen bei *Room40*, fertiggestellt von Lawrence English. **Drone**, **Ambient**, **Instrumental** und **Improvisation**. Anastasakis steuert Säge und Elektronik zu seiner Gitarre bei, Knight Trompete, Elektronik und Synthesizer. Setzt euch hin, hier entsteht Musik im völligen Vertrauen zueinander! Aus der spontanen Begegnung der beiden Musiker wurde ein schwebendes, sehr reduziertes Klangbild destilliert, das nichts von der Unmittelbarkeit der Session verloren hat. Ein leises, hochkonzentriertes Album.
 
-::genre::drone, ambient
+::genre::drone, ambient, instrumental, improvisation
 
 ### John McCowen - Pressure Chords
 
-Das erste gemeinsame Album des Komponisten mit Posaunist Weston Olencki und Cellistin Lucy Railton, erschienen bei *Hallow Ground*. **Drone** und **Minimal Ambient**. McCowens Komposition basiert auf der spektralen Analyse von Kontrabassklarinetten-Multiphonics, deren Obertonspektrum das gesamte Stimmsystem des Trios bestimmt. Setzt euch hin, hier braucht Geduld ihre Zeit! Über 34 Minuten weicht zurückhaltender Minimalismus langsam einer maximal affektiven Klanggewalt — zuerst live 2023 in Berlin erprobt, dann ein Jahr später im Studio mit Adam Asnan eingespielt. Ein konzentriertes, sehr diszipliniertes Album.
+Das erste gemeinsame Album des Komponisten mit Posaunist Weston Olencki und Cellistin Lucy Railton, erschienen bei *Hallow Ground*. **Drone**, **Minimal Ambient** und **Instrumental**. McCowens Komposition basiert auf der spektralen Analyse von Kontrabassklarinetten-Multiphonics, deren Obertonspektrum das gesamte Stimmsystem des Trios bestimmt. Setzt euch hin, hier braucht Geduld ihre Zeit! Über 34 Minuten weicht zurückhaltender Minimalismus langsam einer maximal affektiven Klanggewalt — zuerst live 2023 in Berlin erprobt, dann ein Jahr später im Studio mit Adam Asnan eingespielt. Ein konzentriertes, sehr diszipliniertes Album.
 
-::genre::drone, minimal ambient
+::genre::drone, minimal ambient, instrumental
 
 ### Kai Hansen - Born With A Hammer
 
@@ -588,9 +588,9 @@ Das erste Rockalbum seit zwanzig Jahren von Jonah Matranga (*Far*, *New End Orig
 
 ### Ozric Tentacles - Harmonic Mind *
 
-Das siebzehnte Studioalbum der Band, aufgenommen in den eigenen Studios in Schottland, Devon und Glastonbury. **Space Rock** und **Progressive Rock**. Schwebende Gitarrenmelodien, komplexe Rhythmen, satte Synthesizer-Flächen und hypnotische Grooves — nach über vier Jahrzehnten immer noch die eigene Handschrift. Legt auf, hier öffnet sich das Weltall! Der Titel bezieht sich auf die geometrische und harmonische Struktur der Existenz, und erstmals ist die komplette aktuelle Live-Besetzung auf einer Platte vertreten. Produziert von Ed Wynne und Silas Neptune, die auch erstmals selbst mastern. Ein reifes, kosmisch weites Album.
+Das siebzehnte Studioalbum der Band, aufgenommen in den eigenen Studios in Schottland, Devon und Glastonbury. **Space Rock**, **Progressive Rock** und **Instrumental**. Schwebende Gitarrenmelodien, komplexe Rhythmen, satte Synthesizer-Flächen und hypnotische Grooves — nach über vier Jahrzehnten immer noch die eigene Handschrift. Legt auf, hier öffnet sich das Weltall! Der Titel bezieht sich auf die geometrische und harmonische Struktur der Existenz, und erstmals ist die komplette aktuelle Live-Besetzung auf einer Platte vertreten. Produziert von Ed Wynne und Silas Neptune, die auch erstmals selbst mastern. Ein reifes, kosmisch weites Album.
 
-::genre::space rock, prog rock
+::genre::space rock, prog rock, instrumental
 
 ### Pam Risourie - I’ll Never Be Human
 
@@ -606,9 +606,9 @@ Das zweite Album der Band aus Thessaloniki, erschienen bei *Octopus Rising* / *A
 
 ### Patrick Shiroishi, Jason Nazary - here i am no i
 
-Das gemeinsame Debütalbum von Saxofonist Patrick Shiroishi und Schlagzeuger Jason Nazary, erschienen bei *We Jazz Records*. **Free Jazz**. Der spontane Versuch zweier Musiker, den unfassbaren Verlust ihrer engen Freundin, der Trompeterin jaimie branch, zu verarbeiten. Setzt euch hin, hier wird Trauer zu Klang! Aus dem akustischen Duo-Setting heraus erweitert um Elektronik und Stimme entsteht ein frei fließendes Werk mit stetigem Vorwärtsdrang, das sich jenseits klarer Genregrenzen bewegt. Ein bewegendes, sehr persönliches Album.
+Das gemeinsame Debütalbum von Saxofonist Patrick Shiroishi und Schlagzeuger Jason Nazary, erschienen bei *We Jazz Records*. **Free Jazz** und **Improvisation**. Der spontane Versuch zweier Musiker, den unfassbaren Verlust ihrer engen Freundin, der Trompeterin jaimie branch, zu verarbeiten. Setzt euch hin, hier wird Trauer zu Klang! Aus dem akustischen Duo-Setting heraus erweitert um Elektronik und Stimme entsteht ein frei fließendes Werk mit stetigem Vorwärtsdrang, das sich jenseits klarer Genregrenzen bewegt. Ein bewegendes, sehr persönliches Album.
 
-::genre::free jazz
+::genre::free jazz, improvisation
 
 ### Perennial - Modernism
 
@@ -774,9 +774,9 @@ Das neue Album der französischen Saxofonistin, Nachfolger von *Le Temps Virtuos
 
 ### Stinking Lizaveta - Cassandra, Phrophet of Doom
 
-Das zehnte Album der instrumentalen Prog-Doom-Truppe aus Philadelphia, aufgenommen von Steve Roche und gemastert von James Plotkin. **Progressive Doom Metal** und **Doom Rock**. Acht abenteuerliche, sich windende Stücke, die vom dunklen, verhängnisvollen Titeltrack bis zum punkig-hymnischen, folkig angehauchten *Sherman's March* reichen. Dreht auf, hier ist seit den 90ern in West-Philly-Kellern Erfahrung gewachsen! Yanni Papadopoulos an der Gitarre, Alexi Papadopoulos am elektrischen Kontrabass und Cheshire Agusta am Schlagzeug spielen sich durch ein wildes Terrain, ohne je den roten Faden zu verlieren. Ein abenteuerliches, sehr eigenwilliges Instrumentalalbum.
+Das zehnte Album der instrumentalen Prog-Doom-Truppe aus Philadelphia, aufgenommen von Steve Roche und gemastert von James Plotkin. **Progressive Doom Metal**, **Doom Rock** und **Instrumental**. Acht abenteuerliche, sich windende Stücke, die vom dunklen, verhängnisvollen Titeltrack bis zum punkig-hymnischen, folkig angehauchten *Sherman's March* reichen. Dreht auf, hier ist seit den 90ern in West-Philly-Kellern Erfahrung gewachsen! Yanni Papadopoulos an der Gitarre, Alexi Papadopoulos am elektrischen Kontrabass und Cheshire Agusta am Schlagzeug spielen sich durch ein wildes Terrain, ohne je den roten Faden zu verlieren. Ein abenteuerliches, sehr eigenwilliges Instrumentalalbum.
 
-::genre::prog doom metal, doom rock
+::genre::prog doom metal, doom rock, instrumental
 
 ### Storefront Church - Blue Movie
 
@@ -894,9 +894,9 @@ Das neue Album der Band aus Jacksonville, Florida, erschienen bei *Terminus Hate
 
 ### The Spacelords - Uranus Omnibus Sanctus *
 
-Das neunte Album des deutschen Neo-Psychedelic-Trios, erschienen bei *Tonzonen*. **Space Rock** und **Psychedelic Rock**. Vier langformige Stücke, die schweren Rock-Instrumentals und mäandernden Sci-Fi-Ausflügen gleichermaßen Raum geben. Legt euch hin, hier dauert jede Reise, so lange sie will! Marcus Schnitzlers und Ekhard Kazmaiers subtile Rhythmusverschiebungen bilden das Fundament für Matthias Wettsteins Gitarrenarbeit, während Didi Holzner auf dem Titeltrack mit einer Orgel im Old-School-Stil gastiert. Ein weitläufiges, sehr hypnotisches Album.
+Das neunte Album des deutschen Neo-Psychedelic-Trios, erschienen bei *Tonzonen*. **Space Rock**, **Psychedelic Rock** und **Instrumental**. Vier langformige Stücke, die schweren Rock-Instrumentals und mäandernden Sci-Fi-Ausflügen gleichermaßen Raum geben. Legt euch hin, hier dauert jede Reise, so lange sie will! Marcus Schnitzlers und Ekhard Kazmaiers subtile Rhythmusverschiebungen bilden das Fundament für Matthias Wettsteins Gitarrenarbeit, während Didi Holzner auf dem Titeltrack mit einer Orgel im Old-School-Stil gastiert. Ein weitläufiges, sehr hypnotisches Album.
 
-::genre::space rock, psych rock
+::genre::space rock, psych rock, instrumental
 
 ### The Truffle Pigs - Lanes and Lanes and Lanes
 
@@ -1002,9 +1002,9 @@ Die EP der Post-Hardcore-Band aus Nashville vereint aktuelle und ehemalige Mitgl
 
 ### Yomi Ship - Baku
 
-Das neue Album der Band erweitert ihr progressives Klanggeflecht aus Math Rock, Psychedelic Rock und Art Rock um nuancierte Jazz-Sensibilität; der Kurationsprozess begann bereits im Februar 2025. **Art Rock**, **Math Rock** und **Psychedelic Rock**. Verschachtelte Rhythmen und weite, psychedelische Klangflächen tragen die Platte durch ihre volle Bandbreite. Dreht auf, hier verschmelzen Kanten und Traumwelten! Progressive Strukturen treffen auf jazzige Feinheiten, ohne dabei an Direktheit zu verlieren. Ein vielschichtiges, souverän gewobenes Album.
+Das neue Album der Band erweitert ihr progressives Klanggeflecht aus Math Rock, Psychedelic Rock und Art Rock um nuancierte Jazz-Sensibilität; der Kurationsprozess begann bereits im Februar 2025. **Art Rock**, **Math Rock**, **Psychedelic Rock** und **Instrumental**. Verschachtelte Rhythmen und weite, psychedelische Klangflächen tragen die Platte durch ihre volle Bandbreite. Dreht auf, hier verschmelzen Kanten und Traumwelten! Progressive Strukturen treffen auf jazzige Feinheiten, ohne dabei an Direktheit zu verlieren. Ein vielschichtiges, souverän gewobenes Album.
 
-::genre::art rock, math rock, psych rock
+::genre::art rock, math rock, psych rock, instrumental
 
 ---
 
@@ -1012,9 +1012,9 @@ Das neue Album der Band erweitert ihr progressives Klanggeflecht aus Math Rock, 
 
 ### Alan Davey - Astrolabes And Sunstones *
 
-Das neue Soloalbum des langjährigen *Hawkwind*-Bassisten erscheint bei *Savant Guarde Records* als rein instrumentale Reise durch psychedelische, progressive und soundtrackartige Klangwelten. **Psychedelic Rock**, **Progressive Rock** und **Space Rock**. Kosmische Kompositionen, hypnotische Texturen und progressive elektronische Atmosphären tragen die Platte durch ihre volle Länge. Dreht auf, hier kreisen Astrolabien durch endlosen Weltraum! Seit über vier Jahrzehnten prägt Davey den Progressive- und Space-Rock entscheidend mit, zuletzt als Bassist bei *Hawkwind*. Eine kosmisch weite, souverän instrumentale Reise.
+Das neue Soloalbum des langjährigen *Hawkwind*-Bassisten erscheint bei *Savant Guarde Records* als rein instrumentale Reise durch psychedelische, progressive und soundtrackartige Klangwelten. **Psychedelic Rock**, **Progressive Rock**, **Space Rock** und **Instrumental**. Kosmische Kompositionen, hypnotische Texturen und progressive elektronische Atmosphären tragen die Platte durch ihre volle Länge. Dreht auf, hier kreisen Astrolabien durch endlosen Weltraum! Seit über vier Jahrzehnten prägt Davey den Progressive- und Space-Rock entscheidend mit, zuletzt als Bassist bei *Hawkwind*. Eine kosmisch weite, souverän instrumentale Reise.
 
-::genre::psych rock, prog rock, space rock
+::genre::psych rock, prog rock, space rock, instrumental
 
 ### Anoreksi - Insignificance
 
@@ -1144,9 +1144,9 @@ Das neue Album des Solo-Emo-Projekts aus Los Angeles bringt zehn Songs zwischen 
 
 ### Tara Clerkin, Memotone - For Clarinets
 
-Auf Einladung des Labels Bliss Archive entstand diese fünf Tracks umfassende Improvisationssession für zwei Klarinetten und eine Reihe von Pedalen. **Modern Classic** und **Ambient**. Schwebende, atmende Klangflächen bewegen sich irgendwo zwischen Jon Hassells Fourth-World-Experimenten und impressionistischem Jazz. Setzt euch hin, hier wird die Klarinette zur Zeitlupen-Klezmer-Stimme! Die Session bleibt durchgehend melancholisch und zugleich von eindringlicher Schönheit. Eine zarte, meditative Zusammenarbeit.
+Auf Einladung des Labels Bliss Archive entstand diese fünf Tracks umfassende Improvisationssession für zwei Klarinetten und eine Reihe von Pedalen. **Modern Classic**, **Ambient**, **Instrumental** und **Improvisation**. Schwebende, atmende Klangflächen bewegen sich irgendwo zwischen Jon Hassells Fourth-World-Experimenten und impressionistischem Jazz. Setzt euch hin, hier wird die Klarinette zur Zeitlupen-Klezmer-Stimme! Die Session bleibt durchgehend melancholisch und zugleich von eindringlicher Schönheit. Eine zarte, meditative Zusammenarbeit.
 
-::genre::modern classic, ambient
+::genre::modern classic, ambient, instrumental, improvisation
 
 ### Vaginality - Suffocating in Gastric Filth
 
@@ -1174,6 +1174,6 @@ Die Band aus Muscatine, Iowa, bezeichnet sich selbst als Stoner-Doom-Drone-Sludg
 
 ### Xavier Boscher - Shapeshifter
 
-Das neue, rein instrumentale Album erscheint bei *Orfeolab Records* und verbindet kosmischen Fusion-Jazz mit progressivem Rock. **Jazz Fusion**, **Progressive Rock** und **Progressive Metal**. Futuristische Jazz-Läufe treffen auf satte, an Joe Satriani erinnernde Gitarrenarbeit. Dreht auf, hier wechselt die Gestalt mit jedem Takt! Zwischen jazzigen Ausflügen und schweren Gitarrenpassagen bleibt die Platte ständig in Bewegung. Ein vielgestaltiges, virtuoses Instrumentalalbum.
+Das neue, rein instrumentale Album erscheint bei *Orfeolab Records* und verbindet kosmischen Fusion-Jazz mit progressivem Rock. **Jazz Fusion**, **Progressive Rock**, **Progressive Metal** und **Instrumental**. Futuristische Jazz-Läufe treffen auf satte, an Joe Satriani erinnernde Gitarrenarbeit. Dreht auf, hier wechselt die Gestalt mit jedem Takt! Zwischen jazzigen Ausflügen und schweren Gitarrenpassagen bleibt die Platte ständig in Bewegung. Ein vielgestaltiges, virtuoses Instrumentalalbum.
 
-::genre::jazz fusion, prog rock, prog metal
+::genre::jazz fusion, prog rock, prog metal, instrumental

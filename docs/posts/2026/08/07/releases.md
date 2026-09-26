@@ -36,9 +36,9 @@ Ein legendäres Underground-Kollektiv unter der Leitung des Multi-Instrumentalis
 
 ### Arman Sangalang - Waypoints
 
-Ein außergewöhnlich talentierter Saxophonist und Komponist, der 2026 als *Luminarts Jazz Improvisation Fellow* ausgezeichnet wurde. Nach seinem gefeierten Quartett-Debüt im Jahr 2023 ist er aus den renommierten Jazzclubs des Mittleren Westens nicht mehr wegzudenken und steht dort regelmäßig gemeinsam mit erstklassigen modernen Instrumentalisten auf der Bühne. **Moderner akustischer Jazz**, **zeitgenössischer Post-Bop** und filmischer **Improvisationsjazz**. Dieses Album entfaltet sich wunderschön wie eine Galerie bewegender, nächtlicher akustischer Porträts. Das Saxophon übernimmt die Führung mit einer unglaublich fließenden, erzählerischen Wärme und führt komplexe, spontane musikalische Dialoge mit einer herausragenden, frei fließenden Rhythmusgruppe. Es behandelt die Themen Zeit, Bewegung und Meilensteine des Lebens mit müheloser, unbeschwerter Raffinesse und sorgt so dafür, dass das Album von Anfang bis Ende tiefgründig nachdenklich und zugleich durch und durch fesselnd bleibt.
+Ein außergewöhnlich talentierter Saxophonist und Komponist, der 2026 als *Luminarts Jazz Improvisation Fellow* ausgezeichnet wurde. Nach seinem gefeierten Quartett-Debüt im Jahr 2023 ist er aus den renommierten Jazzclubs des Mittleren Westens nicht mehr wegzudenken und steht dort regelmäßig gemeinsam mit erstklassigen modernen Instrumentalisten auf der Bühne. **Moderner akustischer Jazz**, **zeitgenössischer Post-Bop**, filmischer **Improvisationsjazz** und **Instrumental**. Dieses Album entfaltet sich wunderschön wie eine Galerie bewegender, nächtlicher akustischer Porträts. Das Saxophon übernimmt die Führung mit einer unglaublich fließenden, erzählerischen Wärme und führt komplexe, spontane musikalische Dialoge mit einer herausragenden, frei fließenden Rhythmusgruppe. Es behandelt die Themen Zeit, Bewegung und Meilensteine des Lebens mit müheloser, unbeschwerter Raffinesse und sorgt so dafür, dass das Album von Anfang bis Ende tiefgründig nachdenklich und zugleich durch und durch fesselnd bleibt.
 
-::genre::modern jazz, post bop, improvisation
+::genre::modern jazz, post bop, improvisation, instrumental
 
 ### Asian Glow - Arin Cot
 
@@ -60,9 +60,9 @@ Gegründet im Jahr 2021 von den Multi-Instrumentalisten René Gómez und Gabriel
 
 ### Ben Crosland Quintet - North York Skies
 
-Unter der Leitung des erfahrenen Jazzbassisten und Komponisten Ben Crosland, der ein äußerst eingespieltes, seit langem bestehendes Quintett zusammenstellt, bestehend aus Steve Waterman (Trompete/Flügelhorn), Steve Lodder (Klavier/Orgel), Chris Allard (Gitarre) und Nic France (Schlagzeug). Melodischer **zeitgenössischer Jazz**, **Hard-Bop**-Phrasierung und reichhaltige akustische Arrangements. Dieses Album ist ein wunderschöner, mitreißender musikalischer Liebesbrief, der ganz und gar den sanften Landschaften und alten Legenden der North York Moors gewidmet ist. Die Trompetenlinien wirken wie warmes Sonnenlicht, das über die Hügel bricht, während die Hammondorgel und der Kontrabass die gesamte Reise mit sanften, raffinierten Rhythmen untermalen. Es wirkt unglaublich beruhigend und geduldig, fast wie eine malerische Zugfahrt durch die Landschaft, bei der das Ziel weit weniger zählt als der wunderschöne Ausblick aus dem Fenster.
+Unter der Leitung des erfahrenen Jazzbassisten und Komponisten Ben Crosland, der ein äußerst eingespieltes, seit langem bestehendes Quintett zusammenstellt, bestehend aus Steve Waterman (Trompete/Flügelhorn), Steve Lodder (Klavier/Orgel), Chris Allard (Gitarre) und Nic France (Schlagzeug). Melodischer **zeitgenössischer Jazz**, **Hard-Bop**-Phrasierung, reichhaltige akustische Arrangements und **Instrumental**. Dieses Album ist ein wunderschöner, mitreißender musikalischer Liebesbrief, der ganz und gar den sanften Landschaften und alten Legenden der North York Moors gewidmet ist. Die Trompetenlinien wirken wie warmes Sonnenlicht, das über die Hügel bricht, während die Hammondorgel und der Kontrabass die gesamte Reise mit sanften, raffinierten Rhythmen untermalen. Es wirkt unglaublich beruhigend und geduldig, fast wie eine malerische Zugfahrt durch die Landschaft, bei der das Ziel weit weniger zählt als der wunderschöne Ausblick aus dem Fenster.
 
-::genre::contemporary jazz, hard bop, improvisation
+::genre::contemporary jazz, hard bop, improvisation, instrumental
 
 ### Better Living. - fix your heart
 
@@ -78,9 +78,9 @@ Blums ist das Künstlername der Sängerin, Songwriterin und Multi-Instrumentalis
 
 ### Bryan Murray - Wolf
 
-Ein experimentierfreudiger Tenorsaxophonist, der das Avantgarde-Country-Projekt "Bryan and the Haggards" leitet, bei "Unspeakable Garbage" spielt und bereits an der Seite von Pop-Visionären wie David Byrne und St. Vincent aufgetreten ist. Für diese akustische Besetzung holt er seine engen Mitstreiter Adam Linz (Bass) und Dan Monaghan (Schlagzeug) mit ins Boot. Akkordloser Trio-**Jazz**, **Hard-Bop**-Eleganz und freie **Improvisation**. Indem es auf Klavier und Gitarre vollständig verzichtet, gibt sich dieses akkordlose Trio ganz der rohen, räumlichen Freiheit hin. Die erzählerischen Glanzleistungen des Saxophons strahlen hell über einem beharrlichen, geheimnisvollen Bass-Ostinato und knackigem, tanzendem Becken-Spiel. Die Platte fängt mühelos Kindheitserinnerungen und offene Improvisationsdialoge mit einer fantastischen, voll aufgedrehten Energie ein. Es ist ein intensives, ernstes und doch äußerst verspieltes Jazz-Workout, das sich brillant ungezähmt anfühlt.
+Ein experimentierfreudiger Tenorsaxophonist, der das Avantgarde-Country-Projekt "Bryan and the Haggards" leitet, bei "Unspeakable Garbage" spielt und bereits an der Seite von Pop-Visionären wie David Byrne und St. Vincent aufgetreten ist. Für diese akustische Besetzung holt er seine engen Mitstreiter Adam Linz (Bass) und Dan Monaghan (Schlagzeug) mit ins Boot. Akkordloser Trio-**Jazz**, **Hard-Bop**-Eleganz, freie **Improvisation** und **Instrumental**. Indem es auf Klavier und Gitarre vollständig verzichtet, gibt sich dieses akkordlose Trio ganz der rohen, räumlichen Freiheit hin. Die erzählerischen Glanzleistungen des Saxophons strahlen hell über einem beharrlichen, geheimnisvollen Bass-Ostinato und knackigem, tanzendem Becken-Spiel. Die Platte fängt mühelos Kindheitserinnerungen und offene Improvisationsdialoge mit einer fantastischen, voll aufgedrehten Energie ein. Es ist ein intensives, ernstes und doch äußerst verspieltes Jazz-Workout, das sich brillant ungezähmt anfühlt.
 
-::genre::hard bop, free jazz, improvisation
+::genre::hard bop, free jazz, improvisation, instrumental
 
 ### Citizen - Halcyon Blues
 
@@ -90,9 +90,9 @@ Die Band, die sich bereits während der Schulzeit gegründet hat, blickt auf bee
 
 ### Clark Sommers - WaBaSH
 
-Ein mit einem Grammy ausgezeichneter Jazzbassist, der weltweit für seine Tourneen mit dem Sänger Kurt Elling bekannt ist. Er leitet hier ein außergewöhnliches, seit langem bestehendes Quartett, in dem lokale Größen wie Geof Bradfield (Saxophon), Dana Hall (Schlagzeug) und John "Wojo" Wojciechowski (Saxophon) mitwirken. Moderner **akustischer Jazz**, **Hard Bop**, **avantgardistische Improvisationen** und **Post-Bop**-Quartett-Swing. Diese Aufnahme verdeutlicht das unglaubliche, fast schon telepathische musikalische Vertrauen, das nur durch zwei Jahrzehnte gemeinsamer Bühnenauftritte entstehen kann. Die Arrangements wechseln nahtlos von hochdisziplinierten, samtigen Hard-Bop-Swing-Passagen zu unvorhersehbaren Free-Jazz-Erkundungen. Das Album geht wunderbar mit Kontrasten um und wechselt zwischen verspielten, ironischen instrumentalen Anspielungen und tiefen, rauchigen modalen Klängen. Es ist ein außergewöhnlich raffiniertes, warmes akustisches Erlebnis, das von der Weisheit spätnächtlicher Clubs durchdrungen ist.
+Ein mit einem Grammy ausgezeichneter Jazzbassist, der weltweit für seine Tourneen mit dem Sänger Kurt Elling bekannt ist. Er leitet hier ein außergewöhnliches, seit langem bestehendes Quartett, in dem lokale Größen wie Geof Bradfield (Saxophon), Dana Hall (Schlagzeug) und John "Wojo" Wojciechowski (Saxophon) mitwirken. Moderner **akustischer Jazz**, **Hard Bop**, **avantgardistische Improvisationen**, **Post-Bop**-Quartett-Swing und **Instrumental**. Diese Aufnahme verdeutlicht das unglaubliche, fast schon telepathische musikalische Vertrauen, das nur durch zwei Jahrzehnte gemeinsamer Bühnenauftritte entstehen kann. Die Arrangements wechseln nahtlos von hochdisziplinierten, samtigen Hard-Bop-Swing-Passagen zu unvorhersehbaren Free-Jazz-Erkundungen. Das Album geht wunderbar mit Kontrasten um und wechselt zwischen verspielten, ironischen instrumentalen Anspielungen und tiefen, rauchigen modalen Klängen. Es ist ein außergewöhnlich raffiniertes, warmes akustisches Erlebnis, das von der Weisheit spätnächtlicher Clubs durchdrungen ist.
 
-::genre::free jazz, avant jazz, post bop, hard bop, improvisation
+::genre::free jazz, avant jazz, post bop, hard bop, improvisation, instrumental
 
 ### Conrad Subs - Have Some Of That
 
@@ -114,9 +114,9 @@ Ein einzigartiges fünfköpfiges Rock-Ensemble mit der Sängerin Katie Harnett u
 
 ### Daniel Schreiner - Unmoored
 
-Ein gefeierter klassischer Pianist und interdisziplinärer Künstler. Er ist bekannt für seine Interpretationen komplexer Werke des 20. und 21. Jahrhunderts und arbeitet hier mit fünf herausragenden zeitgenössischen Komponisten zusammen: Sato Matsui, Nina Shekhar, Brittany J. Green, Ramin Roshandel und Luciano Leite Barbosa. **Avantgardistische zeitgenössische Klassik**, modernes **Solo-Piano** und experimentelle akustische Musik. Dieses Album behandelt das Klavier wie ein lebendiges, atmendes Laboratorium der reinen Fantasie. Die Musik schwebt zwischen vollkommen stillen, geisterhaften Räumen, in denen die Tasten kaum zu hören sind, und plötzlichen, dramatischen Kaskaden schwerer Akkorde, die in den Ohren widerhallen. Sie lotet die tiefe menschliche Spannung zwischen Struktur und Freiheit aus und wirkt wie eine wunderschön hypnotische, sich wandelnde Landschaft aus akustischen Farben, die die Zeit selbst völlig fließend erscheinen lässt.
+Ein gefeierter klassischer Pianist und interdisziplinärer Künstler. Er ist bekannt für seine Interpretationen komplexer Werke des 20. und 21. Jahrhunderts und arbeitet hier mit fünf herausragenden zeitgenössischen Komponisten zusammen: Sato Matsui, Nina Shekhar, Brittany J. Green, Ramin Roshandel und Luciano Leite Barbosa. **Avantgardistische zeitgenössische Klassik**, modernes **Solo-Piano**, experimentelle akustische Musik und **Instrumental**. Dieses Album behandelt das Klavier wie ein lebendiges, atmendes Laboratorium der reinen Fantasie. Die Musik schwebt zwischen vollkommen stillen, geisterhaften Räumen, in denen die Tasten kaum zu hören sind, und plötzlichen, dramatischen Kaskaden schwerer Akkorde, die in den Ohren widerhallen. Sie lotet die tiefe menschliche Spannung zwischen Struktur und Freiheit aus und wirkt wie eine wunderschön hypnotische, sich wandelnde Landschaft aus akustischen Farben, die die Zeit selbst völlig fließend erscheinen lässt.
 
-::genre::modern classic, avant classic, solo piano, experimental ambient
+::genre::modern classic, avant classic, solo piano, experimental ambient, instrumental
 
 ### Dark Plague - Masquerade
 
@@ -132,9 +132,9 @@ Ein äußerst produktives Underground-Soloprojekt, das seit fast zwei Jahrzehnte
 
 ### Din of Celestial Birds - Takeoffs & Landings *
 
-Ein schnell aufsteigendes, unglaublich fleißiges Instrumentalquintett, das sich nach der Veröffentlichung seines Debütalbums "The Night Is For Dreamers" im Jahr 2023 auf der europäischen Festivalszene einen hervorragenden Namen gemacht hat. Schwerer **progressiver Post-Rock**, **Math-Rock** und instrumentaler **Post-Metal**. Getreu seinem Namen entfaltet sich dieses instrumentale Konzeptalbum genau wie eine epische Reise in luftiger Höhe, die die wörtlichen und bildlichen Belastungen des Reisens und des Abenteuers erkundet. Die Musik gleitet nahtlos von sanften, nachdenklichen Solo-Klavierpassagen und atmosphärischen Küstenlandschaften direkt hin zu rasanten, von Blastbeats untermalten Explosionen tosenden Gitarrendonnerns. Sie behandelt schwere, offen zur Schau gestellte menschliche Emotionen mit einem immensen Sinn für filmische Größe und hinterlässt beim Landeanflug ein Gefühl des absoluten Triumphs.
+Ein schnell aufsteigendes, unglaublich fleißiges Instrumentalquintett, das sich nach der Veröffentlichung seines Debütalbums "The Night Is For Dreamers" im Jahr 2023 auf der europäischen Festivalszene einen hervorragenden Namen gemacht hat. Schwerer **progressiver Post-Rock**, **Math-Rock**, instrumentaler **Post-Metal** und **Instrumental**. Getreu seinem Namen entfaltet sich dieses instrumentale Konzeptalbum genau wie eine epische Reise in luftiger Höhe, die die wörtlichen und bildlichen Belastungen des Reisens und des Abenteuers erkundet. Die Musik gleitet nahtlos von sanften, nachdenklichen Solo-Klavierpassagen und atmosphärischen Küstenlandschaften direkt hin zu rasanten, von Blastbeats untermalten Explosionen tosenden Gitarrendonnerns. Sie behandelt schwere, offen zur Schau gestellte menschliche Emotionen mit einem immensen Sinn für filmische Größe und hinterlässt beim Landeanflug ein Gefühl des absoluten Triumphs.
 
-::genre::prog rock, post rock, post metal, math rock
+::genre::prog rock, post rock, post metal, math rock, instrumental
 
 ### Dishumane - Centurion’s Demise
 
@@ -150,9 +150,9 @@ Die in Minsk gegründete Band hat sich international einen hervorragenden Ruf er
 
 ### Edena Gardens - Quintessence *
 
-Ein gewaltiges skandinavisches Underground-Super-Trio, bestehend aus dem Gitarristen Nicklas Sørensen (von der Band Papir), dem Bassisten Martin Rude und dem Schlagzeuger Jakob Skøtt (von Causa Sui). **Psychedelic Rock**, **Krautrock**, **Drone** und **Ambient**-Instrumental-Jams. Mit einer Spielzeit von satten 79 Minuten fühlt sich dieses Album an, als würde man durch ein Kaleidoskop beobachten, wie sich Kontinente langsam verschieben. Es setzt auf einen geduldigen, gemächlichen, alchemistischen Rhythmus, bei dem geisterhafte Schlagzeugschichten und kantige Gitarrenklänge sich über schweren Bassgrooves verwandeln. Es wirkt wie eine gewaltige, seismische Meditation über den langsamen Lauf der Zeit – perfekt, um sich ein gutes Kopfhörerpaar aufzusetzen und sich vollständig aus der realen Welt zurückzuziehen.
+Ein gewaltiges skandinavisches Underground-Super-Trio, bestehend aus dem Gitarristen Nicklas Sørensen (von der Band Papir), dem Bassisten Martin Rude und dem Schlagzeuger Jakob Skøtt (von Causa Sui). **Psychedelic Rock**, **Krautrock**, **Drone**, **Ambient**-Instrumental-Jams und **Instrumental**. Mit einer Spielzeit von satten 79 Minuten fühlt sich dieses Album an, als würde man durch ein Kaleidoskop beobachten, wie sich Kontinente langsam verschieben. Es setzt auf einen geduldigen, gemächlichen, alchemistischen Rhythmus, bei dem geisterhafte Schlagzeugschichten und kantige Gitarrenklänge sich über schweren Bassgrooves verwandeln. Es wirkt wie eine gewaltige, seismische Meditation über den langsamen Lauf der Zeit – perfekt, um sich ein gutes Kopfhörerpaar aufzusetzen und sich vollständig aus der realen Welt zurückzuziehen.
 
-::genre::psych rock, krautrock, drone, ambient, improvisation
+::genre::psych rock, krautrock, drone, ambient, improvisation, instrumental
 
 ### Exola - Rocks!
 
@@ -264,9 +264,9 @@ Ein gefeiertes Indie-Folk-Duo, bestehend aus Jack Griffiths und Oliver Wilde. Be
 
 ### Mike Clark - Kuon Ganjo (Time Without Beginning)
 
-Eine Schlagzeug-Ikone mit sieben Jahrzehnten Erfahrung, bekannt für seine legendären Jazz-Funk-Grooves in Herbie Hancocks Band *The Headhunters*. Hier leitet er ein All-Star-Quintett mit den Jazz-Größen Eddie Henderson (Trompete), Patrice Rushen (Klavier), Craig Handy (Saxophon) und Essiet Okon Essiet (Bass). **Hard Bop**, **Post-Bop**, **East-Coast-Jazz** und **avantgardistische Swing**-Rhythmen. Diese Platte wirkt wie eine Meisterklasse auf höchstem Niveau, bei der die Regeln rein optional sind. Sie wechselt blitzschnell von unglaublich präzisen, treibenden Swing-Rhythmen zu völlig freien, unvorhersehbaren Klangexperimenten, ohne dabei auch nur einen Tropfen Schweiß zu vergießen. Sie ist herrlich schrullig, brillant vielschichtig und strotzt nur so vor einer schelmischen Energie, die die Ohren ständig im Ungewissen lässt, welcher Groove als Nächstes auf sie wartet.
+Eine Schlagzeug-Ikone mit sieben Jahrzehnten Erfahrung, bekannt für seine legendären Jazz-Funk-Grooves in Herbie Hancocks Band *The Headhunters*. Hier leitet er ein All-Star-Quintett mit den Jazz-Größen Eddie Henderson (Trompete), Patrice Rushen (Klavier), Craig Handy (Saxophon) und Essiet Okon Essiet (Bass). **Hard Bop**, **Post-Bop**, **East-Coast-Jazz**, **avantgardistische Swing**-Rhythmen und **Instrumental**. Diese Platte wirkt wie eine Meisterklasse auf höchstem Niveau, bei der die Regeln rein optional sind. Sie wechselt blitzschnell von unglaublich präzisen, treibenden Swing-Rhythmen zu völlig freien, unvorhersehbaren Klangexperimenten, ohne dabei auch nur einen Tropfen Schweiß zu vergießen. Sie ist herrlich schrullig, brillant vielschichtig und strotzt nur so vor einer schelmischen Energie, die die Ohren ständig im Ungewissen lässt, welcher Groove als Nächstes auf sie wartet.
 
-::genre::hard bop, post bop, avant jazz, swing
+::genre::hard bop, post bop, avant jazz, swing, instrumental
 
 ### Negative Frame - Break The Ice
 
@@ -276,9 +276,9 @@ Diese 2017 gegründete Underground-Familie hat sich neun lange Jahre lang in der
 
 ### Neptunian Maximalism - Nāgabhūtaṃ *
 
-Ein formwandelndes, generationenübergreifendes Musikkollektiv namens Éons Quartet. Mit monströs schweren Gitarren, kolossalen Saxophonen und Duellen zweier Percussionisten erschaffen sie gewaltige Klangrituale. **Improvisatorischer Drone-Doom-Metal**, **Psychedelic Rock** und **Avantgarde-Jazz**. Dies ist nicht nur ein Live-Album – es ist ein 42-minütiges, tranceartiges, psychedelisches Zauberritual, das darauf ausgelegt ist, dein Gehirn in Brei zu verwandeln. Die Musik windet sich langsam wie eine riesige Schlange um dich herum und schafft mit schweren Wänden aus Gitarrenlärm, unheimlichen Saxophonklängen und martialischen Schlagzeugduellen eine überwältigende Atmosphäre. Sie ist düster, zutiefst mystisch und fängt perfekt das Gefühl ein, tief unter der Erde in eine uralte, verbotene Zeremonie zu stolpern.
+Ein formwandelndes, generationenübergreifendes Musikkollektiv namens Éons Quartet. Mit monströs schweren Gitarren, kolossalen Saxophonen und Duellen zweier Percussionisten erschaffen sie gewaltige Klangrituale. **Improvisatorischer Drone-Doom-Metal**, **Psychedelic Rock**, **Avantgarde-Jazz** und **Improvisation**. Dies ist nicht nur ein Live-Album – es ist ein 42-minütiges, tranceartiges, psychedelisches Zauberritual, das darauf ausgelegt ist, dein Gehirn in Brei zu verwandeln. Die Musik windet sich langsam wie eine riesige Schlange um dich herum und schafft mit schweren Wänden aus Gitarrenlärm, unheimlichen Saxophonklängen und martialischen Schlagzeugduellen eine überwältigende Atmosphäre. Sie ist düster, zutiefst mystisch und fängt perfekt das Gefühl ein, tief unter der Erde in eine uralte, verbotene Zeremonie zu stolpern.
 
-::genre::avant jazz, drone, doom metal, psych rock, jazz rock, jazz fusion
+::genre::avant jazz, drone, doom metal, psych rock, jazz rock, jazz fusion, improvisation
 
 ### New Sun - Hanged’s Fate
 
@@ -288,9 +288,9 @@ Diese aufstrebende Band, die aus der italienischen Metal-Underground-Szene hervo
 
 ### Nicola Miller’s Living Things - Spit!
 
-Unter der Leitung der Altsaxophonistin und Komponistin Nicola Miller. Das Projekt zeichnet sich durch ein enges, gewagtes Zusammenspiel mit erfahrenen Musikern wie Frank Gratkowski und Doug Tielli aus. **Avantgarde-Jazz**, **Free-Jazz** und experimentelle Improvisationsmusik. Diese Platte verhält sich wie ein lebendiges, atmendes Wesen, das sich weigert, für ein Porträt stillzuhalten. Sie beginnt mit äußerst energiegeladenen, ineinandergreifenden Bläser-Grooves, bevor sie in exzentrische, weitläufige Balladen und wilde, freie instrumentale Dialoge übergeht. Es entsteht ein faszinierendes Wechselspiel zwischen sorgfältig ausgearbeiteten Arrangements und Momenten, in denen die Musiker gemeinsam alle Regeln über Bord werfen. Ein aufregend unvorhersehbares Hörerlebnis für alle, die ihren Jazz mit einer kräftigen Prise kreativer Rebellion mögen.
+Unter der Leitung der Altsaxophonistin und Komponistin Nicola Miller. Das Projekt zeichnet sich durch ein enges, gewagtes Zusammenspiel mit erfahrenen Musikern wie Frank Gratkowski und Doug Tielli aus. **Avantgarde-Jazz**, **Free-Jazz**, experimentelle Improvisationsmusik und **Instrumental**. Diese Platte verhält sich wie ein lebendiges, atmendes Wesen, das sich weigert, für ein Porträt stillzuhalten. Sie beginnt mit äußerst energiegeladenen, ineinandergreifenden Bläser-Grooves, bevor sie in exzentrische, weitläufige Balladen und wilde, freie instrumentale Dialoge übergeht. Es entsteht ein faszinierendes Wechselspiel zwischen sorgfältig ausgearbeiteten Arrangements und Momenten, in denen die Musiker gemeinsam alle Regeln über Bord werfen. Ein aufregend unvorhersehbares Hörerlebnis für alle, die ihren Jazz mit einer kräftigen Prise kreativer Rebellion mögen.
 
-::genre::avant jazz, free jazz, improvisation
+::genre::avant jazz, free jazz, improvisation, instrumental
 
 ### Phantom Corporation / Catbreath - Commando / Die By The Claw
 
@@ -390,9 +390,9 @@ Ein anonymes Soloprojekt, das seit 2023 aktiv ist. Unter völliger Geheimhaltung
 
 ### Tom Challenger & Evan Parker - May Spring Last a Lifetime
 
-Evan Parker ist eine legendäre, wegweisende Persönlichkeit des europäischen Free Jazz, während Tom Challenger ein äußerst versierter moderner Tenorsaxophonist ist. Beide verfügen über enorme technische Meisterschaft auf dem Tenorsaxophon. **Free Jazz**, freie **Improvisation** und **Avantgarde**. Der Stil konzentriert sich ganz auf avantgardistisches akustisches Zusammenspiel, Zirkularatmungstechniken und spontane klangliche Erkundungen. Zwei Männer betreten ein Studio in Ramsgate mit nichts als zwei Tenorsaxophonen und einem Traum, und sie lassen das Tonbandgerät fast eine Stunde lang laufen. Das Ergebnis ist eine wilde, der Schwerkraft trotzende Meisterklasse in musikalischer Telepathie. Es gibt Momente, in denen die Instrumente ein ganzes, schimmerndes Orchester nachahmen, und andere, in denen sie sich auf grundlegende, wunderschön ruhige Atemtexturen reduzieren. Es ist brillante, völlig uninszenierte Avantgarde-Architektur, die wie ein lebendiges, atmendes Gespräch klingt, ohne dass ein einziges Wort gesprochen wird.
+Evan Parker ist eine legendäre, wegweisende Persönlichkeit des europäischen Free Jazz, während Tom Challenger ein äußerst versierter moderner Tenorsaxophonist ist. Beide verfügen über enorme technische Meisterschaft auf dem Tenorsaxophon. **Free Jazz**, freie **Improvisation**, **Avantgarde** und **Instrumental**. Der Stil konzentriert sich ganz auf avantgardistisches akustisches Zusammenspiel, Zirkularatmungstechniken und spontane klangliche Erkundungen. Zwei Männer betreten ein Studio in Ramsgate mit nichts als zwei Tenorsaxophonen und einem Traum, und sie lassen das Tonbandgerät fast eine Stunde lang laufen. Das Ergebnis ist eine wilde, der Schwerkraft trotzende Meisterklasse in musikalischer Telepathie. Es gibt Momente, in denen die Instrumente ein ganzes, schimmerndes Orchester nachahmen, und andere, in denen sie sich auf grundlegende, wunderschön ruhige Atemtexturen reduzieren. Es ist brillante, völlig uninszenierte Avantgarde-Architektur, die wie ein lebendiges, atmendes Gespräch klingt, ohne dass ein einziges Wort gesprochen wird.
 
-::genre::avant jazz, free jazz, improvisation
+::genre::avant jazz, free jazz, improvisation, instrumental
 
 ### Veil Bearer - Borrowed Time
 

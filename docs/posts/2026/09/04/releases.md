@@ -916,9 +916,9 @@ Ein Projekt, das sich zwischen moderner Klassik und Crossover bewegt und dabei k
 
 ### Jogging House - Really
 
-Das Projekt des deutschen Musikers Boris Potschubay, der mit bemerkenswerter Beständigkeit warmen, texturreichen Ambient veröffentlicht. **Ambient**, **Tape Music** und **Drone**. Analoges Rauschen, weiche Loops und Klänge, die klingen wie durch alte Kassetten gefiltert. Legt es auf und lasst es einfach laufen! Das Album folgt der bewährten Ästhetik: kurze Schleifen, die sich fast unmerklich verändern, überzogen mit einer Bandsättigung, die alles angenehm weich macht. Es passiert wenig, und genau das ist der Punkt — die Musik schafft einen Raum, in dem sich der eigene Kopf beruhigen kann, ohne dass etwas Aufmerksamkeit einfordert. Der Titel klingt fast beiläufig, und diese Beiläufigkeit trägt die ganze Platte. Ein wunderbar unaufdringliches Album zum Arbeiten, Lesen oder einfach zum Dasitzen.
+Das Projekt des deutschen Musikers Boris Potschubay, der mit bemerkenswerter Beständigkeit warmen, texturreichen Ambient veröffentlicht. **Ambient**, **Tape Music**, **Drone** und **Instrumental**. Analoges Rauschen, weiche Loops und Klänge, die klingen wie durch alte Kassetten gefiltert. Legt es auf und lasst es einfach laufen! Das Album folgt der bewährten Ästhetik: kurze Schleifen, die sich fast unmerklich verändern, überzogen mit einer Bandsättigung, die alles angenehm weich macht. Es passiert wenig, und genau das ist der Punkt — die Musik schafft einen Raum, in dem sich der eigene Kopf beruhigen kann, ohne dass etwas Aufmerksamkeit einfordert. Der Titel klingt fast beiläufig, und diese Beiläufigkeit trägt die ganze Platte. Ein wunderbar unaufdringliches Album zum Arbeiten, Lesen oder einfach zum Dasitzen.
 
-::genre::ambient, drone, lofi
+::genre::ambient, drone, lofi, instrumental
 
 ### jonas - Demo.01
 

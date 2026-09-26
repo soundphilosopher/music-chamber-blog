@@ -16,9 +16,9 @@ Das Berliner Quartett legt sein Debütalbum bei *Duchess Box Records* vor — vi
 
 ### Andy Sheppard, Rita Marcotulli, Michel Benita - Salt Catchers
 
-Das erste Zusammentreffen dieses Trios: der britische Saxofonist Andy Sheppard, die italienische Pianistin Rita Marcotulli und der französische Bassist Michel Benita. Aufgenommen im März 2025 im Auditorio Stelio Molo RSI in Lugano, produziert von Manfred Eicher, erschienen bei *ECM*. **Jazz**, **Chamber Jazz** und **Contemporary Jazz**. Kein Schlagzeug, viel Raum und diese typische ECM-Klarheit, in der jeder Ton einzeln steht. Setzt euch hin, hier zählt jede Pause! Acht neue Sheppard-Kompositionen, dazu *Lawns* von *Carla Bley* — eine Widmung an die Musikerin, mit der Sheppard über Jahrzehnte gearbeitet hat, und ein Stück, das in dieser Besetzung besonders nackt und schön wirkt. Die Abwesenheit des Schlagzeugs ist dabei der eigentliche Trick: Marcotulli und Benita übernehmen die rhythmische Arbeit im Wechsel, was den Stücken eine schwebende Beweglichkeit gibt, die ein Schlagzeug zwangsläufig erden würde. Sheppards Ton ist so warm und zurückgenommen wie immer. Ein stilles, sehr elegantes Album.
+Das erste Zusammentreffen dieses Trios: der britische Saxofonist Andy Sheppard, die italienische Pianistin Rita Marcotulli und der französische Bassist Michel Benita. Aufgenommen im März 2025 im Auditorio Stelio Molo RSI in Lugano, produziert von Manfred Eicher, erschienen bei *ECM*. **Jazz**, **Chamber Jazz**, **Contemporary Jazz** und **Instrumental**. Kein Schlagzeug, viel Raum und diese typische ECM-Klarheit, in der jeder Ton einzeln steht. Setzt euch hin, hier zählt jede Pause! Acht neue Sheppard-Kompositionen, dazu *Lawns* von *Carla Bley* — eine Widmung an die Musikerin, mit der Sheppard über Jahrzehnte gearbeitet hat, und ein Stück, das in dieser Besetzung besonders nackt und schön wirkt. Die Abwesenheit des Schlagzeugs ist dabei der eigentliche Trick: Marcotulli und Benita übernehmen die rhythmische Arbeit im Wechsel, was den Stücken eine schwebende Beweglichkeit gibt, die ein Schlagzeug zwangsläufig erden würde. Sheppards Ton ist so warm und zurückgenommen wie immer. Ein stilles, sehr elegantes Album.
 
-::genre::chamber jazz, contemporary jazz, modern jazz
+::genre::chamber jazz, contemporary jazz, modern jazz, instrumental
 
 ### Angela Autumn - Believer
 
@@ -210,9 +210,9 @@ Die Thrash-Pioniere aus Texas legen ihr erstes Album mit neuem Material seit üb
 
 ### George Garzone - Themes for Good Friends
 
-Der Saxofonist, der seit fünfzig Jahren am Berklee College of Music unterrichtet und dort unter anderem *Branford Marsalis*, *Donny McCaslin*, *Joshua Redman* und *Seamus Blake* geprägt hat, legt bei Jojo Records eine Allstar-Quintett-Aufnahme vor. **Jazz**, **Post Bop** und **Contemporary Jazz**. Mit dabei: *Randy Brecker* an der Trompete, Luis Perdomo am Klavier, Santi Debriano am Bass und Jeff "Tain" Watts am Schlagzeug. Auflegen und zuhören, wie das geht! Der Titel ist Programm — das hier ist eine Platte unter Freunden, aufgenommen von Leuten, die einander nichts mehr beweisen müssen. Eröffnet wird mit *Theme for Ernie*, jenem Stück von Fred Lacey, das als Hommage an den Altsaxofonisten Ernie Henry entstand und vor allem durch *John Coltranes* Aufnahme bekannt ist; Perdomo und Garzone spielen es als Duo. Die Vorabsingle *Ripty-Boom* zeigt die andere Seite: knackig, verspielt und mit hörbarem Vergnügen an der Sache. Warm, souverän und völlig unangestrengt.
+Der Saxofonist, der seit fünfzig Jahren am Berklee College of Music unterrichtet und dort unter anderem *Branford Marsalis*, *Donny McCaslin*, *Joshua Redman* und *Seamus Blake* geprägt hat, legt bei Jojo Records eine Allstar-Quintett-Aufnahme vor. **Jazz**, **Post Bop**, **Contemporary Jazz** und **Instrumental**. Mit dabei: *Randy Brecker* an der Trompete, Luis Perdomo am Klavier, Santi Debriano am Bass und Jeff "Tain" Watts am Schlagzeug. Auflegen und zuhören, wie das geht! Der Titel ist Programm — das hier ist eine Platte unter Freunden, aufgenommen von Leuten, die einander nichts mehr beweisen müssen. Eröffnet wird mit *Theme for Ernie*, jenem Stück von Fred Lacey, das als Hommage an den Altsaxofonisten Ernie Henry entstand und vor allem durch *John Coltranes* Aufnahme bekannt ist; Perdomo und Garzone spielen es als Duo. Die Vorabsingle *Ripty-Boom* zeigt die andere Seite: knackig, verspielt und mit hörbarem Vergnügen an der Sache. Warm, souverän und völlig unangestrengt.
 
-::genre::post bop, contemporary jazz, modern jazz
+::genre::post bop, contemporary jazz, modern jazz, instrumental
 
 ### Godslave - Godslave
 
@@ -468,9 +468,9 @@ Das lang erwartete zweite Album von Sabrina Fuentes, erschienen bei *Dirty Hit* 
 
 ### Raphael Weinroth-Browne - Empyrean
 
-Die dritte Veröffentlichung des kanadischen Cellisten — hervorgegangen aus einem Auftrag der Tanzkompanie James Wilton Dance von 2024, für die er unter dem Titel *BACH Reimagined* eine Partitur für Cello schrieb und anschließend ausgiebig tourte. Aufgenommen von Darren McGill, gemischt von Adam Noble (*Leprous*, *Katatonia*), gemastert von Robin Schmidt. **Modern Classical**, **Post Rock**, **Experimental** und **Post Metal**. Ein einziges Cello, vielfach geschichtet, das klingt, als stünde ein ganzes Ensemble im Raum. Setzt euch hin, das ist erstaunlich schwer für ein Streichinstrument! Der Leitgedanke des Stücks war die Schnittstelle zwischen barockem Kontrapunkt und modernem Metal, und genau dort liegt die Platte: Barocke Klarheit trifft auf Post Rock, elektronische Texturen und experimentelles Rauschen. Neun Stücke von *Speed of Light* über *Murmuration* und *Dissolution* bis zum abschließenden *Empyrean*, die diesen Bogen konsequent durchhalten. Eine der ungewöhnlichsten Platten dieser Woche.
+Die dritte Veröffentlichung des kanadischen Cellisten — hervorgegangen aus einem Auftrag der Tanzkompanie James Wilton Dance von 2024, für die er unter dem Titel *BACH Reimagined* eine Partitur für Cello schrieb und anschließend ausgiebig tourte. Aufgenommen von Darren McGill, gemischt von Adam Noble (*Leprous*, *Katatonia*), gemastert von Robin Schmidt. **Modern Classical**, **Post Rock**, **Experimental**, **Post Metal** und **Instrumental**. Ein einziges Cello, vielfach geschichtet, das klingt, als stünde ein ganzes Ensemble im Raum. Setzt euch hin, das ist erstaunlich schwer für ein Streichinstrument! Der Leitgedanke des Stücks war die Schnittstelle zwischen barockem Kontrapunkt und modernem Metal, und genau dort liegt die Platte: Barocke Klarheit trifft auf Post Rock, elektronische Texturen und experimentelles Rauschen. Neun Stücke von *Speed of Light* über *Murmuration* und *Dissolution* bis zum abschließenden *Empyrean*, die diesen Bogen konsequent durchhalten. Eine der ungewöhnlichsten Platten dieser Woche.
 
-::genre::modern classic, post rock, post metal, neo classic
+::genre::modern classic, post rock, post metal, neo classic, instrumental
 
 ### Scorched Earth Policy - Scorched Earth Policy
 
