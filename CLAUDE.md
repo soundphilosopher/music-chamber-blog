@@ -22,6 +22,11 @@ Two listings of the same release are always an error, never a deliberate re-run:
 - **Different weekly pages** → look up the real release date, keep the copy whose Sa–Fr week
   actually contains it. Bandcamp's date is the authority over Apple Music, aggregators, or a
   label page. Ask search questions neutrally — don't lead with a suspected answer.
+- **Out of this week, fits the previous one** → if the verified date falls in the *immediately
+  preceding* Sa–Fr week and the release isn't already listed on that week's page, move it there
+  (into `Friday` or `Earlier the week` by its date, sorted by artist, review and `::genre::`
+  carried over) instead of deleting it. If that page already lists it, delete this copy. Recheck
+  the `<!-- more -->` marker on both pages. Dates further out than one week are still removed.
 
 Each section sorts by **artist only**, case-insensitively. Accent/non-Latin ordering is
 genuinely inconsistent in the existing data (sometimes codepoint order, sometimes accent-
@@ -67,7 +72,9 @@ Only **EPs and LPs**. Singles don't belong here.
 
 Combined with the existing deletion rules, an entry gets removed (no need to ask) when any
 of these hold:
-1. Verified date falls outside the page's Sa–Fr window.
+
+1. Verified date falls outside the page's Sa–Fr window (and can't be moved to the previous
+   week under the rule in *Week structure*).
 2. Nothing can be found about it at all.
 3. No source states a genre for it.
 4. It's clearly a single, not an EP/LP.
