@@ -35,9 +35,9 @@ Releases that deserve extra attention get stars in their headings:
 
 A custom [MkDocs hook](scripts/hooks/mark_top_picks.py) powered by BeautifulSoup parses the HTML at build time and wraps starred entries in styled Material card components. No manual HTML fiddling required.
 
-### Auto-Generated Recaps 🤖
+### Recap Export 🤖
 
-A [generator script](scripts/generators/monthly_recap_draft.py) crawls all the weekly release lists, collects every starred entry, and automatically produces monthly recap pages — grouped by month, linked back to the original review. Write your reviews, sprinkle some stars, and the recaps build themselves.
+A [script](scripts/export_recap_of_the_month.py) crawls all the weekly release lists of a month and writes every starred entry into a plain text file — top picks (`**`) and picks (`*`) in separate sections. Write your reviews, sprinkle some stars, and run `python scripts/export_recap_of_the_month.py --month 2026-09` to see the month at a glance.
 
 ### Genre Overview 🎸
 
@@ -214,7 +214,6 @@ music-chamber/
 │               └── top-of-the-month.md
 ├── scripts/
 │   ├── generators/
-│   │   ├── monthly_recap_draft.py        # Auto-generates monthly recaps
 │   │   └── genre_overview.py             # Auto-generates genre overview
 │   ├── hooks/
 │   │   ├── add_bandcamp_player.py        # Embeds Bandcamp players on pinned pages
@@ -226,7 +225,8 @@ music-chamber/
 │   │   └── mark_top_picks.py             # Transforms starred entries into cards
 │   ├── setup_docs.sh                     # One-command setup
 │   ├── create_posts_structure.py         # Helper: scaffold the weekly post folder structure
-│   └── import_releases_from_list.py      # Helper: import releases from a list
+│   ├── import_releases_from_list.py      # Helper: import releases from a list
+│   └── export_recap_of_the_month.py      # Helper: export the starred picks of a month
 ├── mkdocs.yml                            # Site configuration
 └── pyproject.toml                        # Python project config
 ```
