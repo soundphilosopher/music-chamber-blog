@@ -6,9 +6,9 @@ collects all release headings that carry a trailing star marker:
     - Trailing `` **`` -- top pick
     - Trailing `` *``  -- pick
 
-The result is written as a text file with one section per pick type. A
-section without any release is left out. An existing output file is
-overwritten.
+The result is written as a text file with one section per pick type. Each
+release is followed by its fully expanded genres (comma separated). Releases
+are sorted by name, ignoring case. A section without any release is left out. An existing output file is overwritten.
 
 Usage:
     python scripts/export_recap_of_the_month.py --month <YYYY-MM> [--output <path>]
@@ -25,7 +25,10 @@ import argparse
 import logging
 import re
 
+from dataclasses import dataclass, field
 from pathlib import Path
+
+from utils.genres import GENRE_TAG_PREFIX, normalize_genre_names
 
 
 logging.basicConfig(level=logging.INFO)
@@ -50,6 +53,19 @@ HEADING_PREFIX = "### "
 # so the double star has to be checked first.
 TOP_PICK_SUFFIX = " **"
 PICK_SUFFIX = " *"
+
+
+@dataclass
+class Pick:
+    """A starred release of a weekly post.
+
+    Attributes:
+        name: Release heading without the star marker (``"Artist - Title"``).
+        genres: Expanded genre names (e.g. ``["Post Punk", "Shoegaze"]``).
+    """
+
+    name: str
+    genres: list[str] = field(default_factory=list)
 
 
 def parse_month(value: str) -> tuple[str, str]:
@@ -78,52 +94,74 @@ def month_arg(value: str) -> str:
     return value
 
 
-def collect_picks(releases_path: Path) -> tuple[list[str], list[str]]:
-    """Collect the starred release headings of one weekly releases post.
+def collect_picks(releases_path: Path) -> tuple[list[Pick], list[Pick]]:
+    """Collect the starred releases of one weekly releases post.
 
     Args:
         releases_path: Path to a ``releases.md`` file.
 
     Returns:
-        A ``(top_picks, picks)`` tuple of release names in file order, with the
-        star marker removed (e.g. ``"Elipsis - Elipsis"``).
+        A ``(top_picks, picks)`` tuple of picks in file order, with the star
+        marker removed from the name (e.g. ``"Elipsis - Elipsis"``) and the
+        genres of the release expanded (e.g. ``["Psychedelic Rock"]``).
     """
-    top_picks: list[str] = []
-    picks: list[str] = []
+    top_picks: list[Pick] = []
+    picks: list[Pick] = []
+    current: Pick | None = None
 
     for line in releases_path.read_text(encoding="utf-8").splitlines():
-        if not line.startswith(HEADING_PREFIX):
-            continue
-
-        heading = line.rstrip()
-        if heading.endswith(TOP_PICK_SUFFIX):
-            top_picks.append(heading.removeprefix(HEADING_PREFIX).removesuffix(TOP_PICK_SUFFIX).rstrip())
-        elif heading.endswith(PICK_SUFFIX):
-            picks.append(heading.removeprefix(HEADING_PREFIX).removesuffix(PICK_SUFFIX).rstrip())
+        if line.startswith(HEADING_PREFIX):
+            heading = line.rstrip()
+            current = None
+            if heading.endswith(TOP_PICK_SUFFIX):
+                current = Pick(heading.removeprefix(HEADING_PREFIX).removesuffix(TOP_PICK_SUFFIX).rstrip())
+                top_picks.append(current)
+            elif heading.endswith(PICK_SUFFIX):
+                current = Pick(heading.removeprefix(HEADING_PREFIX).removesuffix(PICK_SUFFIX).rstrip())
+                picks.append(current)
+        elif current is not None and line.startswith(GENRE_TAG_PREFIX):
+            tags = line.removeprefix(GENRE_TAG_PREFIX).split(",")
+            current.genres = normalize_genre_names([tag.strip().lower() for tag in tags if tag.strip()])
 
     return top_picks, picks
 
 
-def build_recap(top_picks: list[str], picks: list[str]) -> str:
+def render_section(title: str, picks: list[Pick]) -> str:
+    """Render one section: a title line followed by every pick and its genres.
+
+    Args:
+        title: Section title without the surrounding ``###`` markers.
+        picks: Picks to list. Releases are separated by a blank line.
+
+    Returns:
+        The section text without a trailing newline.
+    """
+    entries: list[str] = []
+    for pick in picks:
+        lines = [f"- {pick.name}"]
+        if pick.genres:
+            lines.append(f"  {', '.join(pick.genres)}")
+        entries.append("\n".join(lines))
+
+    return f"### {title} ###\n" + "\n\n".join(entries)
+
+
+def build_recap(top_picks: list[Pick], picks: list[Pick]) -> str:
     """Render the recap text. Sections without releases are left out.
 
     Args:
-        top_picks: Release names marked with ``**``.
-        picks: Release names marked with ``*``.
+        top_picks: Releases marked with ``**``.
+        picks: Releases marked with ``*``.
 
     Returns:
         The recap text (empty if there are no picks at all).
     """
     sections: list[str] = []
 
-    # sort the releases alphabetically to make it easier to read
-    top_picks.sort()
-    picks.sort()
-
     if top_picks:
-        sections.append("\n".join(["### top pick ###", *(f"- {release}" for release in top_picks)]))
+        sections.append(render_section("top picks", top_picks))
     if picks:
-        sections.append("\n".join(["### picks ###", *(f"- {release}" for release in picks)]))
+        sections.append(render_section("picks", picks))
 
     return "\n\n".join(sections) + "\n" if sections else ""
 
@@ -131,9 +169,8 @@ def build_recap(top_picks: list[str], picks: list[str]) -> str:
 def export_recap_of_the_month(month: str, output_file: Path) -> None:
     """Export all recap picks of a month into a text file.
 
-    Weekly posts are read in date order, so releases appear in the order of
-    their weeks and, inside a week, in the order of the file. An existing
-    output file is overwritten.
+    Each section is sorted by release name (artist first), ignoring case.
+    An existing output file is overwritten.
 
     Args:
         month: Month in YYYY-MM format (e.g. ``"2026-09"``).
@@ -147,12 +184,15 @@ def export_recap_of_the_month(month: str, output_file: Path) -> None:
     if not release_files:
         log.warning(f"No {RELEASES_FILE} files found in {month_path}")
 
-    top_picks: list[str] = []
-    picks: list[str] = []
+    top_picks: list[Pick] = []
+    picks: list[Pick] = []
     for release_file in release_files:
         week_top_picks, week_picks = collect_picks(release_file)
         top_picks.extend(week_top_picks)
         picks.extend(week_picks)
+
+    top_picks.sort(key=lambda pick: pick.name.casefold())
+    picks.sort(key=lambda pick: pick.name.casefold())
 
     output_file.parent.mkdir(parents=True, exist_ok=True)
     output_file.write_text(build_recap(top_picks, picks), encoding="utf-8")
