@@ -712,11 +712,23 @@ Das dritte Album von Mason, erschienen bei *Eonian Records*, das dritte Kapitel 
 
 ::genre::aor, melo hard rock
 
+### Mawworm - Mawworm
+
+Das Debütalbum der Thrash-Metal-Band aus New Hampshire, seit 2023 aktiv, in Eigenregie veröffentlicht. **Thrash Metal**. Stücke wie *Green Glass*, *Body Farm*, *Erase*, *Living Purgatory*, *Apocalypse Prayer*, *Murdalizer* und *Wendigo*, mit Mike Ware am Gesang, Chris Kessaris und Dane Rand an den Gitarren und Daniel Glynn am Bass. Dreht auf, hier wird gewürgt! Am 25. September erschienen. Ein rohes, kompromissloses Thrash-Debüt.
+
+::genre::thrash metal
+
 ### Meg Lui - Instant Validation
 
 Das Debütalbum der in Nordkalifornien geborenen und seit 2015 im Hudson Valley lebenden Songwriterin, erschienen bei *Asthmatic Kitty Records* und von *Sufjan Stevens* produziert. **Indie Folk** und **Chamber Pop**. Ein Blick in die „wunderbar kuriose Welt“ ihres Kopfes: Songs, die in roher Emotion wurzeln und von einer fantastisch surrealen Besetzung bevölkert sind — anthropomorphe Blumen, Seeungeheuer, Elvis Presley und die unglücklichen Liebenden der griechischen Mythen. Legt auf, hier wird gestaunt! Zwölf Stücke, über ein Jahrzehnt neben mehreren Jobs entstanden; Stevens hat die Demos zu ausgearbeiteten Kompositionen mit orchestralen Arrangements erweitert. Die Singles heißen *Gone Girl*, *Dreams* (mit Stevens) und *Elvis Queen*. Ein warmes, seltsames Debüt.
 
 ::genre::indie folk, chamber pop
+
+### MEGAFAUNA - MEGAFAUNA
+
+Das dritte Album des kanadischen Projekts, erschienen bei *Syrup Moose Records* — nach *Venator* (2024) und *I Owe This Land a Body* (2025). **Experimental Electronica** und **Dark Electronica**. Vierzehn Stücke, darunter *Your Bones Are Always Wet*, *Lost, Found, Discarded*, *It Gets So Much Worse*, *Cyclothymia*, *Beauty in Being Forgotten* (mit dem Cyberpunk-Projekt *Voidscan*) und *The Abyss is Indifferent*; die „Despairtronica“ entstand aus persönlichen Erfahrungen mit Zyklothymie und schwerer Schlafapnoe und vereint das Unbehagen und die Experimentierlust der Vorgänger mit der Energie der Live-Auftritte. Legt euch hin, hier wird verzweifelt getüftelt! Am 25. September erschienen. Ein dunkles, forderndes Album.
+
+::genre::experimental electronica, dark electronica
 
 ### Metalite - Discovery
 
@@ -927,6 +939,12 @@ Das siebte Album des Schweizer Quintetts, erschienen bei *Humus Records*, fünf 
 Das neue Album von Rosetta Stone um Porl King, erschienen bei *Cleopatra Records*, zehn Stücke, das erste seit *Dose Makes The Poison* (2025). **Gothic Rock**, **Death Rock** und **Dark Wave**. Eigene Songs und Coverversionen wechseln sich ab: *Moya* von *Southern Death Cult* (1982), *Pagan Lovesong* von den *Virgin Prunes* (1982) und *Talk About The Weather* von *Red Lorry Yellow Lorry* (1985); als Gast ist Thunder Bae aus der deutschen Elektronikszene dabei. Legt auf, hier wird die Nostalgie hingerichtet! Die erste Single war *Shadowban* (18. August). Ein düsteres Album zwischen Eigenem und Geliehenem.
 
 ::genre::gothic rock, death rock, dark wave
+
+### Rymden - Today May Be Tomorrow
+
+Das vierte Studioalbum des Trios aus Bugge Wesseltoft (Klavier), Dan Berglund (Bass) und Magnus Öström (Schlagzeug), erschienen bei *Jazzland Recordings*. **Nordic Jazz** und **Progressive Jazz**. Acht Stücke in gut 41 Minuten — *Today May Be Tomorrow*, *Nightfall*, *Valiant Revisited*, *Five Steps From A Dream*, *Undercover Lover*, *Here Now*, *Em* und *The Goodbye Song* —, die sich mit der Zeit, Wiederkehr und Wandlung beschäftigen, mit melancholischem, atmosphärischem Songwriting und dramatisch aufgeladenen Rhythmen aus modernem Jazz, klassischer Komposition, Filmmusik und Progressive Rock. Legt euch hin, hier verfliegt die Zeit! Der Titel lässt seine dunkle Seite zu: Die Zukunft ist nicht garantiert. Am 25. September erschienen. Ein melancholisches, dramatisches Trio-Album.
+
+::genre::nordic jazz, prog jazz
 
 ### Sacreligious - Brutality Incarnated
 
@@ -1423,6 +1441,12 @@ Das Album der Band aus Palmas, Tocantins, erschienen bei *Rockambole*, acht Stü
 Das erste Mini-Album (EP) der Melodic-Punk-/Emo-Band aus Sakata, Yamagata (2019 gegründet), sieben Stücke, erschienen am 23. September. **Melodic Punk** und **Emo**. Die Songs handeln von Konflikt, Einsamkeit, Dankbarkeit gegenüber den Unterstützern und dem Willen weiterzugehen — ein Wendepunkt für die Band, die als Vierer mit erweitertem Gitarrenspiel, Mitsing-Melodien und roher emotionaler Lyrik auftritt und dabei den Respekt vor der Melodic-Punk-Tradition mit eigenem Ausdruck verbindet. Dreht auf, hier wird sich vorwärts gesungen! Zu dem Album gehört eine Tour durch Ost-, Mittel- und Westjapan. Eine gefühlvolle, melodische EP.
 
 ::genre::melo punk, emo
+
+### Sunrise Skater Kids - Friendworld
+
+Das neue Album der Parodie-Pop-Punk-Band um den Comedian und YouTuber Jarrod Alonge, offiziell am 21. September erschienen und erst ab dem 2. Oktober auf Streamingdiensten. **Pop Punk**. Zehn neue Songs und ein neuer Sänger — die zehnjährige Fortsetzung des Debüts *Friendville* (2016), nach *Emotaku* (2023), mit vielen Verweisen auf *Friendville*: *Still Posi*, *Featuring Travis Barker*, *Pit Pontiff*, *Slop*, *Homeless Millennial*, *Skabidi Toilet*, *Trigger Warning 2: Patriotic Boogaloo*, *Sen Bolo*, *Boybandin' Up* und *Destroy Pop Punk*. Dreht auf, hier wird das Genre aufs Korn genommen! Die Band dekonstruiert die textlichen und thematischen Konventionen des Pop Punk mit komischem Ton; Vinyl und CD gibt es über *Boketo Merch*. Eine schnoddrige Genre-Parodie.
+
+::genre::pop punk
 
 ### Thunder Queens - Deep Below
 

@@ -388,7 +388,7 @@ Die deutsche Sängerin Isabella Levina Lueen, die nach ihrem Eurovision-Auftritt
 
 ::genre::alt pop, synth pop, electropop, indie pop
 
-### Lily Seabird - Lightspheres on the Way
+### Lily Seabird - Lightspheres on Their Way
 
 Die Songwriterin aus Vermont, die in der amerikanischen Indie-Szene für ihre eigenwillige, ungeschliffene Herangehensweise geschätzt wird. **Indie Rock**, **Slowcore** und **Country Folk**. Ungerade Melodieführung, brüchiger Gesang und Arrangements, die absichtlich nicht ganz sauber sitzen. Hört genau hin, hier steckt viel unter der Oberfläche! Das Album bewegt sich zwischen zart gezupften Passagen und Momenten, in denen die Band plötzlich alles fallen lässt und in einen ruppigen Ausbruch kippt. Seabirds Stimme trägt dabei eine Verletzlichkeit, die nie inszeniert wirkt, weil sie sich nicht um Perfektion schert. Die Texte arbeiten mit merkwürdig konkreten Bildern, die man nicht sofort auflösen kann, die aber genau deshalb hängenbleiben. Ein eigensinniges, warmes Album von jemandem mit einer sehr eigenen Stimme.
 
