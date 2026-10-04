@@ -44,7 +44,7 @@ categories:
 
     ## 7. The Ocean - Solaris
 
--   ![M83 - I Wrote You A Letter](https://media.pitchfork.com/photos/6ab6a19e43b1170d7975a935/1:1/w_450%2Cc_limit/M83%2520I%2520Wrote%2520You%2520A%2520Letter.jpg){ .top-list-image }
+-   ![M83 - I Wrote You A Letter](https://www.ondarock.it/wp-content/uploads/sites/2/2026/09/M83-I-Wrote-You-A-Letter.png){ .top-list-image }
 
     ## 8. M83 - I Wrote You A Letter
 
