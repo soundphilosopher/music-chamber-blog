@@ -22,19 +22,31 @@ Das neue Album des Songwriters aus Sacramento, erschienen bei *Gare du Nord*, *R
 
 ::genre::psych pop, jangle pop
 
+### Antonio Dayyani - Organisme
+
+Das dritte Album des Sextetts um *Antonio Dayyani*, am 9. Oktober bei *April Records*, dem dänischen Label für vorausschauenden Jazz. **Modern Jazz** mit Americana, Rock und offener Improvisation: kraftvolle Ensemble-Stücke neben Balladen. Sieben Aufnahmen aus drei Sessions 2025 — im Village, in den Medley Studios und im Jazzhus Montmartre in Kopenhagen —, zusammen gut 32 Minuten. Der Titel meint den Organismus, in dem Menschen, Gemeinschaften und die Welt miteinander verwoben sind; zu den Stücken gehören *En lykkelig organisme*, *Roots removed, replaced* und *(feelings)*. Im frühen 2027 geht es damit auf ausgedehnte Europatour. Die vollständige Trackliste lag mir nicht vor. Ein Organismus mit Schlagzeug.
+
+::genre::modern jazz
+
+<!-- more -->
+
 ### Ashes Of Autumn - The Darker Side Of Now
 
 Das Album der Band aus Perth, erschienen bei *Golden Robot Records*. **Hard Rock**. Getragen von Sängerin und Songwriterin Melanie Flynn und Schlagzeuger und Produzent Stefan Helbo, vorab erschienen unter anderem *All That You Have*, *Enemy* und *2020*. Dreht auf, hier wird gerifft! Die Band beschreibt es als ihr bisher ehrgeizigstes Werk, das Albumrelease feiert sie am 23. Oktober im Rosemount Hotel in North Perth. Ein melodisches Rockalbum.
 
 ::genre::hard rock
 
-<!-- more -->
-
 ### Avhath - Avhath *
 
 Das Debütalbum der Band aus Jakarta. **Atmospheric Black Metal** und **Blackened Crust**. Neun Stücke in gut 31 Minuten, darunter *Genesis*, *Manic Visions*, *Clawed Skins* und *Cinereal Gaze*. Dreht auf, hier trifft Black Metal auf Crust und Hardcore! Bandcamp führt außerdem Post Black Metal, Blackened Death Metal und Hardcore Punk als Tags. Ein kompaktes Debüt.
 
 ::genre::atmo black metal, blackened crust
+
+### Avrak - Avrak
+
+Wenn die eine Hälfte von *Darkthrone* (Ted „Nocturno Culto“ Skjellum) mit Gitarrist *Anders Hegna* eine neue Band gründet, darf man gespannt sein — und nein, gesungen wird nicht von Ted, das macht Hegna. Dazu kommt Schlagzeuger *Terje Kråbøl*, das selbstbetitelte Debüt erscheint am 9. Oktober bei *Peaceville*. **Heavy Metal** und **Doom Metal**: Neun Stücke von *Forever Mountain* bis *Hav*, aufgenommen im Februar 2026 im Mølla Studio mit Knut Magne Valle, mit Synthesizer-Passagen und ein paar Black-Metal-Riffs obendrauf. Blabbermouth gibt 8/10 („grubby and thunderous“). Lederjacke an, Berghütte auf.
+
+::genre::heavy metal, doom metal
 
 ### AWAP - Clown Carousel
 
@@ -120,6 +132,12 @@ Das Debütalbum der 23-jährigen Songwriterin, in Bournemouth geboren und in Man
 
 ::genre::indie pop, indie rock
 
+### Christopher Lucas Wilson Trio - Wilson's Way
+
+Das vierte Album des Chicagoer Pianisten *Christopher Lucas Wilson* und die erste Aufnahme seines aktuellen Trios mit Bassist *Alex Austin* und Schlagzeuger *Isaiah Spencer*, selbst veröffentlicht am 9. Oktober und im Transient Sound aufgenommen. **Modern Jazz**, verwurzelt in Swing, Bebop und Blues, entspannt und selbstsicher statt experimentell. Wilson ist im Raum Detroit aufgewachsen und hat bei *Bess Bonnier* und *Marcus Belgrave* gelernt, später lebte er zehn Jahre in Los Angeles, bevor er in Chicago landete. Der Vorgänger war *Solemn Moments* (2023). Datum und Besprechung stammen aus einer einzigen Quelle. Der Weg ist das Ziel, und er swingt.
+
+::genre::modern jazz
+
 ### Classic Traffic - Real Music
 
 Das vierte Album des Trios aus New Jersey (gegründet 2022), erschienen bei *Same View*. **Power Pop** im Siebziger-Gewand: große Riffs, Hooks und Harmonien, dass man sich die Haare schütteln möchte. Acht Stücke — darunter *My Rage* (die erste Single), *There With You*, *Wanna Wish*, *Ballad Of The Storm Shelter*, *Ghost's Host* und *It Leaves Your Mind* —, gesungen und gegitarrt von *Andy Altadonna*, mit Texten von Schlagzeuger *Dante Fotino*. Vorher gab es drei Alben und eine Cover-EP. Fäuste hoch, Refrain mitbrüllen.
@@ -186,6 +204,12 @@ Als das Eaton-Feuer in Altadena das Haus von Sängerin *Bonnie Bloomgarden* zers
 
 ::genre::psych punk, space rock
 
+### Deathrow Bodeen - Lost
+
+Fünf Stücke aus East Texas — *Circles*, *Betty*, *Vines*, *Lost* und *Magic Bullet* — von einer Band, die ihre Einflüsse stolz auf dem Ärmel trägt: „melodic heavy metal“ nennt sie es selbst. **Groove Metal** und **Heavy Metal**, dazu Metalcore in den Bandcamp-Tags. Erscheint am 9. Oktober, Label nennt die Seite keins. Bandcamp führt es als Album; bei fünf Stücken und gut 22 Minuten ist es nach Länge eher ein Grenzfall. Verloren geht hier trotzdem nichts.
+
+::genre::groove metal, heavy metal
+
 ### Desolat - People As Idiots & Idiots As Leaders
 
 Das dritte Album des Wiener Trios *Alfred Satani* (Gesang, Gitarre), *Klaus* (Bass) und *Mentl* (Schlagzeug, Sampling), das schon mit *Get Sick And Let Me Watch You Die* (2024) über Österreich hinaus aufgefallen ist. **Noise Rock**, **Sludge Metal**, **Hardcore Punk** und erstmals auch **Emocore**, gespielt von Anarcho-Punks. Neun Songs mit einem Konzept: Verzweiflung darüber, wer das Sagen hat. Gäste sind *Jarboe* (ex-*Swans*) auf *This Sadness Makes Me Rage*, *Michael Masen* am Saxofon auf *No Depression When Dead* und *RBK* auf *Wannabe V.I.P.*. Aufgenommen und gemischt hat *Rainer Spänle* im Cosmix Studio in Wien, gemastert hat *Dan Swanö* im Unisound. Veröffentlicht wird es von einer DIY-Allianz aus neun Labels in sieben Ländern, in den USA von *Reptilian Records* und *Exotic Fever Records*. Wut als Gemeinschaftsprojekt.
@@ -240,6 +264,12 @@ Der *Augie March*-Frontmann (APRA-Songwriter 2007 für *One Crowded Hour*, Kompo
 
 ::genre::indie rock
 
+### Gnod - Chronicles Of Gnowt (Vol 2)
+
+Zweiter Teil der „Chronicles of Gnowt“ aus denselben sechs Tagen Sessions wie Volume 1, erschienen am 9. Oktober bei *Rocket Recordings*: **Drone**, **Industrial** und **Psychedelic Rock** aus Salford, diesmal mit Fokus auf repetitive, schwere Riffs. Fünf Stücke in gut 41 Minuten — *The Witness*, *Ice Man*, *Traveller's Return*, *Old Gold* und das zwölfminütige *Strangled*, in dem die Manchester-Dichterin *Lauren McLean* Spoken Word beisteuert und sich Dub-Abstraktion in die Wiederholung mischt. Produziert hat *Spud Murphy* im Hellfire Studio bei Dublin. Die Stücke sind unterwegs gewachsen und erst danach im Studio verfeinert worden. Hypnose mit Gitarrenzubehör.
+
+::genre::drone, industrial, psych rock
+
 ### Goblin Cock - Traumanaut
 
 Hinter dem Frontmann *Lord Phallus* steckt *Rob Crow* von *Pinback*, und *Traumanaut* ist das fünfte Album der Band aus San Diego und das erste seit acht Jahren — zwischendurch gab es ein klavierlastiges Coveralbum. Zehn Stücke bei *Joyful Noise Recordings*, darunter *Flowers Grow*, *Remains*, *Fifth Reich Bio-Dome*, *Open Carry Dipshit* und *Two Swords*, das aus der Feder von *Dave Wakeling* stammt. **Alternative Rock** und **Stoner Metal**: die erste Single *Remains* liegt näher bei fetter Gitarrenwand und Alt-Rock als beim gewohnten Doom. Das Presseblatt feiert das Ganze mit viel Humor als „breath of unexpectedly fresh air“. Auf recyceltem Vinyl in Pink-Lila, für alle, die ihr Ökogewissen mitmoshen wollen.
@@ -269,6 +299,12 @@ Das siebte Album der Schweden, erschienen bei *Nuclear Blast* und das erste nach
 Eine Londoner EP mit fünf Stücken, die wie ein loses Märchen funktioniert: Ein Engel erreicht eine Stadt, und aus flüchtigen Begegnungen werden Erinnerung, Ort und Gefühl, eher Fragmente als Erzählung. Dazu *teeth*, *you won't be long*, *lush*, *moth flame* und *atomic paradise*. **Alternative Rock**, **Shoegaze** und **Noise Rock**, auf Vinyl in klarem Glas, auf 150 Stück limitiert. Digital seit dem 9. Oktober, die Platten folgen um den 16. Oktober. Staubig, funkelnd, vergänglich.
 
 ::genre::alt rock, shoegaze, noise rock
+
+### Greta Van Fleet - Palace For The People
+
+Das vierte Album der Band, nach *Starcatcher* (2023), erscheint am 9. Oktober bei *Republic Records*. **Hard Rock**, produziert von der Band zusammen mit *Mike Elizondo* und im Frühjahr 2026 in Tennessee aufgenommen — ohne Touren, Presse und andere Verpflichtungen. Der Titel kommt vom Londoner Alexandra Palace, der als „The Palace of the People“ gedacht war; die Band sagt dazu: „The music is our palace.“ Vorab gab es die Ballade *Saw You Stand* (31. Juli) und *Play Your Games* (Mai), die Sorgen um eine Trennung ausräumte. Eine Trackliste lag in meinen Quellen nicht vor, und die Genre-Zuordnung beruht auf dem bisherigen Stil der Band, nicht auf einer Besprechung des Albums. Ein Palast fürs Publikum, Gitarrensolo inklusive.
+
+::genre::hard rock
 
 ### Growing Pains - Daniel Loves Mandy Forever
 
@@ -570,6 +606,12 @@ Das Debüt der polnischen Band aus Wrocław, erschienen bei *Wormholedeath*, nac
 
 ::genre::heavy metal, prog metal
 
+### Sarah Heneghan - Tiny Sacred Gaps
+
+Ein Trio mit Folk-Jig, Flügelhorn und Elektronik: Die Schlagzeugerin und Komponistin *Sarah Heneghan* aus Sheffield (ursprünglich aus den Rhondda Valleys in Wales), die Freigeist-Improvisatorin *Charlotte Keeffe* und der klassisch geschulte Pianist *Ben Gaunt* verbinden Improvisation mit **Nordic Jazz**, Folk, **Post Rock**, Minimalismus und Ambient-Elektronik. Manche Stücke begannen als Cello und Klarinette und wurden zu Arrangements für Trompete und Flügelhorn; *Water Never Leaves* schickt eine verlangsamte Folk-Jig durch freie Improvisation und Elektronik, *Heath* baut sich bis zu einem Höhepunkt auf, der an *Sigur Rós*, *Mogwai* und *Radiohead* erinnert, und *The Rhondda Line* kommt mit Post-Rock und dunklen Drones daher. Erscheint am 9. Oktober; die Besprechung stützt sich nur auf die Jazzfuel-Seite. Tiny, sacred und mit Lücken im besten Sinn.
+
+::genre::nordic jazz, post rock
+
 ### Saving Face - Love Above All Else
 
 Das Debüt der Melodic-Hardcore-Truppe aus Melbourne, nach der EP *The View From Up Here*; zehn Tracks laut einer Listung, vorab erschienen *Flowers On Your Grave* und *Spiral*, Vinyl in mehreren Farben über *Breakthrough Records*. **Hardcore Punk** und **Metalcore**. Das Datum (9. Oktober) und die Tracklist stammen nur von Aggregatoren; Label und Besetzung sind nicht bestätigt. Liebe über alles, laut gebrüllt.
@@ -714,6 +756,12 @@ Das fünfte Studioalbum der schwedischen Power-Metaller, gegründet 2016 vom Sch
 
 ::genre::power metal
 
+### Twin Temple - Doomed Lovers
+
+Das dritte Album des Duos *Alexandra* und *Zachary James*, am 9. Oktober auf dem eigenen Label *Pentagrammaton Records*: satanischer Doo-Wop, der aber vor allem als **Occult Rock** läuft. Produziert hat *Shooter Jennings* im Studio 3 des Sunset Sound in Hollywood, mit einem 37-köpfigen Orchester und Gästen wie *Matt Chamberlain* und *Jay Bellerose*; Vorbilder sind die Orchesterproduktionen von *Roy Orbison*, den *Ronettes* und den *Shangri-Las*. Acht Stücke, darunter *Doomed Lovers*, *Possessed*, *I Want Blood*, *Love You To Death*, *Haunt Me*, *Someone In The Walls*, *Monster* und *Nothing Matters* — entstanden, wie die beiden sagen, in einer der dunkelsten Phasen ihres Lebens (Sucht, psychische Probleme, Trauer). Der Vorgänger war *God Is Dead* (2023). Liebe, die verzehrt, mit Streichern.
+
+::genre::occult rock
+
 ### unpeople - we are unpeople
 
 Das Debüt des britischen Quartetts, erschienen bei *SharpTone Records*, nach den Singles *clouds*, *the garden* und *waste* und der EP *unpeople* (2024). **Alternative Rock**: schwere Riffs, große Hooks und Texte über Frust am Zustand der Welt; der Bandname ist ein bewusstes Umdeuten eines Etiketts für politisch Unbedeutende. Zwölf Stücke, darunter *friends*, *swallow*, *bottle it*, *blueprints*, *haunted*, *kangareuben*, *smother* und *as you were*. Die Band wurde 2026 bei den Heavy Music Awards als „Best Breakthrough Live Artist“ ausgezeichnet; im Februar 2027 folgt die erste große Europatour. Wir sind die Nicht-Leute.
@@ -789,6 +837,12 @@ Die niederländische Death-Metal-Band legt nach ihrem Debüt von 2022 und der EP
 Das neue Album der Minneapolis-Band, ein Nachfolger zu *Mirror Maze* — *The Line of Best Fit* gibt 8 von 10 und findet, es hole alles aus dem Vorgänger heraus und drehe es eine Stufe höher. **Dreampop**, **Jangle Pop** und **Indie Pop**, mit Twee-Anklang. Zehn Songs in gut 31 Minuten, darunter *Desire Path*, *Bright Side*, *Let It Die*, *Margaret*, *Flight Simulation* und *Eros Bow*, bei dem das C86-Geklingel tief in der Band-DNA durchschlägt. Es geht um die Wege durch die eigene Vergangenheit und was passiert, wenn das Erlebte nicht zum Erinnerten passt. Rhythmusgruppe: *Jacob Lauer* (Bass) und *Andy Karel* (Schlagzeug). Bandcamp nennt den 5. Oktober, die Kritik den 2. Oktober; ich habe Bandcamp gefolgt. „Professional sweethearts“ steht in der Bio. Klingeln, träumen, trösten.
 
 ::genre::dreampop, jangle pop, indie pop
+
+### Acerbated - Lurking Deep Within
+
+Die Brutal-Death-Band aus Barcelona um *Leofaber Gutierrez* und *Jordi Mora* (ex-*Avgrunn*), mit Kompositionshilfe von *Andrés M. Gallón* (*Internal Suffering*), meldet sich am 7. Oktober mit acht Stücken zurück: *The Path of a Thousand Wispers*, *Godless Ground*, *Drag me Down*, *Crowned by Slaghtered Souls*, *Hordes of Fools*, *Among the Serpents*, *Lurking Deep Within* und *Blightherum*. **Brutal Death Metal** und **Grindcore** laut Bandcamp-Tags. Ein Label nennt die Seite nicht. Tief unten lauert es, und es hat Zähne.
+
+::genre::brutal death metal, grindcore
 
 ### Amaseffer - Exodus Pt. II: When The Lions Leave Their Den
 
