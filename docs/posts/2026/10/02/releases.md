@@ -1,7 +1,5 @@
 ---
 date: 2026-10-02
-pin: true
-bandcamp: true
 categories:
   - Releases
 ---
@@ -131,6 +129,12 @@ Das neue Album der Band, in dem Elektronik vom Hintergrund in den Kern des Sound
 Die EP der Stoner-Metal-Veteranen aus South Carolina, ihre erste neu aufgenommene Veröffentlichung seit *Spiritual Warfare* (2006). **Stoner Metal** und **Sludge Metal**. Sechs Stücke — *No Curses*, *Perdition Anthem*, *Stone Snake*, *Strange Gods*, *New World Opus* und *Under the Banner (of Attrition)* — mit durchgehend bodenschwerem Groove, schweren Riffs und südstaatlichem Dunst. Dreht auf, hier wird zwanzig Jahre Schweigen weggewalzt! *No Curses* wird aggressiver mit Progressive-Metal-Anklängen, *Perdition Anthem* zeigt die schwerste, sludgige Seite der Band. Eine fette Rückkehr.
 
 ::genre::stoner metal, sludge metal
+
+### Chemical Sun - Chemical Sun
+
+Das selbstbetitelte Album der Band aus Springfield, Missouri, gegründet 2023. **Alternative Rock** und **Grungegaze**, also Grunge mit Shoegaze, dazu Pop-Punk-Einschlag laut Bandcamp-Tags. Elf Stücke, darunter *Calm*, *Disdain*, *Stoned*, *Lidocaine*, *Ibuprofen* und *Weak* — der Name ist Programm, die Hausapotheke gleich mit dabei. Erschienen digital, auf CD und als Vinyl in Grün, Schwarz-Gold oder Schwarz. Laut aufdrehen, dann hinlegen.
+
+::genre::alt rock, grungegaze
 
 ### Cherrri - I HAD A NIGHTMARE ABOUT ABSOLUTION
 
@@ -353,6 +357,12 @@ Die EP der Post-Hardcore-Veteranen, erschienen bei *Fearless Records*. **Post Ha
 Das sechste Album der italienischen Band aus Mailand, erschienen bei *Napalm Records*. **Power Metal**. Zehn Stücke in gut 36 Minuten, darunter *Lightning in the Sky*, *Who Wants to Burn in Heaven*, *Reborn* und der Titelsong, mit erzählerischerem Ansatz als bisher: eine epische Reise, etwas dunkler, mit energischen Melodien und eingängigen Refrains. Dreht auf, hier ruft der Thron! Sängerin ist Giada „Jade“ Etro, produziert hat Federico Mondelli; neu dabei ist Gitarristin Alexandra Lioness. Dazu gibt es eine Coverversion des *Goo Goo Dolls*-Songs *Iris*. Ein hymnisches Power-Metal-Album.
 
 ::genre::power metal
+
+### Gable Price And Friends - Moving Target
+
+Die EP der Alternative-Rocker aus Redding, Kalifornien, die laut Band „part one of a larger story“ sein soll — ein Album dürfte später folgen. **Alternative Rock**, am Freitag, den 2. Oktober erschienen. *One Bedroom Apartment* hat ein Video; zu Tracklist und Label verraten die Quellen nichts (Wikipedia führt *Capitol CMG* als Label der Band). Teil eins, mit offenem Ende.
+
+::genre::alt rock
 
 ### Garefowl - Things That Vanish
 
@@ -812,7 +822,7 @@ Das neue Album der spanischen Band, seit 1994 aktiv, erschienen bei *El Dromedar
 
 ### T.A.P - Paradigms II
 
-Das zweite Album des transatlantischen Studioprojekts von Michael Jobborn (Montreal), Mark Cook (Arlington, Texas) und Suzi James (London), nach dem Debüt von 2023, inzwischen ein Quartett mit Bill Bachman am Schlagzeug. **Progressive Rock** und **Ambient**. Acht Stücke in gut 60 Minuten — *Galaxy Unknown*, *A Beacon of Light*, *4th Dimensional Waves*, *Lyrical Paradox*, *Wishful Solitude* —, die instrumentalen Progressive Rock mit Ambient, Jazz, Blues und Psychedelik verschmelzen. Legt euch hin und lasst euch durch die Dimensionen tragen! Als Gäste wirken unter anderem *Gayle Ellett* (*Djam Karet*, Mellotron und Bouzouki), Chris Gill, Steve Bonino, Massimo Pieretti, Chris Messina und Tenk van Dool mit. Die CD erscheint über *Just For Kicks* am 8. Oktober. Ein ausladendes, vielgestaltiges Prog-Album.
+Das zweite Album des transatlantischen Studioprojekts von Michael Jobborn (Montreal), Mark Cook (Arlington, Texas) und Suzi James (London), nach dem Debüt von 2023, inzwischen ein Quartett mit Bill Bachman am Schlagzeug. **Progressive Rock** und **Ambient**. Acht Stücke in gut 60 Minuten — *Galaxy Unknown*, *A Beacon of Light*, *4th Dimensional Waves*, *Lyrical Paradox*, *Wishful Solitude* —, die überwiegend instrumentalen Progressive Rock mit Ambient, Jazz, Blues und Psychedelik verschmelzen. Legt euch hin und lasst euch durch die Dimensionen tragen! Als Gäste wirken unter anderem *Gayle Ellett* (*Djam Karet*, Mellotron und Bouzouki), Chris Gill, Steve Bonino (einzige Stimme, bei *A Hole in the Ground*), Massimo Pieretti, Chris Messina und Tenk van Dool mit. Die CD erscheint über *Just For Kicks* am 8. Oktober. Ein ausladendes, vielgestaltiges Prog-Album.
 
 ::genre::prog rock, ambient
 

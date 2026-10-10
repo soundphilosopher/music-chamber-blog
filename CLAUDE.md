@@ -64,11 +64,22 @@ summary alone. For metal-genre-sounding names, also check Metal Archives
 
 ## What belongs on the list
 
-Only **EPs and LPs**. Singles don't belong here.
+Only **new EPs and LPs**. Singles, reissues and compilations don't belong here.
 
 - Remove an entry only when you're **certain** it's a single — confirm via Bandcamp/label
   format info, don't guess from track count alone (a 2-track release can still be an EP).
 - When genuinely unsure, leave it and flag it rather than removing it.
+- **Only new music.** Reissues, remasters, anniversary editions, deluxe/extended/expanded editions of known EPs/LPs,
+  and compilations/collections of already-released material (e.g. two old EPs bundled onto one release) are removed like
+  singles. A new vinyl/CD edition of a record that is already out digitally is a reissue.
+  The same goes for revised, re-arranged, re-recorded or re-orchestrated versions of known
+  material ("revised" is the tell): different instrumentation or presentation, but old music.
+- **Live albums:** a live recording of already-known songs is a reissue in disguise and is
+  treated as one. But much improvised material (prog, jazz fusion, jazz) is played live —
+  in a studio or in front of an audience — and is genuinely new. So when it isn't clear
+  whether a "live" release is a live take on known songs or new/improvised music, **don't
+  decide yourself**: keep it, and list all such entries together at the end of the batch
+  report for Carsten to decide.
 
 Combined with the existing deletion rules, an entry gets removed (no need to ask) when any
 of these hold:
@@ -78,6 +89,7 @@ of these hold:
 2. Nothing can be found about it at all.
 3. No source states a genre for it.
 4. It's clearly a single, not an EP/LP.
+5. It's clearly a reissue or compilation of already-released material.
 
 Deleting inside the first three Friday entries moves the excerpt marker — recheck it.
 Deleting the only entry using a genre token also removes that token from `genres/index.html`
@@ -121,6 +133,14 @@ Trailing `*`/`**` on a heading marks a top pick for the monthly recap — preser
 
 Genre names in **bold** inside prose, referenced artists in *italics*. Match the voice of
 neighbouring weeks rather than inventing one.
+
+**Tone (from 2026-10-09 on): fun to read, not a spec sheet.** Write reviews loose and
+playful, lead with the most interesting fact or twist instead of a fixed "Das Album der
+Band aus X, erschienen bei Y" opener, and let the voice vary from entry to entry. Short
+jokes and a closing one-liner are welcome. **Nothing factual may be lost for it:** label,
+genre names, track titles, guests, producers, dates, release format and anything else the
+older formal reviews carried still go in. Colour is style only — never invent a fact,
+image or anecdote to be funny. Keep it tactful on loss, illness and death.
 
 ## Working alongside Carsten
 

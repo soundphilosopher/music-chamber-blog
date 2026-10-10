@@ -422,12 +422,6 @@ Accelio hat sich als äußerst fokussierter Elektronik-Produzent innerhalb der m
 
 ::genre::atmo d&b, jungle, breakbeat
 
-### Amaseffer - Exodus Pt. II: When The Lions Leave Their Den
-
-Unter der Leitung des Schlagzeugers und Komponisten Erez Yohanan hat sich diese äußerst filmisch anmutende Band darauf spezialisiert, gewaltige, symphonische Konzept-Trilogien zu schaffen, die die biblischen Geschichten des Alten Testaments erzählen. Nach einer unglaublich langen Pause seit ihrem Debütalbum "Slaves For Life" aus dem Jahr 2008 kehrten sie mit einer Besetzung zurück, deren Herzstück der legendäre schwedische Metal-Sänger Mats Levén ist. **Progressive Metal**, **Folk Metal**, **Symphonic Metal** und Folkmusik aus dem Nahen Osten. Packt eure Koffer für einen absoluten Blockbuster, der sich komplett in euren Kopfhörern abspielt. Das Album erweckt den legendären biblischen Auszug der Israeliten dynamisch zum Leben und schafft dabei eine Balance zwischen weltbewegenden symphonischen Arrangements und altertümlicher Instrumentierung aus dem Nahen Osten. Levéns opernhafter, schwebender Gesang verleiht der Musik ein gewaltiges Gefühl von Größe und schwankt zwischen schweren progressiven Gitarren-Breakdowns und herzzerreißenden akustischen Einlagen, die sich ganz auf spirituelle Ausdauer und kulturelles Überleben konzentrieren.
-
-::genre::world music, prog metal, symphonic metal
-
 ### Ambrotos - Atrocious Chants
 
 Nach einer vierjährigen Studio-Pause feiert dieses griechische Metal-Power-Trio ein triumphales Comeback und hat sich seit den frühen 2020er Jahren in der europäischen Underground-Metal-Szene ein kompromissloses Vermächtnis aufgebaut. **Black Metal**, **Melodic Black Metal** und True Hellenic Metal. Zündet die Fackeln an und begebt euch tief in eine unterirdische Höhle, in der uralte dunkle Mächte erwachen. Dieses Album ist ein donnernder Sturm aus rasanten Blastbeats, kreissägenartigen Gitarrenriffs und hochfliegenden, epischen Melodien, die der klassischen griechischen Black-Metal-Tradition treu bleiben. Tracks wie "Thy Messengers" und "Satan Triumphant" werden mit einer wilden, dramatischen Theatralik präsentiert, die brillant aggressiv wirkt und sich völlig unbeeindruckt von Mainstream-Trends zeigt.
