@@ -1,0 +1,15 @@
+# Jupyter server for the statistics notebooks.
+#   docker compose -f compose.notebooks.yaml up
+# Then open http://localhost:8888 (token: music-chamber).
+services:
+  notebooks:
+    image: quay.io/jupyter/scipy-notebook:latest
+    ports:
+      - "127.0.0.1:8888:8888"
+    environment:
+      JUPYTER_TOKEN: music-chamber
+    volumes:
+      - ./:/home/jovyan/work
+      - ./notebooks/.jupyter/overrides.json:/opt/conda/share/jupyter/lab/settings/overrides.json:ro
+    working_dir: /home/jovyan/work/notebooks
+    command: start-notebook.py --notebook-dir=/home/jovyan/work/notebooks

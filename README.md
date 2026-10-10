@@ -39,6 +39,23 @@ A custom [MkDocs hook](scripts/hooks/mark_top_picks.py) powered by BeautifulSoup
 
 A [script](scripts/export_recap_of_the_month.py) crawls all the weekly release lists of a month and writes every starred entry into a plain text file — top picks (`**`) and picks (`*`) in separate sections. Write your reviews, sprinkle some stars, and run `python scripts/export_recap_of_the_month.py --month 2026-09` to see the month at a glance.
 
+### Statistics Notebooks 📊
+
+Jupyter notebooks in [notebooks/](notebooks/) turn the posts into statistics. A shared [loader](notebooks/music_stats.py) parses the weekly release lists (stars, sections, expanded genres) and the recap pages, so the notebooks only deal with pandas and plots.
+
+| Notebook | What it shows |
+|---|---|
+| [monthly_overview](notebooks/monthly_overview.ipynb) | One month at a glance (set `MONTH` at the top): the picks first, then releases per week, common and new genres, genre combinations and a comparison with the other months |
+| [recap_overview](notebooks/recap_overview.ipynb) | The monthly, yearly (`top-25-recap-<YEAR>.md`) and lifetime (`top-25-lifetime.md`) recaps side by side, including genres and artists that show up in several of them |
+
+Start the Jupyter server in Docker (dark mode, no local Python setup needed):
+
+```bash
+docker compose -f compose.notebooks.yaml up
+```
+
+Then open <http://localhost:8888> and log in with the token `music-chamber`. The repository is mounted into the container, so edits to the notebooks land straight in the working tree.
+
 ### Genre Overview 🎸
 
 A [generator script](scripts/generators/genre_overview.py) scans all release posts for `::genre::` tags and auto-generates a `genres.md` page that indexes every tagged release under its genre, with links back to the original review. A companion [hook](scripts/hooks/add_genres_filter.py) injects a live client-side filter into the page, letting readers search by genre name — with TOC sidebar synchronisation included.
@@ -227,6 +244,12 @@ music-chamber/
 │   ├── create_posts_structure.py         # Helper: scaffold the weekly post folder structure
 │   ├── import_releases_from_list.py      # Helper: import releases from a list
 │   └── export_recap_of_the_month.py      # Helper: export the starred picks of a month
+├── notebooks/
+│   ├── .jupyter/overrides.json           # JupyterLab defaults (dark theme)
+│   ├── music_stats.py                    # Loader shared by all notebooks
+│   ├── monthly_overview.ipynb            # Picks and statistics of one month
+│   └── recap_overview.ipynb              # Monthly, yearly and lifetime recaps
+├── compose.notebooks.yaml                # Jupyter server in Docker
 ├── mkdocs.yml                            # Site configuration
 └── pyproject.toml                        # Python project config
 ```
