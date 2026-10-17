@@ -730,12 +730,6 @@ Eine tragende Band der instrumentalen Post-Rock-Szene meldet sich auf *Diotima R
 
 ::genre::post rock
 
-### Thronehammer - Slay Kill Erase
-
-Die deutsch-britische Doom-Band, deren Sängerin *Katharina Gillham* mit Kraft und Stimme führt, hat sich mit diesem Album neu erfunden: acht Stücke in rund 74 Minuten bei *Supreme Chaos Records*, mit *Max Hemmann* von *Motorowl* als Gastsänger auf *Onwards To Oblivion*. **Doom Metal** und **Post Rock** — epischer Doom mit Post-Rock-Atmosphäre und Kinoformat; der Begriff „Doom Metal“ ist laut Kritik „too narrow“ geworden. Dazu *To Never Return*, *Rise Of Resistance*, *Destroyer Ov Light*, *Blade To The Heart*, *Thrown Into The Abyss* und *Dethroned*. Gründer und Gitarrist ist *Stuart West*, am Schlagzeug sitzt *Markus Ströhlein*. Die Release-Tour lief unter anderem am 8. Oktober in Bochum und am 9. Oktober in Freiburg. Töten, löschen — und trotzdem schön.
-
-::genre::doom metal, post rock
-
 ### Toundra - Siete
 
 Das siebte Album der spanischen Post-Rocker, die erste Veröffentlichung seit *Hex* (2022), diesmal in Eigenregie und Selbstverwaltung — und mit mehr Freiheit: analoge Elektronik und synthetische Texturen mischen sich in den monolithischen Toundra-Sound. **Post Rock**, **Progressive Rock** und **Instrumental**. Neu dabei ist *Jorge García* an Gitarren und Synthesizern; aufgenommen im Ultramarinos Costa Brava von *Santi García*, gemastert von *Víctor García*. Vorab erschien *Rapier*. Konzerte folgen Anfang 2027, unter anderem in Vitoria-Gasteiz (13. Februar) und Valencia (5. März). Sieben Alben, sieben Mal Gänsehaut.
@@ -825,6 +819,12 @@ Das zwölfte Album der schwedischen Crust-Pioniere, erschienen bei *Metal Blade 
 Die niederländische Death-Metal-Band legt nach ihrem Debüt von 2022 und der EP *The Widows Web* eine EP mit sechs Songs nach, in Eigenregie veröffentlicht: *Unholy Return*, *The Final War*, *This Fear*, *Ghost Warriors*, *We Drink the Blood* und *Trapped in a Dark Forest*. **Melodic Death Metal**, laut Metal Underground rau und altmodisch (4,5 von 5), mit Vergleichen zu *Wolfbrigade* und *Orbit Culture* — und Grunts schon auf dem Opener. Am Start: *Bert „Beef“ Hoving* (Bass, Gesang), *Marcel Heutink* (Rhythmusgitarre), *Jeffrey Zwart* (Leadgitarre) und *Erwin Koerts* (Schlagzeug). Mit dem letzten Krieg ist es noch nicht vorbei.
 
 ::genre::melo death metal
+
+### Ümlaut - Listening from (the) Inside
+
+Kühlschrank-Brummen, Mikrowellen-Puls, Wasser in der Spüle, Tee, der langsam aufkocht, ein fernes Fernsehgerät, das Atmen der Heizung, Regen am Fenster, ein Metronom und die Akustik des Badezimmers: Daraus baut *Ümlaut* ein ganzes Album über das eigene Zuhause in Weatogue, Connecticut. Erschienen am Freitag, dem 9. Oktober, bei *Driftworks* aus Stroud als Teil von SITE, einer Konzeptreihe von *Driftworks* und *Audiobulb Records*, in der Musikschaffende einen Ort in Klang übersetzen. **Ambient**, **Drone** und **Field Recordings**, gedehnt, geschichtet und mit Glitch und Rauschen bearbeitet, zehn Stücke in gut 57 Minuten, von *Cold Remains* über *Water That Holds*, *Before the Pour* und *Warmth Beneath the Floor* bis zu *A Room Closes* und *The House Listens*. Gemischt und gemastert im Hopmeadow Studio in Weatogue, Gestaltung von *Jeff Düngfelder*. Das Haus hört zu, und jetzt auch wir.
+
+::genre::ambient, drone, field recordings
 
 ---
 

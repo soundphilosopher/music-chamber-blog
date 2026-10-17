@@ -28,6 +28,11 @@ Two listings of the same release are always an error, never a deliberate re-run:
   carried over) instead of deleting it. If that page already lists it, delete this copy. Recheck
   the `<!-- more -->` marker on both pages. Dates further out than one week are still removed.
 
+**Right week, wrong section** (not a duplicate): a release whose verified date is Saturday
+through Thursday but that is listed under `Friday` moves to `Earlier the week`, sorted by
+artist, review and `::genre::` carried over. The reverse (a Friday release under
+`Earlier the week`) moves to `Friday`. Recheck `<!-- more -->` if the top three Friday entries change.
+
 Each section sorts by **artist only**, case-insensitively. Accent/non-Latin ordering is
 genuinely inconsistent in the existing data (sometimes codepoint order, sometimes accent-
 stripped) — never mass re-sort a file to "fix" it; flag a violation only if it holds under
@@ -59,12 +64,19 @@ once found 9 entries wrongly removed as "unverifiable" in a single week, all of 
 releases that a direct Bandcamp fetch caught immediately. Before cutting an entry under
 deletion criterion 2 below, try the artist's own Bandcamp handle directly
 (`artistname.bandcamp.com/music`, then the specific album page) rather than trusting a search
-summary alone. For metal-genre-sounding names, also check Metal Archives
-(`site:metal-archives.com` in search — direct fetches of that domain get blocked).
+summary alone. The bare name is often the wrong act or empty: real handles frequently carry a
+suffix (`kanaanband`, `humantargethc`, `hexiconmetal`, `fugitofficial`), so search
+"artist title bandcamp" for the actual handle instead of only guessing. If any source names a
+label, check the **label's** Bandcamp page too — small releases (hardcore demos especially) are
+often uploaded only there, under titles like `DBNO-30: Artist - Demo`. For metal-genre-sounding
+names, also check Metal Archives (`site:metal-archives.com` in search — direct fetches of that
+domain get blocked).
 
 ## What belongs on the list
 
-Only **new EPs and LPs**. Singles, reissues and compilations don't belong here.
+Only **new EPs and LPs**. Singles, reissues and compilations don't belong here. **Demos count
+as EPs** (`Demo`, `Demo 2026` and the like are listed routinely in earlier weeks) —
+don't remove one for being a demo.
 
 - Remove an entry only when you're **certain** it's a single — confirm via Bandcamp/label
   format info, don't guess from track count alone (a 2-track release can still be an EP).

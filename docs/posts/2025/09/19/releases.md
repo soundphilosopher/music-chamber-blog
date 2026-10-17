@@ -1156,7 +1156,7 @@ tbd
 
 ::genre::
 
-### Stoned Jesus - Songs tmajoo Sun
+### Stoned Jesus - Songs to Sun
 
 tbd
 
