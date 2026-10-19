@@ -24,6 +24,7 @@ from dataclasses import dataclass
 from typing import Any
 from random import uniform
 from difflib import SequenceMatcher
+from datetime import date, timedelta
 
 from bs4 import BeautifulSoup, Tag
 from curl_cffi.requests import Session
@@ -259,7 +260,58 @@ def _album_include_tracks(band_id: int, album_id: int, session: Session) -> bool
     return False
 
 
-def _lookup_bandcamp_album(artists: list[str], title: str, result: Any, session: Session) -> bool:
+def _album_is_in_release_week(band_id: int, album_id: int, release_week: list[date], session: Session) -> bool:
+    """
+    Check if the album's release date falls within the specified release week.
+
+    Args:
+        band_id (int): The ID of the band.
+        album_id (int): The ID of the album.
+        release_week (list[date]): A list of dates representing the release week.
+        session (Session): The HTTP session to use for the request.
+
+    Returns:
+        bool: True if the album's release date is within the release week, False otherwise.
+    """
+    params = {
+        "band_id": band_id,
+        "tralbum_id": album_id,
+        "tralbum_type": "a",
+    }
+
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            response = session.get(BANDCAMP_ALBUM_LOOKUP_URL, params=params)
+        except RequestException:
+            log.exception("(LOOKUP): Failed to lookup Bandcamp album %r", album_id)
+            return False
+
+        if response.status_code == 429:
+            retry_after = response.headers.get("Retry-After")
+            wait = float(retry_after) + REQUEST_DELAY_SECONDS if retry_after else REQUEST_DELAY_SECONDS
+            log.debug(
+                "(LOOKUP): Bandcamp rate limit hit for album %r (attempt %d/%d), retrying in %.1fs",
+                album_id, attempt, MAX_RETRIES, wait,
+            )
+            time.sleep(wait)
+            continue
+
+        if response.status_code != 200:
+            log.warning(
+                "(LOOKUP): Bandcamp returned HTTP %d for album %r with headers %s",
+                response.status_code, album_id, response.headers,
+            )
+            return False
+
+        album_release_date = date.fromisoformat(response.json().get("release_date"))
+
+        return album_release_date in release_week
+
+    # All retries exhausted due to rate-limiting.
+    return False 
+
+
+def _lookup_bandcamp_album(artists: list[str], title: str, result: Any, release_week: list[date], session: Session) -> bool:
     """Verify that *result* is an album by one of *artists* via the Bandcamp mobile API.
 
     Matching runs through a **title check** and a **three-pass artist check**
@@ -439,10 +491,10 @@ def _lookup_bandcamp_album(artists: list[str], title: str, result: Any, session:
     # ------------------------------------------------------------------ #
     # API sanity check — only reached when title and artist both match     #
     # ------------------------------------------------------------------ #
-    return _album_include_tracks(result.get("band_id"), result.get("id"), session)
+    return _album_include_tracks(result.get("band_id"), result.get("id"), session) and _album_is_in_release_week(result.get("band_id"), result.get("id"), release_week, session)
 
 
-def _collect_bandcamp_information(h3: Tag, session: Session) -> BandcampInfo | None:
+def _collect_bandcamp_information(h3: Tag, release_week: list[date], session: Session) -> BandcampInfo | None:
     """Resolve a Bandcamp album for the release described by *h2*.
 
     Parses the heading text as ``"Artist[, Artist2] - Title"``, searches
@@ -451,6 +503,7 @@ def _collect_bandcamp_information(h3: Tag, session: Session) -> BandcampInfo | N
 
     Args:
         h2: The release heading whose text contains ``Artist - Title``.
+        release_week: A list of dates representing the release week.
         session: A :class:`~curl_cffi.requests.Session` to reuse across calls.
 
     Returns:
@@ -473,6 +526,9 @@ def _collect_bandcamp_information(h3: Tag, session: Session) -> BandcampInfo | N
     if len(results) == 1:
         result = results[0]
         if not _album_include_tracks(album_id=result.get("id"), band_id=result.get("band_id"), session=session):
+            return None
+
+        if not _album_is_in_release_week(album_id=result.get("id"), band_id=result.get("band_id"), release_week=release_week, session=session):
             return None
 
         normalized_result_artists: list[str] = _split_artist_string(result.get("band_name", ""))
@@ -500,7 +556,7 @@ def _collect_bandcamp_information(h3: Tag, session: Session) -> BandcampInfo | N
 
 
     for result in results:
-        if _lookup_bandcamp_album(artists=artists, title=title, result=result, session=session):
+        if _lookup_bandcamp_album(artists=artists, title=title, result=result, release_week=release_week, session=session):
             log.debug(
                 "(COLLECT): Matched %r for heading %r",
                 result.get("name"), heading_text,
@@ -613,7 +669,16 @@ def on_page_content(html: str, page: pages.Page, config: Config, files: files.Fi
     if not page.meta.get("bandcamp", False):
         return html
 
-    log.info("Embedding Bandcamp players for pinned page: %s", src)
+    list_date = page.meta.get("date", None)
+    if not list_date:
+        log.warning("Pinned release list %r has no date in front-matter", src)
+        return html
+
+    release_friday = date.strptime(list_date, "%Y-%m-%d")
+    release_saturday = release_friday - timedelta(6)
+    release_week = [release_saturday + timedelta(i) for i in range(7)]
+    log.info("Embedding Bandcamp players for pinned page: %s (week of %s - %s)", src, release_week[-1], release_week[0])
+    
     soup = BeautifulSoup(html, "html.parser")
     headings = soup.find_all("h3")
 
@@ -627,7 +692,7 @@ def on_page_content(html: str, page: pages.Page, config: Config, files: files.Fi
     # from HTTP keep-alive and reduced TLS handshake overhead.
     with Session() as session:
         for h3 in headings:
-            bandcamp_info = _collect_bandcamp_information(h3, session)
+            bandcamp_info = _collect_bandcamp_information(h3, release_week, session)
             if bandcamp_info is None:
                 embedding_failed += 1
                 continue
