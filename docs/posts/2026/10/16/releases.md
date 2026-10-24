@@ -484,6 +484,12 @@ Wir fühlen alle dasselbe, aber gut fühlt sich dabei niemand: Die Band aus Los 
 
 ::genre::indie pop, alt rock
 
+### Luciferian Strings - Songs of a Distant War
+
+Portugiesischer „Anarchist Black Metal and Dungeon Synth“ aus Lisbon, Teil des Labels *SilverHeart Prod.*: *Luciferian Strings* haben mit *Songs of a Distant War* neun Stücke in gut 36 Minuten aufgenommen, die zwischen Marsch und Nebel pendeln. **Dungeon Synth** und **Atmospheric Black Metal** (Bandcamp führt außerdem Neo-Folk als Tag): *Solemn*, *Valiant Green*, *The Ent March*, *A Brave Oak Felled*, *Strength of Old Forest Growth*, *The Orc March*, *Oak & Steel*, *Crushing The Defilers* und *Fog of War*. Erschienen als Download und als DIY-Kassette. Märsche für Baum und Orks.
+
+::genre::dungeon synth, atmo black metal
+
 ### Lucy Fair - Cinematic Bubble Grunge
 
 Das Genre hat sie sich gleich selbst ausgedacht: Die Berliner Musikerin, die Mitte der 2000er als *Valentine* drei Alben veröffentlichte, nennt ihr Debüt unter neuem Namen schlicht nach ihrem Sound. Glänzender **Alternative Pop** trifft auf Neunziger-**Grunge**, dazu immer wieder Streicher und auf *Broken Hearted* sogar ein Bass-Drop. Elf Songs über Ex-Partner, Red Flags und Selbstkritik, oft mit Ironie, darunter *Something in the Water*, *See You in Hell*, *Hellfire*, *How Do You Sleep at Night* und *Burning*. Die Platte erzählt eine verzwickte Liebesgeschichte, die es auch als Kurzfilm gibt, gedreht in Innsbruck, ihrer zweiten Heimat. Kinoreif, kaugummibunt, verzerrt.
@@ -754,7 +760,7 @@ Die österreichische Hard-Rock-Band legt bei *Metalapolis Records* ihr sechstes 
 
 ::genre::death doom metal, gothic metal
 
-### Shy, Low - Purity Spiral
+### Shy, Low - Purity Spiral *
 
 Gerade erst mit *The Ocean* und *The World Is a Beautiful Place…* durch die USA getourt, dazu Arctangent und Rockstadt Extreme: Die Instrumental-Rockband aus Richmond, Virginia, legt bei *Pelagic Records* nach. **Post Rock** und **Post Metal** mit Sludge-Gewicht und Ambient-Flächen, laut Bandbio komplett **Instrumental**. Sieben Stücke in gut 47 Minuten: *Grace*, *The Bloat*, *Palmistry*, *Burning Fields*, *The Charging, Brazen Bull*, der neunminütige Titelsong und *Greenwood*. Auf Vinyl in der „Greenwood Edition“ und als CD-Digisleeve. Schüchtern, leise? Nur dem Namen nach.
 
