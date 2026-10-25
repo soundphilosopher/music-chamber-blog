@@ -24,7 +24,7 @@ from dataclasses import dataclass
 from typing import Any
 from random import uniform
 from difflib import SequenceMatcher
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta, timezone
 
 from bs4 import BeautifulSoup, Tag
 from curl_cffi.requests import Session
@@ -303,7 +303,19 @@ def _album_is_in_release_week(band_id: int, album_id: int, release_week: list[da
             )
             return False
 
-        album_release_date = date.fromisoformat(response.json().get("release_date"))
+        # The mobile API reports ``release_date`` as a Unix timestamp (UTC),
+        # not an ISO string; it can also be missing or null.
+        raw_release_date = response.json().get("release_date")
+        try:
+            album_release_date = datetime.fromtimestamp(
+                int(raw_release_date), tz=timezone.utc
+            ).date()
+        except (TypeError, ValueError, OverflowError, OSError):
+            log.warning(
+                "(LOOKUP): Unusable release_date %r for album %r",
+                raw_release_date, album_id,
+            )
+            return False
 
         return album_release_date in release_week
 
@@ -669,12 +681,11 @@ def on_page_content(html: str, page: pages.Page, config: Config, files: files.Fi
     if not page.meta.get("bandcamp", False):
         return html
 
-    list_date = page.meta.get("date", None)
-    if not list_date:
+    release_friday = page.meta.get("date", None)
+    if not release_friday:
         log.warning("Pinned release list %r has no date in front-matter", src)
         return html
 
-    release_friday = date.strptime(list_date, "%Y-%m-%d")
     release_saturday = release_friday - timedelta(6)
     release_week = [release_saturday + timedelta(i) for i in range(7)]
     log.info("Embedding Bandcamp players for pinned page: %s (week of %s - %s)", src, release_week[-1], release_week[0])
