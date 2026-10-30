@@ -198,7 +198,7 @@ tbd
 
 ::genre::
 
-### Blistered Existence - What Once… Was Not
+### Blistered Existence - What Once... Was Not
 
 tbd
 
@@ -210,7 +210,7 @@ tbd
 
 ::genre::
 
-### Bloedmaan/Crypts of Dusk - Curse of the Emerald Knight
+### Bloedmaan / Crypts of Dusk - Curse of the Emerald Knight
 
 tbd
 
@@ -576,7 +576,7 @@ tbd
 
 ::genre::
 
-### Fujiya & Miyagi - New Shiny Object
+### Fujiya, Miyagi - New Shiny Object
 
 tbd
 
