@@ -1,6 +1,5 @@
 ---
 date: 2026-09-30
-pin: true
 categories:
   - Top Lists
   - Recap
