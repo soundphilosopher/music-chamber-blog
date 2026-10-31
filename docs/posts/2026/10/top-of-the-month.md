@@ -1,6 +1,5 @@
 ---
 date: 2026-10-31
-draft: true
 categories:
   - Top Lists
   - Recap
@@ -10,13 +9,13 @@ categories:
 
 <div class="grid cards" align="center" markdown>
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![The Lovecraft Sextet - Penance](https://f4.bcbits.com/img/a0893344538_16.jpg){ .top-list-image }
 
-    ## 1. Lorem - Ipsum
+    ## 1. The Lovecraft Sextet - Penance
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![Caspian - Caspian](https://f4.bcbits.com/img/a1790897132_16.jpg){ .top-list-image }
 
-    ## 2. Lorem - Ipsum
+    ## 2. Caspian - Caspian
 
 </div>
 
@@ -24,56 +23,56 @@ categories:
 
 <div class="grid cards" align="center" markdown>
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![Andrew Toombs - Alloy](https://f4.bcbits.com/img/a1201386861_10.jpg){ .top-list-image }
 
-    ## 3. Lorem - Ipsum
+    ## 3. Andrew Toombs - Alloy
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![Deerhoof - Divine Schism](https://f4.bcbits.com/img/a1107809698_10.jpg){ .top-list-image }
 
-    ## 4. Lorem - Ipsum
+    ## 4. Deerhoof - Divine Schism
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![Shy, Low - Purity Spiral](https://f4.bcbits.com/img/a1617908911_10.jpg){ .top-list-image }
 
-    ## 5. Lorem - Ipsum
+    ## 5. Shy, Low - Purity Spiral
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![Danielle Luppi - Wilma](https://www.udiscovermusic.com/wp-content/uploads/2026/08/daniele-luppi-to-some-degree-michael-kiwanuka.jpg){ .top-list-image }
 
-    ## 6. Lorem - Ipsum
+    ## 6. Danielle Luppi - Wilma
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![Takeshi’s Cashew - Planet Odyssey 64](https://propermusic.com/cdn/shop/files/4059251763680.jpg){ .top-list-image }
 
-    ## 7. Lorem - Ipsum
+    ## 7. Takeshi’s Cashew - Planet Odyssey 64
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![Sunnan - Spaghetti Soul](https://i.scdn.co/image/ab67616d0000b27322132f73c690e8eb61f8f38a){ .top-list-image }
 
-    ## 8. Lorem - Ipsum
+    ## 8. Sunnan - Spaghetti Soul
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![DIIV - ZIRP!](https://f4.bcbits.com/img/a3856471150_16.jpg){ .top-list-image }
 
-    ## 9. Lorem - Ipsum
+    ## 9. DIIV - ZIRP!
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![The Samuel Jackson Five - A Passage to Elsewhere](https://f4.bcbits.com/img/a2572745169_10.jpg){ .top-list-image }
 
-    ## 10. Lorem - Ipsum
+    ## 10. The Samuel Jackson Five - A Passage to Elsewhere
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![P.P. Rebel - Devotee](https://f4.bcbits.com/img/a0177932923_10.jpg){ .top-list-image }
 
-    ## 11. Lorem - Ipsum
+    ## 11. P.P. Rebel - Devotee
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![Giant Sky - Giant Sky III](https://f4.bcbits.com/img/a2027993594_16.jpg){ .top-list-image }
 
-    ## 12. Lorem - Ipsum
+    ## 12. Giant Sky - Giant Sky III
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![Telemakus - Eight Ring Revival](https://f4.bcbits.com/img/a3981323257_10.jpg){ .top-list-image }
 
-    ## 13. Lorem - Ipsum
+    ## 13. Telemakus - Eight Ring Revival
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![The Twit 1, II, Three - The Twit 1, II, Three](https://f4.bcbits.com/img/a0891097694_16.jpg){ .top-list-image }
 
-    ## 14. Lorem - Ipsum
+    ## 14. The Twit 1, II, Three - The Twit 1, II, Three
 
--   ![Some Image](https://picsum.photos/350){ .top-list-image }
+-   ![Alex Henry Foster - The Fragile Beauty (Of New Morning Hopes)](https://f4.bcbits.com/img/a0048192783_10.jpg){ .top-list-image }
 
-    ## 15. Lorem - Ipsum
+    ## 15. Alex Henry Foster - The Fragile Beauty (Of New Morning Hopes)
 
 </div>

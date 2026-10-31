@@ -11,7 +11,7 @@ Built with [MkDocs Material](https://squidfund.github.io/mkdocs-material/) and p
 ## 🎧 What's Inside?
 
 | Content | Description |
-|---|---|
+| --- | --- |
 | 📰 **Weekly Release Lists** | Every Friday, a fresh batch of album reviews — dozens of releases, each with a concise, opinionated take (auf Deutsch! 🇩🇪) |
 | ⭐ **Top Picks** | Standout releases are marked and automatically transformed into highlighted cards so they pop off the page |
 | 📊 **Monthly Top Lists** | The best of each month, complete with album artwork in a beautiful grid layout |
@@ -44,7 +44,7 @@ A [script](scripts/export_recap_of_the_month.py) crawls all the weekly release l
 Jupyter notebooks in [notebooks/](notebooks/) turn the posts into statistics. A shared [loader](notebooks/music_stats.py) parses the weekly release lists (stars, sections, expanded genres) and the recap pages, so the notebooks only deal with pandas and plots.
 
 | Notebook | What it shows |
-|---|---|
+| --- | --- |
 | [monthly_overview](notebooks/monthly_overview.ipynb) | One month at a glance (set `MONTH` at the top): the picks first, then releases per week, common and new genres, genre combinations and a comparison with the other months |
 | [recap_overview](notebooks/recap_overview.ipynb) | The monthly, yearly (`top-25-recap-<YEAR>.md`) and lifetime (`top-25-lifetime.md`) recaps side by side, including genres and artists that show up in several of them |
 
@@ -98,11 +98,12 @@ Then run the setup script:
 ```
 
 This will:
+
 1. Install all dependencies via `pip install -e .`
 2. Build the site with `mkdocs build`
-3. Fire up a local dev server at **http://127.0.0.1:8000**
+3. Fire up a local dev server at **[127.0.0.1:8000](http://127.0.0.1:8000)**
 
-### Or do it manually:
+### Or do it manually
 
 ```bash
 pip install -e .
@@ -136,7 +137,7 @@ If you prefer [Anaconda](https://www.anaconda.com/) or [Miniconda](https://docs.
    mkdocs serve -w .
    ```
 
-   The site will be available at **http://127.0.0.1:8000**.
+   The site will be available at **[127.0.0.1:8000](http://127.0.0.1:8000)**.
 
 Alternatively, you can run the setup script after activating the environment:
 
@@ -183,7 +184,7 @@ The blog rocks a **deep orange** primary with **deep purple** accents on Materia
 Styling is split across several purpose-built CSS files in `docs/assets/css/`:
 
 | File | Purpose |
-|---|---|
+| --- | --- |
 | `override.css` | Global tweaks — admonition borders, general layout fixes |
 | `recap.css` | Card & chip styles for top-pick and recap entries |
 | `bandcamp.css` | Bandcamp mini-player embed layout and light/dark switching |
@@ -195,7 +196,7 @@ Styling is split across several purpose-built CSS files in `docs/assets/css/`:
 
 ## 📁 Project Structure
 
-```
+```text
 music-chamber/
 ├── docs/
 │   ├── .authors.yml                    # Blog author metadata
