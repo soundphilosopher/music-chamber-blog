@@ -55,6 +55,13 @@ time, not just staying correct once. A single flagged entry has previously led t
 re-audit that found several wrong facts, so treat "already reviewed" as a starting point,
 not a guarantee.
 
+**Look for reviews, too.** Besides the Bandcamp lookup and the release search, run a search
+for reviews of the release (`"artist" "title" review`) for every entry whose genre, format
+(EP/LP), date, label or credits are thin or uncertain — that is the step Carsten does by hand
+on the "please check" items. Read the actual review pages (WebFetch) rather than snippets and
+use them for genre, line-up, producers, per-track facts and release-date/format confirmation.
+Don't skip his manual check because of it; it just shrinks the "please check" list.
+
 When a source genuinely can't be found (roughly 1 entry in 9), atmosphere-only writing is
 the fallback — but say so explicitly and list those entries; the tags there are guesses.
 
@@ -150,9 +157,18 @@ neighbouring weeks rather than inventing one.
 playful, lead with the most interesting fact or twist instead of a fixed "Das Album der
 Band aus X, erschienen bei Y" opener, and let the voice vary from entry to entry. Short
 jokes and a closing one-liner are welcome. **Nothing factual may be lost for it:** label,
-genre names, track titles, guests, producers, dates, release format and anything else the
-older formal reviews carried still go in. Colour is style only — never invent a fact,
-image or anecdote to be funny. Keep it tactful on loss, illness and death.
+genre names, track titles, guests, producers, dates and anything else the older formal
+reviews carried still go in. Colour is style only — never invent a fact, image or anecdote
+to be funny. Keep it tactful on loss, illness and death: on heavy themes (grief, loss,
+illness, trauma) keep the facts the artist or press have stated, leave out the jokes, let
+the closing line be calm and let any lightness come from the music, not from the subject.
+
+**More organic still (from 2026-10-30 batch 3 on):** leave out the release formats
+(vinyl, CD, cassette, digipak, colour editions) and don't name Bandcamp, Metal Kingdom,
+review sites or blogs in the prose ("laut …", "Bandcamp führt außerdem … als Tags") —
+fold the information in as plain fact instead. Thin-source caveats (press-only, no
+tracklist, guessed tag, unclear EP/LP) belong in the chat report; in the prose, at most a
+light "lag mir nicht vor". Labels, studios and the artists' own words stay.
 
 ## Working alongside Carsten
 

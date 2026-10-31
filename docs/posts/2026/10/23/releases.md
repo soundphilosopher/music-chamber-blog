@@ -862,6 +862,12 @@ Aus der Asche von *Mournkind* aufgestiegen, seit 2019 unter neuem Namen und nach
 
 ::genre::black metal
 
+### Single Print Index - Confessions
+
+Ein Seitenprojekt aus dem Code-Orange-Umfeld: *Jami Morgan*, Sänger von *Code Orange*, und Gitarrist und Sänger *Dominic Landolina* haben als *Single Print Index* ihre Debüt-EP *Confessions* bei *Nowhere Recordings* veröffentlicht, fünf Songs: *(answer the call)*, *Recover The Mindset*, *Never*, *Neon Red* und als Schlusspunkt *Its Worth Less Than You Think* mit *Mike Ryan* von *Missing Link* als Gast. Mit dabei sind außerdem Mitglieder von *Pain Clinic* und weitere Mitwirkende. Das Ganze ist **Metallic Hardcore** der direkten Sorte, den manche als das beschreiben, was man sich von Code Orange gewünscht hat. Beichte kurz, Absolution laut.
+
+::genre::metallic hardcore
+
 ### Snake Mountain Revival - The Divide *
 
 Psychedelik aus Virginia Beach: Das Trio *Snake Mountain Revival* legt mit *The Divide* sein zweites Album und sein Debüt bei *Ripple Music* vor. **Psych Rock** mit **Stoner Rock**-Wucht und **Surf Rock**-Akzenten (Bandcamp führt außerdem Heavy Psych als Tag), dazu folkigere Töne mit dunkler Kante, eine Antwort auf „eine Welt im Chaos“ und ein Land „in Flammen“. Sänger *Ryan Chandler*: „I mean to provoke. We always have.“ Aber nicht nur Dornen: Wo es um Schönheit, Frieden, Liebe und Zufriedenheit geht, „we must show our fangs“. Neun Stücke in gut 44 Minuten: *The Divide*, *Prowler*, *Grifter’s Paradise*, *Main Line*, *The House of Zeal*, *Conjurer*, *At First Sight*, *On The Verge* und *The Other Way*. Ripple bringt es auf Vinyl (darunter die Edition „The Grey Divide“), als Digipak-CD und digital. Zähne zeigen, wenn’s drauf ankommt.
@@ -969,6 +975,12 @@ Das erste neue Album seit 1999, und es hat eine lange, bewegte Vorgeschichte: *T
 Düster, tragisch und episch: *Lorenzo Marchello*, einst bei *Kolony Records*, spielt als *The Scars In Pneuma* Doom-getränkten **Melodic Black Metal**, der laut Label an keine bestimmte Band erinnert. **Atmospheric Black Metal** mit großen Melodien, dramatischen Stimmungen, langsamen und schnellen Passagen, finsteren Zwischenspielen und tiefem Growlen. *Cursed Songs From The Garden Of Twilight* hat acht Stücke in knapp 43 Minuten: *Before it All Ends*, *Per Demoni di Boschi e di Sassi*, *Le Diable dans la Ville*, *Cults of Pneuma*, *Secret Fire*, *Maudits Dèsirs!*, *Haunted by Time* und *Cometa*. Marchello übernimmt Gesang, Gitarren, Bass, Hammond und Klavier, die Session-Drums spielte *Alessandro Mori*; das Klavier von *Le Diable dans la Ville* wurde live in der U-Bahn-Station Vittoria in Brescia aufgenommen. Aufgenommen, gemischt und gemastert zwischen Februar und August 2026 von *Carlo Meroni* im ADSR Decibel Studio in Busto Arsizio, das Cover *Night Song* malte *Yaroslav Gerzhedovich*. Erschienen bei *Masked Dead Records* aus Italien, auch als CD. Verfluchte Lieder, aber schöne Melodien.
 
 ::genre::melo black metal, atmo black metal
+
+### The Snuts - Joy In Short Moments
+
+Erst steil nach oben, dann bewusst Tempo raus: Nach dem Debüt *W.L.* (2021), mit dem *The Snuts* als erste schottische Band seit 14 Jahren direkt auf Platz eins der britischen Charts landeten, und den Alben *Burn the Empire* (2022) und *Millennials* (2024) lässt die Band aus Whitburn in West Lothian es auf ihrem vierten Album *Joy In Short Moments* ruhiger angehen, bei *Happy Artist Records* in Zusammenarbeit mit *Virgin Music Group*. Sänger *Jack Cochrane* ist nach Hause gezogen und Vater geworden, das Album ist „der Klang davon, sich mit dem zu verbinden, was zählt“ und dreht sich um Erfolg und Scheitern, Elternschaft, Verlust und die Frage, wo man Sinn findet. Produziert haben Cochrane und *Scotty Anderson*. Elf Stücke in knapp 37 Minuten **Indie Rock** und **Alt Rock**: *In Motion* eröffnet hymnisch mit markanten Gitarren, federndem Bass und dezenten Synthesizern, *Defibrillator* geht auf die Idee einer „Trauerfeier zu Lebzeiten“ zurück, *Youth Ain't Easy* klingt sommerlich, *Joy In Short Moments* und *Get Up, Get Out* sind hell und eingängig. *PTS* ist am Morgen nach Schottlands WM-Qualifikation 2026 entstanden, *Country Music* hat eine sanfte Akustikgitarre, *Summer Rain* verarbeitet die Wochenbettdepression nach der Geburt eines Kindes und den Übergang vom Tourleben in den Familienalltag, *Motherlands* feiert mit Streichern die Heimat, *Warsaw* schwebt auf Akustikgitarre, und *Little Marathon Man* beginnt mit einer privaten Sprachaufnahme. Ein Album, das das Innehalten übt.
+
+::genre::indie rock, alt rock
 
 ### The Sourdrops - Next to New
 
