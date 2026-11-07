@@ -1,7 +1,7 @@
 ---
 date: 2026-11-06
-pin: false
-bandcamp: false
+pin: true
+bandcamp: true
 categories:
   - Releases
 ---
@@ -12,1559 +12,1133 @@ categories:
 
 ### 25 Yard Screamer - ...and From the Deep, There is a Light
 
-tbd
+Mutter Erde wird empfindungsfähig und beschließt, die Menschheit loszuwerden, bis auf ein paar Gesegnete, die künftig in neuer Harmonie mit ihr leben – so weit der Rahmen von *…and From the Deep, There is a Light*, wobei, wie die Band selbst anmerkt, nie etwas wirklich so einfach ist. Im Kern geht es um Beziehungen: zwischen Menschen, zur Menschheit und zur Erde, zum Glauben und zur Zeit. Das Prog-Rock-Trio *25 Yard Screamer* aus Carmarthen in Südwales ist seit 2002 unterwegs und legt acht Stücke in gut 70 Minuten vor: *Mother Tongue*, *When Our Ending Began* (mit Violine von *Maria Grig*), *The Reclamation*, *The Silence After Us*, *My Children Have Memories*, *Deconstruction of Self*, *All Will Follow* und *Time Examines Us*. Die Musik schrieben *Nick James* und *Matt Clarke*, Texte und Prosa stammen von James, *Carly Tucker* singt zusätzlich, gemischt und gemastert hat *David Prosperi* in den Havoc Studios. **Progressive Rock** und **Neo Progressive Rock**, mit reichlich Platz zum Ausbreiten. Wer 70 Minuten Weltuntergang bucht, hat wenigstens Zeit, in Ruhe darüber nachzudenken.
 
-::genre::
+::genre::prog rock, neo prog rock
 
 ### Absolute Power - Needs Must When The Devil Drives
 
-tbd
+Fünfzehn Jahre nach dem selbstbetitelten Debüt ist das Heavy-Metal-Herzensprojekt von Sänger und Produzent *Simon Efemey* und *Napalm Death*-Bassist *Shane Embury* endlich wieder da, und es klingt nach *Judas Priest*, *Saxon*, *Black Sabbath*, *Dio* und der New Wave of British Heavy Metal. *Needs Must When the Devil Drives* ist das zweite Album, erschienen bei *Time To Kill Records*: elf Stücke in gut 49 Minuten klassischer **Heavy Metal**, co-produziert von Efemey und Embury und aufgenommen in den Headline Studios in Cambridgeshire. Die Gästeliste liest sich wie ein Familientreffen: *Tim „Ripper“ Owens* (*Judas Priest*, *Iced Earth*) schreit beim Titelstück, an dem auch *Dominik Gryzbon* Gitarre spielt; *Mark Gemini Thwaite* (*The Mission*, *Gary Numan*) und *John Cooke* (*Napalm Death*) sind auf allen Stücken dabei, *Ilsa Nielson* nur bei *Hammer of Justice*. Am Schlagzeug sitzt *Carl Stokes* (*Cancer*, *The Groundhogs*), bei *Saviour* und *Sheer Heart Attack* übernimmt *Joe Taylor*. Letzteres ist das einzige Cover, ein *Queen*-Song von *Roger Taylor*. Dazu kommen *Kernschmelze*, *Stand Up and Be Counted*, das atmosphärisch-psychedelische *Within*, *Mountain of Hope*, *Insanity*, *Praise the Fire* und das siebenminütige *Orphans of the Storm*. Produziert, aufgenommen und gemischt haben Absolute Power gemeinsam mit *Piers Mortimer*, gemastert hat *JP Braddock* im April 2026 bei Formation Audio. Die Teufel treibt es hier eher zum Mitsingen als zum Fürchten.
 
-::genre::
+::genre::heavy metal
 
 ### Abysmal Rage - A House No One Could Live In
 
-tbd
+Das Haus, in dem niemand wohnen könnte, hat neun Zimmer und gut 55 Minuten Laufzeit: *Abysmal Rage* ist neben *Abysmal Growls of Despair* eines der beiden Soloprojekte von *Hangsvart*, der Musik, Gesang, Aufnahme, Mix und Mastering allein erledigt, während *Ophidia XIII* Texte und Cover beisteuert. Der Rundgang führt durch *Non*, *My Olympus*, *The Chasm*, *Exoneration*, den Titeltrack *A House No One Could Live In*, *Hands of Gods*, *Aries* und *Black Is Not a Colour* bis zum Ausgang bei *Black They Bloom*. **Death Doom Metal** und **Drone**, mit Ambient-, Experimental- und reichlich Horror-Einschlag. Einziehen würde ich nicht, aber eine Besichtigung lohnt sich.
 
-::genre::
+::genre::death doom metal, drone
 
 <!-- more -->
 
-### Acexerss - Moments
+### Active Intersection - Traveling Without Moving *
 
-tbd
+Alle Instrumente inklusive Mayonnaise, Gesang inklusive Meerrettich: So steht es in den Credits von *Traveling Without Moving*, und das Album hält den Ton. Hinter *Active Intersection* steckt *Jeff Campbell* aus Cleveland, Ohio, der alle Instrumente aufgenommen und im eigenen Hyper Focus Studio produziert hat; die Texte schrieb *Merika Campbell*, gesungen hat *Kate Nord* aus Porvoo in Finnland, erschienen ist das Ganze bei Hyper Focus Editions. Gedacht ist es als gemütlicher Spaziergang durch die emotionale Wildnis, vom Verheddertsein zur Klarheit, vom Alleingang zu den eigenen Leuten, von der Angst zur Bewegung nach vorn, mit Weckrufen, Wegkreuzungen und dem einen oder anderen Gepäckstück, das man unnötig mit sich herumträgt; Resilienz, so der Text, taucht meist rechtzeitig auf, am liebsten mit Snacks. Zehn Stücke in gut 46 Minuten: *The Invitation*, *The Only Way Is Through*, *The Red Sun*, *Crossroads*, *Who Would Have Thunk It*, *Panic Attack*, *Delulu*, *Every Daydream Matters*, *Autumn Clouds* und *Find The Time*. **Progressive Rock**, **Space Rock** und **Synth Rock** mit Electro-Rock-Anstrich. Mayonnaise gehört ausdrücklich dazu.
 
-::genre::
-
-### Active Intersection - Traveling Without Moving
-
-tbd
-
-::genre::
+::genre::prog rock, space rock, synth rock
 
 ### Adversor - This Mortal Coil
 
-tbd
+Die Welt ist kaputt, und *Adversor* sehen ihr direkt ins Gesicht: *This Mortal Coil*, das vierte Album der italienischen Thrasher, richtet sich gegen eine zersplitterte, angeschlagene Welt und blickt zugleich auf ganz persönliche innere Kämpfe, das Cover zeigt dazu eine kleine, anonyme Gestalt, die ins Nichts starrt. Zwölf Stücke in knapp 44 Minuten bei *Selva Jaria Records*, drei davon kaum länger als anderthalb Minuten (*Path to Oblivion*, *2066*, *Again... Through The Dark Portal*), dazwischen *Shattered Visions*, der Titeltrack *This Mortal Coil*, *Burn*, *Gargantua* (mit Gastsolo von *Mars*), *Totem of Doom*, *Deafening Silence*, *The Heritage*, *Side by Side* und *Ghost Of Ourselves*. Besetzung: *Dado* (Gesang, Rhythmusgitarre), *Ale* (Bass), *Phil* (Leadgitarre) und *Ja* (Schlagzeug), Musik und Texte stammen von der Band, das Artwork von Misanthropic-Art. **Thrash Metal** mit Wucht, Melodien und ordentlichen Gitarrensoli. Weltuntergang, aber im Moshpit.
 
-::genre::
+::genre::thrash metal
 
 ### Afterlife - The Pain That Shapes Us
 
-tbd
+Zum ersten Mal ganz ohne Geschrei und Rap: *Empty*, die erste Single, ist der erste *Afterlife*-Song überhaupt ohne Screams und Rap, die Band wollte eine düstere Stimmung treffen, die zu den Texten passt. Die Alternative-Metal-Band aus West Palm Beach, Florida, ist nach *Breaking Point* (2019) und *Part Of Me* (2021) mit ihrem dritten Album bei *Mascot Records* gelandet, die sie 2025 nach einem Live-Auftritt unter Vertrag nahmen. Produziert haben *Zach Jones* (unter anderem *Crown The Empire*, *Nothing More*, *We Came As Romans*, *Pop Evil*) und *Austin Coupe* (unter anderem *Papa Roach*, *The Devil Wears Prada*). Elf Stücke: *A Thousand Warnings*, *Bad Habits*, *Vertigo*, *Bleed You Dry*, *Empty*, *Sick Of It*, *Crash And Burn*, *Playing God*, *Bite*, *More To Life* und *Parasite Of The Mind*. Am Mikro steht *Tyler Levenson*, dazu spielen *Andrew McGuire* (Gitarre), *Luke Walkinshaw* (Schlagzeug) und *Tristan Edwards* (Bass); als frühe Einflüsse nennt die Band *Slipknot*, *Linkin Park* und *Papa Roach*. **Alternative Metal** und **Nu Metal**. Wer *Empty* kennt, weiß jetzt, wie Afterlife ohne Gebrüll klingen.
 
-::genre::
-
-### AG Plaste - Jetzt oder nicht
-
-tbd
-
-::genre::
-
-### Alan Reed - Grey Sky Thinking
-
-tbd
-
-::genre::
+::genre::alt metal, nu metal
 
 ### Alanis Morissette - Good Weather for Immaculate Conception
 
-tbd
+Ihr erstes Weihnachtsalbum, und sie hat dafür gleich die halbe Gästeliste aufgetrieben: *Brandi Carlile* und *Steve Martin* singen bei *Beautiful Star of Bethlehem*, *Amythyst Kiah* bei *Momma Mary*, der britische Chor *Trans Voices* (der erste professionelle Trans-Chor des Landes) bei *O Tannenbaum*, *Joy Oladokun* bei *Silent Night* und *Martin Short* im Duett bei *Merry Christmas*. *Good Weather for Immaculate Conception* erscheint bei *Epiphany Music/Virgin Music* und hat vierzehn Stücke: Standards wie *O Holy Night*, *What Child Is This?*, *Little Drummer Boy* und *Ave Maria*, Interpretationen von *Happy Xmas (War Is Over)*, *River* und *Last Christmas*, bereits früher veröffentlichte Weihnachtssongs von ihr und zwei neue Lieder, *To an Empath at Christmas Time* und *Christmas on the Dancefloor*. Letzteres bricht mit düsterem, theatralischem Rock aus der sonst warmen, akustischen Stimmung aus. **Alternative Rock**, **Alternative Folk** und **Pop Rock**, dazu Gospel und Chorsätze: Sie wirkt weniger daran interessiert, die Klassiker neu zu erfinden, als herauszufinden, wo ihre eigene Stimme hineinpasst. Weihnachten, und das schon im November.
 
-::genre::
+::genre::alt rock, alt folk, pop rock
 
 ### Aleya - How It Ends
 
-tbd
+Verlust in allen Formen: Glaube an die Menschen, Kontrolle, geliebte Menschen, Jugend, Selbstvertrauen und Sinn, darum kreisen die Texte von *How It Ends*, der EP von *Aleya* aus Nordwestengland. Sechs Stücke, in Eigenregie veröffentlicht und von *Dan Fox* im Treehouse Studio produziert: *SELF-TALK*, *Sapphire Skies*, *Follow Me*, *Old Friends*, *Wasteland* und *DEATH SPIRAL*. Es spielen *Tom Evans* (Gesang), *Sam Lawson* (Gitarre), *Mike Washington* (Bass) und *James Wright* (Schlagzeug). **Alternative Metal** und **Metalcore** mit Anleihen bei Nu Metal, Alt Rock, Post-Hardcore, Tech Metal und Deathcore: Die Band spricht von synthlastigen, eingängigen Nummern für die Liveshow, melancholischen Alt-Rock-Songs mit großen Refrains und ihren schwersten, unberechenbarsten Stücken, alles, was sie an harter Musik liebt. Im November geht es dafür auf eine kleine Headline-Tour: am 12. nach Birmingham (Subside Bar), am 13. nach Chester (Live Rooms) und am 14. nach Nottingham (The Old Salutation). Wo es um Verlust geht, tut ein Refrain zum Mitsingen gut.
 
-::genre::
+::genre::alt metal, metalcore
 
 ### All Hours - Everything In Between
 
-tbd
+Fünf Leute aus Brisbane, ein Genre mit festem Rezept und der Anspruch, alles reinzustecken: *All Hours* melden sich mit *Everything In Between* mit ihrem Debütalbum bei *Equal Vision Records* und *Velocity Records*. Zehn Stücke, produziert von *Tom Denney* (arbeitete unter anderem mit *Pierce The Veil*, *Issues*, *Wage War* und *Neck Deep*) und *Troy Brady*, früher bei *The Amity Affliction*: *The Last Dance*, die Leadsingle *Let Me Go*, *Jumping Out Of Windows*, *Under The Surface*, *Forever Meant Nothing*, der Titelsong *Everything In Between*, *Passing Moments*, *Stranger*, *Open Your Eyes* und *Chapters*. **Pop Punk**, „energisch, emotional und unverschämt laut“, mit *Paramore*, *A Day to Remember*, *Blink-182*, *Silverstein* und *Sum 41* als Vorbildern. Laut Band steckt in der Platte alles, was sie hatten. Regler auf Anschlag, Herz auf dem Ärmel.
 
-::genre::
+::genre::pop punk
 
 ### Almost Cherry - The World is a Good Place Full of Good People
 
-tbd
+Ein Titel wie ein Aufkleber am Kühlschrank, eine Beschreibung wie ein Achselzucken: Bei *Almost Cherry* aus Sydney steht als Bio „i am not music“, und als Albumtext wiederholt sich einfach der Titel. *The World is a Good Place Full of Good People* hat neun Stücke in gut 50 Minuten: *Winchester Mystery House*, *My Love For You*, *Last Train to Ultimo*, *Blue Heron*, *How Long*, *Paradise Valley*, *We Need to Breathe, Pt I* und *Pt II* sowie *Adderwood*. Eingeordnet als elektronische Musik und **Harsh Noise** in der Wall-Variante. Freundlicher Titel, rauer Anstrich.
 
-::genre::
+::genre::harsh noise
 
-### American Motors - Functional Music
+### American Motors - Functional Music *
 
-tbd
+Eine Entschuldigung als Opener: *obvious* beginnt mit „I know / it’s such a fucking cross / to bear“, ein Gebet vielleicht, eine Bitte um Vergebung an die Figuren, die das Album bevölkern. *American Motors* aus Lancaster, Pennsylvania, legen mit *Functional Music* ihr zweites Album nach *Content* vor: Wo das Debüt die Infrastruktur dieser maroden Dystopie baute, geht es jetzt um die moralisch zwielichtigen Nomaden, die darin herumstreunen und nichts mehr zu verlieren haben. Acht Stücke in genau 35 Minuten bei *Expert Work Records* und *The Ghost Is Clear Records*: *obvious*, *one chord*, *no horses*, *5408 big tyler*, *margaritaville pt. 2*, *marlboro miles*, *tragedy* und *gold star*. Aufgenommen haben *J. Robbins* in den ersten vier Maitagen 2026 im Magpie Cage in Baltimore; gespielt haben *Alex Steward*, *Dustin Travis White* und *Andrew Krause*, alle Songs stammen von White und Steward. **Noise Rock** und **Post Punk**. Dreißig kathartische Minuten, wie es im Text heißt.
 
-::genre::
+::genre::noise rock, post punk
 
 ### Angel Fury - Sworn to Avenge
 
-tbd
+Acht Songs, 27 Minuten, null Füllstoff: Das erste Album von *Angel Fury* aus Los Angeles kommt nach der EP *Majic Eyes* ohne Umwege zur Sache. *Sworn to Avenge* startet mit *Racing In Your Heart*, dann folgen *The Iron Priest*, *Indulgence*, *Queen Of Fire*, der Titeltrack, *Cold And Precise*, *Flying High* und *One More Night*. Produziert hat *Trevor William Church* in den Church Recordings. **Heavy Metal** und **Speed Metal** mit Power-Metal-Anklängen: traditionell, mit weit ausholendem Gesang und kräftigen Riffs. Wer hier Schnörkel sucht, ist bei der falschen Truppe.
 
-::genre::
+::genre::heavy metal, speed metal
 
-### ANIQO - EARTH, LOVE AND VARIATIONS.
+### ANIQO - EARTH, LOVE AND VARIATIONS. *
 
-tbd
+Vom Ursprung zur Erde, in zehn Stücken: *EARTH, LOVE AND VARIATIONS.* ist das zweite Album von *ANIQO*, dem Projekt der in Berlin und Lissabon lebenden Sängerin und Songwriterin *Anita Goß*, vier Jahre nach dem Debüt *BIRTH* (2022). Entstanden ist es in einer Zeit des Rückzugs, und es klingt heller als der melancholische Vorgänger. Produziert hat *Bill Ryder-Jones* gemeinsam mit Goß, aufgenommen 2024 bis 2025 in den YAWN Studios in West Kirby, gemischt von Ryder-Jones und *Nathaniel Laurence*, gemastert von *Katie Tavini* in Liverpool. Goß singt und spielt Tasten, Synthesizer, Orgeln und Bläser, Ryder-Jones Gitarren, Streicher, Beats und mehr, dazu *Torsten Füchsel* (Gitarren), *Phil Murphy* (Schlagzeug), *Maria Del Mar Ribas* (Cello) und *Adam Goodwin* (Kontrabass) beim orchestralen *TIME TO HEAL* und bei *ANOTHER LIFE*; den Backing Vocals bei *UNITED IN ORIGIN* und *SUN OF GOD* geben *Hazel Iris*, *Joanna Gemma Auguri* und *Anna Lucia Nissen* ihre Stimmen. Die Titel: *I KNOW*, *TIME TO HEAL*, *THE TURN*, *ANOTHER LIFE*, *WHAT DOES YOUR HEART SAY*, *UNITED IN ORIGIN*, *CONSTRUCTED REALITY*, *DREAMS FOR REAL*, *SUN OF GOD* und *THE SENSE IS A RIVER*, zusammen knapp 51 Minuten bei *La Double Vie* und *Motor Entertainment*. **Art Pop** und **Cinematic Pop**. „Wenn ich mich selbst halten kann, kann ich auch alles andere halten“, sagt Goß.
 
-::genre::
+::genre::art pop, cine pop
 
 ### Annihilus Mundi - The Dead Sea Scrolls
 
-tbd
+Death Metal mit Fagott, einem Igel-Dilemma und Elgar als Gast: *Annihilus Mundi* aus Boston, Massachusetts, melden sich nach sieben Jahren Funkstille mit dem zweiten Album zurück, das Debüt *Grief* erschien 2019. Hinter dem Projekt steht *Dan Saillant*, der Gesang, Gitarre, Bass, Keyboards, Fagott und Programmierung selbst übernimmt, die Musik schreibt und alles bei Wailing Pines Productions produziert, gemischt und gemastert hat; die Texte teilt er sich mit *Noah Magnelli*, der auch singt. Das Konzept folgt lose Hideaki Annos *Neon Genesis Evangelion* und *The End of Evangelion*: In „Mvt. I“ verarbeitet Saillant eigene Erlebnisse, in „Mvt. II“ kommen erfundene Ereignisse aus dem Anime-Kosmos dazu, eine Gesellschaft, die uralte Texte wörtlich nimmt, mit zerstörerischen Folgen. Dreizehn Stücke in knapp 77 Minuten: *Second Impact (Overture)*, *Absolute Terror*, *A Hedgehog’s Dilemma* (Gang Vocals von *Olive Gallop* und *Fish Fisher*), die beiden Sätze von *The Dead Sea Scrolls*, *Black Moon* (mit Gastgesang von Gallop), *King of Thorns*, die vier Sätze *Terminal Dogma*, *Silent Planet* (mit Noise und Atmosphäre von *Anthony Harter*) und das fast 14-minütige *Human Instrumentality*. Gastsoli steuern *Chris Jones*, *Andrew Matarazzo*, *Chris Ramusciwicz*, *Sam Mooradian*, *Alex Haddad* und *Michael Laurendeau Jr.* bei, *Sarah Hartman* singt bei *Terminal Dogma*. Im dritten Satz von *Terminal Dogma* steckt arrangierte Musik aus Elgars *Enigma Variations* („Nimrod“), und für den „Rage Choir“ leihen laut Credits auch die Darsteller von *Network* (1976) ihre Stimmen. **Progressive Death Metal** mit **Shoegaze** und Prog Rock, klarem und rauem Gesang, Streichern und akustischen Passagen; als Einflüsse nennt Saillant *Cynic*, *Deafheaven* und *Dream Theater*. Erschienen ist alles unabhängig. Ein Igel, der sich nicht zu nah heranwagt, passt erstaunlich gut zu einem Metalalbum.
 
-::genre::
+::genre::prog death metal, shoegaze
 
 ### Architect Of Seth - Solitude Solaire
 
-tbd
+Zwanzig Jahre Bandgeschichte, zwei Alben: *Architect of Seth* wurde 2006 in Nordfrankreich von Sänger und Multiinstrumentalist *Pyromancer* gegründet, brachte 2013 das Debüt *The Persistence Of Scars* heraus und ging dann auf Pause, als mehrere Mitglieder die Band verließen. Pyromancer arbeitete als Session-Schlagzeuger und schrieb nebenbei *Solitude Solaire*, das zweite Album, passend zum 20-jährigen Bestehen. Es verarbeitet gut fünfzehn Jahre seines Lebens, darunter Verrat, Verlassenwerden und Verlust. Musik, Texte, alle Instrumente und den Gesang liefert er selbst, aufgenommen im eigenen AOS-Studio; *Clément Bourmaud* spielt Leadgitarrensoli bei *Paradis Sans Vie*, wo auch *Ruptur* mitschreit, *Roselys* steuert alle weiblichen Stimmen bei. Gemischt hat *Guillaume Doussaud* (Swan Sound Studio), gemastert *Frédéric Gervais* (Studio Henosis). Acht Stücke in knapp 43 Minuten bei *I, Voidhanger Records*: *L’Âge des Traîtres*, *Fortress of Injuries*, *Karma Trance*, *Nature Morte*, *Paradis Sans Vie*, *Dive in the Deep*, *Tunnel of Oblivion* und *Mes Mains qui se Perdent*. **Progressive Death Metal** und **Thrash Metal**, verwurzelt im Death und Thrash der Neunziger (*Death*, *Coroner*, *Morbid Angel*, *Nile*, *Pestilence*, *Nocturnus*), progressiv und technisch, aber ohne Show, mit Black-Metal-, Doom- und deutschem Speed-Metal-Einschlag. Wucht und melodische, atmosphärische Passagen halten sich die Waage, Dunkel und Licht.
 
-::genre::
+::genre::prog death metal, thrash metal
 
 ### Arctos - A Path Apart
 
-tbd
+Sieben Jahre nach *Beyond the Grasp of Mortal Hands* ist der zweite Streich da, und er klingt, als wäre er bei Frost ausgetüftelt worden: Gitarren und Zusatzgesang haben *Arctos* aus Alberta, Kanada, laut Credits in der „Frostbitten Basement Cave“ selbst aufgenommen. *A Path Apart* erscheint bei *Northern Silence Productions*, acht Stücke in knapp 47 Minuten: *From Formless Depths…*, *Altar of Storms*, *Cold Stone and Broken Earth*, *Greybound*, *Crossing the Funeral Plain…*, der Titeltrack *A Path Apart*, *The Cloak* und *The Way of the Forgotten… The Passage III*. Es geht um Ernüchterung, Verlust, Durchhaltevermögen und die Stärke des Einzelnen; die ersten zwei Drittel lassen sich als eine Reise lesen, erst durch die Augen der gläubig Eifrigen, dann durch die eines desillusionierten Überlebenden, der die Leere seines Daseins erkennt, bevor am Ende ein stärkeres Dasein geschmiedet wird. Besetzung: *Dan Wilberg* (Gitarre, Gesang), *Nick Wilberg* (Klavier), *Josh Needham* (Schlagzeug), *Jeremy Puffer* (Gitarre) und *Jacob Maisonneuve* (Bass). Bass und Gesang nahm *Diego Fernandez* in den Oracle Studios auf, das Schlagzeug *Helgi Durhuus* im Stúdíó Helvíti, gemischt und gemastert hat *Juho Räihä* bei SoundSpiral Audio. **Atmospheric Black Metal** und **Melodic Black Metal**, mit Klavier. Wer „Frostbitten Basement Cave“ als Studioadresse angibt, nimmt die Genrekonventionen ernst.
 
-::genre::
+::genre::atmo black metal, melo black metal
 
 ### Asia - Indigo
 
-tbd
+Zwölf Jahre nach *Gravitas* (2014) meldet sich *Asia* zurück, und ein Teil von *Indigo* stammt noch von *John Wetton*: *Tattoo Indigo (Parts 2 & 3)* und *Chesapeake Bay* gehören zu den letzten Songs, die er geschrieben hat. *Geoff Downes* und Wetton hatten 2015 mit dem Schreiben begonnen, bis Wettons Erkrankung und sein Tod das Projekt stoppten. Jetzt führt Downes (Keyboards) die Band mit *Virgil Donati* (Schlagzeug), *John Mitchell* (Gitarre, auch Mix und Mastering) und *Harry Whitley* (Bass, Gesang) weiter; *Steve Howe* spielt Akustikgitarre bei *Chesapeake Bay*, *Mike Portnoy* trommelt beim Bonustrack *Tattoo Indigo (Part 3)*. Erschienen bei *Frontiers Music Srl*, fünfzehn Stücke plus Bonustrack, gut 65 Minuten: *The Traveller (Into The Light)* (die erste Single), *Change Of Heart*, *Arcadia*, *Is This The Life?*, die dreiteilige *Tattoo Indigo*-Suite, *Life In The Sun*, *Hymn For The Fallen*, *Night And Day*, *Valencia (The Ghost Ship)*, *An Elegy*, *Chesapeake Bay*, *On A Winter’s Night* und *Echo Of You*. **Progressive Rock** und **AOR**; Downes nennt es eines der besten Alben der Band, die Songs seien musikalisch tief und textlich gehaltvoll, die Single energiegeladen, mit Prog-Elementen und eingängigen Refrains. Manche Lieder brauchen eben ein Jahrzehnt, bis sie ankommen.
 
-::genre::
+::genre::prog rock, aor
 
 ### Autumn Tomb - Autumn Tomb
 
-tbd
+Wenn sich zwei Leute von *The Sword* und einer von *Zombi* auf einer Tour anfreunden, muss irgendwann ein Doom-Album dabei herauskommen: *Autumn Tomb* ist das Nebenprojekt von *Steve Moore* (*Zombi*; Gitarre, Gesang, Texte, Synthesizer) mit *Bryan Richie* (Bass) und *Santiago Vela III* (Schlagzeug, Percussion) von *The Sword*. Die Idee hatte Moore 2024, er wollte etwas Dunkleres, Schwereres und Weiteres; kennengelernt haben sie sich auf einer Westküstentour 2022, bei der Moore bei *The Sword* zur Zugabe *Mr. Crowley* von *Ozzy Osbourne* dazukam (die später auf der EP *Conquest Of Quarantine* von 2023 landete), und mit Richie hatte er schon an *Zombi & Friends, Vol. 1* gearbeitet. Das selbstbetitelte Debüt hat fünf lange Stücke in knapp 36 Minuten und erscheint bei *Spaceflight Records*: *Ages Lost*, *Golgotha*, *Miracles of Pain*, das fast zehnminütige *Crumbling Thrones* und *Eternal Sea*. Produziert hat Moore, aufgenommen wurde in seinem Nightmare City Studio in Albany, New York, und im Paper Weapons Studio in Taylor, Texas, wo Richie auch als Engineer wirkte; die Gitarren reampte *Phil Manley* im Hummingbird Studio in Oakland, gemastert hat *James Plotkin*, die Kalligrafie stammt von *Conrad Keely*. **Doom Metal** und **Sludge Metal**, langsam, runtergestimmt und mit dunklen Synthesizerflächen. Ein Nebenprojekt mit ordentlich Gewicht.
 
-::genre::
-
-### Bangalore Choir - Payload
-
-tbd
-
-::genre::
+::genre::doom metal, sludge metal
 
 ### Barbican Estate - Rock Drill
 
-tbd
+Vorne Tokio, hinten Tokio, dazwischen ein ganzes Album: *Rock Drill* von *Barbican Estate* öffnet mit *Tokyo Ga (Intro)* und schließt mit *Tokyo Ga (Outro)*, dazwischen liegen *Song For Derek*, *Atlas*, *The Monument*, *The Toll Of The Sea* und *Uprising*. Die Band beschreibt sich als dunkle, psychedelische Rockband aus Tokio und lebt seit 2022 in London. Sieben Stücke in gut 32 Minuten bei *God Unknown Records*. **Psychedelic Rock** und **Shoegaze** mit Krautrock- und No-Wave-Schlagseite. Die Klammer ist gesetzt, der Weg dazwischen führt einmal um die Welt.
 
-::genre::
+::genre::psych rock, shoegaze
 
 ### Beenkerver - Doodlot
 
-tbd
+Dunkel, neblig, regnerisch und windig, so wie das niederländische Wetter: So beschreibt *Beenkerver* den eigenen Black Metal, der die bittere Brutalität neunziger Gitarrenriffs, schnelles Schlagzeug und melodische Atmosphäre verbindet. Hinter der Ein-Mann-Band steht *Niels Riethorst*, und *Doodlot* ist das dritte Album: eine halb autobiografische Geschichte aus seinem Leben, übersteigerte Versionen echter Erlebnisse und Gefühle und seine Art, das „Was wäre, wenn?“-Szenario seines Lebens zu erkunden. Es geht um Trauer, Verlust und innere Dämonen. Sechs Stücke in gut 46 Minuten bei *Vendetta Records*: *Creatuur*, *Faux Crescere*, *Ontgeesting*, *Radeloos*, der Titeltrack *Doodlot* und *Nalatenschap*. Riethorst schreibt und spielt alles selbst, nur das Schlagzeug übernimmt *Joris Nijenhuis*; gemischt und gemastert hat *Thomas Taube*, das Cover stammt von *Rik Balder*. **Raw Black Metal** und **Atmospheric Black Metal**. Das Wetter spielt mit.
 
-::genre::
+::genre::raw black metal, atmo black metal
 
 ### Besotten - Eye of the Monolithicrypt
 
-tbd
+Nach einem gelobten Demo und einem Split ist es so weit: *Besotten* aus Portland, Oregon, legen mit *Eye of the Monolithicrypt* ihr Debütalbum vor, an dem sie nach eigener Aussage über Jahre gearbeitet haben. Fünf Stücke in gut 36 Minuten bei *Transcending Obscurity Records*, kurze und solche jenseits der zehn Minuten (*Bathed in Insufferable Light*, *Bloodcairn*), dazu *Mist of Decay*, *Cruentation* und *Storming the Cerebral Citadel*. *Garth Purkett* macht Gesang und Bass, *Patrick Sinn-Movilla* Gitarren und Synthesizer, *Andy Osborn* Schlagzeug. Mix, Mastering sowie Gitarren- und Gesangsaufnahmen besorgte *Leon Del Muerte* (*Impaled*, *Terrorizer*), das Schlagzeug nahm *Charlie Koryn* (*VoidCeremony*, *Ascended Dead*, live *Morbid Angel*) auf, Artwork und Logo gestaltete *lord_serus* (*Cancer Void*). **Death Doom Metal** und **Old School Death Metal**, für Fans von *Worm*, *Disembowelment*, *Hooded Menace*, *Abyssal Rift* und *Undergang*. Ein Monolith aus Gurgeln und Gewicht.
 
-::genre::
+::genre::death doom metal, osdm
 
 ### Bitumen - Reality Red
 
-tbd
+Zum ersten Mal echtes Schlagzeug bei *Bitumen*: *Andy Huhtanen McEwan* (*Tongue Dissolver*) setzt sich als Gast hinter die Felle, bisher gab es Gitarren, Synthesizer, Samples und elektronische Drums. *Reality Red* ist das dritte Album der Band aus Melbourne, früher als Industrial-Post-Punk beschrieben, jetzt breiter, schwerer und schwerer festzulegen, dabei auch ihr melodischstes, mit einigen Songs mit akustischer Gitarre. *Kate Binning* singt und schreibt die Texte (Figuren, die auftauchen und verschwinden: erfunden, beobachtet, autobiografisch), *Simon Maisch* (Gesang, Bass, Aufnahme), *Sam Varney* (Gitarre, Drum-Programmierung) und *Bryce Maher* (Gitarre) vervollständigen die Band, produziert haben alle vier, aufgenommen wurde in den Lily Street Studios in Coburg North. Acht Stücke in genau 41 Minuten bei *it records*: *Scent of Angels*, *Minutes of Pure Joy*, *Perffect Dress*, *Silversound*, *Rites Private*, *Architect of the Overflow*, *Casino Black* und *Racing Leather*; zu *Silversound*, *Perffect Dress* und *Minutes of Pure Joy* gibt es Videos. **Alternative Rock** und **Dark Wave**, mit Goth Rock, Post-Punk, Synth-Punk, Dream-Pop, Industrial und einem Hauch Nu Metal im Genre-Kästchen; als Vergleich nennt die Band unter anderem *Killing Joke*, *Garbage*, *Siouxsie & the Banshees* und *Boy Harsher*. Rock, nur an einem deutlich ungemütlicheren Ort.
 
-::genre::
+::genre::alt rock, dark wave
 
-### Black Market Karma - The Grease Ladder
+### Black Market Karma - The Grease Ladder *
 
-tbd
+Elf Alben, alle vom selben Mann geschrieben und produziert: Laut Bio ist *Black Market Karma* die psychedelische Gruppe von Bandleader und Multiinstrumentalist *Stanley Belton*, ursprünglich aus London, heute an der Südküste Englands zu Hause (Dover). Die Band hat unter anderem mit *Sonic Boom* (*Spacemen 3*), *The Telescopes*, *Les Big Byrd* und *The Underground Youth* zusammengearbeitet und war mit *The Black Angels* und *The Warlocks* auf Tour. *The Grease Ladder* hat elf Stücke in gut 48 Minuten: *Sister Transistor*, *Time Too Little*, *Brain Batter*, *Absent Loves*, den Titelsong *The Grease Ladder*, *The State Of Me*, *Playground Of You*, *Marching In Reflection*, *Tools Of The Small*, *Always Faithful* und *Brother Combuster*. **Psychedelic Rock** und **Neo Psychedelic Rock**, lo-fi und mit elektronischen Einsprengseln. Wer die Leiter einfettet, hat selbst schuld, wenn er abrutscht.
 
-::genre::
+::genre::psych rock, neo psych rock
 
-### Bloow Will Tell - Carnage In Collusion
+### Boond! - You Ruined My Birthday Morning *
 
-tbd
+Anfang 2025 in Beirut gegründet, nennen *Boond!* ihre Musik „Aggro-Loop-Math-Noise“: *Ghiwa Tayar* (Gesang, Texte), *Oscar Fasolini* (Gitarre, Keyboards, Geräusche) und *Joe Nassar* (Schlagzeug und Daraj). Ihr Debütalbum *You Ruined My Birthday Morning* entstand im Februar 2026 in den Tunefork Studios in Beirut mit *Joy Moughanni*, die auch gemischt hat und bei *The Shape Of Death* zusätzliche Synthesizer und das Arrangement beisteuert; bei *Wind Loverz* spielt *Marwan Tohme* zusätzlichen Bass. Gemastert hat *Brian Pyle*, das Artwork stammt von *Afram Chamoun*. Neun Stücke in gut 32 Minuten bei *Ruptured Records*, in denen Gitarren, Schlagzeug, Gesang, Synthesizer und allerlei Geräusche immer unbändiger werden: *Forehead Kisses*, *Pipéracilline*, *Bebounej*, *Bhamdoun, You’ve Never Been This Beautiful*, *Interboond!*, *Cotton Candy Killing Machine*, *Wind Loverz*, *The Shape Of Death* und *Puttana*. **Math Rock** und **Noise Rock**. Unter dem Krach liegt Trauer: Das Album ist laut Begleittext aus der entmenschlichenden Erfahrung von Verlust während der israelischen Angriffe auf den Libanon entstanden, die Band will sie aber nicht feierlich vortragen; die Musik nähert sich dem Thema von der Seite, mit einer rastlosen Energie, die einen Ort für all das sucht. Teilweise gefördert wurde die Platte vom Institut français du Liban über MASAR. Die Band wünscht den Ohren vor allem Erleichterung.
 
-::genre::
+::genre::math rock, noise rock
 
-### Bo Staloch - Too Big, Too Big
+### Born From Lie - Into Madness
 
-tbd
+Aus der Asche eines Umwegs: Nach dem Ende von *Born From Lie* gründeten *Jérôme Thellier* und *Pascal* mit Sängerin *Ingrid Denis* die Band *Jirfiya*, und als die endete, hat Jérôme die 2014 in Paris gegründete Band wiederbelebt. *Into Madness* folgt auf drei Alben bei *Brennus Music*, zuletzt *The New World Order Part 1*, und lässt ihn eine musikalische Richtung verfolgen, die er sich lange ausgemalt hatte; entstanden ist es nach Jahren des Nachdenkens, der Zweifel und des Ausprobierens. Es geht um die dunkle Seite der menschlichen Seele, inneren Kampf und die Conditio humana. Acht Stücke in gut 51 Minuten, zum Auftakt gleich über elfeinhalb Minuten *Silence*, danach *With impunity* (die zweite Single, mit Video: ein Lied über die Vergessenen und Übersehenen, die eine Konsumgesellschaft laut Thellier „ohne Konsequenzen“ niederwalzt), *Doors of hell*, *Battlefield*, *Our darkest hour* (die erste Single), *Just a child*, *Merchandise of flesh* und *If I fall*. **Melodic Metal** mit schweren Riffs und aggressiven Einflüssen. Ein Neustart nach dem Umweg über *Jirfiya*.
 
-::genre::
+::genre::melo metal
 
-### Boond! - You Ruined My Birthday Morning
+### Bosco Sacro - Inhabit **
 
-tbd
+„Inhabit no self“: Das Mantra der italienischen *Bosco Sacro*, einer „Doom-Ambient-Trip-Hop-Kreatur“ mit Mitgliedern von *Julinko*, *Tristan da Cunha* und *The Star Pillow*, gibt dem Album den Titel. Anders als der Vorgänger *Gem* wurde *Inhabit* komplett live und gemeinsam im Proberaum komponiert, aufgenommen im Februar 2025 in einer siebentägigen Session mit Produzent *Lorenzo Stecconi* im Monteggiori Studio (Daniele Onoris AMM) in der Toskana, gemischt und gemastert von Stecconi in den Triple Sun Studios in Rom, erschienen bei *Supernatural Cat*. Acht Stücke in gut 42 Minuten: *Inhabit*, *Gift From The Fog*, *Silence Dances*, *Desert of Sense*, *Vertigo*, *Dong-dee*, *Trickster* und *The Future Past*. Das Gewicht von Doom und Slowcore trifft auf die schwerelose Schönheit von **Doomgaze**, dazu weite Strecken **Ambient** und Drone, gelegentlich von **Trip Hop**-Rhythmen geerdet. Die Texte erzählen von Auflösung und Wiederverbindung, von einer Welt, die ihre Schärfe verliert, in der Nebel Grenzen auflösen und Wüsten die Sprache zerbrechen. Das Cover zeigt *Testa di Terra*, eine Tonskulptur von *Roberta Busato*. Der Aufruf: raus aus dem Lärm, rein in die fruchtbare Leere.
 
-::genre::
-
-### Born From Lie - Madness
-
-tbd
-
-::genre::
-
-### Bosco Sacro - Inhabit
-
-tbd
-
-::genre::
+::genre::doomgaze, ambient, trip hop
 
 ### Boys Noize - 7LLVSION
 
-tbd
+Mosh-Pit statt Tanzfläche: *Boys Noize* legt mit *7LLVSION* sein achtes Album vor, das erste Soloalbum seit *+/-* (2021), und erklärt gleich dazu, dass man bitte nicht „Techno“ sagen solle. Dröhnende Kicks, sirrende Oszillatoren und Synthesizer, so dick aufgetragen, dass die Luft zum vibrierenden Festkörper wird, dazu Live-Drums, die dem Vierviertel-Würgegriff entkommen, und ein Schuss Rock’n’Roll im Club. Sein Anspruch: Jeden Song des Albums müsse er ohne Frage im Live-Set spielen können, und das tut er auch. Zwölf Stücke in gut 41 Minuten auf seinem eigenen Label *ONES and ZEROS*: *Illusion*, *1+1+1* (mit *ZEP*, die Single holt EBM und New Wave dazu), *Take Me Out*, *Nächstenliebe* (mit *Brutalismus 3000*), *HYYTUP*, *Baile DF* (mit *Thalia Abdon*, *MC DA FRANÇA* und *Adame DJ*), *Wake Me Up* (mit *Locked Club*), *I Need Luv* (mit *ABRA*), *Sh5b0mbe*, *Shut It Down* (mit *TAICHU* und *Taube*), *Ycore* (mit *Mayah Alkhateri*) und *Sireneh*, dazu ist *Safety Trance* im Boot. Geschrieben und produziert hat er alles selbst. **EDM** mit **EBM**-Einschlag; statt Dopamin ziehen Adrenalin und Oxytocin durch den Raum. Nie dieselbe Grube zweimal.
 
-::genre::
+::genre::edm, ebm
 
 ### Breakdown of Sanity - Reveries
 
-tbd
+Neuer Sänger, neuer Schlagzeuger und exakt dasselbe Rezept: *Breakdown of Sanity* aus Bern sind mit *Reveries* zurück, mit *Kivi Brändle* am Mikro (Gründungssänger *Carlo Knöpfel* ist nicht mehr dabei) und *David Stutzer* am Schlagzeug. Der Rest ist, wie man es kennt: schleppende Riffs im unverwechselbaren Ton von Gründungsgitarrist *Oliver Stingel*, mehrere zermalmende Breakdowns pro Stück, die Bass-Drops, schräge Samples und Elektronik und dazu melodische Leadgitarren. Zwölf Stücke in knapp 46 Minuten, nach dem Vorgänger *Coexistence*: *This Is What You Get*, *Hibernate*, *The Hunt*, *Palisades*, *Blighthouse*, *Bottomless*, *A Promise*, *One-Way Mirror*, *Torn Pages*, *Stay*, *Vestige* und *Atlas*. **Modern Metalcore** mit Deathcore-, Nu-Metal- und Post-Grunge-Einschlag. Zwischen all den aktuellen Metalcore-Platten klingt *Reveries* wie aus einer Zeitkapsel, und genau das ist der Witz.
 
-::genre::
+::genre::modern metalcore
 
 ### Bryan Adams - How's It Goin'
 
-tbd
+Ein Liebesbrief an Kanada, mit der Landesflagge als Umhang: Auf seinem 17. Studioalbum *How’s It Goin’* feiert *Bryan Adams* sein Heimatland, nach *Roll With the Punches* (2025) und auf seinem eigenen Label *BAD Records*. Der Titel ist eine typisch kanadische Grußformel; eigentlich wollte er es *Songs From the Great White North* nennen, aber der Name war schon vergeben. Ausgangspunkt war ein Song für die Dokuserie *Canada’s Wild Eastern Edge*, für die er auch Geschichte und Geografie des Landes recherchiert hat; *The Ballad Of Terry Fox* schrieb er für die Dokumentation *Run Terry Run*. Dreizehn Stücke in gut 41 Minuten, darunter *Highway 16*, *Diesel and Dirt*, *The Battle Of Lundy’s Lane*, *When Canada Joined Newfoundland*, *A Handful Of Gold*, *Iron Ribbon*, *The Bridge*, *Heave Away* und *Lake Ontario*. *51st State* ist ein Heartland-Rocker als Protest gegen die Annexionsdrohungen aus den USA, direkter politisch, als Adams sonst schreibt, und er steht dazu. **Pop Rock** und **Folk Rock**, überwiegend akustisch mit rockigem Rückgrat und Anklängen an *Bruce Springsteen* und *Bob Dylan*. Mit viel Augenzwinkern, sagt er.
 
-::genre::
+::genre::pop rock, folk rock
 
 ### Cariño - Pop! Magic! Tragedy!
 
-tbd
+Erklär dich zur Magierin: Die Idee der *Pop Magic* von *Grant Morrison* steht Pate für das vierte Album von *Cariño*, dem ersten als Duo, nach *Tanto por hacer* (2024). Jedes Lied ist eine kleine Gottheit für den Umgang mit Liebeskummer, Wut, Druck und Einsamkeit, ein früher Funke war die „weibliche Wut“, die aus dem Druck entsteht, sich anzupassen und Erwartungen zu erfüllen. Aufgenommen wurde im Abbey Road in London, mit *Pete Robertson*, früher Schlagzeuger bei *The Vaccines*, als Mitwirkendem; roh und direkt statt glattpoliert, mit Atem und Unvollkommenheiten und ohne Auto-Tune. Zwölf Stücke: *Therapy*, *Mi día favorito*, *Romántico*, *Un final*, *Imagino* (mit *Paola* an der Hauptstimme), *Más amable*, *Puto invierno*, *Heavy metal*, *La vida de los demás*, *Tranquilo*, *Love languages* und *Odio la música*; vorab erschienen sind *Odio la música*, *Romántico* und *Puto invierno*. **Pop Rock** und **Alternative Pop**, das Cover fotografierte *Jesús Leonardo*. Auf der Clubtour durch Madrid, Barcelona, Valencia, Bilbao, Granada, Málaga und Zaragoza gibt es in jeder Stadt eine Zaubershow dazu.
 
-::genre::
+::genre::pop rock, alt pop
 
 ### Carmen Quill - Harmless
 
-tbd
+Stimme und Bass, mehr braucht der Kern nicht: Die Kontrabassistin, Sängerin und Komponistin *Carmen Quill* aus Brooklyn lässt auf ihrem zweiten Album *Harmless* neue Stimmen in ihre intimen, selbstbefragenden musikalischen Gespräche. Ihre Avant-Pop-Songs kreisen um bodenständige Mantras, mal vor sich hin gemurmelte Notizen an sich selbst, mal leidenschaftliche Bekenntnisse, mal jazzgefärbte Bassmotive, und ihre Melodien sind so unkonventionell und unaufgeregt virtuos wie die ihrer geistigen Vorfahren *Meredith Monk* und *Björk*. Gesang und Bass spielt sie bei allen Stücken selbst ein, im Candace Corner (bei Track 5 teilweise mit *Michael Coleman* im Rocketship Sound); dazu kommen *Ryan El-Solh* (Gitarre bei 1, 3, 4, 8), *Ivan Arteaga* (Klarinette bei 2, 4, 8), *Dana Lyn* (Viola bei 2, 8), *Kristina Teuschler* (Klarinette bei 9) und *Jason Burger* (Schlagzeug bei 3, 4, 6, 8, aufgenommen im Medium Rare). Alle Songs schrieb und produzierte Quill, gemischt hat sie mit *Ryan Weiner*. Neun Stücke in knapp 35 Minuten bei *Ruination Record Co.*: *Plaza*, der Titelsong *Harmless*, *Something in the water*, *Across the waves*, *Perseid Afternoon*, *Always in my mind*, *I wanna see you again*, *B.O.K.* und *Pieces of Gold*. **Avant Pop**, leise erzählt und mit Haken.
 
-::genre::
+::genre::avant pop
 
 ### Carnifex - More Than Misery
 
-tbd
+Zum ersten Mal von der anderen Seite des Überlebens: *Scott Ian Lewis* schreibt auf *More Than Misery*, dem zehnten Album von *Carnifex*, nicht mehr mitten im Sturm, sondern danach. Der Titel lässt sich zweifach lesen: Hinter der Dunkelheit liegt etwas Schlimmeres, oder ein Leben ist größer als das Elend. Das Titelstück geht durch Besessenheit, Isolation, Selbsthass und den Kreislauf des Leidens, bis sich der Griff löst. Zehn Stücke in gut 43 Minuten bei *Sumerian Records*: *…and I Held Hands With Death*, der Titeltrack, *The Process Of Pain* (mit *Chaney Crabb* von *Entheos*), *No Gods Only Graves*, *Coffin Crowned King*, *Roses & Rotting Corpses* (seit Mai draußen), *Only The Dead*, *Gothic Serpent*, *Heart Made Of Teeth* und das siebenminütige *Licking Love From A Knife*. Aufgenommen wurde in Tennessee mit *Zach Householder* (*Whitechapel*), gemischt hat *Jeff Dunne*, ein neues Produktionsteam für die Band. Lewis und Schlagzeuger *Shawn Cameron* haben *Carnifex* 2005 mitgegründet. **Deathcore** der ersten Welle mit Death-Metal-Fundament und symphonischer Atmosphäre, Gitarren als Hauptstimme; die Wurzeln reichen in Death Metal, Black Metal, Metalcore und Southern-California-Hardcore. Ein Album mit Blick zurück vom anderen Ufer.
 
-::genre::
-
-### Casper Levy - Perpetual Echo
-
-tbd
-
-::genre::
+::genre::deathcore
 
 ### Catherine Elicson - River of Fat
 
-tbd
+Zu Hause, mit Gitarre, Sampler, Synthesizer und Vierspur-Recorder, mehr braucht *Catherine Elicson* nicht: Aufgenommen hat sie *River of Fat* mit einer TASCAM-Vierspur-Bandmaschine, einem KORG, einem Roland SP-404 und einer alten Stratocaster, mit ihrem langjährigen Mitstreiter und Toningenieur *Shaun Sutkus* als einzigem weiteren Mitwirkenden. Die Frontfrau der Philadelphia-DIY-Band *Empath* (zuletzt das Album *Visitor*, 2022) legt damit ihr erstes Soloalbum bei *Community Music* vor: Selbstfindung und Ausprobieren außerhalb von Band- und Beziehungsstrukturen, Texte über Vermeidung und gegenseitige Distanz, dazu die Frage im Titelstück, ob man in der Bedeutungslosigkeit schrumpft oder weitermacht. Neun Stücke in knapp 30 Minuten: *I’m On Fire*, *A Warm Day In The Park* (instrumental, stark gesättigt, mit Field Recording), *Figure* (die erste Single, nur Stimme und Gitarre, mit animiertem Video von *Halle Ballard*), der Titelsong *River Of Fat*, *All Sound*, *My War*, *Flowers Smile*, *Safe* und *CTW*. **LoFi** und **Alternative Folk** mit psychedelischen und ambienten Einsprengseln; als Einflüsse nennt die Pressemitteilung *John Cale*, *The Urinals* und *Amen Dunes*. Ein Fluss, der ganz klein anfängt.
 
-::genre::
+::genre::lofi, alt folk
 
-### Cats In Space - Suit Of Armor
+### Cats In Space - Suit Of Armour
 
-tbd
+Achtzehn Monate Arbeit, zwei neue Gesichter und ein Konzept im Gepäck: *Suit Of Armour* ist das siebte Album der britischen *Cats In Space*, bei *Cherry Red Records*, nach *Time Machine* (2024), und zum ersten Mal sind *Chris Childs* (*Thunder*, *Tyketto*) am Bass und *Sam Wood* (*Black Star Riders*, *Uriah Heep*) an der Leadgitarre dabei. Gitarrist *Greg Hart* nennt es das beste und grandioseste Album der Band, am Mikro steht *Damien Edwards*, die Backing Vocals singt *Julie Maguire*, und das musikalische Geschichtenerzählen steckt in einem Konzept. Zwölf Stücke in gut 52 Minuten: *Miracle*, *We Breathe In Stereo*, *White Knight*, *Never Big In Japan*, *Mister Showbiz*, der Titeltrack *Suit Of Armour*, *Analogue Kid*, das über achtminütige *The Bloodsucker’s Waltz*, *Don’t Spare The Horses*, *Twenty-Seven*, *Cathedral* und *From Time To Time*. **Hard Rock** und **Glam Rock**, klassisch, episch und von den Siebzigern inspiriert. Rüstung an, Vorhang auf.
 
-::genre::
+::genre::hard rock, glam rock
 
 ### Chastity Belt - All My Friends
 
-tbd
+Ein Album, dessen Thema die Band selbst erst beim Mischen bemerkt hat: Als Toningenieur *Samur Khouja* darauf hinwies, dass viele Songs von Freundschaft handeln, war *All My Friends* schon fast fertig. *Chastity Belt* (*Julia Shapiro*, Gitarre und Gesang; *Lydia Lund*, Gitarre; *Hunter Truscott*, Bass; *Gretchen Grimm*, Schlagzeug), gegründet in Walla Walla, Washington, und heute auf Seattle, Chicago und Los Angeles verteilt, machen seit 15 Jahren zusammen Musik; das ist ihr sechstes Album, erschienen bei *Suicide Squeeze Records*. Aufgenommen wurde über mehrere Jahre, Zeitzonen und Studios hinweg, im Seahorse Sound in Los Angeles, im Wayout in Woodinville und in einem jahrhundertealten Haus auf der griechischen Insel Hydra, wo die Band beschloss, einen Tag das Studio zu schwänzen und mit dem Boot ans andere Ende der Insel zu fahren; der älteste Song stammt von etwa 2018. Im Dezember gab es in Los Angeles außerdem das erste Seahorse-Sound-Wichteln: 20 Dollar Limit, alle Geschenke von der Tankstelle oder dem Eckladen, dazu Papiertütenhüte. Elf Stücke in gut 41 Minuten: *Friends for This*, *Designs*, *To Decide*, *I Could Say Less*, *Not Today*, *Be Kind*, *Pavement*, *Talk About*, *Trash*, *Hold My Own* und zum Schluss *Live Laugh Love*, ein Augenzwinkern Richtung Vorgängeralbum. Alle Songs stammen von der Band, gemischt und gemastert hat Khouja. **Indie Rock** und **Dreampop** mit verschlungenen Gitarren, hörbar rauer und weniger poliert als zuletzt, Melancholie und Optimismus gleichzeitig. Sechs Alben später ist das Geheimrezept immer noch: sich gegenseitig wiederfinden.
 
-::genre::
+::genre::indie rock, dreampop
 
 ### Chronochromie - Profusion
 
-tbd
+Rechenaufgaben mit Gitarren, bei denen *Asymptote* schon im Titel zugibt, dass man das Ziel nie ganz erreicht: Die Band aus Montreal will die Grenzen technischer progressiver Musik verschieben, und *Profusion* legt dazu zehn Stücke in knapp 43 Minuten vor, nach den früheren Veröffentlichungen *EPOCH* und *PROPLYD*. Los geht es mit *Latency I*, dann folgen der Titeltrack *Profusion*, *Two Suns*, *Asymptote*, *Borrowed Time*, *Neith*, *Latency II*, *LINE 752*, *Fracture Code* und zum Schluss das über achtminütige *In the Twilight’s Embrace*. *Alexandre David* macht Gesang, Gitarre, Komposition, Texte und Produktion, *Samuel David* Schlagzeug und Artwork, dazu spielen *Jonah Koikaran* (Gitarre) und *Dave Tremblay* (Bass), *Patrick Goyette* singt und mischt; aufgenommen und engineert hat die Band selbst, gemastert *Richard Addison*. **Progressive Metal**, **Mathcore** und **Djent**.
 
-::genre::
+::genre::prog metal, mathcore, djent
 
 ### Chthonian - Excoriate
 
-tbd
+Sechs Stücke, keine zwanzig Minuten und ein „Bunker“ als Studio: *Chthonian* aus Finnland, das sind *J.F.* (Gitarre, Bass), *M.N.* (Gesang) und *M.R.* (Gitarre), haben Gitarren und Bass im Bunker aufgenommen, M.R. hat dort auch gemischt, das Schlagzeug spielte Session-Drummer *Owe Inborr*, der auch Reamping und Drumaufnahmen im Wolfthrone Studio übernahm; gemastert hat *Tapio Lepistö* in Black Floyd’s analog studios. Musik und Arrangements stammen von M.R., Texte und Gesangsarrangements von M.N., bei *CONDEMNATION* leiht *T.I.*, der auch das Logo gestaltet hat, die „Voice of the beast“; das Cover gestaltete M.R. Die Stücke: *OMNICIDE*, *RESTORATION*, *PERDITION*, *TRANSPIERCE*, *CONDEMNATION* und *OBLITERATED*. **Blackened Death Metal**. Kurz, laut und ohne Umschweife.
 
-::genre::
+::genre::blackened death metal
 
 ### Coilguns - Everything We Love, We Destroy
 
-tbd
+„Dringliche Musik in dringlichen Zeiten“, so beschreiben *Coilguns* aus La Chaux-de-Fonds ihr Album selbst: Die Riffs waren nie so rau, die Texte nie so klar. Sie haben schnelle Songs geschrieben und schnell aufgenommen, im endlich funktionierenden Hauptquartier, einer alten Lagerhalle in der Heimatstadt voller Ausrüstung aus 20 Jahren Touren und Ausprobieren, und dabei auch akustische Instrumente, große, ungewöhnliche Räume und altes, staubiges Gerät eingebaut. Es ist das erste Album, das mit einem Bassisten von Beginn des Songwritings an entstand: *Kevin Galland*, damit erstmals ein klassisches Quartett. Zehn Stücke in gut 38 Minuten bei *Humus Records*: *Everything We Love, We Destroy*, *Peace Trader*, *Replication Crisis*, *Platform Decay*, *Punisher Disclaimer*, *Days Before The War*, *Teach Ourselves*, *Carbon Magic*, *Forever Chemicals* und *Perfect Fit Content*. Geschrieben und produziert haben die vier selbst, aufgenommen hat *Scott Evans* (*La Dispute*, *Thrice*, *Neurosis*) im Oktober 2025 im Humus Lab, gemischt *Tom Dalgety* (*Ghost*, *Pixies*), gemastert *Robin Schmidt*, dasselbe Team wie bei *Odd Love*; *Ben Chisholm* (*Chelsea Wolfe*, *The Armed*) steuerte zusätzliche Produktion und Overdubs bei. **Noise Rock** und **Hardcore Punk**. Auf eine traurige Welt, die die Hoffnung verliert, antwortet die Band mit Strom und Schweiß, damit nicht alles zerstört wird, was wir lieben.
 
-::genre::
+::genre::noise rock, hardcore punk
 
 ### Columpios Al Suelo - Desarme en el aire
 
-tbd
+Fünfundsiebzig Minuten, vierzehn Stücke, drei davon über acht Minuten: *Columpios al Suelo* aus Santiago de Chile lassen sich auf *Desarme en el aire* alle Zeit der Welt, erschienen beim Label *Sello Fisura*. Es spielen *Juan Desordenado* (Gesang, E- und Akustikgitarre, Sampler, elektronisches Schlagzeug, Synthesizer), *Blvckdemon* (Schlagzeug, Akustikgitarre, Bombo legüero), *Felipe Villarrubia Symmes* (Bass), *Camilo Astorga Gatica* alias „Chico Eléctrico“ (E- und Akustikgitarre, Schrei) und *Bárbara Ulloa Hormazábal* (Keyboards, Synthesizer, Gesang, Chor, Marimba). Aufgenommen wurde in den Estudios Centro GAM und im Sultan Estudio, aufgenommen und gemischt hat *Carlos Doerr*, produziert haben Doerr und Desordenado, gemastert hat *Francisco Holzmann*. Die Titel: *Desarme en el aire*, *Pan de cada día*, *Cut’n’Paste Soul*, *Gritos Vacíos*, *Julee*, *Balada Triste*, *Paparapagarlaluz*, *Cama Fría*, *Camión*, *Noche Estrellada*, *Muerte en mi Colchón*, *Sueño en Technicolor*, *Volveré* und *Aparición*. **Art Rock**, **Post Punk** und **Shoegaze**, mit reichlich Lärm im Hintergrund.
 
-::genre::
+::genre::art rock, post punk, shoegaze
 
-### Comeback Kid - Chosen Hell
+### Comeback Kid - Chosen Hell *
 
-tbd
+Moral, Ethik und die Macht der Wahl: *Comeback Kid* aus Winnipeg fragen auf ihrem achten Album *Chosen Hell* nach Gut und Böse, Sänger *Andrew Neufeld* beschreibt das Titelstück als Recht gegen Unrecht. Produziert, gemischt und gemastert hat *Will Putney* (*Gojira*, *Knocked Loose*) in seinem Graphic Nature Audio in New Jersey, das Schreiben lief diesmal gemeinschaftlicher als früher. Elf Stücke in gut 32 Minuten bei *SharpTone Records* (USA) und *Dine Alone Records* (Kanada): *Target On My Back*, *Vindication*, *Shedding Season* (mit *Courtney LaPlante* von *Spiritbox*), *Lost And Found*, *Underneath The Pressure*, der Titeltrack *Chosen Hell*, *Yesterday’s Gone* (mit *Brendan Garrone* von *Incendiary*), *Tunnel Vision*, *Becoming*, *Heartland Elegy* und *Too Late*. Neufeld (Gesang), *Jeremy Hiebert* und *Stu Ross* (Gitarre), *Chase Brenneman* (Bass) und *Terrance Pettitt* (Schlagzeug) spielen, das Cover ist eine echte Konstruktion von *Callum Preston* aus Melbourne. **Melodic Hardcore** und **Metallic Hardcore**, Hardcore mit modernem Metal, Punk und Melodie. Kurz, schnell und mit Haltung.
 
-::genre::
+::genre::melo hardcore, metallic hardcore
 
 ### Computerwife - Born From A Wish
 
-tbd
+Zurück in Atlanta mitten im Lockdown, und die Stadt hat sich verändert: So entstand *Foreverrr*, die erste Single von *Born From A Wish*, ein nostalgischer, turbulenter Hymnus auf Sommer voller Gedichte und Spaziergänge zur Bar mit Kindheitsfreunden, mit dem *Addie Warncke* nach eigener Aussage ihren Abschluss gefunden hat. Hinter *Computerwife* steckt Warncke aus New York, das zweite Album nach dem selbstbetitelten von 2023 erscheint bei *Danger Collective Records*. Elf Stücke in gut 35 Minuten: *Nobody* (früher im Jahr als Single draußen), *Pretty Ugly*, *Normal*, *Hammered*, *Honey*, *Foreverrr*, *Thank You*, *Surreal*, *Oh no i threw up*, *Autopsy* und *You Didn’t Know*. **Shoegaze** und **Bedroom Pop** mit Indie-Rock-Einschlag. Ein Album, das aus einem Wunsch gemacht wurde.
 
-::genre::
+::genre::shoegaze, bedroom pop
 
 ### Cosmic Joke - Suburban Decay
 
-tbd
+Hardcore, als wäre er Pop-Punk: *Cosmic Joke* aus Los Angeles spielen auf *Suburban Decay* schnelle, rotzige Mitsinghymnen im Geiste von *Descendents* und *Adolescents*, mit Wurzeln bei den melodischen Bands aus Südkalifornien in den Achtzigern, Laufbass und Breakdowns mit Pop-Appeal. Zwölf Stücke in gut 22 Minuten, keins länger als zweieinhalb, bei *Revelation Records* (Revelation:223): *Proper Villains*, *Off With Their Heads*, *No Threat*, *Extinction*, *Checkered Past*, *Seasonal Decompression*, *Suburban Decay*, *Referee*, *Agnostic (One Size Fits All)*, *Conflict Of Interest*, *Parasite* und *The Good Things I Don’t Deserve*. Es spielen *Mac Miller* (Gesang), *Morgan Miller* und *Evan Rowe* (Gitarre), *Jake Goldstein* (Bass) und *Niki Vahle* (Schlagzeug). Nach dem selbstbetitelten Debüt (2024) und der Cover-EP *Welcome to L.A.* (2025) ist das das zweite richtige Album. **Hardcore Punk** und **Melodic Hardcore**. Zweiundzwanzig Minuten, und die Nachbarschaft ist trotzdem schon verfallen.
 
-::genre::
+::genre::hardcore punk, melo hardcore
 
-### Crowhurst - T H O R N S
+### Crowhurst - T H O R N S *
 
-tbd
+Nach fast einem Jahrzehnt Stille seit dem Abschluss ihrer Trilogie ist *Crowhurst* aus Brooklyn zurück, das Projekt von *jay gambit*, und gleich mit einem ganzen Orchester: *THORNS* ist das bisher ehrgeizigste und filmischste Album, besetzt mit klassischen und Weltmusikern, die laut Beschreibung eine Welt in Unordnung vertonen, mit Anklängen an *A Silver Mount Zion Orchestra*, das *Kronos Quartet* und *Sunn O)))* zur Zeit von *Monoliths & Dimensions*. Dabei sind *Claire Deak* (Harfe, Flöte), *Dima Dudko* (*White Ward*; Saxofon), jay gambit (Samples, Klangbearbeitung, Elektronik), *Christian Molenaar* (Schlagzeug, Drum-Programmierung, Violine), *Dave Suzuki* (*Vital Remains*, *Deicide*; Gitarre), *Justin Sweatt* (Synthesizer), *Isaac Takeuchi* (*Chelsea Wolfe*; Cello, Violine), *Mark Warm II* (Klavier), *Jeff Zeigler* (Vibraphon) und *PBV* (Dulcimer, Balalaika, Gitarre, 8-saitige Ukulele, Bouzouki, Quray); produziert haben *Alex Sedin* und Crowhurst. Fünf Stücke in gut 47 Minuten bei *Sleeping Giant Glossolalia*: *the stars ain’t never gonna leave us* (über 18 Minuten), *no city lights*, *onion fields*, *crisis of faith* und *all we have is now, all we have is each other*. Dazu gehört eine interaktive digitale Stadt, die sich am PC erkunden lässt, mit Kunst von *Gage Lindsten*. **Post Rock**, **Dark Ambient** und **Doom Jazz**, mit Drone, Noise und Post-Metal im Hintergrund. Eine Stadt aus Dornen, die man sogar besuchen darf.
 
-::genre::
+::genre::post rock, dark ambient, doom jazz
 
 ### Crush The Core - Ghosts From The Beat Hotel
 
-tbd
+Drei neue Geister aus dem Beat Hotel und einer aus der Vergangenheit: *Ghosts From The Beat Hotel* von *Crush The Core* aus Trois-Rivières, Québec, vereint drei neue Stücke und eine neu abgemischte und gemasterte Version von *Live To Die*, zusammen knapp 17 Minuten. *Exterminator* handelt von Sucht, *Visions of Jack* ist eine Hommage an *Jack Kerouac* und seine Wurzeln in Québec, mit Zitaten, Bahngleisen und Jazzrhythmen, und *The Mugwump Sway* ist von *Burroughs* und *Cronenbergs* *Naked Lunch* inspiriert, wo der Mugwump Dealer und Süchtiger zugleich ist: der dunkelste der drei Geister. Das Trio wurde 2022 von *Phil Forget* (Gesang, Gitarre), *Stef Forget* (Gitarre, Bass) und *Eric „DOC“ Mireault* (Schlagzeug) gegründet, nennt *Black Sabbath*, *Metallica* und *Black Label Society* als Einflüsse und hat seit 2023 elf Singles, zehn Lyric-Videos und ein Musikvideo veröffentlicht. Aufgenommen, gemischt und gemastert hat Stef Forget im DownPicking Studio, die Artwork-Montage stammt von *David Forget*, *Nicole Raymond* singt Backing Vocals. **Hard Rock** und **Heavy Metal**, schwer, atmosphärisch und kompromisslos.
 
-::genre::
+::genre::hard rock, heavy metal
 
-### Cult of Luna - In the Shadow of Your Shadow
+### Cult of Luna - In the Shadow of Your Shadow *
 
-tbd
+Das zehnte Studioalbum, 71 Minuten schwer: *Cult of Luna* aus Umeå in Schweden melden sich 25 Jahre nach dem Debüt mit vielleicht ihrer dunkelsten Veröffentlichung, einer bewussten Absage an Trends, Konventionen und das Anbiedern ans Publikum. Textlich verarbeitet *In the Shadow of Your Shadow* jüngste Verlusterfahrungen in einem düsteren Liedzyklus. Co-produziert hat *Daniel Berglund*, gemischt *Magnus Lindberg*, erschienen ist es bei *Red Crk*. Neun Stücke: der Titelsong *In the Shadow of Your Shadow*, *Sadness Will Reign* (mit *Joe Duplantier* von *Gojira*), *Landby*, das zwölfminütige *Breach*, *The Rift*, *A Way Back*, *One More Day* (mit *David Eugene Edwards*, fast zwölf Minuten), *From Grey to Black* und *Burial*. **Post Metal** und **Sludge Metal**, mit Einflüssen aus Hardcore, Folk und Art Rock. Ein Album, das sich Zeit nimmt für das, was bleibt.
 
-::genre::
+::genre::post metal, sludge metal
 
 ### Current Joys - ROSEBUD
 
-tbd
+Aus Slowcore-Songs einer schweren Phase wurde eine Genre-Collage: *Nick Rattigan* (Schlagzeuger bei *Surf Curse*) hat *ROSEBUD*, das zehnte Album seines Soloprojekts *Current Joys*, zunächst als Slowcore-Stücke angefangen, arbeitete dann mit den Rappern *Lil Yachty* und *Polo Perks* und schickte die Songs an Produzent *Danny Dwyer* (*never goodbye*), mit dem er sie mit Glitches, Schreien und mehr Verzerrung umbaute. „Ich wollte eine Collage aus all meinen Einflüssen“, sagt er. Nach Jahren bei *Secretly Canadian* erscheint es nun in Eigenregie über sein Label *They Are Evil*. Zehn Stücke: *HOLE* (die erste Single), *WILDFIRE*, *CHAOS*, *SUFFERER*, *blood on the stereo*, *KNIGHT OF SWORDS*, *STAY* (mit *never goodbye*), *skinamarink on the tv*, *HALLOWEEN* und *SWEPT AWAY*. **Nu Metal**, **Screamo** und **Dark Wave**, dazu Elektronik, Hip-Hop, Power Pop und Emo. Genre-Bingo, aber absichtlich.
 
-::genre::
-
-### Daddy’s Belt - Serotonin
-
-tbd
-
-::genre::
-
-### Dantalion - Dantalion
-
-tbd
-
-::genre::
-
-### Dark Ages - Blind Faith
-
-tbd
-
-::genre::
-
-### Decision - Chaos
-
-tbd
-
-::genre::
+::genre::nu metal, screamo, dark wave
 
 ### Defender - Titans of Fire
 
-tbd
+Zwei Gitarren, die sich ineinander verhaken, ein schweres Fundament und ein Refrain, den das Publikum mitgrölen soll: *Defender* aus Balingen, 2016 gegründet, legen mit *Titans of Fire* ihr zweites Album nach dem Debüt *Dying To Live* (2025) und der EP *Rising High* (2018) vor, erschienen bei *Metalapolis Records* und aufgenommen in den Empire Studios unter der Regie von *Rolf Munkes*. Elf Stücke in gut 44 Minuten: *The Flame*, *Follow the Flame* (die erste Single), *Unbeliever*, der Titelsong *Titans of Fire*, *Don’t play with Evil*, *Sinners*, *Thunder Steel & Destiny*, *Sea of Tears*, *Soulbreaker*, *Blackout the Sun* und *Gods of Desire*. Besetzung: *Dennis Bauer* (Gesang, Gitarre), *Christoph Ott* (Gitarre, Backing Vocals), *Fabian Bartl* (Bass) und *Hannes Stengel* (Schlagzeug). **New Wave of Traditional Heavy Metal** und **Heavy Metal**, nach dem Vorbild des deutschen Teutonen-Metals der Achtziger und des Hamburger Sounds. Traditionell im besten Sinne.
 
-::genre::
+::genre::nwothm, heavy metal
 
 ### Deux Visages - Call It Goodbye
 
-tbd
+Erfolg, der schneller kommt als gedacht, und ein Album, das davon erzählt: *Deux Visages* aus Miami (*Daphney Hanono*, Gesang; *Jack Chiu*, Gitarre; *Tony Jouvin*, Bass) sind nach der ersten Single *Cheetah* und einer EP bei *Pure Noise Records* gelandet, und *Call It Goodbye* ist ihr Debütalbum. Elf Stücke in gut 32 Minuten, aufgenommen in Miami mit ihrem langjährigen Freund *Arquimides „Arkii“ Cala*, der schon die frühen Aufnahmen gemacht hat: *Disengage*, *Always You*, *Behind*, *Missed Calls*, *Automatic*, *Afterthought*, *Fleeting Wishes*, *Silhouette*, *Paint Myself Blue*, *Pixelate* und zum Schluss der Titeltrack *Call It Goodbye*. Es geht um den Preis schnellen Erfolgs, das Gefühl, nicht bereit oder nicht würdig zu sein, und die Spannung zwischen einer Vergangenheit, an der man hängt, und einer Zukunft, auf die man sich festgelegt hat. Zu *Automatic* sagt Hanono: „Vieles an diesem Song hat damit zu tun, dass um uns herum alles zusammenbrach, als wir den ersten Plattenvertrag bekamen.“ **Dreampop** und **Shoegaze**, große, rückkopplungsgetränkte Gitarrenmusik mit rauen Kanten, mehr ängstlich als verträumt. Im Oktober waren sie als Gäste auf der Ostküstentour von *The Linda Lindas* unterwegs.
 
-::genre::
+::genre::dreampop, shoegaze
 
 ### Diggeth - Intrinity
 
-tbd
+Aus drei mach unendlich: Der Titel *Intrinity* verschmilzt „Infinity“ und „Trinity“ als Sinnbild für die Kraft zu dritt. *Diggeth* aus den Niederlanden legen ihr fünftes Album vor, nach *Zero Hour In Doomtown* (2022), bei *No Dust Records*: acht Songs Heavy Rock, der verschiedene Stile mit filmischen Elementen mischt. Die erste Single *Eternal Child* kam im September mit Video, das zweite Video, *Das Ungeheuer*, im Oktober, laut Band „Down trifft Rammstein“. Die Band hat live Europa, die USA und Großbritannien bereist und für *Machine Head*, *Soulfly*, *Black Label Society* und *Mammoth* eröffnet; Ende November geht es zum ersten Mal nach Japan, gemeinsam mit *Ten Ton Slug*, *Dog Tired* und *Hylko*. **Heavy Rock** und **Stoner Metal**. Drei Mann, ein Ungeheuer.
 
-::genre::
+::genre::heavy rock, stoner metal
 
 ### Dikajee - The Frame
 
-tbd
+Ein Album, das Trauer, Krieg und Heilung in große Bögen packt: *The Frame* ist das zweite Studioalbum von *Dikajee*, der in Russland geborenen, in Großbritannien lebenden Multiinstrumentalistin, Sängerin, Komponistin und Produzentin, unabhängig veröffentlicht. Den Anstoß gaben der Verlust ihres Vaters, die Verwüstung durch den Krieg und der Schmerz über das zerstörerische Erbe patriarchaler Systeme; es ist ihr bisher persönlichstes und emotionalstes Werk und kreist um Verlust, Widerstandskraft, Heilung und die Suche nach Hoffnung in einer zerrissenen Welt. Neun Stücke in gut 56 Minuten: *The Frame*, *Gunpowder* (mit *Varijashree Venugopal* von *Snarky Puppy*), *In the Blink of an Eye*, *Home of the Wind*, *Friar’s Lantern* (mit *Guillaume Bernard* von *Klone*), *Thrown Ashore* (mit *Jonathan Noyce*, bekannt von *Archive* und *Jethro Tull*), *How to Human*, *Imaginary Doctor* (mit *Frida Bollani*) und *Travel Through Time* (mit *German Vergara* von *Aisles*, der dort auch ein Gitarrensolo spielt). *Vikram Shankar* (*Within Temptation*) ist bei *Gunpowder* an den Tasten sowie für Mix und Mastering zuständig, am Schlagzeug sitzt *Benjamin Baert*. **Progressive Rock** und **Symphonic Metal**, dazu **Art Rock**, mit Folk und klassischer Musik: Das Titelstück beginnt mit weichen Keyboards und wird zur ausladenden Prog-Fahrt mit kräftigem Bass, *Imaginary Doctor* wird mit Akustikgitarre fast sommerlich, *Travel Through Time* ist der Rocker, an dessen Ende man *Steve Hackett* hört. Die Kritik hörte darin ein Treffen von *Björk* und *FAUN* in den progressiven Wäldern von Nottingham. Ein Album, das dem Verlust Raum gibt und trotzdem nach Hoffnung sucht.
 
-::genre::
-
-### Dimscûa - Grief & Silence
-
-tbd
-
-::genre::
-
-### Disembody - Awakening of Ancient Evil
-
-tbd
-
-::genre::
+::genre::prog rock, symphonic metal, art rock
 
 ### Distant - Into Despair
 
-tbd
+Ein Album, das sich nicht in Fantasy flüchtet: *Distant* aus Rotterdam haben die erfundenen Welten früherer Platten hinter sich gelassen und schreiben auf *Into Despair* über die Wirklichkeit, über die Angst vor dem Tod, das Gewicht persönlicher Verluste und die Trauer, die uns prägt, aber auch über die Illusionen der Gegenwart wie das trügerische Freiheitsgefühl des digitalen Zeitalters. Die Band nennt es ein Album, das aus persönlichen Kämpfen und gelebten Erfahrungen entstanden ist. Erschienen ist es bei *Century Media Records*; Gitarrist *Nouri Yetgin* hat sich Produktion und Engineering angeeignet und das Projekt kreativ weitgehend gesteuert. Besetzung: *Alan Grnja* (Gesang), *Elmer Maurits* (Bass), *Nouri Yetgin* (Leadgitarre) und *Rene Gerbrandij* (Schlagzeug). Dreizehn Stücke in gut 39 Minuten: *The World*, *Nothing Left to Hate*, *Into Despair*, *Spirit* (mit *Tyler Beam* von *The Last Ten Seconds Of Life*), *Circle of Vultures*, *The Shallow Gaze*, *Veil of Paranoia*, *Desolation*, *All Will Be (N)One* (mit *Ricky Myers* von *Suffocation*), *Rat Torture*, *Flesh and Nails* (mit *Kyle Medina*), *The Shared Grief* und *Iron Knee*. **Deathcore** und **Slamcore**, europäischer Deathcore, der Slam, Death Metal und Noise zusammenbringt. Schwere Musik für schwere Themen.
 
-::genre::
+::genre::deathcore, slamcore
 
 ### Django Django - Doveland
 
-tbd
+Die Suche nach einem Ort, den es nicht gibt: *Doveland* ist nach einem Internet-Mythos benannt, einer angeblich verschwundenen Stadt im Mittleren Westen, die auf keiner Karte steht, an die sich aber manche erinnern und von der sie sogar Souvenirs als Beweis aufbewahren. Für *Django Django* (*David Maclean*, *Vincent Neff*, *Jimmy Dixon*, *Tommy Grace*) ist es das sechste Studioalbum, erschienen bei *Clouds Hill*, und ihr bisher persönlichstes und fokussiertestes. Statt von Genre zu Genre zu springen, zog sich die Band ins deutsche Hinterland zurück, mit *Nick McCarthy* (ehemals *Franz Ferdinand*) und der Komponistin und Produzentin *Polly Ester* an den Reglern; dabei wurde der Sound weniger synthetisch und akustischer. Zwölf Stücke in gut 42 Minuten: *Meteorite*, *Cameos* (von *J. G. Ballard* inspiriert), *Still Life*, *Little Me* (mit *Hak Baker*), *Year Of The Snake*, *Quicksand*, *Left Adrift*, *So Heavy*, *Bird Song*, *Indigo Road*, *Dirty Hotel Blues* und *Feel Alright* (mit *Max Pope*). **Art Rock**, **Indie Pop** und **Neo Psychedelic Rock**. Doveland liegt auf keiner Karte, aber die Tracklist führt hin.
 
-::genre::
+::genre::art rock, indie pop, neo psych rock
 
 ### Do Nothing - Friend World
 
-tbd
+Eine Band, die *Do Nothing* heißt, hat elf Stücke aufgenommen: *Friend World* ist das zweite Album des Quartetts aus Nottingham (*Chris Bailey*, *Kasper Sandstrøm*, *Charlie Howarth*, *Andrew Harrison*) nach dem Debüt *Snake Sideways* (2023), erschienen bei *Submarine Cat Records*. Produziert und gemischt hat *Louis Milburn* (*Folly Group*), aufgenommen wurde im JT Soar in Nottingham. Es geht um Einsamkeit, Introversion, Selbstzerstörung und die Unbeholfenheit menschlicher Nähe. Vorab gab es *Stars*, synthgetränkt, mit hypnotischen Riffs, schlenkerndem Gesang und federndem Bass, sowie *The Nail*. Elf Stücke in knapp 44 Minuten: *Misery*, *The Nail*, *Act Natural*, *These People Want Blood*, *Stars*, *Smile*, *Dog 2*, *Loner*, *Yes*, *Paris, Jesus* und *Incommunicado*. **Alternative Rock** und **Indie Rock**. Düster im Thema, aber laut *Bailey* nicht im Gefühl.
 
-::genre::
+::genre::alt rock, indie rock
 
 ### Doombia - El Diablo Que Conoces
 
-tbd
+Cumbia trifft Doom: *Doombia* aus Portland, Oregon, sind seit 2023 unterwegs, und der Name ist die Formel: Cumbia + Doom Metal = Doombia. Angefangen hat es, als Gitarrist und Sänger *Brendan Deiz* beim Gitarreunterrichten den Doom Metal für sich entdeckte; aus dem persönlichen Projekt wurde eine Band mit *Koby Haigerty* (Schlagzeug), *Celeste Wright* (Bass) und *Nate Wright* (Congas, Percussion), Deiz spielt außerdem Death Whistle und Percussion. *Doombia Vol. 2: El Diablo Que Conoces* ist das zweite Album, aufgenommen mit Produzent *Justin Phelps* (*The Mars Volta*, *Dead Kennedys*) und gemastert von *Alan Douches* (bekannt von *Mastodon* und *Converge*). Vorab erschienen unter anderem *Doombia Viene* und, als dritter Vorbote, *¿Quién Soy Yo?*, dessen Texte zwischen Englisch und Spanisch wechseln und mit Identität, Glaube und Verantwortung ringen. Fünfzehn Stücke in knapp 48 Minuten: *Doombia Viene*, *Doombiando*, *¿Quién Soy Yo?*, das einminütige instrumentale Intermezzo *Bosteza*, *Dejar de Tomar*, *Man and His Castle*, das kurze Instrumental *El Diablo Adentro*, das komplett instrumentale *El Baile de Las Fantasmas*, das ruhige Akustikstück *La Costa Oregoniana*, *Searching*, das gut siebenminütige *Machine in the Ghost* (mit Latin-Bassline und einer Brücke, die an *Tool* erinnert), das kurze *Màs*, *Hardest Pill*, das akustische *El Vuelo* und zum Schluss *Te Extraño*, das leise beginnt und härter wird. **Doom Metal**, **Cumbia** und **Psychedelic Rock**: Als Bezugspunkte nennt die Band *Black Sabbath* und *Los Mirlos*, die Kritik hört außerdem *Electric Wizard* und *Sleep* heraus. Die Band versteht sich ausdrücklich als antifaschistisch. Doom, zu dem man tanzen darf.
 
-::genre::
+::genre::doom metal, cumbia, psych rock
 
 ### Dove Cameron - FINAL GIRL
 
-tbd
+Ein Debütalbum, das nach langem Warten von Ruhm, Lust und Verlust erzählt: *Final Girl* von *Dove Cameron*, erschienen bei *Disruptor Records* und *Columbia*, ist ihr erstes Album nach der EP *Alchemical: Volume 1*. Die Arbeit daran begann 2018, es war mehrfach fertig und blieb doch vor der Freigabe durch das Label liegen; die „Final Girl“ ist im Horrorfilm die, die bis zum Schluss überlebt. Inhaltlich geht es um körperliches Vergnügen, schnelle Befriedigung und Bestätigung von außen, aber auch um die Trauer um nahestehende Menschen, darunter ihren Vater und ihren Freund *Cameron Boyce*. Elf Stücke: *Silver Screen Baby* (der Eröffner, über ihren langen Wunsch nach Ruhm, verbunden mit dem Tod ihres Vaters, als sie fünfzehn war), *Emerald* (der jazzigste Song des Albums), *When in Rome*, *Good on You*, *Do the Math*, *Hot Girl* (über eine Begegnung im Club, mit viel Belting, und eine Mischung aus Alt-Pop, Dark Pop, Dance-Pop und Alt-Rock), *Skin Over Bone*, *Hands of Man*, *Breaks Open* (mit Streichern, vollem Chor und symphonischen Schichten), *Immortalized* und zum Schluss *Maybe Heaven Is a Jazz Club*, das alte Aufnahmen ihres Vaters und von *Cameron Boyce* enthält und mit jazzigen Instrumentals ausklingt. Vorab kamen *When in Rome* und *Do the Math* (am 23. Oktober) heraus; Material aus dem Album spielte sie 2025 live, als sie bei einigen Terminen der *Radical Optimism Tour* von *Dua Lipa* in Großbritannien und Irland im Vorprogramm stand. **Alternative Pop** und **Dark Pop** mit Jazz-Einschlag, nach Altem Hollywood und Alt-Rock klingend. Ein Album, das Trauer in große Gesten packt und in einem Jazzclub im Himmel endet.
 
-::genre::
+::genre::alt pop, dark pop
 
 ### Dreamspeed - Demo
 
-tbd
+Sechs Songs über Trauer, Einsamkeit und emotionales Chaos: *Dreamspeed* aus Perth (Boorloo), im Juni 2025 gegründet, haben auf ihrer Debüt-EP *Demo* ihre ersten sechs Songs festgehalten, so wie sie sich im Proberaum anfühlten, aufgenommen vor knapp einem Jahr, kurz nachdem sie fertig waren. Besetzung: *Han Gunn* (Gesang), *Oli Booth* (Gitarre, Gesang), *Daniel Hacking* (Bass) und *George Blacklock* (Schlagzeug). *Hacking* und *Blacklock* haben selbst in den Sumo Sound Studios in Boorloo aufgenommen, gemischt und gemastert hat *Blacklock*, das Artwork stammt von *Gunn*, die Grafik von *Booth*. Als Einflüsse fallen *Deafheaven*, *Agalloch*, *Ragana*, *Worm* und *Blind Girls*. Vorab erschienen *A Ditch of Your Dimensions* im März und *Corpse Light*. Sechs Stücke in gut 27 Minuten: *Inverse Shadows* (beginnt mit düsterer Gitarre und dem Geräusch eines Stifts auf Papier; inspiriert von der Trauer rund um Minas Morgul in *Der Herr der Ringe*), *A Ditch of Your Dimensions* (sumpfiger, mit langsamem Schlagzeug und gedehnten Schreien), *So, Sleep* (beginnt gespenstisch und ohne Gesang), *Nothing But Hell* (das emotionale Zentrum, das durch die Phasen der Trauer von Traurigkeit über Wut und Reue bis zur Erschöpfung führt), ein ruhiges *Interlude* und *Corpse Light*. **Post Black Metal**, **Blackened Doom Metal** und **Screamo**; die Band selbst nennt es eine Mischung aus depressivem Doom, Post-Black-Metal und Screamo. Am Ende steht *Corpse Light*, schwer wie der Rest, aber kraftvoller.
 
-::genre::
-
-### Drift Into Black - When Ashes Remain
-
-tbd
-
-::genre::
-
-### Dumb Bats - Release The Bats
-
-tbd
-
-::genre::
-
-### Dämmerung - Son Of The Mourning Star
-
-tbd
-
-::genre::
+::genre::post black metal, blackened doom metal, screamo
 
 ### E-L-R - Atropa
 
-tbd
+Aus einer Zeit tiefgreifender Veränderung und Krankheit ist *Atropa* entstanden, das dritte Album von *E-L-R* aus der Schweiz (Bern, 2016 gegründet), erschienen bei *Prophecy Productions*. Es dreht sich um Überleben, Durchhalten und unumkehrbaren Wandel; textlich geht es durch Trauer, Delirium, obsessive Liebe und Widerstandskraft, und Schlagzeuger *M.K.* verließ die Band früh in der Entstehung aus gesundheitlichen Gründen. Sechs Stücke in gut 44 Minuten: *Oaken Reaper*, *Archeress*, *Cobalt Wound*, *Solace Tracery*, *Saltwinds* und das gut zehnminütige *Echo Space*. **Doomgaze** und **Post Metal**, dunkler und härter, als diese Schubladen es nahelegen; die Band selbst beschreibt ihren Klang als Pendeln zwischen Gewicht und Auflösung, Schönheit und Gift. Nach *Vexier* (2022) ein Album für alle, die Hypnose lieber langsam mögen: Rhythmen, schwebend im Dunst ewigen Nachhalls.
 
-::genre::
+::genre::doomgaze, post metal
 
 ### Echoid - The Silent Era
 
-tbd
+Das Debütalbum einer Band, die fragt, was bleibt, wenn der Lärm aufhört: *Echoid* (*Jonas Erixon*, Gesang; *Francesco Mattei*, Gitarre und Keyboards; *Alberto Rigoni*, Bass und Komposition; *Andrea Zen*, Schlagzeug) erzählen auf *The Silent Era* von Entfremdung in einer digital überfüllten Welt: Informationsflut, hergestellte Identitäten und die wachsende Distanz zwischen ständiger Kommunikation und echter Nähe. Ein Konzeptalbum, das von digitaler Unsichtbarkeit über Widerstand zur Selbstfindung führt und am Ende Identität, Entscheidung und Aufmerksamkeit bekräftigt. Erschienen ist es bei *Pitch Black Records*; Musik von *Rigoni* und *Mattei*, Texte von *Rigoni*, gemischt und gemastert hat *Mattei* im Underworld Studio. Zehn Stücke in knapp 45 Minuten: *Future Tense*, *The Noise*, *Fake Faces*, *Between the Lines* (mit *Natalia Sarsgård*), *Offline*, *Break the Circuit*, *Ghost in the Feed*, *Static Crown*, *Still Human* und *After the Silence*. **Modern Metal** und **Hard Rock**, filmisch, mit Melodie, progressiven Einflüssen und technischer Präzision. Ein Album gegen die Dauerbeschallung, natürlich mit Lautstärke.
 
-::genre::
+::genre::modern metal, hard rock
 
-### Eilis Frawley - Twist My Words
+### Eilis Frawley - Twist My Words *
 
-tbd
+Eine Schlagzeugerin, die ihre Texte lieber spricht als singt: Die in Australien geborene, in Berlin lebende Drummerin, Perkussionistin und Songwriterin *Eilis Frawley* legt mit *Twist My Words* ihr zweites Album vor, erschienen bei *Sinnbus*. Zehn Stücke in knapp 31 Minuten, so minimalistisch wie überwältigend, unheimlich, direkt und unnachgiebig: *Come Back*, *Taken, Never Erased*, *Guilt*, *Twist My Words*, *Dystopia*, *Summer Flu*, *Calm Down*, *Shame*, *If Not Now, When?* und *Snakes*. Über krautige Rhythmen und Post-Punk-Beats legt sie scharfsinnige Spoken-Word-Texte über gesellschaftliche Strukturen, Feminismus, psychische Gesundheit und das Leben im Ausland, dort, wo Persönliches und Politisches sich treffen. „What was all the trying for when dreams don’t make sense anymore?“, heißt es im Begleittext. **Post Punk**, **Krautrock** und **Spoken Words**. Wer Zeit sparen will: alles gesagt in einer halben Stunde.
 
-::genre::
+::genre::post punk, krautrock, spoken words
 
 ### Electric Valley - Echo
 
-tbd
+Zehn Jahre Straße, dann ab ins Studio: *Electric Valley* aus Madrid (*Mario García*, Gitarre und Keyboards; *Charlie Sánchez*, Schlagzeug und Perkussion; *Miky Simón*, Bass und Gesang), 2014 gegründet, melden sich mit *Echo* zurück, erschienen bei *Small Stone Records*. Live aufgenommen hat *Javier Ortiz* im Estudio Brazil in Madrid; der Titelsong *Echo* entstand mit *Eric Medina* im Abuso De Confianza Studio, ebenfalls Madrid, und wurde auch von ihm gemischt; die übrigen Songs mischte *Sánchez*, gemastert hat *Chris Goosman* in den Baseline Audio Labs in Ann Arbor. Sieben Stücke in gut 40 Minuten: *Gata*, *Strange Land*, *The Colony*, *The Asteroid*, *Oceano*, *Ancient Monolith* und *Echo*. **Stoner Rock** und **Psychedelic Rock**: die dichten, wuchtigen Riffs des klassischen Stoner-Doom, verbunden mit hypnotischeren, progressiveren Stimmungen. Riffs, die ihr Gewicht kennen.
 
-::genre::
+::genre::stoner rock, psych rock
 
 ### Elvaron - Canto Inferno
 
-tbd
+Zwischen 2018 und 2025 aufgenommen, für eine Reise durch Dantes Hölle: *Elvaron* aus Nancy, seit 1993 dabei, nehmen sich mit *Canto Inferno* die *Divina Commedia* vor, ein Konzeptalbum, dessen Booklet Illustrationen von *Gustave Doré* verwendet. Die Band beschreibt sich als modernen Progressive-Metal-Act in einem fantastischen Literaturuniversum, genährt von *Rush*, *Symphony X* und *Dream Theater* ebenso wie vom aggressiveren US-Thrash von *Overkill* und *Testament*. Aufgenommen wurde in Elvarons „Versteck“ und an anderen Orten; Dante brauchte für sein Original ja auch ein paar Jahre. Produziert haben *Elvaron* und *Fantai’Zic*, gemischt hat *Matthieu Morand*, gemastert *Flavien Morel*. Die Musik stammt von *Julien Skorka* und *Matthieu Morand* mit etwas Hilfe von *Nicolas Colnot*, Melodielinien und Backing Vocals schrieb *Géraldine Bocciarelli-Gadaut*, die Texte *Benoit Guillot*; *Nicolas Marekovic* arrangierte Keyboards und Klavier, *Théophile Drach* das Schlagzeug, als Gäste spielen *Alice Laurent* (Cello) und *Louis Morand* (Flöte). Neun Stücke in knapp 60 Minuten: *Charon and the unbaptized*, *Love and lust*, *Unsatisfied hunger*, *Sisyphus*, *Heads around Phlegyas*, *Let the soul die with the body*, *Alta Ripa*, *Deception enumeration* und *In imis infernis regnat Lucifer*. **Progressive Metal** und **Symphonic Metal**; das Originalcover stammt von *Julien Skorka*. Gewidmet ist das Album dem Andenken an *Michel Morand*.
 
-::genre::
+::genre::prog metal, symphonic metal
 
 ### Eterna - Push
 
-tbd
+Vom Slacker zum Dunstschleier: *Guillem Peeters*, in Barcelona geboren, in London zu Hause, Produzent, Multiinstrumentalist und früher Schlagzeuger bei *bar italia*, veröffentlicht als *Eterna* sein drittes Album *Push*, erschienen bei *section1*. Die früheren Alben, zuletzt *Debunker* (2025), klangen nach Slacker-Rock, aus Heimaufnahmen und spontaner Collage; jetzt ist alles überlegter und weiträumiger, stiller und reduzierter, ein hypnagogischer, dunstiger Klang. „Stille bedeutet für mich: Ich habe keine Eile“, sagt *Peeters*. Violinistin *Joolie Wood* ist die einzige Gastmusikerin und spielt auf *Come what it may, the bitter and the grey*. Neun Stücke: *Waltzlike*, *Kyrie* (ein ferner Drumloop und eine skelettartige Gitarre driften aus dem Takt, bis nach rund 34 Sekunden ein „geheimer Akkord“ alles einrasten lässt), *Spire*, *Shadowcasting for the Villain* (schimmernd, mit straffer Gitarrenarbeit à la *David Pajo*), *Gum* (düsterer Trip-Hop), *Push* (ein „Copecore“-Raufbold), *Come what it may, the bitter and the grey*, *Ten Lone Stars* (Slowcore) und als pastoraler Abschluss *Rex* mit fernen Chorstimmen, dubbiger Minimal-Percussion und stotternden Gitarren. **Post Rock**, **Slowcore** und **Trip Hop**, im Fahrwasser von *Talk Talk* und *Bark Psychosis*. Wer es eilig hat, ist hier falsch.
 
-::genre::
+::genre::post rock, slowcore, trip hop
 
 ### Eternity's End - Titanblood
 
-tbd
+Fünf Jahre Funkstille, dann kommen die Titanen: *Eternity’s End*, die überwiegend deutsche Power- und Prog-Metal-Supergruppe mit bayerischen Wurzeln, melden sich mit *Titanblood* zurück, ihrem vierten Album, erschienen bei *Scarlet Records*. Nach dem Vorgänger *Embers Of War* hat sich am Mikrofon etwas geändert: Der Grieche *Mike Livas* (bekannt von *Silent Winter*, *Bloodorn* und *Rhodium*) singt jetzt anstelle von *Iuri Sanson*, rauer als sein Vorgänger und mit hohen, Halford-artigen Schreien. Dazu spielen *Christian Münzner* (Gitarre; früher *Obscura* und *Necrophagist*), *Justin Hombach* (Gitarre), *Jimmy Pitts* (Keyboards), *Linus Klausenitzer* (Bass) und *Hannes Grossmann* (Schlagzeug). Ein klassisches Konzeptalbum ist es nicht, aber jedes Lied erzählt eine Dark-Fantasy-Geschichte, als Einflüsse werden *Robert E. Howard*, *Michael Moorcock*, *Edgar Allan Poe* und das Videospiel *Dark Souls* genannt. Zehn Stücke in gut 51 Minuten: *The Gods Of Bal Sagoth* (beginnt mit leisen Akustikgitarren, bevor es schnell und technisch wird), *Sword In The Storm* (mit neoklassischer Ader und Keyboardsolo), der Titelsong *Titanblood*, das anderthalbminütige Gitarrenintermezzo *Interstellar Transmission*, *In The Wake Of The Carrion King* (mit dem eingängigsten Refrain), *Eternal Winter*, das instrumentale *Gates Of Eternity*, das sieben Minuten lange *The Abyss Watchers*, *Ravenheart* und zum Schluss *Rule The Night*. **Power Metal** mit **Progressive Metal** und **Symphonic Metal**, technisch versiert, mit Orchestrierung und Chören und Gitarren- und Keyboardsoli, irgendwo zwischen *Symphony X*, *Stratovarius* und *Blind Guardian*. Schwerter, Stürme und Titanen, diesmal mit neuem Mann am Mikro.
 
-::genre::
+::genre::power metal, prog metal, symphonic metal
 
 ### Every Second Counts - When The Heart Rots
 
-tbd
+Acht Stücke, keine 19 Minuten, keines länger als dreieinhalb: *Every Second Counts* aus Winnipeg, Manitoba, melden sich mit *When The Heart Rots* nach ihrem *DEMO* vom Mai 2025 zurück, und das passt zum Namen. Im Kern stehen Sänger *Andrew Sookram* und Gitarrist *Dan Forte*, die seit über 20 Jahren zusammen Musik machen, angefangen bei *Aim For My Head*; in der Gründungsbesetzung waren außerdem *Kyle Monkman* (Bass) und *Jordan Heavysege* (Schlagzeug) dabei. Die ersten Aufnahmen entstanden im Private Ear Studios in Winnipeg, wo schon *Propagandhi*, *Comeback Kid* und *Cancer Bats* gearbeitet haben. Als Vorbilder nennt *Sookram* *Bane*, *Have Heart*, *Comeback Kid*, *Verse* und *Defeater*; der eigene Sound sei eine Mischung aus Hardcore-Stilen, nicht auf einen Ansatz festgelegt, von geradeaus bis schwer, mit melodischem Einschlag und viel Gang-Gesang zum Mitsingen. Dazu: *Math Ain’t Mathing*, *MOUTH TRAUMA*, *Roll Call*, *The Come Down*, *The Prisoner’s Cinema*, *Nevertheless* (mit *Withdrawal*), *Unrooted* und *All You Can Do*. **Melodic Hardcore** und **Hardcore Punk**. Jede Sekunde zählt, wortwörtlich.
 
-::genre::
+::genre::melo hardcore, hardcore punk
 
 ### Extol - Aura of Decay
 
-tbd
+Dreizehn Jahre Funkstille sind vorbei: *Extol* aus Bekkestua in Norwegen, 1993 gegründet, 2007 aufgelöst und mit dem Album von 2013 wieder zurück, melden sich mit *Aura of Decay* zurück, ihrem sechsten Album, erschienen bei *Solid State Records*. Mit *Christer Espevoll* ist der Gitarrist wieder dabei, die Besetzung damit wieder die klassische: *Peter Espevoll* (Gesang), *Ole Børud* (Gitarre, Gesang, Bass), *David Husvik* (Schlagzeug, Gesang) und *Christer Espevoll* (Gitarre). Aufgenommen wurde in den Hawk Studios, im Little Cave Studio und bei Hrada Creative, gemischt und gemastert hat *Jens Bogren* in den Fascination Street Studios, das Cover stammt von *Hugh Syme*. Elf Stücke: *The One And The Many*, *Disintegrate*, *Sanctum*, *Merciless Hunger*, *Vile Path*, *Phantom Dismay*, *Shield And Alibi*, *Wrecked Within Walls*, *Dimness Of Lingering Gloom*, *Beneath The Dirt* und *End Of Times*. Der Eröffner nimmt das uralte philosophische Problem des Einen und des Vielen und legt es auf eine polarisierte Gegenwart, in der Gesellschaften in feindliche Stämme zerfallen; „Wir leben in einer Zeit, in der Wahrheit relativ wirkt“, sagt *Christer Espevoll*. **Technical Death Metal** mit komplexen Arrangements, eigenwilliger Harmonik, abrupten Wechseln und rauen, black-metal-getönten Atmosphären wie schon auf *Burial*, dazu **Blackened Death Metal**. Dreizehn Jahre Pause, elf neue Stücke.
 
-::genre::
-
-### Falsimonian - For Survival
-
-tbd
-
-::genre::
-
-### Fatal Move - Fubar
-
-tbd
-
-::genre::
+::genre::tech death metal, blackened death metal
 
 ### Felt - Soil & Sky
 
-tbd
+Das zweite Album der Aachener Heavy-Shoegaze-Band *FELT*, ein Schritt hin zu einem tieferen, furchtloseren und etwas dunkleren Klang, nach dem Debüt *Saturnine* (November 2024). Aufgenommen wurde im Number Nine Studios im belgischen Gent, produziert hat *Sebastian Omerson* mit *Dries Duchateau* als Assistent, gemastert wurde bei Jerboa Mastering; das Coverfoto stammt von *Emiel Viellefont*, das Design vom Studio Kloroform. Die Texte kreisen um Nähe, Verletzlichkeit und Ehrlichkeit, um Sehnsucht und Hingabe (darunter ein sinnliches, nächtliches Liebeslied in Miami), um Verwandlung und das Zurücklassen des alten Selbst, um Entfremdung und Schweigen sowie um körperlichen und seelischen Zusammenbruch, einschließlich eines Stücks über Krankheit und körperlichen Verfall. Acht Stücke in gut 36 Minuten: *Heavensent*, *Here As I Am*, *The Wake, The Need*, *Miami Memory* (eine Coverversion von *Alex Cameron* und die erste Single), *Acolyte*, *With Silent Hands*, *Phantom Friends* und *Tile Tissue*. **Shoegaze** und **Alternative Rock**: dichter Fuzz, schimmernder Hall und eine Wand aus Gitarren, in deren Mitte die Stimme von Sängerin *Hannah* steht, in der Nachbarschaft von *Slow Crush* und *Deftones*, mit Verweisen auf *Chelsea Wolfe* und die frühen *Smashing Pumpkins*. Zerbrechliche Intimität und eine Klangwand in einem Album.
 
-::genre::
+::genre::shoegaze, alt rock
 
 ### FFO: Chillin - High Horse
 
-tbd
+Sechzehn Songs in gut 31 Minuten, die meisten unter zwei Minuten: *FFO: Chillin* aus Concord, New Hampshire, legen mit *High Horse* ihr Debütalbum vor, nach ein paar EPs, selbst produziert und beim Connecticuter Hardcore-Label *DAZE* erschienen, das sonst eher auf ultraschwere Bands setzt. Vorab gab es *All I Know*, *Forward Perpetual Motion* (früher *Forward Motion*) und *Fresh Start*, 85 Sekunden mit Emo-Rap-Gesang. Die Titelliste: *Blackout*, *40 Hours*, *Not That I Know/The Biz*, *Forward Perpetual Motion*, *The Difference*, *Remedy*, *All I Know*, *Fresh Start*, *Tweak Out*, *Net Worth*, *Tomorrow*, *Tragic*, *Plate*, *Moment*, *Off The Junk* und *Infinite Grind Cheat*. **Pop Punk** und **Alternative Rock**: eine durch und durch spaßige, alt-rockige Spielart des Pop-Punks mit gelegentlichen Breakdowns, mit *Drug Church* und *Militarie Gun* als Vergleichsgrößen. Keine Minute länger als nötig.
 
-::genre::
+::genre::pop punk, alt rock
 
 ### Flawed Mangoes - Naturally Occurring Music
 
-tbd
+Musik, die natürlich vorkommt, zumindest laut Titel: *Flawed Mangoes* ist das Projekt des Bostoner Musikers und Produzenten *Evan Lo*, dessen Aufnahmen 2023 in „Hopecore“-Videos auf TikTok viral gingen, ebenso wie die Single *Killswitch Lullaby*. *Naturally Occurring Music* ist ein Album mit zwölf Stücken und erscheint im selben Jahr wie *Afterlife* und die Singles *Horse*, *Dark* und *Charts*. Seit April 2024 steht *Lo* bei *APG Music* unter Vertrag. **Ambient** und **Post Rock**, mit texturierten Synthesizern, hypnotischen Gitarrenfiguren und Klanglandschaften, zu seinem Werk werden außerdem Shoegaze und Folktronica gezählt. Die Titelliste lag mir nicht vor.
 
-::genre::
+::genre::ambient, post rock
 
 ### Fleurie - Late But Blooming
 
-tbd
+Spät, aber blühend: *Fleurie*, in Nashville zu Hause, nennt *Late But Blooming* ihr bisher persönlichstes Album, erschienen bei ihrem eigenen Label *Fleurieland Records*, nach *Supertropicali* (2023). Lange habe sie sich sehr „hinterher“ gefühlt, sagt sie, bevor sie merkte, dass sie genau rechtzeitig dran ist. Auf der Titelliste stehen unter anderem *If I Was A Bird*, *Little Black Dress*, *White Lace*, *♥* und *Tangerine*, von denen mehrere schon vorab als Single erschienen sind. **Alternative Pop** und **Cinematic Pop**: Fleurie ist bekannt für filmische, emotional aufgeladene Klanglandschaften; ihre Songs liefen in Hunderten Serien, Filmen und Trailern, darunter *Grey’s Anatomy* und *Outlander*. Nie zu spät, immer pünktlich.
 
-::genre::
+::genre::alt pop, cine pop
 
 ### Fraught - Pillar 1: Ashes Of Verdant Collapse
 
-tbd
+Zwei Stücke, zehn Minuten, ein Drittel eines Albums: *Fraught* aus Dublin (*James Doporto*, Gesang; *Padraic Farrelly*, Schlagzeug; *David Greene*, *Leigh Moran* und *Andrew Coade*, Gitarre), 2018 zusammengefunden und kurz noch unter dem Namen *Drought* unterwegs, veröffentlichen mit *Pillar I: Ashes Of Verdant Collapse* die erste von drei geplanten EPs, die zu einem größeren Werk zusammenwachsen sollen, erschienen bei *Apocalyptic Witchcraft Recordings*, dessen Haltung zu kompromissloser künstlerischer Integrität sie zur idealen Heimat erklären. Davor gab es das Demo *MMXIX*, die EP *Splitting Tongues* und das Album *Transfixed On Dying Light*; die Mitglieder haben zuvor unter anderem mit *Coldwar*, *Mortichnia*, *Slave Zero* und *Wound Upon Wound* gespielt. Aufgenommen wurde in den Last Light Studios, gemischt und gemastert hat *Shauny Cadogan* (bekannt von *Coscradh*, *Diocletian* und *Malthusian*), das Artwork stammt von *Jamie Gavin*. Inhaltlich geht es um menschliche Überheblichkeit gegenüber der Natur, um Ausbeutung von Ressourcen und um eine Zivilisation, die von dem Gift getragen wird, das sie selbst erzeugt; die Band nennt die EP „ein Porträt menschlichen Triumphs, das sich von der totalen ökologischen Vernichtung nicht mehr unterscheiden lässt“. *Death Assemblage* (gut viereinhalb Minuten) ist rohes, ursprüngliches Death Metal mit Momenten melodischer Trostlosigkeit, *Detritivore* (gut fünfeinhalb) ein unerbittlicher, hoffnungsloser Angriff mit Höhlengesang und rückkopplungsstarken Gitarren, der in hartem Noise endet. **Blackened Death Metal**, von der Band selbst als „irischer Blackened-Death-Terror, aus dem Schlund Dublins erbrochen“ beschrieben, für Fans von *Akhlys*, *Bombs of Hades*, *Deviated Instinct* und *Leadbelcher*. Das erste Drittel ist gemacht.
 
-::genre::
+::genre::blackened death metal
 
 ### Future Static - Ornaments & Memories
 
-tbd
+Das zweite Album der Melbourner Metalcore-Band *Future Static* (*Amariah Cook*, Gesang; *Kira Neil*, Bass und Gesang; *Ryan Qualizza* und *Jack Smith*, Gitarre; *Jackson Trudel*, Schlagzeug), erschienen bei *Wild Thing Records*, nach dem Debüt *Liminality* (2023), das auf Platz 1 der australischen AIR-Charts landete. Düsterer und philosophischer als sein Vorgänger geht es um inneren und äußeren Konflikt, Wachstum, Veränderung und Liebe, musikalisch und thematisch inspiriert vom Auf und Ab des Lebens in einer sich immer schneller drehenden Welt, mit hüpfenden Riffs, seelenzermalmenden Breakdowns, dramatisch geschichteten Gesangsspuren und hektischen Drum-Fills. *Cook* wollte, sagt sie, mit dem Album Wachstum zeigen, nicht nur als Sängerin und Songwriterin, sondern als Mensch; der Titelsong *Ornaments & Memories*, vorab mit Video erschienen, schöpft aus Stoizismus und Memento Mori und ist ein Brief an sie selbst, präsent zu bleiben. Produziert, gemischt und gemastert hat *Christopher Vernon*. Zwölf Stücke in gut 45 Minuten: *Ephemeral*, *There’s Nowhere Else To Go*, *Swing*, *Dream Suite*, *The Picture in You*, *Off The Map*, *Ornaments & Memories*, *State of Mind*, *Odyssey*, *Waterworks*, *Subcritical Flow* und *Lux*. **Modern Metalcore** und **Alternative Metal**, technische Präzision, melodisches Chaos. Wer Ornamente will, bekommt Breakdowns.
 
-::genre::
+::genre::modern metalcore, alt metal
 
 ### Gandalf's Fist - Gōshollow
 
-tbd
+Ein Winteralbum, das kein Weihnachtsalbum sein will, sich aber so benutzen lässt: *Gandalf’s Fist* aus Großbritannien legen mit *Gōshollow* ein „gespenstisches Winter-Prog-Rock-Konzeptalbum für kalte Herbst- und Winternächte“ vor, von folkigen Waldarbeiter-Carols bis zu dreckigen Metal-Riffs. Zwei düster-festliche Stücke, *Winter’s Mourning* und *Witchwood*, gab es schon früher, hier sind sie zum ersten Mal Teil eines Albums; *Hearth and Ale* wurde als umgearbeiteter Deep Cut der Stimmung angepasst, und *Winter’s Mourning* hat *Stefan Hepe* bereits 2017 gemischt. Besetzung: *Dean Marsh* (Gitarren, Haupt- und Backing-Gesang, Bass, Mandoline, Bouzouki, Keyboards, Melodeon, „Ice-Age Mammoth-Flute“, Percussion), *Luke Severn* (Backing Vocals, Co-Lead auf Track 7), *Ben Bell* (Klavier, Synthesizer, Hammond-Orgel, Fretless-Bass, Backing Vocals), *Keri Farish* (Gesang) und *Stefan Hepe* (Schlagzeug), dazu *Chris Ewen* für „Bargain-Snack-Beschaffung und Gänsehüten“. Gäste sind *Rafferty Marsh* (Schlittenglocken), *Patricio Penin* (Tin Whistle, Low Whistle, Uilleann Pipes) und *Dayna Bee* (Violine). Produziert und gemischt hat *Marsh* in den Lamplighter Studios in Suffolk, 2026 gemastert hat *Pete Maher*, das Cover stammt von *Daniel Pearce*. Neun Stücke in gut 58 Minuten: *Woodsman’s Carol*, *The Gōshollow*, *Winter’s Mourning*, *Frostmage’s Jaunt* (instrumental), *Harvest* (über dreizehn Minuten), *Witchwood*, *Hearth and Ale*, *Those Wild Winds of Winter* und *Of Gorse and Grief*. **Progressive Rock**, **Folk Rock** und **Psychedelic Rock**. Für kalte Nächte, düstere Wege und alle, die schon einmal etwas im Wald haben rascheln hören.
 
-::genre::
-
-### Gates Of Kiev - Gates Of Kiev
-
-tbd
-
-::genre::
+::genre::prog rock, folk rock, psych rock
 
 ### Gift Horse - A Career in Architecture
 
-tbd
+Aus dem Duo wurde ein Trio: *Gift Horse* aus New York (*Matthew Hord*: Drumcomputer, Synthesizer, Bass; *Jonathan Schenke*: Sampler, Synthesizer, Modular), mit Wurzeln in Chicagos experimenteller Szene, haben mit *Ryley Walker* einen Gitarristen dazubekommen, und *A Career in Architecture* ist ihr zweites Album, nach *Cultural Payout* (2023). Walkers kontrolliertes Gitarrenspiel gibt dem Sound Tiefe und Gegenstimmen, dazu kommen digitale Beats, FM-artige Klänge und Selbstsampling. Gäste sind *Ian Campbell* (Gitarre auf *The Last Channel*) und *Michael Vallera* (Gitarren und Bearbeitungen auf dem Titelstück, der auch das Artwork gestaltet hat). Produziert, gemischt und gemastert hat *Schenke* im Studio Windows in Brooklyn; *Rebar Redux* ist die Live-im-Studio-Aufnahme eines frühen Stücks, *Pillar Quality* eines der ersten, das das Trio zusammen schrieb. Elf Stücke in gut 39 Minuten: *Subgrade (Your Cart)*, *Pillar Quality*, *Uncorked*, *Bell Jar (On Display)*, *Informal Attachment*, *Convolutions*, *Rebar Redux*, *Unemployed Curator*, *No SPF*, *The Last Channel* und *A Career in Architecture*. **Krautrock** und **Post Rock**, krautrockig treibende Synthesizer und funkelnde Melodiefiguren über taktfesten Rhythmen, **Instrumental**. Ein Berufsweg ohne Worte.
 
-::genre::
+::genre::krautrock, post rock, instrumental
 
 ### Gilbert O'Sullivan - On the Record
 
-tbd
+Sechzig Jahre im Geschäft, das einundzwanzigste Studioalbum: *Gilbert O’Sullivan* legt mit *On the Record* dreizehn neue Songs vor, erschienen bei *BMG* und wieder mit Produzent *Andy Wright*, der schon *Driven* (2022) und *Songbook* (2024) betreut hat. Aufgenommen wurde in fünf Tagen mit seiner festen Band; „Raketenwissenschaft ist das nicht“, sagt er. Die erste Single ist das augenzwinkernde *Growing Old Disgracefully*, bei *Is That You?* singt *Andrea Corr* mit, eines seiner seltenen Duette. Die Titelliste: *It’s Me*, *I Suppose*, *Growing Old Disgracefully*, *Go The Way I Came*, *I Must Be Going*, *Don’t Shout*, *She Never Ceases To Amaze Me*, *Our Love Is Gonna Grow*, *Is That You?*, *Wait*, *Minus Is A Plus With You*, *No Place Like Home* und *See Us Gone*. **Soft Rock** voller melodischer Einfälle, Wortwitz und Eigensinn: „Anders zu sein war für mich der Schlüssel“, sagt *O’Sullivan*. Wer sechzig Jahre dabei ist, braucht für dreizehn Songs eben nur fünf Tage.
 
-::genre::
+::genre::soft rock
 
 ### Girl Tones - Precious
 
-tbd
+Zwei Schwestern, ein Cello und ein Schlagzeug: *Girl Tones* sind *Kenzie Shultz* (Gitarre, Cello, Gesang) und ihre jüngere Schwester *Laila Crowe* (Schlagzeug, Klavier) aus Bowling Green, Kentucky, die klassisch ausgebildet wurden und zuvor in einer Familienband und einer Bluegrass-Gruppe spielten. *Precious* ist ihr Debütalbum, erschienen bei *Parallel Vision*, dem Label von *Brad Shultz* von *Cage the Elephant* innerhalb von *Big Loud Rock*, der auch produziert hat. Beschrieben werden sie als schmuddeliges, hakenreiches Rock-Duo; Vorbilder sind *The White Stripes*, *Jack White*, *Bikini Kill*, *Bratmobile* und *Beck*, und die beiden wollen sich nicht festlegen lassen; der Titelsong *Precious*, ursprünglich *The Ballad* genannt, ist eine klavierdominierte, lebensbejahende Ballade, dazu gibt es weitere langsame Stücke mit Klavier und Cello. Die Single *Pretty Face* (mit Video, gedreht in einem Perückenladen) handelt davon, Menschen zu durchschauen, wenn ihre Masken verrutschen. **Garage Rock** und **Punk Rock**. Wenn die Masken rutschen, hilft ein Cello.
 
-::genre::
+::genre::garage rock, punk rock
 
 ### Glass Hammer - Black Light
 
-tbd
+Ein Album mit einem Poster als Tür: *Glass Hammer* aus Florida schicken auf *Black Light* einen jungen Prog-Rocker in ein Schwarzlichtposter aus den Siebzigern, wo seine Songs zu Figuren werden, von denen einige schon auf früheren Alben der Band auftauchten. Die Idee kam von einem „Lost Horizons“-Poster, das *Steve Babb* als Teenager besaß und später noch einmal kaufte. Babb, das einzige verbliebene Gründungsmitglied, plante das Album, als eine MRT-Untersuchung einen Hirntumor zeigte; die Geschichte schrieb er vor der Operation, die Musik komponierte er etwa vier Monate danach. Herausgekommen ist ein unabhängig veröffentlichtes Konzeptalbum. Besetzung: *Steve Babb* (Keyboards, Bass, Percussion, Backing Vocals), die drei Sänger *Christopher Galen* (neu), *Trevor Laake* und *Olivia Tharpe* (die schon auf dem Vorgänger *Rogue* dabei war), *Ferran Ligero* (Gitarre), *Ken Kristiansen* (Schlagzeug) und *Oliver Day* (Akustikgitarre); *Fred Schendel* ist nicht dabei. Neun Stücke in knapp 57 Minuten: *I Stared At It Too Long & Lost Horizons* (gut dreizehn Minuten; funkiger Siebziger-Rock, im zweiten Teil eine Verbeugung vor *And You And I* von *Yes*), *Evermore* (geschmeidig, mit flötenartigen Keyboards), *Return To The Shadowlands* (gut zehn Minuten, energischer Prog-Hardrock; der erste Teil schreibt *The Morning She Woke* von *Inconsolable Secret* um), *Neon Wizard - The Battle* (ein chaotisches, psychedelisches Instrumental), *The Forest of Forgetting* (düster-funkiges Instrumental), *The Persistence of Memory* (treibendes Instrumental mit Delay-Gitarre und Hammond-Orgel), *Mercury Rain* (entspannt-psychedelisch, mit *Tharpe* am Mikrofon und dem laut Kritik einprägsamsten Hook des Albums), das einminütige *It Falls Upside Down* mit gesprochenen Worten und *Kaleidoscope Skies*, in dem *Galen* und *Laake* sich die Leadstimme teilen und Orgel und Gitarre an *Gentle Giant*, *Focus* und *Keith Emerson* erinnern. **Symphonic Progressive Rock** mit Beach-Boys-artigen Harmonien und Gitarren, die ihre Spuren bei *Boston* haben; die schwere Seite der *Skallagrim*-Trilogie bleibt diesmal draußen. Die Kritik nennt es das bisher freudvollste und unterhaltsamste Album der Band, ein Beispiel dafür, wie Prog auf die Vergangenheit verweist und nach vorn schaut.
 
-::genre::
-
-### Goreshower - Dismembered and Reassembled
-
-tbd
-
-::genre::
+::genre::symphonic prog rock
 
 ### Grace Graber - Sophomore Year
 
-tbd
+Das zweite Schuljahr als Albumthema: *Sophomore Year* ist das zweite Album von *Grace Graber* mit eigenen Songs, unabhängig veröffentlicht, mit neun Liedern, nach *The Breakthrough* (August 2024), der EP *Everything You Ever Wanted* (Oktober 2025) und dem Album *PUNK X PRAISE Vol. 1* (April 2026), auf dem sie Worship-Songs in Punkrock-Versionen spielte. Produziert haben ihr langjähriger Produzent *Blake Cross* und *Ross Black*; im Kreativteam sind außerdem *Josiah Prince* (*Disciple*) und *Adam Agee* (*Stellar Kart*), die mit ihr *All Stars* geschrieben haben. Es geht um Heilung, Zugehörigkeit und mentale Gesundheit, gerahmt von der Schuljahres-Metapher, und um die Erfahrung, sich zu Beginn der Karriere Bestätigung an den falschen Orten gesucht zu haben. „Im zweiten Jahr ist man noch neu, aber man gewinnt Zutrauen und Halt in dem, wer man ist“, sagt sie. Zu den Stücken gehören *Feels Like High School Again*, das „Schnellfeuer-Rockstück“ *Fire Drill*, der „selbstbewusste Rock-Brecher“ *Jericho*, *Make Believe* (gewidmet Christian-Rock-Veteranen wie *Hawk Nelson*), *I’m Trying*, *Misfit*, *All Stars* und *Full Circle*. **Pop Punk**, christlich geprägt. Ein Album über das Ankommen bei sich selbst.
 
-::genre::
+::genre::pop punk
 
 ### Grand Harvest - Home
 
-tbd
+Der Tod als schönste Heimat: *Grand Harvest* aus Malmö, eine „necrosophische“ Black-/Death-Metal-Band, legen mit *Home* ihr zweites Album vor, erschienen bei *Silent Future Distribution*, nach dem Debüt *Consummatum Est* (2022). Textlich geht es um den Todesengel, die Heiligkeit des Todes und den Tod als letztes und schönstes Zuhause, philosophisch und poetisch gehalten, gesungen von *Dr. Häll*. Gemischt und gemastert hat *Tore Stjerna*. Sieben Stücke in gut 42 Minuten: *Dawnwaster*, *Enter Azrael*, *Agios Thanatos*, *The Abyss of Your Arms*, *Hope Was Her Name*, *The Scythe and the Silence* und *Home*. **Blackened Death Metal** und **Doom Metal**: ein Death Metal, der mit einem Fuß im Grabschmutz des Black Metal steht, mit schwerem Riffing und Melodien, die von der nördlichen Wildnis inspiriert sind, düsterer und direkter als auf dem Debüt. Ein Album, das den Weg nach Hause ruhig geht.
 
-::genre::
+::genre::blackened death metal, doom metal
 
-### Grób - Ikonoklasta
+### Générique Mardi - Diane *
 
-tbd
+Von „Ich“ zu „Du“: *Générique Mardi* aus Toulouse, ein queeres Duo (*Juliette Pym*, Bass, Synthesizer, Gesang; *Bonella Holloway*, Synthesizer, Drumcomputer, Gesang), seit Ende 2022 zusammen, machen auf ihrem zweiten Album *Diane* den Schritt vom Ich-Album *Rebecca* (2024, *AB Records* und *Cœur sur toi*) zu einem Album, das Begehren behauptet. Der Titel meint zweierlei: Diana, die Göttin der Jagd und des Krieges, die sich Männern sexuell verweigert, und die rätselhafte Gesprächspartnerin von Special Agent Cooper in *Twin Peaks*, die weder Körper noch Stimme hat und nur in den Projektionen des Detektivs existiert. Es geht um Selbstbehauptung, toxische Beziehungen und die Fallen der Liebe, Wut als Kraftquelle, Schwesterlichkeit, sexuelles Begehren sowie Partyexzesse und Drogen; „Just say what you mean“ ist der Leitgedanke. Erschienen ist das Album als Koproduktion von *Carpaccio Cathédrale*, *Carton Records* und *La République des Granges*, aufgenommen hat das Duo selbst, gemischt hat *Manuel Duval*, gemastert *Viviane Lafay*, das Artwork stammt von *Marion Jdanoff*. Acht Stücke in gut 39 Minuten: *The Flood*, *Boundaries*, *Make Believe*, *Toxicité*, *My Inner Slut*, *Diane*, *Sister Rivalry* und *Yellow Tiles* (fast neun Minuten). **Post Punk**, **Cold Wave**, **No Wave** und **Spoken Words**: bassgetriebene Songs mit kalten Post-Punk-Melodien, New-Wave-Synthesizern, kühlen Disco-Texturen und gelegentlichem Dreampop. Sag, was du meinst.
 
-::genre::
-
-### Générique Mardi - Diane
-
-tbd
-
-::genre::
+::genre::post punk, cold wave, no wave, spoken words
 
 ### Hagel - The Veil Of Shadows
 
-tbd
+Gegründet 1995, aufgelöst 2000, wiederbelebt 2014: *Hagel* aus Monterrey in Mexiko haben Geduld, und mit *The Veil Of Shadows* legen sie nach dem Debütalbum *Veneration of the Black Light* (2021) ein neues Mini-Album vor, erschienen bei *Personal Records*. Ursprünglich gründeten *Carlos Velázquez* (Gitarre), *Luis Galindo* (Keyboards, Gesang), *Fernando Galindo* (Bass) und *David Benavides* (Schlagzeug) die Band im Underground Nordmexikos; nach Galindos Weggang löste sie sich auf, Velázquez holte sie 2014 mit neuer Besetzung zurück, Galindo kehrte 2018 noch einmal zurück und ging 2023 wieder. Seit 2024 singt *Iveth Herrera*, an den Gitarren steht *Iván Saldaña*. Fünf Stücke in gut 21 Minuten: *The Withering Tongues*, *Flesh Of The Gods*, *Effluvium*, *Obsidian Mirrors (The Veil Of Shadows)* und das knapp zweiminütige *Echoes From Beyond The Veil – Chaconne in D Minor*. **Blackened Doom Metal**, dunkle Melodien und dichte Atmosphäre. Geduld wird belohnt, wenn auch in Mini-Format.
 
-::genre::
+::genre::blackened doom metal
 
 ### Hannes Grossmann - Worlds Beyond The Sun
 
-tbd
+Der Mann, der sonst hinter dem Schlagzeug von *Necrophagist*, *Blotted Science*, *Obscura*, *Alkaloid*, *Hate Eternal* und *Triptykon* sitzt, außerdem bei *Eternity’s End*, macht auf *Worlds Beyond The Sun* wieder sein eigenes Ding: *Hannes Grossmann* aus Nürnberg, Schlagzeuger, Autor und Produzent, nimmt auch dieses Soloalbum in seinem eigenen MordorSound Studio in Nürnberg auf, mischt und masteriert es dort. Acht Stücke in gut 39 Minuten, alle mit Text: *The Arcane Fire*, *Watcher Of The Dark*, *Hail To The Source*, *The Backwards Clock*, *Worlds Beyond The Sun*, *Shelters Into Shrines*, *Darkness Calls A Darkness Coming From Within* und das achteinhalbminütige *The Final Covenant*, in dem ein Zitat von *Aleister Crowley* auftaucht. **Technical Death Metal** und **Progressive Death Metal**. Wer *Necrophagist* vermisst, wird hier fündig.
 
-::genre::
+::genre::tech death metal, prog death metal
 
 ### Hatebreed - Fatal Paradox
 
-tbd
+Sechs Jahre nach *Weight of the False Self*, die bislang längste Pause der Bandgeschichte: *Hatebreed* aus Connecticut legen mit *Fatal Paradox* ihr neuntes Studioalbum vor, ihr erstes beim Label *BLKIIBLK*, produziert von *Chris „Zeuss“ Harris*. Die Besetzung hat sich verändert, Bassist *Chris Beattie* verließ die Band im November 2024, und Gitarrist *Wayne Lozinak* erholte sich 2025 von einem Hirntumor. Elf Stücke in gut 35 Minuten, zehn eigene und ein Cover: *Kill Count Increase*, *The Carrion Choir*, *Decisions Become Destinies*, *Total Invincible*, *Fatal Paradox*, *Still A Threat*, *Sacrifice Season* (mit *John Tardy* von *Obituary*), *Truth Is A Lion*, *Make The Demons Obey*, das gut sechseinhalb Minuten lange *None Left To Save* und *Poison Planet*, eine Coverversion von *Corrosion of Conformity*. Die Kritik nennt es das wohl heftigste Album der Bandgeschichte, mit Thrash-Core-Aggression, schweren Breakdowns und einem *Jamey Jasta*, der nie kraftvoller klang. **Metallic Hardcore** und **Hardcore Punk**. Wer Hatebreed sagt, meint immer noch: nicht unterkriegen lassen.
 
-::genre::
+::genre::metallic hardcore, hardcore punk
 
 ### Hayden - The Recent Past
 
-tbd
+Jeder Song begann an einem Klavier aus den Vierzigern: *Hayden*, Songwriter aus Ontario, 1995 mit *Everything I Long For* gestartet (damals auf Tour mit den *Cowboy Junkies*), legt mit *The Recent Past* sein zehntes Album vor, erschienen bei seinem eigenen Label *Hardwood Records*, das er 1994 für seine erste Kassette gegründet hatte. Eine knapp zehnjährige Pause endete 2023 mit *Are We Good*. Das Heintzman-Klavier steht seit über 25 Jahren im Ferienhaus der Familie in Grey County, aufgenommen wurde in seinem Heimstudio Skyscraper National Park in Toronto, produziert hat Hayden selbst, gemischt hat *Tom Schick* (bekannt von *Wilco*, *Jeff Tweedy*, *Mavis Staples* und *Willie Nelson*). Zu hören sind Mellotron, stark bearbeitete Live-Drums, ein *McCartney*-hafter Bass und gelegentlich schroffe E-Gitarren; der Klang ist organisch, voll und durchsichtig, zeitlos statt retro. Die Themen reichen laut Biografie von verlorener und gefundener Liebe bis zu Bärenangriffen und Einbrüchen, kleine Geschichten und Details, die andere meiden, autobiografisch, mit trockenem, selbstironischem Ton und ruhig-distanziertem, mal lässig genuscheltem Gesang. Die erste Single *Time Has Been More Kind* ist ein Country-Stück mit *Adam Hindle* (Besen-Schlagzeug), *Miranda Mulholland* (Fiddle), *Matt Kelly* (Pedal Steel) und *Ben Whitely* (Kontrabass), „das countryhafteste Stück, das ich je aufgenommen habe“, sagt Hayden; es erzählt vom Tag, an dem *Johnny Cash* starb, und scherzt über die Gerüchte von 2010, er selbst sei gestorben, ein Auftritt von *Ray Price* im Vorprogramm von *Willie Nelson* 2009 in der Massey Hall stand Pate. Elf Stücke in gut 42 Minuten: *This Beautiful Day*, *Bombs Away*, *Stardust Or Avalon* (Beatles-haft, vom Bass getragen), *Outta Nashville*, *Field Of Lovers*, *Come For Us*, *Small Town Airport Restaurant*, *Time Has Been More Kind*, *On My Mark*, das über sechsminütige *Makes No Sense* (Drumcomputer, Bass-Synthesizer, Pedal Steel und Tremologitarre, das psychedelische Zentrum des Albums) und *You’re The Only Reason*. **Indie Folk** und **Indie Rock**; die Kritik nennt es sein bisher abenteuerlichstes und vielschichtigstes Album. Dreißig Jahre, zehn Alben, kein Stress.
 
-::genre::
+::genre::indie folk, indie rock
 
 ### Headsend - A Delicate Balance
 
-tbd
+Live aufgenommen in Byron Bay: *Headsend*, ein australisches Trio aus den Brüdern *Rasmus* und *Kyuss King* und ihrem Schulfreund *Bon Soric*, legen mit *A Delicate Balance* ihre zweite EP vor, nach der Debüt-EP *Angel Glands* (März), erschienen bei *Republic Records* und produziert von *Nick DiDia*. Fünf Stücke, darunter die Single *Biopsy Of An Unknown Growth*, dazu *Free* und *Slayerish*, die schon vorher erschienen sind. „*A Delicate Balance* ist keine Geschichte und handelt nicht von irgendetwas, nur eine Sammlung verschiedener Gefühle“, sagt *Rasmus King*. **Hard Rock** voller Energie: Die Band hat 2025 eine ausverkaufte Australientour gespielt, mit *Tool* und *AC/DC* auf der Bühne gestanden und war zuletzt zum ersten Mal in Großbritannien, unter anderem beim All Points East. Gefühle, live eingefangen.
 
-::genre::
+::genre::hard rock
 
 ### Hello Shark - The River
 
-tbd
+Das erste Album unter dem Namen *Hello Shark* seit einem Jahrzehnt, das vierte überhaupt: *The River* ist das Werk von *Lincoln Halloran* aus Kittery, Maine, der 2018 aus Philadelphia wegging, sich mit Gelegenheitsjobs durchschlug und weder schrieb noch spielte. Die Lieder entstanden, nachdem er 2022 nach Maine zurückgezogen war, nach einem Krankenhausaufenthalt und in der frühen Phase seiner Nüchternheit; ein „Nüchternheitsalbum“ will er es nicht nennen, eher einen Rückblick auf Jahre in einem dunklen Tunnel, in denen er für die Menschen um sich herum nicht erreichbar war. Die Songs sind ehrlicher als früher, als er Namen und Details gern veränderte, es geht um Sehnsucht, Vermeidung und die Räume zwischen Menschen; das Titelstück ist der erste Song, der sein Leben in der Gegenwart beschreibt, mit *Francie Medosch* von *Florry* an den Harmonien. Produziert, aufgenommen und gemischt hat *Garrett Linck*, gemastert hat *Patrick Klem* bei Klemsound in Denver, erschienen ist es bei *Father/Daughter Records*. Zehn Stücke in gut 31 Minuten: *The River*, *In Hell*, *You Were Right*, *The Moon*, *Spot*, *Frog*, *Country Club*, *Sugar*, *Stars Above Your Head* und *Coming Down*. **Slowcore** und **Indie Folk**: slowcorige Weite und nachdenkliche Singer-Songwriter-Lieder. Ein ruhiges Album über einen langen Weg zurück.
 
-::genre::
-
-### Henry Courgette - Look Alive Coulshed
-
-tbd
-
-::genre::
-
-### Highest Torch - Fight Back
-
-tbd
-
-::genre::
+::genre::slowcore, indie folk
 
 ### Hogminister - Permeate
 
-tbd
+Loslassen, ohne zu vergessen: *Hogminister* aus Celje in Slowenien, nach eigener Aussage eine „Progressive-Rock-Gruppe von der sonnigen Seite der Alpen“, legen mit *Permeate* ein Album über Entscheidungen, Widersprüche und Erkenntnisse vor, die uns zu dem machen, was wir sind: über Veränderung und die Schwierigkeit zu erkennen, wann etwas seinen Lauf genommen hat, über die Angst vor dem Unbekannten und das Gewicht des Vertrauten. Vom Grübeln und inneren Ringen geht es hin zu Akzeptanz und neuer Richtung. Besetzung: *Luka Logar* (Schlagzeug, Gitarre, Gesang), *May Blazinšek* (Bass, Akustikgitarre), *Miha Andrenšek* (Gitarre) und *Rok Golavšek* (Gitarre, zusätzlicher Gesang, Ambient-Synthesizer); gemischt und gemastert hat *Roberto Bulešić*. Vorab erschienen *The Great Unknown*, *Coming Alive* und *High Enough*. Neun Stücke in gut 61 Minuten: *Coming Alive*, *The Great Unknown*, *Deep Blue*, *High Enough*, das dreizehnminütige *Settle for the Waves*, *Dandelion*, *Voyage*, *Down by the Water* und *The Golden Teacher*. **Progressive Rock** und **Alternative Metal**, atmosphärisch und gefühlsbetont. Eine Stunde Zeit zum Loslassen.
 
-::genre::
-
-### Honey Spider - Torture
-
-tbd
-
-::genre::
+::genre::prog rock, alt metal
 
 ### Horizon's End - Designs In Sadness
 
-tbd
+Eine der historischen Metal-Bands Griechenlands und noch immer mit Ambitionen: *Horizon’s End* aus Thessaloniki, 2019 reaktiviert mit dem dritten Album *Skeleton Keys*, legen nach *The Great Destroyer* (Mai 2023) mit *Designs In Sadness* nach. Besetzung: *Vassilios Topalides* (Gesang), *Kosta Vreto* (Gitarre), *Kostas Scandalis* (Bass), *Sakis Bandis* (Keyboards) und *Stergios Kourou* (Schlagzeug). Alle Musik, Texte und Arrangements stammen von *Bandis*, produziert und gemischt haben *Scandalis* und *Bandis*, gemastert hat *Scandalis* im Infinity Studio, das Artwork stammt von *Panagiotis Sifakis*. Neun Stücke in gut 52 Minuten: *Incision*, *Lethe*, *The Broken Men*, *Dark Nights And Darker Days*, *Higher Than Life*, *A Universe Upturned*, *Art Eaters*, *The Royal Mandate of Euphoria* und das gut achtminütige *Last Stroll*. **Power Metal** und **Progressive Metal**. Traurigkeit hat hier Design.
 
-::genre::
-
-### Humiliate - Belonging / On Contrition
-
-tbd
-
-::genre::
+::genre::power metal, prog metal
 
 ### Hyperion - Elysia
 
-tbd
+Ein Jahrzehnt nach dem gefeierten Debüt *Seraphical Euphony* (2016): *Hyperion* aus Stockholm melden sich mit *Elysia* zurück, erschienen bei *Willowtip*, laut Band „eine Explosion der Intensität in alle Richtungen“ und ein „titanischer Kraftakt“. Anders als das Debüt, aber mit den wesentlichen Zutaten. Aufgenommen wurde zwischen 2020 und 2023 in den Wing Studios, im Studio Forlorn Halls und an privaten Orten, gemischt und gemastert hat *Sverker Widgren* in den Wing Studios. Besetzung: *Erik Molnar* (Gitarre, Synthesizer-Programmierung, gesprochenes Wort), *Joel Hagroth* (Gitarre, gesprochenes Wort), *Mikael Malm* (Gitarre), *Raul Vicente* (Bass) und *Mauritz Flodin* (Schlagzeug, Orchestrierung). Gäste am Mikro sind *Johan Nephente* (*Nefarious Sacrament of the Immorals*), *Elias Lyxell* (*Fides Novem*), *Atterigner* (*Iliou Persis*) und *Karin Eriksson* (*Paraphrosynia*), dazu ein Schlachtchor auf *Iliou Persis*; für Gesang und kleine Textanpassungen war *Harry Lauraéus* zuständig. Das Artwork stammt von *Khaos Diktator*, für *Fides Novem* von *Jacob Fredén* und für *Paraphrosynia* von *Joan Llopis Doménech*. Zehn Stücke in gut 73 Minuten: *Rapturous Overture*, *Nefarious Sacrament of the Immorals*, *Fides Novem*, *Iliou Persis*, das über zwölfminütige *Paraphrosynia*, *Perennial Transcendence*, *Vigil of Longing*, *Epic of Tribulation*, *Epoch’s Eventide* und *The Primordial Wellspring*. **Melodic Black Metal** und **Melodic Death Metal**, episch und überbordend. Zehn Jahre Wartezeit, 73 Minuten Gegenleistung.
 
-::genre::
+::genre::melo black metal, melo death metal
 
-### Hypno5e - Trame Noire
+### Hypno5e - Trame Noire *
 
-tbd
+Eine Nacht, ein Mann, ein Trauma: *Hypno5e* aus Frankreich erzählen auf ihrem siebten Studioalbum *Trame Noire*, erschienen bei *Pelagic Records*, von einem Protagonisten, der sich in einer einzigen Nacht seiner Verletzung stellen muss. Der Titel bezieht sich auf ein französisches Konzept der Stadtbeleuchtung, bei dem die Nacht für nachtaktive Tiere dunkel bleibt. Die Band nennt ihren Stil „cinematic metal“, eine Mischung aus schwerer Musik, Avantgarde, Post-Rock, Samples und lateinamerikanischen Einflüssen; diesmal ist die Produktion wärmer und lockerer, mit weniger Samples und einem organischeren Klang, der sich an der psychedelischen Rockmusik der Siebziger orientiert. Besetzung: *Emmanuel Jessua* (Gitarre, Gesang), *Jonathan Maurois* (Gitarre), *Pierre Rettien* (Schlagzeug) und *Charles Villanueva* (Bass), und es ist das erste Album, das die Besetzung von Anfang bis Ende gemeinsam gemacht hat. „Jedes Album sollte seine Geschichte anders erzählen“, sagt *Jessua*. Fünf Stücke in gut 39 Minuten: *Lost Fires* (die Single, mit einem kurzfilmartigen Video), *Falmer*, *Molecular Angel*, *Bare Bones* und das fast zehnminütige *Trame Noire*. **Progressive Metal** und **Post Metal**. Kurz für Hypno5e, lang genug für eine Nacht.
 
-::genre::
-
-### Häxmästaren - Skuggor Del 1
-
-tbd
-
-::genre::
+::genre::prog metal, post metal
 
 ### I Helvete - Halla
 
-tbd
+Frost als Gestalt der Folklore: *i Helvete* aus Seinäjoki legen mit *Halla* ihr drittes Album vor, in Eigenregie und digital veröffentlicht, ein Konzeptalbum über vergangene Zeiten, in denen der Kampf mit der Natur zum Alltag gehörte. *Halla* ist finnisch für Frost und zugleich eine Gestalt aus der finnischen Volkssage, die mit ihrer Kälte die Felder zerstört; Cover und Songs hat der finnische Maler *Hugo Simberg* (1873–1917) inspiriert. Die Songs waren schon 2024 fertig, doch Besetzungswechsel verzögerten Produktion und Veröffentlichung. Besetzung: *Aleksi Mäkelä* (Gesang, Gitarre, Keyboards), *Manu Kujala* (Gitarre), *Iaroslav Korenskoi* (Bass) und *Teemu Siipola* (Schlagzeug), dazu *Janne Savela* (Percussion), *Harri Ala-Aho* (Waldhorn), *Nacho Gobbi* (Violine), *Gabo Agustin* (Saxophon) und *Oleg Pysarenko* (Akkordeon). Aufgenommen hat die Band selbst, gemischt und gemastert hat *Jari Prinkkilä*, das Cover stammt von *Orsolya Pintér*. Sechs Stücke in gut 34 Minuten: *Nälkätalvi* (finnisch für Hungerwinter; mit unheilvollen Glocken, rauer Stimme und scharfen Riffs), *Halla* (ein rumpelnder Brecher mit Riffs wie ein Dieselmotor), *Ikuinen Yö* (düster, nach der Hälfte wütend), das fast zehnminütige *Kaukana Kaukaisuudessa* (erkundend, es endet abrupt), das kürzere *Hiljaisuuteen* (mit dunkleren Keyboards) und *Päätösmatka* (Reue und Verzweiflung, mit Violine, Klavier und Vibraphon, einem großen Chor in den Refrains und Regen zum Schluss). Vorab erschienen *Nälkätalvi*, *Hiljaisuuteen* und *Päätösmatka*. **Melodic Black Metal** und **Melodic Death Metal**, atmosphärische Passagen im Wechsel mit der Intensität im Kern der Band, in der Gitarrenarbeit und im Umgang mit Raum erinnert die Kritik an *Insomnium*. Dunkel, schwermütig und auf Finnisch noch kälter.
 
-::genre::
-
-### ifa - Closure
-
-tbd
-
-::genre::
+::genre::melo black metal, melo death metal
 
 ### ill! - Fastcore aus der ersten Welt
 
-tbd
+Zwölf Songs, nicht einmal zehn Minuten: *ill!* aus Münster (*Steffo*, *Ben*, *Markus*, *Janoš* und *Manu*) liefern mit *Fastcore aus der ersten Welt* Fastcore mit klassischen Powerviolence-Elementen, tanzbar, gefährlich und augenzwinkernd, mit ständigem Ride-Becken und pointierten, gesellschaftskritischen Texten; der Titel verbeugt sich vor „Hardcore aus der ersten Welt“ von *Japanische Kampfhörspiele*. Neun Songs sind neu (*Geldschein*, *Haus um Vier*, *Kühlschrank*, *Litfaßsäule*, *Cholerik*, *Car Wash*, *Hirn Verbrauchen*, *Preisanstieg*, *Planet Abfall*), dazu kommen drei neu eingespielte Raritäten von Samplerbeiträgen: *Jeden Tag*, *Fliesentisch* und *Selber Schuld*. Aufgenommen und produziert hat die Band selbst am 5. und 6. Juli 2025 in der „Mühle der Freundschaft“, *Markus* hat aufgenommen und gemischt, *Alex* vom Raketenstudio hat gemastert, das Artwork stammt von *Maz*. Erschienen ist es als DIY-Koproduktion von *Spastic Fantastic Records*, *Loner Cult Records* aus Belgien und *Drinkin’ Beer In Bandanas Records* aus Budapest; die letzte Veröffentlichung war 2020 die Split mit *Turtle Rage*. **Hardcore Punk** und **Powerviolence**. Wer blinzelt, hat zwei Songs verpasst.
 
-::genre::
+::genre::hardcore punk, powerviolence
 
 ### In Spite Of Thunder - Collateral Damage
 
-tbd
+Herzschmerz, politische Ernüchterung, Angst und Trauer, in drei Stücken: Die französische Gothic-Komponistin, klassisch ausgebildete Sopranistin und Flötistin *Cathy Isot* aus Paris veröffentlicht als *In Spite of Thunder* die EP *Collateral Damage*. Zarte Klaviermelodien, eindringlicher Gesang, symphonischer Gothic Doom und akustischer Gothic Folk, inspiriert von Natur, gotischer Architektur und Reisen. Vier Jahre war sie Sopranistin und Managerin der Gothic-Doom-Band *Spell of Enchantress*, 2022 begann das Soloprojekt mit der symphonischen Single *Drama Queen*; als Einflüsse nennt sie *Theatre of Tragedy*, *Draconian* und *Evanescence*. Drei Stücke in gut 13 Minuten: *Collateral Damage* und *Ancient Wounds* (beide symphonischer Gothic Doom) sowie *Beyond the Shadows* (akustischer Gothic Folk). Musik und Texte von *Isot* und *Sermilion*, produziert haben *Sermilion*, *Kublai Kapsalis* und *Daniel Francis*. **Gothic Metal** und **Symphonic Metal**. Leise und schwer zugleich.
 
-::genre::
-
-### In Vain - Architects of Mayhem
-
-tbd
-
-::genre::
-
-### Influence - Vienna Hardcore
-
-tbd
-
-::genre::
-
-### Infortuno - Artefato da Falha Humana
-
-tbd
-
-::genre::
+::genre::gothic metal, symphonic metal
 
 ### Jaberdarwin - The Soft Collapse
 
-tbd
+Vier Musiker, die schon an den radikaleren Rändern der Gegenwartsmusik unterwegs waren, und kein einziger Sänger: *Jaberdarwin* aus London sind *Eraldo Bernocchi* (Gitarre; *Sigillum S*, *Metallic Taste of Blood*, *Obake*, Zusammenarbeit mit *Bill Laswell*, *Harold Budd*, *Iggor Cavalera* und *Merzbow*), *Colin Edwin* (Bass; *Porcupine Tree*, derzeit *O.R.k.*), *Tomas Järmyr* (Schlagzeug; *Motorpsycho*, *Zu*) und *Gareth Davis* (Bassklarinette; zeitgenössische Komposition, Experiment und Noise, unter anderem mit *Merzbow*, *Oiseaux-Tempête*, *Bernhard Lang* und *Peter Ablinger*). *The Soft Collapse* ist ihr Debütalbum, erschienen bei *Subsound Records*. Es verbindet die körperliche Schwere des Metal mit Dub- und Ambient-Raum, Jazz-Freiheit, Noise-Abrieb und dem Vokabular der Neuen Musik, nicht als Kompromiss, sondern als Kollision, in der sich die Kräfte gegenseitig umformen: Art Rock zwischen Dichte und Weite, Gewicht und Stille, „eine undefinierbare Musik für einen undefinierten Raum“. Aufgenommen hat *Alan Emptage* in den One Louder Studios, produziert und gemischt haben *Bernocchi* und *Edwin*, gemastert hat *Bernocchi*, das Cover stammt von *Petulia Mattioli*; alle Stücke sind von Jaberdarwin komponiert, und laut *Edwin* entstand abgesehen von etwas Schnitt alles ohne Vorbereitung. Sechs Stücke in gut 40 Minuten: *Arctic Anthill*, *The Soft Collapse* (knapp neun Minuten), *The Great Devourer*, *Skimism*, *Unmapped Currents* und *Tectonic Lullaby*. **Art Rock**, **Ambient**, **Dub** und **Instrumental**. Sechs Stücke, kein Wort.
 
-::genre::
+::genre::art rock, ambient, dub, instrumental
 
 ### James Blunt - Airplane Mode
 
-tbd
+„Yeah, that guy“: *James Blunt* nennt sich selbst den Beweis dafür, dass ein einziger Song reicht, und legt trotzdem sein achtes Album vor, *Airplane Mode*, erschienen bei *Atlantic*. Es geht um emotionale Höhen und Tiefen und den Umgang mit dem Druck des Lebens, weniger ums buchstäbliche Abschalten als ums Neuordnen dessen, was zählt. Der Opener *Circles* nickt Richtung britischem Rock der späten Neunziger und frühen Zweitausender (*Run* von *Snow Patrol* als Referenz), als Einflüsse nennt Blunt *Coldplay* und *David Gray*. Zwölf Stücke in gut 49 Minuten: *Circles*, *Time To Time*, *Modern Love* (gut zehn Minuten, wehmütig), *Tastes Like Summer*, *Weight Of It All* (die Single, mit glänzender Pop-Produktion, Akustikgitarre und weit ausholenden Streichern), *Reason To Die*, *Hey, People*, *In Your Blood*, *Leftover Time*, *Dancing In My Head*, *Oh, Daisy* (flott, mit Stampfen und Klatschen, während der Text von einer zerbrechenden Beziehung erzählt) und zum Schluss *This Is Not Forever* mit Wonderwall-artig geschrammelten Gitarren und anschwellenden Streichern, über die Enttäuschungen des Lebens und das Vergehen von Schmerz. **Pop Rock** und **Folk Pop**, von poliertem Pop-Rock bis zu warmem, akustisch getragenem Folk. Ein Album mit mehr als einem Song.
 
-::genre::
-
-### Jeris Johnson - Butt Rock Billionaire
-
-tbd
-
-::genre::
-
-### Joe Satriani, Steve Vai - SatchVai: The Sea of Emotion
-
-tbd
-
-::genre::
+::genre::pop rock, folk pop
 
 ### John Sykes - One Way
 
-tbd
+Was bleibt: Die EP *One Way* sind vier Stücke des Gitarristen *John Sykes* (*Tygers of Pan Tang*, *Thin Lizzy*, *Whitesnake*), der im Januar 2025 mit 65 Jahren nach einer Krebserkrankung starb. Erschienen ist sie bei *Golden Robot Records*, die Aufnahmen gelten laut Label als einige seiner letzten bekannten, entstanden in seiner Zeit bei dem Label; vorab kamen *My Guitar* (Februar 2026) und *Believe In Yourself* (Juni 2026) heraus. Das Label verspricht „abhebenden Gesang und elektrisierendes Gitarrenspiel“ und „zutiefst persönliche Songs“. Die Familie und der Nachlass erklären, sie hätten die Veröffentlichung des unfertigen Materials nicht genehmigt, Sykes habe das Label 2019 wegen Vertragsproblemen verlassen; das Label sagt, die Veröffentlichung von *My Guitar* sei durch seinen Aufnahmevertrag gedeckt. Sein für 2019 geplantes Album *Sy-Ops* blieb unveröffentlicht. **Hard Rock**.
 
-::genre::
+::genre::hard rock
 
-### Jonathan Perkins - FAKE SYK
+### Jozef Van Wissem, Jim Jarmusch - Bocca di Lupo and Mouth of the Wolf *
 
-tbd
+Zwei Alben, ein Gruß aus Bologna: Der Lautenspieler *Jozef Van Wissem* und der Filmemacher *Jim Jarmusch* haben *Bocca di Lupo* und *Mouth of the Wolf* im Juli 2025 in den Fonoprint Studios in Bologna aufgenommen, die an der Via Bocca di Lupo liegen, daher der Name; „In bocca al lupo“ ist der italienische Glückwunsch, ähnlich wie „Hals- und Beinbruch“. Die Sessions folgten auf Konzerte in New York und Chicago und gingen einer kurzen Europatournee voraus, mit Dank an die Cineteca di Bologna, die die Studiotage ermöglichte. Beide Alben erscheinen gemeinsam bei *Sacred Bones Records*, wobei *Mouth of the Wolf* musikalisch eigenständig ist und eigene Hülle und eigenes Artwork hat. Neun Stücke in gut 72 Minuten: *Only Lovers Left Alive* (neue Version eines eigenen Stücks), *Never Like You Said* (mit Gastgesang von *Courtney Barnett*), *Apology* (neue Version eines früheren Stücks von Jozef), *Black Roses* (ein rezitiertes Gedicht über der Musik), *On Twofold Nature*, *Pour Deux Femmes* (mit einem beiläufig aufgenommenen Gespräch im Hintergrund) und *In Bocca Al Lupo*, dazu auf dem zweiten Album *In A - Mouth of the Wolf* (knapp 13 Minuten) und *Massa Damnata - Mouth of the Wolf* (knapp 18 Minuten) für zwei E-Gitarren und ohne Gesang. **Drone** und **Avant-Garde Folk**, Laute, Gitarre und Minimalismus. Hals- und Beinbruch auf Italienisch.
 
-::genre::
-
-### Josh Burke - Dovesongs
-
-tbd
-
-::genre::
-
-### Jozef Van Wissem, Jim Jarmusch - Bocca di Lupo
-
-tbd
-
-::genre::
+::genre::drone, avant folk
 
 ### Just South of Antarctica - Brace for Impact
 
-tbd
+Zwei Jahre Arbeit auf einer Platte: *Just South of Antarctica* (*JSOA*) aus Paducah, Kentucky, legen mit *Brace for Impact* ihr erstes Album vor, eine Sammlung aus etwa zwei Jahren Arbeit, gewidmet der Szene von West-Kentucky, ohne die es nicht entstanden wäre. Aufgenommen und produziert hat *Shelby* im Loud & Clear Studios, das Artwork stammt von *Will Darnall*, alle Stücke hat die Band selbst geschrieben und aufgenommen. Acht Stücke in gut 27 Minuten: *Pry*, *Roadkill*, *143*, *Fortune*, *Blanket*, *Dead Man*, *Your Face* und *Decisions*. **Post Hardcore**, **Melodic Hardcore** und **Emo**, „wky post-hardcore“ nennt die Band es selbst. Wer hier ankommt, sollte sich festhalten.
 
-::genre::
-
-### KantalaSyndrooma - Aavan Suon Tuolle Puolen
-
-tbd
-
-::genre::
+::genre::post hardcore, melo hardcore, emo
 
 ### Kavrila - Transcend
 
-tbd
+Ein rohes, emotionales Album über Verwandtschaft, Verlust und Wiedergeburt: *Kavrila* aus Hamburg, Anfang 2016 als Vierer gegründet, führen auf ihrem dritten Album *Transcend* ihren „Doom-Punk“ in noch unerbittlicheres und dynamischeres Terrain, mit neuen Texturen und Einflüssen aus dem gesamten Spektrum schwerer Musik; als Bezugspunkte nennt die Band *Converge*, *Gallows*, *Neurosis*, *Trap Them* und *Fjørt*. Es geht durch Trauer, Verrat und Heilung, eine kathartische Reise zwischen totaler Zerstörung und neuer Hoffnung. Erschienen ist es bei *Supreme Chaos Records*; alle Songs und Texte stammen von *Kavrila*, produziert haben *A. Filippou* und *M. Karanastassis*, aufgenommen, gemischt und gemastert hat *Hauke Albrecht* im Studio Altona in Hamburg, das Cover stammt von *Gordiart*, das Artwork von *B. Feddern*. Elf Stücke in gut 42 Minuten: *Kinship*, *Domino*, *Heavy Breathing*, *Exhume*, *Defaced*, *Tenacity*, *Sway*, *Detention*, *The River*, *Cleansing* und *A Friend*. **Doom Metal** und **Post Hardcore**. Musik für alle, die bereit sind, in den Abgrund zu schauen.
 
-::genre::
+::genre::doom metal, post hardcore
 
 ### King Satan - Black Magick Abraxas
 
-tbd
+„Death-Metal-Disco“ nennt *King Satan* aus Finnland den eigenen Sound: *Black Magick Abraxas* erscheint über *Blood Blast Distribution* von *Nuclear Blast*, nach den Alben *Occult Spiritual Anarchy* und *The Devil’s Evangelion*. Bandkopf ist *King Aleister Satan*, an Keyboards und Gesang steht *Hekate „Kate“ Boss*, auf dem Opener *Black Magick Rock ’N’ Roll*, einer Mischung aus Industrial Metal und Bluesrock, ist *Erja Lyytinen* als Gast zu hören. Die erste Single *Light of Darkness* sei „Industrial Metal für Leute, die Industrial Metal nicht mögen“, sagt die Band, wahrscheinlich sei es gar kein Industrial. Einflüsse reichen von symphonischem Metal über klassische Musik bis zu religiösen Hymnen, Themen sind schwarzer Humor und „die Schöne und das Biest“; das Cover stammt von *M. T. Salminen*. Titelliste: *Black Magick Rock ’N’ Roll*, *Light of Darkness*, *Fire in the Hole*, *Hate Me Baby*, *Abraxas Rising*, *Far Beyond Good and Evil*, *The Devil Made Me Do It*, *Down by the Sins* und als Bonusstück *Ride the Lion*. **Industrial Metal**. Dinge müssten nicht unbedingt Sinn ergeben, sagt die Band.
 
-::genre::
+::genre::industrial metal
 
 ### Kings of Leon - O My Beloved
 
-tbd
+Ein verletzter Fuß, ein Tag Fangenspielen mit den Kindern und plötzlich ein Akustikalbum: *Caleb Followill* konnte nach dem Unfall nicht reisen, die Europadaten fielen aus, und er begann Akustiksongs zu schreiben, im Stil dessen, was er und Schlagzeuger *Nathan Followill* vor der Bandgründung geschrieben hatten; vier oder fünf elektrischere Stücke legte die Band beiseite. *O My Beloved* ist das zehnte Studioalbum von *Kings of Leon* (*Caleb*, *Nathan* und *Jared Followill* sowie ihr Cousin *Matthew Followill*), ihr erstes komplett selbst produziertes, der Vorgänger *Can We Please Have Fun* (Mai 2024) stammte von *Kid Harpoon*; erschienen ist es bei ihrem Label *Love Tap Records* mit *Virgin Music*. Es geht um Familie, Kindheitserinnerungen, Dankbarkeit und die gemeinsame Geschichte, der Klang ist reduziert und akustisch geführt. Die erste Single *My Whole World* hat ein Video aus Familien-Heimvideos der Bandmitglieder. Dreizehn Stücke in knapp 50 Minuten: *Intro*, *My Whole World*, *Cold Blue Dawn*, *The Hand*, *Rose*, *Make It Count*, *KOYSAR*, *Feel The Love*, *Blue Jeans and Diamonds*, *Warm Company*, *Forever Endeavor*, *Pretty Thing* und *Get You Down*. **Alternative Rock** und **Indie Rock**. Ein verstauchter Fuß als Kreativprogramm.
 
-::genre::
-
-### Klaiton - A Celebration Of Pain
-
-tbd
-
-::genre::
+::genre::alt rock, indie rock
 
 ### Kolman & Calvert - The Pink Carnage Of Cartilago
 
-tbd
+Gitarre und Stimme, mehr braucht es nicht: *Kolman & Calvert* sind die Gitarristin *Susanna Calvert* aus Oslo und die Sängerin *Trine Åshildsdatter Kolmannskog* aus Trondheim, ein norwegisches Duo seit 2023, das sich aus der langjährigen Zusammenarbeit in der Prog-Rock-Band *Enmesher* kennt. *The Pink Carnage of Cartilago* ist ihr Debütalbum, erschienen bei *Apollon Record*, vom Duo allein gespielt und zwischen 2023 und 2025 mit Toningenieur und Produzent *Marius Gengenbach* aufgenommen. Polyrhythmische Strukturen und Einflüsse aus verschiedenen Genres, von verhaltener Intimität bis zu viszeraler Wucht, mit Anklängen an Kabarett, Oper, Prog und Punk. Neun Stücke in gut 40 Minuten: *The Pink Carnage of Cartilago*, *Kain*, *Dawn*, *God*, *Worms and Germs*, *Conrad*, *Music Man*, *Night Train* und *Wife*. **Progressive Rock**. Mehr Besetzung braucht es nicht.
 
-::genre::
+::genre::prog rock
 
 ### Konvent - Firesky
 
-tbd
+Fünf Stücke, vier davon zwischen knapp acht und fast zwölf Minuten: *Konvent* aus Kopenhagen (*Rikke Emilie List*, Gesang; *Heidi Withington Brink*, Bass; *Julie Simonsen*, Schlagzeug; *Amira Liv Hernan*, Gitarre und Backing Vocals) legen mit *Firesky* ihr drittes Album bei *Napalm Records* vor und öffnen den Doom Death diesmal deutlich zum Black Metal hin. Das Album beginnt mit *Exorcise* (neun Minuten, langsam und brutal, im letzten Drittel explodierend), dann folgen *Scorning* und *In the Unknown* (fast zwölf Minuten), das Titelstück *Firesky* mit *Mai Soon Young Øvlisen* als Gast und klaren Passagen, die durch die Schwere schneiden, und das knapp dreiminütige *Postludium*. Produziert und aufgenommen hat *Jacob Bredahl* in den Antfarm Studios, gemischt bei Dead Rat Studios, gemastert hat *Brad Boatright* bei Audiosiege, das Cover stammt von *Nona Limmen*, die Fotos von *Martin Goltermann*. **Death Doom Metal**. Fünf Stücke, gut 41 Minuten, kein Platz für Eile.
 
-::genre::
+::genre::death doom metal
 
-### Lammping - So What, So What?
+### Lammping - So What, What? *
 
-tbd
+Ein Projekt, das davon ausgeht, dass Musik über Zeitlinien hinweg existieren kann: *Lammping* aus Toronto, gegründet von *Mikhail Galkin* und *Jay Anderson*, mischen heavy Psychrock, Hip-Hop, klassisches Songwriting und experimentelle Collage, und *So What, What?* ist laut Band der klarste Ausdruck dieses Ansatzes. Gebaut aus Fragmenten von Erinnerung, Einfluss und gelebter Erfahrung, bewegt es sich zwischen gesampelten Texturen, persönlichen Geschichten und abenteuerlichem Songwriting, mit Einflüssen von sowjetischen Aufnahmen bis zu Golden-Age-Hip-Hop; die Themen sind Familie, Elternschaft und der gegenwärtige Moment. Gäste sind *Marker Starling* auf *Those Silver Skies* und *Dorothea Pass* auf *Blushing In Your Sleep*; erschienen ist es bei *We Are Busy Bodies*. Fünfzehn Stücke in gut 45 Minuten: *The Set*, *Criminal Against Nature*, *Green After Green*, *Those Silver Skies*, *Luxury Prayer*, *Dancers At Noon*, *I Certify*, *Feeling Mean*, *Blushing In Your Sleep*, *Turn Around Boat*, *Ex-Harmony*, *Listen To The Water*, *Wasted Nights*, *Of My Head* und *What Time Is It, Again*. **Psychedelic Rock** und **Experimental Rock**. Ein Album ohne feste Jahreszahl.
 
-::genre::
-
-### Le Schiene Di Schiele - abbiate fede
-
-tbd
-
-::genre::
+::genre::psych rock, experimental rock
 
 ### Les Chants De Nihil - Graines
 
-tbd
+Zurück ins Theater des Exzesses: *Les Chants de Nihil* aus der Bretagne, 2007 als Ventil des Komponisten *Jerry* (*David Loisel*) gegründet, der Energie aus den umliegenden Landschaften zog, legen mit *Graines* („Samen“) den Nachfolger von *Propagande Érogène* vor, erschienen bei *Les Acteurs de l’Ombre Productions*, einem Verein von Ehrenamtlichen, der Bands vorstellt, „die meist aus dem Nichts kommen“. Wie auf dem Vorgänger, einem satirischen, metapolitischen Konzeptalbum, in dem jedes Mitglied eine Figur spielte, geht es in dieses theatralische Setting zurück, mit Exzess und Surrealismus. Davor gab es das Debüt *La Liberté Guidant le Fer* (um 2010) und 2015 *Armor*, ein persönlicheres Album mit Gedichten über Nostalgie, Begehren, Einsamkeit und Freundschaft. Die drei „Graines“-Stücke: Teil I, *L’imprégnation* (gut acht Minuten, sinnlich und elementar, über Wasser, Erde und Natur), Teil II, *Le Temps Suspendu* (knapp zwei Minuten Zwischenspiel), und Teil III, *L’étincelle primale* (fast zehn Minuten über Zeit, Schicksal und Universum, am Ende das Bild zweier Menschen, die gemeinsam der Entropie begegnen). Die übrigen Stücke handeln von Begehren und Körper und von der Ausbeutung der Natur durch den Menschen, etwa durch Ölförderung. Besetzung: *Jerry* (Gesang, Gitarre, Keyboards, Chöre), *Sistre* (*Thomas Simonin*, Schlagzeug), *ÖberKommander 666* (*Youenn Autret*, Bass) und *Mist* (Gitarre); gemischt und gemastert hat *Nerik* (*Eric Hemery*), das Layout stammt von *Sauge Noire*, die Promofotos von *Aurélie Parramon*. Sieben Stücke in gut 43 Minuten: *Ignares*, *Saigner*, *Garnies*, *Regains*, *Graines I - L’imprégnation*, *Graines II - Le Temps Suspendu* und *Graine III - L’étincelle primale*. **Melodic Black Metal**. Theater, Exzess und Entropie, alles auf Französisch.
 
-::genre::
+::genre::melo black metal
 
 ### Library Card - Peeling an Orange in Just One Go
 
-tbd
+Ein erstes Album, das sich nicht mehr nach Anfang anfühlt: *Library Card* aus Rotterdam (*Mitchell Quitz*, Gitarre und Effekte; *Kat Kalkman*, Bass; *Emre Karayalçin*, Schlagzeug; *Lot van Teylingen*, Gesang und Texte) haben sich im Sommer 2021 aus Freunden der engen Rotterdamer Szene zusammengefunden, und nach der Debüt-EP *Nothing, Interesting* (2024) ist *Peeling an Orange in Just One Go* ihr Debütalbum, erschienen bei *At Ease*. „Wir fühlen uns nicht mehr wie eine neue Band, und doch ist es unser erstes Album“, sagt *Kalkman*. Der Titel stammt aus einer Zeile in *Breakfast of Champions* und meint einen „nutzlosen Sieg“, der trotzdem Freude macht, wenn er gelingt; die ersten Schlagzeugtakte des Stücks wurden über die Gegensprechanlage des Proberaums aufgenommen, aufgenommen hat *Daan Duurland*. Es geht um Großstadtangst, selbst auferlegten Druck, die Absurdität des Erwachsenenlebens, Misogynie und Gewalt gegen Frauen und das Überstehen der Nach-Pandemie-Zeit; Humor ist für *van Teylingen* eine Art Überlebenstechnik, und Schreiben solle viele Perspektiven zeigen. Zu den Stücken: *Sisyphus* sucht Freude im Kleinen mitten in der globalen Krise, *People Pleaser* baut sich aus Plattitüden zu lärmender Not auf und endet in einem Urschrei, *Every Ten Minutes* verweist darauf, wie oft am Tag ein Femizid geschieht, *Temperance* hat eine angespannte, unheimliche Ruhe mit schlingerndem Bass, *One Week of Staring at the Ceiling* ist ein flaues Trip-Hop-Slowcore-Stück und *Dog Barking in the Distance* der atmosphärische Schluss. Die erste Single *Out of Context* (mit Vibraphon) handelt davon, sich als Außenseiter zu fühlen, weil sich die traditionellen Meilensteine des Erwachsenseins verändert haben; vorab erschienen außerdem *People Pleaser* und *Breakfast of Champions*. Zehn Stücke in gut 40 Minuten: *Sisyphus*, *Out of Context*, *No Backups*, *Breakfast of Champions*, *In the Air*, *People Pleaser*, *Every Ten Minutes*, *Temperance*, *One Week of Staring at the Ceiling* und *Dog Barking in the Distance*. **Art Punk**, **Noise Rock** und **Post Punk**, mit Post-Rock-, Slowcore- und Trip-Hop-Anklängen; als Einflüsse nennen die Mitglieder von *Sunny Day Real Estate*, *Braid*, *Mineral* und *Rainer Maria* über die *Beatles*, *Queen* und *Genesis* bis zu *Deerhunter*s *Halcyon Digest*. Ein Album, das Wut und Witz nebeneinander stehen lässt.
 
-::genre::
+::genre::art punk, noise rock, post punk
 
 ### Liminal Spirit - Forfeiture Hymns
 
-tbd
+Séance-Musik von einem ruhelosen Geist: *Liminal Spirit* ist das Soloprojekt des Multiinstrumentalisten *Jerry Hauppa* aus Milwaukee (früher *Northless*, *Ara* und *Deorbit*), und *Forfeiture Hymns* ist die vierte Veröffentlichung, ohne Label. Jedes Stück trägt den Namen und das Todesdatum einer Person, von *A Mother’s Instinct* (Catherine Hastings, gestorben 1937) bis *The Parting Glass* (Madeline Hastings-Everett, 2025), und erzählt von den Generationen einer Familie; das letzte Stück, *Four* (Constance Greene, geboren 2026), ist knapp eine Minute lang und instrumental. Alle Musik hat *Hauppa* geschrieben, aufgenommen und gemischt, gemastert hat *Jeff Wojtysiak* bei Spiral Sound Mastering, das Cover stammt von *James Becker*, die mikrotonale Gitarre auf sieben Stücken von kiteguitar.com. Elf Stücke in gut 48 Minuten: *A Mother’s Instinct*, *Unwanted*, *The Initiate*, *Three*, *Apoptosis*, *Ensnarer’s Lament*, *Two*, *Do No Harm*, *Sins of the Father*, *The Parting Glass* und *Four*. **Doom Metal** und **Avant-Garde Metal**, mit *Shape of Despair*, *Godflesh*, *Jesu* und *Nine Inch Nails* als Bezugspunkten. Düster, ruhig und mit langem Atem erzählt.
 
-::genre::
+::genre::doom metal, avant metal
 
 ### Lockslip - The Conversation
 
-tbd
+Das Debütalbum eines kalifornischen Quintetts, das schnell zur Sache kommt: *Lockslip* aus Los Angeles (mit Sängerin *Sara G.*) legen mit *The Conversation* ihr erstes Album vor, erschienen bei *Bleakhouse*, dem von *King Yosef* gegründeten Label; er eröffnet die Platte auf *Gray World* mit riesigen Vocals. Weitere Gäste sind *Kathryn Edwards* auf *Paradise Is Not for Us* und *Todd Jones* auf *Iconoclast*. Die Band klingt nach „Math-Punk-Metalcore“ aus Mathcore, Tech Death und Grind, mit wechselnden Taktarten und abrasiver, chaotischer Energie, dazu kommen Hardcore- und Industrial-Anteile; als Einflüsse werden *Converge*, *Car Bomb* und *Cult Leader* genannt, die Kritik vergleicht außerdem mit *Frontierer*, *Fawn Limbs*, *Full of Hell*, *Code Orange*, *Living Weapon* und *Gulch*. *Vengeance (You’ll Be Seen by Your God)* hat höhnische Vocals wie *Converge* zu *Jane Doe*-Zeiten, *Rattle of Death* und *Iconoclast* haben stählerne Breakdowns, *Speak Without Words* hackt und walzt, *Paradise Is Not for Us* wechselt die Grooves, *I’m The Same* hat eine unerwartet melodische Seite, *Cut Out The Odds* zeigt am besten, wie die Band ihre Einflüsse mischt, und *End The Conversation* ist ein kathartischer, post-metal-naher Schluss mit gekreischten Vocals und *Harm’s Way*-Einfluss. Elf Stücke in gut 33 Minuten: *Gray World*, *Vengeance (You’ll Be Seen by Your God)*, *Rattle of Death*, *I’m The Same*, *Speak Without Words*, *Inglorious*, *Paradise Is Not For Us*, *Cut Out The Odds*, *Young*, *Iconoclast* und *End The Conversation*. **Metallic Hardcore** und **Mathcore**. Das Gespräch endet nach einer guten halben Stunde, laut und unmissverständlich.
 
-::genre::
+::genre::metallic hardcore, mathcore
 
 ### Lover - First Light
 
-tbd
+Zwei aus Naarm: *Lover*, ein Duo aus Melbourne, legen mit *First Light* ihr Album vor, laut Label ihr Debüt, erschienen bei *COHORT*. Geschrieben, gespielt, produziert und gemischt haben sie selbst, gemastert hat *Michael Vince Moin*. Zwölf Stücke in gut 41 Minuten: *Get/the//Scene*, *4leaf clover*, *Sword*, *Silver*, *Reason Two*, *Anchor*, *Bones*, *Faith*, *Wanted*, *First Light*, *Then Disappear* und *SHEEN*. **Dreampop** und **Indie Rock**. Alles selbst gemacht, bis aufs Mastering.
 
-::genre::
+::genre::dreampop, indie rock
 
 ### Low Rent Housing - Fast-Acting Sugar / Slow Motion Eternity / I Love You / Bye Bye Bye
 
-tbd
+Alles live auf Band, keine Overdubs: *Low Rent Housing* aus Tours (*Leo Howard*, Gesang, Gitarre, Bass; *Germain Guilbault*, Gitarre; *Simon „Dwyne“ Lépinay*, Bass; *Félix Favrioux*, Schlagzeug) nehmen alles am Stück auf, nur das Titelstück ist geschnitten. Erschienen ist es bei *Reverse Tapes*, dem Label aus Tours, und zwar in drei Fassungen: als Standardmix, als Rough Mix und als „Overload Master“, gemastert von *James Plotkin*. Produziert haben *Leo Howard* und *Thomas Poli*, das Titelstück zusammen mit *Lionel Laquerrière*, der auch den Standardmix gemastert hat; das Cover stammt von *JB Rouxel*, gewidmet ist das Ganze *Max* und *Henry*. „We tried our best, fuck you all“, heißt es im Begleittext. Acht Stücke in gut 23 Minuten: *Ugly Baby*, *Gut*, *Candy*, *Fast-Acting Sugar / Slow Motion Eternity / I Love You / Bye Bye Bye*, *Kill The Fascist Inside You, Or Don’t*, *I Wanna Sing Like Anya Davidson*, *Best Place* und *Gasoline*. **Noise Rock** und **No Wave**, Punk mit Dreck und Direktheit. Ein Titel, der länger ist als manches Stück.
 
-::genre::
-
-### Lucienne Renaudin Vary - On My Mind
-
-tbd
-
-::genre::
+::genre::noise rock, no wave
 
 ### Malignant Spirit - A Serpent To Devour, A Servant To Abhor
 
-tbd
+Die „Wächter des Triarchats“: *Malignant Spirit* aus Italien, ein Kollektiv von Musikern aus den Reihen von *Venomous Echoes*, *Sleep Paralysis* und *Veilburner*, geprägt von einer starken theatralischen Handschrift, auf mehreren künstlerischen Ebenen entwickelt. Die drei Mitglieder heißen *Oxydyz’r* (der, der zerstört und verändert), *Ossiculum* (der, der aus den Resten wieder aufbaut) und *The Obituist* (der, der das Ergebnis als Wahrheit festhält und nicht singt). *A Serpent To Devour, A Servant To Abhor* erscheint bei *I, Voidhanger Records* und ist für die Band extremer Metal ohne Genre-Etiketten, ein „Soundtrack des vollkommenen Grauens und der Konsequenz“, mit destabilisierenden Zyklen, wiederkehrenden Motiven und Höhepunkten, die offenbaren statt auflösen, dazu eingängige Riffs, ungewöhnliche Arrangements und unerwartete Rhythmen. „Under the Madonna, Moved by the Serpent, Held by the Axis“ steht in den Credits. Das Cover stammt von *Roberto Diaz*, das Logo von *Luciana Nedelea*, Art Direction und Layout von *Francesco Gemelli*. Neun Stücke in gut 58 Minuten: *Nulla Via, O’ Nisi Vulnus*, *To Bruise The Heel Of Malkuth...*, *The Inheritance Of Her Ruin*, *This Is The Mystery Of The Madonna*, *O’ Exile, Spirit Me Away*, *Wail! Wail! O’ Betrayal, Wail!*, *A Serpent To Devour*, *A Servant To Abhor* und das fast elfminütige *...Is To Crown The Wound That Will Never Heal*. **Avant-Garde Black Metal** und **Avant-Garde Metal**, dissonant, chaotisch und mit Anklängen an Death und Doom.
 
-::genre::
+::genre::avant black metal, avant metal
 
 ### Melpomene - New Queer Cinema
 
-tbd
+Zehn Minuten, ein Stück, ein Zuhause: Die Band *Melpomene* aus Minneapolis nennt *New Queer Cinema* eine EP, die sich zu einem einzigen langen Song verdichtet hat. Es geht um den Umzug vom Land in eine Stadt mit lebendigerer queerer und künstlerischer Kultur und darum, zum ersten Mal in einer Gemeinschaft ein Zuhause zu finden; gewidmet ist es der Bewegung des New Queer Cinema, Filmen, die Melpomene das Gefühl gaben, gesehen zu werden, und Mut machten, die eigene Gemeinschaft zu finden und viszerale Kunst gegen die vorgegebene Form zu machen. Als Filmbegleitung empfiehlt die Band *Nowhere* von *Gregg Araki*, *The Watermelon Woman* von *Cheryl Dunye*, *Happy Together* von *Wong Kar-wai*, *Y Tu Mamá También* von *Alfonso Cuarón*, *Paris Is Burning* von *Jennie Livingston* und *Blue* von *Derek Jarman*. Geschrieben und aufgenommen hat *Melpomene* selbst, das Gastsolo spielt *Mirii Landsem* von *Eudaemon*, gemischt und gemastert hat *Adam Tucker* im Signaturetone Recording, das Artwork stammt von *Nikki Marie Stagner*. **Blackened Death Metal**, **Post Metal** und **Instrumental**, „emotionaler Post-Death“ nennt die Band es selbst, Musik, die gewaltsame Katharsis und ihr mystisches Nachbeben nachbilden soll. Ein Zehnminüter kann ein Zuhause sein.
 
-::genre::
+::genre::blackened death metal, post metal, instrumental
 
 ### Mi von Ahn - Delta Veins
 
-tbd
+Träumerischer Indie Rock mit Wucht und warmer Melancholie: *Mi von Ahn* aus Umeå legt mit *Delta Veins* ihr drittes Album vor, mit Vergleichen zu *The War on Drugs*. Zum ersten Mal schreibt sie über mehrere Sprachen hinweg, auf Englisch, Schwedisch und mit Passagen auf Samisch. Alle Songs stammen von *Mi von Ahn*, sieben davon hat sie zusammen mit *Martin Hederos* und *Anton Sundell* komponiert; produziert haben alle drei, gemischt hat *Sundell*, gemastert hat *Simon Siöström*. Aufgenommen wurde im Studio Bruket in Stockholm und in ihrem Heimstudio in Umeå, die Fotos stammen von *Bea Holmberg*, Art Direction und Design von *Hugo Sundkvist*. Zehn Stücke in knapp 44 Minuten: *Closer*, *Yet all drifts*, *Wildfire*, *Varje gång vi hörs kan det va för sent*, *Delta*, *Hands*, *Interlude (Va ifrån)*, *Dadjat ii*, *Dadjat ii (II)* und *Sway*. **Dreampop** und **Indie Rock**, hell und dunkel zugleich.
 
-::genre::
+::genre::dreampop, indie rock
 
 ### Mikel Rouse - Don't Quote Terror
 
-tbd
+Sprache als instabiles Instrument: *Mikel Rouse*, Komponist, Regisseur und Performer aus New York, von der *New York Times* 2002 als „ein Komponist, den viele für den besten seiner Generation halten“ bezeichnet, legt mit *Don’t Quote Terror* ein Album vor, das von Spannung, Bruch und Vorwärtsbewegung geprägt ist, Musik, die einfache Schlüsse verweigert und doch in Song, Textur und Atmosphäre wurzelt. Stimmen, Instrumente und Studioeingriffe kollidieren, verschwimmen und tauchen in unerwarteter Form wieder auf; gesprochene Sprache dient als weiteres wackeliges Instrument, Gedankenfetzen, Erklärungen und Reflexionen schweben über elektronischen Texturen. Das Album erscheint zum 30. Jahrestag von *Dennis Cleveland* und begleitet das Buch *I Might Never Give Up: Lyrics 1980–2025*. Aufgenommen und gemischt wurde im Center of the Earth in New York von Mai bis August 2026, gespielt hat *Rouse* alles selbst, gemastert hat *Matt Agoglia* bei The Ranch Mastering. Neun Stücke in gut 43 Minuten: *Feather Ball*, *Columbo*, *Becoming*, *Malingering*, *Sound Dues*, *Bright White*, *Bullseye*, *Capture the Flag* und *Leftover Hits*. **Art Pop** und **Electropop**. Ein Jukebox-Musical, das das langweilige Herz bricht, sagt der Begleittext.
 
-::genre::
-
-### Mira Disconnect - Entangled
-
-tbd
-
-::genre::
-
-### Mists - Summoning Eternity
-
-tbd
-
-::genre::
+::genre::art pop, electropop
 
 ### Mittekill - Jungejungejunge
 
-tbd
+Ein Panoptikum aus Figuren: der rechtsradikalisierte Junge, der mit seinen „Kumpels“ auf die Jagd geht, der Immobilien-Investor, der Straßenzüge, Städte und sogar Gesetze nach seinen Vorstellungen formt, getrennte Eltern, die zwischen Verletzungen und Schuldzuweisungen einen Umgang miteinander finden müssen, und deutsche Auswander:innen, die mit mehr Privilegien als Verstand die Welt zu ihrem Wohnzimmer machen. Sie bevölkern *Jungejungejunge*, das zehnte Studioalbum von *Friedrich Greiling* alias *Mittekill* aus Berlin, erschienen bei *Rookie Records* aus Hamburg. Es ist ungewohnt persönlich, geht aktuelle gesellschaftliche und politische Probleme mal ernst, mal satirisch an und lässt den üblichen, beatlastigen elektronischen Sound weitgehend hinter sich zugunsten von Chanson und Indierock; der Titelsong ist eine Klavierballade, andere Stücke haben New-Wave-, Walzer- und Steeldrum-Anklänge. Gäste sind *Cheap Wedding* auf *Person Person* und *Drunk at your Wedding* auf *Jungejungejunge*. Zwölf Stücke in gut 38 Minuten: *Showdown*, *Das warst du*, *Person Person*, *Jungejungejunge*, *Deutsche Migrant:en*, *ILML*, *Der Gönner*, *Die Welt wird klein*, *Die Schlaufe*, *Getrennte Eltern*, *Zeitanarchie* und *Credits*. **Indie Rock** und **Power Pop**. Jungejungejunge, das wird eng.
 
-::genre::
-
-### Monastery - Revenge Is Mine
-
-tbd
-
-::genre::
+::genre::indie rock, power pop
 
 ### Moorah - The Beast Called Ego
 
-tbd
+Ein Wesen, das erst wie ein unterstützender Freund wirkt und dann mit Genugtuung den Untergang der Menschen beobachtet: Das ist das Motiv von Titel und Artwork (von *Aaron Bonogofsky*) auf *The Beast Called Ego*, dem Album von *Moorah* aus Prag, erschienen bei *Art Gates Records*, dem Nachfolger des Debüts *Marnost nad Marnost* (2021). Die Band bindet das an die Frage, wie das Ego Menschen in die Irre führt. Besetzung: *Count Hroozah* (Gesang, Gitarre), *Severan* (Bass), *Silenthell* (Pauken) und *FX Grond* (Schlagzeug), dazu spielen zwei ursprüngliche Mitglieder von *Master’s Hammer* mit, und *Ashok* von *Cradle of Filth* ist Gast. Aufgenommen wurde in Prag im eigenen Studio, bei Riversound und bei Seabeast Production, gemastert hat *Jaime Gomez Arellano* im Orgone Studios. Die Band beschreibt das Material als extremer, massiver und organischer als zuvor, manche Songs klängen eher nach „Hits“. Sechs Stücke in gut 39 Minuten: *Left Hand Of Darkness*, *Breitspurbahn Egotrip*, *Eternal Ahasver*, *Baptism Of Scum*, *Vasa Ship* und *Démon za krkem*. **Black Metal** und **Post Black Metal**, inspiriert von der Intensität und dem DIY-Ansatz tschechischer und norwegischer Bands der Neunziger, „roh, kraftvoll, poetisch“. Das Ego sitzt einem im Nacken.
 
-::genre::
-
-### Moral Law - Solemn Vows To A World Deplored
-
-tbd
-
-::genre::
-
-### Mostly Autumn - Life in the Mirror
-
-tbd
-
-::genre::
-
-### Mother Augusta - Labyrinths Of Pain
-
-tbd
-
-::genre::
+::genre::black metal, post black metal
 
 ### Mountain of Misery - IV: The Monolith
 
-tbd
+Melancholie, verwoben mit Schwere und Zartheit: *Mountain of Misery* aus Wrocław ist seit 2023 das Projekt von *Kamil Ziółkowski*, Schlagzeuger und Sänger von *Spaceslug* (und Schlagzeuger bei *O.D.R.A* und *Palm Desert*), und *IV: The Monolith* ist nach *The Land* (2024) und *Shades of the Ashes* (2025) das vierte Album. Aufgenommen wurde im August und September 2026 bei Electric Witch Mountain Recordings in Przemilów, gemischt und gemastert hat *Haldor Grunberg* (Satanic Audio), Artwork und Layout stammen von *Artur Rolik* und *Kamil Ziółkowski*; Musik und Texte stammen von Mountain of Misery. Die Kritik hört eine epische, traumartige Atmosphäre, in der später zerstörerische Atmospheric-Sludge-Passagen aufblitzen, vor allem auf *Traveler of a Fading Land* und *Horizon*. Sechs Stücke in gut 38 Minuten: *Of Winter Dawn*, *The Other Space*, *Down the Hill*, *Traveler of a Fading Land*, *Horizon* und das fast neunminütige *Out of the Void*. **Stoner Doom**, **Atmospheric Sludge Metal** und **Post Rock**, mit Grunge- und Shoegaze-Anklängen. Ein Monolith, der überraschend sanft ist.
 
-::genre::
-
-### Murskaus - Murskaus
-
-tbd
-
-::genre::
+::genre::stoner doom, atmo sludge metal, post rock
 
 ### Mystical Death - Across
 
-tbd
+Death Metal mit Saxofonsolo, aus den Niederlanden: Der Kopf von *Mystical Death* ist *Mystic*, der auf *Across* Musik, Texte, Instrumente und Programmierung selbst übernimmt, dazu abmischt, mastert und das Cover gestaltet. Nach der EP *Carnation* (September 2024) ist es sein erstes Album und überhaupt die zweite Veröffentlichung, erschienen bei *Rottweiler Records*, die schon *Carnation* mit Bonustrack neu aufgelegt hatten. Am Mikro helfen zwei Gäste: *David Diefenderfer* mit den harschen Vocals und *Vixi Fox* mit klarem Frauengesang. Musikalisch bewegt sich das zwischen **Progressive Death Metal** und **Technical Death Metal**, mit Einflüssen aus Old-School-, symphonischem und modern-progressivem Death Metal: wuchtige Riffs, verwinkelte Arrangements und melodische Passagen, ohne den Boden unter den Füßen zu verlieren. *Apophenia* eröffnet und war die erste Single, mit kreisenden Gitarrenmotiven, einer kurzen Öffnung nach außen und dann wieder schnellem, aggressivem Death Metal; *Laniakea* (schon im Januar 2025 als Single erschienen) pendelt in exotisch angehauchten Modi zwischen dunklen und hellen Abschnitten; *Empathy* kippt von ruhig zu intensiv und mischt Smooth-Jazz-Töne und Saxofonsoli mit aggressivem Gesang, *Kurtosis* stottert und explodiert, *Thalassa* wechselt Taktarten und Gesangsstile, und *Sanctus* schließt als Fanfare im Klassikstil. Zehn Stücke in gut 37 Minuten: *Apophenia*, *Laniakea*, *Inundant*, *Lacerate*, *Empathy*, *Kurtosis*, *Across*, *Thalassa*, *Voyagers (Instrumental)* und *Sanctus (Instrumental)*. Für Fans von *Pestilence*, *Cynic*, *Atheist* und *Gorguts*. Wer Death Metal sucht, der zwischendurch auch mal Richtung Smooth Jazz abbiegt, ist hier richtig.
 
-::genre::
+::genre::prog death metal, tech death metal
 
-### Neural Dawn - The Witness in the Wood
+### New Junk City - Where Could I Go?
 
-tbd
+„Tom Petty, gespielt von Green Day“ – so beschreibt sich die Band selbst, halb im Scherz: *New Junk City* aus Atlanta, seit 2013 dabei und zu viert unterwegs, legen mit *Where Could I Go?* ihr viertes Album vor, erschienen bei *Lauren Records*. Aufgenommen wurde es im Studio Standard Electric mit dem langjährigen Weggefährten *Damon Moon*, produziert hat *Tyler Bisson*, geschrieben wurde gut zwei Jahre lang. Es geht um die unaufgeräumte Seite der Liebe: Platz zu lassen für die Trauer eines anderen, die Kompromisse, die Arbeit und Beziehung verlangen, und die eigenen Schwächen anzunehmen, ohne dass daraus Groll wird. Die erste Single *Lonely Now* handelt davon, Grenzen zu ziehen und die neue Wirklichkeit einer Beziehung voller Abwesenheit und Enttäuschungen zu akzeptieren, ohne zurückzuschlagen: „People fail each other“, sagt die Band. Dazu gibt es **Punk Rock**, **Pop Punk** und **Indie Rock** mit dem Herz auf der Zunge und melodischen Haken; als Einflüsse nennt die Band *The Weakerthans*, *Fucked Up* und *Green Day*, Vergleiche gibt es zu *Superchunk*, *The Replacements*, *The Get Up Kids*, *Japandroids* und *The Menzingers*. Zwölf Stücke in knapp 34 Minuten: *Big Bed*, *Stay the Same*, *Long Way*, *Crows Nest*, *For So Long*, *Coffee & Peppermint*, *Prayer for Gold*, *Like I Love You*, *E&J*, *Lonely Now*, *Shell Game* und *The End*. Kurz, laut und ehrlich genug, um nicht um die Ecke zu denken.
 
-::genre::
-
-### New Junk City - Where Could I Go
-
-tbd
-
-::genre::
+::genre::punk rock, pop punk, indie rock
 
 ### Nicola Lori - Around The Earth
 
-tbd
+Eine Reise um die Erde in neun Stücken von je rund sechs Minuten: *Nicola Lori* aus Rom, Komponist und Multiinstrumentalist, Mitgründer der Band *Fjieri* und Mitarbeiter bei allen Produktionen von *Stefano Panunzi*, legt mit *Around the Earth* sein nächstes Album vor, nach *Urban Vision* (Oktober 2024). Der Vorgänger hatte für Trompete, Bass, Gesang und Klavier Gäste wie *Luca Calabrese*, *Colin Edwin*, *Grice Peters* und *Panunzi* dabei; Besetzung und Gäste zum neuen Album lagen mir nicht vor. Musikalisch bewegt sich das zwischen **Art Rock**, **Art Pop** und **Progressive Rock**. Neun Stücke in gut 55 Minuten: *Beyond the Borders*, *Last Evening*, *Dangerous Night*, *My Happiness*, *Around the Earth*, *Fly Now*, *The Moon Rise*, *Only Words* und *Where Frost Remains*. Beim letzten Stück ist man dann einmal um die Welt und trotzdem pünktlich zum Abendessen zurück.
 
-::genre::
-
-### Night Cobra - Beware The Dark Future
-
-tbd
-
-::genre::
+::genre::art rock, art pop, prog rock
 
 ### Night Gaunt - Rupture
 
-tbd
+Doom, der leiser wird, ohne leichter zu werden: *Night Gaunt* aus Rom, seit 2013 dabei, legen mit *Rupture* ihr drittes Album vor, erschienen bei *Aural Music*. Im Kern bleibt es **Doom Metal**, dazu kommen akustische Passagen, **Dark Folk**-Melodien, **Post Punk**-Schatten und industrielle Unruhe. Die Songs wurden über mehrere Jahre hinweg überarbeitet, abgespeckt und neu aufgebaut, bis nur noch das Wesentliche übrig war, und das Album ist als ein durchgehendes Stück gedacht und nicht als Reihe einzelner Lieder. Es folgt auf Touren durch Italien und Europa und auf persönliche Umbrüche in der Band, inhaltlich geht es um Verlust, Verwandlung und stille Widerstandskraft; die Platte sitzt dort, wo erdrückende Schwere auf zerbrechliche Stille trifft. Der Opener *Of Clouds and Gleam* erschien vorab mit Video, *The Deer and the Hunter* (Stück 6) war am 5. Oktober die zweite Single. Zehn Stücke in knapp 39 Minuten: *Of Clouds and Gleam*, *Strangers*, *Struck by the Fever*, *Ordeal*, *The Revenant*, *The Deer and the Hunter*, *September Song*, *The Antagonist*, *Blooming* und *The End*. Ein Album, das sich Zeit nimmt, auch für das Ende.
 
-::genre::
-
-### Nihilo - Abyss
-
-tbd
-
-::genre::
+::genre::doom metal, post punk, dark folk
 
 ### Nocturnis - Drangsal
 
-tbd
+Acht Stücke über die Maschinerie der Hexenverfolgung: die Anklage, der Prozess, das Feuer und alles, was weiterarbeitet, wenn die Asche längst kalt ist. *Nocturnis* aus Offenburg legen mit *Drangsal* ihr zweites Album vor, nach *Unsegen* (2022), erschienen bei *Fetzner Death Records*; vom Eröffnungsstück *Liturgie* bis zum neunminütigen Titelstück folgt es diesem Bogen, ohne einen Ausweg zu lassen. Musikalisch ist das **Atmospheric Black Metal**, beeinflusst, wie die Band selbst sagt, vom umgebenden Schwarzwald, den meisten extremen Metal-Spielarten und dem Leben selbst. Produziert und komponiert hat *Vincent Padrutt*, gemischt und gemastert *Nikita Kamprad*, die Texte stammen von *Lukas Wenzel*, *Padrutt* und *Matthias Störck*, die Schlagzeug-Arrangements von *Jonas Feger*. Acht Stücke in gut 44 Minuten: *Liturgie*, *Tituba*, *Thaumaturg*, *Düsternis*, *Der letzte Hort*, *Das Licht der nächsten Sonne*, *Dämmernis* und *Drangsal*. Ein Album, das dem Thema keinen Ausweg lässt.
 
-::genre::
+::genre::atmo black metal
 
 ### Nova Spei - Trinitas
 
-tbd
+Ein Neuanfang, der aus einem Abschied entstanden ist: *Nova Spei* aus Trois-Rivières in Québec legen mit *Trinitas* ihr drittes Album vor, fünf Jahre nach *Sequentis* (2021), erschienen bei *Bam & Co. Heavy*. Mit dabei sind die neue Sängerin *Emmanuelle Desbiens-Dubois*, Gründer und Hauptsongwriter *Dany Soucy* (Rhythmusgitarre), *Cédrick Charland* (Leadgitarre), *Nicolas Dumais-Brouillette* (Bass, Gesang) und *Julien De Carufel* (Schlagzeug). Der Abgang des früheren Sängers sei ein schwerer emotionaler Schlag gewesen, sagt *Soucy*, und der Neuaufbau eine Herausforderung; das neue Line-up nennt er den Wechsel, den die Band brauchte. Die Wahl einer weiblichen Leadstimme habe die angestrebte Intensität deutlich gesteigert. Produziert und gemischt hat *Francis Perron* (bekannt von *Voivod* und *Martyr*), gemastert *Maor Appelbaum* (*Faith No More*, *Yes*); es ist das erste Album der Band, das in einem professionellen Studio entstand. Ursprünglich als Fortsetzung von *Sequentis* gedacht, wurde es mit *Perron* einfacher und organischer. Musikalisch ist das **Modern Metal** mit **Metalcore**, **Industrial Rock** und progressiven Einflüssen, aggressiver und groovelastiger als früher, roher und energischer; empfohlen für Fans von *Gojira*, *Tesseract*, *Killswitch Engage*, *Spiritbox* und *Architects*. Es geht um Sucht, Verrat, Depression, Manipulation und Trauma, um die Erfahrungen indigener Menschen, Widerstandskraft und persönliche Wiedergeburt. *Renaissance* erzählt von den Kämpfen der Band und ihrer Rückkehr mit neuer Besetzung, *M'entends-tu!?* ist emotional aufgeladen, *Déraciné* handelt von indigenen Erfahrungen, *Résonance* ist ein instrumentales Stück über das Nachwirken eines Verlusts, *Enterré Vivant* eine erdrückende, groovelastige Single, und *Draps Blancs* beschließt das Album mit einem Eingriff, der eigentlich Routine war und tragisch endet. Dreizehn Stücke: *Trinitas*, *Renaissance*, *M'entends-tu!?*, *Déraciné*, *Hypnose Collective*, *Sentence*, *Bourreau*, *Résonance*, *Enterré Vivant*, *Aucun Regret*, *Traître*, *Vautours* und *Draps Blancs*. Zum Erscheinen geht die Band in Québec auf Tour, mit *Unless We Fight* an allen Abenden. Ein Album, das aus schweren Themen Kraft zieht.
 
-::genre::
+::genre::modern metal, metalcore, industrial rock
 
 ### Nurser - Inherent
 
-tbd
+Dreizehn Stücke in gut 22 Minuten: Das längste, *Fraud*, braucht gerade mal gut drei, und wer *Devour* nach 44 Sekunden nicht verstanden hat, muss halt weiter. *Nurser* aus Seattle, ein Trio aus *Mat*, *Kris* und *Matt*, legen mit *Inherent* ihr neues Album vor, nach *Ashes* (2021), *Nurser* (2022) und einer Split im selben Jahr. Engineered hat *Matt* selbst, gemischt hat *Nigel Evan Dennis* im Studio Seomra Recording Co., gemastert *Brad Boatright* bei AudioSiege; *Tongueless* steuert das Zwischenspiel *Interlude (Tongueless)* und zusätzliche Geräusche bei. **Deathgrind**, **Grindcore** und **Powerviolence**, ohne unnötige Umwege: *Devour*, *Ditch*, *Circulating*, *Willful*, *Flaw*, *Nausea*, *Interlude (Tongueless)*, *Emaciated*, *Torment*, *Liable*, *Taker*, *Wrenched* und *Fraud*. Ein Album, das mit der Länge eines einzigen Prog-Stücks komplett durch ist.
 
-::genre::
+::genre::deathgrind, grindcore, powerviolence
 
 ### Obbrobrius - Usurped
 
-tbd
+Eine Reise durch seelische Not à la Dante in neun Stücken, so beschreibt es das Label: *Obbrobrius* aus Italien legen mit *Usurped* ihr neues Album vor, erschienen bei *Over The Border Records*. Gespielt wird es von *Shouter* (Gesang), *Johnny Hell* und *Hellkymic Frenk* (Gitarre), *Dave Filth* (Bass) und *Metfrey* (Schlagzeug), aufgenommen, gemischt und gemastert im Comet Broadcasting Studio; das Cover und Layout stammt von Davide „Dartworks“ Mancini. Das Ziel: ein ausgesprochen rhythmischer Metal-Sound, der anders als die Groove-Größen *Pantera* und *Lamb of God* den Rhythmus nicht als einziges Dynamikmittel durch den ganzen Song zieht, sondern ihn immer wieder in Death-Metal-Ausbrüche à la *Malevolent Creation* münden lässt, in der Linie von *Benediction* und *Bolt Thrower*. Das ergibt **Death Metal** und **Groove Metal** mit viel Bass und technisch versiertem Schlagzeug. Die Texte speisen sich aus True Crime, Endzeitkino, der Covid-19-Pandemie und Horrorliteratur und kreisen um seelische Not, mit menschlichem Leid als Teil eines göttlichen Plans statt als Werk mächtiger Eliten. Vorab erschienen *Leviathan's Cage* (mit Video), *Demoniac Illusion* (als Audio) und *All In One And One In All* (als Lyric Video). Neun Stücke in gut 31 Minuten: *Leviathan's Cage*, *Demoniac Illusion*, *Blood In My Eyes*, *As Angels Fall*, *Chronic Sickness*, *Infecting The Holy Ground*, *My Dismembered Soul*, *All In One And One In All* und *Usurped*. Kompakt, kantig und ohne Leerlauf.
 
-::genre::
+::genre::death metal, groove metal
 
 ### Odette - Blink
 
-tbd
+Ein Album, das vier Jahre gebraucht hat: *Odette* (Georgia Sallybanks), in Bath geboren und in Sydney aufgewachsen, legt mit *Blink* ihr drittes Album vor, nach *To a Stranger* (2018) und *Herald* (2021) und als erstes als unabhängige Künstlerin, erschienen über *Beloved Records*. Geschrieben, komponiert und eingespielt hat sie es mit dem Produzenten *Kiah Gossner*; die Sessions begannen 2022 und markierten den Beginn ihrer Erholung von einer sehr unruhigen Zeit in ihrem Leben. Sie beschreibt die Platte als Weg, überwältigende Gefühle in etwas Heilsames zu verwandeln, und als Liebesbrief an die beständige Hoffnung. Musikalisch ist das **Baroque Pop** mit Jazz- und R&B-Einflüssen in der Produktion, dazu **Alternative Pop** und **Folk Pop**: klavierlastige Balladen und gesprochene Lyrik in Texturen des Verfalls, in denen Gitarren anschwellen und wieder zerfließen. Es geht um Liebe, Herzschmerz, Durchhalten und hart erkämpfte Selbsterkenntnis. *Watch Me Go* ist ein gesprochenes Stück über einen unverbindlichen Partner, *AAAH!* (Juli 2026) ein klavierlastiger Vorbote, und *Don't* (1. Oktober 2026, mit Streichern, Tasten und Schlagzeug) schrieb sie für eine frühere enge Freundin: Sie sei in dieser Freundschaft lange ein „sehr unberechenbarer, verängstigter und kontrollierender Mensch“ gewesen, sagt sie, und habe in dieser Zeit zeitweise Psychosen und Wahnvorstellungen erlebt, die Menschen verletzt hätten, die ihr wichtig sind. Gemischt haben *Kiah Gossner* und *Stefan Durant*, gemastert *Leon Zervos* und *Steve Smart*; zusätzliche Beiträge kommen von *Kyrie Anderson*, *Martin Mackerras*, *Jeremi Campese*, *Alec Steedman* und *Charlie Westhof*. Vierzehn Stücke in gut 40 Minuten: *Godsink*, *Are You Really Having Fun?*, *Watch Me Go*, *Gills*, *Cocaine Zoetrope*, *Cold Interim*, *Reverence*, *I Hate*, *Susie*, *Don't*, *Seahorses*, *Heaven Help Me*, *AAAH!* und *Blink*. Hinter ihr liegen Platin- und Gold-Singles, vier ARIA-Nominierungen und ausverkaufte Headline-Touren. Ein ehrliches Album, das auf Hoffnung zuläuft.
 
-::genre::
+::genre::baroque pop, alt pop, folk pop
 
 ### Olympus - L’appel Du Vide
 
-tbd
+Drei Stücke über Selbstwert, Depression und Suizid, auf einem Weg durch die Dunkelheit aufdringlicher Gedanken bis zu der Erkenntnis, dass man nicht allein ist und dass Hoffnung am Ende helfen kann. *Olympus*, ein Quintett aus Essex, legen mit *L'Appel Du Vide* („der Ruf der Leere“) ihre zweite EP vor, nach *Knowing It Shall Wake* (April 2026), in Eigenregie veröffentlicht. Am Start sind *Jason Dugal* (Gesang), *Dan Barratt* (Gitarre, Gesang), *Ruaidhri Conroy* (Gitarre), *Reece Cash* (Bass) und *Oz Hassan* (Schlagzeug, Gesang). Das ist **Melodic Death Metal** mit skandinavischen Einflüssen, traditionelle Death-Metal-Härte mit modernen melodischen Elementen, nah am Göteborger Sound von *At the Gates* und *Dark Tranquillity*, mit Anklängen an die *The End of Heartache*-Zeit von *Killswitch Engage*. Das Titelstück (knapp sechs Minuten) ist das Zentrum der EP, mit wirbelnden Riffs, wildem Gesang und üppiger Leadgitarre, die den düsteren Texten etwas Befreiendes gibt; *Breathe* (unter zwei Minuten) ist ein weitgehend instrumentales Zwischenstück mit ein paar gerufenen Vocals und einem melancholischen Bogen von Schwere zu Hoffnung; *Misguided* (gut sechs Minuten, mit Video) beginnt weich und melancholisch, hat einen groovigen Mittelteil mit melodischem Break und lebt vom Kontrast zwischen Melodie und harschem Gesang. Zusammen knapp 14 Minuten. Eine EP, die vom Tiefpunkt aus in Richtung Hoffnung läuft.
 
-::genre::
+::genre::melo death metal
 
 ### Only Worms Left - Beneath the Earth, at One with Fear
 
-tbd
+„Death Doom aus Berlin“, so nennt es die Band selbst: *Only Worms Left* verbinden erdrückenden Doom mit unerbittlichem Death Metal zu einer weiten Wand erstickender Dunkelheit. Das Quintett aus *Richard B.* (Schlagzeug), *Alexander H.* und *Leon M.* (Gitarre), *Dennis S.* (Gesang) und *Toni M.* (Bass, Gesang) hat sich Ende 2023 gegründet und bringt mit *Beneath the Earth, at One with Fear* sein Album bei *Meuse Music Records* heraus; vorab erschienen *MCCCCCXXXV* (September) und *The Death of Ezekiel* (Oktober). Die Platte klingt bedrückend, dicht und hart, aber mit dynamischen Wendungen: von schnellen, hektischen Gitarren und Blastbeats bis zu langsamen, rhythmischen Riffs, die sich anfühlen, als würde man sich aus einem verwesenden Grab arbeiten. Dazwischen gibt es hypnotische, ätherische Passagen, bevor es wieder in den vollen Klangangriff geht; die Vocals reichen von durchdringendem Kreischen und schmerzhaften Schreien bis zu tiefem Growlen, und selbst die groovigeren Momente behalten ein stetiges Gefühl der Bedrohung. Das ist **Death Doom Metal** mit **Blackened Death Metal**-Schlagseite. Die Drums nahm *Matthias Schilling* auf, Gitarre, Bass und Gesang *Leon M.* (der auch mischt), gemastert hat *Miguel Duque Perez*; das Cover stammt von *Nuno Zuki*, das Booklet von *Toni M.*, Layout und Fotos von *Chiara Enskeneit*. Zehn Stücke in gut 54 Minuten: *Beneath the Earth*, *Voluntary Death*, *Rats of Salem*, *MCCCCCXXXV*, *Silence of the Limbs*, *10.3*, *Witches Feast*, *At One with Fear*, *The Death of Ezekiel* und *Relinquished*. Ein Album, das nach der letzten Note noch eine Weile Dunkelheit hinterlässt.
 
-::genre::
+::genre::death doom metal, blackened death metal
 
 ### Orbital Gate - Engineering His Planetary Dominion
 
-tbd
+Ein Konzeptalbum zu *Borderlands 2*, gespielt von einer einzigen Frau: *Orbital Gate* ist die One-Woman-Band von *Eva Van Dyne* aus Cary, Illinois, die auf *Engineering His Planetary Dominion* Gitarre, Bass, Schlagzeug und Gesang übernimmt und auch selbst mischt und mastert. Es ist laut Beschreibung das vierte Album und erzählt die Geschichte von *Borderlands 2* nach, mit einem Schwenk zu progressiverem Klang, mehr musikalischen Einflüssen und einem dunkleren, ernsteren Ton als bisher. Das ist **Brutal Death Metal** und **Technical Death Metal** mit Slam-Anteilen, technisch, melodisch und progressiv. Gäste gibt es reichlich: Laut Credits singen *Daniel Burris* (Stück 3), *Travis Worland* (4), *Kyle Medina* (5) und *Carson Pace* (9), *Devon Groat* spielt das Gitarrensolo auf Stück 10; die Titel nennen als Gäste *Alessa*, *Enterprise Earth*, *Bodysnatcher*, *The Callous Daoboys* und *Pillars of Autumn*. Das Artwork stammt von *Lordigan*. Zehn Stücke in gut 36 Minuten: *The Aftermath*, *Denied Annihilation*, *A Resistance in Peril*, *Liquefying Organic Matter*, *Hostage Negotiation*, *Neurotic Biomechanical Abomination*, *Beholden to Nanotechnology*, *Deconstructing Pilfered Genetics*, *Extirpation of the Angelic Catalyst* und *Engineering His Planetary Dominion*. Titel wie *Neurotic Biomechanical Abomination* sollte man vor dem ersten Hören einmal laut geübt haben.
 
-::genre::
+::genre::brutal death metal, tech death metal
 
 ### Oso Oso - an exchange of information
 
-tbd
+Die erste Platte eines neuen Labels und ein weiteres Kapitel für *Oso Oso*: *an exchange of information* ist die erste Veröffentlichung von *Feral Twin*, dem neuen Label von *Hop Along*-Schlagzeuger *Mark Quinlan*, der Musik „von Künstlern, die ich respektiere“ herausbringen und jeder Veröffentlichung Sorgfalt widmen will. Hinter *Oso Oso* steckt *Jade Lilitri* aus Long Beach, New York, der nach *Sore Thumb* (2022) und *Life Till Bones* (2024) sagt, dass irgendwann die früheren Veröffentlichungen selbst zum Einfluss werden; er wollte neue Richtungen finden und trotzdem treu bleiben, was *Oso Oso* ausmacht. Die erste Single *know you know me better* (Stück 5) beginnt mit einem Streicherarrangement, das vielleicht synthetisch ist, im Kern bleibt es der emo-getönte Gitarrenpop, für den er bekannt ist: **Indie Rock**, **Indie Pop** und **Emo**. Zwölf Stücke in gut 44 Minuten: *4 am redemption*, *it's all bait*, *the nights*, *the facts*, *know you know me better*, *wind me up*, *everybody has their fun*, *she rides in the stars*, *someone like that*, *trace me*, *the premiums* und *the days*. Alles klein geschrieben, aber nicht kleinlaut.
 
-::genre::
+::genre::indie rock, indie pop, emo
 
 ### Outloved - IS THIS LETTING GO
 
-tbd
+Emo-Metalcore wie ein Faustschlag, getränkt in Herzschmerz, so beschreibt das Label es: *Outloved* aus Melbourne, gegründet im ländlichen Victoria, legen mit *IS THIS LETTING GO* ihr Debütalbum vor, erschienen bei *Out Of Line Music*, nach der EP *Be There for Me* (Oktober 2020). Der Sound baut auf Kontrast: scharfe Screams gegen zarte Strophen und hymnische Refrains, getragen von Frontmann *Jaydon*. Das ist **Heavy Rock** mit **Metalcore**- und **Emo**-Einschlag. Es geht um die Selbsttäuschungen beim Weitermachen: den Schmerz zerstören, vor ihm davonlaufen, so tun, als sei er weg, oder sich in anderen Dingen verlieren, und um die Frage, ob Heilung echt ist oder nur etwas, das man sich einredet. Gäste sind *Joshua O'Donnell* auf *BELIEVE* und *Thousand Below* auf *RUN*; vorab erschienen *DIE FOR NOTHING* (November 2025), *RUN* (März 2026) und *ILOVEME* (Mai 2026). Elf Stücke in gut 36 Minuten: *WRONG WITH ME*, *DIE FOR NOTHING*, *BELIEVE*, *DON'T WAIT UP*, *ILOVEME*, *RUN*, *ABSENT*, *OVERDOSE*, *FLATLINE*, *DISCONNECT* und *USED*. Zum Erscheinen geht die Band mit Release-Shows in Brisbane, Melbourne, Adelaide und Sydney auf Tour, nach einer landesweiten Runde mit *Ocean Sleeper*. Die Frage aus dem Titel bleibt elf Stücke lang im Raum.
 
-::genre::
+::genre::heavy rock, metalcore, emo
 
 ### Ováte - Rúin
 
-tbd
+Sechs Stücke, sechs Gastsänger und zwei Männer mit ordentlichem Black-Metal-Lebenslauf: *Ováte* sind *Aindiachaí* (Gitarren und Bass, *Gorgoroth*) und *Brodd* (Schlagzeug, ex-*Taake*), und acht Jahre nach ihrem selbstbetitelten Debüt haben sie *Rúin* fertig, erschienen bei *Soulseller Records*. Wie schon beim Vorgänger singt auf jedem Stück ein Gast: *Spellgoth* (*Horna*) auf *Kutsumus*, *H'grimmr* (*Helheim*) auf *Risset testament*, *Thomas S. Øvstedal* (*Cor Scorpii*) auf *Omveltning*, *Sanrabb* (*Gehenna*) und *Ødemark* (*The Last Eon* / *The Third Attempt*) auf *Livsblot*, *Ødemark* auf *El clam del foc* und *Hoest* (*Taake*) auf *Slangen*. Das ist reißender, hypnotischer **Black Metal** mit okkulter Dunkelheit, ein arkaner Vorstoß hinter den Schleier. Gemischt und gemastert hat *Dag Erik Nygaard* im Bergen Lydstudio, das Artwork stammt von *Stephen Lindsay* (The Iron Parasite), die Texte auf Stück 4 von *V'gandr*, die Übersetzung auf Stück 6 von *Gjert Myrestrand*. Sechs Stücke in gut 37 Minuten: *Kutsumus*, *Risset testament*, *Omveltning*, *Livsblot*, *El clam del foc* und *Slangen*. Wer die Gästeliste vorliest, hat schon einen halben Black-Metal-Abend gefüllt.
 
-::genre::
+::genre::black metal
 
 ### Party Dozen - 21 Bum Salute
 
-tbd
+„Den Mittelfinger hochhalten und gleichzeitig jemandem lächelnd zuwinken“, so beschreibt *Kirsty Tickle* die Stimmung von *21 Bum Salute*, dem fünften Album des Duos *Party Dozen* aus Sydney, nach *Crime in Australia* (2024), erschienen bei *City Slang*. *Tickle* spielt Saxofon und singt, *Jonathan Boulet* spielt Schlagzeug, baut Loops und produziert; geschrieben, komponiert und eingespielt haben sie alles gemeinsam, Produktion, Mix und Mastering übernahm *Boulet*, aufgenommen haben sie es selbst. Das Album verdichtet Jam-Sessions, Loops und Improvisationen aus mehreren Jahren, auf der Suche nach Groove, neuen Blickwinkeln und „komischen“ Abstechern, einige Songs sind die seltsamsten bisher. Neu: *Tickles* Stimme steht erstmals im Zentrum, ohne Text, „was im Moment herauskommt“; sie verbindet das mit Wut, Härte und ihrer Erfahrung als Frau und brüllt auch mal in den Schalltrichter ihres Saxofons. Das ist **Noise Rock** und **Experimental Rock** zwischen Psychedelik und Pop, das Projekt ist laut Selbstbeschreibung lose um **Improvisation** herum gebaut. *Special Unit* ist ein rüpelhafter Auftakt, der vor einer Tour mit *Amyl and the Sniffers* erschien, *Euro Stomper* stampft hoch energetisch, die Jams darin sind verlängert und „könnten ewig weitergehen“, und *Full Powers* handelt von zwei Seiten der Macht, dem Gefühl der Unbesiegbarkeit auf der einen und Gier und Dominanz auf der anderen („Powerlust, greedmongering, gluttonous fiends“), und beginnt selbstbewusst, bevor es ein wenig unheimlich wird. Zehn Stücke in gut 32 Minuten: *Special Unit*, *Euro Stomper*, *Mad Rooter*, *Toss My Coin*, *21 Bum Salute*, *PMFD*, *Full Powers*, *Captain Honk*, *The Stinking Rose* und *Age Of Fools*. Vor allem eine Platte, die dabei Spaß haben will, und das merkt man.
 
-::genre::
+::genre::noise rock, experimental rock, improvisation
 
 ### Passenger - Wild Love
 
-tbd
+Vom Tourleben ins Familienleben: *Passenger* (Mike Rosenberg) aus Brighton legt mit *Wild Love* ein Album vor, das davon erzählt, wie er unerwartet Ehemann und Vater wurde. Während des Lockdowns lebte er allein, fragte sich, was ihm fehlt, und verliebte sich schließlich in seine Managerin der letzten zehn Jahre, *Rebecca*; *Boomerang*, *Wild Love* und *Caution to the Wind* handeln von der Unsicherheit, dieses Risiko einzugehen. Seine Tochter hat seine Prioritäten verändert, und bei *Bonnie's Song* hofft er, dass sie darin später etwas hört. Geschrieben wurde über mehrere Jahre, aufgenommen im vergangenen Sommer im neu gebauten Studio in den South Downs mit dem langjährigen Produzenten *Chris Vallejo*. Erschienen bei *Black Crow Records*, exklusiv lizenziert an *Nettwerk*; die erste Single *It Was Gonna Be You* kam am 19. August. Musikalisch bleibt es **Folk Pop** und **Indie Folk**. Vierzehn Stücke in gut 55 Minuten: *Boomerang (Extended)*, *It Was Gonna Be You (Extended)*, *Caution to the Wind*, *Catherine Wheels*, *Wild Love (Extended)*, *Willow*, *California*, *Lightning Strikes*, *Bonnie's Song*, *Ghosts (Extended)* und dazu die kürzeren Fassungen von *It Was Gonna Be You*, *Boomerang*, *Ghosts* und *Wild Love*. Im März 2027 geht es mit der Wild-Love-Tour los, ab Oslo durch Europa und Großbritannien bis nach Australien. Ein Album von jemandem, der angekommen ist.
 
-::genre::
+::genre::folk pop, indie folk
 
 ### Penny Coffin - Transitory Fragmentation
 
-tbd
+Zwei Stücke heißen *REDACTED*, und mehr muss man über den Humor dieser Schotten gar nicht wissen: *Penny Coffin* sind ein schottisches Death-Metal-Quartett, das mit *Transitory Fragmentation* sein Debütalbum vorlegt, nach der EP *Conscripted Morality* (2023) und zwei Singles 2024. Hinter den Credits stecken *Joseph Edward Kelly* („Lizard King“-Gesang und Streicher), *Daniel Paton* („agonized weeping“ und Verzerrung) und *Panagiotis Rodopoulos* (Blasts), dazu *Garry Ross* am Bass auf zwei Stücken und *Luke „El Chapo“ Lockley* am Schlagzeug auf dem Opener. Aufgenommen hat die Band „in tormented confinement“, gemischt hat *Kelly* „in the 36th chamber of death“, gemastert *Dan Lowndes* im Resonance Sound Studio, das Artwork stammt von Anaesthetic Design. Das ist **Old School Death Metal** mit **Death Doom Metal**-Schwere: dunkel, erdrückend, voller Atmosphäre, dabei, wie es heißt, unsauber, aber nicht teerig, und so lebendig, entfesselt und nadelspitz wie brutal und schwer. Die erste Single *Biological Sentient Horror* beginnt mit klagenden, kirchenartigen A-cappella-Chorälen, bevor Schlagzeug, Bass und dichte, wälzende Riffs einsetzen. Zehn Stücke in knapp 44 Minuten: *Murder Music Orchestration*, *Mass Grave Forced Internment*, *Crimson Storm*, *REDACTED1*, *Seige of Antiquity*, *Biological Sentient Horror*, *Goma*, *Bones Broken Glass*, *Industrial God Complex* und *REDACTED2*. Ein Debüt, das gut erzogen auf Schwärze besteht.
 
-::genre::
+::genre::osdm, death doom metal
 
 ### Perpetua - Saviour To None
 
-tbd
+Vier Stücke, ein Gastsänger auf dem Titeltrack und viel Groove: *Perpetua* aus Edinburgh bringen mit der EP *Saviour To None* ihre erste Veröffentlichung für *Bleeding Art Collective* heraus, bei dem sie Ende 2025 unterschrieben haben. Die Band, die kurz vor ihrem ersten Jahrzehnt steht, hat zuvor die EP *To Suffer* (2018) und das Debütalbum *Resurgence* (2024) veröffentlicht, spielt aus *Ben Smith* (Gesang), *Andy Dickson* und *Nick Whyte* (Gitarre), *Will Keogh* (Bass) und *Tony Corio* (Schlagzeug) und holt für den Titeltrack *Jack Gordon* ans Mikro. Aufgenommen haben *Dickson* (Gitarren, Gesang), *Stephen Dewar* (Bass) und *Mark Tindal* (Schlagzeug) in den DM Studios, gemischt und gemastert hat *Tindal* bei Open Eyes Productions. Musikalisch sind das **Groove Metal** und **Thrash Metal**, modern, technisch, mit großen groovigen Riffs, Thrash-Passagen „fürs Circle Pit“ und mehrstimmigen Refrains; als Einflüsse werden *Pantera*, *Machine Head*, *Sepultura*, *Decapitated*, *Sylosis*, *Psycroptic* und *Lamb of God* genannt, die Kritik hört auch *Trivium* und skandinavische Melancholie. *Veil of Deception* (erste Single mit Video) richtet sich laut Band gegen Menschen, die anderen böswillig wehtun, um sich selbst zu befriedigen, und hat ein schmerzliches Solo; *Descend* (mit Visualizer) handelt davon, wie alles endet und wie hinter einer chaotischen Welt Wahrheiten verborgen werden, und legt klaren Gesang unter die harten Vocals; *Fallen Sons* ist langsamer und bedrohlicher. Die EP versteht sich als Hymne darauf, sich selbst in der Gegenwart zurückzuholen und ohne Reue zu leben: „Nothing hurts like regret.“ Vier Stücke: *Saviour To None*, *Veil of Deception*, *Descend* und *Fallen Sons*. Die Band hat bei den Scottish Alternative Music Awards als „Best Metal Act“ gewonnen und mit *Decapitated*, *Bleed From Within* und *Attila* auf der Bühne gestanden.
 
-::genre::
+::genre::groove metal, thrash metal
 
 ### Pinkhouse - Static
 
-tbd
+Ein Album über das Zurechtkommen mit dem Lärm: *Pinkhouse* aus Washington, D.C. („DC/Punk/Power/Pop“) legen mit *Static* ihr Debütstudioalbum vor, zusammengesetzt aus *Max Fillion* (Gesang, Gitarre), *Sean Carolan* (Leadgitarre, Gesang), *Nick Cervone* (Bass, Gesang, Percussion) und *Brandon Breazeale* (Schlagzeug, Gesang, Percussion, Klavier); auf *King in the Castle* sind *Dawson Bristol* an der Orgel und *Erin Johnson* im Hintergrundgesang zu hören. Produziert haben *Reese Clutter* und *Breazeale*, aufgenommen wurde von *Clutter* im 38 North Studio in Falls Church, Virginia, und von *Breazeale* im Olive Orchard in Washington, D.C.; gemischt hat *Breazeale*, gemastert *Mat Leffler-Schulman*, das Cover malte *Luke Palermo*. Musikalisch ist das **Power Pop**, **Punk Rock** und **Emo**, mit Ska-Punk-Anleihen. Es geht um Angst und Selbstzweifel, Heimweh und das Auseinanderleben von Menschen, Freundschaft und die Sorge um jemanden, dem es schlecht geht, um den Sog sozialer Medien und eine Do-it-yourself-Haltung. Zehn Stücke in gut 28 Minuten: *Eyesight*, *Peanut Butter*, *Keep Walking*, *Empty Noise*, *Mike Burnt*, *(Better Than) I Do*, *King In The Castle*, *DIY or Die Baybeeee*, *Reflection* und *Every Single Day*. Kurz, laut und ehrlich genug, um sich dem Rauschen zu stellen.
 
-::genre::
+::genre::power pop, punk rock, emo
 
 ### Planet Cheat Code - The Lamentations of Sandy Vine
 
-tbd
+Ein Teenager erfindet sich einen Glam-Rock-Star: *Planet Cheat Code* ist das Projekt von *Elliott Sargent* aus Wollongong, der sein drittes Album *The Lamentations of Sandy Vine* zwischen April und September 2026 mit 18 und 19 Jahren geschrieben und aufgenommen hat, im Studentenwohnheim. Er schlüpft darin in die Rolle von *Sandy Vine*, einem androgynen Glam-Rock-Star, und verwandelt Romanze, Sexualität, Studentenleben, Feiern und (vielleicht) den Mond in ein überlebensgroßes Rockoper-Konzept: Sandys Leben ist am Bruchpunkt, und er setzt es neu zusammen, indem er es in ein glamouröses Rockmärchen verwandelt, bis die Geschichte viel zu weit von ihm selbst weg ist. Das ist **Slacker Rock** und **Chamber Pop** als **Rock Opera**, mit Lo-Fi-Charme, Psychedelik und Sixties-Anklängen und laut Beschreibung das bislang ehrgeizigste Album des Projekts. Auf *The Loudness Wars* spielt *Connor Thomas* zusätzliche Trompeten, auf *Pen Pal* (mit gut zwölf Minuten das längste Stück) sprechen *Drew Scott* und *Maira Tarce* als Gäste, das Cover fotografierte *Neo Xavier*. Wer das Album herunterlädt, bekommt ein Bonusalbum mit 17 unveröffentlichten Stücken dazu. Zuvor erschienen unter anderem *Humans Capable of Hurting* (Januar 2026) und die EP *Planet Cheat Code Is Dead, Long Live Planet Cheat Code* (April 2026). Zehn Stücke in gut 52 Minuten: *Moon Band*, *Love is the Moon*, *Gloria*, *Planted Feet (Feet Are Planted)*, *Young Explorers (Keep On Dreaming)*, *Rhonda, I Wish That You Were Mine*, *I Can See the Moon*, *Pen Pal*, *Old Homebodies (The Dream is Dead)* und *The Loudness Wars*. Wer in dem Alter schon so groß denkt, hat zumindest gute Aussichten.
 
-::genre::
+::genre::slacker rock, chamber pop, rock opera
 
 ### Polderhaat - Klaagliederen
 
-tbd
+Klagelieder aus dem Mittelalter, gesungen aus dem tiefen Polder: *Polderhaat* sind ein Black-Metal-Duo aus Amsterdam (*Dion Linssen* und *Vincent Schmeits*), und *Klaagliederen* ist ihr Debütalbum, über mehrere Jahre geschrieben und aufgenommen, erschienen bei *I, Voidhanger Records*. Der Name verbindet „haat“ (Hass) mit „Polder“, dem dem Meer abgerungenen Land. Inhaltlich geht es um das Leid im mittelalterlichen niederländischen Alltag: Religion und religiöse Verfolgung, harte Arbeit, Armut und Hunger, Strafe, Folter und Hinrichtung. Musikalisch ist das roher, trockener **Black Metal** mit epischen Riffs und elegischen Melodien, mit gelegentlicher Posaune (*Niek Bollemeijer*), Streichern und liturgischen Chören, melancholisch, hypnotisch und psychedelisch, in den Bereich **Avant-Garde Black Metal** hinein. *Heresie/Ketterij* zeigt die öffentliche Hinrichtung eines Ketzers mit Menge, erzwungenem Geständnis und einem Flehen zu Gott, *Klaaglied* klagt über das flache Land, über Ruin, Hunger und einen Tod, der als Erleichterung erscheint, *Ellende* über Elend in einer Stadt voller Schmutz, Krankheit und zermürbender Arbeit mit einem Kyrie Eleison gegen Ende, *Stuurloos* („ruderlos“) über Chaos und führerloses Leiden in Meeres- und Schiffsbildern und *Het Galgenveld* über das Galgenfeld mit Folter, einem Urteil des Räderns und einem Kreislauf der Vergeltung. Produktion, Mix und Mastering hat *Dion Linssen* übernommen, das Artwork *Hans Linssen*, das Layout *Francesco Gemelli*. Fünf Stücke in gut 44 Minuten, jedes zwischen acht und zehn Minuten lang. Ein Album, das nichts beschönigt und sich dafür Zeit nimmt.
 
-::genre::
+::genre::black metal, avant black metal
 
 ### Potvor - Сострадание и гниение
 
-tbd
+Ein Trio aus Sankt Petersburg, das sich als „Ein-Saiten-Musik“ bezeichnet, und eine Klarinette, die mitschreit: *Potvor* legen mit *Сострадание и гниение* („Mitgefühl und Verfall“) ihr neues Album vor, erschienen bei raw sun. Gespielt wird es von *Dmitry Kuzmin* (Gitarre, Gesang), *Dmitry Tretyakov* (Schlagzeug, Gesang) und *Maxim Morozkin* (Klarinette, Gesang); auf *Плеть* („Peitsche“) singt *Ekaterina Fedoseeva* von der Band *Yazva* mit. Aufgenommen, gemischt und gemastert hat *Mikhail Kurochkin*, das Cover stammt von *July Moon*. Musikalisch zwischen **Black Metal** und **Sludge Metal**, mit Punk-Haltung; die Texte drehen sich um Reue, Erinnerung und Verzweiflung, um Verfall und Tod. Sieben Stücke in gut 31 Minuten: *Птица* („Vogel“), *Черви* („Würmer“), *Лес* („Wald“), *Самый сильный из нас* („Der Stärkste von uns“), *Восьмёрка* („Achter“), *Плеть* und *Закон* („Gesetz“). Zuvor erschienen *Что на небе вверху, что на земле внизу и что в воде ниже земли* (Juli 2025), *Садится солнце* (Februar 2024), eine Split (Dezember 2023) und *You will never go back* (November 2022). Ein Album, das schwer ist und trotzdem Klarinette dabeihat.
 
-::genre::
+::genre::black metal, sludge metal
 
 ### Prong - Prong
 
-tbd
+Vierzig Jahre dabei und trotzdem noch nicht fertig: *Prong* legen mit ihrem selbstbetitelten Album das erste bei *Napalm Records* vor, und die Kritik hört darin vor allem das, was die Band ausmacht: Der Sound bleibt knackig und druckvoll, mit kantigen Riffs, Post-Thrash-Grooves und Melodien, die an New Yorks harte Straßen erinnern. *Tommy Victor* (Gitarre, Gesang, auch Produzent) spielt mit dem Schlagzeuger *Tyler Joseph* und dem Bassisten *Christopher Dean* in neuer Besetzung; aufgenommen hat *Billy Pfister* bei Westfall Recording in New York, gemischt und gemastert *Andy Sneap* in den Backstage Studios in Derbyshire, das Cover stammt von *Jens Reinhold*. *Victor* spricht von „etwas mehr Verjüngung“ im Sound; die Stücke sind schneller. Das ist **Groove Metal** mit **Crossover Thrash**- und **Hardcore Punk**-Wurzeln: *The Banner* ist ein ruppiger Auftakt, *New Commission* rast mit schnellen Kicks und thrashigem Gang, *The Uprising* erinnert an die erfolgreichen Neunziger mit industriellem Schliff, *Uncertain Truth* geht in melodischere Gefilde, *Commonsense Resolution* belebt *Victors* Punk-Rock-Wurzeln, *Proportionate Response* ist Hardcore im Eiltempo, und *Our Continuance* schließt brütend und boshaft, mit einem Hauch *Killing Joke*. Davor hat die Band zuletzt *Zero Days* (2017) und *State of Emergency* (2023) herausgebracht. Elf Stücke in gut 38 Minuten: *The Banner*, *New Commission*, *The Uprising*, *Uncertain Truth*, *Fear The Sun*, *Commonsense Resolution*, *Doomed World*, *Proportionate Response*, *Transgression*, *Simulated Drowning* und *Our Continuance*, dazu als Bonus *Out of Body* und *Cruel Summer* (von *Bananarama*). Prong klingen nach Prong, und das reicht völlig.
 
-::genre::
-
-### Pyrex, Traumatizer - Split
-
-tbd
-
-::genre::
-
-### Rainburn - Thirty-seven
-
-tbd
-
-::genre::
-
-### Raise The Fallen - Hate Has A Soundtrack
-
-tbd
-
-::genre::
+::genre::groove metal, hardcore punk, crossover thrash
 
 ### Ramper - Dos Criaturas
 
-tbd
+Zwei Stücke, 39 Minuten, und eins davon dauert allein fast eine halbe Stunde: *Ramper* aus Granada legen mit *Dos criaturas*, erschienen bei *Humo Internacional*, ein Album aus *Para cenar* (12 Minuten) und *Coro de la mañana* (gut 27 Minuten) vor, gewidmet „all den Menschen, die einmal über unseren Zaun gesprungen sind, und denen, die sich um uns gekümmert und sich haben kümmern lassen“. Besetzt ist die Band mit *Jose Alberto „Joserto“ López Rosales* (Schlagzeug, Percussion), *Antonio Martín Ruiz* (Bass, Synthesizer, Texte), *Ángel Oreste Rodríguez Romero* (E-Gitarre, Synthesizer, Klavier), *Álvaro Romero Sepúlveda* (Hauptgesang, Chor, E- und Akustikgitarre, Texte) und *Elvira Simancas Fernández* (Saxofon, Klarinette, Chor); produziert haben *Ramper* und *Raúl Pérez*, aufgenommen wurde in La mina von *Daniel Molina* und *Pérez* in Sitzungen im September 2024, Oktober 2025 und Juni 2026, gemischt von *Pérez*, gemastert von *Rafael Antón Irisarri*, das Artwork stammt von Tumulus Design. Musikalisch ist das **Doomgaze**, **Slowcore** und **Post Rock**, mit Anklängen an Progressive Rock, Doom Metal und Shoegaze. Zuvor erschienen *Solo postres* (September 2024) und *Solo postres en Teatros del Canal* (September 2025), *Sesiones Bravas* (Februar 2024), *Nuestros mejores deseos* (März 2020) und *El Hoyo* (Februar 2019). Ein Album für Menschen, die für den Morgen gern etwas mehr Zeit mitbringen.
 
-::genre::
+::genre::doomgaze, slowcore, post rock
 
 ### Rebounder - Downtown People
 
-tbd
+Zwei Brüder, ein Studio in Greenpoint und fünfzehn Stücke Nachtleben: *Rebounder* sind *Dylan* und *Noah Chenfeld*, aufgewachsen auf der Upper West Side, heute in Brooklyn zu Hause, und *Downtown People* ist ihr Debütalbum, erschienen bei *Nettwerk*. Die Songs beginnen meist als Demos von *Dylan*, die er *Noah* zum Weiterbauen schickt; dann spielen sie echte Instrumente ein und teilen sich den Gesang, vieles in Schlaf- und Küchenzimmern in einem selbstgebauten Studio. Kleine Beiträge kommen von *Jesse Rutherford* (*The Neighbourhood*), *Gianluca Buccellati* (*Arlo Parks*), *Alessandro Buccellati* (*SZA*, *Beabadoobee*) und *Ivan Berko* (*fcukers*); auf *Tennis Bracelet* ist *Sofie Royer* mit dabei. *Dylan* nennt es eine spaßige Nachtplatte zum Tanzen mit Four-on-the-Floor-Disco-Stücken und leiseren Songs; Indie Rock nennen die Brüder ihr Genre, wenn man sie fragt, und New York ist ein ständiger Einfluss, mit einzelnen Songs wie *Wild Side Land* als offene Liebesbriefe an die Stadt. Der Titelsong, zugleich die erste Single, handelt von den Leuten, die man trifft, wenn man ausgeht, und ist laut *Dylan* „ein Lied der Liebe“; das Video drehte *Grant Jorissen* bei einer Knicks-Watchparty in Midtown. Eingeordnet wird das Ganze als **Indie Rock** und **Synth Pop**, als eigene, überschwängliche Lesart von Indie des 21. Jahrhunderts mit Einflüssen von *Sky Ferreira* und *Lykke Li*; getourt sind die beiden mit *Phoenix*, *MUNA*, *Cults* und *The Neighbourhood*. Fünfzehn Stücke in gut 48 Minuten: *Convertible Season*, *Downtown People*, *Miss Little Italy*, *Heavenmaxxing*, *Sunset Vision*, *Background Action*, *Tennis Bracelet*, *You This Time*, *American Sunday*, *It's Always Fashion Week*, *Europe in August*, *Wild Side Land*, *Strike Gently*, *Doomer Baby* und *Instant Nostalgia*. Am Erscheinungstag spielten sie ein Release-Konzert im Nightclub 101 in New York.
 
-::genre::
-
-### Redwood - Slowlane Pt. 1
-
-tbd
-
-::genre::
+::genre::indie rock, synth pop
 
 ### Resa Saffa Park - Kendra
 
-tbd
+Zwölf Songs über die Frage, wie wir uns durch andere Menschen verstehen: *Resa Saffa Park* (Theresa Frostad Eggesbø), in Dubai geboren und nach drei Jahren in Liverpool in Oslo zu Hause, legt mit *Kendra* ihr neues Album vor, nach *Silver Bead Eyes* (2025), veröffentlicht über *Ja. Group*. Geschrieben hat sie es größtenteils in ihrer Osloer Wohnung über etwa ein Jahr; es geht darum, den Menschen um sich herum mehr Aufmerksamkeit zu schenken. *Standing Still* handelt von der Angst vor Stillstand und einem schwindenden Selbstwertgefühl, *Forever as Her Friend* vom schmerzhaften Auseinanderbrechen einer Freundschaft, die unzerstörbar schien. Produziert haben *Daragh Patrick Wearen* und *Bård Berg*. Der Sound ist **Noir Pop** und **Alternative Pop** mit **Trip Hop**-, Jazz- und Soul-Anteilen: verraucht produziert, mit sanft hallenden Gitarren, weichem Schlagzeug, einem Klaviermotiv und einem intimen, gefühlvollen Gesang; genannt werden *Portishead*, *Tamino*, *Julia Jacklin* und *Michelle Gurevich*, als Inspirationen *Billie Holiday*, *Chet Baker*, *Nirvana* und *Mitski*. Zwölf Stücke in gut 42 Minuten: *Let It Burn*, *Love Is a Lonely Feeling*, *Standing Still*, *We Dream No More*, *Town Mouse*, *To Keep From Harm*, *Under The Sun*, *Melancholy*, *Forever as Her Friend*, *I Can See The World*, *1964* und *This Quiet*. Ein Album, das ruhig ist und trotzdem Spannung hält.
 
-::genre::
+::genre::noir pop, alt pop, trip hop
 
 ### Rhino Proof - Light, Dark, The End
 
-tbd
+Acht Jahre nach dem Debüt wieder da, mit neuen Leuten und dem Willen zur Klassik: *Rhino Proof* aus Joensuu, 2016 gegründet, melden sich mit *Light, Dark, The End* zurück, dem Nachfolger ihres selbstbetitelten Debüts von 2018, das in Europa gut ankam und in Italien und Portugal Platz vier der Hard-Rock-Highlights-Listen belegte. Besetzt sind *Jukka Nummi* (Gesang), *Pasi Nousiainen* (Bass), *Erkko Joronen* und *Rane Riikonen* (Gitarre) und *Sami Ratilainen* (Schlagzeug); produziert haben *Riikonen* und *Joronen*, gemastert hat *Jone Väänänen*, und Besetzungswechsel haben das Album verzögert. Die Band hat bei *Astral Haven Records* unterschrieben. Musikalisch ist das klassisch inspirierter **Heavy Metal** mit **Hard Rock**-Wurzeln, mit hohem Gesang, Twin-Gitarren-Kraft und altem Schmutz, gemischt mit moderner Energie, im Geist von *Judas Priest*, *Accept* und *Dio*. Vorab erschienen *Deeper Form of Love* und *My Life Is Fine*; letzteres handelt laut *Riikonen* davon, die Kontrolle über das eigene Leben zu behalten, und ist eine „starke Antwort“ an jemanden, der zu nah kommen und das eigene Leben ändern will. Acht Stücke in gut 40 Minuten: *Play by the Rules*, *Deeper form of Love*, *Alone with my sin*, *Even Closer*, *My life is Fine*, *Strong Enough*, *Shadows in the Rain* und *Safe Cracker*.
 
-::genre::
+::genre::heavy metal, hard rock
 
 ### SatchVai - The Sea Of Emotion
 
-tbd
+„Wir planen das seit 1973“, sagen *Joe Satriani* und *Steve Vai*, und nun ist es soweit: *The Sea of Emotion* ist das erste gemeinsame Studioalbum der beiden als *SatchVai*, erschienen bei *earMUSIC*. Es wuchs aus der G3-Reunion-Tour, die Zeit im Kalender frei machte; aus der Idee, ein Stück aufzunehmen, wurde ein Album, nachdem Satriani Vai zwei fertige Stücke geschickt hatte, *The Sea Of Emotion Pt. 1* und *Pt. 2*. Überraschung: Die beiden schreiben völlig verschieden, und dieser Gegensatz prägt die Platte. Teil 3 der Suite beginnt mit einer alten Spulentonband-Aufnahme aus einer von Vais frühen Unterrichtsstunden bei Satriani. Produziert hat *Eric Caudieux*, der auch Keyboards spielt; am Schlagzeug sitzen *Gregg Bissonette*, *Jeremy Colson*, *Kenny Aronoff*, *Matt Chamberlain* und *Mike Mangini*, am Bass *Billy Sheehan*, *Bryan Beller*, *Philip Bynoe*, *Matt Bissonette*, *Marco Mendoza* und *Henrik Linder*, und *Glenn Hughes* singt auf *I Wanna Play My Guitar*. Zehn Stücke in knapp 50 Minuten: *Mayhem*, *Bronco Freight Train*, *Dancing*, *The Feeling I Know*, *Zoot Suit Riot*, *Old Sins Have Long Shadows*, *I Wanna Play My Guitar*, *The Sea Of Emotion Pt. 1*, *Pt. 2* und *Pt. 3 / Reflections On A Year And A Half*. **Hard Rock**: rohes Rock ’n’ Roll auf *Mayhem* und *Bronco Freight Train*, dunkel-filmisches Material auf *Old Sins Have Long Shadows*, wilder Swing auf *Zoot Suit Riot*, Arena-Rock auf dem Stück mit Hughes. „Wir haben unseren Sound noch nicht gefunden, aber wir haben Begeisterung“, sagt *Satriani*; *Vai* nennt es „ein schönes Zusammenkommen von mir und meinem Freund auf sehr intime musikalische Weise“.
 
-::genre::
-
-### Sentries - Disciples Of Void & Fire
-
-tbd
-
-::genre::
+::genre::hard rock
 
 ### Shakhtyor - Simulacron
 
-tbd
+Als *Shakhtyor* 2009 in Hamburg antraten, sah der Plan klar aus: Instrumental-Doom. Schnell zeigte sich, dass dem Trio das nicht reicht, und Eile hatten sie ohnehin nie – *Simulacron* ist erst ihr drittes Album, nach dem selbstbetitelten Debüt von 2012 und *Tunguska* (2015); dazwischen lag 2017 das einstückige, knapp 14-minütige *Phobos*. Die Geschichte des neuen Albums reicht zurück in die Zeit vor der Pandemie, aufgenommen wurde es erst im Januar 2026 in der Tonmeisterei, erschienen ist es bei *Moment of Collapse Records*. Musikalisch ist das **Doom Metal**, **Sludge Metal** und **Post Metal**: Doom und Sludge treffen auf Black- und Death-Metal-Einflüsse, psychedelische Jams und Synthesizer-Texturen, grob irgendwo zwischen *Pink Floyd*, *Esoteric*, *Bolt Thrower* und *Totenmond*. Gesungen wird kaum: In *Das sechste Siegel* gibt es gesprochene Samples und Horrorfilm-Zwischenspiele, und erst im Schlussstück *Electric H.* wird geschrien. Das Trio besteht aus *Christian Müller*, *Nils Langbehn* und *Christian Herzog*, das Artwork gestaltete *Alexander von Wieding*. Sechs Stücke in gut 44 Minuten, drei davon über zehn Minuten lang (*Simulacron*, *Wolfmannsgehau* und *Electric H.*), dazu *Das sechste Siegel*, *Alone* und *Letzte Schleuse*. Wer sich für drei Alben 17 Jahre Zeit lässt, gönnt auch den Stücken ihre.
 
-::genre::
+::genre::doom metal, sludge metal, post metal
 
 ### Shit Hexis - Du wurdest noch nie geliebt
 
-tbd
+Ein Sludge-Duo aus Saarbrücken, das politischen Punk und die morbide Ästhetik von Death und Black Metal zusammendenkt: *Shit Hexis* legen mit *Du wurdest noch nie geliebt* vier Jahre nach dem selbstbetitelten Debüt ihr zweites Album vor, erschienen bei *Bleeding Heart Nihilist Productions*. Die alten Stücke lebten vor allem von rauer Attitüde, das neue Album entfaltet sich in einer klebrigeren, modrigeren Atmosphäre, mit düsterem, aufsteigendem Sludge zwischen *Incantation*, *Grief* und *Burning Witch*. Es spiegelt die politischen Entwicklungen der vergangenen Jahre von ihrer hässlichsten Seite und handelt vom Verlust von Glauben und Mitgefühl und von der Verzweiflung, auf einem sterbenden Planeten zu leben, nicht als fatalistische Resignation, sondern als fiebrige Selbstbefragung einer andauernden Entfremdung, die nur durch Wut und Solidarität überwunden werden kann. Das ist **Blackened Sludge Metal** und **Doom Metal**. Aufgenommen, gemischt und gemastert hat *Jan Oberg* im Januar 2026 im Hidden Planet Studio in Berlin, das Artwork stammt von Chris / Misanthropic Art, das Layout von *Joscha Bauer*, die Fotos von *Aaron Feller*. Zehn Stücke in gut 29 Minuten: *Geborgenheit*, *Leichentücher wehen*, *Das triste Grau in deinen Augen: opak*, *Messer am eigenen Hals*, *Kaum ein Kerker ohne Schimmel*, *Zurückgetrieben, ins dröhnende Schwarz*, *Auf Gedeih und Verderb*, *Als Gott seine Adern öffnet*, *Du wurdest noch nie geliebt* und *Zuflucht*. Ein Album, das mit *Geborgenheit* beginnt und sie nicht lange behält.
 
-::genre::
+::genre::blackened sludge metal, doom metal
 
 ### Shogun Mojo - Shogun Mojo
 
-tbd
+Man nehme einen *KISS*-Gitarristen, einen Sänger der *Dan Reed Network* und den Satz „Gitarrensolos will keiner mehr hören“ – heraus kommt eine Platte, auf der *Tommy Thayer* in jedem einzelnen Song eins spielt. So hat es *Dan Reed* selbst erzählt, und so klingt das selbstbetitelte Debüt von *Shogun Mojo*, erschienen bei *Frontiers Music*: **Hard Rock** mit dem Punch der späten Siebziger und frühen Achtziger, *KISS*-Hymnen und **Funk**-Grooves obendrauf, laut Reed eine „groovige, krawallige Funkrock-Feier des Lebens“. Eingespielt hat die Band es gemeinsam in einem Raum, so wie damals, und ausdrücklich ohne KI-Musik. Am Schlagzeug sitzt *Robert Mehmet Ikiz*, an der Gitarre spielt *Roger Öjersson*, produziert und aufgenommen hat *Geoff Tyson* (ein Schützling von *Joe Satriani*), gemischt hat *Rob Daiker*. In den Texten geht es um Spaltung, Wut und Angst und darum, sich von der Negativität nicht auffressen zu lassen. Zehn Stücke: *Fight for the Light*, *Under the Gun* (die erste Single), *Gonna Raise Hell*, *Fire with Fire*, *Dog Eat Dog*, *Turn It Up*, *Nothing to See Here*, *In the Air Tonight*, *Star Rider* und zum Schluss *Funk Party*, mitgeschrieben von *Brion James* von der *Dan Reed Network*. Wer hier leise feiern will, ist im falschen Film.
 
-::genre::
-
-### Siege Weapon - The Great Equalizer
-
-tbd
-
-::genre::
+::genre::hard rock, funk
 
 ### Sigurður - Niu lif Einars Hrafns
 
-tbd
+Neun Leben hat sonst nur die Katze – hier hat sie ein isländischer Junge, und er verbringt sie zwischen der Welt der Menschen und der übernatürlicher Wesen. *Niu lif Einars Hrafns* („Die neun Leben des Einarr, des Raben“) ist das Debüt von *Sigurður*, dem tschechisch-isländischen Soloprojekt des Musikers und Musikwissenschaftlers *Martin Sigurður Kajzar*, erschienen bei *Hypnotic Dirge Records*. Die Geschichte schöpft aus der nordischen Mythologie, vor allem der Edda, und erzählt sie neu und sehr persönlich: Einarr sucht Antworten auf die großen Fragen nach Sterblichkeit und Tod, am Ende opfert sich sein Vater, der praktischerweise ebenfalls Sigurður heißt, um ihn zu befreien, und der Epilog blickt auf einen Neuanfang nach Ragnarök. Musikalisch ist das **Atmospheric Black Metal** und **Melodic Black Metal** mit minimalistischen, tranceartigen Motiven, modalen Wechseln und wagnerschen Leitmotiven: der Tritonus steht für das Böse, der dorische Modus für die geistige Welt. Dazu kommen eine Variation über ein altes isländisches Wiegenlied und ein Choral auf einen Text von *Hallgrímur Pétursson* (1614–1674). Kajzar schrieb Musik und Texte im Sommer 2023 in Suðavík, spielt alle Instrumente und singt selbst, aufgenommen wurde im Winter 2024 im Studio 1922. Zusätzliche Stimmen steuern *Eyrún Tómasson*, *Sara Karabin*, *Nikola Kutejová*, *Michaela Kulichová* und – das steht tatsächlich so in den Credits – die Raben von Seyðisfjörður bei. Mix und Mastering teilen sich *Milan Vyležík* (Arrow Studio) und *Martin Roženek* (Southock Recording), das Cover stammt von *Martin „Zyca“ Richter*. Neun Stücke in gut 43 Minuten: *Formáli*, *Erda*, *Lóðurr*, *Kolga*, *Fenrir*, *Midgardsormr*, *Hœnir*, *Óðinn* und *Eftirmáli*. Wer die Edda bisher für trockene Lektüre hielt, wird hier eines Besseren belehrt.
 
-::genre::
+::genre::atmo black metal, melo black metal
 
 ### Sisar - Valo Valtaa Vielä Kaiken
 
-tbd
+Was passiert, wenn man *Cocteau Twins*, *Godflesh* und *Deftones* zusammen in einen Proberaum sperrt? Bei *Sisar* aus Helsinki kommt ein Debütalbum heraus, das bei *Svart Records* erscheint und vom Label als „schön, wütend und hypnotisch“ angekündigt wird. Das Duo *Nora Moberg* und *Remi Rousselle* (auf der Bühne zu dritt) nennt seinen Stil selbst Heavy Dream Pop: **Doomgaze** und **Dreampop**, getragen vom Gesang, mit schweren Gitarren und einem kargen Drumcomputer als Fundament. Es geht um Liebe, Tod und Veränderung, mit Bildern aus der Natur, dunkel und hoffnungsvoll, schwer und naiv zugleich. *Valo valtaa vielä kaiken* heißt sinngemäß „Das Licht wird noch alles einnehmen“, und es sind acht Stücke in gut 40 Minuten: *Linnut*, *Lohtu*, *Aurinko nousee illalla* („Die Sonne geht abends auf“), *Nälkä*, *Liekki*, *Aaveet*, *Vougo* und *Valo valtaa vielä kaiken*. Wer außer dem Duo mitgespielt hat, lag mir nicht vor.
 
-::genre::
+::genre::doomgaze, dreampop
 
 ### Slack Times - Casting
 
-tbd
+Neun Songs in gut 20 Minuten, in wenigen Takes live auf Band eingespielt: *Slack Times* aus Birmingham, Alabama, haben es mit *Casting* eilig – und doch ist es laut Band „kurz, aber überraschend“. Das Album erscheint bei *Meritorio Records* und ist **Jangle Pop** im Geist des frühen *Flying Nun*- und *K Records*-Katalogs, intim, unaufgeregt und leise süchtig machend, dazu mit Einflüssen von *Luna*, *Yuck* und *Sonic Youth*. Die Band lebt von der Neuerfindung: Das erste Album *Carried Away* (2022) klang als Fünferbesetzung größer, 2023 schrumpfte sie zum Trio und nahm die EP *Gone Things* (2024) auf, 2025 kam *Jonathan Ruiz* am Bass dazu. Heute spielen *Chris McCauley* (Rhythmusgitarre, Gesang), *Stuart Norman* (Leadgitarre), *Abby Anderson* (Schlagzeug, Percussion, Gesang) und Ruiz zusammen. Aufgenommen wurde Anfang 2026 in Columbus, Mississippi, gemeinsam mit *Hartle Road*, gemischt hat *Miles Jordan* auf Band; nur *Swing the Dial* und *In The Way* entstanden mit *Les Nuby* im Ol’ Elegante in Birmingham, gemastert hat *Álvaro Lissón*. Als Gäste sind *Max Hartleroad* (Backings, Keys auf *Smooth II*), *Toby Hartleroad* (Backings, EBow auf *Cast-out*), Miles Jordan (Backings) und *Seth Brown* (Gitarre und Backings auf *In The Way*) dabei. Das Coverbild *Sun Room* hat *Anne Herbert* gemalt. Die Stücke: *Right Time*, *Goodbye*, *Swing the Dial*, *Smooth II*, *Cast-out*, *Long Shot*, *Count Louder*, *Wayside* und *In The Way*. Kurz, aber nicht flüchtig.
 
-::genre::
+::genre::jangle pop
 
 ### Slain Thought - The Light Is A Nail
 
-tbd
+*Slain Thought* ist *Jason Mosheim* aus Pennsylvania, ein Ein-Mann-Projekt, das entstand, als Mosheim im Herbst 2020 nach einer Laufverletzung wieder zum Bass griff. *The Light Is a Nail* ist eine Mini-LP mit fünf Stücken, nach *A Failed Exorcism* (2022) und *Acedia* (2023). Es geht um Selbstbefragung als harten Ausweg aus einer quälenden Vergangenheit, um inneren Kampf, Wut und Melancholie mit vorsichtigem Optimismus und um ein zwanghaftes, suchtähnliches Muster; die Stücke führen von einem zerrissenen Zustand zu Klarheit und fragen am Ende, ob das ein Triumph ist oder ein neues, einsames Leben. Musikalisch verbindet das **Post Metal**, **Industrial Metal** und **Sludge Metal** mit Doom- und Black-Metal-Anteilen, irgendwo bei *Godflesh*, *Killing Joke*, *Saint Vitus*, *Yellow Eyes* und *Motörhead*; der Opener *Trance Interference* ist ein Doom-Thrash-Angriff mit Black-Metal-Einschlag. Geschrieben, aufgenommen und gemischt hat Mosheim alles zwischen Dezember 2021 und März 2026, das Radiorauschen in *Words of Comfort* steuerte *Maurice Mosheim* im März 2025 bei, gemastert hat *James Plotkin* im Mai und Juni 2026, Fotos und Gestaltung stammen von Mosheim selbst. Fünf Stücke in gut 31 Minuten: *Trance Interference*, *Words of Comfort*, *Drawn Blood Parting Clouds*, *The Light Is a Nail* und *Meditations on a White Flag*. Am Ende steht der letzte Nagel für die Vergangenheit.
 
-::genre::
-
-### Solitary Sanity - Genesis Of Despotism
-
-tbd
-
-::genre::
+::genre::post metal, industrial metal, sludge metal
 
 ### Sonic Moon - In Lack of Clarity
 
-tbd
+Bei einem Titel wie *In Lack of Clarity* würde man Nebel erwarten, und tatsächlich liefern *Sonic Moon* hazy Psychedelia – nur eben mit Riffs, die eher Kathedralen tragen als Wolken. Das zweite Album der Band aus Aarhus (gegründet 2016), nach *Return Without Any Memory* (August 2023), erscheint bei *Ripple Music*, ihrem neuen Label, und wird heavier und düsterer: bedrohliche **Stoner Doom**-Riffs, **Psychedelic Rock**-Dunst, kathedralengroße Grooves und hoch fliegender Gesang. Laut Band kam das Album aus einem persönlicheren, introspektiveren Blick und der Lust, die Doom-Seite stärker zu erkunden. Wie schon beim Debüt hat die Band selbst aufgenommen und produziert, in ihrem eigenen Studio; Mix und Mastering übernahm *Haldor Grunberg* im Satanic Audio (*Behemoth*, *Weedpecker*, *Dopelord*), das Artwork stammt von *Mirkow Gastow*. Besetzt ist die Band mit *Oliver Lyngkilde* (Gesang), *Jeppe Rasmussen* und *Emil Damgaard Andersen* (Gitarre), *Niclas Fritz Sørensen* (Bass) und *Emil Gam Klinkby* (Schlagzeug). Sieben Stücke in gut 43 Minuten: *Weightlessness*, *Stay Behind*, *Remembrance*, *Stasis*, *Beneath You*, *What Doesn’t Bloom* und *Eyes Wide Open*.
 
-::genre::
+::genre::stoner doom, psych rock
 
 ### Sour Worm - Fly
 
-tbd
+Vier Tage, Berlin, ein Album: *Sour Worm* aus Melbourne haben *Fly* fiebrig in Berlin aufgenommen, inspiriert von den neuen Wörtern, Erfahrungen und Ideen, die einem begegnen, wenn man auf der anderen Seite der Welt lebt. Das merkt man schon an den Titeln: *Little Gitarre*, *Bisou Bisou*, und am Ende steht das 30-sekündige *Tschüss*; verabschiedet wird das Album mit „Frieden und Liebe von Sauer Wurm“. Es ist nach eigener Zählung das vierte Album der Band, geschrieben von *JVD*, gemischt von *Dylan Young* (der auch den Bass auf *Little Gitarre* spielt) und gemastert von *Snowy*; *Ryan Powell* singt Backings auf *IDM*. Musikalisch ist es **Indie Rock** mit **Folk Rock**-Einschlag und Anklängen an Ambient und Elektronik. Zwölf Stücke in gut 37 Minuten: *Whole World Round*, *This Song*, *Fly*, *Little Gitarre*, *What Have You Been Put Here For?*, *Button Up*, *Hit Every Red*, *The Rose, The Thorn*, *IDM*, *Wanna Have Fun*, *Bisou Bisou* und *Tschüss*.
 
-::genre::
+::genre::indie rock, folk rock
 
 ### Spanish Love Songs - Future Nausea
 
-tbd
+*Welcome to Hell*, *Doom Tripping*, *Until the Sun Explodes* – an Weltuntergangstiteln mangelt es auf *Future Nausea* nicht, und doch hält die Band mit Liebe, Freundschaft und Gemeinschaft dagegen. *Spanish Love Songs* aus Los Angeles legen bei *Pure Noise Records* ein Album mit zwölf Stücken in gut 46 Minuten vor, produziert von *Chris Walla* und *Sarah Tudzin*. Es geht um politische Gewalt, Klimaangst, Spätkapitalismus und eine ungewisse Zukunft; der Sound ist laut und gitarrenlastig, **Punk Rock** zwischen **Pop Punk** und **Indie Rock**, von der Band als große Rockplatte angelegt, die sich bei Heartland-Rock bedient, aber ohne dessen Nostalgie. Die erste Single *Good American* ist ein wütender, treibender Song über Dienst und den Verrat der Institutionen. Davor erschienen 2025 die *No Joy Sessions* und *A Brief Intermission in the Flattening of Time*. Die Stücke: *Future Nausea*, *Good American*, *Welcome to Hell*, *New Fears*, *Living Blues*, *Jan666*, *Doom Tripping*, *Shadowland*, *No Dreams*, *Future Nausea Pt. 2*, *See You on the Way Out* und *Until the Sun Explodes*.
 
-::genre::
+::genre::punk rock, pop punk, indie rock
 
-### Steven Wilson - Requiem for a Village
+### Steven Wilson - Requiem for a Village *
 
-tbd
+Nach dem Weltraum (*The Overview*, 2025) nun das Dorf: Mit *Requiem for a Village* wechselt *Steven Wilson* vom All in ein winziges, unbekanntes Fleckchen der Britischen Inseln, das auf keiner Karte steht, das fiktive Larkstone, ein von der Moderne abgeschnittener Ort mit Folk-Horror-Einschlag, in dem Gemälde von *Stanley Spencer*, Geschichten von *M. R. James* und *Algernon Blackwood* und *Children of the Stones* nachhallen; auch der Film *Requiem for a Village* von 1975 stand Pate. Hinter der idyllischen Fassade lauert Unheimliches. Es ist sein neuntes Soloalbum, erschienen bei *Fiction Records*, ein **Progressive Rock**-Konzeptalbum, das Wilson in einem Heimstudio in Nordlondon ausdrücklich ohne KI und ohne korrigierende Studiotechnik gemacht hat: nur analoge Synthesizer, hörbare Unvollkommenheiten, etwa zwei Drittel aus gemeinsamen Sessions des Trios *Steven Wilson*, *Randy McStine* und *Russell Holzman*, später mit Overdubs ergänzt. Wilson spielt dabei auch Violine, Oboe und Schlagzeug, Instrumente, die er nach eigener Aussage nicht richtig beherrscht; die „Fingerabdrücke“ sollen hörbar bleiben. Erzählt wird das Ganze von *David Tennant*, geschrieben hat den Sprechtext *Andy Partridge* von *XTC*, der auch als Co-Produzent genannt wird; McStine ist ebenfalls Co-Produzent, Wilson mischte selbst. Gäste sind *Adam Holzman* (Keyboards auf *Now Departing*), *Katherine Priddy* (auf *Murmuration*) und *Lee Harris* (Gitarren auf *Cursus Fingerprint*). Zwölf Stücke in gut 54 Minuten: *Swirl in a Lark’s Eye*, *Requiem for a Village*, *The Same River Twice*, *Now Departing*, *Hiraeth*, *On Chapel Slope*, *Murmuration*, *Cursus Fingerprint*, *A Basket of Bees*, *Great Green Map*, *Wheel* und *The Old God Is Buried*.
 
-::genre::
+::genre::prog rock
 
 ### Straw Man Army - True North
 
-tbd
+Eine Hardcore-Band stellt den Verstärker ab: *Straw Man Army* haben *True North* für akustische Instrumente geschrieben, in drei Sessions zu je 72 Stunden in einer Hütte im Wald nördlich von New York. Das Album erscheint bei *La Vida Es Un Mus Discos* und folgt auf die selbsternannte LP-Trilogie von 2020 bis 2024, zuletzt *Earthworks*. Die Band, die sonst als **Hardcore Punk** unterwegs ist, nennt es ein Songwriting-Experiment; herausgekommen ist **Psychedelic Folk** mit üppigem Piano, Fingerpicking, Gong und mehrstimmigen Harmonien, mit Anklängen an *The Byrds*, *Love*, *Popol Vuh*, *Nick Drake* und *The Mob*. Es ist ein Konzeptalbum in der Praxis, nicht nur im Thema: Eine Figur geht schlafwandelnd durch die Albträume des Alltags, es geht um Umweltzerstörung, Tod, seelischen Zusammenbruch und den Abschied von lieb gewonnenen Mythen, und um die Frage, was „Frieden“ in Zeiten wachsender Gewalt, Inhaftierung und Skepsis gegenüber der Zukunft überhaupt bedeutet. Die Band beschreibt es als Musik, die um eine Zukunft trauert, die nie stattgefunden hat, mit vorweggenommener Trauer um etwas, das gerade erst beginnt. Hinter *Straw Man Army* stehen *Owen*, *Sean* und *Dan*; *Moses Brown* spielt zusätzlich Gitarre und Schlagzeug und experimentiert mit, *Franny* singt zusätzlich. Aufgenommen hat *Ian Rose* von August 2025 bis Juli 2026 im Daisy Chain in New York, produziert hat ihn die Band gemeinsam mit Rose, gemastert hat *Ville Valavuo*, die Lacke schnitt *Alex Gordon* in den Abbey Road Studios. Auf dem Cover ist die Skulptur *Mudmaid* (1988) von *Sue & Pete Hill* aus den Lost Gardens of Heligan in Cornwall zu sehen, die Samples in *Sky Burial* stammen aus Filmen von *Chris Marker*. Elf Stücke in knapp 33 Minuten: *11th Hour*, *Blood Tomorrow*, *Sleepwalker*, *Mourning Dove*, *Striking Home*, *Sky Burial*, *In The Garden*, *Straw Man Army*, *Alford*, *Falling Star* und *Laughing Landscapes*. Ein leises Album über laute Zeiten.
 
-::genre::
+::genre::psych folk, hardcore punk
 
 ### Stricken - From Dark Dimensions An Unspeakable Presence Awakens
 
-tbd
+Ein Titel wie ein Lovecraft-Kapitel, und die Musik hält mit: *Stricken* aus Seattle, 2017 gegründet, legen mit *From Dark Dimensions An Unspeakable Presence Awakens* ihr zweites Album vor, wieder bei *Horror Pain Gore Death Productions*, wo 2022 das Debüt *From A Well of Emptiness, A Stygian Serpent Born* erschien. Das Trio besteht aus *Rob Ropkins* (Bass, Gesang), *Nick Charlton* (Gitarre) und *Chris Wozniak* (Schlagzeug). Die Musik ist **Blackened Doom Metal** und **Sludge Metal**, vom Label als „experimentelle Alchemie der Stile“ beschrieben: erdrückend und gewaltig, dann wieder in tiefen Grooves, mit Epic- und Traditional-Metal-Anteilen, Doom-Tempi und einem eigenwilligen Sprechgesang, an den man sich erst gewöhnen muss. Als Bezugspunkte stehen *Neurosis*, *Inter Arma*, *Yob*, *Conan*, *Celtic Frost*, *Triptykon*, *Craft* und *High on Fire* im Raum, dazu kommen Anklänge an *Bathory*, *Venom*, *Bewitched*, *Beherit*, *Cirith Ungol* und *Manilla Road*. Thematisch geht es um das dunkle Unterbewusstsein, Selbstzerstörung, unsagbaren Horror, existenzielle Angst und Nihilismus. Aufgenommen wurde mit Charlton, gemischt hat Wozniak, gemastert hat *James Plotkin*, das Artwork stammt von *Tom Denney*; das Video zu *Darkness Impenetrable* entstand in Snohomish County am Fuß der Cascade Mountains. Fünf Stücke in gut 54 Minuten, das längste mit über 15: *Dust From The Grave*, *Darkness Impenetrable*, *Moonless*, *Touch Of Corruption* und *From Nothing To Nothing*. Man sollte Zeit mitbringen.
 
-::genre::
-
-### Sulta - New Era
-
-tbd
-
-::genre::
+::genre::blackened doom metal, sludge metal
 
 ### Sunday,June - Cinema
 
-tbd
+*Sunday,June* kommen aus Genf, sind eine spanisch-schweizerische Band und nennen ihren Sound selbst „Solar Psych“. *Cinema* ist ihr zweites Album, nach *Sun Glitter and Other Reflections* (März 2025), und erscheint bei *Spinda Records* und *Irascible Records*. Es dreht sich um Erinnerung, Sehnsucht und eine eingebildete Liebe und läuft ab wie ein Film aus Fragmenten, aus Orten, Gesichtern und Momenten, die nie ganz stattgefunden haben; Meer, Sonne und Landschaft sind die wiederkehrenden Schauplätze von Flucht, Heilung und Nostalgie. Musikalisch ist das **Psychedelic Pop** mit schimmernden Gitarren, weiten Keyboards und live gespielten Drums, organischer und filmischer als zuvor, irgendwo zwischen **Dreampop**, **Shoegaze** und Indie-Rock. Aufgenommen und gemischt hat es Produzent *Andy Savours* (*My Bloody Valentine*, *PJ Harvey*) live in den Chapel Studios in England, gemastert hat *Matt Colton* in den Metropolis Studios. Zur Band gehören *Mario Peiró Espinilleras* (Gesang, Rhythmusgitarre), *Vincent Breza* (Bass), *Audrey Croisier* (Leadgitarre, Backings), *Antoine Chapel* (Keyboards, Backings) und *Thomas Abbet* (Schlagzeug); dass der Keyboarder Chapel heißt und im Chapel Studio aufgenommen wurde, ist Zufall. Zehn Stücke in gut 36 Minuten: *I Want to Live in the Sun*, *Come Back*, *The Wanderer*, *Jellyfish*, *Reflection IV. The Sound of the Sea*, *The River*, *F.I.*, *Cinema*, *What If I Tried?* und *Together (Closing)*.
 
-::genre::
+::genre::psych pop, dreampop, shoegaze
 
 ### Sundots - On the Quay
 
-tbd
+*sundots* ist das Projekt von *Drew K. Collins* aus Connecticut, und *On the Quay* ist das erste Album, das wirklich als Band entstand: Den Weg dorthin zeigte die Single *Distraction*, die auf Tour mit *Panchiko* ausprobiert wurde und eine neue Art des gemeinsamen Schreibens eröffnete, die sich durch den Rest der Platte zieht. Es ist der Einstand beim Label *Nettwerk* und entfernt sich vom Slacker Rock und Slowcore des Vorgängers *Honeyspot* (2024) hin zu etwas Jammigerem, mit verwinkelteren Strukturen und geschärftem Sound: **Indie Rock** und **Bedroom Pop**. Gemischt, gemastert, produziert und aufgenommen hat *Kevin S. McMahon* im Marcata Recording in New Paltz, New York. Collins singt und spielt Gitarre, Shruti Box, Tape Loops, Field Recordings und Schlittenglocken, *Jake Fucci* Gitarre, Synthesizer, Rhodes und Gesang, *Austin Traver* Bass, Synthesizer und Gesang, *Nick Restivo* Schlagzeug, Gesang, Objekte und ebenfalls Schlittenglocken (die also gleich zweimal in den Credits stehen), und *Teo Hernandez* Synthesizer, Klavier, Gitarre, Shaker, Rhodes und Gesang; das Artwork stammt von *Lorenzo Torres Narciso*. Zwölf Stücke in gut 48 Minuten: *Birthday Song*, *Grassy Lawn*, *Moon, Moon*, *Getting Away*, *Idols*, *Distraction*, *Hazard*, *Someone Else’s Song*, *By the Water*, *Unfolded*, *This Life* und *kgkgkg*.
 
-::genre::
-
-### Surgent - Sin Eater
-
-tbd
-
-::genre::
+::genre::indie rock, bedroom pop
 
 ### Sycomore - Degrade
 
-tbd
+*Sycomore* aus Amiens nennen sich selbst ein „Sludge Groove Metal“-Trio, und das seit 2015: Nach *Phantom Wax* (2016), *Nectar* (2018), *Bloodstone* (2020) und *Antisweet* (2023) folgt *Dégradé*, erschienen bei *Araki Records*, einem Label, das sich eigentlich um Post-Rock, Math-Rock und Indie-Pop kümmert. Gesungen wird auf Französisch, musikalisch ist das **Sludge Metal** und **Groove Metal** mit **Post Hardcore**- und Noise-Rock-Schlagseite. Die Band besteht aus *Tim Drelon* (Gitarre, Gesang), *Guillaume Maillard* (Schlagzeug) und *Romain Caron* (Bass). Aufgenommen wurde im New Stage in Amiens, gemischt hat *Etienne Sarthou* im Hemlig Studio in Paris, gemastert *Brad Boatright* bei Audiosiege in Portland, das Artwork stammt von *Wood*. Vorab erschienen im August und September die Singles *Chat-Loup* und *Blague Salace*, im Juli kam außerdem das Livealbum *Live à la Manufacture*. Zehn Stücke in gut 38 Minuten: *Kavaliera*, *Robot Traqueur*, *Chat-Loup*, *Poil de Cercle*, *La Fissure*, *Blague Salace*, *Cave à Veine*, *Croix Triangle*, *Deprimus* und *Froid & Tragique*.
 
-::genre::
+::genre::sludge metal, groove metal, post hardcore
 
 ### Tangerine Stoned - Faded Dreams
 
-tbd
+Winterliche Meere, endlose Straßen, Motels, die aus dem Nichts auftauchen, ferne Städte, die am Horizont brennen: *Faded Dreams* ist das vierte Studioalbum von *Tangerine Stoned* und sammelt die Bilder, die die Band seit Jahren begleiten. Geschrieben wurde es über ein Jahr hinweg von den Geschwistern *Christian J.* und *Danielle Gasperini* zusammen mit *Francesco Guerra*, ein Album als Ort, an dem das Heilige und das Profane denselben Weg gehen und Wirklichkeit und Einbildung nebeneinander bestehen, ohne sich zu trennen. Musikalisch ist das **Psychedelic Rock** mit **Garage Rock**- und **Blues Rock**-Einschlag. Christian J. singt und spielt Gitarre und Harfe, Danielle Gitarre, Synthesizer, Keyboards, Bass und Backings (das Artwork stammt auch von ihr), Guerra Schlagzeug, Percussion und Backings. Die Band hat das Album selbst produziert und zu Hause in den Bevano Hills in Italien aufgenommen, gemastert hat es *Alessandro Gobbi*; erschienen ist es bei *Go Down Records*. Neun Stücke in gut 33 Minuten: *I Shoot the Moon* (mit Video), *Neon Bleeding*, *Open Sea*, *Faded Dreams*, *Let Me Try*, *Hide in the Fire*, *A Song for Jeffrey*, *Hey Lula!* und als Schlusspunkt eine Liveaufnahme von *L.A. Gloaming (Fat City)*.
 
-::genre::
+::genre::psych rock, garage rock, blues rock
 
 ### The Argon Room - Algorithms For Happiness
 
-tbd
+Ein einsamer Überlebender in der Leere des Weltraums: Das ist die Hauptfigur von *Algorithms for Happiness*, dem Konzeptalbum von *The Argon Room* aus Sydney, die nach eigener Aussage kleiner geworden sind, dafür aber weiter denken. Es geht um die Unwirklichkeit des Lebens im Vakuum, die Sinnlosigkeit der Zeit, Hoffnung, Furcht und Existenz. Der Sound ist eine brütende, filmische Atmosphäre mit psychedelisch angehauchtem, klingelndem **Indie Rock**, **Dreampop** und **Neo Progressive Rock**, dazu langsam brennende, hymnische Höhepunkte. Die Band sagt, es klinge nicht nach *The Church*, *Thom Yorke* oder *David Sylvian*, aber wer die mag, könnte es mögen; mit *David Bowie* und *The Cure* komme man näher. Davor erschienen *Semaphore* (2012) und *Don’t Need A Reason* (2019), im Oktober 2026 kam die Single *Empty Star* vorab. Produziert, aufgenommen und gemischt hat *Timothy Powles* im Spacejunk V, zusätzliche Produktion und Aufnahmen kommen von *Simon Starling* (SpacefolkCanal), die Arrangements stammen von Powles und Starling, zusätzlich gemischt hat *David Trumpmanis*, gemastert haben *William Bowden* und Powles im King Willy Sound; Art Direction und Fotografie machte Starling, das Design *Ultra Vivid*. Zehn Stücke in gut 41 Minuten: *Holding My Head*, *Empty Star*, *Shadows Are Light Gone*, *Am I.. Hello*, *Tug Of War*, *Maybe There’s Hope*, *A Moment Too Long*, *Algorithms For Happiness*, *Last Star* und *Future Colonies*.
 
-::genre::
-
-### The Artistic Llama - Epitome Of Creativity
-
-tbd
-
-::genre::
+::genre::indie rock, dreampop, neo prog rock
 
 ### The Autocollants - Hidden Smile
 
-tbd
+25 Jahre Pause, ein langes Wochenende und plötzlich ein Album: *The Autocollants* aus Portland, Oregon, waren Ende der Neunziger mit 7-Zoll-Singles und der Compilation *Why Couldn’t Things Just Stay the Same* (*Shelflife Records*, 1999) vertreten, fanden 2025 wieder zusammen, nachdem sich eine neue Generation von Indiepop-Fans für sie interessierte, spielten ein paar Konzerte in Los Angeles und setzten sich dann ein langes Wochenende lang hin, um neue Songs zu schreiben. Daraus wurde *Hidden Smile*, ihr „lang erwartetes erstes Album“, gemeinsam erschienen bei *Shelflife Records* und *Precious Recordings* aus London: **Indie Pop** und **Bedroom Pop** der schlichten, unprätentiösen Sorte. Es geht um Freundschaft, Nostalgie nach den frühen Songs und soziale Unbeholfenheit, siehe die erste Single *Every Social Interaction*. Das Quartett besteht aus *Laura Watling* (Gesang, Bass, Percussion, Okarina; sie schrieb alle Texte und zeichnete die Illustrationen), *Ed Mazzucco* (Gitarre; er mischte und masterte 2025/26 in den Shelflife Studios in Portland), *Dwayne Palasek* (Schlagzeug, Trompete) und *Tim Morris* (Gitarre); als Covermodel ist *Janice Headley* zu sehen. Im Mai 2026 erschien bereits ein Split mit *The Cat’s Miaow*. Zwölf Stücke in gut 37 Minuten: *Azurite*, *Every Social Interaction*, *Version 1*, *Dirty Clean*, *Situate Me*, *Where I Am Right Now*, *Not Enough*, *April*, *Good As Yesterday*, *Song For My Band*, *South* und *Bossa*. Wer nach 25 Jahren Pause immer noch Okarina und Trompete mitbringt, hat nichts verlernt.
 
-::genre::
+::genre::indie pop, bedroom pop
 
 ### The Bardic Depths - Is It Relayer?
 
-tbd
+*Is It Relayer?* ist laut Band ein Begleitalbum zu *Some Things Are Worth Remembering* (August 2026), dem vierten Album der Briten *The Bardic Depths*, einer melodischen Progressive-Rock-Gruppe um *Dave Bandana* mit *Peter Jones*, *Gareth Cole* und *Tim Gehrt*; Texte und Konzepte stammen von *Brad Birzer*. Auf dem Album finden sich bisher unveröffentlichte Songs, neue Mixe und frühe Fassungen, darunter alte Bekannte aus früheren Alben der Band, die hier als *The Feast Is Over 2026 Remix*, *And She Appeared 2026 Remix*, *Legacies (with Pete’s Vocal Mix)* oder *Regal Pride Early Version* wiederkehren. Es ist **Progressive Rock**, und der Opener *Song For Spike (Is It Relayer?)* ist mit gut elf Minuten das längste Stück. Eine Spende geht an die Macmillan Nurses, zum Gedenken an *Spike Worsley*. Acht Stücke in gut 52 Minuten: *Song For Spike (Is It Relayer?)*, *The Feast Is Over 2026 Remix*, *Old Delights Take 8*, *And She Appeared 2026 Remix*, *Wastelands*, *Legacies (with Pete’s Vocal Mix)*, *Regal Pride Early Version* und *Fallen Leaves From Empty Trees*. Wer spielt, ist auf der Seite nicht aufgeführt, ein Label ebenfalls nicht.
 
-::genre::
-
-### The Church - Lacuna
-
-tbd
-
-::genre::
-
-### The Destruction Of The Cult Of The Sun - Interplay
-
-tbd
-
-::genre::
+::genre::prog rock
 
 ### The Jack Knives - Negative Spaces
 
-tbd
+Melodischer Punk aus dem Orange County: *The Jack Knives* aus Santa Ana, Kalifornien, legen mit *Negative Spaces* zehn Stücke in gut 37 Minuten vor, produziert von *Pete Steinkopf*, die gesprochenen Passagen steuert *Tom May* bei. Das ist **Punk Rock** mit **Pop Punk**-Schlagseite. Vorab erschienen im Lauf des Jahres 2026 *La Sirena* und *Late Nights in London* (als Double A-Side im Juni), *Glory or Fame?* (Juli) und *One Eleven* (September); davor kamen *Ghost Radio* (Dezember 2023), die Sammlung *Ghosts of September (The Singles Collection)* (Januar 2024), *Live at Riffs (Acoustic)* (Mai 2024) und *Into the Night* (Mai 2025). Die Stücke: *One Eleven*, *La Sirena*, *St. Marks*, *The Lights*, *Glory or Fame?*, *Late Nights in London*, *Cigarettes and Troubadours*, *Marissa*, *Union Pacific Car 5875* und *Built by Us*. Das Album beginnt mit *One Eleven* und endet mit *Built by Us*; dazwischen liegt melodischer Punk, der sich Zeit nimmt.
 
-::genre::
+::genre::punk rock, pop punk
 
 ### The Maggots From Your Underpants - Too Dumb To Die
 
-tbd
+Ihre Demo hieß *Too Shitty To Be An Album*, jetzt heißt das Album *Too Dumb To Die*: *The Maggots From Your Underpants* aus Frankfurt am Main spielen **Punk Rock** der Sorte Ramonescore, inspiriert von *The Ramones*, *The Queers*, *Teenage Bottlerocket* und *Teen Idols*, mit Songs über Herzschmerz, Horror und die Liebe zu Hawaii-Pizza. Aufgenommen wurde am 25. September 2026 in Zwickau bei Schockeffekt Records, gemischt und gemastert hat *Lukas Schmidt*, das Artwork stammt von *Marco About*, erschienen ist das Ganze bei *Scuderie Ducali Records*. Neun Stücke in gut 14 Minuten: *Intro*, *The Girl Who Sliced Up Freddy Krueger*, *XXXX-XXXX*, *Bloody Salted Popcorn*, *Zombie Bembel Drinkers*, *Drunken Misanthrope*, *I Hate Fish*, *The Generic Breakup Song* und *And Then I Saw Pink Elephants*. Wer Fisch hasst, Popcorn blutig salzt und Bembel-Zombies fürchtet, ist hier genau richtig.
 
-::genre::
+::genre::punk rock
 
 ### The MC2 Project - Shades of Life
 
-tbd
+*The MC2 Project* aus Denver, Colorado, sind eine Prog-Rock-und-Fusion-Band, die ganz ohne Gesang auskommt und Rock, Klassik und Jazz zusammenbringt. *Shades of Life* ist ihr Album nach *On the Way Out* (2022), *A Day At The Slopes* (2024) und *Chasing Rainbow* (2025): zwölf Stücke, die sich durch Unsicherheit, Erinnerung, kollektive Energie, Gefahr, Humor und Momente des Ankommens bewegen. Manche Kompositionen begannen mit einer Geschichte oder einem Bild, bei anderen zeigte die Musik erst nach und nach, welche Geschichte in ihr steckt; Lektionen oder endgültige Antworten sind das ausdrücklich nicht, eher Beobachtungen, die zu instrumentalen Erzählungen geformt wurden. Musikalisch ist das **Progressive Rock** und **Jazz Fusion**, durchgehend **Instrumental**. Das eigentliche Album mit zehn Stücken endet mit *Summit (Closure)*, danach folgen als „leichterer, geselligerer Epilog“ die Bonusstücke *Funny Stroll* und *Town Fair*. Hinter der Band stehen *Anthony A-man* (Gitarre, auf Track 10 und 11 Keyboards, außerdem Produzent und Komponist), *Larisa Gorodinski* (Keyboards außer auf Track 10, Komposition), *Matt Skellenger* (Bass außer auf Track 11, dort spielt *Andy West*) und *Alex Bituckih* (Schlagzeug); für den Ton sorgte *Alex JaJa*. Zwölf Stücke in gut 64 Minuten: *Shades of Life*, *Spinning World*, *Storyteller*, *Troubling Canyon*, *Notre Dame*, *Restless Night*, *Icebreaker*, *Remembering*, *Rising*, *Summit (Closure)*, *Funny Stroll* und *Town Fair*.
 
-::genre::
+::genre::prog rock, jazz fusion, instrumental
 
 ### The Pill - I NEED TO BE A WEAPON
 
-tbd
+Zwölf Stücke in knapp 28 Minuten, und *Sams* Gesang reicht vom Flüstern bis zum Schreien und klingt mal nach mehreren verschiedenen Stimmen: *I Need To Be a Weapon* ist das zweite Album von *The Pill* aus Frankfurt, nach *Hollywood Smile* (2024), erschienen bei *Sounds Of Subterrania*. Die Band, ein Quintett, das über eine Art „Musik-Tinder“ zusammengefunden hat (laut Bio trifft eine Künstlerin mit Wohnsitzen in Berlin, Los Angeles und Tokio, die irgendwo strandet, zufällig auf Musiker von *Superfan*, *The Monochords* und *Coach*), bleibt mit beiden Beinen auf dem heiligen Boden des **Hardcore Punk**, sehr schnell und mit Anklängen an frühen US-Punk: *Poor Thing* könnte als Stück von *Reagan Youth* durchgehen, *I’m Gonna Say It* beginnt wie *We Gotta Know* von den *Cro-Mags*. Dazu mischen sich New Wave, Post-Punk, Death Metal, Black’n’Roll, Spoken Word und Spuren von Alternative Rock. Die Texte schrieb *Sam*, sie handeln von der Verdinglichung von Frauen in der Schönheitsindustrie, von innerem Aufruhr und vom Widerstand gegen den Druck der Welt; als Höhepunkte gelten *Big Knife* und *I Heart You*, melodisch, ohne an Wucht zu verlieren. Aufgenommen, gemischt und produziert hat *Michel Wern* im Studio 48, die Musik stammt von The Pill. Davor gab es 2023 ein Demo-Tape und im Lauf des Jahres 2026 die Vorab-Stücke *Nighttime Routine*, *Big Knife* und *Boys Will Be Boys*. Die Stücke: *Poor Thing*, *Nighttime Routine*, *Big Knife*, *Half Rats*, *Boys Will Be Boys*, *I Heart You*, *I’m Gonna Say It*, *Manic Pixie Dream Girl*, *Puppeteer*, *Bad Thing*, *Suspicious* und *Poison Hemlock*. Das längste Stück, *Bad Thing*, dauert gerade einmal 3:31.
 
-::genre::
+::genre::hardcore punk
 
 ### This Brutal World - One Finger Left
 
-tbd
+Zwei Stücke, zusammen knapp 20 Minuten, und am Ende ein Cellosolo: Die EP *One Finger Left* von *This Brutal World* aus Hamburg ist das erste neue Material seit dem Debütalbum von 2021. Die Band, vier Leute aus Norddeutschland, die nach eigener Aussage gern langsam und schwer spielen und in Hass und Trauer schwelgen, serviert **Doom Metal** und **Sludge Metal**: *The Battle* (9:28) wächst aus einem nebligen Intro zu erdrückenden Riffs und einem Solo, das sich schließlich befreit, *Consume Me* (9:48) schleppt sich fast zehn Minuten durch Gewicht und gespenstische Synthesizer, bevor ein Cellosolo die Platte beschließt. Alles ist selbst geschrieben, aufgenommen und veröffentlicht.
 
-::genre::
-
-### Thousand Mile Fall - Sleeping Pill
-
-tbd
-
-::genre::
+::genre::doom metal, sludge metal
 
 ### thrown - UNWANTED
 
-tbd
+Die schwedischen Metalcore-Newcomer *thrown* haben bei *Arising Empire* mit *UNWANTED* ihr zweites Album vorgelegt, nach der EP *Extended Pain* (März 2022) und dem Debüt *Excessive Guilt* (August 2024). Elf Stücke in gut 21 Minuten, kompakt und auf Wirkung gebaut: **Modern Metalcore** mit Hardcore- und **Nu Metal**-Anteilen. Besetzt ist die Band mit *Marcus Lundqvist* (Gesang), *Johan Liljeblad* und *Andreas Malm* (Gitarre) und *Buster Odeholm* (Schlagzeug, der auch produziert und mischt und von *Vildhjarta* und *Humanity’s Last Breath* bekannt ist); gemastert hat *Seth Munson*. In den Texten geht es um Selbstvorwürfe und das Gefühl, unerwünscht zu sein, um Depression und dunkle Gedanken, um Reue und Entschuldigung, aber auch um Wut auf Kritiker und auf Menschen, die einen verletzt haben, und um den Wunsch, sich zurückzuziehen. Vorab erschienen *split* (April 2026), *rehearsed* (Juni) und *critic* (August). Die Stücke, alle klein geschrieben: *critic*, *don’t be fooled*, *unwanted*, *rehearsed*, *doing great*, *type of way*, *off*, *split*, *hard times*, *bare minimum* und *subpar*.
 
-::genre::
+::genre::modern metalcore, nu metal
 
 ### Thūn - IV: Changeling
 
-tbd
+*Thūn* begannen in der Pandemie 2020/21 als Resteverwertung: *Jon Higgs* hatte Songideen, die seine Hauptband *Monsterworks* nicht brauchte, daraus wurde ein eigenes Projekt, zu dem *James Knoerl* (auch bei *Aviations* und *Gargoyl*) als Schlagzeuger stieß. *IV: Changeling* ist die vierte Folge, nach dem selbstbetitelten Debüt (Juni 2021), *II: Where All Truths Lie* (Juli 2022) und *III: Dreadstorm* (September 2025), und erschien am 6. November bei *Eat Lead and Die Music*. Es ist eine internationale Fernbeziehung: Die Mitglieder leben in Großbritannien und den USA, nehmen getrennt auf, und Higgs (Gitarren, Bass, Gesang, Produktion, Mix) setzt alles zusammen; die Drums entstanden etwa zur Zeit des dritten Albums, vor rund vier Jahren. Als Gast spielt *Karl Sanders* (*Nile*) die Leadgitarren auf allen Stücken, den Higgs vor etwa 15 Jahren bei einer Gitarrenstunde vor einem Nile-Konzert in London kennengelernt hat. Gemastert hat *Dan Swanö* im Unisound, mit dem Ziel, die Dynamik zu erhalten und dem Loudness War aus dem Weg zu gehen. Die Band beschreibt ihre Musik als epischen Death Metal mit dissonantem Doom und Wurzeln im klassischen Heavy Metal (*Black Sabbath*, *Judas Priest*), also **Death Doom Metal** und **Heavy Metal**, selbst nennt sie es „bizarren, vom Death Metal durchtränkten Prepostermetal“. Ein klassisches Konzeptalbum ist es ausdrücklich nicht, doch bleiben Verbindungen zum ursprünglichen Thema des Projekts, kosmischem Horror (*H. P. Lovecraft*) und Umweltzerstörung; in den Texten geht es außerdem um religiöse und klerikale Korruption und die Ausbeutung durch Konzerne. Sechs Stücke in gut 32 Minuten: *Cosmic Fortress*, *The Absurd Duty*, *Heirophant*, *In the Hours Awake*, *Changeling* und *Hunter Down*.
 
-::genre::
-
-### Titans of Mars - Aethos
-
-tbd
-
-::genre::
-
-### Torment - Torment Demo
-
-tbd
-
-::genre::
+::genre::death doom metal, heavy metal
 
 ### Torve - Рубеж
 
-tbd
+*Torve* kommen aus Penza in Russland und nennen ihren Sound selbst „Sound of Metal / Hardcore“; *Рубеж* (*Rubezh*, sinngemäß „Grenze“) ist das neue Album, nach *Бремя Несоответствия* (September 2023), *Ради общего блага* (Juli 2020), *Manifest* (Dezember 2018) und *From the Land of the Barbarians* (Dezember 2017) sowie der EP *Without Words* (2014). Gesungen wird auf Russisch, musikalisch ist das **Metallic Hardcore** in der chaotischen, dunklen Spielart. Die Band besteht aus fünf Leuten, der Sänger war bis 2017 bei *No Body No Murder*; als Gäste sind *Scumback* auf *45 Смелых* und *The Barber* auf *Слово и дело* dabei. Aufgenommen und gemischt hat *Igor Butz* im Pentagram House in Moskau, gemastert hat *Brad Boatright* bei Audiosiege in Portland, Oregon, das Artwork stammt von *David SC* aus Montreal. Sieben Stücke in gut 23 Minuten: *45 Смелых*, *Как один*, *5 за 3*, *Quod licet Jovi*, *Ответ*, *Слово и дело* und *Воззвание*. Ein Label ist auf der Seite nicht genannt.
 
-::genre::
+::genre::metallic hardcore
 
 ### Tove Styrke - I thought this story wasn’t about me
 
-tbd
+Eigentlich sollte das Album *The Afterparty* heißen, dann merkte *Tove Styrke*, dass die Geschichte ihre eigene geworden war, und taufte es *I thought this story wasn’t about me*. Es ist ihr fünftes Album, das erste seit *HARD* (2022), erschienen bei *Sony Music*, und es erzählt eine einzige Nacht von der Dämmerung bis zum Morgen rund um eine Afterparty, gedacht zum Durchhören, eher wie ein Filmscore als wie ein typisches Popalbum. Styrke hat es gemeinsam mit *Magnus Larsson* produziert, der auch mitgeschrieben hat; dazu kamen *Joel Kiviaho* (Schlagzeuger und Produzent bei *Boko Yout*) und die Songwriterin *Linnéa Martinsson* (*Lune*). Aufgenommen wurde live oder mit Analogtechnik, ohne Samples, mit Synthesizern aus den Siebzigern und Achtzigern, echtem Schlagzeug und E-Bass und mit viel Sinn für Spannung; als Einflüsse nennt sie *Kraftwerk*, *Laurie Anderson*, *Boards of Canada*, *LCD Soundsystem*, *Jon Hopkins*, *Adrianne Lenker* und *Alex Cameron*. Das ist **Alternative Pop** mit **New Wave**-Anklängen, verträumt und mit Achtziger-Einschlag. Inhaltlich geht es um persönliche Kämpfe, Verdrängung und Selbsterkenntnis, um Einsamkeit, Nähe und die Distanz zwischen Menschen und um das Leben in einer „wirklich seltsamen Zeitenblase“; Mutterschaft, die Rückkehr zur Natur und ihr Studium des biodynamischen Gartenbaus haben das Album mitgeprägt. Insgesamt sind es 16 Songs, vorab erschienen *Prayer* (Januar, ihre Comeback-Single), *Space*, *Song and Dance Man*, *Let’s Go Camping*, *Sunflower* und *Me/You (always and forever)* (18. September). Eine vollständige Tracklist lag mir nicht vor.
 
-::genre::
-
-### Troll Mother - A Tale for Two
-
-tbd
-
-::genre::
+::genre::alt pop, new wave
 
 ### Trope - Dyad
 
-tbd
+Ein Doppelalbum, auf dem ein Song gleich zweimal vorkommt: *Here’s to the Lonely* steht auf *Dyad* einmal mit *Gavin Harrison* (Track 6) und einmal mit Harrison und *Tony Franklin* (Track 18), und diese zweite Fassung erschien schon im Februar 2024 als Single. *Trope* aus Los Angeles, 2016 gegründet und nach eigener Beschreibung eine Alternative-Rock-Band mit Progressive-Einschlag, legen damit ihr zweites Album nach *Eleutheromania* (März 2021) vor: 18 Stücke in knapp 79 Minuten, das ist **Progressive Rock** und **Alternative Rock**. Getourt ist die Band mit *The Pineapple Thief*, *Haken*, *Symphony X* und *Kings X*; vorab erschien im November 2025 außerdem *SIGIL*. Die Stücke: *Spoiled Leaves*, *Callous*, *Fever Dream*, *Walk on Water*, *SIGIL*, *Here’s to the Lonely* (feat. *Gavin Harrison*), *Past*, *Lie*, *Golden Brown*, *Seven Winters*, *Incurable*, *A Mare’s Nest*, *Glory*, *Slipping Away from Me*, *Happiness*, *What I Want*, *Use* und *Here’s to the Lonely* (feat. *Gavin Harrison* und *Tony Franklin*). Ein Song in zwei Fassungen – bei 78 Minuten ist dafür Platz.
 
-::genre::
+::genre::prog rock, alt rock
 
 ### TV Priest - Cartoons
 
-tbd
+*TV Priest* aus London nennen *Cartoons* ihr bisher ehrgeizigstes und weitestes Album und lassen ihr Post-Punk-Fundament (*Uppers*, 2021, und *My Other People*, 2022) hinter sich: treibende Gitarren, programmierte Drums, Field Recordings und tanzbare Tieftöne, zugleich filmisch und intim. Das ist weiterhin **Post Punk**, nur mit tanzbarem Unterbau. Die Texte handeln von der Dauerverfügbarkeit des Alltags, digitaler Überforderung, Hyperrealität und dem Wandel des modernen Lebens, von Angst, Zärtlichkeit und Widerstandskraft, von Wut, Trauer und Verbundenheit mit Momenten der Klarheit mitten im Lärm. Die Platte entstand als vielschichtige, gemeinschaftliche Arbeit, die Lead-Single *The Mud Never Dries* verbindet Post-Punk, Drum-and-Bass-Texturen, elektronisches Sampling und Spoken Word. Erschienen ist das Album bei *Kartel Music Group*. Zehn Stücke in knapp 40 Minuten: *Just So You Know*, *Cartoons*, *Ultraviolet Blue*, *The Mud Never Dries*, *A Song From The Riverbed*, *Love Song (A Good Kind Of Weapon)*, *Into Shape*, *Daily Recommendations*, *I Am* und *Epping*.
 
-::genre::
+::genre::post punk
 
 ### Twisted Teens - The Holy Cross Tigers
 
-tbd
+Das dritte Album in einem Jahr, und das erste bei *Sub Pop*: *Twisted Teens* aus New Orleans haben 2026 schon *Blame the Clown* (Power-Pop) und *Florida Water Blues* (Country-Punk, Juli) veröffentlicht, jetzt folgt *The Holy Cross Tigers*. Hinter der Band stehen *Caspian Hollywell* (Gesang, Gitarre und weitere Instrumente, früher bei den Folk-Punks *Blackbird Raum*) und *R.J. Santos* (Console-Steel-Gitarre), live verstärkt durch *Mel Billiard* an der Gitarre; auch zum neuen Album hat Billiard viel beigetragen. Musikalisch ist das **Punk Rock** und **Garage Punk** mit Rock’n’Roll im Blut, „melodisch krawallig“, mit Power-Pop-, Country-Punk-, Surf- und Exotica-Einflüssen und jeder Menge Twang. Entstanden ist es nach einer Trennung, auch wenn Hollywell es nicht Trennungsalbum nennen will: „Unsere Alben sind eher das, was in der jeweiligen Woche passiert ist.“ Trauer und Frust ziehen sich durch die Songs. *Be An Angel* hat Santos’ Steel als Atmosphäre, *Lock and Key* geht auf einen Nachbarn zurück, der ein Kartell verpfiffen haben soll, *Every Flower* beginnt mit elektronischen Blips und wird zu einem diesigen, finsteren Trauermarsch, und der Schluss, *Darker the Night Is the Brighter I See*, ist akustisch und mit einem analogen Leier-Effekt versehen. Mastering: *Jaxon Vesely*. Dreizehn Stücke in gut 33 Minuten: *Stalks*, *When We First Met*, *Be An Angel*, *Blue Rose*, *I Spend My Time Crying*, *Blue Flower*, *I Bring*, *Look In The Mirror*, *Lock And Key*, *Figure It Out*, *Armed With A Vision*, *Every Flower* und *Darker The Night Is The Brighter I See*. Ein lautes Album mit leiser Schlussnummer.
 
-::genre::
+::genre::punk rock, garage punk
 
 ### Underdark - O Come Forth Annihilation
 
-tbd
+*Underdark* aus Nottingham bleiben bei ihrem Thema, dem Zustand Großbritanniens: Nach *Managed Decline* (2023) richtet *O Come Forth Annihilation* den Blick laut Label vom historischen Verfall auf die Krisen der Gegenwart und auf versprochene Zukünfte, die nie eingetreten sind, wütend und nihilistisch, aber mit Momenten von Wärme und mit persönlicherem Zuschnitt. Das Album erscheint bei *Church Road Records* und ist **Post Black Metal**, dunkler und schwerer als früher und mit **Post Metal**- und **Post Hardcore**-Anteilen: ein trockener Black-Metal-Sound, der Raum für die Post-Metal-Instrumentierung lässt. Von den sieben Stücken sind zwei Zwischenspiele: *Annihilation Overture* (unter einer Minute) geht in *The Hit Piece* über, beide beginnen mit gesprochenem Wort, *Hollow Platitudes* (knapp zwei Minuten) ist reine Atmosphäre. *Death of a Toolmaker* ist das schwärzeste und schnellste Stück, *Non Linear Warfare* (die erste Single) hat ähnliche Intensität, einen melodischen Mittelteil und ein filmisches Ende, und der Schluss *Children of Men* kommt mit leisen Gitarren, zerbrechlichem Gesang und einem gesprochenen Teil. Aufgenommen und gemischt hat *Joe Clayton* im No Studio, gemastert hat *Magnus Lindburg*. Davor gab es *Our Bodies Burned Bright On Re-Entry* (2021), *Plainsong/With Bruised & Bloodied Feet* (2020) und *Mourning Cloak* (2016). Sieben Stücke in gut 42 Minuten: *Annihilation Overture*, *The Hit Piece*, *Death of a Toolmaker*, *Hollow Platitudes*, *Foucault Wept*, *Non Linear Warfare* und *Children of Men*. Die Besetzung lag mir nicht vor.
 
-::genre::
-
-### United Stare - Mental Illness Children
-
-tbd
-
-::genre::
+::genre::post black metal, post metal, post hardcore
 
 ### Utopia PKWY - Debut
 
-tbd
+Utopia Parkway heißt eine Straße in Queens, die mit dem Surrealisten *Joseph Cornell* verbunden ist, und *Utopia PKWY* ist das neue Projekt von *John Beckmann*, dem Songwriter und Produzenten hinter *The Mortal Prophets*. Das Album heißt schlicht *Debut* (manche Quellen führen es als selbstbetiteltes Album) und erscheint am 6. November: Es ist eine melodischere, optimistischere Variante von Beckmanns früherem, spukhaft-filmischem Sound, mit Pop-Unmittelbarkeit und „art-damaged intelligence“, ein „privates Universum aus Erinnerung, Vorstadtlicht, beschädigtem Pop und seltsamen Talismanen“. Beckmann schreibt und produziert, den Gesang übernimmt *Tanner McGraw*, *Lawson Mars* singt Backings. Es klingt nach schimmernden Keyboards, Gitarren, die in Atmosphäre verschwimmen, Theremin und Sitar, also **Psychedelic Pop** und **Art Pop** mit Synthwave-Einschlag, mit *Syd Barrett*, *Robert Wyatt*, *Cocteau Twins* und *Slowdive* als Bezugspunkten. Vorab erschienen *I Knew You Would Be Trouble*, *Sleep In Moving Colors* (14. August) und *Nothing Is Missing* (25. September). Zehn Stücke: *I Knew You Were Trouble*, *Sleep In Moving Colors*, *Nothing Is Missing*, *If I Could Steal One More Kiss*, *You Talk Like Every Feeling*, *What Disappears*, *Come In Waves*, *Glitter And Doom*, *Fall Into You* und *Dreaming I’m A Rock Star*. Ein Label ist nicht genannt, vorbestellen lässt sich das Album über die Website des Projekts.
 
-::genre::
-
-### Valley - Sky Burial
-
-tbd
-
-::genre::
+::genre::psych pop, art pop
 
 ### Veil Piercer - This Will Not Be Painless...
 
-tbd
+Ein Medium eröffnet die EP und meldet sich zwischen den Songs immer wieder, wie ein Erzähler mit finsterer Präsenz, und der Gesang von *Liam Drewe* ist die „dunkle Kraft“, von der es spricht: *This Will Not Be Painless...* ist die Debüt-EP von *Veil Piercer*, einer Groove-/Death-Metal-Band aus Manchester, die sich im Juni 2025 gegründet hat und rund sieben Monate später aufnahm. Sie erscheint bei *Prog On! Recordings*. Sechs Séance-Aufnahmen vom 25.10.85 (19:19 bis 19:42 Uhr) trennen die fünf Songs, und was es mit dem Datum auf sich hat, erklärt keine der Quellen. Es geht um Tod, Jenseits und Horror-Atmosphäre, um Séancen, Geister, einen schützenden Kreis und das, was „jenseits unserer Realität“ liegt. Musikalisch ist das **Death Metal** und **Groove Metal**, „dunkel, groovegetrieben, mit drop-gestimmter Brutalität“: langsamer, schwerer und wuchtiger als vieles in dem Feld, mit Riffs, die an *Meshuggah* erinnern, und einem bewusst gedämpften, grauen Mix, der zur düsteren Stimmung passt. *Plague* beginnt mit Séance-Atmosphäre und einem langsamen, schweren Riff, *Death Rattle* ist schneller, *Void* langsam und erdrückend mit wenig Melodie, *Reign of the Fallen* hat ein dominantes Riff und Growls, und *When We Die* mischt zum Schluss die Instrumente chaotisch und aggressiv. Die Band besteht aus *Liam Drewe* (Gesang), *Matthew Sharpe* (Gitarre, Gesang), *Craig Millington* (Bass) und *Benedict Harris-Hayes* (Schlagzeug, Sound Design, Gesang); Mitglieder kommen unter anderem aus *Lifeswallower*, *Enochian Theory*, *Cult of the Skull* und *Reclaim*. Die Texte von *Death Rattle*, *Void*, *Reign of the Fallen* und *When We Die* schrieb Drewe, den Text von *Plague* Sharpe, der auch das Artwork gestaltete. Aufgenommen wurde im Januar 2026 im No Studio in Manchester mit *Joe Clayton*, der auch mischte und masterte und schon für *Desert Storm*, *Pupil Slicer* und *Conjurer* gearbeitet hat. Elf Tracks in knapp 24 Minuten: *Plague*, *Death Rattle*, *Void*, *Reign of the Fallen* und *When We Die*, dazwischen die sechs Séance-Aufnahmen von je einer halben Minute.
 
-::genre::
+::genre::death metal, groove metal
 
 ### Vianney - Les Évadés
 
-tbd
+Vianney hat sich zurückgezogen, eine Holzhütte gebaut und dort sein fünftes Album geschrieben: *Les Évadés* („Die Entflohenen“) erscheint bei *Tôt ou tard*, elf Stücke, alle von ihm geschrieben und komponiert, ohne ein einziges Duett. Aufgenommen hat er ohne Computer und Software, „à l’ancienne“ auf analoges Band, Instrument für Instrument übereinander gelegt und mit einigen Unvollkommenheiten, mehrere Wochen allein in der selbstgebauten Hütte. Seit Juni 2025 hatte er die Studios verlassen; laut Berichten spricht er auf dem Album offen über die Gründe seines Rückzugs: Berühmtheit als Last, den Wunsch, alles hinzuwerfen, und die Schwierigkeit zu sagen, dass es einem nicht gut geht (*J’ai menti*), aber auch einen Weg zum Besseren, bei dem das Sprechen und das Umfeld zählen. Der Sound ist reduziert und lässt Platz für die Worte, getragen von Klavier, Gitarre, Chören und Violinen: **Chanson** und **Folk Pop**. Die ersten Singles waren *J’ai menti* und *D’or et d’étain*, *Pourquoi papa* hat er seinem Sohn gewidmet und nennt es seinen Lieblingssong. Der Vorgänger *À 2 à 3* (2023) war ein Album voller Duette.
 
-::genre::
+::genre::chanson, folk pop
 
 ### Violence Only - Violence Only
 
-tbd
+Fünf Stücke in gut 16 Minuten, ohne Kompromisse: *Violence Only* sind laut Beschreibung ein Strudel aus Chaos, in dem Blastbeats Schockwellen durch die Eingeweide schicken, Gitarren mit kreisenden Riffs und wuchtigen Schlägen feuern und eine Stimme von unmenschlicher Bosheit durch das Inferno schreitet, „keine Gimmicks, keine Trends, keine Kompromisse“, eine Vision von „organisierter Wildheit“. Das selbstbetitelte Debüt, eine EP, erscheint bei *Comatose Music* aus North Carolina, dem Label für Brutal Death Metal, und ist **Brutal Death Metal** im Old-School-Gewand mit **Slamcore**-Anteilen. Die Band besteht aus *Braxton Keyser* (Gesang), *Rene Martinez* (Schlagzeug), *Mark Chandler* (Bass) und *Andrew Mathews* (Gitarre); produziert hat *Jeremiah Tuck*, der auch schon für *Human Infection* und *Satanic Panic* gearbeitet hat, und der Mix klingt altmodisch und doch poliert. *Facial Deconstruction* beginnt mit einem Sample und hat mit Palm-Mute-Riffs mehr Groove, *Warm Dissection* setzt die Intensität nahtlos fort, und der Schluss *Hatred for Humanity* dreht die Aggression noch einmal auf. Die Stücke: *Strong Arm Beatdown*, *Facial Deconstruction*, *Warm Dissection*, *Victimized and Laughing* und *Hatred for Humanity*.
 
-::genre::
+::genre::brutal death metal, slamcore
 
 ### Visconti - Il Grande Okay
 
-tbd
+*Visconti* aus Mailand ist *Valerio Visconti*, Jahrgang 2000, und schrieb mit 20 das erste Album, ein „Kind der Pandemie und der Komplexität der Generation Z“. *Il grande okay* ist das neue Album, erschienen bei *Dischi Sotterranei*: Die Dringlichkeit des **Post Punk** trifft auf eine Form des Songschreibens, die die Metropole in der Provinz und die Normalität des Unbehagens wiederentdecken will, dazu **Pop Rock** und Alternative Rock. Visconti schreibt Texte, Musik und Arrangements und spielt alles selbst, nur die Drums spielte *Giulio Orecchia*; produziert hat Visconti gemeinsam mit *Fight Pausa*, von Fight Pausa stammen auch Aufnahme und Mix, gemastert hat *Matt Bordin*, als Gast ist *Doloh* auf *Failles* zu hören. Davor erschien *DPCM* (April 2022). Zwölf Stücke in knapp 34 Minuten: *Fucile tremendo*, *Proiettile*, *Buffalo Meat*, *Sentieri tuoi*, *Sotto al tram, blue jeans*, *Figura dello scemo*, *Intro 2*, *Mondo cane*, *Heaven’s Gate*, *Resident Evil*, *Failles* und *Portamento*.
 
-::genre::
-
-### We Contain Multitudes - Say Nothing
-
-tbd
-
-::genre::
+::genre::post punk, pop rock
 
 ### Westerman - Reception
 
-tbd
+Aus der Anregung, es solle doch eine erweiterte Fassung des Albums geben, wurde mehr als ein Anhängsel: *Reception* sind vier neue Stücke, die *Westerman* als Begleiter zu *A Jackal’s Wedding* (November 2025) versteht, als „Fotonegative“ der Songs auf dem Album, bei denen die Hitze gegen Kälte getauscht ist, ein kälteres, blaueres Gegenstück zum feuchten, nächtlichen Album. Das Album entstand auf der griechischen Insel Hydra in einem zum Kunstraum umgebauten Herrenhaus aus dem 17. Jahrhundert, die neuen Stücke dagegen im Winter in einem ungeheizten, frisch erworbenen Gebäude auf einer Insel im Iseosee, mit Schnee vor der Tür. Produziert hat *Marta Salogni*, die schon mit *Björk*, *The xx* und *Sampha* gearbeitet hat; Veröffentlichung bei *Partisan Records*. Die Stücke: *Congress*, *L/C* (die erste Single), *Norman* und *Vermuth*, zusammen gut 14 Minuten. Einen Genrebegriff nennen die Quellen nicht, es bleibt bei **Indietronica** und **Experimental Rock** nach den Tags der Seite (alternative, electronic, experimental, indie); Besetzung und Credits lagen mir nicht vor.
 
-::genre::
+::genre::indietronica, experimental rock
 
-### Wilder Maker - Smoking the Bunny
+### Wilder Maker - Smoking the Bunny *
 
-tbd
+Ein betrunkener Held, nummerierte Hotelzimmer und Aufnahmen der eigenen Eltern: *Smoking the Bunny* ist der zweite Teil einer geplanten Trilogie von *Wilder Maker* aus Brooklyn, nach *The Streets Like Beds Still Warm* (September 2025), erschienen bei *Western Vinyl*. Die Figur aus dem ersten Teil zieht durch eine Nacht aus Trinken und Blackouts in ihre Erinnerungen, die lose auf nummerierte Hotelzimmer verteilt sind, so wie in den Titeln *Bachelor Garbage (Room 12)* und *No Lark (Room 9)*; es geht um Identität, Schwäche, Scheitern und Tod. *Gabriel Birnbaum* nennt es ein „Midlife-Album“: Es wuchs aus Bandimprovisationen, die Birnbaum stark bearbeitet hat, die Texte kamen erst, nachdem die Gesangsmelodien standen. Klanglich ist das ein ehrgeiziges, episodisches, groovendes, filmisches Avant-Indie-Werk, das mal an *Broadcast*, *Oren Ambarchi* oder *Tortoise*, mal an *Ry Cooder* oder *Paul Simon* erinnert: **Avant-Garde Rock** und **Psychedelic Folk**. Birnbaum singt und spielt Gitarre, Keys, Synthesizer und Samples, dazu *Adam Brisbin* (Gitarre, er mischte auch), *Nick Jost* (Bass) und *Sean Mullins* (Schlagzeug, Percussion). Gäste sind *Cole Kamen-Green* (Trompete), *Chuck Johnson* (Gitarre, Pedal Steel), *Kitba* (Harfe), *Levy Lorenzo* (Percussion, Waterphone, Vibraphon), *Joseph Shabason* (Saxofon, Effekte), *Will Shore* (Percussion), *Macie Stewart* (Violine) und *Katie Von Schleicher* (Synthesizer, Gitarre, Gesang auf neun Stücken). Aufgenommen hat *Lily Wen* in den Figure 8 Studios, gemastert hat *Carl Saff*, das Cover stammt von Birnbaum. Siebzehn Stücke in gut 41 Minuten: *Hands off the Suit, Creep*, *Last Call At The Star’s Ascent*, *You Get the Face You Deserve*, *Smoking The Bunny*, *Lone Firefly Over the Domino Game*, *City of Gold (Room 23)*, *Sunday Grips the Heart*, *Dim Bars, Delusions of Grandeur (Room 17)*, *Bachelor Garbage (Room 12)*, *Amy Weaves (Room 21)*, *Crawler (Room 15)*, *A Drunkard of Days*, *Rain Pocking the Black & Silver World*, *No Lark (Room 9)*, *Gin & Chthonic*, *Birnbaum is a Name Not a Fate* und *Ballad of Total Control*. Man checkt ein und bleibt eine Weile.
 
-::genre::
+::genre::avant rock, psych folk
 
 ### Wingless - Vision Beyond Form
 
-tbd
+Das sechste Album, und diesmal „kompromissloser Death Metal in seiner reinsten und wesentlichsten Form“: *Wingless* aus Polen, Anfang 2012 gegründet, sind über fünf Alben immer tiefer in düstere, schwere Death-Doom-Gefilde vorgedrungen, und *Vision Beyond Form* erscheint bei *Selfmadegod Records* als **Death Metal** mit **Death Doom Metal**-Schlagseite, inspiriert vom Death Metal der Achtziger und Neunziger, mit Wucht, roher Intensität, dunkler Atmosphäre und organischer Produktion. Als Vergleichspunkte werden *Morbid Angel*, *Death*, *Immolation*, *Pestilence* und *Atheist* genannt. Gründungsmitglied, Gitarre und Triebfeder ist *Grzegorz Luzar*, die übrigen Musiker kommen aus verschiedenen lokalen Metal-Bands und werden nicht namentlich genannt; das Artwork stammt von *Rafał Wechterowicz*, der auch für *Slayer*, *Mastodon* und *Behemoth* gearbeitet hat. Acht Stücke in gut 36 Minuten: *Crossing the Abyss*, *The Beast and the Star*, *Formula of Fire*, *Proclamation of the Void Star*, *Will Is the Law*, *Whispers*, *Mindfulness* (ein einminütiges Instrumental auf dem Fretless-Bass) und *The Gnosis of Decay*.
 
-::genre::
+::genre::death metal, death doom metal
 
-### Wolvennest - In The Ruins
+### Yoo Doo Right - Build and Rest By The Shepherd’s Light *
 
-tbd
+Die Band aus Montréal, die ihre Musik selbst als „sonic manifesto“ bezeichnet, legt ihr viertes Album vor: *Yoo Doo Right* gehen auf *Build and Rest by the Shepherd’s Light* (bei *Mothland*) von lauten, verstärkten Ausflügen in **Post Rock** und **Krautrock** bis zu effektbeladenen Stücken, die an Ambient, Noise und Drone erinnern, mit kreisenden Motiven und dichten Klangwänden und einem eher symbolischen als pragmatischen Zugriff, sodass jedes Stück offen für Deutungen bleibt. Thematisch geht es um die Mühen künstlerischer Hingabe und die tägliche Anstrengung, kreativen Schwung zu halten, um die gemeinsame Freude am schöpferischen Prozess und um eine Verbeugung vor den Gemeinschaften, die Kunst tragen: *Industriestraße 9* ist nach einem aufgegebenen besetzten Haus in Luzern benannt, in dem die Band früher spielte. Besetzung: *John Talbot* (Schlagzeug, Percussion) und *Justin Cober* (E-Gitarren, Bass VI, Lap Steel, Synthesizer, Klavier, Stimme, Tonbandaufnahmen), dazu *Ky Brooks* (Stimme und Worte auf *Neighbours Report Their Neighbours*, außerdem Koproduzent und Engineer), *Timothy Aaron Bryan* (Bass auf *Doldrums, Doldrums, Eviler Than the Devil*), *Jessica Moss* (Violine auf *Two Hoarders* und dem Titelstück), *Ezra Moss Menuck* (Handglocken) und *Francis Leduc-Bélanger* (Trompete, Flügelhorn auf drei Stücken). Aufgenommen wurde im Hotel2Tango und im Error 403 in Montréal, gemischt hat *Seth Manchester* in den Machines with Magnets in Pawtucket, gemastert hat *Amar Lal* bei Macro Sound in Oakland, das Coverfoto entstand in Ovronnaz in der Schweiz. Davor gab es *Yoo II* mit *Nolan Potter* (September 2025) und *From the Heights of Our Pastureland* (November 2024). Acht Stücke in gut 45 Minuten: *Two Hoarders*, *Doldrums, Doldrums, Eviler Than the Devil*, *Tortue*, *Industriestraße 9*, *Neighbours Report Their Neighbours*, *To Be a Lambskin (Or to Be the Whole Flock)*, *Sofort, Si Fort* und *Build and Rest by the Shepherd’s Light*.
 
-::genre::
-
-### WOW OK - WOW OK
-
-tbd
-
-::genre::
-
-### XRUSTALIC - UNF0ЯGNVИNG
-
-tbd
-
-::genre::
-
-### Yoo Doo Right - Build and Rest By The Shepherd’s Light
-
-tbd
-
-::genre::
+::genre::post rock, krautrock
 
 ### young friend - New Entertainment
 
-tbd
+Wie bei *Nevermind* kommt das Härteste zuerst und am Ende werden die Songs nachdenklicher, mit Streichern: *young friend*, das ist *drew tarves* aus Vancouver, 21 Jahre alt, und die Songs klingen laut Bio nach den letzten begehrten Sommertagen, hoffnungsvoll und ehrlich in der Sicht auf die Höhen und Tiefen der Jugend. *New Entertainment* erscheint bei *Nettwerk*, nach *motorcycle sound effects* (April 2025), *scaredy cat* (Februar 2023), *HOW DID WE GET HERE?* (September 2022) und *THERAPY* (Januar 2021). Aufgenommen hat eine ganze Band live im Studio, nicht aus digital geschichteten Teilen zusammengesetzt, und der Sound ist **Indie Rock** mit angerauten Gitarren und unaufgeregtem Songwriting, dazu **Indie Pop** und eine Prise **Grunge**, ohne dessen Feindseligkeit, aber mit *Sonic Youth*-artigen Texturen. Tarves sorgt sich um KI und darum, ob menschliche Kreativität überflüssig werden könnte; das Titelstück *New Entertainment*, ein fünfminütiger Slowburner, malt sich eine Welt ohne Internet aus und fragt, ob Menschen dann wieder anfangen, ihre Unterhaltung selbst zu machen. Dazu geht es darum, Menschen und Orte festzuhalten: *The Yard* handelt von einer Kneipe in der Nachbarschaft, *Dad’s Garage* zählt Besitztümer auf, an denen Familienerinnerungen hängen, *Miracle* hat eine klingende Gitarre und viel Eingängigkeit, und *Michael Wakes Up* steigert sich zu einem instrumentalen Ausbruch und einer befreienden Auflösung; *If You See It on the News* beschließt das Album. Zwölf Stücke in gut 41 Minuten: *Hard Rock*, *Miracle*, *The Yard*, *Dad’s Garage*, *Grand Canyon*, *New Entertainment*, *2 Birds*, *Anything Anything*, *Everything the Light Touches*, *What’s Mine Is Yours*, *Michael Wakes Up* und *If You See It on the News*. Ein Produzent ist nicht genannt.
 
-::genre::
-
-### Zed Yun Pavarotti - Unmiracle
-
-tbd
-
-::genre::
+::genre::indie rock, indie pop, grunge
 
 ---
 
@@ -1572,618 +1146,504 @@ tbd
 
 ### Abstract Fish Lungs - The Bleak Midwinter
 
-tbd
+Die Singles *Seagulls* und *The Dark Passenger* erzählen zusammen die Geschichte eines jungen Lebens, das an der Sucht verloren geht: Sie sind das Herzstück von *The Bleak Midwinter*, dem Debütalbum von *Abstract Fish Lungs* aus Raglan in Neuseeland, einem Konzeptalbum nach der Debüt-EP *Tribute IV*, das zu Halloween erschien. *Seagulls* handelt von Drogenmissbrauch unter Jugendlichen, aus eigener Erfahrung der Band, und von der Hilflosigkeit, einem engen Freund beim Abdriften zuzusehen. Musikalisch ist das **Metalcore** und **Post Hardcore** mit schnellem Punk-Hardcore, ein Sound, der an *Faith No More*, *The Bronx* und *Million Dead* erinnert; die Singles verbinden außerdem Alternative Rock und Rap. Die Band besteht aus *Josh Alexander* (Gesang, Rhythmusgitarre), *Wai Ariki Tepania* (Leadgitarre), *Hendrix Knox* (Bass) und *Ethan Murray* (Schlagzeug); produziert hat *Regan McKinnon* im The Porch Studio in Hamilton. Elf Stücke, darunter *The Inferno of Endless Thoughts* (ein Vorspiel von 1:25), *Seagulls*, *The Dark Passenger*, *Sleepwalker*, *UFO* und *King of the Throne*. Eine vollständige Tracklist und ein Label lagen mir nicht vor.
 
-::genre::
+::genre::metalcore, post hardcore
+
+### Alan Reed - Grey Sky Thinking
+
+„Blue Sky Thinking“ ist der Business-Klassiker für frische Ansätze, *Grey Sky Thinking* der ehrliche Gegenentwurf: Das Wortspiel im Titel ist als Akt kreativen Optimismus gemeint, nur sieht *Alan Reed* um sich herum wenig Anlass dazu. Alles wirkt unsicherer und gefährlicher als je zuvor, die Gesellschaft ist gespalten, jeder zieht sich in seine Silos zurück und glaubt, was ins bequeme Narrativ passt. Die Songs sind sein Weg, damit umzugehen. Der Sänger aus Stirling in Schottland, bekannt als Stimme von *Pallas*, hat zehn Stücke in gut 53 Minuten aufgenommen: *Into the Void* (am Ende noch einmal als alternativer Mix), *Camberwick Grey*, *Sons of the Caliphate*, *First Responder*, *The Unforgiving Truth*, *A Matter of Trust*, *Fail Better*, *First Against the Wall* und *Bright Side of the Blue*. Reed singt und spielt Gitarre, Bass sowie gelegentlich Keyboards und Programmierung; dazu kommen *Mike Stobbie* (Keyboards), *Henry Rogers* (Schlagzeug), *Niall Mathewson* (Gitarren, gelegentlich Gesang und Keyboards) und die Backing Vocals von *Kim Maclean* und *Laetitia Chaudemanche*. **Neo Progressive Rock** mit keltischem Folk-Einschlag. Wenigstens heißt der letzte reguläre Song *Bright Side of the Blue*.
+
+::genre::neo prog rock
 
 ### Alcalá Norte - Dejémoslo Como Estaba
 
-tbd
+Nach einem Debüt, das den *Premio Ruido* als bestes nationales Album 2024 gewann, ist die Latte hoch gelegt: *Alcalá Norte* aus Madrid (Ciudad Lineal) legen am 4. November mit *Dejémoslo como estaba* („Lassen wir es, wie es war“) ihr zweites Album vor. Vorab erschienen *El hombre planeta* und *Los llamados pitagóricos*, Letzteres mit einem Gitarrensound, der laut einer Beschreibung an die frühen *Héroes del Silencio* erinnert. Produziert hat *Pablo Fergus* im Estudio La Cafetera in Madrid, wo er und *Carlos Elías „Dr Rock“* auch *El hombre planeta* aufnahmen; das Cover ist die Digitalisierung eines Werks des Malers *Carle Naide*. Das ist **Indie Rock** aus Madrid, Besetzung und Label lagen mir nicht vor. Elf Stücke in knapp 38 Minuten: *En Valmy*, *El endemoniao*, *Claudia*, *El hombre planeta*, *Los llamados pitagóricos*, *Contador de muertes*, *Campos de golf*, *Arturo Soria*, *Icare (LFDL)*, *Oscar the tiny one* und *La venta nueva*.
 
-::genre::
-
-### Amras Numenesse - Human.exe
-
-tbd
-
-::genre::
+::genre::indie rock
 
 ### Arckanum - Beswærilsin
 
-tbd
+Das zehnte Album und das erste volle seit neun Jahren, nach der EP *Motestandarin* (Juni 2026), die Arckanums dritte Phase einläutete: Alles, was unter dem Namen *Arckanum* entsteht, ist laut Beschreibung eine Verlängerung der thursischen Glaubenspraxis (Thursatru) von *Shamaatae* und seines künstlerischen Anspruchs, Musik als Akt magischen Willens, entlang des Linkshändigen Pfades, auf dem Weg des Außenseiters, der Vargar, jenseits aufgezwungener Ordnung und herkömmlicher Moral. Gesungen wird auf Altschwedisch, die Texte sind mythische Zaubersprüche und Beschwörungen in nordischer und schwedischer Dichtungstradition, und der Klang pendelt zwischen der Kälte Niflheims und der Hitze Muspellsheims. Das ist **Black Metal** mit **Raw Black Metal**-Zügen, wild und unpoliert, ohne Zierrat, erschienen bei *Darkness Shall Rise Productions*. Elf Stücke in gut 63 Minuten: *Mz Fianda Raþi*, *Utgarþzeþer*, *Wilianz Kniwer*, *Rymz Rand*, *Gyghra Hirþi*, *Eldstenz Frø*, *Wiþirskapit*, *Skæpna Ær Krigh*, *Anskoti*, *Trulmoþir* und *Twæþursaspa*. Eine Besetzung ist nicht aufgeführt; wer hier zum ersten Mal einsteigt, braucht ein Wörterbuch oder einfach Mut.
 
-::genre::
+::genre::black metal, raw black metal
 
 ### Assioma - For all that is forgotten, this is to be remembered
 
-tbd
+Ein Intro mitten im Album, eine Zitrone mit Reprise und eine Zwiebel als Songtitel: *Assioma* aus Neapel schreiben „Math Rock aus Napoli, heyyyyyy“, wie es auf der Seite heißt, und *For all that is forgotten, this is to be remembered* ist ihre erste Veröffentlichung, über weitere ist nichts gelistet. Das ist **Math Rock** mit **Midwest Emo**- und **Post Rock**-Zügen, acht Stücke in knapp 21 Minuten, alle kurz und verwinkelt: *Antoinette*, *Intro*, *Cipolla*, *Spranga*, *Trullo*, *Limone*, *Limone (Reprise)* und *Bertha*. Besetzung, Credits und Label lagen mir nicht vor. Zwanzig Minuten, in denen niemand Zeit zum Verschnaufen hat.
 
-::genre::
+::genre::math rock, midwest emo, post rock
 
 ### Atömic Seasön - The Wind Changes and Death Follows
 
-tbd
+Eine Stahlstadt, ein Quartett und Riffs aus der alten Schule: *Atömic Seasön* aus Linz nennen sich selbst ein „unheiliges Quartett“ und spielen „Oldschool-Thrash-Riffing mit peitschenden Drums und donnerndem Bass“. *The Wind Changes and Death Follows* ist ihre dritte Veröffentlichung, nach *Ancient Rites* (Dezember 2023) und *No Life Is Left* (Juni 2024), und erschien am 5. November, bei *Witches Brew* aus Deutschland, einem Label, das 2002 mit dem Ziel gegründet wurde, unbekannten Bands eine Chance zu geben. Das ist **Thrash Metal** und **Speed Metal**, mit Black-Thrash-Anteilen. Solos spielen *Ley* und *Voglsam*; ein Produzent und ein Studio sind nicht genannt. In den Texten geht es um Selbstzerstörung und die Anziehung zwischen Taubheit und Tod (*Funeral Fastlane*), um den Wendigo, das menschenfressende Wesen im Wald, um Krieg, Tyrannei und Propaganda (*Torch the Tyrants*), um Selbsttäuschung und Anpassung (*Shards of the Mirror*), um den Schutz der Umwelt gegen Gier (*Law of the Land*), um Okkultes und Apokalyptisches (*Beliar’s Call*) und um Schuld und innere Qual (*Snakecharmer*). Elf Stücke in gut 39 Minuten: *The Wind Changes...*, *Funeral Fastlane*, *Mystery of Steel*, *Wendigo*, *Torch the Tyrants*, *Shards of the Mirror*, *Aggressor*, *Law of the Land*, *Beliar’s Call*, *Snakecharmer* und *...And Death Follows*.
 
-::genre::
-
-### Bart - do i look like von
-
-tbd
-
-::genre::
-
-### BlackFishBleu - BlackFishBleu
-
-tbd
-
-::genre::
+::genre::thrash metal, speed metal
 
 ### Boarhammer - III: Instruments of Fungal Intent
 
-tbd
+Vom Sumpf in den dunklen Wald, durchs Blätterdach und ins All: *Boarhammer* aus Deutschland, ein Duo seit 2020, nennen ihren Stil „Psychedelic Black Heavy Metal aus den dunkelsten Wäldern Deutschlands“ und bleiben auf *III: Instruments of Fungal Intent* ihrem Thema treu, dem Verhältnis von Ritual und Rausch: Es geht um Geister, schwarze Magie und das Wesen von Pilzen und Kräutern, *Schwammgeister* handelt von Waldgeistern und Pilzsporen, die den Verstand beeinflussen. Das Album erschien am 31. Oktober in Eigenregie, nach *II: Chemognosis – A Shortcut to Mushrooms* (Januar 2024) und der Demo *I: Cutting Wood for Magickal Purposes* (Dezember 2021). Musikalisch ist das **Raw Black Metal**, **Psychedelic Metal** und **Heavy Metal**: die rohe Energie des frühen Black Metal, der Swagger obskuren Heavy Metals und der leichtsinnige Geist von Punk und Rock’n’Roll, kriechend schwer, mit verzerrten psychedelischen Visionen, Blitzen epischer Melodie, primitiver Gewalt und viel Theatralik. Acht Stücke in gut 48 Minuten: *Forest Grave Malediction*, *Bauk*, *Psychotic Bogwich*, *Spirits, Yours is the Gift of Madness!*, *Psychedelic Renaissance*, *Shades in the Triangle*, *Schwammgeister* und *Gewitterlicht*. Die Mitglieder werden nicht genannt.
 
-::genre::
+::genre::raw black metal, psych metal, heavy metal
 
 ### Boor - The Stones Hold All Echoes
 
-tbd
+„RIFF. LAUGH. LOVE.“ lautet das Motto von *Boor* aus Brainerd, Minnesota, und *The Stones Hold All Echoes* ist nach eigener Aussage das erste Album, nach dem Vorgänger *The Dense Drag* (April 2025). Aufgenommen wurde im Juni 2026 in den SignatureTone Studios in Minneapolis, geschrieben und gespielt hat alles die Band selbst, gemischt und gemastert hat *Adam Tucker*. In den Texten geht es um Zerfall, Entropie und Zusammenbruch, mit Bildern von Ruinen, kosmischem Grauen, Chaos und Gewalt, dazu Verzweiflung, Sterblichkeit und eine Sprache aus Ritual und Anbetung. Musikalisch ist das **Sludge Metal**, **Doom Metal** und **Black Metal**, mit Groove-Metal- und Atmospheric-Metal-Zügen. Zehn Stücke in gut 61 Minuten, das längste ist *Idiot Throne* (gut zehneinhalb): *Opting Out*, *The Gone Of Man*, *Spikes*, *Idiot Throne*, *Orison*, *Snake Mother Brood*, *Chain of Sighs/Bánh Mì Boogie*, *Souldusk*, *Windswept Carrion* und *Carry on*. Ein Label ist nicht genannt, Mitglieder ebenfalls nicht.
 
-::genre::
-
-### Boyler - Nueva Apuesta
-
-tbd
-
-::genre::
-
-### Bryce Bishop - Whatever
-
-tbd
-
-::genre::
-
-### Caroline Chiesa - Outwitting The Stars
-
-tbd
-
-::genre::
-
-### Catalina Ammaturo - I Just Wanna Make My Daddy Proud
-
-tbd
-
-::genre::
+::genre::sludge metal, doom metal, black metal
 
 ### Cemeterius - Dweller of a Soulless Land
 
-tbd
+Heavy Metal mit rumänischer Folklore zu verschmelzen, war der Plan, als der Gitarrist *Zadrunth* und der Schlagzeuger *Awqaq* *Cemeterius* 2016 gründeten, heute sitzt die Band in Stockholm, und *Dweller of a Soulless Land* erschien am 31. Oktober. Gesungen wird auf Englisch, Rumänisch, Schwedisch und Latein, die Texte kreisen um Dunkelheit, Tod, Gräber, Flüche, Dämonen, Hexerei und Blasphemie, wie die Titel und Zeilen nahelegen. Zwei der acht Stücke, *Panoptikon* und *City of Silence*, kamen schon 2022 als Einzelstücke heraus; davor gab es die EP *Kaúr’s V’Rei* (März 2018) und *Supus Sacrei Descompuneri* (September 2020). Musikalisch ist das **Black Metal**, **Blackened Death Metal** und **Thrash Metal**. Acht Stücke in gut 37 Minuten: *Squeals of Damnation*, *Up from the Tombs*, *City of Silence*, *The Howling Curse*, *The Language God Speaks to Man*, *Until It Spells It’s Name*, *Panoptikon* und *Goatgods Golden Seed*, das mit fast acht Minuten das längste ist. Ein Label, ein Studio und weitere Mitglieder sind nicht genannt.
 
-::genre::
-
-### Change & Chug - Dangerous People
-
-tbd
-
-::genre::
-
-### clydeXcash - DISGRACE TO THE CORPSE OF CHRIS
-
-tbd
-
-::genre::
+::genre::black metal, blackened death metal, thrash metal
 
 ### Compass Charlatan - Sports are Sports
 
-tbd
+Taylor Swift schneidet hier niemandem etwas ab, aber der Titel *All Work, No Play, Makes Taylor Swift Cut Your Weewee Off* steht trotzdem auf der Tracklist: *Compass Charlatan* ist das Künstlerpseudonym von *Raymond Giuffrida* aus New Jersey, der seit zwanzig Jahren Musik komponiert, und *Sports are Sports* sind acht Stücke in gut 35 Minuten, die bis Ende Oktober 2026 entstanden. Sie beruhen vor allem auf Improvisationen im ersten Take und auf übereinandergelegten virtuellen Instrumenten, dazu kommen Jahrzehnte eigener Audioaufnahmen, inspiriert von *Ween* und *Frank Zappa*; gemischt und komponiert wurde mit BandLab und der App Expressive Piano Synthesizer. Es ist **Experimental Electronica** und **Avant-Garde Rock** mit Ambient, Noise-Rock, Shoegaze und Spoken Word als Zutaten. Alle Musik, Texte, Produktion, Mix und das Albumcover stammen von Giuffrida; der digitale Kauf enthält ein zwölfseitiges Artbook mit neuen Doodles, und das Ganze ist „allen friedliebenden Menschen gewidmet“. Die Stücke: *Just Don’t Go Parading that Filth*, *By the Power of Frank Zappa*, *There’s No Time in These Signatures*, *Sports are Sports*, *Just a Man and His God*, *No Ticket*, *All Work, No Play, Makes Taylor Swift Cut Your Weewee Off* und *Just a Man and His Dog*.
 
-::genre::
-
-### Cove Grove - The Shadow
-
-tbd
-
-::genre::
-
-### Culak - Twelve Gates
-
-tbd
-
-::genre::
-
-### Darsh - Squares and Shapes
-
-tbd
-
-::genre::
+::genre::experimental electronica, avant rock
 
 ### Day Aches - withforwardmotion
 
-tbd
+Drei Jahre Arbeit, zehn Songs und ein Titel, der in einem Wort zusammengeschoben ist: *withforwardmotion* ist das zweite Album von *Day Aches* aus Virginia und Washington, D.C., nach dem Debüt *One Last Dream Before Dying* (2023, *Really Rad Records*), und das erste für *Other People Records*; es erschien am 4. November. Beschrieben wird die Band als „Grungegaze“, sie verbindet **Grungegaze**, **Shoegaze** und **Nu Metal** mit Hardcore, also dichter, verzerrter Hall trifft auf harte Breakdowns; die Platte ist deutlich schwerer und schärfer als die frühere Arbeit, die Singles *In Water* (mit einem der schwersten Breakdowns) und *outerheaven* (mit einem Nu-Metal-Glanz) kamen im September. Inhaltlich geht es um Identität, Ungewissheit, das Vergehen der Zeit und die Suche nach Sinn. Zehn Stücke: *True Death*, *In Water*, *Rei III*, *Exit Wounds*, *Signals*, *Insert the Blade*, *withforwardmotion*, *outerheaven*, *Third Impact* und *Re-Take After*. Besetzung und Produzent waren auf den Seiten nicht aufgeführt.
 
-::genre::
+::genre::grungegaze, shoegaze, nu metal
 
 ### dead4real - DE4TH
 
-tbd
+„Das erste Album, das ich je allein gemacht habe“, mit 100 Dollar von einem Freund für ein Audio-Interface als Starthilfe: *DE4TH* von *dead4real* aus Kentucky ist ein Ein-Personen-Projekt, geschrieben zwischen dem 20. August und dem 15. Oktober, aufgenommen vom 10. bis 21. Oktober (ein Stück am 18. September) und zu Halloween bei *Sounds From The Afterlife* veröffentlicht. Hinter dem Namen steht *De4d*: Gitarren, Bässe, Synthesizer, Klavier, Drum-Programmierung, Mix und Mastering; die Drums der ersten drei Stücke hat *Lila* programmiert, bedankt wird außerdem *Eli*. Das ist **Punk Rock** und **Indie Rock**, ePunk laut Tags. Acht Stücke in gut 27 Minuten: *5am*, *DE4TH*, *Nervepatch*, *Cobalt*, *Undone*, *Romanticide*, *Deer in Headlights* und *Hate*. Ein Album in drei Wochen Aufnahmezeit, kurz wie ein Herbst.
 
-::genre::
+::genre::punk rock, indie rock
 
 ### Death By Insane Circumcision - Gabbaghoul
 
-tbd
+Ein Halloween-Album, gebaut um ein Charcuterie-Brett: *Gabbaghoul* von *Death By Insane Circumcision*, einem Projekt aus dem Northern Territory in Australien, ist „sehr SPOOKY“ und „vielleicht mein bestes Werk bisher“, erschienen zu Halloween, und dreht sich um Sauerteig, Brot und eine erfundene Figur namens Vinny, die ausdrücklich nicht auf einem echten Dozenten beruht, auch wenn sie dessen Namen teilt. Entstanden ist es im Rahmen eines kostenlosen Musikkurses (CUA40920, Certificate IV in Music) im Northern Territory, dem der Credit-Text ausführlich dankt; für einen 27-minütigen Song gibt es dort laut Text keine Benotung. Musikalisch ist das **Avant-Garde Metal** aus **Black Metal** und **Death Metal**, multi-genre, mit Art-Rock-Zügen, absurdem und düsterem Humor, mock-ernsten Hymnen und Selbstironie über das Aufschieben. Sechs Stücke in gut 41 Minuten, davon allein *Charcuterie Board Blower* knapp 27: *Happy Birthday, Vinny!*, *Seafoam*, *The Holy Bread Fountain*, *The Process That Wheat Goes Through*, *Charcuterie Board Blower* und *Requiem for Vinny (Gabbaghoul)*. Die Texte enthalten teils derbe und anstößige Inhalte; vorab erschienen *The Holy Bread Fountain* und, im Sommer, *MOTHER SHIT*. Wer spielt, ist nicht aufgeführt.
 
-::genre::
-
-### Degenerali - III. Degeneralski Rat
-
-tbd
-
-::genre::
+::genre::avant metal, black metal, death metal
 
 ### Descent Theory - What Lies Ahead
 
-tbd
+„Adventure music“ nennt *Descent Theory* aus Boston ihren Stil, und *What Lies Ahead* hält das ein: acht Stücke in gut 50 Minuten, die zwischen **Jazz Fusion** und **Progressive Metal** wandern, mit Titeln wie *Miami Vice 9*, *Switchback* und *Squash*. Vorab erschienen *Flatanger* (August 2026), *Envelope* (mit *J3PO*, September) und *Miami Vice 9* (mit *Poh Hock*, Oktober). Aufgenommen hat *Charlie Abend* in den Tower Farm Studios in Billerica, Massachusetts, gemischt hat *Adam Bentley*, gemastert *Ermin Hamidovic*. Die Stücke: *Envelope*, *Miami Vice 9*, *Switchback*, *Flatanger*, *Squash*, *Nela*, *PSP* und *What Lies Ahead*. Besetzung, Label und eine Beschreibung des Albums lagen mir nicht vor.
 
-::genre::
+::genre::jazz fusion, prog metal
 
-### Discovery Of VYNYA - Dystopia 2098
+### Dimscûa - Grief & Silence
 
-tbd
+Drei Stücke, siebzehn Minuten, ein Zwischenspiel mittendrin: *Dimscûa* aus Berkshire in England verbinden auf der EP *Grief & Silence*, am 2. November erschienen, Post-Metal mit atmosphärischem Sludge, dazu kommen Black-Metal- und Doom-Anteile. Sie folgt auf das Debüt *Dust Eater* (2025), mit dem die Band, entstanden aus persönlichem Verlust, Trauer über Musik verarbeitet hat. *Repine* (knapp sieben Minuten) und *Sangre* (gut sieben) rahmen das fast dreiminütige Interlude *Grief & Silence* ein. Alles ist von *Dimscûa* selbst geschrieben und gespielt; *Repine* und *Sangre* hat *Adam Campbell-Train* produziert, gemischt und gemastert, das Interlude hat *Lewis Pickering* produziert und gemischt, das Artwork stammt von *Jez Pennington*. **Post Metal** und **Atmospheric Sludge Metal**. Schwer, aber nicht laut um jeden Preis.
 
-::genre::
+::genre::post metal, atmo sludge metal
+
+### Disembody - Awakening of Ancient Evil
+
+Ein Gemälde von 1929 bis 1932 auf dem Cover, ein *Witchhammer* als Opener: *Disembody*, eine 2019 gegründete Black-/Thrash-Metal-Band aus Finnland, nehmen sich auf *Awakening of Ancient Evil* nach dem Debüt *Reigniting Hellfire* (2022, *Helldprod Records*) acht Stücke in knapp 47 Minuten vor: *Witchhammer*, *Dweller of Abyssal Waters*, *Evil Undead*, *God of Funerary Rites*, *Vigil*, *Desolation*, *Saints Are Burning* und der Titelsong *Awakening of Ancient Evil*. Aufgenommen, gemischt und gemastert hat *Tatu Säteri* im Sommer 2024 im Äänipanimo-Studio; das Cover zeigt ein Gemälde des finnischen Künstlers *Aarno Karimo*, Musik und Texte stammen von *Disembody*. **Blackened Thrash Metal** und **Speed Metal**. Das Cover ist fast hundert Jahre alt, die Musik deutlich fieser.
+
+::genre::blackened thrash metal, speed metal
 
 ### Downcast Collision - Beyond the Gates of Hell
 
-tbd
+*Downcast Collision* beschreiben sich auf der eigenen Seite als Modern-Metal-/Metalcore-Band mit Old-School-Death-Metal-Einflüssen und einer groovigeren, poppigeren Seite, 2012 entstanden, mit erfahrenen Musikern aus der Metal- und Rockszene. *Beyond the Gates of Hell* ist ihr neues Album mit neun Stücken, am 31. Oktober erschienen, vermutlich bei *Music Delta Productions*. Das ist **Modern Metal** und **Metalcore**. Eine Tracklist, Credits und Besetzung lagen mir nicht vor, und die Tags sind Vermutungen auf Grundlage der Selbstbeschreibung.
 
-::genre::
+::genre::modern metal, metalcore
 
 ### Dread Witch - Cult
 
-tbd
+Ein „okkulter Albtraum“ mit Schlangen, Hexen und Menschenopfern, und das mit Hilfe eines Produzenten, der sonst *Meshuggah* und *Belphegor* betreut: *Dread Witch* aus Dänemark legen mit *Cult* ihr zweites Album vor, nach dem Debüt *Tower of the Severed Serpent* (Januar 2023), das laut einem Podcast „Riffs von gravitativer Kraft und Neutronium-Dichte“ hatte. Das neue ist dunkler, schwerer und filmischer; *Tue Madsen* hat produziert, gemischt und gemastert, aufgenommen wurde im Antfarm Studio, das Artwork stammt von *Deliriavision*, das Layout von *Andreas Cadaver*. Besetzt ist die Band mit *Mikael Rise* (Gesang, Gitarre), *Dennis Larsen* (Schlagzeug), *Jesper Kragh* (Gitarre), *Leifur Nielsen* (Bass, Backing Vocals) und Cadaver (Gitarre, Synthesizer), der auch Musik und Texte schrieb (die Zeilen zu *Omen* gemeinsam mit Rise). In *Altar* sind Samples von Schlachtgetümmel und Wikingerhorn verarbeitet, und die Band betont, dass keine generative KI benutzt wurde. Das ist **Doom Metal** und **Sludge Metal** mit psychedelischer Stimmung, „dynamisch und lecker unsauber“, dazu Death-Metal-Anteile; die Unterstützung kam von Aarhus Musikpulje. Acht Stücke in gut 36 Minuten: *Born Again*, *Cult*, *The Summoning*, *Cyclops*, *Altar*, *Marrow*, *Vesexuff* und *Omen of Oblivion*.
 
-::genre::
-
-### Dude Central - Leaving A Room With The Lights On
-
-tbd
-
-::genre::
-
-### Eternal - Alma Negra
-
-tbd
-
-::genre::
+::genre::doom metal, sludge metal
 
 ### Eye of Mensis - I want not
 
-tbd
+Das lange gereifte zweite Album von *Eye of Mensis*, dem experimentellen Metal-Projekt von *Brandon Bzdúch* aus Buffalo, New York: *I want not.* entwickelt den Sound des Debüts weiter, mit Anteilen von Post-Metal und Doom, einer frischen Klangästhetik, mehr industriellen Elementen und hässlichen elektronischen Effekten. Es ist ein dunkleres, persönlicheres Album, das reifer und hässlicher sein will als der Vorgänger und doch in einem eigenen Raum bleibt; Bzdúch beschreibt, sich an intensive, persönliche Themen gewagt zu haben, die vor fünf Jahren undenkbar gewesen wären; es sei schwer gewesen, aber zutiefst kathartisch. Die Stücke kreisen laut Texten um körperlichen Verfall, groteske Verwandlung und Selbsthass, aber auch um Erinnerung, Wiederholung, Unwirklichkeit und gebetsartige Sprache. Bzdúch singt und spielt Gitarre, Bass und Tasten, produzierte und gestaltete das Artwork; *Gretchen Krueger* (*The Chemical Mind*) steuert zusätzliche Stimmen bei, *Robin Högdahl* zusätzliche Leadgitarre. Musikalisch ist das **Avant-Garde Metal** mit **Industrial Metal**- und **Post Metal**-Anteilen. Zehn Stücke in knapp 59 Minuten, das letzte, *Stone halo (I-XI)*, dauert allein gut 27 Minuten und ist in elf Teile gegliedert, mit gesungenen und geschrienen Passagen, gesprochenen Teilen und chorartigen Wiederholungen: *Erase*, *On all fours, I crawl with murmuring flesh…*, *…to lick the loosh from her twisted neck.*, *Throat agape, vomiting ecstasy.*, *GOZU*, *I saw a photograph.*, *bulbhead*, *I want not. I want not.*, *Meat hive.* und *Stone halo (I-XI)*.
 
-::genre::
+::genre::avant metal, industrial metal, post metal
 
 ### Federal Death Alliance - Nothing Sacred Survives
 
-tbd
+*Federal Death Alliance* nennen sich „Deathcore aus UK/USA“, und *Nothing Sacred Survives* erschien am 4. November, nach *Leave No Trace of Human Life* (August 2025) und *Ashen Paradise* (Februar 2026); drei der Stücke, *Anatomy of a Predator*, *Hysterical Clarity* und *When the Prey Becomes the Hunter*, kamen schon als Singles heraus. Das ist **Deathcore** und **Brutal Death Metal**. Hinter der Band stehen *Magdiel Roldan* (Gesang und Texte), *Benjamin Greenbank* (Gitarre, Bass, Schlagzeug) und *Mitchell Spears* (Mix, Mastering, Schlagzeug). Die Texte drehen sich um Rache, Verrat und Vergeltung, um Besessenheit und Kontrolle in Beziehungen, um Sucht und Selbstzerstörung, um die Leere materiellen Erfolgs und um Sterblichkeit, Vermächtnis und Vergessenwerden; vieles darin ist extrem drastisch und gewalttätig. Die Stücke: *Last Handout*, *Hysterical Clarity*, *When the Prey Becomes the Hunter*, *Anatomy of a Predator*, *Rat Race Paradox*, *Mortal Shell*, *Currency of Kings*, *Shiny New Things*, *Erasure* und *Willow Tree*. Ein Label ist nicht genannt.
 
-::genre::
-
-### Fourier - Possible Conversations
-
-tbd
-
-::genre::
+::genre::deathcore, brutal death metal
 
 ### Gates of Kiev - Gates of Kiev
 
-tbd
+Ein Name direkt aus dem Plattenschrank von *Emerson, Lake & Palmer*: *Gates of Kiev* aus den Niederlanden sind nach deren Stück auf dem Livealbum *Pictures at an Exhibition* benannt, das auch ihre größte Inspiration ist, und legen mit *Gates Of Kiev* ihr Debütalbum vor (nach der Zwei-Stücke-Veröffentlichung *Tales of Aion*, 2024), erschienen bei *The Laser’s Edge*. Gegründet wurde die Band von den Jugendfreunden *Tomas Mesman* (Orgel, Keyboards, Gesang) und *Hessel Braat* (Schlagzeug, Percussion), die von nächtlichen Hardrock-Sessions in einer Garage zur Amsterdamer Livebühne fanden; komplettiert wird das Trio von Bassist *Eszl de Vois*, einer festen Größe der Psychedelic-Untergrundszene. Die Stücke sind lang und überwiegend instrumental, die Texte handeln von persönlichen Kämpfen und gesellschaftlichen Themen, im Studio kamen Overdubs und Soundscapes dazu. Produziert hat die Band selbst, aufgenommen wurde im Ijland Studio mit Engineer *Ahmad Mansour*, gemischt und gemastert hat *Jacob Holm-Lupo* (*White Willow*) im Dude Ranch Studio; das Cover stammt vom italienischen Heavy-Psych-Illustrator *Mont Doom*. Vier Stücke in gut 39 Minuten: *Hamlet Burns* (fast dreizehn Minuten), *Baltazar’s Feast*, *Silhouette* und *Drunkship Of The Mice* (über dreizehn Minuten). **Progressive Rock** mit der Orgel im Mittelpunkt, ein Sound aus Siebziger-Prog, lokaler Garagen- und Punkszene, live „laut, schnell und over the top“. Vier Stücke, ein Berg.
 
-::genre::
+::genre::prog rock
 
 ### Goat Rider - Hellkvlt
 
-tbd
+Das vierte Album der costa-ricanischen Band *Goat Rider*, seit 2018 aktiv: *Hellkvlt* ist „Blackened Speed Punk Thrash’n’Roll“ von vier Krawallmachern, und der Hauptbezugspunkt ist *Venom*. Dazu kommen *Motörhead*-Riffs im Punk-Tempo, ein geflanschter, gedoppelter Gitarrensound in der Nachbarschaft von *Discharge* und Riffs in *Haxan*, die an *Saxons* *Machine Gun* erinnern, außerdem schöpft die Band aus den Traditionen von *Sodom*, *Bathory* und *Hellhammer*. Das ist **Speed Metal** und **Blackened Thrash Metal** mit Punk-Haltung. Die Texte kreisen um Sex, Trinken und „ein bisschen Blasphemie“; zum Schluss steht ein Cover-Medley aus *Sodoms* *Outbreak Of Evil* und *Venoms* *Witching Hour*, und das Album gilt auch als Tribut an den kürzlich verstorbenen *Cronos*. Als Mitglieder sind nur Pseudonyme bekannt (*Deströyer*, *Messiah*, *Wizard*, *Desecrator*), ohne Instrumente. Erschienen ist es bei *Crypt of Dr. Gore Records*; die physische Ausgabe ist eine gemeinsame Veröffentlichung mit *Witches Brew*, *Selvajaria Records*, *Fallen Temple* und *Violent Records*. Neun Stücke in gut 27 Minuten: *Slave*, *Infant Sacrifice*, *Haxan*, *The Key*, *To Get Drunk n’ Get Laid*, *Time To Your Death*, *Blood & Rust*, *Violent Witch* und *Outbreak Of Evil / Witching Hour*, empfohlen werden *Infant Sacrifice* und *Time To Your Death*. Credits und Produzent lagen mir nicht vor.
 
-::genre::
-
-### Grace Boulevard - Grace Boulevard
-
-tbd
-
-::genre::
+::genre::speed metal, blackened thrash metal
 
 ### Grace Bowers - Grace
 
-tbd
+Der Titel stand monatelang als Notiz auf dem Handy: *Grace* ist die erste Solo-EP von *Grace Bowers*, bislang vor allem als Gitarristin bekannt, mit Auftritten bei den Grammys mit *Chris Martin* und im Fernsehen und dem Album *Wine On Venus* (2024) mit ihrer Band *The Hodge Podge*. Hier steht sie als Singer-Songwriterin im Vordergrund und kehrt zum Punk und Rock zurück, der sie ursprünglich zur Gitarre brachte, mit Anleihen bei Riot Grrrl, Neunziger-Grunge, Punk und Hard Rock, verbunden mit modernem Pop-Gespür und Verbeugungen vor *Guns N’ Roses*, den *Ramones* und den *Ventures*: **Grunge**, **Punk Rock** und **Hard Rock**. Produziert hat *Mike Elizondo* (bekannt von *Turnstile*, *Tedeschi Trucks Band* und *Lake Street Dive*), viele Songs entstanden in Sessions in seinem Studio. Die Lead-Single *Eat Shit and Live* ist ein fuzzgesättigter Rocker, ein sarkastischer, wütender Song darüber, die Nase voll von Leuten zu haben, die sie für töricht hält; *19* gilt als eines der persönlichsten Stücke. Fünf Stücke sind benannt: *Eat Shit and Live*, *Cigarettes for Breakfast*, *Holly Wouldn’t*, *19* und *Fleas*, eine EP mit sechs Songs laut einer Quelle; die sechste Nummer lag mir nicht vor. Ein Label ist nicht genannt, und das Erscheinungsdatum schwankt zwischen 5. und 6. November.
 
-::genre::
+::genre::grunge, punk rock, hard rock
 
 ### Haintgrove - Haintgrove
 
-tbd
+*Haintgrove* ist ein atmosphärisches, melodisches Black-Metal-Projekt aus Texas, das sich der Geschichte und den Erfahrungen versklavter Afrikanerinnen und Afrikaner und ihrer Nachkommen im amerikanischen Süden widmet. Das selbstbetitelte Debüt, am 31. Oktober erschienen, wurzelt in der Geschichte und der anhaltenden Erinnerung der Versklavten im kolonialen Lowcountry von South Carolina und will, wie die Beschreibung sagt, jene ehren, die vor uns kamen, und daran erinnern, was getragen, was genommen wurde und was weitergeht. Es geht um Versklavung, die Middle Passage, Widerstand und Aufstand und die Erinnerung der Diaspora, mit Küsten, Sümpfen und Wäldern als Schauplätzen, mit Folklore und Spiritualität. Musikalisch verbindet das Melodie, Aggression und dichte Atmosphäre: **Atmospheric Black Metal** und **Blackened Death Metal**. Vorab erschienen *Starless Passage* (Juni 2026) und *I Dream in a Tongue I Cannot Speak* (August 2026). Mitglieder und Label sind nicht genannt. Acht Stücke in gut 45 Minuten: *Starless Passage*, *Reduced*, *Teeth of the River*, *Shadow Over First Soil*, *I Dream in a Tongue I Cannot Speak*, *The Mire*, *Kingdoms in the Thicket* und *Sodden Earth*.
 
-::genre::
+::genre::atmo black metal, blackened death metal
 
 ### Hydra - Sign of the Witch
 
-tbd
+Occult-Doom aus Polen mit einem *Lucifer* als Symphonie: *Hydra* legen mit *Sign of the Witch* ihr neues Album vor, nach *From Light to the Abyss* (2020), *Beyond Life and Death* (2022) und *Into the Night* (2024), am 1. November erschienen bei *Interstellar Smoke Records*. Die Band besteht aus *Dąbek* (Gesang, Gitarre), *Pablo* (Gitarre), *Vanat* (Bass, Gesang) und *Yahoo* (Schlagzeug). Das ist **Doom Metal** mit **Occult Rock**-Einschlag, klassisch und schwer, mit Heavy-Metal- und Stoner-Zügen. Acht Stücke in gut 36 Minuten, das längste ist *Heroes of Doom* mit fast acht Minuten: *Intro*, *Cold Lady*, *Wicked Dance*, *Lost in Hell*, *Lucifer Symphony*, *Sign of the Witch*, *Burn and Die* und *Heroes of Doom*. Die Titel deuten auf Okkultes und Infernalisches; zu den Texten lag mir nichts vor.
 
-::genre::
+::genre::doom metal, occult rock
 
 ### Häxan - Siewcy bluźnierstwa
 
-tbd
+Gegründet erst 2025, und schon das erste Album: *Häxan* aus Gliwice in Polen haben vorher nur ein Demo und eine EP veröffentlicht, *Siewcy bluźnierstwa* („Sämänner der Blasphemie“) ist ihr Debütalbum, in Eigenregie erschienen. Das ist **Speed Metal** und **Raw Black Metal**, stark im klassischen Speed Metal verwurzelt, mit der Atmosphäre des Black Metal darüber, von der Band selbst „Speed Black Metal Mayhem“ genannt, in acht Stücken und gut 31 Minuten. Die Titel – *Siewcy bluźnierstwa*, *Chrzest upadłych dusz*, *Całun bezbożnika*, *Pieśń dla diabła*, *Noc heretyków*, *Jad szatana* und *Konsekracja zła* – deuten auf Teufel, Ketzer und gefallene Seelen; das Schlussstück *Metal i piekło* ist ein Cover der legendären *Kat* und liegt im Mix etwas leiser als der Rest. Besetzung und Credits lagen mir nicht vor.
 
-::genre::
+::genre::speed metal, raw black metal
 
-### Industrial Order - Outcome Death
+### Häxmästaren - Skuggor Del 1
 
-tbd
+Ein Wiedererscheinen nach fünf Jahren: *Häxmästaren* aus Göteborg, 2017 gegründet, melden sich mit der EP *Skuggor del 1* zurück, dem ersten Teil ihres nächsten Albums (*Skuggor* ist schwedisch für Schatten). Nach dem Debüt *Haexprocess* (2018) und dem progressiven *Sol i Exil* (2021) wechselte die Besetzung mehrfach: Familie und Karriere gingen vor, ein Bandmitglied musste wegen Tinnitus aufhören, dazu kamen Corona und die Lockdowns. Im letzten Winter buchte die Band ein professionelles Studio und nahm die Stücke dort auf, ohne alles selbst produzieren zu wollen; Genreschubladen habe man diesmal ausgeblendet und gespielt, was Spaß macht, „ehrgeizig, experimentell und sehr heavy“ nennen sie es selbst. Das Cover stammt von *majzberg* vom Syster Studios. Drei Stücke in gut 17 Minuten: *Shadows of the Black Sun*, *Kill the Light* und das achtminütige *Skuggor*. **Stoner Rock** und **Stoner Metal**. Teil eins von zwei, die Fortsetzung steht noch aus.
 
-::genre::
+::genre::stoner rock, stoner metal
 
-### Inferna - A Hymn For Our Dead Friends
+### In Vain - Architects of Mayhem
 
-tbd
+Das siebte Album einer Band, die seit über zwanzig Jahren Heavy, Thrash und Power Metal mischt: *In Vain* aus Madrid legen mit *Architects of Mayhem* ihr Album bei *Fighter Records* vor, nach *Back to Nowhere* (2024). Am Bass spielt zum ersten Mal *Manel Avrillon* (auch *Darkblazers*), *Ralf Scheepers* von *Primal Fear* singt auf einem Stück mit. Der Sound behält die Mischung aus druckvollen Riffs, Tempo, epischen Melodien und eingängigen Refrains bei, wechselt zwischen intensiver Aggression und melodischeren, ausgearbeiteten Passagen, und die Produktion ist runder und ausgewogener, mit mehr Gewicht auf Gitarren und Rhythmusgruppe; eines der Stücke hat folkige Anklänge. Elf Stücke in gut 47 Minuten: *Spit on the Dead*, *Winds of Fire*, *Eyes of the Underdog*, *Jack Deliverance*, *Kingdom in the Sun*, *Fortune Teller*, *Queen of the Swarm*, *After the Storm*, *Nimue*, *Freedom Fighter* und *Coming Home*. **Heavy Metal**, **Power Metal** und **Thrash Metal**, für Fans von *Megadeth*, *Rage*, *Gamma Ray*, *Helloween* und *Running Wild*. Vergeblich ist hier nur der Name.
 
-::genre::
+::genre::heavy metal, power metal, thrash metal
+
+### Infortuno - Artefato da Falha Humana
+
+Hardcore, Death, Doom: so beschreibt sich *Infortuno* aus São Paulo selbst, und auf der EP *Artefato Da Falha Humana* („Artefakt des menschlichen Versagens“) mischen sie Death Doom, Metallic Hardcore und Mosh Metal. Sechs Stücke in gut 22 Minuten, in Eigenregie: *Ritos Da Brutalidade*, *Ruína*, *Vazio Iminente* (die erste Single, schon im August), *Autofagia*, *Peso Da Desolação* und *The Will Of The Blade* (die zweite Single, im Oktober). Aufgenommen wurde im Casa 39 in Campinas, produziert, aufgenommen, gemischt und gemastert hat *Rodrigo Couto*, das Cover stammt von *Luis Felipe Loyola*. **Death Doom Metal** und **Metallic Hardcore**. Menschliches Versagen, sauber dokumentiert.
+
+::genre::death doom metal, metallic hardcore
 
 ### Ioroque - Espíritos Malignos da Floresta
 
-tbd
+„Ioroque“ heißt nach Angabe der Band „böser Geist“, und böse Geister gibt es auf diesem Album reichlich: *Ioroque* aus Pará in Brasilien huldigen auf *Espíritos Malignos da Floresta* („Böse Geister des Waldes“) Wesen aus der indigenen Kosmovision des Amazonas, aus Sicht des Black Metal extrem und düster dargestellt. Für die Band sind diese Legenden mehr als Geschichten, nämlich Teil ihrer Wurzeln, die vom Imperialismus und von den abrahamitischen Religionen bedroht wurden; das Album versteht sich auch als Manifest gegen die weiße westliche Vorherrschaft im Black Metal und gegen kapitalistische Mainstream-Medien, die das Genre prägen, und will amazonische und Global-South-Identität in den Mittelpunkt stellen. Es ist **Atmospheric Black Metal** und **Symphonic Black Metal** mit **Pagan Metal**-Zügen, „amazonisch pagan“ nennt die Band es selbst. Die Stücke erzählen von den Ioroques (grausame Geister des Nordens, mit Krankheit und Tod verbunden, das Stück erschien schon 2022 als Single), von *Anhangá*, dem Geist der Höllenregionen, der Wälder und Tiere bewacht und schädliche Taten bestraft, von *Boiuna*, der riesigen Wasserschlange, von *Luison*, dem verfluchten Mischwesen aus Tier und Mensch, das bei Vollmond umherirrt, von *Matinta Perera*, der Zauberin, die mit einem Nachtvogel verbunden ist, von *Jurupari*, dem Dämon der Albträume, von *Capelobo*, dem Biest mit Ameisenbärkopf und großen kreisrunden Fußspuren, und von *Rasga Mortalha*, dem Todesomen; das Schlussstück *Capitalismo, cultura e luta pela floresta* trägt den Namen von *Davi Kopenawa*, dem Yanomami-Aktivisten. Besetzt ist die Band mit *Rafael Gaia* (Gesang, Rhythmusgitarre, Texte), *Elian Silva* (Growls, Leadgitarre), *Laura Gemaque* (weiblicher Gesang, Keyboards) und *Paulo Wallace* (Bass, Schlagzeug, Mix, Mastering, Schnitt); Texte steuerten außerdem *Felipe Sales* (Teil von *Boiuna*) und *Julius Amorim* (Teil von *Rasga Mortalha*) bei, das Cover stammt von *Thalyson Freitas*, vorher gab es die Demo *Horrendas Criaturas da Noite* (2020). Zehn Stücke in gut 43 Minuten: *Prenúncio de morte*, *Maldição dos Ioroques*, *Anhangá, o deus das regiões infernais*, *Boiuna, a senhora das águas*, *Luison*, *Matinta Perera*, *Jurupari, o demônio dos sonhos*, *Capelobo*, *Rasga Mortalha* und *Capitalismo, cultura e luta pela floresta (Davi Kopenawa)*.
 
-::genre::
+::genre::atmo black metal, symphonic black metal, pagan metal
 
 ### Iron Deficiency - Endure, O Heart
 
-tbd
+Neun Stücke in nicht einmal 20 Minuten: *Iron Deficiency* aus Lyon sind Straight-Edge-Hardcore (LYHC, wie sie selbst schreiben), und ihr Album *Endure, O Heart* kommt mit dem Satz „Hast du je versucht, dir die andere Welt vorzustellen? Zweifle weiter.“. Es erschien am 4. November bei *Youth Authority Records*, nach *Morning in the burning house* (November 2022) und *VEHEMENCE* (Dezember 2020); aufgenommen hat die Band selbst bei Warmaudio, gemischt und gemastert hat *Ben Jones*, auf *Still Here* ist *Broken Ankles* als Gast dabei. Das ist **Hardcore Punk** der schweren, geraden Sorte, ohne Schnörkel. Die Stücke: *Hard Way*, *Eternal Weight*, *50 Ways to Kill You*, *Sworn Devotion*, *Still Here*, *RMR*, *Only Faced Iron*, *Illusion of Choice* und *Bloodline*. Wer keinen Alkohol trinkt, hat mehr Zeit für Riffs.
 
-::genre::
+::genre::hardcore punk
 
 ### Jealous God - Every Garden Is Worthless
 
-tbd
+Zehn Stücke in gut 25 Minuten und ein Stück ohne Namen: *Jealous God* legen mit *Every Garden Is Worthless* ein Album vor, das am 3. November bei *Delayed Gratification Records* erschien, dem seit 2013 bestehenden Label aus Cleveland, Ohio. Aufgenommen, gemischt und gemastert hat *Matt Michael* im Viva Studios, die Coverillustration stammt von *Justin Klegka*, das Foto von *Em White*. Das ist **Hardcore Punk** und **Melodic Hardcore** mit **Metalcore**-Anteilen. Die Mitglieder lagen mir nicht vor. Die Stücke: *Easy End*, *Nihilo*, *Can’t Stop The Bleeding*, *Feeding Ground*, *New Light*, *Tomorrow’s Waiting*, *Kill From The Cage*, *(No Name)*, *Where Are The Flowers?* und *Outro*.
 
-::genre::
-
-### Jeff Dewsnup - The Haunting Of Cove Grove
-
-tbd
-
-::genre::
+::genre::hardcore punk, melo hardcore, metalcore
 
 ### JIBLETS - TRUE LOWS
 
-tbd
+Titel wie *M3CHAN15M*, *3V0LV3D* und *R3TR1BUT10N* zeigen, dass bei *JIBLETS* aus Lincoln, Nebraska, die Buchstaben auch mal Zahlen sein dürfen: *TRUE LOWS* ist das erste volle Album der Band, die sich selbst „Lincoln NE Metalcore“ nennt, und am 5. November erschienen. Das ist **Metalcore**, **Deathcore** und **Djent**, elf Stücke in gut 48 Minuten, das längste ist *RIP APART* mit gut sechs Minuten, das kürzeste *R3TR1BUT10N* mit gut einer: *REMEMBERANCE*, *M3CHAN15M*, *3V0LV3D*, *COLLAPSE*, *REPLICANT*, *WAKE*, *R3TR1BUT10N*, *RIP APART*, *DROWN*, *REIGN* und *VALEDICTION*. Besetzung, Credits und Label lagen mir nicht vor.
 
-::genre::
-
-### Jiinzo - Parasite
-
-tbd
-
-::genre::
+::genre::metalcore, deathcore, djent
 
 ### JuffBass - For Those Who Seek Comfort
 
-tbd
+Ein kleines Haus irgendwo auf dem Land, ein Besuch dort, und am Ende ein langer Abschied: *For Those Who Seek Comfort* von *JuffBass* aus Ungarn ist ein instrumentales Konzeptalbum über einen ruhigen Ort, an dem Erinnerungen uns prägen, ohne uns zurückzuziehen, sodass wir uns erinnern können, ohne zurückkehren zu wollen. Jedes Stück ist eine Etappe des Besuchs: Ankunft, ein warmer Empfang, die Zeit in einem gemütlichen Zimmer mit tickender Uhr, Spiel im Garten, der Wechsel von Tag zu Nacht, Sternegucken und ein Nachdenken am knisternden Feuer; das Album soll ein Ort sein, an den man zurückkehren kann, um Ruhe zu finden und die Gedanken schweifen zu lassen. Es knüpft an frühere Alben an: *Hiraeth* (die Sehnsucht, zurückzugehen), *Monolith* (Erinnerungen, die die Gegenwart bestimmen) und *Emptiness Reigns* (alles zu verlieren). Musikalisch ist das **Post Rock** und **Ambient** mit Akustikgitarre und Bass, in Indie-Folk-Farben, durchgehend **Instrumental**. Geschrieben und aufgenommen hat *JuffBass* alles selbst, gemischt und gemastert hat *Márton Győrög* im Black Light Sound; davor erschien im Oktober 2026 die Single *The Last Winter*, im Oktober 2024 das Album *Hverfa*. Acht Stücke in gut 36 Minuten: *Planes IV*, *A Warm Hug*, *The Last Winter*, *Throwing Paper Planes*, *Naplemente*, *Stargazing*, *Maybe I Should Just Disappear, It Would Be Less Problematic* und *A Long Goodbye For Those Who Seek Comfort*.
 
-::genre::
+::genre::post rock, ambient, instrumental
 
 ### K.F.R. - Total Art
 
-tbd
+Ein Album, das man laut dem Projekt nicht nur hören, sondern auch sehen soll: *K.F.R* (كافر), das Ein-Mann-Projekt von *Maxime Taccardi* aus Paris, baut *Total Art* auf der Idee der Synästhesie auf, der Verbindung aller Sinne zu einem Erlebnis, das „Total Art“ heißt, mit Anleihen bei *Kandinsky*, *Schönberg*, *Wagner* und *Skrjabin* und dem Gesamtkunstwerk. Die Musik übersetzt die eigenen Gemälde in eine dunkle Klanglandschaft; Taccardi spricht von einem Testament und von einem selbstgedrehten Film, den es zur Platte gibt, einer Horror-Musical-Anthologie in Stop-Motion mit Ton, Knetmasse und eigenem Blut, gedreht und geschnitten von Januar bis August 2026, mit Material, das teils zwanzig Jahre alt ist. Das Soundtrack-Album dazu erschien schon im September, das hier ist das eigentliche Album. Taccardi spielt alle Instrumente und singt, *Déhà* spielt Schlagzeug und hat gemastert; aufgenommen wurde im Winter 2025, davor gab es unter anderem *Pain/Ter* und *The Serpent’s Kiss* (beide 2023). Es geht um Sterblichkeit, Tod und körperlichen Verfall, um Nihilismus, Selbsthass und Groll gegen die Menschheit, um Kritik an Konsum, Ego und kollektivem Glauben und um Kunst als körperlichen, schmerzhaften Prozess. Musikalisch ist das **Atmospheric Black Metal** mit **Dark Ambient**-Anteilen. Sechs Stücke in gut 54 Minuten: *Speculum Fractis*, *Total Art*, *Casum Hominis*, *I did it for You*, *The Dark Blood of Resentment* und *The Monster People Fear*, das mit über 15 Minuten das längste ist.
 
-::genre::
+::genre::atmo black metal, dark ambient
+
+### Klaiton - A Celebration Of Pain
+
+Old-School-Death-Metal aus den Niederlanden: *Klaïton*, 2013 gegründet von den Gitarristen *Erwin Wesdorp* (ex-*Polluted Inheritance*) und *Stefan Verdoorn* (*Burial*), mit Schlagzeuger *Ronald Camonier* (ex-Gitarrist und Sänger bei *Polluted Inheritance*), Bassist *Jan Verdoorn* (2026, zuvor 2013 bis 2026 *Steven Vrieswijk*) und Sänger *Gratien Versijpt*, legen nach der EP *Behind the Ritual* (Oktober 2024) mit *A Celebration of Pain* ihre zweite EP vor. Sechs Stücke in gut 21 Minuten: *Doctrine of Atrocity*, *Eternal*, *From Blood to Muscle to Bone*, *Doomparade*, *Children of God* und *Godforsaken*. **Old School Death Metal**, laut Band mit einem kleinen Kultstatus in der Heimat. Gefeiert wird mit der *Doomparade*.
+
+::genre::osdm
 
 ### Klaw - Walk
 
-tbd
+Hammond-Orgel, E-Bow und Synthesizer, elf Stücke in gut 34 Minuten und Titel wie *Todd Plays The Congas* und *What Is That Stench*: *Klaw* aus Chicago, äußerst produktiv (allein seit 2025 erschienen *Wood Street That Good Street*, *Harvey Winds*, *You Don’t Belong In Here* und *twelve*), legt mit *Walk* ein instrumentales Progressive-Rock-Album vor, das am 2. November erschien. Dazu gehören Anteile von New Age und Soundtrack-Stimmung, das Cover stammt von *Jack Vos*. *John Barnicle* spielt Gitarre auf *Pretty Shores Shine Across Their Minds*, *Kurt Kalivoda* spielt den Bass auf *Four Tea*, in den Credits steht dazu „R.I.P.“. Das ist **Progressive Rock**, durchgehend **Instrumental**. Die Stücke: *est 1833*, *Region Of Ludlam*, *January*, *Moe*, *Blocktober Fun Fun*, *Bae by the Bay*, *Xpand It X*, *Pretty Shores Shine Across Their Minds*, *Four Tea*, *Todd Plays The Congas* und *What Is That Stench*.
 
-::genre::
+::genre::prog rock, instrumental
 
 ### Lucerne Hammer - Spell of Rain
 
-tbd
+„Anti-Fascist Black Metal“, dazu die Aufforderung „Eat The Rich, Fuck The Bastards, Death To Fascists“ und Solidarität für Palästina, den Sudan, den Libanon und den Kongo: *Lucerne Hammer*, das Projekt von *theironmountain* aus Ontario, macht keinen Hehl aus seiner Haltung, und *Spell of Rain* ist nach *Lucerne Hammer* (März 2025) und *Vermilion Pyre* (September 2025) das neue Album, am 5. November erschienen. Das ist **Atmospheric Black Metal** der **Red/Anarchist Black Metal**-Art, mit einem Cover des Stücks *Frumenty* von *Erang* (*Tome Zero*, 2025). Alle Musik wurde von theironmountain geschrieben und aufgenommen; auf *Moonlit Woodland* ist ein Sample von *whatsername1.0* zu hören, das Cover zeigt *Nimbus, regnend* von *Richard Börnstein* (1852–1913). Gedankt wird *Maxime* für artistischen Rat, *Rob* für Produktionshilfe und den Unterstützern, und es heißt, das Album habe sich oft angefühlt, als gewinne es die Oberhand. Ein Label ist nicht genannt. Sieben Stücke in gut 37 Minuten: *Moonlit Woodland*, *Spell Of Rain*, *Sorcerer’s Lust*, *The Mountain King*, *Frumenty (Erang Cover)*, *Ash and Flame* und *Blacksmith’s Lament*.
 
-::genre::
+::genre::atmo black metal, rabm
 
-### MAD NOMAD - Common Ground
+### MAD NOMAD - Common Ground *
 
-tbd
+Wurzeln und wildes Unkraut, die durch Kopfsteinpflaster und Beton brechen: Mit diesem Bild fragt *Common Ground* von *Mad Nomad* aus Lissabon, wie man gemeinsamen Boden schaffen kann, ohne die Unterschiede einzuebnen. Das Album ist **Jazz Fusion** mit einer urbanen Neuinterpretation traditioneller Rhythmen aus Kap Verde und Guinea-Bissau, dazu **Spoken Words** und **Trip Hop**, mit Live-Instrumenten und zweisprachiger Poesie auf Englisch und kapverdischem Kreol, zum Teil auch Portugiesisch; es führt von persönlicher Heilung zu kritischen Betrachtungen über Diaspora, koloniales Erbe und kollektive Widerstandskraft. Die Seite hebt *Lela*, *Hard from the Core* und *Clovers and Dandelions* hervor. Hinter dem Kollektiv stehen *Catarina dos Santos* (Gesang, Synthesizer, Sample-Programmierung; von dos Santos stammen alle Kompositionen und Texte, nur bei *Hard from the Core* waren mit Bernardo Fesch, Luís Candeias und André Pinheiro weitere dabei), *Óscar Graça* (Klavier, E-Piano, Synthesizer), *Bernardo Fesch* und *Hugo Antunes* (E-Bass), *Luís Candeias* (Schlagzeug, E-Bass, E-Gitarre, Synthesizer, Percussion) und *André Pinheiro* (Sample-Programmierung); als Gäste sind *André Fernandes* (E-Gitarre), *Ricardo Pinto* (Trompete), *António Bruheim* (Alt- und Tenorsaxofon), *Anna Lundqvist* (Gesang), *João Mortágua* (Altsaxofon) und *Mick Trovoada* (Percussion) dabei. Produziert haben dos Santos und Candeias, aufgenommen und gemischt hat Candeias im Estúdio HQ (zwei Stücke mischte *Sérgio Milhano*), gemastert hat *Clara Araújo* bei Knurl Mastering, das Design stammt von Pinto. Davor erschien *Untamed* (Januar 2020). Zwölf Stücke in gut 45 Minuten: *Common Ground*, *Natural is Flow*, *N’tem ki bai*, *Lela*, *Dark Light*, *A Message*, *Beyond Us*, *Possibility*, *Clovers and Dandelions*, *Wounded Pieces*, *The Spark* und *Hard from the Core*.
 
-::genre::
-
-### Manikin - Targeted
-
-tbd
-
-::genre::
+::genre::jazz fusion, spoken words, trip hop
 
 ### MELØ - Architects Of Revolution
 
-tbd
+Ein Album, das mit einem Titelstück von nur 79 Sekunden beginnt und mit *Swing Out Sister!* endet: *MELØ* (Carmen Rivolta) aus Windsor, Ontario, nennt sich „Alternative Pop Artist“, und *Architects Of Revolution* erschien am 3. November, nach den Singles *Follow You, Follow Me* (August 2025), *New Way Of Missing You* (Oktober 2025) und *Devil’s Feet* (Januar 2026). Das ist **Alternative Pop** und **Synth Pop** mit Synthwave- und Art-Pop-Anklängen. Komposition und Texte stammen von Rivolta, produziert haben Rivolta und *Domenico Ambrosio* gemeinsam, Ambrosio mischte auch, gemastert hat *Joa Carvalho*. Zehn Stücke in gut 33 Minuten: *Architects Of Revolution*, *New Way Of Missing You*, *Falling Through Eternity*, *Panic No More*, *Devil’s Feet*, *The Great Pretenders*, *Follow You, Follow Me*, *Midnight People*, *I Don’t Speak French* und *Swing Out Sister!*. Ein Label ist nicht genannt.
 
-::genre::
-
-### midwest, post death - past curfew
-
-tbd
-
-::genre::
+::genre::alt pop, synth pop
 
 ### Mik - Ajmaq
 
-tbd
+*Mik* ist ein internationales Projekt zwischen El Salvador und Spanien, das sich als „depressives Post-Black-Metal-Projekt“ mit Wiederholung, emotionalem Zusammenbruch und innerer Konfrontation beschreibt. *Ajmaq*, am 1. November erschienen, ist laut Beschreibung ein Abstieg in Angst, Selbstablehnung und Widerspruch: Es gibt keine Suche nach Heilung, nur die Konfrontation mit dem, was bleibt, und ihre Annahme. Musikalisch ist das **Post Black Metal** mit **Blackgaze**-Zügen, Ambient und Post-Metal. Davor erschien im Oktober 2025 die Single *Ehecat (Instrumental)*. Sieben Stücke in knapp 29 Minuten: *Beheaded*, *Yaot*, *Ehecat*, *Substance*, *Kab’*, *Come and see* und *Ajmaq*. Credits und Label lagen mir nicht vor.
 
-::genre::
+::genre::post black metal, blackgaze
 
-### Mist - Summoning Eternity
+### Mira Disconnect - Entangled
 
-tbd
+Große Riffs, größere Refrains, eingängige Hooks: *Mira Disconnect* aus Hull („von beiden Seiten des Humber“) legen mit *Entangled* eine EP mit drei Stücken vor. Zwei der Stücke gab es vorab, *I.D.A.* im Mai und *Wires* im September, neu ist *Decoherence*. Drei Stücke in gut 11 Minuten: *I.D.A.*, *Wires* und *Decoherence*. **Alternative Rock**, **Heavy Rock** und **Post Hardcore**, mit Pop-Rock-, Emo- und Skatepunk-Einschlag. Drei Stücke, die sich verheddern.
 
-::genre::
+::genre::alt rock, heavy rock, post hardcore
+
+### Mists - Summoning Eternity
+
+Ein neues belgisch-amerikanisches Projekt, das einen unheimlichen Pfad durch zerbrochene Grabsteine und vergessene Krypten legt: *Mists* sind *H.* (Gitarre; *Oerheks*, *Silver Knife*, *Häxenzijrkell*), *C.V.B.* (Bass, Gesang; *Aerdryk*, *Erbeet Azhak*, *Wolvennest*) und *S.G.* (Schlagzeug; *Vox Clamantis*, *Dashuyn*), und *Summoning Eternity* ist ihr erstes öffentliches Werk, erschienen bei *Amor Fati Productions*. Zwei Stücke in knapp 39 Minuten: *Through Eternal Graves* (fast 22 Minuten) und *Carved Miseries of Ancient Times* (gut 16 Minuten). Zuerst langsam und brütend, dann in einen irren Rausch Richtung Tod übergehend, ein Wechsel zwischen undurchdringlichem, ätherischem Nebel und Hysterie; die Gitarren schimmern und arpeggieren sich durch einen hypnotischen Dunst, das Album liege „oberhalb und unterhalb“ des Genres, heißt es. Die Gitarren hat *H.* im Februar und Juli 2024 im Cagghenvinna in Kaggevinne aufgenommen, Bass und Gesang *C.V.B.* im Forbidden Frequencies in Wemmel (Bass 2024 und Januar 2025, Gesang März 2026), das Schlagzeug *BETB* im Oktober und November 2025 im MPB in Washington D.C.; gemischt und gemastert hat *D.* im Blackout Studios in Brüssel (November 2025 und Juni 2026). Musik von *H.* und *Mists*, Texte von *H.*, Artwork und Logo von *BLAEKS*, Layout von *Dan Fried*. **Atmospheric Black Metal**. Zwei Stücke, vierzig Minuten Nebel.
+
+::genre::atmo black metal
 
 ### Mortgrim - Evangelium Luciferianum
 
-tbd
+Ein Ein-Mann-Projekt aus Budapest, das atmosphärische Dunkelheit mit doomigen Elementen verbindet: *Mortgrim* schafft „immersive und düstere Klanglandschaften“ aus einer sehr persönlichen Sicht, und die Texte gehen laut Beschreibung in spirituelle und philosophische Themen. *Evangelium Luciferianum* erschien am 31. Oktober, nach dem Album *Blasphemy* (Februar 2026) und der Single *Helel* (August 2026), die auch auf diesem Album steht. Das ist **Atmospheric Black Metal** mit **Raw Black Metal**-Zügen. Neun Stücke in gut 34 Minuten: *Majesty of the Morning Star*, *Helel*, *Fornir Andar*, *Dead Tide*, *Eternal Rite*, *Inverted Cross*, *Corpus et Chaos*, *Rotting Souls* und *Lament of Goetia*. Credits und Label lagen mir nicht vor.
 
-::genre::
-
-### Mr.Kitty - Finale
-
-tbd
-
-::genre::
-
-### Mystification - Mystification
-
-tbd
-
-::genre::
+::genre::atmo black metal, raw black metal
 
 ### Newspaperflyhunting - Drops
 
-tbd
+Eine Art Coda zur „Time“-Trilogie: *newspaperflyhunting* aus Białystok in Polen, selbst „Post-Prog-Gaze“ und „introspektive Unvollkommenheit“ genannt, schließen mit der EP *Drops* an *Time Lost* (Dezember 2018), *Time Regained* (September 2022) und *Timeless* (Dezember 2025) an. *Drops* und *no real feelings (quiet)* entstanden bei den *Timeless*-Sessions 2025, *time stands still (alternative)* wurde 2018 bei den *Time Lost*-Sessions aufgenommen, 2019 gemischt und 2025 neu gemastert. Das ist **Progressive Rock** mit **Shoegaze**- und **Post Rock**-Zügen, mit *Pink Floyd* und *Porcupine Tree* als Bezugspunkten. Besetzt ist die Band mit *Michał Pawłowski* (E-Gitarre und Streicherbogen-Gitarre, Irische Bouzouki, Kalimba, Samples, Gesang; von Pawłowski stammen auch die Texte), *Gosia Sutuła-Grabowska* (E- und Akustikbass, Keyboards, Gesang), *Krzysztof Sarna* (Schlagzeug) und *Beata Grzegorczyk-Andrejczuk* (Keyboards); auf *time stands still* spielt *Jacek Bezubik* Gitarre. Das Cover malte *Anna Milewska*, die Band versichert, dass keine KI benutzt wurde. Drei Stücke in gut 20 Minuten: *drops* (5:08), *no real feelings (quiet)* (7:15) und *time stands still (alternative)* (7:53).
 
-::genre::
+::genre::prog rock, shoegaze, post rock
+
+### Nihilo - Abyss
+
+Zehn Stücke in gut 30 Minuten, und keines davon tritt auf der Stelle: *Nihilo* aus der Schweiz (seit 2003 dabei) legen mit *Abyss* ihr fünftes Album vor, nach *Resolution* (2022) und als erstes Werk beim neuen Label *Xtreem Music*. Am Start sind *Ragulan* (Gesang), *Marco* und *Schwab* (Gitarre), *Florian* (Bass) und *Damiano* (Schlagzeug); aufgenommen wurde im HardBeat Studio, produziert und gemischt von *Romano Galli* und *Simon Egli*, gemastert von *Christophe Brandes* in den Iguana Studios, das Cover stammt von *Rodrigo Pereira Salvatierra*. Auf *Dishonoured Death* ist *Shyai* von *Impiety* als Gast dabei. Musikalisch ist das **Death Metal**, in den die Band im Lauf der Jahre auch Crust, Grindcore, Hardcore und zuletzt Black-Metal-Elemente eingebaut hat, hier mit **Blackened Death Metal**-Anteilen; als Referenzen nennt die Ankündigung *Morbid Angel*, *Vader*, *Immolation* und *Nile*. Das Label spricht vom bislang düstersten, aggressivsten und ehrgeizigsten Werk der Band, und auch Kritiker hören es düsterer, härter und verheerender als je zuvor. Zu den Stücken: *Primal Instinct* ist ein kurzer, zerstörerischer Opener, *Voidbound* hat feurige Gitarren und unablässige, dämonische Vocals, *Impending Doom* eine donnernde Rhythmusgruppe, *Dishonored Death* ist fürs Moshpit gebaut, *Veil of Nothing* läuft aggressiv an und endet in einer ruhigeren, ätherischen Passage, *Fractured* hat melodische Riffs und Soli, *Roots in Bone* ist das schwärzeste Stück, und *Enter the Abyss* schließt mit tiefen Growls. Alle zehn: *Primal Instinct*, *Voidbound*, *Impending Doom*, *Dishonored Death*, *Inherent Cracks*, *Veil of Nothing*, *Suffocating Silence*, *Fractured*, *Roots in Bone* und *Enter the Abyss*. Ein Album, das nach dreißig Minuten fertig ist und trotzdem nachwirkt.
+
+::genre::death metal, blackened death metal
 
 ### Noctis Bellum - Crepuscule
 
-tbd
+Die Nacht ist hier kein Zeitpunkt, sondern ein Zustand: Das Debüt *Crepuscule* (*Torture Palace Productions*) widmet sich konzeptionell einem kosmischen Eschaton, der Weite des „Anderen“ und dem Überwinden von Zeit und Raum, und die Nacht soll alles durchdringen. Hinter *Noctis Bellum* aus den USA steckt als Soloprojekt ein anonymer Musiker, der sich *Angeldestruction Von Ravenwing* nennt und auch bei *Bereft Raven*, *Vehmgericht* und *Traum* aktiv ist; inzwischen sitzt *Gostyr* (ebenfalls *Bereft Raven* und *Vehmgericht*) am Schlagzeug. Zwei der sieben Stücke, *Beyond the Zenith* und *Messier 87*, waren schon auf der *Promo 2026* zu hören, die auf die Demo *The Grandiose Nightsky Requiem* von 2024 folgte. Musikalisch ist das **Atmospheric Black Metal** mit **Melodic Black Metal**-Einschlag und einer kräftigen Portion Heavy-Metal-Handwerk samt Leads und Dynamikwechseln, rau genug, dass es nach Band klingt statt nach Studiozauber. Gut 40 Minuten Nacht mit Weitblick.
 
-::genre::
-
-### NØVA - WITHIN THE WALLS
-
-tbd
-
-::genre::
+::genre::atmo black metal, melo black metal
 
 ### Odious Sanction - Overwhelming Hatred For Humanity
 
-tbd
+Zwanzig Jahre nach *No Motivation to Live* (2006) melden sich *Odious Sanction* aus Painesville, Ohio, mit einem neuen Album zurück. Die Band gibt es seit der Demo von 1993, dazwischen erschienen *Ignorant Waste* (1994), *Punishment of Life* (1996) und *Psychotically Enraged* (1999). *Overwhelming Hatred for Humanity* hat neun Stücke in knapp 29 Minuten, vom Auftakt *The Shield of Mind* über *You Shouldn't Betray Us*, *Controlled and Divided*, *Unwarranted Judgement*, *Bitter*, *Nothing Left Inside*, das Titelstück und *Life's Pain* bis zum Schlusspunkt *Ignition Sequence*. **Death Metal** trifft auf **Thrash Metal** und **Grindcore**, mit Hardcore- und Slam-Anteilen. Wer so lange wartet, hat offenbar einiges aufgestaut.
 
-::genre::
+::genre::death metal, thrash metal, grindcore
 
 ### Odium Incarnatum - A Demon Arises
 
-tbd
+Eine Person, dreizehn Stücke, drei Genres im Gepäck: *Odium Incarnatum* aus Riga ist ein Soloprojekt, das sich bei **Black Metal**, **Death Metal** und den Anfängen des **Thrash Metal** bedient. Die Texte drehen sich um persönliche Erfahrungen, psychische Erkrankungen und mentale Gesundheit, um Natur und Apokalypse. Live spielt der Musiker online, bei einzelnen Gigs und auf Touren durch Europa und Großbritannien; das Logo schuf *Christophe Szpadel*. *A Demon Arises* folgt auf *Souls of Darkness* (August) und *Werewolves Blood* (Oktober) und kommt mit Intro und Outro auf gut 36 Minuten: *Destruction and Ruin*, *Atrocities*, *Reduced to Ashes*, *Ritual Slaughter*, *Tattered Illusions*, *The Furnace*, *Truth and Reality*, *Unrepentant*, *Visions*, *When Heaven Burns* und das Titelstück. Das Intro dauert zehn Sekunden, das Outro 44.
 
-::genre::
+::genre::black metal, death metal, thrash metal
 
 ### Palladium Noises - Dan Quayle and the Presbyterians
 
-tbd
+Gewidmet ist das Album „dem allmächtigen Dan Quayle“, mehr verrät die Band dazu nicht, und der Titel *Dan Quayle and the Presbyterians* erklärt sich offenbar von selbst. Hinter *Palladium Noises* aus Grand Rapids, Michigan, stecken zwei Leute, die sich *Krow* und *Django* nennen und nur durch ihre Musik bekannt sein wollen; Django ist Haupt-Songwriter, Produzent und Cover-Künstler, Krow schreibt und produziert mit. Davor erschien im Februar 2026 *Remain Ignorant / Become Light*. Sieben Stücke, gut 45 Minuten, zwei davon Langstrecken: *In the beginning, there was wind (for the extraordinary life of one who did too little)* mit fast 15 Minuten und *Almighty God and His Everloving Gophers* mit knapp zwölf; dazu *Wayward, Wayward*, *Waking Up to Fall Asleep*, *The Orange Cumulonimbus*, *I Didn't Live in This Century* und *I Love You All Have a Wonderful Life or I Think I'll Be Leaving Now*. **Ambient**, **Ambient Pop** und **Drone**, mit experimentellem, minimalistischem Einschlag. Zum Nebenbeihören geeignet, auch wenn dann die *Everloving Gophers* zu kurz kommen.
 
-::genre::
+::genre::ambient, ambient pop, drone
 
 ### Peter Dieck - Passengers
 
-tbd
+Neun Stücke, knapp 47 Minuten, ein Name auf allen Credits: *Peter Dieck* ist Hauptakteur und Komponist von *Passengers*, erschienen bei *PD Productions*. Los geht es mit *Fragile*, es folgen *No More Lies*, *Connection*, *Bad Boys*, das Titelstück *Passengers*, *Grenfell*, das nicht einmal zwei Minuten kurze *Salamander* und *How the Hell*, und zum Schluss steht mit *The Profound Joy in Modest Acts of Musical Creation* der sperrigste Titel der Platte. **Progressive Rock** zum Einsteigen. Mehr Hintergrund lag mir nicht vor, die Musik muss also für sich sprechen.
 
-::genre::
+::genre::prog rock
 
 ### Piba - Sistemático
 
-tbd
+Um *6 AM* aufstehen, Reiz um Reiz konsumieren, Entscheidungen im Takt der Umgebung treffen: *Sistemático* nimmt den Alltag unter die Lupe. *Piba* aus Buenos Aires, 2017 gegründet, werfen darin einen kritischen Blick auf System und Gesellschaft und darauf, wie wir uns darin bewegen, mit Routine, ständigem Reizkonsum und äußerem Druck auf persönliche Entscheidungen als Themen. *Macarena Merlo* schreibt, singt und spielt Gitarre, *Margarita Rubén* übernimmt die Leadgitarre, *Martina Boixader* das Schlagzeug. Das Album folgt auf die Debüt-EP *Nunca fui tu friend* (2018) und *Pánico y distorsión* (2023), erscheint bei *Hora Cero Records*, wurde von *Estanislao López* in den Estudios Unísono aufgenommen und gemischt, und *Matías Luke*, Produzent des Vorgängeralbums, ist an *6 AM* als Co-Komponist beteiligt. Acht Stücke in knapp 25 Minuten: *6 AM*, *El escape*, *Pinta dormir*, *Despertame cuando termine*, das Titelstück *Sistemático*, *No quiero*, *Del otro lado* und *Stone Roses en la pared*. **Alternative Rock** mit **Indie Rock**-Haltung. Der Wecker klingelt, und diesmal hat er Gitarren.
 
-::genre::
+::genre::alt rock, indie rock
 
 ### Pizza - Así Es Como Se Hace
 
-tbd
+Der Bandname begann als Scherz unter Schulfreunden, das Debütalbum ist dagegen ernst gemeint: *Pizza* aus Buenos Aires, ein Quartett um *Tomassaky* (Gesang, Gitarre), *Oti* (Gitarre) und *Daikla* (Bass), legen mit *Así es como se hace* („So macht man das“) ihr erstes Album vor, dreizehn Stücke in gut 34 Minuten bei *Off The Records*, einem 2025 gegründeten Indie-Label. Produziert hat *Gustavo Iglesias*, eine Schlüsselfigur im Sound von *Babasónicos*, aufgenommen wurde so, dass die Energie des Moments mehr zählt als Politur; herausgekommen ist ein junges, energiegeladenes Album, das der Rockmusik wieder mehr Gewicht geben soll. Vorab gab es *Nueva marea*, *Lamebotas* und *Bang Bang (Así es como se hace)*, einen tanzbaren Hymnus darauf, wie Musik besessen macht, verführt und wach hält; in *Libre* singt ein Kinderchor vom Wunsch nach Freiheit. Davor erschienen zwei Vier-Titel-EPs, *Pizza?* und *Cerca pero no tan cerca*. **Alternative Rock** mit **Indie Rock**-Gitarren, schnelle Brecher ebenso wie Balladen, und *The Strokes* als erklärtes Vorbild. Am 29. November teilt sich Pizza beim Primavera Sound Buenos Aires den Tag mit *The Strokes* und *Courtney Barnett*, im Februar 2027 geht es erstmals zum Cosquín Rock. Geliefert wird heiß.
 
-::genre::
+::genre::alt rock, indie rock
 
 ### Plackband - Sebilla
 
-tbd
+Zum 50-jährigen Bestehen erzählt *Plackband* aus Den Haag in *Sebilla* das Leben von *Sebilla Niemans*, die in den 1950er Jahren unter dem Namen „Blonde Dolly“ eine bekannte Figur des Haager Nachtlebens war und am 31. Oktober 1959 ermordet wurde; die Umstände des Todes sind ein zentrales Thema, und an diesem Jahrestag ist das Album auch erschienen. Die Band versteht es vor allem als zeitgenössische musikalische Produktion, nicht als historische Nachstellung. Die erste Hälfte ist die neue Suite mit zehn Stücken: *Sebilla Part I* (ein orchestraler Auftakt), *Who Killed Blond Dolly*, *Dolly's Blue Book*, *Nicky Saw It All*, *Sebilla Part II*, *Blue Flashes* (mit über zwölf Minuten das längste), *Flowers for Blond Dolly*, *Dolly's Last Night*, *Sebilla Part III* und *Dolly's Blue Book* noch einmal als gekürzte Bonusfassung; *Heidi-Jo Hines* ist mit gesprochenem Wort und als Stimme von Blonde Dolly zu hören. Die zweite Hälfte, *We Have the Sun*, beginnt mit einem neuen, flotten Titelstück in aktueller Besetzung; die übrigen Stücke wurden 1978/79 im Proberaum aufgenommen und waren bisher unveröffentlicht: *I'm Only Living*, *The Village and the Fat*, *Dragon Masters*, *Crowds*, *Television*, *Stranger in My Own House*, *Bar Philosophy* und *Rites and Dances*, dazu der kurze *Vara Jingle*. Die heutige Besetzung: *Koos Sekreve* (Gesang), *Ronald Brautigam* (Gitarre, Gesang), *Philip Platt* (Bass), *Tom van der Meulen* (Schlagzeug) und *Michel van Wassem* (Keyboards, Gesang). Das ist **Progressive Rock** und **Symphonic Progressive Rock**, aus einer Zeit, in der man das noch „symphonischen Rock“ nannte. Wer die alten Proberaum-Aufnahmen hört, hört, woher die Band kommt.
 
-::genre::
+::genre::prog rock, symphonic prog rock
 
 ### Powermönger - Powermönger
 
-tbd
+*Powermönger* aus Kanada (genauer: Vancouver) sehen sich als neueste Heavy-/Speed-Metal-Kraft aus dem Westen des Landes und berufen sich auf *Hallows Eve*, *Omen*, *Satan*, *Liege Lord*, *Nasty Savage*, *Razor* und *Whiplash*: scharfe Riffs, hoher Gesang von *Blaise Elchuk*, Tempo, die rohe Aggression des frühen **Speed Metal** und **Heavy Metal**-Hymnen zum Mitschreien. Die Produktion ist roh und ungeschliffen wie in den Achtzigern, das Ganze klingt irgendwo zwischen *Anvil* und *Exciter*, mit einem Gesang, der an *Dan Beehler* erinnert, und das schlichte Cover sieht aus wie ein Flohmarktfund. Die selbstbetitelte Debüt-EP erscheint bei *Jawbreaker Records* und hat sechs Stücke in knapp 24 Minuten: *Powermönger*, *Leather Legions*, *Hellfighter*, *Off the Menu*, *Order of the Lich* und zum Abschluss das Cover von *Max Overload* der belgischen Speed-Metal-Urgesteine *Acid*. Lederkluft inklusive, wie der zweite Titel verspricht.
 
-::genre::
-
-### Pustonoc - Pustonoc
-
-tbd
-
-::genre::
+::genre::speed metal, heavy metal
 
 ### Putrid Stu - Poopee
 
-tbd
+Kürzer geht es kaum: *Poopee* hat sechs Stücke in gut zehn Minuten, fünf davon unter anderthalb Minuten, nur das Schlussstück *You're Home, Mo* streckt sich auf 4:37. *Putrid Stu* ist ein Ein-Personen-Projekt aus Dayton, Ohio, bei dem Gesang, Gitarre, Bass, Schlagzeug, Komposition, Texte und Produktion aus einer Hand kommen; erschienen ist die EP bei *Fix My Face Records*. Musikalisch ist das **Goregrind** mit **Brutal Death Metal**-Einschlag und Slam-Anteilen. Titel wie *Back to the Stu-ture*, *Sir Stinky* und *Buncha Boobies* (der schon am 2. Oktober einzeln erschien) lassen keinen Zweifel am Humor. Länge: ungefähr ein Toilettengang.
 
-::genre::
+::genre::goregrind, brutal death metal
+
+### Pyrex, Traumatizer - Split
+
+Zwei Bands, vier Stücke, acht Minuten: Der Split von *Pyrex* und *Traumatizer* ist kürzer als ein Gang zum Kiosk und lässt trotzdem Spuren. *Pyrex* aus Brooklyn, ein Power-Trio, das seit Jahren auch außerhalb von New York tourt, mit Sänger *Joe Hardwick*, dessen Gesang Angst und Beklemmung vermittelt, klingt irgendwo zwischen *Rudimentary Peni* und *Tožibabe*, mit mehr Tempo und Druck, und trifft die Dichte ihrer Liveshows. *Traumatizer* aus den Niederlanden spielen schnörkellosen **D-Beat** mit metallischen Leads, in der Nähe von *Public Acid* und später *Cimex* und *Poison Idea*, mit laut geschrienen Vocals im Stil von *Health Hazard*. Zusammen kommen sie auf **Hardcore Punk** mit der Bleakness, die europäischem HC-Punk nachgesagt wird; die Bands lernten sich 2025 auf dem Izero Fest kennen, blieben in Kontakt, und die Platte erscheint pünktlich zu einer gemeinsamen Europatour im November. Das Cover stammt von *Jack Sabbat*. Auf *Pyrex'* Seite laufen *Gargoyle* und *Mortar*, auf der von *Traumatizer* *Condemned* und *Mock Execution*. Erschienen bei *La Vida Es Un Mus Discos* aus London.
+
+::genre::hardcore punk, d-beat
 
 ### Rainburn - thirty-seven
 
-tbd
+Aus einem Beinahe-Tod auf See wird ein Album: Nachdem *Vats Iyengar*, Sänger der Progressive-Rock-Band *Rainburn* aus Bangalore, eine lebensbedrohliche Situation überlebt hatte, in der er auf See gestrandet war, hat er das Erlebte in *thirty-seven* verwandelt, das dritte Album der Band, nach dem Debüt *Insignify* (November 2018) und *Vignettes* (November 2023) und der EP *Resignify* (2019); ihre Debüt-EP *Canvas of Silence* wurde 2015 als eines der besten Prog-Alben des Jahres genannt. Auf neun zusammenhängenden Stücken geht es um Glauben, die vermeintliche Überlegenheit des Menschen über die Natur, Liebe und Sterblichkeit. Der Sound öffnet sich dafür mit industriellen Rhythmen, elektronischen Texturen und schlichter Akustikgitarre: Das Industrielle steht für menschliche Erfindungen und technischen Fortschritt, die ungeschützt klingende Akustikgitarre für die Natur. Zu den Themen gehört auch, wie schnell man sich hilflos fühlt, sobald man nur ein Stück über das Vertraute hinausgeht. Das Album ist dafür gedacht, am Stück und ohne Pause gehört zu werden. Konzept, Musik und Texte stammen von *Iyengar* (Gesang, E-Gitarren, Bass, Synthesizer, Sampling), dazu kommen *Neilroy Miranda* (Schlagzeug, Hintergrundgesang, Synthesizer, Sampling; er mischt auch) und *Saakallya Biswas* (Akustikgitarre, Hintergrundgesang, Leadgitarre auf *god*); produziert hat die Band selbst, aufgenommen wurde an der Octavium Music Academy, gemastert hat *Thomas Cassell* bei Sage Audio, das Artwork stammt von Visions in Blue Illustrations. Musikalisch ist das **Progressive Rock** mit **Progressive Metal**-Anteilen, mit Hard- und Melodic-Rock-Zügen. Neun Stücke in 37 Minuten: *capsize*, *god*, *desolation*, *defy*, *kings*, *you*, *confessions*, *nearer* und *hereafter*. Ein Album, das aus einer Katastrophe etwas Zusammenhängendes macht.
 
-::genre::
+::genre::prog rock, prog metal
+
+### Redwood - Slowlane Pt. 1
+
+Heavy Psychedelic und Stoner Rock aus Kalifornien, und zwar mit Benzin im Blut: *Redwood* legen mit *Slowlane Pt. 1* ein Album vor, das mit Titeln wie *Slowlane*, *Spark Plugs* und *Gasoline* um Autos und Landstraßen kreist und dazwischen in *Peace and War Pt. 1* und *Pt. 2* auch Krieg und Frieden verhandelt. Die Band nennt ihre Musik selbst „Heavy Psychedelic/Stoner Rock“: **Heavy Psychedelic**, **Stoner Rock** und **Desert Rock**. Sechs Stücke in gut 31 Minuten: *Slowlane*, *Peace and War Pt. 1*, *Peace and War Pt. 2*, *Sunset*, *Spark Plugs* und *Gasoline*, das längste ist *Sunset* mit gut siebeneinhalb Minuten. Zuvor erschienen *Hyperspace* (Mai 2026), *Time to Lose* (Januar 2026), *Cloud Colony* (Oktober 2025), *Sky Offering* (Februar 2025) und *Dry Rivers* (Juni 2024); Besetzung und Credits lagen mir nicht vor. Ein Album für lange Fahrten ohne Eile.
+
+::genre::heavy psych, stoner rock, desert rock
 
 ### Reverse Pathogen - Some Doors Are Ajar
 
-tbd
+Ein Album, das mit *Goodbye* beginnt, hat entweder Humor oder Mut: *Some Doors Are Ajar* von *Reverse Pathogen* ist das Projekt von *Clayton Lisy*, von dem Gitarre, Bass, Gesang, Musik, Texte und Produktion stammen. Für acht Stücke in gut 25 Minuten ist eine ganze Band dabei: *Victor Indrizzo* am Schlagzeug, *Jeff Babko* an den Keyboards, *Michelle Packman* mit Streichern und *Vincent Ciesielski* mit Bläsern; aufgenommen, gemischt und gemastert hat *Andrew Schwartz*, erschienen ist das Ganze bei *High & Mighty Entertainment*. Nach dem Opener gibt es *Long Time Coming Down*, *Perfection*, *Unmatched*, *The Watcher*, *Pam E Diaz*, *What Can I Say* und *The Shadows*. **Pop Rock**, mit Streichern und Bläsern reichlich ausgestattet. Die Türen stehen, wie der Titel sagt, einen Spalt offen.
 
-::genre::
+::genre::pop rock
 
 ### Sacroment - New Age Aggression
 
-tbd
+Aus Malta kommt das Debütalbum *New Age Aggression* von *Sacroment*, einer Band, die seit 2023 aktiv ist: acht Stücke in gut 32 Minuten Blastbeat-Riffs, wuchtiges Riffing und kräftige melodische Soli, gebaut für die Bühne und gemacht, um jede davon in ein Kriegsgebiet zu verwandeln. Als Referenzen gelten *Protector*, der frühe *Death* und *Kreator*. Sie stand in Europa auf der Bühne, auch in Frankreich und Bulgarien, und 2026 auf der Europatour von *Putrid Pile*. Die Musik schrieb *Liam Laus*, die Texte stammen von Laus und *Daniel Sammut*, erschienen ist das Album bei *Elevate Records* in Rom. Es geht vom Auftakt *Nightmare Abomination* über *Coerced Into False Existence*, *Mortuary Requiem*, das Titelstück, das nur 26 Sekunden lange Intro *Tortured Souls*, *Embalming the Decomposed* und *Congregation of Death* (dazu gibt es ein Video) bis zum Finale *Scythe of Obliteration*. **Death Metal** und **Thrash Metal**, ohne Gnade, aber mit einer kleinen Verschnaufpause.
 
-::genre::
+::genre::death metal, thrash metal
 
 ### Sankara - Soul Destruction
 
-tbd
+Sieben Jahre nach *Total Abolition of All Hierarchy* (Oktober 2019) meldet sich *Sankara* aus South Carolina mit *Soul Destruction* zurück. Hinter dem Projekt steht *Hateful Wind*, in den Credits steht schlicht „Everything“; zuvor erschienen 2019 außerdem *Total Liberation of the Human Race* (März) und eine Split mit *Serial Pisser* (Juni). Der Sound ist **Red/Anarchist Black Metal** mit anarchistischer und kommunistischer Ausrichtung, dazu **War Metal**- und **Raw Black Metal**-Züge sowie Death-Metal-Anteile. Neun Stücke in gut 30 Minuten: *Intro*, *Soul Destruction*, *Just a Corpse*, *Club to the Face*, *200g*, *Down to the Bone*, *Doorbell Camera*, *Nothing Left* und zum Schluss *Ending in Sorrow*.
 
-::genre::
+::genre::rabm, war metal, raw black metal
 
 ### Seidhr - Algolhorde
 
-tbd
+Zwei Planetensysteme, ein Krieg: Die Xaxxianer haben die primitiven Nexxianer jahrtausendelang versklavt, bis diese, besessen von einer geheimnisvollen interdimensionalen Pilzspezies aus der Hölle, geheimes Wissen erhalten und zur totalen, gewalttätigen Rache antreten, passend zu Halloween 2026, dem Veröffentlichungstag. So geht die Geschichte von *Algolhorde*, dem dritten Album von *Seidhr* nach *Wrath of the Hellbitch* (2023) und *Dracanthropy* (2025). Die Band kommt aus „hell, Michigan“ (so lautet die Ortsangabe): *S. Fukkbringer* sorgt für Saitensadismus und Geheul, *I. Kunthammer* ist „Kommander of the Hellskank“; geschrieben, gespielt, aufgenommen, gemischt und gemastert wurde alles von Seidhr selbst im Studio Numskull. Neun Stücke in knapp 32 Minuten: *Sinister Sporulation*, *Dominated by Xaxxians*, *Nekrophalanx*, der Titeltrack *Algolhorde*, *Violent Teknology*, *Hellspawn Deathmarch*, *Infinite Bloodshed*, *The Spektres Head* und *Xaxxian Genocide*. **Blackened Thrash Metal** mit **Death Metal**-Einschlag, Pilzsporen inklusive.
 
-::genre::
+::genre::blackened thrash metal, death metal
 
 ### Sentries - Disciples of Void and Fire
 
-tbd
+Vier Leute aus drei Ländern und ein erstes öffentliches Statement: *Sentries* versammeln Musiker aus Belgien, den Niederlanden und Norwegen und legen mit *Disciples of Void & Fire* ihr Debütalbum vor, erschienen bei *Amor Fati Productions*. Im Kern ist das **Black Metal**, schnell, mit **Melodic Black Metal**-Zügen, voll mit „wildem Hass“ und geheimnisvollen Klanglandschaften, mit ansteckenden Melodien und einer Schärfe wie eine Nadel; die sechs Stücke sind als verbundene Kapitel gedacht, die vom Alltag weg in dunkle, schroffe Klangwelten ziehen. Hinter den Initialen stecken *RH* (Gesang), *HC* (Gitarre, Bass), *DV* (Gitarre, Ambient) und *MDK* (Schlagzeug); Musik und Produktion kommen von *HC* und *DV*, die Schlagzeug-Arrangements von *MDK*, die Texte von *RH*. Aufgenommen wurde über Jahre verteilt: Gitarren und Bass im Juli und August 2023, Schlagzeug im Januar 2025 und Gesang im April 2026 in den Blackout Studios, Ambient zwischen Januar 2025 und März 2026; gemischt und gemastert hat *Déhà*. Den Chor singen *RH*, *HC*, *DV*, *Déhà*, *Isa Myling* und *Madicken de Vries*. Das Cover malte Scourge Art. Sechs Stücke in gut 41 Minuten: *Arise, Thou who Dwelleth in the Deep*, *Dying Stars and Skies Ablaze*, *Lacerations of Ages*, *Into the Dawn Beyond Mortality*, *Towards the Monolith of Grief* und *Sentries of Stone and Hatred*. Wer bei Titeln wie diesen noch die Stirn runzelt, ist im falschen Genre gelandet.
 
-::genre::
+::genre::black metal, melo black metal
 
 ### Shattered Sigh - Near Exquisite Lasting Anguish
 
-tbd
+Seit 2010 spielen *Shattered Sigh* aus Barcelona Doom und Melodic Death Metal, und nach *Through Dark Veils* (2022), *Distances* (2017) und der selbstbetitelten Veröffentlichung von 2011 kommt am 1. November *Near Exquisite Lasting Anguish*. Die Texte kreisen um Verzweiflung, Trauer und Vergänglichkeit, um Schuld und Reue, um den Verlust eines geliebten Menschen und um Albträume. Sieben Stücke, gut 46 Minuten, jedes zwischen gut fünf und knapp acht Minuten: *As my body swang at the gallows*, *Dysthymia in a mind forlorn*, *Ashes of mankind*, *Tha pain that echoed in vain*, *Missing what passed away*, *Eroded by time* und *The martyr's nightmare cross*. **Death Doom Metal** und **Melodic Death Metal**, langsam und schwer. Ein Album, dem man Zeit lassen sollte.
 
-::genre::
-
-### Shiroko Raccz - PLUHH
-
-tbd
-
-::genre::
+::genre::death doom metal, melo death metal
 
 ### SHORT FUSED - Rise Above All
 
-tbd
+Kurze Lunte, lange Stücke: *Short Fused* erscheinen bei *Awful Field Records*, dem DIY-Label aus Toulouse, mit sieben Stücken in knapp 24 Minuten: *Intro*, *Rise Above All*, *Thorn Within*, *Embers of Fate* (mit *No Self*), *Smoke and Mirrors*, *Scars of Tomorrow* und *Depleted Self* (mit *Kibosh*). Sortiert ist das als **Punk Rock**; mehr Hintergrund zur Band lag mir nicht vor. *Thorn Within* und *Scars of Tomorrow* brennen mit knapp fünf und fast fünfeinhalb Minuten länger, als der Bandname verspricht.
 
-::genre::
+::genre::punk rock
 
 ### Shower Thoughts - love from...
 
-tbd
+Die EP *Love Hate and Sex* war im Januar 2026 nach gut 16 Minuten durch, das Album braucht mehr als 71: *Shower Thoughts*, das Duo aus Maidstone mit *Joe Wood* und *Kit Cranston*, legt mit *love from...* gleich 14 Stücke vor, geschrieben von Wood und Cranston. Auf *Lovebug* folgen *A Conversation*, *Then There Was One*, *I Dissociate to Forget*, *Her White Feathers*, *Dreams*, *Chronophobia*, *Then Time Passed*, *Peace Is Great (And All Great Things Must Come to an End Eventually)*, *An Argument*, *Homesick of Her*, *A Means to an End*, *Emptiness* und zum Schluss das knapp elfminütige *Elephant Man*. **Progressive Rock** in Überlänge.
 
-::genre::
-
-### SketchTurner - They Came From Planet X
-
-tbd
-
-::genre::
+::genre::prog rock
 
 ### Solitary Sanity - Genesis of Despotism
 
-tbd
+Zwei Leute, zwei Hemisphären, ein Album: *Solitary Sanity* nennen sich eine „internationale Band, die zwischen den Halbkugeln arbeitet“, hinter dem Namen stehen *Em.* (alle Gitarren, Bass und Schlagzeug) und *D.K. Blackwater* (Gesang), als Ort ist Pennsylvania angegeben. *Genesis of Despotism* erschien am 5. November und ist **Brutal Death Metal** mit **Technical Death Metal**-Ausflügen. In den Texten geht es um Angst und Verzweiflung, Krieg und Gewalt, autoritäre Kontrolle und Verfolgung, kosmischen Horror samt Alien-Invasion und die Frage nach Sterblichkeit und Sinn. *Andromeda* gab es schon im Januar 2026 vorab, davor erschienen unter anderem *The Forgotten Ones* (2021), das selbstbetitelte *Solitary Sanity* (2021) und *Embers* (2025). Zehn Stücke in gut 42 Minuten: *Torn Open*, *Cursed by Miscreants*, *The Human Disease*, *Humanities Drought*, *Static*, *Andromeda*, *The Void*, *Descent*, *Tapestry* und *Guarantee*. Ein Label und weitere Credits lagen mir nicht vor.
 
-::genre::
+::genre::brutal death metal, tech death metal
 
 ### STACKS - NOISE MACHINE
 
-tbd
+„Folk-ish, electronic-ish, rock-ish“: So beschreibt sich *STACKS* aus Toronto selbst, und mehr Schubladen braucht es nicht, um die Mischung zu fassen. Die Besetzung: *Carolina Lopez*, *Samuel Laramee*, *Bjorn Kriel* und *Ambrose Veno*. *NOISE MACHINE* ist bislang die einzige Veröffentlichung der Band, elf Stücke in knapp 50 Minuten: *Noise Machine*, *Again*, *The Mouth*, *Door Song*, *Orange Marmalade*, *Junebugs*, *If I'm Waiting*, *Centre*, *fourwords*, *Fool Moon* und das 38 Sekunden kurze *STACKS*. In den Texten geht es um Liebe und Sehnsucht, Verlust und Abschied, Begehren, nächtliche Träume und Erinnerungen, Selbstzweifel und die vergehende Zeit, mit Bildern wie Haus, Traummeer und Mond. Musikalisch mischen sich **Alternative Rock**, **Folktronica** und **Dreampop**. Der Mond kommt nicht nur in den Texten vor: Das längste Stück heißt *Fool Moon*.
 
-::genre::
+::genre::alt rock, folktronica, dreampop
 
 ### Street Breed - Instinct
 
-tbd
+Zehn Stücke, knapp 38 Minuten und ein Plattenspieler im Line-up: *Street Breed* haben *Instinct* bei *NitroX* herausgebracht. Die Besetzung: *JJ Bautista* (Gesang, Texte), *Michael Palacios* (Schlagzeug), *Matt Martinez* (Bass, Mix, Co-Executive-Producer), *Jorge Cavazos* (Gitarre, Texte) und *Noel Guzman* (Turntables, Executive Producer, außerdem Aufnahme, Mix und Mastering). Vorab erschien *Tremors* als Single, dazu kommen *Threat Signal*, *Chieftain*, *Germ*, *Pulsing Wave*, *Statik*, *Acidic*, *Neptune*, *Apogee (Furthest Angel)* und *Primate*. Das ist **Nu Metal**, und mit Turntable im Line-up kratzt es wenigstens an den richtigen Stellen.
 
-::genre::
+::genre::nu metal
 
-### Tempest Veins - The Words We Swallow
+### Surgent - Sin Eater
 
-tbd
+Der Vorgänger von *Surgent* wurde zum estnischen Metal-Album des Jahres 2023 gekürt, jetzt legt die Band aus Tallinn nach: *Sin Eater* erschien am 5. November in Eigenregie, ist ihr zweites Album und das erste mit Sänger *Mathias-Erik Tempel* und Schlagzeuger *Simo Atso*. Es ist noch immer schwer, komplex und fordernd, aber fokussierter und geschlossener als das selbstbetitelte Debüt von 2022, und die Band biegt dazwischen scharf ab: *Ruthless Logics* ist ein zweiminütiger Grind-Angriff, *Death Drive* wechselt von Blastbeats zu fusionartigen Passagen, dazu kommen polyrhythmische Grooves im Geist von *Meshuggah*. Das ist **Progressive Death Metal** und **Modern Metal**. Besetzt ist die Band mit Tempel, *Jaan Varts* (Gitarre), *Jüri Tarkpea* (Bass) und Atso; die Musik schrieb und produzierte die Band selbst, die meisten Texte stammen von *Endrik Salak*, nur *Ruthless Logics* und *Death Drive* schrieben Varts, Salak und Tempel gemeinsam, *Egodystonic* Tempel allein. Aufgenommen und gemischt hat Varts im Sound Fortress Studio, die Drums haben *Alar Õunas* und *Keijo Koppel* geschnitten, gemastert haben *Sofia von Hage* und *Thomas Eberger* in Stockholm. Die Coverillustration stammt von *Regina-Mareta Soonsein*, das Artwork von Tarkpea. Neun Stücke in gut 33 Minuten: *Sin Eater*, *Pseudomnesia*, *Ruthless Logics*, *Enorcist*, *The Ritual II*, *Dismantle / Replace*, *Death Drive*, *Egodystonic* und *The Ultraworld*.
 
-::genre::
+::genre::prog death metal, modern metal
 
 ### Teonanácatl - Mycelium
 
-tbd
+Unter der Erde hängt alles zusammen, bevor es an der Oberfläche blüht: Das Myzel ist das Bild, das die mexikanische Band *Teonanácatl* ihrem Album gibt, als Metapher für ein Netz, an dem sich die Menschheit ein Beispiel nehmen sollte. Die 2023 in Mexiko-Stadt gegründete Prog-Band verbindet auf *Mycelium* ihre historischen Wurzeln mit heutigen Einflüssen, greift soziale, persönliche und philosophische Themen auf und mischt Rhythmen ein, die ihr die Peripherie der Stadt zugetragen hat. Es spielen *Evan Linares* (Gitarre), *Angel David Trejo* (Schlagzeug), *Baruch Hernandez* (Keyboards, Orgel, Synthesizer) und *Israel Mejia* (Bass), dazu als Gäste *Adalid Navarro* (Congas, Percussion), *Carlos Greco* und *Enrique Muñoz* (Saxofon, Muñoz außer bei *Tloque Nahuaque*), *Corinne Herrera* (Gesang bei *Tloque Nahuaque*), *Roy Cabrera* (Gesang bei *Buscando una razón*) und *Oscar Volado* mit einem Gedicht in *Misterios*. Das erste Stück, *¿A dónde fueron las mariposas?*, ist dem Aktivisten *Homero Gómez González* zum Gedenken gewidmet, *Buscando una razón* erinnert an die Ereignisse vom 2. Oktober 1968 in Tlatelolco, *Tloque Nahuaque* an die Nahua-Philosophie. Aufgenommen wurde zwischen April und Juni 2026 in Mexiko-Stadt, im Coyote Cosmic Studio (*Aldo Pacheco* und *Diego Pacheco*) und bei Rec-On (*Jorge Trejo*, auch Mix und Mastering). Sechs Stücke in gut 52 Minuten: *¿A dónde fueron las mariposas?*, *Buscando una razón*, die Reprise des ersten Stücks, *Tloque Nahuaque*, *Misterios* und als fast 14-minütiger Abschluss *Materia Eteria*. **Progressive Rock** mit **Jazz Fusion**-Einschlag und **Psychedelic Rock**, ein Album, das unter der Oberfläche vernetzt ist.
 
-::genre::
+::genre::prog rock, jazz fusion, psych rock
+
+### The Church - Lacuna
+
+„Ein von Liebe erfüllter Koloss“ – so nennt *Steve Kilbey* *Lacuna*, das 28. Album von *The Church* aus Sydney, auf das er „immens stolz“ ist; es fasse „fast alles Gute zusammen, was ich je mit dieser Band versucht habe“. Der Koloss misst 17 Stücke und rund 80 Minuten und ist bei *Cooking Vinyl* erschienen, als Nachfolger von *Eros Zeta and the Perfumed Guitars* (2024). Aufgenommen wurde im Mai 2024 in Austin, Texas, was man *Western* deutlich anhört, gemischt hat *Darrell Thorp*. Musikalisch ist das **Dreampop**, **Neo Psychedelic Rock** und **Post Punk**, mit viel Raum für Atmosphäre: Mehrere Stücke münden in geduldige, jammige Finales, die Gitarren schichten sich zwischen Prog, Country und Klassik, und über allem steht Kilbeys dunkle, coole Stimme mit Zeilen wie „The shadow is part of the show“; mehrere Songtitel erinnern an Landschaftsformen, das Ganze klingt filmisch und langsam brennend. Als Band werden *Steve Kilbey*, *Timothy Powles*, *Ian Haug*, *Jeffrey Cain*, *Ashley Naylor* und *Nicholas Meredith* genannt. Siebzehn Stücke: *Lumbini Grove*, *Western*, *Ferrari*, *Sky River*, *Winter*, *Have You Been Here Before*, *The Lemurian*, *Everytime*, *Sky and Hill*, *Paladin*, *Martian Skyline*, *I Want It*, *The Place of Eternal Spring*, *Rapture*, *Forever*, *Lumbini Theme (Slight Return)* und *Sacred Echoes*, das mit gut neun Minuten das längste ist.
+
+::genre::dreampop, neo psych rock, post punk
 
 ### The Last Good Day In April - The Last Good Day In April
 
-tbd
+Ein Soloprojekt aus Stockholm, an dem nach eigener Auskunft ein paar Monate gearbeitet wurde, wobei vieles wieder herausgeschnitten wurde: Die Idee zum Album entstand im ersten Quartal des Jahres, jetzt erscheint es. Es geht, so die Beschreibung, lose um Isolation, den endlosen Kreislauf selbstzerstörerischen Verhaltens und kleine Lichtblicke von Hoffnung; die Deutung bleibt aber offen. Zwölf Stücke in über 85 Minuten: *The Moon Song*, *All Hallows Eve*, *Heachedel*, *Butterfly Effect*, *Sick and Famous*, *October Movies*, *Television*, *Rooting for Coldness*, das Titelstück *The Last Good Day in April*, *It's Not Winter Yet*, *Blow a Wish* und ein *untitled* zum Schluss, wobei *Heachedel*, *Blow a Wish* und *untitled* alle gut zehn Minuten oder mehr dauern. **Alternative Rock**, **Experimental Rock** und **Indietronica**. Ein langes Album, das sich Zeit lässt.
 
-::genre::
-
-### The White Sky - this is what you wanted, right?
-
-tbd
-
-::genre::
+::genre::alt rock, experimental rock, indietronica
 
 ### Theurgia - Detritvs
 
-tbd
+*Theurgia* sind ein venezolanischer Black-Metal-Act, der inzwischen in Kolumbien ansässig ist; *Daemonae* spielt alle Instrumente und singt, aufgenommen wurde in den 1771 Studios in Kolumbien, gemischt und gemastert im eigenen Heimstudio, das Artwork stammt von *Dennis Tovar*, erschienen ist *Detritvs* bei *Ascension Records* aus Mexiko. Sechs Stücke in gut 44 Minuten: *Ordo Ex Detritvs*, *Worms of Paradise*, *The World's Predator*, *Threshold of Existence*, *Mundane Exhibition of Misery* und *Descendiendo al Abismo Primigenio II*. **Blackened Death Metal** und **Blackened Doom Metal**, schwer, langsam und mit Würmern im Paradies.
 
-::genre::
+::genre::blackened death metal, blackened doom metal
 
 ### Thornskin - WHAT A BLOODY JOKE
 
-tbd
+Dreizehn Stücke in gut 23 Minuten, und neun davon sind kürzer als zwei Minuten: *WHAT A BLOODY JOKE* von *thornskin* ist ein Album der kurzen Wege. Produktion, Musik und Texte stammen von *Zachary Williams*. Die Titel: *you have no heart*, *just save it*, *i had a dream i thought i died*, *sadie's song*, *too far*, *this head of mine*, *appreciate u*, *like theres nothing*, das Interlude *worldofdogs*, *what a heavenly way to die*, *d.o.d*, *where your soul is (dopamine)* und zum Abschluss der Bonustrack *i like the way that it talks*. **Alternative Indie**; mehr Hintergrund lag mir nicht vor.
 
-::genre::
+::genre::alt indie
+
+### Torment - Torment Demo
+
+Vier Stücke in siebeneinhalb Minuten, gewidmet „den Anti-Panzer-Kriegsmeistern“: Das Demo von *Torment* erschien am 5. November als *DBNO 31* beim Kölner Label *DBNO Records* und verbindet **Death Metal** mit **Hardcore Punk**. Aufgenommen hat die Band selbst, gemischt und gemastert hat *Simon Amrhein*, das Artwork stammt von *lizard.king.777*, die Schrift von *Justus*, das Tape-Layout von *humanxdischarge*. Die Stücke: *Endless Hurt*, *Digital Siege Machine*, *Evil* und *Throw Ourselves Away (T.O.A.)*. Die Besetzung lag mir nicht vor.
+
+::genre::death metal, hardcore punk
 
 ### Trysh - True Crime
 
-tbd
+Wer die Titelliste von *True Crime* liest, fühlt sich eher in einem Krimi als auf einem Album: *Killer*, *Peeping Tom*, *Sleep Through It*, *Nights in Berlin*, *Pretty Little Witness*, *Seven Steps In*, *Mansion of the Night*, *Tessa Moonridge* und das Titelstück *True Crime (We'll Find You)*. Neun Stücke, gut 38 Minuten, erschienen bei *RABE Records*, eingeordnet als **Indie Pop** und **Indie Rock**. Mehr Hintergrund zu *Trysh* lag mir nicht vor, die Akte bleibt also vorerst offen.
 
-::genre::
+::genre::indie pop, indie rock
 
 ### Ukuelig - Fortidens essens
 
-tbd
+Vier Stücke, knapp 37 Minuten, davon allein 17 am Stück: *Ukuelig* ist ein Black-Metal-Soloprojekt aus Frankreich, 2026 von *Axel „Aksel“ Aubert* gegründet, und *Fortidens essens* ist bereits die fünfte Veröffentlichung seit der Gründung, nach *Ukuelig*, *Sivilisasjon utslettet*, *Kveldsmeditasjon* und *Isolierter Geist*. Aubert hat alles selbst geschrieben, produziert, aufgenommen, gemischt und gemastert. Los geht es mit dem 17-minütigen *Intoleranse*, dann folgen *Rop fra snøstormens hjerte* („Ruf aus dem Herzen des Schneesturms“), *Et nattlig landskap* („Eine nächtliche Landschaft“) und *Solipsism*. **Depressive Suicidal Black Metal** und **Black Metal**, dazu Lo-Fi-, Old-School- und misanthropische Züge.
 
-::genre::
-
-### Velipyr - True Misanthropy
-
-tbd
-
-::genre::
+::genre::dsbm, black metal
 
 ### Vermyapre - Memento Mori
 
-tbd
+Memento mori, bedenke, dass du sterben musst: Das Projekt *Vermyapre* aus Río Grande, Puerto Rico, das 2004 als *Devoro* und *Tempus Frangit* begann, nimmt den Titel ernst. Die jährliche Veröffentlichung des Projekts ist nach eigenen Worten auf ihren Höhepunkt geführt worden; danach kehre man zur Erde zurück, und was könnte schon folgen? Es sind *Mordb*, *Morkva*, *Purgatory* und *Nordwind* dabei, in den Credits als „shadowseer“, „lightning“, „after-lightning“ und „War Drums“ geführt. Die veröffentlichten Texte handeln von Sterblichkeit und vergeudetem Leben, von Selbsttäuschung und Taubheit, von unstillbarem Verlangen, von Reue und Trauer über ein nicht gelebtes Leben und von einem Frühling, der traurig zerfließt. Elf Stücke in knapp einer Stunde: *Memento Mori*, *Transient*, *The Pain Is the Truth*, *Beyond Pain (Transient pt II)*, *Prayer of the Famished*, *Regrets*, *Memoria pt I*, *згасати*, *Memoria pt II*, *April's Grief* und zum Abschluss *Farewell*. **Black Metal** mit **Ambient**- und **Noise**-Anteilen. Ein ernstes Album, das leise endet.
 
-::genre::
+::genre::black metal, ambient, noise
 
 ### Vuolas - Lahtemisen aani
 
-tbd
+Meandernder Prog, der der Logik eines Traums folgt, wie die Landschaft im Zugfenster: So beschreibt sich *Vuolas* aus Tampere, Finnland, selbst. *Lähtemisen ääni* („Der Klang des Weggehens“) folgt auf *Murtuma* (Februar 2024) und besteht aus vier langen Stücken, zusammen knapp 45 Minuten, jedes zwischen neun und dreizehn Minuten: *Digiuni*, *Hyöky*, *Kaupungin raja* („Stadtgrenze“) und *Hiljaisuuden pelko* („Angst vor der Stille“). **Progressive Rock** mit **Jazz Rock**-Einschlag, rein **Instrumental**. Der Fahrschein ist im Preis inbegriffen.
 
-::genre::
+::genre::prog rock, jazz rock, instrumental
 
 ### Wicked Trip - Modern Witchcraft
 
-tbd
+*Wicked Trip* aus Tennessee nennen ihren Sound selbst „Heavy Occult Doom“, und *Modern Witchcraft* ist das dritte Studioalbum. Auf den Beipackzettel schreibt die Band: „Eine Geschichte von Liebe? Lust? Oder allen Formen von Dreck!..?“ Gemeint sind toxische Romanze, Lust und Verrat, Drogenkonsum und Selbstzerstörung, Schuld und Reue, dazu okkulte Bilder wie Hexerei, Pentagramme und die Hexenstunde. Die Besetzung: *Sam Daniels* (Gitarre, Gesang, Keyboards), *Troy Walker* (Bass, Synthesizer) und *Draken Mayo* (Schlagzeug, bei *Modern Witchcraft* auch Gitarre), Samples von *Melanie Garcia* (*Veronica*, *Modern Witchcraft*, *The Expressionist*), gemischt und gemastert von *Luca Frizza*, Artwork von *ZZ Corpse*. Sieben Stücke in gut 33 Minuten: *The Loner*, *Veronica*, *Diary of a Drug Fiend: Sex Magick*, *Opium & Cheap Cocaine*, *Modern Witchcraft*, *The Expressionist* und *Dead Weight*. **Doom Metal** mit **Occult Rock**- und **Psychedelic Rock**-Zügen und Lo-Fi-Anstrich.
 
-::genre::
+::genre::doom metal, occult rock, psych rock
 
 ### Wolfshead - Revelatio Obscurum
 
-tbd
+Der Beipackzettel kommt auf Latein: Ein Dunkler Vater versammelt die Bruderschaft der infernalischen Wölfe und schickt vier Brüder in vier Himmelsrichtungen, den Bruder der Seufzer nach Westen, den der Tränen nach Osten, den der Finsternis nach Norden und den des Donners nach Süden, und am Ende steht der Satz, nicht von Dämonen falle das Menschengeschlecht, sondern weil es sich seine Dämonen selbst mache. Hinter der Bruderschaft stecken *Wolfshead* aus Oulu, Finnland, die ihren Stil als dunklen, riffgetriebenen Heavy/Doom Metal mit jahrzehntelanger Underground-Erfahrung beschreiben: *Jyrki Hakomäki* (Gesang, „frater suspiriorum“), *Ari Rajaniemi* (Gitarre, „frater lacrymarum“), *Vesa Karppinen* (Bass, Keyboards, „frater tenebrarum“) und *Rami Moilanen* (Schlagzeug, Percussion, Keyboards, „frater tonitruum“). Aufgenommen wurde 2025 und 2026 in Oulu (Anvil Road und Hiukkis) und Tornio (WaPi), produziert von der Band selbst, das Artwork stammt von *Pedro Ruotsalainen*. Davor erschienen *II: Ravings from the Gutter* (November 2025) und *Night Strutter* (Oktober 2025). Fünf Stücke in knapp 23 Minuten: *The Deliverer*, *Ecce Homo Economicus*, *The Wolf in Devil's Night*, *The Way of the Malefactor* und *Mordrake's Curse*. **Heavy Metal** und **Doom Metal**, die dunkle Offenbarung kommt kompakt.
 
-::genre::
+::genre::heavy metal, doom metal
 
 ### Zebra Island - Club Ghost
 
-tbd
+Fast zehn Jahre hat das zweite Album von *Zebra Island* gedauert, das Debüt *Saturnine* erschien 2013. Hinter der Band aus Tallinn stehen *Helina Risti* (Gesang), *Rasmus Lill* (Produktion, Musik, Texte) und *Ivar Mägi* (Gitarre). *Club Ghost* kam am 3. November beim Tallinner Indie-Label *Seksound* heraus, gemischt von *Martin Kikas* im Ö Studio in Tartu, gemastert von *Lauri Liivak*, das Artwork stammt von *Kaarel Vahtramäe*. Die Band beschreibt es als Reise im Grenzland zwischen Schatten und Licht, in dem Erscheinungen die Sinne lenken und die Zeit ihre Bedeutung verliert; Lill sagt, die Geister seien in die Songs gesteckt und in einer Disco versammelt worden, wo man mit ihnen tanzend Abschied nimmt. Vorab erschienen *Fool's Gold* (mit Video) und *Forever Far*. Zehn Stücke in gut 38 Minuten: *The Call*, *Always Now or Never*, *Forever Far*, *Whispers Me*, *Stay*, *Saviour*, *Fool's Gold*, *All I Ever Need*, *Choices* und *Solar*. **Dreampop** mit **Synth Pop**-Glanz und tanzbaren Rhythmen, getragen von leiser Melancholie. Die Release-Party steigt am 7. November in der IDA Bar in Tallinn.
 
-::genre::
+::genre::dreampop, synth pop
