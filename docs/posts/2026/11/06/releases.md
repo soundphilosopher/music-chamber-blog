@@ -1,7 +1,5 @@
 ---
 date: 2026-11-06
-pin: true
-bandcamp: true
 categories:
   - Releases
 ---
