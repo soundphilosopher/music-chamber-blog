@@ -167,8 +167,15 @@ the closing line be calm and let any lightness come from the music, not from the
 (vinyl, CD, cassette, digipak, colour editions) and don't name Bandcamp, Metal Kingdom,
 review sites or blogs in the prose ("laut …", "Bandcamp führt außerdem … als Tags") —
 fold the information in as plain fact instead. Thin-source caveats (press-only, no
-tracklist, guessed tag, unclear EP/LP) belong in the chat report; in the prose, at most a
-light "lag mir nicht vor". Labels, studios and the artists' own words stay.
+tracklist, guessed tag, unclear EP/LP) belong in the chat report only. Labels, studios and
+the artists' own words stay.
+
+**No gaps in the prose (from 2026-11-14 on):** never mention missing information in a
+review — no "mehr lag mir nicht vor", "die Besetzung lag mir nicht vor", "Credits sind
+nicht bekannt" or similar. It breaks the reading flow; a short review simply ends with what
+is known. Gaps and thin sources go into the batch report as before. When a release is thin,
+also search for interviews with the band/artist — they often carry the background a short
+review needs.
 
 ## Working alongside Carsten
 

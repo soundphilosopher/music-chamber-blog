@@ -850,6 +850,12 @@ Vierzig Jahre dabei und trotzdem noch nicht fertig: *Prong* legen mit ihrem selb
 
 ::genre::groove metal, hardcore punk, crossover thrash
 
+### Ragga Twins - Still Outstanding
+
+„Reggae Owes Me Money“ hieß 1991 das Debüt der *Ragga Twins*, und gut drei Jahrzehnte später ist die Schuld immer noch offen: *Still Outstanding* ist das erste Album der Pioniere aus Hackney seit *Rinsin Lyrics* vor 31 Jahren, erschienen bei *NICE UP! Records*, und sogar die Posen auf dem Cover zitieren das Debüt. Die Zwillinge kommen aus dem Soundsystem *Unity Sound*, haben mit *Shut Up And Dance* den Sprung zu Breakbeat, Hardcore, Rave und schließlich Jungle gemacht und seither mit *James Blake* und *Skrillex* gearbeitet. Komplett produziert hat *Dean Barratt*: vierzehn Stücke in knapp 45 Minuten zwischen **Dancehall**, **Jungle**, **Drum & Bass**, Hip-Hop, Dubstep und **Breakbeat**. Die Gästeliste liest sich wie ein Klassentreffen der UK-MCs: *RD* auf *Going In*, *Slimer* auf *It Ain't Easy*, *MC Spyde* auf *Hackney*, *Luciano* auf *Peace*, *Top Cat* und *Daddy Freddy* auf *Imitator*, *Gabisha* auf *Pimpin*, *Seanie T* auf *Woah Factor* und *Sweetie Irie* auf *Glad Day Tomorrow*. Dazu sind zwei verstorbene Weggefährten zu hören, *MC Fats* auf *We Are Junglists* und *Tenor Fly* auf *Armshouse*. *Too Much Madness* und *Fed Up* liefen schon vorab in den DJ-Taschen. Wenn *Reggae Owes Me Money* die Rechnung war, ist das hier die letzte Mahnung.
+
+::genre::jungle, dancehall, d&b, breakbeat
+
 ### Ramper - Dos Criaturas
 
 Zwei Stücke, 39 Minuten, und eins davon dauert allein fast eine halbe Stunde: *Ramper* aus Granada legen mit *Dos criaturas*, erschienen bei *Humo Internacional*, ein Album aus *Para cenar* (12 Minuten) und *Coro de la mañana* (gut 27 Minuten) vor, gewidmet „all den Menschen, die einmal über unseren Zaun gesprungen sind, und denen, die sich um uns gekümmert und sich haben kümmern lassen“. Besetzt ist die Band mit *Jose Alberto „Joserto“ López Rosales* (Schlagzeug, Percussion), *Antonio Martín Ruiz* (Bass, Synthesizer, Texte), *Ángel Oreste Rodríguez Romero* (E-Gitarre, Synthesizer, Klavier), *Álvaro Romero Sepúlveda* (Hauptgesang, Chor, E- und Akustikgitarre, Texte) und *Elvira Simancas Fernández* (Saxofon, Klarinette, Chor); produziert haben *Ramper* und *Raúl Pérez*, aufgenommen wurde in La mina von *Daniel Molina* und *Pérez* in Sitzungen im September 2024, Oktober 2025 und Juni 2026, gemischt von *Pérez*, gemastert von *Rafael Antón Irisarri*, das Artwork stammt von Tumulus Design. Musikalisch ist das **Doomgaze**, **Slowcore** und **Post Rock**, mit Anklängen an Progressive Rock, Doom Metal und Shoegaze. Zuvor erschienen *Solo postres* (September 2024) und *Solo postres en Teatros del Canal* (September 2025), *Sesiones Bravas* (Februar 2024), *Nuestros mejores deseos* (März 2020) und *El Hoyo* (Februar 2019). Ein Album für Menschen, die für den Morgen gern etwas mehr Zeit mitbringen.
@@ -873,6 +879,12 @@ Zwölf Songs über die Frage, wie wir uns durch andere Menschen verstehen: *Resa
 Acht Jahre nach dem Debüt wieder da, mit neuen Leuten und dem Willen zur Klassik: *Rhino Proof* aus Joensuu, 2016 gegründet, melden sich mit *Light, Dark, The End* zurück, dem Nachfolger ihres selbstbetitelten Debüts von 2018, das in Europa gut ankam und in Italien und Portugal Platz vier der Hard-Rock-Highlights-Listen belegte. Besetzt sind *Jukka Nummi* (Gesang), *Pasi Nousiainen* (Bass), *Erkko Joronen* und *Rane Riikonen* (Gitarre) und *Sami Ratilainen* (Schlagzeug); produziert haben *Riikonen* und *Joronen*, gemastert hat *Jone Väänänen*, und Besetzungswechsel haben das Album verzögert. Die Band hat bei *Astral Haven Records* unterschrieben. Musikalisch ist das klassisch inspirierter **Heavy Metal** mit **Hard Rock**-Wurzeln, mit hohem Gesang, Twin-Gitarren-Kraft und altem Schmutz, gemischt mit moderner Energie, im Geist von *Judas Priest*, *Accept* und *Dio*. Vorab erschienen *Deeper Form of Love* und *My Life Is Fine*; letzteres handelt laut *Riikonen* davon, die Kontrolle über das eigene Leben zu behalten, und ist eine „starke Antwort“ an jemanden, der zu nah kommen und das eigene Leben ändern will. Acht Stücke in gut 40 Minuten: *Play by the Rules*, *Deeper form of Love*, *Alone with my sin*, *Even Closer*, *My life is Fine*, *Strong Enough*, *Shadows in the Rain* und *Safe Cracker*.
 
 ::genre::heavy metal, hard rock
+
+### Royal Blood - Dead Company
+
+Zurück zum Riff: Fürs fünfte Album haben sich *Mike Kerr* (Gesang, Bass) und *Ben Thatcher* (Schlagzeug) von *Royal Blood* selbst produziert, ohne Deadline und ohne Ablenkung, und alles „with the stage in mind“ geschrieben. *Dead Company* erscheint bei *Warner Records* und ist das erste neue Material seit *Back To The Water Below* (2023): zehn Stücke in gut 32 Minuten, roh und viszeral, eine Rückkehr in Richtung des Debüts von 2014. Der Titelsong ist hektisch und landet im Spiel *EA Sports FC 27*, *Swallow The Bomb* kam vorab, *Ten Over Ten* stampft als Motörhead-Marsch und ist vom Marathontraining Kerrs inspiriert: „Everything or nothing / That's how I roll“. *Ride* ist das Herzstück, *Mother Never Told You* und *Tapping Out* setzen auf brachiale Riffs, *Take 'Em All* ist das kurze Luftholen, und *The Closer* greift zum Schluss die Atmosphäre des Vorgängers auf, dazwischen *Nowhere All Along* und *Rear View Mirror*. **Hard Rock** aus Brighton mit nur Bass und Schlagzeug, und trotzdem nie zu wenig.
+
+::genre::hard rock
 
 ### SatchVai - The Sea Of Emotion
 
@@ -1364,6 +1376,12 @@ Hammond-Orgel, E-Bow und Synthesizer, elf Stücke in gut 34 Minuten und Titel wi
 
 ::genre::prog rock, instrumental
 
+### Leem of Earth - See
+
+Eine Sehende und das Gesehene: *See* ist das neue Album von *Leem of Earth* aus Destin, Florida, einem Alternative-Dream-Rock-Quartett, das 2018 und 2019 mit einer Trilogie aus drei EPs zu je drei Songs begann; erschienen ist es wieder bei *Velvet Blue Music*. Es spielen *Gileah Taylor* (Klavier, Akustik- und E-Gitarre, Orgel, Gesang), *Ben May* (E-Gitarre), *Nick May* (Bass) und *Eric Taylor* (Schlagzeug, Programmierung, Keys), der auch produziert und aufgenommen hat; gemischt hat *Justin Abel*, gemastert *Eric Conn*, die Illustration stammt von *Jamin Still*. Erschienen am Mittwoch, dem 4. November: zehn Stücke in gut 33 Minuten, alle mit bestimmtem Artikel, von *The Prelude* über *The Old Child*, *The Cavern Dark*, *The Mission*, *The Sleepers Shall Rise*, *The Greatest Gift*, *The Friendly Monster*, *The Dream-Wise* und *The Healing* bis *The Seer And The Seen*. **Dreampop** und **Alternative Rock** mit märchenhafter Bildsprache. Das freundliche Monster darf bleiben.
+
+::genre::dreampop, alt rock
+
 ### Lucerne Hammer - Spell of Rain
 
 „Anti-Fascist Black Metal“, dazu die Aufforderung „Eat The Rich, Fuck The Bastards, Death To Fascists“ und Solidarität für Palästina, den Sudan, den Libanon und den Kongo: *Lucerne Hammer*, das Projekt von *theironmountain* aus Ontario, macht keinen Hehl aus seiner Haltung, und *Spell of Rain* ist nach *Lucerne Hammer* (März 2025) und *Vermilion Pyre* (September 2025) das neue Album, am 5. November erschienen. Das ist **Atmospheric Black Metal** der **Red/Anarchist Black Metal**-Art, mit einem Cover des Stücks *Frumenty* von *Erang* (*Tome Zero*, 2025). Alle Musik wurde von theironmountain geschrieben und aufgenommen; auf *Moonlit Woodland* ist ein Sample von *whatsername1.0* zu hören, das Cover zeigt *Nimbus, regnend* von *Richard Börnstein* (1852–1913). Gedankt wird *Maxime* für artistischen Rat, *Rob* für Produktionshilfe und den Unterstützern, und es heißt, das Album habe sich oft angefühlt, als gewinne es die Oberhand. Ein Label ist nicht genannt. Sieben Stücke in gut 37 Minuten: *Moonlit Woodland*, *Spell Of Rain*, *Sorcerer’s Lust*, *The Mountain King*, *Frumenty (Erang Cover)*, *Ash and Flame* und *Blacksmith’s Lament*.
@@ -1603,6 +1621,12 @@ Dreizehn Stücke in gut 23 Minuten, und neun davon sind kürzer als zwei Minuten
 Vier Stücke in siebeneinhalb Minuten, gewidmet „den Anti-Panzer-Kriegsmeistern“: Das Demo von *Torment* erschien am 5. November als *DBNO 31* beim Kölner Label *DBNO Records* und verbindet **Death Metal** mit **Hardcore Punk**. Aufgenommen hat die Band selbst, gemischt und gemastert hat *Simon Amrhein*, das Artwork stammt von *lizard.king.777*, die Schrift von *Justus*, das Tape-Layout von *humanxdischarge*. Die Stücke: *Endless Hurt*, *Digital Siege Machine*, *Evil* und *Throw Ourselves Away (T.O.A.)*. Die Besetzung lag mir nicht vor.
 
 ::genre::death metal, hardcore punk
+
+### Tortured Thought - Burn Ward
+
+Zwölf Stücke in knapp neun Minuten: Das Kassettendebüt von *Tortured Thought* aus Drogheda ist das jüngste Produkt vom scheinbar unaufhaltsamen Fließband des ebenso talentierten wie verdrehten *Bobby Cole* (*Total Con*, *The Apparition*, *Brutal Image*), aufgenommen von ihm selbst und gemastert von *Oli Wash*, erschienen bei *Bend Or Break* und *Factory Floor DIY*. *Defect*, *Opportunist*, *Bludgeon*, das Titelstück, *Vultures*, *Silence*, *Crawl*, *Shank*, *Indecision*, *Deceit*, *Die* und *Tortured Thought*, keins davon länger als gut eine Minute. Gestörter Fast-Hardcore im Stil der frühen 2010er-Jahre von *Youth Attack*: **Hardcore Punk** im Schnelldurchlauf. Wer blinzelt, hat die Hälfte verpasst.
+
+::genre::hardcore punk
 
 ### Trysh - True Crime
 
