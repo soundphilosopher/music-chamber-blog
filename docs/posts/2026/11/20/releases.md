@@ -366,6 +366,12 @@ Einst eines der bestgehüteten Hard-Rock-Geheimnisse Indiens, inzwischen mit aus
 
 ::genre::metalcore, djent, post hardcore
 
+### Greg Foat - Sàmi Love Call
+
+Eine Liebeserklärung an die Jahre im Norden: *Greg Foat*, einer der führenden britischen Jazzpianisten und Komponisten, der zuletzt für *Jazzman Records*, *Athens Of The North* und *Strut* zwischen Soul-Jazz, filmischen Kompositionen, pastoralem Acid Folk und elektronischen Klanglandschaften pendelte, legt mit *Sàmi Love Call* sein drittes Album für *Ameritz Music* vor, eine Hommage an seine Zeit in Skandinavien. Aufgenommen hat er in Göteborg, im selben Studio wie 2011 sein Album *Dark is the Sun*, mit *Ayo Salawu* (*Kokoroko*) am Schlagzeug, *Elie Ghersinu* (*L'Eclair*) am Bass, *Alex Burke* (*Forest Law*) an den Gitarren und dem E-Geigen-Virtuosen *Samy Bishai*. Zehn Stücke in gut 37 Minuten: *Sol och Sjö* (Sonne und See), *Forest Dance*, *The Lovers*, der Titelsong, die beiden kurzen *Drifting Clouds*, das siebenminütige *Symphony of the Lakes*, *Pytt i Panna*, der *Norrlands Guld Stomp* und *Halk' illan Ruskon Auerman*. Skandinavischer Folk, Bayou-Funk und **Spiritual Jazz** in einem tiefen Gemisch: **Nordic Folk** mit Groove. Ein Liebesruf über die Seen, mit E-Geige.
+
+::genre::spiritual jazz, nordic folk
+
 ### Grey Sky Bleed - Only Dust You Are
 
 Staub bist du, und zu Staub wirst du: Die vier Musiker von *Grey Sky Bleed* kennen sich seit den Neunzigern, gingen dann getrennte Wege durch Alternative Rock, Death Metal, Elektronik und sogar Schlager und kehren jetzt gemeinsam zum Heavy Metal zurück. Die Band aus Rautalampi in Finnland, 2022 gegründet, baut ihren Sound auf schweres Bandspiel, stilvolle Synthflächen und kraftvollen melodischen Gesang, mit Einflüssen aus der NWOBHM und dem Progressive Rock. *Jukka Ruostila* singt und spielt Synthesizer, *Heikki Kokko* Gitarre, *Antti Heikkilä* Bass, *Sami Romppainen* Schlagzeug, erschienen ist das Album bei *Art Gates Records*. Es geht um persönliche Probleme, innere Dämonen und gesellschaftliche Entwicklungen, nachdenklich in der Stimmung. Zehn Stücke in knapp 45 Minuten: Der melodische Opener *The Serpent With the Crown* gibt mit atmosphärischen Synths die Richtung vor, auf *Dust Thou Art* sind *Dyecrest* zu Gast, dann folgen *Godspeed* und *Burden of Dreams*, die Single *We Share The End* bekommt durch die Gaststimme von *Liisa Paakkunainen* eine ganz eigene Dynamik, *Voices in the Dark* und *Plague Mind* gehören zu den dunkleren Stücken, auf *Thoughts & Prayers* singt *Kärtsy Hatakka* mit, und am Ende stehen die Single *The Fortress* und *The Lie*. Melodischer **Heavy Metal** mit progressiven Passagen und viel Keyboard, schwer in eine Schublade zu stecken. Grauer Himmel, aber leuchtende Refrains.
@@ -444,6 +450,12 @@ Gabber- und Eurodance-Synths, Metal-Riffs, Flamenco, Reggae und Dad Rock auf ein
 
 ::genre::alt rock, pop punk, garage rock
 
+### Jordina Millà, Mats Gustafsson, Barry Guy - Poetics of Frø
+
+Im Zentrum steht die Pianistin *Jordina Millà*, die sich mit Präzision und Intuition durch ein reiches Feld aus Resonanz, Spannung und Zurückhaltung bewegt, an ihrer Seite die Improvisationsveteranen *Barry Guy* am Kontrabass und *Mats Gustafsson* an Baritonsaxofon, Slide-Flöte, Fluteophone und Mundharmonika. *Poetics of Frø* wurde am 18. Januar 2024 im L'Auditori de Barcelona von *Ferran Conangla* aufgenommen, der auch in seinen FCM Studios gemischt und gemastert hat; die Liner Notes schrieb *Carlos Pérez Cruz*, erschienen bei *Relative Pitch Records*. Sechs Teile in gut 54 Minuten, *Poetics of Frø A* bis *F*, das Herzstück *B* allein über 23 Minuten. Obwohl die drei Stimmen sofort wiederzuerkennen sind, drängen sie über Gewohnheit und Selbstzitat hinaus, zwischen Provokation und Ruhe, ohne je den Moment zu erzwingen. **Avant Jazz** und **Free Jazz** als kollektive **Improvisation**, rastlos, offen und zutiefst gemeinsam. Ein Samenkorn, das in Barcelona aufgeht.
+
+::genre::avant jazz, free jazz, improvisation
+
 ### Jupiter Cyclops - One Eye Opens
 
 Ein Fuß tief im Proto-Metal der Siebziger, der andere tritt NWOBHM-Sounds aus einer heißen Teergrube: So beschreibt sich das Quartett *Jupiter Cyclops* aus Phoenix, Arizona. *One Eye Opens* hat neun Stücke in knapp 38 Minuten: *Prelude*, *Who Are They Foolin'*, *Snakes*, *Roll On Slow*, *The Way It Was*, *High Level Devil*, *Heavy Phase*, das fast achtminütige *The Initiates* und der Titeltrack. **Hard Rock** und klassischer **Heavy Metal** im Geist der **New Wave of Traditional Heavy Metal**. Ein Auge auf, und das reicht völlig.
@@ -504,6 +516,12 @@ Aus der tiefen, dunklen Eifel: *LIZZORD*, 2022 in Prüm von vier Freunden gegrü
 
 ::genre::indie rock, indie pop
 
+### Mike Pride, Jack Wright - Trampoline
+
+Nichts hier ist vorher geplant, man hört sie zuhören, nachjustieren und gelegentlich zusammenstoßen: *Trampoline* ist die erste Duo-Aufnahme der langjährigen Weggefährten *Mike Pride* und *Jack Wright*. Wright spielt Alt- und Sopransaxofon und schreit in Multiphonics gegen Prides Schlagzeug an, das ohne Vorwarnung von gebürstetem Getrappel zu Ausbrüchen am ganzen Kit wechselt. Aufgenommen im Juli 2024, produziert, gemischt und gemastert von Pride im sFarming Studio in Goshen, New York, auch das Gemälde und die Fotos auf dem Cover (*Trampolines*, 2026) stammen von ihm, erschienen bei *Relative Pitch Records*. Drei lange Stücke in knapp 61 Minuten: das 26-minütige *Sideways*, *Down and Up* und *No Ways*. Im Zentrum liegt eine seltsame Ruhe, selbst wenn es laut wird, wie zwei Menschen, die sich genug vertrauen, um sich gemeinsam zu verlieren. **Free Jazz** als Saxofon-Schlagzeug-Duo, reine **Improvisation**. Hoch, runter, seitwärts, und immer weich gelandet.
+
+::genre::free jazz, improvisation
+
 ### Miško Boba - Paneriai
 
 Black Metal auf Litauisch: *Miško Boba*, ein britisch-litauisches Projekt aus Harrogate, gegründet 2024, legt nach der EP *Gedulas Ir Viltis* (2024) *Paneriai* vor. *Leviathan*, der auch das Label Written In Torment betreibt, hat alle Instrumente eingespielt, komponiert, gemischt und gemastert, *Kanopa* schrieb die Texte und singt. Sechs Stücke in knapp 35 Minuten: *Žiema Paskutinė*, *Šimtas*, *Giltinės Numarinti*, der Titeltrack, *Gabija Švies* und *Malda Gelmėms*. Rauer, direkter **Black Metal** mit litauischer Seele, ernst und ohne Umschweife.
@@ -533,6 +551,12 @@ Lastwagen aus Mordor, unterwegs in Südbrasilien: Das Trio *Mordor Truckers* aus
 Death Metal aus Bordeaux, der „Stadt des Todes“: *MORTUAIRE*, das sind *Heddy Omer* (Gesang), *Benjamin Sablon* (Schlagzeug), *Xavier Godart* (Bass) und die Gitarristen *Shiran Kaidine* und *Stéphane Miollan*, der das Album im Mai 2025 im LocalOfWar aufgenommen und gemischt hat; gemastert hat *Ben Jones*, das Cover stammt von *Thösz*. *FLÉAU DU COSMOS* („Geißel des Kosmos“) hat sechs Stücke in gut 42 Minuten, alle auf Französisch und mit Weltraum-Tyrannen: *Griffes et Poison*, *Pillard*, das neunminütige *Au-delà des Ombres*, der Titeltrack, *Tyran des Galaxies* und *La Conquête du Chaos*. **Old School Death Metal** mit HM-2-Säge und **Death Doom**-Schleppern. Das Chaos wird erobert, galaktisch.
 
 ::genre::osdm, death doom metal
+
+### Nate Wooley, Seymour Wright - About Saxophone and Trumpet
+
+Über ein Jahrzehnt nach *About Trumpet and Saxophone* (2013) drehen sie den Titel einfach um: Trompeter *Nate Wooley* und Altsaxofonist *Seymour Wright* kehren mit *About Saxophone and Trumpet* zu ihren Duo-Improvisationen zurück. Ging es damals um die rohe körperliche Überschneidung ihrer Instrumente, um Wind, Atem und die Ränder des Tons, treiben sie diesen Dialog auf engstem Raum jetzt weiter, getragen von der gemeinsamen Geschichte zweier der genauesten Zuhörer der improvisierten Musik. Aufgenommen am 10. und 11. Juni 2025 in den XTudios in London, gemischt und gemastert von *Billy Steiger*, erschienen bei *Relative Pitch Records*. Vier Stücke in gut 52 Minuten: *Midnight Sun* von *Lionel Hampton*, spontan von den beiden arrangiert, das 21-minütige *Experiment Four*, *Idea III* und *Untitled*. **Avant Jazz** aus Blech und Atem, freie **Improvisation** zu zweit. Erst Trompete und Saxofon, jetzt Saxofon und Trompete, beim nächsten Mal vielleicht beides gleichzeitig.
+
+::genre::avant jazz, improvisation
 
 ### Nicole Mitchell, Joe Westerlund - Written in the Universe *
 
